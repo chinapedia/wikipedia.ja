@@ -57,7 +57,7 @@
 
   - [マ～クII](../Page/ガンダムMk-II.md "wikilink")
   - [ゼ～タ](../Page/Ζガンダム.md "wikilink")
-  - [ダブルゼ～タ](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+  - [ダブルゼ～タ](../Page/ΖΖガンダム.md "wikilink")
 
 <!-- end list -->
 

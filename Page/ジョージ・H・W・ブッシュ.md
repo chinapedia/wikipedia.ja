@@ -135,7 +135,7 @@
 
 #### 対日
 
-対日関係ではアメリカ国内の[双子の赤字](../Page/双子の赤字.md "wikilink")解消問題と日本の[バブル経済](../Page/バブル経済.md "wikilink")を背景に、[日米構造協議](https://ja.wikipedia.org/wiki/日米構造協議 "wikilink")において多くの[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")議員の[票田](https://ja.wikipedia.org/wiki/票田 "wikilink")である[農作物](https://ja.wikipedia.org/wiki/農作物 "wikilink")とりわけコメ、牛肉などの輸入自由化を求める一方で、日本経済の柱となる[自動車産業](../Page/自動車産業.md "wikilink")の対米輸出を大幅に規制させるなど、日本に対してアメリカ合衆国大統領としては異例といえる[保護貿易](../Page/保護貿易.md "wikilink")主義を取った。
+対日関係ではアメリカ国内の[双子の赤字](../Page/双子の赤字.md "wikilink")解消問題と日本の[バブル経済](../Page/バブル経済.md "wikilink")を背景に、[日米構造協議](https://ja.wikipedia.org/wiki/日米構造協議 "wikilink")において多くの[自民党](https://ja.wikipedia.org/wiki/自民党 "wikilink")議員の[票田](https://ja.wikipedia.org/wiki/票田 "wikilink")である[農作物](../Page/農作物.md "wikilink")とりわけコメ、牛肉などの輸入自由化を求める一方で、日本経済の柱となる[自動車産業](../Page/自動車産業.md "wikilink")の対米輸出を大幅に規制させるなど、日本に対してアメリカ合衆国大統領としては異例といえる[保護貿易](../Page/保護貿易.md "wikilink")主義を取った。
 
 [ジャパンバッシング](../Page/ジャパンバッシング.md "wikilink")なる言葉が流行するほどに問題化し、日本国内の左派だけでなく各種族議員を中心とする保守派議員等からも激しい反発が起きた。この件がきっかけとなり後に[年次改革要望書](https://ja.wikipedia.org/wiki/年次改革要望書 "wikilink")が作成される事になる。なお1989年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には、[昭和天皇](../Page/昭和天皇.md "wikilink")の葬儀「[大喪の礼](https://ja.wikipedia.org/wiki/大喪の礼 "wikilink")」に出席した。
 

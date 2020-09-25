@@ -806,16 +806,21 @@ PDFは画面で見るには、[ユーザビリティ](../Page/ユーザビリテ
 
 ## 脚注
 
+<https://sohbet.page> Bedava sohbet odalari
+
 ### 注釈
 
 ### 出典
 
+<http://www.sohbet.ltd> sohbet odaları mobil sohbet siteleri
+
 ## 外部リンク
 
-  - [ดูหนังออนไลน์](https://037moviefree.com/) 仕様書 [PDF Reference and Adobe Extensions to the PDF Specification](https://www.adobe.com/devnet/pdf/pdf_reference.html) - Adobe Developer Connection
+  - 仕様書 [PDF Reference and Adobe Extensions to the PDF Specification](https://www.adobe.com/devnet/pdf/pdf_reference.html) - Adobe Developer Connection
   - 過去の仕様書アーカイブ [Adobe PDF Reference Archives](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html) - Adobe Developer Connection
   - [Adobe PDFとは？](https://acrobat.adobe.com/jp/ja/acrobat/about-adobe-pdf.html) - [アドビシステムズ](../Page/アドビシステムズ.md "wikilink")
   - [Adobe Sign、電子サイン、旧EchoSign](https://acrobat.adobe.com/jp/ja/sign.html)（PDF署名） -
+  - <http://www.sohbet.link> Mobil sohbet siteleri bedava sohbet chat.
 
 [Category:PDF](https://ja.wikipedia.org/wiki/Category:PDF "wikilink") [Category:アドビシステムズ](https://ja.wikipedia.org/wiki/Category:アドビシステムズ "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink") [Category:ベクターグラフィックス](https://ja.wikipedia.org/wiki/Category:ベクターグラフィックス "wikilink") [Category:ページ記述言語](https://ja.wikipedia.org/wiki/Category:ページ記述言語 "wikilink") [Category:電子書籍](https://ja.wikipedia.org/wiki/Category:電子書籍 "wikilink") [Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:文書作成](https://ja.wikipedia.org/wiki/Category:文書作成 "wikilink") [Category:ISO標準](https://ja.wikipedia.org/wiki/Category:ISO標準 "wikilink")
 

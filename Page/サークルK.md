@@ -31,7 +31,7 @@
 
 [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")でのみ、[後述のように赤い四角の中に白い楕円を抜き赤く](https://ja.wikipedia.org/wiki/#台湾 "wikilink")[OK](../Page/OK.md "wikilink")と書かれたロゴマーク（[OK_Taiwan.svg](https://ja.wikipedia.org/wiki/File:OK_Taiwan.svg "fig:OK_Taiwan.svg")）が使われている。他の中国語圏でも[後述のようにOKにちなんだブランドとして展開されている](https://ja.wikipedia.org/wiki/#アジア "wikilink")。
 
-このほか、かつて[橙](https://ja.wikipedia.org/wiki/橙色 "wikilink")、[赤](../Page/赤.md "wikilink")、[紫](../Page/紫.md "wikilink")のイメージカラーがかつて各国の店舗で採用されたが、これはザ・サークルK・コーポレーションが[テキサス州](../Page/テキサス州.md "wikilink")から[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")へ本社を移転した後につくられたもの\[12\]で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")アリゾナ州における夕刻の[夕日](https://ja.wikipedia.org/wiki/夕日 "wikilink")の[風景](https://ja.wikipedia.org/wiki/風景 "wikilink")（<span style="color:orange">■</span>橙=空、<span style="color:red">■</span>赤=山の端、<span style="color:purple">■</span>紫=大地）のイメージを表している\[13\]。このイメージカラーは各国での使用終了後も日本など一部の地域においては[撤退](../Page/撤退.md "wikilink")まで使用された。
+このほか、かつて[橙](https://ja.wikipedia.org/wiki/橙色 "wikilink")、[赤](../Page/赤.md "wikilink")、[紫](../Page/紫.md "wikilink")のイメージカラーがかつて各国の店舗で採用されたが、これはザ・サークルK・コーポレーションが[テキサス州](../Page/テキサス州.md "wikilink")から[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")へ本社を移転した後につくられたもの\[12\]で、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")アリゾナ州における夕刻の[夕日](https://ja.wikipedia.org/wiki/夕日 "wikilink")の[風景](https://ja.wikipedia.org/wiki/風景 "wikilink")（<span style="color:orange">■</span>橙=空、<span style="color:red">■</span>赤=山の端、<span style="color:purple">■</span>紫=大地）のイメージを表している\[13\]。このイメージカラーは各国での使用終了後も日本など一部の地域においては撤退まで使用された。
 
 [前述したガソリンスタンドの](https://ja.wikipedia.org/wiki/#概説 "wikilink")[スタトイル](https://ja.wikipedia.org/wiki/スタトイル "wikilink")の買収直後においてはKのマークの旗（[Circle_K_Logotype.png](https://ja.wikipedia.org/wiki/File:Circle_K_Logotype.png "fig:Circle_K_Logotype.png")）が3つ並べられていたが、[クー・クラックス・クラン](../Page/クー・クラックス・クラン.md "wikilink")を連想させるとして早期に変更されている\[14\]。
 
@@ -61,7 +61,7 @@
       - 9月 - 台湾ライセンシーのにより台湾へ出店を開始。
   - [1989年](../Page/1989年.md "wikilink")（昭和64年/平成元年）
       - [1月1日](../Page/1月1日.md "wikilink") - 株式の額面変更に伴い、（2代目）[サークルケイ・ジャパン](https://ja.wikipedia.org/wiki/サークルケイ・ジャパン "wikilink")株式会社（[1973年](../Page/1973年.md "wikilink")に設立された株式会社[第一製材](https://ja.wikipedia.org/wiki/第一製材 "wikilink")を、前年に改称していた）が（初代）サークルケイ・ジャパン株式会社を吸収合併し、日本ライセンシーの法人格が異動。
-      - 8月 - （2代目）サークルケイ・ジャパンが[綴喜郡](../Page/綴喜郡.md "wikilink")田辺町（現：[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")）に田辺店（現存せず）を開店し、[京都府](../Page/京都府.md "wikilink")への出店開始。
+      - 8月 - （2代目）サークルケイ・ジャパンが[綴喜郡](../Page/綴喜郡.md "wikilink")田辺町（現：[京田辺市](../Page/京田辺市.md "wikilink")）に田辺店（現存せず）を開店し、[京都府](../Page/京都府.md "wikilink")への出店開始。
       - 8月 - （2代目）サークルケイ・ジャパンが[福井市](../Page/福井市.md "wikilink")に日の出店（現存せず）を開店し、[福井県](../Page/福井県.md "wikilink")へ出店開始。
       - 9月 - （2代目）サークルケイ・ジャパンが[守口市](https://ja.wikipedia.org/wiki/守口市 "wikilink")に梶町四丁目店（現存せず）を開店し、[大阪府](../Page/大阪府.md "wikilink")への出店開始。
       - 10月 - 日本国内店舗にて[中部電力](../Page/中部電力.md "wikilink")・[東邦ガス](../Page/東邦ガス.md "wikilink")の料金収納代行業務の受託を開始。
@@ -169,7 +169,7 @@
 
 ### ヨーロッパ
 
-ヨーロッパにおいては他ブランドを買収して転換した店舗が多い。なお、ガソリンスタンドの[スタトイル](https://ja.wikipedia.org/wiki/スタトイル "wikilink")からの転換店舗については[前述のようにK](https://ja.wikipedia.org/wiki/#商標 "wikilink")（[Circle_K_Logotype.png](https://ja.wikipedia.org/wiki/File:Circle_K_Logotype.png "fig:Circle_K_Logotype.png")）が3つ並んだ旗が問題となり真ん中の旗が置き換えられている。
+ヨーロッパにおいては他ブランドを買収して転換した店舗が多い。なお、ガソリンスタンドの[スタトイル](https://ja.wikipedia.org/wiki/スタトイル "wikilink")からの転換店舗については[前述のように](https://ja.wikipedia.org/wiki/#商標 "wikilink")、転換直後にK（[Circle_K_Logotype.png](https://ja.wikipedia.org/wiki/File:Circle_K_Logotype.png "fig:Circle_K_Logotype.png")）が3つ並んだ旗が問題となり、中央の旗が燃料ブランド「miles」の旗に置き換えられている。
 
 #### アイルランド
 
@@ -320,7 +320,7 @@
   - 地下鉄金山店（名古屋市中区） - [地下鉄名城線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄名城線 "wikilink")・[名港線](https://ja.wikipedia.org/wiki/名古屋市営地下鉄名港線 "wikilink")[金山駅の地下](../Page/金山駅_\(愛知県\).md "wikilink")1階コンコースにある
   - ルーセントタワー店（名古屋市西区） - [ルーセントタワー地階に出店](../Page/名古屋ルーセントタワー.md "wikilink")。看板のロゴが金色（ファミリーマートに業態転換済み）。
   - 大津ひえい平店（[滋賀県](../Page/滋賀県.md "wikilink")[大津市](../Page/大津市.md "wikilink")） - [風致地区](../Page/風致地区.md "wikilink")にあるため、看板のロゴが焦げ茶色で、コーポレートカラー部分も窓の内側にあり目立たない
-  - 同志社女子大学店（[京都府](../Page/京都府.md "wikilink")[京田辺市](https://ja.wikipedia.org/wiki/京田辺市 "wikilink")） - [同志社女子大学](../Page/同志社女子大学.md "wikilink")京田辺キャンパス内
+  - 同志社女子大学店（[京都府](../Page/京都府.md "wikilink")[京田辺市](../Page/京田辺市.md "wikilink")） - [同志社女子大学](../Page/同志社女子大学.md "wikilink")京田辺キャンパス内
   - [近畿中央病院](https://ja.wikipedia.org/wiki/近畿中央病院 "wikilink")店（[兵庫県](../Page/兵庫県.md "wikilink")[伊丹市](../Page/伊丹市.md "wikilink")） - サークルKの病院内出店1号店\[82\]（ファミリーマートへ業態転換済み）
   - 東京競馬場イースト店（[東京都](../Page/東京都.md "wikilink")[府中市](../Page/府中市_\(東京都\).md "wikilink")） - 東京競馬場内、フジビュースタンド3階にあった。（合併前に閉店済み）
   - まっとう車遊館店（石川県[白山市](../Page/白山市.md "wikilink")） - [北陸自動車道](../Page/北陸自動車道.md "wikilink")[徳光パーキングエリア](../Page/徳光パーキングエリア.md "wikilink")そばに建つ商業施設内にあった。上下線のパーキングエリアと徒歩連絡でき、非高速道路利用者でも入店できた。2007年8月28日に撤退したことにより、独自の手書き券が幕を下ろす結果となった。その後「[ローソン](../Page/ローソン.md "wikilink")白山車遊館店」になるも、運営会社の倒産により、2019年8月末限りで完全閉鎖のため閉店している。（合併前に閉店済み）
@@ -420,9 +420,8 @@
   - [サンクス](https://ja.wikipedia.org/wiki/サンクス_\(コンビニエンスストア\) "wikilink") - 別々の起源をもつが、日本においてはサークルK撤退前において兄弟ブランドとなっていたコンビニエンスストア。
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink") - 日本におけるサークルK撤退時のブランド統合先。
   - [miniピアゴ](https://ja.wikipedia.org/wiki/miniピアゴ "wikilink") - 日本においてサークルK撤退前に同じユニーグループ内として兄弟ブランドであったコンビニエンスストア。こちらはミニスーパーという経営戦略で、サークルKとは差別化が図られていた。
-  - [ローソン](../Page/ローソン.md "wikilink") - コンビニエンスストア。米国においては*デイリーマート*をへて当ブランドに転換された。
-  - [東急田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink") – 同線を走る車両の前面に「K」と書かれた丸いシール（Ⓚ）を貼り付けた車両（[東武伊勢崎線](https://ja.wikipedia.org/wiki/東武伊勢崎線 "wikilink")・[日光線への乗り入れが不可能な車両](https://ja.wikipedia.org/wiki/東武日光線 "wikilink")）があり、通称が「サークルK」となっている。
-  - [Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink") - サークルKストアーズがスポンサーとなり「Circle K Power Cube」が導入された\[104\]。
+  - [ローソン](../Page/ローソン.md "wikilink") - コンビニエンスストア。米国においては*デイリーマート*を経て当ブランドに転換された。
+  - [Ingress](https://ja.wikipedia.org/wiki/Ingress "wikilink") - サークルKストアーズが一時期スポンサーとなり、アイテム「Circle-K パワーキューブ」が導入された\[104\]。提携終了後に同アイテムは「ハイパーキューブ」に変更されている。
 
 ## 脚注
 

@@ -7,12 +7,12 @@
 
   - **kg** - [質量](../Page/質量.md "wikilink")を表す「**[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink")**」の[単位](../Page/単位.md "wikilink")記号。
       -
-        KG、Kgと表記するのは誤りである。[キロ](../Page/キロ.md "wikilink")を参照のこと。
+        大文字KでKG、Kgと表記するのは誤りである。
 
 ## 正式名称等
 
-  - **KG** - 日本の男性アーティスト ⇒ **[KG (歌手)](https://ja.wikipedia.org/wiki/KG_\(歌手\) "wikilink")**
-  - **KG** - 格闘家、[朱里](https://ja.wikipedia.org/wiki/朱里 "wikilink")（近藤朱里）の[ハッスルでのリングネーム](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")。
+  - **KG** - 日本の[男性](../Page/男性.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")
+  - **KG** - [格闘家](https://ja.wikipedia.org/wiki/格闘家 "wikilink")、[朱里](https://ja.wikipedia.org/wiki/朱里 "wikilink")（近藤朱里）の[ハッスルでの](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")[リングネーム](../Page/リングネーム.md "wikilink")。
 
 ## 略称・略号
 

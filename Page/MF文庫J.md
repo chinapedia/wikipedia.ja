@@ -218,48 +218,54 @@
 <td><p>全5巻</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/今はまだ「幼馴染の妹」ですけど。" title="wikilink">今はまだ「幼馴染の妹」ですけど。</a></p></td>
+<td><p><a href="../Page/涼暮皐.md" title="wikilink">涼暮皐</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/あやみ" title="wikilink">あやみ</a></p></td>
+<td><p>既刊2巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/妹が魔女で困ってます。" title="wikilink">妹が{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/星家なこ" title="wikilink">星家なこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/なちゅらるとん" title="wikilink">なちゅらるとん</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/いもうとがかり" title="wikilink">いもうとがかり</a></p></td>
 <td><p><a href="../Page/月見草平.md" title="wikilink">月見草平</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/pun2" title="wikilink">pun2</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/インディフィニット・リンケージ" title="wikilink">インディフィニット・リンケージ</a></p></td>
 <td><p>刈野ミカタ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フルーツパンチ_(イラストレーター)" title="wikilink">フルーツパンチ</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/IS_〈インフィニット・ストラトス〉" title="wikilink">IS 〈インフィニット・ストラトス〉</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/弓弦イズル" title="wikilink">弓弦イズル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/okiura" title="wikilink">okiura</a></p></td>
 <td><p>全7巻（8巻からは<a href="https://ja.wikipedia.org/wiki/オーバーラップ_(企業)#オーバーラップ文庫" title="wikilink">オーバーラップ文庫にて刊行</a>）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/インポッシブル・ハイスクール" title="wikilink">インポッシブル・ハイスクール</a></p></td>
 <td><p>葛西伸哉</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/了藤誠仁" title="wikilink">了藤誠仁</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴァンキッシュ・オーバーロード" title="wikilink">ヴァンキッシュ・オーバーロード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柳実冬貴" title="wikilink">柳実冬貴</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/白味噌_(イラストレーター)" title="wikilink">白味噌</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/VAMP_on_the_DEADLINE" title="wikilink">VAMP on the DEADLINE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊上円" title="wikilink">伊上円</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/p19" title="wikilink">p19</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/うーさーのその日暮らし" title="wikilink">ウサギツキ双魔鏡</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/樋口司" title="wikilink">樋口司</a><br />
 <small>構成：<a href="../Page/杉井光.md" title="wikilink">杉井光</a><br />
@@ -267,182 +273,182 @@
 <td><p><a href="../Page/三輪士郎.md" title="wikilink">三輪士郎</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/「嘘」シリーズ.md" title="wikilink">「嘘」シリーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/清水マリコ" title="wikilink">清水マリコ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/toi8" title="wikilink">toi8</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/詠う少女の創楽譜" title="wikilink">詠う少女の創楽譜</a>（フルスコア）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/雨野智晴" title="wikilink">雨野智晴</a></p></td>
 <td><p><a href="../Page/たにはらなつき.md" title="wikilink">たにはらなつき</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/海賊王女の凱旋" title="wikilink">海の上いつも晴れ 海原の緑宝石号出航</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/坂東真紅郎" title="wikilink">坂東真紅郎</a><br />
 <small>原作：<a href="https://ja.wikipedia.org/wiki/高崎とおる" title="wikilink">高崎とおる</a></small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/D.K" title="wikilink">D.K</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/永劫回帰のリリィ・マテリア" title="wikilink">永劫回帰のリリィ・マテリア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三門鉄狼" title="wikilink">三門鉄狼</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パセリ_(イラストレーター)" title="wikilink">パセリ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エイルン・ラストコード_〜架空世界より戦場へ〜" title="wikilink">エイルン・ラストコード 〜架空世界より戦場へ〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東龍乃助" title="wikilink">東龍乃助</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みことあけみ" title="wikilink">みことあけみ</a></p></td>
 <td><p>全10巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エーテル/ギア" title="wikilink">エーテル//ギア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小山タケル" title="wikilink">小山タケル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シロウ" title="wikilink">シロウ</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/EX-PHAZER" title="wikilink">EX-PHAZER</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神代創" title="wikilink">神代創</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FiFS" title="wikilink">FiFS</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/逃奏劇リアクターズ" title="wikilink">{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/塀流通留" title="wikilink">塀流通留</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/をん" title="wikilink">をん</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Xの魔王" title="wikilink">{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊都工平" title="wikilink">伊都工平</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/万国あゆや" title="wikilink">万国あゆや</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/えむえむっ!.md" title="wikilink">えむえむっ!</a></p></td>
 <td><p>松野秋鳴</p></td>
 <td><p><a href="../Page/QP:flapper.md" title="wikilink">QP:flapper</a></p></td>
 <td><p>全12巻（内、8.5巻、9.5巻含む）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エンジェル・フェスタ!" title="wikilink">エンジェル・フェスタ!</a></p></td>
 <td><p><a href="../Page/鏡遊.md" title="wikilink">鏡遊</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川上哲也" title="wikilink">川上哲也</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ANGEL_MAGISTER" title="wikilink">ANGEL MAGISTER</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カワイ克己" title="wikilink">カワイ克己</a></p></td>
 <td><p><a href="../Page/兎塚エイジ.md" title="wikilink">兎塚エイジ</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オウガにズームUP!" title="wikilink">オウガにズームUP!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/穂史賀雅也" title="wikilink">穂史賀雅也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シコルスキー_(イラストレーター)" title="wikilink">シコルスキー</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/王国から来た少年" title="wikilink">王国から来た少年</a></p></td>
 <td><p>神野オキナ</p></td>
 <td><p><a href="../Page/まったくモー助.md" title="wikilink">まったくモー助</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オーバーイメージ" title="wikilink">オーバーイメージ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遊佐真弘" title="wikilink">遊佐真弘</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さんた茉莉" title="wikilink">さんた茉莉</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/教え子に脅迫されるのは犯罪ですか?" title="wikilink">教え子に脅迫されるのは犯罪ですか?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さがら総" title="wikilink">さがら総</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ももこ_(イラストレーター)" title="wikilink">ももこ</a></p></td>
 <td><p>既刊7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/落ちてきた龍王と滅びゆく魔女の国" title="wikilink">落ちてきた{{読み仮名</a></p></td>
 <td><p><a href="../Page/舞阪洸.md" title="wikilink">舞阪洸</a></p></td>
 <td><p>よう太</p></td>
 <td><p>全12巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オトコを見せてよ倉田くん!" title="wikilink">オトコを見せてよ倉田くん!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/斉藤真也_(作家)" title="wikilink">斉藤真也</a></p></td>
 <td><p><a href="../Page/フミオ.md" title="wikilink">フミオ</a></p></td>
 <td><p>全7巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/乙女革命アヤメの!" title="wikilink">乙女革命アヤメの!</a></p></td>
 <td><p><a href="../Page/志茂文彦.md" title="wikilink">志茂文彦</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/緋賀ゆかり" title="wikilink">緋賀ゆかり</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/お兄ちゃんだけど愛さえあれば関係ないよねっ" title="wikilink">お兄ちゃんだけど愛さえあれば関係ないよねっ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/鈴木大輔_(作家)" title="wikilink">鈴木大輔</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/閏月戈" title="wikilink">閏月戈</a></p></td>
 <td><p>全12巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/お願いだから、あと五分!" title="wikilink">お願いだから、あと五分!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/境京亮" title="wikilink">境京亮</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/きみしま青" title="wikilink">きみしま青</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/お前をお兄ちゃんにしてやろうか!?" title="wikilink">お前をお兄ちゃんにしてやろうか!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/すぎやまリュウ" title="wikilink">すぎやまリュウ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/kakao" title="wikilink">kakao</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/森羅万象を統べる者" title="wikilink">{{読み仮名</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/水月紗鳥" title="wikilink">水月紗鳥</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/有河サトル" title="wikilink">有河サトル</a></p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/泳ぎません。" title="wikilink">泳ぎません。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/比嘉智康" title="wikilink">比嘉智康</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/はましま薫夫" title="wikilink">はましま薫夫</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺が彼女に迫られて、妹が怒ってる?" title="wikilink">俺が彼女に迫られて、妹が怒ってる?</a></p></td>
 <td><p><a href="../Page/野島けんじ.md" title="wikilink">野島けんじ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/武藤此史" title="wikilink">武藤此史</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺が主人公じゃなかった頃の話をする" title="wikilink">俺が主人公じゃなかった頃の話をする</a></p></td>
 <td><p>二階堂紘嗣</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/館川まこ" title="wikilink">館川まこ</a></p></td>
 <td><p>全5巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おれと一乃のゲーム同好会活動日誌" title="wikilink">おれと一乃のゲーム同好会活動日誌</a></p></td>
 <td><p>葉村哲</p></td>
 <td><p>ほんたにかなえ</p></td>
 <td><p>全11巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺と魔物の異世界レストラン" title="wikilink">俺と魔物の異世界レストラン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/落合祐輔" title="wikilink">落合祐輔</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Syroh" title="wikilink">Syroh</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/俺は彼女の犬になる!" title="wikilink">俺は彼女の犬になる!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/淺沼広太" title="wikilink">淺沼広太</a></p></td>
 <td><p><a href="../Page/蜜桃まむ.md" title="wikilink">蜜桃まむ</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/女騎士さん、ジャスコ行こうよ" title="wikilink">女騎士さん、ジャスコ行こうよ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/伊藤ヒロ" title="wikilink">伊藤ヒロ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/霜月えいと" title="wikilink">霜月えいと</a></p></td>
@@ -632,7 +638,7 @@
 <tr class="odd">
 <td><p><a href="../Page/巌窟王_(テレビアニメ).md" title="wikilink">巌窟王</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神山修一" title="wikilink">神山修一</a><br />
-<small>企画原案：<a href="https://ja.wikipedia.org/wiki/前田真宏" title="wikilink">前田真宏</a>・GONZO<br />
+<small>企画原案：<a href="../Page/前田真宏_(アニメ監督).md" title="wikilink">前田真宏</a>・GONZO<br />
 原作：アレクサンドル・デュマ「モンテ・クリスト伯」</small></p></td>
 <td><p><a href="../Page/松原秀典.md" title="wikilink">松原秀典</a>他</p></td>
 <td><p>全3巻</p></td>
@@ -2773,9 +2779,9 @@ SS3巻</p></td>
 
 [2016年](../Page/2016年.md "wikilink")は場所を[恵比寿に変更し](../Page/恵比寿_\(渋谷区\).md "wikilink")、会場としては事前抽選制のライブ及びトークステージのみに使うなど、従来と大きく内容が変更されていた。
 
-[2017年](../Page/2017年.md "wikilink")は再び秋葉原に復帰し、内容もほぼ2016年以前に近い形になったが、会場は[ベルサール秋葉原](https://ja.wikipedia.org/wiki/ベルサール秋葉原 "wikilink")で開催は9月10日であった。なお、10月は[電撃文庫](../Page/電撃文庫.md "wikilink")と[ファンタジア文庫](https://ja.wikipedia.org/wiki/ファンタジア文庫 "wikilink")のイベントが同じ場所で行われるため、KADOKAWAのラノベイベントが2ヶ月連続で続くことになった。
+[2017年](../Page/2017年.md "wikilink")は再び秋葉原に復帰し、内容もほぼ2016年以前に近い形になったが、会場は[ベルサール秋葉原](https://ja.wikipedia.org/wiki/ベルサール秋葉原 "wikilink")で開催は9月10日であった。なお、10月は[電撃文庫](../Page/電撃文庫.md "wikilink")と[ファンタジア文庫](https://ja.wikipedia.org/wiki/ファンタジア文庫 "wikilink")のイベントが同じ場所で行われたため、KADOKAWAのラノベイベントが2ヶ月連続で続くことになった。
 
-[2018年](../Page/2018年.md "wikilink")からは、7月最後の日曜日に同場所で開催されている。
+[2018年](../Page/2018年.md "wikilink")と[2019年](../Page/2019年.md "wikilink")は、7月最後の日曜日に同場所で開催された。[2020年](../Page/2020年.md "wikilink")はKADOKAWAの他レーベルと合同で「KADOKAWA ライトノベルEXPO2020」が[ところざわサクラタウン](https://ja.wikipedia.org/wiki/ところざわサクラタウン "wikilink")で開催予定となっている。
 
 ## 脚注
 
@@ -2799,7 +2805,7 @@ SS3巻</p></td>
 
 1.  なお、メディアファクトリーは創刊当時は[リクルートの子会社](../Page/リクルートホールディングス.md "wikilink")「株式会社メディアファクトリー」であった。現在に至る経緯は[\#概要](https://ja.wikipedia.org/wiki/#概要 "wikilink")の節を参照の事。
 2.  株式会社メディアファクトリー時代は「**キミを撃ち抜くおもしろさ\!**」。
-3.  ただし、2012年に「[あの夏で待ってる](https://ja.wikipedia.org/wiki/あの夏で待ってる "wikilink")」や「[輪廻のラグランジェ](https://ja.wikipedia.org/wiki/輪廻のラグランジェ "wikilink")」が当レーベルで小説化するなど、完全に撤廃したわけではない。
+3.  ただしその後も2012年に「[輪廻のラグランジェ](https://ja.wikipedia.org/wiki/輪廻のラグランジェ "wikilink")」、2017年に「[ハンドシェイカー](https://ja.wikipedia.org/wiki/ハンドシェイカー "wikilink")」、2020年に「[ラピスリライツ](https://ja.wikipedia.org/wiki/ラピスリライツ "wikilink")」が当レーベルで小説化するなど、完全に撤廃したわけではない。
 4.  [MFJアペンドラインフェア！2014](http://www.bc.mediafactory.jp/bunkoj/appendline2014/)
 5.
 6.  読み方は[リンク先の](https://ja.wikipedia.org/wiki/勇者王ガオガイガー#各話リスト#補足編 "wikilink")"**''各話リスト\#補足編\#Number.38.2**''"を参照の事。元々**GGGフランス支部**を主舞台とした物語であり、主登場キャラクタの殆どが[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")に関係する。

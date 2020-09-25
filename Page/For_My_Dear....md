@@ -26,6 +26,8 @@
 1.  **For My Dear... "Original Mix"**
 2.  **For My Dear... "Acoustic Version"**
 3.  **[A Song for ××](../Page/A_Song_for_××.md "wikilink") "she shell REPRODUCTION"**
+      -
+        Remixed by [She-Shell](../Page/She-Shell.md "wikilink")
 4.  **[FRIEND II](../Page/A_Song_for_××.md "wikilink") "JAZZY JET MIX"**
 5.  **[As if...](../Page/A_Song_for_××.md "wikilink") "Dub's L.B.M Remix"**
 6.  **For My Dear... "Original Mix -Instrumental-"**

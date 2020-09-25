@@ -340,7 +340,7 @@ Weekly Countdownお休み</p></td>
   - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川県](../Page/香川県.md "wikilink")：[岡山放送](../Page/岡山放送.md "wikilink")
   - [広島県](../Page/広島県.md "wikilink")：[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")
   - [山口県](../Page/山口県.md "wikilink")：[山口朝日放送](../Page/山口朝日放送.md "wikilink")(テレビ朝日系列)
-  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")(日本テレビ系列)
+  - [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")：[四国放送](../Page/四国放送.md "wikilink")(日本テレビ系列)
   - [愛媛県](../Page/愛媛県.md "wikilink")：[テレビ愛媛](../Page/テレビ愛媛.md "wikilink")
   - [高知県](../Page/高知県.md "wikilink")：[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")
   - [福岡県](../Page/福岡県.md "wikilink")：[テレビ西日本](../Page/テレビ西日本.md "wikilink")

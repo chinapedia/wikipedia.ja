@@ -1,19 +1,19 @@
 > この記事は[Depend on you](https://ja.wikipedia.org/wiki/Depend_on_you)から翻訳されています。
 
 
-『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の5th[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**Depend on you**』（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")の5枚目の[シングル](../Page/シングル.md "wikilink")。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[12月9日](../Page/12月9日.md "wikilink")に[avex traxより発売された](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
-[1999年](../Page/1999年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2004年](../Page/2004年.md "wikilink")に**Ayu**名義で発売（[Depend on you (Ayuの曲)参照](https://ja.wikipedia.org/wiki/#Depend_on_you_\(Ayuの曲\) "wikilink")）。
+[1999年](../Page/1999年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")に[DVD-Audio](../Page/DVD-Audio.md "wikilink")と[アナログ盤](https://ja.wikipedia.org/wiki/レコード#12インチシングル盤 "wikilink")\[1\]で再発売し、[2001年](../Page/2001年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")には[12cmCDで再発売している](../Page/コンパクトディスク.md "wikilink")。[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")では[2004年](../Page/2004年.md "wikilink")に**Ayu**名義で発売された。
 
 ## 解説
 
-1999年発売の1stアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。累計13.1万を記録し、3rdシングル「[Trust](https://ja.wikipedia.org/wiki/Trust "wikilink")」以来4ヶ月ぶりに10万枚を突破。
+1999年発売の1枚目のアルバム『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』の先行シングル。累計13.1万を記録し、3枚目のシングル『[Trust](https://ja.wikipedia.org/wiki/Trust "wikilink")』以来4か月ぶりに10万枚を突破した。
 
 1999年[7月17日](../Page/7月17日.md "wikilink")にアナログ盤で再発売された。
 
 翌年3月の『[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")』にて、「Depend on you」が、ニュー・アーティスト・オブ・ザ・イヤー ゴールドディスクとなった\[2\]。
 
-2008年の43rdシングル「[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")」には、10th Anniversary versionとして新録音された。
+2008年の43枚目のシングル『[Mirrorcle World](../Page/Mirrorcle_World.md "wikilink")』には、10th Anniversary versionとして新録音された。
 
 ## 収録曲
 
@@ -80,7 +80,7 @@
 4.  **Two of us (touch of mahogany mix)**
 5.  **Two of us**
 
-## 収録アルバム
+## 各曲の収録アルバム
 
   - **Depend on you**
       - 『[A Song for ××](../Page/A_Song_for_××.md "wikilink")』
@@ -93,19 +93,15 @@
   - **Two of us**
       - 『[ANIME & GAME SELECTION](https://ja.wikipedia.org/wiki/ANIME_&_GAME_SELECTION "wikilink")』
 
-## Depend on you (Ayuの曲)
+## Ayuのシングル
 
-「**Depend on you**」（ディペンド・オン・ユー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[歌手](../Page/歌手.md "wikilink")・[Ayuの](../Page/浜崎あゆみ.md "wikilink")3rd[シングル](../Page/シングル.md "wikilink")。[2004年](../Page/2004年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売。
-
-### 解説
-
-Ayu（浜崎あゆみ）がヨーロッパで発売した3rdシングル。Svenson & GielenとDJ Shogが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
+「**Depend on you**」は、[2004年](../Page/2004年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")に[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")のDrizzly Recordsより発売された。浜崎あゆみがAyu名義によりヨーロッパで発売した3枚目のシングルである。Svenson & GielenとDJ Shogが[リミックス](../Page/リミックス.md "wikilink")を手がけた。
 
 [2001年](../Page/2001年.md "wikilink")に日本で発売されたリミックス・アルバム『[Cyber TRANCE presents ayu trance](../Page/Cyber_TRANCE_presents_ayu_trance.md "wikilink")』に収録されている「Depend on you "Svenson & Gielen Mix"」は未収録。
 
-### 収録曲
+### 収録曲（Ayu）
 
-#### CD
+#### CD（Ayu）
 
 1.  **Depend on you (Svenson & Gielen Radio Edit)**
 2.  **Depend on you (DJ Shog Radio Edit)**
@@ -113,7 +109,7 @@ Ayu（浜崎あゆみ）がヨーロッパで発売した3rdシングル。Svens
 4.  **Depend on you (Svenson & Gielen Club Mix)**
 5.  **Depend on you (Svenson & Gielen Instr. Mix)**
 
-#### アナログ盤
+#### アナログ盤（Ayu）
 
   - Svenson & Gielen Remixes\[3\]
 

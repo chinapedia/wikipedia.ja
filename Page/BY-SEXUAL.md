@@ -35,7 +35,7 @@
   - DENは[DYNAMITE TOMMY率いる](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")[COLORでローディーをしていた](../Page/COLOR_\(ロックバンド\).md "wikilink")。
   - NAOは4人の中で唯一高校を卒業している。（SHO：2年で中退、DEN：1か月、RYÖ：3日）
   - NAOは、後にその高校を授業中に訪れ一部の生徒が気付いた為パニックになった事がある。
-  - [ダウンタウンとテレビ番組](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")「[夢で逢えたら](https://ja.wikipedia.org/wiki/夢で逢えたら "wikilink")」で共演した後に、関西のラジオ番組で『日本一下手くそなバンド』だと言われていた。これは後に[ZIGZO](../Page/ZIGZO.md "wikilink")としてテレビ歌番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演したときにもDENとRYOがそのことについてダウンタウンからいじられた。
+  - [ダウンタウンとテレビ番組](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")「[夢で逢えたら](../Page/夢で逢えたら_\(テレビ番組\).md "wikilink")」で共演した後に、関西のラジオ番組で『日本一下手くそなバンド』だと言われていた。これは後に[ZIGZO](../Page/ZIGZO.md "wikilink")としてテレビ歌番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」に出演したときにもDENとRYOがそのことについてダウンタウンからいじられた。
   - デビュー当初は、[聖飢魔II](../Page/聖飢魔II.md "wikilink")から「あの自転車を英語にしたのと似たバンド（バイシクルとバイセクシャルの音が似ている）はヘタ」と酷評されていたが、後に「まあ、あいつらも巧くなったよ」とダウンタウンにトーク番組で語っている。
   - テレビ番組「[とんねるずのみなさんのおかげです](../Page/とんねるずのみなさんのおかげです.md "wikilink")」内のコント「ロックンロール最高物語」にて、[B21スペシャル](../Page/B21スペシャル.md "wikilink")の[ヒロミ](../Page/ヒロミ.md "wikilink")とともに準レギュラーで出演し、BY-SEXUAL21というグループに扮した。
   - SHOは[FEELのマネージャーをしていたが](https://ja.wikipedia.org/wiki/FEEL_\(音楽ユニット\) "wikilink")、後に音楽界から引退した。

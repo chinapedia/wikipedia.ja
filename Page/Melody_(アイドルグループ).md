@@ -56,7 +56,7 @@
 ## 活動
 
   - おっとりとした**田中**、同性のファンも多かった**望月**、明るい笑顔の**若杉**と、バラバラな3人の個性が特徴。いわゆる「アイドル[冬の時代](https://ja.wikipedia.org/wiki/冬の時代 "wikilink")」の最中であったものの、「[ハウス食品](../Page/ハウス食品.md "wikilink")」「[Kodak](../Page/コダック.md "wikilink")」「[ブルボン](../Page/ブルボン.md "wikilink")」などの[CM出演](../Page/コマーシャルメッセージ.md "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")でのレギュラー番組、東名阪（東京・名古屋・大阪）ライヴツアーを成功させるなど、[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")や[モーニング娘。](../Page/モーニング娘。.md "wikilink")が台頭する[1990年代](../Page/1990年代.md "wikilink")後半までの女性アイドルシーンを支え続けた。この時期のアイドルにしては健闘、と評価される\[1\]\[2\]。
-  - また、元々は個別での活動をスタートしていた[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")だけに、同時期のアイドルグループに比べると、CM・[映画](../Page/映画.md "wikilink")・[テレビ](../Page/テレビ.md "wikilink")出演などにおける[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")活動が活発であった。
+  - また、元々は個別での活動をスタートしていた[メンバー](https://ja.wikipedia.org/wiki/メンバー "wikilink")だけに、同時期のアイドルグループに比べると、CM・[映画](../Page/映画.md "wikilink")・[テレビ](../Page/テレビ.md "wikilink")出演などにおける[ソロ](../Page/ソロ.md "wikilink")活動が活発であった。
   - 1993年のデビュー当時から、各種[イベント](../Page/イベント.md "wikilink")・[学園祭](https://ja.wikipedia.org/wiki/学園祭 "wikilink")に多数出演。[男性](../Page/男性.md "wikilink")ファンだけでなく、[女性](../Page/女性.md "wikilink")ファンも少なからず存在し、シングルリリースに合わせたイベントでは、安定した集客力を解散時まで保持していた。
   - グループ名の**Melody**は所属[事務所の](../Page/芸能事務所.md "wikilink")「[メロディハート](https://ja.wikipedia.org/wiki/メロディハート "wikilink")」に由来する。[ファンクラブ](../Page/ファンクラブ.md "wikilink")名は「Oh My Melody」。
 
@@ -725,7 +725,7 @@ L⇔Rのアルバム『<a href="https://ja.wikipedia.org/wiki/Let_me_Roll_it!" t
 
   - [17才-at seventeen-](../Page/17才-at_seventeen-.md "wikilink")（1994年6月2日、フジテレビ系）
   - [ハートにS](../Page/ハートにS.md "wikilink")「初恋時計」（1994年12月20日、フジテレビ系）
-  - [うちの母ですが…](https://ja.wikipedia.org/wiki/うちの母ですが… "wikilink")（1995年、テレビ朝日系）
+  - [うちの母ですが…](../Page/うちの母ですが….md "wikilink")（1995年、テレビ朝日系）
 
 ## 映画
 

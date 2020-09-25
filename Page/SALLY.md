@@ -53,159 +53,453 @@
 
 ### シングル
 
-※　すべて7インチレコードで、フィリップスレコードより発売。
+※　すべて7インチレコード、[フィリップスレコード](https://ja.wikipedia.org/wiki/フィリップスレコード "wikilink")より発売。
 
-| 発売日                                                                                         | 規格品番                                     | 面                                                                    | タイトル                          | 作詞                                | 作曲      | 編曲                                           |
-| ------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- | ----------------------------- | --------------------------------- | ------- | -------------------------------------------- |
-| [1984年](../Page/1984年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")                      | 7PL-163                                  | A                                                                    | **バージンブルー**\[1\]\[2\]\[3\]    | さがらよしあき                           | 鈴木キサブロー | 鈴木キサブロー・[大島ミチル](../Page/大島ミチル.md "wikilink") |
-| B                                                                                           | 夏の日の恋                                    | YOSUKE\&KEACH                                                        |                               |                                   |         |                                              |
-| 1984年[11月10日](../Page/11月10日.md "wikilink")                                                 | 7PL-174                                  | A                                                                    | **悲しきYoung Love**             | 大野太                               | 鈴木キサブロー | 勝山俊一郎                                        |
-| B                                                                                           | SWEET OLD DREAM                          | YOSUKE\&KEACH                                                        |                               |                                   |         |                                              |
-| [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") | 7PL-186                                  | A                                                                    | **愛しのマリア**\[4\]               | [秋元康](../Page/秋元康.md "wikilink")  | 鈴木キサブロー | 勝山俊一郎                                        |
-| B                                                                                           | GOIN' DOWN                               | YOSUKE\&KEACH                                                        | SALLY                         |                                   |         |                                              |
-| 1985年[5月21日](../Page/5月21日.md "wikilink")                                                   | 7PL-194                                  | A                                                                    | **HEARTはキュートなままでいて**\[5\]     | YOSUKE\&KEACH                     | 椎名和夫    |                                              |
-| B                                                                                           | GOOD VIBRATIONはあの街角に                     |                                                                      |                               |                                   |         |                                              |
-| 1985年[9月5日](../Page/9月5日.md "wikilink")                                                     | 7PL-204                                  | A                                                                    | **君の瞳に恋してる**\[6\]             | [康珍化](../Page/康珍化.md "wikilink")  | 鈴木キサブロー | 勝山俊一郎                                        |
-| B                                                                                           | サマータイムメモリー\[7\]                          | YOSUKE\&KEACH ・[大野轟二](https://ja.wikipedia.org/wiki/大野轟二 "wikilink") | YOSUKE\&KEACH                 | 勝山俊一郎                             |         |                                              |
-| [1986年](../Page/1986年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | 7PL-217                                  | A                                                                    | **mコードにHeartbreak**\[8\]\[9\] | [杉山洋介](../Page/康珍化.md "wikilink") | 坂下秀実    |                                              |
-| B                                                                                           | わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You） | KEACH                                                                |                               |                                   |         |                                              |
+| 発売日                                                                                         | 規格品番                                     | 面                                                                    | タイトル                          | 作詞                                                  | 作曲                                                    | 編曲                                                      |
+| ------------------------------------------------------------------------------------------- | ---------------------------------------- | -------------------------------------------------------------------- | ----------------------------- | --------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------- |
+| [1984年](../Page/1984年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")                      | 7PL-163                                  | A                                                                    | **バージンブルー**\[1\]\[2\]\[3\]    | [さがらよしあき](../Page/さがらよしあき.md "wikilink")            | [鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")              | 鈴木キサブロー・[大島ミチル](../Page/大島ミチル.md "wikilink")            |
+| B                                                                                           | 夏の日の恋                                    | YOSUKE\&KEACH                                                        |                               |                                                     |                                                       |                                                         |
+| 1984年[11月10日](../Page/11月10日.md "wikilink")                                                 | 7PL-174                                  | A                                                                    | **悲しきYoung Love**             | [大野太](https://ja.wikipedia.org/wiki/大野太 "wikilink") | 鈴木キサブロー                                               | [勝山俊一郎](https://ja.wikipedia.org/wiki/勝山俊一郎 "wikilink") |
+| B                                                                                           | SWEET OLD DREAM                          | YOSUKE\&KEACH                                                        |                               |                                                     |                                                       |                                                         |
+| [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[2月21日](../Page/2月21日.md "wikilink") | 7PL-186                                  | A                                                                    | **愛しのマリア**\[4\]               | [秋元康](../Page/秋元康.md "wikilink")                    | 鈴木キサブロー                                               | 勝山俊一郎                                                   |
+| B                                                                                           | GOIN' DOWN                               | YOSUKE\&KEACH                                                        | SALLY                         |                                                     |                                                       |                                                         |
+| 1985年[5月21日](../Page/5月21日.md "wikilink")                                                   | 7PL-194                                  | A                                                                    | **HEARTはキュートなままでいて**\[5\]     | YOSUKE\&KEACH                                       | 椎名和夫                                                  |                                                         |
+| B                                                                                           | GOOD VIBRATIONはあの街角に                     |                                                                      |                               |                                                     |                                                       |                                                         |
+| 1985年[9月5日](../Page/9月5日.md "wikilink")                                                     | 7PL-204                                  | A                                                                    | **君の瞳に恋してる**\[6\]             | [康珍化](../Page/康珍化.md "wikilink")                    | 鈴木キサブロー                                               | 勝山俊一郎                                                   |
+| B                                                                                           | サマータイムメモリー\[7\]                          | YOSUKE\&KEACH ・[大野轟二](https://ja.wikipedia.org/wiki/大野轟二 "wikilink") | YOSUKE\&KEACH                 | 勝山俊一郎                                               |                                                       |                                                         |
+| [1986年](../Page/1986年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | 7PL-217                                  | A                                                                    | **mコードにHeartbreak**\[8\]\[9\] | [杉山洋介](../Page/康珍化.md "wikilink")                   | [坂下秀実](https://ja.wikipedia.org/wiki/坂下秀実 "wikilink") |                                                         |
+| B                                                                                           | わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You） | KEACH                                                                |                               |                                                     |                                                       |                                                         |
 
 ### アルバム
 
-### オリジナル・アルバム
+#### オリジナル・アルバム
 
-1.  BAD BOYS COME TONIGHT - 1984年[12月10日](../Page/12月10日.md "wikilink")発売
-      -
-        SIDE A
-        1.BAD BOYS COME TONIGHT （夜をぶっとばせ\!）
-          -
-            作詞/SALLY 作曲/YOSUKE\&KEACH 編曲/SALLY&勝山俊一郎
-        2.バージンブルー
-          -
-            作詞/さがらよしあき 作曲/鈴木キサブロー 編曲/大島ミチル&鈴木キサブロー
-        3.恋はメリーゴーランド
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        4.BE-BOP,BE-LOVE
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        5.愛しのステディー・レディー
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        6.涙のハート・ブレイク・ナイト
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        SIDE B
-        1.オー・ヴィーナス
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH　
-        2.ガール
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        3.夏の日の恋
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/SALLY
-        4.SWEET OLD DREAM
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-        5.GOOD-BYE マイ・ダーリン
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        6.ワンダーランド・ナイト
-          -
-            作詞・作曲・編曲/YOSUKE\&KEACH
-2.  SALLY'S MAGIC - 1985年[3月1日](../Page/3月1日.md "wikilink")発売
-      -
-        SIDE A
-        1.愛しのマリア
-          -
-            作詞/秋元康 作曲/鈴木キサブロー 編曲/勝山俊一郎
-        2.Lonely Dreamer
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎\&SALLY
-        3.GOIN' DOWN
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/SALLY
-        SIDE B
-        1.悲しき Young Love
-          -
-            作詞/大野太 作曲/鈴木キサブロー 編曲/勝山俊一郎
-        2.あの頃スローレイン
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        3.あの娘とSWEET TIME
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎\&SALLY
-3.  A\! TASTE OF SALLY - 1985年[9月21日](../Page/9月21日.md "wikilink")発売
-      -
-        SIDE A
-        1.プッシー・キャット
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/椎名和夫
-        2.とんだCHERRY BOY
-          -
-            作詞/森田由実 作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        3.君だけに"GOOD NIGHT"
-          -
-            作詞/秋元康 作曲/YOSUKE\&KEACH 編曲/椎名和夫
-        4.LADY
-          -
-            作詞/松本一起 作曲/YOSUKE\&KEACH 編曲/椎名和夫
-        5.ルーシー、今夜だけは…
-          -
-            作詞/秋元康 作曲/YOSUKE\&KEACH 編曲/椎名和夫
-        SIDE B
-        1.サマータイム・メモリー
-          -
-            作詞/YOSUKE\&KEACH・大野轟二 作曲/YOSUKE\&KEACH 編曲/椎名和夫
-        2.シュガー・ドリーム、夏に戻って
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        3.はなさないトゥナイト
-          -
-            作詞/森田由実 作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        4.ROCK'N ROLLダイナマイツ
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/勝山俊一郎
-        5.GOOD VIBRATIONはあの街角に
-          -
-            作詞・作曲/YOSUKE\&KEACH 編曲/椎名和
-4.  ....THEN 1986年[4月5日](../Page/4月5日.md "wikilink")
-      -
-        SIDE A
-        1.わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You）
-          -
-            作詞・作曲/KEACH 編曲/坂下秀実
-        2.Shinin' Girl
-          -
-            作詞・作曲/岡田奈生 編曲/坂下秀実
-        3.Different Christmas Time
-          -
-            作詞・作曲/杉山洋介 編曲/藤田哲也
-        4.I never forget
-          -
-            作詞・作曲/波子崎昇&岡田奈生 編曲/勝山俊一郎
-        5.すれ違い My Love
-          -
-            作詞・作曲/波子崎昇 編曲/坂下秀実
-        SIDE B
-        1.ｍコードにHeartbreak
-          -
-            作詞・作曲/杉山洋介 編曲/坂下秀実
-        2.GOOD DAYS
-          -
-            作詞・作曲/中野真 編曲/藤田哲也
-        3.Everytime Fall In Love
-          -
-            作詞/杉山洋介 作曲/中屋全次郎 編曲/藤田哲也
-        4.Bloody Mary
-          -
-            作詞・作曲/中屋全次郎 編曲/坂下秀実
-        5.THE END
-          -
-            作詞・作曲/KEACH 編曲/坂下秀実
+※　すべてフィリップスレコードより発売。
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1984年<a href="../Page/12月10日.md" title="wikilink">12月10日</a></p></td>
+<td><p>LP</p></td>
+<td><p>28PL-88</p></td>
+<td><p><strong>BAD BOYS COME TONIGHT</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p>面</p></th>
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>A</p></td>
+<td><p>1</p></td>
+<td><p>BAD BOYS COME TONIGHT （夜をぶっとばせ!）</p></td>
+<td><p>SALLY</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>SALLY&amp;勝山俊一郎</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>バージンブルー</p></td>
+<td><p>さがらよしあき</p></td>
+<td><p>鈴木キサブロー</p></td>
+<td><p>鈴木キサブロー・<a href="../Page/大島ミチル.md" title="wikilink">大島ミチル</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>恋はメリーゴーランド</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>BE-BOP,BE-LOVE</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>愛しのステディー・レディー</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>涙のハート・ブレイク・ナイト</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>B</p></td>
+<td><p>1</p></td>
+<td><p>オー・ヴィーナス</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>ガール</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>夏の日の恋</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>SALLY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>SWEET OLD DREAM</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>GOOD-BYE マイ・ダーリン</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>ワンダーランド・ナイト</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>CD</p></td>
+<td><p>32LD-19</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1985年<a href="../Page/3月1日.md" title="wikilink">3月1日</a></p></td>
+<td><p>LP</p></td>
+<td><p>20PL-47</p></td>
+<td><p><strong>SALLY'S MAGIC</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p>面</p></th>
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>A</p></td>
+<td><p>1</p></td>
+<td><p>愛しのマリア</p></td>
+<td><p>秋元康</p></td>
+<td><p>鈴木キサブロー</p></td>
+<td><p>勝山俊一郎</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>Lonely Dreamer</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎&amp;SALLY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>GOIN' DOWN</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>SALLY</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B</p></td>
+<td><p>1</p></td>
+<td><p>悲しき Young Love</p></td>
+<td><p>大野太</p></td>
+<td><p>鈴木キサブロー</p></td>
+<td><p>勝山俊一郎</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>あの頃スローレイン</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>あの娘とSWEET TIME</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎&amp;SALLY</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>CD</p></td>
+<td><p>32LD-**</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1985年<a href="../Page/9月21日.md" title="wikilink">9月21日</a></p></td>
+<td><p>LP</p></td>
+<td><p>28PL-104</p></td>
+<td><p><strong>A! TASTE OF SALLY</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p><strong>面</strong></p></th>
+<th><p><strong>No.</strong></p></th>
+<th><p><strong>タイトル</strong></p></th>
+<th><p><strong>作詞</strong></p></th>
+<th><p><strong>作曲</strong></p></th>
+<th><p><strong>編曲</strong></p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>A</p></td>
+<td><p>1</p></td>
+<td><p>プッシー・キャット</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p><a href="../Page/椎名和夫.md" title="wikilink">椎名和夫</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>とんだCHERRY BOY</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森田由実" title="wikilink">森田由実</a></p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>君だけに"GOOD NIGHT"</p></td>
+<td><p>秋元康</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>椎名和夫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>LADY</p></td>
+<td><p><a href="../Page/松本一起.md" title="wikilink">松本一起</a></p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>椎名和夫</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>ルーシー、今夜だけは…</p></td>
+<td><p>秋元康</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>椎名和夫</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B</p></td>
+<td><p>1</p></td>
+<td><p>サマータイム・メモリー</p></td>
+<td><p>YOSUKE&amp;KEACH ・<a href="https://ja.wikipedia.org/wiki/大野轟二" title="wikilink">大野轟二</a></p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>シュガー・ドリーム、夏に戻って</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>はなさないトゥナイト</p></td>
+<td><p>森田由実</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>ROCK'N ROLLダイナマイツ</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>GOOD VIBRATIONはあの街角に</p></td>
+<td><p>YOSUKE&amp;KEACH</p></td>
+<td><p>椎名和夫</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>CD</p></td>
+<td><p>32LD-**</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1986年<a href="../Page/4月5日.md" title="wikilink">4月5日</a></p></td>
+<td><p>LP</p></td>
+<td><p>28PL-117</p></td>
+<td><p><strong>....THEN</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p>面</p></th>
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+<th><p>作詞</p></th>
+<th><p>作曲</p></th>
+<th><p>編曲</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>A</p></td>
+<td><p>1</p></td>
+<td><p>わがままなロマンティストと移り気な娘たち（移り気な娘たちにI Love You）</p></td>
+<td><p>KEACH</p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>Shinin' Girl</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡田奈生" title="wikilink">岡田奈生</a></p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>Different Christmas Time</p></td>
+<td><p>杉山洋介</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤田哲也" title="wikilink">藤田哲也</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>I never forget</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/波子崎昇" title="wikilink">波子崎昇</a>&amp;岡田奈生</p></td>
+<td><p>勝山俊一郎</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>すれ違い My Love</p></td>
+<td><p>波子崎昇</p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>B</p></td>
+<td><p>1</p></td>
+<td><p>ｍコードにHeartbreak</p></td>
+<td><p>杉山洋介</p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2</p></td>
+<td><p>GOOD DAYS</p></td>
+<td><p>中野真</p></td>
+<td><p>藤田哲也</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3</p></td>
+<td><p>Everytime Fall In Love</p></td>
+<td><p>杉山洋介</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/中屋全次郎" title="wikilink">中屋全次郎</a></p></td>
+<td><p>藤田哲也</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+<td><p>Bloody Mary</p></td>
+<td><p>中屋全次郎</p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>5</p></td>
+<td><p>THE END</p></td>
+<td><p>KEACH</p></td>
+<td><p>坂下秀実</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>CD</p></td>
+<td><p>32LD-75</p></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### ベスト・アルバム
+
+※　すべてフィリップスレコードより発売。
 
 <table>
 <thead>
@@ -316,7 +610,7 @@
 </tr>
 <tr class="even">
 <td><p>CD</p></td>
-<td><p>32LD66</p></td>
+<td><p>32LD-66</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -330,8 +624,171 @@
 
 ### ビデオ
 
-1.  SALLY'S MAGICAL TOUR（1985年）
-2.  SALLY 1986 LAST NIGHT（1986年）
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>レーベル</p></th>
+<th><p>規格</p></th>
+<th><p>規格品番</p></th>
+<th><p>タイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1985年</p></td>
+<td><p>パイオニア</p></td>
+<td><p>VHS</p></td>
+<td><p>PV-88-5</p></td>
+<td><p><strong>SALLY'S MAGICAL TOUR</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>BAD BOYS COME TONIGHT （夜をぶっとばせ!）</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>バージンブルー</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>愛しのマリア</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>あの娘とSWEET TIME</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>悲しきYoung Love</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>雨のミッドナイトステーション</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>涙のハート・ブレイク・ナイト</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>ガール</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><p>日本フォノグラム</p></td>
+<td><p>LD</p></td>
+<td><p>SM048-0089</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1986年</p></td>
+<td><p>J.V.D</p></td>
+<td><p>VHS</p></td>
+<td><p>MG-98-1</p></td>
+<td><p><strong>SALLY 1986 LAST NIGHT May 27th, 1986.</strong></p>
+<table>
+<thead>
+<tr class="header">
+<th><p>No.</p></th>
+<th><p>タイトル</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>スローレイン（B.G.M.）</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>バージンブルー</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>悲しきヤング・ラブ～愛しのマリア</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>Heartはキュートなままでいて</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>サマータイム・メモリー</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>はなさないトゥナイト</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>LADY</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>BLOODY MARY</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>GOOD DAYS</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>すれ違いMY LOVE</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>SHININ' GIRL</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>ガール</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>わがままなロマンティストと移り気な娘たち</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>愛しのステディ・レディ</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>プッシイ・キャット</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>君の瞳に恋してる</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>涙のハートブレイクナイト</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>ｍコードにHeartbreak</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p>LD</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## 出演映画
 
@@ -341,6 +798,10 @@
 
   -
     劇中歌『BAD BOYS COME TONIGHT（夜をぶっとばせ\!）』
+
+## 脚注
+
+<references />
 
 ## 関連項目
 

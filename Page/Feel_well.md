@@ -32,6 +32,8 @@
       -
         歌：[白鳥由里](../Page/白鳥由里.md "wikilink")
         作詞：佐藤勝一、作曲・編曲：今泉洋
+    <!-- end list -->
+      - 劇場版『スレイヤーズぷれみあむ』挿入歌
 4.  feel well -instrumental ver.-
 5.  ルンバ・ルンバ -instrumental ver.-
 6.  あなたはたこご -instrumental ver.-
@@ -40,7 +42,7 @@
 
 | 曲名                                                                                 | 収録アルバム                                                                                      | 発売日                                                                      | 製造番号     |
 | ---------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------- |
-| Over Soul                                                                          | 『**[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")**』\[1\]                  | [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | KICS-955 |
+| feel well                                                                          | 『**[feel well](https://ja.wikipedia.org/wiki/feel_well "wikilink")**』\[1\]                  | [2002年](../Page/2002年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") | KICS-955 |
 | 『**[スレイヤーズMEGUMIX](../Page/スレイヤーズMEGUMIX.md "wikilink")**』\[2\]                    | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月25日](../Page/6月25日.md "wikilink") | KICA-916〜918                                                             |          |
 | 『**[VINTAGE White](https://ja.wikipedia.org/wiki/VINTAGE_White "wikilink")**』\[3\] | [2011年](../Page/2011年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")                    | KICS-91670〜91671                                                         |          |
 | 『**[スレイヤーズMEGUMIXXX](../Page/スレイヤーズMEGUMIXXX.md "wikilink")**』\[4\]                | [2020年](../Page/2020年.md "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink") | KICA-2573〜2575                                                           |          |
@@ -285,7 +287,7 @@ KICM-3017（アニメ盤）</p></td>
 
 ### 出典
 
-[Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink")
+[Category:林原めぐみの楽曲](https://ja.wikipedia.org/wiki/Category:林原めぐみの楽曲 "wikilink") [Category:スレイヤーズの音楽](https://ja.wikipedia.org/wiki/Category:スレイヤーズの音楽 "wikilink") [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:スターチャイルドの楽曲](https://ja.wikipedia.org/wiki/Category:スターチャイルドの楽曲 "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:林原めぐみのアルバム](https://ja.wikipedia.org/wiki/Category:林原めぐみのアルバム "wikilink") [Category:2002年のアルバム](https://ja.wikipedia.org/wiki/Category:2002年のアルバム "wikilink") [Category:スターチャイルドのアルバム](https://ja.wikipedia.org/wiki/Category:スターチャイルドのアルバム "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
 
 1.
 2.

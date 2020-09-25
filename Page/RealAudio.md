@@ -1,7 +1,7 @@
 > この記事は[RealAudio](https://ja.wikipedia.org/wiki/RealAudio)から翻訳されています。
 
 
-**RealAudio**(リアルオーディオ)は[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リアルネットワークス](../Page/リアルネットワークス.md "wikilink")社が開発したプロプライエタリなオーディオフォーマット。複数の[コーデック](../Page/コーデック.md "wikilink")を使い分けることで、ダイヤルアップ接続などの低速通信から、音楽向け高品質用途まで幅広く対応する。最新のバージョンは、RealAudio10。
+**RealAudio**(リアルオーディオ)は[米](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[リアルネットワークス](../Page/リアルネットワークス.md "wikilink")社が開発した[プロプライエタリな](../Page/プロプライエタリ・ソフトウェア.md "wikilink")[オーディオフォーマット](../Page/音声ファイルフォーマット.md "wikilink")。複数の[コーデック](../Page/コーデック.md "wikilink")を使い分けることで、ダイヤルアップ接続などの低速通信から、音楽向け高品質用途まで幅広く対応する。最新のバージョンは、RealAudio10。
 
 ## 拡張子
 

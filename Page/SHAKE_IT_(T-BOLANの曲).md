@@ -5,9 +5,7 @@
 
 ## 解説
 
-それまでのT-BOLANにはなかった奇抜なジャケット・楽曲・PVが話題を呼んだ作品。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[チャンネル99](https://ja.wikipedia.org/wiki/チャンネル99 "wikilink")』エンディングテーマ。
-
-この楽曲に「似ている」としてよく指摘されるのが[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")の「[Rocks](https://ja.wikipedia.org/wiki/ギヴ・アウト・バット・ドント・ギヴ・アップ "wikilink")」である\[1\]。
+それまでのT-BOLANにはなかった奇抜なジャケット・楽曲・PVが話題を呼んだ作品。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[チャンネル99](https://ja.wikipedia.org/wiki/チャンネル99 "wikilink")』エンディングテーマ。 PVはボーカルの森友の初の完全プロデュースで、2番のサビ直前の歌詞に、シングル「[刹那さを消せやしない](https://ja.wikipedia.org/wiki/刹那さを消せやしない "wikilink")」がそのまま入っており、PVでもシングルジャケットがフラッシュのようにわずかに登場している。 この楽曲に「似ている」としてよく指摘されるのが[プライマル・スクリーム](../Page/プライマル・スクリーム.md "wikilink")の「[Rocks](https://ja.wikipedia.org/wiki/ギヴ・アウト・バット・ドント・ギヴ・アップ "wikilink")」である\[1\]。
 
 ## 収録曲
 

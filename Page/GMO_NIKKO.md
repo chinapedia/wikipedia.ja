@@ -29,21 +29,12 @@
   - 2019年 1月 GMOパフォーマンス株式会社を設立
   - 2019年 12月 東京都渋谷区道玄坂1-2-3にオフィス移転
 
-## 脚注
-
-
-
 ## 関連会社
 
   - [GMO NIKKOアドキャンプ株式会社](https://www.koukoku.jp/adcamp/)  
-
-<!-- end list -->
-
   - [GMOユナイトエックス株式会社](https://www.gmo-ux.com/)  
   - [GMOプレイアド株式会社](https://www.gmo-pa.com)  
   - GMOパフォーマンス株式会社
-
-
 
 ## 所属団体
 
@@ -53,8 +44,9 @@
   - Yahoo\!プロモーション広告 認定パートナー(ゴールド)
   - Google Partner プレミアバッジ保有
 
+## 脚注
 
-\== 外部リンク ==
+## 外部リンク
 
   -
 [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink") [Category:GMOインターネットグループ](https://ja.wikipedia.org/wiki/Category:GMOインターネットグループ "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本のインターネット広告会社](https://ja.wikipedia.org/wiki/Category:日本のインターネット広告会社 "wikilink")

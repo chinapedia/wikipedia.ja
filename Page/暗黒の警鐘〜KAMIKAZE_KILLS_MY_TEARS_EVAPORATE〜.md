@@ -5,7 +5,7 @@
 
 ## 内容
 
-サウンドプロデュースは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")、[佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[小幡洋子](../Page/小幡洋子.md "wikilink")などを手がける[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")。このバンドのアルバムの中では、一番長いタイトルである。
+サウンドプロデュースは[BOØWY](../Page/BOØWY.md "wikilink")、[佐藤宣彦](https://ja.wikipedia.org/wiki/佐藤宣彦 "wikilink")、[横関敦](https://ja.wikipedia.org/wiki/横関敦 "wikilink")、[小幡洋子](../Page/小幡洋子.md "wikilink")などを手がける[月光恵亮](https://ja.wikipedia.org/wiki/月光恵亮 "wikilink")。このバンドのアルバムの中では、一番長いタイトルである。
 
 ## 批評
 

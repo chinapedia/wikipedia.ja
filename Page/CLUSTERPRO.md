@@ -21,7 +21,7 @@
 
 そのため、日本国内では高可用クラスターパッケージとして、大きなシェアを確保している。
 
-海外については[英語](../Page/英語.md "wikilink")版（おもに[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")向け）と[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")版が存在するが、英語版については商標権の問題により商標名を「ExpressCluster」としている。中国語版、韓国語版は[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")などへのOEM製品がメインであり、NECの社名や「CLUSTERPRO」の名称を出していない場合もある。
+海外については[英語](../Page/英語.md "wikilink")版（おもに[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")向け）と[中国語](../Page/中国語.md "wikilink")版、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")版が存在するが、英語版については商標権の問題により商標名を「ExpressCluster」としている。中国語版、韓国語版は[サムスン](https://ja.wikipedia.org/wiki/サムスン "wikilink")などへのOEM製品がメインであり、NECの社名や「CLUSTERPRO」の名称を出していない場合もある。
 
 ## 製品名の遷移
 

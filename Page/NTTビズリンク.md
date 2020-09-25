@@ -12,8 +12,8 @@
       - 各種[遠隔会議](https://ja.wikipedia.org/wiki/遠隔会議 "wikilink")サービス
       - テレビ会議関連サービス
       - [スマートグラス](https://ja.wikipedia.org/wiki/スマートグラス "wikilink")クラウドサービス
-  - データセンタ事業
-      - [データセンタサービス](https://ja.wikipedia.org/wiki/データセンター "wikilink")
+  - データ・センター事業
+      - [データセンター](https://ja.wikipedia.org/wiki/データセンター "wikilink")サービス
       - アウトソーシングサービス
       - プラットフォームサービス　
 
@@ -50,4 +50,4 @@
   - [Agurippa](https://www.ntt.com/business/services/application/crm-dm/agurippa.html)
 
   -
-[Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:文京区の企業](https://ja.wikipedia.org/wiki/Category:文京区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:NTTグループ](https://ja.wikipedia.org/wiki/Category:NTTグループ "wikilink")
+[Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:クラウドサービス](https://ja.wikipedia.org/wiki/Category:クラウドサービス "wikilink") [Category:アウトソーシング業](https://ja.wikipedia.org/wiki/Category:アウトソーシング業 "wikilink") [Category:日本のプラットフォーム事業者](https://ja.wikipedia.org/wiki/Category:日本のプラットフォーム事業者 "wikilink") [Category:文京区の企業](https://ja.wikipedia.org/wiki/Category:文京区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:NTTグループ](https://ja.wikipedia.org/wiki/Category:NTTグループ "wikilink")

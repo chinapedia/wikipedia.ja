@@ -29,7 +29,7 @@
 
   - Active Resorts 岩手八幡平（[岩手県](../Page/岩手県.md "wikilink")[八幡平市](../Page/八幡平市.md "wikilink")） - 旧・八幡平ロイヤルホテル
   - Active Resorts 宮城蔵王（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[刈田郡](https://ja.wikipedia.org/wiki/刈田郡 "wikilink")[蔵王町](../Page/蔵王町.md "wikilink")） - 旧・宮城蔵王ロイヤルホテル
-  - Active Resorts 裏磐梯（[福島県](../Page/福島県.md "wikilink")[耶麻郡](../Page/耶麻郡.md "wikilink")[北塩原村](https://ja.wikipedia.org/wiki/北塩原村 "wikilink")） - 旧・裏磐梯ロイヤルホテル
+  - Active Resorts 裏磐梯（[福島県](../Page/福島県.md "wikilink")[耶麻郡](../Page/耶麻郡.md "wikilink")[北塩原村](../Page/北塩原村.md "wikilink")） - 旧・裏磐梯ロイヤルホテル
 
 ### 関東
 

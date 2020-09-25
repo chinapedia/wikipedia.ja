@@ -5,7 +5,7 @@
 
 ## 内容
 
-[テレビ朝日](../Page/テレビ朝日.md "wikilink")系木曜ドラマ『[彼と彼女の事情](https://ja.wikipedia.org/wiki/彼と彼女の事情 "wikilink")』主題歌。カップリング「No.1 Girl」は、[ジョディ・フォスター](../Page/ジョディ・フォスター.md "wikilink")が出演していた[ホンダ・シビックフェリオ](../Page/ホンダ・シビックフェリオ.md "wikilink") CMソング。
+[テレビ朝日](../Page/テレビ朝日.md "wikilink")系木曜ドラマ『[彼と彼女の事情](../Page/彼と彼女の事情.md "wikilink")』主題歌。カップリング「No.1 Girl」は、[ジョディ・フォスター](../Page/ジョディ・フォスター.md "wikilink")が出演していた[ホンダ・シビックフェリオ](../Page/ホンダ・シビックフェリオ.md "wikilink") CMソング。
 
 ## 収録曲
 

@@ -71,7 +71,7 @@
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5124/)
   - [リリース詳細｜ハロー！プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPCE-5124/)
-  - [つんく♂公式サイト コメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=150#01)
+  - [つんく♂公式サイト コメント](https://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=150#01)
   - ミュージック・ビデオ
       -
 [Category:2001年のシングル](https://ja.wikipedia.org/wiki/Category:2001年のシングル "wikilink") [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:2001年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2001年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:玩具のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:玩具のコマーシャルソング "wikilink") [Category:月を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:月を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_み](https://ja.wikipedia.org/wiki/Category:楽曲_み "wikilink")

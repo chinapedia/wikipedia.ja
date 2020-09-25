@@ -397,7 +397,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1997-98" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>2–3</p></td>
 <td><p>1–4</p></td>
 <td><p>'''3–7</p></td>

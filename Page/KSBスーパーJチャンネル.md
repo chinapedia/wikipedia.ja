@@ -82,7 +82,7 @@
   - [早川茉希](https://ja.wikipedia.org/wiki/早川茉希 "wikilink")（2011年から2012年3月までは金曜のみに出演。2012年4月2日から2015年3月まで月-金曜）
   - [荒木優里](https://ja.wikipedia.org/wiki/荒木優里_\(アナウンサー\) "wikilink")（2017年3月まで）
   - 西村志野
-  - [中村康人](https://ja.wikipedia.org/wiki/中村康人 "wikilink")（当初は帯で担当。一時期空白期間があり、2019年3月の2度目の降板時点で月-水曜）
+  - [中村康人](../Page/中村康人.md "wikilink")（当初は帯で担当。一時期空白期間があり、2019年3月の2度目の降板時点で月-水曜）
   - [佐田志歩](https://ja.wikipedia.org/wiki/佐田志歩 "wikilink")（2019年3月まで月-水曜）
   - [石井俊大](https://ja.wikipedia.org/wiki/石井俊大 "wikilink")（月-水曜。2019年3月までは金曜）
   - [信長ゆかり](../Page/信長ゆかり.md "wikilink")（2019年4月-、月-水曜）

@@ -46,7 +46,7 @@ BLASTのオリジナルの論文 "Altschul, SF, W Gish, W Miller, EW Myers, and 
 
 ## BLASTアルゴリズム
 
-BLAST[アルゴリズム](../Page/アルゴリズム.md "wikilink")を実行する際には、2つの情報が必要である。 クエリ[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")（ターゲットシーケンスともいう）と[シーケンスデータベース](https://ja.wikipedia.org/wiki/シーケンスデータベース "wikilink")である。 BLASTアルゴリズムは、シーケンス[データベース](../Page/データベース.md "wikilink")中のシーケンス断片と類似するクエリシーケンス中のシーケンス断片を見つけ出す。 多くの場合、クエリシーケンスは、シーケンスデータベースと比べてデータ量が非常に小さい。 例えば、クエリシーケンスが千個程度の[ヌクレオチド](https://ja.wikipedia.org/wiki/ヌクレオチド "wikilink")（[核酸塩基](https://ja.wikipedia.org/wiki/核酸塩基 "wikilink")）であるのに対し、シーケンスデータベースは数億のヌクレオチドのデータをもっている場合がある。
+BLAST[アルゴリズム](../Page/アルゴリズム.md "wikilink")を実行する際には、2つの情報が必要である。 クエリ[シーケンス](https://ja.wikipedia.org/wiki/シーケンス "wikilink")（ターゲットシーケンスともいう）と[シーケンスデータベース](https://ja.wikipedia.org/wiki/シーケンスデータベース "wikilink")である。 BLASTアルゴリズムは、シーケンス[データベース](../Page/データベース.md "wikilink")中のシーケンス断片と類似するクエリシーケンス中のシーケンス断片を見つけ出す。 多くの場合、クエリシーケンスは、シーケンスデータベースと比べてデータ量が非常に小さい。 例えば、クエリシーケンスが千個程度の[ヌクレオチド](https://ja.wikipedia.org/wiki/ヌクレオチド "wikilink")（[核酸塩基](../Page/核酸塩基.md "wikilink")）であるのに対し、シーケンスデータベースは数億のヌクレオチドのデータをもっている場合がある。
 
 BLASTアルゴリズムは、クエリシーケンスとシーケンスデータベースとの間で、高い閾値で[シーケンスアライメントを行う](../Page/シーケンスアラインメント.md "wikilink")。 その際には Smith-Waterman アルゴリズムに近似したヒューリスティクなアルゴリズムが使われる。 完全な Smith-Waterman アルゴリズムは、[NCBI](https://ja.wikipedia.org/wiki/NCBI "wikilink") [GenBank](../Page/GenBank.md "wikilink") のような大規模なシーケンスデータベースに対して検索を行う場合には、処理速度が非常に遅いことが問題となる。 BLASTアルゴリズムは、Smith-Waterman アルゴリズムより少し正確さで劣るが、50倍以上の処理速度を実現する。 このようにBLASTアルゴリズムは、高速でありかつ比較的正確であるという特徴がある。 こうした特徴が、BLASTアルゴリズムの重要な技術的革新性であり、またおそらく[バイオインフォマティクス](../Page/バイオインフォマティクス.md "wikilink")においてBLASTプログラムが最もよく使われている理由となっている。
 

@@ -5,13 +5,13 @@
 
 [1988年](../Page/1988年.md "wikilink")[6月25日](../Page/6月25日.md "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月11日](../Page/2月11日.md "wikilink")に8cmCDとして、[2005年](../Page/2005年.md "wikilink")6月25日には12cmCDで再発売されている。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")からはダウンロード配信、[2019年](../Page/2019年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")からはストリーミング配信が開始されている\[1\]\[2\]。
 
-## アートワーク
+## 背景
 
-本作のジャケットは女の子に医者が注射を刺す、という曲のイメージとは全く関係のない、いわば意図が分からないジャケットである。ここでのサブタイトル表記は ( ) がない『あの時代を忘れない。』となっている。
+前作「[匂艶 THE NIGHT CLUB](../Page/匂艶_THE_NIGHT_CLUB.md "wikilink")」から約4か月となる作品。9月から始まったツアー『青年サザンのふらちな社会学 ツアー THE NUDE MAN』の開催している間にリリースされた\[3\]。
 
 ## プロモーション
 
-本作の[CMでは](../Page/コマーシャルメッセージ.md "wikilink")「俺たちは最低である。すなわち、Ya Ya」というナレーションが入っている。このCMは[2004年](../Page/2004年.md "wikilink")発売の[DVD](../Page/DVD-Video.md "wikilink")『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』に収録されている。
+本作の[CMでは](../Page/コマーシャルメッセージ.md "wikilink")「俺たちは最低である。すなわち、Ya Ya」というナレーションが入っている。このCMは2004年発売の[DVD](../Page/DVD-Video.md "wikilink")『[ベストヒットUSAS (Ultra Southern All Stars)](../Page/ベストヒットUSAS_\(Ultra_Southern_All_Stars\).md "wikilink")』に収録されている。
 
 ## 収録曲
 
@@ -22,8 +22,8 @@
 1.  **Ya Ya (あの<ruby><rb>時代</rb><rp></rp><rt>とき</rt><rp></rp></ruby>を忘れない)** (3:54)
       -
         （作詞・作曲：[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲：サザンオールスターズ　弦管編曲：[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")）
-        [マツダ](../Page/マツダ.md "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[3\]。
-        歌詞に登場する「better days」とは桑田らが[青山学院大学](../Page/青山学院大学.md "wikilink")で所属していた軽音楽[サークルの名前で](../Page/クラブ活動.md "wikilink")、大学構内の様子も描写されている。ちなみに同年7月に発売されたアルバム『[NUDE MAN](../Page/NUDE_MAN.md "wikilink")』収録の「PLASTIC SUPER STAR (LIVE IN BETTER DAYS)」はその当時のライブテイクを収録したものである。
+        [マツダ](../Page/マツダ.md "wikilink")『[MPV](../Page/マツダ・MPV.md "wikilink")』CMソング\[4\]。
+        歌詞に登場する「better days」とは桑田らが[青山学院大学](../Page/青山学院大学.md "wikilink")で所属していた軽音楽[サークルの名前で](../Page/クラブ活動.md "wikilink")\[5\]、大学構内の様子も描写されている。
 2.  **シャッポ** (4:29)
       -
         （作詞・作曲・編曲：サザンオールスターズ）
@@ -66,9 +66,13 @@
   - [佐藤竹善](../Page/佐藤竹善.md "wikilink") - 2004年10月27日発売の3rdカバーアルバム『THE HITS〜CORNERSTONES 3〜』に収録。
   - [隼人加織](https://ja.wikipedia.org/wiki/隼人加織 "wikilink") - 2008年3月26日発売の3rdアルバム『pluma』に収録。
   - [Chara](https://ja.wikipedia.org/wiki/CHARA "wikilink") - 2008年9月24日発売の17thアルバム（オリジナルミニアルバム）『Kiss』に収録。
-  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 2017年6月21日発売のアルバム『こころ唄 〜Best\&Cover 30〜』に収録\[4\]。
+  - [沢田知可子](../Page/沢田知可子.md "wikilink") - 2017年6月21日発売のアルバム『こころ唄 〜Best\&Cover 30〜』に収録\[6\]。
 
 ## 脚注
+
+### 注釈
+
+### 出典
 
 <references />
 
@@ -80,5 +84,7 @@
 
 1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
 2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
-3.  CMの場合、[ジャズ](../Page/ジャズ.md "wikilink")バージョンの[インストゥルメンタルとして使われたため歌唱がされていない](../Page/器楽曲.md "wikilink")
-4.  [沢田知可子、「天国ポスト」に寄せられた想いを歌う](https://www.barks.jp/news/?id=1000144285) BARKS 2017年7月9日閲覧
+3.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p10,p145,p246
+4.  CMで使用されたのは[ジャズ](../Page/ジャズ.md "wikilink")バージョンの[インストゥルメンタルであるため](../Page/器楽曲.md "wikilink")、歌唱がされていない。
+5.  [page3 | 小沢健二『愛し愛されて生きるのさ』――青山学院から「渋谷系」につながる若者音楽の系譜 渋谷区【連載】ベストヒット23区（19）](https://urbanlife.tokyo/post/35833/3/) アーバン ライフ メトロ 2020年5月24日配信, 2020年7月15日閲覧
+6.  [沢田知可子、「天国ポスト」に寄せられた想いを歌う](https://www.barks.jp/news/?id=1000144285) BARKS 2017年7月9日閲覧

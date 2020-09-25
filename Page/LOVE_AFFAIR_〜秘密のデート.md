@@ -56,7 +56,6 @@ CDジャケットには[女性](../Page/女性.md "wikilink")物の[ボディス
 ## 収録アルバム
 
   - [さくら](../Page/さくら_\(サザンオールスターズのアルバム\).md "wikilink") (\#1,\#2)
-      - \#1はシングルとミックスは同一だが、こちらはイコライザーで高域の音量を軽く下げ、ステレオ感を狭め、古い音源をイメージしたマスタリングがなされている。
   - [バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink") (\#1)
   - [海のOh, Yeah\!\!](https://ja.wikipedia.org/wiki/海のOh,_Yeah!! "wikilink") (\#1,\#2)
 

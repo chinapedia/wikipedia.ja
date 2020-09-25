@@ -9,7 +9,7 @@
 
 尚[上方落語](../Page/上方落語.md "wikilink")では[林家彦いち](../Page/林家彦いち.md "wikilink")の指南で2009年5月に「[新作集団{{読み](https://ja.wikipedia.org/wiki/新作集団DIMA "wikilink")」が結成された（メンバーは[林家染弥（現：3代目林家菊丸）](https://ja.wikipedia.org/wiki/林家菊丸_\(3代目\) "wikilink")、[桂三若](../Page/桂三若.md "wikilink")、[桂文鹿](../Page/桂文鹿.md "wikilink")、[笑福亭由瓶](../Page/笑福亭由瓶.md "wikilink")、[桂三幸](../Page/桂三幸.md "wikilink")）。
 
-2019年12月12日、13日に[よみうりホール](https://ja.wikipedia.org/wiki/よみうりホール "wikilink")で「SWAリターンズ～SWA傑作選」を開催\[3\]。その後、2020年4月21日～23日、[横浜にぎわい座](../Page/横浜にぎわい座.md "wikilink")で予定されていた「　SWAクリエイティブツアー in にぎわい座」は、新型コロナウィルス感染防止のため、開催中止となった\[4\]。
+2019年12月12日、13日に[よみうりホール](https://ja.wikipedia.org/wiki/よみうりホール "wikilink")で「SWAリターンズ～SWA傑作選」を開催して復活\[3\]。その後、2020年4月21日～23日、[横浜にぎわい座](../Page/横浜にぎわい座.md "wikilink")で予定されていた「SWAクリエイティブツアー in にぎわい座」は、新型コロナウィルス感染防止のため開催中止となった\[4\]。
 
 ## メンバー
 

@@ -41,7 +41,11 @@
 
 ### 2019-20シーズン
 
-ブレンダン・ロジャーズ体制2年目。昨シーズン、レンタルで加入していた[ユーリ・ティーレマンス](https://ja.wikipedia.org/wiki/ユーリ・ティーレマンス "wikilink")を完全移籍で獲得した。開幕の2試合で勝利が無かったものの、[トッテナム戦で逆転勝利をおさめた](../Page/トッテナム・ホットスパーFC.md "wikilink")。第10節 サウサンプトンFC戦では、イングランド・フットボールリーグ131年の歴史で、最上位リーグでのアウェーチーム最大得点差となる9-0で大勝した。
+ロジャーズ体制2年目。昨シーズン、レンタルで加入していた[ユーリ・ティーレマンス](https://ja.wikipedia.org/wiki/ユーリ・ティーレマンス "wikilink")を完全移籍で獲得した。また、[ニューカッスル・ユナイテッドから](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")[アヨゼ・ペレス](https://ja.wikipedia.org/wiki/アジョセ・ペレス "wikilink")、[サンプドリアから](../Page/UCサンプドリア.md "wikilink")[デニス・プラート](https://ja.wikipedia.org/wiki/デニス・プラート "wikilink")、[ルートンタウンFCからは](../Page/ルートン・タウンFC.md "wikilink")[ジェームズ・ジャスティンを獲得した](https://ja.wikipedia.org/wiki/ジェームス・ジャスティン "wikilink")。開幕の2試合こそ勝利が無かったものの、ポゼッションとカウンタースタイルの両方を組みあわせたサッカーを展開し、[トッテナム戦で逆転勝利をおさめるなど](../Page/トッテナム・ホットスパーFC.md "wikilink")、序盤は好調を維持。第9節〜第16節までの間でリーグ戦８連勝を記録。第10節 [サウサンプトンFC](../Page/サウサンプトンFC.md "wikilink")戦では、イングランド・フットボールリーグ131年の歴史で、最上位リーグでのアウェーチーム最大得点差となる9-0で大勝した。後半戦は[新型コロナウイルス](../Page/新型コロナウイルス.md "wikilink")によるリーグ戦中断、ディフェンス陣の欠場が相次いだ事などに起因して不調に陥る。最終的に、[CL出場権をかけた最終節](../Page/UEFAチャンピオンズリーグ.md "wikilink")[マンチェスター・ユナイテッド戦では敗北を喫し](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、クラブ史上2回目となるCL出場とはならなかった。しかし、チームとしては5位で終わり、翌シーズンの[EL出場権を獲得した](../Page/UEFAヨーロッパリーグ.md "wikilink")。
+
+### 2020-21シーズン
+
+ロジャーズ体制3年目。ユース出身の[ベン・チルウェル](https://ja.wikipedia.org/wiki/ベン・チルウェル "wikilink")が[チェルシーに移籍](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")。[アトランタから](../Page/アタランタBC.md "wikilink")[ティモシー・カスターニュ](https://ja.wikipedia.org/wiki/ティモシー・カスターニュ "wikilink")を獲得。
 
 ## タイトル
 
@@ -76,6 +80,7 @@
 | シーズン                                                                 | ディビジョン                                                                 | [FAカップ](../Page/FAカップ.md "wikilink") | [リーグカップ](https://ja.wikipedia.org/wiki/フットボールリーグカップ "wikilink") | [欧州カップ](../Page/欧州サッカー連盟.md "wikilink") / [CL](../Page/UEFAチャンピオンズリーグ.md "wikilink") / [EL](../Page/UEFAヨーロッパリーグ.md "wikilink") / その他 | 最多得点者 |
 | -------------------------------------------------------------------- | ---------------------------------------------------------------------- | ------------------------------------ | --------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ----- |
 | リーグ                                                                  | 試                                                                      | 勝                                    | 分                                                               | 敗                                                                                                                                     | 得     |
+| 2002-03                                                              | ディビジョン1                                                                | 46                                   | 26                                                              | 14                                                                                                                                    | 6     |
 | [2003-04](https://ja.wikipedia.org/wiki/プレミアリーグ2003-2004 "wikilink") | [プレミア](../Page/プレミアリーグ.md "wikilink")                                  | 38                                   | 6                                                               | 15                                                                                                                                    | 17    |
 | 2004-05                                                              | [チャンピオン](https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ "wikilink") | 46                                   | 12                                                              | 21                                                                                                                                    | 13    |
 | 2005-06                                                              | チャンピオン                                                                 | 46                                   | 13                                                              | 15                                                                                                                                    | 18    |
@@ -245,9 +250,9 @@
 
 </div>
 
-  - 2020年1月31日現在
+  - 2020年9月20日現在
 
-★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))      ★     ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Grenada.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bangladesh.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink")) ★
+★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))      ★  ★      ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Grenada.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bangladesh.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

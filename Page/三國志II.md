@@ -21,7 +21,7 @@ PC-88SR版の発売後、他の日本国産[パソコン](https://ja.wikipedia.o
 
 合戦フェイズにおいては、通常攻撃、一斉攻撃、突撃、火計などの前作からのコマンドは細かな変更を加えつつ引き継がれ、新たに[一騎討ち](../Page/一騎討ち.md "wikilink")、寝返り工作、[伏兵](https://ja.wikipedia.org/wiki/伏兵 "wikilink")、共同軍や援軍、[ZOC](../Page/ZOC.md "wikilink")の概念のシステムが設けられ、駆け引きの幅が広くなった。また、一度に出陣できる枠数は、攻撃側は5部隊・守備側は10部隊まで守備側に有利となっている。ただし前述の共同軍を用いれば他の君主が最大で5部隊を増援を派遣してくれるほか、寝返り工作や一部の計略などで攻撃側の不利を多少緩和できる。
 
-本作より[後漢](../Page/後漢.md "wikilink")滅亡後のシナリオが初登場し、それに伴い[鄧艾](https://ja.wikipedia.org/wiki/鄧艾 "wikilink")や[鍾会](../Page/鍾会.md "wikilink")など三国時代末期の武将も追加され武将数は352人（後述の特殊な武将を除く）と増加した。一方で、国の数は58から41へと減少している。また、パソコン版のみ、特殊な武将として[華佗](../Page/華佗.md "wikilink")、[許子将](../Page/許劭.md "wikilink")、[司馬徽](../Page/司馬徽.md "wikilink")、[貂蝉](../Page/貂蝉.md "wikilink")が登場する。
+本作より[後漢](../Page/後漢.md "wikilink")滅亡後のシナリオが初登場し、それに伴い[鄧艾](../Page/鄧艾.md "wikilink")や[鍾会](../Page/鍾会.md "wikilink")など三国時代末期の武将も追加され武将数は352人（後述の特殊な武将を除く）と増加した。一方で、国の数は58から41へと減少している。また、パソコン版のみ、特殊な武将として[華佗](../Page/華佗.md "wikilink")、[許子将](../Page/許劭.md "wikilink")、[司馬徽](../Page/司馬徽.md "wikilink")、[貂蝉](../Page/貂蝉.md "wikilink")が登場する。
 
 在野武将の登場年齢が平均して引き上げられた。[黄忠](../Page/黄忠.md "wikilink")のように50代半ばにならないと登場しない武将もいる。
 
@@ -60,7 +60,7 @@ PC-88SR版の発売後、他の日本国産[パソコン](https://ja.wikipedia.o
 
 1・董卓[洛陽](https://ja.wikipedia.org/wiki/洛陽 "wikilink")を騒がし群星起つ（董卓の横暴） [189年](../Page/189年.md "wikilink")
 
-  - [曹操](../Page/曹操.md "wikilink") [劉備](../Page/劉備.md "wikilink") [孫堅](../Page/孫堅.md "wikilink") [袁紹](../Page/袁紹.md "wikilink") [袁術](../Page/袁術.md "wikilink") [馬騰](../Page/馬騰.md "wikilink") [劉焉](../Page/劉焉.md "wikilink") [劉表](../Page/劉表.md "wikilink") [董卓](../Page/董卓.md "wikilink") [公孫瓚](https://ja.wikipedia.org/wiki/公孫瓚 "wikilink") [陶謙](../Page/陶謙.md "wikilink") *[韓馥](../Page/韓馥.md "wikilink")* *[孔融](../Page/孔融.md "wikilink")* *[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")* *[劉繇](https://ja.wikipedia.org/wiki/劉繇 "wikilink")*
+  - [曹操](../Page/曹操.md "wikilink") [劉備](../Page/劉備.md "wikilink") [孫堅](../Page/孫堅.md "wikilink") [袁紹](../Page/袁紹.md "wikilink") [袁術](../Page/袁術.md "wikilink") [馬騰](../Page/馬騰.md "wikilink") [劉焉](../Page/劉焉.md "wikilink") [劉表](../Page/劉表.md "wikilink") [董卓](../Page/董卓.md "wikilink") [公孫瓚](../Page/公孫瓚.md "wikilink") [陶謙](../Page/陶謙.md "wikilink") *[韓馥](../Page/韓馥.md "wikilink")* *[孔融](../Page/孔融.md "wikilink")* *[王朗](https://ja.wikipedia.org/wiki/王朗 "wikilink")* *[劉繇](../Page/劉繇.md "wikilink")*
 
 2・群雄割拠し盛んに覇を競う（曹操の雄飛） [194年](https://ja.wikipedia.org/wiki/194年 "wikilink")
 
@@ -378,7 +378,7 @@ FOMA703シリーズ/<a href="../Page/F702iD.md" title="wikilink">F702iD</a><br /
 <td><p>21</p></td>
 <td><p>三國志2</p></td>
 <td></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a></p></td>
 <td><p>コーエーテクモ</p></td>
 <td><p>コーエーテクモ</p></td>
 <td><p>ダウンロード</p></td>
@@ -621,8 +621,7 @@ FOMA703シリーズ/<a href="../Page/F702iD.md" title="wikilink">F702iD</a><br /
 
   - [Steamによる配信ページ Romance of the Three Kingdoms Ⅱ / 三國志Ⅱ](https://store.steampowered.com/app/521690/Romance_of_the_Three_Kingdoms/)
 
-  - （英語）
-
+  -
 [Category:1989年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1989年のパソコンゲーム "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:X1用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X1用ゲームソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:ファミ通クロスレビューシルバー殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:ファミ通クロスレビューシルバー殿堂入りソフト "wikilink") [Category:ブラウザゲーム](https://ja.wikipedia.org/wiki/Category:ブラウザゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.   - 同書によれば*「FM音源の音色まで担当した」*(p.121より引用)とのことである。

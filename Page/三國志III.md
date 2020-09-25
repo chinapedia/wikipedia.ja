@@ -234,7 +234,7 @@ Dragon of Destiny</p></td>
 <td><p>13</p></td>
 <td><p>三國志III</p></td>
 <td></td>
-<td><p><a href="../Page/Android.md" title="wikilink">Android</a><br />
+<td><p><a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a><br />
 <a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a></p></td>
 <td><p>コーエーテクモ</p></td>
 <td><p>コーエーテクモ</p></td>
@@ -357,8 +357,7 @@ Dragon of Destiny</p></td>
 
   - [PlayStation.com(Japan)｜ソフトウェアカタログ｜三國志III](https://www.jp.playstation.com/software/title/slpm86747.html)
 
-  - （英語）
-
+  -
 [Category:1992年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1992年のパソコンゲーム "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:FM_TOWNS用ゲームソフト](https://ja.wikipedia.org/wiki/Category:FM_TOWNS用ゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:三國志シリーズ](https://ja.wikipedia.org/wiki/Category:三國志シリーズ "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:メガCD用ソフト](https://ja.wikipedia.org/wiki/Category:メガCD用ソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.

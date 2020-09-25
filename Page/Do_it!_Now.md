@@ -53,7 +53,7 @@
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/detail/EPCE-5168/)
   - [リリース詳細｜ハロー！プロジェクト　オフィシャルサイト](http://www.helloproject.com/release/detail/EPCE-5168/)
-  - [つんく♂公式サイト コメント](http://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=183#01)
+  - [つんく♂公式サイト コメント](https://www.tsunku.net/producework.php?Music_ArtistID=56&@DB_ID@=183#01)
   - ミュージック・ビデオ
       -
 [Category:2002年のシングル](https://ja.wikipedia.org/wiki/Category:2002年のシングル "wikilink") [Category:モーニング娘。の楽曲](https://ja.wikipedia.org/wiki/Category:モーニング娘。の楽曲 "wikilink") [Category:つんくが制作した楽曲](https://ja.wikipedia.org/wiki/Category:つんくが制作した楽曲 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_と](https://ja.wikipedia.org/wiki/Category:楽曲_と "wikilink")

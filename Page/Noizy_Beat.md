@@ -50,6 +50,6 @@
 
 ## 外部リンク
 
-  - [J-ROCKmagazine 1996年4月号 ZYYGインタビュー](http://web.archive.org/web/20020105115823/http://www.j-rock.com/back_intime/96_4/9644/9644.html) ※[Wayback Machineによるアーカイブ](https://ja.wikipedia.org/wiki/Wayback_Machine "wikilink")
+  - [J-ROCKmagazine 1996年4月号 ZYYGインタビュー](https://web.archive.org/web/20020105115823/http://www.j-rock.com/back_intime/96_4/9644/9644.html) ※[Wayback Machineによるアーカイブ](https://ja.wikipedia.org/wiki/Wayback_Machine "wikilink")
 
 [Category:ZYYGのアルバム](https://ja.wikipedia.org/wiki/Category:ZYYGのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink")

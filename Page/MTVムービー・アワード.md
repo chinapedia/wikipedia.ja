@@ -10,7 +10,7 @@
   - 司会：[ジャック・ブラック](../Page/ジャック・ブラック.md "wikilink")、[サラ・ミシェル・ゲラー](../Page/サラ・ミシェル・ゲラー.md "wikilink")
   - 最優秀映画 (Best Movie)：[ロード・オブ・ザ・リング](../Page/ロード・オブ・ザ・リング.md "wikilink")
   - 最優秀男優 (Best Male Performance)：[ウィル・スミス](../Page/ウィル・スミス.md "wikilink")（[ALI アリ](../Page/ALI_アリ.md "wikilink")）
-  - 最優秀女優 (Best Female Performance)：[ニコール・キッドマン](https://ja.wikipedia.org/wiki/ニコール・キッドマン "wikilink")（[ムーラン・ルージュ](../Page/ムーラン・ルージュ_\(映画\).md "wikilink")）
+  - 最優秀女優 (Best Female Performance)：[ニコール・キッドマン](../Page/ニコール・キッドマン.md "wikilink")（[ムーラン・ルージュ](../Page/ムーラン・ルージュ_\(映画\).md "wikilink")）
   - 最優秀新人男優 (Best Breakthrough Performance Male)：[オーランド・ブルーム](../Page/オーランド・ブルーム.md "wikilink")（ロード・オブ・ザ・リング）
   - 最優秀新人女優 (Best Breakthrough Performance Female)：[マンディ・ムーア](../Page/マンディ・ムーア.md "wikilink")（[ウォーク・トゥ・リメンバー](../Page/ウォーク・トゥ・リメンバー.md "wikilink")）
   - 最優秀チーム (Best On-Screen Team)：[ヴィン・ディーゼル](../Page/ヴィン・ディーゼル.md "wikilink")、[ポール・ウォーカー](../Page/ポール・ウォーカー.md "wikilink")（[ワイルド・スピード](../Page/ワイルド・スピード.md "wikilink")）
@@ -76,11 +76,11 @@
 
 ローハンが主演した『ミーン・ガールズ』は、ローハンの最優秀主演女優賞を手始めに、最優秀チーム賞、最優秀新人女優賞（レイチェル・マクアダムス）、最優秀悪役賞と、最多四部門にノミネートされた\[7\]。
 
-[ニコール・キッドマン](https://ja.wikipedia.org/wiki/ニコール・キッドマン "wikilink")がプレゼンターを務め、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")は[ケイティ・ホームズ](../Page/ケイティ・ホームズ.md "wikilink")とともにプレゼンターを務めた。ローハンは、憧れていた[サンドラ・ブロック](../Page/サンドラ・ブロック.md "wikilink")と対面し、興奮のあまり、「彼女に夢中なのよ」と絶叫した。1980年代の[ジョン・ヒューズ](../Page/ジョン・ヒューズ.md "wikilink")の[青春映画](../Page/青春映画.md "wikilink")『[ブレックファスト・クラブ](../Page/ブレックファスト・クラブ.md "wikilink")』の出演者が全員集合する企画もあり、[エミリオ・エステベス](../Page/エミリオ・エステベス.md "wikilink")を除く、[モリー・リングウォルド](../Page/モリー・リングウォルド.md "wikilink")、[アリー・シーディ](../Page/アリー・シーディ.md "wikilink")、[アンソニー・マイケル・ホール](../Page/アンソニー・マイケル・ホール.md "wikilink")、[ジャド・ネルソン](../Page/ジャド・ネルソン.md "wikilink")らが出席した\[8\]。
+[ニコール・キッドマン](../Page/ニコール・キッドマン.md "wikilink")がプレゼンターを務め、[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")は[ケイティ・ホームズ](../Page/ケイティ・ホームズ.md "wikilink")とともにプレゼンターを務めた。ローハンは、憧れていた[サンドラ・ブロック](../Page/サンドラ・ブロック.md "wikilink")と対面し、興奮のあまり、「彼女に夢中なのよ」と絶叫した。1980年代の[ジョン・ヒューズ](../Page/ジョン・ヒューズ.md "wikilink")の[青春映画](../Page/青春映画.md "wikilink")『[ブレックファスト・クラブ](../Page/ブレックファスト・クラブ.md "wikilink")』の出演者が全員集合する企画もあり、[エミリオ・エステベス](../Page/エミリオ・エステベス.md "wikilink")を除く、[モリー・リングウォルド](../Page/モリー・リングウォルド.md "wikilink")、[アリー・シーディ](../Page/アリー・シーディ.md "wikilink")、[アンソニー・マイケル・ホール](../Page/アンソニー・マイケル・ホール.md "wikilink")、[ジャド・ネルソン](../Page/ジャド・ネルソン.md "wikilink")らが出席した\[8\]。
 
 ## 2006年
 
-  - 司会：[ジェシカ・アルバ](https://ja.wikipedia.org/wiki/ジェシカ・アルバ "wikilink")
+  - 司会：[ジェシカ・アルバ](../Page/ジェシカ・アルバ.md "wikilink")
   - 最優秀映画:[ウエディング・クラッシャーズ](https://ja.wikipedia.org/wiki/ウエディング・クラッシャーズ "wikilink")
   - 最優秀俳優:[ジェイク・ギレンホール](https://ja.wikipedia.org/wiki/ジェイク・ギレンホール "wikilink")（[ブロークバック・マウンテン](../Page/ブロークバック・マウンテン.md "wikilink")）
   - 最優秀新人:[アイラ・フィッシャー](../Page/アイラ・フィッシャー.md "wikilink")（ウエディング・クラッシャーズ）
@@ -91,7 +91,7 @@
   - ベスト・ファイト：[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink") VS [ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")（[Mr.\&Mrs. スミス](../Page/Mr.&Mrs._スミス.md "wikilink")）
   - ベスト・ヒーロー：[クリスチャン・ベール](../Page/クリスチャン・ベール.md "wikilink")([バットマン・ビギンズ](https://ja.wikipedia.org/wiki/バットマン・ビギンズ "wikilink"))
   - 最も優れた恐怖演技：[ジェニファー・カーペンター](https://ja.wikipedia.org/wiki/ジェニファー・カーペンター "wikilink")（[エミリー・ローズ](../Page/エミリー・ローズ.md "wikilink")）
-  - 最もセクシーな演技：[ジェシカ・アルバ](https://ja.wikipedia.org/wiki/ジェシカ・アルバ "wikilink")([シン・シティ](../Page/シン・シティ.md "wikilink"))
+  - 最もセクシーな演技：[ジェシカ・アルバ](../Page/ジェシカ・アルバ.md "wikilink")([シン・シティ](../Page/シン・シティ.md "wikilink"))
 
 ## 2007年
 

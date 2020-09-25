@@ -9,7 +9,7 @@
 
 ## 背景・リリース
 
-前作「[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")」から約1年2ヶ月ぶりとなるシングル。
+前作「[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")」から約1年2ヶ月ぶりとなるシングル\[5\]。
 
 「[みんなのうた](../Page/みんなのうた_\(サザンオールスターズの曲\).md "wikilink")」から前作までは、8cmCDの他に[カセットテープ](../Page/カセットテープ.md "wikilink")でも販売していたが、本作のカセットテープは販売されていない。
 
@@ -25,15 +25,14 @@
     （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　管編曲:[山本拓夫](../Page/山本拓夫.md "wikilink")）
       -
         [日産自動車](../Page/日産自動車.md "wikilink")『[ルキノ](../Page/日産・ルキノ.md "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink")。
-        リリース当時に少しずつ社会に普及し始めていた[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")や[インターネット](../Page/インターネット.md "wikilink")に対する問題提起が歌われた楽曲\[5\]。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")では、桑田が[ルパン三世](https://ja.wikipedia.org/wiki/ルパン三世_\(架空のキャラクター\) "wikilink")、[俳優](../Page/俳優.md "wikilink")の[杉本哲太](https://ja.wikipedia.org/wiki/杉本哲太 "wikilink")が[銭形警部に扮するシーンや](../Page/銭形幸一.md "wikilink")、ライブハウスでの演奏シーンなどが登場している。
-        ドームライブでこの曲を演奏したいために、桑田はわざとライブ『[おいしい葡萄の旅ライブ –at DOME & 日本武道館-](https://ja.wikipedia.org/wiki/おいしい葡萄の旅ライブ_–at_DOME_&_日本武道館- "wikilink")』内に「裏サザンのコーナー」を作ったと語っている（実際にこのライブの同コーナー内で演奏している）\[6\]。
+        リリース当時に少しずつ社会に普及し始めていた[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")や[インターネット](../Page/インターネット.md "wikilink")に対する問題提起が歌われた楽曲\[6\]。
+        ドームライブでこの曲を演奏したいために、桑田はわざとライブ『[おいしい葡萄の旅](https://ja.wikipedia.org/wiki/おいしい葡萄の旅ライブ_–at_DOME_&_日本武道館- "wikilink")』内に「裏サザンのコーナー」を作ったと語っている（実際にこのライブの同コーナー内で演奏している）\[7\]。
 2.  **SEA SIDE WOMAN BLUES** (4:24)
     （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
       -
-        タイトル自体は[クリームの](../Page/クリーム_\(バンド\).md "wikilink")「[アウトサイド・ウーマン・ブルース](https://ja.wikipedia.org/wiki/カラフル・クリーム "wikilink")」のもじりだが、無論曲調が異なっており、楽曲との直接の関連はない\[7\]。
-        [歌謡曲](../Page/歌謡曲.md "wikilink")を意識した曲調であり、歌詞には[江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")も登場している。また、桑田自身のお気に入りナンバーのひとつでもある\[8\]。
-        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[関ジャム 完全燃SHOW](https://ja.wikipedia.org/wiki/関ジャム_完全燃SHOW "wikilink")』内の企画「フラれた時に慰めてくれるラブソング」で[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の[大倉忠義](../Page/大倉忠義.md "wikilink")はこの曲を選んだ\[9\]。
+        タイトル自体は[クリームの](../Page/クリーム_\(バンド\).md "wikilink")「[アウトサイド・ウーマン・ブルース](https://ja.wikipedia.org/wiki/カラフル・クリーム "wikilink")」のもじりだが、無論曲調が異なっており、楽曲との直接の関連はない\[8\]。
+        [歌謡曲](../Page/歌謡曲.md "wikilink")を意識した曲調であり、歌詞には[江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")も登場している。また、桑田自身のお気に入りナンバーのひとつでもある\[9\]。
+        [テレビ朝日](../Page/テレビ朝日.md "wikilink")系[音楽](../Page/音楽番組.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[関ジャム 完全燃SHOW](https://ja.wikipedia.org/wiki/関ジャム_完全燃SHOW "wikilink")』内の企画「フラれた時に慰めてくれるラブソング」で[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の[大倉忠義](../Page/大倉忠義.md "wikilink")はこの曲を選んだ\[10\]。
 
 ## 参加ミュージシャン
 
@@ -59,10 +58,10 @@
 ## 収録アルバム
 
   - [さくら](../Page/さくら_\(サザンオールスターズのアルバム\).md "wikilink") (\#1,2)
-      - \#1は桑田曰くシングルバージョンを聴き直した当時に納得がいかなかったため\[10\]、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")以外全く違ったアレンジになっており、タイトルも「(The Return of) 01MESSENGER 〜電子狂の詩〜 <Album Version>」と変更されている。
+      - \#1は桑田曰くシングルバージョンを聴き直した当時に納得がいかなかったため\[11\]、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")以外全く違ったアレンジになっており、タイトルも「(The Return of) 01MESSENGER 〜電子狂の詩〜 <Album Version>」と変更されている。
   - [バラッド3 〜the album of LOVE〜](../Page/バラッド3_〜the_album_of_LOVE〜.md "wikilink") (\#2)
   - [海のOh, Yeah\!\!](https://ja.wikipedia.org/wiki/海のOh,_Yeah!! "wikilink") (\#1,\#2)
-      - \#1はシングルバージョンを収録。理由はアルバム選曲に伴い改めて聴き直したところ、「こっちも案外悪くないぞ」と考え直したためであるという\[11\]。
+      - \#1はシングルバージョンを収録。理由はアルバム選曲に伴い改めて聴き直したところ、「こっちも案外悪くないぞ」と考え直したためであるという\[12\]。
 
 ## カバー
 
@@ -70,7 +69,7 @@
 
 <!-- end list -->
 
-  - 2011年：[前川清](../Page/前川清.md "wikilink") - シングル「SEA SIDE WOMAN BLUES」収録\[12\]。
+  - 2011年：[前川清](../Page/前川清.md "wikilink") - シングル「SEA SIDE WOMAN BLUES」収録\[13\]。
 
 ## 脚注
 
@@ -90,11 +89,12 @@
 2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
 3.  サザンオールスターズ会報「代官山通信 vol.144」（[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")発行）p31.
 4.  アルバム『[海のOh, Yeah\!\!](https://ja.wikipedia.org/wiki/海のOh,_Yeah!! "wikilink")』CD盤に付属されている歌詞ブックレットより。
-5.  [日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink") 2018年9月号 p13
-6.  サザンオールスターズ会報 代官山通信 vol.132 17ページより。
-7.  [Southern ALL Stars 40th 桑田佳祐インタビュー](https://special.southernallstars.jp/sas2018/interview/)
-8.
-9.  [『関ジャム 完全燃SHOW』フラれたときは「仲間がいる」安田と「ベロンベロン」の大倉、KANA-BOON小泉の「フラれたことない」にザワつく](http://www.billboard-japan.com/sp/d_news/detail/35202/2) ビルボード・ジャパン 2016年2月8日配信。2016年2月15日閲覧
-10. [日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink") 2018年9月号 p10
-11.
-12. [前川清、初のコメディー調MVにノリノリ](http://www.oricon.co.jp/news/music/2001131/) オリコン 2020年8月11日閲覧。
+5.
+6.  [日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink") 2018年9月号 p13
+7.  サザンオールスターズ会報 代官山通信 vol.132 17ページより。
+8.  [Southern ALL Stars 40th 桑田佳祐インタビュー](https://special.southernallstars.jp/sas2018/interview/)
+9.
+10. [『関ジャム 完全燃SHOW』フラれたときは「仲間がいる」安田と「ベロンベロン」の大倉、KANA-BOON小泉の「フラれたことない」にザワつく](http://www.billboard-japan.com/sp/d_news/detail/35202/2) ビルボード・ジャパン 2016年2月8日配信。2016年2月15日閲覧
+11. [日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink") 2018年9月号 p10
+12.
+13. [前川清、初のコメディー調MVにノリノリ](http://www.oricon.co.jp/news/music/2001131/) オリコン 2020年8月11日閲覧。

@@ -147,7 +147,7 @@ DVD字幕、テキストファイル (MicroDVD、[SubRIP](https://ja.wikipedia.o
 
 <!-- end list -->
 
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
   - [Chrome OS](https://ja.wikipedia.org/wiki/Google_Chrome_OS "wikilink")
   - [FreeBSD](../Page/FreeBSD.md "wikilink")
   - [NetBSD](../Page/NetBSD.md "wikilink")

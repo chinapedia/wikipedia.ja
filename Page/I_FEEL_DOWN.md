@@ -23,10 +23,17 @@
   - 小澤正澄 - ギター、シンセサイザー
   - [川島だりあ](../Page/川島だりあ.md "wikilink") - コーラス（\#1）
 
+## 収録アルバム
+
+  - [Truth](../Page/Truth_\(PAMELAHのアルバム\).md "wikilink")（\#1、1stアルバム）
+  - [HIT COLLECTION -CONFIDENCE-](../Page/HIT_COLLECTION_-CONFIDENCE-.md "wikilink")（\#1・\#2、ベストアルバム）
+  - [REMIX EDITION〜PAMELAHOLIC〜](https://ja.wikipedia.org/wiki/REMIX_EDITION〜PAMELAHOLIC〜 "wikilink")（\#1、リミックスアルバム）
+  - [complete of PAMELAH at the BEING studio](https://ja.wikipedia.org/wiki/complete_of_PAMELAH_at_the_BEING_studio "wikilink")（\#1、非公認ベストアルバム）
+  - [BEST OF BEST 1000 PAMELAH](https://ja.wikipedia.org/wiki/BEST_OF_BEST_1000#BEST_OF_BEST_1000_PAMELAH "wikilink")（\#1、非公認ベストアルバム）
+
 ## 関連項目
 
   - [ビーイング](../Page/ビーイング.md "wikilink")
   - [日本コロムビア](../Page/日本コロムビア.md "wikilink")
-  - [PAMELAH](../Page/PAMELAH.md "wikilink")
 
 [Category:1995年のシングル](https://ja.wikipedia.org/wiki/Category:1995年のシングル "wikilink") [Category:PAMELAHの楽曲](https://ja.wikipedia.org/wiki/Category:PAMELAHの楽曲 "wikilink") [Category:小澤正澄が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小澤正澄が制作した楽曲 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")

@@ -5,22 +5,42 @@
 
 ## 概説
 
-バンド名のD-SHADEはDEAREST SHADEの略。 当初は「D†SHADE」という表記だった。 [インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")』などとも呼ばれていた\[1\]。1998年にシングル『BELIEVE』で[メジャーデビューし](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")、その後1998年にシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE_\(D-SHADEの曲\) "wikilink")」がヒットしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界を引退し、2000年5月31日をもって解散。
+バンド名のD-SHADEはDEAREST SHADEの略。当初は「D†SHADE」という表記だった。
+自分達が作り出す音楽や、すべてにおける表現方法をもう一人の自分達＝「影」と例えて、SHADEとしており、それらが自分達にとって大切なものとして考えた結果、最愛なるもの＝DEARESTの頭文字Dをとって、バンド名とした。 ギターのKEN曰く、「長くて言いにくいので縮めた」との事。
+
+[インディーズ](../Page/インディーズ.md "wikilink")時は広島並木ジャンクションを中心に活動。『ポスト[BOØWY](../Page/BOØWY.md "wikilink")』などとも呼ばれていた\[1\]。
+1994年に高校の同級生だったHIBIKIとKEN、そして中学時代の同級生YOSHIHIROにより、広島県東広島市にて前身となるコピーバンドを結成。
+翌年1995年にバンド名を付けて、本格的に活動を開始する。
+インディーズ時代の頃より、10代とは思えない作曲能力と演奏力の高さから人気を博し、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列の音楽番組「[Break Out](../Page/Break_Out_\(テレビ番組\).md "wikilink")」でも取り上げられる。
+インディーズで作品を数作発表後、1998年4月にシングル「[BELIEVE](https://ja.wikipedia.org/wiki/BELIEVE_\(D-SHADEの曲\) "wikilink")」で[メジャーデビュー](https://ja.wikipedia.org/wiki/メジャーレーベル "wikilink")。 同年7月に発売されたメジャー2ndシングル「[ENDLESS LOVE](https://ja.wikipedia.org/wiki/ENDLESS_LOVE_\(D-SHADEの曲\) "wikilink")」が、テレビ朝日系列ドラマ「[スウィートデビル](../Page/スウィートデビル.md "wikilink")」の挿入歌に起用されヒットする。
+
+計6枚のシングル、1枚のアルバムをリリースしたが、ボーカルのHIBIKIが[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")に転向するため音楽界の引退を発表し、2000年5月31日をもって解散。
 
 ## メンバー
 
   - HIBIKI（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")）
     1977年7月6日生、O型。[東広島市](../Page/東広島市.md "wikilink")出身。
+    切れ長の鋭い目つきと、突き刺すような高い声が特徴。
     解散後は「待田克彦」という本名でレーサーとして活動していたが、現在レース活動は休止中。
-    地元である東広島市で情報誌の発行を行っている株式会社プレスネットに在籍している。編集営業局長を経て、取締役営業局長\[2\]。
+    地元である東広島市で情報誌の発行を行っている株式会社プレスネットに在籍している。
+    編集営業局長を経て、現在は取締役営業局長となっている\[2\]。
   - KEN（[ギター](../Page/ギター.md "wikilink")）:1977年11月13日生、A型。
-    D-SHADE解散後、THE LIDEEで活動（その後解散）。
+    D-SHADEの楽曲のほとんどの作曲を手掛けている。
+    D-SHADE解散後、THE LIDEEで活動（その後解散）。Rips∞kateのサポートギターも担当していた。
+    ドラムのYUJIと共に、D-SHADE 1/2としてライブを行う事もある。
   - YOSHIHIRO（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
     1977年5月10日生、AB型。
     引退。
   - YUJI（[ドラム](../Page/ドラムセット.md "wikilink")）
     1977年4月29日生、A型。
-    D-SHADE解散後、as.milkで活動していた。2009年12月23日にas.milkが活動を休止。2010年2月からL～Lotus～で活動後、2011年7月に脱退。現在は[adding entertainment](http://www.add-ing.jp/)の社長兼CEO。また、次世代のハイパートラックメーカーチーム[M.A.Y](http://add-ing.jp/m.a.y/)として活動しており、第一弾として[2011年](../Page/2011年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[栄喜](../Page/栄喜.md "wikilink")（ex.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[DETROX](../Page/DETROX.md "wikilink")）をボーカルに迎え「SHINE」をリリースしている。
+    D-SHADEの解散後、as.milkで活動していたが、2009年12月23日にas.milkが活動を休止。
+    2010年2月からL～Lotus～で活動後、2011年7月に脱退。
+    現在は[adding entertainment](http://www.add-ing.jp/)の社長兼CEO。
+    また、次世代のハイパートラックメーカーチーム[M.A.Y](http://add-ing.jp/m.a.y/)として活動しており、第一弾として[2011年](../Page/2011年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に[栄喜](../Page/栄喜.md "wikilink")（ex.[SIAM SHADE](../Page/SIAM_SHADE.md "wikilink")、[DETROX](../Page/DETROX.md "wikilink")）をボーカルに迎え「SHINE」をリリースしている。
+    2019年4月、[ペルテス病](https://ja.wikipedia.org/wiki/ペルテス病 "wikilink")患者の支援を目的とした非営利団体「super view」を設立\[3\]\[4\]。
+    同年7月、音楽プロダクションRISEを設立。
+    2020年2月に、上述の非営利団体「super view」が東京都から[NPO法人](https://ja.wikipedia.org/wiki/NPO法人 "wikilink")の設立認証を受けており、同法人の代表理事を務める\[5\]。
+    同年3月には広島県観光特使に任命されている\[6\]。
 
 ## ディスコグラフィ
 
@@ -245,3 +265,7 @@ POBH-1013</p></td>
 
 1.
 2.
+3.  [「Ｄ－ＳＨＡＤＥ」元ドラマーが「ペルテス病」患者支援に団体設立 - 産経ニュース](https://www.sankei.com/entertainments/news/190913/ent1909130005-n1.html)
+4.  [元D-SHADEドラマー・YUJIさん、ペルテス病乗り越え、支援団体設立 | 芸能人の癌（がん）闘病から学ぶ『がん保険の教科書』](https://geinou-ganhoken.info/2019/09/15/dshade-yuji/)
+5.  [ＮＰＯ法人ｓｕｐｅｒ　ｖｉｅｗ | NPO法人ポータルサイト - 内閣府](https://www.npo-homepage.go.jp/npoportal/detail/013013432)
+6.  [SUGIZO、戦後75年目の広島で核兵器廃絶願う「分断ではなく、調和を」 - Yahoo\! JAPAN](https://article.yahoo.co.jp/detail/65e40b6dfaf514189ad150cae2db87b969af79d9)

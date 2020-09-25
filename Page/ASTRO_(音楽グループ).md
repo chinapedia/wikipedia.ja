@@ -1,9 +1,9 @@
 > この記事は[ASTRO \(音楽グループ\)](https://ja.wikipedia.org/wiki/ASTRO_\(音楽グループ\))から翻訳されています。
 
 
-**ASTRO**（アストロ、아스트로）は[韓国の](../Page/大韓民国.md "wikilink")6人組[男性アイドルグループ](https://ja.wikipedia.org/wiki/アイドル "wikilink")。Fantagio所属。[2016年](../Page/2016年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")ミニアルバム「Spring Up」でデビューした。
+**ASTRO**（アストロ、）は[韓国の](../Page/大韓民国.md "wikilink")6人組[男性アイドルグループ](https://ja.wikipedia.org/wiki/アイドル "wikilink")。Fantagio所属。[2016年](../Page/2016年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")ミニアルバム「Spring Up」でデビューした。
 
-グループ名は、スペイン語で天体、星、スターを意味し、愛するすべての人たちにとって宇宙でありたい、星でありたいというメンバーたちの純粋な願いが込められている。ASTROのファンクラブ名は「ASTRO/HEART/ALL FANS」と「아스트로의 하나뿐인 팬」(＝アストロのただ一つのファン)という意味を持つ**AROHA** (アロハ)である\[1\]。
+グループ名は、[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")で「天体、星、スター」を意味し、「愛する全ての人たちにとって宇宙でありたい、星でありたい」というメンバーたちの純粋な願いが込められている。ASTROのファンクラブ名は「ASTRO/HEART/ALL FANS」と「아스트로의 하나뿐인 팬」(＝アストロのただ一つのファン)という意味を持つ**AROHA** (アロハ)である\[1\]。
 
 ## 来歴
 
@@ -25,11 +25,11 @@
 
 ### 2018年
 
-  - 7月24日、スペシャルミニアルバム「All Light」をリリース。
+  - 7月24日、スペシャルミニアルバム「Rise Up」をリリース。
 
 ### 2019年
 
-  - 1月16日、1stアルバム「Rise Up」をリリース。
+  - 1月16日、1stアルバム「ALL Light」をリリース。
   - 4月3日、日本1stミニアルバム「Venus」をリリースし、日本デビューをした。
   - 11月20日、6thミニアルバム「Blue Flame」をリリース。
 
@@ -84,8 +84,8 @@
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p><em>' チャ・ウヌ</em>'<br />
-<span style="font-size:85%">（Cha Eunwoo）<br />
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/チャ・ウヌ" title="wikilink">チャ・ウヌ</a></strong><br />
+<span style="font-size:85%">（CHA EUN-WOO）<br />
 （차은우、車銀優[10]）</span></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:170924_푸드트럭이벤트.jpg" title="wikilink">150px</a></p></td>
 <td><ul>
@@ -93,7 +93,7 @@
 <li>生年月日：</li>
 <li>血液型：B</li>
 <li>身長：183cm</li>
-<li>出身地：<a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/軍浦市.md" title="wikilink">軍浦市</a>[12]</li>
+<li>出身地： <a href="../Page/京畿道.md" title="wikilink">京畿道</a><a href="../Page/軍浦市.md" title="wikilink">軍浦市</a>[12]</li>
 <li>学歴：<a href="../Page/成均館大学校.md" title="wikilink">成均館大学校</a>演技芸術学科在学[13]</li>
 <li>ポジション：センター、サブボーカル、ビジュアル</li>
 <li>愛称：顔天才（얼굴천재）、チャドゥンチ（차둠칫）</li>
@@ -101,23 +101,23 @@
 </tr>
 <tr class="even">
 <td><p><strong>ムンビン</strong><br />
-<span style="font-size:85%">（Moon Bin）<br />
+<span style="font-size:85%">（MOON BIN）<br />
 （문빈）</span></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:2019_SS_서울패션위크_-_Moon_Bin_02.png" title="wikilink">150px</a></p></td>
 <td><ul>
-<li>本名：ムン・ビン（문빈、文彬、Moon-Bin）[14]</li>
+<li>本名：ムン・ビン（문빈、文彬、Moon Bin）[14]</li>
 <li>生年月日：</li>
 <li>血液型：B</li>
 <li>身長：181cm</li>
-<li>出身地：<a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="https://ja.wikipedia.org/wiki/清州市" title="wikilink">清州市</a>[15]</li>
+<li>出身地： <a href="../Page/忠清北道.md" title="wikilink">忠清北道</a><a href="https://ja.wikipedia.org/wiki/清州市" title="wikilink">清州市</a>[15]</li>
 <li>学歴：翰林芸能芸術高等学校卒業[16]</li>
 <li>ポジション：リードボーカル、メインダンサー</li>
-<li>愛称：ダルコン（달콩）※moonbinという名前から月（moon）を表す「달」と豆（bin）を表す「콩」を合わせた造語。 運動の伝道師、爆走機関車</li>
+<li>愛称：ダルコン（달콩）※ムンビン（Moon Bin）という名前から月（Moon）を表す「달」と豆（Bin）を表す「콩」を合わせた造語。 運動の伝道師、爆走機関車</li>
 </ul></td>
 </tr>
 <tr class="odd">
 <td><p><strong>ラキ</strong><br />
-<span style="font-size:85%">（Rocky）<br />
+<span style="font-size:85%">（ROCKY）<br />
 （라키）</span></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Park_Min-hyuk.png" title="wikilink">150px</a></p></td>
 <td><ul>
@@ -133,11 +133,11 @@
 </tr>
 <tr class="even">
 <td><p><strong>ユン・サナ</strong><br />
-<span style="font-size:85%">（Yoon San Ha）<br />
+<span style="font-size:85%">（YOON SAN-HA）<br />
 （윤산하）</span></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ファイル:2019_SS_서울패션위크_-_Sanha_02.png" title="wikilink">150px</a></p></td>
 <td><ul>
-<li>本名：ユン・サナ（윤산하、尹產賀、Yoon San-Ha）[20]</li>
+<li>本名：ユン・サナ（윤산하、尹產賀、Yoon San-ha）[20]</li>
 <li>生年月日：</li>
 <li>血液型：AB</li>
 <li>身長：184cm</li>
@@ -172,13 +172,13 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>Spring Up</strong><br />
-（2016年2月23日）</p></td>
+(2016年2月23日)</p></td>
 <td><ol>
-<li>OK！準備完了（OK! Ready To GO）</li>
-<li><strong>かくれんぼ（Hide &amp; Seek）</strong></li>
-<li>初恋（Innocent Love）</li>
-<li>モーニングコール（Morning call）</li>
-<li>長靴をはいた猫（Puss in Boots）</li>
+<li>OK! 준비완료（OK! Ready To GO）</li>
+<li><strong>숨바꼭질（Hide &amp; Seek）</strong></li>
+<li>풋사랑（Innocent Love）</li>
+<li>모닝콜（Morning call）</li>
+<li>장화 신은 고양이（Puss in Boots）</li>
 </ol></td>
 <td><p>4位<br />
 [23]</p></td>
@@ -188,14 +188,14 @@
 <tr class="even">
 <td><p><strong>2nd</strong></p></td>
 <td><p><strong>Summer Vibes</strong><br />
-（2016年7月1日）</p></td>
+(2016年7月1日)</p></td>
 <td><ol>
-<li>花火（Fireworks)</li>
-<li><strong>息が切れる（Breathless）</strong></li>
-<li>成長痛（Growing Pains）</li>
-<li>北極星（Polaris）</li>
-<li>私の勝手（My Style）</li>
-<li>息が切れる（Breathless Acoustic Ver.）</li>
+<li>불꽃놀이（Fireworks)</li>
+<li><strong>숨가빠（Breathless）</strong></li>
+<li>성장통（Growing Pains）</li>
+<li>북극성（Polaris）</li>
+<li>내 멋대로（My Style）</li>
+<li>숨가빠（Breathless) (Acoustic Ver.）</li>
 </ol></td>
 <td><p>4位<br />
 [25]</p></td>
@@ -205,14 +205,14 @@
 <tr class="odd">
 <td><p><strong>3rd</strong></p></td>
 <td><p><strong>Autumn Story</strong><br />
-（2016年11月10日）</p></td>
+(2016年11月10日)</p></td>
 <td><ol>
 <li>Lonely</li>
-<li><strong>告白（Confession）</strong></li>
-<li>愛が（Your Love...）</li>
-<li>染まる（Colored）</li>
-<li>星（Star）</li>
-<li>告白（Confession）Talk</li>
+<li><strong>고백（Confession）</strong></li>
+<li>사랑이（Your Love...）</li>
+<li>물들어（Colored）</li>
+<li>별（Star）</li>
+<li>고백（Confession）Talk※CDのみ収録</li>
 </ol></td>
 <td><p>6位<br />
 [27]</p></td>
@@ -222,15 +222,15 @@
 <tr class="even">
 <td><p><strong>4th</strong></p></td>
 <td><p><strong>Dream Part.01</strong><br />
-（2017年5月29日）</p></td>
+(2017年5月29日)</p></td>
 <td><ol>
 <li>Dreams Come True</li>
 <li><strong>Baby</strong></li>
-<li>あなたが笑っているから</li>
-<li>あなただから</li>
+<li>니가 웃잖아 (You Smile)</li>
+<li>너라서 (Because It's You)</li>
 <li>Dream Night</li>
 <li>I'll Be There</li>
-<li>全部ウソ</li>
+<li>다 거짓말 (Lie)</li>
 <li>Every Minute</li>
 </ol></td>
 <td><p>1位<br />
@@ -241,13 +241,13 @@
 <tr class="odd">
 <td><p><strong>5th</strong></p></td>
 <td><p><strong>Dream Part.02</strong><br />
-（2017年11月1日）</p></td>
+(2017年11月1日)</p></td>
 <td><ol>
 <li>With You</li>
-<li><strong>あなたが吹いてくる（Crazy Sexy Cool）</strong></li>
+<li><em>' 니가 불어와（Crazy Sexy Cool）</em>'</li>
 <li>Butterfly</li>
 <li>Run</li>
-<li>いつの間にか僕たちは</li>
+<li>어느새 우린 (Better With You)</li>
 </ol></td>
 <td><p>2位<br />
 [32]</p></td>
@@ -257,12 +257,12 @@
 <tr class="even">
 <td><p><strong>6th</strong></p></td>
 <td><p><strong>BLUE FLAME</strong><br />
-（2019年11月20日）</p></td>
+(2019年11月20日)</p></td>
 <td><ol>
-<li><strong>Blue flame</strong></li>
+<li><strong>Blue Flame</strong></li>
 <li>Go＆Stop</li>
-<li>タヤ（All About You）</li>
-<li>冷たい風が吹く時には（When The Wind Blows）</li>
+<li>다야（All About You）</li>
+<li>찬바람 불 때면（When The Wind Blows）</li>
 <li>You're my world</li>
 </ol></td>
 <td><p>2位 [35]<br />
@@ -272,14 +272,14 @@
 <tr class="odd">
 <td><p><strong>7th</strong></p></td>
 <td><p><strong>GATE WAY</strong><br />
-（2020年5月4日）</p></td>
+(2020年5月4日)</p></td>
 <td><ol>
-<li><strong>Knock</strong></li>
-<li>僕の名前を呼ぶとき</li>
+<li><strong>Knock (널 찾아가)</strong></li>
+<li>내 이름을 부를 때 (When You Call My Name)</li>
 <li>SOMEBODY LIKE</li>
 <li>We Still</li>
-<li>12時間</li>
-<li>光になってあげる</li>
+<li>12시간 (12 Hours)</li>
+<li>빛이 돼줄게 (Lights On)</li>
 </ol></td>
 <td><p>1位<br />
 [37]</p></td>
@@ -307,12 +307,12 @@
 <tr class="odd">
 <td><p><span style="font-size:85%"><strong>1st</strong></span></p></td>
 <td><p><strong>RISE UP</strong><br />
-（2018年7月27日）[39]</p></td>
+(2018年7月27日)[39]</p></td>
 <td><ol>
-<li>君じゃないか（Always you）</li>
-<li>君の後ろで（By Your Side）</li>
-<li>叫ぶ（Call Out）</li>
-<li>僕のそばにいて（Stay with me）</li>
+<li><strong>너잖아（Always you）</strong></li>
+<li>너의 뒤에서（By Your Side）</li>
+<li>외친다（Call Out）</li>
+<li>내 곁에 있어줘（Stay with me）</li>
 <li>Real love</li>
 </ol></td>
 <td><p>2位<br />
@@ -341,10 +341,10 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>All Light</strong><br />
-（2019年1月16日）</p></td>
+(2019年1月16日)</p></td>
 <td><ol>
 <li>Starry Sky</li>
-<li><strong>All Night（電話して）</strong></li>
+<li><strong>All Night（전화해）</strong></li>
 <li>Moonwalk</li>
 <li>Treasure</li>
 <li>Role Play</li>
@@ -352,7 +352,7 @@
 <li>Love Wheel</li>
 <li>Heart Brew Love</li>
 <li>Merry-Go-Round</li>
-<li>咲く（Bloom）</li>
+<li>피어나（Bloom）</li>
 </ol></td>
 <td><p>1位<br />
 [42]</p></td>
@@ -380,9 +380,9 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>Winter Dream</strong><br />
-（2017年2月22日）[44]</p></td>
+(2017年2月22日)[44]</p></td>
 <td><ol>
-<li><strong>引き留めておくべきだった</strong></li>
+<li><strong>붙잡았어야 해 (Again / Should've Held On You)</strong></li>
 <li>Cotton Candy</li>
 <li>You ＆ Me（Thanks AROHA）</li>
 </ol></td>
@@ -412,7 +412,7 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>ONE&amp;ONLY</strong><br />
-（2020年2月23日）</p></td>
+(2020年2月23日)</p></td>
 <td><ol>
 <li><strong>ONE&amp;ONLY</strong></li>
 <li>ONE&amp;ONLY（instrumental）</li>
@@ -438,10 +438,18 @@
 <tbody>
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
-<td><p><strong>아니 그래</strong><br />
-（2020年6月28日）</p></td>
+<td><p><strong>Merry-Go-Round (Christmas Edition)</strong><br />
+(2018年12月24日)</p></td>
 <td><ol>
-<li><strong>아니 그래</strong></li>
+<li><strong>Merry-Go-Round (Christmas Edition)</strong></li>
+</ol></td>
+</tr>
+<tr class="even">
+<td><p><strong>2nd</strong></p></td>
+<td><p><strong>아니 그래 (No, I Don't...)</strong><br />
+(2020年6月28日)</p></td>
+<td><ol>
+<li><strong>아니 그래 (No, I Don't...)</strong></li>
 </ol></td>
 </tr>
 </tbody>
@@ -499,7 +507,7 @@
 
 #### ユニット
 
-##### ミニアルバム
+  - ミニアルバム
 
 <table>
 <thead>
@@ -507,14 +515,14 @@
 <th><p><strong>No.</strong></p></th>
 <th><p><strong>タイトル</strong></p></th>
 <th><p><strong>収録曲</strong></p></th>
-<th><p><span style="font-size:85%">オリコン<br />
+<th><p><span style="font-size:85%">Gaon<br />
 （週間）</span></p></th>
 <th><p>売上枚数</p></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><strong>MOONBIN &amp; SANHA (ASTRO)</strong></p></td>
+<td><p>MOONBIN &amp; SANHA</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -523,10 +531,39 @@
 <tr class="even">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>IN-OUT</strong><br />
-（2020年9月14日）</p></td>
+(2020年9月14日)</p></td>
+<td><ol>
+<li>Eyez On U</li>
+<li><strong>Bad Idea</strong></li>
+<li>섭 (Alone)</li>
+<li>All Wanna Do</li>
+<li>Dream Catcher</li>
+</ol></td>
 <td></td>
 <td></td>
-<td></td>
+</tr>
+</tbody>
+</table>
+
+  - ミュージックビデオ
+
+<!-- end list -->
+
+  -
+
+<table>
+<thead>
+<tr class="header">
+<th><p>年</p></th>
+<th><p>M/V</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><ul>
+<li><a href="https://www.youtube.com/watch?v=K0oSaCS0_98">Bad Idea</a> (MOONBIN &amp; SANHA)</li>
+</ul></td>
 </tr>
 </tbody>
 </table>
@@ -550,7 +587,7 @@
 <tr class="odd">
 <td><p><strong>1st</strong></p></td>
 <td><p><strong>Venus</strong><br />
-（2019年4月3日）</p></td>
+(2019年4月3日)</p></td>
 <td><ol>
 <li><strong>花咲ケミライ</strong></li>
 <li>Ⅱ愛してる</li>
@@ -611,211 +648,63 @@
   - 2018年 \[YouTube\]「[Top Management](https://www.youtube.com/channel/UCwpn6RSRj8lZHnoEPGXmCtA)」 - ヨヌ 役（チャ・ウヌ）
   - 2019年 \[NEVER TV\]「[愛の公式11M](https://tv.naver.com/loveformula11m)」 - テオ 役（ユン・サナ）
   - 2020年 \[YouTube\]「[人魚王子](https://www.youtube.com/playlist?list=PLHfrd-NSLYZc4_-jB-3Bx_pINVeU2ejif)」 - ウヒョク 役（ムンビン）
+  - 2020年 放送予定 \[YouTube\]「人魚王子シーズン2」 -ウヒョク 役（ムンビン）
 
 ## 公演
 
 ### 単独
 
-#### 韓国
+  - 韓国
 
-**ASTRO 2016 MINI LIVE - Thankx AROHA**
+| 日程         | 公演名                                     | 都市                                                                        | 会場                                                                        |
+| ---------- | --------------------------------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| 2016年      | 8月27\~28日                               | ASTRO 2016 MINI LIVE - Thankx AROHA                                       | [ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")                    |
+| 2017年      | 2月26日                                   | The 1st ASTRO AROHA Festival                                              | [奨忠体育館](../Page/奨忠体育館.md "wikilink")                                      |
+| 7月15\~16日  | The 1st ASTROAD to Seoul                | [オリンピックホール](https://ja.wikipedia.org/wiki/オリンピック公園_\(ソウル特別市\) "wikilink") |                                                                           |
+| 2018年      | 2月24日                                   | The 2nd ASTRO AROHA Festival                                              | KBSアリーナ                                                                   |
+| 12月22\~23日 | The 2nd ASTROAD to Seoul \[STAR LIGHT\] | KBSアリーナ                                                                   |                                                                           |
+| 2019年      | 3月2日                                    | The 3rd ASTRO AROHA Festival \[BLACK\]                                    | [ソウル](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")                    |
+| 2020年      | 3月7日                                    | The 4th ASTRO AROHA Festival \[CAMPUS\]                                   | [オリンピックホール](https://ja.wikipedia.org/wiki/オリンピック公園_\(ソウル特別市\) "wikilink") |
 
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2016年</p></td>
-<td><p>8月27日~28日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
+  - 日本
 
-**The 1st ASTRO AROHA Festival**
+| 日程         | 公演名                                           | 都市                                                 | 会場                                                |
+| ---------- | --------------------------------------------- | -------------------------------------------------- | ------------------------------------------------- |
+| 2016年      | 10月14日 昼の部                                    | ASTRO THE 1ST SEASON SHOWCASE IN TOKYO 2016        | [東京](../Page/東京.md "wikilink")                    |
+| 10月14日 夜の部 |                                               |                                                    |                                                   |
+| 2017年      | 8月24日                                         | The 1st ASTROAD to JAPAN                           | [名古屋](../Page/名古屋市.md "wikilink")                 |
+| 8月25日      |                                               |                                                    |                                                   |
+| 8月28日      | [東京](../Page/東京.md "wikilink")                | [Zepp Tokyo](../Page/Zepp.md "wikilink")           |                                                   |
+| 8月29日 昼の部  |                                               |                                                    |                                                   |
+| 8月29日 夜の部  |                                               |                                                    |                                                   |
+| 2018年      | 3月17日 昼の部                                     | 2018 ASTRO Global Fan Meeting in Tokyo             | [千葉](https://ja.wikipedia.org/wiki/千葉 "wikilink") |
+| 3月17日 夜の部  |                                               |                                                    |                                                   |
+| 8月1日       | 2018-19 ASTRO Live Tour “ASTROAD II” in Japan | [名古屋](../Page/名古屋市.md "wikilink")                  | [Zepp Nagoya](../Page/Zepp.md "wikilink")         |
+| 8月2日       |                                               |                                                    |                                                   |
+| 8月4日       | [大阪](../Page/大阪市.md "wikilink")               | [Zepp Osaka Bayside](../Page/Zepp.md "wikilink")   |                                                   |
+| 8月5日       |                                               |                                                    |                                                   |
+| 8月7日       | [東京](../Page/東京.md "wikilink")                | [Zepp Tokyo](../Page/Zepp.md "wikilink")           |                                                   |
+| 8月8日       |                                               |                                                    |                                                   |
+| 2019年      | 11月15日                                        | 2019 ASTRO JAPAN FANPARTY ～Wanna Be My Star～       | [神戸](../Page/神戸市.md "wikilink")                   |
+| 11月16日     | [横浜](../Page/横浜市.md "wikilink")               | [パシフィコ横浜 国立大ホール](../Page/横浜国際平和会議場.md "wikilink")  |                                                   |
+| 2020年      | 2月2日                                          | 2020 ASTRO JAPAN FANPARTY ～Wanna Be My Star again～ | [横浜](../Page/横浜市.md "wikilink")                   |
 
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p>2月26日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
+### オンラインコンサート
 
-**The 1st ASTROAD to Seoul**
+| 日程    | 公演名   |
+| ----- | ----- |
+| 2020年 | 6月28日 |
 
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2017年</p></td>
-<td><p>7月15日~7月16日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
+### ファンミーティング
 
-**The 2nd ASTRO AROHA Festival**
+  - 日本
 
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年</p></td>
-<td><p>2月24日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
+| 日程       | 公演名      | 国                        | 都市                                                | 会場                             |
+| -------- | -------- | ------------------------ | ------------------------------------------------- | ------------------------------ |
+| 2019年    | 4月3日 昼の部 | ASTRO JAPANデビューファンミーティング | [日本](https://ja.wikipedia.org/wiki/日本 "wikilink") | [東京](../Page/東京.md "wikilink") |
+| 4月3日 夜の部 |          |                          |                                                   |                                |
 
-**The 2nd ASTROAD to Seoul ［STAR LIGHT］**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2018年</p></td>
-<td><p>12月22日~12月23日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
-
-**The 3rd ASTRO AROHA Festival \[BLACK\]**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2019年</p></td>
-<td><p>3月2日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
-
-**The 4th ASTRO AROHA Festival \[CAMPUS\]**
-
-<table>
-<thead>
-<tr class="header">
-<th><p>日程</p></th>
-<th><p>都市</p></th>
-<th><p>会場</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2020年</p></td>
-<td><p>3月7日<br />
-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル特別市</a></p></td>
-</tr>
-</tbody>
-</table>
-
-#### 日本
-
-**ASTRO THE 1ST SEASON SHOWCASE IN TOKYO 2016**
-
-| 日程         | 都市         | 会場                             |
-| ---------- | ---------- | ------------------------------ |
-| 2016年      | 10月14日 昼の部 | [東京](../Page/東京.md "wikilink") |
-| 10月14日 夜の部 |            |                                |
-
-**The 1st ASTROAD to JAPAN**
-
-| 日程        | 都市                             | 会場                                       |
-| --------- | ------------------------------ | ---------------------------------------- |
-| 2017年     | 8月24日                          | [名古屋](../Page/名古屋市.md "wikilink")        |
-| 8月25日     |                                |                                          |
-| 8月28日     | [東京](../Page/東京.md "wikilink") | [Zepp Tokyo](../Page/Zepp.md "wikilink") |
-| 8月29日 昼の部 |                                |                                          |
-| 8月29日 夜の部 |                                |                                          |
-
-**2018 ASTRO Global Fan Meeting in Tokyo**
-
-| 日程        | 都市        | 会場                                                |
-| --------- | --------- | ------------------------------------------------- |
-| 2018年     | 3月17日 昼の部 | [千葉](https://ja.wikipedia.org/wiki/千葉 "wikilink") |
-| 3月17日 夜の部 |           |                                                   |
-
-**2018-19 ASTRO Live Tour “ASTROAD II” in Japan**
-
-| 日程    | 都市                              | 会場                                               |
-| ----- | ------------------------------- | ------------------------------------------------ |
-| 2018年 | 8月1日                            | [名古屋](../Page/名古屋市.md "wikilink")                |
-| 8月2日  |                                 |                                                  |
-| 8月4日  | [大阪](../Page/大阪市.md "wikilink") | [Zepp Osaka Bayside](../Page/Zepp.md "wikilink") |
-| 8月5日  |                                 |                                                  |
-| 8月7日  | [東京](../Page/東京.md "wikilink")  | [Zepp Tokyo](../Page/Zepp.md "wikilink")         |
-| 8月8日  |                                 |                                                  |
-
-**ASTRO JAPANデビューファンミーティング**
-
-| 日程       | 都市       | 会場                             |
-| -------- | -------- | ------------------------------ |
-| 2019年    | 4月3日 昼の部 | [東京](../Page/東京.md "wikilink") |
-| 4月3日 夜の部 |          |                                |
-
-**2019 ASTRO JAPAN FANPARTY ～Wanna Be My Star～**
-
-| 日程     | 都市                              | 会場                                                |
-| ------ | ------------------------------- | ------------------------------------------------- |
-| 2019年  | 11月15日                          | [神戸](../Page/神戸市.md "wikilink")                   |
-| 11月16日 | [横浜](../Page/横浜市.md "wikilink") | [パシフィコ横浜 国立大ホール](../Page/横浜国際平和会議場.md "wikilink") |
-
-**2020 ASTRO JAPAN FANPARTY ～Wanna Be My Star again～**
-
-| 日程    | 都市   | 会場                              |
-| ----- | ---- | ------------------------------- |
-| 2020年 | 2月2日 | [横浜](../Page/横浜市.md "wikilink") |
-
-##### その他大規模イベント
+### その他大規模イベント
 
 | 日程          | イベント                                 | 会場                                                                |
 | ----------- | ------------------------------------ | ----------------------------------------------------------------- |
@@ -905,8 +794,6 @@
 
 ## 外部リンク
 
-### 公式
-
 **韓国**
 
   - [Fantagio](http://www.fantagio.kr/musicians/아스트로/)
@@ -940,7 +827,7 @@
   -
   -
   -
-[Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:2016年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink")
+[Category:韓国のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:韓国のボーイ・バンド "wikilink") [Category:2016年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2016年に結成した音楽グループ "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
 1.
 2.
@@ -978,7 +865,7 @@
 34. [Gaonアルバム月間チャート2018年1月](http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=01&hitYear=2018&termGbn=month)
 35.
 36.
-37. \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=19&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年5月3日\~2020年5月9日\]
+37. \[<http://www.gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=19&hitYear=2020&termGbn=week>　Gaonアルバム週間チャート2020年5月3日\~2020年5月9日\]
 38. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&termGbn=month>　Gaonアルバム月間チャート2020年5月\]
 39. <http://tower.jp/article/feature_item/2018/07/12/0105>
 40. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=30&hitYear=2018&termGbn=week>　Gaonアルバムチャート2018年7月22日\~2018年7月28日\]

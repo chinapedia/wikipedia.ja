@@ -68,7 +68,7 @@
 利用可能端末は、以下の通り\[8\]。
 
   - [スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")・[タブレット](../Page/タブレット_\(コンピュータ\).md "wikilink")
-      - [Android](../Page/Android.md "wikilink") 5.0以降
+      - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") 5.0以降
       - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 11.2以降
   - [パソコン](../Page/パーソナルコンピュータ.md "wikilink")
       - [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink") [8](https://ja.wikipedia.org/wiki/Microsoft_Windows_8 "wikilink")・[10](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")

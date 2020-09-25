@@ -193,4 +193,4 @@
 
 [Category:2001年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2001年のテレビドラマ "wikilink") [Category:日曜劇場](https://ja.wikipedia.org/wiki/Category:日曜劇場 "wikilink") [Category:北川悦吏子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:北川悦吏子脚本のテレビドラマ "wikilink") [Category:恋愛ドラマ](https://ja.wikipedia.org/wiki/Category:恋愛ドラマ "wikilink") [Category:小説家を主人公としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:小説家を主人公としたテレビドラマ "wikilink") [Category:中山美穂](https://ja.wikipedia.org/wiki/Category:中山美穂 "wikilink")
 
-1.  [公式サイト・キャスト](http://web.archive.org/web/20010802110803/http://www.tbs.co.jp/love-s/index_top.htm)(インターネットアーカイブ)
+1.  [公式サイト・キャスト](https://web.archive.org/web/20010802110803/http://www.tbs.co.jp/love-s/index_top.htm)(インターネットアーカイブ)

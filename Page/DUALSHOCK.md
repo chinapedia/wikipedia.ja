@@ -160,6 +160,8 @@ DUALSHOCK 3の販売開始以降も、モーションコントロール機能の
 
 ## DualSense
 
+  - CFI-ZCT1J
+
 DualSenseは、[PlayStation 5用のワイヤレスコントローラ](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")\[22\]。
 
 この[コントローラ](https://ja.wikipedia.org/wiki/コントローラ "wikilink")では[PlayStation 4までの](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")[DUALSHOCK](../Page/DUALSHOCK.md "wikilink")系列の既存のコントローラーとは外観の基本デザインが異なることもあり、ナンバリングではなく新たな名称として、五感に訴えかけるゲーム体験の実現を強調して、DualSenseと名付けられた。
@@ -169,6 +171,7 @@ DualSenseは、[PlayStation 5用のワイヤレスコントローラ](https://ja
   - [USB Type-C](https://ja.wikipedia.org/wiki/USB_Type-C "wikilink")（有線）/[Bluetooth](../Page/Bluetooth.md "wikilink")（無線）接続
   - マイク内蔵
   - [DUALSHOCK 4では](https://ja.wikipedia.org/wiki/DUALSHOCK_4 "wikilink")"SHARE"ボタンだったものの名称を"Create"ボタンに変更。
+  - メーカー希望小売価格は6980円（税抜）。
 
 ## 関連項目
 

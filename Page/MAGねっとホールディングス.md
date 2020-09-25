@@ -1,7 +1,7 @@
 > この記事は[MAGねっとホールディングス](https://ja.wikipedia.org/wiki/MAGねっとホールディングス)から翻訳されています。
 
 
-**株式会社MAGねっとホールディングス**（マグネット、*MAG NET HOLDINGS ,INC.*）は、主として債権回収業を行うグループの持株会社。かつては[投資](../Page/投資.md "wikilink")業や[不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")[賃貸の](../Page/賃貸借.md "wikilink")[保証](../Page/保証.md "wikilink")業務などを行っていた。株式会社[SFCG](../Page/SFCG.md "wikilink")のグループ企業だった。
+**株式会社MAGねっとホールディングス**（マグネット、*MAG NET HOLDINGS ,INC.*）は、主として債権回収業を行うグループの持株会社。かつては[投資](../Page/投資.md "wikilink")業や[不動産](../Page/不動産.md "wikilink")[賃貸の](../Page/賃貸借.md "wikilink")[保証](../Page/保証.md "wikilink")業務などを行っていた。株式会社[SFCG](../Page/SFCG.md "wikilink")のグループ企業だった。
 
 旧[商号](../Page/商号.md "wikilink")は、**株式会社亜土電子工業**→**株式会社CSK・エレクトロニクス**→**株式会社ティー・ゾーン**（T-ZONE）→**株式会社T・ZONE ホールディングス**→**株式会社MAGねっと**、[2009年](../Page/2009年.md "wikilink")（[平成](../Page/平成.md "wikilink")21年）[3月10日](../Page/3月10日.md "wikilink")より現商号。
 

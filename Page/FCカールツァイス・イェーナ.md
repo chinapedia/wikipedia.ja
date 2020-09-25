@@ -77,7 +77,15 @@
 
 ## 歴代監督
 
-  - [マーク・ツィマーマン](https://ja.wikipedia.org/wiki/マーク・ツィマーマン "wikilink") 2016-
+  - [マーク・ツィマーマン](https://ja.wikipedia.org/wiki/マーク・ツィマーマン "wikilink") 2016-2018
+
+  - [ルーカス・クスニオク](https://ja.wikipedia.org/wiki/ルーカス・クスニオク "wikilink") 2018-2019
+
+  - [クリスティアン・フレーリヒ](https://ja.wikipedia.org/wiki/クリスティアン・フレーリヒ "wikilink") 2019
+
+  - [リコ・シュミット](https://ja.wikipedia.org/wiki/リコ・シュミット "wikilink") 2019-2020
+
+  - [レネ・クリングバイル](https://ja.wikipedia.org/wiki/レネ・クリングバイル "wikilink") 2020-
 
 ## 歴代所属選手
 

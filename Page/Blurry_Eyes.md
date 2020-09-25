@@ -25,6 +25,7 @@
         活動初期の曲はあまりライブで演奏しないL'Arc〜en〜Cielであるが、本楽曲はデビューから現在まで比較的コンスタントに演奏されてきた楽曲である。また、[演奏](../Page/演奏.md "wikilink")時冒頭でボーカルの[hyde](https://ja.wikipedia.org/wiki/hyde "wikilink")が[ホイッスル](../Page/ホイッスル.md "wikilink")を吹き、歌唱前にそのホイッスルを客席に投げ入れるというパフォーマンスがある。また、2サビの前で一旦曲の演奏を止めて、MCが入る事が多い。
         この曲は基本4/4拍子なのだが、Dメロの「Why do you stare at the sky with your blurry eyes?」の部分および、エンディングの部分が6/8拍子に変わる。また、曲中にギターソロが2回ある。
         また本作品の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")に於いて幻想的なメリーゴーランドのシーンが印象的だが、このシーンは[よみうりランド](../Page/よみうりランド.md "wikilink")を貸切にして撮影された\[7\]。
+        2020年9月12日配信 [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")内コンテンツ 「てっちゃんねる TETSUYA SATURDAY KING RADIO \#123」にてTETSUYA本人の口から「あれはよみうりランドです。」とミュージック・ビデオ撮影地がよみうりランドなのが語られた。
         同じ所属事務所で、レコード会社も同じ[キューンミュージック](../Page/キューンミュージック.md "wikilink")所属の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")、[シドがインディーズ時代にライブでカバーしたことがある](../Page/シド_\(バンド\).md "wikilink")。
 2.  **Wind of Gold (Many Kind of Percussion Mix)**
       - 作詞:hyde / 作曲:[ken](https://ja.wikipedia.org/wiki/ken "wikilink") / 編曲:L'Arc〜en〜Ciel

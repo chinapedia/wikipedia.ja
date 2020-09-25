@@ -77,7 +77,7 @@
 
 ## 外部リンク
 
-  - [Dear WOMAN - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36555.html)
+  - [Dear WOMAN - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36555.html)
 
 [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:麻生哲朗が制作した楽曲](https://ja.wikipedia.org/wiki/Category:麻生哲朗が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:資生堂のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:資生堂のコマーシャルソング "wikilink") [Category:シャンプーのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:シャンプーのコマーシャルソング "wikilink") [Category:応援歌](https://ja.wikipedia.org/wiki/Category:応援歌 "wikilink") [Category:楽曲_て](https://ja.wikipedia.org/wiki/Category:楽曲_て "wikilink")
 

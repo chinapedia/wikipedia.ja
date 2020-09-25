@@ -5,7 +5,7 @@
 
 第一 pK<sub>aH</sub> は8.8と、鎖状アミンと同程度の[塩基性](https://ja.wikipedia.org/wiki/塩基性 "wikilink")であるが、[アルキル基](https://ja.wikipedia.org/wiki/アルキル基 "wikilink")が後ろ手に縛られた構造をとっているために[窒素](../Page/窒素.md "wikilink")原子上の[非共有電子対](https://ja.wikipedia.org/wiki/非共有電子対 "wikilink")まわりの[立体障害](https://ja.wikipedia.org/wiki/立体障害 "wikilink")が小さく、[求核性](https://ja.wikipedia.org/wiki/求核性 "wikilink")が著しく高いことが特徴である。
 
-主に[ポリウレタン](../Page/ポリウレタン.md "wikilink")フォームの発泡触媒として使用されている。[イソシアネート](https://ja.wikipedia.org/wiki/イソシアネート "wikilink")基 (–NCO) と[水酸基](https://ja.wikipedia.org/wiki/ヒドロキシ基 "wikilink") (–OH) の反応において活性が大きく、重付加反応と泡化反応の両方のバランスを保つ効果がある\[1\]。
+主に[ポリウレタン](../Page/ポリウレタン.md "wikilink")フォームの発泡触媒として使用されている。[イソシアネート](../Page/イソシアネート.md "wikilink")基 (–NCO) と[水酸基](https://ja.wikipedia.org/wiki/ヒドロキシ基 "wikilink") (–OH) の反応において活性が大きく、重付加反応と泡化反応の両方のバランスを保つ効果がある\[1\]。
 
 また、近年では求核性の高さと塩基性の低さから、[森田・ベイリス・ヒルマン反応](../Page/森田・ベイリス・ヒルマン反応.md "wikilink")の触媒にも用いられている。
 

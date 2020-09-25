@@ -3,11 +3,15 @@
 
 **エスペローンス・スポルティーヴ・トロワ・オーブ・シャンパーニュ**（**Espérance Sportive Troyes Aube Champagne**）は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")・[トロワ](../Page/トロワ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")に所属。
 
+## 歴史
+
 [1986年](../Page/1986年.md "wikilink")、かつて存在したトロワを拠点としたクラブチーム、Association Sportive Troyenne et Savinienne(1900-1965)とTroyes Aube Football(1970-1979)に次ぐ3番目のサッカークラブとして創設。6部リーグにあたるDivision d'Honneurからスタートし、1996年にディヴィジオン・ドゥ（現在の[リーグ・ドゥ](../Page/リーグ・ドゥ.md "wikilink")）へ昇格したことを機にプロチームとなった。
 
 1999-2000シーズンにディヴィジオン・アン（現在の[リーグ・アン](../Page/リーグ・アン.md "wikilink")）に初昇格。2000年に前身の**Association Troyes Aube Champagne**から現在の名称へと変更した。[2001年](../Page/2001年.md "wikilink")には[UEFAインタートトカップ](../Page/UEFAインタートトカップ.md "wikilink")で[ニューカッスル・ユナイテッドFC](../Page/ニューカッスル・ユナイテッドFC.md "wikilink")を破り[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")に参戦、リーグでも好成績を残した。
 
 しかしながら、2002-03シーズンに最下位に沈み降格。さらに2005-06シーズンに再昇格を果たすも成績は低迷し、昇格後1年目にこそ残留を果たしたものの、翌シーズンに2部に降格した。さらに、2008-09シーズンには3部([フランス全国選手権](../Page/フランス全国選手権.md "wikilink"))降格の憂き目に遭うが、1シーズンでの2部復帰を果たした。そして2011-12シーズンを3位終えたことにより、3度目通算4シーズン目のリーグ・アンに所属することが決定した。2012-13シーズンで19位となり再び2部に降格するが、翌2014-15シーズンはリーグ・ドゥで優勝、1部に返り咲いている。2015-16シーズンで20位となり再び2部に降格するが、翌2016-17シーズンはリーグ・ドゥで3位となり、リーグ・アン18位のロリアンと入れ替え戦を行い、1部に返り咲いている。2017-18シーズンで19位となり再び2部に降格。
+
+2020年9月3日、[シティ・フットボール・グループ](https://ja.wikipedia.org/wiki/シティ・フットボール・グループ "wikilink")が買収し、同グループ10番目のクラブとなった\[1\]。
 
 ## タイトル
 
@@ -59,7 +63,7 @@
 
 ## 現所属メンバー
 
-\[1\]        ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+\[2\]
 
 ## 歴代監督
 
@@ -147,6 +151,7 @@
 
   - [公式サイト](https://www.estac.fr/)
 
-[Category:フランスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:フランスのサッカークラブ "wikilink") [Category:オーブ県](https://ja.wikipedia.org/wiki/Category:オーブ県 "wikilink")
+[Category:トロワAC](https://ja.wikipedia.org/wiki/Category:トロワAC "wikilink") [Category:フランスのサッカークラブ](https://ja.wikipedia.org/wiki/Category:フランスのサッカークラブ "wikilink") [Category:1986年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1986年設立のスポーツチーム "wikilink") [Category:シティ・フットボール・グループ](https://ja.wikipedia.org/wiki/Category:シティ・フットボール・グループ "wikilink") [Category:オーブ県](https://ja.wikipedia.org/wiki/Category:オーブ県 "wikilink")
 
 1.
+2.

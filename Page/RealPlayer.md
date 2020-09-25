@@ -68,7 +68,7 @@
   - for [Windows](../Page/Windows_NT系.md "wikilink") 8.1 Update, 10 : 基本/Basicプラン（無料）とPremiumプラン（月額課金）がある。
   - RealTimes for [Mac](../Page/Macintosh.md "wikilink") : 無料（配布終了[2](https://jp.real.com/mac/)）、有料（[Mac App Store](https://ja.wikipedia.org/wiki/Mac_App_Store "wikilink")）。[OS X v10.9以降対応](https://ja.wikipedia.org/wiki/OS_X_Mavericks "wikilink")。
   - RealTimes for [iPad](https://ja.wikipedia.org/wiki/iPad "wikilink"), [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink") : 無料。[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") 8.0 以降対応。
-  - RealTimes for Android : [Android](../Page/Android.md "wikilink") 4.4 以上対応。
+  - RealTimes for Android : [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") 4.4 以上対応。
 
 ### RealPlayer Plus
 

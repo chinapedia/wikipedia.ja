@@ -492,9 +492,9 @@ PlotData=
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")現在\[1\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Denmark.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Iran.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curacao.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Greece.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -554,7 +554,7 @@ PlotData=
 
   - [ダヴィド・イェンセン](https://ja.wikipedia.org/wiki/ダヴィド・イェンセン "wikilink") 2016-2020
 
-  - [イェルーン・ズート](https://ja.wikipedia.org/wiki/イェルーン・ズート "wikilink") 2020-
+  - [イェルーン・ズート](https://ja.wikipedia.org/wiki/イェルーン・ズート "wikilink") 2020
 
 ### DF
 
@@ -578,7 +578,7 @@ PlotData=
 
   - [マチュー・デルピエール](https://ja.wikipedia.org/wiki/マチュー・デルピエール "wikilink") 2014
 
-  - [ラミーヌ・サネ](https://ja.wikipedia.org/wiki/リュドヴィク・サネ "wikilink") 2020-
+  - [ラミーヌ・サネ](https://ja.wikipedia.org/wiki/リュドヴィク・サネ "wikilink") 2020
 
 ### MF
 
@@ -602,7 +602,7 @@ PlotData=
 
   - [バルト・ラムセラール](https://ja.wikipedia.org/wiki/バルト・ラムセラール "wikilink") 2015-2016, 2019-
 
-  - [ウルビー・エマヌエルソン](../Page/ウルビー・エマヌエルソン.md "wikilink") 2017-
+  - [ウルビー・エマヌエルソン](../Page/ウルビー・エマヌエルソン.md "wikilink") 2017-2020
 
   - [マテウシュ・クリヒ](https://ja.wikipedia.org/wiki/マテウシュ・クリヒ "wikilink") 2018
 

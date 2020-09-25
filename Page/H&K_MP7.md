@@ -115,6 +115,8 @@ MP7A1では、更にフロントサイドにピカティニー・レールが追
         ヴィクトリアが[ドットサイトを装着したA](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")1を使用する。
   - 『[アンダーワールド2 エボリューション](../Page/アンダーワールド:_エボリューション.md "wikilink")』
     セリーンと[吸血鬼](../Page/吸血鬼.md "wikilink")[特殊部隊](../Page/特殊部隊.md "wikilink")が使用。
+  - 『[仮面ライダーアマゾンズ](https://ja.wikipedia.org/wiki/仮面ライダーアマゾンズ "wikilink")』
+    水澤美月が使用。
   - 『[コバート・アフェア](https://ja.wikipedia.org/wiki/コバート・アフェア "wikilink")』
     『[ザ・ウォーカー](https://ja.wikipedia.org/wiki/ザ・ウォーカー "wikilink")』
     物語後半、ソラーラがジョージの取り出した本銃を手に、カーネギーの一味と銃撃戦を繰り広げる。

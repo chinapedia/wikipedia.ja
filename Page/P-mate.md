@@ -14,7 +14,7 @@
 ## 外部リンク
 
   - [【Game-Style】奢って、業界人！（P-mateの回）](https://web.archive.org/web/20080423070820/http://www.game-style.jp/ogotte/200409/09/01ogg_as.php)（インターネットアーカイブ2008年4月23日分キャッシュ）
-  - [美少女パソコンマガジン P-mate 公式ウェブサイト](http://web.archive.org/web/20040826014813/http://book.mycom.co.jp/pmate/html/p-mate.html) - MYCOM（インターネットアーカイブ2004年8月26日分キャッシュ）
-  - [美少女パソコンゲームマガジン P-mate](http://web.archive.org/web/20050407052223/http://www.heartfulnet.jp/pmate/) - 宙出版（インターネットアーカイブ2005年4月7日分キャッシュ）
+  - [美少女パソコンマガジン P-mate 公式ウェブサイト](https://web.archive.org/web/20040826014813/http://book.mycom.co.jp/pmate/html/p-mate.html) - MYCOM（インターネットアーカイブ2004年8月26日分キャッシュ）
+  - [美少女パソコンゲームマガジン P-mate](https://web.archive.org/web/20050407052223/http://www.heartfulnet.jp/pmate/) - 宙出版（インターネットアーカイブ2005年4月7日分キャッシュ）
 
 [Category:マイナビ出版](https://ja.wikipedia.org/wiki/Category:マイナビ出版 "wikilink") [Category:アダルトゲーム雑誌](https://ja.wikipedia.org/wiki/Category:アダルトゲーム雑誌 "wikilink") [Category:コンピュータゲーム雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:コンピュータゲーム雑誌_\(休廃刊\) "wikilink") [Category:1999年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1999年創刊の雑誌 "wikilink") [Category:2005年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2005年休廃刊の雑誌 "wikilink")

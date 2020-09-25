@@ -434,7 +434,15 @@ PlotData=
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[7月<u>7</u>日現在](https://ja.wikipedia.org/wiki/7月7日 "wikilink")
+  - [2020年](../Page/2020年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")現在\[2\]
+
+
+
+  - 監督
+
+<!-- end list -->
+
+  - [ダニー・バイス](https://ja.wikipedia.org/wiki/ダニー・バイス "wikilink") 2018-
 
 ### ローン移籍選手
 
@@ -443,8 +451,6 @@ PlotData=
 <!-- end list -->
 
   - out
-
-### 加入内定選手
 
 ## 歴代監督
 
@@ -538,3 +544,4 @@ PlotData=
 [Category:FCフローニンゲン](https://ja.wikipedia.org/wiki/Category:FCフローニンゲン "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:フローニンゲン州](https://ja.wikipedia.org/wiki/Category:フローニンゲン州 "wikilink")
 
 1.  <http://www.fcgroningen.nl/home/club-info/club-info/>
+2.  [20/21 Selectie](https://www.fcgroningen.nl/selectie) - FCフローニンゲン公式サイト

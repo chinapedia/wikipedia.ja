@@ -52,7 +52,8 @@
   - 2018年7月1日 - 子会社の株式会社KeyProductionが、株式会社BIGFACEからテレビ制作事業を吸収分割により譲受\[13\]。
   - [2019年](../Page/2019年.md "wikilink")3月1日 - [株式会社AKSより女性アイドルグループ](../Page/AKS.md "wikilink")[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")の運営を譲受\[14\]。
   - 2019年4月1日 - 株式会社allfuzを完全子会社化\[15\]。
-  - 2020年7月1日 - この日までに株式会社ノース・リバーの株式50%を取得。同社は、アイドルグループ「[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")」を運営する「乃木坂46合同会社」の持分の50％を保有しており、ノース・リバーは連結子会社、乃木坂46合同会社は持分法適用会社となった\[16\]\[17\]\[18\]。
+  - 2020年7月1日 - この日までに株式会社ノース・リバーの株式50%を取得。同社は、アイドルグループ「[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")」を運営する「乃木坂46合同会社」の持分の50％を保有しており、ノース・リバーは連結子会社、乃木坂46合同会社は持分法適用会社となった\[16\]\[17\]\[18\]。その後、同社の株式を95%まで取得、5%は株式会社FA Projectが保有することとなった\[19\]。
+  - 2020年9月3日 - 不動産事業を行うキーノート株式会社を株式交換により[プロスペクトへ譲渡](../Page/プロスペクト_\(不動産会社\).md "wikilink")\[20\]。
 
 ## 主要株主
 
@@ -66,12 +67,11 @@
 
 ## 関係会社
 
-  - キーノート株式会社：戸建及びマンションの開発分譲、中古住宅再生、商業施設建築。
-  - 株式会社allfuz：広告代理店、デジタルコンテンツ、ライブ・イベント施設「KeyStudio」運営事業。2019年7月1日に株式会社KeyStudioを吸収合併\[19\]。
-      - [株式会社A.M.Entertainment](https://ja.wikipedia.org/wiki/A.M.Entertainment "wikilink")：芸能及びモデルプロダクション事業。2020年4月からは、元乃木坂46の[生駒里奈](https://ja.wikipedia.org/wiki/生駒里奈 "wikilink")をマネジメント (業務提携) している\[20\]。
-  - 株式会社UNITED PRODUCTIONS：テレビ制作事業。設立時（2018年4月）の社名「株式会社KeyProduction」から2019年8月に「株式会社UNITED PRODUCTION」変更された\[21\]。
-  - 株式会社ゼスト：[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")および[芸能スクール運営事業](../Page/アクターズスクール.md "wikilink")\[22\]。設立時（2019年1月\[23\]）の社名は「株式会社SKE」だったが、2019年7月に現社名へと変更された\[24\]。2020年4月からは、元乃木坂46の[若月佑美](https://ja.wikipedia.org/wiki/若月佑美 "wikilink")をマネジメント (業務提携) している\[25\]。
-  - 株式会社ノース・リバー : 映像コンテンツ、ライブコンサートなどのトータルプロデュース事業。一般貸切旅客自動車運送事業、一般乗用旅客自動車運送事業、一般貨物自動車運送事業。乃木坂46を運営する「乃木坂46合同会社」の持分の50％を保有\[26\]\[27\]。
+  - 株式会社allfuz：広告代理店、デジタルコンテンツ、ライブ・イベント施設「KeyStudio」運営事業。2019年7月1日に株式会社KeyStudioを吸収合併\[21\]。
+      - [株式会社A.M.Entertainment](https://ja.wikipedia.org/wiki/A.M.Entertainment "wikilink")：芸能及びモデルプロダクション事業。2020年4月からは、元乃木坂46の[生駒里奈](https://ja.wikipedia.org/wiki/生駒里奈 "wikilink")をマネジメント (業務提携) している\[22\]。
+  - 株式会社UNITED PRODUCTIONS：テレビ制作事業。設立時（2018年4月）の社名「株式会社KeyProduction」から2019年8月に「株式会社UNITED PRODUCTION」変更された\[23\]。
+  - 株式会社ゼスト：[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")および[芸能スクール運営事業](../Page/アクターズスクール.md "wikilink")\[24\]。設立時（2019年1月\[25\]）の社名は「株式会社SKE」だったが、2019年7月に現社名へと変更された\[26\]。2020年4月からは、元乃木坂46の[若月佑美](https://ja.wikipedia.org/wiki/若月佑美 "wikilink")をマネジメント (業務提携) している\[27\]。
+  - 株式会社ノース・リバー : 映像コンテンツ、ライブコンサートなどのトータルプロデュース事業。一般貸切旅客自動車運送事業、一般乗用旅客自動車運送事業、一般貨物自動車運送事業。乃木坂46を運営する「乃木坂46合同会社」の持分の50％を保有\[28\]\[29\]。
 
 ## その他
 
@@ -103,12 +103,14 @@
 16.
 17.
 18.
-19. [当社連結子会社間の吸収合併に関するお知らせ](http://www.keyholder.co.jp/dl/merger_allfuz_keystudio.pdf?s.5cde78d82b4ed8958l3c)
+19.
 20.
-21. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190717_subsidiary_company%20name%20change.pdf?s.5d2ea7b14dc2a47nhkll)
-22. [アイドル・タレント養成スクール の開校に関するお知らせ](http://www.keyholder.co.jp/dl/20190308_notice_SKE_school.pdf?s.5c820fc2885d65f62450)
-23. [子会社設立に関するお知らせ](http://www.keyholder.co.jp/dl/20181227_kh_subsidiary.pdf?s.5c245e6ec7fd5m3ehd7)
-24. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190606_Change%20of%20subsidiary%20company%20name.pdf?s.5cf89fdc2346579jn4l3)
-25.
-26.
+21. [当社連結子会社間の吸収合併に関するお知らせ](http://www.keyholder.co.jp/dl/merger_allfuz_keystudio.pdf?s.5cde78d82b4ed8958l3c)
+22.
+23. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190717_subsidiary_company%20name%20change.pdf?s.5d2ea7b14dc2a47nhkll)
+24. [アイドル・タレント養成スクール の開校に関するお知らせ](http://www.keyholder.co.jp/dl/20190308_notice_SKE_school.pdf?s.5c820fc2885d65f62450)
+25. [子会社設立に関するお知らせ](http://www.keyholder.co.jp/dl/20181227_kh_subsidiary.pdf?s.5c245e6ec7fd5m3ehd7)
+26. [当社連結子会社の商号変更に関するお知らせ](http://www.keyholder.co.jp/dl/20190606_Change%20of%20subsidiary%20company%20name.pdf?s.5cf89fdc2346579jn4l3)
 27.
+28.
+29.

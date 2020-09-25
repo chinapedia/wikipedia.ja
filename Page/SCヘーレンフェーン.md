@@ -269,7 +269,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">オリンピック・リヨン</a></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">オリンピック・リヨン</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-3</p></td>
 <td></td>
@@ -645,7 +645,9 @@
 
   - [2020年](../Page/2020年.md "wikilink")[8月7日](../Page/8月7日.md "wikilink")現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))                  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))
+
+※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
 ### ローン移籍
 

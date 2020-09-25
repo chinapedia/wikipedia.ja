@@ -97,7 +97,7 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
       - 5月 - 株式会社[ジャニーズ・エンタテイメント](../Page/ジャニーズ・エンタテイメント.md "wikilink")が株式会社[ジェイ・ストーム](../Page/ジェイ・ストーム.md "wikilink")に統合され、同社の社内レーベルとなる。
       - アメリカにおけるレコード流通に途絶の危機。[Direct Shot Distributing社による流通の寡占により](https://ja.wikipedia.org/wiki/Direct_Shot_Distributing "wikilink")、中小の店舗に流通が滞る事態が多発している\[17\]。
   - 2020年（令和2年）
-      - [新型コロナウィルスの猛威により](../Page/2019新型コロナウイルス.md "wikilink")、実演家の多くが発表の場を失い、活動継続の危機に瀕する事態となった\[18\]。
+      - [新型コロナウィルスの猛威により](../Page/2019新型コロナウイルス.md "wikilink")、実演家の多くが発表の場を失い、活動継続の危機に瀕する事態となった\[18\]。また米国では、感染を懸念してCDショップの営業停止が相次いだために、2020年上半期のCDの売上が30年ぶりに[アナログレコード](https://ja.wikipedia.org/wiki/アナログレコード "wikilink")を下回った。\[19\]
 
 ## 脚注
 
@@ -141,3 +141,4 @@ CD不況の原因や背景として、以下のようなことがらが挙げら
 16. [CD不況…HMV渋谷惜しまれながら閉店](http://www.nikkansports.com/entertainment/news/p-et-tp0-20100823-669383.html) nikkansports.com（2010年8月23日）
 17. <https://headlines.yahoo.co.jp/article?a=20200317-00033462-rolling-musi>
 18. <https://www.musicman.co.jp/column/308455>
+19. <https://www.jiji.com/jc/article?k=20200914040565a&g=afp>

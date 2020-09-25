@@ -8,7 +8,7 @@
   - メッセージング : [SMS](https://ja.wikipedia.org/wiki/ショートメッセージサービス "wikilink")/[MMS](../Page/マルチメディアメッセージングサービス.md "wikilink")
   - 内蔵ブラウザ : [WAP](../Page/Wireless_Application_Protocol.md "wikilink") 1.2.1/[XHTML](../Page/Extensible_HyperText_Markup_Language.md "wikilink")
   - 外部インターフェイス : [USBケーブル接続](../Page/ユニバーサル・シリアル・バス.md "wikilink")（モデムとしては使用不可）
-  - 対応言語 : [英語](../Page/英語.md "wikilink")・[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）・[フィリピン語](../Page/フィリピン語.md "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink")（ノキア・ジャパン扱いのアジア向けモデルの場合）
+  - 対応言語 : [英語](../Page/英語.md "wikilink")・[中国語](../Page/中国語.md "wikilink")（[簡体字](https://ja.wikipedia.org/wiki/簡体字 "wikilink")・[繁体字](../Page/繁体字.md "wikilink")）・[フィリピン語](../Page/フィリピン語.md "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink")（ノキア・ジャパン扱いのアジア向けモデルの場合）
   - [Java](../Page/Javaプラットフォーム.md "wikilink")：[Java ME](../Page/Java_Platform,_Micro_Edition.md "wikilink") MIDP 1.0, CLDC 1.0
 
 ## 特徴

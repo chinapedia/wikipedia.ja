@@ -80,11 +80,11 @@ CDプレーヤーが[アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilin
   - [DVDプレーヤー](../Page/DVDプレーヤー.md "wikilink")
   - [BDプレーヤー](../Page/BDプレーヤー.md "wikilink")
   - [音響機器](../Page/音響機器.md "wikilink")
-  - [レンズクリーナー](https://ja.wikipedia.org/wiki/レンズクリーナー "wikilink")
+  - [デジタル-アナログ変換回路](../Page/デジタル-アナログ変換回路.md "wikilink")
   - [カセットデッキ](https://ja.wikipedia.org/wiki/カセットデッキ "wikilink")
   - [MDデッキ](https://ja.wikipedia.org/wiki/MDデッキ "wikilink")
   - [CDレコーダー](https://ja.wikipedia.org/wiki/CDレコーダー "wikilink")
-  - [AMステレオ対応受信機の歴史](https://ja.wikipedia.org/wiki/AMステレオ対応受信機の歴史 "wikilink")
+  - [FM放送](https://ja.wikipedia.org/wiki/FM放送 "wikilink")
   - [スーパーマルチドライブ](https://ja.wikipedia.org/wiki/スーパーマルチドライブ "wikilink")
 
 ## 外部リンク

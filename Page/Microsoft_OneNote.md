@@ -1,7 +1,7 @@
 > この記事は[Microsoft OneNote](https://ja.wikipedia.org/wiki/Microsoft_OneNote)から翻訳されています。
 
 
-**Microsoft OneNote**（マイクロソフト ワンノート）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"), [Android](../Page/Android.md "wikilink"), [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"), [Windows Phone向けに公開しているデジタルノートアプリケーションである](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")。
+**Microsoft OneNote**（マイクロソフト ワンノート）は、[マイクロソフト](../Page/マイクロソフト.md "wikilink")が[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink"), [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"), [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink"), [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink"), [Windows Phone向けに公開しているデジタルノートアプリケーションである](https://ja.wikipedia.org/wiki/Windows_Phone "wikilink")。
 
 ## 概要
 
@@ -93,7 +93,7 @@ Windowsのデスクトップ版とmacOS版には無料版の「Microsoft OneNote
       - [Windowsストア](https://ja.wikipedia.org/wiki/Windowsストア "wikilink")
   - [Windows 7](../Page/Microsoft_Windows_7.md "wikilink")
   - [Windows Phone 7](https://ja.wikipedia.org/wiki/Windows_Phone_7 "wikilink")/[8](https://ja.wikipedia.org/wiki/Windows_Phone_8 "wikilink")
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
   - [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
       - [iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")

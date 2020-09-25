@@ -55,8 +55,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1993年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1993年のファミリーコンピュータ用ソフト "wikilink") [Category:コナミのゲームソフト](https://ja.wikipedia.org/wiki/Category:コナミのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:F1ゲーム](https://ja.wikipedia.org/wiki/Category:F1ゲーム "wikilink")
 
 1.

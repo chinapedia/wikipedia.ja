@@ -381,7 +381,7 @@
 
 事実上、上記「ポケットチャージャー 02」の[au版にあたる](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")「ポータブル充電器02」（[FDKトワイセル](../Page/FDKトワイセル.md "wikilink")→[FDK](../Page/FDK.md "wikilink")製）にも、同様に「Powered by eneloop」のロゴが表記されている（ちなみに「ポータブル充電器01」は、当時の[松下電池工業](https://ja.wikipedia.org/wiki/松下電池工業 "wikilink")製であるため、eneloopと直接の関連はない）。ただし「ポータブル充電器02」は[Qi](https://ja.wikipedia.org/wiki/Qi "wikilink")規格に対応していない。
 
-かつて[イオンの](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")[プライベートブランド](../Page/プライベートブランド.md "wikilink")である「[トップバリュ 共環宣言](../Page/イオントップバリュ.md "wikilink")」の充電池がエネループの[OEM](../Page/OEM.md "wikilink")で互換性があった。容量と最大充電回数に違いがあったが、併用が可能である。
+かつて[イオンの](https://ja.wikipedia.org/wiki/イオン_\(店舗ブランド\) "wikilink")[プライベートブランド](../Page/プライベートブランド.md "wikilink")である「[トップバリュ 共環宣言](../Page/イオントップバリュ.md "wikilink")」の充電池がエネループの[OEM](../Page/OEM.md "wikilink")で互換性があった。のちの「eneloop lite」に近い仕様で容量と最大充電回数に違いがあったが、併用が可能である。
 
 ## 脚注
 

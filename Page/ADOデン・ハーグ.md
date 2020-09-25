@@ -223,7 +223,7 @@ PlotData=
 
 ## 現所属メンバー
 
-([第2主将](../Page/主将.md "wikilink"))   ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+[ADO_Den_Haag_in_het_seizoen_2018-19.jpg](https://ja.wikipedia.org/wiki/File:ADO_Den_Haag_in_het_seizoen_2018-19.jpg "fig:ADO_Den_Haag_in_het_seizoen_2018-19.jpg")
 
   - [監督](../Page/監督.md "wikilink")
 

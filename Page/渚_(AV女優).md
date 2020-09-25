@@ -3,7 +3,7 @@
 
 **渚**（なぎさ、[1988年](../Page/1988年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")\[1\]。
 
-[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：O型。身長154cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B84（Cカップ-65） W58 H86。趣味：アニメ観賞。特技：デッサン。
+[血液型](../Page/ABO式血液型.md "wikilink")：O型。身長154cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B84（Cカップ-65） W58 H86。趣味：アニメ観賞。特技：デッサン。
 
 ## 略歴
 

@@ -1,7 +1,7 @@
 > この記事は[CRYSTAL LAKE](https://ja.wikipedia.org/wiki/CRYSTAL_LAKE)から翻訳されています。
 
 
-**CRYSTAL LAKE**(**クリスタル・レイク**)は、[東京](../Page/東京.md "wikilink")を拠点に活動している[メタルコア](../Page/メタルコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
+**CRYSTAL LAKE**（クリスタル・レイク）は、[東京](../Page/東京.md "wikilink")を拠点に活動している[メタルコア](../Page/メタルコア.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。
 
 ## メンバー
 

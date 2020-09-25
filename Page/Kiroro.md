@@ -7,7 +7,7 @@
 
 共に[沖縄県](../Page/沖縄県.md "wikilink")[中頭郡](../Page/中頭郡.md "wikilink")[読谷村](../Page/読谷村.md "wikilink")出身\[1\]。
 
-  - **玉城千春**（たましろ ちはる、 - 、[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。タレントの[玉城ちはる](../Page/玉城ちはる.md "wikilink")（たまき ちはる）とは別人。
+  - **玉城千春**（たましろ ちはる、 - 、[A型](../Page/ABO式血液型.md "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。タレントの[玉城ちはる](../Page/玉城ちはる.md "wikilink")（たまき ちはる）とは別人。
   - **金城綾乃**（きんじょう あやの、 - 、[AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")）[ピアノ](../Page/ピアノ.md "wikilink")・[キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。
 
 ## 来歴

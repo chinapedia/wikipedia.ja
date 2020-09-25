@@ -5,7 +5,7 @@
 
 ## 内容
 
-表題曲は、ツアー『Do As Infinity LIVE TOUR 2005 〜NEED YOUR LOVE〜』の最終日である[日本武道館](../Page/日本武道館.md "wikilink")公演で、未発表の新曲として披露された。「TAO」とは[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")で「[道](../Page/道.md "wikilink")」という意味がある。ラストアルバムである『[NEED YOUR LOVE](../Page/NEED_YOUR_LOVE.md "wikilink")』よりも後に発売されているため、オリジナルアルバムには収録されていない。「TAO」は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[テイルズ オブ レジェンディア](https://ja.wikipedia.org/wiki/テイルズ_オブ_レジェンディア "wikilink")』オープニングテーマ。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「aurora」はアルバム未収録曲。
+表題曲は、ツアー『Do As Infinity LIVE TOUR 2005 〜NEED YOUR LOVE〜』の最終日である[日本武道館](../Page/日本武道館.md "wikilink")公演で、未発表の新曲として披露された。「TAO」とは[中国語](../Page/中国語.md "wikilink")で「[道](../Page/道.md "wikilink")」という意味がある。ラストアルバムである『[NEED YOUR LOVE](../Page/NEED_YOUR_LOVE.md "wikilink")』よりも後に発売されているため、オリジナルアルバムには収録されていない。「TAO」は、[ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")の[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『[テイルズ オブ レジェンディア](https://ja.wikipedia.org/wiki/テイルズ_オブ_レジェンディア "wikilink")』オープニングテーマ。[カップリング曲](https://ja.wikipedia.org/wiki/カップリング曲 "wikilink")の「aurora」はアルバム未収録曲。
 
 DAIはこのシングル発売から2ヵ月後の[9月13日](../Page/9月13日.md "wikilink")に解散を発表し、デビューから丁度6年目となった[9月29日](../Page/9月29日.md "wikilink")に解散。解散後の[11月25日](../Page/11月25日.md "wikilink")には[日本武道館](../Page/日本武道館.md "wikilink")でのラストライブ「Do As Infinity -final-」を行った（解散後のため、厳密には再結成ライブとなった）。尚、D.A.I.は再結成後に発売された次作にあたる21stシングル「[∞1](https://ja.wikipedia.org/wiki/∞1 "wikilink")」以降から、[2019年](../Page/2019年.md "wikilink")発売の13thアルバム『[Do As Infinity](https://ja.wikipedia.org/wiki/Do_As_Infinity_\(アルバム\) "wikilink")』までは、楽曲制作に一切関わっていない。
 
@@ -43,7 +43,7 @@ DAIはこのシングル発売から2ヵ月後の[9月13日](../Page/9月13日.m
 
   - 『[Do The A-side](../Page/Do_The_A-side.md "wikilink")』
   - 『[Do The Best "Great Supporters Selection"](https://ja.wikipedia.org/wiki/Do_The_Best_"Great_Supporters_Selection" "wikilink")』
-  - 『[Anime and Game COLLECTION](https://ja.wikipedia.org/wiki/Anime_and_Game_COLLECTION "wikilink")』
+  - 『[Anime and Game COLLECTION](../Page/Anime_and_Game_COLLECTION.md "wikilink")』
   - 『\[\[2_of_Us\#2_of_Us_RED_-14_Re:SINGLES-|2 of Us \[RED\] -14 Re:SINGLES-\]\]』（アレンジ、新録音して収録）
 
 <!-- end list -->

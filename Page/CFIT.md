@@ -11,7 +11,7 @@
 
 ### 1950年以前
 
-  - [1947年](../Page/1947年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink") - [Star Dust](https://ja.wikipedia.org/wiki/:en:Star_Dust_\(aircraft\) "wikilink") airliner ：記録されている初のCFIT事故。飛行中に現在地を見失い、地形を到着地の[サンティアゴの空港と誤認し衝突したものと思われる](../Page/サンティアゴ_\(チリ\).md "wikilink")。機体の残骸が発見されるまで実に50年を要した。
+  - [1947年](../Page/1947年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink") - [ブリティッシュサウスアメリカン航空スターダスト号事故](../Page/ブリティッシュサウスアメリカン航空スターダスト号事故.md "wikilink")
 
 ### 1950年代
 
@@ -27,7 +27,7 @@
 
   - [1960年](../Page/1960年.md "wikilink")[6月10日](../Page/6月10日.md "wikilink") -[トランス・オーストラリア航空](https://ja.wikipedia.org/wiki/トランス・オーストラリア航空 "wikilink")（現、[オーストラリア航空](../Page/オーストラリア航空.md "wikilink")） 538便 ([:en:TAA Fokker Friendship disaster](https://ja.wikipedia.org/wiki/:en:TAA_Fokker_Friendship_disaster "wikilink"))
   - [1965年](../Page/1965年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink") - [ユナイテッド航空389便墜落事故](https://ja.wikipedia.org/wiki/ユナイテッド航空389便墜落事故 "wikilink") ([:en:United Airlines Flight 389](https://ja.wikipedia.org/wiki/:en:United_Airlines_Flight_389 "wikilink"))
-  - [1965年](../Page/1965年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink") - [アメリカン航空](../Page/アメリカン航空.md "wikilink") 383便 ([:en:American Airlines Flight 383](https://ja.wikipedia.org/wiki/:en:American_Airlines_Flight_383 "wikilink"))
+  - [1965年](../Page/1965年.md "wikilink")[11月8日](../Page/11月8日.md "wikilink") - [アメリカン航空383便事故](https://ja.wikipedia.org/wiki/アメリカン航空383便事故 "wikilink") ([:en:American Airlines Flight 383 (1965)](https://ja.wikipedia.org/wiki/:en:American_Airlines_Flight_383_\(1965\) "wikilink"))
 
 ### 1970年代
 
@@ -37,7 +37,7 @@
   - [1972年](../Page/1972年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink") - [イースタン航空401便墜落事故](../Page/イースタン航空401便墜落事故.md "wikilink")
   - [1973年](../Page/1973年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink") - [アエロメヒコ航空](../Page/アエロメヒコ航空.md "wikilink") 229便墜落事故 ([:en:Aeroméxico Flight 229](https://ja.wikipedia.org/wiki/:en:Aeroméxico_Flight_229 "wikilink"))
   - [1973年](../Page/1973年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - [デルタ航空](../Page/デルタ航空.md "wikilink") 723便 ([:en:Delta Air Lines Flight 723](https://ja.wikipedia.org/wiki/:en:Delta_Air_Lines_Flight_723 "wikilink"))
-  - [1974年](../Page/1974年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - [トランス・ワールド航空](../Page/トランス・ワールド航空.md "wikilink") 514便 ([:en:TWA Flight 514](https://ja.wikipedia.org/wiki/:en:TWA_Flight_514 "wikilink"))
+  - [1974年](../Page/1974年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - [トランスワールド航空514便墜落事故](https://ja.wikipedia.org/wiki/トランスワールド航空514便墜落事故 "wikilink")
   - [1979年](../Page/1979年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink") - [ニュージーランド航空901便エレバス山墜落事故](../Page/ニュージーランド航空901便エレバス山墜落事故.md "wikilink")
 
 ### 1980年代

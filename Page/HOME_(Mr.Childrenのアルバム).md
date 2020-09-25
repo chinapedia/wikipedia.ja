@@ -1,20 +1,11 @@
 > この記事は[HOME \(Mr.Childrenのアルバム\)](https://ja.wikipedia.org/wiki/HOME_\(Mr.Childrenのアルバム\))から翻訳されています。
 
 
-{{Infobox Album | Name = HOME | Type = [スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink") | Artist = [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") | Released = [2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") | Recorded = OORONG TOKYO STUDIO
-VICTOR STUDIO | Genre = [J-POP](../Page/J-POP.md "wikilink")
-[ロック](../Page/ロック_\(音楽\).md "wikilink") | Length = 72分18秒 | Label = [トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink") | Producer = [小林武史](../Page/小林武史.md "wikilink") | Reviews = \* *[allmusic](../Page/オールミュージック.md "wikilink")*  [link](http://www.allmusic.com/album/home-mw0001524351) | Chart position = \* 週間1位（2週連続、[オリコン](../Page/オリコンチャート.md "wikilink")）\[1\]
-
-  - 2007年3月度月間1位（オリコン）
-  - 2007年度上半期1位（オリコン）
-  - 2007年度年間1位（オリコン）
-  - オリコン歴代アルバムランキング205位
-
-| Certification = \* ミリオン（[日本レコード協会](../Page/日本レコード協会.md "wikilink")） | Last album = \[\[I_♥_U|I  『**HOME**』（ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の13枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**HOME**』（ホーム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の13枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[2007年](../Page/2007年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された\[1\]。
 
 ## 概要
 
-前作『[I {{unicode](https://ja.wikipedia.org/wiki/I_♥_U "wikilink")』から約1年半ぶりのアルバム。初回限定盤には[DVD](../Page/DVD.md "wikilink")が付属しており、[桜井和寿](../Page/桜井和寿.md "wikilink")のインタビューを軸に、[2006年](../Page/2006年.md "wikilink")の[the pillowsとの対バン形式のライブツアー](https://ja.wikipedia.org/wiki/the_pillows "wikilink")『Mr.Children & the pillows new big bang tour ～This is Hybrid Innocent～」より「[箒星](../Page/箒星_\(曲\).md "wikilink")」「[ストレンジ カメレオン](https://ja.wikipedia.org/wiki/SYNCHRONIZED_ROCKERS#収録曲 "wikilink")」「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」「[フェイク](../Page/フェイク.md "wikilink")」と『[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")』より「彩り」のライブ映像が収録されている。
+前作『[I {{unicode](../Page/I_♥_U.md "wikilink")』から約1年半ぶりのアルバム。初回限定盤には[DVD](../Page/DVD.md "wikilink")が付属しており、[桜井和寿](../Page/桜井和寿.md "wikilink")のインタビューを軸に、[2006年](../Page/2006年.md "wikilink")の[the pillowsとの対バン形式のライブツアー](https://ja.wikipedia.org/wiki/the_pillows "wikilink")『Mr.Children & the pillows new big bang tour ～This is Hybrid Innocent～」より「[箒星](../Page/箒星_\(曲\).md "wikilink")」「[ストレンジ カメレオン](https://ja.wikipedia.org/wiki/SYNCHRONIZED_ROCKERS#収録曲 "wikilink")」「[しるし](../Page/しるし_\(Mr.Childrenの曲\).md "wikilink")」「[フェイク](../Page/フェイク.md "wikilink")」と『[ap bank fes '06](https://ja.wikipedia.org/wiki/ap_bank_fes_'06 "wikilink")』より「彩り」のライブ映像が収録されている。
 
 今回のアルバムの方向性について話し合っている時に、[小林武史](../Page/小林武史.md "wikilink")は「**もっと世界に向けてメッセージを投げかけるのはどうか**」と提案したが、それに疑問を抱いた桜井はその翌朝に「彩り」を書き上げ、「**あえて言うまでもないことや、日常の言葉、言動、景色等を大切に**」というテーマで製作を進めることとなった。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**僕がいる。ありがとう。**」（[コピーライター](../Page/コピーライター.md "wikilink")の[前田知巳](../Page/前田知巳.md "wikilink")によるもの）。当初アルバムタイトルの候補として『**HOME MADE**』や『**HOME GROUND**』があったが、最終的に『**HOME**』となった。
 
@@ -26,7 +17,7 @@ VICTOR STUDIO | Genre = [J-POP](../Page/J-POP.md "wikilink")
 
 ## チャート成績
 
-[オリコンチャート](../Page/オリコンチャート.md "wikilink")で10thアルバム『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』から4作連続通算10作目の初登場1位を獲得、同時にシングルとアルバムの総売上枚数が5000万枚を突破し、[B'z](../Page/B'z.md "wikilink")が『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で達成して以来史上2組目の記録になった\[2\]。『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』以来約5年8ヶ月ぶりでオリジナルアルバムでは4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』以来約12年半ぶり通算3作目の2週連続1位となり\[3\]、発売から4週目で累計売上が100万枚を突破。アルバム通算では11作目のミリオンセラーとなり、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")10作を抜いて歴代単独2位、現役アーティストとしては最多となる6作連続のミリオンセラーを達成した。また、6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』以来10年ぶりに上半期アルバムチャート1位を記録、年間アルバムチャートではデビュー15年にして初めて1位を獲得した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")で10thアルバム『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』から4作連続通算10作目の初登場1位を獲得、同時にシングルとアルバムの総売上枚数が5000万枚を突破し、[B'z](../Page/B'z.md "wikilink")が『[B'z The Best "Pleasure"](../Page/B'z_The_Best_"Pleasure".md "wikilink")』で達成して以来史上2組目の記録になった\[2\]。『[Mr.Children 1992-1995](../Page/Mr.Children_1992-1995.md "wikilink")』以来約5年8ヶ月ぶり、オリジナルアルバムでは4thアルバム『[Atomic Heart](../Page/Atomic_Heart.md "wikilink")』以来約12年半ぶり通算3作目の2週連続1位となり\[3\]、発売から4週目で累計売上が100万枚を突破。アルバム通算では11作目のミリオンセラーとなり、[DREAMS COME TRUEの](../Page/DREAMS_COME_TRUE.md "wikilink")10作を抜いて歴代単独2位、現役アーティストとしては最多となる6作連続のミリオンセラーを達成した。また、6thアルバム『[BOLERO](../Page/BOLERO_\(Mr.Childrenのアルバム\).md "wikilink")』以来10年ぶりに上半期アルバムチャート1位を記録、年間アルバムチャートではデビュー15年にして初めて1位を獲得した。
 
 ## 収録曲
 
@@ -94,55 +85,60 @@ VICTOR STUDIO | Genre = [J-POP](../Page/J-POP.md "wikilink")
 
 ## 参加ミュージシャン
 
+  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
+      - [桜井和寿](../Page/桜井和寿.md "wikilink")：Vocal, Guitar
+      - [田原健一](../Page/田原健一.md "wikilink")：Guitar
+      - [中川敬輔](../Page/中川敬輔.md "wikilink")：Bass
+      - [鈴木英哉](../Page/鈴木英哉.md "wikilink")：Drums
   - [小林武史](../Page/小林武史.md "wikilink")：Keyboards
-  - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")：Chorus (\#2,\#10,\#11,\#13)
-  - 吉田誠：Computer Programming
-  - 安達練：Computer Programming, Assistant Engineer
-  - 四家卯大ストリングス：Strings (\#8,\#10,\#12)
-  - [山本拓夫](../Page/山本拓夫.md "wikilink")：Sax (\#2,\#5,\#6,\#8,\#13), Flute (\#7)
-  - 西村浩二：Trumpet (\#2,\#6,\#8,\#13)
-  - 菅坂雅彦：Trumpet (\#2,\#13)
-  - 広原正典：Trombone (\#2,\#13)
+  - 吉田誠：Computer Programing
+  - 安達練：Computer Programing
+  - [山本拓夫](../Page/山本拓夫.md "wikilink")：Sax (\#2, \#5, \#6, \#8, \#13), Flute (\#7)
+  - 西村浩二：Trumpet (\#2, \#6, \#8, \#13)
+  - 菅坂雅彦：Trumpet (\#2, \#13)
+  - 広原正典：Trombone (\#2, \#13)
+  - [Salyu](https://ja.wikipedia.org/wiki/Salyu "wikilink")：Chorus (\#2, \#10, \#11, \#13)
+  - 四家卯大ストリングス：Strings (\#8, \#10, \#12)
 
 ## ライブ映像作品
 
 **Wake me up\!**
 
-| 作品名                                                                                                                                 | 備考 |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |    |
+| 作品名                                                                                                                               | 備考 |
+| --------------------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children HOME TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |    |
 
 **彩り**
 
-| 作品名                                                                                                                                                                       | 備考                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")                                                                                                                   | 初回限定版のDVDに収録 キーを下げて演奏された |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                                        | 2回演奏された                  |
-| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")                                       |                          |
-| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                               |                          |
-| [Mr.Children DOME TOUR 2009 〜SUPERMARKET FANTASY〜 IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |                          |
-| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                               |                          |
+| 作品名                                                                                                                                                                     | 備考                          |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| HOME                                                                                                                                                                    | 初回限定盤のDVDに収録。キーを半音下げて演奏された。 |
+| [Mr.Children HOME TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                                        | 2回演奏された。                    |
+| Mr.Children HOME TOUR 2007 -in the field-                                                                                                                               |                             |
+| [ap bank fes '09](https://ja.wikipedia.org/wiki/ap_bank_fes_'09 "wikilink")                                                                                             |                             |
+| [Mr.Children DOME TOUR 2009 SUPERMARKET FANTASY IN TOKYO DOME](https://ja.wikipedia.org/wiki/Mr.Children_DOME_TOUR_2009_〜SUPERMARKET_FANTASY〜_IN_TOKYO_DOME "wikilink") |                             |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                                                             |                             |
 
 **箒星** ** **Another Story**
 
-| 作品名                                                                                | 備考 |
-| ---------------------------------------------------------------------------------- | -- |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink") |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| Mr.Children HOME TOUR 2007 |    |
 
 **PIANO MAN**
 
-| 作品名                                                                                                 | 備考             |
-| --------------------------------------------------------------------------------------------------- | -------------- |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                  |                |
-| [Mr.Children、ヒカリノアトリエで虹の絵を描く](https://ja.wikipedia.org/wiki/Mr.Children、ヒカリノアトリエで虹の絵を描く "wikilink") | ドキュメンタリー・ビデオ作品 |
+| 作品名                                                                                                 | 備考 |
+| --------------------------------------------------------------------------------------------------- | -- |
+| Mr.Children HOME TOUR 2007                                                                          |    |
+| [Mr.Children、ヒカリノアトリエで虹の絵を描く](https://ja.wikipedia.org/wiki/Mr.Children、ヒカリノアトリエで虹の絵を描く "wikilink") |    |
 
 **もっと**
 
-| 作品名                                                                                                                                 | 備考          |
-| ----------------------------------------------------------------------------------------------------------------------------------- | ----------- |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                  |             |
-| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |             |
-| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink")                           | キーを下げて演奏された |
+| 作品名                                                                                                       | 備考             |
+| --------------------------------------------------------------------------------------------------------- | -------------- |
+| Mr.Children HOME TOUR 2007                                                                                |                |
+| Mr.Children HOME TOUR 2007 -in the field-                                                                 |                |
+| [ap bank fes '11 Fund for Japan](https://ja.wikipedia.org/wiki/ap_bank_fes_'11_Fund_for_Japan "wikilink") | キーを半音下げて演奏された。 |
 
 **やわらかい風**
 
@@ -154,23 +150,23 @@ VICTOR STUDIO | Genre = [J-POP](../Page/J-POP.md "wikilink")
 
 | 作品名                                                                                                                                                   | 備考 |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                                    |    |
-| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink")                   |    |
-| [Mr.Children TOUR 2011 "SENSE"](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")                                               |    |
+| Mr.Children HOME TOUR 2007                                                                                                                            |    |
+| Mr.Children HOME TOUR 2007 -in the field-                                                                                                             |    |
+| [Mr.Children Tour 2011 SENSE](https://ja.wikipedia.org/wiki/Mr.Children_TOUR_2011_"SENSE" "wikilink")                                                 |    |
 | [Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink") |    |
 
 **SUNRISE**
 
-| 作品名                                                                                                                    | 備考                                                                         |
-| ---------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")      | [ドキュメンタリー](../Page/ドキュメンタリー.md "wikilink")[映画](../Page/映画.md "wikilink")作品 |
-| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink") |                                                                            |
+| 作品名                                                                                                                    | 備考 |
+| ---------------------------------------------------------------------------------------------------------------------- | -- |
+| [Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")      |    |
+| [Mr.Children Dome Tour 2019 Against All GRAVITY](../Page/Mr.Children_Dome_Tour_2019_Against_All_GRAVITY.md "wikilink") |    |
 
 **しるし** ** **あんまり覚えてないや**
 
-| 作品名                                                                                | 備考 |
-| ---------------------------------------------------------------------------------- | -- |
-| [Mr.Children "HOME" TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink") |    |
+| 作品名                        | 備考 |
+| -------------------------- | -- |
+| Mr.Children HOME TOUR 2007 |    |
 
 ## 脚注
 
@@ -181,8 +177,8 @@ VICTOR STUDIO | Genre = [J-POP](../Page/J-POP.md "wikilink")
 [Category:Mr.Childrenのアルバム](https://ja.wikipedia.org/wiki/Category:Mr.Childrenのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink") [Category:オリコン年間アルバムチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間アルバムチャート1位作品 "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
 1.
-2.  [ミスチル、シングル＆アルバム総売上枚数5,000万枚突破\!](http://www.oricon.co.jp/news/confidence/43071/) - オリコン・2007年3月19日
-3.  [ミスチル“今年初のミリオン”射程圏内](http://www.oricon.co.jp/news/rankmusic/43248/) - オリコン・2007年3月27日
+2.
+3.
 4.  [CDでーた](https://ja.wikipedia.org/wiki/CDでーた "wikilink")、[角川マガジンズ](../Page/角川マガジンズ.md "wikilink")、2007年4月号、20頁
 5.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
 6.  Mr.Children 2005-2010 <macro> ライナーノーツ

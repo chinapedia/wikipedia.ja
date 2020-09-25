@@ -90,7 +90,7 @@
   - スパークガンダム（[Ζガンダム](../Page/Ζガンダム.md "wikilink")\[4\]）
     寡黙なベーシスト。気合を入れると電撃と共に髪が逆立つ。
     元祖SDガンダム No.104
-  - ハリケーンガンダム（[ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")\[5\]）
+  - ハリケーンガンダム（[ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink")\[5\]）
     ドラマー。お祭り大好き。[エドモンド本田](../Page/エドモンド本田.md "wikilink")に似ている。
   - ミディガンダム（[νガンダム](https://ja.wikipedia.org/wiki/νガンダム "wikilink")\[6\]）
     キーボーディスト。芸術家タイプでキザ。1991年頃の[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")に似ている。

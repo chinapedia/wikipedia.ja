@@ -913,7 +913,7 @@ KRLジャボタベックでは[日本](https://ja.wikipedia.org/wiki/日本 "wik
 
 #### [KfW I-9000形](https://ja.wikipedia.org/wiki/ジャボタベックKFW_I-9000形電車 "wikilink") PT INKA製電車
 
-[ドイツ復興金融公庫](https://ja.wikipedia.org/wiki/ドイツ復興金融公庫 "wikilink")からの支援で次期標準型電車として2010年PT INKAで製造。車体はKRL-I形をベースにしているが、側面のビードが廃止され、[前照灯](../Page/前照灯.md "wikilink")の配置が変更された。新製車としては初めて客室の後部[LCDモニターと](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")[運転台に](../Page/操縦席.md "wikilink")[TIMSを設置した](../Page/鉄道車両のモニタ装置.md "wikilink")。電装品はドイツの[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")製でVVVFインバータ制御。4両10編成が在籍。
+[ドイツ復興金融公庫](https://ja.wikipedia.org/wiki/ドイツ復興金融公庫 "wikilink")からの支援で次期標準型電車として2010年PT INKAで製造。車体はKRL-I形をベースにしているが、側面のビードが廃止され、[前照灯](../Page/前照灯.md "wikilink")の配置が変更された。新製車としては初めて客室の後部[LCDモニターと](https://ja.wikipedia.org/wiki/液晶ディスプレイ "wikilink")[運転台に](../Page/操縦席.md "wikilink")[TIMS](../Page/TIMS.md "wikilink")を設置した。電装品はドイツの[ボンバルディア・トランスポーテーション](../Page/ボンバルディア・トランスポーテーション.md "wikilink")製でVVVFインバータ制御。4両10編成が在籍。
 
 <div class="NavFrame" style="clear: both; border:0;">
 

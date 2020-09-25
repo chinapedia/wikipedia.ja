@@ -132,8 +132,7 @@ PC版とスーパーファミコン版との違い
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1993年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1993年のパソコンゲーム "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PC-9800シリーズ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-9800シリーズ用ゲームソフト "wikilink") [Category:アメリカ合衆国を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたコンピュータゲーム "wikilink") [Category:アメリカ独立戦争](https://ja.wikipedia.org/wiki/Category:アメリカ独立戦争 "wikilink") [Category:コーエーのシミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:コーエーのシミュレーションゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:戦争ゲーム](https://ja.wikipedia.org/wiki/Category:戦争ゲーム "wikilink") [Category:ターン制ストラテジーゲーム](https://ja.wikipedia.org/wiki/Category:ターン制ストラテジーゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:歴史シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:歴史シミュレーションゲーム "wikilink")
 
 1.

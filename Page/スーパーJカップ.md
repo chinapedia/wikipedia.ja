@@ -94,7 +94,7 @@
 ### その他の参加選手
 
   - [エル・サムライ](../Page/エル・サムライ.md "wikilink")（新日本プロレス）
-  - [ケンドー・カシン](https://ja.wikipedia.org/wiki/ケンドー・カシン "wikilink")（新日本プロレス）
+  - [ケンドー・カシン](../Page/ケンドー・カシン.md "wikilink")（新日本プロレス）
   - [田中稔](../Page/田中稔_\(プロレスラー\).md "wikilink")（新日本プロレス）
   - [望月成晃](../Page/望月成晃.md "wikilink")（闘龍門JAPAN）
   - [アビスモ・ネグロ](../Page/アビスモ・ネグロ.md "wikilink")（[AAA](../Page/AAA_\(プロレス\).md "wikilink")）

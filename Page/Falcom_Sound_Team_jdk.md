@@ -11,6 +11,8 @@
 
 同じく「J.D.K. (jdk)」の名を持つ物として「[J.D.K. (jdk) BAND](../Page/J.D.K.BAND.md "wikilink")」が存在し混同される事もあるが、「Falcom Sound Team jdk」とはまったく別物である。J.D.K.BAND は、ライブなどでファルコム楽曲の[アレンジを演奏する](../Page/編曲.md "wikilink")[バンドであり](../Page/バンド_\(音楽\).md "wikilink")、メンバーはファルコム社員ではないためゲームミュージックの作曲は行なわない。
 
+なお、ファルコムの音楽には創業者の加藤が同社黎明期に考えた“3原則”があり、**「一度聴いたら忘れられない、思わず口ずさんでしまうメロディ」「ここぞというところに、グッとくるサビ」「起承転結が感じられる構成」**の3つである\[1\]。
+
 ## 歴代メンバー
 
 かつて在籍したメンバーを含む。かっこ内はファルコム在籍時の名前。｛｝は当時のあだ名。
@@ -46,3 +48,5 @@
   - [ゲーム音楽の作曲家一覧](../Page/ゲーム音楽の作曲家一覧.md "wikilink")
 
 [Category:ゲーム音楽グループ](https://ja.wikipedia.org/wiki/Category:ゲーム音楽グループ "wikilink") [Category:日本ファルコム](https://ja.wikipedia.org/wiki/Category:日本ファルコム "wikilink") [Category:日本ファルコムの音楽家](https://ja.wikipedia.org/wiki/Category:日本ファルコムの音楽家 "wikilink") [Category:1989年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1989年に結成した音楽グループ "wikilink")
+
+1.  <https://tokyo.whatsin.jp/65769/3>

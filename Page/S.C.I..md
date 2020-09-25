@@ -5,7 +5,7 @@
 
 1990年に欧州で[Amiga](../Page/Amiga.md "wikilink")、[Atari ST](../Page/Atari_ST.md "wikilink")、[コモドール64](../Page/コモドール64.md "wikilink")、[ZX Spectrum](../Page/ZX_Spectrum.md "wikilink")、1992年に[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")に移植された。日本国内では1991年に[PCエンジン](../Page/PCエンジン.md "wikilink")に移植された。
 
-アーケード版は後に[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**タイトーチェイスH.Q. プラス S.C.I.**』（[1996年](../Page/1996年.md "wikilink")）、[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[タイトーメモリーズ 上巻](../Page/タイトーメモリーズ.md "wikilink")II』（[2007年](../Page/2007年.md "wikilink")）に収録された。PCエンジン版は2008年に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
+アーケード版は後に[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『**タイトーチェイスH.Q. プラス S.C.I.**』（[1996年](../Page/1996年.md "wikilink")）、[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『[タイトーメモリーズ 上巻](../Page/タイトーメモリーズ.md "wikilink")II』（[2007年](../Page/2007年.md "wikilink")）に収録された。PCエンジン版は2008年に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
 ## 概要
 
@@ -94,7 +94,7 @@ Special Criminal Investigation</p></td>
 <td><p>5</p></td>
 <td><p><a href="../Page/タイトーメモリーズ.md" title="wikilink">タイトーメモリーズ 上巻</a>II</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>
@@ -181,8 +181,7 @@ Special Criminal Investigation</p></td>
 
   - [バーチャルコンソール S.C.I.](http://vc-pce.com/jpn/j/title/sci.html)
 
-  - （英語）
-
+  -
 [Category:1989年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1989年のアーケードゲーム "wikilink") [Category:Amiga用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amiga用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Atari_ST用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_ST用ゲームソフト "wikilink") [Category:DOSのゲームソフト](https://ja.wikipedia.org/wiki/Category:DOSのゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:大型筐体ゲーム](https://ja.wikipedia.org/wiki/Category:大型筐体ゲーム "wikilink") [Category:警察官を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:警察官を主人公としたコンピュータゲーム "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:セガ・マークIII&マスターシステム用ソフト](https://ja.wikipedia.org/wiki/Category:セガ・マークIII&マスターシステム用ソフト "wikilink") [Category:タイトーのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:タイトーのアーケードゲーム "wikilink") [Category:タイトーのゲームソフト](https://ja.wikipedia.org/wiki/Category:タイトーのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink")
 
 1.

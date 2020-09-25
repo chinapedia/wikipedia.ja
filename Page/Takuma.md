@@ -1,14 +1,14 @@
 > この記事は[Takuma](https://ja.wikipedia.org/wiki/Takuma)から翻訳されています。
 
 
-**TAKUMA**（たくま）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長172-173cmくらい、体重は57kgくらい、靴の大きさは、27.0cm。
+**TAKUMA**（たくま）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。公式プロフィール\[1\]によると、[血液型O型](../Page/ABO式血液型.md "wikilink")、身長172.5cm、体重57kg。
 
 ## 略歴
 
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink") - [Ray](https://ja.wikipedia.org/wiki/Ray "wikilink")結成
   - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink") - [Leview](https://ja.wikipedia.org/wiki/Leview "wikilink")結成
   - [1999年](../Page/1999年.md "wikilink") - [Wyse結成](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink")
-  - [2001年](../Page/2001年.md "wikilink") - [Wyse](https://ja.wikipedia.org/wiki/Wyse "wikilink") East West JapanよりMajer Debut Album 『the Answer in the Answers』リリース
+  - [2001年](../Page/2001年.md "wikilink") - [Wyseが](https://ja.wikipedia.org/wiki/wyse_\(音楽バンド\) "wikilink") East West JapanよりMajer Debut Album 『the Answer in the Answers』をリリース
   - [2005年](../Page/2005年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - 渋谷公会堂のLIVEでWyse解散
   - [2005年](../Page/2005年.md "wikilink") - TAKUMAとしてソロ活動を始める
   - [2019年](../Page/2019年.md "wikilink")-wyse充電期間に備えて地蔵になる
@@ -121,9 +121,13 @@
 
   - J's COUNTDOWN－[FMPORT](../Page/新潟県民エフエム放送.md "wikilink")（2006年[12月31日](../Page/12月31日.md "wikilink")）
 
+## 脚注
+
 ## 外部リンク
 
   - [TAKUMAオフィシャルサイト](http://www.takuma-life.com/index_pc.html)
   - [takumamakita - Myspace](http://www.myspace.com/takumamakita)
 
 [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:大阪市出身の人物](https://ja.wikipedia.org/wiki/Category:大阪市出身の人物 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.  <http://www.takuma-life.com/profile/>

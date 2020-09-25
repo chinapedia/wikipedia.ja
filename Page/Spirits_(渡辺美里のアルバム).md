@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 今作は[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")や[GLAY](../Page/GLAY.md "wikilink")のプロデューサーとして知られる[佐久間正英](../Page/佐久間正英.md "wikilink")が参加、他にも[葛城哲哉](../Page/葛城哲哉.md "wikilink")、[河内淳一](../Page/河内淳一.md "wikilink")、[山根麻衣](https://ja.wikipedia.org/wiki/山根麻衣 "wikilink")等がコーラスで参加。
+  - 今作は[BOØWY](../Page/BOØWY.md "wikilink")や[GLAY](../Page/GLAY.md "wikilink")のプロデューサーとして知られる[佐久間正英](../Page/佐久間正英.md "wikilink")が参加、他にも[葛城哲哉](../Page/葛城哲哉.md "wikilink")、[河内淳一](../Page/河内淳一.md "wikilink")、[山根麻衣](https://ja.wikipedia.org/wiki/山根麻衣 "wikilink")等がコーラスで参加。
   - 前作が[ベストアルバム](https://ja.wikipedia.org/wiki/ベストアルバム "wikilink")と[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")のリリースだった為、オリジナルアルバムとしては[1994年](../Page/1994年.md "wikilink")にリリースされた『[Baby Faith](../Page/Baby_Faith.md "wikilink")』以来約2年ぶりとなる。
   - 「My Love Your Love（たったひとりしかいない あなたへ）」は今作からの先行シングル、なおカップリングの「愛しき者よ」は未収録である。
 

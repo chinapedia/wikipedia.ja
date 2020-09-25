@@ -23,7 +23,7 @@ NIPPO（日本鋪道）の前身は1907年（[明治](../Page/明治.md "wikilin
   - [1949年](../Page/1949年.md "wikilink")（昭和24年）[12月](https://ja.wikipedia.org/wiki/12月 "wikilink") - 東京証券取引所に上場。
   - [2003年](../Page/2003年.md "wikilink")（[平成](../Page/平成.md "wikilink")15年）10月1日 - **株式会社NIPPOコーポレーション**に商号変更。新日石エンジニアリングの工事・エンジニアリング部門を吸収。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）[7月1日](../Page/7月1日.md "wikilink") - **株式会社NIPPO**に商号変更。
-  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）7月1日 - JXグループ（現・[ENEOSグループ](https://ja.wikipedia.org/wiki/ENEOSグループ "wikilink")）再編に伴い、親会社が新日本石油からJXホールディングスに異動。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）7月1日 - JXグループ（現・[ENEOSグループ](../Page/ENEOSグループ.md "wikilink")）再編に伴い、親会社が新日本石油からJXホールディングスに異動。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）[4月1日](../Page/4月1日.md "wikilink") - プラントエンジニアリング事業を日陽エンジニアリング（[JXエンジニアリング](https://ja.wikipedia.org/wiki/JXエンジニアリング "wikilink")株式会社に商号変更）に吸収分割。
   - [2015年](../Page/2015年.md "wikilink")（平成27年）[1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [東日本高速道路](../Page/東日本高速道路.md "wikilink")が発注した、震災で被災した[高速道路](../Page/高速道路.md "wikilink")の舗装工事で、[談合](https://ja.wikipedia.org/wiki/談合 "wikilink")が行われていた疑いで、[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")が[独占禁止法](../Page/独占禁止法.md "wikilink")違反などの疑いで、同社など13社を捜索\[1\]。
 

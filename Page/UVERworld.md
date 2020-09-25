@@ -1,7 +1,7 @@
 > この記事は[UVERworld](https://ja.wikipedia.org/wiki/UVERworld)から翻訳されています。
 
 
-**UVERworld**（ウーバーワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]\[2\]。愛称は「**UVER**」など。2000年結成。所属事務所は[POWERPLAY](https://ja.wikipedia.org/wiki/POWERPLAY "wikilink")。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")傘下の[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。公式ファンクラブは「**Neo SOUND WAVE**」である。
+**UVERworld**（ウーバーワールド）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の6人組[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")\[1\]\[2\]。愛称は「**UVER**」など。2000年結成、2005年メジャー・デビュー。所属事務所は[POWERPLAY](https://ja.wikipedia.org/wiki/POWERPLAY "wikilink")。レーベルは[ソニー・ミュージックレコーズ](../Page/ソニー・ミュージックレコーズ.md "wikilink")傘下の[gr8\!records](https://ja.wikipedia.org/wiki/ソニー・ミュージックレコーズ#レーベル "wikilink")。公式ファンクラブは「**Neo SOUND WAVE**」である。
 
 2000年6月6日、UVERworldの前身である**SOUND極ROAD**（サウンドごくロード）を結成し、2003年12月に現在のバンド名に変更。バンド名「UVERworld」は、「SOUND極ROAD」からの改名時、500以上の候補から彰が提案した「〜world」と、「超える」の意味を持つ[ドイツ語](../Page/ドイツ語.md "wikilink")「」と[英語](../Page/英語.md "wikilink")「」とを混ぜ合わせた造語で、バンド名の意味は「**自分達の世界をも越える**」\[3\]\[4\]。
 
@@ -9,47 +9,89 @@
 
 ### 前史
 
-2000年6月6日、滋賀県草津市で前身バンドとなる**SOUND極ROAD**を結成\[5\]。
+#### 2000年
 
-2003年12月、バンド名を**SOUND極ROAD**から**UVERworld**に改名。
+  - 6月6日、滋賀県草津市で前身バンドとなる**SOUND極ROAD**を結成。
 
-2004年10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](../Page/社長.md "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。[gr8\!records](https://ja.wikipedia.org/wiki/gr8!records "wikilink")に所属が決定し、その後[メジャー・デビューが決定](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。11月27日、メジャーデビューに向けて上京。
+#### 2003年
+
+  - 2003年12月、バンド名を**SOUND極ROAD**から**UVERworld**に改名。
+
+#### 2004年
+
+  - 2004年10月、ベイサイドジェニーにてソニー・ミュージックレコーズの[社長](../Page/社長.md "wikilink")がUVERworldを目撃。ライブ当日夜に[契約](../Page/契約.md "wikilink")を締結した。[gr8\!records](https://ja.wikipedia.org/wiki/gr8!records "wikilink")に所属が決定し、その後[メジャー・デビューが決定](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
+  - 11月27日、メジャー・デビューに向けて上京。
 
 ### 2005年 - 2007年
 
-2005年4月6日、SHIBUYA RUIDO K2にて初のお披露目ライブ開催。7月6日、1st[シングル](../Page/シングル.md "wikilink")『[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")』でメジャー・デビュー。なお、メジャー・デビューに際して、誠果が正式メンバーから外れ、サポートメンバーとして活動することとなった。
+#### 2005年
 
-2006年2月15日、1stアルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』を発売。3月9日、[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")で2005年度のニュー・アーティスト・オブ・ザ・イヤーを受賞。また同月から4月にかけて初の全国[ツアー](../Page/ツアー.md "wikilink")「UVERworld Timeless TOUR 2006」を開催。8月5日、[しらさわグリーンパーク](https://ja.wikipedia.org/wiki/しらさわグリーンパーク "wikilink")野球場にてロックフェスティバル「TORORO ROCK FES in Shirasawa 2006」に初出演。12月15日、TAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")の現行犯で逮捕・拘留\[6\]された事が報道され、活動を自粛・休止。発売を控えていた2ndアルバムなど関連商品の発売が延期とされた。
+  - 4月6日、SHIBUYA RUIDO K2にて初のお披露目ライブ開催。
+  - 7月6日、1st[シングル](../Page/シングル.md "wikilink")『[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")』でメジャー・デビュー。なお、メジャー・デビューに際して、誠果が正式メンバーから外れ、サポートメンバーとして活動することとなった。
+
+#### 2006年
+
+  - 2月15日、1stアルバム『[Timeless](../Page/Timeless_\(UVERworldのアルバム\).md "wikilink")』を発売。3月9日、[ゴールドディスク大賞](https://ja.wikipedia.org/wiki/ゴールドディスク大賞 "wikilink")で2005年度のニュー・アーティスト・オブ・ザ・イヤーを受賞。
+  - 2月から4月にかけて初の全国[ツアー](../Page/ツアー.md "wikilink")「UVERworld Timeless TOUR 2006」を開催。
+  - 8月5日、[しらさわグリーンパーク](https://ja.wikipedia.org/wiki/しらさわグリーンパーク "wikilink")野球場にてロックフェスティバル「TORORO ROCK FES in Shirasawa 2006」に初出演。
+  - 12月15日、TAKUYA∞が[公務執行妨害](https://ja.wikipedia.org/wiki/公務執行妨害 "wikilink")の現行犯で逮捕・拘留\[5\]された事が報道され、活動を自粛・休止。発売を控えていた2ndアルバムなど関連商品の発売が延期とされた。
 
 ### 2007年 - 2014年
 
-2007年1月15日に活動の再開が発表し、延期となっていた2ndアルバム・アーティストブックの発売日・クリスマスライブの日程が改めて報告され、公式サイトに5人の謝罪文が掲載された。2月10日・11日にUNITとOSAKA MUSEにて活動再開特別ライブを2日連続で開催。このライブの参加者限定でシングル『[凛句](https://ja.wikipedia.org/wiki/凛句 "wikilink")』が無料配布された。なお、このライブはTAKUYA∞の起こした事件のため延期となったX'masスペシャルライブの振り替えともされている。2月20日、初のアーティストブック『CLASSWORD』を発売。翌日に発売を延期していた2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』を発売。TAKUYA∞が起こした事件の反省の形の一つとして、ネット配信限定『UVER家のTV』開始。
+#### 2007年
 
-2008年3月18日から6月6日にかけて初のホールツアー「UVERworld PROGLUTION TOUR 2008』、9月20日から9月30日にかけて「UVERworld PROGLUTION TOUR 2008」でのライブ映像などのドキュメントムービーを全国11箇所の会場で上映するイベント「PROGLUTION TOUR ドキュメントムービー「core ability」」を開催した。10月1日に2枚目のライブDVD『[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")』を発売し、全作品を通じてUVERworld初のオリコン週間チャート1位を獲得。10月3日から10月29日にかけて初のファンクラブ会員限定ライブツアー「UVERworld」を開催。11月19日に12thシングル『[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")』を発売し、初のオリコン週間シングルランキング1位を獲得\[7\]。12月5日にバンド初の[日本武道館](../Page/日本武道館.md "wikilink")単独公演を開催。
+  - 1月15日に活動の再開を発表、延期となっていた2ndアルバム・アーティストブックの発売日・クリスマスライブの日程が改めて報告され、公式サイトに5人の謝罪文が掲載された。
+  - 2月10日、2月11日にUNITとOSAKA MUSEにて活動再開特別ライブを2日連続で開催。このライブの参加者限定でシングル『[凛句](https://ja.wikipedia.org/wiki/凛句 "wikilink")』が無料配布された。
+  - 2月20日、初のアーティストブック『CLASSWORD』を発売。
+  - 2月21日、発売を延期していた2ndアルバム『[BUGRIGHT](../Page/BUGRIGHT.md "wikilink")』を発売。ネット配信限定『UVER家のTV』開始。
 
-2009年12月9日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")』を発売。
+#### 2008年
 
-2011年4月より全国ツアー「UVERworld 47/47 TOUR 2011」を開催予定だったが、東北地方太平洋沖地震の影響を受けて、一部の公演が延期された。その後11月から12月にかけて「UVERworld 47/47 TOUR 2011」の振替公演と追加公演が開催された。
+  - 3月18日から6月6日にかけて初のホールツアー「UVERworld PROGLUTION TOUR 2008』、9月20日から9月30日にかけて「UVERworld PROGLUTION TOUR 2008」でのライブ映像などのドキュメントムービーを全国11箇所の会場で上映するイベント「PROGLUTION TOUR ドキュメントムービー「core ability」」を開催した。
+  - 10月1日に2枚目のライブDVD『[PROGLUTION TOUR 2008](https://ja.wikipedia.org/wiki/PROGLUTION_TOUR_2008 "wikilink")』を発売し、全作品を通じてUVERworld初のオリコン週間チャート1位を獲得。
+  - 10月3日から10月29日にかけて初のファンクラブ会員限定ライブツアー「UVERworld」を開催。
+  - 11月19日に12thシングル『[儚くも永久のカナシ](https://ja.wikipedia.org/wiki/儚くも永久のカナシ "wikilink")』を発売し、初のオリコン週間シングルランキング1位を獲得\[6\]。
+  - 12月5日にバンド初の[日本武道館](../Page/日本武道館.md "wikilink")単独公演を開催。
 
-2012年8月22日に初のドキュメンタリー映画『[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")』が公開された。
+#### 2009年
 
-2014年3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果としてUVERworld正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
+  - 2009年12月9日、初の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Neo SOUND BEST](https://ja.wikipedia.org/wiki/Neo_SOUND_BEST "wikilink")』を発売。
 
-### 2015年 -現在
+#### 2011年
 
-2015年8月2日、rockin'on主催の音楽イベント「[ROCK IN JAPAN FESTIVAL 2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015 "wikilink")」に初出演。GRASS STAGEに出演し、本フェス初登場ながら4万人を動員した。\[8\]
+  - 2011年4月より全国ツアー「UVERworld 47/47 TOUR 2011」を開催予定だったが、東北地方太平洋沖地震の影響を受けて、一部の公演が延期された。その後11月から12月にかけて「UVERworld 47/47 TOUR 2011」の振替公演と追加公演が開催された。
 
-2017年2月11日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で「UVERworld KING'S PARADE 2017」を開催し、アーティスト史上最大の23000人を動員。
+#### 2012年
 
-2019年2月27日、34thシングル『[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")』を発売\[9\]。8月11日、日本最大ロックフェス「ROCK IN JAPAN」にてトリを務め、GRASS STAGEに同フェス史上最多動員となる6万人超を動員\[10\]。12月20日に[東京ドーム](../Page/東京ドーム.md "wikilink")にて「KING'S PARADE FINAL」が開催され、観客動員数45000人を記録した\[11\]。
+  - 2012年8月22日に初のドキュメンタリー映画『[UVERworld DOCUMENTARY THE SONG](https://ja.wikipedia.org/wiki/UVERworld_DOCUMENTARY_THE_SONG "wikilink")』が公開された。
 
-2020年2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で中止となった。
+#### 2014年
 
-2020年6月6日、FC会員限定の結成20周年記念生配信生誕祭ライブが行われた。その1か月後7月6日、FC会員以外でも視聴できるデビュー15周年記念生配信ライブが行われた。
+  - 2014年3月26日、これまで[サポートメンバーとして活動してきたSEIKAが](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、[サックスの誠果として正式メンバーに加入することが発表された](../Page/サクソフォーン.md "wikilink")。
+
+### 2015年-現在
+
+#### 2015年
+
+  - 8月2日、rockin'on主催の「[ROCK IN JAPAN FESTIVAL 2015](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2015 "wikilink")」に初出演。GRASS STAGEに出演し、本フェス初登場ながら4万人を動員した\[7\]。
+
+#### 2017年
+
+  - 2月11日、男性限定ライブ｢UVERworld KING'S PARADE 2017」を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて開催、当時、アーティスト史上最大の男性のみ23000人を動員した\[8\]。
+
+#### 2019年
+
+  - 2月27日、34thシングル『[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")』を発売\[9\]。同年8月11日、rockin'on主催の「[ROCK IN JAPAN FESTIVAL 2019](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL#2019 "wikilink")」にてトリを務め、GRASS STAGEに同フェス史上最多の6万人超を動員\[10\]。
+  - 12月20日に[東京ドーム](../Page/東京ドーム.md "wikilink")にて男性限定ライブ「UVERworld 男祭り KING'S PARADE FINAL」を開催、男性のみ45000人を動員した\[11\]。
+
+#### 2020年
+
+  - 2月にメンバーの生誕祭ライブを含む「UVERworld LIVE HOUSE TOUR 2020」を開催した。2月26日、27日のZepp Sapporo公演と3月7日、8日の豊洲PIT公演は新型コロナウイルスの影響で中止となった\[12\]。
+  - 6月6日と7月6日に｢UVERworld 20&15 ANNIVERSARY LIVE｣をPIA LIVE STREAMにて開催した\[13\]。6月6日のライブはファンクラブ会員限定。
 
 ## メンバー
 
-※担当楽器の表記は、公式プロフィールに準拠\[12\]。
+※担当楽器の表記は、公式プロフィールに準拠\[14\]。
 
 <table>
 <thead>
@@ -64,13 +106,13 @@
 （たくや）</p></td>
 <td><p><small></p>
 <ul>
-<li>本名は清水琢也[13]。</li>
+<li>本名は清水琢也[15]。</li>
 <li>担当：<a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">ボーカル</a>、<a href="../Page/ラップ.md" title="wikilink">ラップ</a>、<a href="https://ja.wikipedia.org/wiki/打ち込み" title="wikilink">プログラミング</a></li>
 <li>生年月日：</li>
 <li>血液型：B型</li>
 <li>ほぼ全ての楽曲の<a href="../Page/作詞.md" title="wikilink">作詞</a>、<a href="../Page/作曲.md" title="wikilink">作曲</a>を手掛ける。</li>
-<li>2006年12月11日に<a href="../Page/公務の執行を妨害する罪.md" title="wikilink">公務執行妨害罪で現行犯逮捕され</a>[14]、翌日<a href="../Page/書類送検.md" title="wikilink">書類送検</a>されると共に釈放。</li>
-<li>2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した[15]。</li>
+<li>2006年12月11日に<a href="../Page/公務の執行を妨害する罪.md" title="wikilink">公務執行妨害罪で現行犯逮捕され</a>[16]、翌日<a href="../Page/書類送検.md" title="wikilink">書類送検</a>されると共に釈放。</li>
+<li>2016年6月19日、オフィシャルサイトにて一般女性との入籍を発表した[17]。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -102,10 +144,10 @@
 （せいか）</p></td>
 <td><p><small></p>
 <ul>
-<li>担当：<a href="../Page/マニピュレーター.md" title="wikilink">マニピュレーター</a>、<a href="../Page/サクソフォーン.md" title="wikilink">サックス</a></li>
+<li>担当：<a href="../Page/マニピュレーター.md" title="wikilink">マニピュレーター</a>、<a href="../Page/サクソフォーン.md" title="wikilink">サックス</a>、<a href="https://ja.wikipedia.org/wiki/コーラス" title="wikilink">コーラス</a></li>
 <li>生年月日：</li>
 <li>血液型：A型</li>
-<li>メジャーデビュー時に一度正式メンバーから外れてサポートメンバーとしてバンドに関わり、2014年3月に再び正式メンバーとなった[16]。</li>
+<li>メジャーデビュー時に一度正式メンバーから外れてサポートメンバーとしてバンドに関わり、2014年3月に再び正式メンバーとなった[18]。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -117,7 +159,7 @@
 <li>担当：ギター、プログラミング</li>
 <li>生年月日：</li>
 <li>血液型：A型</li>
-<li>2018年11月に<a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfistのあやぺたと結婚し</a>、2019年5月24日に入籍とあやぺたの妊娠を発表[17]。</li>
+<li>2018年11月に<a href="https://ja.wikipedia.org/wiki/Dizzy_Sunfist" title="wikilink">Dizzy Sunfistのあやぺたと結婚し</a>、2019年5月24日に入籍とあやぺたの妊娠を発表[19]。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -129,7 +171,7 @@
 <li>担当：<a href="../Page/ドラムセット.md" title="wikilink">ドラムス</a></li>
 <li>生年月日：</li>
 <li>血液型：O型</li>
-<li>2017年2月12日に一般女性との入籍を発表[18]。</li>
+<li>2017年2月12日に一般女性との入籍を発表[20]。</li>
 </ul>
 <p></small></p></td>
 </tr>
@@ -319,13 +361,13 @@
 | 2Blu-ray+スペシャルフォトブック     | SRXL-94〜5（完全限定生産盤）                            |                                                                                                                                                             |                      |                      |
 | Blu-ray                  | SRXL-96（通常盤1）                                 |                                                                                                                                                             |                      |                      |
 | Blu-ray                  | SRXL-97（通常盤2）                                 |                                                                                                                                                             |                      |                      |
-| 13th                     | 2016年11月2日                                    | **[UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan](https://ja.wikipedia.org/wiki/UVERworld_PREMIUM_LIVE_on_Xmas_2015_at_Nippon_Budokan "wikilink")** | 2DVD+CD+スペシャルフォトブック  | SRBL-1725〜7（初回生産限定盤） |
+| 13th                     | 2016年11月2日                                    | **[UVERworld PREMIUM LIVE on Xmas 2015 at Nippon Budokan](../Page/UVERworld_PREMIUM_LIVE_on_Xmas_2015_at_Nippon_Budokan.md "wikilink")**                    | 2DVD+CD+スペシャルフォトブック  | SRBL-1725〜7（初回生産限定盤） |
 | 2DVD                     | SRBL-1729〜30（通常盤）                             |                                                                                                                                                             |                      |                      |
 | Blu-ray+CD+スペシャルフォトブック   | SRXL-109〜10（初回生産限定盤）                          |                                                                                                                                                             |                      |                      |
 | Blu-ray                  | SRXL-112                                      |                                                                                                                                                             |                      |                      |
 | 14th                     | 2018年3月14日                                    | **[UVERworld KING'S PARADE 2017 Saitama Super Arena](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_2017_Saitama_Super_Arena "wikilink")**           | DVD                  | SRBL-1781            |
 | Blu-ray                  | SRXL-153                                      |                                                                                                                                                             |                      |                      |
-| 15th                     | 2019年1月16日                                    | **[UVERworld TYCOON TOUR at Yokohama Arena 2017.12.21](https://ja.wikipedia.org/wiki/UVERworld_TYCOON_TOUR_at_Yokohama_Arena_2017.12.21 "wikilink")**       | 3DVD+フォトブックレット       | SRBL-1832〜4（初回生産限定盤） |
+| 15th                     | 2019年1月16日                                    | **[UVERworld TYCOON TOUR at Yokohama Arena 2017.12.21](../Page/UVERworld_TYCOON_TOUR_at_Yokohama_Arena_2017.12.21.md "wikilink")**                          | 3DVD+フォトブックレット       | SRBL-1832〜4（初回生産限定盤） |
 | 2DVD+プレイパス               | SRBL-1835〜6（通常盤）                              |                                                                                                                                                             |                      |                      |
 | 2Blu-ray+フォトブックレット       | SRXL-191〜2（初回生産限定盤）                           |                                                                                                                                                             |                      |                      |
 | Blu-ray                  | SRXL-193                                      |                                                                                                                                                             |                      |                      |
@@ -335,7 +377,7 @@
 | BD                       | SRXL-207                                      |                                                                                                                                                             |                      |                      |
 | 16th                     | 2019年7月10日                                    | **[UVERworld KING'S PARADE at Yokohama Arena 2018.12.21](https://ja.wikipedia.org/wiki/UVERworld_KING'S_PARADE_at_Yokohama_Arena_2018.12.21 "wikilink")**   | DVD                  | SRBL-1855            |
 | Blu-ray                  | SRXL-208                                      |                                                                                                                                                             |                      |                      |
-| 17th                     | 2020年7月1日                                     | **[UVERworld UNSER TOUR at TOKYO DOME 2019.12.19](https://ja.wikipedia.org/wiki/UVERworld_UNSER_TOUR_at_TOKYO_DOME_2019.12.19 "wikilink")**                 | 2DVD                 | SRBL-1923〜4（初回生産限定盤） |
+| 17th                     | 2020年7月1日                                     | **[UVERworld UNSER TOUR at TOKYO DOME 2019.12.19](../Page/UVERworld_UNSER_TOUR_at_TOKYO_DOME_2019.12.19.md "wikilink")**                                    | 2DVD                 | SRBL-1923〜4（初回生産限定盤） |
 | DVD                      | SRBL-1925                                     |                                                                                                                                                             |                      |                      |
 | 2Blu-ray                 | SRXL-257〜8（初回生産限定盤）                           |                                                                                                                                                             |                      |                      |
 | Blu-ray                  | SRXL-259（通常盤）                                 |                                                                                                                                                             |                      |                      |
@@ -635,7 +677,7 @@ TOVILA</p></td>
 9.  **TOVILA (〜tie senses〜)**
 10. **Yasashisa no Shizuku 04**
 
-UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[19\]。
+UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[21\]。
 
 ## ミュージック・ビデオ
 
@@ -700,7 +742,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[19
 | 起用年                                                                                                                                         | 曲名                                                                                                                                              | タイアップ                                                                                                                                                                                |
 | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 2005年                                                                                                                                       | **[D-tecnoLife](../Page/D-tecnoLife.md "wikilink")**                                                                                            | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ『[BLEACH](https://ja.wikipedia.org/wiki/BLEACH_\(アニメ\) "wikilink")』第2期オープニングテーマ                                           |
-| [PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『BLEACH 選ばれし魂』主題歌                                                       |                                                                                                                                                 |                                                                                                                                                                                      |
+| [PS2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『BLEACH 選ばれし魂』主題歌                                                                          |                                                                                                                                                 |                                                                                                                                                                                      |
 | PS2用ゲームソフト『BLEACH 選ばれし魂』CMソング                                                                                                               |                                                                                                                                                 |                                                                                                                                                                                      |
 | [GBA用ゲームソフト](../Page/ゲームボーイアドバンス.md "wikilink")『[BLEACH アドバンス 紅に染まる尸魂界](https://ja.wikipedia.org/wiki/BLEACH_アドバンス_紅に染まる尸魂界 "wikilink")』主題歌 |                                                                                                                                                 |                                                                                                                                                                                      |
 | GBA用ゲームソフト『BLEACH アドバンス 紅に染まる尸魂界』CMソング                                                                                                      |                                                                                                                                                 |                                                                                                                                                                                      |
@@ -738,8 +780,8 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[19
 | **[I LOVE THE WORLD](https://ja.wikipedia.org/wiki/I_LOVE_THE_WORLD "wikilink")**                                                           | オンラインゲーム『[ドラゴンネスト](https://ja.wikipedia.org/wiki/ドラゴンネスト "wikilink")』主題歌                                                                        |                                                                                                                                                                                      |
 | 2016年                                                                                                                                       | **[WE ARE GO](https://ja.wikipedia.org/wiki/WE_ARE_GO/ALL_ALONE "wikilink")**                                                                   | テレビ東京系アニメ『[パズドラクロス](https://ja.wikipedia.org/wiki/パズドラクロス "wikilink")』第1期オープニングテーマ                                                                                                   |
 | 2017年                                                                                                                                       | **[一滴の影響](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                                                     | MBS・TBS系アニメ『[青の祓魔師 京都不浄王篇](https://ja.wikipedia.org/wiki/青の祓魔師_京都不浄王篇 "wikilink")』オープニングテーマ                                                                                          |
-| **[エミュー](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                                                  | ソニー・ピクチャーズ エンタテインメント配給映画『[新宿スワンII](https://ja.wikipedia.org/wiki/新宿スワンII "wikilink")』挿入歌\[20\]                                                  |                                                                                                                                                                                      |
-| **[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                                                             | [ワーナー・ブラザース映画配給映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザーズ_ジャパン "wikilink")『[銀魂](https://ja.wikipedia.org/wiki/銀魂_\(実写\) "wikilink")』主題歌\[21\] |                                                                                                                                                                                      |
+| **[エミュー](https://ja.wikipedia.org/wiki/一滴の影響 "wikilink")**                                                                                  | ソニー・ピクチャーズ エンタテインメント配給映画『[新宿スワンII](https://ja.wikipedia.org/wiki/新宿スワンII "wikilink")』挿入歌\[22\]                                                  |                                                                                                                                                                                      |
+| **[DECIDED](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                                                             | [ワーナー・ブラザース映画配給映画](https://ja.wikipedia.org/wiki/ワーナー_ブラザーズ_ジャパン "wikilink")『[銀魂](https://ja.wikipedia.org/wiki/銀魂_\(実写\) "wikilink")』主題歌\[23\] |                                                                                                                                                                                      |
 | **[RANGE](https://ja.wikipedia.org/wiki/DECIDED "wikilink")**                                                                               | Red Bull『Box Cart Race Tokyo 2017』CMソング                                                                                                         |                                                                                                                                                                                      |
 | **[Q.E.D.](https://ja.wikipedia.org/wiki/TYCOON "wikilink")**                                                                               | 日本テレビ系ドラマ『[GRIMM/グリム](https://ja.wikipedia.org/wiki/GRIMM/グリム "wikilink")』（第1シーズン）エンディングテーマ                                                     |                                                                                                                                                                                      |
 | 2018年                                                                                                                                       | **[ODD FUTURE](https://ja.wikipedia.org/wiki/ODD_FUTURE "wikilink")**                                                                           | 読売テレビ・日本テレビ系アニメ『[僕のヒーローアカデミア](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア_\(アニメ\) "wikilink")』第3期オープニングテーマ                                                                             |
@@ -747,7 +789,7 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[19
 | **[GOOD and EVIL](https://ja.wikipedia.org/wiki/GOOD_and_EVIL/EDENへ "wikilink")**                                                           | 映画『[ヴェノム](https://ja.wikipedia.org/wiki/ヴェノム_\(映画\) "wikilink")』日本語吹き替え版主題歌                                                                     |                                                                                                                                                                                      |
 | 2019年                                                                                                                                       | **[Touch off](https://ja.wikipedia.org/wiki/Touch_off "wikilink")**                                                                             | [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠アニメ『[約束のネバーランド](https://ja.wikipedia.org/wiki/約束のネバーランド "wikilink")』オープニングテーマ        |
 | **[ROB THE FRONTIER](https://ja.wikipedia.org/wiki/ROB_THE_FRONTIER "wikilink")**                                                           | テレビ東京・[BSテレビ東京](../Page/BSテレビ東京.md "wikilink")系アニメ『[七つの大罪 神々の逆鱗](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\)#テレビアニメ "wikilink")』オープニングテーマ        |                                                                                                                                                                                      |
-| 2020年                                                                                                                                       | **[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")**                                                                                      | ワーナー・ブラザース映画配給映画『[仮面病棟](https://ja.wikipedia.org/wiki/仮面病棟#映画 "wikilink")』主題歌\[22\]                                                                                                  |
+| 2020年                                                                                                                                       | **[AS ONE](../Page/AS_ONE_\(UVERworldの曲\).md "wikilink")**                                                                                      | ワーナー・ブラザース映画配給映画『[仮面病棟](https://ja.wikipedia.org/wiki/仮面病棟#映画 "wikilink")』主題歌\[24\]                                                                                                  |
 |                                                                                                                                             |                                                                                                                                                 |                                                                                                                                                                                      |
 
 ## 出演
@@ -766,11 +808,11 @@ UVERworldの**SOUND極ROAD**時代のデモCD。発売年は2003年である\[19
 
 ### アーティストブック
 
-|     | 発売日        | タイトル                              | 出版社                                                           | [図書コード](https://ja.wikipedia.org/wiki/ISBN "wikilink") |
-| --- | ---------- | --------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------ |
-| 1st | 2007年2月20日 | CLASSWORD                         | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")                  | ISBN 9784789730303                                     |
-| 2nd | 2008年3月10日 | GUN-PROGLUTION                    | [@ぴあ](../Page/ぴあ.md "wikilink")                               | ISBN 9784835616865                                     |
-| 3rd | 2011年9月28日 | COREstory,COREability,COREhistory | [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink") | ISBN 9784789734905                                     |
+|            | 発売日                               | タイトル                                                          | 出版社                | [図書コード](https://ja.wikipedia.org/wiki/ISBN "wikilink") |
+| ---------- | --------------------------------- | ------------------------------------------------------------- | ------------------ | ------------------------------------------------------ |
+| 2007年2月20日 | CLASSWORD                         | [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")                  | ISBN 9784789730303 |                                                        |
+| 2008年3月10日 | GUN-PROGLUTION                    | [@ぴあ](../Page/ぴあ.md "wikilink")                               | ISBN 9784835616865 |                                                        |
+| 2011年9月28日 | COREstory,COREability,COREhistory | [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink") | ISBN 9784789734905 |                                                        |
 
 ### ドキュメントブック
 
@@ -871,6 +913,14 @@ GOLD</p></td>
 </tr>
 </tbody>
 </table>
+
+### メンバー監修
+
+| 著者      | タイトル                                               |              | 構成                                          |
+| ------- | -------------------------------------------------- | ------------ | ------------------------------------------- |
+| TAKUYA∞ | 死ぬ間際に物やお金を欲しがる人はきっと居ない 僕の そんなものを探す730日             | ファンクラブ会員限定販売 | 四六版・2冊組(1冊 416ページ)、スリーブケース付、メモ欄付、撮り下ろし写真あり。 |
+| TAKUYA∞ | 仕事なんだから\!と言われれば 断固こう返す 「いいえ\!これは、遊びです。」 そんな僕の1461日 | ファンクラブ会員限定販売 | 四六判・2冊組(1冊/464ページ)、スリーブケース付、メモ欄付、撮り下ろし写真あり。 |
+| TAKUYA∞ | 砂時計の様に満たした瞬間 半分は空っぽになる そんな僕の2191日                  | ファンクラブ会員限定販売 | 四六判・2冊(1冊/416ページ)、スリーブケース付、メモ欄付、撮り下ろし写真あり。  |
 
 ### 雑誌連載
 
@@ -2635,7 +2685,7 @@ DREAM REPAIRS 〜夢の修理屋たち〜</p></td>
 <td><p><del>PATi★Night Episode 07<br />
 〜Brand New Season 2011 in Spring〜</del></p></td>
 <td><p><del>Zepp Tokyo</del></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/東北地方太平洋沖地震" title="wikilink">東日本大震災の影響により公演中止</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東日本大震災" title="wikilink">東日本大震災</a>の影響により公演中止</p></td>
 </tr>
 <tr class="even">
 <td><p>7月18日</p></td>
@@ -2721,14 +2771,14 @@ extra「WHEN YOU'RE STRANGE」FINAL</p></td>
 </tr>
 <tr class="odd">
 <td></td>
-<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2015 (1)[23]</p></td>
+<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2015 (1)[25]</p></td>
 <td><p>国営ひたち海浜公園</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td></td>
-<td><p>イナズマロックフェス2015 (4)[24][25]</p></td>
+<td><p>イナズマロックフェス2015 (4)[26][27]</p></td>
 <td><p>烏丸半島芝生広場</p></td>
 <td><p>両日出演</p></td>
 <td></td>
@@ -2743,7 +2793,7 @@ extra「WHEN YOU'RE STRANGE」FINAL</p></td>
 <tr class="even">
 <td><p>8月6日 - 8月7日<br />
 8月13日 - 8月14日</p></td>
-<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2016 (2)[26]</p></td>
+<td><p>rockin'on presents ROCK IN JAPAN FESTIVAL 2016 (2)[28]</p></td>
 <td><p>国営ひたち海浜公園</p></td>
 <td><p>出演は8月6日のみ。</p></td>
 <td></td>
@@ -2794,7 +2844,7 @@ Presented by シミズオクト</a>2016</p></td>
 </tr>
 <tr class="odd">
 <td><p>12月28日 - 12月31日</p></td>
-<td><p><a href="../Page/COUNTDOWN_JAPAN.md" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[27]</p></td>
+<td><p><a href="../Page/COUNTDOWN_JAPAN.md" title="wikilink">rockin'on presents COUNTDOWN JAPAN 16/17</a>[29]</p></td>
 <td><p>幕張メッセ</p></td>
 <td><p>出演は12月31日のみ。</p></td>
 <td></td>
@@ -3110,7 +3160,7 @@ Presented by シミズオクト</a>2016</p></td>
 
 ## 受賞歴
 
-  - [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニュー・アーティスト・オブ・ザ・イヤー （2005年度）\[28\]
+  - [日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")ニュー・アーティスト・オブ・ザ・イヤー （2005年度）\[30\]
 
 ## 脚注
 
@@ -3172,9 +3222,11 @@ Presented by シミズオクト</a>2016</p></td>
 20.
 21.
 22.
-23. [UVERworld](https://rockinon.com/quick/rijfes2015/detail/128452)（10年越しの反骨精神で掴んだステージ）
-24. [【雷神ステージ】UVERworld 1日目](http://inazumarock.com/2015/news/500)（イナズマロックフェス2015）
-25. [【雷神ステージ】UVERworld 2日目](http://inazumarock.com/2015/news/600)（イナズマロックフェス2015）
-26. [UVERworld](https://rockinon.com/quick/rijfes2016/detail/146675)（生きるための遺書と、再会の約束）
-27. [UVERworld](https://rockinon.com/quick/cdj1617/detail/153918)（人は、１年で変われる。そうTAKUYA∞は言った）
-28.
+23.
+24.
+25. [UVERworld](https://rockinon.com/quick/rijfes2015/detail/128452)（10年越しの反骨精神で掴んだステージ）
+26. [【雷神ステージ】UVERworld 1日目](http://inazumarock.com/2015/news/500)（イナズマロックフェス2015）
+27. [【雷神ステージ】UVERworld 2日目](http://inazumarock.com/2015/news/600)（イナズマロックフェス2015）
+28. [UVERworld](https://rockinon.com/quick/rijfes2016/detail/146675)（生きるための遺書と、再会の約束）
+29. [UVERworld](https://rockinon.com/quick/cdj1617/detail/153918)（人は、１年で変われる。そうTAKUYA∞は言った）
+30.

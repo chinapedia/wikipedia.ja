@@ -115,7 +115,7 @@
 4.  **何の矛盾もない** - *NANNO-MUJUN-MO-NAI*
 
       -
-        後に再婚することになった[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")に捧げた1曲として知られている。[2004年](../Page/2004年.md "wikilink")（平成16年）[8月21日](../Page/8月21日.md "wikilink")の[桜島](../Page/桜島.md "wikilink")オールナイトライブでは、セミファイナルでこの歌が歌われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")である[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")が[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")でカヴァーしている。
+        後に再婚することになった[志穂美悦子](https://ja.wikipedia.org/wiki/志穂美悦子 "wikilink")に捧げた1曲として知られている。[2004年](../Page/2004年.md "wikilink")（平成16年）[8月21日](../Page/8月21日.md "wikilink")の[桜島](../Page/桜島.md "wikilink")オールナイトライブでは、セミファイナルでこの歌が歌われている。また、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")出身の[歌手](../Page/歌手.md "wikilink")である[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")が[中国語](../Page/中国語.md "wikilink")でカヴァーしている。
 
 ## スタッフ・クレジット
 

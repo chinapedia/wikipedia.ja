@@ -136,7 +136,7 @@
 <!-- end list -->
 
   - 9月24日、[DRAGON GATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")[大田区総合体育館](https://ja.wikipedia.org/wiki/大田区総合体育館 "wikilink")大会にて、ヒールユニット「[R.E.D](https://ja.wikipedia.org/wiki/R・E・D "wikilink")」のメンバーとして参戦。
-  - 12月23日、DRAGON GATE[福岡国際センター](../Page/福岡国際センター.md "wikilink")大会にて、[Kzy](../Page/Kzy.md "wikilink")&[横須賀ススム](https://ja.wikipedia.org/wiki/横須賀ススム "wikilink")&[堀口元気](../Page/堀口元気.md "wikilink")が保持する[オープン・ザ・トライアングル・ゲート王座](../Page/オープン・ザ・トライアングル・ゲート王座.md "wikilink")に[神田裕之](../Page/神田裕之.md "wikilink")&[吉田隆司](../Page/吉田隆司.md "wikilink")と挑戦し勝利。第64代王者となる。
+  - 12月23日、DRAGON GATE[福岡国際センター](../Page/福岡国際センター.md "wikilink")大会にて、[Kzy](../Page/Kzy.md "wikilink")&[横須賀ススム](../Page/横須賀ススム.md "wikilink")&[堀口元気](../Page/堀口元気.md "wikilink")が保持する[オープン・ザ・トライアングル・ゲート王座](../Page/オープン・ザ・トライアングル・ゲート王座.md "wikilink")に[神田裕之](../Page/神田裕之.md "wikilink")&[吉田隆司](../Page/吉田隆司.md "wikilink")と挑戦し勝利。第64代王者となる。
 
 <!-- end list -->
 

@@ -8,7 +8,7 @@
 **上田浩二郎**（うえだ こうじろう、[1973年](../Page/1973年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink") - ）（歳）
 
   - [ボケ担当](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")、立ち位置は向かって左。
-  - [埼玉県](../Page/埼玉県.md "wikilink")[鳩ヶ谷市](../Page/鳩ヶ谷市.md "wikilink")（現：[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")）生まれ。[身長](../Page/身長.md "wikilink")168cm、[体重](../Page/体重.md "wikilink")57kg、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+  - [埼玉県](../Page/埼玉県.md "wikilink")[鳩ヶ谷市](../Page/鳩ヶ谷市.md "wikilink")（現：[川口市](https://ja.wikipedia.org/wiki/川口市 "wikilink")）生まれ。[身長](../Page/身長.md "wikilink")168cm、[体重](../Page/体重.md "wikilink")57kg、[血液型O型](../Page/ABO式血液型.md "wikilink")。
   - 兄が1人いる。
   - 横文字に弱いところが時折見られるが、一方で時事に強い部分も見受けられる。
   - 猫アレルギーである\[1\]。また、軽度の日光アレルギーでもあるため、1年を通して肌の色が白い\[2\]。
@@ -23,7 +23,7 @@
 **岩崎一則**（いわさき かずのり、[1973年](../Page/1973年.md "wikilink")[9月17日](../Page/9月17日.md "wikilink") - ）（歳）
 
   - [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当、立ち位置は向かって右。
-  - [埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")生まれ。身長170cm、体重71kg、[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[左利き](../Page/左利き.md "wikilink")\[11\]。
+  - [埼玉県](../Page/埼玉県.md "wikilink")[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")生まれ。身長170cm、体重71kg、[血液型B型](../Page/ABO式血液型.md "wikilink")。[左利き](../Page/左利き.md "wikilink")\[11\]。
   - 兄が1人おり、肉屋を経営している\[12\]。
   - スキンヘッドがトレードマーク。最近は舞台上などで眼鏡をかけている。衣装は以前は[ネルシャツ](https://ja.wikipedia.org/wiki/ネルシャツ "wikilink")を着ていることが多かったが、THE MANZAI2011の決勝以降は基本的にワイシャツにネクタイ姿で通している。愛称は「**ガンちゃん**」。
   - 上田の両親が経営するアパートに10年以上住んでいる。しかし、ここ5年ほど家賃を滞納している。また、15年以上掃除をしておらず、[2012年](../Page/2012年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")放送の黄金伝説の企画で掃除をした際に冷蔵庫の上から様々な菌が検出されるほどの不潔さであったことが明らかとなった\[13\]。

@@ -15,7 +15,7 @@
 
 [2001年](../Page/2001年.md "wikilink")12月9日に開催された[ヴェンジェンスではWWF王座とWCW王座を統一したWWF統一王座が新設され](https://ja.wikipedia.org/wiki/WWEヴェンジェンス#第1回大会（2001年）WWF_Vengeance_2001_"ONE_UNDISPUTED_CHAMPION" "wikilink")、[クリス・ジェリコ](../Page/クリス・ジェリコ.md "wikilink")、ザ・ロック、ストーン・コールド・スティーブ・オースチン、[カート・アングル](../Page/カート・アングル.md "wikilink")の4名によるトーナメントの結果、クリス・ジェリコが初代統一王座を戴冠した。今なおジェリコは「一夜でロックとオースチンを倒した唯一の男」と喧伝されている。
 
-[2002年](../Page/2002年.md "wikilink")8月25日に開催された[サマースラムでの統一王座戦ザ](https://ja.wikipedia.org/wiki/サマースラム#第15回大会（2002年）WWE_SummerSlam_2002 "wikilink")・ロックvs[ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")でレスナーがロックに勝利し王座を奪取。当時統一王者はRAW、[SmackDown\!両方の番組に出ることが可能であったが](../Page/スマックダウン.md "wikilink")、レスナーはSmackDown\!専属となり名称もWWE王座と改称される。以降はSmackDown\!が王座を管轄し、RAWには[世界ヘビー級王座が新設され](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink")、WWE王座と同等の扱いの王座となった。
+[2002年](../Page/2002年.md "wikilink")8月25日に開催された[サマースラムでの統一王座戦ザ](https://ja.wikipedia.org/wiki/サマースラム#第15回大会（2002年）WWE_SummerSlam_2002 "wikilink")・ロックvs[ブロック・レスナー](../Page/ブロック・レスナー.md "wikilink")でレスナーがロックに勝利し王座を奪取。当時統一王者はRAW、[SmackDown\!両方の番組に出ることが可能であったが](../Page/スマックダウン.md "wikilink")、レスナーはSmackDown\!専属となった。また団体の名称が[世界自然保護基金](../Page/世界自然保護基金.md "wikilink")（WWF）の抗議により変更となりWWE王座と改称された。以降はSmackDown\!が王座を管轄し、RAWには[世界ヘビー級王座が新設され](https://ja.wikipedia.org/wiki/WWE・世界ヘビー級王座 "wikilink")、WWE王座と同等の扱いの王座となった。
 
 [2005年](../Page/2005年.md "wikilink")4月3日に開催された[WresleMania 21で](https://ja.wikipedia.org/wiki/レッスルマニア21 "wikilink")[ジョン・シナ](../Page/ジョン・シナ.md "wikilink")が[JBLから王座を奪取し](https://ja.wikipedia.org/wiki/ジョン・レイフィールド "wikilink")、6月の[ドラフトで王座を持ったままRAWに移籍](../Page/ドラフト会議.md "wikilink")。
 

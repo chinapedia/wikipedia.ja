@@ -48,7 +48,7 @@
   - [尾辻舞](../Page/尾辻舞.md "wikilink")
   - [岩崎全智](https://ja.wikipedia.org/wiki/岩崎全智 "wikilink")
   - [林和人](../Page/林和人.md "wikilink")
-  - [水野善公](https://ja.wikipedia.org/wiki/水野善公 "wikilink")
+  - [水野善公](../Page/水野善公.md "wikilink")
   - [斎藤晴江](../Page/斎藤晴江.md "wikilink")
   - [石田浩子](../Page/石田浩子.md "wikilink")
   - [中西沙綾](https://ja.wikipedia.org/wiki/中西沙綾 "wikilink")

@@ -25,7 +25,7 @@
   - 第8回（1997年）　NTT関東
   - 第9回（1998年）　[いすゞ自動車](https://ja.wikipedia.org/wiki/いすゞ自動車硬式野球部 "wikilink")
   - 第10回（1998年）　NTT関東
-  - 第11回（1999年）　[日石三菱](https://ja.wikipedia.org/wiki/ENEOS野球部 "wikilink")
+  - 第11回（1999年）　[日石三菱](../Page/ENEOS野球部.md "wikilink")
   - 第12回（2000年）　日産自動車
   - 第13回（2001年）　[日本通運](../Page/日本通運硬式野球部.md "wikilink")
   - 第14回（2002年）　[新日本製鐵君津](../Page/日本製鉄かずさマジック.md "wikilink")

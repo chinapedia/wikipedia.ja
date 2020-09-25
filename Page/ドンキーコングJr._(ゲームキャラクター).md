@@ -28,6 +28,8 @@
 
 [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")の[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")では『ドンキーコングJR.』と『ドンキーコングJR.の算数遊び』が配信されている。前者については、その後[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")と[Wii Uでも配信された](https://ja.wikipedia.org/wiki/Wii_U "wikilink")。
 
+[2020年](../Page/2020年.md "wikilink")、『[マリオカート ツアー](https://ja.wikipedia.org/wiki/マリオカート_ツアー "wikilink")』にプレイヤーキャラクターとして登場。姿形は『スーパーマリオカート』でのドット絵を模している。プレイヤーキャラクターとしての登場は『マリオテニス64』以来20年ぶりとなる。
+
 ## 登場作品
 
   - ゲーム&ウオッチ ドンキーコングJR.（[ゲーム&ウオッチ](../Page/ゲーム&ウオッチ.md "wikilink")、[ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")）\[7\]
@@ -38,6 +40,7 @@
   - [マリオズテニス](https://ja.wikipedia.org/wiki/マリオズテニス "wikilink")（[バーチャルボーイ](../Page/バーチャルボーイ.md "wikilink")用ソフト）
   - [マリオテニス64](../Page/マリオテニス64.md "wikilink")
   - [スーパーマリオメーカー](https://ja.wikipedia.org/wiki/スーパーマリオメーカー "wikilink") - キャラマリオとして登場。
+  - [マリオカート ツアー](https://ja.wikipedia.org/wiki/マリオカート_ツアー "wikilink")
 
 ### 旧作の移植で登場
 

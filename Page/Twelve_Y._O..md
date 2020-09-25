@@ -219,13 +219,13 @@
     一度は解体・縮小されており、再編された経緯は前作『[川の深さは](../Page/川の深さは.md "wikilink")』で記されている。再編前の名称は『治安情報局』。
     詳しくは「[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")」を参照。
   - アポトーシスII
-    前作『[川の深さは](../Page/川の深さは.md "wikilink")』に登場した[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")の強化型。2013年出版の『[人類資金](https://ja.wikipedia.org/wiki/人類資金 "wikilink")』においても、改良型が登場する。
+    前作『[川の深さは](../Page/川の深さは.md "wikilink")』に登場した[コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")「アポトーシス」の強化型。2013年出版の『[人類資金](https://ja.wikipedia.org/wiki/人類資金 "wikilink")』においても、改良型が登場する。
   - 辺野古ディストラクション
     本作の終盤にて起きる[在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")基地の爆発事故。この事故は続編の『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』の物語にも関与してくる。
   - GUSOH
-    [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")が日本国内で開発した新型の毒ガス兵器。続編の『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』では、この兵器が物語に深く関わる。詳しくは「[GUSOH](../Page/GUSOH.md "wikilink")」を参照。
+    [在日米軍](https://ja.wikipedia.org/wiki/在日米軍 "wikilink")が次世代エネルギーとして日本国内で開発した新型の毒ガス兵器。続編の『[亡国のイージス](../Page/亡国のイージス.md "wikilink")』では、この兵器が物語に深く関わる。詳しくは「[GUSOH](../Page/GUSOH.md "wikilink")」を参照。
   - テルミット・プラス
-    GUSOHを無力化することができる新型の爆薬。続編の『亡国のイージス』にも登場し、改良型が『[Op.ローズダスト](../Page/Op.ローズダスト.md "wikilink")』に登場する。詳しくは「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」を参照。
+    GUSOHを無力化することができる新型の特殊焼夷弾（二液混合爆薬）。続編の『亡国のイージス』にも登場し、改良型が『[Op.ローズダスト](../Page/Op.ローズダスト.md "wikilink")』に登場する。詳しくは「[テルミット・プラス](https://ja.wikipedia.org/wiki/テルミット・プラス "wikilink")」を参照。
   - 海兵旅団
     的場 丈史[2等海佐](https://ja.wikipedia.org/wiki/2等海佐 "wikilink")が創設した機関で、彼曰く「戦える自衛隊」。『[戦国自衛隊1549](../Page/戦国自衛隊1549.md "wikilink")』\[2\]にも登場し、『敗者達の黙示録』では名前のみ登場する。[海兵隊](../Page/海兵隊.md "wikilink")に倣った機関であるが、理由が不明なまま廃設された。詳しくは「[防衛庁情報局](../Page/防衛庁情報局.md "wikilink")」の「類似機関」の欄を参照。
   - 登場人物

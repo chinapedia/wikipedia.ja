@@ -219,8 +219,7 @@
 
   - [ヴェイグス for PC-8801 （[プロジェクトEGG](../Page/プロジェクトEGG.md "wikilink")）](http://www.amusement-center.com/project/egg/cgi/ecatalog-detail.cgi?contcode=7&product_id=1091)
 
-  - （英語）
-
+  -
 [Category:1988年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1988年のコンピュータゲーム "wikilink") [Category:PC-8800用ゲームソフト](https://ja.wikipedia.org/wiki/Category:PC-8800用ゲームソフト "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:アクションシューティングゲーム](https://ja.wikipedia.org/wiki/Category:アクションシューティングゲーム "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink") [Category:ゲームアーツのゲームソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーツのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink")
 
 1.

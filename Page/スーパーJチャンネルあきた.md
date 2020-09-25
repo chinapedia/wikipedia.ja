@@ -26,7 +26,7 @@
   - [小田正実](../Page/小田正実.md "wikilink")（メイン担当、2006年4月 - 2007年3月）
   - [後藤明日香](https://ja.wikipedia.org/wiki/後藤明日香 "wikilink")（メイン担当、2009年3月2日 - 2010年10月1日）
   - [塩地美澄](../Page/塩地美澄.md "wikilink")（メイン担当、2012年4月2日 - 2014年3月27日）
-  - [北田牧子](https://ja.wikipedia.org/wiki/北田牧子 "wikilink")（ミニコーナー担当、レギュラー陣が不在時には代理出演）
+  - [北田牧子](../Page/北田牧子.md "wikilink")（ミニコーナー担当、レギュラー陣が不在時には代理出演）
   - [椿田恵理子](https://ja.wikipedia.org/wiki/椿田恵理子 "wikilink")（「天気のじかん」担当、2008年9月29日 - 2009年9月30日）
   - [柏木千春](https://ja.wikipedia.org/wiki/柏木千春 "wikilink")（「天気のじかん」担当、2009年10月1日 - 2011年4月1日）
   - [藤盛由果](https://ja.wikipedia.org/wiki/藤盛由果 "wikilink")（「天気のじかん」担当、2011年4月4日 - 2014年3月27日）
@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [スーパーJチャンネルあきた](http://archive.is/StohX)（archive版）
+  - [スーパーJチャンネルあきた](https://archive.is/StohX)（archive版）
 
 [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:秋田朝日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:秋田朝日放送のテレビ番組 "wikilink") [Category:東北地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:東北地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:スーパーJチャンネル](https://ja.wikipedia.org/wiki/Category:スーパーJチャンネル "wikilink")

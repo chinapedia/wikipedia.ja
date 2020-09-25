@@ -33,7 +33,7 @@ WPA2には対応しておらず、WPA-PSK-[CCMP](https://ja.wikipedia.org/wiki/C
 
 ## AOSS2
 
-2012年6月6日に発表され\[3\]、それ以降に発売されるルーターの新製品に搭載される。パソコンがなくても[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")などの[Android](../Page/Android.md "wikilink")・[iOS端末だけで接続設定が行える](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。特にWPSすら対応していないiOSデバイスでは設定が飛躍的に簡単になる\[4\]。Windowsと[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")にも対応している。[Google Playに標準で対応していないAndroid端末は対象外](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。
+2012年6月6日に発表され\[3\]、それ以降に発売されるルーターの新製品に搭載される。パソコンがなくても[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")などの[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")・[iOS端末だけで接続設定が行える](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。特にWPSすら対応していないiOSデバイスでは設定が飛躍的に簡単になる\[4\]。Windowsと[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")にも対応している。[Google Playに標準で対応していないAndroid端末は対象外](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。
 
 ### 方法 (2)
 

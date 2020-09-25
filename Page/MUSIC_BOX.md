@@ -68,7 +68,7 @@
   - [ジョニィへの伝言](../Page/ジョニィへの伝言.md "wikilink")（'76）/[ペドロ&カプリシャス](https://ja.wikipedia.org/wiki/ペドロ&カプリシャス "wikilink")
   - [学生街の喫茶店](../Page/学生街の喫茶店.md "wikilink")（'72）/[ガロ](../Page/ガロ_\(フォークグループ\).md "wikilink")
   - [木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")（'75）/[太田裕美](../Page/太田裕美.md "wikilink")
-  - [また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")（'71）/[尾崎紀世彦](https://ja.wikipedia.org/wiki/尾崎紀世彦 "wikilink")
+  - [また逢う日まで](../Page/また逢う日まで_\(尾崎紀世彦の曲\).md "wikilink")（'71）/[尾崎紀世彦](../Page/尾崎紀世彦.md "wikilink")
   - [喝采](../Page/喝采_\(曲\).md "wikilink")（'72）/[ちあきなおみ](../Page/ちあきなおみ.md "wikilink")
   - [岬めぐり](https://ja.wikipedia.org/wiki/岬めぐり "wikilink")（'74）/[山本コウタロー](../Page/山本コウタロー.md "wikilink")とウィークエンド
   - [異邦人](../Page/異邦人_-シルクロードのテーマ-.md "wikilink")（'79）/[久保田早紀](../Page/久米小百合.md "wikilink")

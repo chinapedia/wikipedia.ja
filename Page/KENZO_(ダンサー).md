@@ -1,7 +1,7 @@
 > この記事は[KENZO \(ダンサー\)](https://ja.wikipedia.org/wiki/KENZO_\(ダンサー\))から翻訳されています。
 
 
-**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](../Page/振付師.md "wikilink")、[DA PUMPの](../Page/DA_PUMP.md "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。[福岡県](../Page/福岡県.md "wikilink")[宮若市](../Page/宮若市.md "wikilink")（旧[宮田町](../Page/宮田町_\(福岡県\).md "wikilink")）出身。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**KENZO**（ケンゾー、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[1月21日](../Page/1月21日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")、[コレオグラファーで](../Page/振付師.md "wikilink")、[DA PUMPの](../Page/DA_PUMP.md "wikilink")[パフォーマー](https://ja.wikipedia.org/wiki/パフォーマー "wikilink")。本名、中村 朋揮（なかむら ともき）。[福岡県](../Page/福岡県.md "wikilink")[宮若市](../Page/宮若市.md "wikilink")（旧[宮田町](../Page/宮田町_\(福岡県\).md "wikilink")）出身。血液型は[O型](../Page/ABO式血液型.md "wikilink")。
 
 所属[事務所は](../Page/芸能事務所.md "wikilink")[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")。所属レコード会社は[エイベックス・グループ](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")（[レーベルは](../Page/レコードレーベル.md "wikilink")[SONIC GROOVE](../Page/SONIC_GROOVE.md "wikilink")）。[東海大学](../Page/東海大学.md "wikilink")卒業。
 

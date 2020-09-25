@@ -22,7 +22,7 @@
 
   - HSP3Dish部門
     2012年度に新設された。
-      - HSPDishで作成された作品を対象とする。HSPDishはマルチプラットフォームに対応しており、パソコンに加えて[Android](../Page/Android.md "wikilink")端末や[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")でも実行できる。
+      - HSPDishで作成された作品を対象とする。HSPDishはマルチプラットフォームに対応しており、パソコンに加えて[Android端末や](../Page/Android_\(オペレーティングシステム\).md "wikilink")[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")でも実行できる。
 
 <!-- end list -->
 

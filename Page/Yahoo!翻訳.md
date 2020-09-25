@@ -8,7 +8,7 @@
 ## 対応言語
 
   - [英語](../Page/英語.md "wikilink")
-  - [中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")
+  - [中国語](../Page/中国語.md "wikilink")
   - [韓国語](../Page/朝鮮語.md "wikilink")
   - [日本語](../Page/日本語.md "wikilink")
   - [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")

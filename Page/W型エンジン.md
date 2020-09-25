@@ -62,7 +62,7 @@
 
 <!-- end list -->
 
-  - [ブガッティ](../Page/ブガッティ.md "wikilink") [ヴェイロン](https://ja.wikipedia.org/wiki/ブガッティ・ヴェイロン "wikilink") - 8.0L クワッドターボ。1001馬力
+  - [ブガッティ](../Page/ブガッティ.md "wikilink") [ヴェイロン](../Page/ブガッティ・ヴェイロン.md "wikilink") - 8.0L クワッドターボ。1001馬力
   - [ブガッティ](../Page/ブガッティ.md "wikilink") [シロン](https://ja.wikipedia.org/wiki/ブガッティ・シロン "wikilink") - ヴェイロンに搭載したモデルの改良型。1500馬力
 
 ## オートバイの3バンク型

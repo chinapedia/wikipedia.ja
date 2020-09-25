@@ -9,7 +9,7 @@
 
 2015年5月現在、単行本は電撃コミックス版が全6巻、イブニングKC版が全10巻（6巻までは新装版）が発売されている。11巻以降は同人誌として「[COMIC ZIN](https://ja.wikipedia.org/wiki/COMIC_ZIN "wikilink")」にて単行本が、「[Kindleストア](https://ja.wikipedia.org/wiki/Kindleストア "wikilink")」にて電子書籍版が取り扱われている\[1\]。また、2015年3月より「Kindleストア」にて1巻から順次配信予定としている\[2\]。
 
-他言語の翻訳版として、[英語](../Page/英語.md "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[韓国語版](../Page/朝鮮語.md "wikilink")、[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")版が出版されている。また、[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")より[ドラマCD](../Page/ドラマCD.md "wikilink")もシリーズ化されている。
+他言語の翻訳版として、[英語](../Page/英語.md "wikilink")版、[ドイツ語](../Page/ドイツ語.md "wikilink")版、[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")版、[韓国語版](../Page/朝鮮語.md "wikilink")、[中国語](../Page/中国語.md "wikilink")版、[ロシア語](https://ja.wikipedia.org/wiki/ロシア語 "wikilink")版が出版されている。また、[マリン・エンタテインメント](../Page/マリン・エンタテインメント.md "wikilink")より[ドラマCD](../Page/ドラマCD.md "wikilink")もシリーズ化されている。
 
 作品は画風・物語共に静謐で落ち着いた雰囲気である。ほとんどのコマ枠の外も黒い（黒の場合は夜である）。物語はクロエとミサキの穏やかな日常生活と、彼等が吸血鬼などと関わる事件を描いている。
 

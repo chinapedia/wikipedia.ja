@@ -69,7 +69,7 @@
     この他、2017年7月から12月まで日本テレビ深夜帯で放送したルパンアニメ歴代シリーズ（1期～3期）全話からファン投票で選ばれた上位24エピソードを放送した『[ルパン三世ベストセレクション](https://ja.wikipedia.org/wiki/ルパン三世#ベストセレクション "wikilink")』では、本シリーズから全体の半分に相当する12エピソードが選出。さらに1位・2位を[宮崎駿](../Page/宮崎駿.md "wikilink")が脚本・演出を担当した「[さらば愛しきルパンよ](../Page/さらば愛しきルパンよ.md "wikilink")」「[死の翼アルバトロス](../Page/死の翼アルバトロス.md "wikilink")」の2作が獲得している\[3\]。
   - その他
     最高視聴率は30.5%（1979年1月22日、第67話）\[4\]
-    世界各国でも放送され、特に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")、[アメリカなど欧米での評価が高い](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。ただし、[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ナチスに関連が深い第](../Page/ナチス・ドイツ.md "wikilink")3話は未放送である。
+    世界各国でも放送され、特に[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[イタリア](../Page/イタリア.md "wikilink")での評価が高い。ただし、[アメリカでは](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ナチスに関連が深い第](../Page/ナチス・ドイツ.md "wikilink")3話は未放送である。
     サウンドトラック『ルパン三世』(YP-7071)は[オリコン](../Page/オリコンチャート.md "wikilink")[LPチャートで最高](../Page/レコード.md "wikilink")8位を記録した\[5\]。
 
 ## 放送期間など

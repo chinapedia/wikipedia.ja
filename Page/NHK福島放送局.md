@@ -225,68 +225,63 @@
 福島県のニュース</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/川崎寛司.md" title="wikilink">川崎寛司</a></p></td>
-<td><p><a href="../Page/NHK福井放送局.md" title="wikilink">福井</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山岡裕明" title="wikilink">山岡裕明</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
 <td><p>福島県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/山岡裕明" title="wikilink">山岡裕明</a></p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/安藤結衣" title="wikilink">安藤結衣</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/須藤健吾" title="wikilink">須藤健吾</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>淺川理沙</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/おはようふくしま" title="wikilink">おはようふくしま</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>髙石桃子</p></td>
 <td><p>　</p></td>
 <td><p>はまなかあいづToday<br />
 （キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>三谷咲都美</p></td>
 <td></td>
 <td><p>はまなかあいづToday<br />
 （リポーター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>後藤万里子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>丹野なな子</p></td>
 <td></td>
 <td><p>こでらんに5</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>佐藤彩乃</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>齋藤郁子</p></td>
 <td></td>
 <td><p>はまなかあいづToday</p></td>

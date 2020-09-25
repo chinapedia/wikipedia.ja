@@ -11,16 +11,16 @@
 
 ## Jリーグ百年構想クラブ
 
-★は2020シーズンJ3クラブライセンスが交付されたクラブ
+★は2021シーズンJ3クラブライセンスが交付されたクラブ
 
 ### JFL所属
 
   - **[ラインメール青森](../Page/ラインメール青森.md "wikilink")**★（[青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")[青森市](https://ja.wikipedia.org/wiki/青森市 "wikilink")）
-  - **[いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")**（[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")、[広野町](../Page/広野町.md "wikilink")、[楢葉町](../Page/楢葉町.md "wikilink")、[富岡町](../Page/富岡町.md "wikilink")、[川内村](../Page/川内村.md "wikilink")、[大熊町](../Page/大熊町.md "wikilink")、[双葉町](../Page/双葉町.md "wikilink")、[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")、[葛尾村](../Page/葛尾村.md "wikilink")）
-  - **[ヴィアティン三重](https://ja.wikipedia.org/wiki/ヴィアティン三重 "wikilink")**（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")、[東員町](../Page/東員町.md "wikilink")、[いなべ市](../Page/いなべ市.md "wikilink")、[木曽岬町](../Page/木曽岬町.md "wikilink")、[朝日町](../Page/朝日町.md "wikilink")、[川越町](../Page/川越町.md "wikilink")、[菰野町](https://ja.wikipedia.org/wiki/菰野町 "wikilink")）
-  - **[FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink")**（[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")）
+  - **[いわきFC](https://ja.wikipedia.org/wiki/いわきFC "wikilink")**★（[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")、[広野町](../Page/広野町.md "wikilink")、[楢葉町](../Page/楢葉町.md "wikilink")、[富岡町](../Page/富岡町.md "wikilink")、[川内村](../Page/川内村.md "wikilink")、[大熊町](../Page/大熊町.md "wikilink")、[双葉町](../Page/双葉町.md "wikilink")、[浪江町](https://ja.wikipedia.org/wiki/浪江町 "wikilink")、[葛尾村](../Page/葛尾村.md "wikilink")）
+  - **[ヴィアティン三重](https://ja.wikipedia.org/wiki/ヴィアティン三重 "wikilink")**★（[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")、[東員町](../Page/東員町.md "wikilink")、[いなべ市](../Page/いなべ市.md "wikilink")、[木曽岬町](../Page/木曽岬町.md "wikilink")、[朝日町](../Page/朝日町.md "wikilink")、[川越町](../Page/川越町.md "wikilink")、[菰野町](https://ja.wikipedia.org/wiki/菰野町 "wikilink")）
+  - **[FC大阪](https://ja.wikipedia.org/wiki/FC大阪 "wikilink")**★（[大阪府](../Page/大阪府.md "wikilink")[東大阪市](../Page/東大阪市.md "wikilink")）
   - **[奈良クラブ](https://ja.wikipedia.org/wiki/奈良クラブ "wikilink")**★（[奈良県](../Page/奈良県.md "wikilink")[奈良市](https://ja.wikipedia.org/wiki/奈良市 "wikilink")を中心とする全県)
-  - **[テゲバジャーロ宮崎](https://ja.wikipedia.org/wiki/テゲバジャーロ宮崎 "wikilink")**（[宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")、[新富町](../Page/新富町.md "wikilink")）
+  - **[テゲバジャーロ宮崎](https://ja.wikipedia.org/wiki/テゲバジャーロ宮崎 "wikilink")**★（[宮崎県](../Page/宮崎県.md "wikilink")[宮崎市](https://ja.wikipedia.org/wiki/宮崎市 "wikilink")、[新富町](../Page/新富町.md "wikilink")）
 
 ### 地域リーグ所属
 
@@ -137,15 +137,18 @@
       - **[TSV1973四日市](../Page/TSV1973四日市.md "wikilink")**（1部、[四日市市](../Page/四日市市.md "wikilink")） - 公式facebookに「育成型Jチーム、5年後のJFL参入を目指し地域に根ざしたクラブ作り」と記載\[73\]。
   - [滋賀県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/滋賀県社会人サッカーリーグ "wikilink")
       - **[SHIGA CITY FC](https://ja.wikipedia.org/wiki/SHIGA_CITY_FC "wikilink")** （1部、[滋賀県](../Page/滋賀県.md "wikilink")全域） - 公式サイトに「滋賀県初のJリーグ加盟を目差して」と記載\[74\]。
+  - [大阪府社会人サッカーリーグ](https://ja.wikipedia.org/wiki/大阪府社会人サッカーリーグ "wikilink")
+      - **[茨木SC](https://ja.wikipedia.org/wiki/茨木SC "wikilink")**（2部Dブロック、[茨木市](../Page/茨木市.md "wikilink")） - 公式Facebookに「茨木市にJリーグクラブを\!\!」と記載\[75\]。
+      - **[堺シティスポーツクラブ](https://ja.wikipedia.org/wiki/堺シティスポーツクラブ "wikilink")**（3部Fブロック、[堺市](https://ja.wikipedia.org/wiki/堺市 "wikilink")） - 公式サイト「堺からJリーグチームを\!」と記載\[76\]。
   - [兵庫県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/兵庫県社会人サッカーリーグ "wikilink")
-      - **[FC淡路島](https://ja.wikipedia.org/wiki/FC淡路島 "wikilink")**（1部、[淡路島](../Page/淡路島.md "wikilink")全域） - 公式サイトに「淡路島初のJクラブを目指します」と記載\[75\]。
+      - **[FC淡路島](https://ja.wikipedia.org/wiki/FC淡路島 "wikilink")**（1部、[淡路島](../Page/淡路島.md "wikilink")全域） - 公式サイトに「淡路島初のJクラブを目指します」と記載\[77\]。
   - [和歌山県社会人サッカーリーグ](https://ja.wikipedia.org/wiki/和歌山県社会人サッカーリーグ "wikilink")
-      - **[岩出FCアズール](https://ja.wikipedia.org/wiki/岩出FCアズール "wikilink")**（1部、[岩出市](../Page/岩出市.md "wikilink")） - オフィシャルサイトに「和歌山からJリーグへ\!\!」と記載\[76\]。
+      - **[岩出FCアズール](https://ja.wikipedia.org/wiki/岩出FCアズール "wikilink")**（1部、[岩出市](../Page/岩出市.md "wikilink")） - オフィシャルサイトに「和歌山からJリーグへ\!\!」と記載\[78\]。
   - [広島県社会人サッカーリーグ](../Page/広島県社会人サッカーリーグ.md "wikilink")
-      - **[福山シティFC](https://ja.wikipedia.org/wiki/福山シティFC "wikilink")**（1部Aブロック、[福山市](../Page/福山市.md "wikilink")を中心とした[備後エリア](../Page/備後都市圏.md "wikilink")） - 2020年より「福山SCC」からクラブ名を変更。運営法人の公式サイトに「Jリーグを目指しております」と記載\[77\]。
-      - **[廿日市FC](https://ja.wikipedia.org/wiki/廿日市FC "wikilink")**（1部Bブロック、[廿日市市](../Page/廿日市市.md "wikilink")） - 公式サイトに「J3まで最短で駆け昇れ」と記載 \[78\]。
+      - **[福山シティFC](https://ja.wikipedia.org/wiki/福山シティFC "wikilink")**（1部Aブロック、[福山市](../Page/福山市.md "wikilink")を中心とした[備後エリア](../Page/備後都市圏.md "wikilink")） - 2020年より「福山SCC」からクラブ名を変更。運営法人の公式サイトに「Jリーグを目指しております」と記載\[79\]。
+      - **[廿日市FC](https://ja.wikipedia.org/wiki/廿日市FC "wikilink")**（1部Bブロック、[廿日市市](../Page/廿日市市.md "wikilink")） - 公式サイトに「J3まで最短で駆け昇れ」と記載 \[80\]。
   - [宮崎県サッカーリーグ](https://ja.wikipedia.org/wiki/宮崎県サッカーリーグ "wikilink")
-      - **[FC延岡AGATA](https://ja.wikipedia.org/wiki/FC延岡AGATA "wikilink")** （1部、延岡市）- 「九保大エルフAGATA」を母体に設立。公式サイトに「この地からJリーグ<日本プロサッカーリーグ>を作ります。」と記載\[79\]。
+      - **[FC延岡AGATA](https://ja.wikipedia.org/wiki/FC延岡AGATA "wikilink")** （1部、延岡市）- 「九保大エルフAGATA」を母体に設立。公式サイトに「この地からJリーグ<日本プロサッカーリーグ>を作ります。」と記載\[81\]。
 
 ## 出典
 
@@ -237,3 +240,5 @@
 77.
 78.
 79.
+80.
+81.

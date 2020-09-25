@@ -86,7 +86,7 @@
 
 ## 後継
 
-2019年（令和元年）12月6日、防衛省から陸上自衛隊の後継拳銃がGlock17（オーストリア・GLOCK製）とberettaAPX（イタリア・BERETTA製）を含む3機種\[23\]の中から選定され、「[HK SFP9](../Page/H&K_VP9.md "wikilink")（[HECKLER\&KOCH製](../Page/ヘッケラー&コッホ.md "wikilink")）」としたことが発表された\[24\]。
+2019年（令和元年）12月6日、防衛省から陸上自衛隊の後継拳銃が[Glock17](../Page/グロック17.md "wikilink")（[オーストリア](../Page/オーストリア.md "wikilink")・[GLOCK製](../Page/グロック.md "wikilink")）と[berettaAPX](../Page/ベレッタAPX.md "wikilink")（[イタリア](../Page/イタリア.md "wikilink")・[BERETTA製](../Page/ファブリカ・ダルミ・ピエトロ・ベレッタ.md "wikilink")）を含む3機種\[23\]の中から選定され、「[HK SFP9](../Page/H&K_VP9.md "wikilink")（ドイツ・[HECKLER\&KOCH製](../Page/ヘッケラー&コッホ.md "wikilink")）」としたことが発表された\[24\]。
 
 [2020年](../Page/2020年.md "wikilink")5月18日、陸自で採用される新型拳銃「9mm拳銃SFP9」が、正式に報道陣に公開された\[25\]\[26\]。
 

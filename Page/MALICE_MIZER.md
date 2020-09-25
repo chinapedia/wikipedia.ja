@@ -325,7 +325,7 @@ Box仕様 ブックレット付</p></td>
 
   - 神話（Kami's MEMORIAL BOX） （2000年2月1日）（Kamiの遺した作品をメンバーの手で完成させたもの、CD＆VIDEO）
 
-### VIDEO/DVD
+### VIDEO/DVD/Blu-ray
 
   - ヴェル・エール\~空白の瞬間の中で\~de l'image （1997年9月3日）
   - merveilles \~終焉と帰趨\~ l'espace （1998年10月28日/2002年3月30日）
@@ -339,6 +339,7 @@ Box仕様 ブックレット付</p></td>
   - Cardinal （2002年2月6日）
   - 薔薇の婚礼 （2002年3月22日）（初主演映画）
   - Sélection de performances live（2007年3月28日）
+  - Deep Sanctuary Ⅵ MALICE MIZER 25th Anniversary Special　※Blu-ray・限定生産
 
 ### BOOK
 

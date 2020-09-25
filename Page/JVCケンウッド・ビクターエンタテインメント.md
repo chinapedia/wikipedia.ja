@@ -101,6 +101,7 @@
   - [Colourful Records](https://ja.wikipedia.org/wiki/Colourful_Records "wikilink")（カラフルレコーズ）\[21\]
       - [her](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")（ハー）- SCANDALのプライベートレーベル
       - [ELA](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")（エレラ）- 木村カエラのプライベートレーベル
+      - [伽羅古録盤](../Page/レキシ.md "wikilink") - レキシのプライベートレーベル。『カラフルレコーズ』の[当て字](../Page/当て字.md "wikilink")になっている。
   - CONNEXTONE（コネクストーン）- 2019年4月、ビクター洋楽部とコネクトーン制作部を統合\[22\]。
       - [CONNECTONE](https://ja.wikipedia.org/wiki/CONNECTONE "wikilink")（コネクトーン）
       - starplayers Records - [RHYMESTER](../Page/RHYMESTER.md "wikilink")主宰のレーベル

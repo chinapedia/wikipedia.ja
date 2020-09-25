@@ -61,6 +61,8 @@
 
 ## 車種一覧
 
+### シボレーブランド
+
 2020年3月現在。★はアメリカからの輸入車。
 
   - [スパーク](../Page/GM大宇・マティス.md "wikilink")（コンパクトカー。旧車名：マティスクリエイティブ）
@@ -71,6 +73,9 @@
   - [トラバース](https://ja.wikipedia.org/wiki/シボレー・トラバース "wikilink")　★
   - [コロラド](../Page/シボレー・コロラド.md "wikilink")　★
   - [ボルトEV](https://ja.wikipedia.org/wiki/シボレー・ボルトEV "wikilink")　★
+
+### 大宇ブランド
+
   - [ダマス](../Page/スズキ・エブリイ.md "wikilink")（小型[1BOX](../Page/ワンボックスカー.md "wikilink")。スズキ・エブリイがベース）\[38\]
   - [ラボ](../Page/スズキ・キャリイ.md "wikilink")（[小型トラック](../Page/軽トラック.md "wikilink")。スズキ・キャリイがベース）
 

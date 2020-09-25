@@ -1,7 +1,7 @@
 > この記事は[ASIAN KUNG-FU GENERATION](https://ja.wikipedia.org/wiki/ASIAN_KUNG-FU_GENERATION)から翻訳されています。
 
 
-**ASIAN KUNG-FU GENERATION**（アジアン・カンフー・ジェネレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称「**アジカン**」「**AKG**」。所属事務所は、Spectrum Management 。所属レコード会社は[キューンミュージック](../Page/キューンミュージック.md "wikilink")
+| 活動期間 = [1996年](../Page/1996年.md "wikilink") - | レーベル =  | 事務所 = スペクトラム・マネージメント | 共同作業者 = | 公式サイト = [ASIAN KUNG-FU GENERATION](https://www.asiankung-fu.com/s/n80/?ima=4638) | メンバー =  | 旧メンバー = }} **ASIAN KUNG-FU GENERATION**（アジアン・カンフー・ジェネレーション）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の4人組[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称「**アジカン**」「**AKG**」。所属事務所は、Spectrum Management。所属レコード会社は[キューンミュージック](../Page/キューンミュージック.md "wikilink")。
 
 ## 概要
 
@@ -1902,7 +1902,7 @@ TYCT-60109</p></td>
 
       - （後藤が作る新聞用のアカウント。かつては"g_interview"のアカウント名で、アルバム『マジックディスク』の質疑応答に使用していた。その後しばらくは"g_info"のアカウント名で『大喜利専用アカウント』としていた。）
 
-[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ミクスチャー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:ミクスチャー・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:ASIAN_KUNG-FU_GENERATION](https://ja.wikipedia.org/wiki/Category:ASIAN_KUNG-FU_GENERATION "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:SCHOOL_OF_LOCK\!](https://ja.wikipedia.org/wiki/Category:SCHOOL_OF_LOCK! "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 
 1.  「音楽と人」2008年11月号より
 2.

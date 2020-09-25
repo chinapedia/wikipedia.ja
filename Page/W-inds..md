@@ -875,6 +875,9 @@ c/w「Love or Leave」（全盤共通）<br />
 | **Stepping on the fire (feat. w-inds.)**              | [RADIO FISH](https://ja.wikipedia.org/wiki/RADIO_FISH "wikilink")                                        | 2018年6月6日   | 『[RADIO FISH 2017-2018 TOUR "Phalanx"](https://ja.wikipedia.org/wiki/RADIO_FISH_2017-2018_TOUR_"Phalanx" "wikilink")』 | ライブビデオ付属CD                                                                            |
 | **Let’s get it on**                                   | w-inds.                                                                                                  | 2019年12月25日 | 『Heartbeat(ハートビート)』                                                                                                   | [ノンストップ・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/ノンストップ・コンピレーション・アルバム "wikilink") |
 | **Long Road**                                         |                                                                                                          |             |                                                                                                                       |                                                                                       |
+| **TRIAL**                                             | w-inds.                                                                                                  | 2020年11月4日  | 『Heartbeat～一緒に感じたい幸せの鼓動～』                                                                                             | [ノンストップ・コンピレーション・アルバム](https://ja.wikipedia.org/wiki/ノンストップ・コンピレーション・アルバム "wikilink") |
+| **Another Days**                                      |                                                                                                          |             |                                                                                                                       |                                                                                       |
+| **四季**                                                |                                                                                                          |             |                                                                                                                       |                                                                                       |
 
 ## タイアップ
 
@@ -2071,6 +2074,10 @@ c/w「Love or Leave」（全盤共通）<br />
 
 <!-- end list -->
 
+  - 14th RTHK International Pop Poll Award
+
+      - Top Japanese New Artist（GOLD）
+
   - [第45回日本レコード大賞](https://ja.wikipedia.org/wiki/第45回日本レコード大賞 "wikilink") 金賞 （『**[Long Road](../Page/Long_Road.md "wikilink")**』）
 
 <!-- end list -->
@@ -2131,7 +2138,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - MTV Student Voice Awards 2007 最優秀“STUDENT VOICE”グループ賞
 
-  - 2007 RTHK 18th International Pop Poll Awards ： Top Japanese Artist or Group
+  - 2007 RTHK 18th International Pop Poll Awards ： Top Artist/Group Japan （GOLD）
 
   - Yahoo\!Hongkong Buzz Music Awards ： The Best International Group 2007
 
@@ -2142,6 +2149,10 @@ c/w「Love or Leave」（全盤共通）<br />
 <!-- end list -->
 
   - IFPI香港ベストセールス賞2007 日韓部門 best seller album （『**[Journey](../Page/Journey_\(w-inds.のアルバム\).md "wikilink")**』）
+
+  - 19th RTHK International Pop Poll Award
+
+      - Top Japanese Gold Song （BRONZE）（『**[Beautiful Life](https://ja.wikipedia.org/wiki/Beautiful_Life "wikilink")**』）
 
   - 第5回 アジアソングフェスティバル “THE BEST ASIAN ARTIST AWARDS”
 
@@ -2179,7 +2190,9 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - IFPI香港ベストセールス賞2010 日韓部門 best seller album （『**[Another World](https://ja.wikipedia.org/wiki/Another_World_\(w-inds.のアルバム\) "wikilink")**』）
 
-  - 22nd RTHK International Pop Poll Award Top Japanese Gold Song （『**[Addicted to love](https://ja.wikipedia.org/wiki/Addicted_to_love "wikilink")**』）
+  - 22th RTHK International Pop Poll Award
+
+      - Top Japanese Gold Song （GOLD）（『**[Addicted to love](https://ja.wikipedia.org/wiki/Addicted_to_love "wikilink")**』）
 
 <!-- end list -->
 
@@ -2227,8 +2240,8 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 27th RTHK International Pop Poll Award
 
-      - TOP ARTIST／GROUP（JAPAN）
-      - TOP JAPANESE GOLD SONG　（『**In Love With the Music**』）
+      - Top Artist／Group JAPAN
+      - Top Japanese Gold Song　（GOLD）（『**In Love With the Music**』）
 
 <!-- end list -->
 
@@ -2238,8 +2251,8 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 28th RTHK International Pop Poll Award
 
-      - TOP ARTIST／GROUP（JAPAN）
-      - TOP JAPANESE GOLD SONG　（『**Boom Word Up**』）
+      - Top Artist/Group Japan
+      - Top Japanese Gold Song　（GOLD）（『**Boom Word Up**』）
 
 <!-- end list -->
 
@@ -2249,7 +2262,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 29th RTHK International Pop Poll Award
 
-      - TOP JAPANESE GOLD SONG　（『**Time Has Gone**』）
+      - Top Japanese Gold Song　（GOLD）（『**Time Has Gone**』）
 
 <!-- end list -->
 
@@ -2267,7 +2280,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - 31st RTHK International Pop Poll Award
 
-      - TOP JAPANESE SILVER SONG　（『**Get Down**』）
+      - Top Japanese Gold Song （SILVER）　（『**Get Down**』）
 
 ## 脚注
 

@@ -823,7 +823,7 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/urata_naoya" title="wikilink">urata naoya</a></p></td>
+<td><p><a href="../Page/浦田直也.md" title="wikilink">urata naoya</a></p></td>
 <td><p>「All My Love To You with ISSA」「Lightning Boogie with m.c.A・T」</p></td>
 <td><p>作詞：m.c.A・T、作曲：富樫明生</p></td>
 </tr>
@@ -872,38 +872,38 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：m.c.A・T/作曲：富樫明生</p></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td><p>「RAIN OF PAIN」「Loose Life (not so bad)」「White Moon Lullaby」「Somebody」「Do The Bad Thing」「Forever This Time」「Dragon Screamer」<br />
 「All My Love To You」「Misunderstanding」「Rollin' Fall in Love」「Without you」「ONE LOVE」「Angelize」「Steppin' and Shakin'」「Purple The Orion」<br />
 「Medicine of Love」「Infinity -sunset beach-」「Heart Edge itching」「Mo'Fight! Mo'Bright!」「No Cry, No more Cry～What is freedom?～」「TRIBE OF LOVE」<br />
 「Joy My Life」「Little Loneliness～しあわせの隙間～」「SOUL ALIVE」「Let's get back your Love」「My Way，Right Way」「Fireballkidz」「Nature Boy」<br />
 「Delight」「Destinies」「Chocochip Cookie &amp; Black Coffee」「Celebrator」「Sweet Thang」</p></td>
 <td><p>作詞：m.c.A・T/作曲：AKIO TOGASHI</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td><p>「One Love WATTER NU UMUI」「Break! Go!」「LOVE PSYCHOLOGY」</p></td>
 <td><p>作詞：DA PUMP＆m.c.A・T/作曲：AKIO TOGASHI</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td><p>「Sparkle」「Everybody Join Us (in The Party)」「Thrill」「Sound Of Bounce」</p></td>
 <td><p>作詞：KEN・m.c.A・T</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td><p>「CORAZON」「Missin' You」</p></td>
 <td><p>作詞：ISSA &amp; m.c.A・T</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td><p>「ROCK DA HOUSE」</p></td>
 <td><p>作詞：m.c.A・T/作曲：AKIO TOGASHI &amp; YASUHIKO HOSHINO</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td></td>
 <td><p>「New Position」「Who's That Girl」</p></td>
 <td><p>作詞：m.c.A・T/作曲：m.c.A・T</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/玉置成実.md" title="wikilink">玉置成実</a></p></td>
@@ -931,9 +931,9 @@ AVCD-23295:通常盤</p></td>
 <td><p>作詞：m.c.A・T/作曲：Akio Togashi</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td><p>「“Q”」</p></td>
 <td><p>作詞</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/長澤奈央" title="wikilink">長澤奈央</a></p></td>

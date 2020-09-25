@@ -26,7 +26,7 @@
 
 ### 結成
 
-[1994年](../Page/1994年.md "wikilink")8月、RYO-Z, ILMARI, PES, DJ SHOJI, DJ Shigeの3MC+2DJにて結成。グループ名の由来は、初期メンバーでありMCである**R**YO-Z, **I**LMARI, **P**ESの頭文字を取り、それに当時流行していた玩具「[スライム](../Page/スライム.md "wikilink") (SLIME)」の綴りを変えた"SLYME"を組み合わせた物。元々は**ギビニバンコ**、**トゥエンティ・フォー・セブン**という名義でも活動していた。同年12月、「YOUNG MCS IN TOWN 新人ラッパーコンテスト」で優勝。
+[1994年](../Page/1994年.md "wikilink")8月、RYO-Z, ILMARI, PES, DJ SHOJI, DJ Shigeの3MC+2DJにて結成。グループ名の由来は、初期メンバーでありMCである**R**YO-Z, **I**LMARI, **P**ESの頭文字を取り、それに当時流行していた玩具「[スライム](../Page/スライム.md "wikilink") (SLIME)」の綴りを変えた"SLYME"を組み合わせた物。元々は**ギビニバンコ**、**トゥエンティ・フォー・セブン**という名義でも活動していた。同年12月、「YOUNG MCS IN TOWN 新人ラッパーコンテスト」で優勝している。
 
 ### インディーズ時代
 

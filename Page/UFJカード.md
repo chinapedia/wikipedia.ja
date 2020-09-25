@@ -80,7 +80,7 @@ Arubaraは[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月](../P
   - スヌーピー郵貯カード
     [ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink")と提携し、[郵便貯金](../Page/郵便貯金.md "wikilink")（郵貯）の[キャッシュカード](../Page/キャッシュカード.md "wikilink")を搭載する。サービスはUFJ JCBカードの一般カードに同じ。
   - スヌーピーEdyカード
-    [ビットワレット株式会社の](../Page/楽天Edy_\(企業\).md "wikilink")[Edyを搭載する](../Page/楽天Edy.md "wikilink")。サービスはプロパーの一般カード・学生カードに同じ。また、入会者には [PaSoRi](../Page/PaSoRi.md "wikilink") がプレゼントされる。
+    ビットワレット株式会社の[Edyを搭載する](../Page/楽天Edy.md "wikilink")。サービスはプロパーの一般カード・学生カードに同じ。また、入会者には [PaSoRi](../Page/PaSoRi.md "wikilink") がプレゼントされる。
 
 ## 提携カード
 

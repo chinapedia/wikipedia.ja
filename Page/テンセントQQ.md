@@ -13,7 +13,7 @@ OPEN ICQはその名前に反し実際には、ソースコードを公開しな
 
 ## 沿革
 
-  - 1998年11月12日 - 中国[深圳に設立](https://ja.wikipedia.org/wiki/深圳市 "wikilink")。中国最大のインターネットを使った通信ソフトの開発企業。
+  - 1998年11月12日 - 中国[深圳に設立](../Page/深圳市.md "wikilink")。中国最大のインターネットを使った通信ソフトの開発企業。
   - [1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink") - テンセントは正式版「テンセントQQ」を無償公開。
   - [2004年](../Page/2004年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink") - [香港証券取引所](../Page/香港証券取引所.md "wikilink")に上場（コード0700）。
   - [2006年](../Page/2006年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink") - アカウントが5億4900万を上回ったことを表明。

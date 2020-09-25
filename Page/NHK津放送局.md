@@ -208,13 +208,13 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/中村信博_(アナウンサー)" title="wikilink">中村信博</a></p></td>
-<td><p><a href="../Page/NHK高知放送局.md" title="wikilink">高知</a></p></td>
+<td><p>浅井理</p></td>
+<td><p><a href="../Page/NHK鳥取放送局.md" title="wikilink">鳥取</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/まるっと!" title="wikilink">まるっと!</a>みえ</p></td>
 </tr>
 <tr class="odd">
-<td><p>浅井理</p></td>
-<td><p><a href="../Page/NHK鳥取放送局.md" title="wikilink">鳥取</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/三輪秀香" title="wikilink">三輪秀香</a></p></td>
+<td><p><a href="../Page/NHK名古屋放送局.md" title="wikilink">名古屋</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -254,7 +254,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>立岩洋輔</p></td>
+<td><p>田﨑麻友美</p></td>
 <td></td>
 <td><p>まるっと!みえ</p></td>
 </tr>
@@ -271,6 +271,7 @@
 
   - [NHK津放送局](https://www.nhk.or.jp/tsu/)
 
+  -
 [Category:NHK津](https://ja.wikipedia.org/wiki/Category:NHK津 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:三重県のマスメディア](https://ja.wikipedia.org/wiki/Category:三重県のマスメディア "wikilink") [Category:東海・北陸地方の放送](https://ja.wikipedia.org/wiki/Category:東海・北陸地方の放送 "wikilink") [Category:東海・北陸地方のラジオ局](https://ja.wikipedia.org/wiki/Category:東海・北陸地方のラジオ局 "wikilink")
 
 1.  『津市史 第五巻』p514

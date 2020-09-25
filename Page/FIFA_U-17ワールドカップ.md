@@ -311,7 +311,7 @@
       - aet - [延長戦](../Page/延長戦.md "wikilink")終了時の結果
       - PK - [PK戦](../Page/PK戦.md "wikilink")による結果
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -2081,7 +2081,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2019_FIFA_U-17ワールドカップ" title="wikilink">2019 ブラジル</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガブリエウ・ヴェロン" title="wikilink">ガブリエウ・ヴェロン</a></p></td>
+<td><p><a href="../Page/ガブリエウ・ヴェロン・フォンセカ・ジ・ソウザ.md" title="wikilink">ガブリエウ・ヴェロン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ソンチェ・ハンセン" title="wikilink">ソンチェ・ハンセン</a></p></td>
 <td><p>6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マテウス・ドネリ" title="wikilink">マテウス・ドネリ</a></p></td>

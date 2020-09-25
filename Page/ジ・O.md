@@ -1,7 +1,7 @@
 > この記事は[ジ・O](https://ja.wikipedia.org/wiki/ジ・O)から翻訳されています。
 
 
-**ジ・O**（ジ・オ、THE-O）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器で、[有人操縦式の人型ロボット兵器](../Page/架空のロボット兵器の一覧.md "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」(MS)の一つ。初出は、1985年放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。
+**ジ・O**（ジ・オ、THE-O）は、「[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")」に登場する架空の兵器で、有人操縦式の人型[ロボット兵器](https://ja.wikipedia.org/wiki/ロボット兵器 "wikilink")「**[モビルスーツ](../Page/モビルスーツ.md "wikilink")**」(MS)の一つ。初出は、1985年放送の[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[機動戦士Ζガンダム](https://ja.wikipedia.org/wiki/機動戦士Ζガンダム "wikilink")』。
 
 作中の敵側勢力である[地球連邦軍](../Page/地球連邦軍.md "wikilink")特殊部隊「[ティターンズ](../Page/ティターンズ.md "wikilink")」の所属機で、木星船団指揮官「[パプテマス・シロッコ](../Page/パプテマス・シロッコ.md "wikilink")」が自身の専用機として開発した。ずんぐりした体型の大型機だが、全身に配置された推進器によって高い機動性を発揮する。特殊能力者「[ニュータイプ](../Page/ニュータイプ.md "wikilink")」でもあるシロッコに対応した特殊な操縦システムを持ち、主人公「[カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")」が搭乗する「[Ζガンダム](../Page/Ζガンダム.md "wikilink")」や、[アクシズ（ネオ・ジオン）指導者](https://ja.wikipedia.org/wiki/ネオ・ジオン#アクシズ（ネオ・ジオン） "wikilink")「[ハマーン・カーン](../Page/ハマーン・カーン.md "wikilink")」が搭乗する「[キュベレイ](../Page/キュベレイ.md "wikilink")」と渡り合う。
 

@@ -521,7 +521,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFC_U-19選手権2020" title="wikilink">41</a></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -539,7 +539,7 @@
 
   - (RR)：[ラウンドロビン（総当たり戦）で決定](../Page/リーグ戦.md "wikilink")
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -865,6 +865,7 @@
 
 ## 関連項目
 
+  - [AFC U-16選手権](../Page/AFC_U-16選手権.md "wikilink")
   - [AFC U-19女子選手権](../Page/AFC_U-19女子選手権.md "wikilink")
 
 ## 外部リンク

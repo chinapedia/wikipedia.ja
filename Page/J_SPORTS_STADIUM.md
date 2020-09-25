@@ -615,7 +615,7 @@ J SPORTS</p></td>
 
 [達川光男](../Page/達川光男.md "wikilink")が監督･コーチ等で現場復帰して、テレビ新広島専属解説者が不在となっていた時期は、地上波同時放送時はフジテレビ（[関根潤三](../Page/関根潤三.md "wikilink")･[大矢明彦](../Page/大矢明彦.md "wikilink")･[加藤博一](../Page/加藤博一.md "wikilink")･[平松政次](../Page/平松政次.md "wikilink")等）･[関西テレビ](../Page/関西テレビ放送.md "wikilink")（田尾安志・[星野伸之](../Page/星野伸之.md "wikilink")等）･東海テレビ（[鈴木孝政](../Page/鈴木孝政.md "wikilink")等）･[テレビ西日本](../Page/テレビ西日本.md "wikilink")（[池田親興](../Page/池田親興.md "wikilink")）等フジテレビ系列各局の解説者が随時出演していたが、2014年は以前からJ SPORTS単独放送分に出演している笘篠賢治もテレビ新広島地上波向けを担当した他（2015年以降も継続）、その他在広局との専属契約を結んでいない広島OB（[金石昭人](../Page/金石昭人.md "wikilink")･[西山秀二](../Page/西山秀二.md "wikilink")･[金本知憲](https://ja.wikipedia.org/wiki/金本知憲 "wikilink")）が本数契約で出演していた（西山・金本は2015年も出演）。達川が解説者を務めた期間もダブル解説で通常本番組に出演しないフジテレビ系列局解説者が出演する場合があったが、2015年は広島のコーチを退任した[山内泰幸](../Page/山内泰幸.md "wikilink")と専属解説者として契約した。その後も達川・西山や他球団OB（山崎武司･[山本昌](../Page/山本昌.md "wikilink")･[森本稀哲](../Page/森本稀哲.md "wikilink")･[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")など）を含む本数契約の解説者と山内のダブル解説での出演がある。
 
-中国放送も地上波同時放送時には[衣笠祥雄](../Page/衣笠祥雄.md "wikilink")（当時）、[川口和久](../Page/川口和久.md "wikilink")（以上TBSテレビ）、[牛島和彦](../Page/牛島和彦.md "wikilink")（TBSテレビ･CBCテレビ）、[加藤伸一](../Page/加藤伸一.md "wikilink")（出演当時[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")）、[岩本勉](../Page/岩本勉.md "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")他）、[遠山奬志](../Page/遠山奬志.md "wikilink")（出演当時[毎日放送他](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）等TBS系列各局の解説者や、[高橋慶彦](../Page/高橋慶彦.md "wikilink")等フリーの本数契約解説者が出演したことがある。また、広島テレビの中継でビジター地元局へのネット時を中心に系列局やフリーの解説者が出演する場合（[川又米利](../Page/川又米利.md "wikilink")（出演当時[中京テレビ](../Page/中京テレビ放送.md "wikilink")）、[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")（中京テレビ他）、[川藤幸三](../Page/川藤幸三.md "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[若菜嘉晴](../Page/若菜嘉晴.md "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")他）、[西崎幸広](../Page/西崎幸広.md "wikilink")（[札幌テレビ他](../Page/札幌テレビ放送.md "wikilink")）、[黒田博樹](../Page/黒田博樹.md "wikilink")（フリー）等）がある。
+中国放送も地上波同時放送時には[衣笠祥雄](../Page/衣笠祥雄.md "wikilink")（当時）、[川口和久](../Page/川口和久.md "wikilink")（以上TBSテレビ）、[牛島和彦](../Page/牛島和彦.md "wikilink")（TBSテレビ･CBCテレビ）、[加藤伸一](../Page/加藤伸一.md "wikilink")（出演当時[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")）、[岩本勉](../Page/岩本勉.md "wikilink")（[北海道放送](../Page/北海道放送.md "wikilink")他）、[遠山奬志](../Page/遠山奬志.md "wikilink")（出演当時[毎日放送他](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）等TBS系列各局の解説者や、[高橋慶彦](../Page/高橋慶彦.md "wikilink")等フリーの本数契約解説者が出演したことがある。また、広島テレビの中継でビジター地元局へのネット時を中心に系列局やフリーの解説者が出演する場合（[川又米利](../Page/川又米利.md "wikilink")（出演当時[中京テレビ](../Page/中京テレビ放送.md "wikilink")）、[立浪和義](https://ja.wikipedia.org/wiki/立浪和義 "wikilink")・[岩瀬仁紀](../Page/岩瀬仁紀.md "wikilink")（以上中京テレビ他）、[川藤幸三](../Page/川藤幸三.md "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）、[若菜嘉晴](../Page/若菜嘉晴.md "wikilink")（[福岡放送](../Page/福岡放送.md "wikilink")他）、[西崎幸広](../Page/西崎幸広.md "wikilink")（[札幌テレビ他](../Page/札幌テレビ放送.md "wikilink")）、[黒田博樹](../Page/黒田博樹.md "wikilink")（フリー）等）がある。
 
 広島ホームテレビは、2017年から[里崎智也](https://ja.wikipedia.org/wiki/里崎智也 "wikilink")（ニッポン放送他解説者）が年数回、2019年から井端弘和（ニッポン放送他解説者）も出演しているが、井端は対巨人戦のみ出演ためJ SPORTS同時放送分への出演実績がない\[71\] 、2019年6月8日の対ソフトバンク戦では[松中信彦](https://ja.wikipedia.org/wiki/松中信彦 "wikilink")がゲスト出演した他\[72\]、2018年5月13日に[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")との共同制作･2局ネットの予定で[福本豊](../Page/福本豊.md "wikilink")が出演予定だったが、雨天中止となった。
 
@@ -628,7 +628,7 @@ J SPORTS制作分に出演の解説者には、地上波の広島戦ではビジ
   - [安仁屋宗八](../Page/安仁屋宗八.md "wikilink")（名誉解説者）
   - [山崎隆造](../Page/山崎隆造.md "wikilink")
   - [天谷宗一郎](../Page/天谷宗一郎.md "wikilink")（2019年 - ）
-      - 2019年から[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")解説者兼）が中国放送に加入したが、TBS系専属契約のため本番組への出演はない。新井の地上波出演時はJ SPORTSが手配したフリーアナウンサー・本数契約解説者（下記J SPORTS制作分を参照）での放送となる。
+      - 2019年から[新井貴浩](https://ja.wikipedia.org/wiki/新井貴浩 "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")解説者兼）が中国放送に加入したが、衛星波ではTBS系（BS-TBS・TBSチャンネル）専属契約のため本番組への出演はない。新井の地上波出演時はJ SPORTSが手配したフリーアナウンサー・本数契約解説者（下記J SPORTS制作分を参照）での放送となる。
 
 <!-- end list -->
 
@@ -659,7 +659,7 @@ J SPORTS制作分に出演の解説者には、地上波の広島戦ではビジ
 
   - [山内泰幸](../Page/山内泰幸.md "wikilink")（2015年 - ）
   - [西山秀二](../Page/西山秀二.md "wikilink")（2014年 - 、本数契約。RFラジオ日本解説者兼）
-  - [笘篠賢治](../Page/笘篠賢治.md "wikilink")（2014年 - 、本数契約。ミヤギテレビ・フジテレビONE・文化放送解説者兼）
+  - [笘篠賢治](../Page/笘篠賢治.md "wikilink")（2014年 - 、本数契約。ミヤギテレビ・フジテレビONE・文化放送解説者兼）※J SPORTS製作分にも出演。
   - [達川光男](../Page/達川光男.md "wikilink")（2001年 - 〈2003年、2014年 - 2015年、2017年 - 2018年を除く〉、フジテレビ解説者兼) ※J SPORTS製作分にも出演。
   - 地上波同時放送分は、必要に応じてフジテレビ系列局やフリーの解説者を随時派遣することもある。
 
@@ -734,7 +734,7 @@ J SPORTS制作分に出演の解説者には、地上波の広島戦ではビジ
   - [齊藤明雄](../Page/齊藤明雄.md "wikilink")（J SPORTSとTwellVが別実況の際に出演。フジテレビ・テレビ神奈川解説者兼）
   - 金村義明（J SPORTSとTwellVが別実況の際に出演）
   - 星野伸之（J SPORTSとTwellVが別実況の際に出演）
-  - [マック鈴木](https://ja.wikipedia.org/wiki/鈴木誠 "wikilink")（J SPORTSではMLB中継の解説にも出演）
+  - [マック鈴木](../Page/マック鈴木.md "wikilink")（J SPORTSではMLB中継の解説にも出演）
   - [藪恵壹](../Page/藪恵壹.md "wikilink")（[毎日放送解説者兼](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")。J SPORTSではMLB中継の解説にも出演）
   - [大島公一](../Page/大島公一.md "wikilink")（2016年 - ）
   - [小川博文](../Page/小川博文.md "wikilink")（2019年 - ）

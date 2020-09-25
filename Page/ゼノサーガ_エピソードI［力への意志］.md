@@ -1,7 +1,7 @@
 > この記事は[ゼノサーガ エピソードI［力への意志］](https://ja.wikipedia.org/wiki/ゼノサーガ_エピソードI［力への意志］)から翻訳されています。
 
 
-『**ゼノサーガ エピソードI［力への意志］**』（ゼノサーガ エピソード ワン ちからへのいし）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（後のバンダイナムコゲームス）が[2002年](../Page/2002年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第1作目となる。PlayStation 2用ソフトで最初に片面二層DVDを採択した。
+『**ゼノサーガ エピソードI［力への意志］**』（ゼノサーガ エピソード ワン ちからへのいし）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコ](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")（後のバンダイナムコゲームス）が[2002年](../Page/2002年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。[ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第1作目となる。PlayStation 2用ソフトで最初に片面二層DVDを採択した。そのため、初期型PS2では起動失敗されることがある。
 
 また海外版を元に再構成した『**ゼノサーガ エピソードI リローディッド［力への意志］**』（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が[2003年](../Page/2003年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink")に発売されている。
 

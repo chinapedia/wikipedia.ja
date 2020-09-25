@@ -638,7 +638,7 @@
 <td><p>寺田和男</p></td>
 <td><p>塩山紀生<br />
 金山明博</p></td>
-<td><p>どれい獣アイラス<br />
+<td><p>どれい獣アイラス（声 - <a href="../Page/井上真樹夫.md" title="wikilink">井上真樹夫</a>）<br />
 どれい獣ゴルゴ</p></td>
 <td></td>
 </tr>

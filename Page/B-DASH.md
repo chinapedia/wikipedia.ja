@@ -1,7 +1,7 @@
 > この記事は[B-DASH](https://ja.wikipedia.org/wiki/B-DASH)から翻訳されています。
 
 
-**B-DASH**（ビーダッシュ）は、1997年から2017年まで活動していた日本の男性[3人組の](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[オルタナティブ・ロック](https://ja.wikipedia.org/wiki/オルタナティブ・ロック "wikilink")\[1\][バンド](../Page/バンド_\(音楽\).md "wikilink")。Limited Records、[東芝EMIを経てEXIT](../Page/EMIミュージック・ジャパン.md "wikilink") TUNESに所属していた。1997年に結成され、2017年に解散した。
+**B-DASH**（ビーダッシュ）は、1997年から2017年まで活動していた日本の男性[3人組の](https://ja.wikipedia.org/wiki/スリーピース "wikilink")[ポップパンク](../Page/ポップ・パンク.md "wikilink")\[1\][バンド](../Page/バンド_\(音楽\).md "wikilink")。Limited Records、[東芝EMIを経てEXIT](../Page/EMIミュージック・ジャパン.md "wikilink") TUNESに所属していた。1997年に結成され、2017年に解散した。
 
 ## メンバー
 

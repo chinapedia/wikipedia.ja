@@ -13,7 +13,7 @@
   - 2004年[12月21日](../Page/12月21日.md "wikilink") ヤフーが、アクセスポートの株式を33.4%取得、業務提携。
   - [2005年](../Page/2005年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 商号を**JWord株式会社**に変更。
   - 2005年[5月31日](../Page/5月31日.md "wikilink") Let's Cardを終了。
-  - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 親会社のGMOインターネットが全保有株式を[GMOアドパートナーズ](https://ja.wikipedia.org/wiki/GMOアドパートナーズ "wikilink")に譲渡。
+  - [2013年](../Page/2013年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink") 親会社のGMOインターネットが全保有株式を[GMOアドパートナーズ](../Page/GMOアドパートナーズ.md "wikilink")に譲渡。
   - [2016年](../Page/2016年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") 商号を**GMOインサイト株式会社**に変更\[1\]。
 
 ## サービス

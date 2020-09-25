@@ -7,7 +7,7 @@
 
 ### 沿革
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に『[電撃PlayStation](../Page/電撃PlayStation.md "wikilink")』の増刊として『電撃PlayStation D』第1号が刊行。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月発売の『D11』（第11号）より月刊化され、[2001年](../Page/2001年.md "wikilink")9月に[PlayStation 2のコンテンツをメインとしてリニューアルされた際に](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『電撃PS2』の名称に変更された。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月22日](../Page/1月22日.md "wikilink")に『[電撃PlayStation](../Page/電撃PlayStation.md "wikilink")』の増刊として『電撃PlayStation D』第1号が刊行。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月発売の『D11』（第11号）より月刊化され、[2001年](../Page/2001年.md "wikilink")9月に[PlayStation 2のコンテンツをメインとしてリニューアルされた際に](../Page/PlayStation_2.md "wikilink")『電撃PS2』の名称に変更された。
 
 なお、付録のディスクには『電撃PlayStation D』と通し番号が振られており、『電撃PS2』への誌名変更後も『電撃PlayStation D』時代から引き続いて番号が振られている。それらは、表紙の片隅やDVD-ROMのレーベル面に記載されている。
 

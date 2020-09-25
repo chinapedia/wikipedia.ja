@@ -122,6 +122,6 @@
 
 ## 外部リンク
 
-  - [Pop Up\! SMAP](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-62113.html) （ビクターエンタテインメント）
+  - [Pop Up\! SMAP](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-62113.html) （ビクターエンタテインメント）
 
 [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink") [Category:2006年のアルバム](https://ja.wikipedia.org/wiki/Category:2006年のアルバム "wikilink") [Category:オリコン月間アルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間アルバムチャート1位獲得作品 "wikilink") [Category:2006年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンアルバムチャート1位獲得作品 "wikilink")

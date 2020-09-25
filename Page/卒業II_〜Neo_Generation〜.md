@@ -13,7 +13,7 @@
 
   - 石橋 美佐子（いしばし みさこ）
     [声](../Page/声優.md "wikilink") - [南場千絵子](../Page/南場千絵子.md "wikilink")
-    [10月21日](../Page/10月21日.md "wikilink")生（[天秤座](https://ja.wikipedia.org/wiki/天秤宮 "wikilink")）・[血液型はO型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長161cm / B 81 / W 56 / H 82
+    [10月21日](../Page/10月21日.md "wikilink")生（[天秤座](https://ja.wikipedia.org/wiki/天秤宮 "wikilink")）・[血液型はO型](../Page/ABO式血液型.md "wikilink")。身長161cm / B 81 / W 56 / H 82
     生徒会長。品行方正・成績優秀だが目上の者に対しては腰が低い反面、協調性に乏しいところがあり生徒同士では融通を利かせないため「堅物」扱いされている。
     キャラクターデザイン当初の姓は植木だったが、石橋姓のキャラクター（石橋澪）がボツになったため植木から石橋に変更された。
   - 犬塚 さおり（いぬづか さおり）

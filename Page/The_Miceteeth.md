@@ -1,9 +1,20 @@
 > この記事は[The Miceteeth](https://ja.wikipedia.org/wiki/The_Miceteeth)から翻訳されています。
 
 
-**The Miceteeth**（ザ・マイスティース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカ](../Page/スカ.md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[1999年](../Page/1999年.md "wikilink")、[大阪](../Page/大阪.md "wikilink")で結成。[2001年](../Page/2001年.md "wikilink")、自主[レーベル](../Page/レコードレーベル.md "wikilink")「tentosen」設立。2009年4月20日バンド解散を発表。 2014年7月12日Rokko Sun Musicにて、再結成を発表、活動再開。同時に自主[レーベル](../Page/レコードレーベル.md "wikilink")「MASTER THRONE」設立。
+**THE MICETEETH**（ザ・マイスティース）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[スカ](../Page/スカ.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。主な略称は「マイス」もしくは「マイティー」[。](../Page/1999年.md "wikilink")
+
+日本語詞による歌ものを中心としたオリジナルスカバンド。結成当初より一貫してライヴ、音源制作を自主的に行なっている。2014年より自主レーベルMASTER THRONE（マスタースローン）を設立して活動している。
 
 ## メンバー
+
+  - 金澤 義（かなざわ ただし）
+
+<!-- end list -->
+
+  -
+    [ドラムを担当](../Page/ドラムセット.md "wikilink")。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。"PALILLOS REDONDOS"、"Philharmonic Reggae Session"のメンバーとしても活動。
+
+<!-- end list -->
 
   - [次松 大助](https://ja.wikipedia.org/wiki/次松大助 "wikilink")（つぎまつ たいすけ、[1979年](../Page/1979年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）
 
@@ -14,12 +25,12 @@
 
 <!-- end list -->
 
-  - 金澤 義（かなざわ ただし）
+  - 藤井 学（ふじい まなぶ、[1979年](../Page/1979年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink") - ）
 
 <!-- end list -->
 
   -
-    [ドラムを担当](../Page/ドラムセット.md "wikilink")。[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")。"SUPER GENKI BROTHERS"、"Philharmonic Reggae Session"のメンバーとしても活動。
+    [キーボードを担当](../Page/キーボード_\(楽器\).md "wikilink")。"藤井学バンド"、和田とともに"THE PARTY BROTHERS"のメンバーとしても活動。
 
 <!-- end list -->
 
@@ -30,23 +41,16 @@
   -
     [ギター](../Page/ギター.md "wikilink")を担当。ソロ・プロジェクト"Morry Taylor"、"Philharmonic Reggae Session"のメンバーとしても活動。
 
-<!-- end list -->
+## サポートメンバー
 
-  - 和田 拓（わだ ひらく、[1979年](../Page/1979年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    [ベースを担当](../Page/ベース_\(弦楽器\).md "wikilink")。"Philharmonic Reggae Session"、また藤井とともに"THE PARTY BROTHERS"のメンバーとしても活動。
-
-<!-- end list -->
-
-  - 藤井 学（ふじい まなぶ、[1979年](../Page/1979年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink") - ）
-
-<!-- end list -->
-
-  -
-    [キーボードを担当](../Page/キーボード_\(楽器\).md "wikilink")。"藤井学バンド"、和田とともに"THE PARTY BROTHERS"のメンバーとしても活動。
+  - 武井努（[サックス](../Page/サクソフォーン.md "wikilink")）
+  - 前田大輔（[トロンボーン](../Page/トロンボーン.md "wikilink")）
+  - 寺田啓彦（[トランペット](../Page/トランペット.md "wikilink")）
+  - 長山動丸（[トランペット](../Page/トランペット.md "wikilink")）
+  - 金川凡洋（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
+  - 鈴木健二（[サックス](../Page/サクソフォーン.md "wikilink")）
+  - 山内淳史（[トロンボーン](../Page/トロンボーン.md "wikilink")）
+  - 岡田康孝（[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
 
 ## ディスコグラフィ
 
@@ -62,9 +66,9 @@
 ### ミニアルバム
 
   - CONSTANT MUSIC （[2002年](../Page/2002年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")）
-  - ネモ （2003年[12月10日](../Page/12月10日.md "wikilink")） - 「-ネモ-」：2003年12月度「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」オープニングテーマ
+  - ネモ （2003年[12月10日](../Page/12月10日.md "wikilink")） -「-ネモ-」：2003年12月度「[COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")」オープニングテーマ
 
-　　　　　　　　　　　　　　　　　　-「-ネモ-」：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[サバコン](https://ja.wikipedia.org/wiki/サバコン "wikilink")」オープニングテーマ
+　　　　　　　　　　　　　　　-「-ネモ-」：[日本テレビ](../Page/日本テレビ放送網.md "wikilink")「[サバコン](../Page/サバコン.md "wikilink")」オープニングテーマ
 
 ### フルアルバム
 
@@ -168,8 +172,5 @@
 ## 外部リンク
 
   - [THE MICETEETH](http://miceteeth.jp/) - オフィシャルウェブサイト
-  - [ザ・マイスティース/blues interactions](http://www.bls-act.co.jp/artist/miceteeth.php)  - blues interactionsによるオフィシャルサイト
-  - [踏 切 次 第](http://www.bounce.com/articleset/articleset.php/236)  - 踏切次第バックナンバー
-  - [次松大助 インタビュー](http://recommuni.jp/feature/index.php/20090913)  - recommuni 特集ページ
 
 [Category:日本の音楽バンド](https://ja.wikipedia.org/wiki/Category:日本の音楽バンド "wikilink") [Category:スカ](https://ja.wikipedia.org/wiki/Category:スカ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1999年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink") [Category:9人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:9人組の音楽グループ "wikilink")

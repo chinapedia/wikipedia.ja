@@ -104,7 +104,7 @@
 
 ## 外部リンク
 
-  - [mixx](http://web.archive.org/web/20100324101120/http://blog.mbc.co.jp/mixx) - MBCテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [mixx](https://web.archive.org/web/20100324101120/http://blog.mbc.co.jp/mixx) - MBCテレビ（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
   - [GADGET graphique](http://www.graphique.jp/) - オープニングアニメ・ロゴマークの制作業者。
 
 [Category:2004年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のテレビ番組_\(日本\) "wikilink") [Category:南日本放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:南日本放送のテレビ番組 "wikilink") [Category:九州・沖縄地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビの情報・ワイドショー番組 "wikilink") [Category:九州・沖縄地方のテレビのバラエティ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方のテレビのバラエティ番組 "wikilink") [Category:九州・沖縄地方の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:九州・沖縄地方の深夜テレビ番組 "wikilink")

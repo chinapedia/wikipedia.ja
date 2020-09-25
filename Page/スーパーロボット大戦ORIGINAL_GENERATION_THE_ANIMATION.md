@@ -9,7 +9,7 @@
 
 本作は『スーパーロボット大戦』の名を冠する初のアニメーション作品である。ただし、OGシリーズのストーリーのため、版権作品などは登場しない。『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』終了後の物語であり、そこで起きた「バルトール事件」を描くオリジナルストーリー。
 
-『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』『スーパーロボット大戦ORIGINAL GENERATION2』に、本作OVA並びにドラマCDのエピソードを加えた[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』が、[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売された。
+『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』『スーパーロボット大戦ORIGINAL GENERATION2』に、本作OVA並びにドラマCDのエピソードを加えた[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』が、[2007年](../Page/2007年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")に発売された。
 
 ## あらすじ
 

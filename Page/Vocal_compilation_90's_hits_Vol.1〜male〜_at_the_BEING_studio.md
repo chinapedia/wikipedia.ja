@@ -5,7 +5,7 @@
 
 ## 内容
 
-4曲収録された[WANDS](../Page/WANDS.md "wikilink")の楽曲は全て提供曲ではないが、ZYYGは織田哲郎が作曲に参加した楽曲を2曲収録した。[徳永暁人](../Page/徳永暁人.md "wikilink")率いる3ピースバンド[XL](https://ja.wikipedia.org/wiki/XL "wikilink")、当時、6人編成だった[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の曲も収録されている。プレミアムトラックである「たった一度のLove song」「ささやかな愛情」の歌詞は記載されていない。
+4曲収録された[WANDS](../Page/WANDS.md "wikilink")の楽曲は全て提供曲ではないが、ZYYGは織田哲郎が作曲に参加した楽曲を2曲収録した。[徳永暁人](../Page/徳永暁人.md "wikilink")率いる3ピースバンド[XL](https://ja.wikipedia.org/wiki/XL "wikilink")、当時、6人編成だった[BOØWY](../Page/BOØWY.md "wikilink")の曲も収録されている。プレミアムトラックである「たった一度のLove song」「ささやかな愛情」の歌詞は記載されていない。
 
 ## 収録曲
 
@@ -53,7 +53,7 @@
 14. **[天使になんてなれなかった](../Page/Little_Bit….md "wikilink")**（WANDS）
       -
         作詞:上杉昇 作曲:[柴崎浩](../Page/柴崎浩.md "wikilink") 編曲:葉山たけし
-15. **[たった一度の LOVE SONG](../Page/BOØWY_COMPLETE.md "wikilink")**（[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")） - Premium Track
+15. **[たった一度の LOVE SONG](../Page/BOØWY_COMPLETE.md "wikilink")**（[BOØWY](../Page/BOØWY.md "wikilink")） - Premium Track
       -
         作詞・作曲:[氷室狂介](../Page/氷室京介.md "wikilink") 編曲:[布袋寅泰](../Page/布袋寅泰.md "wikilink")
         1991年発売のBOXアルバム『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink")』に未発表曲として収録されていた楽曲。ライブハウス時代によく演奏されていており、6人編成時代に録音され当時メンバーだった深沢和明によるサックス演奏が聴くことができる。（『[THIS BOØWY DRASTIC](https://ja.wikipedia.org/wiki/THIS_BOØWY_DRASTIC "wikilink")』収録時には**Demo音源**であると表記されている。）

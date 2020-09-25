@@ -89,9 +89,6 @@
   - 松本英子
   - [musee](https://ja.wikipedia.org/wiki/musee "wikilink")
   - [より子。](https://ja.wikipedia.org/wiki/より子。 "wikilink")
-
-<!-- end list -->
-
   - ゲストミュージシャン
       - [坂崎幸之助](../Page/坂崎幸之助.md "wikilink")
       - [中川雅也](https://ja.wikipedia.org/wiki/中川雅也 "wikilink")
@@ -336,9 +333,6 @@ MC：[浅倉大介](../Page/浅倉大介.md "wikilink")、[南明奈](https://ja
   - [南波志帆](https://ja.wikipedia.org/wiki/南波志帆 "wikilink")
   - [miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
-
-<!-- end list -->
-
   - opening act [住岡梨奈](https://ja.wikipedia.org/wiki/住岡梨奈 "wikilink")
 
 日時：[7月29日](../Page/7月29日.md "wikilink") 会場：[Zepp DiverCity](https://ja.wikipedia.org/wiki/Zepp_DiverCity "wikilink")
@@ -348,9 +342,6 @@ MC：[浅倉大介](../Page/浅倉大介.md "wikilink")、[南明奈](https://ja
   - [SCANDAL](https://ja.wikipedia.org/wiki/SCANDAL_\(日本のバンド\) "wikilink")
   - [チャットモンチー](../Page/チャットモンチー.md "wikilink")
   - [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")
-
-<!-- end list -->
-
   - opening act [THE★米騒動](https://ja.wikipedia.org/wiki/THE★米騒動 "wikilink")
 
 <!-- end list -->
@@ -473,7 +464,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 日時：[8月1日](../Page/8月1日.md "wikilink") 会場：[国立代々木競技場](../Page/国立代々木競技場.md "wikilink")第一体育館
 
   - MC ：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")、[愛来](https://ja.wikipedia.org/wiki/愛来 "wikilink")（※ 愛来は[労働基準法](../Page/労働基準法.md "wikilink")に則り、大トリのももいろクローバーZの紹介後に途中退席）
-  - [3Bjunior](https://ja.wikipedia.org/wiki/3Bjunior "wikilink") ※ Opening act
+  - [3B junior](https://ja.wikipedia.org/wiki/3B_junior "wikilink") ※ Opening act
   - [ロッカジャポニカ](https://ja.wikipedia.org/wiki/ロッカジャポニカ "wikilink")
   - [華原朋美](../Page/華原朋美.md "wikilink")
   - [しほり](https://ja.wikipedia.org/wiki/しほり_\(シンガーソングライター\) "wikilink")
@@ -523,7 +514,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
   - [どうぶつビスケッツ×PPP](https://ja.wikipedia.org/wiki/けものフレンズ_\(アニメ\)#主題歌 "wikilink")
   - [坂本遥奈](https://ja.wikipedia.org/wiki/坂本遥奈 "wikilink")（チームしゃちほこ）
   - たこやきレインボー
-  - [ガチンコ3](https://ja.wikipedia.org/wiki/3Bjunior#概要 "wikilink")
+  - [ガチンコ3](https://ja.wikipedia.org/wiki/3B_junior#概要 "wikilink")
 
 <!-- end list -->
 

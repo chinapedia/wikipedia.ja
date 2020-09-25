@@ -15,7 +15,7 @@
       - EXIT - [Coming Centuryの曲](../Page/V6_\(グループ\).md "wikilink")。V6のシングル「[GENERATION GAP](../Page/GENERATION_GAP.md "wikilink")」に収録。
       - [EXIT (ポルノグラフィティの曲)](https://ja.wikipedia.org/wiki/EXIT_\(ポルノグラフィティの曲\) "wikilink") - [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")の曲。
       - [EXIT (REVALCYの曲)](https://ja.wikipedia.org/wiki/EXIT_\(REVALCYの曲\) "wikilink") - [REVALCY](https://ja.wikipedia.org/wiki/REVALCY "wikilink")の曲。
-      - EXIT - [シュノーケルの曲](https://ja.wikipedia.org/wiki/シュノーケル_\({{バンド\) "wikilink")。アルバム「[NEW POP](https://ja.wikipedia.org/wiki/NEW_POP "wikilink")」に収録。
+      - EXIT - [シュノーケルの曲](../Page/シュノーケル_\(バンド\).md "wikilink")。アルバム「[NEW POP](https://ja.wikipedia.org/wiki/NEW_POP "wikilink")」に収録。
       - [EXIT (J-WALKのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(J-WALKのアルバム\) "wikilink") - [J-WALK](https://ja.wikipedia.org/wiki/J-WALK "wikilink")のアルバム。
       - [EXIT (PASSENGERSのアルバム)](https://ja.wikipedia.org/wiki/EXIT_\(PASSENGERSのアルバム\) "wikilink") - [PASSENGERS](https://ja.wikipedia.org/wiki/PASSENGERS "wikilink")のアルバム。
 

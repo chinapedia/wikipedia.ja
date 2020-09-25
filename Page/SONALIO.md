@@ -167,7 +167,7 @@
         初のシングル。[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系「[音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")」2009年8月度エンディングテーマ。
 2.  **翠星コンパス**（2010年8月26日発売）
       -
-        数量限定生産盤。[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")／[DS用ゲーム](../Page/ニンテンドーDS.md "wikilink")「[VitaminX](https://ja.wikipedia.org/wiki/VitaminX "wikilink")\[12\]」の舞台化作品「Legend of Vitamin\[13\]」公式サポートソング。
+        数量限定生産盤。[PS2](../Page/PlayStation_2.md "wikilink")／[DS用ゲーム](../Page/ニンテンドーDS.md "wikilink")「[VitaminX](https://ja.wikipedia.org/wiki/VitaminX "wikilink")\[12\]」の舞台化作品「Legend of Vitamin\[13\]」公式サポートソング。
 
 #### 音楽配信
 

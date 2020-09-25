@@ -36,7 +36,7 @@
 
   - 電波は[全羅北道](../Page/全羅北道.md "wikilink")[金堤市](../Page/金堤市.md "wikilink")、[忠清南道](../Page/忠清南道.md "wikilink")[唐津市](../Page/唐津市_\(忠清南道\).md "wikilink")、[京畿道](../Page/京畿道.md "wikilink")[水原市](https://ja.wikipedia.org/wiki/水原市 "wikilink")のそれぞれの[送信所](../Page/送信所.md "wikilink")から送信されている。
   - 2007年1月には[京畿道](../Page/京畿道.md "wikilink")水原市にある華城送信所の[短波](../Page/短波.md "wikilink")による送信が一旦廃止されたが、2010年1月より、6015kHzで短波送信することとなり、100kW短波送信施設を復活。
-  - 第二放送の周波数は19:00〜23:00までの間、[KBSワールドラジオ](../Page/KBSワールドラジオ.md "wikilink")（19時台は朝鮮語放送、20時台は[日本語放送](../Page/日本語放送.md "wikilink")、21時台は日本語放送の[再放送](../Page/再放送.md "wikilink")、22時台は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")放送）が放送されており、放送の前（19:00の数分前）には[アリラン](../Page/アリラン.md "wikilink")と[国歌](../Page/国歌.md "wikilink")（[愛国歌](../Page/愛国歌_\(大韓民国\).md "wikilink")）が演奏される。[相互](https://ja.wikipedia.org/wiki/相互 "wikilink")放送のため、韓民族放送の編成には含まれていない。
+  - 第二放送の周波数は19:00〜23:00までの間、[KBSワールドラジオ](../Page/KBSワールドラジオ.md "wikilink")（19時台は朝鮮語放送、20時台は[日本語放送](../Page/日本語放送.md "wikilink")、21時台は日本語放送の[再放送](../Page/再放送.md "wikilink")、22時台は[中国語](../Page/中国語.md "wikilink")放送）が放送されており、放送の前（19:00の数分前）には[アリラン](../Page/アリラン.md "wikilink")と[国歌](../Page/国歌.md "wikilink")（[愛国歌](../Page/愛国歌_\(大韓民国\).md "wikilink")）が演奏される。[相互](https://ja.wikipedia.org/wiki/相互 "wikilink")放送のため、韓民族放送の編成には含まれていない。
   - [MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（1179kHz）のすぐそばで第2放送（1170kHz）が強力な[出力](../Page/空中線電力.md "wikilink")（500kW）で送信されている事情から日本の[関西地方でも場所によって](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")[混信](../Page/混信.md "wikilink")が起こっているケースがある。また[KBS京都](../Page/京都放送.md "wikilink")（1143kHz）との混信が起こっている地域もある。
   - インターネットで24時間サイマル放送を実施している。KBSの[ウェブサイト](../Page/ウェブサイト.md "wikilink")またはKBSラジオ専用アプリで聴取が可能。
 

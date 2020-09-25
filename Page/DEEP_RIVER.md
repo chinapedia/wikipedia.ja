@@ -58,7 +58,7 @@
 12. **[光](../Page/光_\(宇多田ヒカルの曲\).md "wikilink")**(5:02)
       -
         10thシングル
-        [スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現・[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[キングダム ハーツ](../Page/キングダム_ハーツ.md "wikilink")』主題歌
+        [スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現・[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）の[PS2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[キングダム ハーツ](../Page/キングダム_ハーツ.md "wikilink")』主題歌
 
 ## アナログ盤収録曲
 

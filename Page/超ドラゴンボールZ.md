@@ -3,7 +3,7 @@
 
 『**超ドラゴンボールZ**』（スーパードラゴンボールゼット、**超DRAGON BALL Z**）は、[鳥山明](../Page/鳥山明.md "wikilink")原作のアニメ『[ドラゴンボールZ](https://ja.wikipedia.org/wiki/ドラゴンボールZ "wikilink")』を原作とした[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")である。
 
-[バンプレスト](../Page/バンプレスト.md "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として2005年9月ごろよりロケテストやイベントでの発表があり、2006年1月ごろより正式稼動開始。2006年6月29日には[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")・バンダイレーベルより追加要素・改良を加えた移植版が[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[バンプレスト](../Page/バンプレスト.md "wikilink")より[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として2005年9月ごろよりロケテストやイベントでの発表があり、2006年1月ごろより正式稼動開始。2006年6月29日には[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")・バンダイレーベルより追加要素・改良を加えた移植版が[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 

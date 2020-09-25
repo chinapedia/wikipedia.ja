@@ -7,7 +7,7 @@
 
 ## メンバー
 
-  - MCアキノ（国吉秋乃）：[1986年](../Page/1986年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")生まれ、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：A型、[沖縄県](../Page/沖縄県.md "wikilink")[糸満市](../Page/糸満市.md "wikilink")出身、[身長](../Page/身長.md "wikilink")：159cm
+  - MCアキノ（国吉秋乃）：[1986年](../Page/1986年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")生まれ、[血液型](../Page/ABO式血液型.md "wikilink")：A型、[沖縄県](../Page/沖縄県.md "wikilink")[糸満市](../Page/糸満市.md "wikilink")出身、[身長](../Page/身長.md "wikilink")：159cm
   - MCエリコ（糸数江利子）：[1988年](../Page/1988年.md "wikilink")[12月25日](../Page/12月25日.md "wikilink")生まれ、血液型：O型、沖縄県[那覇市](../Page/那覇市.md "wikilink")出身、身長：157cm
 
 ## 来歴

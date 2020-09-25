@@ -105,8 +105,7 @@ HPゲージのほかに画面下の技ゲージによりかけられる技が制
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:2D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦型格闘ゲーム "wikilink") [Category:キン肉マンのゲーム](https://ja.wikipedia.org/wiki/Category:キン肉マンのゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink")
 
 1.

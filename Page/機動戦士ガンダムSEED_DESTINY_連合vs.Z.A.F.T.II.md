@@ -3,7 +3,7 @@
 
 『**機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II**』（きどうせんしガンダムシード デスティニー れんごうバーサスザフト ツー）は、[カプコン](../Page/カプコン.md "wikilink")が開発し[バンプレスト](../Page/バンプレスト.md "wikilink")が発売した[対戦型アクションゲーム](https://ja.wikipedia.org/wiki/対戦型アクションゲーム "wikilink")『[機動戦士ガンダム vs.シリーズ](../Page/機動戦士ガンダム_vs.シリーズ.md "wikilink")』の[アーケード版第](../Page/アーケードゲーム.md "wikilink")6作（公式には**チームバトルアクション**というジャンルが用いられている）。『**[機動戦士ガンダムSEED 連合vs.Z.A.F.T.](../Page/機動戦士ガンダムSEED_連合vs.Z.A.F.T..md "wikilink")**』の続編であり、システムはほぼそのまま継承されている。
 
-2006年2月のカプコンのアーケードゲームのプライベートショーで製作発表され、3月に京橋シャトーEXを皮切りに、順次東京や千葉などでロケテストが行われた。[2006年](../Page/2006年.md "wikilink")6月29日稼動開始。また、[2006年](../Page/2006年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")には[PlayStation 2用ソフトとして追加要素を盛り込んだ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T. II PLUS**』（きどうせんしガンダムシード デスティニー れんごうバーサスザフト ツー プラス）が発売された。
+2006年2月のカプコンのアーケードゲームのプライベートショーで製作発表され、3月に京橋シャトーEXを皮切りに、順次東京や千葉などでロケテストが行われた。[2006年](../Page/2006年.md "wikilink")6月29日稼動開始。また、[2006年](../Page/2006年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")には[PlayStation 2用ソフトとして追加要素を盛り込んだ](../Page/PlayStation_2.md "wikilink")『**機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T. II PLUS**』（きどうせんしガンダムシード デスティニー れんごうバーサスザフト ツー プラス）が発売された。
 
 ## システム
 

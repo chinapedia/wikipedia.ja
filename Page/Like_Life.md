@@ -3,7 +3,7 @@
 
 『**Like Life**』（ライク・ライフ）は、[2004年](../Page/2004年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")に[HOOKより発売された](../Page/HOOKSOFT.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲームである](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。略して「**ライライ**」とも呼ばれる。
 
-また、本作の[PlayStation 2への移植版として](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[GN Softwareより](../Page/GN_Software.md "wikilink")『**Like Life an hour**』（ライク・ライフ アン・アワー）が、[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に発売されている。さらに、ベスト版が[2006年](../Page/2006年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に発売されている。
+また、本作の[PlayStation 2への移植版として](../Page/PlayStation_2.md "wikilink")、[GN Softwareより](../Page/GN_Software.md "wikilink")『**Like Life an hour**』（ライク・ライフ アン・アワー）が、[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に発売されている。さらに、ベスト版が[2006年](../Page/2006年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")に発売されている。
 
 [2007年](../Page/2007年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")には、CGの高解像化やシステム面の改良などを行った『**LikeLife 新装版**』が発売された。
 
@@ -125,7 +125,7 @@
     あとりのシナリオで登場する。PS2版でも、主にあとりシナリオで関わってくるが、序盤、転校前のあとりと共に、立ち絵は無いものの姿を見せる（立ち絵が用意されなかった理由については不明）。
   - 総哉（そうや）
     声：（未確認） / [宮下栄治](../Page/宮下栄治.md "wikilink")
-    常に[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を吹かしている[銀髪](https://ja.wikipedia.org/wiki/銀髪 "wikilink")に[三白眼](https://ja.wikipedia.org/wiki/三白眼 "wikilink")の男。三葉の所有者で、彼女との関係は主従に近い。姫子のシナリオに大きく関わる人物で、擬人と人間の関係について重要な問いかけをしてくる（PS2版では、三葉同様、序盤の共通ルートに登場する）。
+    常に[タバコ](https://ja.wikipedia.org/wiki/タバコ "wikilink")を吹かしている[銀髪](https://ja.wikipedia.org/wiki/銀髪 "wikilink")に[三白眼](../Page/三白眼.md "wikilink")の男。三葉の所有者で、彼女との関係は主従に近い。姫子のシナリオに大きく関わる人物で、擬人と人間の関係について重要な問いかけをしてくる（PS2版では、三葉同様、序盤の共通ルートに登場する）。
     実は、あとりと兄妹関係にあるらしい（公式ファンブックより）。
 
 ## Like Life an hour

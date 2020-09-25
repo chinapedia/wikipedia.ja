@@ -136,7 +136,7 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20080915084604/http://www.mars-k.com/index.html)
+  - [公式サイト](https://web.archive.org/web/20080915084604/http://www.mars-k.com/index.html)
   - [SHERDOG 大会データ](http://www.sherdog.com/organizations/MARS-895)
 
 [Category:現在活動していない総合格闘技団体](https://ja.wikipedia.org/wiki/Category:現在活動していない総合格闘技団体 "wikilink") [Category:現存しない日本のスポーツ組織](https://ja.wikipedia.org/wiki/Category:現存しない日本のスポーツ組織 "wikilink") [Category:日本の総合格闘技興行](https://ja.wikipedia.org/wiki/Category:日本の総合格闘技興行 "wikilink")

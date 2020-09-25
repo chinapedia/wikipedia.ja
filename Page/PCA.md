@@ -38,8 +38,8 @@
 
 <!-- end list -->
 
-  - [主成分分析](../Page/主成分分析.md "wikilink") （**P**rincipal **c**omponents **a**nalysis）- 主に信号処理の分野で使用される[多変量解析](https://ja.wikipedia.org/wiki/多変量解析 "wikilink")手法
-  - [パーソナルコンピュータアナライザ](https://ja.wikipedia.org/wiki/パーソナルコンピュータアナライザ "wikilink")（**P**ersonal **C**omputer **A**nalyzer） - [原子核物理学](../Page/原子核物理学.md "wikilink")および[素粒子物理学](https://ja.wikipedia.org/wiki/素粒子物理学 "wikilink")で利用される[マルチチャネルアナライザ](https://ja.wikipedia.org/wiki/マルチチャネルアナライザ "wikilink")の一種
+  - [主成分分析](../Page/主成分分析.md "wikilink") （**P**rincipal **c**omponents **a**nalysis）- 主に信号処理の分野で使用される[多変量解析](../Page/多変量解析.md "wikilink")手法
+  - [パーソナルコンピュータアナライザ](https://ja.wikipedia.org/wiki/パーソナルコンピュータアナライザ "wikilink")（**P**ersonal **C**omputer **A**nalyzer） - [原子核物理学](../Page/原子核物理学.md "wikilink")および[素粒子物理学](../Page/素粒子物理学.md "wikilink")で利用される[マルチチャネルアナライザ](https://ja.wikipedia.org/wiki/マルチチャネルアナライザ "wikilink")の一種
   - プラスティック・セル・アーキテクチャ（**P**lastic **C**ell **A**rchitecture）- NTT未来ねっと研究所メディアネットワーキング研究部が開発したハードウェアアーキテクチャ
 
 <!-- end list -->

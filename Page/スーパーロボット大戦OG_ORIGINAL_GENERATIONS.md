@@ -7,7 +7,7 @@
 
 ## 概要
 
-「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである、同シリーズやその関連作品に登場するオリジナルキャラクターのみで構成される「OG（ORIGINAL GENERATION）シリーズ」の作品。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")（GBA）用ソフトとして発売された『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以下『OG1』）と、『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』（以下『OG2』）を[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）向けに[リメイク](../Page/リメイク.md "wikilink")した作品である。
+「[スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")」のカテゴリの一つである、同シリーズやその関連作品に登場するオリジナルキャラクターのみで構成される「OG（ORIGINAL GENERATION）シリーズ」の作品。[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")（GBA）用ソフトとして発売された『[スーパーロボット大戦ORIGINAL GENERATION](../Page/スーパーロボット大戦ORIGINAL_GENERATION.md "wikilink")』（以下『OG1』）と、『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』（以下『OG2』）を[PlayStation 2](../Page/PlayStation_2.md "wikilink")（PS2）向けに[リメイク](../Page/リメイク.md "wikilink")した作品である。
 
 機種がディスクメディアのPS2となったことでキャラクターボイスの搭載や『[スーパーロボット大戦MX](../Page/スーパーロボット大戦MX.md "wikilink")』で試みられた、画面全体を活用した演出が本格的に導入された。また、シナリオの追加や『OG1』『OG2』に登場しなかったユニットやキャラクターが多数登場するなど新規要素も多い。
 

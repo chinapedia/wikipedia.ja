@@ -37,7 +37,7 @@
   -
 [Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:aikoの楽曲](https://ja.wikipedia.org/wiki/Category:aikoの楽曲 "wikilink") [Category:携帯電話のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:携帯電話のコマーシャルソング "wikilink") [Category:昆虫を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした楽曲 "wikilink") [Category:恋愛を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:恋愛を題材とした楽曲 "wikilink") [Category:楽曲_か](https://ja.wikipedia.org/wiki/Category:楽曲_か "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:COUNT_DOWN_TV](https://ja.wikipedia.org/wiki/Category:COUNT_DOWN_TV "wikilink")
 
-1.  これ以前に発表されたシングル「[あした](../Page/あした_\(aikoの曲\).md "wikilink")」「[ナキ・ムシ](../Page/ナキ・ムシ.md "wikilink")」も後に再発盤の初回プレス分のみカラートレイ仕様
+1.  これ以前に発表されたシングル「[あした](../Page/あした_\(aikoの曲\).md "wikilink")」「[ナキ・ムシ](../Page/ナキ・ムシ.md "wikilink")」も後に再発盤がリリースされた際、初回プレス分のみカラートレイ仕様となった。
 2.  「[aikoの@llnightnippon.com](https://ja.wikipedia.org/wiki/aikoの@llnightnippon.com "wikilink")」第2回放送より。
 3.  [aiko香港FM局で1位](http://web.archive.org/web/20001028095523/http://www.yomiuri.co.jp/hochi/geinou/jun/o20000610_50.htm)、[スポーツ報知](../Page/スポーツ報知.md "wikilink")、2000年6月10日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 4.  [名曲は何度でもチャートを上昇?\! aikoの「カブトムシ」](http://www.billboard-japan.com/d_news/detail/85646/2)、Billboard JAPAN、2020年3月8日、16:00。

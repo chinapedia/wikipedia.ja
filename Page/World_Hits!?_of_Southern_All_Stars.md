@@ -44,7 +44,7 @@
 8.  \<[Mississippi](https://ja.wikipedia.org/wiki/ミシシッピ州 "wikilink")/USA\> **[希望の轍](../Page/希望の轍.md "wikilink")**
       - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の映画[サウンドトラック](../Page/サウンドトラック.md "wikilink")『[稲村ジェーン](../Page/稲村ジェーン_\(サウンドトラック\).md "wikilink")』収録曲。
       - 実際はサザンオールスターズ名義ではなく、こちらも関口もレコーディングには参加していなかった。
-9.  \<[Port of Spain](../Page/ポートオブスペイン.md "wikilink")/[TRINIDAD AND TOBAGO](https://ja.wikipedia.org/wiki/トリニダード・トバゴ "wikilink")\> **南たいへいよ音頭**
+9.  \<[Port of Spain](../Page/ポートオブスペイン.md "wikilink")/[TRINIDAD AND TOBAGO](../Page/トリニダード・トバゴ.md "wikilink")\> **南たいへいよ音頭**
       - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の6thアルバム『[綺麗](../Page/綺麗.md "wikilink")』収録の関口ボーカル曲。歌詞がオリジナル版より一部変更されている。
 10. \<[Kerama](../Page/慶良間諸島.md "wikilink")/[JAPAN](https://ja.wikipedia.org/wiki/日本 "wikilink")\> **[Big Star Blues (ビッグスターの悲劇)](../Page/Big_Star_Blues_\(ビッグスターの悲劇\).md "wikilink")**
       - [1981年](../Page/1981年.md "wikilink")の12thシングル。

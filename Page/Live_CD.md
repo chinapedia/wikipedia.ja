@@ -141,7 +141,7 @@ HDDに導入されたOSではHDD上にファイルが保存されるが、Live C
       - [Yara OSX](https://ja.wikipedia.org/wiki/Yara_OSX "wikilink")\[6\]\[7\] - Puppy Linux派生。Xfceを採用したMacOS風の画面。日本語化も可能\[8\]\[9\]。
   - [Tiny Core Linux](https://ja.wikipedia.org/wiki/Tiny_Core_Linux "wikilink") - GUIを装備していながら容量10MB前後の[軽量Linuxディストリビューション](https://ja.wikipedia.org/wiki/軽量Linuxディストリビューション "wikilink")。
   - [Ophcrack](https://ja.wikipedia.org/wiki/Ophcrack "wikilink") - Windowsパスワード解析用。元はSLAXを母体としたが、ver3.3.0以降は[SliTaz GNU/Linux](https://ja.wikipedia.org/wiki/Slitaz "wikilink") 派生。
-  - [android](https://ja.wikipedia.org/wiki/android "wikilink") x86(64) - androidをpc上で動かすためのLive CD。64bit cpuのための物はx64と呼ばれる。
+  - [android](../Page/Android_\(オペレーティングシステム\).md "wikilink") x86(64) - androidをpc上で動かすためのLive CD。64bit cpuのための物はx64と呼ばれる。
 
 #### OpenSolaris系のLive CD
 

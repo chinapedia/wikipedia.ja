@@ -183,8 +183,7 @@
 ## 外部リンク
 
   -
-  - （英語）
-
+  -
 [Category:1991年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1991年のファミリーコンピュータ用ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:コナミのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:コナミのクロスオーバー作品 "wikilink") [Category:コンピュータゲームを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを題材としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.

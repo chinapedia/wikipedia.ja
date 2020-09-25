@@ -7,7 +7,7 @@
 
 ## 背景
 
-[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングルとなった前作「[悲しい気持ち (JUST A MAN IN LOVE)](../Page/悲しい気持ち_\(JUST_A_MAN_IN_LOVE\).md "wikilink")」から半年経たずして[リリースされたシングル](https://ja.wikipedia.org/wiki/発売 "wikilink")。
+[ソロ](../Page/ソロ.md "wikilink")[デビュー](https://ja.wikipedia.org/wiki/デビュー "wikilink")シングルとなった前作「[悲しい気持ち (JUST A MAN IN LOVE)](../Page/悲しい気持ち_\(JUST_A_MAN_IN_LOVE\).md "wikilink")」から半年経たずして[リリースされたシングル](https://ja.wikipedia.org/wiki/発売 "wikilink")。
 
 ## チャート成績
 

@@ -44,4 +44,4 @@
 
 [Category:米米CLUBのアルバム](https://ja.wikipedia.org/wiki/Category:米米CLUBのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:ソニー・ミュージックレコーズのアルバム](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink") [Category:1992年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1992年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [金之玉手箱](http://web.archive.org/web/20011216002933/www.asahi.co.jp/kin/t-ishii.html)、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [金之玉手箱](https://web.archive.org/web/20011216002933/www.asahi.co.jp/kin/t-ishii.html)、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）

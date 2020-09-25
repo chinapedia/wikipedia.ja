@@ -47,6 +47,6 @@
 
 ## 外部リンク
 
-  - [SMAP 003](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-369.html)
+  - [SMAP 003](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-369.html)
 
 [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink") [Category:ビクター音楽産業のアルバム](https://ja.wikipedia.org/wiki/Category:ビクター音楽産業のアルバム "wikilink")

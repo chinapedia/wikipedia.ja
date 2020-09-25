@@ -33,7 +33,7 @@
         [スキー](../Page/スキー.md "wikilink")をテーマにした、ユーミンの冬の定番曲のひとつ。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[映画](../Page/映画.md "wikilink")『[私をスキーに連れてって](../Page/私をスキーに連れてって.md "wikilink")』劇中歌。[1996年](../Page/1996年.md "wikilink")三菱自動車工業・「Catch The Winter」キャンペーン（[観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")が出演）、[2017年](../Page/2017年.md "wikilink")には映画『私をスキーに連れてって』公開と[JR東日本発足](../Page/東日本旅客鉄道.md "wikilink")30周年の記念企画として、同社が展開しているキャンペーン「[JR SKISKI](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」のCMソングにそれぞれ起用された。
 5.  **一緒に暮らそう**
       -
-        年末の忙しい時期を舞台にした[プロポーズソング](../Page/求婚.md "wikilink")。イメージは[世田谷の](../Page/世田谷区.md "wikilink")「玉川[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")[S.Cソニープラザ](../Page/ショッピングセンター.md "wikilink")」（現・[プラザ](../Page/プラザ_\(雑貨店\).md "wikilink")）。
+        年末の忙しい時期を舞台にした[プロポーズソング](../Page/求婚.md "wikilink")。イメージは[世田谷の](../Page/世田谷区.md "wikilink")「玉川[髙島屋](../Page/髙島屋.md "wikilink")[S.Cソニープラザ](../Page/ショッピングセンター.md "wikilink")」（現・[プラザ](../Page/プラザ_\(雑貨店\).md "wikilink")）。
 6.  **破れた恋の繕（なお）し方教えます**
       -
         [黒魔術](../Page/黒魔術.md "wikilink")をモチーフに取り入れたナンバー。曲の内容は、昔の彼とヨリを戻そうとして、あの手この手の[魔法](https://ja.wikipedia.org/wiki/魔法 "wikilink")を使うというもの。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[小林幸子](../Page/小林幸子.md "wikilink")がカヴァー。

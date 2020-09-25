@@ -1095,7 +1095,7 @@
   - DF [クラウジオ](../Page/クラウジオ・ルイス・アサンサン・ジ・フレイタス.md "wikilink") (1997年-1999年、)
   - FW [ロペス](../Page/呂比須ワグナー.md "wikilink") (1997年-1998年、→日本)
   - MF [洪明甫](../Page/洪明甫.md "wikilink") (ホン・ミョンボ) (1997年-1998年、)
-  - MF [朴ギョンファン](https://ja.wikipedia.org/wiki/朴景晥 "wikilink") (1998年、)
+  - MF [朴ギョンファン](../Page/朴景晥.md "wikilink") (1998年、)
   - MF [リカルジーニョ](../Page/リカルド・ソウザ・シルバ.md "wikilink") (1998年-1999年、)
   - MF [バデア](../Page/パベル・バデア.md "wikilink") (1998年-1999年、)
   - MF [チアゴ](https://ja.wikipedia.org/wiki/マルコ・チアゴ・ベルナール・ロドリゲス "wikilink") (1999年、)
@@ -1960,7 +1960,7 @@
   - FW [ブルーノ・メンデス](https://ja.wikipedia.org/wiki/ブルーノ・ペレイラ・メンデス "wikilink") (2019年-、)
   - MF [ポンラヴィチュ](https://ja.wikipedia.org/wiki/ポンラヴィチュ・チャンタワォング "wikilink") (2019年、)
   - FW [タワン](https://ja.wikipedia.org/wiki/タワン・コタラスポー "wikilink") (2019年-、)
-  - DF [ルーカス・ミネイロ](https://ja.wikipedia.org/wiki/ルーカス・ダ・シウヴァ・イジドロ "wikilink") (2020年-、)
+  - MF [ルーカス・ミネイロ](https://ja.wikipedia.org/wiki/ルーカス・ダ・シウヴァ・イジドロ "wikilink") (2020年、)
 
 ### [ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")
 
@@ -2519,7 +2519,7 @@
   - MF [金聖吉](../Page/金聖吉.md "wikilink") (キム・ソンギル) (2002年-2003年、)
   - MF [ロドリゴ](../Page/ロドリゴ・ファビアーノ・メンデス.md "wikilink") (2003年、)
   - FW [ロブソン](../Page/ジョゼ・ロブソン・ド・ナシメント.md "wikilink") (2003年、)
-  - FW [金東炫](https://ja.wikipedia.org/wiki/金東炫_\(1984年生のサッカー選手\) "wikilink") (キム・ドンヒョン) (2003年、)
+  - FW [金東炫](../Page/金東炫_\(1984年生のサッカー選手\).md "wikilink") (キム・ドンヒョン) (2003年、)
   - MF [エジミウソン](../Page/エジミウソン・アウヴェス.md "wikilink") (2003年、2005年-2006年・2007年-2009年、)
   - MF [リチャード・ビチュヘ](../Page/リチャード・ビチュヘ.md "wikilink") (2004年、)
   - FW [マグノ・アウベス](../Page/マグノ・アウベス・ジ・アラウージョ.md "wikilink") (2004年-2005年、)

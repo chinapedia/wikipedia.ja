@@ -25,6 +25,8 @@
 
 なお、[5pb.](../Page/5pb..md "wikilink")社長[志倉千代丸](../Page/志倉千代丸.md "wikilink")はトークイベントの中で「表現の幅はPCの次にXbox 360」と述べており、一部の作品はSCE製ハードでは展開しない方針を採っていることを明らかにしている\[4\]。但し、[マイクロソフト](../Page/マイクロソフト.md "wikilink")の思惑により性的な表現を抑えられたゲームソフトも存在する（『[ぎゃる☆がん](https://ja.wikipedia.org/wiki/ぎゃる☆がん "wikilink")』など）。
 
+また、[ニンテンドーeショップ](https://ja.wikipedia.org/wiki/ニンテンドーeショップ "wikilink")などのダウンロード版のゲームストアでは18歳以上のみ対象のゲームはダウンロード版は販売せずパッケージ版のみの販売となっている事が多い。
+
 ## 任天堂 ハード
 
 [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")、[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")には該当ソフトが存在しない。
@@ -55,6 +57,7 @@
   - ゾンビアーミー　トリロジー（コンテンツアイコン：「暴力」）
   - [ボーダーランズ](https://ja.wikipedia.org/wiki/ボーダーランズ "wikilink")　レジェンダリーコレクション（コンテンツアイコン：「暴力」）
   - [バイオショック](https://ja.wikipedia.org/wiki/バイオショック "wikilink")コレクション（コンテンツアイコン：「暴力」）
+  - セインツロウⅣ　リエレクテッド
 
 <!-- end list -->
 
@@ -226,6 +229,8 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
   - [デッドバイデイライト](https://ja.wikipedia.org/wiki/Dead_by_Daylight "wikilink")（コンテンツアイコン：「暴力」）
 
+  - ヴァンパイア
+
   - [バイオショック コレクション](../Page/BioShock.md "wikilink")（コンテンツアイコン：「暴力」）
 
   - [ヒットマン2](https://ja.wikipedia.org/wiki/ヒットマン2 "wikilink")（コンテンツアイコン：「暴力,　犯罪」)
@@ -299,6 +304,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
   - [AI: ソムニウム ファイル](https://ja.wikipedia.org/wiki/AI:_ソムニウム_ファイル "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [WORLD WAR Z](https://ja.wikipedia.org/wiki/WORLD_WAR_Z "wikilink")(コンテンツアイコン：暴力）
   - [レムナント フロム・ジ・アッシュ](https://ja.wikipedia.org/wiki/レムナント_フロム・ジ・アッシュ "wikilink")（コンテンツアイコン：「暴力」）
+  - ヴァンパイア
 
 <!-- end list -->
 
@@ -308,6 +314,9 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
   - リディーマー僧侶の怒り（コンテンツアイコン：「暴力」）
   - [デストロイオールヒューマンズ！](https://ja.wikipedia.org/wiki/デストロイ_オール_ヒューマンズ! "wikilink")（コンテンツアイコン：「暴力」）
+  - デスペラードスⅢ（コンテンツアイコン：「暴力、犯罪」）
+  - Mortal shell (コンテンツアイコン：「暴力」)
+  - キングダムズ・オブ・アマラー：リレコニング
 
 ### PlayStation Vita
 
@@ -401,7 +410,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 ### PlayStation Portable
 
@@ -493,7 +502,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 <!-- end list -->
 
@@ -622,7 +631,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 #### Xbox Live Arcade 配信ソフト
 
@@ -656,7 +665,7 @@ DSiウェア配信ソフトには該当ソフトが存在しない。
 <!-- end list -->
 
   - [野々村病院の人々](../Page/野々村病院の人々.md "wikilink")
-  - [モータルコンバット 完全版](https://ja.wikipedia.org/wiki/モータルコンバット "wikilink")II
+  - [モータルコンバット 完全版](../Page/モータルコンバット.md "wikilink")II
 
 <!-- end list -->
 

@@ -192,7 +192,7 @@
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 <!-- end list -->
 
@@ -319,7 +319,7 @@ PlayStation 3
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 <!-- end list -->
 
@@ -695,7 +695,7 @@ Xbox 360
 
       -
 
-        版を購入後、[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")にてがプレイ可能になる
+        版を購入後、[DLCにて](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")がプレイ可能になる
 
 <!-- end list -->
 

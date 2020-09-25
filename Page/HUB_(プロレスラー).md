@@ -11,23 +11,23 @@
 
 [1999年](../Page/1999年.md "wikilink")1月17日、デビュー前に、みちのくプロレスを退団。
 
-[1999年](../Page/1999年.md "wikilink")3月2日、[CMLL JAPAN石川県産業展示館](https://ja.wikipedia.org/wiki/CMLL_JAPAN "wikilink")2号館大会でスペル・デメキンとして[スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")、[ツバサとタッグを組んで対](../Page/ツバサ_\(プロレスラー\).md "wikilink")[星川尚浩](../Page/星川尚浩.md "wikilink")&[薬師寺正人](https://ja.wikipedia.org/wiki/薬師寺正人 "wikilink")&[瀬野優組戦でデビュー](../Page/大王QUALLT.md "wikilink")。
+1999年3月2日、[CMLL JAPAN石川県産業展示館](https://ja.wikipedia.org/wiki/CMLL_JAPAN "wikilink")2号館大会でスペル・デメキンとして[スペル・デルフィン](../Page/スペル・デルフィン.md "wikilink")、[ツバサとタッグを組んで対](../Page/ツバサ_\(プロレスラー\).md "wikilink")[星川尚浩](../Page/星川尚浩.md "wikilink")&[薬師寺正人](https://ja.wikipedia.org/wiki/薬師寺正人 "wikilink")&[瀬野優組戦でデビュー](../Page/大王QUALLT.md "wikilink")。
 
 4月、[大阪プロレス](../Page/大阪プロレス.md "wikilink")に入団してデルフィンの弟という設定になる。
 
 [2003年](../Page/2003年.md "wikilink")2月、[メキシコ](../Page/メキシコ.md "wikilink")武者修行に行く。
 
-11月、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に一時帰国して、みちのくプロレスに参戦。
+11月、日本に一時帰国して、みちのくプロレスに参戦。
 
 ### ゴア
 
-2003年2月、突如登場して[ルード軍](../Page/ヒール_\(プロレス\).md "wikilink")「岸和田愚連隊」に所属する。若手特攻隊長の役割を担う。初期はドクロのマスクに黒い迷彩模様の野戦用軍服という出で立ちであったが、年末ごろより、マスクを大きく変更して鬼面のような顔とデメキン時代を思わせるようなヒレを左右に配したデザインになる。
+2003年2月、突如登場して[ルード軍](../Page/ヒール_\(プロレス\).md "wikilink")「岸和田愚連隊」に所属する。若手特攻隊長の役割を担う。初期はドクロのマスクに黒い迷彩模様の野戦用軍服という出で立ちであったが、年末頃より、マスクを大きく変更して鬼面のような顔とデメキン時代を思わせるようなヒレを左右に配したデザインになる。
 
 [2004年](../Page/2004年.md "wikilink")2月、[SUPER J-CUPに出場するが](../Page/スーパーJカップ.md "wikilink")1回戦敗退（対戦相手は[ガルーダ](https://ja.wikipedia.org/wiki/ガルーダ_\(プロレスラー\) "wikilink")）。
 
-[2005年](../Page/2005年.md "wikilink")1月、内部抗争により、岸和田愚連隊を追放される。同月、正体がスペル・デメキンである事を明かしてベビー級に再転身。
+[2005年](../Page/2005年.md "wikilink")1月、内部抗争により、岸和田愚連隊を追放される。同月、正体がスペル・デメキンであることを明かしてベビー級に再転身。
 
-2月、府立大会へ向けて場して沖縄にてプロボクサーの[徳山昌守](../Page/徳山昌守.md "wikilink")の下で特訓する。
+2月、府立大会へ向けて沖縄にてプロボクサーの[徳山昌守](../Page/徳山昌守.md "wikilink")の下で特訓する。
 
 ### スーパードルフィン
 
@@ -75,19 +75,13 @@
 
 ### HUB
 
-2012年9月、フリーとして[DRAGON GATE参戦](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。[帰ってきたベテラン軍](https://ja.wikipedia.org/wiki/帰ってきたベテラン軍 "wikilink")に加入してリングネームを**HUB**（ハブ）と改名を発表。
+2012年9月、フリーとして[DRAGON GATE参戦](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")。[帰ってきたベテラン軍](https://ja.wikipedia.org/wiki/帰ってきたベテラン軍 "wikilink")に加入してリングネームを**HUB**（ハブ）と改名を発表。改名後、沖縄プロレス在籍時に参戦発表していた上記の「みちのく」と「ZERO1」は怪人ハブ男のままで参戦。
 
-改名後、沖縄プロレス在籍時に参戦発表していた上記の「みちのく」と「ZERO1」は怪人ハブ男のままで参戦。
-
-[2013年](../Page/2013年.md "wikilink")からはDRAGON GATEや[大日本プロレス](../Page/大日本プロレス.md "wikilink")や[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")やZERO1や[道頓堀プロレス](https://ja.wikipedia.org/wiki/道頓堀プロレス "wikilink")といろんな団体に参戦をしている。
-
-さらに、ZERO1の天下一jrでも優勝してインターナショナルジュニアヘビー級王座とNWA世界ジュニアヘビー級王座を奪取。
-
-なお、WRESTLE-1のみでは[東京愚連隊](../Page/東京愚連隊.md "wikilink")と共に行動している。
+[2013年](../Page/2013年.md "wikilink")からはDRAGON GATEや[大日本プロレス](../Page/大日本プロレス.md "wikilink")や[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")やZERO1や[道頓堀プロレス](https://ja.wikipedia.org/wiki/道頓堀プロレス "wikilink")といろんな団体に参戦をしている。さらに、ZERO1の天下一jrでも優勝してインターナショナルジュニアヘビー級王座とNWA世界ジュニアヘビー級王座を奪取。なお、WRESTLE-1のみでは[東京愚連隊](../Page/東京愚連隊.md "wikilink")と共に行動している。
 
 HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/ビリーケン・キッド.md "wikilink")に勝利するも、2回目の自主興行ではライバル[日高郁人](../Page/日高郁人.md "wikilink")に敗北。
 
-[2015年](../Page/2015年.md "wikilink")は[大日本プロレス](../Page/大日本プロレス.md "wikilink")や東京愚連隊の自主興行や道頓堀プロレスに参戦中で大阪を拠点に活動中。しかし、ZERO1でジュニア二冠王座は[ジェイソン・リー](../Page/ジェイソン・リー.md "wikilink")に敗れ惜しくも陥落。道頓堀プロレスには定期参戦中でヲロチと結託している。
+[2015年](../Page/2015年.md "wikilink")は[大日本プロレス](../Page/大日本プロレス.md "wikilink")や東京愚連隊の自主興行や道頓堀プロレスに参戦中で大阪を拠点に活動。しかし、ZERO1でジュニア二冠王座は[ジェイソン・リー](../Page/ジェイソン・リー.md "wikilink")に敗れ陥落。道頓堀プロレスには定期参戦中でヲロチと結託している。
 
 ## 得意技
 
@@ -101,14 +95,14 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
 
   - バイパーデスロック
     亜留魔下首領
-    スチュハートスペシャルと同型。カナディアンバックブリーカーの体制から相手の首を両手で掴み、下へと引き下げた勢いで相手を360°回転させる。両手を相手の胴体に持ち替えて開脚ジャンプ。両脚の間に背中からマットに叩きつける。
+    スチュハートスペシャルと同型。
 
-  - 新型亜留魔下首領
-    アルマゲドンX
-    大蛇怒雷婆
+    相手を[カナディアンバックブリーカー](https://ja.wikipedia.org/wiki/カナディアンバックブリーカー "wikilink")の体勢から相手の首を両手で鷲掴み、そのまま下方へ引っ張った勢いで相手を360°回転させて両手を相手の胴体に持ち替えて開脚ジャンプ。両脚の間に背中からマットに叩きつける。開脚式ボムでマットに叩き付ける。
+
+  - [大蛇怒雷婆](https://ja.wikipedia.org/wiki/パワーボム#タイガー・ドライバー "wikilink")
     [タイガードライバーと同型](https://ja.wikipedia.org/wiki/パワーボム#タイガー・ドライバー "wikilink")。
 
-  - 蛇苦波布
+  - [蛇苦波布](https://ja.wikipedia.org/wiki/ブレーンバスター#ジャック・ハマー "wikilink")
     [ジャックハマーと同型](https://ja.wikipedia.org/wiki/ブレーンバスター#ジャック・ハマー "wikilink")。軽くジャンプしてから高速で丸め込む用に投げる。技に入る前に「オーケー、ジャック・ハマー」と言っている。
 
   - 上叩蛇落
@@ -118,7 +112,7 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
     相手の足を4の字のように交差させ、サイドへ落とす変形[デスバレーボム](../Page/デスバレーボム.md "wikilink")。
 
   - 因果応報（旧：バベル）
-    蛇縛魔洞（旧：リミッターショック）
+    [蛇縛魔洞](https://ja.wikipedia.org/wiki/ネックブリーカー#ゴリー・クラッシャー "wikilink")（旧：リミッターショック）
     ゴリースペシャルの状態から尻餅をつき、背骨にダメージを与える技。ゴア時代のフィニッシュ・ホールドだったが、自身の腰にも負担がかかるためかスーパー・ドルフィンの時代は封印していた。
 
   - 波布蛇箱（旧：エゴパッケージ）
@@ -126,7 +120,7 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
     [閃光毒牙](https://ja.wikipedia.org/wiki/シャイニングウィザード "wikilink")
     やや高度は低めだが素早いモーションで繰り出す。
 
-  - とぐろ巻き式ラリアット（旧：蛇腕潰沈）
+  - とぐろ巻き式[ラリアット](../Page/ラリアット.md "wikilink")（旧：蛇腕潰沈）
     右腕にマスクの後ろにある、しっぽを巻きつけてから放つ[ラリアット](../Page/ラリアット.md "wikilink")。しっぽはマスクの一部であるため、攻撃が認められている。
 
   - [しっぽ攻撃](../Page/尾.md "wikilink")
@@ -146,14 +140,14 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
   - 串刺し
     インビジブル
     マックスペイン
-    デメキンバスター
+    [デメキンバスター](https://ja.wikipedia.org/wiki/フィッシャーマンズ・スープレックス#クロスレッグ・フィッシャーマンズ・バスター "wikilink")
     [クロスレッグフィッシャーマンズバスターと同型](https://ja.wikipedia.org/wiki/フィッシャーマンズ・スープレックス#クロスレッグ・フィッシャーマンズ・バスター "wikilink")。スペル・デメキンの時代に使用していた。
 
   - [ペディグリー](../Page/ペディグリー.md "wikilink")
     [アンクルホールド](../Page/アンクルホールド.md "wikilink")
     立った状態へ移行するスタンディングタイプを主に使用している。相手の一瞬の隙をつき形勢逆転にして使用する事が多い。技の入りがとても早い。
 
-  - フィギュアフォーアンクルホールド
+  - [フィギュア・フォー・レッグロック](../Page/足4の字固め.md "wikilink")
 
 ## 入場曲
 
@@ -235,4 +229,4 @@ HUB主催の自主興行「毒人」では[ビリーケン・キッド](../Page/
 ## 外部リンク
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:大阪プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:大阪プロレスに所属したプロレスラー "wikilink") [Category:沖縄プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:沖縄プロレスに所属したプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:東京愚連隊](https://ja.wikipedia.org/wiki/Category:東京愚連隊 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:覆面レスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:大阪プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:大阪プロレスに所属したプロレスラー "wikilink") [Category:沖縄プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:沖縄プロレスに所属したプロレスラー "wikilink") [Category:DRAGON_GATEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:DRAGON_GATEに参戦したプロレスラー "wikilink") [Category:ZERO1にレギュラー参戦するプロレスラー](https://ja.wikipedia.org/wiki/Category:ZERO1にレギュラー参戦するプロレスラー "wikilink") [Category:東京愚連隊](https://ja.wikipedia.org/wiki/Category:東京愚連隊 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

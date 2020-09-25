@@ -1,7 +1,7 @@
 > この記事は[HIKARI](https://ja.wikipedia.org/wiki/HIKARI)から翻訳されています。
 
 
-**HIKARI**（本名：石津 隆光（いしづ たかみつ）、[1973年](../Page/1973年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[血液型はB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
+**HIKARI**（本名：石津 隆光（いしづ たかみつ）、[1973年](../Page/1973年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink") - ）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。[血液型はB型](../Page/ABO式血液型.md "wikilink")。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。
 
 [静岡県](../Page/静岡県.md "wikilink")出身。[静岡県立浜松南高等学校](../Page/静岡県立浜松南高等学校.md "wikilink")、[関西大学](../Page/関西大学.md "wikilink")[社会学部](../Page/社会学部.md "wikilink")卒業。
 
@@ -192,6 +192,8 @@
   - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")
       - [D.D.](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")（作曲/編曲）
       - [Stories](https://ja.wikipedia.org/wiki/KISSIN'MY_LIPS/Stories "wikilink")（作詞/作曲/編曲）
+  - [A.B.C-Z](../Page/A.B.C-Z.md "wikilink")
+      - [I Do](https://ja.wikipedia.org/wiki/CONTINUE?_\(アルバム\) "wikilink")（作詞/共作曲）
   - [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")
       - VOLCANO（共作曲）
 

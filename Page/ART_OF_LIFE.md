@@ -3,7 +3,7 @@
 
 『**ART OF LIFE**』（アート・オブ・ライフ）は、日本のロックバンド[X JAPANが](../Page/X_JAPAN.md "wikilink")[1993年](../Page/1993年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")にリリースした[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")であり、収録曲のタイトルである。
 
-当初はアルバム『[Jealousy](../Page/Jealousy_\(Xのアルバム\).md "wikilink")』に収録し、2枚組として発表する予定であったが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に[YOSHIKI](../Page/YOSHIKI.md "wikilink")が倒れたことや、ヴォーカル・レコーディングの難航、[ソニー](../Page/ソニー.md "wikilink")の上場問題が絡んだ時間的制約から「ART OF LIFE」の収録は見送られ、後にミニ・アルバムとしてリリースされることになった。そのため、制作を開始してからアルバムが世間に発表されるまでに3年7ヵ月を要した\[1\]。 元々は「Say Anything」の第二章という位置づけであり、同曲終盤でのYOSHIKIの語りのあとに本作に繋がるという設定となっている。 「Say Anything」がアルバムの最後のトラックに収録されているのは、前記の通り「Jealousy」が本作と2枚組みでのリリースを念頭に置いていたためである。
+当初はアルバム『[Jealousy](../Page/Jealousy_\(Xのアルバム\).md "wikilink")』に収録し、2枚組として発表する予定であったが、[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")中に[YOSHIKI](../Page/YOSHIKI.md "wikilink")が倒れたことや、ヴォーカル・レコーディングの難航、[ソニー](../Page/ソニー.md "wikilink")の上場問題が絡んだ時間的制約から「ART OF LIFE」の収録は見送られ、後にミニ・アルバムとしてリリースされることになった。そのため、制作を開始してからアルバムが世間に発表されるまでに3年7か月を要した\[1\]。 元々は「[Say Anything](../Page/Say_Anything.md "wikilink")」の第2章という位置づけであり、同曲終盤でのYOSHIKIの語りのあとに本作に繋がるという設定となっている。 「Say Anything」がアルバムの最後のトラックに収録されているのは、前記の通り「Jealousy」が本作と2枚組でのリリースを念頭に置いていたためである。
 
 再生時間が約30分という長編作であり、[ロックをベースに](../Page/ロック_\(音楽\).md "wikilink")[クラシック音楽](../Page/クラシック音楽.md "wikilink")的要素、[ピアノ](../Page/ピアノ.md "wikilink")・[ソロなどで構成されている](https://ja.wikipedia.org/wiki/独奏 "wikilink")。歌詞は全て[英語](../Page/英語.md "wikilink")であり、YOSHIKIの半生をモチーフとした内容となっている。ジャケット・カバーで使われている頭部X線写真もYOSHIKI自身のものである\[2\]。
 
@@ -21,7 +21,7 @@
 
 ソロ・ギターは[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")、リズム・ギターは[PATA](../Page/PATA.md "wikilink")が担当した。ソロ・ギターのフレーズはHIDEが作ったものをYOSHIKIが譜面に起こし、オーケストラと絡める構成にした。リズム・ギターのレコーディングは1992年9月から約1週間に渡ってエンタープライズ・スタジオで行われ、エンジニアはスタン片山が担当した。ツイン・ギターのフレーズはYOSHIKIが作り、両パートともHIDEが弾いている。HIDEは初めてレコーディングで[サスティナー搭載ギターを使用した](https://ja.wikipedia.org/wiki/サステイン#エレクトリック・ギター "wikilink")\[7\]。
 
-[Toshlは](https://ja.wikipedia.org/wiki/ToshI "wikilink")1992年9月-10月の2ヶ月間に渡って仮歌を録り、本番テイクのヴォーカル・レコーディングには1992年の[11月](../Page/11月.md "wikilink")から翌1993年の[6月](../Page/6月.md "wikilink")までの8ヶ月を費やした。
+[Toshlは](https://ja.wikipedia.org/wiki/ToshI "wikilink")1992年9月-10月の2か月間に渡って仮歌を録り、本番テイクのヴォーカル・レコーディングには1992年の[11月](../Page/11月.md "wikilink")から翌1993年の[6月](../Page/6月.md "wikilink")までの8か月を費やした。
 
 オーケストラ・パートは1992年10月に56名の[ロイヤル・フィルハーモニー管弦楽団](../Page/ロイヤル・フィルハーモニー管弦楽団.md "wikilink")がロンドンの[アビー・ロード・スタジオ](../Page/アビー・ロード・スタジオ.md "wikilink")で演奏した\[8\]。これまでオーケストラの収録はリハーサルなしで行っていたが、「ART OF LIFE」のアレンジは複雑であったため、2日間のリハーサル期間を設けている。
 

@@ -3,7 +3,7 @@
 
 **小野 茜**（おの あかね、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[8月10日](../Page/8月10日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[AV女優](../Page/AV女優.md "wikilink")、元[ストリッパー](https://ja.wikipedia.org/wiki/ストリップ_\(性風俗\) "wikilink")。
 
-[東京都](../Page/東京都.md "wikilink")出身。[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：AB型 、身長：155cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B79・W55・H83 、Cカップ。
+[東京都](../Page/東京都.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")：AB型 、身長：155cm、[スリーサイズ](../Page/スリーサイズ.md "wikilink")：B79・W55・H83 、Cカップ。
 
 ## 略歴
 

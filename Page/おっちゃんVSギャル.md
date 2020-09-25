@@ -44,7 +44,7 @@
 <li><a href="../Page/ミヤコ_(お笑い芸人).md" title="wikilink">非常階段ミヤコ</a></li>
 <li>麻生みどり</li>
 <li><a href="https://ja.wikipedia.org/wiki/羽野晶紀" title="wikilink">羽野晶紀</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/かつみ♥さゆり" title="wikilink">尾崎小百合</a></li>
+<li><a href="../Page/かつみ♥さゆり.md" title="wikilink">尾崎小百合</a></li>
 <li>内東（亀屋）佳世乃</li>
 <li><a href="https://ja.wikipedia.org/wiki/堀美矢子" title="wikilink">堀みやこ</a></li>
 <li><a href="../Page/亀山房代.md" title="wikilink">亀山房代</a></li>

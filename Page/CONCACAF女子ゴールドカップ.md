@@ -199,7 +199,7 @@
   - **　[1999年のFIFA女子ワールドカップ開催国である](https://ja.wikipedia.org/wiki/1999_FIFA女子ワールドカップ "wikilink")[アメリカ合衆国は不参加](https://ja.wikipedia.org/wiki/サッカーアメリカ合衆国女子代表 "wikilink")
   - **　[2015年のFIFA女子ワールドカップ開催国である](https://ja.wikipedia.org/wiki/2015_FIFA女子ワールドカップ "wikilink")[カナダは不参加](../Page/サッカーカナダ女子代表.md "wikilink")
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 

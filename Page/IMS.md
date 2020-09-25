@@ -27,7 +27,7 @@ IMSは以下の2機能から構成される。
 
 上記2機能は、1機能のみの使用もできるため、2機能をまとめてIMS TM/DB（旧称IMS DB/DC）とも呼ぶ。IMS DBを別のトランザクション処理システム（[CICS](../Page/CICS.md "wikilink")など）と組み合わせることもできる。[関係データベース管理システム](../Page/関係データベース管理システム.md "wikilink")(RDBMS) である[DB2](https://ja.wikipedia.org/wiki/DB2 "wikilink")も、IMSに搭載されるDBMSとして開発されてきたと言われる。
 
-IMSは、IBM[メインフレーム](../Page/メインフレーム.md "wikilink")の専用[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である、[MVS](https://ja.wikipedia.org/wiki/MVS "wikilink")、[OS/390](https://ja.wikipedia.org/wiki/OS/390 "wikilink")、[z/OS](https://ja.wikipedia.org/wiki/z/OS "wikilink")上でのみ稼動する。同じIBMメインフレーム専用OSでも、[VM](https://ja.wikipedia.org/wiki/VM "wikilink")や[VSE](https://ja.wikipedia.org/wiki/VSE "wikilink")では稼動しない。（MVS系の基本機能である、複数アドレス空間を使用しているため。）
+IMSは、IBM[メインフレーム](../Page/メインフレーム.md "wikilink")の専用[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink")である、[MVS](../Page/Multiple_Virtual_Storage.md "wikilink")、[OS/390](https://ja.wikipedia.org/wiki/OS/390 "wikilink")、[z/OS](https://ja.wikipedia.org/wiki/z/OS "wikilink")上でのみ稼動する。同じIBMメインフレーム専用OSでも、[VMや](https://ja.wikipedia.org/wiki/z/VM "wikilink")[VSEでは稼動しない](https://ja.wikipedia.org/wiki/z/VSE "wikilink")。（MVS系の基本機能である、複数アドレス空間を使用しているため。）
 
 ### 特徴
 

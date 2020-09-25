@@ -591,11 +591,7 @@ SD戦国伝 理の巻</p></td>
 同時上映『<a href="../Page/機動戦士ガンダム_逆襲のシャア.md" title="wikilink">機動戦士ガンダム 逆襲のシャア</a>』</p></th>
 <th><p>第1部・激闘編<br />
 ガンダム大地に立てるか！？</p></th>
-<th><p>-</p></th>
-<th><p>星山博之</p></th>
-<th><p>関田修</p></th>
-<th><p>渡辺浩<br />
-松下浩美</p></th>
+<th><p>（上記参照）</p></th>
 <th><p><strong>1988年</strong><br />
 5月25日</p></th>
 </tr>
@@ -604,9 +600,6 @@ SD戦国伝 理の巻</p></td>
 <tr class="odd">
 <td><p>第2部・休日編<br />
 ジオン・ホテルの脅威？ガンダム・ペンション破壊命令！！</p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -632,17 +625,11 @@ SD戦国伝 理の巻</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>SD戦国伝 <ruby><rb>暴終空城</rb><rt>あばおあくうじょう</rt></ruby>の章</p></td>
 <td><p>高松信司</p></td>
 <td><p>西村誠芳</p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -666,9 +653,6 @@ SD戦国伝 理の巻</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>パパルの暁－冒険少女アルテシア－<br />
@@ -677,9 +661,6 @@ SD戦国伝 理の巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平岡正幸" title="wikilink">平岡正幸</a></p></td>
 <td><p><strong>1991年</strong><br />
 8月22日発売</p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -702,18 +683,12 @@ SD戦国伝 理の巻</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SD戦国伝_天下統一編.md" title="wikilink">SD戦国伝 天下泰平編</a></p></td>
 <td><p><a href="../Page/今西隆志.md" title="wikilink">今西隆志</a></p></td>
 <td><p><a href="../Page/大熊朝秀.md" title="wikilink">大熊朝秀</a></p></td>
 <td><p><a href="../Page/村瀬修功.md" title="wikilink">村瀬修功</a></p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -728,9 +703,6 @@ SD戦国伝 理の巻</p></td>
 <td><p><a href="../Page/土器手司.md" title="wikilink">土器手司</a></p></td>
 <td><p><a href="../Page/志田ただし.md" title="wikilink">広田正志</a><br />
 伊藤岳史</p></td>
-<td></td>
-<td></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>

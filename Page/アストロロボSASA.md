@@ -117,8 +117,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1984年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1984年のパソコンゲーム "wikilink") [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:アクションシューティングゲーム](https://ja.wikipedia.org/wiki/Category:アクションシューティングゲーム "wikilink") [Category:アスキーのゲームソフト](https://ja.wikipedia.org/wiki/Category:アスキーのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink")
 
 1.

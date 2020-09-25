@@ -50,26 +50,6 @@ ABCマートの店内では、「[ABCリコメンズ](https://ja.wikipedia.org/w
 
 ## 外部リンク
 
-  - [ABCマート](https://www.abc-mart.net/shop/)
-
-  -
-  -
-  -
-  -
-  - [ABC-MART GRAND STAGE](https://www.abc-mart.com/grandstage/)
-
-  - [ABC-MART SPORTS <ABC-MART スポーツ>](https://sports.abc-mart.net/)
-
-  - [ACE Shoes ( エースシューズ )](https://aceshoes.jp/)
-
-  - [Charlotte（シャルロット）](https://maison-charlotte.net/)
-
-  - [BILLY'S ENT](https://www.billys-tokyo.net/shop/)
-
-  - [STUMPTOWN](https://www.stumptownjapan.com/)
-
-  - [CaliforniaDept.OFFICIAL WEBSITE](https://californiadept.com/)
-
 [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:日本の小売業者](https://ja.wikipedia.org/wiki/Category:日本の小売業者 "wikilink") [Category:日本の衣料品店](https://ja.wikipedia.org/wiki/Category:日本の衣料品店 "wikilink") [Category:靴屋](https://ja.wikipedia.org/wiki/Category:靴屋 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2000年上場の企業](https://ja.wikipedia.org/wiki/Category:2000年上場の企業 "wikilink") [Category:1985年設立の企業](https://ja.wikipedia.org/wiki/Category:1985年設立の企業 "wikilink")
 
 1.  [会社概要 | エービーシー・マート](https://www.abc-mart.co.jp/aboutus/gaiyo.html)

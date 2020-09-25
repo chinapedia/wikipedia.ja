@@ -66,6 +66,6 @@
 
 ## 外部リンク
 
-  - [SMAP 004](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-416.html)
+  - [SMAP 004](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-416.html)
 
 [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink") [Category:1993年のアルバム](https://ja.wikipedia.org/wiki/Category:1993年のアルバム "wikilink")

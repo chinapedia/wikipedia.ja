@@ -271,7 +271,8 @@ JTCおよびN1耐久の戦績
     N1耐久「富士6時間」に参戦、優勝
   - [1991年](../Page/1991年.md "wikilink")
     JTCに4台参戦。6戦全勝。 シリーズチャンピオンは長谷見昌弘（3勝）が獲得。
-    [スパ・フランコルシャン24時間レース](../Page/スパ・フランコルシャン24時間レース.md "wikilink")に参戦（オロフソン/[ブラバム](../Page/デビッド・ブラバム.md "wikilink")/[服部尚貴](../Page/服部尚貴.md "wikilink")）、総合優勝。グループNクラス優勝。([オドール](https://ja.wikipedia.org/wiki/キース・オドール "wikilink")/[木下隆之](../Page/木下隆之.md "wikilink")/ショイスマン)
+    オーストラリアツーリングカー選手権に参戦し､シリーズチャンピオンを獲得。同年バサースト1000でも総合優勝。バサーストでは2連覇を達成。([リチャーズ](../Page/ジム・リチャーズ_\(レーサー\).md "wikilink")/[スカイフ](../Page/マーク・スカイフ.md "wikilink"))
+    [スパ・フランコルシャン24時間レース](../Page/スパ・フランコルシャン24時間レース.md "wikilink")に参戦（オロフソン/[ブラバム](../Page/デビッド・ブラバム.md "wikilink")/[服部尚貴](../Page/服部尚貴.md "wikilink")）、総合優勝。グループNクラス優勝。([オドール](https://ja.wikipedia.org/wiki/キース・オドール "wikilink")/[木下隆之](../Page/木下隆之.md "wikilink")/[ショイスマン](../Page/ディアク・ショイスマン.md "wikilink"))
     N1耐久ラウンドシリーズ参戦、6戦5勝。シリーズチャンピオンは[清水和夫](../Page/清水和夫.md "wikilink")が獲得。
   - [1992年](../Page/1992年.md "wikilink")
     JTCに7台参戦。8戦全勝。シリーズチャンピオンは長谷見昌弘（2勝）が獲得。
@@ -694,7 +695,7 @@ JGTCの戦績
 
   - [プリンス&スカイラインミュウジアム](http://www.prince-skyline.com/)
 
-[Category:日産の車種](https://ja.wikipedia.org/wiki/Category:日産の車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink") [Category:ラリーカー](https://ja.wikipedia.org/wiki/Category:ラリーカー "wikilink") [Category:レーシングカー](https://ja.wikipedia.org/wiki/Category:レーシングカー "wikilink")
+[Category:日産の車種](https://ja.wikipedia.org/wiki/Category:日産の車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink") [Category:レーシングカー](https://ja.wikipedia.org/wiki/Category:レーシングカー "wikilink")
 
 1.
 2.

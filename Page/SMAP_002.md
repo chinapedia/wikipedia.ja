@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [SMAP 002](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-333.html)
+  - [SMAP 002](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-333.html)
 
 [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink")

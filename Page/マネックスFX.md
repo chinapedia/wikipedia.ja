@@ -1,7 +1,7 @@
 > この記事は[マネックスFX](https://ja.wikipedia.org/wiki/マネックスFX)から翻訳されています。
 
 
-**株式会社マネックスFX**（まねっくすえふえっくす、英文名 Monex FX, inc.）は、かつて存在した[外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")を行う[金融先物取引](https://ja.wikipedia.org/wiki/金融先物取引 "wikilink")業者である。[東京都](../Page/東京都.md "wikilink")[中央区に本社を置いていた](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")。
+**株式会社マネックスFX**（まねっくすえふえっくす、英文名 Monex FX, inc.）は、かつて存在した[外国為替証拠金取引](../Page/外国為替証拠金取引.md "wikilink")を行う[金融先物取引](../Page/金融先物取引.md "wikilink")業者である。[東京都](../Page/東京都.md "wikilink")[中央区に本社を置いていた](https://ja.wikipedia.org/wiki/中央区_\(東京都\) "wikilink")。
 
 2004年に、[東短エイジェンシー](https://ja.wikipedia.org/wiki/東短エイジェンシー "wikilink")株式会社（[東京短資](https://ja.wikipedia.org/wiki/東京短資 "wikilink")グループ）の完全子会社「**[トウキョウフォレックス](https://ja.wikipedia.org/wiki/トウキョウフォレックス "wikilink")株式会社**」として設立。2008年に[マネックスグループ](../Page/マネックスグループ.md "wikilink")株式会社の子会社となり「**株式会社マネックスFX**」へ[商号](../Page/商号.md "wikilink")を変更した。
 

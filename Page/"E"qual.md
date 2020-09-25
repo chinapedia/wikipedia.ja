@@ -134,7 +134,7 @@ M.O.S.A.D., BALLERS名義除く
 ## 外部リンク
 
   - [公式ブログ](https://ameblo.jp/equal-mosad/)
-  - [コロムビア](http://columbia.jp/artist-info/equal/)
+  - [コロムビア](https://columbia.jp/artist-info/equal/)
   - ["E"qual Official Website](http://www.equal-mosad.com/)
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:名古屋市出身の人物](https://ja.wikipedia.org/wiki/Category:名古屋市出身の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

@@ -174,7 +174,7 @@
 
   - [WATER BOYS 2005 夏 （前編）](http://www.fami-geki.com/detail/index.php?fami_id=02218) - [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")
   - [WATER BOYS 2005 夏 （後編）](http://www.fami-geki.com/detail/index.php?fami_id=02217) - [ファミリー劇場](../Page/ファミリー劇場.md "wikilink")
-  - [TVM ウォーターボーイズ　２００５夏](http://www.allcinema.net/prog/show_c.php?num_c=323170) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
+  - [TVM ウォーターボーイズ　２００５夏](https://www.allcinema.net/cinema/323170) - [allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")
 
 [Category:ウォーターボーイズ](https://ja.wikipedia.org/wiki/Category:ウォーターボーイズ "wikilink") [Category:フジテレビのスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:フジテレビのスペシャルドラマ "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:共同テレビのテレビドラマ](https://ja.wikipedia.org/wiki/Category:共同テレビのテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:水泳を題材とした作品](https://ja.wikipedia.org/wiki/Category:水泳を題材とした作品 "wikilink")
 

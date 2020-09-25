@@ -5,7 +5,7 @@
 
 [草凪純](../Page/草凪純.md "wikilink")に継ぎ、「新くびれの女王」として君臨した。
 
-[茨城県](../Page/茨城県.md "wikilink")出身、[血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：B型。サイズは、身長154cm、B:95cm（H-65）、W:55cm、H:85cm。
+[茨城県](../Page/茨城県.md "wikilink")出身、[血液型](../Page/ABO式血液型.md "wikilink")：B型。サイズは、身長154cm、B:95cm（H-65）、W:55cm、H:85cm。
 
 ## 略歴
 

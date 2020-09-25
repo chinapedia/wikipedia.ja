@@ -232,7 +232,7 @@
   - デモ・背景出演等
       - ザ・キング・オブ・ファイターズ'96
       - ザ・キング・オブ・ファイターズ'99
-      - ザ・キング・オブ・ファイターズ2000（アーケード版ではデモ出演のみだが、[PS2版ではマニアックストライカーとして登場](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+      - ザ・キング・オブ・ファイターズ2000（アーケード版ではデモ出演のみだが、[PS2版ではマニアックストライカーとして登場](../Page/PlayStation_2.md "wikilink")）
       - ザ・キング・オブ・ファイターズ2002
       - [CAPCOM VS. SNK 2](../Page/CAPCOM_VS._SNK_2_MILLIONAIRE_FIGHTING_2001.md "wikilink")
       - [SNK VS. CAPCOM 激突カードファイターズシリーズ](../Page/SNK_VS._CAPCOM_激突カードファイターズ.md "wikilink")（個別キャラクターカードが存在）

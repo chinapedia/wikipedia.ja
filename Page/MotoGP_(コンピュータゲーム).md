@@ -7,7 +7,7 @@
 
 なお、文中の発売日は日本市場のもの。
 
-## [PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+## [PS2版](../Page/PlayStation_2.md "wikilink")
 
 [ナムコ](https://ja.wikipedia.org/wiki/ナムコ "wikilink")レーベルから発売。『2』『3』での[イメージキャラクター](https://ja.wikipedia.org/wiki/イメージキャラクター "wikilink")は[吉乃ひとみ](../Page/吉乃ひとみ.md "wikilink")。[レーサー](https://ja.wikipedia.org/wiki/レーサー "wikilink")が予習に使う、とも言われる。
 

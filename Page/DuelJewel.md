@@ -11,13 +11,13 @@
 
 ### 現メンバー
 
-| 名前                                                                | パート                                                       | 生年月日                                   | 血液型                                                    | [メンバーカラー](https://ja.wikipedia.org/wiki/メンバーカラー "wikilink") |
-| ----------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------- | ------------------------------------------------------ | ----------------------------------------------------------- |
-| <ruby><rb>**隼人**</rb><rp>（</rp><rt>ハヤト</rt><rp>）</rp></ruby>      | [Vocal](https://ja.wikipedia.org/wiki/Vocal "wikilink")   | [12月29日](../Page/12月29日.md "wikilink") | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [赤](../Page/赤.md "wikilink")                                |
-| <ruby><rb>**Shun**</rb><rp>（</rp><rt>シュン</rt><rp>）</rp></ruby>    | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [2月3日](../Page/2月3日.md "wikilink")     | [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [ピンク](../Page/ピンク.md "wikilink")                            |
-| <ruby><rb>**祐弥**</rb><rp>（</rp><rt>ユウヤ</rt><rp>）</rp></ruby>      | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [4月29日](../Page/4月29日.md "wikilink")   | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [黄色](../Page/黄色.md "wikilink")                              |
-| <ruby><rb>**Natsuki**</rb><rp>（</rp><rt>ナツキ</rt><rp>）</rp></ruby> | [Bass](../Page/ベース_\(弦楽器\).md "wikilink")                 | [9月11日](../Page/9月11日.md "wikilink")   | [B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [青](../Page/青.md "wikilink")                                |
-| <ruby><rb>**ばる**</rb><rp>（</rp><rt>バル</rt><rp>）</rp></ruby>       | [Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")   | [2月4日](../Page/2月4日.md "wikilink")     | [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink") | [緑](../Page/緑.md "wikilink")                                |
+| 名前                                                                | パート                                                       | 生年月日                                   | 血液型                                 | [メンバーカラー](https://ja.wikipedia.org/wiki/メンバーカラー "wikilink") |
+| ----------------------------------------------------------------- | --------------------------------------------------------- | -------------------------------------- | ----------------------------------- | ----------------------------------------------------------- |
+| <ruby><rb>**隼人**</rb><rp>（</rp><rt>ハヤト</rt><rp>）</rp></ruby>      | [Vocal](https://ja.wikipedia.org/wiki/Vocal "wikilink")   | [12月29日](../Page/12月29日.md "wikilink") | [B型](../Page/ABO式血液型.md "wikilink") | [赤](../Page/赤.md "wikilink")                                |
+| <ruby><rb>**Shun**</rb><rp>（</rp><rt>シュン</rt><rp>）</rp></ruby>    | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [2月3日](../Page/2月3日.md "wikilink")     | [O型](../Page/ABO式血液型.md "wikilink") | [ピンク](../Page/ピンク.md "wikilink")                            |
+| <ruby><rb>**祐弥**</rb><rp>（</rp><rt>ユウヤ</rt><rp>）</rp></ruby>      | [Guitar](https://ja.wikipedia.org/wiki/Guitar "wikilink") | [4月29日](../Page/4月29日.md "wikilink")   | [A型](../Page/ABO式血液型.md "wikilink") | [黄色](../Page/黄色.md "wikilink")                              |
+| <ruby><rb>**Natsuki**</rb><rp>（</rp><rt>ナツキ</rt><rp>）</rp></ruby> | [Bass](../Page/ベース_\(弦楽器\).md "wikilink")                 | [9月11日](../Page/9月11日.md "wikilink")   | [B型](../Page/ABO式血液型.md "wikilink") | [青](../Page/青.md "wikilink")                                |
+| <ruby><rb>**ばる**</rb><rp>（</rp><rt>バル</rt><rp>）</rp></ruby>       | [Drums](https://ja.wikipedia.org/wiki/Drums "wikilink")   | [2月4日](../Page/2月4日.md "wikilink")     | [A型](../Page/ABO式血液型.md "wikilink") | [緑](../Page/緑.md "wikilink")                                |
 
 ### 旧メンバー
 

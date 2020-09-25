@@ -104,7 +104,7 @@
   - [パークス](../Page/ハリー・パークス.md "wikilink")：[ジョン・フォース](https://ja.wikipedia.org/wiki/ジョン・フォース "wikilink")
   - [真木和泉](../Page/真木保臣.md "wikilink")：[大久保正信](../Page/大久保正信.md "wikilink")
   - [北添佶摩](../Page/北添佶摩.md "wikilink")：[松山照夫](../Page/松山照夫.md "wikilink")
-  - [福原越後](https://ja.wikipedia.org/wiki/福原元僴 "wikilink")：[高橋正夫](https://ja.wikipedia.org/wiki/高橋正夫 "wikilink")
+  - [福原越後](../Page/福原元僴.md "wikilink")：[高橋正夫](https://ja.wikipedia.org/wiki/高橋正夫 "wikilink")
   - [望月亀弥太](https://ja.wikipedia.org/wiki/望月亀弥太 "wikilink")：[串田和美](../Page/串田和美.md "wikilink")
   - [富](https://ja.wikipedia.org/wiki/武市富子 "wikilink")：[坪内ミキ子](../Page/坪内ミキ子.md "wikilink")
   - [寺島忠三郎](https://ja.wikipedia.org/wiki/寺島忠三郎 "wikilink")：[金親保雄](https://ja.wikipedia.org/wiki/金親保雄 "wikilink")

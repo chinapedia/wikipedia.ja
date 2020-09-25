@@ -5,7 +5,7 @@
 
 ## 解説
 
-[オリコンシングルチャート最高](../Page/オリコンチャート.md "wikilink")2位\[1\]。[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[痛快\!OL通り](../Page/痛快!OL通り.md "wikilink")』の主題歌。
+[オリコンシングルチャート初登場](../Page/オリコンチャート.md "wikilink")4位、最高2位\[1\]。[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")主演の[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[痛快\!OL通り](../Page/痛快!OL通り.md "wikilink")』の主題歌。
 
 3rdアルバム『[BREATH](../Page/BREATH_\(渡辺美里のアルバム\).md "wikilink")』には、[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")、[清水信之](../Page/清水信之.md "wikilink")、[佐橋佳幸](../Page/佐橋佳幸.md "wikilink")が全面的にプロデュースに加わっているため収録せず、4thアルバム『[ribbon](https://ja.wikipedia.org/wiki/ribbon_\(渡辺美里のアルバム\) "wikilink")』においてリミックス・バージョンで収録された。
 

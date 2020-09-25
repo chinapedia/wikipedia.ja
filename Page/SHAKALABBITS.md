@@ -1,7 +1,7 @@
 > この記事は[SHAKALABBITS](https://ja.wikipedia.org/wiki/SHAKALABBITS)から翻訳されています。
 
 
-（シャカラビッツ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[インディーズ](../Page/インディーズ.md "wikilink")時代はリミテッド・レコーズ所属。その後、アンリミテッド・グループ（[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")）やイービル・デザイン／エクストラ・ラージ・レコーズ、エクセルキュー、[コロムビアミュージックエンタテインメントのソニック](../Page/日本コロムビア.md "wikilink")・バン・レコーズ、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")など様々なレーベルを経て、2017年に無期限の活動休止に入った。現在はUquiとMAHによる新プロジェクト“[Muvidat](http://muvidat.com/)”として活動。2020年4月に2nd mini albumのリリースを予定しており、4月10日に2nd mini albumリード曲のミュージックビデオ「[Fog Lights](https://www.youtube.com/watch?v=klRKCYvAmkY)」を公開した。
+（シャカラビッツ）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。[インディーズ](../Page/インディーズ.md "wikilink")時代はリミテッド・レコーズ所属。その後、アンリミテッド・グループ（[東芝EMI](https://ja.wikipedia.org/wiki/東芝EMI "wikilink")）やイービル・デザイン／エクストラ・ラージ・レコーズ、エクセルキュー、[コロムビアミュージックエンタテインメントのソニック](../Page/日本コロムビア.md "wikilink")・バン・レコーズ、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")など様々なレーベルを経て、2017年に無期限の活動休止に入った。現在はUquiとMAHによる新プロジェクト“[Muvidat](http://muvidat.com/)”として活動。2020年4月22日に2nd mini album「[Fog Lights](http://muvidat.com/music/)」をリリースし、リード曲のミュージックビデオ「[Fog Lights](https://www.youtube.com/watch?v=klRKCYvAmkY)」を公開した。
 
 ## 概要
 
@@ -26,7 +26,7 @@
   - 2017年内をもって、無期限の活動休止に入ることを発表した\[2\]。
   - 2019年6月12日、UquiとMAH による新プロジェクト“Muvidat（ムビダット）” がアルバム「[Muvidat](https://www.youtube.com/watch?v=BZ8uqvPd9Uc)」をリリース。
   - 2020年4月10日、2nd mini albumリード曲のミュージックビデオ「[Fog Lights](https://www.youtube.com/watch?v=klRKCYvAmkY)」を公開した。
-  - 2020年4月29日、2nd mini album「[Fog Lights](http://muvidat.com/music/)」をリリース予定。
+  - 2020年4月29日、2nd mini album「[Fog Lights](http://muvidat.com/music/)」をリリースした。
 
 ## 活動
 

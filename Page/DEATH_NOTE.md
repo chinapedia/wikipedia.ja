@@ -51,7 +51,7 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
     [声](../Page/声優.md "wikilink") - [宮野真守](../Page/宮野真守.md "wikilink")
     [演](../Page/俳優.md "wikilink") - [藤原竜也](../Page/藤原竜也.md "wikilink")（実写映画版）/ [浦井健治](https://ja.wikipedia.org/wiki/浦井健治 "wikilink")・[柿澤勇人](https://ja.wikipedia.org/wiki/柿澤勇人 "wikilink")（舞台版）/ [窪田正孝](../Page/窪田正孝.md "wikilink")（ドラマ版）/ 石川樹（ドラマ版幼少期）
     [1986年](../Page/1986年.md "wikilink")（アニメ版では[1989年](../Page/1989年.md "wikilink")、ドラマ版では[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）[2月28日](../Page/2月28日.md "wikilink")生まれ。
-    本作の[主人公](../Page/主人公.md "wikilink")。官僚を目指す優秀で人柄もいい学生だったが、デスノートを拾った事を機に、犯罪者や自身を追う者達を粛清し、彼が認めた真面目で心優しい人間だけの世界を造り上げ、自らはその「[新世界の神](../Page/独裁者.md "wikilink")」として君臨することを目論むようになる。
+    本作の[主人公](../Page/主人公.md "wikilink")。官僚を目指す優秀で人柄もいい学生だったが、デスノートを拾った事をきっかけに犯罪者や自身を追う者達を粛清し、彼が認めた真面目で心優しい人間だけの世界を造り上げ、自らはその「[新世界の神](../Page/独裁者.md "wikilink")」として君臨することを目論むようになる。
   - [弥海砂](../Page/弥海砂.md "wikilink")（あまね ミサ、Misa Amane）
     声 - [平野綾](../Page/平野綾.md "wikilink")
     演 - [戸田恵梨香](https://ja.wikipedia.org/wiki/戸田恵梨香 "wikilink")（実写映画版）/ [唯月ふうか](https://ja.wikipedia.org/wiki/唯月ふうか "wikilink")（舞台版）/ [佐野ひなこ](https://ja.wikipedia.org/wiki/佐野ひなこ "wikilink")（ドラマ版）/ [篠川桃音](https://ja.wikipedia.org/wiki/篠川桃音 "wikilink")（ドラマ版幼少期）
@@ -67,7 +67,7 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
     演 - 福田響志（実写映画版）/ [優希美青](https://ja.wikipedia.org/wiki/優希美青 "wikilink")（ドラマ版）
     [1991年](../Page/1991年.md "wikilink")（アニメ版では[1994年](../Page/1994年.md "wikilink")、ドラマ版では[1996年](../Page/1996年.md "wikilink")）[8月24日](../Page/8月24日.md "wikilink")生まれ（18歳→19歳、特別編では22歳）。身長155cm、体重40kg。血液型はB型。
     第二部のメインキャラクターの一人で、Lの後継第一次候補。無口で表情に乏しく、常に冷静な性格。
-  - メロ（Mello)
+  - メロ（Mello）
     声 - [佐々木望](../Page/佐々木望.md "wikilink")
     演 - [優希美青](https://ja.wikipedia.org/wiki/優希美青 "wikilink")（ドラマ版・二役）
     [1989年](../Page/1989年.md "wikilink")（アニメ版では[1992年](../Page/1992年.md "wikilink")）[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")生まれ（19歳→20歳）。身長171cm、体重52kg。血液型はA型。
@@ -75,27 +75,12 @@ Lの死の直後、[養護施設](https://ja.wikipedia.org/wiki/養護施設 "wi
   - 高田清美（たかだ きよみ、Kiyomi Takada）
     声 - [岡村麻純](../Page/岡村麻純.md "wikilink")（第一部）、[坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")（第二部）
     演 - [片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")（実写映画版）[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（アニメ版では[1988年](../Page/1988年.md "wikilink")）[7月12日](../Page/7月12日.md "wikilink")生まれ。血液型はAB型。
-
-<!-- end list -->
-
-  -
     第二部のメインキャラクター。NHNの看板アナウンサーで、大学時代に月と交際していた過去がある。キラ思想への支持を認められ、キラの代弁者として活動する。
-
-<!-- end list -->
-
   - 魅上照（みかみ てる、Teru Mikami）
     声 - [松風雅也](../Page/松風雅也.md "wikilink")
     演 - [忍成修吾](../Page/忍成修吾.md "wikilink")（ドラマ版）/ 宮澤秀羽（ドラマ版幼少期） / [水上剣星](https://ja.wikipedia.org/wiki/水上剣星 "wikilink")（実写映画版）
     [1982年](../Page/1982年.md "wikilink")（アニメ版では[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、ドラマ版では[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")）[6月7日](../Page/6月7日.md "wikilink")生まれ（27歳）。身長175cm、体重56kg。血液型はA型。
     第二部のメインキャラクター。京都を拠点に活動する検事。作中でも屈指の狂信的なキラ信者。「Xキラ」を名乗り、優秀な右腕として月の裁きに協力する。
-
-<!-- end list -->
-
-  - [リューク（Ryuk）](../Page/死神_\(DEATH_NOTE\).md "wikilink")
-    声 - [中村獅童](../Page/中村獅童_\(2代目\).md "wikilink")（アニメ版・実写映画版）/ [福島潤](../Page/福島潤.md "wikilink")（ドラマ版）
-    演 - [吉田鋼太郎](../Page/吉田鋼太郎.md "wikilink")・[石井一孝](../Page/石井一孝.md "wikilink")（舞台版）
-    モーションアクター - [西野大作](https://ja.wikipedia.org/wiki/西野大作 "wikilink")（ドラマ版）
-    夜神月が拾ったデスノートの持ち主の死神。
 
 ## 用語
 

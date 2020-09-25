@@ -59,7 +59,7 @@
   - 第4回：坂田有希
   - 第5回：笹島かほる
   - 第7回：[飯塚康一](../Page/飯塚康一.md "wikilink")
-  - 第14回：[田中結子](https://ja.wikipedia.org/wiki/田中結子 "wikilink")
+  - 第14回：[田中結子](https://ja.wikipedia.org/wiki/たなかゆうこ "wikilink")
   - 第21回：[相本結香](../Page/相本結香.md "wikilink")、[あおきさやか](../Page/あおきさやか.md "wikilink")
   - 第28回：[儀武ゆう子](../Page/儀武ゆう子.md "wikilink")、[二宮圭美](../Page/二宮圭美.md "wikilink")
   - 第31回：[後藤恵梨子](../Page/後藤恵梨子.md "wikilink")

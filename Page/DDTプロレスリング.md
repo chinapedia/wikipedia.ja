@@ -3,7 +3,7 @@
 
 [高木三四郎fire.jpg](https://ja.wikipedia.org/wiki/File:高木三四郎fire.jpg "fig:高木三四郎fire.jpg")\]\]
 
-**DDTプロレスリング**（ディー・ディー・ティー・プロレスリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。名称のDDTは旧称「**ドラマチック・ドリーム・チーム**（*Dramatic Dream Team*）」の略。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）旗揚げ、[2004年](../Page/2004年.md "wikilink")4月より現名称。
+**DDTプロレスリング**（ディー・ディー・ティー・プロレスリング、、[略称](../Page/略語.md "wikilink"): **DDT**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[プロレス](../Page/プロレス.md "wikilink")[団体](../Page/団体.md "wikilink")。DDTは旧称である「**ドラマチック・ドリーム・チーム**（*Dramatic Dream Team*）」の略。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）旗揚げ。[2004年](../Page/2004年.md "wikilink")4月より現名称。[運営会社](https://ja.wikipedia.org/wiki/運営会社 "wikilink")は株式会社CyberFight。
 
 ## 概要
 
@@ -11,55 +11,120 @@
 
 エンターテインメント色が強くプロレス記者の[鈴木健により](../Page/鈴木健_\(プロレス記者\).md "wikilink")、このスタイルを「[文化系](https://ja.wikipedia.org/wiki/文化系 "wikilink")[プロレス](../Page/プロレス.md "wikilink")」（[高木三四郎](../Page/高木三四郎.md "wikilink")の著書「俺たち文化系プロレス DDT」がある）と名づけられた。元代表の[一宮章一](../Page/一宮章一.md "wikilink")は「小さな[WWE](../Page/WWE.md "wikilink")」と表現したことがある。
 
-小規模会場やライブハウスで定期的な興行を開催してエンターテインメント色を大胆に打ち出すことによって支持を拡大。こういったスタイルは現在、新しく設立するプロレス団体が、こぞって追随している。年に数回、地方遠征も開催している。
+小規模会場やライブハウスで定期的な興行を開催してエンターテインメント色を大胆に打ち出すことによって支持を拡大。こういったスタイルは、以降に設立されたプロレス団体がこぞって追随している。年に数回、地方遠征も開催している。
 
-[2005年](../Page/2005年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")[入谷に道場を構えて道場で試合を定期的に行っていたが諸事情により道場を手放したため](../Page/入谷_\(足立区\).md "wikilink")[新木場1stRING](../Page/新木場1stRING.md "wikilink")など外部の施設を借りて練習を行っていた。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、それまでレンタルという形で使用していた[TAKESHIBAコロシアム](https://ja.wikipedia.org/wiki/TAKESHIBAコロシアム "wikilink")を[プロレスリングZERO1と](../Page/ZERO1.md "wikilink")[スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")でシェアする形で使用することを発表\[1\]\[2\]。[2018年](../Page/2018年.md "wikilink")4月、東京都[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")に道場を開設。[2019年](../Page/2019年.md "wikilink")3月、東京都[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[御茶ノ水](../Page/御茶ノ水.md "wikilink")に道場を移転。
+[2005年](../Page/2005年.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")まで[東京都](../Page/東京都.md "wikilink")[足立区](../Page/足立区.md "wikilink")[入谷に道場を構えて道場で試合を定期的に行っていたが諸事情により道場を手放したため](../Page/入谷_\(足立区\).md "wikilink")[新木場1stRING](../Page/新木場1stRING.md "wikilink")など外部の施設を借りて練習を行っていた。[2014年](../Page/2014年.md "wikilink")[12月17日](../Page/12月17日.md "wikilink")、それまでレンタルという形で使用していた[TAKESHIBAコロシアム](https://ja.wikipedia.org/wiki/TAKESHIBAコロシアム "wikilink")を[プロレスリングZERO1と](../Page/ZERO1.md "wikilink")[スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")でシェアする形で使用することを発表\[1\]\[2\]。[2018年](../Page/2018年.md "wikilink")4月、[板橋区](https://ja.wikipedia.org/wiki/板橋区 "wikilink")に道場を開設。[2019年](../Page/2019年.md "wikilink")3月、[文京区](https://ja.wikipedia.org/wiki/文京区 "wikilink")[御茶ノ水](../Page/御茶ノ水.md "wikilink")に道場を移転。
 
 ## 歴史
 
-### 1997年 - 2005年
+### 1990年代
 
-  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")、[武藤伸太郎](https://ja.wikipedia.org/wiki/武藤伸太郎 "wikilink")が[PWCを退団した](../Page/Pro_Wrestling_Crusaders.md "wikilink")[高木三四郎](../Page/高木三四郎.md "wikilink")、[三上恭平](../Page/MIKAMI.md "wikilink")（現：MIKAMI）、[野沢一茂](../Page/NOSAWA論外.md "wikilink")（現：NOSAWA論外）を招いてドラマチック・ドリーム・チームを設立。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
+
+<!-- end list -->
+
   - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[日比谷ラジオシティ](https://ja.wikipedia.org/wiki/日比谷ラジオシティ "wikilink")でプレ旗揚げ戦を開催。プレ旗揚げ戦においては「観客の過半数の支持が得られなかった場合、旗揚げは取りやめる」と宣言していた。全試合終了後、観客に意を問うたところ大部分の支持が得られて正式な旗揚げ戦となった。
+  - [4月1日](../Page/4月1日.md "wikilink")、[武藤伸太郎](https://ja.wikipedia.org/wiki/武藤伸太郎 "wikilink")が[PWCを退団した](../Page/Pro_Wrestling_Crusaders.md "wikilink")[高木三四郎](../Page/高木三四郎.md "wikilink")、[三上恭平](../Page/MIKAMI.md "wikilink")（現：MIKAMI）、[野沢一茂](../Page/NOSAWA論外.md "wikilink")（現：NOSAWA論外）を招いてドラマチック・ドリーム・チームを設立。
   - [5月14日](../Page/5月14日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")で旗揚げ戦を開催。この時、[IWA格闘志塾より](../Page/国際プロレスプロモーション.md "wikilink")、[佐々木貴](../Page/佐々木貴.md "wikilink")が移籍して4人で旗揚げとなった。
   - [8月7日](../Page/8月7日.md "wikilink")、[後楽園ゆうえんち内のルナパークでビアガーデンプロレス](../Page/東京ドームシティアトラクションズ.md "wikilink")「闘うビアガーデン」を開催。1996年にPWCが[全日本女子プロレス](../Page/全日本女子プロレス.md "wikilink")と合同で開催したものを引き継いで行われた。この年は7月、[LLPWも同名のイベントを開いている](../Page/LLPW-X.md "wikilink")。
-  - [1999年](../Page/1999年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、[シティテレビ中野での定期放送を開始](https://ja.wikipedia.org/wiki/JCNシティテレビ中野 "wikilink")。この頃は[ネオ・レディースの代表だった](../Page/NEO女子プロレス.md "wikilink")[篠泰樹](https://ja.wikipedia.org/wiki/篠泰樹 "wikilink")が率いるユニット「[ネオDDT](https://ja.wikipedia.org/wiki/ネオDDT "wikilink")」との抗争を繰り広げる。
+
+<!-- end list -->
+
+  - [1999年](../Page/1999年.md "wikilink")
+
+<!-- end list -->
+
+  - [9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、[シティテレビ中野での定期放送を開始](https://ja.wikipedia.org/wiki/JCNシティテレビ中野 "wikilink")。この頃は[ネオ・レディースの代表だった](../Page/NEO女子プロレス.md "wikilink")[篠泰樹](https://ja.wikipedia.org/wiki/篠泰樹 "wikilink")が率いるユニット「[ネオDDT](https://ja.wikipedia.org/wiki/ネオDDT "wikilink")」との抗争を繰り広げる。
   - [12月22日](../Page/12月22日.md "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")に初進出して「イチかバチか」と名付けられたDDTの命運が懸かった興行であったが2,000人を動員して成功を収めた。
-  - [2000年](../Page/2000年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")、[KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")を創立。
+
+### 2000年代
+
+  - [2000年](../Page/2000年.md "wikilink")
+
+<!-- end list -->
+
+  - [4月19日](../Page/4月19日.md "wikilink")、[KO-D無差別級王座](https://ja.wikipedia.org/wiki/KO-D無差別級王座 "wikilink")を創立。
   - 6月、有限会社ドラマチック・ドリーム・チームとして法人化。武藤が社長を退任して営業担当であった[三和亮](https://ja.wikipedia.org/wiki/三和哲充 "wikilink")（現：三和哲充）が社長、フリーの[木村浩一郎](../Page/木村浩一郎.md "wikilink")が現場監督に就任。
   - [6月29日](../Page/6月29日.md "wikilink")、[アイアンマンヘビーメタル級王座](https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座 "wikilink")を創立。
   - [8月24日](../Page/8月24日.md "wikilink")、DDTタッグリーグ戦が開幕。9月14日に優勝決定戦が行われ木村&[橋本友彦](https://ja.wikipedia.org/wiki/橋本友彦 "wikilink")のタッグチーム「[スーパー・レッスル](https://ja.wikipedia.org/wiki/スーパー・レッスル "wikilink")」が優勝。
-  - [2001年](../Page/2001年.md "wikilink")6月、[KO-Dタッグ王座](https://ja.wikipedia.org/wiki/KO-Dタッグ王座 "wikilink")を創立。
+
+<!-- end list -->
+
+  - [2001年](../Page/2001年.md "wikilink")
+
+<!-- end list -->
+
+  - 6月、[KO-Dタッグ王座](https://ja.wikipedia.org/wiki/KO-Dタッグ王座 "wikilink")を創立。
   - [12月8日](../Page/12月8日.md "wikilink")と9日、「スーパーギア・スタジアム in [福岡ドーム](../Page/福岡ドーム.md "wikilink")」の一環として福岡ドーム大会「レスリングとんこつ in 福岡ドーム」を開催。
-  - [2002年](../Page/2002年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")大会で提供試合が行われた。
-  - [2003年](../Page/2003年.md "wikilink")、元[WARの](../Page/WAR_\(プロレス\).md "wikilink")[一宮章一](../Page/一宮章一.md "wikilink")が社長に就任。三和は会長に就任。
+
+<!-- end list -->
+
+  - [2002年](../Page/2002年.md "wikilink")
+
+<!-- end list -->
+
+  - [6月7日](../Page/6月7日.md "wikilink")、[新日本プロレス](https://ja.wikipedia.org/wiki/新日本プロレス "wikilink")[日本武道館](../Page/日本武道館.md "wikilink")大会で提供試合が行われた。
+
+<!-- end list -->
+
+  - [2003年](../Page/2003年.md "wikilink")
+
+<!-- end list -->
+
+  - 元[WARの](../Page/WAR_\(プロレス\).md "wikilink")[一宮章一](../Page/一宮章一.md "wikilink")が社長に就任。三和は会長に就任。
   - 8月、[TOKYO-BAYららぽーと大会に](../Page/ららぽーとTOKYO-BAY.md "wikilink")[男色ディーノ](../Page/男色ディーノ.md "wikilink")が初登場。
-  - [2004年](../Page/2004年.md "wikilink")4月、運営会社を有限会社DDTプロレスリングに変更。これに合わせて団体名もDDTプロレスリングに改称。
+
+<!-- end list -->
+
+  - [2004年](../Page/2004年.md "wikilink")
+
+<!-- end list -->
+
+  - 4月、運営会社を有限会社DDTプロレスリングに変更。これに合わせて団体名もDDTプロレスリングに改称。
   - 10月、[FIGHTING TV サムライにて定期中継番組](../Page/FIGHTING_TV_サムライ.md "wikilink")「[DDTドラマティックファンタジア](../Page/DDTドラマティックファンタジア.md "wikilink")」放送開始。
-  - [2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")、一宮が引退と同時に代表を辞任。
 
-### 2006年
+<!-- end list -->
 
-  - [1月29日](../Page/1月29日.md "wikilink")、後楽園ホールで社長職をかけて高木、三和兄弟（会長の三和と弟の[三和太](https://ja.wikipedia.org/wiki/三和太 "wikilink")）、[泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")、[大鷲透](../Page/大鷲透.md "wikilink")、[ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")、[すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、[子川直也](https://ja.wikipedia.org/wiki/子川直也 "wikilink")、[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")の10人でロイヤルランブルを行い、優勝した高木が社長に就任。
+  - [2005年](../Page/2005年.md "wikilink")
+
+<!-- end list -->
+
+  - [12月28日](../Page/12月28日.md "wikilink")、一宮が引退と同時に代表を辞任。
+
+<!-- end list -->
+
+  - [2006年](../Page/2006年.md "wikilink")
+
+<!-- end list -->
+
+  - [1月29日](../Page/1月29日.md "wikilink")、後楽園ホールで社長職をかけて高木、三和兄弟（会長の三和と弟の[三和太](https://ja.wikipedia.org/wiki/三和太 "wikilink")）、[泉州力](https://ja.wikipedia.org/wiki/泉州力 "wikilink")、[大鷲透](../Page/大鷲透.md "wikilink")、[ゴージャス松野](../Page/ゴージャス松野.md "wikilink")、[すぎはら美里](https://ja.wikipedia.org/wiki/すぎはら美里 "wikilink")、[子川直也](https://ja.wikipedia.org/wiki/子川直也 "wikilink")、[大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")、[ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")の10人でロイヤルランブルを行い、優勝した高木が社長に就任。
   - やがて[大鷲透](../Page/大鷲透.md "wikilink")による[DISASTER BOX](https://ja.wikipedia.org/wiki/DISASTER_BOX "wikilink")、[イタリア](../Page/イタリア.md "wikilink")から来日したユニット「[イタリアンフォーホースメン](https://ja.wikipedia.org/wiki/イタリアンフォーホースメン "wikilink")」などと軍団抗争が活発化。
   - 新日本プロレスを退団したリングアナウンサーの[田中秀和が参戦](../Page/田中ケロ.md "wikilink")、高木とのファンタジープロレス論で口論となり、[長井満也](../Page/長井満也.md "wikilink")、[ポイズン澤田JULIE](https://ja.wikipedia.org/wiki/ポイズン澤田JULIE "wikilink")と同期である[後藤達俊](../Page/後藤達俊.md "wikilink")を引きつれ乱入。田中は澤田の呪文を無視する行動に出たため、澤田は呪文の修行で一時離脱。
   - [6月4日](../Page/6月4日.md "wikilink")、後楽園ホールで高木&澤田組対長井&後藤組。終盤に後藤を呪文で蛇手にかけることに成功して澤田が勝利を飾る。試合後にはリングアナウンサーの田中も蛇手させることができた。
   - [11月23日](../Page/11月23日.md "wikilink")、[DDT EXTREME級王座を創立](https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権 "wikilink")。
-  - 年末には正規軍に活を入れるべく[蝶野正洋](../Page/蝶野正洋.md "wikilink")スタイルに扮した高木、[天山広吉](../Page/天山広吉.md "wikilink")スタイル（角をつけただけ）のKUDO、おまけの[矢郷さんと共に](../Page/矢郷良明.md "wikilink")（後に[アシュレイ"ノートン"サウザーが加入](https://ja.wikipedia.org/wiki/アシュレイ・サウザー "wikilink")）ヒールユニット「[チーム・2サウザンアイランド](https://ja.wikipedia.org/wiki/チーム・2サウザンアイランド "wikilink")」を結成。期間は短かったもののMIKAMIや[HARASHIMA](../Page/HARASHIMA.md "wikilink")を奮起させた。しかし、その後は蛇界、DISASTER BOX、イタリアンフォーホースメンなどのチームが次々と解散して活動休止となったため、帰国となってしまう（後に蛇界は[新・蛇界転生](https://ja.wikipedia.org/wiki/新・蛇界転生 "wikilink")として復活）。
+  - 年末には正規軍に活を入れるべく[蝶野正洋](../Page/蝶野正洋.md "wikilink")スタイルに扮した高木、[天山広吉](../Page/天山広吉.md "wikilink")スタイル（角をつけただけ）のKUDO、おまけの[矢郷さんと共に](../Page/矢郷良明.md "wikilink")（後に[アシュレイ"ノートン"サウザーが加入](https://ja.wikipedia.org/wiki/サウザー_\(プロレスラー\) "wikilink")）ヒールユニット「[チーム・2サウザンアイランド](https://ja.wikipedia.org/wiki/チーム・2サウザンアイランド "wikilink")」を結成。期間は短かったもののMIKAMIや[HARASHIMA](../Page/HARASHIMA.md "wikilink")を奮起させた。しかし、その後は蛇界、DISASTER BOX、イタリアンフォーホースメンなどのチームが次々と解散して活動休止となったため、帰国となってしまう（後に蛇界は[新・蛇界転生](https://ja.wikipedia.org/wiki/新・蛇界転生 "wikilink")として復活）。
 
-### 2007年
+<!-- end list -->
+
+  - [2007年](../Page/2007年.md "wikilink")
+
+<!-- end list -->
 
   - 上半期、[ハワイから来日したユニット](../Page/ハワイ州.md "wikilink")「[aWo](https://ja.wikipedia.org/wiki/aWo "wikilink")」が登場。[大鷲透](../Page/大鷲透.md "wikilink")が一時的離脱。HARASHIMAがKO-D王者に君臨する。
   - [新宿FACE](../Page/新宿FACE.md "wikilink")で[DRAGON GATEとの合同興行](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")「[DDG](https://ja.wikipedia.org/wiki/DDG_\(プロレス興行\) "wikilink")」を開催。
   - 設立10周年記念大会では、これまで元DDT所属選手や関係のあった選手が登場し話題となった。
-  - 蛇界は話し合いと試合の結果、ベアー福蛇による「明るく楽しく激しい蛇界」を宣言して[ロス・サルセロス・ハポネサス](https://ja.wikipedia.org/wiki/ロス・サルセロス・ハポネサス "wikilink")の衣装でドリアン澤田、マンゴー福蛇になった。
+  - 蛇界は話し合いと試合の結果、[ベアー福蛇による](../Page/ベアー福田.md "wikilink")「明るく楽しく激しい蛇界」を宣言して[ロス・サルセロス・ハポネサス](https://ja.wikipedia.org/wiki/ロス・サルセロス・ハポネサス "wikilink")の衣装でドリアン澤田、マンゴー福蛇になった。
   - 上記の他団体派遣で[飯伏幸太](../Page/飯伏幸太.md "wikilink")らが参戦を果たして更には[グローバル・レスリング連盟](../Page/グローバル・レスリング連盟.md "wikilink")への加入もあってか[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")とのパイプも出来て（ちなみに高木とノアの[仲田龍](../Page/仲田龍.md "wikilink")とは以前から交流があった）、4月1日、後楽園ホール大会で[丸藤正道](../Page/丸藤正道.md "wikilink")がノア所属選手として初めてDDTマットに立った。以降も飯伏がノアのシリーズにスポット参戦したり、[マッスル坂井](../Page/マッスル坂井.md "wikilink")の対戦相手として[森嶋猛](../Page/森嶋猛.md "wikilink")が逆にDDT参戦を果たし、更には12月9日の[新潟フェイズ](../Page/新潟フェイズ.md "wikilink")サヨナラ興行には、ノアの[三沢光晴](../Page/三沢光晴.md "wikilink")が「超大物X」としてシークレット参戦（[鈴木鼓太郎](../Page/鈴木鼓太郎.md "wikilink")とのタッグで高木&坂井組と対戦。ちなみに当初は坂井ではなく、偽沢光晴こと一宮が対戦する予定だったが、一宮が[肺気胸のため](../Page/気胸.md "wikilink")、参戦をキャンセル）を果たした。
   - 蛇界は仲間割れの末にポイズンは高木に策略で改造蛇人間ジャカイダーとなり、チビッ子の人気者になる。さらに長井がナガイダーとして再び参戦。
   - 下半期、aWoのKooがHARASHIMAからKO-D王者を奪取。怪物なみのパワーで防衛記録を伸ばすも、リベンジに燃えるHARASHIMAが激戦の末再び君臨する。
   - 往年、DDTメンバーは高木、MIKAMI、鳥羽、ポイズンによるユニット「[DDTレジェンド軍](https://ja.wikipedia.org/wiki/DDTレジェンド軍 "wikilink")」を結成。試合に勝つとMIKAMIは好きな歌を熱唱するなどやりたい放題を繰り返す。また後藤達俊がゴトウダーして参戦。
   - 抜群のチームワークを誇ったaWoが、まさかの[ディック東郷](../Page/ディック東郷.md "wikilink")の裏切り、大鷲、晴也と結託したヒールユニット「[メタルヴァンパイア](https://ja.wikipedia.org/wiki/メタルヴァンパイア "wikilink")」の誕生により解散に追い込まれた。
 
-### 2008年
+<!-- end list -->
+
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
+
+<!-- end list -->
 
   - 情けない試合でブーイングを受けたマイケルは[FIGHTING TV サムライの生放送番組](../Page/FIGHTING_TV_サムライ.md "wikilink")「[Sアリーナ](../Page/Sアリーナ.md "wikilink")」にて生契約更改が行われたが、高木の逆鱗に触れ契約書は破かれ決裂となった。
   - はぐれチームとなったaWoの本多とKooはメタル・ヴァンパイアに対して闘争心を燃やすがレフェリーの[松井幸則](../Page/松井幸則.md "wikilink")や裏切ったKooがメタルヴァンパイア入り。高木に助けられた本多は正規軍入りする。
@@ -68,7 +133,11 @@
   - [9月7日](../Page/9月7日.md "wikilink")、山梨県のキャンプ場「ネイチャーランド・オム」にて「キャンプ場プロレス」を初開催。
   - [12月28日](../Page/12月28日.md "wikilink")、後楽園ホールで開催された「NEVER MIND 2008」において[2009年](../Page/2009年.md "wikilink")8月23日に[両国国技館](../Page/両国国技館.md "wikilink")大会の開催が発表された。
 
-### 2009年
+<!-- end list -->
+
+  - [2009年](../Page/2009年.md "wikilink")
+
+<!-- end list -->
 
   - 運営会社が株式会社化。会社名は「株式会社DDTプロレスリング」。
   - [8月23日](../Page/8月23日.md "wikilink")、両国国技館で「[両国ピーターパン 〜大人になんてなれないよ〜](https://ja.wikipedia.org/wiki/両国ピーターパン_〜大人になんてなれないよ〜 "wikilink")」が開催されて、札止めとなる8,000人を越える観客が集まった。また、同大会のEDで[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[7月25日](../Page/7月25日.md "wikilink")に両国国技館大会の開催が告知された。
@@ -76,19 +145,27 @@
   - [9月13日](../Page/9月13日.md "wikilink")から[10月25日](../Page/10月25日.md "wikilink")、若手選手によるリーグ戦「[ヤングドラマ杯](https://ja.wikipedia.org/wiki/ヤングドラマ杯 "wikilink")」が開催されて[石井慧介](https://ja.wikipedia.org/wiki/石井慧介 "wikilink")が優勝。
   - [11月29日](../Page/11月29日.md "wikilink")、後楽園ホールで[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")の[石川修司](../Page/石川修司.md "wikilink")がKO-D王者の飯伏幸太を破り、傘下団体ながらKO-Dのベルトが初めてDDTから流出。また、この日行われた[監獄島](https://ja.wikipedia.org/wiki/監獄島 "wikilink")とタイアップした経営権争奪バトルロイヤルで中澤マイケルが優勝、最高経営責任者に就任。
 
-### 2010年
+### 2010年代
 
-  - [2月11日](../Page/2月11日.md "wikilink")、後楽園ホールに突然ヤゴウ公国軍を名乗る2人組がDDT壊滅を掲げ参戦して、その後ヤゴウ・アズナブルがDDT契約権を勝ち取る。その一方でヤゴウ＝矢郷さん疑惑が浮上し高木が契約に難色を示すが結局強引に契約させられる羽目になる。選手契約を結んだヤゴウは[言論弾圧](https://ja.wikipedia.org/wiki/言論弾圧 "wikilink")や、それに従わなかった[週刊プロレス](../Page/週刊プロレス.md "wikilink")に対する制裁を行い、さらに[星の屑作戦](https://ja.wikipedia.org/wiki/星の屑作戦 "wikilink")によるDDT所属選手と観客の虐殺を目論んだが犬のように捨てられたアブ＝ノーマルことマイケルの逆襲によって阻止されて実質壊滅する。
-  - KO-Dタッグを獲った高木と[澤宗紀](../Page/澤宗紀.md "wikilink")のタッグチーム「[変態大社長](https://ja.wikipedia.org/wiki/変態大社長 "wikilink")」は混沌としたインディーマットを掻き乱してチャンピオンベルトの価値を高めるべくDDT外のリングや路上でオファーがあればどことでも防衛戦を行うことを宣言。その後、DDTのスポンサーでもある宮地鉄工所の敷地内などで王座を防衛、以降、公園、商店街、駐車場、両国国技館の全域といった路上を中心に防衛を重ねていく。
-  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、後楽園ホールで[大日本プロレス](../Page/大日本プロレス.md "wikilink")の[関本大介](../Page/関本大介.md "wikilink")が当時KO-D王者の石川に勝利。関本が新王者となり、KO-D王座が初めて他団体に流出した。その後関本は高木、高梨、飯伏らから王座防衛を果たして同日にKO-D王座いつでもどこでも挑戦権を獲得した大家健から譲り受ける形で再度挑戦した石川にも勝利して両国国技館で開催された「[両国ピーターパン2010 〜夏休み ああ夏休み 夏休み〜](https://ja.wikipedia.org/wiki/両国ピーターパン2010_〜夏休み_ああ夏休み_夏休み〜 "wikilink")」に王者として登場。それに対して挑戦者決定トーナメントを勝ち上がり、大会直前に新日本プロレス道場で[真壁刀義](../Page/真壁刀義.md "wikilink")と合同練習を行った[HARASHIMA](../Page/HARASHIMA.md "wikilink")が挑戦。ベルト奪回に成功する。一方、両国国技館のメインイベントを逃した石川は大日本プロレスに報復攻撃を仕掛けるも、[デスマッチヘビー級王者の](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")[伊東竜二](../Page/伊東竜二.md "wikilink")の前に返り討ちに遭う。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
+
+<!-- end list -->
+
+  - [2月11日](../Page/2月11日.md "wikilink")、後楽園ホールに突然ヤゴウ公国軍を名乗る2人組がDDT壊滅を掲げ参戦して、その後ヤゴウ・アズナブルがDDT契約権を勝ち取る。その一方でヤゴウ＝矢郷さん疑惑が浮上し高木が契約に難色を示すが、結局強引に契約させられる羽目になる。選手契約を結んだヤゴウは[言論弾圧](https://ja.wikipedia.org/wiki/言論弾圧 "wikilink")や、それに従わなかった[週刊プロレス](../Page/週刊プロレス.md "wikilink")に対する制裁を行い、さらに[星の屑作戦](https://ja.wikipedia.org/wiki/星の屑作戦 "wikilink")によるDDT所属選手と観客の虐殺を目論んだが、犬のように捨てられたアブ＝ノーマルことマイケルの逆襲によって阻止されて実質壊滅する。
+  - KO-Dタッグを獲った高木と[澤宗紀](../Page/澤宗紀.md "wikilink")のタッグチーム「[変態大社長](https://ja.wikipedia.org/wiki/変態大社長 "wikilink")」は、混沌としたインディーマットを掻き乱してチャンピオンベルトの価値を高めるべく、DDT外のリングや路上でオファーがあればどことでも防衛戦を行うことを宣言。その後、DDTのスポンサーでもある宮地鉄工所の敷地内などで王座を防衛、以降、公園、商店街、駐車場、両国国技館の全域といった路上を中心に防衛を重ねていく。
+  - [3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink")、後楽園ホールで[大日本プロレス](../Page/大日本プロレス.md "wikilink")の[関本大介](../Page/関本大介.md "wikilink")が当時KO-D王者の石川に勝利。関本が新王者となり、KO-D王座が初めて他団体に流出した。その後関本は高木、高梨、飯伏らから王座防衛を果たし、同日にKO-D王座いつでもどこでも挑戦権を獲得した大家健から譲り受ける形で、再度挑戦した石川にも勝利して、両国国技館で開催された「[両国ピーターパン2010 〜夏休み ああ夏休み 夏休み〜](https://ja.wikipedia.org/wiki/両国ピーターパン2010_〜夏休み_ああ夏休み_夏休み〜 "wikilink")」に王者として登場。それに対して挑戦者決定トーナメントを勝ち上がり、大会直前に新日本プロレス道場で[真壁刀義](../Page/真壁刀義.md "wikilink")と合同練習を行った[HARASHIMA](../Page/HARASHIMA.md "wikilink")が挑戦。ベルト奪回に成功する。一方、両国国技館のメインイベントを逃した石川は、大日本プロレスに報復攻撃を仕掛けるも、[デスマッチヘビー級王者の](../Page/BJW認定デスマッチヘビー級王座.md "wikilink")[伊東竜二](../Page/伊東竜二.md "wikilink")の前に返り討ちに遭う。
   - 両国大会後、高木が上位入賞者に特別興行出場権やKO-D挑戦権が与えられる人気投票「DDT48総選挙」の開催を発表。1月半にわたる選挙の末、ディーノが佐藤光留との接戦を制して1位となった。
-  - 最高経営責任者制からゼネラルマネージャー制への移行を宣言して[中澤マイケル](../Page/中澤マイケル.md "wikilink")が最高経営責任者を解任するとともにゼネラルマネージャー決定戦を実施。その結果、坂井推薦の[鶴見亜門がゼネラルマネジャーに就任](../Page/今林久弥.md "wikilink")。
+  - 最高経営責任者制からゼネラルマネージャー制への移行を宣言し、[中澤マイケル](../Page/中澤マイケル.md "wikilink")が最高経営責任者を解任するとともにゼネラルマネージャー決定戦を実施。その結果、坂井推薦の[鶴見亜門がゼネラルマネジャーに就任](../Page/今林久弥.md "wikilink")。
   - KO-Dタッグ戦線はビアガーデンプロレスに「超超大物X」として参戦した[越中詩郎](../Page/越中詩郎.md "wikilink")がディーノとタッグチーム「[侍シロージロー](https://ja.wikipedia.org/wiki/侍シロージロー "wikilink")」を結成してタッグチーム「変態大社長」より王座奪取に成功する。
   - [11月14日](../Page/11月14日.md "wikilink")、大阪府立第2体育館で行われたKO-D無差別級選手権で[パンクラス](../Page/パンクラス.md "wikilink")MISSION所属の[佐藤光留](../Page/佐藤光留.md "wikilink")がHARASHIMAに勝利し形式上は他団体流出となるが、佐藤はDDTを主戦場としている\[3\]ため流出という雰囲気にはならなかった。
   - [11月28日](../Page/11月28日.md "wikilink")、後楽園ホールで行われたKO-D無差別級選手権で[ディック東郷](../Page/ディック東郷.md "wikilink")が佐藤光留を下して新王者になった。ヤングドラマ杯の決勝戦も行われ[高尾蒼馬](https://ja.wikipedia.org/wiki/高尾蒼馬 "wikilink")が優勝。またこの日を最後に高木三四郎が選手としての所属を[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")に移した。
   - [12月26日](../Page/12月26日.md "wikilink")、東郷の負傷欠場により、[GENTARO](../Page/GENTARO.md "wikilink")（[プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")）とアントーニオ本多との間でKO-D無差別級暫定王者決定戦が行われ、本多が暫定王者に。
 
-### 2011年
+<!-- end list -->
+
+  - [2011年](../Page/2011年.md "wikilink")
+
+<!-- end list -->
 
   - [1月30日](../Page/1月30日.md "wikilink")、後楽園ホールで東郷対本多の王座統一戦が行われ、ディック東郷がKO-D無差別級第35代王者に。
   - [3月27日](../Page/3月27日.md "wikilink")、後楽園ホールで[3月11日](../Page/3月11日.md "wikilink")に発生した[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")）及び[東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")・[福島第一原子力発電所](../Page/福島第一原子力発電所.md "wikilink")での[事故による](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")[電力事情悪化を受け](https://ja.wikipedia.org/wiki/東日本大震災による電力危機 "wikilink")、通常使用する映像の代替として控え室でのやりとりをリング上で行うといった[節電](../Page/節電.md "wikilink")興行を実施。またメインではKO-D無差別級王座に飯伏が挑戦。この年のFIGHTING TV サムライ「[インディーのお仕事](../Page/インディーのお仕事.md "wikilink")」制定[日本インディー大賞](https://ja.wikipedia.org/wiki/日本インディー大賞 "wikilink")ベスト興行賞・ベストバウトをダブル受賞。
@@ -98,7 +175,11 @@
   - [8月28日](../Page/8月28日.md "wikilink")、[TKG48](https://ja.wikipedia.org/wiki/TKG48 "wikilink")に対抗するプロレス界アイドルユニットとしてディーノ、[大石真翔](../Page/大石真翔.md "wikilink")、飯伏によって「[ほもいろクローバーZ](https://ja.wikipedia.org/wiki/ほもいろクローバーZ "wikilink")」が結成、後にKUDOが新メンバーとして加入。
   - [11月27日](../Page/11月27日.md "wikilink")、後楽園ホールで[ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")、本多、[火野裕士](../Page/火野裕士.md "wikilink")（[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")）、[矢野啓太](../Page/矢野啓太.md "wikilink")（[プロフェッショナルレスリング・ワラビー](https://ja.wikipedia.org/wiki/プロフェッショナルレスリング・ワラビー "wikilink")）が「[Crying Wolf](https://ja.wikipedia.org/wiki/Crying_Wolf "wikilink")」を結成。
 
-### 2012年
+<!-- end list -->
+
+  - [2012年](../Page/2012年.md "wikilink")
+
+<!-- end list -->
 
   - [3月29日](../Page/3月29日.md "wikilink")、「DDTドラマティックファンタジア」が打ち切り。4月以降同チャンネルでの放送は木曜26:00 - 28:00の再放送枠のみとなる。
   - [4月2日](../Page/4月2日.md "wikilink")、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")の[ニコニコチャンネル](https://ja.wikipedia.org/wiki/ニコニコチャンネル "wikilink")として「DDTプロレスアワー」を開設。隔週で所属選手が出演する[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")、並びに興行の中継番組が放送される。
@@ -111,7 +192,11 @@
   - [9月30日](../Page/9月30日.md "wikilink")、後楽園ホールより新ユニット活動開始。
   - [11月25日](../Page/11月25日.md "wikilink")、後楽園ホールで澤田が引退。
 
-### 2013年
+<!-- end list -->
+
+  - [2013年](../Page/2013年.md "wikilink")
+
+<!-- end list -->
 
   - [1月3日](../Page/1月3日.md "wikilink")、後楽園ホールで前年にユニオンプロレスが行った「全席2000円興行」（指定席は2500円）を開催。
   - [1月12日](../Page/1月12日.md "wikilink")、[KO-D6人タッグ王座](https://ja.wikipedia.org/wiki/KO-D6人タッグ王座 "wikilink")を創立。
@@ -126,14 +211,18 @@
       - 18日は「両国ピーターパン2013〜プロレスの傾向と対策〜」。ファッションモデルでタレントの[赤井沙希](../Page/赤井沙希.md "wikilink")プロレスデビュー。
       - 1週間前の10日と11日には新日本プロレス「[G1 CLIMAX](../Page/G1_CLIMAX.md "wikilink")」も両国2daysで開かれた（同大会には飯伏幸太が初参戦）。
   - [8月22日](../Page/8月22日.md "wikilink")、[新宿FACE](../Page/新宿FACE.md "wikilink")にて行われる「[国際プロレス最終章](../Page/国際プロレスプロモーション.md "wikilink")・ワンスアゲイン」に[FREEDOMSと共に全面協力](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")。
-  - [9月29日](../Page/9月29日.md "wikilink")、後楽園大会にて戦略発表会。2014年以降の[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")進出を宣言。そのために過去に[マッスルなどもレギュラー放送した](../Page/マッスル_\(プロレス\).md "wikilink")[TVSでの定期放送枠確保を目指すことを発表](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")。
+  - [9月29日](../Page/9月29日.md "wikilink")、後楽園大会にて戦略発表会。2014年以降の[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")進出を宣言。そのために過去に[マッスルなどもレギュラー放送した](../Page/マッスル_\(プロレス\).md "wikilink")[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")での定期放送枠確保を目指すことを発表。
 
-### 2014年
+<!-- end list -->
+
+  - [2014年](../Page/2014年.md "wikilink")
+
+<!-- end list -->
 
   - [1月3日](../Page/1月3日.md "wikilink")、前年に続き後楽園ホールで全席2000円興行を開催。
   - [1月12日](../Page/1月12日.md "wikilink")と13日、大阪・[道頓堀アリーナ](https://ja.wikipedia.org/wiki/道頓堀アリーナ "wikilink")にて2DAYS興行を開催。
   - [1月26日](../Page/1月26日.md "wikilink")、ブラウザゲーム「[リング☆ドリーム 女子プロレス大戦](https://ja.wikipedia.org/wiki/リング☆ドリーム_女子プロレス大戦 "wikilink")」とのコラボレーション実施を発表。\[5\]
-  - 同月、佐々木大輔が所属選手に。佐藤光留はレギュラー契約を更新しなかったがユニオンにはフリーとして参戦する他にハードヒットも継続。
+  - 同月、[佐々木大輔が所属選手に](../Page/佐々木大輔_\(プロレスラー\).md "wikilink")。佐藤光留はレギュラー契約を更新しなかったが、ユニオンにはフリーとして参戦する他にハードヒットも継続。
   - [2月19日](../Page/2月19日.md "wikilink")、「アップアップDDT（仮）〜[アップアップガールズ（仮）](https://ja.wikipedia.org/wiki/アップアップガールズ（仮） "wikilink") vs ほもいろクローバーZ、アイドルvsプロレス異種対バン戦Vol.1〜」を新宿FACEで開催。
   - [2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、後楽園ホールを最後に柿本大地が退団。ドロップキックの店長も[木高イサミ](../Page/木高イサミ.md "wikilink")と交代となる。
   - 4月、サムライTVで月1回のオンエアとなる「DDTのプロレスバンザイ＼(^o^)／」と毎週水曜日テレ玉にて中継番組「[DDTプロレス中継 さいたまースラム\!](https://ja.wikipedia.org/wiki/DDTプロレス中継_さいたまースラム! "wikilink")」の放送開始\[6\]。
@@ -158,11 +247,15 @@
   - [11月28日](../Page/11月28日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")で新プロジェクト「[DDT NEW ATTITUDE](https://ja.wikipedia.org/wiki/DDT_NEW_ATTITUDE "wikilink")」の旗揚げ戦を開催。
   - [12月8日](../Page/12月8日.md "wikilink")、初期のDDT現場監督だった木村浩一郎が[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")に逝去したことから、かつての所属及び参戦メンバーだった選手が所属する[アパッチプロレス軍](../Page/アパッチプロレス軍.md "wikilink")及び[プロレスリングFREEDOMS](https://ja.wikipedia.org/wiki/プロレスリングFREEDOMS "wikilink")と協力して「木村浩一郎追悼興行」を新木場1stRINGで開催。
 
-### 2015年
+<!-- end list -->
+
+  - [2015年](../Page/2015年.md "wikilink")
+
+<!-- end list -->
 
   - [1月14日](../Page/1月14日.md "wikilink")、女性を対象とするDDTプロレス教室開校を発表。27日に大石とチェリーが講師の無料体験会を行う。
   - [2月15日](../Page/2月15日.md "wikilink")、さいたまスーパーアリーナコ ミュニティーアリーナ進出。興行名は「[さいたまスーパーDDT2015](https://ja.wikipedia.org/wiki/さいたまスーパーDDT2015 "wikilink")」。また[キング・オブ・ダーク王座](https://ja.wikipedia.org/wiki/キング・オブ・ダーク王座 "wikilink")を創立。
-  - [2月16日](../Page/2月16日.md "wikilink")、マッスル坂井が監督を務める「劇場版プロレスキャノンボール2014」が公開。DDTの選手はもちろん鈴木みのるや葛西純も出演。
+  - [2月16日](../Page/2月16日.md "wikilink")、マッスル坂井が監督を務める「劇場版プロレスキャノンボール2014」が公開。DDTの選手はもちろん[鈴木みのる](../Page/鈴木みのる.md "wikilink")や[葛西純](../Page/葛西純.md "wikilink")も出演。
   - [3月21日](../Page/3月21日.md "wikilink")、春日部ふれあいキューブで会場全体を使った初のビッグマッチを開催。
   - [3月30日](../Page/3月30日.md "wikilink")、[ヴィレッジヴァンガードでDDT関連のグッズが販売されることが決定](../Page/ヴィレッジヴァンガード_\(書籍・雑貨店\).md "wikilink")。渋谷の宇田川店と京都の新京極店の2店舗でまずは販売される予定。
   - 4月中旬の契約更改で美月凛音が契約満了で退団。
@@ -179,7 +272,11 @@
   - [11月28日](../Page/11月28日.md "wikilink")、[大阪府立体育会館](../Page/大阪府立体育会館.md "wikilink")第1競技場進出。興行名は「[大阪オクトパス2015](https://ja.wikipedia.org/wiki/大阪オクトパス2015 "wikilink")」\[8\]。
   - [12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")、九州初のビッグマッチとして[博多スターレーン](../Page/博多スターレーン.md "wikilink")を全面使用。興行名は「DDTスーパースターレーン」。
 
-### 2016年
+<!-- end list -->
+
+  - [2016年](../Page/2016年.md "wikilink")
+
+<!-- end list -->
 
   - [2月19日](../Page/2月19日.md "wikilink")、事務所を現在のアパホテル新宿御苑前に移転\[9\]。
   - [3月21日](../Page/3月21日.md "wikilink")、両国国技館大会「[Judgement2016〜DDT旗揚げ19周年記念大会〜](https://ja.wikipedia.org/wiki/Judgement2016〜DDT旗揚げ19周年記念大会〜 "wikilink")」を開催。同所での大会としては初めて客席を全面開放。
@@ -192,7 +289,11 @@
   - [11月20日](../Page/11月20日.md "wikilink")、海外初となる興行を台湾で開催。「[ニトリ](../Page/ニトリ.md "wikilink")台湾」が同大会の冠スポンサーを務める。
   - [12月4日](../Page/12月4日.md "wikilink")、大阪府立体育会館第1競技場を開催。興行名は「大阪オクトパス2016～浪花節だよプロレスは～」
 
-### 2017年
+<!-- end list -->
+
+  - [2017年](../Page/2017年.md "wikilink")
+
+<!-- end list -->
 
   - [3月20日](../Page/3月20日.md "wikilink")、旗揚げ20周年興行を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink") メインアリーナで開催。
   - [5月28日](../Page/5月28日.md "wikilink")、後楽園ホール大会を持ってヤス・ウラノがフリー転向のため退団。
@@ -202,7 +303,11 @@
   - [9月19日](../Page/9月19日.md "wikilink")、プロレス不毛の地「徳島」初上陸。
   - [12月21日](../Page/12月21日.md "wikilink")、サイバーエージェント本社内にて「DDT VS サイバーエージェント 路上プロレス－男色死亡遊戯－」を[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")限定で生配信した。
 
-### 2018年
+<!-- end list -->
+
+  - [2018年](../Page/2018年.md "wikilink")
+
+<!-- end list -->
 
   - [3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、旗揚げ21周年興行を両国国技館大会で開催。
   - [4月11日](../Page/4月11日.md "wikilink")、AbemaTV格闘チャンネルにてレギュラー中継「[DDT LIVE\! マジ卍](https://ja.wikipedia.org/wiki/DDT_LIVE!_マジ卍 "wikilink")」開始。
@@ -215,7 +320,11 @@
   - [10月21日](../Page/10月21日.md "wikilink")、両国国技館大会を開催。
   - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、「[DDT LIVE\! マジ卍](https://ja.wikipedia.org/wiki/DDT_LIVE!_マジ卍 "wikilink")」が終了、2019年1月3日より「DDT LIVE\! マジ卍超(スーパー)」としてリニューアル後再開予定。
 
-### 2019年
+<!-- end list -->
+
+  - [2019年](../Page/2019年.md "wikilink")
+
+<!-- end list -->
 
   - [2月17日](../Page/2月17日.md "wikilink")、両国国技館大会を開催。
   - 3月、御茶ノ水に道場を移転。
@@ -224,12 +333,16 @@
   - [7月15日](../Page/7月15日.md "wikilink")、夏のビッグマッチを[大田区総合体育館](https://ja.wikipedia.org/wiki/大田区総合体育館 "wikilink")で開催。
   - [7月21日](../Page/7月21日.md "wikilink")、後楽園大会をもって[梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")が家業を継ぐため退団。
   - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、両国国技館大会を開催。
-  - [11月8日](../Page/11月8日.md "wikilink")、島谷常寛が退団。
+  - [11月8日](../Page/11月8日.md "wikilink")、[島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")が退団。
 
-### 2020年
+### 2020年代
+
+  - [2020年](../Page/2020年.md "wikilink")
+
+<!-- end list -->
 
   - [1月29日](../Page/1月29日.md "wikilink")、[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")の発行済み株式100%を[サイバーエージェント](https://ja.wikipedia.org/wiki/サイバーエージェント "wikilink")に譲渡。高木がノアの社長に就任。
-  - 5月9日、全日本プロレスの秋山準がDDTのゲストコーチに就任。「DDTの選手に王道を叩き込む」と宣言し、若手の育成の他、自身も選手として参戦していくことを発表する。
+  - 5月9日、全日本プロレスの[秋山準](../Page/秋山準.md "wikilink")がDDTのゲストコーチに就任。「DDTの選手に王道を叩き込む」と宣言し、若手の育成の他、自身も選手として参戦していくことを発表する。
   - 5月12日、動画配信サービス「DDT UNIVERSE」を「WRESTLE UNIVERSE」に名称変更。\[14\]
   - 7月1日、秋山準がDDTにレンタル移籍。
   - 7月27日、株式会社DDTプロレスリング、ノア・グローバルエンタテインメント株式会社、株式会社DDTフーズの3社経営統合を発表\[15\]。9月より、株式会社CyberFightの運営するブランドとなる\[16\]。
@@ -258,7 +371,7 @@
     [ザ・グレート・サスケ](../Page/ザ・グレート・サスケ.md "wikilink")を中心に交流しており、2009年DDT両国大会でサスケが高木と一騎討ちを行った。また、「プロレスキャノンボール2014」にサスケやバラモン兄弟のほかにも[かめっしー](../Page/野橋太郎.md "wikilink")、[郡司歩](https://ja.wikipedia.org/wiki/郡司歩 "wikilink")、[日向寺塁](https://ja.wikipedia.org/wiki/日向寺塁 "wikilink")、[佐々木大地](https://ja.wikipedia.org/wiki/佐々木大地_\(プロレスラー\) "wikilink")、[新崎人生](../Page/新崎人生.md "wikilink")、[気仙沼二郎](../Page/気仙沼二郎.md "wikilink")が参戦。
   - [大阪プロレス](../Page/大阪プロレス.md "wikilink")
     [タイガースマスクが男色ディーノと学生プロレス時代より因縁を持ち](../Page/丸山敦.md "wikilink")、DDT大阪大会に参戦。くいしんぼう仮面なども大阪大会によく参戦する。また、ディーノに加え大阪出身の高木と大石真翔も大阪プロレスに参戦経験あり。
-  - [DRAGONGATE](https://ja.wikipedia.org/wiki/DRAGONGATE "wikilink")
+  - [DRAGONGATE](https://ja.wikipedia.org/wiki/DRAGON_GATE "wikilink")
     2007年4月18日に新宿FACEでDRAGONGATEとの合同興行「[DDG](https://ja.wikipedia.org/wiki/DDG_\(プロレス興行\) "wikilink")」を開催。2008年4月6日に後楽園ホールでDRAGONGATEとの合同興行「DDG」を開催。[戸澤アキラ対男色ディーノ戦はある意味話題に上がった](../Page/戸澤陽.md "wikilink")。その後、交流が一時途絶えた。しかし2012年にCIMAの[Twitter](../Page/Twitter.md "wikilink")が縁で[高木三四郎](../Page/高木三四郎.md "wikilink")が初参戦している。2012年6月5日に東成区民センターでDRAGON GATEとの合同興行「DDG」を開催。
   - [2AW](https://ja.wikipedia.org/wiki/2AW "wikilink")（旧：[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")）
     GPWAに加盟団体として交流する一方、BJWともども「天下三分の計」などで連携。大石やウラノ、木高が元所属。また[火野裕士](../Page/火野裕士.md "wikilink")が以前レギュラー参戦しており、KO-D無差別級王座とKO-Dタッグ王座を戴冠した。現K-DOJO所属の[バンビはDDTでプロレスデビューしており](../Page/バンビ_\(プロレスラー\).md "wikilink")、2009年DDT両国国技館大会に「公認凶器」として参戦を果たした。[旭志織](../Page/旭志織.md "wikilink")もDDT EXTREME級王座の戴冠歴がある。
@@ -425,7 +538,7 @@
 ## タイトルホルダー
 
 <table>
-<caption><strong>DDTプロレスリングが管理している王座</strong></caption>
+<caption><strong>DDTプロレスリングの王座</strong></caption>
 <thead>
 <tr class="header">
 <th><p>タイトル</p></th>
@@ -441,7 +554,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/遠藤哲哉" title="wikilink">遠藤哲哉</a></p></td>
 <td><p>第75代</p></td>
 <td><p>2</p></td>
-<td></td>
+<td><p><a href="../Page/佐々木大輔_(プロレスラー).md" title="wikilink">佐々木大輔</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-Dタッグ王座" title="wikilink">KO-Dタッグ王座</a></p></td>
@@ -449,7 +562,8 @@
 <a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 <td><p>第67代</p></td>
 <td><p>6</p></td>
-<td></td>
+<td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a><br />
+<a href="https://ja.wikipedia.org/wiki/ドリュー・パーカー" title="wikilink">ドリュー・パーカー</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D6人タッグ王座" title="wikilink">KO-D6人タッグ王座</a></p></td>
@@ -457,10 +571,8 @@
 <a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a><br />
 <a href="../Page/赤井沙希.md" title="wikilink">赤井沙希</a></p></td>
 <td><p>第41代</p></td>
-<td><p>1</p></td>
-<td><p><a href="../Page/男色ディーノ.md" title="wikilink">男色ディーノ</a><br />
-<a href="https://ja.wikipedia.org/wiki/立花誠吾" title="wikilink">立花誠吾</a><br />
-<a href="https://ja.wikipedia.org/wiki/世志琥" title="wikilink">世志琥</a></p></td>
+<td><p>2</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D10人タッグ王座" title="wikilink">KO-D10人タッグ王座</a></p></td>
@@ -477,15 +589,15 @@
 <td><p><a href="../Page/DDT_UNIVERSAL王座.md" title="wikilink">DDT UNIVERSAL王座</a></p></td>
 <td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a></p></td>
 <td><p>第3代</p></td>
+<td><p>1</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドリュー・パーカー" title="wikilink">ドリュー・パーカー</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
 <td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
 <td><p>第48代</p></td>
 <td><p>4</p></td>
-<td></td>
+<td><p><a href="../Page/アントーニオ本多.md" title="wikilink">アントーニオ本多</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
@@ -496,7 +608,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/O-40王座" title="wikilink">O-40王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ゴージャス松野" title="wikilink">ゴージャス松野</a></p></td>
+<td><p><a href="../Page/ゴージャス松野.md" title="wikilink">ゴージャス松野</a></p></td>
 <td><p>第2代</p></td>
 <td><p>2</p></td>
 <td></td>
@@ -504,35 +616,14 @@
 </tbody>
 </table>
 
-  - DDTプロレスリングで過去に存在した王座
-
-<!-- end list -->
-
-  - [大森夢フェア認定世界大森級王座](https://ja.wikipedia.org/wiki/大森夢フェア認定世界大森級王座 "wikilink")\[22\]
-  - [世界ミッドブレス級王座](https://ja.wikipedia.org/wiki/世界ミッドブレス級王座 "wikilink")
-  - [JET世界ジェット級王座](https://ja.wikipedia.org/wiki/JET世界ジェット級王座 "wikilink")
-  - [GAY世界アナル級王座](https://ja.wikipedia.org/wiki/GAY世界アナル級王座 "wikilink")
-  - [梅村パソコン塾認定コピー&ペースト級王座](https://ja.wikipedia.org/wiki/梅村パソコン塾認定コピー&ペースト級王座 "wikilink")
-  - [ウチコミ\!無差別級アルティメット王座](https://ja.wikipedia.org/wiki/ウチコミ!無差別級アルティメット王座 "wikilink")
-  - [遠野無差別級王座](https://ja.wikipedia.org/wiki/遠野無差別級王座 "wikilink")
-  - [日本海6人タッグ王座](https://ja.wikipedia.org/wiki/日本海6人タッグ王座 "wikilink")
-  - [自由が丘広小路会認定6人タッグ王座](https://ja.wikipedia.org/wiki/自由が丘6人タッグ王座 "wikilink")
-  - [キング・オブ・ダーク王座](https://ja.wikipedia.org/wiki/キング・オブ・ダーク王座 "wikilink")
-
 | タイトル                                                                            | 覇者                                                    | 年代    |
 | ------------------------------------------------------------------------------- | ----------------------------------------------------- | ----- |
 | [D王 GRAND PRIX](https://ja.wikipedia.org/wiki/D王_GRAND_PRIX "wikilink")         | [田中将斗](../Page/田中将斗.md "wikilink")                    | 2020年 |
 | [KING OF DDTトーナメント](https://ja.wikipedia.org/wiki/KING_OF_DDTトーナメント "wikilink") | [遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink") | 2020年 |
 
-**DDTプロレスリングが開催しているリーグ戦、トーナメント戦**
+**DDTプロレスリングが開催しているトーナメント戦、リーグ戦**
 
-  - DDTプロレスリングで過去に開催したリーグ戦
-
-<!-- end list -->
-
-  - [ヤングドラマ杯](https://ja.wikipedia.org/wiki/ヤングドラマ杯 "wikilink")
-
-## 所属選手、主要参戦選手
+## 所属選手・主要参戦選手
 
 ### DISASTER BOX
 
@@ -560,7 +651,7 @@
 
 <!-- end list -->
 
-  - [\#STRONGHEARTS](https://ja.wikipedia.org/wiki/STRONGHEARTS "wikilink")\[23\]
+  - [\#STRONGHEARTS](https://ja.wikipedia.org/wiki/STRONGHEARTS "wikilink")\[22\]
 
 <!-- end list -->
 
@@ -602,7 +693,7 @@
 
   - [高木三四郎](../Page/高木三四郎.md "wikilink")
   - [KUDO](../Page/KUDO.md "wikilink")（欠場中）
-  - [ゴージャス松野](https://ja.wikipedia.org/wiki/ゴージャス松野 "wikilink")（限定参戦）
+  - [ゴージャス松野](../Page/ゴージャス松野.md "wikilink")（限定参戦）
   - [男色ディーノ](../Page/男色ディーノ.md "wikilink")
   - [スーパー・ササダンゴ・マシン](../Page/マッスル坂井.md "wikilink")（[松竹芸能](../Page/松竹芸能.md "wikilink")兼任所属）（限定参戦）
   - [中澤マイケル](../Page/中澤マイケル.md "wikilink")（[AEW兼任所属](https://ja.wikipedia.org/wiki/オール・エリート・レスリング "wikilink")）（限定参戦）
@@ -622,11 +713,11 @@
   - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")（フリー）
   - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink")（フリー）
 
-## フリー、他団体参戦選手
+## フリー・団体参戦選手
 
-2020年から参戦した選手のみ列記。
+※2020年に参戦した選手のみ
 
-### プロレスラー
+### 男子選手
 
   - フリー
 
@@ -737,7 +828,7 @@
 
   - [木高イサミ](../Page/木高イサミ.md "wikilink")
 
-### 女子プロレスラー
+### 女子選手
 
   - フリー
 
@@ -755,6 +846,14 @@
 <!-- end list -->
 
   - [里歩](../Page/里歩.md "wikilink")
+
+<!-- end list -->
+
+  - [SEAdLINNNG](https://ja.wikipedia.org/wiki/SEAdLINNNG "wikilink")
+
+<!-- end list -->
+
+  - [世志琥](https://ja.wikipedia.org/wiki/世志琥 "wikilink")
 
 <!-- end list -->
 
@@ -789,9 +888,7 @@
 
   - [朱里](https://ja.wikipedia.org/wiki/朱里 "wikilink")
 
-## 来日外国人選手
-
-2020年から参戦した選手のみ列記。
+### 外国人選手
 
   - [大日本プロレス](../Page/大日本プロレス.md "wikilink")
 
@@ -821,7 +918,7 @@
 ### リングアナウンサー
 
   - [井上マイク](https://ja.wikipedia.org/wiki/井上マイク "wikilink")
-  - [小菅一範](https://ja.wikipedia.org/wiki/小菅一範 "wikilink")
+  - [小菅一範](https://ja.wikipedia.org/wiki/小菅一範 "wikilink")（バグタス）
 
 ### 臨時ゼネラルマネージャー
 
@@ -829,7 +926,7 @@
 
 ### アシスタントプロデューサー
 
-  - [今林久弥](../Page/今林久弥.md "wikilink")（[双数姉妹](https://ja.wikipedia.org/wiki/双数姉妹 "wikilink")）
+  - [今林久弥](../Page/今林久弥.md "wikilink")（広報兼任）
 
 ### 映像班
 
@@ -840,46 +937,19 @@
 
   - [歌代総統](https://ja.wikipedia.org/wiki/歌代総統 "wikilink")
 
-## DDTプロレスリングの別ブランド所属選手
+## 役員
 
-### ガンバレ☆プロレス
+  - 株式会社CyberFight
 
-  - [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")
-  - [勝村周一朗](../Page/勝村周一朗.md "wikilink")（[リバーサルジム横浜グランドスラム](https://ja.wikipedia.org/wiki/リバーサルジム横浜グランドスラム "wikilink")兼任所属）
-  - [翔太](https://ja.wikipedia.org/wiki/翔太_\(プロレスラー\) "wikilink")
-  - [石井慧介](https://ja.wikipedia.org/wiki/石井慧介 "wikilink")
-  - [今成夢人](https://ja.wikipedia.org/wiki/今成夢人 "wikilink")（DDTプロレスリング兼任所属）
-  - [HARUKAZE](https://ja.wikipedia.org/wiki/加藤悠 "wikilink")
-  - [岩崎孝樹](https://ja.wikipedia.org/wiki/岩崎孝樹 "wikilink")
-  - [桜井鷲](https://ja.wikipedia.org/wiki/鷲田周平 "wikilink")
+<!-- end list -->
 
-### 東京女子プロレス
+  - 代表取締役社長 : [高木規](../Page/高木三四郎.md "wikilink")
+  - 取締役副社長 : [丸藤正道](../Page/丸藤正道.md "wikilink")
+  - 取締役副社長 : [西垣彰人](https://ja.wikipedia.org/wiki/彰人 "wikilink")
+  - 取締役 : [山内隆裕](https://ja.wikipedia.org/wiki/山内隆裕 "wikilink")
+  - 取締役 : 武田有弘
 
-  - [山下実優](https://ja.wikipedia.org/wiki/山下実優 "wikilink")
-  - [中島翔子](https://ja.wikipedia.org/wiki/中島翔子 "wikilink")
-  - [坂崎ユカ](https://ja.wikipedia.org/wiki/坂崎ユカ "wikilink")
-  - [辰巳リカ](https://ja.wikipedia.org/wiki/辰巳リカ "wikilink")
-  - [沙希様](../Page/赤井沙希.md "wikilink")
-  - [ハイパーミサヲ](https://ja.wikipedia.org/wiki/ハイパーミサヲ "wikilink")
-  - [天満のどか](https://ja.wikipedia.org/wiki/のどかおねえさん "wikilink")
-  - [小橋マリカ](https://ja.wikipedia.org/wiki/小橋マリカ "wikilink")
-  - [愛野ユキ](https://ja.wikipedia.org/wiki/愛野ユキ "wikilink")
-  - [猫はるな](https://ja.wikipedia.org/wiki/猫はるな "wikilink")
-  - [原宿ぽむ](https://ja.wikipedia.org/wiki/原宿ぽむ "wikilink")
-  - [うなぎひまわり](https://ja.wikipedia.org/wiki/うなぎひまわり "wikilink")
-  - [桐生真弥](https://ja.wikipedia.org/wiki/桐生真弥 "wikilink")
-  - [舞海魅星](https://ja.wikipedia.org/wiki/舞海魅星 "wikilink")
-  - [鈴芽](https://ja.wikipedia.org/wiki/鈴芽 "wikilink")
-  - [汐凛セナ](../Page/汐凛セナ.md "wikilink")
-  - [宮本もか](../Page/宮本もか.md "wikilink")
-
-## DDTプロレスリングの別ブランドスタッフ
-
-### 東京女子プロレス
-
-  - [滝川あずさ](https://ja.wikipedia.org/wiki/滝川あずさ "wikilink")（広報）
-
-## 過去の所属選手
+## 歴代所属選手
 
   - [野沢一茂](../Page/NOSAWA論外.md "wikilink")（現：NOSAWA論外）
   - [佐々木貴](../Page/佐々木貴.md "wikilink")
@@ -927,7 +997,7 @@
   - [梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
 
-## 過去のスタッフ
+## 歴代スタッフ
 
   - [ジャッジ金子](../Page/ジャッジ金子.md "wikilink")（レフェリー）
   - [新藤力也](../Page/新藤力也.md "wikilink")（リングアナウンサー）
@@ -965,7 +1035,7 @@
 
 <!-- end list -->
 
-  - DDTプロレスリング（[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")、[サムライ2](../Page/FIGHTING_TV_サムライ.md "wikilink")）
+  - DDTプロレスリング中継\[23\]（[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")）
 
 <!-- end list -->
 
@@ -973,8 +1043,8 @@
 
 <!-- end list -->
 
-  - [DDTドラマティックファンタジア](../Page/DDTドラマティックファンタジア.md "wikilink")Returns（旧：DDTドラマティックファンタジア）（FIGHTING TV サムライ、サムライ2）
-  - [DDTプロレス中継 さいたまースラム\!](https://ja.wikipedia.org/wiki/DDTプロレス中継_さいたまースラム! "wikilink")（[TVS](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
+  - [DDTドラマティックファンタジア → DDTドラマティックファンタジアReturns](../Page/DDTドラマティックファンタジア.md "wikilink")（FIGHTING TV サムライ、サムライ2）
+  - [DDTプロレス中継 さいたまースラム\!](https://ja.wikipedia.org/wiki/DDTプロレス中継_さいたまースラム! "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）
 
 ## 関連番組
 
@@ -984,7 +1054,7 @@
 
   - [DDTアーカイブス](https://ja.wikipedia.org/wiki/DDTアーカイブス "wikilink")（[FIGHTING TV サムライ](../Page/FIGHTING_TV_サムライ.md "wikilink")）
   - [DDTの木曜The NIGHT](https://ja.wikipedia.org/wiki/The_NIGHT "wikilink")（[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")）
-  - [DDT LIVE\! マジ卍超](https://ja.wikipedia.org/wiki/DDT_LIVE!_マジ卍 "wikilink")（旧：DDT LIVE\! マジ卍）（AbemaTV）
+  - [DDT LIVE\! マジ卍 → DDT LIVE\! マジ卍超](https://ja.wikipedia.org/wiki/DDT_LIVE!_マジ卍 "wikilink")（AbemaTV）
 
 <!-- end list -->
 
@@ -1023,19 +1093,18 @@
 | [Ultimate Party 2019〜DDTグループ大集合\!〜](https://ja.wikipedia.org/wiki/Ultimate_Party_2019〜DDTグループ大集合!〜 "wikilink")        | 2019年11月3日  | 両国国技館                                                                 | 5,869人   |
 | [WRESTLE PETER PAN 2020【DAY1】](../Page/WRESTLE_PETER_PAN_2020【DAY1】.md "wikilink")                                    | 2020年6月6日   | DDT TV SHOWスタジオ                                                       | 0人\[24\] |
 | [WRESTLE PETER PAN 2020【DAY2】](../Page/WRESTLE_PETER_PAN_2020【DAY2】.md "wikilink")                                    | 2020年6月7日   | 0人\[25\]                                                              |          |
+| [Ultimate Party 2020](https://ja.wikipedia.org/wiki/Ultimate_Party_2020 "wikilink")                                   | 2020年11月3日  | 大田区総合体育館                                                              |          |
 
-## DDTプロレスリング芸能部
+## プロレス以外の事業
 
-所属タレントは所属選手、スタッフ、別ブランド所属選手、別ブランドスタッフ。
+### DDTフーズ
 
-## DDTフーズ
+飲食事業部門。2016年10月23日、運営会社を「株式会社えびすこ」から「株式会社DDTフーズ」へ社名変更し、[KUDO](../Page/KUDO.md "wikilink")が代表取締役社長に就任することを発表。2020年9月1日に株式会社DDTプロレスリング、ノア・グローバルエンタテインメント株式会社、株式会社DDTフーズの3社が経営統合し、「株式会社CyberFight」を設立\[26\]。
 
-飲食店を運営しているDDTのグループ会社。代表取締役社長は[KUDO](../Page/KUDO.md "wikilink")。
-
-### 開店中の店
+#### 開店中の店
 
   - プロレス&スポーツBar ドロップキック
-    [2007年](../Page/2007年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")にスポーツバーを開店。
+    2007年7月27日、[東京都](../Page/東京都.md "wikilink")[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")[歌舞伎町](../Page/歌舞伎町.md "wikilink")にスポーツバーを開店。
 
 <!-- end list -->
 
@@ -1045,7 +1114,7 @@
 <!-- end list -->
 
   - エビスコ酒場
-    [2009年](../Page/2009年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")、東京都新宿区歌舞伎町に居酒屋を開店。「[エビスコ](../Page/えびすこ.md "wikilink")」は大相撲の隠語で「大食い」。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月、外部招聘の店長が売上金250万円の横領により解雇。[2014年](../Page/2014年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")、メニューのレバブツによる食中毒事件が発生して[4月25日](../Page/4月25日.md "wikilink")から[5月1日](../Page/5月1日.md "wikilink")までの営業停止の行政処分を受けた。
+    2009年12月7日、東京都新宿区歌舞伎町に居酒屋を開店。「[エビスコ](../Page/えびすこ.md "wikilink")」は大相撲の隠語で「大食い」。2010年3月、外部招聘の店長が売上金250万円の横領により解雇。[2014年](../Page/2014年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink")、メニューのレバブツによる食中毒事件が発生して4月25日から5月1日までの営業停止の行政処分を受けた。
 
 <!-- end list -->
 
@@ -1055,17 +1124,17 @@
 <!-- end list -->
 
   - Bar Lounge SWANDIVE
-    [2016年](../Page/2016年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink")、東京都新宿区にバーを開店。
+    2016年2月23日、東京都新宿区にバーを開店。
 
 <!-- end list -->
 
   - 店長 : [井上マイク](https://ja.wikipedia.org/wiki/井上マイク "wikilink")
   - スタッフ : 石黒淳士、[紺乃美鶴](https://ja.wikipedia.org/wiki/紺乃美鶴 "wikilink")、[清水愛](../Page/清水愛.md "wikilink")、渡瀬瑞基、[遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink")
 
-### 閉店した店
+#### 閉店した店
 
   - DDTステーキ
-    東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[三崎町にステーキハウス専門店を開店](https://ja.wikipedia.org/wiki/三崎町_\(千代田区\) "wikilink")。[2006年](../Page/2006年.md "wikilink")[5月28日](../Page/5月28日.md "wikilink")、オーナーの交代により閉店。
+    東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[三崎町にステーキハウス専門店を開店](https://ja.wikipedia.org/wiki/三崎町_\(千代田区\) "wikilink")。2006年5月28日、オーナーの交代により閉店。
 
 <!-- end list -->
 
@@ -1074,7 +1143,7 @@
 <!-- end list -->
 
   - フレンチカレーミツボシ
-    [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月28日](../Page/11月28日.md "wikilink")、東京都[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")にカレーライス専門店を開店。2010年[11月28日](../Page/11月28日.md "wikilink")、店長の猪熊裕介が料理人としての向上、プロレスラーとして復帰のためミツボシを卒業して後述のニコニコカレーにリニューアルして開店。
+    2008年11月28日、東京都[中野区](https://ja.wikipedia.org/wiki/中野区 "wikilink")にカレーライス専門店を開店。2010年11月28日、店長の猪熊裕介が料理人としての向上、プロレスラーとして復帰のためミツボシを卒業して後述のニコニコカレーにリニューアルして開店。
 
 <!-- end list -->
 
@@ -1083,16 +1152,26 @@
 <!-- end list -->
 
   - ニコニコカレー
-    2010年[12月10日](../Page/12月10日.md "wikilink")、フレンチカレーミツボシをリニューアルして開店。[2011年](../Page/2011年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")、店舗の賃貸契約満了により閉店。
+    2010年12月10日、フレンチカレーミツボシをリニューアルして開店。2011年7月24日、店舗の賃貸契約満了により閉店。
 
 <!-- end list -->
 
   - 店長 : チェリー
   - 副店長 : [木曽大介](https://ja.wikipedia.org/wiki/木曽大介 "wikilink")
 
-## ベストストレッチ
+### ベストストレッチ
 
-DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に[代々木上原店を開店](https://ja.wikipedia.org/wiki/代々木上原駅 "wikilink")。トレーナーは[風戸大智](https://ja.wikipedia.org/wiki/風戸大智 "wikilink")。[2013年](../Page/2013年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")、[千葉県](../Page/千葉県.md "wikilink")に[柏店が開店](https://ja.wikipedia.org/wiki/柏市 "wikilink")。トレーナーは[諸橋晴也](../Page/諸橋晴也.md "wikilink")。[2016年](../Page/2016年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")、東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に[新宿御苑前店と](https://ja.wikipedia.org/wiki/新宿御苑前駅 "wikilink")**新宿ぎょえん整骨院&新宿ぎょえん鍼灸治療院**を開店。トレーナーは[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")、新宿ぎょえん院長は[松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")。[10月31日](../Page/10月31日.md "wikilink")、柏店が閉店。新宿御苑前店と新宿ぎょえんが業務統合。[2018年](../Page/2018年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")、新宿ぎょえん整骨院店が閉店。[2019年](../Page/2019年.md "wikilink")1月、代々木上原店の営業権を風戸に譲渡\[26\]。
+ストレッチ専門店。2012年から2018年までDDTの関連部門として運営。
+
+  - 2012年9月3日、[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")に[代々木上原店を開店](https://ja.wikipedia.org/wiki/代々木上原駅 "wikilink")。トレーナーは[風戸大智](https://ja.wikipedia.org/wiki/風戸大智 "wikilink")。
+  - 2013年4月8日、[千葉県](../Page/千葉県.md "wikilink")に[柏店が開店](https://ja.wikipedia.org/wiki/柏市 "wikilink")。トレーナーは[諸橋晴也](../Page/諸橋晴也.md "wikilink")。
+  - 2016年4月15日、東京都[新宿区](https://ja.wikipedia.org/wiki/新宿区 "wikilink")に[新宿御苑前店と](https://ja.wikipedia.org/wiki/新宿御苑前駅 "wikilink")**新宿ぎょえん整骨院&新宿ぎょえん鍼灸治療院**を開店。トレーナーは[勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")、新宿ぎょえん院長は[松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")。同年10月31日、柏店が閉店。新宿御苑前店と新宿ぎょえんが業務統合。
+  - 2018年6月30日、新宿ぎょえん整骨院店が閉店。
+  - 2019年1月、代々木上原店の営業権を風戸大智に譲渡\[27\]。
+
+### DDT芸能部
+
+DDTグループの選手およびスタッフの芸能活動の窓口として「芸能部」を設けた。2009年10月「株式会社STF」を設立し、代表取締役は嶋田信一郎が務めた。その後、DDTの内部組織として統合された。
 
 ## 同人誌
 
@@ -1141,36 +1220,72 @@ DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikil
 <!-- end list -->
 
   -
-    [2019年](../Page/2019年.md "wikilink")10月より放送されていたテレビアニメ。DDTプロレスリングが制作に協力しており、放送に先駆けて公開された実写プロモーションビデオならびにオープニング曲「 闘魂（ファイト）\! ケモナーマスク」のプロモーションビデオにHARASHIMA（ケモナーマスク役）と[MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（MAO（マカデミアンオーガ）役\[27\]）で出演。[AT-Xや動画配信サービスでは各話放送後に](../Page/アニメシアターX.md "wikilink")[スーパー・ササダンゴ・マシンなど所属選手がその日の放送回に登場したプロレス技を実写で再現するミニコーナー](../Page/マッスル坂井.md "wikilink")「今週のけものみち」が放送・配信されていた。
+    [2019年](../Page/2019年.md "wikilink")10月より放送されていたテレビアニメ。DDTプロレスリングが制作に協力しており、放送に先駆けて公開された実写プロモーションビデオならびにオープニング曲「 闘魂（ファイト）\! ケモナーマスク」のプロモーションビデオにHARASHIMA（ケモナーマスク役）と[MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（MAO（マカデミアンオーガ）役\[28\]）で出演。[AT-Xや動画配信サービスでは各話放送後に](../Page/アニメシアターX.md "wikilink")[スーパー・ササダンゴ・マシンなど所属選手がその日の放送回に登場したプロレス技を実写で再現するミニコーナー](../Page/マッスル坂井.md "wikilink")「今週のけものみち」が放送・配信されていた。
     この他、[11月10日](../Page/11月10日.md "wikilink")に豊島区中池袋公園で開催された[アニメイトガールズフェスティバル](https://ja.wikipedia.org/wiki/アニメイトガールズフェスティバル "wikilink")のイベント「DDTプロレスリング×AGF2019〜きらめく乙女の筋肉ランド〜」でケモナーマスク&[上野勇希](https://ja.wikipedia.org/wiki/上野勇希 "wikilink")組対MAO&[坂口征夫](../Page/坂口征夫.md "wikilink")組によるスペシャルコラボマッチが行われた。
 
 ## 脚注
 
+## 関連項目
+
+  - リーグ戦、トーナメント戦
+
+<!-- end list -->
+
+  - [ヤングドラマ杯](https://ja.wikipedia.org/wiki/ヤングドラマ杯 "wikilink")
+
+<!-- end list -->
+
+  - 王座
+
+<!-- end list -->
+
+  - [大森夢フェア認定世界大森級王座](https://ja.wikipedia.org/wiki/大森夢フェア認定世界大森級王座 "wikilink")
+  - [世界ミッドブレス級王座](https://ja.wikipedia.org/wiki/世界ミッドブレス級王座 "wikilink")
+  - [JET世界ジェット級王座](https://ja.wikipedia.org/wiki/JET世界ジェット級王座 "wikilink")
+  - [GAY世界アナル級王座](https://ja.wikipedia.org/wiki/GAY世界アナル級王座 "wikilink")
+  - [梅村パソコン塾認定コピー&ペースト級王座](https://ja.wikipedia.org/wiki/梅村パソコン塾認定コピー&ペースト級王座 "wikilink")
+  - [ウチコミ\!無差別級アルティメット王座](https://ja.wikipedia.org/wiki/ウチコミ!無差別級アルティメット王座 "wikilink")
+  - [遠野無差別級王座](https://ja.wikipedia.org/wiki/遠野無差別級王座 "wikilink")
+  - [日本海6人タッグ王座](https://ja.wikipedia.org/wiki/日本海6人タッグ王座 "wikilink")
+  - [自由が丘広小路会認定6人タッグ王座](https://ja.wikipedia.org/wiki/自由が丘6人タッグ王座 "wikilink")
+  - [キング・オブ・ダーク王座](https://ja.wikipedia.org/wiki/キング・オブ・ダーク王座 "wikilink")
+
 ## 外部リンク
 
-  - [DDTプロレスリング公式サイト](http://www.ddtpro.com/)
+  - DDTプロレスリング
 
-  - [WRESTLE UNIVERSE](http://ddtuniverse.com/)
+<!-- end list -->
 
-  - [DDT OFFICIAL WEB SHOP](http://www.ddt-shop.com///)
-
-  - [DDT DRAMATIC FAN CLUB](https://www.ddtfanclub.com//)
-
-  - [路上プロレス公式サイト](https://www.ddtpro.com/rojyo)
+  - [DDTプロレスリング公式サイト](https://www.ddtpro.com/ddt)
 
   -
   -
   -
   -
+  - [WRESTLE UNIVERSE](https://www.ddtpro.com/universe)
+
+  -
+  - [DDT ONLINE STORE](https://ddt-store.com/)
+
+<!-- end list -->
+
+  - DDTフーズ
+
+<!-- end list -->
+
+  -
+  - [DDTフーズ STORE](https://ddtfoods.stores.jp/)
+
+  -
+  -
+  - [プロレス&スポーツBar「ドロップキック」Staff日誌](http://blog.livedoor.jp/sports_bar_dropkick/)（2007年7月20日 - 2010年4月29日）
+
   -
   -
   -
   -
   -
-  -
-  -
-  -
-[Category:DDT](https://ja.wikipedia.org/wiki/Category:DDT "wikilink") [Category:日本のプロレス団体](https://ja.wikipedia.org/wiki/Category:日本のプロレス団体 "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:PWC](https://ja.wikipedia.org/wiki/Category:PWC "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")
+[Category:DDT](https://ja.wikipedia.org/wiki/Category:DDT "wikilink") [Category:日本のプロレス団体](https://ja.wikipedia.org/wiki/Category:日本のプロレス団体 "wikilink") [Category:新宿区の企業](https://ja.wikipedia.org/wiki/Category:新宿区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink") [Category:PWC](https://ja.wikipedia.org/wiki/Category:PWC "wikilink") [Category:サイバーエージェント](https://ja.wikipedia.org/wiki/Category:サイバーエージェント "wikilink")
 
 1.
 2.
@@ -1193,9 +1308,10 @@ DDTが開店したストレッチ専門店。[2012年](../Page/2012年.md "wikil
 19.
 20.
 21.
-22. タイトルマッチは毎年10月に開催している[大森UTANフェスタ](https://ja.wikipedia.org/wiki/大森UTANフェスタ "wikilink")で行われている。
-23. [DAMNATION](https://ja.wikipedia.org/wiki/DAMNATION "wikilink")と業務提携を結んでいる。
+22. [DAMNATION](https://ja.wikipedia.org/wiki/DAMNATION "wikilink")と業務提携を結んでいる。
+23. [DDTプロレス大会中継](https://www.samurai-tv.com/match/ddt/) - FIGHTING TV サムライ
 24. 配信限定興行のため。
 25.
-26.
-27. [MAOをモデルにしたアニメオリジナルキャラクター](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")。
+26. [プロレス事業会社 株式会社CyberFightの始動について](https://www.cyberagent.co.jp/news/detail/id=24965) - 株式会社サイバーエージェント 2020年7月27日
+27.
+28. [MAOをモデルにしたアニメオリジナルキャラクター](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")。

@@ -93,6 +93,9 @@ __TOC__
   - [Apple A10X](https://ja.wikipedia.org/wiki/Apple_A10X "wikilink")
   - [Apple A11](https://ja.wikipedia.org/wiki/Apple_A11 "wikilink")
   - [Apple A12](https://ja.wikipedia.org/wiki/Apple_A12 "wikilink")
+  - [Apple A12X](https://ja.wikipedia.org/wiki/Apple_A12X "wikilink")
+  - [Apple A12Z](https://ja.wikipedia.org/wiki/Apple_A12Z "wikilink")
+  - [Apple A13](https://ja.wikipedia.org/wiki/Apple_A13 "wikilink")
 
 ### ARM
 

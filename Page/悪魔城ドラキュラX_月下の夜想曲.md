@@ -19,7 +19,7 @@
 
 [2018年](../Page/2018年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[PlayStation 4で](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")『悪魔城ドラキュラX・セレクション 月下の夜想曲 & 血の輪廻』として、『悪魔城ドラキュラX 血の輪廻』と共にカップリング移植され、配信された。
 
-[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[Android](../Page/Android.md "wikilink")と[iOS向けに配信開始された](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[3\]。
+[2020年](../Page/2020年.md "wikilink")[3月4日](../Page/3月4日.md "wikilink")に[Androidと](../Page/Android_\(オペレーティングシステム\).md "wikilink")[iOS向けに配信開始された](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[3\]。
 
 移植や配信は全てPS版をベースにし、特別大きな変更はない。ただしSS移植版は他の移植・配信版とは異なり追加要素が多めで、販売本数も少なくその後移植・配信もされておらず現在では定価以上で取引されている。
 

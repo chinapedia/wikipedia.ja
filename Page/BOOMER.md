@@ -1,7 +1,7 @@
 > この記事は[BOOMER](https://ja.wikipedia.org/wiki/BOOMER)から翻訳されています。
 
 
-**BOOMER**（**ブーマー**）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動するフリーの[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。元[三木プロダクション](../Page/三木プロダクション.md "wikilink")（元サワズカムパニー）所属。
+**BOOMER**（**ブーマー**）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動するフリーの[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")である。元[三木プロダクション](../Page/三木プロダクション.md "wikilink")（元サワズカムパニー）所属。[2016年](../Page/2016年.md "wikilink")[11月](../Page/11月.md "wikilink")より[漫才協会](../Page/漫才協会.md "wikilink")に入会。
 
 ## メンバー
 
@@ -114,7 +114,7 @@
 
   - [BOOMER'S SNACK ブーマーズスナック](https://web.archive.org/web/20100130061214/http://www.trick123.com/boomer/) - 閉鎖。（2010年1月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
-[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:三木プロ系列所属者](https://ja.wikipedia.org/wiki/Category:三木プロ系列所属者 "wikilink")
+[Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:過去の三木プロ系列所属者](https://ja.wikipedia.org/wiki/Category:過去の三木プロ系列所属者 "wikilink")
 
 1.  [BOOMER河田の そのまま！ そのまま！（河田本人のブログ）](http://boomer-k-k.at.webry.info/200508/article_12.html)
 2.  [お笑いナタリー記事、2010年2月14日](http://natalie.mu/owarai/news/27715/showall/true)

@@ -204,7 +204,7 @@
 <tr class="odd">
 <td><p>元コーチ</p></td>
 <td><p><a href="../Page/シルバ・ジョゼ・レイナルド・フェルナンデス.md" title="wikilink">レイナルド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/中京高等学校_(岐阜県)" title="wikilink">中京高校サッカー部ヘッドコーチ</a>、元Jリーグ<a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a>・<a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">ヴェルディ川崎選手</a></p></td>
+<td><p><a href="../Page/中京高等学校_(岐阜県).md" title="wikilink">中京高校サッカー部ヘッドコーチ</a>、元Jリーグ<a href="https://ja.wikipedia.org/wiki/湘南ベルマーレ" title="wikilink">湘南ベルマーレ</a>・<a href="https://ja.wikipedia.org/wiki/東京ヴェルディ1969" title="wikilink">ヴェルディ川崎選手</a></p></td>
 </tr>
 <tr class="even">
 <td><p>元コーチ</p></td>

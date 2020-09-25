@@ -1765,7 +1765,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
 ## 外部リンク
 
-  - [the GazettE Official Site](http://www.pscompany.co.jp/gazette/)
+  - [the GazettE Official Site](http://the-gazette.com/)
 
   - [the GazettE | SonyMusic](https://www.sonymusic.co.jp/artist/gazette/)
 

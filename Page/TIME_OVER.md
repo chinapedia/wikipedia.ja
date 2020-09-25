@@ -132,6 +132,6 @@
 
 ## 外部リンク
 
-  - [BS-TBS](http://www.bs-tbs.co.jp/)
+  - [BS-TBS](https://www.bs-tbs.co.jp/)
 
 [Category:BS-TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:BS-TBSのバラエティ番組の歴史 "wikilink") [Category:TBSのクイズ番組](https://ja.wikipedia.org/wiki/Category:TBSのクイズ番組 "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:BS-TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの一社提供番組 "wikilink") [Category:プロクター・アンド・ギャンブル](https://ja.wikipedia.org/wiki/Category:プロクター・アンド・ギャンブル "wikilink")

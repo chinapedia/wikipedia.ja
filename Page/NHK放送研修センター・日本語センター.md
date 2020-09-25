@@ -36,7 +36,7 @@
   - [恩蔵憲一](../Page/恩蔵憲一.md "wikilink")（おんぞう・けんいち）
   - [風見雅章](https://ja.wikipedia.org/wiki/風見雅章 "wikilink")（かざみ・まさあき）\[9\]\[10\]\[11\]
   - [加藤昌男](../Page/加藤昌男.md "wikilink")（かとう・まさお）\[12\]
-  - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")（かない・なおき）
+  - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")（かない・なおみ）
   - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")（かねもと・たいこう）
   - [蕪木弘道](https://ja.wikipedia.org/wiki/蕪木弘道 "wikilink")（かぶらぎ・ひろみち）
   - [河路勝](https://ja.wikipedia.org/wiki/河路勝 "wikilink")（かわじ・まさる）\[13\]
@@ -101,7 +101,7 @@
   - [日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）
   - [平石富男](https://ja.wikipedia.org/wiki/平石富男 "wikilink")
 
-＊[ラジオセンター](https://ja.wikipedia.org/wiki/ラジオセンター "wikilink")
+＊[ラジオセンター](../Page/NHKラジオセンター.md "wikilink")
 
 ## 外部リンク
 

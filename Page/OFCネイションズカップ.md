@@ -1,7 +1,7 @@
 > この記事は[OFCネイションズカップ](https://ja.wikipedia.org/wiki/OFCネイションズカップ)から翻訳されています。
 
 
-**OFCネイションズカップ**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられた。
+**OFCネイションズカップ**（）は、[オセアニアサッカー連盟](../Page/オセアニアサッカー連盟.md "wikilink")（OFC）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
 
 ## 概要
 
@@ -21,8 +21,11 @@
 <th><p>回</p></th>
 <th><p>開催年</p></th>
 <th><p>開催国</p></th>
+<th></th>
 <th><p>決勝戦</p></th>
+<th></th>
 <th><p>3位決定戦</p></th>
+<th></th>
 <th><p>出場<br />
 国数</p></th>
 </tr>
@@ -35,13 +38,19 @@
 <td><p>3位</p></td>
 <td><p>結果</p></td>
 <td><p>4位</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/OFCネイションズカップ1973.md" title="wikilink">1</a></p></td>
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
 <td></td>
+<td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -50,6 +59,9 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>4 - 2</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>2 - 1</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -60,6 +72,9 @@
 <td><p><strong>6 - 0</strong><br />
 <strong>5 - 0</strong></p></td>
 <td></td>
+<td><p>/ </p></td>
+<td><p>4</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OFCネイションズカップ1998.md" title="wikilink">4</a></p></td>
@@ -67,6 +82,9 @@
 <td></td>
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
+<td></td>
+<td></td>
+<td><p><strong>4 - 2</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -76,12 +94,18 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>2 - 0</strong></p></td>
 <td></td>
+<td></td>
+<td><p><strong>2 - 1</strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/OFCネイションズカップ2002.md" title="wikilink">6</a></p></td>
 <td><p><a href="../Page/2002年.md" title="wikilink">2002年</a></p></td>
 <td></td>
 <td><p><strong></strong></p></td>
+<td><p><strong>1 - 0</strong></p></td>
+<td></td>
+<td></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td></td>
 </tr>
@@ -94,12 +118,18 @@
 <td><p><strong>5 - 1</strong><br />
 <strong>6 - 0</strong></p></td>
 <td></td>
+<td></td>
+<td><p><strong>-----</strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFCネイションズカップ2008" title="wikilink">8</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a></p></td>
 <td><p><a href="../Page/ホーム・アンド・アウェー.md" title="wikilink">ホーム&amp;アウェー方式</a></p></td>
 <td><p><strong></strong></p></td>
+<td><p><strong>-----</strong></p></td>
+<td></td>
+<td></td>
 <td><p><strong>-----</strong></p></td>
 <td></td>
 </tr>
@@ -110,6 +140,9 @@
 <td><p><strong></strong></p></td>
 <td><p><strong>1 - 0</strong></p></td>
 <td></td>
+<td></td>
+<td><p><strong>4 - 3</strong></p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/OFCネイションズカップ2016" title="wikilink">10</a></p></td>
@@ -119,18 +152,27 @@
 <td><p><strong>0 - 0</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a><br />
 <small>(<a href="../Page/PK戦.md" title="wikilink">PK</a> 4 - 2)</small></p></td>
 <td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/OFCネイションズカップ2020.md" title="wikilink">―</a></p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td></td>
-<td><p><a href="../Page/新型コロナウイルス感染症の流行_(2019年-).md" title="wikilink">新型コロナウイルス感染症の流行により中止</a>[1]</p></td>
+<td><p>/ </p></td>
 <td><p>8</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/OFCネイションズカップ2020.md" title="wikilink">11</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">新型コロナウイルス感染症の影響で中止</a>[1]</p></td>
+<td><p>8</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
-<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/OFCネイションズカップ2024" title="wikilink">12</a></p></td>
 <td><p><a href="../Page/2024年.md" title="wikilink">2024年</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -141,7 +183,7 @@
 
 **注釈**
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -376,12 +418,12 @@
 </tbody>
 </table>
 
+## 脚注
+
 ## 関連項目
 
   - [OFC女子ネイションズカップ](https://ja.wikipedia.org/wiki/OFC女子ネイションズカップ "wikilink")
   - [AFC/OFCチャレンジカップ](https://ja.wikipedia.org/wiki/AFC/OFCチャレンジカップ "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

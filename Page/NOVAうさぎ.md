@@ -153,4 +153,4 @@ NOVAうさぎのキャラクター商品は、元々NOVAに入会した人だけ
 [Category:CMキャラクター](https://ja.wikipedia.org/wiki/Category:CMキャラクター "wikilink") [Category:企業のマスコット](https://ja.wikipedia.org/wiki/Category:企業のマスコット "wikilink") [Category:ウサギをモチーフにしたマスコット](https://ja.wikipedia.org/wiki/Category:ウサギをモチーフにしたマスコット "wikilink")
 
 1.  当時の社長であった[猿橋望](../Page/猿橋望.md "wikilink")は、CS放送の番組内で「[モンスター](https://ja.wikipedia.org/wiki/怪物 "wikilink")」との認識を示している。「NOVAうさぎ」という名ではあるが、[くちばし](../Page/くちばし.md "wikilink")があるため[ウサギ](../Page/ウサギ.md "wikilink")ではないとの理由による。
-2.  [あの「NOVAうさぎ」、大ヒット増殖中\!](http://web.archive.org/web/20030618035734/http://www.zakzak.co.jp/top/t-2003_02/3t2003021511.html)（2003年6月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）、ZAKZAK、2003年2月15日。
+2.  [あの「NOVAうさぎ」、大ヒット増殖中\!](https://web.archive.org/web/20030618035734/http://www.zakzak.co.jp/top/t-2003_02/3t2003021511.html)（2003年6月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）、ZAKZAK、2003年2月15日。

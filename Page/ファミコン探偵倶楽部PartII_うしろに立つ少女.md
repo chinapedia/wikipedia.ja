@@ -25,7 +25,7 @@
 
 更に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月30日](../Page/4月30日.md "wikilink")からスーパーファミコン版が、[2009年](../Page/2009年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")からディスクシステム版が配信されている。また、[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")バーチャルコンソールとして[2013年](../Page/2013年.md "wikilink")[5月1日](../Page/5月1日.md "wikilink")からディスクシステム版が配信され、[Wii Uバーチャルコンソールでは](https://ja.wikipedia.org/wiki/Wii_U "wikilink")2013年[7月31日](../Page/7月31日.md "wikilink")からスーパーファミコン版が、[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")バーチャルコンソールでは[2017年](../Page/2017年.md "wikilink")[8月23日](../Page/8月23日.md "wikilink")からスーパーファミコン版が配信されている。ディスクシステム版はゲームボーイアドバンス版と同様に前編と後編を1本に収録している。
 
-  - スーパーファミコン版ではクラシックコントローラーかゲームキューブコントローラーがないとプレイできない。
+  - スーパーファミコン版ではクラシックコントローラーかゲームキューブコントローラがないとプレイできない。
   - ディスクシステム版では前編をクリアすると後編がプレイできるようになって、以降からは前編と後編のどちらかでプレイできるようになる。
 
 ## ゲーム内容
@@ -394,8 +394,7 @@
   -
   - [ファミコン探偵倶楽部 PART II うしろに立つ少女（スーパーファミコン版）](https://www.nintendo.co.jp/titles/50010000042396) - New3DSバーチャルコンソール
 
-  - （英語）
-
+  -
 [Category:1989年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1989年のコンピュータゲーム "wikilink") [Category:コマンド選択式アドベンチャー](https://ja.wikipedia.org/wiki/Category:コマンド選択式アドベンチャー "wikilink") [Category:ミステリゲーム](https://ja.wikipedia.org/wiki/Category:ミステリゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ニンテンドウパワー書き換えソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドウパワー書き換えソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:探偵を主人公としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:探偵を主人公としたコンピュータゲーム "wikilink") [Category:学校の怪談を題材とした作品](https://ja.wikipedia.org/wiki/Category:学校の怪談を題材とした作品 "wikilink") [Category:霊を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:霊を題材としたコンピュータゲーム "wikilink") [Category:バブル期の昭和時代を舞台とした作品](https://ja.wikipedia.org/wiki/Category:バブル期の昭和時代を舞台とした作品 "wikilink") [Category:日本を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本を舞台としたコンピュータゲーム "wikilink") [Category:高等学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたコンピュータゲーム "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink")
 
 1.  エンディングスタッフロールは**あさまなぎひろ**となっているが、長井正広の[アナグラム](../Page/アナグラム.md "wikilink")である[1](http://green.ap.teacup.com/nagai-komuten/225.html)。

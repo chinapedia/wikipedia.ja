@@ -179,7 +179,9 @@
   -
   -
   -
-  - [ロータシズム](../Page/ロータシズム.md "wikilink")
+  - [英語の /r/ の発音](https://ja.wikipedia.org/wiki/英語の_/r/_の発音 "wikilink")
+
+  - [ロータシズム](../Page/ロータシズム.md "wikilink")（R音化現象）
 
   - [昭和軽薄体](../Page/昭和軽薄体.md "wikilink")
 

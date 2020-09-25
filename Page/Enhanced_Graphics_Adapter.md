@@ -7,7 +7,7 @@
 
 EGAは1984年10月に[IBM](../Page/IBM.md "wikilink")より発表された\[1\]\[2\]。（[PC/AT](https://ja.wikipedia.org/wiki/PC/AT "wikilink")の発売直後だが、PC/AT専用ではない。）
 
-EGA規格は1987年に[PS/2とともに発表された](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[MCGAおよび](https://ja.wikipedia.org/wiki/Multicolor_Graphics_Adapter "wikilink")[VGAに置き換えられた](../Page/Video_Graphics_Array.md "wikilink")\[3\]。
+EGA規格は1987年に[PS/2とともに発表された](https://ja.wikipedia.org/wiki/IBM_PS/2 "wikilink")[MCGAおよび](../Page/Multicolor_Graphics_Adapter.md "wikilink")[VGAに置き換えられた](../Page/Video_Graphics_Array.md "wikilink")\[3\]。
 
 VGAが発表される少し前に、ジェノア・システムズ (*Genoa Systems*) がプロプライエタリなチップセットを搭載したハーフサイズの[グラフィックカード](../Page/ビデオカード.md "wikilink")、*Super EGA*を発表した（後期のカードは[Super VGAと同様にVGAで拡張されたモードをサポートした](../Page/Super_Video_Graphics_Array.md "wikilink")）\[4\]。
 

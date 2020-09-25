@@ -129,7 +129,7 @@ FLCF-7076:通常盤</p></td>
 <li>Find A Way【作詞:BIKKE/作曲:Hiroshi Takano,Tetsuya/編曲:Nathalie Wise】</li>
 <li>Baby Blue! (二人ともいないヴァージョン)</li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/BOØWY" title="wikilink">BOØWY</a>の「<a href="../Page/B・BLUE.md" title="wikilink">B・BLUE</a>」を<a href="../Page/サンプリング.md" title="wikilink">サンプリング</a>。<br />
+<td><p><a href="../Page/BOØWY.md" title="wikilink">BOØWY</a>の「<a href="../Page/B・BLUE.md" title="wikilink">B・BLUE</a>」を<a href="../Page/サンプリング.md" title="wikilink">サンプリング</a>。<br />
 オリコン最高47位、登場回数3回</p></td>
 </tr>
 <tr class="odd">

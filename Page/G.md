@@ -85,7 +85,7 @@
   - [ガロワ群](https://ja.wikipedia.org/wiki/ガロワ群 "wikilink")
   - [幾何学](../Page/幾何学.md "wikilink")で、[重心](../Page/重心.md "wikilink") (center of gravity) を表す記号として用いられることがある。
   - [群](https://ja.wikipedia.org/wiki/群_\(数学\) "wikilink") (group) を表す記号として用いられることがある。
-  - 16\<N≤20の[N進数](https://ja.wikipedia.org/wiki/N進数 "wikilink")で、[16](../Page/16.md "wikilink")を1桁（1文字）「G」で表す。
+  - [十六を意味する数字](../Page/16.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")など、十七進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十六（[十進法](../Page/十進法.md "wikilink")の**16**）を一桁で表すために用いられる。
   - [音名](https://ja.wikipedia.org/wiki/音名 "wikilink")の1つ（英米式、ドイツ式）。イタリア式では「so」、日本式では「[ト](https://ja.wikipedia.org/wiki/ト_\(音名\) "wikilink")」に相当。
       - 音階の5番目の音であることから、音楽関係者の間で5を表す隠語として使われる。例：G（ゲー）千=5000（円）
   - [混声合唱](../Page/混声合唱.md "wikilink") (general)。

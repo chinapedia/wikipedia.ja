@@ -68,7 +68,7 @@
 
 ### 学術的な記号・単位
 
-  - 任意の17\<N≤20に対するN進数において、[十七](../Page/17.md "wikilink")（[十進数](https://ja.wikipedia.org/wiki/十進数 "wikilink")の**17**）を1桁（1文字）で表すのに用いる。
+  - [十七を意味する数字](../Page/17.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")など、十八進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十七（[十進法](../Page/十進法.md "wikilink")の**17**）を一桁で表すために用いられる。
 
 #### 大文字
 

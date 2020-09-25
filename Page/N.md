@@ -44,7 +44,7 @@
 
 ### 二重音字
 
-  - ng （[軟口蓋鼻音](https://ja.wikipedia.org/wiki/軟口蓋鼻音 "wikilink")） : インドネシア語・[ベトナム語](../Page/ベトナム語.md "wikilink")など東南アジア諸言語や、英語・ドイツ語などの[ゲルマン諸語](../Page/ゲルマン語派.md "wikilink")、中国語の[拼音](https://ja.wikipedia.org/wiki/拼音 "wikilink")
+  - ng （[軟口蓋鼻音](https://ja.wikipedia.org/wiki/軟口蓋鼻音 "wikilink")） : インドネシア語・[ベトナム語](../Page/ベトナム語.md "wikilink")など東南アジア諸言語や、英語・ドイツ語などの[ゲルマン諸語](../Page/ゲルマン語派.md "wikilink")、中国語の[拼音](../Page/拼音.md "wikilink")
   - gn （[硬口蓋鼻音](../Page/硬口蓋鼻音.md "wikilink")） : [フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")・[イタリア語](../Page/イタリア語.md "wikilink")
   - nh （硬口蓋鼻音） : [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")・[ベトナム語](../Page/ベトナム語.md "wikilink")
 

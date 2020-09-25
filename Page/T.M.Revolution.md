@@ -966,7 +966,7 @@
 </tr>
 <tr class="odd">
 <td><p>HOT LIMIT</p></td>
-<td><p>CM「<a href="../Page/アサヒ飲料.md" title="wikilink">アサヒ飲料</a>・<a href="../Page/三ツ矢サイダー.md" title="wikilink">三ツ矢サイダー</a>」テーマソング</p></td>
+<td><p>CM「<a href="../Page/アサヒ飲料.md" title="wikilink">アサヒ飲料</a>・<a href="../Page/三ツ矢サイダー.md" title="wikilink">三ツ矢サイダー</a>」テーマソング ReLIFE2話ED</p></td>
 </tr>
 <tr class="even">
 <td><p>THUNDERBIRD</p></td>

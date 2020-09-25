@@ -35,7 +35,7 @@
   - 英語では、規則動詞の過去形の語尾-edは、その前の音により、、などと変化する。
   - [中国語](../Page/中国語.md "wikilink")やその[方言](../Page/方言.md "wikilink")の[ピンイン](https://ja.wikipedia.org/wiki/ピンイン "wikilink")では[無気の](../Page/有気音.md "wikilink")（[無声歯茎破裂音](../Page/無声歯茎破裂音.md "wikilink")）を表す。
   - [中国南方の方言では](../Page/中華人民共和国.md "wikilink")、広東省教育部門式の広東語ローマ字のように[歯茎](https://ja.wikipedia.org/wiki/歯茎音 "wikilink")[内破音](../Page/内破音.md "wikilink")を表す例もある。
-  - [ベトナム語](../Page/ベトナム語.md "wikilink")では[有声歯茎摩擦音](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink")のを表す。ただし、南部方言では[硬口蓋接近音](https://ja.wikipedia.org/wiki/硬口蓋接近音 "wikilink")ので発音される。「Đ」や「đ」が[声門閉鎖を伴う](../Page/声門破裂音.md "wikilink")[有声歯茎破裂音](https://ja.wikipedia.org/wiki/有声歯茎破裂音 "wikilink")のまたは[歯茎入破音](https://ja.wikipedia.org/wiki/歯茎入破音 "wikilink")を表す。
+  - [ベトナム語](../Page/ベトナム語.md "wikilink")では[有声歯茎摩擦音](../Page/有声歯茎摩擦音.md "wikilink")のを表す。ただし、南部方言では[硬口蓋接近音](https://ja.wikipedia.org/wiki/硬口蓋接近音 "wikilink")ので発音される。「Đ」や「đ」が[声門閉鎖を伴う](../Page/声門破裂音.md "wikilink")[有声歯茎破裂音](https://ja.wikipedia.org/wiki/有声歯茎破裂音 "wikilink")のまたは[歯茎入破音](https://ja.wikipedia.org/wiki/歯茎入破音 "wikilink")を表す。
   - [日本語](../Page/日本語.md "wikilink")のローマ字表記では訓令式、ヘボン式共にダ行（[タ行](https://ja.wikipedia.org/wiki/タ行 "wikilink")濁音）の子音に用いられる。ただし、「ぢ」「づ」は「じ」「ず」と同じ発音のため、JまたはZとなる。日本式やIMEにおけるローマ字入力では、「ぢ」「づ」も含めた全てのダ行に用いられる。
   - 朝鮮語のローマ字表記である文化観光部2000年式では有声音、無声音に関わらず初声のㄷに用いられる。マッキューン＝ライシャワー式では有声で発音されるㄷに用いられる。
 
@@ -48,7 +48,7 @@
 <!-- end list -->
 
   - [五百を意味する数字](../Page/500.md "wikilink")。[ローマ数字](../Page/ローマ数字.md "wikilink")で用いる。
-  - [十三を意味する数字](../Page/13.md "wikilink")。[十六進法](../Page/十六進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、桁の底が十を超える[N進法において](https://ja.wikipedia.org/wiki/位取り記数法 "wikilink")、十三（[十進法](../Page/十進法.md "wikilink")の**13**）を一桁で表すために用いられる。
+  - [十三を意味する数字](../Page/13.md "wikilink")。[十六進法](../Page/十六進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、十四進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small> において十三（[十進法](../Page/十進法.md "wikilink")の**13**）を一桁で表すために用いられる。
   - ""（微分）の頭文字として、[数学](../Page/数学.md "wikilink")では[微分](../Page/微分.md "wikilink")関連の記号としてよく使われる。（例）dy/dx, [微分作用素](https://ja.wikipedia.org/wiki/微分作用素 "wikilink") *D*, （余）[鎖複体](https://ja.wikipedia.org/wiki/鎖複体 "wikilink")の微分 *d*
   - [数学](../Page/数学.md "wikilink")では、一般に既知の数、集合、行列等を示す、[A](https://ja.wikipedia.org/wiki/A "wikilink"), [B](../Page/B.md "wikilink"), [C](https://ja.wikipedia.org/wiki/C "wikilink")に次ぐ文字として、また判別式を示す文字として用いられる。
   - [円](https://ja.wikipedia.org/wiki/円 "wikilink")の[直径](https://ja.wikipedia.org/wiki/直径 "wikilink")（）

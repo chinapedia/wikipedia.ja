@@ -66,7 +66,7 @@
       - [電気工学](../Page/電気工学.md "wikilink")では、[電流](../Page/電流.md "wikilink")を表す [i](https://ja.wikipedia.org/wiki/i "wikilink") と区別して、 i の代わりに j を虚数単位の記号に用いる（通常小文字）。
       - [Python](../Page/Python.md "wikilink")などのプログラミング言語で、虚数単位の記号に用いる。
       - [数学](../Page/数学.md "wikilink")分野では、[四元数](../Page/四元数.md "wikilink")の虚数単位として用いられる。
-  - [二十進法](../Page/二十進法.md "wikilink")において、[十九](https://ja.wikipedia.org/wiki/19 "wikilink")（[十進法](../Page/十進法.md "wikilink")の**19**）を一桁で表すのに用いる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いない（この場合、J が[十八を意味する](../Page/18.md "wikilink")）例もある。
+  - [十九を意味する数字](https://ja.wikipedia.org/wiki/19 "wikilink")。[二十進法](../Page/二十進法.md "wikilink")以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十九（[十進法](../Page/十進法.md "wikilink")の**19**）を一桁で表すために用いられる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いない（この場合、J が[十八を意味する](../Page/18.md "wikilink")）例もある。
   - [APL](../Page/APL.md "wikilink")の後継にあたる[プログラミング言語](../Page/プログラミング言語.md "wikilink") - [J (プログラミング言語)](../Page/J_\(プログラミング言語\).md "wikilink")
   - [医学](../Page/医学.md "wikilink")や[歯学](../Page/歯学.md "wikilink")領域で消毒剤としての[ポビドンヨード](https://ja.wikipedia.org/wiki/ポビドンヨード "wikilink")や、[ヨウ素](https://ja.wikipedia.org/wiki/ヨウ素 "wikilink")を慣例的にJと略す。J綿球（ポビドンヨード綿球）や、JGパスタ(ヨードグリセリンパスタ製剤）など。[ドイツ語](../Page/ドイツ語.md "wikilink")のjodから。
   - [素粒子物理学](../Page/素粒子物理学.md "wikilink")で[内量子数](https://ja.wikipedia.org/wiki/内量子数 "wikilink")（大文字・小文字）
@@ -82,7 +82,7 @@
       - かつての[国際電気通信連合](../Page/国際電気通信連合.md "wikilink")条約の[呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")では、[大日本帝国](https://ja.wikipedia.org/wiki/大日本帝国 "wikilink")時に「J」単独での使用が認められたが、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")で[敗戦したため](../Page/日本の降伏.md "wikilink")「J」1文字の[コールサインは取り上げられた](../Page/世界のコールサイン割り当て一覧.md "wikilink")。
       - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")・[Jリーグ](https://ja.wikipedia.org/wiki/Jリーグ "wikilink")の略称。[1993年](../Page/1993年.md "wikilink")から[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")頃のJリーグブーム時には、商品名（「Jビーフ」「Jポーク」等）や作品名（『[勇者警察ジェイデッカー](../Page/勇者警察ジェイデッカー.md "wikilink")』『[キャプテン翼J](https://ja.wikipedia.org/wiki/キャプテン翼_\(アニメ\) "wikilink")』『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink")』等）にJを冠する事が流行した。
   - [トランプ](../Page/トランプ.md "wikilink")などでジャック ([11](../Page/11.md "wikilink")) を表す。
-  - [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")、[建築](../Page/建築.md "wikilink")において面積を表す[畳 (単位)](https://ja.wikipedia.org/wiki/畳_\(単位\) "wikilink")（帖）の代わりとしてJと表記することがある。
+  - [不動産](../Page/不動産.md "wikilink")、[建築](../Page/建築.md "wikilink")において面積を表す[畳 (単位)](https://ja.wikipedia.org/wiki/畳_\(単位\) "wikilink")（帖）の代わりとしてJと表記することがある。
 
 ### 商品名・作品名・固有名等
 

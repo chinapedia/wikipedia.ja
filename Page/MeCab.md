@@ -3,7 +3,7 @@
 
 **MeCab**は[オープンソース](../Page/オープンソース.md "wikilink")の[形態素解析](../Page/形態素解析.md "wikilink")エンジンで、[奈良先端科学技術大学院大学](../Page/奈良先端科学技術大学院大学.md "wikilink")出身、現[Google](../Page/Google.md "wikilink")ソフトウェアエンジニアで[Google 日本語入力開発者の一人である工藤拓](https://ja.wikipedia.org/wiki/Google_日本語入力 "wikilink")\[1\]\[2\]によって開発されている。名称は開発者の好物「[和布蕪](https://ja.wikipedia.org/wiki/メカブ "wikilink")（めかぶ）」から取られた。
 
-開発開始当初は[ChaSen](https://ja.wikipedia.org/wiki/ChaSen "wikilink")を基にし、ChaSenTNGという名前で開発されていたが、現在はChaSenとは独立にスクラッチから開発されている。ChaSenに比べて解析精度は同程度で、解析速度は平均3-4倍速い。
+開発開始当初は[ChaSen](../Page/ChaSen.md "wikilink")を基にし、ChaSenTNGという名前で開発されていたが、現在はChaSenとは独立にスクラッチから開発されている。ChaSenに比べて解析精度は同程度で、解析速度は平均3-4倍速い。
 
 品詞情報を利用した解析・推定を行うことができる。MeCabで利用できる辞書はいくつかあるが、ChaSenと同様に[IPA品詞体系](https://ja.wikipedia.org/wiki/IPA品詞体系 "wikilink")で構築されたIPADICが一般的に用いられている。
 

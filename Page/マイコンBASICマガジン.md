@@ -51,7 +51,7 @@
 
 その後長らくは、既に市場から姿を消した機種を含むパソコン関連のプログラムを掲載する傍ら、新製品の紹介やゲームレビューなどを地道に掲載し、一定の固定読者層を獲得していた。
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月号から10月号までは[CD-ROM](../Page/CD-ROM.md "wikilink")が付録となった。インタビューやレポートなど独自の動画を[Video for Windowsによって複数収録しており](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")、Windowsで収録コンテンツを閲覧できるほか、オーディオトラックに投稿プログラムの[データレコーダ](../Page/データレコーダ.md "wikilink")音声を収録するという珍しい試みも行われた。付録CDは6号で終了となったが、その後はCD-ROM付きの別冊『BASIC Magazine CD-ROM Special』（4号以降は正題が『オリジナル・ゲームGRAND PRIX』、副題が『BASIC Magazine CD-ROM Special』となる）が5号まで発行された。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")4月号から10月号までは[CD-ROM](../Page/CD-ROM.md "wikilink")が付録となった。インタビューやレポートなど独自の動画を[Video for Windowsによって複数収録しており](https://ja.wikipedia.org/wiki/Video_for_Windows "wikilink")、Windowsで収録コンテンツを閲覧できるほか、オーディオトラックに投稿プログラムの[データレコーダ](../Page/データレコーダ.md "wikilink")音声を収録するという珍しい試みも行われた。付録CDは7号で終了となったが、その後はCD-ROM付きの別冊『BASIC Magazine CD-ROM Special』（4号以降は正題が『オリジナル・ゲームGRAND PRIX』、副題が『BASIC Magazine CD-ROM Special』となる）が5号まで発行された。
 
 しかし[インターネット](../Page/インターネット.md "wikilink")が普及して以降、プログラムソース配布も個人が自分の[ウェブサイト](../Page/ウェブサイト.md "wikilink")を介して行う様式が定着、プログラム投稿誌としての需要の低下が進んでいく。
 

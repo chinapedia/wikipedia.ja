@@ -103,7 +103,7 @@ sedの[インストール](../Page/インストール.md "wikilink")されてい
 
 ## 関連項目
 
-  - [ed](https://ja.wikipedia.org/wiki/ed "wikilink")
+  - [ed (テキストエディタ)](https://ja.wikipedia.org/wiki/ed_\(テキストエディタ\) "wikilink")
   - [AWK](../Page/AWK.md "wikilink")
   - [Perl](../Page/Perl.md "wikilink")
   - [正規表現](../Page/正規表現.md "wikilink")

@@ -187,7 +187,7 @@
             [水素](../Page/水素.md "wikilink")をエネルギー源とする[燃料電池](../Page/燃料電池.md "wikilink")と蓄電池を電源とするハイブリッド車両（試験車両）\[7\]。[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")との間で水素を活用した包括的な業務連携を締結しており、トヨタの協力により燃料電池技術が導入される。世界で初めて70MPaの高圧水素を利用し、最大140キロメートルの走行が可能となるという\[8\]。
             1M1Tの2両編成で、建設費は開発費・試験費込みで40億円。2021年度に登場予定で、落成後は[鶴見線](https://ja.wikipedia.org/wiki/鶴見線 "wikilink")・[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink")（本線[尻手駅](https://ja.wikipedia.org/wiki/尻手駅 "wikilink") - [武蔵中原駅](https://ja.wikipedia.org/wiki/武蔵中原駅 "wikilink")間および浜川崎支線）で実証試験が行われる予定。
   - **一般形車両（鉄道車両）**
-      - E131系[サムネイル](https://ja.wikipedia.org/wiki/ファイル:JR_East_E131_Series_at_Niitsu_Station.jpg "wikilink")
+      - E131系<span id="E131"></span>
           -
             2020年5月12日に、房総地区の末端区間である[内房線](https://ja.wikipedia.org/wiki/内房線 "wikilink") [木更津駅](https://ja.wikipedia.org/wiki/木更津駅 "wikilink") - [安房鴨川駅](https://ja.wikipedia.org/wiki/安房鴨川駅 "wikilink")間、[外房線](https://ja.wikipedia.org/wiki/外房線 "wikilink") [上総一ノ宮駅](https://ja.wikipedia.org/wiki/上総一ノ宮駅 "wikilink") - 安房鴨川駅間、[鹿島線](https://ja.wikipedia.org/wiki/鹿島線 "wikilink") [佐原駅](https://ja.wikipedia.org/wiki/佐原駅 "wikilink") - [鹿島神宮駅](https://ja.wikipedia.org/wiki/鹿島神宮駅 "wikilink")間への投入が発表された、ワンマン運転対応の一般型直流電車\[9\]。同区間で運用されている[209系2000・2100番台がワンマン運転に対応していないことから投入されるもので](https://ja.wikipedia.org/wiki/JR東日本209系電車#2000番台・2100番台 "wikilink")、直流電化区間のワンマン対応車両の標準タイプとして開発したと報じられている\[10\]。
             ユニット方式を採用した209系の2M2Tに対し、1M方式を採用して2両1ユニットを組み\[11\]、運転席から乗降を確認するカメラなど、ワンマン運転対応機器を備える\[12\]。ステンレス製の幅広車体を採用し、SiC素子を採用して消費電力の抑制につなげる。

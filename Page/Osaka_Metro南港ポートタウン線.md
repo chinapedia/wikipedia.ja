@@ -82,19 +82,19 @@ Osaka Newtram01.jpg|100A系
   - [1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）[3月16日](../Page/3月16日.md "wikilink")：[中ふ頭駅](../Page/中ふ頭駅.md "wikilink") - [住之江公園駅](https://ja.wikipedia.org/wiki/住之江公園駅 "wikilink")間が開業。当初乗務員が添乗。
   - [1991年](../Page/1991年.md "wikilink")（[平成](../Page/平成.md "wikilink")3年）[10月20日](../Page/10月20日.md "wikilink")：無人自動運転開始。
   - [1993年](../Page/1993年.md "wikilink")（平成5年）
-      - [10月5日](../Page/10月5日.md "wikilink")：住之江公園駅で[車両暴走事故が発生し](https://ja.wikipedia.org/wiki/日本の鉄道事故_\(1950年から1999年\)#ニュートラム暴走衝突事故 "wikilink")、車止めに衝突。乗客215人が負傷。全線運休となる。
-      - [11月19日](../Page/11月19日.md "wikilink")：乗務員添乗で運行再開。
+      - [10月5日](../Page/10月5日.md "wikilink")：住之江公園駅で[車両暴走事故が発生し](https://ja.wikipedia.org/wiki/日本の鉄道事故_\(1950年から1999年\)#ニュートラム暴走衝突事故 "wikilink")、車止めに衝突\[8\]。乗客215人が負傷。全線運休となる。
+      - [11月19日](../Page/11月19日.md "wikilink")：乗務員添乗で運行再開\[9\]。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）
       - [10月31日](../Page/10月31日.md "wikilink")：[OTSニュートラムテクノポート線との相互直通運転の準備作業](../Page/大阪港トランスポートシステム.md "wikilink")（試運転等）に伴い、全線終日運休。代行バス運行。
-      - [12月18日](../Page/12月18日.md "wikilink")：OTSニュートラムテクノポート線[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink") - 中ふ頭駅間が開業し、相互直通運転開始\[8\]。
+      - [12月18日](../Page/12月18日.md "wikilink")：OTSニュートラムテクノポート線[コスモスクエア駅](https://ja.wikipedia.org/wiki/コスモスクエア駅 "wikilink") - 中ふ頭駅間が開業し、相互直通運転開始\[10\]。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）[2月20日](../Page/2月20日.md "wikilink")：無人自動運転を再開。以降、ごくまれに有人手動運転が行われる。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）[7月1日](../Page/7月1日.md "wikilink")：OTSニュートラムテクノポート線を編入。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[4月15日](../Page/4月15日.md "wikilink")・[16日](../Page/4月16日.md "wikilink")：[ゆりかもめ](https://ja.wikipedia.org/wiki/ゆりかもめ東京臨海新交通臨海線 "wikilink")（AGT路線）の車輪脱落事故に対する警戒のため乗務員添乗で有人手動運転される。17日から無人運転を再開。
-  - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月29日](../Page/6月29日.md "wikilink")：[200系車両営業運転開始](https://ja.wikipedia.org/wiki/大阪市交通局200系電車_\(新交通\) "wikilink")\[9\]。
+  - [2016年](../Page/2016年.md "wikilink")（平成28年）[6月29日](../Page/6月29日.md "wikilink")：[200系車両営業運転開始](https://ja.wikipedia.org/wiki/大阪市交通局200系電車_\(新交通\) "wikilink")\[11\]。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）[4月1日](../Page/4月1日.md "wikilink")：大阪市交通局の民営化により、[大阪市高速電気軌道](https://ja.wikipedia.org/wiki/大阪市高速電気軌道 "wikilink") (Osaka Metro) の路線となる。
   - [2019年](../Page/2019年.md "wikilink")（ [令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）
-      - [6月4日](../Page/6月4日.md "wikilink")〜：[金沢シーサイドライン](https://ja.wikipedia.org/wiki/横浜シーサイドライン金沢シーサイドライン "wikilink")（AGT路線）の[新杉田駅](https://ja.wikipedia.org/wiki/新杉田駅 "wikilink")での[逆走事故のため](https://ja.wikipedia.org/wiki/金沢シーサイドライン新杉田駅逆走事故 "wikilink")、全車両の緊急点検の上、ホームに乗務員を新たに配置するなどの対応をとっている\[10\]。
-      - [6月27日](../Page/6月27日.md "wikilink")〜[6月29日](../Page/6月29日.md "wikilink")：[第14回20か国・地域首脳会合](https://ja.wikipedia.org/wiki/第14回20か国・地域首脳会合 "wikilink")（G20大阪サミット）開催に伴う[テロ対策の為](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、同期間中は中ふ頭駅の営業を休止した\[11\]。
+      - [6月4日](../Page/6月4日.md "wikilink")〜：[金沢シーサイドライン](https://ja.wikipedia.org/wiki/横浜シーサイドライン金沢シーサイドライン "wikilink")（AGT路線）の[新杉田駅](https://ja.wikipedia.org/wiki/新杉田駅 "wikilink")での[逆走事故のため](https://ja.wikipedia.org/wiki/金沢シーサイドライン新杉田駅逆走事故 "wikilink")、全車両の緊急点検の上、ホームに乗務員を新たに配置するなどの対応をとっている\[12\]。
+      - [6月27日](../Page/6月27日.md "wikilink")〜[6月29日](../Page/6月29日.md "wikilink")：[第14回20か国・地域首脳会合](https://ja.wikipedia.org/wiki/第14回20か国・地域首脳会合 "wikilink")（G20大阪サミット）開催に伴う[テロ対策の為](https://ja.wikipedia.org/wiki/テロリズム "wikilink")、同期間中は中ふ頭駅の営業を休止した\[13\]。
 
 ## 駅一覧
 
@@ -248,6 +248,8 @@ Osaka Newtram01.jpg|100A系
 6.   (InternetArchive) 大阪市交通局、2005年6月7日。
 7.   (Internet Archive) - 大阪市交通局、2005年12月。
 8.
-9.  [笑顔もカラフル　大阪ニュートラム、２５年ぶり新型車両](http://www.asahi.com/articles/ASJ6X6K4GJ6XPTIL02B.html) - 朝日新聞デジタル、2016年6月29日
+9.
 10.
-11. [G20大阪サミット開催に伴うOsaka Metro及び大阪シティバスの運行計画について](https://subway.osakametro.co.jp/news/news_release/20190528_g20_nakafuto_nr.php) - Osaka Metro　2019年5月28日
+11. [笑顔もカラフル　大阪ニュートラム、２５年ぶり新型車両](http://www.asahi.com/articles/ASJ6X6K4GJ6XPTIL02B.html) - 朝日新聞デジタル、2016年6月29日
+12.
+13. [G20大阪サミット開催に伴うOsaka Metro及び大阪シティバスの運行計画について](https://subway.osakametro.co.jp/news/news_release/20190528_g20_nakafuto_nr.php) - Osaka Metro　2019年5月28日

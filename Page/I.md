@@ -43,13 +43,16 @@
 
 ## Iの意味
 
+### 学術的な記号・単位
+
+  - [十八を意味する数字](../Page/18.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")など、十九進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十八（[十進法](../Page/十進法.md "wikilink")の**18**）を一桁で表すために用いられる。ただし、[1](https://ja.wikipedia.org/wiki/1 "wikilink") と紛らわしいために使用しない（この場合、十八を [J](../Page/J.md "wikilink") として、十九を [K](https://ja.wikipedia.org/wiki/K "wikilink") 、… とする）こともある。
+
 ### 大文字
 
   - [ヨウ素](https://ja.wikipedia.org/wiki/ヨウ素 "wikilink")の[元素記号](../Page/元素記号.md "wikilink")。
   - 英語で[一人称](../Page/一人称.md "wikilink")の[単数形](https://ja.wikipedia.org/wiki/単数形 "wikilink")[主格](../Page/主格.md "wikilink")を表す[代名詞](../Page/代名詞.md "wikilink")で、「私は」と訳される。なお、この意味では常に大文字で記される。（[英語の人称代名詞\#一人称](https://ja.wikipedia.org/wiki/英語の人称代名詞#一人称 "wikilink")を参照。例文：I have a peso. 訳：私は1ペソ持っている）
   - [情報](https://ja.wikipedia.org/wiki/情報 "wikilink") (**I**nformation) を意味する。例：[IT革命](../Page/情報技術.md "wikilink")
   - [一を意味する数字](https://ja.wikipedia.org/wiki/1 "wikilink")。[ローマ数字](../Page/ローマ数字.md "wikilink")で用いられる。
-  - [十八を意味する数字](../Page/18.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")で、十八（[十進法](../Page/十進法.md "wikilink")の**18**）を一桁で表すのに用いられる。ただし、[1](https://ja.wikipedia.org/wiki/1 "wikilink") と紛らわしいために使用しない（この場合、十八を [J](../Page/J.md "wikilink") として、十九を [K](https://ja.wikipedia.org/wiki/K "wikilink") とする）例もある。
   - 電気業界で、日本[IBM](../Page/IBM.md "wikilink")を表す[符丁](https://ja.wikipedia.org/wiki/符丁 "wikilink")。
   - [知能](../Page/知能.md "wikilink") (**I**ntelligence)。(例: [IQ](https://ja.wikipedia.org/wiki/IQ "wikilink")=Intelligence Quotient)
   - いくつかのプログラム言語（代表例は[FORTRAN](../Page/FORTRAN.md "wikilink")）で、[整数](../Page/整数.md "wikilink") (**I**nteger) ないし整数である[変数を表す](../Page/変数_\(プログラミング\).md "wikilink")。このことから、ほかのプログラム言語でも整数である変数に用いられることが多く、ループの回数を数える変数として多用される ([iterator](../Page/イテレータ.md "wikilink")、[indexなど](https://ja.wikipedia.org/wiki/インデックス "wikilink")、さまざまな訳が考えられる)。

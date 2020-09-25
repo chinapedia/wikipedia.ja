@@ -15,7 +15,7 @@
 
 標準のグラフィックモードは次の4つが存在する。このうち、640×480の縦横比は当時のテレビの縦横比に近く、[マルチメディア](../Page/マルチメディア.md "wikilink")を想定した設計と言われている。
 
-  - 640×480ドット、16色またはモノクロ\[1\]。（後者はIBM [MCGA規格と同等](https://ja.wikipedia.org/wiki/Multicolor_Graphics_Adapter "wikilink")。）
+  - 640×480ドット、16色またはモノクロ\[1\]。（後者はIBM [MCGA規格と同等](../Page/Multicolor_Graphics_Adapter.md "wikilink")。）
   - 640×350または640×200ドット16色またはモノクロ（[EGA互換モード](../Page/Enhanced_Graphics_Adapter.md "wikilink")）
   - 320×200ドット、4色または16色
   - 320×200ドット、256色（モード13h）

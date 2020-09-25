@@ -66,7 +66,7 @@
 ## ゲーム機
 
   - [オンラインゲーム](../Page/オンラインゲーム.md "wikilink")サイト『[777town.net](../Page/777town.net.md "wikilink")』にてプレイが可能である。
-  - [PlayStation 2ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『実戦パチンコ必勝法\! CR北斗の拳』にてプレイが可能である。
+  - [PlayStation 2ゲーム](../Page/PlayStation_2.md "wikilink")『実戦パチンコ必勝法\! CR北斗の拳』にてプレイが可能である。
 
 ## 関連項目
 

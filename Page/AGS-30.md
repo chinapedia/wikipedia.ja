@@ -30,8 +30,13 @@ AGS-30の最大の特徴は、その軽量性にある。[歩兵](../Page/歩兵
 
   - 『[ARMA 2](https://ja.wikipedia.org/wiki/ARMA_2 "wikilink")』
     プレイヤーや[AIが操作可能](../Page/人工知能.md "wikilink")。
+
   - 『[コール オブ デューティ ブラックオプス](https://ja.wikipedia.org/wiki/コール_オブ_デューティ_ブラックオプス "wikilink")』
     [CIAが](../Page/中央情報局.md "wikilink")[鹵獲](../Page/鹵獲.md "wikilink")し、運用している[BTR-60](../Page/BTR-60.md "wikilink")の[砲塔](../Page/砲塔.md "wikilink")に何故か[九二式重機関銃](../Page/九二式重機関銃.md "wikilink")とともに搭載されている。また、ゲームの設定年代が[1960年代](../Page/1960年代.md "wikilink")なので本来は存在しない。
+
+  - 『[Esacape From Tarkov](https://ja.wikipedia.org/wiki/Esacape_From_Tarkov "wikilink")』
+
+EFTのリザーブ、カスタムズの各[マップ](https://ja.wikipedia.org/wiki/マップ "wikilink")に複数配置されている
 
 ## 参考文献
 

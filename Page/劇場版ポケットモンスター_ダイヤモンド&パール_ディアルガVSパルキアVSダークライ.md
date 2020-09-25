@@ -301,7 +301,7 @@
   - オープニングテーマ「[Together2007](https://ja.wikipedia.org/wiki/Together2007 "wikilink")」
     作詞 - D\&Pプロジェクト / 作曲 - Rie、編曲 - [西脇辰弥](../Page/西脇辰弥.md "wikilink") / 歌 - [あきよしふみえ](https://ja.wikipedia.org/wiki/ロッカフラグース "wikilink")（[ピカチュウレコード](../Page/ピカチュウレコード.md "wikilink")）
   - エンディングテーマ「ビー・ウィズ・ユー〜いつもそばに〜」
-    作詞・作曲 - Espen Lind, Amund Biorklund, Magnus Rostadmo / 歌 - [サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）
+    作詞・作曲 - Espen Lind, Amund Biorklund, Magnus Rostadmo / 歌 - [サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink")（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）
     クレジット上はサラ・ブライトマンの楽曲になっているが、実際にはクリス・トンプソンとのデュエット曲である。
     歌詞が全て[英語](../Page/英語.md "wikilink")であるため、1番では日本語訳の歌詞がクレジットされる。（長編での歌詞のクレジットは本シリーズ唯一）
   - ぬりえコンテストテーマ「夏でSUKA?」

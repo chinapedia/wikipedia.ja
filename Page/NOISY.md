@@ -1,7 +1,7 @@
 > この記事は[NOISY](https://ja.wikipedia.org/wiki/NOISY)から翻訳されています。
 
 
-**NOISY**（ノイジー、本名：**大田宏** - おおた ひろし、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](../Page/延岡市.md "wikilink")出身。[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**NOISY**（ノイジー、本名：**大田宏** - おおた ひろし、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")、[歌手](../Page/歌手.md "wikilink")。[宮崎県](../Page/宮崎県.md "wikilink")[延岡市](../Page/延岡市.md "wikilink")出身。[射手座](https://ja.wikipedia.org/wiki/射手座 "wikilink")、[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 略歴
 

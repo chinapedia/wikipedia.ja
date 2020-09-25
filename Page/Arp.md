@@ -25,7 +25,7 @@
     3.  Reborn-PostProduction Mistuo Suzuki Mix
     4.  Good Night\[4:50\]
           -
-            作詞：大宮あん朱／作曲：濱田貴司・[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")／編曲：濱田貴司
+            作詞：大宮あん朱／作曲：濱田貴司・[CMJK](../Page/CMJK.md "wikilink")／編曲：濱田貴司
     <!-- end list -->
       - DISC2
     <!-- end list -->

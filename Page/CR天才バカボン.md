@@ -366,7 +366,7 @@
 
 ## 関連商品
 
-  - 『必殺パチンコステーションV2 天才バカボン』（[2001年](../Page/2001年.md "wikilink")7月、[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")、[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - 『必殺パチンコステーションV2 天才バカボン』（[2001年](../Page/2001年.md "wikilink")7月、[サンソフト](https://ja.wikipedia.org/wiki/サンソフト "wikilink")、[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")）
   - 『必殺パチンコステーションV7 天才バカボン2』（[2003年](../Page/2003年.md "wikilink")5月、サンソフト、PlayStation 2用ゲームソフト）
 
 ## 外部リンク

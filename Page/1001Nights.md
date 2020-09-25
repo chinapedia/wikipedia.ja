@@ -5,7 +5,7 @@
 
 ## 解説
 
-[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売の12枚目のシングル。前作「[Joy Trip](../Page/Joy_Trip.md "wikilink")」に続く「BENNIE K流音楽の旅」第2弾としてリリース。YUKIのボーカルには「旅の途中で感じた様々なメッセージ」が、CICOのラップには[アラビア語](../Page/アラビア語.md "wikilink")の[説話](../Page/説話.md "wikilink")集『[千夜一夜物語](../Page/千夜一夜物語.md "wikilink")』が織り交ぜられている。なお「1001Nights」の直訳が「千夜一夜」である。歌詞には初めて[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")を使用している。
+[2007年](../Page/2007年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売の12枚目のシングル。前作「[Joy Trip](../Page/Joy_Trip.md "wikilink")」に続く「BENNIE K流音楽の旅」第2弾としてリリース。YUKIのボーカルには「旅の途中で感じた様々なメッセージ」が、CICOのラップには[アラビア語](../Page/アラビア語.md "wikilink")の[説話](../Page/説話.md "wikilink")集『[千夜一夜物語](../Page/千夜一夜物語.md "wikilink")』が織り交ぜられている。なお「1001Nights」の直訳が「千夜一夜」である。歌詞には初めて[中国語](../Page/中国語.md "wikilink")を使用している。
 
 DVD付きのバージョンも発売され、「Joy Trip」と「1001Nights」の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が収録される。「[Sky](../Page/Sky_\(BENNIE_Kの曲\).md "wikilink")」の際と異なりメイキング映像は収録されていない。タイトル曲のミュージック・ビデオはCDシングル音源より20秒ほどイントロが長い。
 

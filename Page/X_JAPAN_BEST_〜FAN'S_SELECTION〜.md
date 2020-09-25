@@ -24,7 +24,7 @@
 1.  **[紅](../Page/紅_\(Xの曲\).md "wikilink")**
       -
         （作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")/編曲:X）
-        アルペジオの前にオーケストラのイントロがある『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』収録テイク。
+        アルペジオの前にオーケストラのイントロがある『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』収録テイク。
 2.  **[Silent Jealousy](../Page/Silent_Jealousy.md "wikilink")**
       -
         （作詞・作曲:YOSHIKI/編曲:X）

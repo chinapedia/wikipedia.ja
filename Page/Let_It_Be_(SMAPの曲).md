@@ -36,6 +36,6 @@
 
 ## 外部リンク
 
-  - [Let It Be - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35072.html)
+  - [Let It Be - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-35072.html)
 
 [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:2000年のシングル](https://ja.wikipedia.org/wiki/Category:2000年のシングル "wikilink") [Category:Face_2_fAKEが制作した楽曲](https://ja.wikipedia.org/wiki/Category:Face_2_fAKEが制作した楽曲 "wikilink") [Category:楽曲_れ](https://ja.wikipedia.org/wiki/Category:楽曲_れ "wikilink")

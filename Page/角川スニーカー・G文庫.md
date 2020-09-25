@@ -3,7 +3,7 @@
 
 **角川スニーカー・G文庫**（かどかわスニーカー・ジーぶんこ）は、[角川書店](../Page/角川書店.md "wikilink")（現：[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")）から刊行されていた文庫のレーベル名の一つである。角川書店による[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")(TRPG）関係の書籍を出版するレーベルで[1994年](../Page/1994年.md "wikilink")に創刊した。
 
-TRPGの文庫版ルールブックや[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")、[リプレイ](../Page/リプレイ_\(TRPG\).md "wikilink")、ガイドブック（「[○○がよく分かる本](https://ja.wikipedia.org/wiki/○○がよく分かる本 "wikilink")」シリーズ）などがこのレーベルに所属する。レーベル創刊前にもロードス島戦記のリプレイや、ガープスの初期のシリーズなどいくつかのTRPG関係の文庫書籍は[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")で出版されていたのだが、角川スニーカーG文庫の創刊と同時にそれらは全てスニーカー・G文庫で再版されている。
+TRPGの文庫版ルールブックや[サプリメント](../Page/サプリメント_\(TRPG\).md "wikilink")、[リプレイ](../Page/リプレイ_\(TRPG\).md "wikilink")、ガイドブック（「[○○がよく分かる本](https://ja.wikipedia.org/wiki/○○がよく分かる本 "wikilink")」シリーズ）などがこのレーベルに所属する。レーベル創刊前にもロードス島戦記のリプレイや、ガープスの初期のシリーズなどいくつかのTRPG関係の文庫書籍は[角川スニーカー文庫](https://ja.wikipedia.org/wiki/角川スニーカー文庫 "wikilink")で出版されていたのだが、角川スニーカーG文庫の創刊と同時にそれらは全てスニーカー・G文庫で再版されている。
 
 『[ロードス島戦記](../Page/ロードス島戦記.md "wikilink")』『[妖魔夜行](../Page/妖魔夜行.md "wikilink")』『[ルナルサーガ](https://ja.wikipedia.org/wiki/ルナルサーガ "wikilink")』などTRPGに深い関わりがあっても純粋な小説作品であるものについては、角川スニーカー・G文庫創刊後も角川スニーカー文庫で刊行されている。
 

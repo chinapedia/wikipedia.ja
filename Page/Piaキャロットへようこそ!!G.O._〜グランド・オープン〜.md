@@ -12,7 +12,7 @@
       - ランチボックス - F\&Cのファンクラブ会員向け通販限定。
     2006年6月30日、スタンダード版発売。
   - Pia♥キャロットへようこそ\!\!G.O. SUMMER FAIR
-    2007年12月20日、[Piacci](https://ja.wikipedia.org/wiki/Piacci "wikilink")より[PlayStation 2版が発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    2007年12月20日、[Piacci](https://ja.wikipedia.org/wiki/Piacci "wikilink")より[PlayStation 2版が発売](../Page/PlayStation_2.md "wikilink")。
     2009年1月22日、廉価版発売。
   - Pia♥キャロットへようこそ\!\!G.O.SPECIAL EDITION
     2008年4月25日、『SUMMER FAIR』をアダルトゲーム化した逆移植版が発売。

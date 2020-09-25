@@ -312,8 +312,7 @@ THE THIRD LIGHTNING</p></td>
 
   - [R-TYPE III（バーチャルコンソール）](http://www.nintendo.co.jp/wii/vc/vc_rt/index.html)
 
-  - （英語）
-
+  -
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:R-TYPE](https://ja.wikipedia.org/wiki/Category:R-TYPE "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ゲームボーイアドバンス用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイアドバンス用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink")
 
 1.  マイウェイ出版『死ぬ前にクリアしたい200の無理ゲー ファミコン&スーファミ』 (ISBN 9784865119855、2018年10月10日発行)、84ページ

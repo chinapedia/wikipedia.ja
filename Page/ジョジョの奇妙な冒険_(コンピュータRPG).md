@@ -88,8 +88,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:ジョジョの奇妙な冒険](https://ja.wikipedia.org/wiki/Category:ジョジョの奇妙な冒険 "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:漫画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:漫画のキャラクターゲーム "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『スーパーファミコンクソゲー番付』マイウェイ出版発行、2017年。ISBN 9784865117097 p52-53

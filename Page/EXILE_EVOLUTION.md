@@ -138,7 +138,7 @@
 12. **運命のヒト**（with 田﨑敬浩）
 13. **[EXIT](../Page/EXIT_\(EXILEの曲\).md "wikilink")**（with TAKA）
 14. **[Fly Away](https://ja.wikipedia.org/wiki/Fly_away_\(J_Soul_Brothersの曲\)#EXILEによるカバー "wikilink")**（with Nesmith）
-15. **[Choo Choo TRAIN](https://ja.wikipedia.org/wiki/Choo_Choo_TRAIN_\(EXILEのシングル\) "wikilink")**
+15. **[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEのシングル\).md "wikilink")**
 16. The Document Movie of **EXILE VOCAL BATTLE AUDITION 2006 〜ASIAN DREAM〜**
       - ナレーション：[窪田等](../Page/窪田等.md "wikilink")
 

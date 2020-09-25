@@ -228,7 +228,7 @@ Z4 クーペ 3.0si</p></td>
 
 ## 第3世代（2019年-）G29
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_Z4_sDrive20i_M_Sport_2.0_Front.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_Z4_sDrive20i_M_Sport_2.0_Rear.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_Z4_\(G29\)_\(3\).jpg "wikilink") 2017年8月17日、ペブルビーチ・コンクール・デレガンスでコンセプトZ4が公開された。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_Z4_sDrive20i_M_Sport_2.0_Front.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_Z4_sDrive20i_M_Sport_2.0_Rear.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:BMW_Z4_\(G29\)_\(3\).jpg "wikilink") 2017年8月17日、[ペブルビーチ・コンクール・デレガンスでコンセプトZ](https://ja.wikipedia.org/wiki/コンクール・デレガンス#ペブルビーチ・コンクール・デレガンス "wikilink")4が公開された。
 
 2018年8月23日、ペブルビーチ・コンクール・デレガンスでZ4が発表された。車両構成の基礎となるエンジンやシャシーなどの[プラットフォームを](../Page/プラットフォーム_\(自動車\).md "wikilink")[トヨタ・スープラ](https://ja.wikipedia.org/wiki/トヨタ・スープラ#5代目_DB型（2019年-） "wikilink")（日本名：GRスープラ）と共用しており、製造はオーストリアにある[マグナ・シュタイア](https://ja.wikipedia.org/wiki/マグナ・シュタイア "wikilink")が担当する\[1\]。
 

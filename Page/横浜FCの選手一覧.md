@@ -1978,7 +1978,7 @@
 
   - [崔成勇](../Page/崔成勇.md "wikilink")
 
-  - [曺永哲](../Page/チョ永哲.md "wikilink")：[FC TIAMO枚方](../Page/FCティアモ枚方.md "wikilink")
+  - [曺永哲](https://ja.wikipedia.org/wiki/曺永哲 "wikilink")：[FC TIAMO枚方](../Page/FCティアモ枚方.md "wikilink")
 
   - [劉孝眞](https://ja.wikipedia.org/wiki/劉孝眞 "wikilink")
 

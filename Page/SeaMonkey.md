@@ -90,7 +90,7 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
   - 2011年11月22日 - **SeaMonkey** **2.5**リリース。アドオン管理機能を改良、HTML5やWebSocketへの対応を強化した。
   - 2011年12月20日 -*' SeaMonkey 2.6*'リリース。HTML5のコンテキストメニューに対応、Composerに印刷プレビュー機能を追加、[型推論](../Page/型推論.md "wikilink")導入によるJavaScriptの高速化。
       - 2011年12月22日 - SeaMonkey 2.6.1リリース。Linux版、Mac OS X 版で異常終了する問題を修正。
-  - 2012年1月31日 - **SeaMonkey** **2.7**リリース。アドオンの互換性を柔軟に判断するように変更したほか、[WebGL](https://ja.wikipedia.org/wiki/WebGL "wikilink")のアンチエイリアス、[CSS](../Page/CSS.md "wikilink")の3Dトランスフォーム、HTML5の`bdi`要素、[Indexed Database APIを実装](https://ja.wikipedia.org/wiki/Indexed_Database_API "wikilink")。
+  - 2012年1月31日 - **SeaMonkey** **2.7**リリース。アドオンの互換性を柔軟に判断するように変更したほか、[WebGL](https://ja.wikipedia.org/wiki/WebGL "wikilink")のアンチエイリアス、[CSSの](../Page/Cascading_Style_Sheets.md "wikilink")3Dトランスフォーム、HTML5の`bdi`要素、[Indexed Database APIを実装](https://ja.wikipedia.org/wiki/Indexed_Database_API "wikilink")。
       - 2012年2月10日 - SeaMonkey 2.7.1リリース。Javaアプレット上で文字入力が無反応になる場合がある問題と1件のセキュリティ問題を修正。
       - 2012年2月16日 - SeaMonkey 2.7.2リリース。1件のセキュリティ問題を修正。
   - 2012年3月13日 - **SeaMonkey** **2.8**リリース。バージョン2.0以前のプロファイル移行機能の削除、アドオン同期機能の追加、CSS3の`text-size-adjust`プロパティ、HTML DOM の`outerHTML`プロパティへの対応、ページのソース表示にHTML5パーサの採用、[SPDY](https://ja.wikipedia.org/wiki/SPDY "wikilink")プロトコルへの対応など。

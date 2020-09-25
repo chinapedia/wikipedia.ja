@@ -5,7 +5,7 @@
 
 [静岡県](../Page/静岡県.md "wikilink")出身。ファミーホームソフトの[椎名舞とは別人](https://ja.wikipedia.org/wiki/椎名舞_\(Hime\) "wikilink")。
 
-デビュー時のボディサイズはT155/B90 (G-65) /W57/H85。 [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：A型。　趣味：犬の散歩。
+デビュー時のボディサイズはT155/B90 (G-65) /W57/H85。 [血液型](../Page/ABO式血液型.md "wikilink")：A型。　趣味：犬の散歩。
 
 ## 略歴
 

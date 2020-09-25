@@ -6,12 +6,12 @@
 ## メンバー
 
   - **春名 和昭**（はるな かずあき、 - ）ボケ担当
-      - [兵庫県](../Page/兵庫県.md "wikilink")[たつの市](../Page/たつの市.md "wikilink")（旧新宮町）出身。血液型[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - [兵庫県](../Page/兵庫県.md "wikilink")[たつの市](../Page/たつの市.md "wikilink")（旧新宮町）出身。血液型[AB型](../Page/ABO式血液型.md "wikilink")。
       - 趣味は水撒き。春名の方がチョンマゲをかぶる時代劇コントが得意。
       - 後輩芸人を引き連れて「春名軍団」を組織する。[ますだおかだ角パァ\!](../Page/ますだおかだ角パァ!.md "wikilink")では[高田総統](../Page/高田総統.md "wikilink")を模したコスチュームで出演。
       - コンビ解散後はピン芸人の活動を経て、[2014年](../Page/2014年.md "wikilink")に芸能界引退。
   - **植村 茂浩**（うえむら しげひろ、 - ）ツッコミ担当
-      - 兵庫県たつの市（旧新宮町）出身。血液型[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+      - 兵庫県たつの市（旧新宮町）出身。血液型[O型](../Page/ABO式血液型.md "wikilink")。
       - 趣味は[バスケットボール](../Page/バスケットボール.md "wikilink")。
       - コンビ解散後は、元左ミドルの[華井二等兵](https://ja.wikipedia.org/wiki/華井二等兵 "wikilink")とのコンビ「**モナコ大作戦**」として活動。現在はピン芸人として活動中。
 

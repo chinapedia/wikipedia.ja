@@ -131,7 +131,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [YG Thailand](http://www.ygthailand.com)
   - [YGエンターテインメント オーディション情報【2020】](https://skatingcircle.com/yg-audition/)－ K-DREAM
 
-[Category:韓国の芸能事務所](https://ja.wikipedia.org/wiki/Category:韓国の芸能事務所 "wikilink") [Category:ソウル特別市の企業](https://ja.wikipedia.org/wiki/Category:ソウル特別市の企業 "wikilink") [Category:1996年設立の企業](https://ja.wikipedia.org/wiki/Category:1996年設立の企業 "wikilink") [Category:KOSDAQ上場企業](https://ja.wikipedia.org/wiki/Category:KOSDAQ上場企業 "wikilink")
+[Category:YGエンターテインメント](https://ja.wikipedia.org/wiki/Category:YGエンターテインメント "wikilink") [Category:韓国の芸能事務所](https://ja.wikipedia.org/wiki/Category:韓国の芸能事務所 "wikilink") [Category:ソウル特別市の企業](https://ja.wikipedia.org/wiki/Category:ソウル特別市の企業 "wikilink") [Category:1996年設立の企業](https://ja.wikipedia.org/wiki/Category:1996年設立の企業 "wikilink") [Category:KOSDAQ上場企業](https://ja.wikipedia.org/wiki/Category:KOSDAQ上場企業 "wikilink")
 
 1.  [YGヤン・ヒョンソク代表、本日（6/14）付けで辞任「全ての役職から退く」（公式全文）](http://news.kstyle.com/m/article.ksn?articleNo=2119438)Kstyle 2019/6/14
 2.  [YGヤン・ミンソク代表取締役、兄のヤン・ヒョンソク代表と辞任へ…公式発表「真実は必ず明らかになる」](http://news.kstyle.com/m/article.ksn?articleNo=2119443)Kstyle 2019/6/14

@@ -68,7 +68,8 @@
 | 2016-17 | プルヴァHNL|1. HNL                                             | 36                                                              |
 | 2017-18 | プルヴァHNL|1. HNL                                             | 36                                                              |
 | 2018-19 | プルヴァHNL|1. HNL                                             | 36                                                              |
-| 2019-20 | プルヴァHNL|1. HNL                                             |                                                                 |
+| 2019-20 | プルヴァHNL|1. HNL                                             | 36                                                              |
+| 2020-21 | プルヴァHNL|1. HNL                                             |                                                                 |
 
 ## 欧州の成績
 
@@ -668,6 +669,16 @@
 <td><p>2–0</p></td>
 <td><p>'''3–3 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>rowspan="" | 2020-21</p></td>
+<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>予選2回戦</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td><p>'''</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

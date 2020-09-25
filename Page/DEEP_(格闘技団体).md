@@ -105,7 +105,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ストロー級" title="wikilink">ストロー級</a></p></td>
 <td><p>52.2kg以下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/越智晴雄" title="wikilink">越智晴雄</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/川原波輝" title="wikilink">川原波輝</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

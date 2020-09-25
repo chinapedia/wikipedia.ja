@@ -107,7 +107,7 @@
 ## 外部リンク
 
   - [UP-FRONT WORKS](http://www.up-front-works.jp/release/search/?a=zyx)
-  - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=22)
+  - [つんく♂オフィシャルウェブサイトのコメント](https://www.tsunku.net/producework.php?Music_ArtistID=22)
 
 {{℃-ute}}
 

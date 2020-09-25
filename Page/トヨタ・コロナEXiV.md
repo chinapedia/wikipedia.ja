@@ -71,7 +71,7 @@ CM出演者は[本木雅弘](../Page/本木雅弘.md "wikilink")で、後に[プ
   - [トヨタ コロナEXiV（初代）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60008587/) - [トヨタ自動車公式企業サイト](https://www.toyota.co.jp/)内のページ。
   - [トヨタ コロナEXiV（2代目）](https://www.toyota.co.jp/jpn/company/history/75years/vehicle_lineage/car/id60008611/) - 同上。
 
-[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:4ドアクーペ](https://ja.wikipedia.org/wiki/Category:4ドアクーペ "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:アクロニムを使用したブランド](https://ja.wikipedia.org/wiki/Category:アクロニムを使用したブランド "wikilink")
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:4ドアクーペ](https://ja.wikipedia.org/wiki/Category:4ドアクーペ "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:アクロニムを使用したブランド](https://ja.wikipedia.org/wiki/Category:アクロニムを使用したブランド "wikilink")
 
 1.  コロナシリーズ全体としては通算**9代目**
 2.

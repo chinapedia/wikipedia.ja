@@ -220,8 +220,6 @@ Buono!メンバー<br />
 
 ### シングル
 
-<span style="font-size:x-large;color:#78D2FF;">■</span> … 10位以内 <span style="font-size:x-large;color:#FF94D2;">■</span> … 20位以内 <span style="font-size:x-large;color:#A4FF3C;">■</span> … 30位以内
-
 <table>
 <tbody>
 <tr class="odd">
@@ -581,7 +579,7 @@ Buono!メンバー<br />
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ロマンスを語って/永久の歌" title="wikilink">ロマンスを語って/永久の歌</a></strong>[59]</p></td>
 <td><p>11月12日</p></td>
 <td></td>
-<td></td>
+<td><p><strong>2位</strong></p></td>
 </tr>
 </tbody>
 </table>
@@ -1064,7 +1062,7 @@ Buono!メンバー<br />
       - [Berryz工房オフィシャルファンクラブページ](https://web.archive.org/web/20140814231726/https://www.up-fc.jp/helloproject/member/berryz/) - 2014年8月14日時点のアーカイブ
       - [Berryz工房の歴史サイト](http://r.helloproject.com/berryzkobo/history/)
       - [Berryz工房 リリース作品情報](http://www.up-front-works.jp/release/search/?a=berryzkobo) - [UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")
-      - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=2)
+      - [つんく♂オフィシャルウェブサイトのコメント](https://www.tsunku.net/producework.php?Music_ArtistID=2)
   - SNS
       -
       -
@@ -1080,7 +1078,7 @@ Buono!メンバー<br />
 4.
 5.
 6.  2014年、[女優として芸能界に一時復帰し](../Page/俳優.md "wikilink")、2015年に引退
-7.  "[つんく♂オフィシャルウェブサイト ＜『Berryz工房』（ベリーズこうぼう）誕生について＞2004/01/15](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=13)"
+7.  "[つんく♂オフィシャルウェブサイト ＜『Berryz工房』（ベリーズこうぼう）誕生について＞2004/01/15](https://www.tsunku.net/officialcommentdetail.php?@DB_ID@=13)"
 8.
 9.
 10.

@@ -12,7 +12,7 @@
 
 [アーケード版は](../Page/アーケードゲーム.md "wikilink")[2003年](../Page/2003年.md "wikilink")9月に発売。2004年8月には、バランスの改定、新要素の追加などがなされたアッパーバージョン『[機動戦士Ζガンダム エゥーゴvs.ティターンズDX](../Page/機動戦士Ζガンダム_エゥーゴvs.ティターンズDX.md "wikilink")』が発売された。また、家庭用も発売されている。
 
-2003年12月4日に発売された[PlayStation 2版は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[KDDI](../Page/KDDI.md "wikilink")の通信対戦サービス[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")対応ソフトであり、同サービスの下で4人対戦が可能。オフラインでも画面を左右に分割して2人プレイ可能。
+2003年12月4日に発売された[PlayStation 2版は](../Page/PlayStation_2.md "wikilink")[KDDI](../Page/KDDI.md "wikilink")の通信対戦サービス[マルチマッチングBB](https://ja.wikipedia.org/wiki/マルチマッチングBB "wikilink")対応ソフトであり、同サービスの下で4人対戦が可能。オフラインでも画面を左右に分割して2人プレイ可能。
 
 ## 追加されたシステム
 

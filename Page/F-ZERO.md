@@ -279,8 +279,7 @@ Nintendo Switch Online</a></p></td>
 
   - [「ニンテンドークラシックミニ スーパーファミコン」発売記念インタビュー 第2回「F-ZERO篇」](https://topics.nintendo.co.jp/c/article/0e9c42d3-7d8a-11e7-8cda-063b7ac45a6d.html) - 任天堂ホームページ内「トピックス」
 
-  - （英語）
-
+  -
 [Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:1990年のファミ通クロスレビュープラチナ殿堂入りソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミ通クロスレビュープラチナ殿堂入りソフト "wikilink") [Category:F-ZERO](https://ja.wikipedia.org/wiki/Category:F-ZERO "wikilink") [Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Newニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:サテラビュー放送番組](https://ja.wikipedia.org/wiki/Category:サテラビュー放送番組 "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ニンテンドウパワー書き換えソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドウパワー書き換えソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『[懐かしスーパーファミコン　パーフェクトガイド](http://diapress.jp/archives/7402.html)』　[マガジンボックス](http://www.magazinebox.co.jp/)（M.B.ムック）、2016年。ISBN 9784866400082 p75

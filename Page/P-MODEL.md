@@ -7,7 +7,7 @@
 
 [1979年](../Page/1979年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、前身バンド「[MANDRAKE](https://ja.wikipedia.org/wiki/マンドレイク_\(バンド\) "wikilink")」が解散。即日**P-MODEL**が結成され、同年7月にメジャーデビュー。
 
-[YMOを始めとする](../Page/イエロー・マジック・オーケストラ.md "wikilink")[テクノポップ](../Page/テクノポップ.md "wikilink")ブームの一翼を担い、[プラスチックス](../Page/プラスチックス.md "wikilink")・[ヒカシュー](../Page/ヒカシュー.md "wikilink")と共に「テクノ御三家」の一つとして取り上げられるようになるが、[1981年](../Page/1981年.md "wikilink")に発売された3rdアルバム『[Potpourri](https://ja.wikipedia.org/wiki/POTPOURRI "wikilink")』で「脱・テクノ」を宣言。以降はメンバーや音楽性が激しく変遷し、紆余曲折を経て[1988年](../Page/1988年.md "wikilink")12月にP-MODELの「凍結」(活動休止)を宣言。
+[YMOを始めとする](../Page/イエロー・マジック・オーケストラ.md "wikilink")[テクノポップ](../Page/テクノポップ.md "wikilink")ブームの一翼を担い、[プラスチックス](../Page/プラスチックス.md "wikilink")・[ヒカシュー](../Page/ヒカシュー.md "wikilink")と共に「テクノ御三家」の一つとして取り上げられるようになるが、[1981年](../Page/1981年.md "wikilink")に発売された3rdアルバム『[Potpourri](https://ja.wikipedia.org/wiki/Potpourri_\(P-MODELのアルバム\) "wikilink")』で「脱・テクノ」を宣言。以降はメンバーや音楽性が激しく変遷し、紆余曲折を経て[1988年](../Page/1988年.md "wikilink")12月にP-MODELの「凍結」(活動休止)を宣言。
 
 [1991年](../Page/1991年.md "wikilink")、P-MODELの「解凍」を宣言し、同年9月に[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")にて行われたライブイベント『ERROR OF UNIVERSE』にて活動再開。再びテクノポップを全面に打ち出した。
 

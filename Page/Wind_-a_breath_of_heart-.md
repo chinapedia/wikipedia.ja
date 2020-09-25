@@ -3,7 +3,7 @@
 
 『**Wind -a breath of heart-**』（ウインド ア ブレス オブ ハート）は[2002年](../Page/2002年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")に[minori](https://ja.wikipedia.org/wiki/minori "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。
 
-家庭用ゲーム機版は[アルケミストより](../Page/アルケミスト_\(企業\).md "wikilink")、[2003年](../Page/2003年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版（[翌年](../Page/2004年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にアルケミスト1周年記念のリパッケージ版が発売）、同年[12月18日](../Page/12月18日.md "wikilink")に加賀テック株式会社より[プレイステーション2版が発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2の廉価版はデジタル・ゲインより2006年12月14日発売）。
+家庭用ゲーム機版は[アルケミストより](../Page/アルケミスト_\(企業\).md "wikilink")、[2003年](../Page/2003年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版（[翌年](../Page/2004年.md "wikilink")[1月29日](../Page/1月29日.md "wikilink")にアルケミスト1周年記念のリパッケージ版が発売）、同年[12月18日](../Page/12月18日.md "wikilink")に加賀テック株式会社より[プレイステーション2版が発売されている](../Page/PlayStation_2.md "wikilink")（PS2の廉価版はデジタル・ゲインより2006年12月14日発売）。
 
 オープニングムービーと挿入ムービーは[新海誠](../Page/新海誠.md "wikilink")が製作している。
 

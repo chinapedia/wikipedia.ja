@@ -1,7 +1,7 @@
 > この記事は[トヨタ・カリーナED](https://ja.wikipedia.org/wiki/トヨタ・カリーナED)から翻訳されています。
 
 
-**カリーナED**（カリーナイーディー、*Carina ED*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が1985年から1998年まで生産していた4ドア[ハードトップ](../Page/ハードトップ.md "wikilink")型[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。
+**カリーナED**（カリーナイーディー、*Carina ED*）は、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が1985年から1998年まで生産していた4ドア[ハードトップ](../Page/ハードトップ.md "wikilink")（[4ドアクーペ](https://ja.wikipedia.org/wiki/4ドアクーペ "wikilink")）型[普通乗用車](https://ja.wikipedia.org/wiki/普通乗用車 "wikilink")である。
 
 ## 概要
 
@@ -90,7 +90,7 @@
 
 
 
-[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:4ドアクーペ](https://ja.wikipedia.org/wiki/Category:4ドアクーペ "wikilink") [Category:スポーツセダン](https://ja.wikipedia.org/wiki/Category:スポーツセダン "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:頭字語のブランド名](https://ja.wikipedia.org/wiki/Category:頭字語のブランド名 "wikilink")
+[Category:トヨタの車種](https://ja.wikipedia.org/wiki/Category:トヨタの車種 "wikilink") [Category:セダン](https://ja.wikipedia.org/wiki/Category:セダン "wikilink") [Category:4ドアクーペ](https://ja.wikipedia.org/wiki/Category:4ドアクーペ "wikilink") [Category:スポーツセダン](https://ja.wikipedia.org/wiki/Category:スポーツセダン "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink") [Category:頭字語のブランド名](https://ja.wikipedia.org/wiki/Category:頭字語のブランド名 "wikilink")
 
 1.  [【昭和クルマ列伝】狭い、低い、だけどカッコいい！　日本中にあふれた4ドアクーペ](http://www.sankei.com/west/news/170204/wst1702040024-n1.html)産経WEST（2017年2月4日）
 2.  カリーナシリーズ全体としては通算**4代目**

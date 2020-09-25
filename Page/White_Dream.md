@@ -5,7 +5,12 @@
 
 ## 概要
 
-2003年7月に設立。代表取締役はビーイングの代表でもある升田敏則。[ビーイング](../Page/ビーイング.md "wikilink")関連会社であるが、資本関係はない。[日本映像事業協同組合](https://ja.wikipedia.org/wiki/日本映像事業協同組合 "wikilink")正組合員。ビーイング内のタレントや俳優のマネージメントを行っている。それ以外にも[B'z](../Page/B'z.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")・[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")(現解散)等のBeingグループ所属アーティストのコンサート制作も行なっている。
+  - 2003年7月に設立。　
+  - 代表取締役はビーイングの代表でもある升田敏則。
+  - [ビーイング](../Page/ビーイング.md "wikilink")関連会社であるが、資本関係はない。
+  - ビーイング内のタレントや俳優のマネージメントを行っている
+  - [日本映像事業協同組合](https://ja.wikipedia.org/wiki/日本映像事業協同組合 "wikilink")正組合員。
+  - [B'z](../Page/B'z.md "wikilink")・[ZARD](../Page/ZARD.md "wikilink")・[倉木麻衣](https://ja.wikipedia.org/wiki/倉木麻衣 "wikilink")・[GARNET CROW](https://ja.wikipedia.org/wiki/GARNET_CROW "wikilink")(現解散)等のBeingグループ所属アーティストのコンサート制作も行なっている。
 
 ## 所属タレント
 
@@ -19,7 +24,6 @@
   - エレーナ・アン
   - 千疋隼斗
   - 灰塚宗史
-  - [RIMA](https://ja.wikipedia.org/wiki/RIMA "wikilink")
 
 ## 過去の所属アーティスト・タレント
 

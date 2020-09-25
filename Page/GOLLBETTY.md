@@ -9,13 +9,13 @@
 
 ## メンバー
 
-  - **G-YUN**（ジュン、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月9日](../Page/12月9日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") \*2011年5月10日シングル「Message」でソロデビュー。現[トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink")。
-  - **MISSY**（ミッシー、1983年[12月29日](../Page/12月29日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ギター](../Page/ギター.md "wikilink")
-  - **CLASSY**（クラッシー、1983年[4月30日](../Page/4月30日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-  - **MUSH**（ムッシュ、[1984年](../Page/1984年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[ドラム](../Page/ドラムセット.md "wikilink")
-  - **TAKA-P**（タカピー、1985年[12月21日](../Page/12月21日.md "wikilink") [AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
-  - **SHODAI**（ショーダイ、1984年、[8月11日](../Page/8月11日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トランペット](../Page/トランペット.md "wikilink")
-  - **HIROAKI**（ヒロアキ、1983年[9月10日](../Page/9月10日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）[トロンボーン](../Page/トロンボーン.md "wikilink")
+  - **G-YUN**（ジュン、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[12月9日](../Page/12月9日.md "wikilink") [A型](../Page/ABO式血液型.md "wikilink")）[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink") \*2011年5月10日シングル「Message」でソロデビュー。現[トライアンパサンディ](https://ja.wikipedia.org/wiki/トライアンパサンディ "wikilink")。
+  - **MISSY**（ミッシー、1983年[12月29日](../Page/12月29日.md "wikilink") [A型](../Page/ABO式血液型.md "wikilink")）[ギター](../Page/ギター.md "wikilink")
+  - **CLASSY**（クラッシー、1983年[4月30日](../Page/4月30日.md "wikilink") [A型](../Page/ABO式血液型.md "wikilink")）[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+  - **MUSH**（ムッシュ、[1984年](../Page/1984年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink") [O型](../Page/ABO式血液型.md "wikilink")）[ドラム](../Page/ドラムセット.md "wikilink")
+  - **TAKA-P**（タカピー、1985年[12月21日](../Page/12月21日.md "wikilink") [AB型](../Page/ABO式血液型.md "wikilink")）[サックス](https://ja.wikipedia.org/wiki/サックス "wikilink")
+  - **SHODAI**（ショーダイ、1984年、[8月11日](../Page/8月11日.md "wikilink") [A型](../Page/ABO式血液型.md "wikilink")）[トランペット](../Page/トランペット.md "wikilink")
+  - **HIROAKI**（ヒロアキ、1983年[9月10日](../Page/9月10日.md "wikilink") [A型](../Page/ABO式血液型.md "wikilink")）[トロンボーン](../Page/トロンボーン.md "wikilink")
 
 ドラムのAKI3（アキサン）は本人の意志に依り[2007年](../Page/2007年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")に脱退
 

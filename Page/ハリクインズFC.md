@@ -45,7 +45,7 @@
 </ul>
 <p><strong>フッカー</strong></p>
 <ul>
-<li><p><strong><a href="https://ja.wikipedia.org/wiki/スコット・ボールドウィン" title="wikilink">スコット・ボールドウィン</a></strong></p></li>
+<li><p><strong><a href="../Page/スコット・ボールドウィン.md" title="wikilink">スコット・ボールドウィン</a></strong></p></li>
 <li><p>Rob Buchanan</p></li>
 <li><p>Max Crumpton</p></li>
 <li><p><strong><a href="https://ja.wikipedia.org/wiki/エリア・エリア" title="wikilink">エリア・エリア</a></strong></p></li>
@@ -70,23 +70,23 @@
 
 ## 過去の所属選手
 
-  - [ニック・イースター](https://ja.wikipedia.org/wiki/ニック・イースター "wikilink")(Nick Easter)…イングランド代表54キャップ、2007・2011・2015W杯3大会連続出場。
+  - [ニック・イースター](../Page/ニック・イースター.md "wikilink")(Nick Easter)…イングランド代表54キャップ、2007・2011・2015W杯3大会連続出場。
 
   - [ティト・テバルディ](../Page/ティト・テバルディ.md "wikilink")(Tito Tebaldi)…イタリア代表36キャップ、現在は[ベネットン・ラグビー](../Page/ベネットン・ラグビー.md "wikilink")に所属。
 
-  - [オリー・リンゼイ＝ヘイグ](https://ja.wikipedia.org/wiki/オリー・リンゼイ＝ヘイグ "wikilink")(Ollie Lindsay-Hague)…[リオ五輪の](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピック "wikilink")[7人制イギリス代表で銀メダル獲得](https://ja.wikipedia.org/wiki/7人制ラグビー男子イギリス代表 "wikilink")。
+  - [オリー・リンゼイ＝ヘイグ](../Page/オリー・リンゼイ＝ヘイグ.md "wikilink")(Ollie Lindsay-Hague)…[リオ五輪の](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピック "wikilink")[7人制イギリス代表で銀メダル獲得](../Page/7人制ラグビー男子イギリス代表.md "wikilink")。
 
   - [ニック・メイヒュー](../Page/ニック・メイヒュー.md "wikilink")(Nic Mayhew)…現在は[サンウルブズ](https://ja.wikipedia.org/wiki/サンウルブズ "wikilink")に所属。
 
-  - [アサエリ・ティコイロトマ](https://ja.wikipedia.org/wiki/アサエリ・ティコイロトマ "wikilink")(Asaeli Tikoirotuma)…フィジー代表30キャップ、現在はフィジアン・ラトゥイに所属。
+  - [アサエリ・ティコイロトマ](../Page/アサエリ・ティコイロトマ.md "wikilink")(Asaeli Tikoirotuma)…フィジー代表30キャップ、現在はフィジアン・ラトゥイに所属。
 
-  - [ネタニ・タレイ](https://ja.wikipedia.org/wiki/ネタニ・タレイ "wikilink")(Netani Talei)…フィジー代表33キャップ、2007・2011・2015年W杯3大会出場。
+  - [ネタニ・タレイ](../Page/ネタニ・タレイ.md "wikilink")(Netani Talei)…フィジー代表33キャップ、2007・2011・2015年W杯3大会出場。
 
-  - [ジェイミー・ロバーツ](https://ja.wikipedia.org/wiki/ジェイミー・ロバーツ "wikilink")(Jamie Roberts)…ウェールズ代表94キャップ、現在は[ストーマーズに所属](https://ja.wikipedia.org/wiki/ストーマーズ_\(ラグビー\) "wikilink")。
+  - [ジェイミー・ロバーツ](../Page/ジェイミー・ロバーツ.md "wikilink")(Jamie Roberts)…ウェールズ代表94キャップ、現在は[ストーマーズに所属](https://ja.wikipedia.org/wiki/ストーマーズ_\(ラグビー\) "wikilink")。
 
   - [ジェームズ・ホーウィル](https://ja.wikipedia.org/wiki/ジェームズ・ホーウィル "wikilink")(James Horwill)…オーストラリア代表62キャップ、2011W杯出場。
 
-  - [ティム・ビッサー](https://ja.wikipedia.org/wiki/ティム・ビッサー "wikilink")(Tim Visser)…スコットランド代表33キャップ、2015年W杯出場。
+  - [ティム・ビッサー](../Page/ティム・ビッサー.md "wikilink")(Tim Visser)…スコットランド代表33キャップ、2015年W杯出場。
 
 ## 脚注
 

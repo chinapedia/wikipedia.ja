@@ -75,6 +75,6 @@
 
   - [公式ブログ](http://clovers-blog.jugem.jp/)
   - [GALACTIC](http://galactic-label.jp/)
-  - [コロムビアによる公式ページ](http://columbia.jp/artist-info/clovers/)
+  - [コロムビアによる公式ページ](https://columbia.jp/artist-info/clovers/)
 
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")

@@ -1,7 +1,7 @@
 > この記事は[GALLOW](https://ja.wikipedia.org/wiki/GALLOW)から翻訳されています。
 
 
-**GALLOW**（ガロウ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ネオアコ](../Page/ネオアコ.md "wikilink")を基調とした元・[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")、現[THE STARBEMSの](https://ja.wikipedia.org/wiki/THE_STARBEMS "wikilink")[日高央](../Page/日高央.md "wikilink")の[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。NAKED TEACHER/[CAPTAIN HAUS RECORDINGSより](https://ja.wikipedia.org/wiki/CAPTAIN_HAUS_RECORDINGS "wikilink")２枚のアルバムをリリース。
+**GALLOW**（ガロウ）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ネオアコ](../Page/ネオアコ.md "wikilink")を基調とした元・[BEAT CRUSADERS](../Page/BEAT_CRUSADERS.md "wikilink")、現[THE STARBEMSの](https://ja.wikipedia.org/wiki/THE_STARBEMS "wikilink")[日高央](../Page/日高央.md "wikilink")の[ソロ](../Page/ソロ.md "wikilink")[ユニットである](../Page/音楽ユニット.md "wikilink")。NAKED TEACHER/[CAPTAIN HAUS RECORDINGSより](https://ja.wikipedia.org/wiki/CAPTAIN_HAUS_RECORDINGS "wikilink")２枚のアルバムをリリース。
 
 ## 概要
 

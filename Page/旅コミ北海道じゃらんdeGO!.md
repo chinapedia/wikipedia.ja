@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [TVh テレビ北海道](http://www.tv-hokkaido.co.jp/info/jalan_de_go/index.html)
+  - [旅コミ北海道 じゃらん de GO\!](https://www.tv-hokkaido.co.jp/info/jalan_de_go/) - 番組公式サイト
   - [旅コミ北海道 じゃらん de GO\!](http://www.recruit-hokkaido-jalan.jp/jalan_de_go/) - 【北海道じゃらん】
 
 [Category:1997年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のテレビ番組_\(日本\) "wikilink") [Category:テレビ北海道の番組](https://ja.wikipedia.org/wiki/Category:テレビ北海道の番組 "wikilink") [Category:ローカルテレビ局の紀行・旅番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の紀行・旅番組 "wikilink") [Category:じゃらん](https://ja.wikipedia.org/wiki/Category:じゃらん "wikilink") [Category:音尾琢真](https://ja.wikipedia.org/wiki/Category:音尾琢真 "wikilink") [Category:継続中にタイトルが変更された作品](https://ja.wikipedia.org/wiki/Category:継続中にタイトルが変更された作品 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")

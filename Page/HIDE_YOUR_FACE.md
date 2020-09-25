@@ -41,7 +41,7 @@
 
   - **PSYCHOMMUNITY**
       - [マーチングバンド](../Page/マーチングバンド.md "wikilink")のバッテリーを前面に押し出した\[15\]。
-      - 「アルバムの1曲目は『[PROLOGUE (〜WORLD ANTHEM)](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』のように、ライブのオープニングで使えるような壮大且つ荘厳で、聴いているだけで身体中の血液が沸騰してくるインストの曲を作りたい\!」というhideの意向で制作された\[16\]。
+      - 「アルバムの1曲目は『[PROLOGUE (〜WORLD ANTHEM)](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』のように、ライブのオープニングで使えるような壮大且つ荘厳で、聴いているだけで身体中の血液が沸騰してくるインストの曲を作りたい\!」というhideの意向で制作された\[16\]。
       - 「EYES LOVE YOU」のサビのメロディーをモチーフにしたバラード調のイントロを作り、そこから「跳ねた3連係のシャッフル・ビート」で構成された本編に突入する構成のデモテープが制作されたが、hideはどうにもしっくり来ず、方向性に行き詰った。その時にI.N.Aのお気に入りであるアメリカのマーチングバンドの世界大会である「[Drum Corps International World Class Champions](https://ja.wikipedia.org/wiki/:en:Drum_Corps_International_World_Class_Champions "wikilink")」を基調に「[マーチングバンド](../Page/マーチングバンド.md "wikilink")のリズムアレンジがシャッフルと8分の6拍子がどちらも3連係のリズムだからハマるのではないか」とI.N.Aが提案し、hideも自分の好みに当たり、即採用となった\[17\]。
       - 後の「hide FIRST SOLO TOUR '94 HIDE OUR PSYCHOMMUNITY ～hideの部屋へようこそ～」でバンド演奏された「PSYCHOMMUNITY EXIT」は本楽曲のデモテープに近いアレンジとなっている\[18\]。
       - 曲の序盤での逆再生音はアルバムに収録されている全曲から1部分ずつ切り出し、それらを逆再生してプログラミングで再構築した。制作の際「SCANNER」完成していなかったが、「PSYCHOMMUNITY EXIT」の中に「SCANNER」のドラムループサウンドを仕込むことでつじつまを合わせた\[19\]。

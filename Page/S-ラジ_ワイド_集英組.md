@@ -44,7 +44,7 @@
   - ＃14 - ＃16 [黒崎薫](../Page/黒碕薫.md "wikilink")
   - ＃20 - ＃21 [松原真琴](../Page/松原真琴.md "wikilink")
   - ＃23 - ＃25 [影名浅海](https://ja.wikipedia.org/wiki/影名浅海 "wikilink")
-  - ＃26 - ＃29 [山形石雄](https://ja.wikipedia.org/wiki/山形石雄 "wikilink")
+  - ＃26 - ＃29 [山形石雄](../Page/山形石雄.md "wikilink")
   - ＃30 - ＃32 [子安秀明](https://ja.wikipedia.org/wiki/子安秀明 "wikilink")
   - ＃33 - ＃35 [北沢大輔](https://ja.wikipedia.org/wiki/北沢大輔 "wikilink")
   - ＃36 - ＃38 [淺沼広太](https://ja.wikipedia.org/wiki/淺沼広太 "wikilink")

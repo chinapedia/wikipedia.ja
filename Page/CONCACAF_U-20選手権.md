@@ -400,7 +400,7 @@
 </tbody>
 </table>
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 
@@ -567,6 +567,11 @@
 </tr>
 </tbody>
 </table>
+
+## 関連項目
+
+  - [CONCACAF U-17選手権](https://ja.wikipedia.org/wiki/CONCACAF_U-17選手権 "wikilink")
+  - [CONCACAF U-20女子選手権](https://ja.wikipedia.org/wiki/CONCACAF_U-20女子選手権 "wikilink")
 
 ## 外部リンク
 

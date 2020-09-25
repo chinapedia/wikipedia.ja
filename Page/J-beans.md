@@ -7,7 +7,7 @@
 
 ## 主な所属俳優・タレント
 
-2020年8月11日 (火) 11:13 (UTC)現在
+2020年9月8日 (火) 現在
 
 ### 女性
 
@@ -65,7 +65,7 @@
   - [久松りょうた](https://ja.wikipedia.org/wiki/久松りょうた "wikilink")
   - [熊田健太郎](https://ja.wikipedia.org/wiki/熊田健太郎 "wikilink")
   - [未有楽ヒロト](https://ja.wikipedia.org/wiki/未有楽_ヒロト "wikilink")
-  - [安田一大](https://ja.wikipedia.org/wiki/安田一大 "wikilink")
+  - [大塚健人](https://ja.wikipedia.org/wiki/大塚健人 "wikilink")
   - [柿澤崇之](https://ja.wikipedia.org/wiki/柿澤崇之 "wikilink")
   - [柿澤司](https://ja.wikipedia.org/wiki/柿澤司 "wikilink")
   - [畠山留佳](https://ja.wikipedia.org/wiki/畠山留佳 "wikilink")

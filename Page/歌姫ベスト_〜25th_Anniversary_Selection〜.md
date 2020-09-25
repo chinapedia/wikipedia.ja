@@ -5,25 +5,25 @@
 
 ## 背景
 
-『歌姫ベスト 〜25th Anniversary Selection〜』は、累計100万枚を売り上げた[千住明](../Page/千住明.md "wikilink")アレンジによる[カバー](../Page/カバー.md "wikilink")・アルバム[歌姫シリーズの](https://ja.wikipedia.org/wiki/歌姫_\(中森明菜のアルバム\)#歌姫シリーズ "wikilink")『[歌姫](../Page/歌姫_\(中森明菜のアルバム\).md "wikilink")』、『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』、『[歌姫3 〜終幕](../Page/歌姫3_〜終幕.md "wikilink")』の3作からセレクトした[カバー](../Page/カバー.md "wikilink")楽曲の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である\<ref name-"univesarl.utahime.best"\></ref>\[1\]\[2\]。このアルバムは当初2006年11月22日のリリース予定であったが延期された\[3\]\[4\]\[5\]。その後、デビュー満25周年となる2007年の1月17日に、初回限定盤 ([CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink"): UMCK-9154)と通常盤 (CD: UMCK-1218)と[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")の3種類で同時発売された\[6\]\[7\]\[8\]\[9\]。本作と同時に、ライブDVD『[LIVE TOUR 2006 The Last Destination](../Page/LIVE_TOUR_2006_The_Last_Destination.md "wikilink")』も発売された\[10\]。このアルバムの通常盤CDの初回プレス分の特典には「歌姫レーベル花魁ステッカー」が封入された\[11\]。このアルバムのレコーディングは、[AVACO CREATIVE STUDIO](https://ja.wikipedia.org/wiki/AVACO_CREATIVE_STUDIO "wikilink")、[SOUND INNで行われ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")、[プロデュースは中森が務めた](../Page/音楽プロデューサー.md "wikilink")\[12\]\[13\]\[14\]。
+『歌姫ベスト 〜25th Anniversary Selection〜』は、累計100万枚を売り上げた[千住明](../Page/千住明.md "wikilink")アレンジによる[カバー](../Page/カバー.md "wikilink")・アルバム[歌姫シリーズの](https://ja.wikipedia.org/wiki/歌姫_\(中森明菜のアルバム\)#歌姫シリーズ "wikilink")『[歌姫](../Page/歌姫_\(中森明菜のアルバム\).md "wikilink")』、『[-ZEROalbum- 歌姫2](../Page/-ZEROalbum-_歌姫2.md "wikilink")』、『[歌姫3 〜終幕](../Page/歌姫3_〜終幕.md "wikilink")』の3作からセレクトした[カバー](../Page/カバー.md "wikilink")楽曲の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である\[1\]\[2\]\[3\]。このアルバムは当初2006年11月22日のリリース予定であったが延期された\[4\]\[5\]\[6\]。その後、デビュー満25周年となる2007年の1月17日に、初回限定盤 ([CD](../Page/コンパクトディスク.md "wikilink")+[DVD](../Page/DVD.md "wikilink"): UMCK-9154)と通常盤 (CD: UMCK-1218)と[デジタル・ダウンロード](https://ja.wikipedia.org/wiki/デジタル・ダウンロード "wikilink")の3種類で同時発売された\[7\]\[8\]\[9\]\[10\]。本作と同時に、ライブDVD『[LIVE TOUR 2006 The Last Destination](../Page/LIVE_TOUR_2006_The_Last_Destination.md "wikilink")』も発売された\[11\]。このアルバムの通常盤CDの初回プレス分の特典には「歌姫レーベル花魁ステッカー」が封入された\[12\]。このアルバムのレコーディングは、[AVACO CREATIVE STUDIO](https://ja.wikipedia.org/wiki/AVACO_CREATIVE_STUDIO "wikilink")、[SOUND INNで行われ](https://ja.wikipedia.org/wiki/サウンドインスタジオ "wikilink")、[プロデュースは中森が務めた](../Page/音楽プロデューサー.md "wikilink")\[13\]\[14\]\[15\]。
 
-収録内容は、『歌姫』から2曲、『-ZEROalbum- 歌姫2』から7曲、『歌姫3 〜終幕』から4曲収録されている\[15\]。また、同シリーズ3作の未収録曲として、映画『[旅の贈りもの 0:00発](../Page/旅の贈りもの_0:00発.md "wikilink")』の主題歌となった[山口百恵](../Page/山口百恵.md "wikilink")のカバー曲「[いい日旅立ち](../Page/いい日旅立ち.md "wikilink")」、[矢沢永吉](../Page/矢沢永吉.md "wikilink")のカバー曲「チャイナタウン」、『[Akina Nakamori Special Live 2005 Empress at CLUB eX](../Page/Akina_Nakamori_Special_Live_2005_Empress_at_CLUB_eX.md "wikilink")』のライブDVD音源より[井上陽水](../Page/井上陽水.md "wikilink")のカバー曲「リバーサイドホテル」の3曲が新たに収録された\[16\]。 矢沢の「チャイナタウン」のカバーについては、5年前から矢沢にカバーを打診していたものの、矢沢側のこだわりもあり、当時はこの楽曲のカバーを実現することが出来なかった\[17\]。しかし、このほど、中森の意向を受けた矢沢側からカバーの了承を得られたという\[18\]。中森は「25周年の総決算というべきアルバムに間に合うことができて良かった」と話している\[19\]。この「いい日旅立ち」と「リバーサイドホテル」のアレンジは上杉洋史が手掛けた\[20\]\[21\]。
+収録内容は、『歌姫』から2曲、『-ZEROalbum- 歌姫2』から7曲、『歌姫3 〜終幕』から4曲収録されている\[16\]。また、同シリーズ3作の未収録曲として、映画『[旅の贈りもの 0:00発](../Page/旅の贈りもの_0:00発.md "wikilink")』の主題歌となった[山口百恵](../Page/山口百恵.md "wikilink")のカバー曲「[いい日旅立ち](../Page/いい日旅立ち.md "wikilink")」、[矢沢永吉](../Page/矢沢永吉.md "wikilink")のカバー曲「チャイナタウン」、『[Akina Nakamori Special Live 2005 Empress at CLUB eX](../Page/Akina_Nakamori_Special_Live_2005_Empress_at_CLUB_eX.md "wikilink")』のライブDVD音源より[井上陽水](../Page/井上陽水.md "wikilink")のカバー曲「リバーサイドホテル」の3曲が新たに収録された\[17\]。 矢沢の「チャイナタウン」のカバーについては、5年前から矢沢にカバーを打診していたものの、矢沢側のこだわりもあり、当時はこの楽曲のカバーを実現することが出来なかった\[18\]。しかし、このほど、中森の意向を受けた矢沢側からカバーの了承を得られたという\[19\]。中森は「25周年の総決算というべきアルバムに間に合うことができて良かった」と話している\[20\]。この「いい日旅立ち」と「リバーサイドホテル」のアレンジは上杉洋史が手掛けた\[21\]\[22\]。
 
-本作の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")のヘアスタイルについて中森は、たんぽぽの綿毛のような軽い[ウィッグ](https://ja.wikipedia.org/wiki/ウィッグ "wikilink")を身に着けていると説明した\[22\]。このアルバムの内容について中森は、原曲への敬意から、原曲を冒さないよう懸命に歌唱し、原曲とは異なる内容にする考えはなかったと語った\[23\]。また中森は、千住の編曲を高く評価しており、千住のアレンジの世界に感化されたと明かした\[24\]。
+本作の[ディスクジャケット](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")のヘアスタイルについて中森は、たんぽぽの綿毛のような軽い[ウィッグ](https://ja.wikipedia.org/wiki/ウィッグ "wikilink")を身に着けていると説明した\[23\]。このアルバムの内容について中森は、原曲への敬意から、原曲を冒さないよう懸命に歌唱し、原曲とは異なる内容にする考えはなかったと語った\[24\]。また中森は、千住の編曲を高く評価しており、千住のアレンジの世界に感化されたと明かした\[25\]。
 
 ## 批評
 
-『CDジャーナル』の鷺沼晶良は、本作が既発曲に加え、新録が3曲追加されている点について新味があると評価、加えて、「これらの効果的な曲配置のおかげで、見知らぬ街に迷い込んでまた旅立つような、ちょっとした小旅行気分が味わえる。」と批評した\[25\]。
+『CDジャーナル』の鷺沼晶良は、本作が既発曲に加え、新録が3曲追加されている点について新味があると評価、加えて、「これらの効果的な曲配置のおかげで、見知らぬ街に迷い込んでまた旅立つような、ちょっとした小旅行気分が味わえる。」と批評した\[26\]。
 
 ## チャート成績
 
-『歌姫ベスト 〜25th Anniversary Selection〜』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")2007年1月29日付で初登場し、最高順位9位を記録した\[26\]\[27\]\[28\]。同チャートには、計8週に渡ってランクインしている\[29\]。2002年12月16日付の同チャートに、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Akina Nakamori〜歌姫ダブル・ディケイド](../Page/Akina_Nakamori〜歌姫ダブル・ディケイド.md "wikilink")』が8位を記録して以来、4年1か月ぶりとなるトップ10入りを果たした\[30\]。
+『歌姫ベスト 〜25th Anniversary Selection〜』は、[オリコン週間アルバムチャートの](../Page/オリコンチャート.md "wikilink")2007年1月29日付で初登場し、最高順位9位を記録した\[27\]\[28\]\[29\]。同チャートには、計8週に渡ってランクインしている\[30\]。2002年12月16日付の同チャートに、[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Akina Nakamori〜歌姫ダブル・ディケイド](../Page/Akina_Nakamori〜歌姫ダブル・ディケイド.md "wikilink")』が8位を記録して以来、4年1か月ぶりとなるトップ10入りを果たした\[31\]。
 
 ## 収録曲
 
 ## クレジット
 
-『歌姫ベスト 〜25th Anniversary Selection〜』のライナー・ノーツより\[31\]
+『歌姫ベスト 〜25th Anniversary Selection〜』のライナー・ノーツより\[32\]
 
   - [プロデュース](../Page/音楽プロデューサー.md "wikilink") BY [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")
   - All Songs [Arranged](../Page/編曲.md "wikilink") and [Conducted](../Page/指揮_\(音楽\).md "wikilink") by [千住明](../Page/千住明.md "wikilink")
@@ -116,3 +116,4 @@
 29.
 30.
 31.
+32.

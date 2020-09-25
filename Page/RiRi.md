@@ -9,7 +9,7 @@
 
   - [身長](../Page/身長.md "wikilink")：153cm
   - [スリーサイズ](../Page/スリーサイズ.md "wikilink")：B 85cm（Fカップ）、W 57cm、H 83cm　
-  - [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")：[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+  - [血液型](../Page/ABO式血液型.md "wikilink")：[A型](../Page/ABO式血液型.md "wikilink")
   - [星座](../Page/星座.md "wikilink")：[みずがめ座](../Page/みずがめ座.md "wikilink")
   - 趣味：[カラオケ](../Page/カラオケ.md "wikilink")、[ショッピング](https://ja.wikipedia.org/wiki/ショッピング "wikilink")
   - 性格：物事に入りやすい

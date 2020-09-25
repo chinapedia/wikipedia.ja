@@ -134,7 +134,7 @@
   - 脚本を担当した[辻真先](../Page/辻真先.md "wikilink")はこの当時、既にアニメ脚本の第一線から退き、小説の執筆が中心であった。後に著書『マンガで育った60年 現代コミック私史』（[東京新聞](../Page/東京新聞.md "wikilink")出版局刊・ISBN 4-8083-0684-0）の中で、本作およびその他の長谷川作品について記述しており、原作を高く評価している一方で「（テレビアニメから足を洗った自分には）荷が重かった」とコメントしている。
   - [うるし原智志](../Page/うるし原智志.md "wikilink")イラストによるジャケットイラストと宣伝ポスターが作られている。また、サントラ盤のCDジャケットは[梶島正樹](../Page/梶島正樹.md "wikilink")が手がけており、この中に収録されているミニドラマの脚本は[黒田洋介](../Page/黒田洋介.md "wikilink")である。しかし、3人ともアニメ本編には参加していない。
   - [ADVフィルム](../Page/ADVフィルム.md "wikilink")が[北米で](../Page/北アメリカ.md "wikilink")[英語](../Page/英語.md "wikilink")版を販売している。[1](http://www25.advfilms.com/titles/maps/)[2](http://www.advfilms.com/CatalogFilms_Volumes.asp?ID=1653)
-  - 『』というタイトルで[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版も販売されている。[3](http://www.google.com/search?lr=&hl=ja&ie=UTF-8&oe=UTF-8&q=星图传说)
+  - 『』というタイトルで[中国語](../Page/中国語.md "wikilink")版も販売されている。[3](http://www.google.com/search?lr=&hl=ja&ie=UTF-8&oe=UTF-8&q=星图传说)
 
 ## 脚注
 

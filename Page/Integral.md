@@ -3,7 +3,7 @@
 
 **integral**（インテグラル）は、日本の[出版社](../Page/出版社.md "wikilink")・[ジャイブ](../Page/ジャイブ.md "wikilink")が発行する[テーブルトークRPG](../Page/テーブルトークRPG.md "wikilink")（TRPG）関係の[文庫](../Page/文庫.md "wikilink")レーベル。[2005年](../Page/2005年.md "wikilink")3月の創刊時は「**ジャイブTRPGシリーズ**」の名称であったが、創刊と同時に開設していたサポート用の[ポータルサイト](../Page/ポータルサイト.md "wikilink")「**INTEGRAL**」と[2007年](../Page/2007年.md "wikilink")7月にレーベル名を統一した。
 
-[リプレイ](../Page/リプレイ_\(TRPG\).md "wikilink")・[サプリメント](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")・TRPGを原作とする[小説化](../Page/小説化.md "wikilink")作品を中心に刊行しているが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月よりオリジナル小説の刊行を開始した。
+[リプレイ](../Page/リプレイ_\(TRPG\).md "wikilink")・[サプリメント](../Page/サプリメント_\(TRPG\).md "wikilink")・TRPGを原作とする[小説化](../Page/小説化.md "wikilink")作品を中心に刊行しているが、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")12月よりオリジナル小説の刊行を開始した。
 
 ## ラインナップ
 

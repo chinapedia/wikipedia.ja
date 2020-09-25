@@ -1,7 +1,7 @@
 > この記事は[Under The Moon](https://ja.wikipedia.org/wiki/Under_The_Moon)から翻訳されています。
 
 
-『**Under The Moon**』（アンダー・ザ・ムーン）は、[2006年](../Page/2006年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[シュガービーンズから発売された女性向け](../Page/ウィルプラス.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にファンディスク『**Under The Moon 〜つきいろ絵本〜**』が発売された。さらに、[2009年](../Page/2009年.md "wikilink")6月25日に[PlayStation 2への移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Under The Moon 〜クレセント〜**』が[ディンプル](https://ja.wikipedia.org/wiki/ディンプル "wikilink")より発売された。
+『**Under The Moon**』（アンダー・ザ・ムーン）は、[2006年](../Page/2006年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に[シュガービーンズから発売された女性向け](../Page/ウィルプラス.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。また、[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")にファンディスク『**Under The Moon 〜つきいろ絵本〜**』が発売された。さらに、[2009年](../Page/2009年.md "wikilink")6月25日に[PlayStation 2への移植版](../Page/PlayStation_2.md "wikilink")『**Under The Moon 〜クレセント〜**』が[ディンプル](https://ja.wikipedia.org/wiki/ディンプル "wikilink")より発売された。
 
 ## ストーリー
 

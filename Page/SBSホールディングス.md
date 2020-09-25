@@ -21,6 +21,11 @@
   - [2012年](../Page/2012年.md "wikilink")12月 - [東京証券取引所](../Page/東京証券取引所.md "wikilink")第二部に上場。
   - [2013年](../Page/2013年.md "wikilink")6月 - ブランドを統一。物流関係事業14社の社名変更を実施。
   - [2013年](../Page/2013年.md "wikilink")12月 - 東京証券取引所第一部指定。
+  - [2019年](../Page/2019年.md "wikilink")6月 - 株式会社姉崎自動車教習所と株式会社京葉自動車教習所の全株式をCKT千葉構内タクシーグループから買収<ref>
+
+</ref>。
+
+  - [2020年](../Page/2020年.md "wikilink")1月 - 株式会社京葉自動車教習所が株式会社姉崎自動車教習所を吸収合併、SBS自動車学校株式会社へ商号変更\[2\]。
 
 ## 傘下企業
 
@@ -42,20 +47,22 @@
 <!-- end list -->
 
   - [SBSスタッフ](https://ja.wikipedia.org/wiki/SBSスタッフ "wikilink")株式会社（人材派遣）（持株会社直接の完全子会社）
-  - ＳＢＳアセットマネジメント株式会社（不動産事業）（持株会社直接の完全子会社・平成28年4月1日エーマックス㈱より商号変更）
-  - 株式会社[エルマックス](https://ja.wikipedia.org/wiki/エルマックス "wikilink")（不動産事業）（ＳＢＳアセットマネジメント傘下）
+  - SBSアセットマネジメント株式会社（不動産事業）（持株会社直接の完全子会社・平成28年4月1日エーマックス㈱より商号変更）
+  - 株式会社[エルマックス](https://ja.wikipedia.org/wiki/エルマックス "wikilink")（不動産事業）（SBSアセットマネジメント傘下）
 
 <!-- end list -->
 
   - [SBSフレック](../Page/SBSフレック.md "wikilink")（持株会社直接の子会社66.0%）
       - [SBSフレックネット](https://ja.wikipedia.org/wiki/SBSフレックネット "wikilink")（SBSフレック傘下）
   - [SBSリコーロジスティクス](https://ja.wikipedia.org/wiki/SBSリコーロジスティクス "wikilink")（持株会社直接の子会社66.6%）
+  - [SBS自動車学校](https://ja.wikipedia.org/wiki/SBS自動車学校 "wikilink")株式会社（自動車教習所）（2020年1月1日（株）京葉自動車教習所から商号変更）
 
 ## かつての傘下企業
 
   - 株式会社[ダック](../Page/ダック_\(運輸\).md "wikilink")
   - [SBSポストウェイ](https://ja.wikipedia.org/wiki/SBSポストウェイ "wikilink")株式会社
   - 株式会社ぱむ
+  - 株式会社姉崎自動車教習所（2020年SBS自動車学校へ吸収合併）
 
 ## 脚注
 
@@ -66,3 +73,4 @@
 [Category:SBSホールディングス](https://ja.wikipedia.org/wiki/Category:SBSホールディングス "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:墨田区の企業](https://ja.wikipedia.org/wiki/Category:墨田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2003年上場の企業](https://ja.wikipedia.org/wiki/Category:2003年上場の企業 "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:日本の陸運業者](https://ja.wikipedia.org/wiki/Category:日本の陸運業者 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.  [メンバー会社一覧 - みどり会](http://www.midorikai.co.jp/member.html)
+2.

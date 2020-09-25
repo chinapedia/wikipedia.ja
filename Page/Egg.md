@@ -17,7 +17,7 @@
 
 ## 企画
 
-  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](https://ja.wikipedia.org/wiki/AS_TIME_GOES_BY_\(HIM-eggの曲\) "wikilink")」で[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
+  - [1996年](../Page/1996年.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")である[伊秩弘将](https://ja.wikipedia.org/wiki/伊秩弘将 "wikilink")主宰の[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")&[ダンス](../Page/ダンス.md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")[HIM](../Page/HIM_\(音楽プロジェクト\).md "wikilink")[プロデュース](https://ja.wikipedia.org/wiki/プロデュース "wikilink")のもと、本誌と連動企画のガールズユニット**[HIM-egg](https://ja.wikipedia.org/wiki/HIM-egg "wikilink")**が結成され、シングル「[AS TIME GOES BY](../Page/AS_TIME_GOES_BY_\(HIM-eggの曲\).md "wikilink")」で[Sony Recordsよりデビュー](../Page/ソニー・ミュージックレコーズ.md "wikilink")。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、『egg』の人気[読者モデル](../Page/読者モデル.md "wikilink")だったCHIKAを中心に、AKI、HIROの3人で「[deeps](https://ja.wikipedia.org/wiki/deeps "wikilink")」が結成され、シングル「Love is Real」でデビュー。
 
 ## モデル

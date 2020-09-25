@@ -7,7 +7,7 @@
 
 前作「[アオゾラペダル](../Page/アオゾラペダル.md "wikilink")」から約6か月ぶりのリリース。
 
-本作は通常盤と初回限定盤の2種類がある。表題曲「Love so sweet」はメンバーの[松本潤](../Page/松本潤.md "wikilink")が出演した[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#第2シリーズ "wikilink")』の主題歌として使用されて「[WISH](../Page/WISH_\(嵐の曲\).md "wikilink")」に続くものであり、ドラマ主題歌も同作以来となった。また、発売から8年が経った[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送の[キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」のCMソングとしても使用された\[1\]\[2\]。PVの監督は、「[君のために僕がいる](../Page/君のために僕がいる.md "wikilink")」も手がけた[山口保幸](../Page/山口保幸.md "wikilink")。
+本作は通常盤と初回限定盤の2種類がある。表題曲「Love so sweet」はメンバーの[松本潤](../Page/松本潤.md "wikilink")が出演した[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#第2シリーズ "wikilink")』(主演:井上真央)の主題歌として使用されて「[WISH](../Page/WISH_\(嵐の曲\).md "wikilink")」に続くものであり、ドラマ主題歌も同作以来となった。また、発売から8年が経った[2015年](../Page/2015年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")から放送の[キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」のCMソングとしても使用された\[1\]\[2\]。PVの監督は、「[君のために僕がいる](../Page/君のために僕がいる.md "wikilink")」も手がけた[山口保幸](../Page/山口保幸.md "wikilink")。
 
 「Love so sweet」のビデオ・クリップはこのシングルには収録されておらず、DVD『[5×10 All the BEST\! CLIPS 1999-2009](https://ja.wikipedia.org/wiki/5×10_All_the_BEST!_CLIPS_1999-2009 "wikilink")』に収録された。
 
@@ -34,7 +34,7 @@
     <!-- end list -->
       - [松本潤](../Page/松本潤.md "wikilink")出演 [TBS系](../Page/TBSテレビ.md "wikilink")[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")『[花より男子2（リターンズ）](https://ja.wikipedia.org/wiki/花より男子#日本版 "wikilink")』[主題歌](../Page/主題歌.md "wikilink")
       - [キリン](https://ja.wikipedia.org/wiki/キリン_\(企業\) "wikilink")「[午後の紅茶](../Page/午後の紅茶.md "wikilink")」CMソング
-      - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")「5Gバーチャル大合唱」CMソング\[8\]
+      - 嵐出演 [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")「5Gバーチャル大合唱」CMソング\[8\]
     <!-- end list -->
       -
         この曲が嵐の[大ブレイクを決定づけ](../Page/流行.md "wikilink")、嵐のメジャー化の原点となった\[9\]。また、発売から時間が経っても人気曲の一つである\[10\]

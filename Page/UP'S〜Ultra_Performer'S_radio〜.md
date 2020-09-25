@@ -37,7 +37,15 @@
 
   - **佐竹雅昭の暁の黒海老団**（[佐竹雅昭](https://ja.wikipedia.org/wiki/佐竹雅昭 "wikilink")/1995.10 - 1996.03）
   - 「週替わり」（1996.04 - 1996.09）
-      - 主に[電気グルーヴ](../Page/電気グルーヴ.md "wikilink")（『**電気グルーヴのUP'S 主は冷たい土の中に**』）などが出演
+
+| 4月 | 10日 | [電気グルーヴ](../Page/電気グルーヴ.md "wikilink")\[2\]                         | 17日 | [鈴木蘭々](../Page/鈴木蘭々.md "wikilink")                      | 24日 | [4-STiCKS](https://ja.wikipedia.org/wiki/4-STiCKS "wikilink") |
+| -- | --- | ------------------------------------------------------------------- | --- | ------------------------------------------------------- | --- | ------------------------------------------------------------- |
+| 5月 | 1日  | [種浦マサオ](../Page/種浦マサオ.md "wikilink")                                | 8日  | [RAZZ MA TAZZ](../Page/RAZZ_MA_TAZZ.md "wikilink")      | 15日 | RAZZ MA TAZZ                                                  |
+| 6月 | 5日  | [GOOD LOVIN'](https://ja.wikipedia.org/wiki/GOOD_LOVIN' "wikilink") | 12日 | [黒夢](../Page/黒夢.md "wikilink")                          | 19日 | [千原兄弟](../Page/千原兄弟.md "wikilink")                            |
+| 7月 | 3日  | [ゴスペラーズ](../Page/ゴスペラーズ.md "wikilink")                              | 10日 | [爆笑問題](../Page/爆笑問題.md "wikilink")                      | 17日 | [脱線3](../Page/脱線3.md "wikilink")                              |
+| 8月 | 7日  | [小島嵩弘](../Page/小島嵩弘.md "wikilink")                                  | 14日 | 黒夢                                                      | 21日 | [鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")                          |
+| 9月 | 4日  | [スチャダラパー](../Page/スチャダラパー.md "wikilink")                            | 11日 | [infix](https://ja.wikipedia.org/wiki/infix "wikilink") | 18日 | [VANILLA](../Page/VANILLA_\(バンド\).md "wikilink")              |
+
   - **斉藤リョーツ･鈴木啓三郎のUP'S**（[斉藤リョーツ](https://ja.wikipedia.org/wiki/斉藤リョーツ "wikilink")・[鈴木啓三郎](https://ja.wikipedia.org/wiki/鈴木ケイザブロー "wikilink")/1996.10 - 1997.03）
   - **[コサキンDEワァオ\!](../Page/コサキンDEワァオ!.md "wikilink")**（[小堺一機](../Page/小堺一機.md "wikilink")・[関根勤](../Page/関根勤.md "wikilink")/1997.04 枠移動 - ）
 
@@ -47,9 +55,20 @@
   - **笹野みちるのUP'S Speak OUT\!**（笹野みちる/1997.04 枠移動 - 1997.09）
   - **ねたばん**（[浦口直樹](../Page/浦口直樹.md "wikilink")/1997.10 - 1998.09）
   - 「月替わり」（1998.10 - 1998.12）
-      - 主に[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")などが出演
+      - 1998年10月（8日 - 29日）：[Hysteric Blue](https://ja.wikipedia.org/wiki/Hysteric_Blue "wikilink")
+      - 1998年11月（5日 - 26日）：[オセロケッツ](../Page/オセロケッツ.md "wikilink")（1時台）／[我那覇美奈](../Page/我那覇美奈.md "wikilink")（2時台）
+      - 1998年12月 1時台：Pierrot（3日）／[WINO](../Page/WINO.md "wikilink") （10日）／[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")（17日）／[鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")（24日）／2時台：[大塚利恵](https://ja.wikipedia.org/wiki/大塚利恵 "wikilink")（3日 - 24日）
   - **Pierrot BRAINSTORM**（[Pierrot](https://ja.wikipedia.org/wiki/PIERROT "wikilink")/1999.01 - 1999.09・第1部）
   - 「月替わり」（1999.01 - 1999.09・第2部）
+      - 1999年1月（7日 - 28日）：[JEHO](https://ja.wikipedia.org/wiki/JEHO "wikilink")
+      - 1999年2月（4日 - 18日）：[椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")、2月25日：[谷口崇](https://ja.wikipedia.org/wiki/谷口崇 "wikilink")
+      - 1999年3月：我那覇美奈（4日）／[Daily-Echo](../Page/Daily-Echo.md "wikilink")（11日）／鈴木あみ（18日）／[コルツ](../Page/コルツ.md "wikilink")（25日）
+      - 1999年4月：Hysteric Blue（1日）／[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")（8日 - 29日）
+      - 1999年5月（6日 - 27日）：[大久保海太](https://ja.wikipedia.org/wiki/大久保海太 "wikilink")
+      - 1999年6月（3日 - 24日）：[Keno](../Page/Keno.md "wikilink")
+      - 1999年7月（1日 -29日）：[牧謙次郎](https://ja.wikipedia.org/wiki/牧謙次郎 "wikilink")
+      - 1999年8月（5日 - 26日）：[Whiteberry](../Page/Whiteberry.md "wikilink")
+      - 1999年9月（2日 - 30日）：[クラムボン](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink")
   - **Take2のバットルナイト**（[Take2](../Page/Take2.md "wikilink")/1999.10 - 2000.03）
   - 枠解消後
       - **NEXT GENERATION**（[ノブタケ](../Page/市川展丈.md "wikilink")/2000.04 - 2000.09）
@@ -61,8 +80,23 @@
 
   - **恵俊彰のメグミーランド**（[恵俊彰](../Page/恵俊彰.md "wikilink")/1995.10 - 1996.09）
   - 「月替わり」（1996.10 - 1997.03）
-  - **[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")**（[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")/1997.04 - 1998.09・第1部、この番組のみ[ラジオ関西](../Page/ラジオ関西.md "wikilink")からの[逆ネット](../Page/逆ネット.md "wikilink")（時差放送））
-  - 「月替わり」（1997.04 - 1997.09・第2部）
+      - 1996年10月：[玉川紗己子](https://ja.wikipedia.org/wiki/玉川紗己子 "wikilink")（11日）／[國府田マリ子](../Page/國府田マリ子.md "wikilink")（18日）／[林原めぐみのTokyo Boogie Night スペシャル](https://ja.wikipedia.org/wiki/林原めぐみのTokyo_Boogie_Night#スペシャル番組 "wikilink")（25日）
+      - 1996年11月（1日 - 29日）：[種浦マサオ](../Page/種浦マサオ.md "wikilink")
+      - 1996年12月（6日 - 27日）：[清春](../Page/清春.md "wikilink")（[黒夢](../Page/黒夢.md "wikilink")）
+      - 1997年1月（3日 - 31日）：UP'Sスペシャル [爆笑問題](../Page/爆笑問題.md "wikilink")'97
+      - 1997年2月（7日 - 28日）：声優スペシャル
+      - 1997年3月（7日 - 4月4日）：UP'Sスペシャル 爆笑問題スプリング
+  - **[林原めぐみのHeartful Station](../Page/林原めぐみのHeartful_Station.md "wikilink")**（[林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")/1997.04 - 1998.09・第1部、この番組のみ[ラジオ関西](../Page/ラジオ関西.md "wikilink")からの[逆ネット](../Page/逆ネット.md "wikilink")（時差放送） AM1:30 - 2:30）
+  - 「月替わり・週替わり」（1997.04 - 1997.09・第2部 AM2:30 - 3:00）
+
+| 4月 | 11日・18日・25日   | [TWO-MIX](../Page/TWO-MIX.md "wikilink")                            |
+| -- | ------------- | ------------------------------------------------------------------- |
+| 5月 | 2日・9日         | [サニーデイ・サービス](https://ja.wikipedia.org/wiki/サニーデイ・サービス "wikilink")   |
+| 6月 | 6日            | [アニメタル](../Page/アニメタル.md "wikilink")                                |
+| 7月 | 4日            | [BONNIE PINK](https://ja.wikipedia.org/wiki/BONNIE_PINK "wikilink") |
+| 8月 | 1日・8日・15日・22日 | [鈴木紗理奈](../Page/鈴木紗理奈.md "wikilink")                                |
+| 9月 | 5日            | [岡崎律子](https://ja.wikipedia.org/wiki/岡崎律子 "wikilink")               |
+
   - **まっくんのE.B.（えーべー）CLUB**（[奥井雅美](../Page/奥井雅美.md "wikilink")/1997.10 - 1998.09・第2部）
   - **BREAK OUT MUSIC**（[志賀大士](../Page/志賀大士.md "wikilink")→ノブタケ/1998.10 - 2000.03）
   - 枠解消後
@@ -83,6 +117,10 @@
 
 ## 脚注
 
+### 注釈
+
+### 出典
+
 ## 関連項目
 
   - [スーパーギャング](../Page/スーパーギャング.md "wikilink")
@@ -94,3 +132,4 @@
 [Category:TBSラジオの深夜番組](https://ja.wikipedia.org/wiki/Category:TBSラジオの深夜番組 "wikilink") [Category:TBSラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:TBSラジオのバラエティ番組 "wikilink") [Category:TBSラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSラジオの帯番組の歴史 "wikilink") [Category:ラジオ放送枠](https://ja.wikipedia.org/wiki/Category:ラジオ放送枠 "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink") [Category:コサキン](https://ja.wikipedia.org/wiki/Category:コサキン "wikilink")
 
 1.  「火曜UP'S 爆笑問題カーボーイ」「水曜UP'S コサキンDEワァオ\!」など。なお、あて先読み上げの際には「UP'S○曜」と呼称されることもあった。
+2.  タイトルは『**電気グルーヴのUP'S 主は冷たい土の中に**』

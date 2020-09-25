@@ -51,7 +51,7 @@
 
 ## 外部リンク
 
-  - [BS-TBS](http://www.bs-tbs.co.jp/)
+  - [BS-TBS](https://www.bs-tbs.co.jp/)
   - [BS-i公式サイト i-SPORTS Heart-Beat Weekend](http://www.bs-i.co.jp/i-sportsHB/)
 
 [Category:BS-TBSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:BS-TBSのスポーツ番組 "wikilink") [Category:BS-TBSの一社提供番組](https://ja.wikipedia.org/wiki/Category:BS-TBSの一社提供番組 "wikilink") [Category:三菱自動車工業一社提供番組](https://ja.wikipedia.org/wiki/Category:三菱自動車工業一社提供番組 "wikilink") [Category:データ放送連動番組](https://ja.wikipedia.org/wiki/Category:データ放送連動番組 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink")

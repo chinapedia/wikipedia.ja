@@ -55,19 +55,20 @@
   - [企業戦士アルスラーン](../Page/アルスラーン戦記.md "wikilink")（2015年、**ギーヴ**\[23\]）
   - [政宗ダテニクル](https://ja.wikipedia.org/wiki/政宗ダテニクル "wikilink")（2016年、**5代当主[伊達宗綱](https://ja.wikipedia.org/wiki/伊達宗綱 "wikilink")**）
   - [SDガンダムワールド 三国創傑伝](https://ja.wikipedia.org/wiki/SDガンダムワールド_三国創傑伝 "wikilink")（2019年、張飛ゴッドガンダム\[24\]）
+  - [キャップ革命 ボトルマン](https://ja.wikipedia.org/wiki/キャップ革命_ボトルマン "wikilink")（2020年、**帆狩リョウ**\[25\]）
 
 ### ゲーム
 
 ### ドラマCD
 
-  - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド "wikilink")（**小湊亜耶**\[25\]） ※コミックス第10巻ドラマCD同梱版
-  - [暁のヨナ 〜小さな贈り物〜](https://ja.wikipedia.org/wiki/暁のヨナ "wikilink")（テウ\[26\]）※『[花とゆめ](../Page/花とゆめ.md "wikilink")』2016年18号付録
-  - [ACTORS](https://ja.wikipedia.org/wiki/ACTORS "wikilink") - Drama Edition - \[EAST\]（**魚津鯆澄**\[27\]）
+  - [アオハライド](https://ja.wikipedia.org/wiki/アオハライド "wikilink")（**小湊亜耶**\[26\]） ※コミックス第10巻ドラマCD同梱版
+  - [暁のヨナ 〜小さな贈り物〜](https://ja.wikipedia.org/wiki/暁のヨナ "wikilink")（テウ\[27\]）※『[花とゆめ](../Page/花とゆめ.md "wikilink")』2016年18号付録
+  - [ACTORS](https://ja.wikipedia.org/wiki/ACTORS "wikilink") - Drama Edition - \[EAST\]（**魚津鯆澄**\[28\]）
   - [アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink") ドラマCD「突撃せよ！アルスラーン」（**ギーヴ**） ※『[別冊少年マガジン](../Page/別冊少年マガジン.md "wikilink")』2015年10月号付録
   - 裏語 薄桜鬼 シリーズ（**桂小五郎**）
       - 裏語 薄桜鬼 桂小五郎×斎藤一編 「争わぬ意思、真実の強さ」 ※『薄桜鬼2013 Vol.2』2013年7月号付録
       - 裏語 薄桜鬼 公式ファンブック 桜嵐秘話 ※ドラマCD付き
-      - 裏語 薄桜鬼 〜暁の調べ〜 ドラマCD 立侍月騒動\[28\]
+      - 裏語 薄桜鬼 〜暁の調べ〜 ドラマCD 立侍月騒動\[29\]
   - 穏やか貴族の休暇のすすめ。（宿主）
   - [家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink") 「家庭教師ディーノ」（**ディーノ**） ※vsヴァリアー編 Battle.3 DVD初回特典CD
   - カレシ★シアター ※『[女の子のためのクチコミ&投稿マガジン](https://ja.wikipedia.org/wiki/女の子のためのクチコミ&投稿マガジン "wikilink")』2012年5月号全サCD
@@ -75,21 +76,21 @@
   - [逆転裁判6 オリジナルドラマCD](https://ja.wikipedia.org/wiki/逆転裁判6 "wikilink")（**王泥喜法介**） ※『逆転裁判6 LIMITED EDITION』同梱
   - GANG×ROCK 皇位争奪トーナメント ENTRY01 Odin;s 訊け、我が雷鳴を！（**雷堂翔太**）
   - 金色のコルダ 15th Anniversary CD 学内音楽コンクール“衛藤編” ①/②（**レオ・デ・フェルナンデス**）
-  - [Glass Heart Princess:PLATINUM](https://ja.wikipedia.org/wiki/Glass_Heart_Princess "wikilink") ドラマCD 〜時をかけて来た少女〜（**柾木真之介**\[29\]）
+  - [Glass Heart Princess:PLATINUM](https://ja.wikipedia.org/wiki/Glass_Heart_Princess "wikilink") ドラマCD 〜時をかけて来た少女〜（**柾木真之介**\[30\]）
   - [喧嘩番長 乙女](https://ja.wikipedia.org/wiki/喧嘩番長_乙女 "wikilink") シリーズ（**箕輪斗々丸**）
-      - 喧嘩番長 乙女 ドラマCD「獅子吼の国のアリス」\[30\]
-      - 喧嘩番長 乙女 OFFICIAL FANBOOK 特典CD「目指せ！ヤンキーアイドル」\[31\]
-      - 喧嘩番長 乙女 ドラマCD Vol.2・3\[32\]
+      - 喧嘩番長 乙女 ドラマCD「獅子吼の国のアリス」\[31\]
+      - 喧嘩番長 乙女 OFFICIAL FANBOOK 特典CD「目指せ！ヤンキーアイドル」\[32\]
+      - 喧嘩番長 乙女 ドラマCD Vol.2・3\[33\]
   - [シャイニング・フォース フェザー](https://ja.wikipedia.org/wiki/シャイニング・フォース_フェザー "wikilink")（ラッシュ）
   - [スタミュ](https://ja.wikipedia.org/wiki/スタミュ "wikilink") シリーズ（虎石和泉）
-      - スタミュ ファーストドラマCD「☆☆永遠★STAGE☆☆」\[33\]
+      - スタミュ ファーストドラマCD「☆☆永遠★STAGE☆☆」\[34\]
       - スタミュ ドラマCD「幼なじみメランコリー」 ※『[シルフ](../Page/シルフ_\(雑誌\).md "wikilink")』2016年1月号付録
-      - スタミュ サードドラマCD\[34\]
-  - [剣が君](https://ja.wikipedia.org/wiki/剣が君 "wikilink") シリーズ（**螢**\[35\]）
+      - スタミュ サードドラマCD\[35\]
+  - [剣が君](https://ja.wikipedia.org/wiki/剣が君 "wikilink") シリーズ（**螢**\[36\]）
       - 剣が君 オリジナルサウンドトラック プラス ドラマ
-      - 剣が君 剣の章「迷霧の箱根峠」\[36\]
-      - 剣が君 君の章「料理茶屋大騒動」\[37\]
-  - [月刊少女野崎くん](https://ja.wikipedia.org/wiki/月刊少女野崎くん "wikilink")（**御子柴実琴**\[38\]）
+      - 剣が君 剣の章「迷霧の箱根峠」\[37\]
+      - 剣が君 君の章「料理茶屋大騒動」\[38\]
+  - [月刊少女野崎くん](https://ja.wikipedia.org/wiki/月刊少女野崎くん "wikilink")（**御子柴実琴**\[39\]）
   - ジャポニズム47（**東京**［**23区**］）
   - [Jewelic Nightmare](https://ja.wikipedia.org/wiki/Jewelic_Nightmare "wikilink") シリーズ（**皇征一郎** / **アダマス**）
       - ジュエリック・ナイトメア シチュエーションドラマCD Vol.1 〜ダイヤモンド&ルビー〜
@@ -102,24 +103,24 @@
       - スカーレッドライダーゼクス リュウキュウヒーローアドベンチャー
       - スカーレッドライダーゼクス ハーモニー・エクスプロージョン
       - スカーレッドライダーゼクスゼノン XENON to XECHS
-      - スカーレッドライダーゼクスゼノン PIECE OF XENON\[39\]
-      - スカーレッドライダーゼクス GREAT LAG TIME SHOW\[40\]
-      - TVアニメ スカーレッドライダーゼクス オープニングテーマ「青と紅のフォルツァート」\[41\] ※ドラマパートのみ出演
-      - スカーレッドライダーゼクス リュウキュウインシデンツ2016\[42\]
+      - スカーレッドライダーゼクスゼノン PIECE OF XENON\[40\]
+      - スカーレッドライダーゼクス GREAT LAG TIME SHOW\[41\]
+      - TVアニメ スカーレッドライダーゼクス オープニングテーマ「青と紅のフォルツァート」\[42\] ※ドラマパートのみ出演
+      - スカーレッドライダーゼクス リュウキュウインシデンツ2016\[43\]
   - [ストロボ・エッジ](../Page/ストロボ・エッジ.md "wikilink") ドラマCD vol.1・2（**安堂拓海**）
-  - 爽海バッカニアーズ\! シリーズ（**クレイヴ＝フォスター**\[43\]）
-      - 爽海バッカニアーズ\! ミニドラマCD特別版 ※AGF2013数量限定配布\[44\]、『[電撃Girl's Style](https://ja.wikipedia.org/wiki/電撃Girl's_Style "wikilink")』2014年7月号付録
+  - 爽海バッカニアーズ\! シリーズ（**クレイヴ＝フォスター**\[44\]）
+      - 爽海バッカニアーズ\! ミニドラマCD特別版 ※AGF2013数量限定配布\[45\]、『[電撃Girl's Style](https://ja.wikipedia.org/wiki/電撃Girl's_Style "wikilink")』2014年7月号付録
       - 爽海バッカニアーズ\! ドラマCD VOL.1 - 3
   - [ダイヤのA](../Page/ダイヤのA.md "wikilink") キャラクターソング Vol.9 成宮鳴（神谷カルロス俊樹） ※ドラマパートのみ出演
   - [断章のグリム](../Page/断章のグリム.md "wikilink") ドラマCD -小人と靴屋-（**白野蒼衣**）
   - [ツキウタ。](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink") シリーズ（**皐月葵**）
       - ツキウタ。ドラマ\!
-      - ツキウタ。ドラマ\!その2・5\[45\]
+      - ツキウタ。ドラマ\!その2・5\[46\]
       - ツキウタ。アートブック ※[アニメイト](../Page/アニメイト.md "wikilink")限定版ドラマCD
-      - ツキウタ。シリーズ 長月夜2\[46\] ※ドラマパートのみ出演
-      - ツキウタ。シリーズ 「池袋月猫物語」\[47\]
+      - ツキウタ。シリーズ 長月夜2\[47\] ※ドラマパートのみ出演
+      - ツキウタ。シリーズ 「池袋月猫物語」\[48\]
   - TVアニメ [境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方 "wikilink") ドラマCD スラップスティック文芸部（**神原秋人**）
-  - ディア♥ヴォーカリスト Drama CD Survival Wars \#1・2（**シエル**\[48\]）
+  - ディア♥ヴォーカリスト Drama CD Survival Wars \#1・2（**シエル**\[49\]）
   - [ドルアーガの塔](https://ja.wikipedia.org/wiki/ドルアーガの塔_\(テレビアニメ\) "wikilink") シリーズ（**ジル**）
       - ドルアーガの塔 〜the Spoon of URUK〜
       - ドルアーガの塔 〜the fork of URUK〜
@@ -132,7 +133,7 @@
       - VitaminX-Z ドラマCD「〜秘密倶楽部でつかまえて〜MASOCHISTIC SIDE〜」
       - VitaminZ・ハッピービタミン 〜Oh\!ムコ・バトル〜
       - VitaminX-Z キャンディビタミン1 〜翼と天十郎 君はいつでもストロベリー・キッス〜
-  - [フォルティッシモ サウンドストーリー Surprise Style](https://ja.wikipedia.org/wiki/フォルティッシモ_\(ビジュアルストーリー\) "wikilink")（**朝倉風斗**\[49\]）
+  - [フォルティッシモ サウンドストーリー Surprise Style](https://ja.wikipedia.org/wiki/フォルティッシモ_\(ビジュアルストーリー\) "wikilink")（**朝倉風斗**\[50\]）
   - [BROTHERS CONFLICT](https://ja.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink") シリーズ（**朝日奈風斗**）
       - BROTHERS CONFLICT キャラクターCD (4) with 要&風斗
       - BROTHERS CONFLICT ドラマCD 兄弟（おれ）たちの日常
@@ -140,7 +141,7 @@
       - BROTHERS CONFLICT MY 6 LOVERS
       - BROTHERS CONFLICT ドラマCD TRIPLE EDITION2 ※『シルフ』2013年11月号付録
       - BROTHERS CONFLICT キャラクターCD 2ndシリーズ (3) with 祈織&風斗
-      - BROTHERS CONFLICT RARE TRACK\[50\]
+      - BROTHERS CONFLICT RARE TRACK\[51\]
   - VELVET UNDERWORLD Fragment story \#0 - 2（**ドライ**）
   - ぺらぶ\! シリーズ（**時枝あゆむ**）
       - ぺらぶ\! a cappella love\!? \#1
@@ -149,60 +150,60 @@
   - マイカレ シリーズ（**上総友和**）
       - マイカレ2
       - マイカレスペシャル〜双璧編〜
-  - 真代家こんぷれっくす！（**真代五月**）※コミックス第5巻\[51\]・第6巻\[52\]・第8巻ドラマCD同梱版\[53\]
-  - [マジンボーン](https://ja.wikipedia.org/wiki/マジンボーン "wikilink") ドラマCD「歯医者へ行く！Hi\!シャーク・ルーク」（**竜神翔悟**）\[54\]
+  - 真代家こんぷれっくす！（**真代五月**）※コミックス第5巻\[52\]・第6巻\[53\]・第8巻ドラマCD同梱版\[54\]
+  - [マジンボーン](https://ja.wikipedia.org/wiki/マジンボーン "wikilink") ドラマCD「歯医者へ行く！Hi\!シャーク・ルーク」（**竜神翔悟**）\[55\]
   - 魔法学園エウレキア 〜風紀部に咲く、白乙女〜（**エース・ウィンハルト**）
   - [MARGINAL\#4](https://ja.wikipedia.org/wiki/MARGINAL＃4 "wikilink") シリーズ（**野村エル**）
       - MARGINAL\#4 〜星降る夜に、新たな誓いを〜
       - MARGINAL\#4 〜星降る夜の、スイートバレンタイン〜
-      - MARGINAL\#4 〜星降る夜の、ハロウィンパーティー〜\[55\]
-      - MARGINAL\#4 〜星降る夜が、起こした4つの奇跡〜\[56\]
-      - MARGINAL\#4 〜星降る夜の、クリスマス〜\[57\]
-  - まいりました、先輩 ドラマCD 〜先輩彼氏にまいりました〜（檜口\[58\]）
-  - [ミュージカル](../Page/ミュージカル.md "wikilink")ドラマCD 「スクミュ」 第三弾 きらきら仮入部 Act.3（**神路雅**\[59\]）
+      - MARGINAL\#4 〜星降る夜の、ハロウィンパーティー〜\[56\]
+      - MARGINAL\#4 〜星降る夜が、起こした4つの奇跡〜\[57\]
+      - MARGINAL\#4 〜星降る夜の、クリスマス〜\[58\]
+  - まいりました、先輩 ドラマCD 〜先輩彼氏にまいりました〜（檜口\[59\]）
+  - [ミュージカル](../Page/ミュージカル.md "wikilink")ドラマCD 「スクミュ」 第三弾 きらきら仮入部 Act.3（**神路雅**\[60\]）
   - [明治東亰恋伽](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink") シリーズ（**菱田春草**）
       - めいこい音声劇場 明治東亰恋逢 〜春草・音二郎編〜
       - めいこい音声劇場 恋綺譚 〜第一幕〜、〜第三幕〜
-      - 明治東亰恋伽 〜吸血鬼の館〜\[60\]
-      - めいこい時間旅行 スペシャルドラマCD\[61\]
+      - 明治東亰恋伽 〜吸血鬼の館〜\[61\]
+      - めいこい時間旅行 スペシャルドラマCD\[62\]
       - 明治東亰恋伽 〜ハヰカラデヱト〜 ドラマCD
-  - 百千さん家のあやかし王子 シリーズ（**七守葵** / **鵺**\[62\]）
+  - 百千さん家のあやかし王子 シリーズ（**七守葵** / **鵺**\[63\]）
       - 百千さん家のあやかし王子 「百千姉妹のおもてなし」※『[月刊ASUKA](../Page/月刊Asuka.md "wikilink")』2014年8月号付録
       - 百千さん家のあやかし王子 「ひまりと伊勢と、時々火車と。」※『月刊ASUKA』2015年4月号付録
       - 百千さん家のあやかし王子
-      - 百千さん家のあやかし王子 其の弐・其の参\[63\]
-  - [ゆのはなSpRING\!](https://ja.wikipedia.org/wiki/ゆのはなSpRING! "wikilink") ドラマCD 〜秋に咲く泡沫の桜〜（**片桐金太郎**\[64\]）
+      - 百千さん家のあやかし王子 其の弐・其の参\[64\]
+  - [ゆのはなSpRING\!](https://ja.wikipedia.org/wiki/ゆのはなSpRING! "wikilink") ドラマCD 〜秋に咲く泡沫の桜〜（**片桐金太郎**\[65\]）
   - [ラストランカー](https://ja.wikipedia.org/wiki/ラストランカー "wikilink") 炭酸水とねじねじパン（リド）
 
 ### 朗読CD
 
-  - オオカミ君ち。VOL.3 - 5（**大神空奈多**\[65\]）
-  - おとどけカレシ - More Love - Vol.5（**矢吹千紘**\[66\]）
-  - \-陰陽師幻夜録- 我が掌で眠れ Vol.5（**甲斐**\[67\]）
-  - KISS×KISS collections Vol.31 「おとうとキス」（**橘和樹**\[68\]）
-  - Guilty7 Vol.1 憤怒編（**鬼怒谷遼**\[69\]）
+  - オオカミ君ち。VOL.3 - 5（**大神空奈多**\[66\]）
+  - おとどけカレシ - More Love - Vol.5（**矢吹千紘**\[67\]）
+  - \-陰陽師幻夜録- 我が掌で眠れ Vol.5（**甲斐**\[68\]）
+  - KISS×KISS collections Vol.31 「おとうとキス」（**橘和樹**\[69\]）
+  - Guilty7 Vol.1 憤怒編（**鬼怒谷遼**\[70\]）
   - [三国志](../Page/三国志.md "wikilink") Three Kingdoms 公式朗読CDシリーズ “夷陵に燃ゆ” / 趙雲篇
-  - 死神彼氏シリーズ 死神デートCD vol.8 「Un:BIRTHDAY SONG〜静流〜」（**早坂静流**\[70\]）
+  - 死神彼氏シリーズ 死神デートCD vol.8 「Un:BIRTHDAY SONG〜静流〜」（**早坂静流**\[71\]）
   - Double Score シリーズ（**土夢**）
       - Double Score 〜Cattleya〜：城崎理央
       - Double Score 〜Tulip〜：土夢
-      - Double Score 〜quarrel×love〜 土夢の場合\[71\]
-  - ツイキス〜ひだまり荘の双子たち〜 Vol.2 皇ヒビキ&皇カナデ（**皇カナデ**\[72\]）
-  - 七怪家族 第三巻（**オーマ**\[73\]）
-  - 蜜恋(ハニー)ライアー\!? Vol.6（**日永サク**\[74\]）
-  - Honeymoon vol.24（**星野蒼介**\[75\]）
+      - Double Score 〜quarrel×love〜 土夢の場合\[72\]
+  - ツイキス〜ひだまり荘の双子たち〜 Vol.2 皇ヒビキ&皇カナデ（**皇カナデ**\[73\]）
+  - 七怪家族 第三巻（**オーマ**\[74\]）
+  - 蜜恋(ハニー)ライアー\!? Vol.6（**日永サク**\[75\]）
+  - Honeymoon vol.24（**星野蒼介**\[76\]）
   - [VitaminZ](https://ja.wikipedia.org/wiki/VitaminZ "wikilink") × [羊でおやすみシリーズ](../Page/羊でおやすみシリーズ.md "wikilink") Vol.1 「島でおやすみ」（**成宮天十郎**）
-  - Photograph Journey 〜in Nagasaki〜（**七種瑞樹**\[76\]）
-  - 並行世界と箱庭の部屋 Vol.5（**松島草世** / **松島草太**\[77\]）
+  - Photograph Journey 〜in Nagasaki〜（**七種瑞樹**\[77\]）
+  - 並行世界と箱庭の部屋 Vol.5（**松島草世** / **松島草太**\[78\]）
   - [ミラクル☆トレイン](https://ja.wikipedia.org/wiki/ミラクル☆トレイン "wikilink") シリーズ（**六本木史**）
       - 「エスコートボイスCD」六本木史
       - ミラクル☆トレインラジオCD 〜モンタゲ? もんじゃ\!? montage\!\!〜
-  - めいこい音声劇場 安眠シチュエーションCDシリーズ2「変な寝顔、世も末だ 〜菱田春草編〜」（**菱田春草**\[78\]）
+  - めいこい音声劇場 安眠シチュエーションCDシリーズ2「変な寝顔、世も末だ 〜菱田春草編〜」（**菱田春草**\[79\]）
   - 妄想エステ III（**門脇暖**）
   - 幽幻ロマンチカ シリーズ（**ヒフミ**）
-      - 幽幻ロマンチカ 第壱の謎 鴉天狗\[79\]
-      - 幽幻ロマンチカ 有頂天 第壱の謎 鴉天狗\[80\]
-  - ラブネットチューン Type-03（**祭**\[81\]）
+      - 幽幻ロマンチカ 第壱の謎 鴉天狗\[80\]
+      - 幽幻ロマンチカ 有頂天 第壱の謎 鴉天狗\[81\]
+  - ラブネットチューン Type-03（**祭**\[82\]）
   - Reader Song シリーズ
       - Reader Song 〜 Love Letter 3 / Pops （Aura Lee / America Falk）
       - Reader Song 〜 Love Letter 4 / Jazz （When I Fall In Love）
@@ -225,8 +226,8 @@
 
 ### ラジオドラマ
 
-  - [逆転裁判](../Page/逆転裁判.md "wikilink")5〜逆転のアニマルサーカス\!?〜（**王泥喜法介**\[82\]）
-  - 百千さん家のあやかし王子（**葵** / **鵺**\[83\]）
+  - [逆転裁判](../Page/逆転裁判.md "wikilink")5〜逆転のアニマルサーカス\!?〜（**王泥喜法介**\[83\]）
+  - 百千さん家のあやかし王子（**葵** / **鵺**\[84\]）
 
 ### 吹き替え
 
@@ -234,14 +235,14 @@
 
   - [大統領の料理人](https://ja.wikipedia.org/wiki/大統領の料理人 "wikilink")（2014年、ニコラ・ボヴォワ〈アルチュール・デュポン〉）
   - [マライアと失われた秘宝の謎](https://ja.wikipedia.org/wiki/マライアと失われた秘宝の謎 "wikilink")（2014年、**マライア**〈[アナイリン・バーナード](https://ja.wikipedia.org/wiki/アナイリン・バーナード "wikilink")〉）
-  - [チャーリー・モルデカイ 華麗なる名画の秘密](https://ja.wikipedia.org/wiki/チャーリー・モルデカイ_華麗なる名画の秘密 "wikilink")（2015年、モーリス〈ガイ・バーネット〉\[84\]）
+  - [チャーリー・モルデカイ 華麗なる名画の秘密](https://ja.wikipedia.org/wiki/チャーリー・モルデカイ_華麗なる名画の秘密 "wikilink")（2015年、モーリス〈ガイ・バーネット〉\[85\]）
   - [ライト/オフ](https://ja.wikipedia.org/wiki/ライト/オフ "wikilink")（2016年、ブレット〈アレクサンダー・ディペルシア〉）
-  - [ジュマンジ/ウェルカム・トゥ・ジャングル](https://ja.wikipedia.org/wiki/ジュマンジ/ウェルカム・トゥ・ジャングル "wikilink")（2018年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[85\]）
-  - [レディ・プレイヤー1](https://ja.wikipedia.org/wiki/レディ・プレイヤー1 "wikilink")（2018年、**ウェイド・オーウェン・ワッツ / パーシヴァル**〈[タイ・シェリダン](https://ja.wikipedia.org/wiki/タイ・シェリダン "wikilink")〉\[86\]）
+  - [ジュマンジ/ウェルカム・トゥ・ジャングル](https://ja.wikipedia.org/wiki/ジュマンジ/ウェルカム・トゥ・ジャングル "wikilink")（2018年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[86\]）
+  - [レディ・プレイヤー1](https://ja.wikipedia.org/wiki/レディ・プレイヤー1 "wikilink")（2018年、**ウェイド・オーウェン・ワッツ / パーシヴァル**〈[タイ・シェリダン](https://ja.wikipedia.org/wiki/タイ・シェリダン "wikilink")〉\[87\]）
   - [それだけが、僕の世界](https://ja.wikipedia.org/wiki/それだけが、僕の世界 "wikilink")（2019年、**ジンテ**〈[パク・ジョンミン](../Page/パク・ジョンミン_\(俳優\).md "wikilink")〉）
   - [女王陛下のお気に入り](https://ja.wikipedia.org/wiki/女王陛下のお気に入り "wikilink")（2019年、マシャム大佐〈ジョー・アルウィン〉）
-  - [ジュマンジ/ネクスト・レベル](https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル "wikilink")（2019年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[87\]）
-  - [ナイト・オブ・シャドー 魔法拳](../Page/ナイト・オブ・シャドー_魔法拳.md "wikilink")（2020年、ヤンフェイ〈リン・ボーホン〉\[88\]）
+  - [ジュマンジ/ネクスト・レベル](https://ja.wikipedia.org/wiki/ジュマンジ/ネクスト・レベル "wikilink")（2019年、シープレーン〈[ニック・ジョナス](https://ja.wikipedia.org/wiki/ニック・ジョナス "wikilink")〉\[88\]）
+  - [ナイト・オブ・シャドー 魔法拳](../Page/ナイト・オブ・シャドー_魔法拳.md "wikilink")（2020年、ヤンフェイ〈リン・ボーホン〉\[89\]）
 
 #### テレビドラマ
 
@@ -255,65 +256,65 @@
   - [サンダーバード ARE GO](https://ja.wikipedia.org/wiki/サンダーバード_ARE_GO "wikilink")（2015年、**ジョン・トレーシー**）
   - [トロールズ](https://ja.wikipedia.org/wiki/トロールズ "wikilink")（2016年、**ブランチ**〈[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")〉）
   - トロールズ みんなのハッピーホリデー\!（2017年、**ブランチ**〈[ジャスティン・ティンバーレイク](../Page/ジャスティン・ティンバーレイク.md "wikilink")〉）
-  - [トロールズ: シング・ダンス・ハグ\!](https://ja.wikipedia.org/wiki/トロールズ:_シング・ダンス・ハグ! "wikilink")（2018年、**ブランチ**〈[スカイラー・アスティン](https://ja.wikipedia.org/wiki/スカイラー・アスティン "wikilink")〉\[89\]）
+  - [トロールズ: シング・ダンス・ハグ\!](https://ja.wikipedia.org/wiki/トロールズ:_シング・ダンス・ハグ! "wikilink")（2018年、**ブランチ**〈[スカイラー・アスティン](https://ja.wikipedia.org/wiki/スカイラー・アスティン "wikilink")〉\[90\]）
   - セントラル・パーク（2020年、グリフィン）
 
 ### デジタルコミック
 
-  - [VOMIC](../Page/VOMIC.md "wikilink") [ハイキュー\!\!](https://ja.wikipedia.org/wiki/ハイキュー!! "wikilink")（**日向翔陽**\[90\]）
+  - [VOMIC](../Page/VOMIC.md "wikilink") [ハイキュー\!\!](https://ja.wikipedia.org/wiki/ハイキュー!! "wikilink")（**日向翔陽**\[91\]）
   - [BeeTV](https://ja.wikipedia.org/wiki/BeeTV "wikilink") [グラップラー刃牙](../Page/グラップラー刃牙.md "wikilink")（**範馬刃牙**）
 
 ### 特撮
 
-  - [烈車戦隊トッキュウジャー THE MOVIE ギャラクシーラインSOS](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー_THE_MOVIE_ギャラクシーラインSOS "wikilink")（2014年、ハウンドシャドーの声\[91\]）
+  - [烈車戦隊トッキュウジャー THE MOVIE ギャラクシーラインSOS](https://ja.wikipedia.org/wiki/烈車戦隊トッキュウジャー_THE_MOVIE_ギャラクシーラインSOS "wikilink")（2014年、ハウンドシャドーの声\[92\]）
 
 ### ラジオ
 
 ※は[インターネット配信](../Page/インターネットラジオ.md "wikilink")。
 
-  - The NaB'sのこれじゃマズイだろ（2003年、[STAR digio](https://ja.wikipedia.org/wiki/STAR_digio "wikilink") CH.400）\[92\]
+  - The NaB'sのこれじゃマズイだろ（2003年、[STAR digio](https://ja.wikipedia.org/wiki/STAR_digio "wikilink") CH.400）\[93\]
   - [塔聴\!\!ドルアーガ](https://ja.wikipedia.org/wiki/ドルアーガの塔_\(テレビアニメ\)#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")（2008年、2009年、[音泉](../Page/音泉.md "wikilink")※）
   - ゲーム『Vitamin』シリーズ Webラジオ 私立聖帝学園放送部（2009年 - 2011年、[アニメイトTV](https://ja.wikipedia.org/wiki/アニメイトTV "wikilink")※）
   - VELVET UNDER WORLD Web Radio VELVET-NETWORK 第1期（2009年 - 2010年、アニメイトTV※）
   - [ミラクル☆トレイン](https://ja.wikipedia.org/wiki/ミラクル☆トレイン "wikilink")ラジオ〜車掌室へようこそ〜（2009年 - 2010年、[アニプレックス](../Page/アニプレックス.md "wikilink")※・[ランティスウェブラジオ](../Page/ランティスウェブラジオ.md "wikilink")※）
   - [黒執事 ファントムパーティーナイト〜真夜中の仮面舞踏会〜](../Page/黒執事.md "wikilink")II（2011年、アニメイトTV※）
   - 快感\[TO\]Night〜KENN and [森久保祥太郎](../Page/森久保祥太郎.md "wikilink")〜（2011年 - 2012年、ニコニコ生放送※）
-  - ぺらぶらじお（2011年、アニメイトTV※）\[93\]
+  - ぺらぶらじお（2011年、アニメイトTV※）\[94\]
   - めいこいラヂオ（2011年 - 2012年、ニコニコ生放送※）
   - KENN&[岡本信彦](../Page/岡本信彦.md "wikilink")の[RADIOアニメロミックス](../Page/RADIOアニメロミックス.md "wikilink")（2011年 - 2012年、[文化放送](../Page/文化放送.md "wikilink")）
   - \-けもみみ☆ラヂヲ- 擬人カレシ 〜Dear My Student〜（2012年、アニメイトTV※）
   - [VitaminZ RadioAction](https://ja.wikipedia.org/wiki/VitaminZ "wikilink")（2012年 - 2013年、音泉※）
-  - [サンラジオ・レジデンス](https://ja.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")（2012年 - 2013年、アニメイトTV※）\[94\]
+  - [サンラジオ・レジデンス](https://ja.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink")（2012年 - 2013年、アニメイトTV※）\[95\]
   - [浪川大輔](../Page/浪川大輔.md "wikilink")\&KENNのRADIO センパイヤゾ！（2013年 - 2016年、[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")※）
   - [熱風海陸ブシラヂオ](../Page/熱風海陸ブシロード.md "wikilink")（2013年 - 2014年、[HiBiKi Radio Station](https://ja.wikipedia.org/wiki/HiBiKi_Radio_Station "wikilink")※・[ラジオ大阪](../Page/大阪放送.md "wikilink")）
   - [We are 宇宙兄弟](../Page/宇宙兄弟.md "wikilink")（2012年 - 2014年、[FM NACK5](../Page/エフエムナックファイブ.md "wikilink")）
   - 宇宙兄弟\#0（2014年、FM NACK5）
-  - サンラジオ・レジデンス リターンズ（2014年 - 2015年、アニメイトTV※）\[95\]
-  - [斗々丸・金春の喧嘩番長 乙女 とことんトトコンラジオ](https://ja.wikipedia.org/wiki/喧嘩番長_乙女#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")（2016年、音泉※、[アニメイトタイムズ](../Page/アニメイトタイムズ.md "wikilink")※）\[96\]
-  - [将国のアルタイル〜トルキエ放送局〜](https://ja.wikipedia.org/wiki/将国のアルタイル#Webラジオ "wikilink")（2017年 - 2018年、音泉※）\[97\]
-  - 知りたいことが多すぎるKENN（2017年 - 2018年、音泉※）\[98\]
+  - サンラジオ・レジデンス リターンズ（2014年 - 2015年、アニメイトTV※）\[96\]
+  - [斗々丸・金春の喧嘩番長 乙女 とことんトトコンラジオ](https://ja.wikipedia.org/wiki/喧嘩番長_乙女#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")（2016年、音泉※、[アニメイトタイムズ](../Page/アニメイトタイムズ.md "wikilink")※）\[97\]
+  - [将国のアルタイル〜トルキエ放送局〜](https://ja.wikipedia.org/wiki/将国のアルタイル#Webラジオ "wikilink")（2017年 - 2018年、音泉※）\[98\]
+  - 知りたいことが多すぎるKENN（2017年 - 2018年、音泉※）\[99\]
   - KENN's Re-Recognition Program（2019年、[マンガPark](https://ja.wikipedia.org/wiki/マンガPark "wikilink")※）
 
 ### ラジオCD
 
-  - [アオハラジオ](https://ja.wikipedia.org/wiki/アオハライド "wikilink")\[99\]
-  - [アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")〜ラジオ・ヤシャスィーン！ Vol.2・3\[100\]、特別版 Vol.2 ※TSUTAYAレンタル限定盤
+  - [アオハラジオ](https://ja.wikipedia.org/wiki/アオハライド "wikilink")\[100\]
+  - [アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")〜ラジオ・ヤシャスィーン！ Vol.2・3\[101\]、特別版 Vol.2 ※TSUTAYAレンタル限定盤
   - 月刊ガルスタラジオ 秘密の袋とじ 秘密の取り合いCD
-  - [スタミュ Vol.1・2](https://ja.wikipedia.org/wiki/スタミュ "wikilink")ラジオ〜目指せ！ラジオスター〜\[101\]
-  - ステラ☆ステーション ラジオCD vol.4\[102\]
+  - [スタミュ Vol.1・2](https://ja.wikipedia.org/wiki/スタミュ "wikilink")ラジオ〜目指せ！ラジオスター〜\[102\]
+  - ステラ☆ステーション ラジオCD vol.4\[103\]
   - ツダケンロードショー・はてるまでラジオ DJCD Black\&White
-  - [斗々丸・金春の喧嘩番長 乙女 とことんトトコンラジオ](https://ja.wikipedia.org/wiki/喧嘩番長_乙女#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")\[103\]
+  - [斗々丸・金春の喧嘩番長 乙女 とことんトトコンラジオ](https://ja.wikipedia.org/wiki/喧嘩番長_乙女#.E3.82.A4.E3.83.B3.E3.82.BF.E3.83.BC.E3.83.8D.E3.83.83.E3.83.88.E3.83.A9.E3.82.B8.E3.82.AA "wikilink")\[104\]
   - ドルアーガの塔ラジオCD-ROM「塔聴\!\!ドルアーガ」Vol.1 - 3
   - [VitaminZ](https://ja.wikipedia.org/wiki/VitaminZ "wikilink") シリーズ
       - DJCD「私立聖帝学園放送部活動録」巻の壱 - 終の巻
       - DJCD「私立聖帝学園放送部活動録」冬季課外活動編
   - [BROTHERS CONFLICT](https://ja.wikipedia.org/wiki/BROTHERS_CONFLICT "wikilink") シリーズ
       - DJCD BROTHERS CONFLICT サンラジオ・レジデンス Vol.1 - 4
-      - DJCD BROTHERS CONFLICT サンラジオ・レジデンス リターンズ Vol.1\[104\]
+      - DJCD BROTHERS CONFLICT サンラジオ・レジデンス リターンズ Vol.1\[105\]
   - VELVET UNDERWORLD DJCD「VELVET-NETWORK RECORDS」α・β
   - ぺらぶ\! a cappella love\!? ぺらぶらじお
-  - [「RADIO TERRAFORMARS アネックス1号航海日誌」Vol.1・2](https://ja.wikipedia.org/wiki/TERRAFORMARS "wikilink")\[105\]
-  - [ラジオ・ディバインゲート](https://ja.wikipedia.org/wiki/ディバインゲート "wikilink")\[106\]
+  - [「RADIO TERRAFORMARS アネックス1号航海日誌」Vol.1・2](https://ja.wikipedia.org/wiki/TERRAFORMARS "wikilink")\[106\]
+  - [ラジオ・ディバインゲート](https://ja.wikipedia.org/wiki/ディバインゲート "wikilink")\[107\]
 
 ### CM
 
@@ -402,21 +403,21 @@
 **声優業**
 
   - 青い空の下で果てる女のキミと"いつまで一緒に居れるかな?"と言ったら関係が壊れてしまうじゃないかと不安で胸を痛めている事が果たしてキミに伝わるかな...ラジオ。※音声のみのDJDVD
-  - [オトメイト](../Page/オトメイト.md "wikilink")パーティー♪2011・2013\[107\]・2014\[108\]
+  - [オトメイト](../Page/オトメイト.md "wikilink")パーティー♪2011・2013\[108\]・2014\[109\]
   - [家庭教師ヒットマンREBORN\!](https://ja.wikipedia.org/wiki/家庭教師ヒットマンREBORN! "wikilink") シリーズ
       - 家庭教師ヒットマンREBORN\! リボキャラコレクション〜最強の仲間たち〜 第2巻
       - 家庭教師ヒットマンREBORN\! ボンゴレ最強のカルネヴァーレ4 RED
       - 家庭教師ヒットマンREBORN\! ボンゴレ究極のカルネヴァーレ\!\!\!\!\!
       - 家庭教師ヒットマンREBORN\! ボンゴレ最強のカルネヴァーレコレクションDVD ver.ボンゴレ VOL.2
-  - SABA SURVIVAL GAME SEASON II \#3\[109\]
+  - SABA SURVIVAL GAME SEASON II \#3\[110\]
   - [スカーレッドライダーゼクス TANABATA GIG 2012 黄金の織姫たちへ](https://ja.wikipedia.org/wiki/スカーレッドライダーゼクス "wikilink")
-  - スカーレッドライダーゼクス NEW DAYS 2016 春のサブミッション イベントDVD\[110\]
-  - 声優だって旅します VOL.2 [浪川大輔](../Page/浪川大輔.md "wikilink")・KENN/石川編\[111\]
-  - 声優だって旅します スペシャルイベント 〜声優だって旅しました！ 旅の思い出は○○だったね〜\[112\]
+  - スカーレッドライダーゼクス NEW DAYS 2016 春のサブミッション イベントDVD\[111\]
+  - 声優だって旅します VOL.2 [浪川大輔](../Page/浪川大輔.md "wikilink")・KENN/石川編\[112\]
+  - 声優だって旅します スペシャルイベント 〜声優だって旅しました！ 旅の思い出は○○だったね〜\[113\]
   - TVアニメ『[ムシブギョー](https://ja.wikipedia.org/wiki/ムシブギョー "wikilink")』イベントDVD〜常住宴陣〜
   - [東京乙女レストラン](https://ja.wikipedia.org/wiki/東京乙女レストラン "wikilink") シリーズ
-      - 東京乙女レストラン シーズン2 Vol.3\[113\]・4\[114\]
-      - 東京乙女レストラン spécialité\[115\]
+      - 東京乙女レストラン シーズン2 Vol.3\[114\]・4\[115\]
+      - 東京乙女レストラン spécialité\[116\]
   - [ときめきレシピ](https://ja.wikipedia.org/wiki/アニメ星人_ときめきレシピ "wikilink") 英国料理の巻 [前野智昭](../Page/前野智昭.md "wikilink")\&KENN
   - [浪川大輔のヤバい\!たのしくなってきちゃった\! Vol.3](https://ja.wikipedia.org/wiki/浪川大輔のヤバい!たのしくなってきちゃった! "wikilink")
   - [ネオロマンスシリーズ](../Page/ネオロマンスシリーズ.md "wikilink")
@@ -427,18 +428,18 @@
       - VitaminZ〜大阪・初夏の陣〜
       - VitaminZ〜東京・盛夏の陣〜
       - VitaminZ 百花繚乱 幕張・炎夏の陣 愛してるZ\!\!\!\!\!\!
-      - VitaminZ 修学旅行 in 北海道！\[116\]
+      - VitaminZ 修学旅行 in 北海道！\[117\]
   - [明治東亰恋伽](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink") 〜ハイカラ浪漫劇場1 - 3〜
-  - [森川さんのはっぴーぼーらっきー](https://ja.wikipedia.org/wiki/森川さんのはっぴーぼーらっきー "wikilink") VOL.7・8\[117\]
-  - [森川智之](../Page/森川智之.md "wikilink")と[檜山修之](../Page/檜山修之.md "wikilink")のおまえらのためだろ！ 鮑-AWABI-\[118\]
+  - [森川さんのはっぴーぼーらっきー](https://ja.wikipedia.org/wiki/森川さんのはっぴーぼーらっきー "wikilink") VOL.7・8\[118\]
+  - [森川智之](../Page/森川智之.md "wikilink")と[檜山修之](../Page/檜山修之.md "wikilink")のおまえらのためだろ！ 鮑-AWABI-\[119\]
   - ライブビデオ JAPAN 乙女♥Festival
-  - Rejet Fes. 2014 DISCOVERY\[119\]
-  - Rejet Fes. 2016 ONLY ONE\[120\]
+  - Rejet Fes. 2014 DISCOVERY\[120\]
+  - Rejet Fes. 2016 ONLY ONE\[121\]
   - [恋愛番長](https://ja.wikipedia.org/wiki/恋愛番長 "wikilink") シリーズ
       - ビーズログTV 恋愛番長 Vol.1
       - ビーズログTV 恋愛番長・二学期 数学
-      - ビーズログTV 恋愛番長・リターンズ 文化祭\[121\]
-      - ビーズログTV 恋愛番長・リターンズ 体育祭\[122\]
+      - ビーズログTV 恋愛番長・リターンズ 文化祭\[122\]
+      - ビーズログTV 恋愛番長・リターンズ 体育祭\[123\]
 
 **俳優業**
 
@@ -457,7 +458,7 @@
       - ミュージカル エア・ギア
       - ミュージカル エア・ギア vs.BACCHUS Super Range Remix
       - ミュージカル エア・ギア vs.BACCHUS Top Gear Remix
-  - ミュージカル [しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")\[123\]
+  - ミュージカル [しゅごキャラ\!](../Page/しゅごキャラ!.md "wikilink")\[124\]
   - [ミュージカル テニスの王子様](https://ja.wikipedia.org/wiki/ミュージカル_テニスの王子様 "wikilink") シリーズ
       - ミュージカル テニスの王子様 More than Limit 聖ルドルフ学院
       - ミュージカル テニスの王子様 in winter 2004-2005 side 山吹 feat. 聖ルドルフ学院
@@ -476,7 +477,7 @@
   - [書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")
       - Diary（遊タイム出版、2007年1月31日） ※DVD付き
       - KENN 2014年[カレンダー](../Page/カレンダー.md "wikilink")（ハゴロモ、2013年11月10日）
-          - KENNプレミアムフォトグッズ\[124\]
+          - KENNプレミアムフォトグッズ\[125\]
       - KENN IN CHANGE（[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、2015年8月27日） ※ドラマCD付き
       - Nu（[宝島社](../Page/宝島社.md "wikilink")、2016年8月26日） ※DVD付き
   - 携帯サイト
@@ -488,16 +489,16 @@
           - [dwango.jp](../Page/ドワンゴ.md "wikilink")
           - ググッド♪チャネル 声優ボイス KENN
       - [カカオトーク](https://ja.wikipedia.org/wiki/カカオトーク "wikilink") 『声優ボイス・KENN』スタンプ（2013年12月26日）
-      - [しゃべるLINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") 『[アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")』（**ギーヴ**\[125\]）
-      - [しゃべるLINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") 『[劇場版 黒執事 Book of the Atlantic](https://ja.wikipedia.org/wiki/劇場版_黒執事_Book_of_the_Atlantic "wikilink")』（**ロナルド・ノックス**\[126\]）
+      - [しゃべるLINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") 『[アルスラーン戦記](../Page/アルスラーン戦記.md "wikilink")』（**ギーヴ**\[126\]）
+      - [しゃべるLINEスタンプ](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink") 『[劇場版 黒執事 Book of the Atlantic](https://ja.wikipedia.org/wiki/劇場版_黒執事_Book_of_the_Atlantic "wikilink")』（**ロナルド・ノックス**\[127\]）
   - DVDドラマ 斬セイバー - ナレーション
   - 携帯ドラマ [俺たちのリレーション](https://ja.wikipedia.org/wiki/ヴィジョンファクトリー#VISION_CAST "wikilink") - 海野浩介 役
   - [宇宙兄弟](../Page/宇宙兄弟.md "wikilink") 音声ガイド（**南波日々人**）
-      - 宇宙兄弟展（[日本橋三越本店](../Page/三越.md "wikilink")：2014年5月1日 - 5月6日、[京都文化博物館](../Page/京都文化博物館.md "wikilink")：7月30日 - 9月23日、[北九州市漫画ミュージアム](https://ja.wikipedia.org/wiki/あるあるCity#.E5.8C.97.E4.B9.9D.E5.B7.9E.E5.B8.82.E6.BC.AB.E7.94.BB.E3.83.9F.E3.83.A5.E3.83.BC.E3.82.B8.E3.82.A2.E3.83.A0.EF.BC.885.E3.83.BB6.E9.9A.8E.EF.BC.89 "wikilink")：11月15日 - 2015年1月25日）\[127\]
-      - 夢と感動の宇宙展「宇宙兄弟」ムッタとヒビトが挑んだ空へ！（[名古屋市科学館](../Page/名古屋市科学館.md "wikilink")、2015年3月14日 - 5月24日）\[128\]
+      - 宇宙兄弟展（[日本橋三越本店](../Page/三越.md "wikilink")：2014年5月1日 - 5月6日、[京都文化博物館](../Page/京都文化博物館.md "wikilink")：7月30日 - 9月23日、[北九州市漫画ミュージアム](https://ja.wikipedia.org/wiki/あるあるCity#.E5.8C.97.E4.B9.9D.E5.B7.9E.E5.B8.82.E6.BC.AB.E7.94.BB.E3.83.9F.E3.83.A5.E3.83.BC.E3.82.B8.E3.82.A2.E3.83.A0.EF.BC.885.E3.83.BB6.E9.9A.8E.EF.BC.89 "wikilink")：11月15日 - 2015年1月25日）\[128\]
+      - 夢と感動の宇宙展「宇宙兄弟」ムッタとヒビトが挑んだ空へ！（[名古屋市科学館](../Page/名古屋市科学館.md "wikilink")、2015年3月14日 - 5月24日）\[129\]
   - [ツキウタ。 ANIMATION](https://ja.wikipedia.org/wiki/ツキウタ。 "wikilink")THE 音声入り[目覚まし時計](https://ja.wikipedia.org/wiki/目覚まし時計 "wikilink") B:新&葵&陽&夜（**皐月葵**）
   - プリントシール機『声プリ Special プリステラ』（**あんどー**）
-  - 創作応援アプリ \*exe2045（2020年、**lue/n リューン**\[129\]）
+  - 創作応援アプリ \*exe2045（2020年、**lue/n リューン**\[130\]）
 
 ## ディスコグラフィ
 
@@ -621,7 +622,7 @@
 
 ### その他
 
-  - 手作りCD「超新人LIVEMEN」※べしゃりライヴ会場限定発売（KENN、[豊永利行](../Page/豊永利行.md "wikilink")、[堀田勝](../Page/堀田勝.md "wikilink")、[髙木俊](../Page/高木俊.md "wikilink")）\[130\]
+  - 手作りCD「超新人LIVEMEN」※べしゃりライヴ会場限定発売（KENN、[豊永利行](../Page/豊永利行.md "wikilink")、[堀田勝](../Page/堀田勝.md "wikilink")、[髙木俊](../Page/高木俊.md "wikilink")）\[131\]
       - TACOS NAOMI 1st Album『WORKS』収録曲「風に抱かれて」
 
 ### The NaB's名義
@@ -704,7 +705,7 @@
 | 東亰浪漫譚              | ゲーム『[明治東亰恋伽](https://ja.wikipedia.org/wiki/明治東亰恋伽 "wikilink")』主題歌                                                    | 2011年 |
 | Pieces of My Wish  | [テレビ朝日](../Page/テレビ朝日.md "wikilink")『[Break Out](../Page/Break_Out_\(テレビ番組\).md "wikilink")』11月度エンディングテーマ            | 2012年 |
 | Sanctuary          | [PSPゲーム](../Page/PlayStation_Portable.md "wikilink")『[しらつゆの怪](https://ja.wikipedia.org/wiki/しらつゆの怪 "wikilink")』挿入歌   | 2013年 |
-| 紅ノ夜ノ唄              | PSPゲーム『明治東亰恋伽』主題歌\[131\]                                                                                             |       |
+| 紅ノ夜ノ唄              | PSPゲーム『明治東亰恋伽』主題歌\[132\]                                                                                             |       |
 | 星降ル夜、僕ノワルツ         | PSPゲーム『明治東亰恋伽』エンディングテーマ                                                                                              |       |
 | Eidolon            | PSPゲーム『[Jewelic Nightmare](https://ja.wikipedia.org/wiki/Jewelic_Nightmare "wikilink")』オープニングテーマ                     |       |
 | Dance in the Light | 劇場アニメ『[劇場版 明治東亰恋伽 〜弦月の小夜曲〜](https://ja.wikipedia.org/wiki/劇場版_明治東亰恋伽_〜弦月の小夜曲〜 "wikilink")』主題歌                        | 2015年 |
@@ -1170,7 +1171,7 @@
 </tr>
 <tr class="odd">
 <td><p>『剣が君』 主題歌 「軌跡」</p></td>
-<td><p>九十九丸（<a href="../Page/小野友樹.md" title="wikilink">小野友樹</a>）、螢（<strong>KENN</strong>）[132]</p></td>
+<td><p>九十九丸（<a href="../Page/小野友樹.md" title="wikilink">小野友樹</a>）、螢（<strong>KENN</strong>）[133]</p></td>
 <td><p>「軌跡」</p></td>
 <td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/剣が君" title="wikilink">剣が君</a>』オープニングテーマ</p></td>
 <td></td>
@@ -2851,8 +2852,8 @@
 51.
 52.
 53.
-54. 『[アニメディア](../Page/アニメディア.md "wikilink")』2015年1〜3月号、『[声優アニメディア](../Page/声優アニメディア.md "wikilink")』2015年1〜4月号、『オトメディア』2015年2月号・4月号の応募者全員サービス。
-55.
+54.
+55. 『[アニメディア](../Page/アニメディア.md "wikilink")』2015年1〜3月号、『[声優アニメディア](../Page/声優アニメディア.md "wikilink")』2015年1〜4月号、『オトメディア』2015年2月号・4月号の応募者全員サービス。
 56.
 57.
 58.
@@ -2889,11 +2890,11 @@
 89.
 90.
 91.
-92. The NaB's名義。
-93. 5人のパーソナリティからランダムに出演。
-94. 不定期パーソナリティで出演。
-95. 第1・2回のパーソナリティで出演。
-96.
+92.
+93. The NaB's名義。
+94. 5人のパーソナリティからランダムに出演。
+95. 不定期パーソナリティで出演。
+96. 第1・2回のパーソナリティで出演。
 97.
 98.
 99.
@@ -2918,15 +2919,16 @@
 118.
 119.
 120.
-121. 特典映像（前編）のゲストとして出演。
-122. 特典映像（後編）のゲストとして出演。
-123. しゅごキャラ\! 第10巻 ミュージカルDVD付初回限定版。
-124. KENN 2014年カレンダー連動グラビア。期間限定販売。
-125.
+121.
+122. 特典映像（前編）のゲストとして出演。
+123. 特典映像（後編）のゲストとして出演。
+124. しゅごキャラ\! 第10巻 ミュージカルDVD付初回限定版。
+125. KENN 2014年カレンダー連動グラビア。期間限定販売。
 126.
 127.
 128.
 129.
-130. 本人たちが企画し、作詞・作曲・歌唱・ディレクションなどを行っている。CD-Rに焼かれた手作りCDで、戦隊物のパロディ曲「超新人LIVEMEN」、ライヴのテーマソング「みんなの場所」、CD限定版ラジオ「[ばかいわ出張スペシャル](../Page/トッシー・ほったまの「ばかだなぁ〜♪って言われたい」.md "wikilink")」の他、映像特典として「超新人LIVEMEN」のオープニングPVが収録されている。
-131. 「東亰浪漫譚」とのダブルオープニング仕様。
-132.
+130.
+131. 本人たちが企画し、作詞・作曲・歌唱・ディレクションなどを行っている。CD-Rに焼かれた手作りCDで、戦隊物のパロディ曲「超新人LIVEMEN」、ライヴのテーマソング「みんなの場所」、CD限定版ラジオ「[ばかいわ出張スペシャル](../Page/トッシー・ほったまの「ばかだなぁ〜♪って言われたい」.md "wikilink")」の他、映像特典として「超新人LIVEMEN」のオープニングPVが収録されている。
+132. 「東亰浪漫譚」とのダブルオープニング仕様。
+133.

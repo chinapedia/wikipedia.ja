@@ -810,7 +810,7 @@
 
 [第67回からは大盤での解説の際に](https://ja.wikipedia.org/wiki/第67回NHK杯テレビ将棋トーナメント "wikilink")、対局室の様子と実際の盤面の様子がそれぞれ[ワイプ](../Page/ワイプ.md "wikilink")で表示される場合がある。また終局時に勝利棋士に対して表示されたテロップに、要した手数が表示されるようになった。
 
-[第68回からは対局時の消費時間がおよそ](https://ja.wikipedia.org/wiki/第68回NHK杯テレビ将棋トーナメント "wikilink")20～30秒を超えている場面で上方から盤面を映し出す際に、▲黒駒の中に「手番」の表示（後手番では△白駒で上下反転）をするようになった。
+[第68回からは対局時の消費時間がおよそ](https://ja.wikipedia.org/wiki/第68回NHK杯テレビ将棋トーナメント "wikilink")20～30秒を超えている場面で上方から盤面を映し出す際に、☗黒駒の中に「手番」の表示（後手番では☖白駒で上下反転）をするようになった。
 
 [第70回](https://ja.wikipedia.org/wiki/第70回NHK杯テレビ将棋トーナメント "wikilink")（[2020年](../Page/2020年.md "wikilink")）から、字幕放送を実施する。字幕の色分けは司会者（聞き手）が黄色、解説者が水色、棋譜読み上げ係が緑色、記録係や対局者は白で表示される。
 
@@ -859,7 +859,7 @@
 <tr class="even">
 <td><p>31 - 40</p></td>
 <td><p>1981 - 1990</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/永井英明" title="wikilink">永井英明</a>（<a href="../Page/近代将棋.md" title="wikilink">近代将棋</a>会長）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/永井英明" title="wikilink">永井英明</a>（<a href="../Page/近代将棋.md" title="wikilink">近代将棋</a>会長）※41回以降でも司会をしている映像がある</p></td>
 </tr>
 <tr class="odd">
 <td><p>41 - 43</p></td>

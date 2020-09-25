@@ -1,7 +1,7 @@
 > この記事は[WinRAR](https://ja.wikipedia.org/wiki/WinRAR)から翻訳されています。
 
 
-**WinRAR**（ウィンアールエーアール／ウィンラー）はと彼の兄弟であるアレクサンダー・ローシャルが開発を行っているWindowsに対応したシェアウェアの[アーカイバである](../Page/アーカイブ_\(コンピュータ\).md "wikilink")。独自の[RAR](../Page/RAR.md "wikilink")ファイルとZIPファイルの作成に対応するほか、多くの圧縮フォーマットの[解凍](https://ja.wikipedia.org/wiki/解凍 "wikilink")をサポートしている。コマンドライン版は「RAR」と「UNRAR」と呼ばれ、Windowsのほか[MS-DOS](../Page/MS-DOS.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、Linux、FreeBSDに対応している。Linux用のコマンドライン版は、[GNOME](../Page/GNOME.md "wikilink")や[KDE](../Page/KDE.md "wikilink")、[MATEなどの](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")に標準搭載されているGUIアーカイバのプラグインとしても動作する。[Android](../Page/Android.md "wikilink")アプリであるRAR for Androidもリリースされている。 Mac用のコマンドライン版は、[BetterZip4](https://ja.wikipedia.org/wiki/BetterZip4 "wikilink")のプラグインとしても動作する。
+**WinRAR**（ウィンアールエーアール／ウィンラー）はと彼の兄弟であるアレクサンダー・ローシャルが開発を行っているWindowsに対応したシェアウェアの[アーカイバである](../Page/アーカイブ_\(コンピュータ\).md "wikilink")。独自の[RAR](../Page/RAR.md "wikilink")ファイルとZIPファイルの作成に対応するほか、多くの圧縮フォーマットの[解凍](https://ja.wikipedia.org/wiki/解凍 "wikilink")をサポートしている。コマンドライン版は「RAR」と「UNRAR」と呼ばれ、Windowsのほか[MS-DOS](../Page/MS-DOS.md "wikilink")や[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、Linux、FreeBSDに対応している。Linux用のコマンドライン版は、[GNOME](../Page/GNOME.md "wikilink")や[KDE](../Page/KDE.md "wikilink")、[MATEなどの](https://ja.wikipedia.org/wiki/MATE_\(デスクトップ環境\) "wikilink")[デスクトップ環境](https://ja.wikipedia.org/wiki/デスクトップ環境 "wikilink")に標準搭載されているGUIアーカイバのプラグインとしても動作する。[AndroidアプリであるRAR](../Page/Android_\(オペレーティングシステム\).md "wikilink") for Androidもリリースされている。 Mac用のコマンドライン版は、[BetterZip4](https://ja.wikipedia.org/wiki/BetterZip4 "wikilink")のプラグインとしても動作する。
 
 ## 特徴
 

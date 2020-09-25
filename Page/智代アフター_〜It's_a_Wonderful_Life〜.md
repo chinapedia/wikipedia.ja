@@ -29,7 +29,7 @@
 
 [2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")には、完全版にあたる『智代アフター 〜It's a Wonderful Life〜 PerfectEdition』が発売された\[3\]。こちらのバージョンには『D\&T』が収録されている。
 
-[2020年](../Page/2020年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")にNintendo Swich版『智代アフター～It's a Wonderful Life～CS Edition』が発売予定。
+[2020年](../Page/2020年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")にNintendo Swich版『智代アフター～It's a Wonderful Life～CS Edition』が発売された\[4\]。
 
 ## ストーリー
 
@@ -127,7 +127,7 @@
 
 ### 漫画
 
-[住吉文子](../Page/住吉文子.md "wikilink")作画で『智代アフター〜Dear Shining Memories〜』のタイトルで、角川コミックス ドラゴンJr. レーベルから2007年12月6日発行。\[4\]発行は[富士見書房](../Page/富士見書房.md "wikilink")、発売は[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループパブリッシング "wikilink")。ISBN 978-4-04-712523-0
+[住吉文子](../Page/住吉文子.md "wikilink")作画で『智代アフター〜Dear Shining Memories〜』のタイトルで、角川コミックス ドラゴンJr. レーベルから2007年12月6日発行。\[5\]発行は[富士見書房](../Page/富士見書房.md "wikilink")、発売は[角川グループパブリッシング](https://ja.wikipedia.org/wiki/角川グループパブリッシング "wikilink")。ISBN 978-4-04-712523-0
 
 ## 脚注
 
@@ -153,3 +153,4 @@
 2.  [PSP版『智代アフター 〜It's a Wonderful Life〜 CS Edition』の詳細が発表 ホビー マイコミジャーナル](https://news.mynavi.jp/news/2008/09/18/061/)
 3.
 4.
+5.

@@ -288,7 +288,7 @@
   - [スパイキッズ2 失われた夢の島](../Page/スパイキッズ2_失われた夢の島.md "wikilink")
   - [ハロウィン レザレクション](../Page/ハロウィン_\(映画\).md "wikilink")
   - [オースティン・パワーズ ゴールドメンバー](https://ja.wikipedia.org/wiki/オースティン・パワーズ_ゴールドメンバー "wikilink")
-  - キャビン・フィーバー
+  - [キャビン・フィーバー](https://ja.wikipedia.org/wiki/キャビン・フィーバー "wikilink")
   - [タイムマシン](../Page/タイムマシン_\(2002年の映画\).md "wikilink")
   - [完全犯罪クラブ](https://ja.wikipedia.org/wiki/完全犯罪クラブ "wikilink")
   - プレスリーVSミイラ男

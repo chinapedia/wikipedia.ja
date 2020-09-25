@@ -9,7 +9,7 @@
 
 ## 背景・制作
 
-グループ初の2枚組のオリジナル・アルバム。総[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")時間は1800時間を費やしいる\[5\]。現在の[DTM](https://ja.wikipedia.org/wiki/DTM "wikilink")の前史を創った[フェアライトCMI](../Page/フェアライトCMI.md "wikilink")を全面的に導入しており、当時としては高音質かつ複雑なアレンジが実現されている。
+グループ初の2枚組のオリジナル・アルバム。総[レコーディング時間は](../Page/録音.md "wikilink")1800時間を費やしいる\[5\]。現在の[DTM](https://ja.wikipedia.org/wiki/DTM "wikilink")の前史を創った[フェアライトCMI](../Page/フェアライトCMI.md "wikilink")を全面的に導入しており、当時としては高音質かつ複雑なアレンジが実現されている。
 
 2枚組になったことについては、当初は普通に1枚のアルバムを作る予定だったものの、制作していくうちに曲が増えてきてしまい、それらの楽曲をすべて収録したいという意向で2枚組としてリリースすることとなり、このアルバムの制作でサザンとしてできる事を当時の時点ですべてやりつくしてしまったことが語られているが\[6\]、一方別の記事では、本作のコンセプトがそもそも2枚組であったという内容も存在している\[7\]。
 
@@ -89,7 +89,7 @@
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ & 藤井丈司／管編曲:[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")）
       -
         制作当時、引退を囁かれていた[吉田拓郎](../Page/吉田拓郎.md "wikilink")を名指してのメッセージソング。内容は桑田が吉田の音楽性に影響を受けた事に触れ、そして決別するものになっている。歌詞の中には「唄えぬお前に誰が酔う」「一人男が死ぬ」「フォークソングのカス」といった過激なフレーズも並んでいる。ちなみに、この曲の仮タイトルは『死ね吉田拓郎』だったとされる\[16\]。
-        2003年の『[流石(SASが)だ真夏ツアー\!](https://ja.wikipedia.org/wiki/流石\(SASが\)だ真夏ツアー!あっっ!生。だが、SAS! "wikilink")』では当時[肺がんの手術を受け療養していた吉田を励ます目的で歌唱され](../Page/肺癌.md "wikilink")、「酔いどれ姿もいかしてた そんな男がいる」「今でもあなたの歌声が 胸を熱くさせる」など原曲とは逆に吉田を称えるフレーズが並んでいる\[17\]。
+        2003年の『[流石(SASが)だ真夏ツアー\!あっっ\!生。だが、SAS\!](https://ja.wikipedia.org/wiki/SUMMER_LIVE_2003「流石だスペシャルボックス」胸いっぱいの_“LIVE_in_沖縄”_&_愛と情熱の_“真夏ツアー完全版” "wikilink")』では当時[肺がんの手術を受け療養していた吉田を励ます目的で歌唱され](../Page/肺癌.md "wikilink")、「酔いどれ姿もいかしてた そんな男がいる」「今でもあなたの歌声が 胸を熱くさせる」など原曲とは逆に吉田を称えるフレーズが並んでいる\[17\]。
         [スージー鈴木](https://ja.wikipedia.org/wiki/スージー鈴木 "wikilink")はこの曲を『桑田お得意の「先輩ミュージシャンへのおせっかいシリーズ」の最高傑作』と評している\[18\]。
 10. **鎌倉物語** (3'55)
     （作詞・作曲:桑田佳祐／編曲:サザンオールスターズ／弦編曲:大谷幸）
@@ -97,7 +97,7 @@
         [原由子](../Page/原由子.md "wikilink")メインボーカル曲。
         歌詞は[鎌倉](../Page/鎌倉.md "wikilink")付近の情景が情緒豊かに歌われ、タイトル通り、[鎌倉の地名や名所が](../Page/鎌倉市.md "wikilink")[歌詞](../Page/歌詞.md "wikilink")に登場している。
         原は産休中であったため、レコーディングの際は自宅にマイクを立てて録ったというエピソードがある\[19\]。
-        [江ノ島電鉄](../Page/江ノ島電鉄.md "wikilink")も登場することから、[2002年](../Page/2002年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")から同年[12月29日](../Page/12月29日.md "wikilink")までこの曲と原のソロ曲「あじさいのうた」の歌碑が、[江ノ電](../Page/江ノ島電鉄.md "wikilink")100周年記念キャンペーンとして計6つの駅で設置された。設置されたのは、[藤沢駅](https://ja.wikipedia.org/wiki/藤沢駅 "wikilink")と[江ノ島駅](https://ja.wikipedia.org/wiki/江ノ島駅 "wikilink")、[鎌倉高校前駅](https://ja.wikipedia.org/wiki/鎌倉高校前駅 "wikilink")、[極楽寺駅](https://ja.wikipedia.org/wiki/極楽寺駅 "wikilink")、[長谷駅](https://ja.wikipedia.org/wiki/長谷駅_\(神奈川県\) "wikilink")、[鎌倉駅](https://ja.wikipedia.org/wiki/鎌倉駅 "wikilink")の6駅。この間、藤沢駅と鎌倉駅では発車ベルに代わって「鎌倉物語」の[メロディ](../Page/メロディ.md "wikilink")が使用された。
+        [江ノ島電鉄](../Page/江ノ島電鉄.md "wikilink")も登場することから、[2002年](../Page/2002年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")から同年[12月29日](../Page/12月29日.md "wikilink")までこの曲と原のソロ曲「あじさいのうた」の歌碑が、江ノ電100周年記念キャンペーンとして計6つの駅で設置された。設置されたのは、[藤沢駅](https://ja.wikipedia.org/wiki/藤沢駅 "wikilink")と[江ノ島駅](https://ja.wikipedia.org/wiki/江ノ島駅 "wikilink")、[鎌倉高校前駅](https://ja.wikipedia.org/wiki/鎌倉高校前駅 "wikilink")、[極楽寺駅](https://ja.wikipedia.org/wiki/極楽寺駅 "wikilink")、[長谷駅](https://ja.wikipedia.org/wiki/長谷駅_\(神奈川県\) "wikilink")、[鎌倉駅](https://ja.wikipedia.org/wiki/鎌倉駅 "wikilink")の6駅。この間、藤沢駅と鎌倉駅では発車ベルに代わって「鎌倉物語」の[メロディ](../Page/メロディ.md "wikilink")が使用された。
 
 ### Disc 2
 
@@ -157,7 +157,7 @@
   - [松田弘](../Page/松田弘.md "wikilink") - [ドラムス](../Page/ドラムセット.md "wikilink")、コーラス
   - [野沢秀行](../Page/野沢秀行.md "wikilink") - [パーカッション](../Page/パーカッション.md "wikilink")、コーラス
   - [藤井丈司](https://ja.wikipedia.org/wiki/藤井丈司 "wikilink") - [シンセサイザー](../Page/シンセサイザー.md "wikilink") & [コンピュータ・プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
-  - 関島雅樹 - [プログラミング](https://ja.wikipedia.org/wiki/プログラミング_\(コンピュータ\) "wikilink") [アシスト](https://ja.wikipedia.org/wiki/助手 "wikilink")
+  - 関島雅樹 - [プログラミング](../Page/プログラミング.md "wikilink") [アシスト](https://ja.wikipedia.org/wiki/助手 "wikilink")
   - [大谷幸](../Page/大谷幸.md "wikilink") - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、コーラス
   - [EPO](../Page/EPO.md "wikilink") - コーラス、コーラス[アレンジ](../Page/編曲.md "wikilink")
   - [イリア](../Page/奥野敦子.md "wikilink") - コーラス、[ピアノ](../Page/ピアノ.md "wikilink")

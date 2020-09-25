@@ -105,5 +105,5 @@
 28. 『[【動画】サイバーエージェントがロゴ一新、デザインはNIGOが担当](http://www.fashionsnap.com/news/2015-04-03/cyberagent-nigo/)』 2015年4月3日 [Fashionsnap.com](https://ja.wikipedia.org/wiki/Fashionsnap.com "wikilink")
 29.
 30.
-31. 『[牧瀬里穂、ＮＩＧＯと熱愛！](http://web.archive.org/web/20041130032100/http://www.yomiuri.co.jp/hochi/geinou/sep/o20040922_10.htm)』 2004年9月22日 [スポーツ報知](../Page/スポーツ報知.md "wikilink")
+31. 『[牧瀬里穂、ＮＩＧＯと熱愛！](https://web.archive.org/web/20041130032100/http://www.yomiuri.co.jp/hochi/geinou/sep/o20040922_10.htm)』 2004年9月22日 [スポーツ報知](../Page/スポーツ報知.md "wikilink")
 32. 『[週刊女性 2009年3月3日号](../Page/週刊女性.md "wikilink")』 ： “有名人＆芸能人の愛車データベース” 2009年 [主婦と生活社](../Page/主婦と生活社.md "wikilink")

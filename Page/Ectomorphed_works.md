@@ -44,55 +44,55 @@ L'Arc〜en〜Cielとして唯一リリースされたリミックスアルバム
       -
         11thシングル「花葬」のリミックス。
         この曲とは別バージョンの「1014 mix」が、14thシングル「[forbidden lover](https://ja.wikipedia.org/wiki/forbidden_lover "wikilink")」、ベストアルバム『[The Best of L'Arc〜en〜Ciel c/w](../Page/The_Best_of_L'Arc〜en〜Ciel.md "wikilink")』に収録されている。
-        シングル収録版からリズムの部分が変更されており、キックやパーカッションの音が足されている\[12\]。
+        リミックスのイメージは、yukihiro曰く「ギターを弾くようになってからの[デペッシュ・モード](../Page/デペッシュ・モード.md "wikilink")\[12\]」だという。シングル収録版からリズムの部分が変更されており、キックやパーカッションの音が足されている\[13\]。
 4.  **[fate](../Page/HEART_\(L'Arc〜en〜Cielのアルバム\).md "wikilink") (everybody knows but god mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
         5thアルバム『HEART』収録曲のリミックス。
-        [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[ディノクライシス2](https://ja.wikipedia.org/wiki/ディノクライシス2 "wikilink")』イメージソングに起用され、ゲームとのコラボ映像が制作された\[13\]。
+        [プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[ディノクライシス2](https://ja.wikipedia.org/wiki/ディノクライシス2 "wikilink")』イメージソングに起用され、ゲームとのコラボ映像が制作された\[14\]。
         この曲とは別バージョンの「fake fate mix」が、16thシングル「[Pieces](../Page/Pieces_\(L'Arc〜en〜Cielの曲\).md "wikilink")」に収録されている。
-        副題の"everybody knows but god mix"は「神のみぞ知らず」を意味し、yukihiro曰く「"神のみぞ知る"の逆さまです。"運命なんて神様だけが知らないんだよ"って捻り」だという。この曲では[ken](https://ja.wikipedia.org/wiki/ken "wikilink")が一部ギターを弾き直しており、そのテイクをyukihiroが編集している。kenは作業形態に関して、「文通っぽい感じ\[14\]」と振り返っている。
+        副題の"everybody knows but god mix"は「神のみぞ知らず」を意味し、yukihiro曰く「"神のみぞ知る"の逆さまです。"運命なんて神様だけが知らないんだよ"って捻り」だという。この曲では[ken](https://ja.wikipedia.org/wiki/ken "wikilink")が一部ギターを弾き直しており、そのテイクをyukihiroが編集している。kenは作業形態に関して、「文通っぽい感じ\[15\]」と振り返っている。また、曲のオープニングには[ソプラノ](../Page/ソプラノ.md "wikilink")の女性の声が入っている\[16\]。この声は[イタリア](../Page/イタリア.md "wikilink")の[オペラ](../Page/オペラ.md "wikilink")のCDを[DJ用CDプレイヤーでテンポを落としたものである](https://ja.wikipedia.org/wiki/CDプレーヤー#据置型、デッキ型 "wikilink")\[17\]。
 5.  **[浸食 〜lose control〜](../Page/浸食_〜lose_control〜.md "wikilink") (ectoborn mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
         12thシングル「浸食 〜lose control〜」のリミックス。
         この曲とは別バージョンの「control experiment mix」が、12thシングルに収録されている。
-        yukihiroはシングル収録版のミックスに納得しておらず、アルバムに収録するにあたって再度リミックスすることを決めていたという。yukihiro曰く「"変えたい"っていう意思があって作ったものだから、サブタイトルもアルバムタイトルにある"ecto"と結び付けた\[15\]」という。
+        yukihiro曰く、「[ドラムンベース](../Page/ドラムンベース.md "wikilink")的でありながらロックテイストのあるイメージ\[18\]」でリミックスしたといい、「アイデアの素は[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")のある曲だったりする\[19\]」と述べている。yukihiroはシングル収録版のミックスに納得しておらず、アルバムに収録するにあたって再度リミックスすることを決めていたという。yukihiro曰く「"変えたい"っていう意思があって作ったものだから、サブタイトルもアルバムタイトルにある"ecto"と結び付けた\[20\]」という。
 6.  **[a swell in the sun](https://ja.wikipedia.org/wiki/snow_drop_\(L'Arc〜en〜Cielの曲\) "wikilink") (system in chaos mix)**
       - 作詞:hyde / 作曲:yukihiro
     <!-- end list -->
       -
         13thシングル「snow drop」のカップリング曲のリミックス。本作で新規にリミックスされた楽曲のうちの一曲。
-        副題となった"chaos"（混沌）のイメージに関し、yukihiroは「わかりやすく言うとテレビの"[砂の嵐](../Page/スノーノイズ.md "wikilink")"ですね。あれがもっとグニャグニャした、もっと立体的になっている感じ\[16\]」と述べている。また、原曲から音を足す作業は行っていない\[17\]。
+        副題となった"chaos"（混沌）のイメージに関し、yukihiroは「わかりやすく言うとテレビの"[砂の嵐](../Page/スノーノイズ.md "wikilink")"ですね。あれがもっとグニャグニャした、もっと立体的になっている感じ\[21\]」と述べている。また、原曲から音を足す作業は行っていない\[22\]。
 7.  **[l'heure](https://ja.wikipedia.org/wiki/ray_\(アルバム\) "wikilink") (quiet afternoon mix)**
       - 作詞・作曲:yukihiro
     <!-- end list -->
       -
         7thアルバム『ray』収録曲のリミックス。本作で新規にリミックスされた楽曲のうちの一曲。
-        yukihiro曰く「静かな午後の雰囲気」を意識し制作したといい、ベースの上にドラムが浮いて聴こえる様な音作りを心掛けたという\[18\]。
+        yukihiro曰く「静かな午後の雰囲気」を意識し制作したといい、ベースの上にドラムが浮いて聴こえる様な音作りを心掛けたという\[23\]。
 8.  **[cradle](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink") (down to the moon mix)**
       - 作詞:hyde / 作曲:yukihiro
     <!-- end list -->
       -
         6thアルバム『ark』収録曲のリミックス。
         この曲とは別バージョンの「down to the earth mix」が、17thシングル「[Driver's High](../Page/Driver's_High.md "wikilink")」に収録されている。
-        この曲では原曲に無い女性ボーカルの音を足している。女性ボーカルを入れた経緯について、yukihiroは「[トリッキー](https://ja.wikipedia.org/wiki/トリッキー "wikilink")とかがやってるような、女性が普通に歌ってる後ろでベロッベロのラップをやってたりとか。ああいうのがカッコいいなと思って\[19\]」と述べている。
+        この曲では原曲に無い女性ボーカルの音を足している。女性ボーカルを入れた経緯について、yukihiroは「[トリッキー](https://ja.wikipedia.org/wiki/トリッキー "wikilink")とかがやってるような、女性が普通に歌ってる後ろでベロッベロのラップをやってたりとか。ああいうのがカッコいいなと思って\[24\]」と述べている。
 9.  **[真実と幻想と](https://ja.wikipedia.org/wiki/ark_\(アルバム\) "wikilink") (out of the reality mix \#2)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
         6thアルバム『ark』収録曲のリミックス。
         この曲とは別バージョンの「out of the reality mix」が、18thシングル「[LOVE FLIES](../Page/LOVE_FLIES.md "wikilink")」に収録されている。
-        この曲のベースラインについて、yukihiroは「[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")というか、[ダブ](../Page/ダブ.md "wikilink")っぽいっていうのはあるかもしれない\[20\]」と述べている。シングル収録版から音の足し引きを行っておらず、yukihiroは「元の音源自体は一緒で、卓上でいじってるだけですね。"変えなきゃいけない"って発想でなく、単純に"もっとカッコよくならないかな"ってだけです\[21\]」と述べている。
+        この曲のベースラインについて、yukihiroは「[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")というか、[ダブ](../Page/ダブ.md "wikilink")っぽいっていうのはあるかもしれない\[25\]」と述べている。シングル収録版から音の足し引きを行っておらず、yukihiroは「元の音源自体は一緒で、卓上でいじってるだけですね。"変えなきゃいけない"って発想でなく、単純に"もっとカッコよくならないかな"ってだけです\[26\]」と述べている。
 10. **[metropolis](https://ja.wikipedia.org/wiki/winter_fall "wikilink") (android goes to be a deep sleep mix)**
       - 作詞:hyde / 作曲:ken
     <!-- end list -->
       -
         8thシングル「winter fall」のカップリング曲のリミックス。
         これとは別バージョンの「android goes to sleep mix」が、15thシングル「[HEAVEN'S DRIVE](../Page/HEAVEN'S_DRIVE.md "wikilink")」に収録されている。
-        収録時間は9分59秒と、シングル収録版のリミックス音源と並んでL'Arc〜en〜Cielの作品では最も長い楽曲となっている。スロウな[ハウスを意識したリミックスとなっている](../Page/ハウス_\(音楽\).md "wikilink")\[22\]。シングル収録版よりも、爽やかなイメージのあるミックスにするため、音数を減らしている\[23\]。具体的には、パッドを1種類減らしており、yukihiroは「結果、もっと前面に出したかったピアノの音が生きるようになりました\[24\]」と述べている。
+        収録時間は9分59秒と、シングル収録版のリミックス音源と並んでL'Arc〜en〜Cielの作品では最も長い楽曲となっている。スロウな[ハウスを意識したリミックスとなっている](../Page/ハウス_\(音楽\).md "wikilink")\[27\]。シングル収録版よりも、爽やかなイメージのあるミックスにするため、音数を減らしている\[28\]。具体的には、パッドを1種類減らしており、yukihiroは「結果、もっと前面に出したかったピアノの音が生きるようになりました\[29\]」と述べている。
 
 ### LP
 
@@ -160,16 +160,21 @@ L'Arc〜en〜Cielとして唯一リリースされたリミックスアルバム
 9.
 10.
 11.
-12.
-13. [新宿でディノクライシス2イベント開催中\!](http://www.itmedia.co.jp/games/gsnews/0008/24/news09.html) - itmedia
-14.
+12. 『Gb』、p.18、1998年11月号
+13.
+14. [新宿でディノクライシス2イベント開催中\!](http://www.itmedia.co.jp/games/gsnews/0008/24/news09.html) - itmedia
 15.
-16.
+16. ぴあ社『R\&R NewsMaker』、p.38、1999年7月号
 17.
-18.
+18. 『GiGS』、p.7、1998年12月号
 19.
-20. 『WHAT's IN?』、p.38、ソニー・マガジンズ、1999年11月号
+20.
 21.
-22. ぴあ社『R\&R NewsMaker』1999年6月号
+22.
 23.
 24.
+25. 『WHAT's IN?』、p.38、ソニー・マガジンズ、1999年11月号
+26.
+27. ぴあ社『R\&R NewsMaker』1999年6月号
+28.
+29.

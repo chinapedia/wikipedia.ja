@@ -61,7 +61,7 @@
 
 ### 単行本書き下ろし継続予定作品
 
-  - [阿房列車](../Page/阿房列車.md "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百閒](https://ja.wikipedia.org/wiki/内田百閒 "wikilink")）
+  - [阿房列車](../Page/阿房列車.md "wikilink")（漫画：[一條裕子](../Page/一條裕子.md "wikilink")、原作：[内田百閒](../Page/内田百閒.md "wikilink")）
   - [ディエンビエンフー](../Page/ディエンビエンフー_\(漫画\).md "wikilink") （[西島大介](../Page/西島大介.md "wikilink")）
   - [WOMBS](https://ja.wikipedia.org/wiki/WOMBS "wikilink")（[白井弓子](https://ja.wikipedia.org/wiki/白井弓子 "wikilink")）
 

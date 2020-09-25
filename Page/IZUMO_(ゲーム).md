@@ -56,7 +56,7 @@
         2007年7月27日発売。特別版には**IZUMO 完全版**、**IZUMO2**が同梱されている。前作まで（IZUMO零は除く）の出雲学園から大斗学園に舞台を移した。
   - **IZUMO4** (PC)
       -
-        2015年12月25日発売。「[でぼの巣製作所](https://ja.wikipedia.org/wiki/でぼの巣製作所 "wikilink")＆Studio e･go\!5周年」および「[light](https://ja.wikipedia.org/wiki/light "wikilink")15周年」を記念したコラボレーション作品として制作された。設定が一新されている。
+        2015年12月25日発売。「[でぼの巣製作所](https://ja.wikipedia.org/wiki/でぼの巣製作所 "wikilink")＆Studio e･go\!5周年」および「[light](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")15周年」を記念したコラボレーション作品として制作された。設定が一新されている。
 
 ## 勾玉
 
@@ -387,7 +387,7 @@ IZUMO2は2004年7月30日に[Studio e.go\!より発売された](../Page/Studio_
 
 ## IZUMO4
 
-2015年12月25日発売。前作の後、Studio e.go\!の活動が中断していたため、実に8年ぶりの新作となった。シナリオ・音楽を[light](https://ja.wikipedia.org/wiki/light "wikilink")スタッフが担当する。[出雲市](../Page/出雲市.md "wikilink")と周辺が舞台で[出雲大社前駅](https://ja.wikipedia.org/wiki/出雲大社前駅 "wikilink")や[玉造温泉](../Page/玉造温泉.md "wikilink")、[出西窯](https://ja.wikipedia.org/wiki/出西窯 "wikilink")などが登場する。
+2015年12月25日発売。前作の後、Studio e.go\!の活動が中断していたため、実に8年ぶりの新作となった。シナリオ・音楽を[lightスタッフが担当する](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")。[出雲市](../Page/出雲市.md "wikilink")と周辺が舞台で[出雲大社前駅](https://ja.wikipedia.org/wiki/出雲大社前駅 "wikilink")や[玉造温泉](../Page/玉造温泉.md "wikilink")、[出西窯](https://ja.wikipedia.org/wiki/出西窯 "wikilink")などが登場する。
 
 ### IZUMO4の登場キャラクター
 

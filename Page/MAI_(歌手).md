@@ -1,9 +1,9 @@
 > この記事は[MAI \(歌手\)](https://ja.wikipedia.org/wiki/MAI_\(歌手\))から翻訳されています。
 
 
-**MAI**（まい、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[血液型はAB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は鶴岡真衣、母・鶴岡メイ子は[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")の校長と元・双子ユニット[ON/OFF](https://ja.wikipedia.org/wiki/ON/OFF "wikilink")のマネージャー。プロデューサーズ・カンパニー所属。元「[ミスリル](../Page/ミスリル.md "wikilink")」メンバー。
+**MAI**（まい、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[2月19日](../Page/2月19日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。本名は鶴岡真衣、母・鶴岡メイ子は[マジソンミュージックアカデミー](https://ja.wikipedia.org/wiki/マジソンミュージックアカデミー "wikilink")の校長と元・双子ユニット[ON/OFF](https://ja.wikipedia.org/wiki/ON/OFF "wikilink")のマネージャー。プロデューサーズ・カンパニー所属。元「[ミスリル](../Page/ミスリル.md "wikilink")」メンバー。
 
-[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身。[淑徳与野高等学校](https://ja.wikipedia.org/wiki/淑徳与野高等学校 "wikilink")を経て[韓国の高等学校卒](../Page/大韓民国.md "wikilink")、[フェリス女学院大学](../Page/フェリス女学院大学.md "wikilink")を経て、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")大学院メディアデザイン研究科修士課程卒業。今はJinnyというアーティスト名をバンド「RODEO GIRLS」のメンバーとして音楽活動を行っている、作詞家として活動する際の名義はMarilyn、Jinny、M@iである。
+[福岡県](../Page/福岡県.md "wikilink")[久留米市](../Page/久留米市.md "wikilink")出身。[淑徳与野高等学校](https://ja.wikipedia.org/wiki/淑徳与野高等学校 "wikilink")を経て[韓国の高等学校卒業](../Page/大韓民国.md "wikilink")、[フェリス女学院大学](../Page/フェリス女学院大学.md "wikilink")を経て、[慶應義塾大学](https://ja.wikipedia.org/wiki/慶應義塾大学 "wikilink")大学院メディアデザイン研究科修士課程修了。今はJinnyというアーティスト名をバンド「RODEO GIRLS」のメンバーとして音楽活動を行っている、作詞家として活動する際の名義はMarilyn、Jinny、M@iである。
 
 ## 略歴
 
@@ -369,9 +369,9 @@ DFCL-1810:通常盤</p></td>
 ## 外部リンク
 
   - [Sony Music(真衣)](https://www.sonymusic.co.jp/artist/mai/)
-  - [コロムビアミュージックエンタテインメント(MAI)](http://columbia.jp/artist-info/mai/)
+  - [コロムビアミュージックエンタテインメント(MAI)](https://columbia.jp/artist-info/mai/)
   - [SUPRE★POWERオフィシャルサイト(Jinny)](http://www.suprepower.com/)
   - [RODEO GIRLS Instagram](https://www.instagram.com/rodeogirls.jp/)
   - [Jinny's ジーニリズム。](https://ameblo.jp/jinnyfromspp-suprepower/) - 本人によるブログ
 
-[Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:フェリス女学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:フェリス女学院大学出身の人物 "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:福岡県出身の人物](https://ja.wikipedia.org/wiki/Category:福岡県出身の人物 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

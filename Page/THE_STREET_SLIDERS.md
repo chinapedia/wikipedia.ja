@@ -43,7 +43,7 @@
     「BIG BEAT,DANCE」TOUR 終了後、活動休止。
     蘭丸がほぼ同時期に活動休止した[RCサクセション](../Page/RCサクセション.md "wikilink")のギタリストである[仲井戸麗市](../Page/仲井戸麗市.md "wikilink")とユニット[麗蘭](../Page/麗蘭.md "wikilink")を結成。
   - 1994年
-    「不滅」TOURを行い、活動を本格的に再開。
+    「不滅」TOURを行う。
   - 1995年
     [12月20日](../Page/12月20日.md "wikilink")：[日本武道館](../Page/日本武道館.md "wikilink")LIVE（第8回）「Rock'n Loose Night」
   - 1996年

@@ -1,7 +1,7 @@
 > この記事は[EY新日本有限責任監査法人](https://ja.wikipedia.org/wiki/EY新日本有限責任監査法人)から翻訳されています。
 
 
-*' EY新日本有限責任監査法人*'（イーワイしんにほんゆうげんせきにんかんさほうじん、英文名称: ）は、日本の大手[監査法人](../Page/監査法人.md "wikilink")。[Ernst & Youngの日本における統括法人](../Page/アーンスト・アンド・ヤング.md "wikilink")[EY Japanに属する](https://ja.wikipedia.org/wiki/EY_Japan "wikilink")。いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月1日](../Page/7月1日.md "wikilink")、日本で最初の[有限責任監査法人となった](../Page/監査法人.md "wikilink")。
+*' EY新日本有限責任監査法人*'（イーワイしんにほんゆうげんせきにんかんさほうじん、英文名称: ）は、日本の大手[監査法人](../Page/監査法人.md "wikilink")。[Ernst & Youngの日本における統括法人](../Page/アーンスト・アンド・ヤング.md "wikilink")[EY Japanに属する](https://ja.wikipedia.org/wiki/EY_Japan "wikilink")。いわゆる「[4大監査法人](../Page/4大監査法人.md "wikilink")」の一つ。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[7月1日](../Page/7月1日.md "wikilink")、日本で最初の[有限責任監査法人となった](https://ja.wikipedia.org/wiki/監査法人#有限責任監査法人 "wikilink")。
 
 ## 概要
 
@@ -181,6 +181,18 @@
 <td><p>3821社</p></td>
 <td><p>1006社</p></td>
 </tr>
+<tr class="even">
+<td><p>2020年6月期</p></td>
+<td><p>1020億500万円</p></td>
+<td><p>860億100万円</p></td>
+<td><p>160億400万円</p></td>
+<td><p>4億1900万円</p></td>
+<td><p>2億5800万円</p></td>
+<td><p>4142人</p></td>
+<td><p>537人</p></td>
+<td><p>3709社</p></td>
+<td><p>996社</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -251,8 +263,8 @@
 | 1 | [竹山健二](https://ja.wikipedia.org/wiki/竹山健二 "wikilink") | [2001年](../Page/2001年.md "wikilink")7月 - 2003年4月                                | [大阪市立大学](https://ja.wikipedia.org/wiki/大阪市立大学 "wikilink")[商学部](../Page/商学部.md "wikilink")卒、**監査法人太田昭和センチュリー**理事長から横滑り |
 | 2 | [水嶋利夫](https://ja.wikipedia.org/wiki/水嶋利夫 "wikilink") | [2004年](../Page/2004年.md "wikilink")5月 - 2008年7月                                | [中央大学](../Page/中央大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒                                                 |
 | 3 | [加藤義孝](https://ja.wikipedia.org/wiki/加藤義孝 "wikilink") | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")8月 - 2014年6月             | [東北大学経済学部](https://ja.wikipedia.org/wiki/東北大学経済学部 "wikilink")卒                                                        |
-| 4 | 英 公一                                                  | [2014年](../Page/2014年.md "wikilink")7月 - [2016年](../Page/2016年.md "wikilink")1月 | [慶應義塾大学経済学部](https://ja.wikipedia.org/wiki/慶應義塾大学経済学部 "wikilink")卒、東芝事件により辞任                                          |
-| 5 | 辻 幸一                                                  | [2016年](../Page/2016年.md "wikilink")2月 -                                        | 中央大学商学部/早稲田大学大学院経済学研究科修了、現職                                                                                           |
+| 4 | [英 公一](https://ja.wikipedia.org/wiki/英_公一 "wikilink") | [2014年](../Page/2014年.md "wikilink")7月 - [2016年](../Page/2016年.md "wikilink")1月 | [慶應義塾大学経済学部](https://ja.wikipedia.org/wiki/慶應義塾大学経済学部 "wikilink")卒、東芝事件により辞任                                          |
+| 5 | [辻 幸一](https://ja.wikipedia.org/wiki/辻_幸一 "wikilink") | [2016年](../Page/2016年.md "wikilink")2月 - 2019年6月                                | 中央大学商学部/早稲田大学大学院経済学研究科修了                                                                                              |
 | 6 | [片倉正美](https://ja.wikipedia.org/wiki/片倉正美 "wikilink") | [2019年](../Page/2019年.md "wikilink")7月 -                                        | [明治大学](../Page/明治大学.md "wikilink")[経営学部](../Page/経営学部.md "wikilink")卒、現職                                              |
 |   |                                                       |                                                                                 |                                                                                                                       |
 

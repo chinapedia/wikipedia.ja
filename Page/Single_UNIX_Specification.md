@@ -1,7 +1,7 @@
 > この記事は[Single UNIX Specification](https://ja.wikipedia.org/wiki/Single_UNIX_Specification)から翻訳されています。
 
 
-**Single UNIX Specification**（**SUS**、唯一のUNIX仕様）とは、"[UNIX](../Page/UNIX.md "wikilink")"を名乗ることができる[コンピュータ](../Page/コンピュータ.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の標準規格全体を総称したものである。SUSは、[IEEE](../Page/IEEE.md "wikilink")と [The Open Group](../Page/The_Open_Group.md "wikilink") の標準化作業の結果に基づくもので、Austin Group が開発および保守を行っている。
+**Single UNIX Specification**（**SUS**、唯一のUNIX仕様）は、"[UNIX](../Page/UNIX.md "wikilink")"を名乗ることができる[コンピュータ](../Page/コンピュータ.md "wikilink")の[オペレーティングシステム](../Page/オペレーティングシステム.md "wikilink") (OS) の標準規格全体を総称したものである。SUSは、[IEEE](../Page/IEEE.md "wikilink")と [The Open Group](../Page/The_Open_Group.md "wikilink") の標準化作業の結果に基づくもので、Austin Group が開発および保守を行っている。
 
 ## 歴史
 
@@ -46,7 +46,7 @@ SUSv3 は全部で3700ページに及び、テーマ別に以下の4つに分け
   - **System Interfaces (XSH)** - 提供しなければならない[システムコール](../Page/システムコール.md "wikilink")とC[ライブラリ](../Page/ライブラリ.md "wikilink")の詳細。全部で1123のシステムインタフェースが示されている。
   - **Rationale (XRAT)** - この標準についての解説
 
-この標準でのユーザのコマンドラインインターフェイスとスクリプトインターフェイスは[POSIX](../Page/POSIX.md "wikilink")シェルであり、[KornShell](../Page/KornShell.md "wikilink") の初期バージョンをベースにした拡張版 [Bourne Shell](../Page/Bourne_Shell.md "wikilink") である。他のユーザレベルのプログラムやサービス、ユーティリティとしては、[awk](../Page/AWK.md "wikilink")、[echo](../Page/エコー_\(コンピュータ\).md "wikilink")、[ed](https://ja.wikipedia.org/wiki/ed "wikilink")、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")などが含まれる。プログラムレベルで要求されているサービスとしては、[I/O](../Page/入出力.md "wikilink")（[ファイル](../Page/ファイル_\(コンピュータ\).md "wikilink")、[端末](../Page/端末.md "wikilink")、[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")）サービスなどがある。標準にはテストプログラム集が付随していて、**PCTS** (**Posix Certification Test Suite**) と呼ばれている。
+この標準でのユーザのコマンドラインインターフェイスとスクリプトインターフェイスは[POSIX](../Page/POSIX.md "wikilink")シェルであり、[KornShell](../Page/KornShell.md "wikilink") の初期バージョンをベースにした拡張版 [Bourne Shell](../Page/Bourne_Shell.md "wikilink") である。他のユーザレベルのプログラムやサービス、ユーティリティとしては、[awk](../Page/AWK.md "wikilink")、[echo](../Page/エコー_\(コンピュータ\).md "wikilink")、[ed](https://ja.wikipedia.org/wiki/ed_\(テキストエディタ\) "wikilink")、[vi](https://ja.wikipedia.org/wiki/vi "wikilink")などが含まれる。プログラムレベルで要求されているサービスとしては、[I/O](../Page/入出力.md "wikilink")（[ファイル](../Page/ファイル_\(コンピュータ\).md "wikilink")、[端末](../Page/端末.md "wikilink")、[ネットワーク](../Page/コンピュータネットワーク.md "wikilink")）サービスなどがある。標準にはテストプログラム集が付随していて、**PCTS** (**Posix Certification Test Suite**) と呼ばれている。
 
 さらに、SUSには [CURSES](../Page/Curses.md "wikilink") (XCURSES) の仕様も含まれている。372の関数と3つのヘッダファイルが定義されている。これを含めると、SUSv3は全部で1742のインタフェースを定義している。
 

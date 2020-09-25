@@ -567,8 +567,7 @@ MISSION 4 造船所爆破作戦
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1990年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1990年のアーケードゲーム "wikilink") [Category:カプコンのゲームソフト](https://ja.wikipedia.org/wiki/Category:カプコンのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:飛行機を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:飛行機を題材としたコンピュータゲーム "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink")
 
 1.

@@ -1,7 +1,7 @@
 > この記事は[DJ TATSUTA](https://ja.wikipedia.org/wiki/DJ_TATSUTA)から翻訳されています。
 
 
-**DJ TATSUTA**（ディージェータツタ、本名:竜田 雅登（たつた まさと）、[1974年](../Page/1974年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**DJ TATSUTA**（ディージェータツタ、本名:竜田 雅登（たつた まさと）、[1974年](../Page/1974年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink") - ）は、日本の[DJ](../Page/ディスクジョッキー.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身。[FUNKY GRAMMAR UNIT所属](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[血液型O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 来歴
 

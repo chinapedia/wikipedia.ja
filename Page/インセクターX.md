@@ -5,7 +5,7 @@
 
 1990年に[メガドライブ](../Page/メガドライブ.md "wikilink")に移植され開発元の[ホット・ビィ](../Page/ホット・ビィ.md "wikilink")から発売された他、同年に[ファミリーコンピュータ](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")に移植されタイトーから発売された。
 
-アーケード版は日本国内では[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[タイトーメモリーズ](../Page/タイトーメモリーズ.md "wikilink")下巻**』（[2005年](../Page/2005年.md "wikilink")）、欧州および北米では『*[Taito Legends 2](https://ja.wikipedia.org/wiki/:en:Taito_Legends_2 "wikilink")*』（[2006年](../Page/2006年.md "wikilink")）に収録された。
+アーケード版は日本国内では[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『**[タイトーメモリーズ](../Page/タイトーメモリーズ.md "wikilink")下巻**』（[2005年](../Page/2005年.md "wikilink")）、欧州および北米では『*[Taito Legends 2](https://ja.wikipedia.org/wiki/:en:Taito_Legends_2 "wikilink")*』（[2006年](../Page/2006年.md "wikilink")）に収録された。
 
 ## ゲーム内容
 
@@ -94,7 +94,7 @@
 <td><p>3</p></td>
 <td><p><a href="../Page/タイトーメモリーズ.md" title="wikilink">タイトーメモリーズ</a>下巻</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DVD-ROM" title="wikilink">DVD-ROM</a></p></td>
@@ -156,8 +156,7 @@ PlayStation 2<br />
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1989年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1989年のアーケードゲーム "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:昆虫を題材とした作品](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした作品 "wikilink") [Category:タイトーのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:タイトーのアーケードゲーム "wikilink") [Category:タイトーのゲームソフト](https://ja.wikipedia.org/wiki/Category:タイトーのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ホット・ビィのゲームソフト](https://ja.wikipedia.org/wiki/Category:ホット・ビィのゲームソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:横スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールシューティングゲーム "wikilink") [Category:昆虫を主人公にした物語](https://ja.wikipedia.org/wiki/Category:昆虫を主人公にした物語 "wikilink")
 
 1.

@@ -30,7 +30,7 @@
 
 ## 外部リンク
 
-  - [Midtown Madness (Wayback Machine)](http://web.archive.org/web/20030813234108/http://www.microsoft.com/japan/games/midtown/default.asp)
-  - [Midtown Madness 2 (Wayback Machine)](http://web.archive.org/web/20050318183323/http://www.microsoft.com/japan/games/midtown2/default.asp)
+  - [Midtown Madness (Wayback Machine)](https://web.archive.org/web/20030813234108/http://www.microsoft.com/japan/games/midtown/default.asp)
+  - [Midtown Madness 2 (Wayback Machine)](https://web.archive.org/web/20050318183323/http://www.microsoft.com/japan/games/midtown2/default.asp)
 
 [Category:1999年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1999年のコンピュータゲーム "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink") [Category:マイクロソフトのゲームソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフトのゲームソフト "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink")

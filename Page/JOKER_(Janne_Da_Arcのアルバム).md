@@ -188,7 +188,7 @@
 ## タイアップ
 
   - [日本テレビ系列](../Page/日本テレビネットワーク協議会.md "wikilink")[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』前期[オープニングテーマ](../Page/主題歌.md "wikilink") (\#3)
-  - [カプコン](../Page/カプコン.md "wikilink")製[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ロックマンX8](../Page/ロックマンX8.md "wikilink")』テーマソング (\#8)
+  - [カプコン](../Page/カプコン.md "wikilink")製[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ロックマンX8](../Page/ロックマンX8.md "wikilink")』テーマソング (\#8)
   - [OVA](../Page/OVA.md "wikilink")『[スキージャンプ・ペア2](https://ja.wikipedia.org/wiki/スキージャンプ・ペア#DVD "wikilink")』[エンディングテーマ](https://ja.wikipedia.org/wiki/エンディング曲 "wikilink") (\#11)
 
 ## 脚注

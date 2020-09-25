@@ -213,8 +213,7 @@
 
   - [バーチャルコンソール スプラッターハウスPARTII](http://vc.sega.jp/vc_house2/)
 
-  - （英語）
-
+  -
 [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ナウプロダクションのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナウプロダクションのゲームソフト "wikilink") [Category:ナムコのゲームソフト](https://ja.wikipedia.org/wiki/Category:ナムコのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ホラーゲーム](https://ja.wikipedia.org/wiki/Category:ホラーゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink")
 
 1.  実際にデスノイドが水溜りに入ると瞬く間にフライングファングに喰われて沈んでいく描写がなされる。

@@ -57,6 +57,6 @@
 
 ## 外部リンク
 
-  - [S map 〜SMAP 014](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-60667.html) （ビクターエンタテインメント）
+  - [S map 〜SMAP 014](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-60667.html) （ビクターエンタテインメント）
 
 [Category:SMAPのアルバム](https://ja.wikipedia.org/wiki/Category:SMAPのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink")

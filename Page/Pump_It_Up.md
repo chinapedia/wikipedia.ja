@@ -896,7 +896,7 @@ Pump It Upシリーズでの楽曲は基本的には(一部のSE等を除いて)
   - The Premiere -International Dance Floor-（[PC](../Page/パソコンゲーム.md "wikilink")）
   - Perfect Collection（PC）
   - PREX3 -International 4th Dance Floor-（PC）
-  - Exceed（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - Exceed（[PS2](../Page/PlayStation_2.md "wikilink")）
   - Exceed SE（[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、PS2）
   - Portable（[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - Zero -International 7th Dance Floor-（PSP）

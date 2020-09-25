@@ -1,7 +1,7 @@
 > この記事は[UGICHIN](https://ja.wikipedia.org/wiki/UGICHIN)から翻訳されています。
 
 
-**UGICHIN**（ウギチン、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") 東京都世田谷区出身）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映像作家](../Page/映像作家.md "wikilink")、[PV](../Page/ミュージック・ビデオ.md "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")、[演出家](../Page/演出家.md "wikilink")、株式会社[FOOLISH GLORY STUDIO代表](https://ja.wikipedia.org/wiki/FOOLISH_GLORY_STUDIO "wikilink")。本名、**松谷有樹**（まつたに うぎ）。
+**UGICHIN**（ウギチン、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") 東京都世田谷区出身）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[映像作家](../Page/映像作家.md "wikilink")、[PV](../Page/ミュージック・ビデオ.md "wikilink")[ディレクター](../Page/ディレクター.md "wikilink")、[演出家](../Page/演出家.md "wikilink")、株式会社[FOOLISH GLORY STUDIO代表](https://ja.wikipedia.org/wiki/FOOLISH_GLORY_STUDIO "wikilink")。本名、**松谷ウギ**。
 
 ## 概要
 
@@ -66,6 +66,7 @@
   - [Ken Yokoyama](../Page/横山健.md "wikilink") - 「Running On The Winding Road」「Believer」「Longing(A Quiet Time)」「How Many More Times」「Last Train Home」「Ten Years From Now」「Why」「Not Fooling Anyone」「I Love」「Punk Rock Dream」「 You And I, Against The World 」
   - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink") - 「あなたへの月」「やわらかな傷跡」「樹海の糸」「ポロメリア」「けもの道」「玻璃の花」「あたらしいうた」「ドロリーナ・ジルゼ」「パンダにバナナ」
   - [COCOBAT](https://ja.wikipedia.org/wiki/COCOBAT "wikilink") - 「Grasshopper」
+  - [GO\!GO\!7188](https://ja.wikipedia.org/wiki/COCOBAT "wikilink") - 「神様のヒマ潰し」
   - [COATZ](https://ja.wikipedia.org/wiki/COATZ "wikilink") - 「冷たい太陽」
   - [SURFACE](../Page/SURFACE.md "wikilink") - 「歌」
   - [佐田真由美](../Page/佐田真由美.md "wikilink") - 「ever after～もしもあなたがいなければ～」

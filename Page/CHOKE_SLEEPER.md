@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1981年](../Page/1981年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")生まれ。[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[1981年](../Page/1981年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")生まれ。[O型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
@@ -19,7 +19,7 @@
 <!-- end list -->
 
   -
-    [ギター](../Page/ギター.md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[1977年](../Page/1977年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")生まれ。[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [ギター](../Page/ギター.md "wikilink")・[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[1977年](../Page/1977年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")生まれ。[A型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
@@ -28,7 +28,7 @@
 <!-- end list -->
 
   -
-    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1977年](../Page/1977年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ。[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[1977年](../Page/1977年.md "wikilink")[6月7日](../Page/6月7日.md "wikilink")生まれ。[B型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 

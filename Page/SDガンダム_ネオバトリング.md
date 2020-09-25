@@ -23,7 +23,7 @@
     パイロット：[カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")
   - [MSZ-009 Ζガンダム](../Page/Ζガンダム.md "wikilink")
     パイロット：[カミーユ・ビダン](../Page/カミーユ・ビダン.md "wikilink")
-  - [MSZ-010 ΖΖガンダム](https://ja.wikipedia.org/wiki/ΖΖガンダム "wikilink")
+  - [MSZ-010 ΖΖガンダム](../Page/ΖΖガンダム.md "wikilink")
     パイロット：[ジュドー・アーシタ](../Page/ジュドー・アーシタ.md "wikilink")
   - [MSA0011EX EXSガンダム](https://ja.wikipedia.org/wiki/Sガンダム#バリエーション "wikilink")
     パイロット：[リョウ・ルーツ](https://ja.wikipedia.org/wiki/リョウ・ルーツ "wikilink")

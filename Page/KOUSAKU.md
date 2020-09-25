@@ -1,7 +1,7 @@
 > この記事は[KOUSAKU](https://ja.wikipedia.org/wiki/KOUSAKU)から翻訳されています。
 
 
-**KOUSAKU**（こうさく、本名：**向井耕作**（いしかわ こうさく）、[1967年](../Page/1967年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")・[声優](../Page/声優.md "wikilink")。[シグマ・セブン](../Page/シグマ・セブン.md "wikilink")所属。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。向井耕作としてNPO法人「U-PROJECT」の代表理事も務めており、地域美化事業「まるごみプロジェクト」の総合プロデューサーとして活動している。
+**KOUSAKU**（こうさく、本名：**向井耕作**（いしかわ こうさく）、[1967年](../Page/1967年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")出身の[ラジオパーソナリティ](../Page/ラジオパーソナリティ.md "wikilink")・[歌手](../Page/歌手.md "wikilink")・[ナレーター](https://ja.wikipedia.org/wiki/ナレーター "wikilink")・[声優](../Page/声優.md "wikilink")。[シグマ・セブン](../Page/シグマ・セブン.md "wikilink")所属。[血液型はA型](../Page/ABO式血液型.md "wikilink")。向井耕作としてNPO法人「U-PROJECT」の代表理事も務めており、地域美化事業「まるごみプロジェクト」の総合プロデューサーとして活動している。
 
 特技は[野球](../Page/野球.md "wikilink")で、[2006年](../Page/2006年.md "wikilink")には[千葉熱血MAKING](../Page/千葉熱血MAKING.md "wikilink")にも所属していた。[千葉ロッテマリーンズ](../Page/千葉ロッテマリーンズ.md "wikilink")[スタジアムDJ](../Page/スタジアムDJ.md "wikilink")、千葉ロッテマリーンズ大使を務める。また、1995年から2000年までは音楽ユニット「[AK LIVE](https://ja.wikipedia.org/wiki/AK_LIVE "wikilink")」のボーカリストとして活動しており（2013年から活動再開）、現在はバンド「[GOLDFISH RESCUE GANG](https://ja.wikipedia.org/wiki/GOLDFISH_RESCUE_GANG "wikilink")」でボーカルを務めるなど、多彩な活躍を見せている。
 
@@ -88,7 +88,7 @@
 
 「[AK LIVE](https://ja.wikipedia.org/wiki/AK_LIVE "wikilink")」、「[GOLDFISH RESCUE GANG](https://ja.wikipedia.org/wiki/GOLDFISH_RESCUE_GANG "wikilink")」としての発表作品は、各項を参照のこと。
 
-  - 「地球（あなた）へ」 / [THE EARTH BEATS](https://ja.wikipedia.org/wiki/THE_EARTH_BEATS "wikilink")（KOUSAKU / chourus: NANA MIZUKI([水樹奈々](../Page/水樹奈々.md "wikilink")) / [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink") / [eyes](https://ja.wikipedia.org/wiki/eyes_\(ユニット\) "wikilink") / [ZOOCO](https://ja.wikipedia.org/wiki/ZOOCO "wikilink") / [根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink") / [大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink") / Marugomi Kids）
+  - 「地球（あなた）へ」 / [THE EARTH BEATS](https://ja.wikipedia.org/wiki/THE_EARTH_BEATS "wikilink")（KOUSAKU / chourus: NANA MIZUKI([水樹奈々](../Page/水樹奈々.md "wikilink")) / [エイジアエンジニア](../Page/エイジアエンジニア.md "wikilink") / [eyes](https://ja.wikipedia.org/wiki/eyes_\(ユニット\) "wikilink") / [ZOOCO](../Page/ZOOCO.md "wikilink") / [根本美緒](https://ja.wikipedia.org/wiki/根本美緒 "wikilink") / [大林素子](https://ja.wikipedia.org/wiki/大林素子 "wikilink") / Marugomi Kids）
     　　作詞：KOUSAKU 作曲：HAJIME 編曲：[土屋学](https://ja.wikipedia.org/wiki/土屋学 "wikilink")
     　　2008年9月24日発売
     　　「[湾岸まるごとゴミ拾い～100年たっても地球（あなた）となかよし～](http://marugomi.jp/index.php?FrontPage)」サポートソング

@@ -33,10 +33,14 @@
 ## 外部リンク
 
   - [Exploring Precalculus - William Mueller](http://www.wmueller.com/precalculus/)
-  - [FHS Precalculus Study Page - Oscar Krebs](http://www.geocities.com/CapeCanaveral/Launchpad/2426/)
+
+  -
   - [Pre-Calculus - Math Forum](http://mathforum.org/precalc/precalc.html)
+
   - [PRECALCULUS at MECCA (Memphis Educational Computer Connectivity Alliance)](http://www.mecca.org/~halfacre/MATH/prec.htm)
+
   - [Online Graphing Calculator - WebGraphing.com](http://www.webgraphing.com/)
+
   - [Online Graphing Utility - nanoGrapher.nanoSouffle.net](http://nanoGrapher.nanoSouffle.net/)
 
 [Category:初等数学](https://ja.wikipedia.org/wiki/Category:初等数学 "wikilink") [Category:数学に関する記事](https://ja.wikipedia.org/wiki/Category:数学に関する記事 "wikilink")

@@ -49,7 +49,7 @@
 
 ## 運営店舗
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Vivahome_nagatsuta.JPG "wikilink") (2020年7月17日時点) ※リフォーム&デザインセンター併設店舗はカッコ書きでR\&Dと表記
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Vivahome_nagatsuta.JPG "wikilink") (2020年9月3日時点) ※リフォーム&デザインセンター併設店舗はカッコ書きでR\&Dと表記
 
   - ビバホーム(VH)
   - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")
@@ -151,7 +151,7 @@
       - 豊洲店(R\&D)([江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink"))
       - 東久留米店([東久留米市](../Page/東久留米市.md "wikilink"))
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")
-      - 長津田店(R\&D)([神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")[緑区](../Page/緑区_\(横浜市\).md "wikilink")）
+      - 長津田店(R\&D)([横浜市](../Page/横浜市.md "wikilink")[緑区](../Page/緑区_\(横浜市\).md "wikilink")）
       - 座間店(R\&D)([座間市](../Page/座間市.md "wikilink"))
       - 厚木南インター店(R\&D)([厚木市](../Page/厚木市.md "wikilink"))
       - 小田原国府津店(R\&D)([小田原市](../Page/小田原市.md "wikilink"))
@@ -186,6 +186,8 @@
       - 東水巻店（[遠賀郡](../Page/遠賀郡.md "wikilink")[水巻町](../Page/水巻町.md "wikilink")）
   - [佐賀県](../Page/佐賀県.md "wikilink")
       - 佐賀店(R\&D)([佐賀市](https://ja.wikipedia.org/wiki/佐賀市 "wikilink"))
+  - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")
+      - [八代店](../Page/イオン八代ショッピングセンター.md "wikilink")([八代市](../Page/八代市.md "wikilink"))
   - ヴィシーズ (VCS)
   - ビバモール (VM) - スーパービバホームを核店舗とする[ショッピングセンター](../Page/ショッピングセンター.md "wikilink")
       - ビバモール埼玉大井（埼玉県[ふじみ野市](../Page/ふじみ野市.md "wikilink")）

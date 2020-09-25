@@ -17,3 +17,4 @@
   - [SRT除算](https://ja.wikipedia.org/wiki/除算_\(デジタル\)#SRT除算 "wikilink") - 除算アルゴリズムの1つ。考案者のイニシャル (**S**weeney, **R**obertson, **T**ocher) に由来する。
   - [ミノルタ](../Page/ミノルタ.md "wikilink")が1966年から製造販売していた[一眼レフ](https://ja.wikipedia.org/wiki/一眼レフ "wikilink")[カメラ](../Page/カメラ.md "wikilink")のシリーズ。SRT-101、SRT-superがある。
   - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[岡山市](../Page/岡山市.md "wikilink")[北区のある貸切バス事業者](../Page/北区_\(岡山市\).md "wikilink")。[SRT (バス事業者)](https://ja.wikipedia.org/wiki/SRT_\(バス事業者\) "wikilink")
+  - [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")が導入予定の新型底床バス「スマート・ロードウェイ・トランジット」の略称

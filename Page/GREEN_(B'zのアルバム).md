@@ -45,7 +45,7 @@
         ドラム・パターンが残るエンディングは、[松本孝弘](../Page/松本孝弘.md "wikilink")の「曲が続いていく感じがいいかな?」という意見を聞いたドラマーの山木が提案したもので、曲が出来上がった後にレコーディングされた。
 4.  **SIGNAL** (4:18)
       -
-        [プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ときめきメモリアル Girl's Side](../Page/ときめきメモリアル_Girl's_Side.md "wikilink")』オープニングテーマ。
+        [プレイステーション2用ゲーム](../Page/PlayStation_2.md "wikilink")『[ときめきメモリアル Girl's Side](../Page/ときめきメモリアル_Girl's_Side.md "wikilink")』オープニングテーマ。
         「[今では…今なら…今も…](../Page/BREAK_THROUGH.md "wikilink")」と同様、信号待ちを題材としたバラード\[12\]。
         本作で最も古い曲で、前作『ELEVEN』の制作時にすでにレコーディングされていた[打ち込み](https://ja.wikipedia.org/wiki/打ち込み "wikilink")主体の楽曲。松本によると「ギターだけ録り直して、あとは変えてない」とのこと。
 5.  **SURFIN' 3000GTR** (3:50)

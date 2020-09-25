@@ -41,6 +41,6 @@
 
 ## 外部リンク
 
-  - [日本コロムビア | SHALE APPLE](http://columbia.jp/artist-info/shaleapple/)
+  - [日本コロムビア | SHALE APPLE](https://columbia.jp/artist-info/shaleapple/)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")

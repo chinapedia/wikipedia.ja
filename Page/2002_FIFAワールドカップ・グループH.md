@@ -410,7 +410,7 @@
 <dd><a href="../Page/ユーリ・ニキフォロフ.md" title="wikilink">ユーリ・ニキフォロフ</a> ()
 </dd>
 <dt>副審</dt>
-<dd>Michael Ragoonath (<a href="https://ja.wikipedia.org/wiki/トリニダード・トバゴ" title="wikilink">トリニダード・トバゴ</a>)
+<dd>Michael Ragoonath (<a href="../Page/トリニダード・トバゴ.md" title="wikilink">トリニダード・トバゴ</a>)
 </dd>
 <dd>Paul Smith（<a href="../Page/ニュージーランド.md" title="wikilink">ニュージーランド</a>）
 </dd>

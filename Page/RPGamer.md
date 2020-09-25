@@ -96,7 +96,7 @@
 <!-- end list -->
 
   -
-    GDW社の宇宙戦ボードゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
+    GDW社の宇宙戦ボードゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](../Page/サプリメント_\(TRPG\).md "wikilink")。
 
 <!-- end list -->
 
@@ -141,7 +141,7 @@
 <!-- end list -->
 
   -
-    GDW社の星間戦争シミュレーションゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](https://ja.wikipedia.org/wiki/サプリメント_\(TRPG\) "wikilink")。
+    GDW社の星間戦争シミュレーションゲームを復刻。『[トラベラー](../Page/トラベラー_\(TRPG\).md "wikilink")』の[サプリメントにもなる](../Page/サプリメント_\(TRPG\).md "wikilink")。
 
 <!-- end list -->
 

@@ -83,20 +83,20 @@
       - [団鬼六](../Page/団鬼六.md "wikilink")
       - [鈴木清順](../Page/鈴木清順.md "wikilink")
       - [OTO](../Page/JAGATARA.md "wikilink")
-  - 若手落語家
-      - [芸協ルネッサンス](../Page/落語芸術協会.md "wikilink")
+  - 若手落語家　グループ名は、落語家としてそれぞれが所属する団体に由来している。
+      - [芸協ルネッサンス](../Page/落語芸術協会.md "wikilink")　（落語芸術協会 → 芸術 → [Renaissance](https://ja.wikipedia.org/wiki/ルネサンス_\(曖昧さ回避\) "wikilink") から）
           - [春風亭昇太](../Page/春風亭昇太.md "wikilink")
           - 春風亭柏枝（現：[8代目春風亭柳橋](https://ja.wikipedia.org/wiki/春風亭柳橋_\(8代目\) "wikilink")）
           - 春風亭柳八（現：[5代目春風亭柳好](https://ja.wikipedia.org/wiki/春風亭柳好#俗に5代目 "wikilink")）
-      - [落協エシャレッツ](../Page/落語協会.md "wikilink")
+      - [落協エシャレッツ](../Page/落語協会.md "wikilink") (落語協会 → 落協（らっきょう（略称））→ [Échalote](https://ja.wikipedia.org/wiki/らっきょう "wikilink") から）
           - 春風亭あさ市（現：[五明樓玉の輔](../Page/五明樓玉の輔.md "wikilink")）
           - [三遊亭窓里](../Page/三遊亭窓里.md "wikilink")
-          - 橘家文吾（現：[橘家文蔵](../Page/橘家文蔵_\(3代目\).md "wikilink")）
-      - [円楽ヤングバンブーズ](../Page/円楽一門会.md "wikilink")
+          - 橘家文吾（現：[3代目橘家文蔵](../Page/橘家文蔵_\(3代目\).md "wikilink")）
+      - [円楽ヤングバンブーズ](../Page/円楽一門会.md "wikilink")　（[若竹](../Page/若竹.md "wikilink")（円楽党の寄席）→ young bamboo (直訳）から）
           - [三遊亭愛楽](../Page/三遊亭愛楽.md "wikilink")
           - 三遊亭優（現：[三遊亭楽春](../Page/三遊亭楽春.md "wikilink")）
           - [三遊亭好太郎](../Page/三遊亭好太郎.md "wikilink")
-      - [立川ボーイズ](https://ja.wikipedia.org/wiki/立川ボーイズ "wikilink")
+      - [立川ボーイズ](https://ja.wikipedia.org/wiki/立川ボーイズ "wikilink") （[談志](https://ja.wikipedia.org/wiki/談志 "wikilink") → 男子（だんし）→ boys）
           - [立川談春](../Page/立川談春.md "wikilink")
           - [立川志らく](../Page/立川志らく.md "wikilink")
           - [朝寝坊のらく](https://ja.wikipedia.org/wiki/朝寝坊のらく "wikilink")

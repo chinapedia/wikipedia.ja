@@ -23,7 +23,7 @@
 ## 作品リスト
 
   - [蒼い海のトリスティア〜発明工房奮闘記〜](https://ja.wikipedia.org/wiki/蒼い海のトリスティア〜発明工房奮闘記〜 "wikilink")（[Windows 98](https://ja.wikipedia.org/wiki/Windows_98 "wikilink") - [XP](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")、2002年7月20日発売）
-    [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")より2005年3月25日発売）のタイトルは『**蒼い海のトリスティア〜ナノカ・フランカ発明工房記〜**』。
+    [PlayStation 2版](../Page/PlayStation_2.md "wikilink")（[日本一ソフトウェア](../Page/日本一ソフトウェア.md "wikilink")より2005年3月25日発売）のタイトルは『**蒼い海のトリスティア〜ナノカ・フランカ発明工房記〜**』。
     DVD版である「**蒼い海のトリスティア〜限定DVDパック〜 ネオスフィア予習編**」（2004年12月17日発売）には「トリスティア どき\!どき\! おぺれーしょん」や「エンジェルアソート Vol.01」のコンテンツなども収録されている。
       - トリスティア どき\!どき\! おぺれーしょん（Windows 98 - XP、2003年7月18日発売）
         「蒼い海のトリスティア〜発明工房奮闘記〜」のファンディスク。同タイトルの[タイピングゲーム](https://ja.wikipedia.org/wiki/タイピングゲーム "wikilink")収録。主人公はフルクラム帝国のエージェントBB、ヒロインはラファルー。

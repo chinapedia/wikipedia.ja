@@ -16,7 +16,7 @@
   - [2009年](../Page/2009年.md "wikilink") ：リーグ戦では終始上位を争い、第13節終了時で2位[テイヘンズFC](../Page/テイヘンズFC.md "wikilink")に勝ち点差2の3位につける。最終節で勝利、一方のテイヘンズは敗北したため逆転で2位に入り、5年ぶりの1部昇格を決めた。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink") ：5年ぶりの1部リーグでの戦いになったもののシーズン2勝にとどまり、2005年同様1年で2部降格となった。
   - [2011年](../Page/2011年.md "wikilink") ：2部リーグで2位となり、1部復帰を決めた。
-  - [2014年](../Page/2014年.md "wikilink") ：[JFL](../Page/日本フットボールリーグ.md "wikilink")、[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")を目指すため、運営団体として**[NPO法人](https://ja.wikipedia.org/wiki/NPO法人 "wikilink")アンテロープアスレティッククラブ**を設立\[2\]。
+  - [2014年](../Page/2014年.md "wikilink") ：[JFL](../Page/日本フットボールリーグ.md "wikilink")、[J3リーグ](https://ja.wikipedia.org/wiki/J3リーグ "wikilink")を目指すため、運営団体として「**[NPO法人](https://ja.wikipedia.org/wiki/NPO法人 "wikilink")アンテロープアスレティッククラブ**」を設立\[2\]。
   - [2016年](../Page/2016年.md "wikilink") ：1部リーグで7位で降格圏となったもののレギュレーションにより\[3\]、1部残留。
   - [2017年](../Page/2017年.md "wikilink") ：1部リーグでシーズン1勝にとどまり、2部降格となった。
 

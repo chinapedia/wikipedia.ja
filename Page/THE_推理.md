@@ -14,7 +14,7 @@
   - SIMPLE1500シリーズ Vol.59 THE推理 〜IT探偵：18の事件簿〜
     [2001年](../Page/2001年.md "wikilink")[4月26日](../Page/4月26日.md "wikilink")発売。[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月26日](../Page/5月26日.md "wikilink")から[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")にて配信開始。
   - SIMPLE2000シリーズ Vol.17 THE推理 〜新たなる20の事件簿〜
-    [2002年](../Page/2002年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発売。[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    [2002年](../Page/2002年.md "wikilink")[12月26日](../Page/12月26日.md "wikilink")発売。[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。
   - SIMPLE2000シリーズ Vol.67 THE推理 〜そして誰もいなくなった〜
     [2004年](../Page/2004年.md "wikilink")[11月11日](../Page/11月11日.md "wikilink")発売。PlayStation 2用ソフト。
     新作20話と第1作の再録。再録分は音声はなし。

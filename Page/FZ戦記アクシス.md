@@ -149,8 +149,7 @@ FZ戦記アクシス（[東芝EMI](https://ja.wikipedia.org/wiki/EMIミュージ
 
   - [ファイナルゾーンII for PCエンジン（プロジェクトEGG）](http://www.amusement-center.com/project/egg/cgi/ecatalog-detail.cgi?product_id=1056)
 
-  - （英語）
-
+  -
 [Category:1990年のパソコンゲーム](https://ja.wikipedia.org/wiki/Category:1990年のパソコンゲーム "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:アクションシューティングゲーム](https://ja.wikipedia.org/wiki/Category:アクションシューティングゲーム "wikilink") [Category:巨大ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:巨大ロボットを題材としたコンピュータゲーム "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:プロジェクトEGG対応ソフト](https://ja.wikipedia.org/wiki/Category:プロジェクトEGG対応ソフト "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.

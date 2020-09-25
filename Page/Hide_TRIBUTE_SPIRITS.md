@@ -17,7 +17,7 @@
 2.  **[ROCKET DIVE](../Page/ROCKET_DIVE.md "wikilink")**（[布袋寅泰](../Page/布袋寅泰.md "wikilink")）
       -
         歌詞カードに記載はないが、hideへのメッセージと思しき歌詞が加えられている。当初[BUCK-TICK](../Page/BUCK-TICK.md "wikilink")がこの楽曲を手掛ける予定だったが、同郷の先輩である布袋に譲るという経緯があった。
-        hideは[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")時代から布袋のファンであり、[1994年](../Page/1994年.md "wikilink")に[X JAPANで出演した](../Page/X_JAPAN.md "wikilink")「[GME'94 AONIYOSHI](https://ja.wikipedia.org/wiki/The_Great_Music_Experience "wikilink")」より交流が始まっている。ちなみに[hide with Spread Beaverの](https://ja.wikipedia.org/wiki/hide "wikilink")[CHIROLYN](../Page/CHIROLYN.md "wikilink")は布袋のツアーにも参加しており、ライブを観覧したhideから打ち上げの席で「『[LONELY★WILD](https://ja.wikipedia.org/wiki/LONELY★WILD "wikilink")』のベースラインのノリが違う」などとダメ出しを受けたこともある。
+        hideは[BOØWY](../Page/BOØWY.md "wikilink")時代から布袋のファンであり、[1994年](../Page/1994年.md "wikilink")に[X JAPANで出演した](../Page/X_JAPAN.md "wikilink")「[GME'94 AONIYOSHI](https://ja.wikipedia.org/wiki/The_Great_Music_Experience "wikilink")」より交流が始まっている。ちなみに[hide with Spread Beaverの](https://ja.wikipedia.org/wiki/hide "wikilink")[CHIROLYN](../Page/CHIROLYN.md "wikilink")は布袋のツアーにも参加しており、ライブを観覧したhideから打ち上げの席で「『[LONELY★WILD](https://ja.wikipedia.org/wiki/LONELY★WILD "wikilink")』のベースラインのノリが違う」などとダメ出しを受けたこともある。
 3.  **[Beauty & Stupid](../Page/Beauty_&_Stupid.md "wikilink")**（[清春](../Page/清春.md "wikilink")、[SHOJI](https://ja.wikipedia.org/wiki/CAVE_\(ミュージシャン\)#メンバー "wikilink")）
       -
         清春は[黒夢](../Page/黒夢.md "wikilink")解散後の初レコーディング音源となった。（[Sads](https://ja.wikipedia.org/wiki/Sads "wikilink")は同年7月デビュー）。なお、清春はhideとの面識は無かったという。

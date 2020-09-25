@@ -21,7 +21,7 @@
 </tbody>
 </table>
 
-『**Memories Off 〜それから〜**』（メモリーズオフ 〜それから〜）は、[2004年](../Page/2004年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）である。また同年[10月14日](../Page/10月14日.md "wikilink")にはWindows版が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")には[5pb.](../Page/5pb..md "wikilink")GamesよりPSP版が発売された。[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはこの作品の後日談に当たる『[Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")』が発売されている。
+『**Memories Off 〜それから〜**』（メモリーズオフ 〜それから〜）は、[2004年](../Page/2004年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）である。また同年[10月14日](../Page/10月14日.md "wikilink")にはWindows版が、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月14日](../Page/8月14日.md "wikilink")には[5pb.](../Page/5pb..md "wikilink")GamesよりPSP版が発売された。[2006年](../Page/2006年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")にはこの作品の後日談に当たる『[Memories Off 〜それから again〜](../Page/Memories_Off_〜それから_again〜.md "wikilink")』が発売されている。
 
 同社が発売している「[Memories Offシリーズ](../Page/Memories_Offシリーズ.md "wikilink")」の4作目。副題は『かけがえのない想いを乗り越えて』。
 

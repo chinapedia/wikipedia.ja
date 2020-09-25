@@ -7,7 +7,7 @@
 
 [1972年](../Page/1972年.md "wikilink")に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")の[ボカラトン](https://ja.wikipedia.org/wiki/ボカラトン "wikilink")で「バージニアスリム選手権」として第1回が行われ、1979年以降、[ニューヨーク](../Page/ニューヨーク.md "wikilink")の[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")で行われた。歴代の冠スポンサーの中には[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")も名前を連ねたことがある。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までは「[チェイス選手権](../Page/JPモルガン・チェース.md "wikilink")」の名称であった。
 
-最近は大会会場の変更が多く、[2001年](../Page/2001年.md "wikilink")は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ミュンヘン](../Page/ミュンヘン.md "wikilink")の「[オリンピアハレ](../Page/オリンピアハレ.md "wikilink")」で行われ、[2002年](../Page/2002年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までは[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で開催された。[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")の2年間[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[マドリード](../Page/マドリード.md "wikilink")で行われた後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[カタール](../Page/カタール.md "wikilink")の[ドーハ](../Page/ドーハ.md "wikilink")に会場を移す。2011年からは[トルコ](../Page/トルコ.md "wikilink")の[イスタンブール](../Page/イスタンブール.md "wikilink")、2014年からは[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、2019年から28年までは[中国](../Page/中華人民共和国.md "wikilink")[深圳市](https://ja.wikipedia.org/wiki/深圳市 "wikilink")で開催される。
+最近は大会会場の変更が多く、[2001年](../Page/2001年.md "wikilink")は[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")・[ミュンヘン](../Page/ミュンヘン.md "wikilink")の「[オリンピアハレ](../Page/オリンピアハレ.md "wikilink")」で行われ、[2002年](../Page/2002年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までは[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で開催された。[2006年](../Page/2006年.md "wikilink")・[2007年](../Page/2007年.md "wikilink")の2年間[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[マドリード](../Page/マドリード.md "wikilink")で行われた後、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")は[カタール](../Page/カタール.md "wikilink")の[ドーハ](../Page/ドーハ.md "wikilink")に会場を移す。2011年からは[トルコ](../Page/トルコ.md "wikilink")の[イスタンブール](../Page/イスタンブール.md "wikilink")、2014年からは[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、2019年から28年までは[中国](../Page/中華人民共和国.md "wikilink")[深圳市](../Page/深圳市.md "wikilink")で開催される。
 
 [2002年](../Page/2002年.md "wikilink")までは、年間最終ランキング16名の選手に出場資格が与えられ、1回戦からのトーナメントで試合が行われていた。しかし[2003年](../Page/2003年.md "wikilink")以後、男子年間最終戦の「[テニス・マスターズ・カップ](https://ja.wikipedia.org/wiki/テニス・マスターズ・カップ "wikilink")」と同じ方式に変更された。出場資格選手は世界ランキング上位8名の選手に減らされ、4人ずつの2組に分かれて総当たり戦（ラウンド・ロビン）を行い、上位選手2名が決勝トーナメントに進出する。その4名で準決勝 → 決勝が行われ、優勝者が決定する。
 
@@ -106,7 +106,7 @@
 <td><p>10,000</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/深圳市" title="wikilink">深圳</a></p></td>
+<td><p><a href="../Page/深圳市.md" title="wikilink">深圳</a></p></td>
 <td><p>2019–2028</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/深圳湾体育中心" title="wikilink">深圳湾体育中心</a></p></td>
 <td><p>ハード</p></td>

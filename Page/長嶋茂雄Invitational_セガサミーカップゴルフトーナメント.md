@@ -111,7 +111,7 @@
   - 2008年からは[北海道放送](../Page/北海道放送.md "wikilink")（HBC）が特別協力についたことから同局で決勝ラウンドの2日間を中継することになった\[8\]。当初は2日間とも北海道ローカルの放送だったが\[9\]、2011年以降は[TBS系列全国ネットで放送されている](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")\[10\]。2019年大会のコメンタリー陣を以下に記す。
   - 解説 : [青木功](../Page/青木功.md "wikilink")、[丸山茂樹](../Page/丸山茂樹.md "wikilink")
   - ラウンド解説 : [渡辺司](https://ja.wikipedia.org/wiki/渡辺司 "wikilink")
-  - 実況 : [川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")（HBCアナウンサー）
+  - 実況 : [川畑恒一](../Page/川畑恒一.md "wikilink")（HBCアナウンサー）
   - ラウンドリポーター : [渕上紘行](../Page/渕上紘行.md "wikilink")（HBCアナウンサー）
 
 <!-- end list -->

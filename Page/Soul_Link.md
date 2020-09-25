@@ -18,7 +18,7 @@
 
 2006年4月にはテレビアニメ化された。詳細は[アニメを参照](https://ja.wikipedia.org/wiki/#アニメ "wikilink")。
 
-[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には[インターチャネル](../Page/インターチャネル.md "wikilink")から[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Soul Link EXTENSION**』（ソウル リンク エクステンション）が発売された。新キャラクターならびに新規CGが追加されるとともに、シナリオの容量が増加されている。シナリオは、PC版では触れられなかった部分についても補完されている。
+[2006年](../Page/2006年.md "wikilink")[6月29日](../Page/6月29日.md "wikilink")には[インターチャネル](../Page/インターチャネル.md "wikilink")から[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『**Soul Link EXTENSION**』（ソウル リンク エクステンション）が発売された。新キャラクターならびに新規CGが追加されるとともに、シナリオの容量が増加されている。シナリオは、PC版では触れられなかった部分についても補完されている。
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月25日](../Page/6月25日.md "wikilink")、ヒント機能などの新要素を加えたフルリメイク版『**Soul Link ULTIMATE**』（ソウル リンク アルティメット）がNavelから発売された。『[ね〜PON?×らいPON\!](https://ja.wikipedia.org/wiki/ね〜PON?×らいPON! "wikilink")』に入っていた後日談2本も、「アフターストーリー」という形で収録されている。鈴平ひろは新規パッケージと店舗特典1枚で参加している\[2\]。
 

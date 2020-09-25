@@ -118,7 +118,7 @@ WIDEプロジェクト, [インターネットイニシアティブ](https://ja.
   - [WIDE Project NSPIXP](http://nspixp.wide.ad.jp/)
   - [WIDE Project　NSPIXP6](http://www.wide.ad.jp/nspixp6/)
   - [ケイ・オプティコム](http://www.k-opti.com/)
-  - [6boneのアーカイブ](http://web.archive.org/web/20101215021300/http://go6.net/ipv6-6bone/)
+  - [6boneのアーカイブ](https://web.archive.org/web/20101215021300/http://go6.net/ipv6-6bone/)
   - [サイバー関西プロジェクト](http://www.ckp.or.jp/)
   - [新世代通信網実験協議会（Broadband-ISDN Business chance & Culture Creation 略称：BBCC)](http://www.bbcc.or.jp/)
 

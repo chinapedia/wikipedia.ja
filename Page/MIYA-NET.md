@@ -347,6 +347,5 @@ MIYA-NETも難なく新天地に移転した。店内では入り口付近の目
 
 ## 外部リンク
 
-  - [MIYA-NET](http://www5a.biglobe.ne.jp/~miyanet/)
-
+  -
 [Category:パソコン通信](https://ja.wikipedia.org/wiki/Category:パソコン通信 "wikilink")

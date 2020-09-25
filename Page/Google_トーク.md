@@ -13,7 +13,7 @@
 
 ## 機能
 
-メッセージのやり取り以外の機能としては、Gmailの新着[メールを](../Page/電子メール.md "wikilink")[タスクトレイ](../Page/タスクトレイ.md "wikilink")で通知してくれるアラート機能がある。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")・[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink"), [Android](../Page/Android.md "wikilink")といった[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")上で利用することも可能である。Android・BlackBerryにおいては、プッシュ型でメッセージが着信する。
+メッセージのやり取り以外の機能としては、Gmailの新着[メールを](../Page/電子メール.md "wikilink")[タスクトレイ](../Page/タスクトレイ.md "wikilink")で通知してくれるアラート機能がある。[Windows Mobile](../Page/Windows_Mobile.md "wikilink")・[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[BlackBerry](../Page/BlackBerry.md "wikilink"), [Androidといった](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")上で利用することも可能である。Android・BlackBerryにおいては、プッシュ型でメッセージが着信する。
 
 ## Labs Edition
 

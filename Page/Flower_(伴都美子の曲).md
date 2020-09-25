@@ -7,7 +7,7 @@
 
 [2005年](../Page/2005年.md "wikilink")（[平成](../Page/平成.md "wikilink")17年）[9月29日](../Page/9月29日.md "wikilink")に解散した[音楽グループ](https://ja.wikipedia.org/wiki/音楽グループ "wikilink")、[Do As Infinityのボーカリストだった伴都美子の](../Page/Do_As_Infinity.md "wikilink")1stシングル。ソロデビューは同年の[3月29日](../Page/3月29日.md "wikilink")に発売した[アルバム](../Page/アルバム.md "wikilink")『[FAREWELL](../Page/FAREWELL.md "wikilink")』で果たしているため、伴個人名義のソロ作品としては初のシングルとなる。
 
-表題曲である「Flower」は、[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[おいしいプロポーズ](../Page/おいしいプロポーズ.md "wikilink")」の[主題歌](../Page/主題歌.md "wikilink")に起用された。このドラマの[サウンドトラック](../Page/サウンドトラック.md "wikilink")には同曲の[ピアノ](../Page/ピアノ.md "wikilink")・[インスゥトルメンタルバージョンのもの等が収録されている](../Page/器楽曲.md "wikilink")。また、カップリング曲「Brave」は[プレイステーション2用のソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「[戦国BASARA](../Page/戦国BASARA.md "wikilink")2」のエンディングテーマとなった。
+表題曲である「Flower」は、[TBS系](../Page/TBSテレビ.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")「[おいしいプロポーズ](../Page/おいしいプロポーズ.md "wikilink")」の[主題歌](../Page/主題歌.md "wikilink")に起用された。このドラマの[サウンドトラック](../Page/サウンドトラック.md "wikilink")には同曲の[ピアノ](../Page/ピアノ.md "wikilink")・[インスゥトルメンタルバージョンのもの等が収録されている](../Page/器楽曲.md "wikilink")。また、カップリング曲「Brave」は[プレイステーション2用のソフト](../Page/PlayStation_2.md "wikilink")「[戦国BASARA](../Page/戦国BASARA.md "wikilink")2」のエンディングテーマとなった。
 
 CDのみのバージョンと[PVを収録した](../Page/ミュージック・ビデオ.md "wikilink")[DVD付きのものの](../Page/DVD-Video.md "wikilink")2パターンが発売。
 

@@ -1,7 +1,7 @@
 > この記事は[Emotion Engine](https://ja.wikipedia.org/wiki/Emotion_Engine)から翻訳されています。
 
 
-**Emotion Engine**（エモーション エンジン、略称: **EE**）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCE) と[東芝](../Page/東芝.md "wikilink")によって開発され、主に[PlayStation 2向けに設計](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・使用された[MIPS](../Page/MIPSアーキテクチャ.md "wikilink") R5900ベースの[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。実質的な後継は[PlayStation 3における](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Cell Broadband Engine](../Page/Cell_Broadband_Engine.md "wikilink")。
+**Emotion Engine**（エモーション エンジン、略称: **EE**）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink") (SCE) と[東芝](../Page/東芝.md "wikilink")によって開発され、主に[PlayStation 2向けに設計](../Page/PlayStation_2.md "wikilink")・使用された[MIPS](../Page/MIPSアーキテクチャ.md "wikilink") R5900ベースの[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")[RISC](../Page/RISC.md "wikilink")[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")である。実質的な後継は[PlayStation 3における](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Cell Broadband Engine](../Page/Cell_Broadband_Engine.md "wikilink")。
 
 本項では、同じくSCEによって開発され、PS2向けに設計・使用された[GPU](../Page/Graphics_Processing_Unit.md "wikilink")・**Graphics Synthesizer**（グラフィックス シンセサイザ、略称: **GS**）についても扱う。
 

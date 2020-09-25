@@ -479,7 +479,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/アンディ・マリー" title="wikilink">アンディ・マリー</a></strong></p></td>
+<td><p><strong><a href="../Page/アンディ・マリー.md" title="wikilink">アンディ・マリー</a></strong></p></td>
 <td><p><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></p></td>
 <td><p>6-3, 6-3</p></td>
 </tr>

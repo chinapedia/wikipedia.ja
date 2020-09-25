@@ -878,7 +878,7 @@ BGMは内蔵音源だが、「序曲」のみ[東京都交響楽団](../Page/東
   - 『[ドラゴンクエストカードゲーム 銀のタロット](https://ja.wikipedia.org/wiki/ドラゴンクエストカードゲーム_銀のタロット "wikilink")』
     本作のキャラクター達が登場するカードゲーム。
   - 『[大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")』
-    2018年12月7日発売の[Nintendo Switch用](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")。2019年7月31日より追加[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")キャラクターとして『[ドラゴンクエストXI 過ぎ去りし時を求めて S](https://ja.wikipedia.org/wiki/ドラゴンクエストXI_過ぎ去りし時を求めて "wikilink")』の主人公・勇者が登場。基本は『XI』仕様だが、コスチュームチェンジをすることで『IV』仕様の勇者が使用でき、ボイスも切り替わる\[89\]。
+    2018年12月7日発売の[Nintendo Switch用](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")。2019年7月31日より追加[DLCキャラクターとして](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")『[ドラゴンクエストXI 過ぎ去りし時を求めて S](https://ja.wikipedia.org/wiki/ドラゴンクエストXI_過ぎ去りし時を求めて "wikilink")』の主人公・勇者が登場。基本は『XI』仕様だが、コスチュームチェンジをすることで『IV』仕様の勇者が使用でき、ボイスも切り替わる\[89\]。
 
 ## 脚注
 
@@ -888,7 +888,7 @@ BGMは内蔵音源だが、「序曲」のみ[東京都交響楽団](../Page/東
 
 ## 外部リンク
 
-  - [スクウェア・エニックス](http://www.square-enix.com/jp/index_f2.html)
+  - [スクウェア・エニックス](https://www.jp.square-enix.com/)
 
       - [ドラゴンクエストIV 導かれし者たち](http://www.square-enix.com/jp/archive/dq4/) - ファミリーコンピュータ版 ソフト紹介
       - [PS版ドラゴンクエストIV 最新情報](http://www.square-enix.co.jp/dragonquest/psdq4_body.html)

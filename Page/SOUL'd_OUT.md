@@ -1419,7 +1419,7 @@ KICS-91910</p></td>
 <tr class="even">
 <td><p>1,000,000 MONSTERS ATTACK</p></td>
 <td><p>TBS系「ランク王国」2004年4〜5月度オープニングテーマ<br />
-<a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a> <a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ソフト</a>「FIFAトータルフットボール2」ゲーム内BGM</p></td>
+<a href="../Page/エレクトロニック・アーツ.md" title="wikilink">エレクトロニック・アーツ</a> <a href="../Page/PlayStation_2.md" title="wikilink">プレイステーション2用ソフト</a>「FIFAトータルフットボール2」ゲーム内BGM</p></td>
 </tr>
 <tr class="odd">
 <td><p>Magenta Magenta</p></td>

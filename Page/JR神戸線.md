@@ -995,7 +995,7 @@ JR神戸線としての歴史を記述する。
   - [京阪神緩行線](../Page/京阪神緩行線.md "wikilink")
   - [石屋川トンネル](../Page/石屋川トンネル.md "wikilink")
 
-[Category:JR神戸線](https://ja.wikipedia.org/wiki/Category:JR神戸線 "wikilink") [Category:近畿地方の鉄道路線](https://ja.wikipedia.org/wiki/Category:近畿地方の鉄道路線 "wikilink") [Category:西日本旅客鉄道の鉄道路線](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の鉄道路線 "wikilink") [Category:大阪府の交通](https://ja.wikipedia.org/wiki/Category:大阪府の交通 "wikilink") [Category:兵庫県の交通](https://ja.wikipedia.org/wiki/Category:兵庫県の交通 "wikilink") [Category:阪神間](https://ja.wikipedia.org/wiki/Category:阪神間 "wikilink")
+[Category:JR神戸線](https://ja.wikipedia.org/wiki/Category:JR神戸線 "wikilink") [Category:近畿地方の鉄道路線](https://ja.wikipedia.org/wiki/Category:近畿地方の鉄道路線 "wikilink") [Category:西日本旅客鉄道の鉄道路線](https://ja.wikipedia.org/wiki/Category:西日本旅客鉄道の鉄道路線 "wikilink") [Category:大阪府の交通](https://ja.wikipedia.org/wiki/Category:大阪府の交通 "wikilink") [Category:兵庫県の交通](https://ja.wikipedia.org/wiki/Category:兵庫県の交通 "wikilink") [Category:阪神間](https://ja.wikipedia.org/wiki/Category:阪神間 "wikilink") [Category:鉄道路線の愛称](https://ja.wikipedia.org/wiki/Category:鉄道路線の愛称 "wikilink")
 
 1.  [近畿エリア・広島エリアに「路線記号」を導入します](http://www.westjr.co.jp/press/article/2014/08/page_5993.html) - 西日本旅客鉄道ニュースリリース 2014年8月6日
 2.  [ご利用可能エリア｜ICOCA：JRおでかけネット](http://www.jr-odekake.net/icoca/area/map/all.html) - 西日本旅客鉄道

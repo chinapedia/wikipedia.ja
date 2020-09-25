@@ -481,7 +481,7 @@
 </tr>
 <tr class="even">
 <td><p>1400回</p></td>
-<td><p><a href="../Page/神戸ハーバーランド.md" title="wikilink">神戸ハーバーランド</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/神戸ハーバーランドセンタービル" title="wikilink">神戸ハーバーランドセンタービル</a> スペースシアター</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/5月12日.md" title="wikilink">5月12日</a></p></td>
 <td><p>[59][60]</p></td>
 <td><p>コンサートなどの専用ホールではなく、施設の一角を利用して開催された唯一の会場。</p></td>

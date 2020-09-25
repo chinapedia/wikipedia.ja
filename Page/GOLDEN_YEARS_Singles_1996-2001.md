@@ -5,11 +5,11 @@
 
 ## 解説
 
-活動休止宣言から約半年後に発売されたシングルコレクションアルバム。ファンハウス移籍後に発売されたシングルのA面曲が発売順に収録されている。
+活動休止宣言から約半年後に発売されたシングル・コレクション・アルバム。ファンハウス移籍後に発売されたシングルのA面曲が発売順に収録されている。
 
-なお、本作は、「聖なる海とサンシャイン」のシングルバージョン、「BRILLIANT WORLD」が収録されている唯一のアルバム作品である。
+なお、本作は「聖なる海とサンシャイン」のシングル・バージョン、「BRILLIANT WORLD」が収録されている唯一のアルバム作品である。
 
-また、16thシングルの「[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")」は、元々アルバム収録曲のリメイクである点や、イギリス盤の逆輸入であるからか収録されていない。
+また、16枚目のシングル「[SUGAR FIX](https://ja.wikipedia.org/wiki/SUGAR_FIX "wikilink")」は、元々アルバム収録曲のリメイクである点や、イギリス盤の逆輸入であるからか収録されていない。
 
 [2006年](../Page/2006年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")からは[iTunes Storeおよび](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[mora](https://ja.wikipedia.org/wiki/mora "wikilink")でも配信が開始され、THE YELLOW MONKEYのアルバムとしては最初に[オンライン配信販売されたアルバムとなった](../Page/音楽配信.md "wikilink")。
 
@@ -23,7 +23,7 @@
 4.  **[球根](../Page/球根_\(曲\).md "wikilink")**
 5.  **[離れるな](https://ja.wikipedia.org/wiki/離れるな "wikilink")**
 6.  **[MY WINDING ROAD](https://ja.wikipedia.org/wiki/MY_WINDING_ROAD "wikilink")**
-7.  **[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")**
+7.  **[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG_\(THE_YELLOW_MONKEYの曲\) "wikilink")**
 8.  **[バラ色の日々](https://ja.wikipedia.org/wiki/バラ色の日々_\(THE_YELLOW_MONKEYの曲\) "wikilink")**※
 9.  **[聖なる海とサンシャイン](https://ja.wikipedia.org/wiki/聖なる海とサンシャイン "wikilink")**※
 10. **[SHOCK HEARTS](https://ja.wikipedia.org/wiki/SHOCK_HEARTS "wikilink")**

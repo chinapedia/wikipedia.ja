@@ -34,7 +34,7 @@ CBSソニーでのオーディションでも「紅」とともに**いつもの
 1.  **オルガスム** - 3:02
       -
         （作詞・作曲:[YOSHIKI](../Page/YOSHIKI.md "wikilink")　編曲:X）
-        後にメジャーデビュー・アルバム『[BLUE BLOOD](https://ja.wikipedia.org/wiki/BLUE_BLOOD_\(Xのアルバム\) "wikilink")』に収録されたものとは、歌詞の一部や[ギター](../Page/ギター.md "wikilink")[ソロが若干異なり](../Page/ソロ_\(音楽\).md "wikilink")、本作の歌詞はより性描写が直接的である。ギターソロで[ハウリング](../Page/ハウリング.md "wikilink")している。
+        後にメジャーデビュー・アルバム『[BLUE BLOOD](../Page/BLUE_BLOOD_\(Xのアルバム\).md "wikilink")』に収録されたものとは、歌詞の一部や[ギター](../Page/ギター.md "wikilink")[ソロが若干異なり](../Page/ソロ_\(音楽\).md "wikilink")、本作の歌詞はより性描写が直接的である。ギターソロで[ハウリング](../Page/ハウリング.md "wikilink")している。
 2.  **Time Trip Loving** - 3:44
       -
         （作詞:[TOSHI](https://ja.wikipedia.org/wiki/TOSHI "wikilink")　作曲:[JUN](../Page/高井寿.md "wikilink")　編曲:X）

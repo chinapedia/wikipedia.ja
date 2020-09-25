@@ -43,7 +43,7 @@
 
 ## 外部リンク
 
-  - [静岡朝日テレビ ニュース](https://www.satv.co.jp/0100news/)
+  - [LOOK](https://look.satv.co.jp/) - 静岡朝日テレビ（ニュース公式サイト）
 
   -
   - [Yahoo\!ニュース 静岡朝日テレビ](https://news.yahoo.co.jp/media/satvv)

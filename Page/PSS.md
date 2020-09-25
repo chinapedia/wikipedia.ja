@@ -37,5 +37,5 @@
       - [PlayStation Store](../Page/PlayStation_Store.md "wikilink") - コンテンツ販売サイト。
       - [PlayStation Suite](https://ja.wikipedia.org/wiki/PlayStation_Mobile "wikilink") - PlayStation Mobileの旧称。
       - [PlayStation Spot](../Page/PlayStation_Spot.md "wikilink") - [PSP用LANスポット](../Page/PlayStation_Portable.md "wikilink")。
-      - プレイステーションストリーム - [PS2のソフトに含まれる](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[動画ファイルの](../Page/コンテナフォーマット.md "wikilink")[拡張子](../Page/拡張子.md "wikilink")。
+      - プレイステーションストリーム - [PS2のソフトに含まれる](../Page/PlayStation_2.md "wikilink")[動画ファイルの](../Page/コンテナフォーマット.md "wikilink")[拡張子](../Page/拡張子.md "wikilink")。
           - 映像[コーデック](../Page/コーデック.md "wikilink")は[MPEG-2](../Page/MPEG-2.md "wikilink")、音声コーデックはPS2PCM。

@@ -43,4 +43,4 @@
 
 ## その他
 
-  - [Puma (Webサーバ)](https://ja.wikipedia.org/wiki/Puma_\(Webサーバ\) "wikilink")
+  - [Puma (Webサーバ)](../Page/Puma_\(Webサーバ\).md "wikilink")

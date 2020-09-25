@@ -98,7 +98,7 @@
 12. **人生の終わり (FOR GRANDMOTHER)** (7:49)
       -
         6thアルバム『SICKS』収録。アルバムにあったハミングはカットされている。
-13. **[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG "wikilink")** (5:08)
+13. **[SO YOUNG](https://ja.wikipedia.org/wiki/SO_YOUNG_\(THE_YELLOW_MONKEYの曲\) "wikilink")** (5:08)
       -
         18thシングル。
 
@@ -148,4 +148,4 @@
 
   - [MOTHER OF ALL THE BEST - THE YELLOW MONKEY | ザ・イエロー・モンキー オフィシャルサイト](http://theyellowmonkeysuper.jp/discography/detail/42/)
 
-[Category:THE_YELLOW_MONKEYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEYのベスト・アルバム "wikilink") [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")
+[Category:THE_YELLOW_MONKEYのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:THE_YELLOW_MONKEYのベスト・アルバム "wikilink") [Category:2004年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のベスト・アルバム "wikilink")

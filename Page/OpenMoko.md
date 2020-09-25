@@ -21,7 +21,7 @@
 
 最初にOpenmoko Inc.が開発したのは**[Openmoko Linux](https://ja.wikipedia.org/wiki/Openmoko_Linux "wikilink")**もしくは**Om**という携帯電話オペレーティングシステムである。これは[X.Org Serverで構築した](../Page/X.Org_Server.md "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")と[Linuxカーネル](../Page/Linuxカーネル.md "wikilink")が使用されている。また、[OpenEmbedded](https://ja.wikipedia.org/wiki/OpenEmbedded "wikilink")で構築されたフレームワークと[opkg](https://ja.wikipedia.org/wiki/opkg "wikilink")パッケージシステムを使って[パッケージソフトウェア](../Page/パッケージソフトウェア.md "wikilink")を作成しメンテナンスする。**Om 2007**バージョンでは[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")ツールキットと[Matchbox](https://ja.wikipedia.org/wiki/Matchbox "wikilink")ウインドウマネージャが使われている。2008年8月リリースの**Om 2008**では[Qt](../Page/Qt.md "wikilink")ツールキットと[Enlightenment](https://ja.wikipedia.org/wiki/Enlightenment "wikilink") 17をサポートしたが、両バージョンとも安定するほどに至る改善にはならなかった。その結果、Openmokoは自身が出資したfreesmartphone.orgの[ミドルウェア](../Page/ミドルウェア.md "wikilink")をベースにした安定環境を提供することを目標に**Om 2009**の開発を始めた。しかし、このバージョンは完成すること無く2009年4月にOpenmokoによるソフトウェア開発は中止となった。
 
-それでもこの作業はいくつかのコミュニティによって受け継がれた。数グループがオリジナルソフトの修正バージョンを開発したり、携帯電話で動く他のシステムに[移植されていった](../Page/移植_\(ソフトウェア\).md "wikilink")。Openmokoの携帯電話は現在[Android](../Page/Android.md "wikilink")や[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、QtMoko、[SHRに対応している](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")。
+それでもこの作業はいくつかのコミュニティによって受け継がれた。数グループがオリジナルソフトの修正バージョンを開発したり、携帯電話で動く他のシステムに[移植されていった](../Page/移植_\(ソフトウェア\).md "wikilink")。Openmokoの携帯電話は現在[Androidや](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Debian](../Page/Debian.md "wikilink")、[Gentoo](../Page/Gentoo_Linux.md "wikilink")、QtMoko、[SHRに対応している](https://ja.wikipedia.org/wiki/SHR_\(オペレーティングシステム\) "wikilink")。
 
 ## Openmoko Incのハードウェア
 
@@ -85,7 +85,7 @@ Golden Delicious GTA04 boardはNeo FreeRunnerに内蔵されているGTA02 board
 
 ## 関連項目
 
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
   - [LiMo Foundation](https://ja.wikipedia.org/wiki/LiMo_Foundation "wikilink")
   - [Linux Phone Standards Forum](https://ja.wikipedia.org/wiki/Linux_Phone_Standards_Forum "wikilink")
   - [Maemo](https://ja.wikipedia.org/wiki/Maemo "wikilink")

@@ -15,6 +15,8 @@
 
 ## 放送時間
 
+（出典：\[1\]）
+
 <table>
 <caption>「JNNスポーツチャンネル」放送時間の遍歴</caption>
 <thead>
@@ -28,13 +30,13 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1986.3.31</p></td>
+<td><p>1986.4.1</p></td>
 <td><p>1986.9.28</p></td>
 <td><p>23:15 - 23:45<br />
 （30分）</p></td>
-<td><p>23:45 - 24:15<br />
+<td><p>23:45 - 翌0:15<br />
 （30分）</p></td>
-<td><p>23:45 - 24:15<br />
+<td><p>23:45 - 翌0:15<br />
 （30分）</p></td>
 </tr>
 <tr class="even">
@@ -49,15 +51,15 @@
 <td><p>1988.3.27</p></td>
 <td><p>23:30 - 23:50<br />
 （20分）</p></td>
-<td><p>24:00 - 24:20<br />
+<td><p>翌0:00 - 0:20<br />
 （20分）</p></td>
-<td><p>23:54 - 24:20<br />
+<td><p>23:54 - 翌0:20<br />
 （26分）</p></td>
 </tr>
 <tr class="even">
 <td><p>1988.3.28</p></td>
 <td><p>1989.10.1</p></td>
-<td><p>23:30 - 24:00<br />
+<td><p>23:30 - 翌0:00<br />
 （30分）</p></td>
 <td></td>
 <td></td>
@@ -158,13 +160,14 @@
 ## その他
 
   - [青森テレビ](../Page/青森テレビ.md "wikilink")でのエンディングは、スポンサーありの場合は[ブルーバック](../Page/ブルーバック.md "wikilink")のフリップに差し替え、スポンサーなしの場合はTBSと同じであった。
-  - 日曜日は、最初の2年間は23:00 - 23:30の枠で他系列番組を放送している局向けに、『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』の後続枠で40分遅れの23:40 - 24:10の枠で[撮って出し](../Page/撮って出し.md "wikilink")の[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")放送をしていた（[毎日新聞西部本社](../Page/毎日新聞西部本社.md "wikilink")1986年[8月24日](../Page/8月24日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")は23:00 - 23:30に対し、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は23:40 - 24:10）。[暴れん坊将軍](../Page/暴れん坊将軍.md "wikilink")などを放送していた[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")も同様。ただし、[長崎放送](../Page/長崎放送.md "wikilink")では『NBCワイド劇場』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』の1日遅れネット）を放送していたため、最初の2年間は日曜日のみ未ネット（『JNNニュースデスク』（[1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")以降は『[JNNニュース](../Page/JNNニュース.md "wikilink")』）のみ時差放送していた\[1\]）。[1988年](../Page/1988年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から日曜版も24:20 - 24:50枠で時差ネットを開始した（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄）\[2\]。1990年4月1日から日曜版も[長崎放送](../Page/長崎放送.md "wikilink")でも[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")となった。（『[JNNニュース](../Page/JNNニュース.md "wikilink")』も同様。）\[3\]
+  - 日曜日は、最初の2年間は23:00 - 23:30の枠で他系列番組を放送している局向けに、『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』の後続枠で40分遅れの23:40 - 24:10の枠で[撮って出し](../Page/撮って出し.md "wikilink")の[時差ネット](https://ja.wikipedia.org/wiki/時差ネット "wikilink")放送をしていた（[毎日新聞西部本社](../Page/毎日新聞西部本社.md "wikilink")1986年[8月24日](../Page/8月24日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")は23:00 - 23:30に対し、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")は23:40 - 24:10）。[暴れん坊将軍](../Page/暴れん坊将軍.md "wikilink")などを放送していた[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")も同様。ただし、[長崎放送](../Page/長崎放送.md "wikilink")では『NBCワイド劇場』（[テレビ朝日](../Page/テレビ朝日.md "wikilink")『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』の1日遅れネット）を放送していたため、最初の2年間は日曜日のみ未ネット（『JNNニュースデスク』（[1988年](../Page/1988年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")以降は『[JNNニュース](../Page/JNNニュース.md "wikilink")』）のみ時差放送していた\[2\]）。[1988年](../Page/1988年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")から日曜版も24:20 - 24:50枠で時差ネットを開始した（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")迄）\[3\]。1990年4月1日から日曜版も[長崎放送](../Page/長崎放送.md "wikilink")でも[同時ネット](https://ja.wikipedia.org/wiki/同時ネット "wikilink")となった。（『[JNNニュース](../Page/JNNニュース.md "wikilink")』も同様。）\[4\]
   - 1987年10月以降もエンディングは初期の曲を使っていた地域があった。
 
 ## 脚注
 
 [Category:JNN番組の歴史](https://ja.wikipedia.org/wiki/Category:JNN番組の歴史 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSのスポーツ番組](https://ja.wikipedia.org/wiki/Category:TBSのスポーツ番組 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:1986年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のテレビ番組_\(日本\) "wikilink")
 
-1.  [長崎放送](../Page/長崎放送.md "wikilink")では[日曜深夜の](../Page/日曜日.md "wikilink")『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")ネット開始。
-2.  [長崎新聞](../Page/長崎新聞.md "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[4月3日](../Page/4月3日.md "wikilink")付朝刊ラ・テ欄で確認。
-3.  『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』は[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局）に移行（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送分から）。[長崎新聞](../Page/長崎新聞.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。
+1.  『読売新聞』（縮刷・関東版） 1986年（昭和61年）4月 - 1990年（平成2年）9月、テレビ欄。
+2.  [長崎放送](../Page/長崎放送.md "wikilink")では[日曜深夜の](../Page/日曜日.md "wikilink")『[JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")』は[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")ネット開始。
+3.  [長崎新聞](../Page/長崎新聞.md "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月31日](../Page/3月31日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")、[1988年](../Page/1988年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")、[4月3日](../Page/4月3日.md "wikilink")付朝刊ラ・テ欄で確認。
+4.  『[土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")』は[長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")開局）に移行（[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月7日](../Page/4月7日.md "wikilink")放送分から）。[長崎新聞](../Page/長崎新聞.md "wikilink")[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")、[4月1日](../Page/4月1日.md "wikilink")、[4月7日](../Page/4月7日.md "wikilink")付朝刊[ラ・テ欄で確認](https://ja.wikipedia.org/wiki/番組表 "wikilink")。

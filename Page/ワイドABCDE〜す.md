@@ -6,7 +6,7 @@
 ## 番組概要
 
   - スタート当初は、月曜日から木曜日までの16:00から18:54（JST、以下同）の3時間の[生放送](../Page/生放送.md "wikilink")だった。
-  - 15:59からの[フライングスタート期を経て](../Page/フライングスタート_\(放送\).md "wikilink")、15:55スタートに（金曜日は、[アニメ](../Page/アニメ.md "wikilink")放送などの影響で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月4日から17:00から18:54の枠でスタートし、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から他曜日と同じ形になった）。
+  - 15:59からの[フライングスタート期を経て](../Page/フライングスタート_\(放送\).md "wikilink")、15:55スタートに。金曜日は、[アニメ](../Page/アニメ.md "wikilink")放送などの影響で[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")4月4日から17:00から18:54の枠でスタートし、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")から他曜日と同じ形になった。
 
 ## 番組の変遷
 

@@ -3069,7 +3069,7 @@ a-nationとしては初めて、東京のみで開催される。
 
 代替開催として、8月29日に同フェス初のオンライン形式での配信ライブ「**a-nation online 2020**」と題し、実施された\[12\]。
 
-視聴者が複数のステージからセレクトしてライブを視聴できるほか、オンライン上でのリアルイベントさながらの体験ができる企画として、5つのステージで構成。総勢50組以上に渡るアーティストらが出演予定とされる。5つのステージのうち、「**Blue Stage**」「**Green Stage**」「**Yellow Stage**」は有料で、「mu-mo LIVE」、「Beyond LIVE」、「ELTA TV」にて配信。それ以外は無料配信として、「**Purple Stage**」は動画配信アプリ[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の公式アカウントから、「**White Stage**」は[SNSアプリ](https://ja.wikipedia.org/wiki/ソーシャルネットワークサービス "wikilink")[LINEにて](https://ja.wikipedia.org/wiki/LINE_\(アプリケーション\) "wikilink")、それぞれの各[プラットフォーム](../Page/プラットフォーム.md "wikilink")において生配信がなされる\[13\]。
+視聴者が複数のステージからセレクトしてライブを視聴できるほか、オンライン上でのリアルイベントさながらの体験ができる企画として、5つのステージで構成。総勢50組以上に渡るアーティストらが出演した。5つのステージのうち、「**Blue Stage**」「**Green Stage**」「**Yellow Stage**」は有料で、「mu-mo LIVE」、「Beyond LIVE」、「ELTA TV」にて配信。それ以外は無料で、「**Purple Stage**」は動画配信サービス[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")のavex公式チャンネルにて\[13\]、「**White Stage**」はライブ配信プラットフォーム[LINE LIVEにて](https://ja.wikipedia.org/wiki/LINE_LIVE "wikilink")、それぞれ生配信が行われた\[14\]\[15\]。
 
 8月29日：オンラインライブ（都内某所）
 
@@ -3104,7 +3104,7 @@ a-nationとしては初めて、東京のみで開催される。
   - [豆柴の大群](../Page/豆柴の大群.md "wikilink")
   - Naomi（王菊）
   - [Novelbright](https://ja.wikipedia.org/wiki/Novelbright "wikilink")
-  - SuperM
+  - [SuperM](https://ja.wikipedia.org/wiki/SuperM "wikilink")
   - VOGUE5
   - [大塚紗英](https://ja.wikipedia.org/wiki/大塚紗英 "wikilink")
 
@@ -3147,7 +3147,7 @@ a-nationとしては初めて、東京のみで開催される。
   - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")
   - SEAMO
   - Timo Feng（冯提莫）
-  - **TRF**
+  - **TRF** ※出演見合わせ
   - Yoanna（孫尤安）
   - [Beverly](https://ja.wikipedia.org/wiki/Beverly "wikilink")
 
@@ -3157,15 +3157,63 @@ a-nationとしては初めて、東京のみで開催される。
 
 <!-- end list -->
 
+  - さらば青春の光 ※MC
+
+:;アーティスト
+
   - [アイナ・ジ・エンド](https://ja.wikipedia.org/wiki/アイナ・ジ・エンド "wikilink")
-  - HAN-KUN from.湘南乃風
+  - **ゴールデンボンバー**
+  - [HAN-KUN from.湘南乃風](../Page/HAN-KUN.md "wikilink")
   - [マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")
   - [宮川大聖](https://ja.wikipedia.org/wiki/宮川大聖 "wikilink")
+  - Novelbright
   - もさを。
   - りりあ。
   - [レペゼン地球](https://ja.wikipedia.org/wiki/レペゼン地球 "wikilink")（シークレットゲスト）
-  - **ゴールデンボンバー**
-  - 他、TickTokクリエイター、YouTuber、第7世代芸人
+
+:;タレント、モデル、俳優、クリエイター
+
+  - [あやなん](../Page/あやなん.md "wikilink")
+  - [安斉かれん](https://ja.wikipedia.org/wiki/安斉かれん "wikilink")
+  - Bboy Shigekix
+  - [紺野ぶるま](https://ja.wikipedia.org/wiki/紺野ぶるま "wikilink")
+  - [エミリン](https://ja.wikipedia.org/wiki/エミリン "wikilink")
+  - [森遥香](https://ja.wikipedia.org/wiki/森遥香 "wikilink")
+  - [ハラミちゃん](../Page/ハラミちゃん.md "wikilink")
+  - ひかりんちょ
+  - [ヒカル(Hikaru)](https://ja.wikipedia.org/wiki/ヒカル_\(YouTuber\) "wikilink")
+  - [ほのか](https://ja.wikipedia.org/wiki/ほのか_\(モデル\) "wikilink")
+  - [アイデンティティ](../Page/アイデンティティ_\(お笑いコンビ\).md "wikilink")
+  - いわたまあり
+  - 会社員のチバ(千葉彗太)
+  - かとうれい
+  - [カミナリ](https://ja.wikipedia.org/wiki/カミナリ_\(お笑いコンビ\) "wikilink")
+  - [丸山桂里奈](https://ja.wikipedia.org/wiki/丸山桂里奈 "wikilink")
+  - [伊東健人](https://ja.wikipedia.org/wiki/伊東健人 "wikilink")
+  - [岸田メル](../Page/岸田メル.md "wikilink")
+  - [舟山久美子](https://ja.wikipedia.org/wiki/舟山久美子 "wikilink")
+  - [クロちゃん](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")([安田大サーカス](../Page/安田大サーカス.md "wikilink"))
+  - [まこち](https://ja.wikipedia.org/wiki/まこみな "wikilink")
+  - [ミラクルひかる](https://ja.wikipedia.org/wiki/ミラクルひかる "wikilink")
+  - [Mr.シャチホコ](https://ja.wikipedia.org/wiki/Mr.シャチホコ "wikilink")
+  - 8467(やしろなな)
+  - [越智ゆらの](https://ja.wikipedia.org/wiki/越智ゆらの "wikilink")
+  - [オジンオズボーン](../Page/オジンオズボーン.md "wikilink")
+  - [ラランド](../Page/ラランド_\(お笑いコンビ\).md "wikilink")
+  - [リュウジ](https://ja.wikipedia.org/wiki/リュウジ "wikilink")
+  - [しらスタ](../Page/白石涼.md "wikilink")
+  - [花村想太](https://ja.wikipedia.org/wiki/花村想太 "wikilink")(Da-iCE)
+  - [てんちむ](https://ja.wikipedia.org/wiki/橋本甜歌 "wikilink") ※出演見合わせ
+  - 店長(筧 久明)
+  - 内山さん
+  - 三原羽衣
+  - [うみくん](https://ja.wikipedia.org/wiki/UMI☆KUUN "wikilink")
+  - [やっぴ](../Page/さんこいち.md "wikilink")
+  - [山田菜々](https://ja.wikipedia.org/wiki/山田菜々 "wikilink")
+  - 夜のひと笑い
+  - [荒牧慶彦](https://ja.wikipedia.org/wiki/荒牧慶彦 "wikilink")
+  - ゆうにゃん
+  - [末吉9太郎](../Page/末吉9太郎.md "wikilink")([CUBERS](https://ja.wikipedia.org/wiki/CUBERS "wikilink"))
 
 <!-- end list -->
 
@@ -3173,25 +3221,26 @@ a-nationとしては初めて、東京のみで開催される。
 
 <!-- end list -->
 
+  - 松本ともこ ※MC
+  - 石橋陽彩 ※MC
   - AATA
   - 鈴木瑛美子
   - 生きることから逃げないために、あの日僕らは逃げ出した（生き逃げ）
-  - 石橋陽彩
-  - kolme
+  - [kolme](https://ja.wikipedia.org/wiki/kolme "wikilink")
   - **まるりとりゅうが**
   - Project 88
-  - Reichi
+  - [Rei©hi](../Page/Rei\(c\)hi.md "wikilink")
   - 桜men
   - [わーすた](https://ja.wikipedia.org/wiki/わーすた "wikilink")
-  - Yu.
-  - Baby Kiy
+  - Yu.（張瑀）
+  - Baby Kiy ※出演見合わせ
   - Leola
   - [Run Girls, Run\!](https://ja.wikipedia.org/wiki/Run_Girls,_Run! "wikilink")
   - THREE1989
 
-<!-- end list -->
+}}
 
-  - ただしTRF、Baby Kiyは当日出演キャンセル\[14\]
+  - Yellow StageのTRF、Purple Stageのてんちむ、White StageのBaby Kiyは体の不調のため出演をキャンセルした\[16\]。White StageではBaby Kiyの代わりに急遽、MCとして出演していた石橋陽彩が歌を披露した\[17\]。
 
 </div>
 
@@ -3263,3 +3312,6 @@ a-nationとしては初めて、東京のみで開催される。
 12.
 13.
 14.
+15.
+16.
+17.

@@ -1,7 +1,7 @@
 > この記事は[ファミコングランプリII 3Dホットラリー](https://ja.wikipedia.org/wiki/ファミコングランプリII_3Dホットラリー)から翻訳されています。
 
 
-『**ファミコングランプリII 3Dホットラリー**』（ファミコングランプリツー スリーディーホットラリー）は、[1988年](../Page/1988年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ファミリーコンピュータ ディスクシステム用の](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")である。『[ファミコングランプリ F1レース](https://ja.wikipedia.org/wiki/ファミコングランプリ_F1レース "wikilink")』の続編。開発は[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が担当した。ディスクシステムの[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")の中で最後に店頭に並んだソフトである。
+『**ファミコングランプリII 3Dホットラリー**』（ファミコングランプリツー スリーディーホットラリー、FAMICOM GRAND PRIX II 3D HOT RALLY）は、[1988年](../Page/1988年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ファミリーコンピュータ ディスクシステム用の](../Page/ファミリーコンピュータ_ディスクシステム.md "wikilink")[レースゲーム](../Page/レースゲーム.md "wikilink")である。『[ファミコングランプリ F1レース](https://ja.wikipedia.org/wiki/ファミコングランプリ_F1レース "wikilink")』の続編。開発は[HAL研究所](https://ja.wikipedia.org/wiki/HAL研究所 "wikilink")が担当した。ディスクシステムの[マリオシリーズ](../Page/マリオシリーズ.md "wikilink")の中で最後に店頭に並んだソフトである。
 
 ## 概要
 
@@ -93,8 +93,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1988年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1988年のコンピュータゲーム "wikilink") [Category:3D立体視対応ゲーム](https://ja.wikipedia.org/wiki/Category:3D立体視対応ゲーム "wikilink") [Category:HAL研究所のゲームソフト](https://ja.wikipedia.org/wiki/Category:HAL研究所のゲームソフト "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:カーレースゲーム](https://ja.wikipedia.org/wiki/Category:カーレースゲーム "wikilink")
 
 1.  完全に停車する前にチェックポイントを通過できれば、エンジンが復活しレースを続行できる。

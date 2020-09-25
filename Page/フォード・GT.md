@@ -66,11 +66,13 @@
 
 ## 2代目（2017年 - ）
 
-2015年の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")において発表された。設計はフォードの高性能車開発部門「[フォード・パフォーマンス](https://ja.wikipedia.org/wiki/フォード・パフォーマンス "wikilink")・ビークルズ」と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")社が行った。生産もマルチマティックに委託される。デザインはGT40，先代GTの流れを汲むが，[LM-GTE](https://ja.wikipedia.org/wiki/LM-GTE "wikilink")規定で改造することを前提に、より空力的に洗練されている\[4\]。
+2015年の[北米国際オートショー](../Page/北米国際オートショー.md "wikilink")において発表された。設計はフォードの高性能車開発部門「[フォード・パフォーマンス](https://ja.wikipedia.org/wiki/フォード・パフォーマンス "wikilink")・ビークルズ」と[マルチマティック](https://ja.wikipedia.org/wiki/マルチマティック "wikilink")社が行った。生産もマルチマティックに委託される。デザインはGT40、先代GTの流れを汲むが、[LM-GTE](https://ja.wikipedia.org/wiki/LM-GTE "wikilink")規定で改造することを前提に、より空力的に洗練されている\[4\]。
 
 環境性能に配慮した、新開発の3.5L [V型6気筒](../Page/V型6気筒.md "wikilink") [ツインターボ](../Page/ツインターボ.md "wikilink")「エコブースト」エンジンは600馬力以上を発生。トランスミッションは7速[デュアルクラッチATで](../Page/デュアルクラッチトランスミッション.md "wikilink")、[トランスアクスル](../Page/トランスアクスル.md "wikilink")レイアウトを採用する。ドアは[ダイヘドラルドアとなっている](../Page/ガルウィングドア.md "wikilink")\[5\]。
 
-2017年より販売を開始した。
+2017年より販売を開始した。当初は1000台の限定販売とされていたが、2019年には1350台への増産が発表された。
+
+フォードが日本市場から撤退したため正規輸入はないが、特別に“日本向け”としてデリバリーされた1台が存在している\[6\]。
 
 ### レーシングカー
 
@@ -98,3 +100,4 @@ LM-GTE仕様車は[チップ・ガナッシレーシング](https://ja.wikipedia
 3.  GT40は右ハンドルだがレバーも右（ドア側）にある
 4.  [GTEベース車\!? フォード、新型『GT』を公開](http://as-web.jp/news/info.php?c_id=10&no=62562) - [AUTOSPORT WEB](../Page/オートスポーツ.md "wikilink") 2015年1月14日閲覧
 5.  [フォードGT (2015.1.13)](http://www.webcg.net/articles/-/31959?ph=5) - webCG
+6.  [『CAR GRAPHIC』2020年6月号発売　「フォードGT」日本上陸](https://www.webcg.net/articles/-/42701) - webCG

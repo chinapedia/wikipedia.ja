@@ -514,64 +514,59 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/瀬戸光" title="wikilink">瀬戸光</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉岡真央" title="wikilink">吉岡真央</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>高知県のニュース</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/吉岡真央" title="wikilink">吉岡真央</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小原和樹" title="wikilink">小原和樹</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/長野亮" title="wikilink">長野亮</a></p></td>
 <td><p><a href="../Page/NHK旭川放送局.md" title="wikilink">旭川</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/山北愛琳" title="wikilink">山北愛琳</a></p></td>
 <td></td>
 <td><p>こうちいちばん</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松村朋美" title="wikilink">松村朋美</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/揚田葵衣" title="wikilink">揚田葵衣</a></p></td>
 <td></td>
 <td><p>こうちいちばん<br />
 ひるどき高知</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/露口奈々" title="wikilink">露口奈々</a></p></td>
 <td></td>
 <td><p>こうちいちばん<br />
 ひるどき高知<br />
 とさらじお</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/澤井明子" title="wikilink">澤井明子</a></p></td>
 <td></td>
 <td><p>こうちいちばん</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

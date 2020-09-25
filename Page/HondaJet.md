@@ -27,7 +27,7 @@
 
 2019年（令和元年）10月21日、救急医療搬送用のメデバック仕様が[ハワイ](https://ja.wikipedia.org/wiki/ハワイ "wikilink")のWing Spirit社が所有するHondaJet Eliteに初めて導入されたと発表\[17\]。また、映画俳優の[トム・クルーズ](https://ja.wikipedia.org/wiki/トム・クルーズ "wikilink")がカスタムペイントのHondaJetを所有して自ら操縦していることも明らかにされた\[18\]。
 
-同年10月29日に自動車の技術開発や販売などで本田技研工業と競合している[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の系列会社「[朝日航洋](../Page/朝日航洋.md "wikilink")」がHondaJet Eliteの所有権を取得した事が明らかとなった。2020年春頃からトヨタ自動車役員の移動用として使用する方針だとしている\[19\]。
+同年10月29日に自動車の技術開発や販売などで本田技研工業と競合している[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の系列会社「[朝日航洋](../Page/朝日航洋.md "wikilink")」がHondaJet Eliteの所有権を取得した事が明らかとなった。2020年春頃からトヨタ自動車役員の移動用として登録記号「JA86GR」で使用する方針だとしている\[19\]。
 
 ## 機体
 
@@ -605,7 +605,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
   - [Hondaホームページ](https://www.honda.co.jp/) - [HondaJet](http://www.honda.co.jp/jet/)
   - [丸紅エアロスペース](https://www.marubeni-aerospace.co.jp/) - [HondaJet](https://www.marubeni-aerospace.co.jp/products/hondajet/)
   - [航空用エンジンのページ](http://world.honda.com/AircraftEngines/) Honda Worldwideサイト内 - 日本語ページよりも情報が豊富。プレスリリースに加えて動画や写真がある
-  - [航空の現代](http://www2g.biglobe.ne.jp/~aviation/index.html) HondaJet関連情報ページ [1](http://www2g.biglobe.ne.jp/~aviation/honda.html) - [2](http://www2g.biglobe.ne.jp/~aviation/honda02.html) - [3](http://www2g.biglobe.ne.jp/~aviation/hondajet.html)
+  - [航空の現代](http://www2g.biglobe.ne.jp/~aviation/index.html) HondaJet関連情報ページ [1](http://www2g.biglobe.ne.jp/~aviation/honda.html) -
   - [GE Honda Aero Engines](http://www.gehonda.com/index.html)
   - [EAA AirVenture Oshkosh](http://www.airventure.org/)
 

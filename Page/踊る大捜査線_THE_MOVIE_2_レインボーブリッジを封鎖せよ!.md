@@ -49,7 +49,7 @@
   - りつ子の上司 - [高嶋ちさ子](../Page/高嶋ちさ子.md "wikilink")
   - スリ一家：母親 - [山下裕子](../Page/山下裕子.md "wikilink")、父親 - [原田修一](https://ja.wikipedia.org/wiki/原田修一 "wikilink")、長男 - [神木隆之介](https://ja.wikipedia.org/wiki/神木隆之介 "wikilink")、里佳子 - [向井地美音](../Page/向井地美音.md "wikilink")
   - 噛み付き魔の被害者の女子高校生 - [小松彩夏](https://ja.wikipedia.org/wiki/小松彩夏 "wikilink")
-  - ガールズ7 - [橘凛](https://ja.wikipedia.org/wiki/橘凛 "wikilink")、[津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")、[千崎若菜](../Page/千崎若菜.md "wikilink")、[広澤草](../Page/広澤草.md "wikilink")、[川田希](https://ja.wikipedia.org/wiki/川田希 "wikilink")、[柴田かよこ](../Page/柴田かよこ.md "wikilink")、[木村陽子](https://ja.wikipedia.org/wiki/木村陽子_\(女優\) "wikilink")
+  - ガールズ7 - [橘凛](https://ja.wikipedia.org/wiki/橘凛 "wikilink")、[津乃村真子](https://ja.wikipedia.org/wiki/津乃村真子 "wikilink")、[千崎若菜](../Page/千崎若菜.md "wikilink")、[広澤草](../Page/広澤草.md "wikilink")、[川田希](https://ja.wikipedia.org/wiki/川田希 "wikilink")、[柴田かよこ](../Page/柴田かよこ.md "wikilink")、[木村陽子](https://ja.wikipedia.org/wiki/木村美月 "wikilink")
   - 事務職員 - [近江谷太郎](https://ja.wikipedia.org/wiki/近江谷太郎 "wikilink")
   - 小池茂（監視モニター室オペレーター・警察庁[情報通信局](../Page/情報通信局.md "wikilink")付技術捜査官） - [小泉孝太郎](../Page/小泉孝太郎.md "wikilink")
   - 江戸りつ子 - [小西真奈美](https://ja.wikipedia.org/wiki/小西真奈美 "wikilink")

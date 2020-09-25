@@ -63,55 +63,55 @@
 <td><p><a href="../Page/広告代理店.md" title="wikilink">広告代理店</a></p></td>
 </tr>
 <tr class="even">
-<td><p>ウインテックコミュニケーションズ</p></td>
-<td><p>1996年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ" title="wikilink">インターネットサービスプロバイダ</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>ファーストビジョン</p></td>
-<td><p>1998年</p></td>
-<td><p><a href="../Page/コマーシャルメッセージ.md" title="wikilink">コマーシャルメッセージ</a>の製作</p></td>
-</tr>
-<tr class="even">
-<td><p>デジタルデビジョン</p></td>
-<td><p>2000年</p></td>
-<td><p><a href="../Page/グラフィックデザイン.md" title="wikilink">グラフィックデザイン</a>の製作</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/YBS_T&amp;L.md" title="wikilink">YBS T&amp;L</a></p></td>
-<td><p>2004年</p></td>
-<td><p><a href="../Page/旅行代理店.md" title="wikilink">旅行代理店</a>および<a href="../Page/保険.md" title="wikilink">保険</a>代理店</p></td>
-</tr>
-<tr class="even">
-<td><p>山梨ニューメディアセンター</p></td>
-<td><p>2005年</p></td>
-<td><p><a href="../Page/コンピュータ.md" title="wikilink">コンピュータ</a>・<a href="../Page/ソフトウェア.md" title="wikilink">ソフトウェア</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>タウン企画</p></td>
-<td><p>－</p></td>
-<td><p>タウン紙発行</p></td>
-</tr>
-<tr class="even">
-<td><p>山梨文化学園</p></td>
-<td><p>－</p></td>
-<td><p><a href="../Page/カルチャーセンター.md" title="wikilink">カルチャーセンター</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>新聞センター</p></td>
-<td><p>－</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新聞販売店" title="wikilink">新聞販売店</a></p></td>
-</tr>
-<tr class="even">
-<td><p>山日リース</p></td>
-<td><p>－</p></td>
-<td><p><a href="../Page/リース.md" title="wikilink">リース</a></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/日本ネットワークサービス_(ケーブルテレビ局).md" title="wikilink">日本ネットワークサービス</a><br />
 （旧NNS甲府CATV）</p></td>
 <td><p>1970年</p></td>
 <td><p><a href="../Page/ケーブルテレビ.md" title="wikilink">ケーブルテレビ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>ウインテックコミュニケーションズ</p></td>
+<td><p>1996年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ" title="wikilink">インターネットサービスプロバイダ</a></p></td>
+</tr>
+<tr class="even">
+<td><p>ファーストビジョン</p></td>
+<td><p>1998年</p></td>
+<td><p><a href="../Page/コマーシャルメッセージ.md" title="wikilink">コマーシャルメッセージ</a>の製作</p></td>
+</tr>
+<tr class="odd">
+<td><p>デジタルデビジョン</p></td>
+<td><p>2000年</p></td>
+<td><p><a href="../Page/グラフィックデザイン.md" title="wikilink">グラフィックデザイン</a>の製作</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/YBS_T&amp;L.md" title="wikilink">YBS T&amp;L</a></p></td>
+<td><p>2004年</p></td>
+<td><p><a href="../Page/旅行代理店.md" title="wikilink">旅行代理店</a>および<a href="../Page/保険.md" title="wikilink">保険</a>代理店</p></td>
+</tr>
+<tr class="odd">
+<td><p>山梨ニューメディアセンター</p></td>
+<td><p>2005年</p></td>
+<td><p><a href="../Page/コンピュータ.md" title="wikilink">コンピュータ</a>・<a href="../Page/ソフトウェア.md" title="wikilink">ソフトウェア</a></p></td>
+</tr>
+<tr class="even">
+<td><p>タウン企画</p></td>
+<td><p>-</p></td>
+<td><p>タウン紙発行</p></td>
+</tr>
+<tr class="odd">
+<td><p>山梨文化学園</p></td>
+<td><p>-</p></td>
+<td><p><a href="../Page/カルチャーセンター.md" title="wikilink">カルチャーセンター</a></p></td>
+</tr>
+<tr class="even">
+<td><p>新聞センター</p></td>
+<td><p>-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新聞販売店" title="wikilink">新聞販売店</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>山日リース</p></td>
+<td><p>-</p></td>
+<td><p><a href="../Page/リース.md" title="wikilink">リース</a></p></td>
 </tr>
 <tr class="even">
 <td></td>

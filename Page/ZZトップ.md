@@ -86,7 +86,7 @@
 
 ## Hogzzilla
 
-**Hogzzilla**(ホジラ)はZZトップが所有する[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")社製のオートバイを改造した改造バイクである。全く同じ仕様のものが2台作成された。同時期に製作された[Cadzzilla](https://ja.wikipedia.org/wiki/Cadzzilla "wikilink")(キャジラ) (1949年製[キャディラック](https://ja.wikipedia.org/wiki/キャディラック "wikilink")の改造車)と、カラーリングや各パーツの形状が全く同じで、流線的なボディもよく似ている。名前の由来は、[ハーレーと](../Page/ハーレーダビッドソン.md "wikilink")[ゴジラ](../Page/ゴジラ.md "wikilink")を掛け合わせたものである。ちなみに、上記**Cadzzilla**の名前はキャディラックとゴジラを掛け合わせたもの。
+**Hogzzilla**(ホジラ)はZZトップが所有する[ハーレーダビッドソン](../Page/ハーレーダビッドソン.md "wikilink")社製のオートバイを改造した改造バイクである。全く同じ仕様のものが2台作成された。同時期に製作された[Cadzzilla](https://ja.wikipedia.org/wiki/Cadzzilla "wikilink")(キャジラ) (1949年製[キャディラックの改造車](../Page/キャデラック.md "wikilink"))と、カラーリングや各パーツの形状が全く同じで、流線的なボディもよく似ている。名前の由来は、[ハーレーと](../Page/ハーレーダビッドソン.md "wikilink")[ゴジラ](../Page/ゴジラ.md "wikilink")を掛け合わせたものである。ちなみに、上記**Cadzzilla**の名前はキャディラックとゴジラを掛け合わせたもの。
 
 ## 脚注
 

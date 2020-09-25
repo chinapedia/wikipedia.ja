@@ -42,7 +42,9 @@
   - [橘ゆりか](https://ja.wikipedia.org/wiki/橘ゆりか "wikilink")（第74弾 - ）
       - 毎年24時間SPでは[遠藤舞](../Page/遠藤舞.md "wikilink")、[朝日奈央](../Page/朝日奈央.md "wikilink")、[横山ルリカ](../Page/横山ルリカ.md "wikilink")など橘が所属していた[アイドリング\!\!\!のメンバーが助っ人のアシスタントとして参加している](https://ja.wikipedia.org/wiki/アイドリング!!!_\(グループ\) "wikilink")。
 
-アシスタントでは無いが、以前はグラビアアイドルの[あべみほ](https://ja.wikipedia.org/wiki/あべみほ "wikilink")が、現在は[如月さや](https://ja.wikipedia.org/wiki/如月さや "wikilink")が「バビィに聞け\!」のオープニングでのポージングや、対局中の出演者へのお茶などの提供を行っている。
+また番組を彩る水着のアシスタントとして以前はグラビアアイドルの[あべみほ](https://ja.wikipedia.org/wiki/あべみほ "wikilink")が、現在は[恵比寿マスカッツ](https://ja.wikipedia.org/wiki/恵比寿マスカッツ "wikilink")としても活躍中の[如月さや](https://ja.wikipedia.org/wiki/如月さや "wikilink")が「バビィに聞け\!」のオープニングでのポージングや、対局中の出演者へのお茶などの提供を行っている。
+
+なお2020年7月、コロナウイルスの影響による番組休止(2020年4月〜6月)明けの際は、スタジオの密を避ける為に水着アシスタントの如月は欠席となり、代わりに「バビィに聞け\!」のオープニングではタカ、橘、馬場がポージングを取るという場面が見られた。その後2020年8月からは如月が番組に復帰している。
 
   - 解説
 
@@ -158,6 +160,7 @@
   - [石田純一](../Page/石田純一.md "wikilink")
   - [石橋貴明](../Page/石橋貴明.md "wikilink")（[とんねるず](../Page/とんねるず.md "wikilink")）
   - [泉ピン子](../Page/泉ピン子.md "wikilink")
+  - [板倉俊之](../Page/板倉俊之.md "wikilink")（[インパルス](../Page/インパルス_\(お笑いコンビ\).md "wikilink")）
   - [四代目 市川左團次](../Page/市川左團次_\(4代目\).md "wikilink")
   - [井上順](../Page/井上順.md "wikilink")
   - [岩井勇気](https://ja.wikipedia.org/wiki/岩井勇気 "wikilink")（[ハライチ](https://ja.wikipedia.org/wiki/ハライチ "wikilink")）

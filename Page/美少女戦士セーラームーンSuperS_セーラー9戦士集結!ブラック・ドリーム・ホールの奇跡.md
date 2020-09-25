@@ -7,17 +7,13 @@
 
 ## 概要
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月23日](../Page/12月23日.md "wikilink")、全国[東映](../Page/東映.md "wikilink")系で公開。上映時間は60分。
+映画公開前の時点で、脚本を担当する[榎戸洋司](../Page/榎戸洋司.md "wikilink")から「ハメルンの笛吹き」や「トルテ城の笛吹き」のサブタイトルをベースにしたブロットが提出され、後にセーラー戦士9人が勢揃いすることなどが決定している。第4シナリオ決定稿には[セーラープルートが新たな必殺技](https://ja.wikipedia.org/wiki/冥王せつな#セーラープルート "wikilink")「クロノス・タイフーン」を披露する描写もあったが、後に廃止された。
 
-セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")に発売。単巻は[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")に発売。
+全国280館の東映邦画系劇場の公開ながら、最終的には6億円を超える配給収入を上げている。
 
-映画公開前の時点で脚本を担当する[榎戸洋司](../Page/榎戸洋司.md "wikilink")から「ハメルンの笛吹き」、「トルテ城の笛吹き」のサブタイトルをベースにしたブロットが提出され、後に9戦士が勢揃いすることなどが決定している\[1\]。第4シナリオ決定稿には、[セーラープルートが新たな必殺技](https://ja.wikipedia.org/wiki/冥王せつな#セーラープルート "wikilink")「クロノス・タイフーン」を披露する描写もあり、後に廃止された\[2\]。
+キャラクター設定は、原作者の武内直子がこのアニメ映画のためにオリジナル・キャラクターの直筆設定を書き下ろしボードをもとに、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")が起こしたもの（オリジナル・キャラクターの直筆設定は『美少女戦士セーラームーン 設定資料集』が載っている）。
 
-全国280館の東映邦画系劇場の公開ながら、最終的には6億円を超える配給収入を上げている\[3\]。
-
-キャラクター設定は、原作者の武内直子がこのアニメ映画のためにオリジナル・キャラクターの直筆設定を書き下ろしボードをもとに、[香川久](https://ja.wikipedia.org/wiki/香川久 "wikilink")が起こしたもの\[4\]。
-
-オープニングでは、幼児時代のセーラー戦士の姿（うさぎ・亜美・レイ・まこと・美奈子）が見られている。
+オープニングでは、幼少期の内部太陽系戦士の姿が見られる。
 
 ## ストーリー
 
@@ -95,7 +91,7 @@
 
 ## 主題歌
 
-  - オープニングテーマ「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（歌 - [ムーンリップス](https://ja.wikipedia.org/wiki/ムーンリップス "wikilink")、作詞 - [小田佳奈子](../Page/小田佳奈子.md "wikilink")、作曲 - 小諸鉄矢、編曲 - 林有三
+  - オープニングテーマ「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（歌 - [ムーンリップス](https://ja.wikipedia.org/wiki/桜っ子クラブさくら組 "wikilink")、作詞 - [小田佳奈子](../Page/小田佳奈子.md "wikilink")、作曲 - 小諸鉄矢、編曲 - 林有三
   - エンディングテーマ「Morning Moon で会いましょう」（歌 - [プリティキャスト](../Page/プリティキャスト.md "wikilink")、作詞 - [佐藤ありす](../Page/佐藤ありす.md "wikilink")、作曲 - [鈴木キサブロー](../Page/鈴木キサブロー.md "wikilink")、編曲：[戸塚修](../Page/戸塚修.md "wikilink")）
 
 ## 関連CD
@@ -103,15 +99,21 @@
   - 美少女戦士セーラームーンSuperS ミュージックコレクション
     本作および同時上映の『[スペシャルプレゼント 亜美ちゃんの初恋 美少女戦士セーラームーンSuperS 外伝](https://ja.wikipedia.org/wiki/亜美ちゃんの初恋#映画 "wikilink")』で使用された楽曲を収録した全16曲のサウンドトラック。
 
+## 映像ソフト
+
+セーラームーンの映画すべてを収録した「美少女戦士セーラームーン THE MOVIE DVD-BOX」が[2002年](../Page/2002年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")、単巻が[2005年](../Page/2005年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")にそれぞれ発売。
+
 ## 脚注
 
+### 注釈
+
+### 出典
+
+## 参考文献
+
+  -
 ## 外部リンク
 
   -
   -
 [Category:美少女戦士セーラームーンのアニメ](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーンのアニメ "wikilink") [Category:1995年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1995年のアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:芝田浩樹の監督映画](https://ja.wikipedia.org/wiki/Category:芝田浩樹の監督映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:魔女を題材とした作品](https://ja.wikipedia.org/wiki/Category:魔女を題材とした作品 "wikilink") [Category:妖精を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:妖精を題材としたアニメ作品 "wikilink") [Category:夢を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:夢を題材としたアニメ映画 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
-
-1.  『なかよしメディアブックス&アニメアルバム27 映画 美少女戦士セーラームーンSuperS メモリアルアルバム』第58頁より。
-2.  『なかよしメディアブックス&アニメアルバム27 映画 美少女戦士セーラームーンSuperS メモリアルアルバム』第58頁より。
-3.  『なかよしメディアブックス&アニメアルバム27 映画 美少女戦士セーラームーンSuperS メモリアルアルバム』第59頁より。
-4.  『なかよしメディアブックス&アニメアルバム27 映画 美少女戦士セーラームーンSuperS メモリアルアルバム』第60頁より。オリジナル・キャラクターの直筆設定は『美少女戦士セーラームーン 設定資料集』が載っている。

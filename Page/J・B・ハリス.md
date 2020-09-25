@@ -1,7 +1,7 @@
 > この記事は[J・B・ハリス](https://ja.wikipedia.org/wiki/J・B・ハリス)から翻訳されています。
 
 
-**J・B・ハリス**（James Bernard Harris、日本名:平柳秀夫（ひらやなぎ ひでお）、[1916年](../Page/1916年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")）は、日本の [英語](../Page/英語.md "wikilink")教育者、[旺文社](../Page/旺文社.md "wikilink")元役員。
+**ジェームズ・バーナード・ハリス**（James Bernard Harris、日本名:**平柳 秀夫**（ひらやなぎ ひでお）、[1916年](../Page/1916年.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[8月16日](../Page/8月16日.md "wikilink")）は、日本の [英語](../Page/英語.md "wikilink")教育者、[旺文社](../Page/旺文社.md "wikilink")元役員。
 
 作家・ラジオパーソナリティの[ロバート・ハリスは息子](../Page/ロバート・ハリス_\(1948年生\).md "wikilink")。
 

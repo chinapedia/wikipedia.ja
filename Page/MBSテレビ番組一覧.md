@@ -321,7 +321,6 @@
           - [ダウンタウンですよーだ](../Page/ダウンタウン_\(お笑いコンビ\).md "wikilink")（特別番組）
       - [イカにもスミにも](../Page/イカにもスミにも.md "wikilink")
       - [八方の4時はおまかせ\!](https://ja.wikipedia.org/wiki/八方の4時はおまかせ! "wikilink")
-      - [春蝶・朝丸(ざこば)のおこしやす\!](https://ja.wikipedia.org/wiki/春蝶・朝丸のおこしやす! "wikilink")
       - [板東英二のわがままミッドナイト](../Page/板東英二のわがままミッドナイト.md "wikilink")
       - [ダウンタウンのゆーたもん勝ち](../Page/ダウンタウンのゆーたもん勝ち.md "wikilink")
       - [働けダウンタウン](https://ja.wikipedia.org/wiki/働けダウンタウン "wikilink")
@@ -463,6 +462,7 @@
       - [1×1](../Page/1×1.md "wikilink")
   - 関西ローカル
       - [こんばんは仁鶴です](https://ja.wikipedia.org/wiki/こんばんは仁鶴です "wikilink")
+      - [春蝶・朝丸のおこしやす\!](https://ja.wikipedia.org/wiki/春蝶・朝丸のおこしやす! "wikilink")
       - [あっ\!鶴瓶のあの日に帰り道](https://ja.wikipedia.org/wiki/あっ!鶴瓶のあの日に帰り道 "wikilink")
       - [お好みトーク 八方まーるく](https://ja.wikipedia.org/wiki/お好みトーク_八方まーるく "wikilink")
       - [オ・サ・ム](../Page/オ・サ・ム.md "wikilink")
@@ -569,7 +569,7 @@
       - [NEXT JAPAN〜熱き求道者〜](https://ja.wikipedia.org/wiki/NEXT_JAPAN〜熱き求道者〜 "wikilink")（土 18:50 - 18:56）
       - [湯浅んぽ](https://ja.wikipedia.org/wiki/湯浅んぽ "wikilink")（土 21:54 - 22:00）
       - [京都知新](https://ja.wikipedia.org/wiki/京都知新 "wikilink")（日 6:15 - 6:30）
-      - [映像](https://ja.wikipedia.org/wiki/映像_\(テレビ番組\) "wikilink")（毎月第3日の翌日未明〈日深夜〉）
+      - [映像](https://ja.wikipedia.org/wiki/映像_\(テレビ番組\) "wikilink")（毎月最終日の翌日 0:50-1:50〈日深夜〉）
 
 ### 放送終了した番組
 
@@ -625,7 +625,8 @@
 
 ### 現在放送中の番組
 
-  - [家にはじめて行ってみた](https://ja.wikipedia.org/wiki/家にはじめて行ってみた "wikilink")（金 22:54 - 23:00）
+  - [荒ぶる季節の乙女どもよ。(ドラマ版)](https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。#テレビドラマ "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、水 0:59 - 1:29〈火深夜〉）
+  - [俺たちはあぶなくない〜クールにさぼる刑事たち](../Page/俺たちはあぶなくない〜クールにさぼる刑事たち.md "wikilink")（ドラマ特区、金 0:59 - 1:29〈木深夜〉）
 
 ### 放送終了した番組
 
@@ -951,6 +952,7 @@
 
   - 関西ローカル
       - [ダウンタウン物語](../Page/ダウンタウン物語_\(1987年のテレビドラマ\).md "wikilink")
+      - [家にはじめて行ってみた](https://ja.wikipedia.org/wiki/家にはじめて行ってみた "wikilink")
   - [東京12チャンネルへのネット作品](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")
       - [風雲児半次郎](https://ja.wikipedia.org/wiki/風雲児半次郎 "wikilink")
       - [いつでも君は](https://ja.wikipedia.org/wiki/いつでも君は "wikilink")（1967年10月 - 1968年3月）
@@ -1211,8 +1213,9 @@
       - [ひとりぼっちの○○生活](https://ja.wikipedia.org/wiki/ひとりぼっちの○○生活#テレビアニメ "wikilink")
       - [かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜](https://ja.wikipedia.org/wiki/かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜#テレビアニメ "wikilink") ※HD - UHFアニメ
           - かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜 - UHFアニメ
-      - [グランベルム](https://ja.wikipedia.org/wiki/グランベルム "wikilink")
       - [炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")
+      - [グランベルム](https://ja.wikipedia.org/wiki/グランベルム "wikilink")
+      - [荒ぶる季節の乙女どもよ。(アニメ版)](https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。#テレビアニメ "wikilink")
       - [真・中華一番\!](https://ja.wikipedia.org/wiki/中華一番!#真・中華一番! "wikilink")
       - [歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink")
       - [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って#テレビアニメ "wikilink")
@@ -1289,9 +1292,9 @@
 
 ## TBS系列局制作・時差ネット番組
 
+  - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（月 0:50 - 1:20〈日深夜〉） - 『映像』放送時は1時間繰り下げ。
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
-  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")（水 0:59 - 1:29〈火深夜〉）
-  - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（水 1:29 - 1:59〈火深夜〉）
+  - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")Ⅱ ジロジロ有吉（水 1:29 - 1:59〈火深夜〉）
   - [霜降りミキXIT](../Page/霜降りミキXIT.md "wikilink")（木 0:59 - 1:59〈水深夜〉）
   - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")（金 1:29 - 1:59〈木深夜〉）
   - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
@@ -1301,13 +1304,12 @@
   - [バナナサンド](../Page/バナナサンド.md "wikilink")（日 12:54 - 13:54）
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
-  - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）
 
 ## 系列外の番組
 
   - [放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
   - [A.I.C.O. Incarnation](https://ja.wikipedia.org/wiki/A.I.C.O._Incarnation "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
-  - [無限の住人-IMMORTAL-](https://ja.wikipedia.org/wiki/無限の住人#Webアニメ "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
+  - [まえせつ\!](../Page/まえせつ!.md "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
   - [とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
   - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
   - [ド級編隊エグゼロス](https://ja.wikipedia.org/wiki/ド級編隊エグゼロス#テレビアニメ "wikilink")（アニメシャワー、日 3:38 - 4:08〈土深夜〉） 字幕放送 - UHFアニメ
@@ -1461,6 +1463,12 @@
 
   - [ゆく年くる年](https://ja.wikipedia.org/wiki/ゆく年くる年_\(民間放送テレビ\) "wikilink")（1978 - 1979年・1983 - 1984年・1988 - 1989年が[テレビ朝日](../Page/テレビ朝日.md "wikilink")制作）
   - [秘密結社鷹の爪 カウントダウン](https://ja.wikipedia.org/wiki/秘密結社鷹の爪_カウントダウン "wikilink")（2009年、テレビ朝日と[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")と共同で製作委員会に参加）
+  - [民放同時放送 一緒にやろう2020 大発表スペシャル](../Page/一緒にやろう2020.md "wikilink")（日本テレビ・**テレビ朝日**・TBSテレビ・フジテレビ・テレビ東京共同制作）
+
+<!-- end list -->
+
+  -
+    フジテレビを幹事に、2020年東京オリンピック共同企画として民放キー局5社が共同制作した番組。MBSテレビではTBSテレビ経由でネット受けした。
 
 ## 腸捻転時代に放送されていた東京12チャンネル（現・テレビ東京）のネット番組
 

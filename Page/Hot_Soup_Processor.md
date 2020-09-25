@@ -19,7 +19,7 @@
 
 HSP3.0のリリースから2年後にあたる[2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")にHSP3.1が登場、HSPスクリプトエディタの機能改善や、新規のプラグイン・モジュールなどの追加、Peasエディタやかんたん入力機能によるスクリプト入力補助、[Java](https://ja.wikipedia.org/wiki/Java "wikilink")ランタイム上でHSPを動作させるための[HSPLet](https://ja.wikipedia.org/wiki/HSPLet "wikilink")の標準サポート、ライセンス形式の改定（[BSDライセンス](../Page/BSDライセンス.md "wikilink")）による[仕様やソースコードのオープン化](http://www.onionsoft.net/hsp/openhsp/)が行われた。
 
-[2011年](../Page/2011年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に登場したHSP3.3では、[HSPDish](http://hsp.tv/make/hsp3dish.html)というランタイムパッケージが供給されており、変換によって[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android](../Page/Android.md "wikilink")上でプログラムを実行させることができるようになった。また、HSP3のコードを他のソースに変換するためのツールとしてhsp3cnvが同梱され、公式に[C++](../Page/C++.md "wikilink")へのコード変換が可能になった。
+[2011年](../Page/2011年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")に登場したHSP3.3では、[HSPDish](http://hsp.tv/make/hsp3dish.html)というランタイムパッケージが供給されており、変換によって[iOSや](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")[Android上でプログラムを実行させることができるようになった](../Page/Android_\(オペレーティングシステム\).md "wikilink")。また、HSP3のコードを他のソースに変換するためのツールとしてhsp3cnvが同梱され、公式に[C++](../Page/C++.md "wikilink")へのコード変換が可能になった。
 
 HSP3の登場から新ポータルサイトHSPTV\!が立ち上がりHSP3ユーザーのコミュニケーションの場として提供されている。またHSPTV\!で同サイトの[CGIプログラマを募集するなどの取り組みも試みられている](../Page/Common_Gateway_Interface.md "wikilink")\[7\]。 [2003年](../Page/2003年.md "wikilink")からは毎年[HSPプログラムコンテスト](../Page/HSPプログラムコンテスト.md "wikilink")が開催されており、2013年のコンテストでは「[ニコニコ自作ゲームフェス2](../Page/ニコニコ動画.md "wikilink")」との作品の相互提供が行われている。
 

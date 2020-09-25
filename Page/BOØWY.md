@@ -123,11 +123,11 @@ PlotData=
 
 ### 1985年
 
-  - 2月24日、ベルリンの[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")で『[{{読み](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』レコーディング開始。
+  - 2月24日、ベルリンの[ハンザ・スタジオ](https://ja.wikipedia.org/wiki/ハンザ・スタジオ "wikilink")で『[{{読み](../Page/BOØWY_\(アルバム\).md "wikilink")』レコーディング開始。
   - 3月12日、ロンドンのでGIGを行う。
   - 4月13日、赤坂ラフォーレミュージアムでマスコミに招待状を送ったコンベンションライブを行う。
   - 6月1日、ファーストシングル『[ホンキー・トンキー・クレイジー](../Page/ホンキー・トンキー・クレイジー.md "wikilink")』発売。
-  - 6月21日、アルバム『[{{読み](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』発売。プロデューサーは[佐久間正英](../Page/佐久間正英.md "wikilink")。
+  - 6月21日、アルバム『[{{読み](../Page/BOØWY_\(アルバム\).md "wikilink")』発売。プロデューサーは[佐久間正英](../Page/佐久間正英.md "wikilink")。
   - 6月25日、[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で初の大ホール・ワンマンコンサートを行う。
   - 8月22日、シングル『[BAD FEELING](../Page/BAD_FEELING.md "wikilink")』発売。
   - 9月6日、名古屋芸術創造センターで「 BE AMBITIOUS」ツアー開始。
@@ -136,7 +136,7 @@ PlotData=
 ### 1986年
 
   - 2月1日、シングル『[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")』発売。
-  - 3月1日、アルバム『[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")』発売。
+  - 3月1日、アルバム『[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")』発売。
   - 3月24日、青山スパイラルホールで「JUST A HERO TOUR」開始。
   - 7月2日、[日本武道館](../Page/日本武道館.md "wikilink")で同ツアー終了。
   - 7月31日、上記の武道館公演を収録した[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』を限定盤（後に通常盤が再発売された）として発売。
@@ -230,7 +230,7 @@ PlotData=
 
 ### 解散について
 
-  - 1986年12月16日の[長野市民会館](https://ja.wikipedia.org/wiki/長野市民会館 "wikilink")でのライブ後、ホテルのバーにてメンバー全員が解散について話し合った\[42\]。最初に解散を提案したのは布袋だった\[43\]\[44\]\[45\]。それまでも「1位を取ったら解散」とメンバー間で話してはいたが、ブレイクする以前はまだ非現実的だったため、あくまでも冗談半分の扱いだった。しかしながら『[JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")』がメンバー全員にとって音楽的に満足のいく作品となり、『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』が初登場1位を記録し商業的にも成功を収めたことから、この時に初めて現実的な内容での話し合いが持たれた。
+  - 1986年12月16日の[長野市民会館](https://ja.wikipedia.org/wiki/長野市民会館 "wikilink")でのライブ後、ホテルのバーにてメンバー全員が解散について話し合った\[42\]。最初に解散を提案したのは布袋だった\[43\]\[44\]\[45\]。それまでも「1位を取ったら解散」とメンバー間で話してはいたが、ブレイクする以前はまだ非現実的だったため、あくまでも冗談半分の扱いだった。しかしながら『[JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")』がメンバー全員にとって音楽的に満足のいく作品となり、『[BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")』が初登場1位を記録し商業的にも成功を収めたことから、この時に初めて現実的な内容での話し合いが持たれた。
   - ファンの間では、マスコミに一切公表していないにも関わらず『ROCK'N ROLL REVIEW DR.FEELMAN'S PSYCOPATHIC HEARTS CLUB BAND TOUR』の最終公演である「12月24日の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")で解散」という情報が事前に伝わっていた。
       - これは「活動後期の歌詞や活動内容の加速度・充実度やエピソードから一部ファンと音楽ライターが年内解散を予測しており、複数発生源の口コミとして広まった」ということが、音楽誌「BANDやろうぜ\!\!」の編集後記にこぼれ話として書かれたことがある。
   - 1987年12月24日当日はチケットを入手できなかったファンが渋谷公会堂の前に多数集まり、会場内の様子を知ろうと揉み合いになるうちに正面入口のガラス戸が割れるという事態にまで発展した。この日のライブを収めたDVD『[1224](../Page/1224.md "wikilink")』には、会場前に群がるファンと割れたガラス戸の映像が収められている。終演後は、会場前のファンに向けても「解散宣言をした」とアナウンスされた。
@@ -306,8 +306,8 @@ PlotData=
       - 後に氷室本人はこのライブについて「出来るだけ集客することで収益は増え、チャリティーの効果がより高くなる。オーディエンスをたくさん集めるために、世間に強いインパクトがあって、より多くのファンが臨むこと、という発想で「全曲」に繋がった」とした上で、「メンバーの気持ちまで考えてなかったのがいけなかった」と反省の弁も語っている\[84\]。
       - 松井は6月11日のライブを観覧し、「を歌う氷室京介は、何年経っても、何歳になっても、せつないまでに、あの頃のままだった。素晴らしいステージ、そして、素晴らしい時間でした。」とコメントした\[85\]。
       - ライブ当日氷室は「来月にここで友達がライブを演るみたいなんでよろしく」と、氷室同様チャリティーライブのために[7月30日](../Page/7月30日.md "wikilink")、[7月31日](../Page/7月31日.md "wikilink")の二日間限定で[COMPLEX](../Page/COMPLEX.md "wikilink")を再始動させた布袋と吉川を指すMCも発している。
-  - 2012年2月1日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて行われた布袋の50歳バースデーライブである『30th ANNIVERSARY 第四弾 ja-Ltn|HOTEI THE ANTHOLOGY "最終章" WE ARE DREAMER 〜50th BIRTHDAY SPECIAL CELEBRATION GIG〜』に高橋がゲストで参加。『[LAST GIGS](https://ja.wikipedia.org/wiki/LAST_GIGS "wikilink")』以来、24年振りとなるステージ上での共演を果たした\[86\]\[87\]\[88\]\[89\]。楽曲では「[JUSTY](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")」と「NO. NEW YORK」が披露されている。
-  - 2012年3月24日、[郡山カルチャーパーク](https://ja.wikipedia.org/wiki/郡山カルチャーパーク "wikilink")・アリーナにて行われた高橋の東日本大震災の復興支援チャリティーライブ『つながろう ふくしま 〜絆〜 スペシャルライブ with 高橋まこと』に布袋がゲスト参加。楽曲では「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「IMAGE DOWN」、「[Dreamin'](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")」が披露されている。
+  - 2012年2月1日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")にて行われた布袋の50歳バースデーライブである『30th ANNIVERSARY 第四弾 ja-Ltn|HOTEI THE ANTHOLOGY "最終章" WE ARE DREAMER 〜50th BIRTHDAY SPECIAL CELEBRATION GIG〜』に高橋がゲストで参加。『[LAST GIGS](https://ja.wikipedia.org/wiki/LAST_GIGS "wikilink")』以来、24年振りとなるステージ上での共演を果たした\[86\]\[87\]\[88\]\[89\]。楽曲では「[JUSTY](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")」と「NO. NEW YORK」が披露されている。
+  - 2012年3月24日、[郡山カルチャーパーク](https://ja.wikipedia.org/wiki/郡山カルチャーパーク "wikilink")・アリーナにて行われた高橋の東日本大震災の復興支援チャリティーライブ『つながろう ふくしま 〜絆〜 スペシャルライブ with 高橋まこと』に布袋がゲスト参加。楽曲では「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」、「IMAGE DOWN」、「[Dreamin'](../Page/BOØWY_\(アルバム\).md "wikilink")」が披露されている。
   - 2012年10月11日から14日にかけて行われた布袋の『beat crazy Presents Special Gig “B.C. ONLY 2012”』に高橋が参加。「[DRAMATIC? DRASTIC\!](../Page/BEAT_EMOTION.md "wikilink")」では高橋のボーカルも披露された。
   - 2013年2月2日、布袋が出演した[夢メッセみやぎ](https://ja.wikipedia.org/wiki/夢メッセみやぎ "wikilink")の『EMI ROCKS 2013』に高橋が参加。楽曲ではと共に「BAD FEELING」、[吉井和哉](../Page/吉井和哉.md "wikilink")、雅、[オオキノブオと共に](../Page/ACIDMAN.md "wikilink")「DREAMIN'」を披露。
   - 2013年3月11日、群馬県高崎市にある氷室の実家を含む家屋3棟が全半焼する事件が発生。両親共に無事ではあるものの氷室の実母が火災から逃げる際に腕を骨折する大怪我を負っている\[90\]。
@@ -343,8 +343,8 @@ PlotData=
 
   - [MORAL](../Page/MORAL.md "wikilink")（1982年）
   - [INSTANT LOVE](../Page/INSTANT_LOVE.md "wikilink")（1983年）
-  - [BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")（1985年）
-  - [JUST A HERO](https://ja.wikipedia.org/wiki/JUST_A_HERO_\(BOØWYのアルバム\) "wikilink")（1986年）
+  - [BOØWY](../Page/BOØWY_\(アルバム\).md "wikilink")（1985年）
+  - [JUST A HERO](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")（1986年）
   - [BEAT EMOTION](../Page/BEAT_EMOTION.md "wikilink")（1986年）
   - [PSYCHOPATH](../Page/PSYCHOPATH.md "wikilink")（1987年）
 
@@ -440,7 +440,7 @@ PlotData=
 <li>7月9日 千葉DANCING MOTHERS</li>
 <li>7月10日 新宿LOFT「AFROCKABILY LIVE Vol. 4」</li>
 <li>7月26日 新宿LOFT「AFROCKABILY LIVE Vol. 5」</li>
-<li>7月31日 佐賀 県民の森イベント</li>
+<li>7月31日 さが21世紀県民の森イベント「WOODS CONCERT」</li>
 <li>8月1日 小倉 IN&amp;OUT</li>
 <li>8月13日 新宿LOFT「夏休み特別企画 その4 BEST，BEAT，AGE」</li>
 <li>8月17日 渋谷LIVE INN</li>
@@ -461,7 +461,7 @@ PlotData=
 <li>11月26日 清水BOWIE</li>
 <li>11月27日 新宿LOFT</li>
 <li>12月2日 新宿ライブイン 村さ来</li>
-<li>12月18日 高崎福祉会館</li>
+<li>12月18日 高崎市 パブゴールド</li>
 <li>12月26日 渋谷LIVE INN</li>
 <li>12月31日 <a href="../Page/PARCO劇場.md" title="wikilink">西武劇場</a>「NEW YEAR ROCK FESTIVAL」</li>
 </ul></td>

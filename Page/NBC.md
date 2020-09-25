@@ -79,7 +79,7 @@
 3.  NBCユニバーサルグループの[ユニバーサル・パークス&リゾーツ](../Page/ユニバーサル・パークス&リゾーツ.md "wikilink")が運営している。
 4.
 5.
-6.  [NBCチャイム（音声ファイル）](http://web.archive.org/web/20070307110031/http://www.uspto.gov/go/kids/soundex/72349496.mp3)
+6.  [NBCチャイム（音声ファイル）](https://web.archive.org/web/20070307110031/http://www.uspto.gov/go/kids/soundex/72349496.mp3)
 7.
 8.
 9.

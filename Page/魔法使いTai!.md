@@ -414,8 +414,10 @@
 ## 外部リンク
 
   - [魔法使いTai\! (OVA)](https://www.b-ch.com/titles/191/) - [バンダイチャンネル](../Page/バンダイチャンネル.md "wikilink")
+
   - [魔法使いTai\! (TV)](https://www.b-ch.com/titles/229/) - バンダイチャンネル
-  - [Maho Tsukai Tai\!](http://www2n.biglobe.ne.jp/~cjk/maho/) - テレビ版シリーズ構成の小中千昭による解説
+
+  - \- テレビ版シリーズ構成の小中千昭による解説
 
 [Category:アニメ作品_ま](https://ja.wikipedia.org/wiki/Category:アニメ作品_ま "wikilink") [Category:1996年のOVA](https://ja.wikipedia.org/wiki/Category:1996年のOVA "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:日本のオリジナルアニメ作品](https://ja.wikipedia.org/wiki/Category:日本のオリジナルアニメ作品 "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:トライアングルスタッフ](https://ja.wikipedia.org/wiki/Category:トライアングルスタッフ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:魔法少女アニメ](https://ja.wikipedia.org/wiki/Category:魔法少女アニメ "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:漫画作品_ま](https://ja.wikipedia.org/wiki/Category:漫画作品_ま "wikilink") [Category:月刊ドラゴンジュニア](https://ja.wikipedia.org/wiki/Category:月刊ドラゴンジュニア "wikilink") [Category:富士見ファンタジア文庫](https://ja.wikipedia.org/wiki/Category:富士見ファンタジア文庫 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink")
 

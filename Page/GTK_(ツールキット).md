@@ -29,7 +29,7 @@ GTKは当初、[Motifの代替として](../Page/Motif_\(GUI\).md "wikilink")、
 
 GTK 2.0.0リリースシリーズは、[Pango](../Page/Pango.md "wikilink")を使った改善されたテキストのレンダリング新しいテーマエンジンやさらに柔軟な[APIなどを含んでいた](../Page/アプリケーションプログラミングインタフェース.md "wikilink")。バージョン2.8から、GTK 2はベクターグラフィックスの描画のためのライブラリとして[Cairo](../Page/Cairo.md "wikilink")に依存するようになっている。
 
-GTK 3.0.0は、修正されたインプットデバイスの取り扱いや、[CSS](../Page/CSS.md "wikilink")のような構文で書かれたテーマのサポート、他の開かれているGTKアプリケーションからの情報受け取り機能などを含んでいる。
+GTK 3.0.0は、修正されたインプットデバイスの取り扱いや、[CSSのような構文で書かれたテーマのサポート](../Page/Cascading_Style_Sheets.md "wikilink")、他の開かれているGTKアプリケーションからの情報受け取り機能などを含んでいる。
 
 ### macOS
 

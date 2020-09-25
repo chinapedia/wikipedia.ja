@@ -275,7 +275,7 @@
 <!-- end list -->
 
   -
-    松岡、豊田、赤松は新バンド「[MICHAEL](https://ja.wikipedia.org/wiki/MICHAEL_\(バンド\) "wikilink")」を結成。松岡は平行して役者として精力的に活動。赤松は翌年MICHAELを脱退しサポートの他、2018年に[cune](https://ja.wikipedia.org/wiki/cune "wikilink")の生熊耕治、[Sadieの亜季と共にバンド](../Page/Sadie_\(バンド\).md "wikilink")「BLUEVINE」を結成している\[6\]。都は楽曲提供やライブサポートで活動、2010年に「[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")」を結成。黒柳は飲食店を経営。
+    松岡、豊田、赤松は新バンド「[MICHAEL](https://ja.wikipedia.org/wiki/MICHAEL_\(バンド\) "wikilink")」を結成。松岡は平行して役者としての活動も行っている。赤松は翌年にバンドを脱退するもサポートメンバーとしての活動は継続、他にも[cune](https://ja.wikipedia.org/wiki/cune "wikilink")の生熊耕治、[Sadieの亜季と共にバンド](../Page/Sadie_\(バンド\).md "wikilink")「BLUEVINE」を結成し2018年から活動開始\[6\]。都は楽曲提供やライブサポートで活動、2010年に「[Rayflower](https://ja.wikipedia.org/wiki/Rayflower "wikilink")」を結成。黒柳は飲食店を経営。
 
 ## エピソード
 

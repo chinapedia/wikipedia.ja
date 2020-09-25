@@ -224,7 +224,7 @@ PHS事業者の[ウィルコム](../Page/ウィルコム.md "wikilink")では、
 
 ## 外部リンク
 
-  - [Information about VoIP Protocols](http://www.en.voipforo.com)
+  - [Voip Think- Voice over IP](http://www.en.voipforo.com)
   - [Topics : VoIP - Computerworld.jp](http://www.computerworld.jp/topics/voip/)
 
 [Category:VoIPのソフトウェア](https://ja.wikipedia.org/wiki/Category:VoIPのソフトウェア "wikilink") [Category:インターネット技術](https://ja.wikipedia.org/wiki/Category:インターネット技術 "wikilink")

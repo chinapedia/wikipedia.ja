@@ -212,28 +212,29 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/田中寛人.md" title="wikilink">田中寛人</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p><a href="../Page/イブニング信州.md" title="wikilink">イブニング信州</a>（キャスター）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山田康弘" title="wikilink">山田康弘</a>*</p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td><p>放送部副部長<br />
+長野県のニュース</p></td>
 <td><p>長野県出身</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/田中寛人.md" title="wikilink">田中寛人</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
+<td><p><a href="../Page/イブニング信州.md" title="wikilink">イブニング信州</a>（キャスター）</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/松村正代.md" title="wikilink">松村正代</a></p></td>
 <td><p>長野県のニュース<br />
 ゆる信ワイド!</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/渡辺裕之_(アナウンサー).md" title="wikilink">渡辺裕之</a></p></td>
 <td><p><a href="../Page/NHKさいたま放送局.md" title="wikilink">さいたま</a></p></td>
 <td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山田康弘" title="wikilink">山田康弘</a>*</p></td>
-<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
-<td><p>長野県出身</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -251,38 +252,44 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>中村慎吾</p></td>
+<td><p><a href="../Page/NHK盛岡放送局.md" title="wikilink">盛岡</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田村有葵子" title="wikilink">田村有葵子</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （キャスター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/加藤永莉香" title="wikilink">加藤永莉香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮野里緒" title="wikilink">宮野里緒</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （リポーター）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/星庵美咲" title="wikilink">星庵美咲</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松本結花" title="wikilink">松本結花</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
@@ -290,26 +297,26 @@
 ゆる信ワイド!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/若竹明日香" title="wikilink">若竹明日香</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/瀧埜ひとみ" title="wikilink">瀧埜ひとみ</a></p></td>
 <td></td>
 <td><p>イブニング信州<br />
 （スポーツ）</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/気象予報士.md" title="wikilink">気象予報士</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/杉山真理" title="wikilink">杉山真理</a></p></td>
 <td></td>
 <td><p>イブニング信州</p></td>
@@ -429,11 +436,11 @@ news every.</p></td>
   - NHKの甲信越地域の放送局では、最初に動画ニュースの配信を開始した。
   - アナログ放送終了時はそれに関するお知らせを長野局独自で送出し、さらに停波時には、長野局のコールサインアナウンスも送出された。\[12\]
 
+## 脚注
+
 ## 関連項目
 
   - [NHK富竹ラジオ放送所](https://ja.wikipedia.org/wiki/NHK富竹ラジオ放送所 "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

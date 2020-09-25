@@ -54,7 +54,7 @@
 
   - 制作費が安いことを番組の売りとしていた。
   - 小出由華の実家の[芋ようかん](https://ja.wikipedia.org/wiki/芋ようかん "wikilink")屋『立石 舟和』がたびたび宣伝される。
-  - [PlayStation 2に鉄アレイをつけた](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3疑似体験機が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Yahoo\! Japanの](https://ja.wikipedia.org/wiki/Yahoo!_Japan "wikilink")[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")で出品された事がある。
+  - [PlayStation 2に鉄アレイをつけた](../Page/PlayStation_2.md "wikilink")、[PlayStation 3疑似体験機が](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")[Yahoo\! Japanの](https://ja.wikipedia.org/wiki/Yahoo!_Japan "wikilink")[オークション](https://ja.wikipedia.org/wiki/オークション "wikilink")で出品された事がある。
   - 最終回では、ブログ投稿者の要望に答えると称し番組打ち上げの様子を放送。又その中のコーナーでアニメ化された『ゆーかん』『オタプリン』『スイちゃん』というキャラも登場した。
   - 3月3日放送回ではで最終回を迎え、視聴者から大きな反響を呼んだ。。
 

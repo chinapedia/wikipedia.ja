@@ -9,7 +9,7 @@
 
 <!-- end list -->
 
-  - 表題曲「innocent starter」は、イベント「NANA SUMMER FESTA 2007」のために取られた[アンケート](../Page/アンケート.md "wikilink")で1位を取ったほど人気がある。[カップリング曲の](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「それでも君を想い出すから-again-」は、[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")』[オープニングテーマの新録アレンジバージョン](../Page/主題歌.md "wikilink")。
+  - 表題曲「innocent starter」は、イベント「NANA SUMMER FESTA 2007」のために取られた[アンケート](../Page/アンケート.md "wikilink")で1位を取ったほど人気がある。[カップリング曲の](https://ja.wikipedia.org/wiki/A面/B面 "wikilink")「それでも君を想い出すから-again-」は、[PS2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")』[オープニングテーマの新録アレンジバージョン](../Page/主題歌.md "wikilink")。
 
 <!-- end list -->
 

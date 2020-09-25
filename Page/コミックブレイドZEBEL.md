@@ -52,7 +52,7 @@
       - すてきなあのこ（[志村貴子](../Page/志村貴子.md "wikilink")）
       - チキチキ阿羅漢荘（[藪京介](https://ja.wikipedia.org/wiki/藪京介 "wikilink")）
       - ライヤー・ライヤー（[浅野りん](../Page/浅野りん.md "wikilink")）
-      - てっぺん（[たなかのか](https://ja.wikipedia.org/wiki/たなかのか "wikilink")）
+      - てっぺん（[たなかのか](../Page/たなかのか.md "wikilink")）
       - The Devil Loves Her.（[村上渉](https://ja.wikipedia.org/wiki/村上渉 "wikilink")）
       - 飛んでけさようなら。（[田中子規](https://ja.wikipedia.org/wiki/田中子規 "wikilink")）
       - 閑かなる意 〜奥州追想譚〜（[あやめぐむ](https://ja.wikipedia.org/wiki/あやめぐむ "wikilink")）

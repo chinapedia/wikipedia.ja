@@ -56,7 +56,7 @@
 ## 関連商品
 
   - 『ぱちんこウルトラマンサウンドトラック』（[ユニバーサルミュージック](https://ja.wikipedia.org/wiki/ユニバーサルミュージック "wikilink")、[2007年](../Page/2007年.md "wikilink")2月21日、UICZ-8020）
-  - 『ぱちんこウルトラマン パチってちょんまげ達人12』（[ハックベリー](https://ja.wikipedia.org/wiki/ハックベリー "wikilink")、[2007年](../Page/2007年.md "wikilink")5月24日、[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - 『ぱちんこウルトラマン パチってちょんまげ達人12』（[ハックベリー](https://ja.wikipedia.org/wiki/ハックベリー "wikilink")、[2007年](../Page/2007年.md "wikilink")5月24日、[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")）
 
 ## 外部リンク
 

@@ -88,7 +88,7 @@ Java Web Start対応Javaアプリケーションを作るには、作成した[S
   - [Java Web Start Architecture JNLP Specification & API Documentation](http://java.sun.com/products/javawebstart/download-spec.html)
   - [JSR 56](http://www.jcp.org/en/jsr/detail?id=56) (JNLP 1.0, 1.5 and 6.0)
   - [Startdirectory Connect and Work](http://www.connectandwork.com/external)
-  - [Java Web Start tutorial](http://archive.is/20130102062339/http://articles.techrepublic.com.com/5100-3513-6120125.html)
+  - [Java Web Start tutorial](https://archive.is/20130102062339/http://articles.techrepublic.com.com/5100-3513-6120125.html)
   - [Getting Started with Java Web Start](http://today.java.net/pub/a/today/2005/08/11/webstart.html)
 
 [Category:ウェブ開発](https://ja.wikipedia.org/wiki/Category:ウェブ開発 "wikilink") [Category:Java](https://ja.wikipedia.org/wiki/Category:Java "wikilink") [Category:サン・マイクロシステムズ](https://ja.wikipedia.org/wiki/Category:サン・マイクロシステムズ "wikilink") [Category:Javaプラットフォーム](https://ja.wikipedia.org/wiki/Category:Javaプラットフォーム "wikilink") [Category:Java_specification_requests](https://ja.wikipedia.org/wiki/Category:Java_specification_requests "wikilink")

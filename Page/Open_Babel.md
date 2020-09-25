@@ -1,7 +1,7 @@
 > この記事は[Open Babel](https://ja.wikipedia.org/wiki/Open_Babel)から翻訳されています。
 
 
-**Open Babel**は [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、主にを変換するために用いられる化学ツールである\[1\] 。[情報学](../Page/情報学.md "wikilink")との関連が強いため、このプログラムはというよりは[ケモインフォマティクス](../Page/ケモインフォマティクス.md "wikilink")に属するものといえる。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Android](../Page/Android.md "wikilink")で利用可能で、[GNU GPL](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink") 2.0ライセンスのもとで配布されている。
+**Open Babel**は [フリーソフトウェア](../Page/フリーソフトウェア.md "wikilink")であり、主にを変換するために用いられる化学ツールである\[1\] 。[情報学](../Page/情報学.md "wikilink")との関連が強いため、このプログラムはというよりは[ケモインフォマティクス](../Page/ケモインフォマティクス.md "wikilink")に属するものといえる。[Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[UNIX](../Page/UNIX.md "wikilink")、[Linux](../Page/Linux.md "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")、[Androidで利用可能で](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[GNU GPL](https://ja.wikipedia.org/wiki/GNU_GPL "wikilink") 2.0ライセンスのもとで配布されている。
 
 このプロジェクトでは、「Open Babelが、[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")なプログラムとして、ユーザーと開発者をともに支援するコミュニティ指向の科学的プロジェクトとなり、ファイル形式とデータの内部変換を含む、化学、その他の多くの関連分野を支援するように設計されたライブラリとなる」ことを目標と掲げている。
 

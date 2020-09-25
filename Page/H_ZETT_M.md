@@ -888,8 +888,8 @@ M7 SCATMAN</p></td>
 <td><p>2010/10/6</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら_(シンガーソングライター)" title="wikilink">藤原さくら</a></p></td>
-<td><p>アルバム『à la carte』</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/藤原さくら" title="wikilink">藤原さくら</a></p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/à_la_carte" title="wikilink">à la carte</a>』</p></td>
 <td><p>M1 Walking on the clouds<br />
 M5 We are You are</p></td>
 <td><p>2015/3/18</p></td>
@@ -897,7 +897,7 @@ M5 We are You are</p></td>
 <td><p>Piano・Wurlitzer</p></td>
 </tr>
 <tr class="odd">
-<td><p>アルバム『good morning』</p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/good_morning_(藤原さくらのアルバム)" title="wikilink">good morning</a>』</p></td>
 <td><p>M2 かわいい<br />
 M7 BABY</p></td>
 <td><p>2016/2/17</p></td>
@@ -906,9 +906,10 @@ M7 BABY</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>アルバム『PLAY』</p></td>
-<td><p>M1 My Way M5 赤</p>
-<p>M11 SPECIAL DAY</p></td>
+<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/PLAY_(藤原さくらのアルバム)" title="wikilink">PLAY</a>』</p></td>
+<td><p>M1 My Way<br />
+M5 赤<br />
+M11 SPECIAL DAY</p></td>
 <td><p>2017/5/10</p></td>
 <td><p>Piano・Wurlitzer</p></td>
 <td></td>
@@ -1386,7 +1387,7 @@ OVERHEADSとコラボレーション</p>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>ピアノ独演会2020 東京芸劇の陣</strong></p></td>
+<td><p><strong><s>ピアノ独演会2020 東京芸劇の陣</s></strong></p></td>
 <td><p><s>5月10日 <a href="../Page/東京芸術劇場.md" title="wikilink">東京芸術劇場</a>　プレイハウス</s></p></td>
 <td><p>※新型コロナウイルス感染拡大防止のため中止</p></td>
 <td></td>
@@ -1398,7 +1399,7 @@ OVERHEADSとコラボレーション</p>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong>ピアノ独演会2020 夏 - 豊田の陣 -</strong></p></td>
+<td><p><strong><s>ピアノ独演会2020 夏 - 豊田の陣 -</s></strong></p></td>
 <td><p><s>7月11日 豊田市コンサートホール</s></p></td>
 <td><p>※新型コロナウイルス感染拡大防止のため中止</p></td>
 <td></td>
@@ -1406,6 +1407,18 @@ OVERHEADSとコラボレーション</p>
 <tr class="odd">
 <td><p><strong>ピアノ独演会2020 北九州 響の陣</strong></p></td>
 <td><p>8月29日 北九州市立 響ホール</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>ピアノ独演会2020 九月 逗子の陣</strong></p></td>
+<td><p>9月5日 逗子文化プラザホール なぎさホール</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>ピアノ独演会2020 秋 千葉でスターツおおたかの森ホールの陣</strong></p></td>
+<td><p>11月1日 千葉 スターツおおたかの森ホール</p></td>
 <td></td>
 <td></td>
 </tr>

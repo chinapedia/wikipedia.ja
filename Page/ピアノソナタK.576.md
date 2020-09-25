@@ -38,5 +38,5 @@
   -
 [Category:モーツァルトのピアノソナタ](https://ja.wikipedia.org/wiki/Category:モーツァルトのピアノソナタ "wikilink") [Category:ニ長調](https://ja.wikipedia.org/wiki/Category:ニ長調 "wikilink")
 
-1.  ソロモン著『モーツァルト」』（[石井宏](https://ja.wikipedia.org/wiki/石井宏 "wikilink")訳、[新書館](../Page/新書館.md "wikilink")、1999年）p.672
+1.  ソロモン著『モーツァルト」』（[石井宏訳](../Page/石井宏_\(音楽評論家\).md "wikilink")、[新書館](../Page/新書館.md "wikilink")、1999年）p.672
 2.  ソロモン著『モーツァルト』pp.674-675

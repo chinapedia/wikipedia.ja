@@ -24,7 +24,7 @@ Visual C\#は多数の開発プロジェクト形式に対応している。Visu
   - [WCFサービスアプリケーション](../Page/Windows_Communication_Foundation.md "wikilink")
   - [Microsoft Officeアドイン](../Page/Microsoft_Office.md "wikilink")
   - [Azureモバイルサービス](https://ja.wikipedia.org/wiki/Microsoft_Azure "wikilink")
-  - [Android](../Page/Android.md "wikilink")/[iOS向けアプリケーション](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")/[iOS向けアプリケーション](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
 
 その他にも、.NET/[WinRT対応の](https://ja.wikipedia.org/wiki/Windowsランタイム "wikilink")[クラスライブラリ](../Page/クラス_\(コンピュータ\).md "wikilink") ([DLL](https://ja.wikipedia.org/wiki/DLL "wikilink")) やコンポーネントの開発、および[単体テスト](../Page/単体テスト.md "wikilink")プロジェクトの生成にも対応している。
 

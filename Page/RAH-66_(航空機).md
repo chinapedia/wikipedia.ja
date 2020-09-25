@@ -127,7 +127,7 @@ RAH-66は、[AH-64 アパッチよりも小型軽量](../Page/AH-64_アパッチ
   -
 
       -
-        [PS2版のみ登場](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")が使用。
+        [PS2版のみ登場](../Page/PlayStation_2.md "wikilink")。[中国人民解放軍](../Page/中国人民解放軍.md "wikilink")が使用。
 
 :; 『』
 

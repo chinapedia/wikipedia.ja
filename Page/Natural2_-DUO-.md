@@ -11,7 +11,7 @@
 
 最初のCD-ROM版の後、[2001年](../Page/2001年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")にはイベントを追加した『DVD EDITION』が、[2003年](../Page/2003年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")には『[F\&C](../Page/F&C.md "wikilink") DVD COLLECTION』の第3弾としてその廉価版が発売された。また、[2007年](../Page/2007年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")には[DMMより](../Page/DMM.com.md "wikilink")[ダウンロード販売](../Page/ダウンロード販売.md "wikilink")版が、同年[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")には[アイチェリーより](https://ja.wikipedia.org/wiki/アクラス "wikilink")[DVDPG版が発売された](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")。なお、DVDPG版はセックスシーンに100カットにも及ぶ[セル画](../Page/セル画.md "wikilink")調アニメーションが追加されている。
 
-[家庭用ゲーム機にも移植されている](../Page/ゲーム機.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink") (GBA) 版が同タイトルで[オメガ・プロジェクトより](https://ja.wikipedia.org/wiki/ソーシャル・エコロジー・プロジェクト "wikilink")、[2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版が『**Natural2 -DUO- 桜色の季節**』（ナチュラルツー デュオ さくらいろのきせつ）のタイトル名で[角川書店](../Page/角川書店.md "wikilink")より、それぞれ発売された。
+[家庭用ゲーム機にも移植されている](../Page/ゲーム機.md "wikilink")。[2002年](../Page/2002年.md "wikilink")[6月28日](../Page/6月28日.md "wikilink")には[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink") (GBA) 版が同タイトルで[オメガ・プロジェクトより](https://ja.wikipedia.org/wiki/ソーシャル・エコロジー・プロジェクト "wikilink")、[2005年](../Page/2005年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")には[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 版が『**Natural2 -DUO- 桜色の季節**』（ナチュラルツー デュオ さくらいろのきせつ）のタイトル名で[角川書店](../Page/角川書店.md "wikilink")より、それぞれ発売された。
 
 PC版ではエンディング到達後に今までのプレイ内容から性格が診断され、その累積により新しいシナリオが追加される恋愛育成シミュレーションゲーム、DVDPG版では主にメインヒロイン2人の各ルートと2人同時攻略のルートから構成される[恋愛アドベンチャーゲームとなっている](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。一方、家庭用ゲーム機版では、いわゆる鬼畜系のルートを廃して純愛のみに特化した定番タイプの恋愛アドベンチャーゲームへとアレンジされており、ヒロインの機嫌を損ねると突然キャラクターが低頭身かつ絵本調にデフォルメされるシステムが追加されている他、『[Natural Zero+ -はじまりと終わりの場所で-](../Page/Natural_Zero+_-はじまりと終わりの場所で-.md "wikilink")』に存在する「3つのキーワードを組み合わせてストーリーを作る」要素が、「イベントの組み合わせにより新たなイベントを追加する」という形で収録されている。また、GBA版では一部のイベントがミニゲーム形式となっており、その正否によってヒロインの反応が変化する。そのミニゲームは以下の6つ。
 
@@ -182,7 +182,7 @@ PC版ではエンディング到達後に今までのプレイ内容から性格
       - [シャルラク（DVD版販売元）](http://www.shall-luck.co.jp/)
       - [DMM内紹介ページ](http://dlsoft.dmm.co.jp/fandc/natural2/)
       - [アイチェリー](http://www.aicherry.com/)
-      - [アダルトアニメ版『Natural2 -DUO- CHI-SA-TO』紹介ページのInternet Archiveキャッシュ](http://web.archive.org/web/*sa_/www.green-bunny.com/catalog/natural/natural2duo_chisato.html)
+      - [アダルトアニメ版『Natural2 -DUO- CHI-SA-TO』紹介ページのInternet Archiveキャッシュ](https://web.archive.org/web/*sa_/www.green-bunny.com/catalog/natural/natural2duo_chisato.html)
   - 全年齢
       - [任天堂内紹介ページ](https://www.nintendo.co.jp/n08/software/an2j/)
 

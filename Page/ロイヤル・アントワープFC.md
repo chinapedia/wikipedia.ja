@@ -194,7 +194,7 @@
 
   - [ヴェスレイ・ソンク](../Page/ヴェスレイ・ソンク.md "wikilink") 1999-2000
 
-  - [薛琦鉉](https://ja.wikipedia.org/wiki/薛琦鉉 "wikilink") 2000-2001
+  - [薛琦鉉](../Page/薛琦鉉.md "wikilink") 2000-2001
 
   - [ジャスティス・クリストファー](../Page/ジャスティス・クリストファー.md "wikilink") 2001-2002
 

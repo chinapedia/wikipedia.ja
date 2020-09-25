@@ -7,7 +7,7 @@
 
 ### 幼少期
 
-3歳から[空手を始め](https://ja.wikipedia.org/wiki/空手道 "wikilink")、小学4年生から[キックボクシング](../Page/キックボクシング.md "wikilink")を始めた\[1\]。
+泣き虫だったことから父親に勧められて3歳から[空手を始め](https://ja.wikipedia.org/wiki/空手道 "wikilink")、小学4年生から[キックボクシング](../Page/キックボクシング.md "wikilink")を始めた\[1\]。
 
 [2003年](../Page/2003年.md "wikilink")、11歳で「K-1ちびっこファイト」に出場、[魔裟斗](../Page/魔裟斗.md "wikilink")に対面を果たした。
 

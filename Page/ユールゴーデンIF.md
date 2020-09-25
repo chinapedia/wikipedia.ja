@@ -398,7 +398,7 @@
 </tr>
 <tr class="odd">
 <td><p>rowspan="" | 2020-21</p></td>
-<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2020-21" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>rowspan="" align=left | <a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選1回戦</p></td>
 <td></td>
 <td></td>

@@ -34,6 +34,7 @@
       - [9月](../Page/9月.md "wikilink")に開局20周年を迎えた。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）
       - [2月1日](../Page/2月1日.md "wikilink") [パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の[ブラウザ](https://ja.wikipedia.org/wiki/ブラウザ "wikilink")への[インターネット](../Page/インターネット.md "wikilink")[ラジオ](../Page/ラジオ.md "wikilink")が、正式に[FM++](https://ja.wikipedia.org/wiki/FM++ "wikilink")音源へ変更\[12\]。FM聴からの配信を終了。
+      - [9月](../Page/9月.md "wikilink") CTY-FM専用アプリが終了され、[FMプラプラ](https://ja.wikipedia.org/wiki/FMプラプラ "wikilink")全局統合版アプリからのみの聴取に変更されることが明らかになった\[13\]。
 
 ## 放送内容
 
@@ -43,8 +44,8 @@
 ## 特色
 
   - 地元の[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")を支援することがあり、四日市発[インディーズ](../Page/インディーズ.md "wikilink")バンド・[スプーンタップ](https://ja.wikipedia.org/wiki/スプーンタップ "wikilink")が3人編成だったころ、また[国際ノンルーフ楽団](https://ja.wikipedia.org/wiki/国際ノンルーフ楽団 "wikilink")解散間際に番組枠を与えていた。
-  - PORT WAVE時代には、2台の[オンド・マルトノ](../Page/オンド・マルトノ.md "wikilink")と[電子ピアノ](../Page/電子ピアノ.md "wikilink")\[13\]を用いた災害・減災対策[CMを掛けていた](../Page/コマーシャルメッセージ.md "wikilink")。減災対策は三重県のコミュニティFMの中でも特に力を入れており、2017年の台風情報では平時の番組を休止して警報解除までノンストップで放送した。
-  - 番組CM「みんなの夢を教えてください」\[14\]はPORT WAVE時代から引き継いでいる。
+  - PORT WAVE時代には、2台の[オンド・マルトノ](../Page/オンド・マルトノ.md "wikilink")と[電子ピアノ](../Page/電子ピアノ.md "wikilink")\[14\]を用いた災害・減災対策[CMを掛けていた](../Page/コマーシャルメッセージ.md "wikilink")。減災対策は三重県のコミュニティFMの中でも特に力を入れており、2017年の台風情報では平時の番組を休止して警報解除までノンストップで放送した。
+  - 番組CM「みんなの夢を教えてください」\[15\]はPORT WAVE時代から引き継いでいる。
   - 2017年は高校野球の地方大会や、[ヴィアティン三重](https://ja.wikipedia.org/wiki/ヴィアティン三重 "wikilink")のサッカー中継など、スポーツ実況にも力を入れている。
 
 ## CTY-FMの番組
@@ -68,8 +69,8 @@
   - パワープレイ
   - アストロウェイブ768
   - カリブ文学者山本伸のMonday Nite GrooVe！
-  - Estrada da vida\[15\]
-  - ALO\!YOKKAICHI\[16\]
+  - Estrada da vida\[16\]
+  - ALO\!YOKKAICHI\[17\]
   - 人に巡り会う旅
   - 応援兄弟のラジオDeご縁
   - アムリタイム
@@ -100,7 +101,8 @@
 10.
 11.
 12.
-13. これが鍵盤楽器であるという証明はないが、五線譜に直すとピアノ作品にみられる伴奏音形であることから、エレクトリック・ピアノまたはその類似の音源である可能性は高い。アタックをかなり丸めたやわらかい音色であった。現在の減災CMはシンセサイザー音源による[環境音楽](../Page/環境音楽.md "wikilink")風の作品である。
-14. 主に、小学校低学年に何になりたいかを問う。
-15. [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")番組
+13.
+14. これが鍵盤楽器であるという証明はないが、五線譜に直すとピアノ作品にみられる伴奏音形であることから、エレクトリック・ピアノまたはその類似の音源である可能性は高い。アタックをかなり丸めたやわらかい音色であった。現在の減災CMはシンセサイザー音源による[環境音楽](../Page/環境音楽.md "wikilink")風の作品である。
+15. 主に、小学校低学年に何になりたいかを問う。
 16. [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")番組
+17. [ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")番組

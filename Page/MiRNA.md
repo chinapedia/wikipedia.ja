@@ -102,7 +102,7 @@
 
 [The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png](https://ja.wikipedia.org/wiki/File:The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png "fig:The_model_for_the_biogenesis_and_translational_represion_of_microRNAs.png") ゲノムDNAには、miRNAの塩基配列とほぼ相補な配列が含まれている\[11\]。一般に、この配列はmiRNA遺伝子と呼ばれている\[12\]。
 
-ここでいう相補\[13\]とは、[核酸塩基](../Page/核酸塩基.md "wikilink")がワトソン・クリック型[塩基対](../Page/塩基対.md "wikilink")を形成していることを意味する\[14\]。具体的には、A (adenine, [アデニン](../Page/アデニン.md "wikilink")), T (tymine, [チミン](../Page/チミン.md "wikilink")), G (guanine, [グアニン](../Page/グアニン.md "wikilink")), C (cytosine, [シトシン](https://ja.wikipedia.org/wiki/シトシン "wikilink")), U (uracil, [ウラシル](../Page/ウラシル.md "wikilink")) の5種類の天然型塩基が特定のペアー同士で[水素結合](../Page/水素結合.md "wikilink")によって塩基対を形成する。AとT/Uは2本の水素結合により対をなす。GとCは3本の水素結合により対をなす。したがって水素結合の数が1本多いことから、G：Cの塩基対はA：T/Uの塩基対よりも安定性が高い。
+ここでいう相補\[13\] とは、[核酸塩基](../Page/核酸塩基.md "wikilink")がワトソン・クリック型[塩基対](../Page/塩基対.md "wikilink")を形成していることを意味する\[14\]。具体的には、A (adenine, [アデニン](../Page/アデニン.md "wikilink")), T (tymine, [チミン](../Page/チミン.md "wikilink")), G (guanine, [グアニン](../Page/グアニン.md "wikilink")), C (cytosine, [シトシン](https://ja.wikipedia.org/wiki/シトシン "wikilink")), U (uracil, [ウラシル](../Page/ウラシル.md "wikilink")) の5種類の天然型塩基が特定のペアー同士で[水素結合](../Page/水素結合.md "wikilink")によって塩基対を形成する。AとT/Uは2本の水素結合により対をなす。GとCは3本の水素結合により対をなす。したがって水素結合の数が1本多いことから、G：Cの塩基対はA：T/Uの塩基対よりも安定性が高い。
 
 ### pri-miRNAの生成
 
@@ -128,7 +128,7 @@ RISCに取り込まれた2本鎖miRNAはRISC中で解かれ、2つの1本鎖miRN
 
 mature-miRNAの塩基配列の5'-末端側より2番目～8番目までの7塩基は、seed配列と呼ばれている\[32\]。この配列と相補的な配列をもつmRNAは、mature-miRNAの標的として強く認識される\[33\]。
 
-mature-miRNAのseed配列とmRNAの3'-UTRの[相互作用](../Page/相互作用.md "wikilink")について、[熱力学](../Page/熱力学.md "wikilink")的な手法を用いた解析が進められてきた\[34\]\[35\]\[36\]。その結果、初期状態の[ギブズエネルギー](https://ja.wikipedia.org/wiki/ギブズエネルギー "wikilink")は－4.09 (kcal mol<sup>—1</sup>)\[37\]であり、最終状態のギブズエネルギーは－14 (kcal mol<sup>—1</sup>)\[38\]であることが明らかにされた。したがって、mature-miRNAとmRNAの結合反応におけるギブズエネルギー変化は－10 (kcal mol<sup>—1</sup>) であると考えられる\[39\]。この値は水素結合の[結合エネルギー](../Page/結合エネルギー.md "wikilink")とほぼ等しい\[40\]\[41\]\[42\]\[43\]。このことから、mature-miRNAとmRNAはワトソン・クリック型の塩基対を形成しているといえる。つまり、[GC含量](https://ja.wikipedia.org/wiki/GC含量 "wikilink")の高いseed配列をもつmature-miRNAは、mRNAの3'-UTRに対して安定に結合できる\[44\]。
+mature-miRNAのseed配列とmRNAの3'-UTRの[相互作用](../Page/相互作用.md "wikilink")について、[熱力学](../Page/熱力学.md "wikilink")的な手法を用いた解析が進められてきた\[34\]\[35\]\[36\]。その結果、初期状態の[ギブズエネルギー](https://ja.wikipedia.org/wiki/ギブズエネルギー "wikilink")は－4.09 (kcal mol<sup>—1</sup>)\[37\] であり、最終状態のギブズエネルギーは－14 (kcal mol<sup>—1</sup>)\[38\] であることが明らかにされた。したがって、mature-miRNAとmRNAの結合反応におけるギブズエネルギー変化は－10 (kcal mol<sup>—1</sup>) であると考えられる\[39\]。この値は水素結合の[結合エネルギー](../Page/結合エネルギー.md "wikilink")とほぼ等しい\[40\]\[41\]\[42\]\[43\]。このことから、mature-miRNAとmRNAはワトソン・クリック型の塩基対を形成しているといえる。つまり、[GC含量](https://ja.wikipedia.org/wiki/GC含量 "wikilink")の高いseed配列をもつmature-miRNAは、mRNAの3'-UTRに対して安定に結合できる\[44\]。
 
 ## miRNAの制御機能
 
@@ -144,7 +144,7 @@ mature-miRNAのseed配列とmRNAの3'-UTRの[相互作用](../Page/相互作用.
 
 ## miRNAの解析
 
-miRNAは、細胞の[発生](../Page/胚発生.md "wikilink")\[54\]、[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")\[55\]、[増殖](../Page/細胞分裂.md "wikilink")\[56\]および[細胞死](../Page/アポトーシス.md "wikilink")\[57\]などの基本的な生命現象の調節に関わっている\[58\]\[59\]。特に哺乳類の場合、2,500種類以上\[60\]のmiRNAが遺伝子発現の30-90%を制御していることが知られている\[61\]\[62\]\[63\]。これらの知見から、miRNAと生命現象の間には非常に密接な関係が成り立っているといえる。そのため、世界各国の研究者らによってmiRNAの解析が進められている。
+miRNAは、細胞の[発生](../Page/胚発生.md "wikilink")\[54\]、[分化](https://ja.wikipedia.org/wiki/分化 "wikilink")\[55\]、[増殖](../Page/細胞分裂.md "wikilink")\[56\] および[細胞死](../Page/アポトーシス.md "wikilink")\[57\] などの基本的な生命現象の調節に関わっている\[58\]\[59\]。特に哺乳類の場合、2,500種類以上\[60\] のmiRNAが遺伝子発現の30-90%を制御していることが知られている\[61\]\[62\]\[63\]。これらの知見から、miRNAと生命現象の間には非常に密接な関係が成り立っているといえる。そのため、世界各国の研究者らによってmiRNAの解析が進められている。
 
 [miRNA mimicとmiRNA inhibitorの作用機構。](https://ja.wikipedia.org/wiki/File:MiRNA_mimic_and_miRNA_inhibitor.png "fig:miRNA mimicとmiRNA inhibitorの作用機構。")
 
@@ -164,18 +164,18 @@ AMO設計の研究について、[有機化学](../Page/有機化学.md "wikilin
 
 ## miRNAと疾患
 
-miRNAは、[がん](https://ja.wikipedia.org/wiki/がん "wikilink")\[76\]、[心血管疾患](https://ja.wikipedia.org/wiki/心血管疾患 "wikilink")\[77\]、[神経変性疾患](../Page/神経変性疾患.md "wikilink")\[78\]、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")\[79\]、[慢性炎症性疾患](../Page/炎症.md "wikilink")\[80\]などの発症と進行に関わっている\[81\]。特に、がんの原因因子についてはさまざまな議論がなされているが\[82\]、その中でもmiRNAは、細胞のがん化に深く関与していることが多くの研究者らによって指摘されている\[83\]\[84\]\[85\]。
+miRNAは、[がん](https://ja.wikipedia.org/wiki/がん "wikilink")\[76\]、[心血管疾患](https://ja.wikipedia.org/wiki/心血管疾患 "wikilink")\[77\]、[神経変性疾患](../Page/神経変性疾患.md "wikilink")\[78\]、[精神疾患](https://ja.wikipedia.org/wiki/精神疾患 "wikilink")\[79\]、[慢性炎症性疾患](../Page/炎症.md "wikilink")\[80\] などの発症と進行に関わっている\[81\]。特に、がんの原因因子についてはさまざまな議論がなされているが\[82\]、その中でもmiRNAは、細胞のがん化に深く関与していることが多くの研究者らによって指摘されている\[83\]\[84\]\[85\]。
 
 miRNAとがん化の関わりについて、2002年、米国のG. M. CalinとC. M. Croceらによって最初の報告がなされた\[86\]。
 
 それ以降、がんに関わるmiRNAに、正の制御をする (がん化を促進する) ものと負の制御をする (がん化を抑制する) ものの2種類のタイプが存在することがわかった\[87\]。
 
-正の制御をするmiRNAはonco miRNA (oncogenic miRNA, がん促進型miRNA) \[88\]、負の制御をするmiRNAはTumor Suppressor miRNA (がん抑制型miRNA) \[89\]と呼ばれている\[90\]\[91\]。 特に、onco miRNAに関して、その発現量の亢進が細胞のがん化を誘発していることが明らかにされている\[92\]。つまり、miRNAの発現量異常は、生物の恒常性の破綻に直結する。
+正の制御をするmiRNAはonco miRNA (oncogenic miRNA, がん促進型miRNA) \[88\]、負の制御をするmiRNAはTumor Suppressor miRNA (がん抑制型miRNA) \[89\] と呼ばれている\[90\]\[91\]。 特に、onco miRNAに関して、その発現量の亢進が細胞のがん化を誘発していることが明らかにされている\[92\]。つまり、miRNAの発現量異常は、生物の恒常性の破綻に直結する。
 
-| miRNAの種類 | onco miRNA/tumor suppressor miRNA | がんの種類                                                                                                                                                                                                                                           |
-| -------- | --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| miR-21   | onco miRNA                        | [乳がん](https://ja.wikipedia.org/wiki/乳がん "wikilink")\[93\]、[子宮頸がん](https://ja.wikipedia.org/wiki/子宮頸がん "wikilink")\[94\]、[肺がん](https://ja.wikipedia.org/wiki/肺がん "wikilink")\[95\]、[大腸がん](https://ja.wikipedia.org/wiki/大腸がん "wikilink")\[96\]など |
-| miR-34   | tumor suppressor miRNA            | [前立腺がん](https://ja.wikipedia.org/wiki/前立腺がん "wikilink")\[97\]、肺がん\[98\]、大腸がん\[99\]、[肝臓がん](https://ja.wikipedia.org/wiki/肝臓がん "wikilink")\[100\]など                                                                                               |
+| miRNAの種類 | onco miRNA/tumor suppressor miRNA | がんの種類                                                                                                                                                                                                                        |
+| -------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| miR-21   | onco miRNA                        | [乳がん](https://ja.wikipedia.org/wiki/乳がん "wikilink")\[93\]、[子宮頸がん](https://ja.wikipedia.org/wiki/子宮頸がん "wikilink")\[94\]、[肺がん](https://ja.wikipedia.org/wiki/肺がん "wikilink")\[95\]、[大腸がん](../Page/大腸癌.md "wikilink")\[96\] など |
+| miR-34   | tumor suppressor miRNA            | [前立腺がん](../Page/前立腺癌.md "wikilink")\[97\]、肺がん\[98\]、大腸がん\[99\]、[肝臓がん](https://ja.wikipedia.org/wiki/肝臓がん "wikilink")\[100\] など                                                                                               |
 
 代表的なonco miRNAとtumor suppressor miRNAの一例
 
@@ -194,11 +194,11 @@ miRNAとがん化の関わりについて、2002年、米国のG. M. CalinとC. 
 
 [Category:リボ核酸](https://ja.wikipedia.org/wiki/Category:リボ核酸 "wikilink") [Category:非コードRNA](https://ja.wikipedia.org/wiki/Category:非コードRNA "wikilink")
 
-1.  miRNAの命名・分類についての指針： Victor Ambros, Bonnie Bartel, David P. Bartel, Christopher B. Burge, James C. Carrington, Xuemei Chenand, Gideon Dreyfuss, Sean R. Eddy, Sam Griffiths-Jones, Mhairi Marshall, Marjori Matzke, Gary Ruvkun and Thomas Tuschl (2003) "A uniform system for microRNA annotation", *RNA*, 9: 277-279. URL[1](http://www.rnajournal.org/cgi/content/full/9/3/277)
+1.  miRNAの命名・分類についての指針： Victor Ambros, Bonnie Bartel, David P. Bartel, Christopher B. Burge, James C. Carrington, Xuemei Chenand, Gideon Dreyfuss, Sean R. Eddy, Sam Griffiths-Jones, Mhairi Marshall, Marjori Matzke, Gary Ruvkun and Thomas Tuschl (2003) "A uniform system for microRNA annotation", *RNA*, 9: 277-279. URL [1](http://www.rnajournal.org/cgi/content/full/9/3/277)
 2.  マイクロRNAの機能：Victor Ambros、The functions of animal microRNAs、Nature 431, 350-355 (16 September 2004)。
 3.  miRNAとタンパク質の関わり：Dennis Murphy, Barry Dancis and James R Brown, The evolution of core proteins involved in microRNA biogenesis, BMC Evolutionary Biology 2008.
-4.  miRNAとして初めて発見された*lin-4* の報告： Lee, R.C., Feinbaum, R.L. and Ambros, V. (1993) "The *C. elegans* heterochronic gene *lin-4* encodes small RNAs with antisense complementarity to *lin-14*", *Cell*, 75: 843–854. URL[2](https://www.umassmed.edu/PageFiles/23217/pdfs/1993_Lee_Feinbaum_Ambros_Cell.pdf)。
-5.  miRNAの提唱：米国のハーバード大学医学部のゲイリー・ラブカンらの研究グループ、Science. 2001 Oct 26;294(5543):797-9. URL[3](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11679654)。マサチューセッツ大学メディカルスクールのヴィクター・アンブロスらの研究グループ、An extensive class of small RNAs in Caenorhabditis elegans. \[Science. 2001\]。マサチューセッツ工科大学のデイビッド・バーテルらの研究グループ、An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans. \[Science. 2001\]。ロックフェラー大学のトーマス・トゥシュルらの研究グループ、Identification of novel genes coding for small expressed RNAs. \[Science. 2001\]。
+4.  miRNAとして初めて発見された*lin-4* の報告： Lee, R.C., Feinbaum, R.L. and Ambros, V. (1993) "The *C. elegans* heterochronic gene *lin-4* encodes small RNAs with antisense complementarity to *lin-14*", *Cell*, 75: 843–854. URL [2](https://www.umassmed.edu/PageFiles/23217/pdfs/1993_Lee_Feinbaum_Ambros_Cell.pdf)。
+5.  miRNAの提唱：米国のハーバード大学医学部のゲイリー・ラブカンらの研究グループ、Science. 2001 Oct 26;294(5543):797-9. URL [3](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=pubmed&dopt=Abstract&list_uids=11679654)。マサチューセッツ大学メディカルスクールのヴィクター・アンブロスらの研究グループ、An extensive class of small RNAs in Caenorhabditis elegans. \[Science. 2001\]。マサチューセッツ工科大学のデイビッド・バーテルらの研究グループ、An abundant class of tiny RNAs with probable regulatory roles in Caenorhabditis elegans. \[Science. 2001\]。ロックフェラー大学のトーマス・トゥシュルらの研究グループ、Identification of novel genes coding for small expressed RNAs. \[Science. 2001\]。
 6.  let-7の発見：Reinhart BJ, Slack FJ, Basson M, Pasquinelli AE, Bettinger JC, Rougvie AE, Horvitz HR, Ruvkun G. The 21-nucleotide let-7 RNA regulates developmental timing in Caenorhabditis elegans. Nature. 2000 Feb 24;403(6772):901-6.
 7.  let-7は種を超えて保存されている：Pasquinelli AE, Reinhart BJ, Slack F, Martindale MQ, Kuroda MI, Maller B, Hayward DC, Ball EE, Degnan B, Müller P, Spring J, Srinivasan A, Fishman M, Finnerty J, Corbo J, Levine M, Leahy P, Davidson E, Ruvkun G. Conservation of the sequence and temporal expression of let-7 heterochronic regulatory RNA. Nature. 2000 Nov 2;408(6808):86-9.
 8.  miRNAは脊椎動物の複雑性に寄与する：Alysha M. Heimberg, Lorenzo F. Sempere, Vanessa N. Moy, Philip C. J. Donoghue and Kevin J. Peterson. MicroRNAs and the advent of vertebrate morphological complexity. 2946–2950 PNAS February 26, 2008 vol. 105 no. 8.
@@ -217,7 +217,7 @@ miRNAとがん化の関わりについて、2002年、米国のG. M. CalinとC. 
 21. マイクロRNAの生成パスウェイ：Elizabeth P Murchison, Gregory J Hannon, miRNAs on the move: miRNA biogenesis and the RNAi machinery, Current Opinion in Cell Biology, Volume 16, Issue 3, June 2004, Pages 223–229.
 22. 成熟マイクロRNAの生成機構：Julia Winter, Stephanie Jung, Sarina Keller, Richard I. Gregory & Sven Diederichs、Many roads to maturity: microRNA biogenesis pathways and their regulation、Nature Cell Biology 11, 228 - 234 (2009)。
 23. miRNAの生合成と翻訳抑制機能：Lin He and Gregory J.Hannon, MicroRNAs: small RNAs with a big role in gene regulation , Nature Reviews Genetics 5; 631(2004).
-24. miRNAとsiRNAが関与する生成過程の報告（科学雑誌Sccienceの同号、ほか2つの論文とともに）： David Baulcombe (2002) "AnRNAMicrocosm",*Science*,297:2002-2003. URL[4](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12242426&dopt=Abstract)
+24. miRNAとsiRNAが関与する生成過程の報告（科学雑誌Sccienceの同号、ほか2つの論文とともに）： David Baulcombe (2002) "AnRNAMicrocosm",*Science*,297:2002-2003. URL [4](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12242426&dopt=Abstract)
 25. siRNAのRISC取り込み：Matranga C, Tomari Y, Shin C, Bartel DP, Zamore PD.: Passenger-strand cleavage facilitates assembly of siRNA into Ago2-containing RNAi enzyme complexes. Cell 123: 607-620, 2005.
 26. 哺乳類型の成熟マイクロRNAにおけるRISCへの取り込み：Yanwen Guo, Jun Liu, Sarah J. Elfenbein, Yinghong Ma, Mei Zhong, Caihong Qiu, Ye Ding and Jun Lu、Characterization of the mammalian miRNA turnover 、Nucl. Acids Res. (2015)。
 27. RISC中の2本鎖miRNAの1本鎖化：Kawamata T, Seitz H, Tomari Y. Structural determinants of miRNAs for RISC loading and slicer-independent unwinding. Nat Struct Mol Biol. 2009 Sep;16(9):953-60.

@@ -237,8 +237,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1994年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1994年のコンピュータゲーム "wikilink") [Category:育成シミュレーションゲーム](https://ja.wikipedia.org/wiki/Category:育成シミュレーションゲーム "wikilink") [Category:島を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:島を舞台としたコンピュータゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:スクウェア・エニックスのゲームソフト](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ピノッキオの冒険](https://ja.wikipedia.org/wiki/Category:ピノッキオの冒険 "wikilink") [Category:ロボットを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ロボットを題材としたコンピュータゲーム "wikilink")
 
 1.

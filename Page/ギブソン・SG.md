@@ -162,12 +162,14 @@
 <li><a href="https://ja.wikipedia.org/wiki/AKIHIDE" title="wikilink">AKIHIDE</a>（<a href="https://ja.wikipedia.org/wiki/BREAKERZ" title="wikilink">BREAKERZ</a>）</li>
 <li>和田唱（<a href="../Page/TRICERATOPS.md" title="wikilink">TRICERATOPS</a>）</li>
 <li>坂本慎太郎（<a href="../Page/ゆらゆら帝国.md" title="wikilink">ゆらゆら帝国</a>）</li>
+<li>CHAR</li>
 <li><a href="../Page/土屋公平.md" title="wikilink">土屋公平</a></li>
 <li><a href="../Page/和嶋慎治.md" title="wikilink">和嶋慎治</a>（<a href="https://ja.wikipedia.org/wiki/人間椅子_(バンド)" title="wikilink">人間椅子</a>）</li>
 <li><a href="../Page/岸田繁.md" title="wikilink">岸田繁</a>（<a href="../Page/くるり.md" title="wikilink">くるり</a>）</li>
 <li>桑原彰（<a href="https://ja.wikipedia.org/wiki/RADWIMPS" title="wikilink">RADWIMPS</a>）</li>
 <li>布谷吉崇（<a href="https://ja.wikipedia.org/wiki/hare-brained_unity" title="wikilink">hare-brained unity</a>）</li>
 <li>一色徳保（<a href="../Page/つばき_(ロックバンド).md" title="wikilink">つばき</a>）</li>
+<li>松本孝弘（B'z）</li>
 <li>松本俊（<a href="../Page/AJISAI.md" title="wikilink">AJISAI</a>）</li>
 <li>藤井敬之（<a href="../Page/音速ライン.md" title="wikilink">音速ライン</a>）</li>
 <li><a href="../Page/西川進.md" title="wikilink">西川進</a></li>

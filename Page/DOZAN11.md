@@ -237,6 +237,21 @@ KSC2-409(MOOMIN&amp;三木道三)</p></td>
 <a href="../Page/Home_Grown.md" title="wikilink">Home Grown</a> feat.三木道三</p></td>
 </tr>
 <tr class="even">
+<td><p>26th</p></td>
+<td><p>2014年7月11日</p></td>
+<td><p>'''NIPPON</p></td>
+<td><p>'''</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>27th</p></td>
+<td><p>2019年7月17日</p></td>
+<td><p><strong>新しい未来</strong></p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Flying_High" title="wikilink">Flying High</a><br />
+配信限定</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

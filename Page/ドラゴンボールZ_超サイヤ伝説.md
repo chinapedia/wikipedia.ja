@@ -276,8 +276,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink")
 
 1.

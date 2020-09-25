@@ -637,7 +637,9 @@
 
 ## 現所属メンバー
 
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))     ([第2主将](../Page/主将.md "wikilink"))
+([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([第2主将](../Page/主将.md "wikilink"))     ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Peru.svg "wikilink")) ★    ★   ★  ★
+
+※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
 ## 歴代所属選手
 

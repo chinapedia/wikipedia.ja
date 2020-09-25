@@ -121,17 +121,21 @@ FCHV-BUS2.jpg|2002年の東京モーターショーに出品されていたFCHV-
   -
     上述の各車種での走行実証を踏まえ、[2017年](../Page/2017年.md "wikilink")初頭にトヨタブランドで「トヨタFCバス」として発売が開始される。外観はミラー類が樹脂一体成型品から従来品に変更された事以外は2015年に実証実験を行った車両とほぼ同一である。初年度は同年2月 - 3月にかけて東京都交通局に[リース](../Page/リース.md "wikilink")方式で2台が納入され、同年[3月21日](../Page/3月21日.md "wikilink")より都05-2系統（東京駅丸の内南口 - 東京ビッグサイト）/都05-2急行系統（東京駅丸の内南口 - 東京ビッグサイト）で路線バスとして運行を開始した\[2\]\[3\]\[4\]\[5\]。トヨタブランドでの大型バス販売はDR15系リアエンジンバスの販売が終了した1974年以来43年ぶりである。
 
+{{-}}
+
 ### SORA
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Keihin_Kyuko_Bus_SORA_at_Ōimachi_Station_01.jpg "wikilink") FCバスの後継車種。2017年10月の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で初めて公開された。2018年3月7日にリース販売開始\[6\]。燃料電池車のバスとしては国内で初めて国交省の型式認証を取得し**ZBC-MUM1NAE**\[7\]となった。[2018年](../Page/2018年.md "wikilink")3月現在、都営バスに3台導入されている\[8\]。
+FCバスの後継車種。2017年10月の[東京モーターショー](../Page/東京モーターショー.md "wikilink")で初めて公開された。2018年3月7日にリース販売開始\[6\]。燃料電池車のバスとしては国内で初めて国交省の型式認証を取得し**ZBC-MUM1NAE**\[7\]となった。[2018年](../Page/2018年.md "wikilink")3月現在、都営バスに3台導入されている\[8\]。
 
 2018年9月6日、民間のバス会社では初めて[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")が[2019年](../Page/2019年.md "wikilink")春に導入することを発表\[9\]し、2019年3月より[大井町駅と台場の路線で運行を開始した](../Page/京浜急行バス大森営業所.md "wikilink")。
 
-2018年9月26日、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、ポルトガルのカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給することを発表した\[10\]。
+2018年9月26日、トヨタ自動車と[Toyota Motor Europe (TME)はSORAで確立した路線バス用FCシステムを](https://ja.wikipedia.org/wiki/:en:Toyota_Motor_Europe "wikilink")、[ポルトガル](../Page/ポルトガル.md "wikilink")のカエタノ・バス社（Caetano Bus SA、[ポルトガル語版](https://ja.wikipedia.org/wiki/:pt:CaetanoBus "wikilink")）に供給することを発表した\[10\]。
 
 2019年9月には愛知県豊田市の「[とよたおいでんバス](../Page/とよたおいでんバス.md "wikilink")（土橋・豊田東環状線）」で導入された\[11\]。また、同年10月2日には神奈川県初の事例として[横浜市営バス](../Page/横浜市営バス.md "wikilink")が[横浜港大さん橋国際客船ターミナルシャトルバスで初運行し](../Page/大さん橋.md "wikilink")、今後は[横浜市](../Page/横浜市.md "wikilink")の環境イベント等への出展や[みなとみらい](../Page/みなとみらい.md "wikilink")地区等での路線運行を予定している\[12\]。
 
 2020年4月1日には[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")が[東京駅 - 等々力操車場の路線](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")\[13\]に、[新常磐交通](../Page/新常磐交通.md "wikilink")がいわき - 鹿島 - 小名浜線にそれぞれ導入\[14\]\[15\]し、同年7月には[京王バス南](https://ja.wikipedia.org/wiki/京王バス南 "wikilink")が[多摩営業所管轄路線に導入した](../Page/京王バス南・多摩営業所.md "wikilink")\[16\]。
+
+Keihin Kyuko Bus SORA at Ōimachi Station 01.jpg|京浜急行バス
 
 ## その他
 

@@ -1,7 +1,7 @@
 > この記事は[YAJIKITA on the road](https://ja.wikipedia.org/wiki/YAJIKITA_on_the_road)から翻訳されています。
 
 
-'''YAJIKITA ON THE ROAD〜耳で感じる旅番組〜 '''（ヤジキタ・オン・ザ・ロード〜みみでかんじるたびばんぐみ〜）は、[JFN系列局で放送されている](../Page/全国FM放送協議会.md "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")。日本全国または世界を旅して実際に見て・聞いて・味わってきたその土地のさまざまな魅力を、ラジオを通してバーチャルに体験できる、55分間のトラベルプログラムである。
+'''YAJIKITA ON THE ROAD〜耳で感じる旅番組〜 '''（ヤジキタ・オン・ザ・ロード〜みみでかんじるたびばんぐみ〜）は、[JFN系列局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[紀行番組](../Page/紀行番組.md "wikilink")。日本全国または世界を旅して実際に見て・聞いて・味わってきたその土地のさまざまな魅力を、ラジオを通してバーチャルに体験できる、55分間のトラベルプログラムである。
 
 ## 概要
 
@@ -96,7 +96,7 @@
   - [YAJIKITA on the road](http://www.jfn.jp/RadioShows/yajikita)(JFN Online上の新サイト）
   - [YAJIKITA on the road](http://www2.jfn.co.jp/yajikita/)(旅動画および旅日記はこちらに掲載）
 
-[Category:JFNCの番組](https://ja.wikipedia.org/wiki/Category:JFNCの番組 "wikilink") [Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:紀行・旅番組](https://ja.wikipedia.org/wiki/Category:紀行・旅番組 "wikilink")
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:紀行・旅番組](https://ja.wikipedia.org/wiki/Category:紀行・旅番組 "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink")
 
 1.  パーソナリティ着任前にも、2013年3月2日放送分[『ヤジキタ、東京スカイツリーへ行く！』](http://site.jfn.co.jp/yajikita/blog/entry/11628)でリポーターとして出演経験あり。
 2.  番組プロデューサーを兼務。

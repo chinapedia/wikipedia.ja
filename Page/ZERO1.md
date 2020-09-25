@@ -145,11 +145,11 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <td><p><a href="../Page/田村ハヤト.md" title="wikilink">田村ハヤト</a></p></td>
 <td><p>第28代</p></td>
 <td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩崎永遠" title="wikilink">岩﨑永遠</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座" title="wikilink">NWA UNヘビー級王座</a></p></td>
-<td><p>クリス・ヴァイス</p></td>
+<td><p><a href="../Page/クリス・ヴァイス.md" title="wikilink">クリス・ヴァイス</a></p></td>
 <td><p>第34代</p></td>
 <td></td>
 <td></td>
@@ -164,14 +164,14 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座" title="wikilink">インターナショナルジュニアヘビー級王座</a></p></td>
-<td><p><a href="../Page/HUB_(プロレスラー).md" title="wikilink">HUB</a></p></td>
-<td><p>第23代</p></td>
-<td><p>1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北村彰基" title="wikilink">北村彰基</a></p></td>
+<td><p>第24代</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座" title="wikilink">NWA世界ジュニアヘビー級王座</a>[9]</p></td>
-<td><p>第123代</p></td>
+<td><p>第124代</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -328,6 +328,15 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <!-- end list -->
 
   - [鈴木敬喜](https://ja.wikipedia.org/wiki/鈴木敬喜 "wikilink")
+
+<!-- end list -->
+
+  - [プロフェッショナルレスリングJUST TAP OUT](https://ja.wikipedia.org/wiki/プロフェッショナルレスリングJUST_TAP_OUT "wikilink")
+
+<!-- end list -->
+
+  - [綾部蓮](https://ja.wikipedia.org/wiki/綾部蓮 "wikilink")
+  - [田村ハヤト](../Page/田村ハヤト.md "wikilink")
 
 <!-- end list -->
 

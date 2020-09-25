@@ -12,13 +12,13 @@
 **川島 道行**（かわしま みちゆき、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[8月24日](../Page/8月24日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")）- [ヴォーカル](https://ja.wikipedia.org/wiki/ヴォーカル "wikilink") 、[ギター](../Page/ギター.md "wikilink")
 
   -
-    [岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")出身。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[女優の](../Page/俳優.md "wikilink")[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")と結婚。[2007年](../Page/2007年.md "wikilink")1月30日に長女誕生。[2011年](../Page/2011年.md "wikilink")10月20日に次女誕生。
+    [岩手県](../Page/岩手県.md "wikilink")[盛岡市](https://ja.wikipedia.org/wiki/盛岡市 "wikilink")出身。[血液型は](../Page/ABO式血液型.md "wikilink")[A型](../Page/ABO式血液型.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")に[女優の](../Page/俳優.md "wikilink")[須藤理彩](https://ja.wikipedia.org/wiki/須藤理彩 "wikilink")と結婚。[2007年](../Page/2007年.md "wikilink")1月30日に長女誕生。[2011年](../Page/2011年.md "wikilink")10月20日に次女誕生。
     [2016年](../Page/2016年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")、脳腫瘍（後述）により47歳で逝去\[1\]。
 
 **中野 雅之**（なかの まさゆき、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")
 
   -
-    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型は[AB型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。2015年のアルバム『SHINE LIKE A BILLION SUNS』の発表に伴い、日本人で初めて[Mastered for iTunesの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")と認定される\[2\]。
+    [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身。血液型は[AB型](../Page/ABO式血液型.md "wikilink")。2015年のアルバム『SHINE LIKE A BILLION SUNS』の発表に伴い、日本人で初めて[Mastered for iTunesの](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[マスタリング・エンジニア](../Page/マスタリング・エンジニア.md "wikilink")と認定される\[2\]。
 
 ### サポートメンバー
 

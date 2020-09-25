@@ -1,7 +1,7 @@
 > この記事は[SION](https://ja.wikipedia.org/wiki/SION)から翻訳されています。
 
 
-**SION**（シオン、本名：藤野秀樹、[1960年](../Page/1960年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")[豊北町](../Page/豊北町.md "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。所属事務所はマーズ・ミュージック、所属レコード会社はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**SION**（シオン、本名：藤野秀樹、[1960年](../Page/1960年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") - ）は、[山口県](../Page/山口県.md "wikilink")[下関市](../Page/下関市.md "wikilink")[豊北町](../Page/豊北町.md "wikilink")出身の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[俳優](../Page/俳優.md "wikilink")。所属事務所はマーズ・ミュージック、所属レコード会社はBAIDIS（[テイチク](../Page/テイチクエンタテインメント.md "wikilink")）。[血液型は](../Page/ABO式血液型.md "wikilink")[B型](../Page/ABO式血液型.md "wikilink")。
 
 ## 略歴・エピソード
 

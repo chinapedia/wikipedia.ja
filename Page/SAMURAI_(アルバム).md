@@ -5,7 +5,7 @@
 
 本作は長渕と[笛吹利明](https://ja.wikipedia.org/wiki/笛吹利明 "wikilink")との共同プロデュースとなり、従来の[フォークソング](../Page/フォークソング.md "wikilink")に加え[ラップ](../Page/ラップ.md "wikilink")、[音頭](../Page/音頭.md "wikilink")、[唱歌](../Page/唱歌_\(教科\).md "wikilink")、[童謡](../Page/童謡.md "wikilink")、[長唄](../Page/長唄.md "wikilink")などの要素も取り入れている。
 
-[テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[外科医・夏目三四郎](https://ja.wikipedia.org/wiki/外科医・夏目三四郎 "wikilink")』（1998年）の主題歌として使用された先行シングル「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）を収録、後に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として「[猿一匹、唄えば侍](https://ja.wikipedia.org/wiki/猿一匹、唄えば侍 "wikilink")」がリリースされた。
+[テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[外科医・夏目三四郎](../Page/外科医・夏目三四郎.md "wikilink")』（1998年）の主題歌として使用された先行シングル「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）を収録、後に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として「[猿一匹、唄えば侍](https://ja.wikipedia.org/wiki/猿一匹、唄えば侍 "wikilink")」がリリースされた。
 
 [オリコンチャート](../Page/オリコンチャート.md "wikilink")では最高位1位を獲得した。
 
@@ -15,7 +15,7 @@
 
 7月1日には[日高正人](https://ja.wikipedia.org/wiki/日高正人 "wikilink")への提供曲として、シングル「想い人」がリリースされた。この曲は1983年頃に日高の歌に感銘した長渕が書き下ろしていた曲で、日高の病気が原因でお蔵入りとなっていた曲であった。
 
-9月23日には先行シングルとして「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）をリリース。この曲は[テレビ朝日系テレビドラマ](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[外科医・夏目三四郎](https://ja.wikipedia.org/wiki/外科医・夏目三四郎 "wikilink")』（1998年）の主題歌として使用され\[2\]、「[友よ](https://ja.wikipedia.org/wiki/友よ_\(長渕剛の曲\) "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に次いで長渕が出演していないテレビドラマとの[タイアップ](../Page/タイアップ.md "wikilink")となった。
+9月23日には先行シングルとして「[指切りげんまん](https://ja.wikipedia.org/wiki/指切りげんまん "wikilink")」（1998年）をリリース。この曲は[テレビ朝日系テレビドラマ](https://ja.wikipedia.org/wiki/テレビ朝日系列 "wikilink")『[外科医・夏目三四郎](../Page/外科医・夏目三四郎.md "wikilink")』（1998年）の主題歌として使用され\[2\]、「[友よ](https://ja.wikipedia.org/wiki/友よ_\(長渕剛の曲\) "wikilink")」（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）に次いで長渕が出演していないテレビドラマとの[タイアップ](../Page/タイアップ.md "wikilink")となった。
 
 ## 音楽性
 

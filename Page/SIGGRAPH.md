@@ -36,7 +36,7 @@
   - [2011年](../Page/2011年.md "wikilink") - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink")
   - [2012年](../Page/2012年.md "wikilink") - シンガポール
   - [2013年](../Page/2013年.md "wikilink") - 香港
-  - [2014年](../Page/2014年.md "wikilink") - [中国](../Page/中華人民共和国.md "wikilink")・[深圳市](https://ja.wikipedia.org/wiki/深圳市 "wikilink")
+  - [2014年](../Page/2014年.md "wikilink") - [中国](../Page/中華人民共和国.md "wikilink")・[深圳市](../Page/深圳市.md "wikilink")
   - [2015年](../Page/2015年.md "wikilink") - 日本・[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")（[神戸コンベンションセンター](https://ja.wikipedia.org/wiki/神戸国際展示場 "wikilink")）\[2\]
   - [2016年](../Page/2016年.md "wikilink") - [マカオ](../Page/マカオ.md "wikilink")
   - [2017年](../Page/2017年.md "wikilink") - [バンコク](../Page/バンコク.md "wikilink")

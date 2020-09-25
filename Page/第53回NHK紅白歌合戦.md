@@ -455,7 +455,7 @@
   - [メロン記念日](../Page/メロン記念日.md "wikilink")：松浦亜弥のバックダンサー。
   - [優香](../Page/優香.md "wikilink")（この年の『[ポップジャム](https://ja.wikipedia.org/wiki/ポップジャム "wikilink")』司会者）：KICK THE CAN CREWの曲紹介。
   - [爆笑問題](../Page/爆笑問題.md "wikilink")（この年の『[笑いがいちばん](../Page/笑いがいちばん.md "wikilink")』司会者）：hitomiの曲紹介。
-  - [浜田学](../Page/浜田学.md "wikilink")（『武蔵 MUSASHI』の[胤舜](https://ja.wikipedia.org/wiki/胤舜 "wikilink")役）：モーニング娘。とGacktの曲間。
+  - [浜田学](../Page/浜田学.md "wikilink")（『武蔵 MUSASHI』の[胤舜](../Page/胤舜.md "wikilink")役）：モーニング娘。とGacktの曲間。
   - [武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")（同じく『武蔵 MUSASHI』の[阿厳](https://ja.wikipedia.org/wiki/阿厳 "wikilink")役）：同上。
   - [パパイヤ鈴木](../Page/パパイヤ鈴木.md "wikilink")とおやじダンサーズ：氷川きよしのバックダンサー。
   - [北川えり](https://ja.wikipedia.org/wiki/北川えり "wikilink")（この年の[NHK教育](../Page/NHK教育テレビジョン.md "wikilink")『[中国語会話](../Page/中国語会話.md "wikilink")』の生徒役）：ポルノグラフィティの曲紹介。

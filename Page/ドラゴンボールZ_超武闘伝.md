@@ -299,8 +299,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1993年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1993年のコンピュータゲーム "wikilink") [Category:2D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦型格闘ゲーム "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ドラゴンボールのゲーム](https://ja.wikipedia.org/wiki/Category:ドラゴンボールのゲーム "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink")
 
 1.  鳥嶋和彦編『Vジャンプ 1993年8月号』[集英社](../Page/集英社.md "wikilink")、平成5年（1993年）8月1日、雑誌11323-8、212-213頁。

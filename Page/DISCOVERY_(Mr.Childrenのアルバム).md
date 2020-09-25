@@ -1,7 +1,7 @@
 > この記事は[DISCOVERY \(Mr.Childrenのアルバム\)](https://ja.wikipedia.org/wiki/DISCOVERY_\(Mr.Childrenのアルバム\))から翻訳されています。
 
 
-『**DISCOVERY**』（ディスカバリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の7枚目の[オリジナルアルバムである](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+『**DISCOVERY**』（ディスカバリー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の7枚目の[オリジナルアルバム](../Page/スタジオ・アルバム.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売。
 
 ## 概要
 
@@ -9,11 +9,11 @@
 
 14thシングル「[ニシエヒガシエ](../Page/ニシエヒガシエ.md "wikilink")」のカップリング曲のリミックスバージョン2曲、16thシングル「[光の射す方へ](../Page/光の射す方へ.md "wikilink")」のカップリング曲「独り言」は未収録となった。
 
-制作当初は何の決め事も無く、肩の力を抜いて作られた。メンバーも楽しんでレコーディングができたと語っている。6分以上の曲が3曲収録されており、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のアルバムでは初めて収録時間が1時間を超えた。
+制作当初は何の決め事も無く、肩の力を抜いて作られた。レコーディングは彼らのプライベート・スタジオで行われ、デビュー当時のように合宿しながらその日の気分または天候によって演奏する曲が決められた\[1\]。メンバーも楽しんでレコーディングができたと語っている。6分以上の曲が3曲収録されており、[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")のアルバムでは初めて収録時間が1時間を超えた。
 
-[オリコンチャート](../Page/オリコンチャート.md "wikilink")で4作連続初登場1位を獲得。初週で111万枚を売り上げ、累計売上は180万枚を突破し、アルバムでは通算5作目のミリオンセラーを達成した。
+[オリコンチャート](../Page/オリコンチャート.md "wikilink")で4作連続初登場1位を獲得。初週で111万枚を売り上げ累計売上は180万枚を突破し、アルバムでは通算5作目のミリオンセラーを達成。
 
-[小林武史](../Page/小林武史.md "wikilink")は発売当時「これまでで最高のアルバムができた」と評したが、[桜井和寿](../Page/桜井和寿.md "wikilink")は『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』のプロモーション時に「**もし『DISCOVERY』の頃の自分がこんな曲を書けていたら、あの頃にあんな迷走はしなかっただろう**」と、本作についてやや否定的な発言をしている。
+[小林武史](../Page/小林武史.md "wikilink")は発売当時「これまでで最高のアルバムができた」と評したが、[桜井和寿](../Page/桜井和寿.md "wikilink")は『[IT'S A WONDERFUL WORLD](../Page/IT'S_A_WONDERFUL_WORLD.md "wikilink")』のプロモーション時に**「もし『DISCOVERY』の頃の自分がこんな曲を書けていたら、あの頃にあんな迷走はしなかっただろう」**と本作についてやや否定的な発言をしている。
 
 本作発売後にライブツアー『[Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")』を開催。後に[真駒内アイスアリーナ公演と](../Page/真駒内屋内競技場.md "wikilink")[沖縄宜野湾市海浜公園野外劇場公演の音源を収録したライブアルバム](https://ja.wikipedia.org/wiki/宜野湾市海浜公園 "wikilink")『[1/42](https://ja.wikipedia.org/wiki/1/42 "wikilink")』が50万枚限定で発売された。
 
@@ -26,13 +26,17 @@
 1.  **DISCOVERY** \[5:51\]
       -
         今作の表題曲。
+        桜井曰く「歌詞が少ないのはどれだけ音を鳴らせるかを考えたから」。
 2.  **[光の射す方へ](../Page/光の射す方へ.md "wikilink")** \[6:48\]
       -
         16thシングル。
 3.  **[Prism](https://ja.wikipedia.org/wiki/終わりなき旅#収録曲 "wikilink")** \[4:39\]
       -
-        15thシングル「終わりなき旅」のカップリング曲。
+        15thシングル「終わりなき旅」カップリング曲。
 4.  **アンダーシャツ** \[5:25\]
+      -
+        歌詞に社会批判が込められている。
+        後に『[Mr.Children / Split the Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")』でも披露された。
 5.  **[ニシエヒガシエ](../Page/ニシエヒガシエ.md "wikilink")** \[4:59\]
       -
         14thシングル。
@@ -40,14 +44,13 @@
       -
         [アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")を主体とした楽曲。
         [シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[鈴木祥子](../Page/鈴木祥子.md "wikilink")がバックコーラスを担当している。
-        [2014年](../Page/2014年.md "wikilink")に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」アンケートでは4位に選ばれた\[1\]。
-        Mr.Childrenのファンである[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")の[長谷部誠](../Page/長谷部誠.md "wikilink")が、2016年7月9日に[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")の[佐藤ありさ](../Page/佐藤ありさ.md "wikilink")と婚姻した際のコメントにおいて、「訪れるであろう困難に対しても2人で共に手を取り、笑みを絶やさず、謙虚に歩んでいきたいと思っています」と、歌詞の一部を引用している\[2\]。
+        [2014年](../Page/2014年.md "wikilink")に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」アンケートでは4位に選ばれた\[2\]。
+        Mr.Childrenのファンである[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")の[長谷部誠](../Page/長谷部誠.md "wikilink")が、2016年7月9日に[モデル](../Page/モデル.md "wikilink")の[佐藤ありさ](../Page/佐藤ありさ.md "wikilink")と婚姻した際のコメントにおいて「訪れるであろう困難に対しても2人で共に手を取り、笑みを絶やさず、謙虚に歩んでいきたいと思っています」と歌詞の一部を引用している\[3\]。
 7.  **I'll be** \[9:09\]
       -
-        演奏時間が9分を超える曲で、本作で最も長い曲である。
-        小林の提案で桜井は酒を飲み、やや酔った状態でレコーディングした。
-        終盤、[鈴木英哉](../Page/鈴木英哉.md "wikilink")のドラムはかなり大変だったという。
-        この曲は複数のバージョンが存在しており、桜井は「いつか未発表曲のみでアルバムを作れるなら全部入れたい」と語っている。そのうちの1つは、アルバム発売から約3ヶ月後に「[I'LL BE](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")」というタイトルでシングルカットされた。
+        演奏時間は9分を越え、本作で最も長い曲。
+        小林の提案で桜井は酒を飲み、やや酔った状態でレコーディングした。終盤、[鈴木英哉](../Page/鈴木英哉.md "wikilink")のドラムはかなり大変だったという。
+        この曲は複数のバージョンが存在しており、桜井は「いつか未発表曲のみでアルバムを作れるなら全部入れたい」と語っている。そのうちの1つはアルバム発売から約3ヶ月後に「[I'LL BE](../Page/I'LL_BE_\(Mr.Childrenの曲\).md "wikilink")」というタイトルでシングルカットされた。
         制作時期はシングルバージョンの方が先で、桜井がシングルバージョンをゆったりした曲調で歌ってみたものをメンバーが気に入り、本作への収録が決定した。
         『[Mr.Children TOUR '99 DISCOVERY](../Page/Mr.Children_TOUR_'99_DISCOVERY.md "wikilink")』をはじめ、映像化されたほとんどのライブツアーや『[ap bank fes](https://ja.wikipedia.org/wiki/ap_bank#ap_bank_fes "wikilink")』では本作に収録されたバージョンが演奏されている。
 8.  **\#2601** \[5:37\]
@@ -55,12 +58,13 @@
     <!-- end list -->
       -
         桜井と鈴木で共作曲された[ハードロック](../Page/ハードロック.md "wikilink")調の曲。歌詞に[ミシェル・ファイファー](../Page/ミシェル・ファイファー.md "wikilink")が登場する。
-        ライブツアーでは一部の公演を除き、演奏されなかった。
-        前述の「会員が最もライブで聴きたい曲」アンケートでは22位に選ばれた\[3\]。
+        サビが非常に高音なためか、ライブツアーでは一部の公演を除いて演奏されなかった。
+        前述の「会員が最もライブで聴きたい曲」アンケートでは22位に選ばれた\[4\]。
 9.  **ラララ** \[5:16\]
       -
-        [ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 1996-2000](../Page/Mr.Children_1996-2000.md "wikilink")』にも収録されている。
-        仮タイトルは「**ホニャララ**」\[4\]。
+        天気の良い日に、晴れやかな気分を上乗せしながらレコーディングされた\[5\]。
+        仮タイトルは「**ホニャララ**」\[6\]。
+        後に[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 1996-2000](../Page/Mr.Children_1996-2000.md "wikilink")』にも収録。
 10. **[終わりなき旅](../Page/終わりなき旅.md "wikilink")** \[7:03\]
       -
         15thシングル。
@@ -139,7 +143,9 @@
 
 [Category:Mr.Childrenのアルバム](https://ja.wikipedia.org/wiki/Category:Mr.Childrenのアルバム "wikilink") [Category:1999年のアルバム](https://ja.wikipedia.org/wiki/Category:1999年のアルバム "wikilink") [Category:小林武史がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:小林武史がプロデュースしたアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
-2.  [長谷部誠、佐藤ありさとの結婚報告　ミスチル歌詞で決意「２人で歩んでいきたい」](http://www.sponichi.co.jp/soccer/news/2016/07/09/kiji/K20160709012930660.html)
-3.
-4.  『Mr.Children 1996-2000』ライナーノーツ
+1.
+2.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
+3.  [長谷部誠、佐藤ありさとの結婚報告　ミスチル歌詞で決意「２人で歩んでいきたい」](http://www.sponichi.co.jp/soccer/news/2016/07/09/kiji/K20160709012930660.html)
+4.
+5.
+6.  『Mr.Children 1996-2000』ライナーノーツ

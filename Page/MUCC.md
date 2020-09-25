@@ -1,7 +1,7 @@
 > この記事は[MUCC](https://ja.wikipedia.org/wiki/MUCC)から翻訳されています。
 
 
-**MUCC**（ムック）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[マーヴェリック](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")、所属レコードレーベルは[デンジャークルーレコーズ](https://ja.wikipedia.org/wiki/デンジャークルーレコーズ "wikilink")。[6月9日](../Page/6月9日.md "wikilink")は「**ムックの日**」とされており、ほぼ毎年何らかのイベントを行っている。ファンのことは**夢烏**（ムッカー）と呼ばれる。
+**MUCC**（ムック）は、1997年に[茨城県](../Page/茨城県.md "wikilink")で結成された[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属事務所は[マーヴェリック](../Page/マーヴェリック・ディー・シー・グループ.md "wikilink")、所属レコードレーベルは[デンジャークルーレコーズ](https://ja.wikipedia.org/wiki/デンジャークルーレコーズ "wikilink")。[6月9日](../Page/6月9日.md "wikilink")は「**ムックの日**」とされており、ほぼ毎年何らかのイベントを行っている。ファンのことは**夢烏**（ムッカー）と呼ばれる。
 
 ## メンバー
 
@@ -524,28 +524,6 @@ MSHN-049 (通常盤)</p></td>
 <td><p>MSHN-066</p></td>
 <td></td>
 <td><p>MUCC BIRTHDAY CIRCUIT 2019「40」2019年11月5日（火）＜YUKKE day＞～YUKKE限定 LASTGIGS -孤独の40歳児、今日だけは許して下さい-～ 会場限定販売シングル。</p></td>
-</tr>
-<tr class="even">
-<td><p>42nd</p></td>
-<td><p>2020年6月9日</p></td>
-<td><p>'''娼婦2020</p>
-<div class="NavFrame" style="clear:both;border:0;">
-<div class="NavHead" style="text-align:center;">
-<p>全4曲</p>
-</div>
-<div class="NavContent" style="text-align:left;">
-<ol>
-<li><bdi>娼婦 2020</bdi></li>
-<li><bdi>娼婦 2006</bdi></li>
-<li><bdi>娼婦 2000 Original Mix</bdi></li>
-<li><bdi>娼婦 1999 Demo</bdi></li>
-</ol>
-</div>
-</div>
-<p>'''</p></td>
-<td><p>MSHN-081</p></td>
-<td></td>
-<td><p>1st シングル「<a href="https://ja.wikipedia.org/wiki/娼婦/廃" title="wikilink">娼婦</a>」誕生20周年を記念した受注生産限定シングル</p></td>
 </tr>
 </tbody>
 </table>
@@ -1175,6 +1153,25 @@ DISC1、2ともに1曲ずつボーナストラックが収録された。<br />
 <td><p>MUCC 2020 Lock on snipe Tour #10『関東型壊れたピアノとリビングデッド収監11days』会場限定販売 8cmCD</p></td>
 </tr>
 <tr class="odd">
+<td><p>2020年6月9日</p></td>
+<td><p><strong>娼婦2020</strong></p></td>
+<td><p>MSHN-081</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li><bdi>娼婦 2020</bdi></li>
+<li><bdi>娼婦 2006</bdi></li>
+<li><bdi>娼婦 2000 Original Mix</bdi></li>
+<li><bdi>娼婦 1999 Demo</bdi></li>
+</ol>
+</div>
+</div></td>
+<td><p>1st シングル「<a href="https://ja.wikipedia.org/wiki/娼婦/廃" title="wikilink">娼婦</a>」誕生20周年を記念した受注生産限定シングル</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -2094,6 +2091,42 @@ DISC3(CD)</p>
 <td><p>オリコン週間DVDチャート初登場190位</p>
 <p>オリコン週間Blu-rayチャート初登場123位</p></td>
 </tr>
+<tr class="even">
+<td><p>22nd</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/10月7日.md" title="wikilink">10月7日</a></p></td>
+<td><p><strong>～Fight against COVID-19 #2～『惡-THE BROKEN RESUSCITATION』</strong></p></td>
+<td><p>DVD通常盤:MSHN-086 Blu-ray通常盤:MSHN-085</p>
+<p>Blu-ray初回盤:MSHN-084</p>
+<p>朱ゥノ吐VIP会員限定生産盤:MSHN-083</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全17曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>惡-JUSTICE-</li>
+<li>CRACK</li>
+<li>サイコ</li>
+<li>海月</li>
+<li>ヴァンパイア</li>
+<li>taboo</li>
+<li>積想</li>
+<li>SANDMAN</li>
+<li>スーパーヒーロー</li>
+<li>自己嫌惡</li>
+<li>アルファ</li>
+<li>ニルヴァーナ</li>
+<li>My WORLD</li>
+<li>生と死と君</li>
+<li>蘭鋳</li>
+<li>家路 *</li>
+<li>ファズ *</li>
+</ol>
+<p>*朱ゥノ吐VIP会員限定盤／初回限定盤のみ収録</p>
+</div>
+</div></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -2134,7 +2167,7 @@ DISC3(CD)</p>
 </tr>
 <tr class="even">
 <td><p>2003年12月24日</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/BOØWY_Respect" title="wikilink">BOØWY Respect</a></strong></p></td>
+<td><p><strong><a href="../Page/BOØWY_Respect.md" title="wikilink">BOØWY Respect</a></strong></p></td>
 <td><p>CD</p></td>
 <td><p>FLCF-3994</p></td>
 <td><p>季節が君だけを変える</p></td>

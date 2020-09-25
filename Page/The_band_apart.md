@@ -27,7 +27,7 @@
   - **荒井 岳史**（あらい たけし、 - ）
       - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/ギター.md "wikilink")。
     <!-- end list -->
-      - 血液型は[A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。身長は185cm。
+      - 血液型は[A型](../Page/ABO式血液型.md "wikilink")。身長は185cm。
       - ギターは[ギブソン・SG](../Page/ギブソン・SG.md "wikilink")→[フェンダー・ジャガー](../Page/フェンダー・ジャガー.md "wikilink")→[フェンダー・ストラトキャスター](../Page/フェンダー・ストラトキャスター.md "wikilink")→[フェンダー・テレキャスター](../Page/フェンダー・テレキャスター.md "wikilink")→ナビゲーター・テレキャスター→[フェンダー・ジャズマスター](../Page/フェンダー・ジャズマスター.md "wikilink")→[ESP](../Page/イーエスピー.md "wikilink")・ストラトキャスタータイプを使用。
       - 結成当初はベースボーカルだったが、原にパートの交換を提案しギターへ転向した。
       - [ソウルの影響を指摘されることもあるが](../Page/ソウルミュージック.md "wikilink")、本人は「曲の雰囲気に合わせていたら自然にこうなった」という旨の発言をしている。メタルのコピーをやっていたときは[ジェイムズ・ヘットフィールド](../Page/ジェイムズ・ヘットフィールド.md "wikilink")の真似をし、無理にしゃがれ[声](../Page/声.md "wikilink")で歌っていた。
@@ -80,7 +80,7 @@
       - [ドラムス](../Page/ドラムセット.md "wikilink")。
     <!-- end list -->
       - [ドラムセット](../Page/ドラムセット.md "wikilink")はdw、[スネアドラム](../Page/スネアドラム.md "wikilink")は[カノウプス](../Page/カノウプス.md "wikilink")のZelkova hs-1465、[ドラムスティック](../Page/ドラムスティック.md "wikilink")はpro-markを使用。ちなみにCDをリリースするようになってからも、数年間自前のドラムセットを持っていなかった。
-      - 個性の強い[アンサンブル](https://ja.wikipedia.org/wiki/アンサンブル "wikilink")をまとめ上げる細やかなドラミングが特徴。リズムパターンの引き出しが多く、ディスコライクな[四つ打ち](https://ja.wikipedia.org/wiki/四つ打ち "wikilink")、[フュージョン風の](../Page/フュージョン_\(音楽\).md "wikilink")[16ビート](https://ja.wikipedia.org/wiki/16ビート "wikilink")、[ラテンリズムなど幅広く叩きこなす](../Page/ラテン音楽.md "wikilink")。
+      - 個性の強い[アンサンブル](../Page/アンサンブル.md "wikilink")をまとめ上げる細やかなドラミングが特徴。リズムパターンの引き出しが多く、ディスコライクな[四つ打ち](https://ja.wikipedia.org/wiki/四つ打ち "wikilink")、[フュージョン風の](../Page/フュージョン_\(音楽\).md "wikilink")[16ビート](https://ja.wikipedia.org/wiki/16ビート "wikilink")、[ラテンリズムなど幅広く叩きこなす](../Page/ラテン音楽.md "wikilink")。
       - 3rdアルバムからは[ジャムブロック](https://ja.wikipedia.org/wiki/ジャムブロック "wikilink")、[カウベル](../Page/カウベル.md "wikilink")、[タンバリン](../Page/タンバリン.md "wikilink")、[ヴィブラスラップ](../Page/ヴィブラスラップ.md "wikilink")など様々な[パーカッション](../Page/パーカッション.md "wikilink")を導入し、[バンドサウンド](https://ja.wikipedia.org/wiki/バンドサウンド "wikilink")に新たな彩りを与えた。
       - [高校生](https://ja.wikipedia.org/wiki/高校生 "wikilink")の頃一時期、親の仕事の都合でカナダに住んでいた。そのこともあって英語が得意である。
       - かつては、メタル好きのメンバーの中で唯一[ヒップホップ](../Page/ヒップホップ.md "wikilink")、[オルタナティブ・ミュージック](https://ja.wikipedia.org/wiki/オルタナティブ・ミュージック "wikilink")を好んで聴いていた。しかし年月と共にメンバー間の音楽の好みは共通性が強くなり、現在では木暮もメタルを聴くようである。

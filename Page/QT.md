@@ -13,7 +13,7 @@
   - [Qt](../Page/Qt.md "wikilink")（キュート）は[C++](../Page/C++.md "wikilink")言語で書かれた[GUIツールキット](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")。
   - [Quote Tweetの略](https://ja.wikipedia.org/wiki/Twitter#用語・機能 "wikilink")。- [Twitter](../Page/Twitter.md "wikilink")の引用つぶやき:Retweet。
   - [クォート](../Page/クォート.md "wikilink")(quart、qt.)- [容積](https://ja.wikipedia.org/wiki/容積 "wikilink")の[単位](../Page/単位.md "wikilink")。
-  - [焼入れ](../Page/焼入れ.md "wikilink")[焼き戻し](https://ja.wikipedia.org/wiki/焼き戻し "wikilink")（Quench Temperingの略）- [熱処理](https://ja.wikipedia.org/wiki/熱処理 "wikilink")。
+  - [焼入れ](../Page/焼入れ.md "wikilink")[焼き戻し](https://ja.wikipedia.org/wiki/焼き戻し "wikilink")（Quench Temperingの略）- [熱処理](../Page/熱処理.md "wikilink")。
   - Qualification Test - 製品認定試験
 
 ## 施設・建造物

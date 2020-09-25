@@ -5,7 +5,7 @@
 
 ## 経歴
 
-[横浜市](../Page/横浜市.md "wikilink")[旭区](https://ja.wikipedia.org/wiki/旭区_\(横浜市\) "wikilink")[二俣川](../Page/二俣川.md "wikilink")出身で、身長152cm。血液型は[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。クォーター（父は日本人、母はドイツ系アメリカ人と日本人のハーフ）
+[横浜市](../Page/横浜市.md "wikilink")[旭区](https://ja.wikipedia.org/wiki/旭区_\(横浜市\) "wikilink")[二俣川](../Page/二俣川.md "wikilink")出身で、身長152cm。血液型は[O型](../Page/ABO式血液型.md "wikilink")。クォーター（父は日本人、母はドイツ系アメリカ人と日本人のハーフ）
 
 音楽が好きな家庭に生まれ、幼少の頃から歌手を目指す。14歳の頃に書いた「[Every time](https://ja.wikipedia.org/wiki/Every_time "wikilink")」のデモテープが事務所の社長の手に渡り、[2004年](../Page/2004年.md "wikilink")[6月9日](../Page/6月9日.md "wikilink")にファーストシングル「Every time」でエピックレコードよりデビューを果たす。
 
@@ -94,6 +94,7 @@ Rey chew,Yolanda Adams,Donnie McClurkin,Shirley Caesar,Richard Smallwood,Dionne 
 1.  [humming](https://ja.wikipedia.org/wiki/humming_\(TiAのアルバム\) "wikilink")（2004年12月15日）
 2.  [message](https://ja.wikipedia.org/wiki/message_\(TIAのアルバム\) "wikilink")（2009年10月28日）
 3.  [Love Attendant](https://ja.wikipedia.org/wiki/Love_Attendant "wikilink")（2012年1月18日）
+4.  [MIRACLE](https://ja.wikipedia.org/wiki/MIRACLE_\(TiAのアルバム\) "wikilink")（2019年6月5日）
 
 ### ミニアルバム
 

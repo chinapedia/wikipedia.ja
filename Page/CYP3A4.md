@@ -39,7 +39,7 @@ CYP3A4の変異は[エリスロマイシン呼気検査](https://ja.wikipedia.or
 
 ## 誘導
 
-様々な[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")によって誘導される。それらはまず[プレグナンXレセプター](https://ja.wikipedia.org/wiki/プレグナンXレセプター "wikilink") (PXR) に結合する。PXR活性錯体は[レチノイドXレセプター](https://ja.wikipedia.org/wiki/レチノイドXレセプター "wikilink") (RXR) とヘテロ2量体を形成し、これはさらに*CYP3A4*遺伝子中の[XREM](https://ja.wikipedia.org/wiki/XREM "wikilink")部位に結合する。XREMは*CYP3A4* 遺伝子の制御部分であり、ここに結合することによって遺伝子のプロモーター基部に共同的相互作用が生じ、*CYP3A4* の転写・[翻訳が増進する](../Page/翻訳_\(生物学\).md "wikilink")。
+様々な[リガンド](../Page/リガンド.md "wikilink")によって誘導される。それらはまず[プレグナンXレセプター](https://ja.wikipedia.org/wiki/プレグナンXレセプター "wikilink") (PXR) に結合する。PXR活性錯体は[レチノイドXレセプター](https://ja.wikipedia.org/wiki/レチノイドXレセプター "wikilink") (RXR) とヘテロ2量体を形成し、これはさらに*CYP3A4*遺伝子中の[XREM](https://ja.wikipedia.org/wiki/XREM "wikilink")部位に結合する。XREMは*CYP3A4* 遺伝子の制御部分であり、ここに結合することによって遺伝子のプロモーター基部に共同的相互作用が生じ、*CYP3A4* の転写・[翻訳が増進する](../Page/翻訳_\(生物学\).md "wikilink")。
 
 ## CYP3A4のリガンド
 
@@ -241,7 +241,7 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 <li><a href="https://ja.wikipedia.org/wiki/アプレピタント" title="wikilink">アプレピタント</a>[135] (<a href="../Page/制吐薬.md" title="wikilink">制吐薬</a>)</li>
 <li><a href="../Page/カフェイン.md" title="wikilink">カフェイン</a>[136] (<a href="https://ja.wikipedia.org/wiki/精神刺激薬" title="wikilink">精神刺激薬</a>)</li>
 <li><a href="../Page/コカイン.md" title="wikilink">コカイン</a>[137] (精神刺激薬)</li>
-<li><a href="https://ja.wikipedia.org/wiki/シロスタゾール" title="wikilink">シロスタゾール</a>[138] (<a href="https://ja.wikipedia.org/wiki/ホスホジエステラーゼ阻害薬" title="wikilink">ホスホジエステラーゼ阻害薬</a>)</li>
+<li><a href="https://ja.wikipedia.org/wiki/シロスタゾール" title="wikilink">シロスタゾール</a>[138] (<a href="../Page/ホスホジエステラーゼ阻害薬.md" title="wikilink">ホスホジエステラーゼ阻害薬</a>)</li>
 <li><a href="../Page/デキストロメトルファン.md" title="wikilink">デキストロメトルファン</a>[139] (<a href="https://ja.wikipedia.org/wiki/鎮咳去痰薬" title="wikilink">鎮咳剤</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/ドンペリドン" title="wikilink">ドンペリドン</a>[140] (<a href="https://ja.wikipedia.org/wiki/ドーパミン拮抗薬" title="wikilink">ドーパミン拮抗薬</a>)</li>
 <li><a href="https://ja.wikipedia.org/wiki/エプレレノン" title="wikilink">エプレレノン</a>[141] (アルドステロン拮抗薬)</li>

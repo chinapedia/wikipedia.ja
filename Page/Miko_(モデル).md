@@ -17,7 +17,7 @@
 
   - [桃のふくらみ](https://ja.wikipedia.org/wiki/桃のささやき#「桃のふくらみ」としての出演女優 "wikilink")（[MONDO TV](../Page/MONDO_TV.md "wikilink")）第30回
   - 泊まれるレストラン オーベルジュへの誘い（2006年、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）
-  - [美女と湯けむり](../Page/美女と湯けむり.md "wikilink")（2007年、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）第13回、第14回
+  - 美女と湯けむり（2007年、[旅チャンネル](../Page/旅チャンネル.md "wikilink")）第13回、第14回
 
 ### テレビドラマ
 

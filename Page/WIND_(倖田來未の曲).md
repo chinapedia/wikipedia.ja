@@ -29,9 +29,12 @@ Boys 「**WIND**」（ウインド）は、[2006年](../Page/2006年.md "wikilin
 <!-- end list -->
 
   - 『[BEST 〜second session〜](../Page/BEST_〜second_session〜.md "wikilink")』
+  - 『[MY NAME IS…](https://ja.wikipedia.org/wiki/MY_NAME_IS… "wikilink")』**\[1\]**
 
 ## 外部リンク
 
   - [公式サイト作品紹介ページ WIND](https://rhythmzone.net/koda/discography/detail.php?c=single&id=1004187)
 
 [Category:倖田來未の楽曲](https://ja.wikipedia.org/wiki/Category:倖田來未の楽曲 "wikilink") [Category:森元康介が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森元康介が制作した楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:フジテレビの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビの主題歌 "wikilink") [Category:風を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:風を題材とした楽曲 "wikilink") [Category:久保茂昭の監督したミュージック・ビデオ](https://ja.wikipedia.org/wiki/Category:久保茂昭の監督したミュージック・ビデオ "wikilink") [Category:楽曲_う](https://ja.wikipedia.org/wiki/Category:楽曲_う "wikilink")
+
+1.

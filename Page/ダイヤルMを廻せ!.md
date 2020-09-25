@@ -41,7 +41,7 @@
 <tr class="odd">
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">NETテレビ旧版</a></p></td>
 <td><p>NETテレビ新版</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/TBS" title="wikilink">TBS</a>版</p></td>
+<td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS版</a></p></td>
 </tr>
 <tr class="even">
 <td><p>トニー</p></td>
@@ -139,7 +139,7 @@
 </tbody>
 </table>
 
-  - 日本語吹替について、[DVD](../Page/DVD.md "wikilink")・[BD](https://ja.wikipedia.org/wiki/BD "wikilink")にはNETテレビ旧版の90分映画枠放送時の短尺版音源（正味約70分）を収録\[1\]。
+  - 日本語吹替について、[DVD](../Page/DVD.md "wikilink")・[BDにはNETテレビ旧版の](../Page/Blu-ray_Disc.md "wikilink")90分映画枠放送時の短尺版音源（正味約70分）を収録\[1\]。
 
 ## 主な受賞・ノミネート歴
 
@@ -155,7 +155,7 @@
 
 ## トリビア
 
-  - 英語の台詞では、トニーやハバード警部はアパートの鍵をラッチ鍵 (latchkey) と呼んでいる。ラッチ式の錠は、鍵を回すと出入りする金具部分の先が斜めになっている。ドアを閉じるとき、金具が斜めの部分にうながされて沈み込み、ドアを閉め切ったときにバネで金具が元に戻って錠が掛かる。ドアが閉まると同時に施錠されるので、ドアを閉めるときには鍵は要らないが、部屋の外からドアを開けるときには鍵が必要になる。
+  - 英語の台詞では、トニーやハバード警部はアパートの鍵をラッチ鍵（latchkey）と呼んでいる。ラッチ式の錠は、鍵を回すと出入りする金具部分の先が斜めになっている。ドアを閉じるとき、金具が斜めの部分にうながされて沈み込み、ドアを閉め切ったときにバネで金具が元に戻って錠が掛かる。ドアが閉まると同時に施錠されるので、ドアを閉めるときには鍵は要らないが、部屋の外からドアを開けるときには鍵が必要になる。
   - 恒例の[ヒッチコック監督のカメオ出演](https://ja.wikipedia.org/wiki/アルフレッド・ヒッチコックのカメオ出演一覧 "wikilink")、本作ではトニーの出身大学の同窓会の出席者のひとりとして、記念写真の中に登場する。
   - 1998年に制作された[マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")主演の映画『[ダイヤルM](https://ja.wikipedia.org/wiki/ダイヤルM "wikilink")』（原題：*[A Perfect Murder](https://ja.wikipedia.org/wiki/:en:A_Perfect_Murder "wikilink")*）は、本作のリメイクである。
 
@@ -166,6 +166,10 @@
 ### 出典
 
 ## 外部リンク
+
+  - [WarnerBros.com | Dial M for Murder | Movies](https://www.warnerbros.com/movies/dial-m-murder)
+
+  - [【ワーナー公式】映画（ブルーレイ,DVD & 4K UHD/デジタル配信） | ダイヤルMを廻せ！](https://warnerbros.co.jp/home_entertainment/detail.php?title_id=3574)
 
   -
   -

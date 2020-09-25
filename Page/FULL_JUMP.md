@@ -6,7 +6,7 @@
 ## 概要
 
   - 野球中継のテーマソングであったこともあり、当時[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")の選手であった[二岡智宏](../Page/二岡智宏.md "wikilink")との[デュエット](../Page/デュエット.md "wikilink")バージョンも存在する。
-  - この楽曲で[2003年](../Page/2003年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』（[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")）に初出場、巨大で派手な衣装で登場した。発表順番は3組目で、対戦相手は同じく2003年初出場の[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEの曲\).md "wikilink")」だった。
+  - この楽曲で[2003年](../Page/2003年.md "wikilink")の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』（[第54回](https://ja.wikipedia.org/wiki/第54回NHK紅白歌合戦 "wikilink")）に初出場、巨大で派手な衣装で登場した。発表順番は3組目で、対戦相手は同じく2003年初出場の[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")の「[Choo Choo TRAIN](../Page/Choo_Choo_TRAIN_\(EXILEのシングル\).md "wikilink")」だった。
 
 ## 収録曲
 

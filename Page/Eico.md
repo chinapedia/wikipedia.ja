@@ -328,4 +328,4 @@ Drop<br />
   - [Sony Music](https://www.sonymusic.co.jp/artist/eico/) (2004年9月更新停止)
   - [eico select：子どもたちに聴かせたい、伝えたい10曲: MUSICSHELF](http://musicshelf.jp/?mode=static&html=special02/selector03)
 
-[Category:日本のシンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本のシンガーソングライター "wikilink") [Category:ミュージックレイン所属者](https://ja.wikipedia.org/wiki/Category:ミュージックレイン所属者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の女性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の女性シンガーソングライター "wikilink") [Category:ミュージックレイン所属者](https://ja.wikipedia.org/wiki/Category:ミュージックレイン所属者 "wikilink") [Category:沖縄県出身の人物](https://ja.wikipedia.org/wiki/Category:沖縄県出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

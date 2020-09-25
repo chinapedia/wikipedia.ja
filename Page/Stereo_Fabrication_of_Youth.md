@@ -114,6 +114,10 @@
   - 「[CAT'S EYE](https://ja.wikipedia.org/wiki/おいしい季節/決定的三分間 "wikilink")」（編曲）
   - 「[ミライノ・ヒカリ](https://ja.wikipedia.org/wiki/CIRCUS_\(栗山千明のアルバム\) "wikilink")」（編曲）
 
+**[King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")**
+
+  - 「[生活(仮)](../Page/L&.md "wikilink")」（編曲）
+
 **[近藤晃央](https://ja.wikipedia.org/wiki/近藤晃央 "wikilink")**
 
   - 「無表情」（編曲）

@@ -25,7 +25,7 @@
 <!-- end list -->
 
   -
-    [佐賀県](../Page/佐賀県.md "wikilink")出身。[血液型A型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [佐賀県](../Page/佐賀県.md "wikilink")出身。[血液型A型](../Page/ABO式血液型.md "wikilink")。
     福岡時代輸入雑貨を扱うショップのバイヤーだった。
     [2007年](../Page/2007年.md "wikilink")に[ファッション](../Page/ファッション.md "wikilink")[ブランド](../Page/ブランド.md "wikilink")「75 Clothes」を開始。
     2016年4月20日発売の[松浦俊夫](https://ja.wikipedia.org/wiki/松浦俊夫 "wikilink")のラジオ番組から生まれた音楽本『TOKYO MOON MUSIC FOR LIFE』に寄稿。
@@ -38,7 +38,7 @@
 <!-- end list -->
 
   -
-    [福岡県](../Page/福岡県.md "wikilink")出身。[血液型B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+    [福岡県](../Page/福岡県.md "wikilink")出身。[血液型B型](../Page/ABO式血液型.md "wikilink")。
     渋谷 organ barにて開催されているイベント"**MARCHE**"のレジデント[DJ](https://ja.wikipedia.org/wiki/ディスクジョッキー#ディスクジョッキー（音楽家） "wikilink")。
     DJの他BLUE CAFE名義でアナログおよびコンパイルCD、オムニバスMIX CD『BLUE CAFE SHOW CASE N°1』をリリースしている。
     MCとしての参加、楽曲提供やリミックス、プロデュース等も多数行っている。
@@ -80,7 +80,7 @@
   - '''冨田 謙 '''（とみた ゆずる） - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
   - **進藤 浩一**（しんどう こういち） - [ギター](../Page/ギター.md "wikilink")
   - **藤原 宏二**（ふじわら こうじ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-      - 娘は[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink")
+      - 娘は[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の[藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら "wikilink")
   - **[宮川 剛](https://ja.wikipedia.org/wiki/宮川剛 "wikilink")**（みやがわ つよし） - [ドラム](../Page/ドラムセット.md "wikilink")
   - **松井 章**（まつい あきら） - [ターンテーブル](https://ja.wikipedia.org/wiki/DJ "wikilink")
 

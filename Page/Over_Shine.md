@@ -36,7 +36,7 @@
 
   - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[三宅裕司のドシロウト](../Page/三宅裕司のドシロウト.md "wikilink")』エンディングテーマ（\#1）
   - 日本テレビ系『AX MUSIC-TV』AX POWER PLAY \#035（\#1）
-  - [カプコン](../Page/カプコン.md "wikilink")[プレイステーション2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ロックマンX7](../Page/ロックマンX7.md "wikilink")』テーマソング（\#2）
+  - [カプコン](../Page/カプコン.md "wikilink")[プレイステーション2用ゲーム](../Page/PlayStation_2.md "wikilink")『[ロックマンX7](../Page/ロックマンX7.md "wikilink")』テーマソング（\#2）
   - 日本テレビ系『[THE・サンデー](https://ja.wikipedia.org/wiki/THE・サンデー "wikilink")』エンディングテーマ（\#3）
 
 ## 収録アルバム

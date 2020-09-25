@@ -435,7 +435,7 @@
 
   - テレビドラマ（2010年版）
 
-:\* [夏樹静子・作家40年記念サスペンス特別企画 『 Ｗの悲劇 』](http://www.tbs.co.jp/w-higeki/) - TBS
+:\* [夏樹静子・作家40年記念サスペンス特別企画 『 Ｗの悲劇 』](https://www.tbs.co.jp/w-higeki/) - TBS
 
 :\* [夏樹静子・作家40年記念サスペンス特別企画「Wの悲劇」](https://www.tbs.co.jp/tbs-ch/item/d1682/) - TBSチャンネル
 

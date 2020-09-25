@@ -98,7 +98,8 @@
 
 ## 外部リンク
 
-  - [THE SEIJI HOMEPAGE](http://theseiji.sakura.ne.jp/)
+  - <https://www.theseiji-hp.com/>
+  - <https://www.instagram.com/theseiji2/>
 
 [Category:日本の漫画家](https://ja.wikipedia.org/wiki/Category:日本の漫画家 "wikilink") [Category:日本出身の双子](https://ja.wikipedia.org/wiki/Category:日本出身の双子 "wikilink") [Category:京都市立芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:京都市立芸術大学出身の人物 "wikilink") [Category:愛媛県出身の人物](https://ja.wikipedia.org/wiki/Category:愛媛県出身の人物 "wikilink") [Category:1961年生](https://ja.wikipedia.org/wiki/Category:1961年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

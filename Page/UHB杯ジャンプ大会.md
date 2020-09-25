@@ -88,7 +88,7 @@
 
 ## TV放送について
 
-  - 基本的には協賛社の北海道文化放送制作・出中で[FNS系列](../Page/フジネットワーク.md "wikilink")9局ネット（北海道文化放送・[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")・[仙台放送](../Page/仙台放送.md "wikilink")・[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")・[さくらんぼテレビジョン](../Page/さくらんぼテレビジョン.md "wikilink")・[福島テレビ](../Page/福島テレビ.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")・[長野放送](../Page/長野放送.md "wikilink")）で当日録画放送されている。
+  - 基本的には協賛社の北海道文化放送制作・出中で[FNS系列](../Page/フジネットワーク.md "wikilink")9局ネット（北海道文化放送・[岩手めんこいテレビ](../Page/岩手めんこいテレビ.md "wikilink")・[仙台放送](../Page/仙台放送.md "wikilink")・[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")・[さくらんぼテレビジョン](../Page/さくらんぼテレビジョン.md "wikilink")・[福島テレビ](../Page/福島テレビ.md "wikilink")・[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[NST新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")・[長野放送](../Page/長野放送.md "wikilink")）で当日録画放送されている。
 
 ## 外部リンク
 

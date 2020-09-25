@@ -5,7 +5,7 @@
 
 ## 概要
 
-[中枢神経系](../Page/中枢神経系.md "wikilink")を中心に生体内に広く分布し、[リガンド](https://ja.wikipedia.org/wiki/リガンド "wikilink")である[グルタミン酸](../Page/グルタミン酸.md "wikilink")の結合を経て、[陽イオン](https://ja.wikipedia.org/wiki/陽イオン "wikilink")を透過する、[イオンチャネル](../Page/イオンチャネル.md "wikilink")共役型受容体である。
+[中枢神経系](../Page/中枢神経系.md "wikilink")を中心に生体内に広く分布し、[リガンド](../Page/リガンド.md "wikilink")である[グルタミン酸](../Page/グルタミン酸.md "wikilink")の結合を経て、[陽イオン](https://ja.wikipedia.org/wiki/陽イオン "wikilink")を透過する、[イオンチャネル](../Page/イオンチャネル.md "wikilink")共役型受容体である。
 
 リガンドを受容した NMDA受容体が透過させる陽イオンには特に選択性がなく、[ナトリウム](https://ja.wikipedia.org/wiki/ナトリウム "wikilink")イオン (Na<sup>+</sup>) や[カリウム](../Page/カリウム.md "wikilink")イオン (K<sup>+</sup>) の他に、[カルシウム](../Page/カルシウム.md "wikilink")イオン (Ca<sup>2+</sup>) も通すことが知られている。
 

@@ -239,7 +239,7 @@
 
   - [UNIVERSAL J](http://www.universal-music.co.jp/universalj/artist/sky/) - レーベル
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
+[Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:兄弟姉妹の音楽デュオ](https://ja.wikipedia.org/wiki/Category:兄弟姉妹の音楽デュオ "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")
 
 1.
 2.

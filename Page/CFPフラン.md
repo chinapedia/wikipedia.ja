@@ -7,7 +7,7 @@
 
 **パシフィック・フラン**（太平洋フランの意）とも呼ばれる。0.00838[ユーロ](../Page/ユーロ.md "wikilink")と等価であり、通貨コードはXPF。通用地域はいずれも[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")領である。海外通貨発行機関（Institut d'émission d'Outre-Mer、IEOM）で発行されている。
 
-[CFAフラン](../Page/CFAフラン.md "wikilink")と同じく[1945年](../Page/1945年.md "wikilink")12月に創設された。これは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の影響および[ブレトン・ウッズ協定](../Page/ブレトン・ウッズ協定.md "wikilink")による[フランス・フラン](../Page/フランス・フラン.md "wikilink")の価値の低下によるものである。第二次世界大戦中のフランス領太平洋地域は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の影響が大きかったこともあり、ドルとの固定為替相場で設定された。1949年9月にはフランス・フランとの固定相場となった。このうち、[ニューヘブリディーズ諸島](../Page/ニューヘブリディーズ諸島.md "wikilink")は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")に[オーストラリア・ドル](../Page/オーストラリア・ドル.md "wikilink")との固定相場に移行している。CFPフランもユーロとの固定相場に移行した。
+[CFAフラン](../Page/CFAフラン.md "wikilink")と同じく[1945年](../Page/1945年.md "wikilink")12月に創設された。これは[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の影響および[ブレトン・ウッズ協定](../Page/ブレトン・ウッズ協定.md "wikilink")による[フランス・フラン](../Page/フランス・フラン.md "wikilink")の価値の低下によるものである。第二次世界大戦中のフランス領太平洋地域は[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の影響が大きかったこともあり、ドルとの固定為替相場で設定された。1949年9月にはフランス・フランとの固定相場となった。このうち、[ニューヘブリディーズ諸島](../Page/ニューヘブリディーズ諸島.md "wikilink")（現 [バヌアツ](../Page/バヌアツ.md "wikilink")）は[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")にCFPフランを離脱し、[オーストラリア・ドル](../Page/オーストラリア・ドル.md "wikilink")との固定相場の[ニューヘブリディーズ・フラン](../Page/ニューヘブリディーズ・フラン.md "wikilink")に移行した。CFPフランもユーロとの固定相場に移行した。
 
 「CFPフラン」は1945年制定時には「franc des Colonies françaises du Pacifique（仏領太平洋地域フラン）」の略だったが、後に「Communauté financière du Pacifique（太平洋金融共同体）」「Change Franc Pacifique（太平洋フラン通貨）」などの略とされている場合もあり、公式の呼称は存在しない。
 

@@ -7,7 +7,7 @@
 
 [サムネイル](https://ja.wikipedia.org/wiki/ファイル:Moi_dix_Mois_logo.svg "wikilink") [MALICE MIZERのリーダーManaが](../Page/MALICE_MIZER.md "wikilink")、[Moi-même-moitiéのイメージを音楽によって表現することを目的としたサウンドプロジェクト](https://ja.wikipedia.org/wiki/ゴスロリブランド一覧#Moi-même-moitié "wikilink")。[2002年](../Page/2002年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")にMoi dix Moisがスタートした。
 
-Moi dix Moisは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で、Moi は『私=Mana』という意味があり、dix =『10』、1 は始まり、0 は永遠、[無限](../Page/無限.md "wikilink")の可能性を秘めている数字と捉え、dix Mois=『10ヶ月』、[胎児](../Page/胎児.md "wikilink")が体内で育ち10ヶ月で生まれることからManaが自身の音楽を追究すべく、古典と前衛、優美と狂気、構築と破壊という相反するものを融合し、これまでにない刺激的な音楽を創造。ただし、フランス語の数詞dixが子音始まりの語の前に置かれる場合、xが発音されることはないため、本来はモワ・ディ・モワというほうが原音に近い。モワ・ディス・モワという発音はフランス語としては誤りであり、フランス語母語話者にとっては奇異な印象を受ける。
+Moi dix Moisは[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で、Moi は『私=Mana』という意味があり、dix =『10』、1 は始まり、0 は永遠、[無限](../Page/無限.md "wikilink")の可能性を秘めている数字と捉え、dix Mois=『10ヶ月』、[胎児](../Page/胎児.md "wikilink")が体内で育ち10ヶ月で生まれることからManaが自身の音楽を追究すべく、古典と前衛、優美と狂気、構築と破壊という相反するものを融合し、これまでにない刺激的な音楽を創造するという意味がある\[1\]。
 
 一見バンドと思われがちだが、あくまでManaの[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")である。そのためか雑誌のインタビューでは、Manaのみが取材を受けている。
 
@@ -35,6 +35,7 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
         Moi dix Moisに加入する前からManaの知り合いであり、Manaが楽曲をSethに歌わせたところ、Mana曰く「Moi dix Moisに合っている」と思い、加入のきっかけになった。
         片目に眼帯を付けてるのが特徴。
         ライブでは拡声器を使って歌うことがある。
+        2018年よりヴィジュアル系演歌歌手「美良政次(みよしせいじ)」としてソロ活動も行っている。
   - **[K](https://ja.wikipedia.org/wiki/K_\(ミュージシャン\) "wikilink")** （Guitar/Voice）
       -
         誕生日2月6日
@@ -166,3 +167,5 @@ Manaの誕生日に毎年恒例のイベントである魔導集会〜Mana様Bir
   - [Moi-meme-Moitie Official Website](http://moi-meme-moitie.shop-pro.jp/)
 
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:ゴシックメタル・バンド](https://ja.wikipedia.org/wiki/Category:ゴシックメタル・バンド "wikilink") [Category:シンフォニックメタル・バンド](https://ja.wikipedia.org/wiki/Category:シンフォニックメタル・バンド "wikilink") [Category:インダストリアル・バンド](https://ja.wikipedia.org/wiki/Category:インダストリアル・バンド "wikilink") [Category:実験音楽のバンド](https://ja.wikipedia.org/wiki/Category:実験音楽のバンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink")
+
+1.  ただし、フランス語の数詞dixが子音始まりの語の前に置かれる場合、xが発音されることはないため、本来は**モワ・ディ・モワ**というほうが原音に近い。**モワ・ディス・モワ**という発音はフランス語としては誤りであり、フランス語母語話者にとっては奇異な印象を受ける。

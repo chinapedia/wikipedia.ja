@@ -1,11 +1,11 @@
 > この記事は[BAD FEELING](https://ja.wikipedia.org/wiki/BAD_FEELING)から翻訳されています。
 
 
-『**BAD FEELING**』（バッド・フィーリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWYの](../Page/BOOWY.md "wikilink")2枚目のシングル。
+『**BAD FEELING**』（バッド・フィーリング）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")である[BOØWY](../Page/BOØWY.md "wikilink")の2枚目のシングル。
 
 ## 背景
 
-アルバム『[BOØWY](https://ja.wikipedia.org/wiki/BOØWY_\(アルバム\) "wikilink")』（1985年）に収録される形で初リリースされた。その後、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として、BOØWYの初であり唯一の12インチ・シングルでリリースされた。
+アルバム『[BOØWY](../Page/BOØWY_\(アルバム\).md "wikilink")』（1985年）に収録される形で初リリースされた。その後、[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")として、BOØWYの初であり唯一の12インチ・シングルでリリースされた。
 
 シングル版でのタイトルは正式には「**BAD FEELIN’**」であり\[1\]、プロモーション用のポスターおよび7インチプロモーション盤でも同様のタイトルとなっている\[2\]。
 
@@ -29,16 +29,16 @@
     <!-- end list -->
       -
         アルバム・ヴァージョンと比べるとイントロ部分にギターとSEが追加されており、ヴォーカルはアルバム『BOØWY』に収録された同曲からそのまま使用している。1985年の「BOØWY'S BE AMBITIOUS TOUR」以降、ライブではほぼ欠かさず演奏された曲\[3\]。後に布袋はこの楽曲の特徴的なリフについて「『BAD FEELING』のリフっていうのは、ロックンロールなんだけどファンキーで、そういうリフってありそうでないじゃないですか。 それを緻密に、編集するポイントも物凄く考えられていて、単に手間ひまだけではない、愛情を注いでくれた結果がこれだと思うんですよね。」と語っている\[4\]。
-2.  **[NO.NEW YORK](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")** (4:15)
+2.  **[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")** (4:15)
       - 作詞：深沢和明 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        結成当初よりライブでは毎回演奏されていた、ファーストアルバム『[MORAL](../Page/MORAL.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）に収録されている「NO N.Y.」のリアレンジ・ヴァージョン。詳細は[NO.NEW YORKを参照](https://ja.wikipedia.org/wiki/NO.NEW_YORK "wikilink")。
+        結成当初よりライブでは毎回演奏されていた、ファーストアルバム『[MORAL](../Page/MORAL.md "wikilink")』（[1982年](../Page/1982年.md "wikilink")）に収録されている「NO N.Y.」のリアレンジ・ヴァージョン。詳細は[NO. NEW YORKを参照](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")。
 3.  **OUR LANGUAGE** (4:17)
       - 作詞・作曲：氷室京介、布袋寅泰 / 編曲：布袋寅泰
     <!-- end list -->
       -
-        [インストゥルメンタルに近い楽曲](../Page/器楽曲.md "wikilink")。歌詞カードに歌詞が掲載されておらず、また、ボックスセットである『[BOØWY COMPLETE](../Page/BOOWY_COMPLETE.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）のリリースまではアルバムに収録されていなかった。また、最初の発売時のレコード版ではエンディングはフェードアウトだったが、後にリリースされたCD版では激しい[ギターノイズ](../Page/ギターノイズ.md "wikilink")のカットアウトで終わっている。その為演奏時間がCD版の方が若干長い。
+        [インストゥルメンタルに近い楽曲](../Page/器楽曲.md "wikilink")。歌詞カードに歌詞が掲載されておらず、また、ボックスセットである『[BOØWY COMPLETE](../Page/BOØWY_COMPLETE.md "wikilink")』（[1991年](../Page/1991年.md "wikilink")）のリリースまではアルバムに収録されていなかった。また、最初の発売時のレコード版ではエンディングはフェードアウトだったが、後にリリースされたCD版では激しい[ギターノイズ](../Page/ギターノイズ.md "wikilink")のカットアウトで終わっている。その為演奏時間がCD版の方が若干長い。
 
 ## スタッフ・クレジット
 
@@ -72,21 +72,21 @@
 
   - ライブ音源
       - 『[“GIGS” JUST A HERO TOUR 1986](../Page/“GIGS”_JUST_A_HERO_TOUR_1986.md "wikilink")』（1986年） - 1986年[7月2日](../Page/7月2日.md "wikilink")の[日本武道館](../Page/日本武道館.md "wikilink")公演から収録。
-      - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOOWY.md "wikilink")』（[2001年](../Page/2001年.md "wikilink")） - 1987年[7月31日](../Page/7月31日.md "wikilink")の[ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")、1987年[8月7日](../Page/8月7日.md "wikilink")の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")公演から収録。
+      - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOØWY.md "wikilink")』（[2001年](../Page/2001年.md "wikilink")） - 1987年[7月31日](../Page/7月31日.md "wikilink")の[ワールド記念ホール](../Page/ワールド記念ホール.md "wikilink")、1987年[8月7日](../Page/8月7日.md "wikilink")の[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")公演から収録。
       - 『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』（[2004年](../Page/2004年.md "wikilink")） - 1987年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")の日本武道館公演から収録。
-      - 『[“GIGS” CASE OF BOØWY COMPLETE](../Page/“GIGS”_CASE_OF_BOOWY_COMPLETE.md "wikilink")』（2007年）
+      - 『[“GIGS” CASE OF BOØWY COMPLETE](https://ja.wikipedia.org/wiki/“GIGS”_CASE_OF_BOØWY_COMPLETE "wikilink")』（2007年）
       - 『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE.md "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")） - 1988年[4月5日](../Page/4月5日.md "wikilink")の[東京ドーム](../Page/東京ドーム.md "wikilink")公演から収録。
   - ライブ映像
-      - 『[BOØWY VIDEO](../Page/BOOWY_VIDEO.md "wikilink")』（1986年）
-      - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOOWY.md "wikilink")』（1987年）
+      - 『[BOØWY VIDEO](https://ja.wikipedia.org/wiki/BOØWY_VIDEO "wikilink")』（1986年）
+      - 『[“GIGS” CASE OF BOØWY](../Page/“GIGS”_CASE_OF_BOØWY.md "wikilink")』（1987年）
       - 『[“LAST GIGS” COMPLETE](../Page/“LAST_GIGS”_COMPLETE_\(video\).md "wikilink")』（2008年）
   - テレビ出演
-      - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[なげやり倶楽部](https://ja.wikipedia.org/wiki/なげやり倶楽部 "wikilink")』（1985年 - 1986年、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")） - 1985年11月23日放送。[神戸ポートアイランド](https://ja.wikipedia.org/wiki/神戸ポートアイランド "wikilink")内の「レストランエキゾチックタウン」での演奏。他に「OH\! MY JULLY」、「NO.NEW YORK」を演奏。
+      - [バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[なげやり倶楽部](https://ja.wikipedia.org/wiki/なげやり倶楽部 "wikilink")』（1985年 - 1986年、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")） - 1985年11月23日放送。[神戸ポートアイランド](https://ja.wikipedia.org/wiki/神戸ポートアイランド "wikilink")内の「レストランエキゾチックタウン」での演奏。他に「OH\! MY JULLY」、「NO. NEW YORK」を演奏。
 
 ## カバー作品
 
-  - [レピッシュ](../Page/レピッシュ.md "wikilink") - 『[BOØWY Tribute](https://ja.wikipedia.org/wiki/BOØWY_Tribute "wikilink")』（2003年）
-  - [JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink") - 『[BOØWY Respect](https://ja.wikipedia.org/wiki/BOØWY_Respect "wikilink")』（2003年）
+  - [レピッシュ](../Page/レピッシュ.md "wikilink") - 『[BOØWY Tribute](../Page/BOØWY_Tribute.md "wikilink")』（2003年）
+  - [JELLY→](https://ja.wikipedia.org/wiki/JELLY→ "wikilink") - 『[BOØWY Respect](../Page/BOØWY_Respect.md "wikilink")』（2003年）
   - 布袋寅泰 - 『[ALL TIME SUPER BEST](../Page/ALL_TIME_SUPER_BEST.md "wikilink")』（2005年）
 
 ## 脚注

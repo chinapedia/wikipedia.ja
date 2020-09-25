@@ -5,11 +5,11 @@
 
 ## 解説
 
-自身初となるベストアルバム。デビュー曲『[Precious Junk](../Page/Precious_Junk.md "wikilink")』から最新作『[POP STAR](../Page/POP_STAR.md "wikilink")』まで全[シングル](../Page/シングル.md "wikilink")A面曲を収録した2枚組のシングルコレクションである。初回限定盤には収録曲の全[ビデオクリップを収めた](../Page/ミュージック・ビデオ.md "wikilink")[DVDを付属](../Page/DVD-Video.md "wikilink")。
+自身初となるベストアルバム及び2枚組のCD。1995年5月に発売されたデビューシングル『[Precious Junk](../Page/Precious_Junk.md "wikilink")』から、2005年10月に発売された『[POP STAR](../Page/POP_STAR.md "wikilink")』までの[シングル](../Page/シングル.md "wikilink")A面表題曲全23曲を収録。デビュー10周年を記念した、[オールタイムベストである](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。初回限定盤には収録曲の全[ビデオクリップを収めた](../Page/ミュージック・ビデオ.md "wikilink")[DVDを付属](../Page/DVD-Video.md "wikilink")。
 
-収録曲はシングルの発売順に並べられており、Disc1は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までの作品、Disc2は[2001年](../Page/2001年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までの作品がまとめられている。
+収録曲はシングルの発売順に並べられており、Disc 1は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")から[2000年](../Page/2000年.md "wikilink")までの作品、Disc 2は[2001年](../Page/2001年.md "wikilink")から[2005年](../Page/2005年.md "wikilink")までの作品がまとめられている。
 
-最新シングル『POP STAR』は当初収録の予定がなかったが、シングルのヒットやタイアップの影響などから収録が熱望され、デフスターレコーズの判断で急遽追加収録された。そのため、11曲ずつの収録の予定が、Disc2は12曲と1曲多く収録され、ディスクタイトルも2001-2005 WORKSと当初の2001-2004から**2005**へと変更された。
+最新シングル『POP STAR』は当初収録の予定がなかったが、シングルのヒットやタイアップの影響などから収録の要望が多かったため、デフスターレコーズの判断で急遽追加収録された。そのため、11曲ずつの収録の予定が、Disc 2は12曲と1曲多く収録され、ディスクタイトルも2001-2005 WORKSと当初の2001-2004から**2005**へと変更された。
 
 [2009年](../Page/2009年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")に[Blu-spec CD仕様で発売された](https://ja.wikipedia.org/wiki/Blu-spec_CD "wikilink")\[1\]。
 
@@ -29,25 +29,25 @@
 
 1.  **[Precious Junk](../Page/Precious_Junk.md "wikilink")**
       - 1stシングル
-      - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[王様のレストラン](../Page/王様のレストラン.md "wikilink")」主題歌
+      - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[王様のレストラン](../Page/王様のレストラン.md "wikilink")』主題歌
 2.  **[片方ずつのイヤフォン](../Page/片方ずつのイヤフォン.md "wikilink")**
       - 2ndシングル
-      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系「[VIDEO JAM](../Page/VIDEO_JAM.md "wikilink")」オープニングテーマ
+      - [テレビ朝日](../Page/テレビ朝日.md "wikilink")系『[VIDEO JAM](../Page/VIDEO_JAM.md "wikilink")』オープニングテーマ
 3.  **[横顔](../Page/横顔_\(平井堅の曲\).md "wikilink")**
       - 3rdシングル
-      - フジテレビ系「[めざまし天気](../Page/めざまし天気.md "wikilink")」エンディングテーマ
-      - [ニッポン放送](../Page/ニッポン放送.md "wikilink")「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」エンディングテーマ
+      - フジテレビ系『[めざまし天気](../Page/めざまし天気.md "wikilink")』エンディングテーマ
+      - [ニッポン放送](../Page/ニッポン放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』エンディングテーマ
 4.  **[ドシャブリ](../Page/ドシャブリ_\(平井堅の曲\).md "wikilink")**
       - 4thシングル
 5.  **[Stay With Me](../Page/Stay_With_Me_\(平井堅の曲\).md "wikilink")**
       - 5thシングル
 6.  **[HEAT UP](../Page/HEAT_UP.md "wikilink")**
       - 6thシングル
-      - [ABC系](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")「[速報\!甲子園への道](../Page/速報!甲子園への道.md "wikilink")」テーマソング
+      - [ABC系](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")『[速報\!甲子園への道](../Page/速報!甲子園への道.md "wikilink")』テーマソング
       - アルバム初収録。
 7.  **[Love Love Love](../Page/Love_Love_Love_\(平井堅の曲\).md "wikilink")**
       - 7thシングル
-      - [TBS系](../Page/TBSテレビ.md "wikilink")「愛のヒナ壇」オープニングテーマ
+      - [TBS系](../Page/TBSテレビ.md "wikilink")『愛のヒナ壇』オープニングテーマ
 8.  **[楽園](../Page/楽園_\(平井堅の曲\).md "wikilink")**
       - 8thシングル
 9.  **[why](../Page/Why_\(平井堅の曲\).md "wikilink")**
@@ -64,7 +64,7 @@
       - 平井堅出演 [キッコーマン](../Page/キッコーマン.md "wikilink")「万上焼酎 トライアングル」CMソング
 2.  **[KISS OF LIFE](../Page/KISS_OF_LIFE_\(平井堅の曲\).md "wikilink")**
       - 13thシングル
-      - フジテレビ系ドラマ「[ラブ・レボリューション](../Page/ラブ・レボリューション.md "wikilink")」主題歌
+      - フジテレビ系ドラマ『[ラブ・レボリューション](../Page/ラブ・レボリューション.md "wikilink")』主題歌
       - シングルバージョンはアルバム初収録。
 3.  **[Missin' you 〜It will break my heart〜](../Page/Missin'_you_〜It_will_break_my_heart〜.md "wikilink")**
       - 14thシングル
@@ -73,31 +73,30 @@
       - [本田技研工業](../Page/本田技研工業.md "wikilink")「[That's](https://ja.wikipedia.org/wiki/That's "wikilink")」CMソング
 5.  **[大きな古時計](../Page/大きな古時計.md "wikilink")**
       - 16thシングル
-      - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」2002年8 - 9月
+      - [NHK](../Page/NHK総合テレビジョン.md "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』2002年8 - 9月度放送曲
       - [au by KDDI](https://ja.wikipedia.org/wiki/au_by_KDDI "wikilink")「EZ [着うた](../Page/着うた.md "wikilink")」CMソング
 6.  **[Ring](../Page/Ring_\(平井堅の曲\).md "wikilink")**
       - 17thシングル
-      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")「[サイコドクター](../Page/サイコドクター.md "wikilink")」主題歌
+      - [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[サイコドクター](../Page/サイコドクター.md "wikilink")』主題歌
 7.  **[LIFE is... 〜another story〜](../Page/LIFE_is..._〜another_story〜.md "wikilink")**
       - 18thシングル
-      - TBS系ドラマ「[ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")」主題歌
-      - [任天堂](../Page/任天堂.md "wikilink")「[ファイアーエムブレム 烈火の剣](../Page/ファイアーエムブレム_烈火の剣.md "wikilink")」CMソング
-      - 5thアルバム『[LIFE is...](../Page/LIFE_is....md "wikilink")』からのリカットシングルでオリジナルバージョンとはアレンジが異なるバージョン。このバージョンはアルバム初収録。
+      - TBS系ドラマ『[ブラックジャックによろしく](../Page/ブラックジャックによろしく.md "wikilink")』主題歌
+      - シングルバージョンはアルバム初収録。
 8.  **[style](../Page/Style_\(平井堅の曲\).md "wikilink")**
       - 19thシングル
 9.  **[瞳をとじて](../Page/瞳をとじて.md "wikilink")**
       - 20thシングル
-      - [東宝](../Page/東宝.md "wikilink")配給映画「[世界の中心で、愛をさけぶ](../Page/世界の中心で、愛をさけぶ.md "wikilink")」主題歌
+      - [東宝](../Page/東宝.md "wikilink")配給映画『[世界の中心で、愛をさけぶ](../Page/世界の中心で、愛をさけぶ.md "wikilink")』主題歌
 10. **[キミはともだち](../Page/キミはともだち.md "wikilink")**
       - 21stシングル
-      - フジテレビ系ドラマ「[ワンダフルライフ](../Page/ワンダフルライフ.md "wikilink")」主題歌
+      - フジテレビ系ドラマ『[ワンダフルライフ](../Page/ワンダフルライフ.md "wikilink")』主題歌
 11. **[思いがかさなるその前に…](../Page/思いがかさなるその前に….md "wikilink")**
       - 22ndシングル
       - 平井堅出演 [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")「[カローラ フィールダー](../Page/トヨタ・カローラフィールダー.md "wikilink")」CMソング
-      - フジテレビ系ドラマ「[積木くずし](../Page/積木くずし.md "wikilink")真相〜あの家族、その後の悲劇〜」主題歌
+      - フジテレビ系ドラマ『[積木くずし](../Page/積木くずし.md "wikilink")真相〜あの家族、その後の悲劇〜』主題歌
 12. **[POP STAR](../Page/POP_STAR.md "wikilink")**
       - 23rdシングル
-      - フジテレビ系ドラマ「[危険なアネキ](../Page/危険なアネキ.md "wikilink")」主題歌
+      - フジテレビ系ドラマ『[危険なアネキ](../Page/危険なアネキ.md "wikilink")』主題歌
       - アルバム初収録。
 
 ## 脚注

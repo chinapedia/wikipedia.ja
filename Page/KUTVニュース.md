@@ -21,7 +21,7 @@
 
 ## 関連項目
 
-  - [情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink") （月曜 - 金曜 17:15 - 18:55）
+  - [情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink") （月曜 - 金曜 16:50 - 18:55\[1\]）
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
 ## 外部リンク
@@ -30,3 +30,5 @@
   - [gooニュース KUTVテレビ高知](https://news.goo.ne.jp/publisher/kutv/) - 動画配信なし
 
 [Category:テレビ高知の番組](https://ja.wikipedia.org/wiki/Category:テレビ高知の番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:ひるおび\!](https://ja.wikipedia.org/wiki/Category:ひるおび! "wikilink") [Category:JNNニュースコープ](https://ja.wikipedia.org/wiki/Category:JNNニュースコープ "wikilink") [Category:JNNニュースの森](https://ja.wikipedia.org/wiki/Category:JNNニュースの森 "wikilink") [Category:JNNイブニング・ニュース](https://ja.wikipedia.org/wiki/Category:JNNイブニング・ニュース "wikilink") [Category:Nスタ](https://ja.wikipedia.org/wiki/Category:Nスタ "wikilink")
+
+1.  ローカルパートは17:15頃 - 17:50・18:15 - 18:55。

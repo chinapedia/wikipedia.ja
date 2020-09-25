@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - 前作「[キミがいる](https://ja.wikipedia.org/wiki/キミがいる "wikilink")」から5ヶ月ぶりのシングル。
+  - 前作「[キミがいる](../Page/キミがいる_\(CHEMISTRYの曲\).md "wikilink")」から5ヶ月ぶりのシングル。
   - 「Wings of Words」はアニメ『[機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")』の第4期オープニング曲。
   - 初回版・通常盤ともにカップリングに[エリック・クラプトン](../Page/エリック・クラプトン.md "wikilink")の[カバー](../Page/カバー.md "wikilink")曲「Change the World」を収録している。
   - 「Change the World」は[サントリー](../Page/サントリー.md "wikilink")ウイスキー「[角瓶](https://ja.wikipedia.org/wiki/角瓶 "wikilink")」のCMで唄ったワンフレーズしか存在しなかったが、それが好評だったため今作にフルで収録されることになった（『CDでーた』2005年8月号）。

@@ -98,7 +98,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/合田敏行" title="wikilink">合田敏行</a></p></td>
 <td><p><a href="../Page/石田ひかり.md" title="wikilink">石田ひかり</a></p></td>
 <td><p>大林宣彦、<a href="../Page/中嶋悟.md" title="wikilink">中嶋悟</a>、柴門ふみ、<a href="../Page/緒方かな子.md" title="wikilink">中條かな子</a></p></td>
-<td><p><a href="../Page/KUSUKUSU.md" title="wikilink">KUSUKUSU</a>、<a href="../Page/河内家菊水丸.md" title="wikilink">河内家菊水丸</a></p></td>
+<td><p><a href="../Page/KUSUKUSU.md" title="wikilink">KUSUKUSU</a>、<a href="../Page/河内家菊水丸.md" title="wikilink">河内家菊水丸</a>、<a href="../Page/シャ乱Q.md" title="wikilink">シャ乱Q</a>[2]</p></td>
 </tr>
 <tr class="odd">
 <td><p>39</p></td>
@@ -168,7 +168,7 @@
 <td><p>47</p></td>
 <td><p>2000年度（2001.1.8）</p></td>
 <td><p><a href="../Page/柘植恵水.md" title="wikilink">柘植恵水</a></p></td>
-<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a>[2]</p></td>
+<td><p><a href="../Page/DA_PUMP.md" title="wikilink">DA PUMP</a>[3]</p></td>
 <td></td>
 <td><p>DA PUMP、<a href="../Page/GO!GO!7188.md" title="wikilink">GO!GO!7188</a>、<a href="https://ja.wikipedia.org/wiki/うたいびとはね" title="wikilink">うたいびとはね</a></p></td>
 </tr>
@@ -176,15 +176,15 @@
 <td><p>48</p></td>
 <td><p>2001年度（2002.1.14）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小野文恵" title="wikilink">小野文恵</a></p></td>
-<td><p><a href="../Page/氷川きよし.md" title="wikilink">氷川きよし</a>[3]</p></td>
+<td><p><a href="../Page/氷川きよし.md" title="wikilink">氷川きよし</a>[4]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小出義雄" title="wikilink">小出義雄</a>、<a href="../Page/中村うさぎ.md" title="wikilink">中村うさぎ</a>、<a href="../Page/徳山昌守.md" title="wikilink">徳山昌守</a>、<a href="https://ja.wikipedia.org/wiki/眞鍋かをり" title="wikilink">眞鍋かをり</a>、出田幸彦（NHK番組制作局長）</p></td>
-<td><p>氷川きよし、<a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a>[4]、<a href="../Page/羽毛田丈史.md" title="wikilink">羽毛田丈史</a></p></td>
+<td><p>氷川きよし、<a href="https://ja.wikipedia.org/wiki/鬼束ちひろ" title="wikilink">鬼束ちひろ</a>[5]、<a href="../Page/羽毛田丈史.md" title="wikilink">羽毛田丈史</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>49</p></td>
 <td><p>2002年度（2003.1.13）</p></td>
 <td><p>小野文恵</p></td>
-<td><p><a href="../Page/タッキー&amp;翼.md" title="wikilink">タッキー&amp;翼</a>(<a href="https://ja.wikipedia.org/wiki/滝沢秀明" title="wikilink">滝沢秀明</a>・<a href="../Page/今井翼.md" title="wikilink">今井翼</a>)[5]</p></td>
+<td><p><a href="../Page/タッキー&amp;翼.md" title="wikilink">タッキー&amp;翼</a>(<a href="https://ja.wikipedia.org/wiki/滝沢秀明" title="wikilink">滝沢秀明</a>・<a href="../Page/今井翼.md" title="wikilink">今井翼</a>)[6]</p></td>
 <td><p><a href="../Page/糸井重里.md" title="wikilink">糸井重里</a>、<a href="../Page/MAYA_MAXX.md" title="wikilink">MAYA MAXX</a>、<a href="https://ja.wikipedia.org/wiki/安野モヨコ" title="wikilink">安野モヨコ</a>、<a href="../Page/平野啓一郎.md" title="wikilink">平野啓一郎</a>、<a href="../Page/吉田兄弟.md" title="wikilink">吉田兄弟</a>、出田幸彦</p></td>
 <td><p>タッキー&amp;翼、吉田兄弟、<a href="../Page/キンモクセイ_(バンド).md" title="wikilink">キンモクセイ</a></p></td>
 </tr>
@@ -236,10 +236,11 @@
   - [NHKアーカイブス保存番組検索「青春メッセージ」](http://archives.nhk.or.jp/chronicle/search/?q=%E9%9D%92%E6%98%A5%E3%83%A1%E3%83%83%E3%82%BB%E3%83%BC%E3%82%B8&st=1&cg=1&fy=1990&fm=1&fd=&ty=2005&tm=1&td=&x=93&y=20)2009年9月2日閲覧。
   - [NHKアーカイブス保存番組検索「青年の主張」](http://archives.nhk.or.jp/chronicle/search/?q=%E9%9D%92%E5%B9%B4%E3%81%AE%E4%B8%BB%E5%BC%B5&st=1&sd=1&cg=1&fy=1955&fm=1&fd=&ty=2005&tm=1&td=&x=111&y=19)2009年9月2日閲覧。
 
-[Category:NHK総合テレビジョンの特別番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの特別番組 "wikilink") [Category:かつて存在したNHKのテレビ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのテレビ年末年始特番 "wikilink") [Category:NHK総合テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組の歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:NHKラジオ第1の番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の番組の歴史 "wikilink") [Category:かつて存在したNHKのラジオ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのラジオ年末年始特番 "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink") [Category:かつて存在した日本のイベント](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のイベント "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:学生大会](https://ja.wikipedia.org/wiki/Category:学生大会 "wikilink") [Category:論文](https://ja.wikipedia.org/wiki/Category:論文 "wikilink") [Category:青年](https://ja.wikipedia.org/wiki/Category:青年 "wikilink") [Category:少年](https://ja.wikipedia.org/wiki/Category:少年 "wikilink")
+[Category:NHK総合テレビジョンの特別番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの特別番組 "wikilink") [Category:かつて存在したNHKのテレビ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのテレビ年末年始特番 "wikilink") [Category:NHK総合テレビジョンの番組の歴史](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの番組の歴史 "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:1990年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のテレビ番組_\(日本\) "wikilink") [Category:NHKラジオ第1の番組の歴史](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の番組の歴史 "wikilink") [Category:かつて存在したNHKのラジオ年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したNHKのラジオ年末年始特番 "wikilink") [Category:1990年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1990年のラジオ番組_\(日本\) "wikilink") [Category:年1回放送の特別番組](https://ja.wikipedia.org/wiki/Category:年1回放送の特別番組 "wikilink") [Category:NHKのイベント・キャンペーン](https://ja.wikipedia.org/wiki/Category:NHKのイベント・キャンペーン "wikilink") [Category:NHKホールの行事・イベント](https://ja.wikipedia.org/wiki/Category:NHKホールの行事・イベント "wikilink") [Category:かつて存在した日本のイベント](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のイベント "wikilink") [Category:日本のコンテスト](https://ja.wikipedia.org/wiki/Category:日本のコンテスト "wikilink") [Category:学生大会](https://ja.wikipedia.org/wiki/Category:学生大会 "wikilink") [Category:論文](https://ja.wikipedia.org/wiki/Category:論文 "wikilink") [Category:日本の青少年](https://ja.wikipedia.org/wiki/Category:日本の青少年 "wikilink")
 
 1.  「青春メッセージ」に衣替えした初年度となった1989年度にゲスト出演した嘉門達夫（現・[嘉門タツオ](../Page/嘉門タツオ.md "wikilink")）は「[替え歌メドレー](https://ja.wikipedia.org/wiki/替え歌メドレー "wikilink")」を5分超にわたり熱唱。来賓席で観覧していた[皇太子徳仁親王](https://ja.wikipedia.org/wiki/皇太子徳仁親王 "wikilink")も苦笑したという逸話がある。
-2.  DA PUMPはメンバーに[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")生まれ（[SHINOBU](https://ja.wikipedia.org/wiki/SHINOBU "wikilink")）がいたが、[2月15日](../Page/2月15日.md "wikilink")が誕生日だったため新成人ではない。
-3.  ちなみに氷川は[1977年](../Page/1977年.md "wikilink")生まれで当時23歳、鬼束は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")生まれで当時21歳だったので新成人ではない。
-4.
-5.  タッキー&翼は滝沢が[1982年](../Page/1982年.md "wikilink")生で当時21歳、今井が[1981年](../Page/1981年.md "wikilink")生で22歳だったので新成人ではない。
+2.  [BSヤングバトル](../Page/BSヤングバトル.md "wikilink")当年度グランプリとして登場
+3.  DA PUMPはメンバーに[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")生まれ（[SHINOBU](https://ja.wikipedia.org/wiki/SHINOBU "wikilink")）がいたが、[2月15日](../Page/2月15日.md "wikilink")が誕生日だったため新成人ではない。
+4.  ちなみに氷川は[1977年](../Page/1977年.md "wikilink")生まれで当時23歳、鬼束は[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")生まれで当時21歳だったので新成人ではない。
+5.
+6.  タッキー&翼は滝沢が[1982年](../Page/1982年.md "wikilink")生で当時21歳、今井が[1981年](../Page/1981年.md "wikilink")生で22歳だったので新成人ではない。

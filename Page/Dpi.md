@@ -1,7 +1,7 @@
 > この記事は[Dpi](https://ja.wikipedia.org/wiki/Dpi)から翻訳されています。
 
 
-**dpi**（ディーピーアイ、**DPI**とも表記）とは、の略で、[ドット密度](https://ja.wikipedia.org/wiki/ドット密度 "wikilink")の[単位](../Page/単位.md "wikilink")である。1[インチ](../Page/インチ.md "wikilink")（1[平方インチ](https://ja.wikipedia.org/wiki/平方インチ "wikilink")ではない）の幅の中にどれだけの[ドット](../Page/ドット.md "wikilink")を表現できるかを表す。なお、dpiで表したドット密度の数値を、単にdpiと呼ぶことがある。
+**dpi**（ディーピーアイ、**DPI**とも表記）とは、の略で、[ドット密度](https://ja.wikipedia.org/wiki/ドット密度 "wikilink")の[単位](../Page/単位.md "wikilink")である。1[インチ](../Page/インチ.md "wikilink")（1[平方インチ](../Page/平方インチ.md "wikilink")ではない）の幅の中にどれだけの[ドット](../Page/ドット.md "wikilink")を表現できるかを表す。なお、dpiで表したドット密度の数値を、単にdpiと呼ぶことがある。
 
 [プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")や[走査](../Page/走査.md "wikilink")（スキャン）の性能表示として用いられる。また、プリントサイズと対にすることで[コンピュータ](../Page/コンピュータ.md "wikilink")上で用いる[画像](../Page/画像.md "wikilink")[データ](../Page/データ.md "wikilink")の精度を表す単位としても用いられる。ピクセル数を表すppi（）と区別して用いられる。
 

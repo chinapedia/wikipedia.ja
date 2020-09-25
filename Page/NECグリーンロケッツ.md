@@ -69,11 +69,11 @@
 
 緑
 
-## 2019年度陣容
+## 2020年度陣容
 
 reference: \[3\] **太字**は今年からの新加入選手
 
-  - 主将 [亀井亮依](https://ja.wikipedia.org/wiki/亀井亮依 "wikilink")
+  - 主将 [亀井亮依](https://ja.wikipedia.org/wiki/亀井亮依 "wikilink") / [中嶋大希](https://ja.wikipedia.org/wiki/中嶋大希 "wikilink")
 
 <table>
 <thead>
@@ -117,28 +117,40 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/當眞琢" title="wikilink">當眞琢</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/當眞琢" title="wikilink">當眞琢</a></p></td>
 <td><p><a href="../Page/帝京大学ラグビー部.md" title="wikilink">帝京大</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/タキタキエロネ" title="wikilink">タキタキエロネ</a></strong></p></td>
+<td><p><a href="../Page/埼玉工業大学.md" title="wikilink">埼玉工業大</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>HO</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川村慎" title="wikilink">川村慎</a></p></td>
 <td><p><a href="../Page/慶應義塾體育會蹴球部.md" title="wikilink">慶應義塾大</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤耀" title="wikilink">佐藤耀</a></p></td>
 <td><p>慶應義塾大</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><strong><a href="../Page/カイ・ストローム.md" title="wikilink">カイ・ストローム</a></strong></p></td>
+<tr class="even">
+<td><p><a href="../Page/カイ・ストローム.md" title="wikilink">カイ・ストローム</a></p></td>
 <td><p>？</p></td>
 <td><p>？<br />
 （<a href="https://ja.wikipedia.org/wiki/ラグビーフィリピン代表" title="wikilink">比</a>）</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/新井望友.md" title="wikilink">新井望友</a></strong></p></td>
+<td><p><a href="../Page/東海大学体育会ラグビーフットボール部.md" title="wikilink">東海大</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -160,40 +172,64 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/山極大貴.md" title="wikilink">山極大貴</a></strong></p></td>
+<td><p><a href="../Page/専修大学ラグビー部.md" title="wikilink">専修大</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/本山尊.md" title="wikilink">本山尊</a></strong></p></td>
+<td><p>帝京大</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/パトリック・タファ.md" title="wikilink">パトリック・タファ</a></strong></p></td>
+<td><p>ブリスベン・ステート高</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>FL</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大和田立" title="wikilink">大和田立</a></p></td>
 <td><p>帝京大</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/細田佳也" title="wikilink">細田佳也</a></p></td>
 <td><p><a href="../Page/日本大学ラグビー部.md" title="wikilink">日本大</a></p></td>
 <td><p>2</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大石力也" title="wikilink">大石力也</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山梨学院大学ラグビー部" title="wikilink">山梨学院大</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/亀井亮依" title="wikilink">亀井亮依</a></p></td>
 <td><p>帝京大</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/松村拓海" title="wikilink">松村拓海</a></p></td>
 <td><p>法政大</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><strong><a href="../Page/ジャック・タファ・ラム.md" title="wikilink">ジャック・タファ・ラム</a></strong></p></td>
+<tr class="odd">
+<td><p><a href="../Page/ジャック・タファ・ラム.md" title="wikilink">ジャック・タファ・ラム</a></p></td>
 <td><p><a href="../Page/キャンベラ大学.md" title="wikilink">キャンベラ大</a></p></td>
 <td><p>38<br />
 (<a href="../Page/ラグビーサモア代表.md" title="wikilink">サモア</a>)</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/アセリ・マシヴォウ.md" title="wikilink">アセリ・マシヴォウ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/拓殖大学ラグビー部" title="wikilink">拓殖大</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -235,8 +271,8 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/吉川浩貴" title="wikilink">吉川浩貴</a></strong></p></td>
-<td><p><a href="../Page/帝京大学ラグビー部.md" title="wikilink">帝京大</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉川浩貴" title="wikilink">吉川浩貴</a></p></td>
+<td><p>帝京大</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -253,15 +289,28 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/金井大雪" title="wikilink">金井大雪</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/金井大雪" title="wikilink">金井大雪</a></p></td>
 <td><p>法政大</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong><a href="../Page/アレックス・グーディ.md" title="wikilink">アレックス・グーディ</a></strong></p></td>
+<td><p>？</p></td>
+<td><p>21<br />
+(<a href="../Page/ラグビーイングランド代表.md" title="wikilink">英</a>)</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>WTB</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マリティノ・ネマニ" title="wikilink">マリティノ・ネマニ</a></p></td>
+<td><p>セイクリッドハート高</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/後藤輝也" title="wikilink">後藤輝也</a></p></td>
 <td><p>山梨学院大</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -277,21 +326,21 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/マリティノ・ネマニ" title="wikilink">マリティノ・ネマニ</a></p></td>
-<td><p>セイクリッドハート高</p></td>
+<td><p><strong><a href="../Page/杉本悠馬.md" title="wikilink">杉本悠馬</a></strong></p></td>
+<td><p><a href="../Page/日本大学ラグビー部.md" title="wikilink">日本大</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>CTB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/釜池真道" title="wikilink">釜池真道</a></p></td>
-<td><p>同志社大</p></td>
+<td><p><strong><a href="../Page/アンドリュー・ケラウェイ.md" title="wikilink">アンドリュー・ケラウェイ</a></strong></p></td>
+<td><p>ザ・スコッツ大</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/松浦康一" title="wikilink">松浦康一</a></p></td>
-<td><p>明治大</p></td>
-<td></td>
+<td><p>CTB</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/釜池真道" title="wikilink">釜池真道</a></p></td>
+<td><p>同志社大</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -301,14 +350,26 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/山崎翔" title="wikilink">山崎翔</a></p></td>
-<td><p><a href="../Page/専修大学ラグビー部.md" title="wikilink">専修大</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/松浦康一" title="wikilink">松浦康一</a></p></td>
+<td><p>明治大</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/山崎翔" title="wikilink">山崎翔</a></p></td>
+<td><p>専修大</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/亀山雄大" title="wikilink">亀山雄大</a></p></td>
 <td><p>筑波大</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/ベンハード・ヤンセヴァン・レンスバーグ.md" title="wikilink">ベンハード・ヤンセヴァン・レンスバーグ</a></strong></p></td>
+<td><p>？</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -326,19 +387,6 @@ reference: \[3\] **太字**は今年からの新加入選手
 </tr>
 </tbody>
 </table>
-
-### 2020年度新加入予定選手
-
-  - [新井望友](../Page/新井望友.md "wikilink")
-  - [本山尊](../Page/本山尊.md "wikilink")
-  - [山極大貴](../Page/山極大貴.md "wikilink")
-  - [アセリ・マシヴォウ](../Page/アセリ・マシヴォウ.md "wikilink")
-  - [杉本悠馬](../Page/杉本悠馬.md "wikilink")
-  - [タキタキエロネ](https://ja.wikipedia.org/wiki/タキタキエロネ "wikilink")
-  - [パトリック・タファ](../Page/パトリック・タファ.md "wikilink")
-  - [アンドリュー・ケラウェイ](../Page/アンドリュー・ケラウェイ.md "wikilink")
-  - [アレックス・グーディ](../Page/アレックス・グーディ.md "wikilink")
-  - [ベンハード・ヤンセヴァン・レンスバーグ](../Page/ベンハード・ヤンセヴァン・レンスバーグ.md "wikilink")
 
 ## 在籍した主な選手
 

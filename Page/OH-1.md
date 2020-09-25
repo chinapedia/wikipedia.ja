@@ -15,7 +15,7 @@
 
 2015年に事故とエンジン等の不具合の判明により全機飛行停止措置が取られ、[三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[明野駐屯地](../Page/明野駐屯地.md "wikilink")の[飛行実験隊にて信頼性の向上および新装備採用のための飛行試験を実施](../Page/陸上自衛隊開発実験団.md "wikilink")。
 
-不具合原因の調査および対策措置の実施が終了し、2019年3月1日より飛行再開予定\[4\]。
+不具合原因の調査および対策措置の実施が終了し、2019年3月1日より飛行再開\[4\]。
 
 ## 特徴
 
@@ -257,11 +257,11 @@ AH-64Dの調達が13機で中断されたため、防衛省では新たに別機
 7.
 8.
 9.
-10. [佐官級幹部が漏洩か、川崎重工などに入札情報](http://web.archive.org/web/20121206120613/http://sankei.jp.msn.com/affairs/news/120906/crm12090601490004-n1.htm)（MSN産経、2012/9/6閲覧）
+10. [佐官級幹部が漏洩か、川崎重工などに入札情報](https://web.archive.org/web/20121206120613/http://sankei.jp.msn.com/affairs/news/120906/crm12090601490004-n1.htm)（MSN産経、2012/9/6閲覧）
 11. [防衛省が告発状提出、次期多用途ヘリコプター開発不正疑惑](https://archive.is/Z8IVk)（MSN産経、2012/10/5閲覧）
-12. [富士重工の内部資料手渡す、防衛省幹部来週にも刑事処分](http://web.archive.org/web/20130103132504/http://sankei.jp.msn.com/affairs/news/121215/crm12121500560000-n1.htm)（MSN産経、2012/12/15、2012/12/17閲覧）
-13. [２等陸佐２人を略式起訴　防衛ヘリ談合で東京地検　「利益供与なく悪質性低い」](http://web.archive.org/web/20121220121856/http://sankei.jp.msn.com/affairs/news/121220/crm12122017290013-n1.htm)
-14. [陸自ヘリ開発「白紙」 官製談合事件で小野寺防衛相 MSN](http://web.archive.org/web/20130111053720/http://sankei.jp.msn.com/affairs/news/130111/crm13011114290014-n1.htm)
+12. [富士重工の内部資料手渡す、防衛省幹部来週にも刑事処分](https://web.archive.org/web/20130103132504/http://sankei.jp.msn.com/affairs/news/121215/crm12121500560000-n1.htm)（MSN産経、2012/12/15、2012/12/17閲覧）
+13. [２等陸佐２人を略式起訴　防衛ヘリ談合で東京地検　「利益供与なく悪質性低い」](https://web.archive.org/web/20121220121856/http://sankei.jp.msn.com/affairs/news/121220/crm12122017290013-n1.htm)
+14. [陸自ヘリ開発「白紙」 官製談合事件で小野寺防衛相 MSN](https://web.archive.org/web/20130111053720/http://sankei.jp.msn.com/affairs/news/130111/crm13011114290014-n1.htm)
 15. [陸上自衛隊新多用途ヘリコプターの企業選定に係る事案に関する懲戒処分について](https://web.archive.org/20130813165359/http://www.mod.go.jp/j/press/news/2013/07/31d.html)（防衛省報道資料）
 16. [川崎重工業株式会社に対する指名停止の措置について](https://web.archive.org/20130813165357/http://www.mod.go.jp/j/press/news/2013/07/31e.html)（防衛省報道資料）
 17. Jウイング 2015年4月号

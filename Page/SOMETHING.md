@@ -1,9 +1,9 @@
 > この記事は[SOMETHING](https://ja.wikipedia.org/wiki/SOMETHING)から翻訳されています。
 
 
-『**SOMETHING**』（サムシング）は、[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[JFN系列局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")である。
+『**SOMETHING**』（サムシング）は、[2004年](../Page/2004年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")から[2006年](../Page/2006年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")まで[JFN系列で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ワイド番組](../Page/ワイド番組.md "wikilink")である。
 
-“何か”をキーワードに、一週間の政治、経済、エンターテイメントなど、世の中のさまざまな動きを伝えていた朝の情報ワイド。放送時間は毎週金曜 7:30 - 10:55（[日本標準時](../Page/日本標準時.md "wikilink")）を基準としていたが、フルネットしていた局は少なく、多くの局が番組の一部のみをネットしていた。
+“何か”をキーワードに、一週間の政治、経済、エンターテイメントなど、世の中のさまざまな動きを伝えていた朝の情報ワイド。放送時間は金曜 7:30 - 10:55を基準としていたが、[フルネット](https://ja.wikipedia.org/wiki/フルネット "wikilink")していた局は少なく、多くの局が番組の一部のみをネットしていた。
 
 ## パーソナリティ
 
@@ -46,6 +46,6 @@
 
   - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")
 
-[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")
 
 1.  放送開始 - 2005年3月は9:00 - 10:55に放送していた。

@@ -1,7 +1,7 @@
 > この記事は[1-UPスタジオ](https://ja.wikipedia.org/wiki/1-UPスタジオ)から翻訳されています。
 
 
-**1-UPスタジオ株式会社**（ワン-アップスタジオ、）は、[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")開発を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[企業](../Page/企業.md "wikilink")。旧商号は**株式会社ブラウニーブラウン**。
+**1-UPスタジオ株式会社**（ワン-アップスタジオ、）は、主に[ゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフトウェア](../Page/ソフトウェア.md "wikilink")の開発を行う[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の企業。旧商号は**株式会社ブラウニーブラウン**。
 
 ## 概要
 
@@ -48,7 +48,7 @@
   - [2007年](../Page/2007年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - 『[聖剣伝説 HEROES of MANA](../Page/聖剣伝説_HEROES_of_MANA.md "wikilink")』（スクウェア・エニックス）発売。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月4日](../Page/9月4日.md "wikilink") - 『[ブルードラゴン プラス](../Page/ブルードラゴン.md "wikilink")』（[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")）発売。
   - [2009年](../Page/2009年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - [ニンテンドーDSiウェア](https://ja.wikipedia.org/wiki/ニンテンドーDSiウェア "wikilink")『かっぱ道』（任天堂）発売。
-  - [12月26日](../Page/12月26日.md "wikilink") - 『[レイトン教授と魔神の笛](https://ja.wikipedia.org/wiki/レイトン教授と魔神の笛 "wikilink")』（[レベルファイブ](../Page/レベルファイブ.md "wikilink")）内のおまけゲーム、『レイトン教授のロンドンライフ』の開発を担当。
+  - [12月26日](../Page/12月26日.md "wikilink") - 『[レイトン教授と魔神の笛](https://ja.wikipedia.org/wiki/レイトン教授と魔神の笛 "wikilink")』（[レベルファイブ](../Page/レベルファイブ.md "wikilink")）内のおまけゲーム『レイトン教授のロンドンライフ』の開発を担当。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月28日](../Page/1月28日.md "wikilink") - 『リヴリーガーデン』（[マーベラスエンターテイメント](https://ja.wikipedia.org/wiki/マーベラスAQL "wikilink")）発売。
   - [2011年](../Page/2011年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") - 『[スーパーマリオ 3Dランド](https://ja.wikipedia.org/wiki/スーパーマリオ_3Dランド "wikilink")』（任天堂）発売。
   - [2012年](../Page/2012年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - 『[ファンタジーライフ](https://ja.wikipedia.org/wiki/ファンタジーライフ "wikilink")』（レベルファイブ）発売。
@@ -69,14 +69,20 @@
   - [井上信行](../Page/井上信行.md "wikilink")
   - 門井元
   - [任天堂](../Page/任天堂.md "wikilink")
-  - [石井浩一](../Page/石井浩一.md "wikilink") - 株式会社[グレッゾ](https://ja.wikipedia.org/wiki/グレッゾ "wikilink")代表。『聖剣伝説』シリーズの生みの親にして、亀岡らブラウニーブラウン初期メンバーのかつての直属の上司。『新約 聖剣伝説』、『聖剣伝説 HEROES of MANA』のプロデューサー。
-  - [増子司](../Page/増子司.md "wikilink") - フリーの[ゲームミュージック](../Page/ゲームミュージック.md "wikilink")作曲家・サウンドデザイナー。『マジカルバケーション』シリーズの音楽作曲・サウンドを担当。
+  - [石井浩一](../Page/石井浩一.md "wikilink") - 『[聖剣伝説](../Page/聖剣伝説.md "wikilink")シリーズ』の生みの親。亀岡らブラウニーブラウン初期メンバーで直属の上司。『[新約 聖剣伝説](https://ja.wikipedia.org/wiki/新約_聖剣伝説 "wikilink")』、『[聖剣伝説 HEROES of MANA](../Page/聖剣伝説_HEROES_of_MANA.md "wikilink")』のプロデューサー。
+  - [増子司](../Page/増子司.md "wikilink") - フリーのゲームミュージック作曲家・サウンドデザイナー。『[マジカルバケーション](../Page/マジカルバケーション.md "wikilink")シリーズ』の音楽作曲・サウンドを担当。
+
+<!-- end list -->
+
   - 関連企業
-      - [スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")
-      - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")
-      - [アルファドリーム](../Page/アルファドリーム.md "wikilink") - ブラウニーブラウンと同様の経緯で独立した元スクウェア社員が設立した会社。2019年倒産。
-      - [モノリスソフト](../Page/モノリスソフト.md "wikilink") - ブラウニーブラウンやアルファドリームと同じ設立経緯を持つ。2007年からはブラウニーブラウンと同様に任天堂の子会社となった。
-      - [ブラウニーズ](../Page/ブラウニーズ.md "wikilink")
+
+<!-- end list -->
+
+  - [スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")
+  - [スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")
+  - [アルファドリーム](../Page/アルファドリーム.md "wikilink") - ブラウニーブラウンと同様の経緯で独立した元[スクウェア](../Page/スクウェア.md "wikilink")社員が設立した会社。[2019年](../Page/2019年.md "wikilink")に倒産。
+  - [モノリスソフト](../Page/モノリスソフト.md "wikilink") - ブラウニーブラウンやアルファドリームと同じ設立経緯を持つ。[2007年](../Page/2007年.md "wikilink")からはブラウニーブラウンと同様に任天堂の子会社となった。
+  - [ブラウニーズ](../Page/ブラウニーズ.md "wikilink")
 
 ## 外部リンク
 
@@ -89,6 +95,6 @@
   - [The WORLD of MANA](http://www.square-enix.co.jp/mana/)（[旧公式サイト](http://web.archive.org/web/20120204042008/http://www.square-enix.co.jp/mana/)の[Internet Archiveログ](../Page/インターネットアーカイブ.md "wikilink")）
   - [ブルードラゴン プラス](http://www.aqi.co.jp/product/bdp/)
 
-[Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:任天堂の関連企業](https://ja.wikipedia.org/wiki/Category:任天堂の関連企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")
+[Category:日本のコンピュータゲームメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:日本のコンピュータゲームメーカー・ブランド "wikilink") [Category:任天堂の関連企業](https://ja.wikipedia.org/wiki/Category:任天堂の関連企業 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")
 
 1.  <https://web.archive.org/web/20071030221020/http://www.br2.co.jp/brownie/noplan/noplan6.htm>

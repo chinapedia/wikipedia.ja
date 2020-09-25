@@ -44,6 +44,7 @@
 
   - [野田正義](../Page/野田正義.md "wikilink")（投手） - の[都市対抗野球で](../Page/第77回都市対抗野球大会.md "wikilink")[橋戸賞](https://ja.wikipedia.org/wiki/橋戸賞 "wikilink")を受賞。
   - [高木修二](https://ja.wikipedia.org/wiki/高木修二_\(競輪選手\) "wikilink")（外野手） - 引退後、[競輪選手](../Page/競輪選手.md "wikilink")に転向。
+  - [佐々木弥](../Page/佐々木弥.md "wikilink")（内野手） - 2006年[社会人ベストナイン](../Page/社会人ベストナイン.md "wikilink")（一塁手）選出。
 
 ## 歴代監督
 

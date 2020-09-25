@@ -151,7 +151,7 @@
 <td><p>140</p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><strong>-</strong></p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
 <td><p>[1]</p></td>
 <td></td>
@@ -197,10 +197,10 @@
 <td><p>8</p></td>
 </tr>
 <tr class="even">
-<td></td>
 <td><p><a href="../Page/1999年.md" title="wikilink">1999年</a><a href="../Page/11月10日.md" title="wikilink">11月10日</a></p></td>
 <td></td>
 <td><p>8</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2nd</p></td>
@@ -297,10 +297,10 @@
 <td><p>66</p></td>
 </tr>
 <tr class="even">
-<td><p>カバー</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/2008年" title="wikilink">2008年</a><a href="../Page/8月6日.md" title="wikilink">8月6日</a></p></td>
 <td></td>
 <td><p>69</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>ベスト</p></td>
@@ -309,27 +309,27 @@
 <td><p>246</p></td>
 </tr>
 <tr class="even">
-<td><p>ベスト</p></td>
 <td><p><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/4月29日.md" title="wikilink">4月29日</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ベスト</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/3月20日.md" title="wikilink">3月20日</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>ベスト</p></td>
 <td><p><a href="../Page/2013年.md" title="wikilink">2013年</a><a href="../Page/6月12日.md" title="wikilink">6月12日</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ベスト</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/7月24日.md" title="wikilink">7月24日</a></p></td>
 <td><p>[3]</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

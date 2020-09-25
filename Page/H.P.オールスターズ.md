@@ -523,7 +523,7 @@
 
 #### アプリケーション
 
-  - 美人天気（2011年11月1日 - 31日、[ドワンゴ](../Page/ドワンゴ.md "wikilink")、[Android](../Page/Android.md "wikilink")・[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）\[35\]\[36\]
+  - 美人天気（2011年11月1日 - 31日、[ドワンゴ](../Page/ドワンゴ.md "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")・[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")）\[35\]\[36\]
   - モベキマス告白週間 by ハロー\!プロジェクト（2011年11月15日、[GREE](https://ja.wikipedia.org/wiki/GREE "wikilink")、Android・iOS）\[37\]\[38\]
 
 ### 出演
@@ -652,7 +652,7 @@
 
 :\* [H.P.オールスターズ リリース作品情報](http://www.up-front-works.jp/release/search/?a=HP_Allstars) - [UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")
 
-:\* [Produce Work](http://www.tsunku.net/producework.php?Music_ArtistID=117&@DB_ID@=425#01) - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")オフィシャルウェブサイト
+:\* [Produce Work](https://www.tsunku.net/producework.php?Music_ArtistID=117&@DB_ID@=425#01) - [つんく♂](https://ja.wikipedia.org/wiki/つんく♂ "wikilink")オフィシャルウェブサイト
 
   - ハロー\!プロジェクト モベキマス
 
@@ -660,7 +660,7 @@
 
 :\* [ハロー\!プロジェクト モベキマス リリース作品情報](http://www.up-front-works.jp/release/search/?a=helloproject_mobekimasu) - UP-FRONT WORKS
 
-:\* [Produce Work](http://www.tsunku.net/producework.php?Music_ArtistID=136&@DB_ID@=515#01) - つんく♂オフィシャルウェブサイト
+:\* [Produce Work](https://www.tsunku.net/producework.php?Music_ArtistID=136&@DB_ID@=515#01) - つんく♂オフィシャルウェブサイト
 
 :\* （チャンネルは利用不可だが動画は再生可能）
 
@@ -670,7 +670,7 @@
 
 :\* [ハロプロ・オールスターズ リリース作品情報](http://www.up-front-works.jp/release/search/?a=HPallstars) - UP-FRONT WORKS
 
-:\* [Produce Work](http://www.tsunku.net/producework.php?Music_ArtistID=8&@DB_ID@=778#01) - つんく♂オフィシャルウェブサイト
+:\* [Produce Work](https://www.tsunku.net/producework.php?Music_ArtistID=8&@DB_ID@=778#01) - つんく♂オフィシャルウェブサイト
 
 :\*
 

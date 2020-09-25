@@ -224,10 +224,14 @@
 ## 外部リンク
 
   - [de Havilland Aircraft Heritage Centre](http://www.dehavillandmuseum.co.uk/)
-  - [Marc Schaeffer's De Haviiand Comet website](http://www.geocities.com/CapeCanaveral/Lab/8803/comet.htm)
+
+  -
   - [de Havilland Comet DH106 by David Young](http://www.dlyoung.freeserve.co.uk/DH106/COMET.htm)
+
   - [Comet 4C XS 235 "Canopus" restoring project](http://user.itl.net/~colonial/comet/intro.html)
+
   - [第48回国会 運輸委員会議事録 第9号（昭和40年3月5日）](http://kokkai.ndl.go.jp/SENTAKU/syugiin/048/0016/04803050016009c.html)
+
   - [De Havilland Aviation](https://web.archive.org/web/20070917122635/http://www.dehavillandaviation.com/)
 
 [Category:イギリスの旅客機](https://ja.wikipedia.org/wiki/Category:イギリスの旅客機 "wikilink") [Category:デ・ハビランドの航空機](https://ja.wikipedia.org/wiki/Category:デ・ハビランドの航空機 "wikilink") [Category:4発ジェット機](https://ja.wikipedia.org/wiki/Category:4発ジェット機 "wikilink")

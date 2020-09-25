@@ -1,7 +1,7 @@
 > この記事は[Dear ウーマン](https://ja.wikipedia.org/wiki/Dear_ウーマン)から翻訳されています。
 
 
-『**Dearウーマン**』（でぃあウーマン）は、[TBS系で](../Page/TBSテレビ.md "wikilink")[1996年](../Page/1996年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放送時間は、毎週日曜21時から21時54分（[東芝日曜劇場](https://ja.wikipedia.org/wiki/東芝日曜劇場 "wikilink")枠）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")に『Dearウーマンスペシャル あのセクハラバスターズが帰ってきた\! 婚約解消\!? ワナにはまった多聞の恋絶体絶命大ピンチ』が放送された。
+『**Dearウーマン**』（でぃあウーマン）は、[TBS系で](../Page/TBSテレビ.md "wikilink")[1996年](../Page/1996年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")から[12月22日](../Page/12月22日.md "wikilink")まで放送された[テレビドラマ](../Page/テレビドラマ.md "wikilink")。放送時間は、毎週日曜21:00から21:54まで（[東芝日曜劇場](https://ja.wikipedia.org/wiki/東芝日曜劇場 "wikilink")枠）。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")に『Dearウーマンスペシャル あのセクハラバスターズが帰ってきた\! 婚約解消\!? ワナにはまった多聞の恋絶体絶命大ピンチ』が放送された。
 
 ## キャスト
 

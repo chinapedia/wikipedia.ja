@@ -794,6 +794,57 @@ FOR THE KIDS! VI</strong></p></td>
 <td><p>5位</p></td>
 </tr>
 <tr class="even">
+<td><p>8th</p></td>
+<td><p>2018年12月5日</p></td>
+<td><p><strong>OF THE KIDS,<br />
+BY THE KIDS,<br />
+FOR THE KIDS! VII</strong></p></td>
+<td><p>UPBH-20229</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>収録内容</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>LIVE DISC「10-FEET "Fin" TOUR 2017-2018」 2018.2.22(木)Zepp Tokyo</p>
+<ol>
+<li>1 size FITS ALL</li>
+<li>火とリズム</li>
+<li>SHOES</li>
+<li>fast edge emotion</li>
+<li>2%</li>
+<li>十二支</li>
+<li>JUNGLES</li>
+<li>Fin</li>
+<li>風</li>
+<li>月 ～sound jammer せやな～</li>
+<li>FUTURE</li>
+<li>super stomper</li>
+<li>back to the sunset</li>
+<li>4REST</li>
+<li>夢の泥舟</li>
+<li>STONE COLD BREAK</li>
+<li>太陽4号</li>
+<li>アンテナラスト</li>
+<li>VIBES BY VIBES</li>
+<li>goes on</li>
+<li>蜃気楼</li>
+<li>1sec.</li>
+<li>ヒトリセカイ</li>
+<li>その向こうへ</li>
+<li>RIVER</li>
+<li>JUST A FALSE! JUST A HOLE!</li>
+<li>hammer ska</li>
+</ol>
+<p>DOCUMENTARY DISC</p>
+<ol>
+<li>「10-FEET "Fin" TOUR 2017-2018」2018.6.11(月)</li>
+</ol>
+<p>沖縄・桜坂セントラル、 ライブ・ダイジェスト＋ 船上パーティーの模様も含む 沖縄オフショット映像。</p>
+</div>
+</div></td>
+<td><p>3位</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1158,6 +1209,7 @@ MECR-3034</p></td>
   - 2017年10月31日〜2018年6月11日 - 10-FEET "Fin" TOUR 2017-2018
       -
         w/[藍坊主](../Page/藍坊主.md "wikilink")/[Northern19](../Page/Northern19.md "wikilink")/[POT](https://ja.wikipedia.org/wiki/POT "wikilink")/[ヤバイTシャツ屋さん](https://ja.wikipedia.org/wiki/ヤバイTシャツ屋さん "wikilink")/[Age Factory](https://ja.wikipedia.org/wiki/Age_Factory "wikilink")/[ENTH](https://ja.wikipedia.org/wiki/ENTH "wikilink")/[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")/THE SKIPPERS/[THE冠](https://ja.wikipedia.org/wiki/THE冠 "wikilink")/[NUBO](https://ja.wikipedia.org/wiki/NUBO "wikilink")/[マキシマム ザ ホルモン](https://ja.wikipedia.org/wiki/マキシマム_ザ_ホルモン "wikilink")/[ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink")/[四星球](../Page/四星球.md "wikilink")/[SUPER BEAVER](https://ja.wikipedia.org/wiki/SUPER_BEAVER "wikilink")/[HEY-SMITH](https://ja.wikipedia.org/wiki/HEY-SMITH "wikilink")/[Crystal Lake](https://ja.wikipedia.org/wiki/Crystal_Lake "wikilink")/[HOTSQUALL](https://ja.wikipedia.org/wiki/HOTSQUALL "wikilink")/[SHANK](https://ja.wikipedia.org/wiki/SHANK "wikilink")/[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")/[dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink")
+  - 2019年10月09日〜13月08日 - 10-FEET "ハローフィクサー” ONE-MAN TOUR 2019
 
 ### 主催フェス
 

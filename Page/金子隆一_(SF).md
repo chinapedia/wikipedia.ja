@@ -251,7 +251,7 @@
 21. 単行本1巻p.7および最終5巻作者あとがき
 22. [山本貴嗣Twitter](https://twitter.com/atsuji_yamamoto/status/698016214954553344) 2016年2月12日
 23. [山本貴嗣Twitter](https://twitter.com/atsuji_yamamoto/status/698016255005974528) 2016年2月12日
-24. [追悼・金子隆一さん - Dinosaur Fan](http://dinosaur-fan.net/naruhodo/tamura-n/14) 2014年8月16日閲覧
+24. [新恐竜秘宝館 Vol.14 追悼・金子隆一さん – フェバリット ストア](https://f-favorite.net/blogs/dinosaur_treasure_house/tamura-n_014) 2020年9月04日閲覧
 25. 「花に追われた恐竜」に非難沸騰\! NHKスペシャル「生命 40億年はるかな旅」, 『科学朝日』1994年11月号, pp.35-39, 朝日新聞社.
 26. 再燃・白熱\! NHK「花に追われた恐竜」擁護vs.再反論, 『科学朝日』1995年1月号, pp.40-45, 朝日新聞社.
 27. 『最新恐竜事典 分類・生態・謎・情報収集』pp.208-209、『最新恐竜学レポート』pp.113-123

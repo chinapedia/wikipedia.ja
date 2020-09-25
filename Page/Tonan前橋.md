@@ -71,42 +71,42 @@
 
 ### リーグ戦
 
-|                                                                       |                                              |        |    |    |    |      |     |    |       |         |         |
-| --------------------------------------------------------------------- | -------------------------------------------- | ------ | -- | -- | -- | ---- | --- | -- | ----- | ------- | ------- |
-| 年度                                                                    | 所属                                           | 順位     | 勝点 | 試合 | 勝  | 分    | 敗   | 得点 | 失点    | 得失      | 天皇杯     |
-| 1989                                                                  | [群馬県](../Page/群馬県社会人サッカーリーグ.md "wikilink")2部 | **優勝** |    |    |    |      |     |    |       |         |         |
-| 1990                                                                  | 群馬県1部                                        | **2位** |    |    |    |      |     |    |       |         |         |
-| 1991                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |         |         |
-| 1992                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |         |         |
-| [1993](https://ja.wikipedia.org/wiki/1993年の地域リーグ_\(サッカー\) "wikilink") | [関東](../Page/関東サッカーリーグ.md "wikilink")        | **9位** | 9  | 18 | 3  | 3    | 12  | 16 | 53    | \-37    |         |
-| 1994                                                                  | 群馬県1部                                        | **優勝** |    |    |    |      |     |    |       |         |         |
-| 1995                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選準決勝  |         |
-| 1996                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |         |         |
-| 1997                                                                  | **2位**                                       |        |    |    |    |      |     |    |       | 県予選準優勝  |         |
-| 1998                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選3位   |         |
-| 1999                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選3回戦  |         |
-| 2000                                                                  | **優勝**                                       | 27     | 10 | 9  | 0  | 1    | 40  | 12 | \+28  | 県予選1回戦  |         |
-| [2001](https://ja.wikipedia.org/wiki/2001年の地域リーグ_\(サッカー\) "wikilink") | 関東                                           | **7位** | 22 | 18 | 6  | 4    | 8   | 27 | 30    | \-3     | 県予選準優勝  |
-| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | **9位**                                       | 11     | 9  | 2  | \- | 7(3) | 13  | 19 | \-6   | 県予選3位   |         |
-| 2003                                                                  | 群馬県1部                                        | **優勝** | 34 | 14 | 11 | 1    | 2   | 50 | 15    | \+35    | 県予選3位   |
-| 2004                                                                  | **優勝**                                       | 23     | 10 | 7  | 2  | 1    | 33  | 11 | \+22  | 県予選準々決勝 |         |
-| 2005                                                                  | **優勝**                                       | 35     | 14 | 11 | 2  | 1    | 52  | 16 | \+36  | 県予選準々決勝 |         |
-| 2006                                                                  | **優勝**                                       | 30     | 12 | 9  | 3  | 0    | 62  | 18 | \+44  | 県予選準々決勝 |         |
-| 2007                                                                  | **優勝**                                       | 42     | 14 | 14 | 0  | 0    | 87  | 10 | \+77  | **1回戦** |         |
-| 2008                                                                  | **優勝**                                       | 39     | 14 | 13 | 0  | 1    | 114 | 9  | \+105 | 県予選準優勝  |         |
-| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | **2位** | 30 | 14 | 10 | 0    | 4   | 38 | 14    | \+24    | 県予選準優勝  |
-| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 関東1部                                         | **5位** | 20 | 14 | 6  | 2    | 6   | 22 | 23    | \-1     | 県予選準優勝  |
-| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | **5位**                                       | 17     | 14 | 5  | 2  | 7    | 20  | 26 | \-6   | 県予選3位   |         |
-| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | **4位**                                       | 28     | 18 | 8  | 4  | 6    | 34  | 29 | \+5   | **2回戦** |         |
-| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | **3位**                                       | 31     | 18 | 9  | 4  | 5    | 32  | 21 | \+11  | 県予選準優勝  |         |
-| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | **7位**                                       | 22     | 18 | 6  | 4  | 8    | 26  | 33 | \-7   | 県予選準優勝  |         |
-| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | **8位**                                       | 16     | 18 | 4  | 4  | 10   | 14  | 22 | \-8   | **1回戦** |         |
-| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | **9位**                                       | 14     | 18 | 3  | 5  | 10   | 20  | 32 | \-12  | 県予選準優勝  |         |
-| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | **2位** | 31 | 18 | 9  | 4    | 5   | 26 | 21    | \+5     | **2回戦** |
-| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | **3位**                                       | 31     | 18 | 8  | 7  | 3    | 27  | 13 | \+14  | 県予選準優勝  |         |
-| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | **4位**                                       | 28     | 18 | 8  | 4  | 6    | 39  | 30 | \+9   | 県予選準優勝  |         |
-| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    | 位                                            |        | 9  |    |    |      |     |    |       |         |         |
-|                                                                       |                                              |        |    |    |    |      |     |    |       |         |         |
+|                                                                       |                                              |        |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| --------------------------------------------------------------------- | -------------------------------------------- | ------ | -- | -- | -- | ---- | --- | -- | ----- | --------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 年度                                                                    | 所属                                           | 順位     | 勝点 | 試合 | 勝  | 分    | 敗   | 得点 | 失点    | 得失差                                                                   | [{{font](../Page/天皇杯_JFA_全日本サッカー選手権大会.md "wikilink")                  |
+| 1989                                                                  | [群馬県](../Page/群馬県社会人サッカーリーグ.md "wikilink")2部 | **優勝** |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| 1990                                                                  | 群馬県1部                                        | 2位     |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| 1991                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| 1992                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| [1993](https://ja.wikipedia.org/wiki/1993年の地域リーグ_\(サッカー\) "wikilink") | [関東](../Page/関東サッカーリーグ.md "wikilink")        | 9位     | 9  | 18 | 3  | 3    | 12  | 16 | 53    | \-37                                                                  |                                                                       |
+| 1994                                                                  | 群馬県1部                                        | **優勝** |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| 1995                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選準決勝                                                                |                                                                       |
+| 1996                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       |                                                                       |                                                                       |
+| 1997                                                                  | 2位                                           |        |    |    |    |      |     |    |       | 県予選準優勝                                                                |                                                                       |
+| 1998                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選3位                                                                 |                                                                       |
+| 1999                                                                  | **優勝**                                       |        |    |    |    |      |     |    |       | 県予選3回戦                                                                |                                                                       |
+| 2000                                                                  | **優勝**                                       | 27     | 10 | 9  | 0  | 1    | 40  | 12 | \+28  | 県予選1回戦                                                                |                                                                       |
+| [2001](https://ja.wikipedia.org/wiki/2001年の地域リーグ_\(サッカー\) "wikilink") | 関東                                           | 7位     | 22 | 18 | 6  | 4    | 8   | 27 | 30    | \-3                                                                   | 県予選準優勝                                                                |
+| [2002](https://ja.wikipedia.org/wiki/2002年の地域リーグ_\(サッカー\) "wikilink") | 9位                                           | 11     | 9  | 2  | \- | 7(3) | 13  | 19 | \-6   | 県予選3位                                                                 |                                                                       |
+| 2003                                                                  | 群馬県1部                                        | **優勝** | 34 | 14 | 11 | 1    | 2   | 50 | 15    | \+35                                                                  | 県予選3位                                                                 |
+| 2004                                                                  | **優勝**                                       | 23     | 10 | 7  | 2  | 1    | 33  | 11 | \+22  | 県予選準々決勝                                                               |                                                                       |
+| 2005                                                                  | **優勝**                                       | 35     | 14 | 11 | 2  | 1    | 52  | 16 | \+36  | 県予選準々決勝                                                               |                                                                       |
+| 2006                                                                  | **優勝**                                       | 30     | 12 | 9  | 3  | 0    | 62  | 18 | \+44  | 県予選準々決勝                                                               |                                                                       |
+| 2007                                                                  | **優勝**                                       | 42     | 14 | 14 | 0  | 0    | 87  | 10 | \+77  | [1回戦敗退](../Page/第87回天皇杯全日本サッカー選手権大会.md "wikilink")                    |                                                                       |
+| 2008                                                                  | **優勝**                                       | 39     | 14 | 13 | 0  | 1    | 114 | 9  | \+105 | 県予選準優勝                                                                |                                                                       |
+| [2009](https://ja.wikipedia.org/wiki/2009年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | 2位     | 30 | 14 | 10 | 0    | 4   | 38 | 14    | \+24                                                                  | 県予選準優勝                                                                |
+| [2010](https://ja.wikipedia.org/wiki/2010年の地域リーグ_\(サッカー\) "wikilink") | 関東1部                                         | 5位     | 20 | 14 | 6  | 2    | 6   | 22 | 23    | \-1                                                                   | 県予選準優勝                                                                |
+| [2011](https://ja.wikipedia.org/wiki/2011年の地域リーグ_\(サッカー\) "wikilink") | 5位                                           | 17     | 14 | 5  | 2  | 7    | 20  | 26 | \-6   | 県予選3位                                                                 |                                                                       |
+| [2012](https://ja.wikipedia.org/wiki/2012年の地域リーグ_\(サッカー\) "wikilink") | 4位                                           | 28     | 18 | 8  | 4  | 6    | 34  | 29 | \+5   | [2回戦敗退](https://ja.wikipedia.org/wiki/第92回天皇杯全日本サッカー選手権大会 "wikilink") |                                                                       |
+| [2013](https://ja.wikipedia.org/wiki/2013年の地域リーグ_\(サッカー\) "wikilink") | 3位                                           | 31     | 18 | 9  | 4  | 5    | 32  | 21 | \+11  | 県予選準優勝                                                                |                                                                       |
+| [2014](https://ja.wikipedia.org/wiki/2014年の地域リーグ_\(サッカー\) "wikilink") | 7位                                           | 22     | 18 | 6  | 4  | 8    | 26  | 33 | \-7   | 県予選準優勝                                                                |                                                                       |
+| [2015](https://ja.wikipedia.org/wiki/2015年の地域リーグ_\(サッカー\) "wikilink") | 8位                                           | 16     | 18 | 4  | 4  | 10   | 14  | 22 | \-8   | [1回戦敗退](https://ja.wikipedia.org/wiki/第95回天皇杯全日本サッカー選手権大会 "wikilink") |                                                                       |
+| [2016](https://ja.wikipedia.org/wiki/2016年の地域リーグ_\(サッカー\) "wikilink") | 9位                                           | 14     | 18 | 3  | 5  | 10   | 20  | 32 | \-12  | 県予選準優勝                                                                |                                                                       |
+| [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 関東2部                                         | 2位     | 31 | 18 | 9  | 4    | 5   | 26 | 21    | \+5                                                                   | [2回戦敗退](https://ja.wikipedia.org/wiki/第97回天皇杯全日本サッカー選手権大会 "wikilink") |
+| [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 3位                                           | 31     | 18 | 8  | 7  | 3    | 27  | 13 | \+14  | 県予選準優勝                                                                |                                                                       |
+| [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 4位                                           | 28     | 18 | 8  | 4  | 6    | 39  | 30 | \+9   | 県予選準優勝                                                                |                                                                       |
+| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    | 位                                            |        | 9  |    |    |      |     |    |       | [1回戦敗退](../Page/天皇杯_JFA_第100回全日本サッカー選手権大会.md "wikilink")              |                                                                       |
+|                                                                       |                                              |        |    |    |    |      |     |    |       |                                                                       |                                                                       |
 
   - 注釈
 
@@ -114,7 +114,7 @@
 
   - ( )はPK戦
 
-### 全国社会人サッカー選手権大会
+### [全国社会人サッカー選手権大会](../Page/全国社会人サッカー選手権大会.md "wikilink")
 
 <table>
 <tbody>
@@ -252,7 +252,7 @@
 </tbody>
 </table>
 
-### 関東社会人サッカー大会
+### [関東社会人サッカー大会](../Page/関東社会人サッカー大会.md "wikilink")
 
 <table>
 <tbody>
@@ -417,11 +417,139 @@
 ### カップ戦
 
   - **[群馬県サッカー協会長杯サッカー大会](../Page/群馬県サッカー協会長杯サッカー大会.md "wikilink")：4回**
-      - 2007年、2012年、2015年、2017年
+      - 2007年、2012年、2015年、2017年、2020年
   - **[群馬県サッカー総合選手権大会](https://ja.wikipedia.org/wiki/群馬県サッカー総合選手権大会 "wikilink")：13回**
       - 1990年、1994年、1996年～2000年、2002年～2007年
 
 ## ユニフォーム
+
+<table>
+<tbody>
+<tr class="odd">
+<td><table>
+<caption><font size="+1"><strong>ユニフォームの色</strong></font></caption>
+<thead>
+<tr class="header">
+<th><p>カラー</p></th>
+<th><p>シャツ</p></th>
+<th><p>パンツ</p></th>
+<th><p>ストッキング</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>FP（1st）</p></td>
+<td><p>白×黒</p></td>
+<td><p>白</p></td>
+<td><p>黒</p></td>
+</tr>
+<tr class="even">
+<td><p>FP（2nd）</p></td>
+<td><p>青×紺</p></td>
+<td><p>紺</p></td>
+<td><p>紺</p></td>
+</tr>
+<tr class="odd">
+<td><p>FP（3rd）</p></td>
+<td><p>白×黒</p></td>
+<td><p>白</p></td>
+<td><p>黒</p></td>
+</tr>
+<tr class="even">
+<td><p>GK（1st）</p></td>
+<td><p>緑</p></td>
+<td><p>緑</p></td>
+<td><p>緑</p></td>
+</tr>
+<tr class="odd">
+<td><p>GK（2nd）</p></td>
+<td><p>ピンク</p></td>
+<td><p>ピンク</p></td>
+<td><p>ピンク</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="even">
+<td><table>
+<tbody>
+<tr class="odd">
+<td><p>{{Football kit</p></td>
+<td><p>pattern_la = _blacklower</p></td>
+<td><p>pattern_b = _whitevertical</p></td>
+<td><p>pattern_ra = _blacklower</p></td>
+<td><p>pattern_sh =</p></td>
+<td><p>pattern_so =</p></td>
+<td><p>leftarm = FFFFFF</p></td>
+<td><p>body = 000000</p></td>
+<td><p>rightarm = FFFFFF</p></td>
+<td><p>shorts = FFFFFF</p></td>
+<td><p>socks = 000000</p></td>
+<td><p>title = FP 1st }}</p></td>
+<td><p>{{Football kit</p></td>
+<td><p>pattern_la = _navylower</p></td>
+<td><p>pattern_b = _bluevertical</p></td>
+<td><p>pattern_ra = _navylower</p></td>
+<td><p>pattern_sh =</p></td>
+<td><p>pattern_so =</p></td>
+<td><p>leftarm = 0000CC</p></td>
+<td><p>body = 06264A</p></td>
+<td><p>rightarm = 0000CC</p></td>
+<td><p>shorts = 06264A</p></td>
+<td><p>socks = 06264A</p></td>
+<td><p>title = FP 2nd }}</p></td>
+<td><p>{{Football kit</p></td>
+<td><p>pattern_la = _whitelower</p></td>
+<td><p>pattern_b = _blackstripes3</p></td>
+<td><p>pattern_ra = _whitelower</p></td>
+<td><p>pattern_sh =</p></td>
+<td><p>pattern_so = _whiteband</p></td>
+<td><p>leftarm = 000000</p></td>
+<td><p>body = FFFFFF</p></td>
+<td><p>rightarm = 000000</p></td>
+<td><p>shorts = FFFFFF</p></td>
+<td><p>socks = 000000</p></td>
+<td><p>title = FP 3rd}}</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+<tr class="odd">
+<td><table>
+<tbody>
+<tr class="odd">
+<td><p>{{Football kit</p></td>
+<td><p>pattern_la = _greenlower</p></td>
+<td><p>pattern_b = _greenvertical2</p></td>
+<td><p>pattern_ra = _greenlower</p></td>
+<td><p>pattern_sh =</p></td>
+<td><p>pattern_so =</p></td>
+<td><p>leftarm = 007618</p></td>
+<td><p>body = 006639</p></td>
+<td><p>rightarm = 007618</p></td>
+<td><p>shorts = 007618</p></td>
+<td><p>socks = 006639</p></td>
+<td><p>title = GK 1st}}</p></td>
+<td><p>{{Football kit</p></td>
+<td><p>pattern_la = _pinkupper</p></td>
+<td><p>pattern_b = _pinkvertical</p></td>
+<td><p>pattern_ra = _pinkupper</p></td>
+<td><p>pattern_sh =</p></td>
+<td><p>pattern_so =</p></td>
+<td><p>leftarm = E34C8A</p></td>
+<td><p>body = E34C8A</p></td>
+<td><p>rightarm = E34C8A</p></td>
+<td><p>shorts = E5007F</p></td>
+<td><p>socks = E5007F</p></td>
+<td><p>title = GK 2nd}}</p></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
+
+<noinclude>
 
 ### ユニフォームスポンサー
 

@@ -18,7 +18,7 @@
 
 （左が優勝者）
 
-1.  1980年 [曺薫鉉](../Page/チョ薫鉉.md "wikilink") 2-0 [盧永夏](https://ja.wikipedia.org/wiki/盧永夏 "wikilink")
+1.  1980年 [曺薫鉉](../Page/曺薫鉉.md "wikilink") 2-0 [盧永夏](https://ja.wikipedia.org/wiki/盧永夏 "wikilink")
 2.  1982年 曺薫鉉 2-0 [金熙中](https://ja.wikipedia.org/wiki/金熙中 "wikilink")
 3.  1983年 [徐奉洙](../Page/徐奉洙.md "wikilink") 2-0 金坐基
 4.  1984年 曺薫鉉 2-1 徐奉洙

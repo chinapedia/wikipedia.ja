@@ -5,7 +5,7 @@
 
 ## 概要
 
-この楽曲の初出は2001年[12月16日](../Page/12月16日.md "wikilink")で、シングル「12月のLove song」の1曲目に収録されている。その際には、オリコン初登場5位を記録した。その後、毎年リミックスされた本楽曲と、[2002年](../Page/2002年.md "wikilink")は[英語](../Page/英語.md "wikilink")版、[2003年](../Page/2003年.md "wikilink")は[中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")版、[2004年](../Page/2004年.md "wikilink")は[韓国語版をカップリングとして収録し](../Page/朝鮮語.md "wikilink")、発売している。また、[2005年](../Page/2005年.md "wikilink")には「December Love Song feat.M.C the MAX(Isoo)」として配信限定でリリースされた。
+この楽曲の初出は2001年[12月16日](../Page/12月16日.md "wikilink")で、シングル「12月のLove song」の1曲目に収録されている。その際には、オリコン初登場5位を記録した。その後、毎年リミックスされた本楽曲と、[2002年](../Page/2002年.md "wikilink")は[英語](../Page/英語.md "wikilink")版、[2003年](../Page/2003年.md "wikilink")は[中国語](../Page/中国語.md "wikilink")版、[2004年](../Page/2004年.md "wikilink")は[韓国語版をカップリングとして収録し](../Page/朝鮮語.md "wikilink")、発売している。また、[2005年](../Page/2005年.md "wikilink")には「December Love Song feat.M.C the MAX(Isoo)」として配信限定でリリースされた。
 
 なお、中国語版はGACKTが映画「[MOON CHILD](../Page/MOON_CHILD_\(映画\).md "wikilink")」にて共演した[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の人気俳優・歌手である[ワン・リーホン](../Page/ワン・リーホン.md "wikilink")が作詞協力およびコーラスを担当している。
 

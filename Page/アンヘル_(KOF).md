@@ -21,7 +21,7 @@
 
 『KOF2002』（以下『2002』と表記）ではスコア上でプレイヤーが初心者と見なされた場合、CPU戦の中ボスとして登場する（中級者ならK9999、上級者と見なされた場合はクーラ・ダイアモンド）。
 
-[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『KOF NEOWAVE』（以下『NW』と表記）では[メイ・リー](../Page/メイ・リー.md "wikilink")と共に追加キャラクターとして登場しているが、後発の[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『NW』ではこの2人は登場しない。しかし、『2002』のリメイク版である『KOF2002 UNLIMITED MATCH』（以下『2002UM』と表記）では2人とも参戦を果たしており、アンヘルの方は恋愛シミュレーション『[Days of Memories](../Page/Days_of_Memories.md "wikilink") 〜僕と彼女と古都の恋〜』にも登場している。
+[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『KOF NEOWAVE』（以下『NW』と表記）では[メイ・リー](../Page/メイ・リー.md "wikilink")と共に追加キャラクターとして登場しているが、後発の[Xbox版](../Page/Xbox_\(ゲーム機\).md "wikilink")『NW』ではこの2人は登場しない。しかし、『2002』のリメイク版である『KOF2002 UNLIMITED MATCH』（以下『2002UM』と表記）では2人とも参戦を果たしており、アンヘルの方は恋愛シミュレーション『[Days of Memories](../Page/Days_of_Memories.md "wikilink") 〜僕と彼女と古都の恋〜』にも登場している。
 
 2016年に発売された『KOF XIV』（以下『XIV』と表記）ではK9999と別れ、ネスツを抜けたことで追われる身となって愛用のバイクで1人で各地を転々としていたことが明かされ、故郷のメキシコで資金作りのためにプロレス興行に参加したところで[ラモンの目に止まり共演するようになる](https://ja.wikipedia.org/wiki/ラモン_\(KOF\) "wikilink")。また、ネスツ所属時代より性格がまともになっている。
 

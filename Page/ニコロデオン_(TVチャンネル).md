@@ -81,13 +81,15 @@
   - [うそつき吸血鬼](https://ja.wikipedia.org/wiki/:en:Liar,_Liar,_Vampire "wikilink") ※スペシャルドラマ ※日本語字幕版
   - ロケット・パワー
   - [バブル・グッピーズ](https://ja.wikipedia.org/wiki/バブル・グッピーズ "wikilink") ※英語教育アニメ
-  - [パウ・パトロール](https://ja.wikipedia.org/wiki/パウ・パトロール "wikilink") ※当初はテレビ東京系列で放送 ※英語教育アニメ
+  - [パウ・パトロール](https://ja.wikipedia.org/wiki/パウ・パトロール "wikilink") ※当初はテレビ東京系列で放送 ※吹き替え版及び英語版
   - [サム&キャット](https://ja.wikipedia.org/wiki/サム&キャット "wikilink") ※当初はNHKで放送 ※日本語字幕版
   - [アルバート ～もみの木くんの夢～](https://ja.wikipedia.org/wiki/:en:Albert_\(2016_film\) "wikilink")
   - レゴシティ アドベンチャーズ ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
   - レゴ ジュラシック・ワールド：イスラ・ヌブラル島の伝説 ※当初は[LEGO公式チャンネル](https://www.youtube.com/user/LEGO)で配信
   - [ジミー・ニュートロン 僕は天才発明家\!](https://ja.wikipedia.org/wiki/ジミー・ニュートロン_僕は天才発明家! "wikilink")
-  - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink")
+  - [名探偵ハンターストリート](https://ja.wikipedia.org/wiki/:en:Hunter_Street_\(TV_series\) "wikilink") ※日本語字幕版
+  - 夏休みの大冒険 ※日本語字幕版
+  - アー・ユー・アフレイド・オブ・ザ・ダーク？ ※日本語字幕版
 
 ### 日本のニコロデオンで放送されていた番組
 

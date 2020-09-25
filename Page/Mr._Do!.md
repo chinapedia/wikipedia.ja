@@ -367,8 +367,7 @@ Mr.Do! / Mr.Do! v.s UNICORNS</p></td>
 
   - [バーチャルコンソールアーケード Mr.DO\!](http://www.hamster.co.jp/products/soft.cgi?vca&100427)
 
-  - （英語）
-
+  -
 [Category:1982年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1982年のアーケードゲーム "wikilink") [Category:Apple_II用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Apple_II用ゲームソフト "wikilink") [Category:Atari_2600用ソフト](https://ja.wikipedia.org/wiki/Category:Atari_2600用ソフト "wikilink") [Category:Atari_8ビット・コンピュータ用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Atari_8ビット・コンピュータ用ゲームソフト "wikilink") [Category:MSX/MSX2用ソフト](https://ja.wikipedia.org/wiki/Category:MSX/MSX2用ソフト "wikilink") [Category:U.S._Goldのゲームソフト](https://ja.wikipedia.org/wiki/Category:U.S._Goldのゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:X68000用ゲームソフト](https://ja.wikipedia.org/wiki/Category:X68000用ゲームソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:固定画面アクションゲーム](https://ja.wikipedia.org/wiki/Category:固定画面アクションゲーム "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:コレコビジョン用ソフト](https://ja.wikipedia.org/wiki/Category:コレコビジョン用ソフト "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:道化師を題材とした作品](https://ja.wikipedia.org/wiki/Category:道化師を題材とした作品 "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:ユニバーサルエンターテインメント](https://ja.wikipedia.org/wiki/Category:ユニバーサルエンターテインメント "wikilink") [Category:ユニバーサルエンターテインメントのパチスロ](https://ja.wikipedia.org/wiki/Category:ユニバーサルエンターテインメントのパチスロ "wikilink")
 
 1.

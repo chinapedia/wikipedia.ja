@@ -3,26 +3,30 @@
 
 **Galla**（ガラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のソフト[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[エイベックス所属](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。
 
-1995年、GALA結成。1996年には[ZI:KILL](../Page/ZI:KILL.md "wikilink")のEBYプロデュースのオムニバスCD「Emergency Express 1996」に参加、その後avexと契約し表記をGallaに改名して1998年6月10日にメジャーデビュー、2000年11月に解散。
+__TOC__{{-}}
 
-2012年12月7日 田中雄二のバンド、KOHAK（コハク）が四ッ谷Doppoでのワンマンライブに、サポートで篠田達也、ゲストに麻田響也を迎え、12年ぶりにGallaの楽曲を演奏、そのステージで再結成を発表。
+## 経歴
 
-2013年3月1日 Galla再結成ライブ「Chapter3」を行うも、2014年1月1日、公式サイトにて解散を発表。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[平成](../Page/平成.md "wikilink")7年）、GALA結成。[1996年](../Page/1996年.md "wikilink")（平成8年）には[ZI:KILL](../Page/ZI:KILL.md "wikilink")のEBYプロデュースのオムニバスCD「Emergency Express 1996」に参加、その後avexと契約し表記をGallaに改名して[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）6月10日にメジャーデビュー、[2000年](../Page/2000年.md "wikilink")（平成12年）11月に解散。
+
+[2012年](../Page/2012年.md "wikilink")（平成24年）12月7日 田中雄二のバンド、KOHAK（コハク）が四ッ谷Doppoでのワンマンライブに、サポートで篠田達也、ゲストに麻田響也を迎え、12年ぶりにGallaの楽曲を演奏、そのステージで再結成を発表。
+
+[2013年](../Page/2013年.md "wikilink")（平成25年）3月1日 Galla再結成ライブ「Chapter3」を行うも、[2014年](../Page/2014年.md "wikilink")（平成26年）1月1日、公式サイトにて再解散を発表。
 
 ## メンバー
 
-  - 麻田響也（あさだ きょうや）
+  - 麻田 響也（あさだ きょうや）
     [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。[兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")[長田区](../Page/長田区.md "wikilink")出身。
     現在は「麻田キョウヤ」に改名し、ミュージカル役者・ラジオDJとして活動。「[仮面ライダー剣](https://ja.wikipedia.org/wiki/仮面ライダー剣 "wikilink")」のイメージソング「Never too late」や「[押忍\!闘え\!応援団](../Page/押忍!闘え!応援団.md "wikilink")」のカバーソング、「実況パワフルプロ野球12」のテーマソング「空色の軌跡」なども歌唱している。
-  - 田中雄二（たなか ゆうじ）
-    [ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身（公式サイトでは三鷹市出身と称している）。
-    現在はバンド「KOHAK」やソロプロジェクト「OUT OF MIND」等フリーで活動。
-  - 篠田達也（しのだ たつや）
+  - 田中 雄二（たなか ゆうじ）
+    [ギター](../Page/ギター.md "wikilink")担当。[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身（公式サイトでは[三鷹市](../Page/三鷹市.md "wikilink")出身と称している）。
+    現在はバンド「KOHAK」やソロプロジェクト「OUT OF MIND」等[フリーで活動](../Page/フリーランス.md "wikilink")。
+  - 篠田 達也（しのだ たつや）
     [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")[清瀬市](../Page/清瀬市.md "wikilink")出身。
-    後に大橋と「MUFF」を結成するも、2011年に解散。現在は[猫騙](../Page/猫騙.md "wikilink")に加入、[T4Rに参加](https://ja.wikipedia.org/wiki/広石武彦#T4R "wikilink")。サポートミュージシャンとしても活動中。
-  - 大橋孝明（おおはし たかあき）
-    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[弥富市](../Page/弥富市.md "wikilink")出身(公式サイトでは愛知県名古屋市出身と称している)。
-    後に篠田と「MUFF」を結成。2005年に引退し、現在は地元名古屋で楽器販売・音楽教室事業に従事。
+    大橋と「MUFF」を結成するも、[2011年](../Page/2011年.md "wikilink")（平成23年）に解散。現在は[猫騙](../Page/猫騙.md "wikilink")に加入、[T4Rに参加](https://ja.wikipedia.org/wiki/広石武彦#T4R "wikilink")。サポートミュージシャンとしても活動中。
+  - 大橋 孝明（おおはし たかあき）
+    [ドラムス担当](../Page/ドラムセット.md "wikilink")。[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[弥富市](../Page/弥富市.md "wikilink")出身(公式サイトでは愛知県[名古屋市](../Page/名古屋市.md "wikilink")出身と称している)。
+    後に篠田と「MUFF」を結成。[2005年](../Page/2005年.md "wikilink")（平成17年）に引退し、現在は地元名古屋で楽器販売・音楽教室事業に従事。
 
 ## ディスコグラフィ
 
@@ -82,7 +86,7 @@
 <td><ol>
 <li>IN THE AIR</li>
 </ol>
-<p>#YES</p></td>
+<p># YES</p></td>
 <td><ol>
 <li>パラノイア</li>
 <li>JACK THE RIPPER</li>

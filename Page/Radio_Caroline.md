@@ -58,6 +58,6 @@
 ## 外部リンク
 
   - [Radio Caroline official site](http://www.radiocaroline.jp/) - 公式ウェブサイト。
-  - [日本コロムビア | Radio Caroline](http://columbia.jp/artist-info/radio-c/) - 所属レーベルによる公式アーティストページ。
+  - [日本コロムビア | Radio Caroline](https://columbia.jp/artist-info/radio-c/) - 所属レーベルによる公式アーティストページ。
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:2003年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink") [Category:2014年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2014年に再結成した音楽グループ "wikilink")

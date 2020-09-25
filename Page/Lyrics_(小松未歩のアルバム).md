@@ -63,7 +63,7 @@
 12. **[I don't know the truth](../Page/小松未歩_4_〜A_thousand_feelings〜.md "wikilink")**　編曲:大賀好修
       -
         4thアルバム『小松未歩 4 〜A thousand feelings〜』収録曲。
-        [トンキンハウス](../Page/トンキンハウス.md "wikilink")[プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Missing Blue](../Page/Missing_Blue.md "wikilink")』エンディングテーマ。
+        [トンキンハウス](../Page/トンキンハウス.md "wikilink")[プレイステーション2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[Missing Blue](../Page/Missing_Blue.md "wikilink")』エンディングテーマ。
         出版者:ギザミュージック
 13. **[My destination...](../Page/最短距離で.md "wikilink") \<lyrics ver. mix\>**　編曲:[池田大介](../Page/池田大介_\(編曲家\).md "wikilink")
       -

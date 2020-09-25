@@ -33,8 +33,8 @@ Misumiが2018年現在行っている事業としては以下のものがある\
   - ガス部門 - LPガスやリフォーム事業など
   - [電力小売](https://ja.wikipedia.org/wiki/電力小売 "wikilink")事業
   - 発電・売電事業
-  - 外食部門 - [ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")、[ピザハット](../Page/ピザハット.md "wikilink")のフランチャイズ店運営及び巳八（オプシアミスミ・レム鹿児島）、石窯パン工房Parasso運営
-  - カルチャー部門 - [オプシアミスミ](../Page/オプシアミスミ.md "wikilink")及び[TSUTAYAの運営など](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")
+  - 外食部門 - [ケンタッキーフライドチキン](https://ja.wikipedia.org/wiki/ケンタッキーフライドチキン "wikilink")、[ピザハット](../Page/ピザハット.md "wikilink")のフランチャイズ店運営及び巳八（オプシアミスミ・レム鹿児島）、石窯パン工房Parasso運営。なお、KFCを含めてMisumi運営の店舗ではTポイントが貯まる。
+  - カルチャー部門 - [オプシアミスミ](../Page/オプシアミスミ.md "wikilink")及び[TSUTAYA](https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ "wikilink")、[Apple専門店の運営](../Page/アップル_\(企業\).md "wikilink")
   - 自動車部門 - プジョー鹿児島、スズキアリーナMismi、車検のコバック、南九州トーヨータイヤ\[3\]の運営など
   - [鹿児島高牧カントリークラブ](https://ja.wikipedia.org/wiki/鹿児島高牧カントリークラブ "wikilink") - 関連会社の[三角開発](https://ja.wikipedia.org/wiki/三角開発 "wikilink")が運営。
 
@@ -63,7 +63,7 @@ Misumiが2018年現在行っている事業としては以下のものがある\
 
   - [株式会社Misumi](http://kk-misumi.jp/)
 
-[Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:日本のエネルギー関連企業](https://ja.wikipedia.org/wiki/Category:日本のエネルギー関連企業 "wikilink") [Category:日本の食品産業](https://ja.wikipedia.org/wiki/Category:日本の食品産業 "wikilink") [Category:鹿児島市の企業](https://ja.wikipedia.org/wiki/Category:鹿児島市の企業 "wikilink") [Category:福証上場企業](https://ja.wikipedia.org/wiki/Category:福証上場企業 "wikilink") [Category:熊本県発祥の企業](https://ja.wikipedia.org/wiki/Category:熊本県発祥の企業 "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink") [Category:ENEOSの系列販売店](https://ja.wikipedia.org/wiki/Category:ENEOSの系列販売店 "wikilink") [Category:1995年上場の企業](https://ja.wikipedia.org/wiki/Category:1995年上場の企業 "wikilink")
+[Category:日本の卸売企業](https://ja.wikipedia.org/wiki/Category:日本の卸売企業 "wikilink") [Category:日本のエネルギー関連企業](https://ja.wikipedia.org/wiki/Category:日本のエネルギー関連企業 "wikilink") [Category:日本の食品産業](https://ja.wikipedia.org/wiki/Category:日本の食品産業 "wikilink") [Category:日本の書店](https://ja.wikipedia.org/wiki/Category:日本の書店 "wikilink") [Category:鹿児島市の企業](https://ja.wikipedia.org/wiki/Category:鹿児島市の企業 "wikilink") [Category:福証上場企業](https://ja.wikipedia.org/wiki/Category:福証上場企業 "wikilink") [Category:熊本県発祥の企業](https://ja.wikipedia.org/wiki/Category:熊本県発祥の企業 "wikilink") [Category:1959年設立の企業](https://ja.wikipedia.org/wiki/Category:1959年設立の企業 "wikilink") [Category:ENEOSの系列販売店](https://ja.wikipedia.org/wiki/Category:ENEOSの系列販売店 "wikilink") [Category:1995年上場の企業](https://ja.wikipedia.org/wiki/Category:1995年上場の企業 "wikilink")
 
 1.  [社是・経営方針](http://kk-misumi.jp/business01) - 株式会社Misumi 2011年12月10日閲覧。
 2.  [会社概要](http://kk-misumi.jp/business_index) - 株式会社Misumi 2013年08月29日閲覧。

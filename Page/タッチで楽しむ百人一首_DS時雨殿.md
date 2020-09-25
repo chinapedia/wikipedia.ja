@@ -3,12 +3,12 @@
 
 **タッチで楽しむ百人一首 DS時雨殿**（タッチでたのしむひゃくにんいっしゅ ディーエスしぐれでん）は、[2006年](../Page/2006年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")に[任天堂](../Page/任天堂.md "wikilink")より発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用ソフト。
 
-[時雨殿](../Page/時雨殿.md "wikilink")のアトラクションをベースに、[小倉百人一首](https://ja.wikipedia.org/wiki/小倉百人一首 "wikilink")の歌人たちと対戦するモードや和歌の暗記トレーニング、京都における名所、歌枕や歌人ゆかりの地をナビゲーションする「ちどりの京案内」などのモードが収録されている。
+[京都市](../Page/京都市.md "wikilink")の『[時雨殿](../Page/時雨殿.md "wikilink")』（現・[嵯峨嵐山文華館](https://ja.wikipedia.org/wiki/嵯峨嵐山文華館 "wikilink")）に設置していた[アトラクション](https://ja.wikipedia.org/wiki/アトラクション "wikilink")をベースに、[小倉百人一首](https://ja.wikipedia.org/wiki/小倉百人一首 "wikilink")の[歌人](../Page/歌人.md "wikilink")たちと対戦するモードや和歌の暗記トレーニング、京都における名所、歌枕や歌人ゆかりの地をナビゲーションする「ちどりの京案内」などのモードが収録されている。
 
 ## モード
 
   - かるた五番勝負
-    5人の歌人と対戦する。
+    5人の歌人（歌人に扮した人物の[実写](../Page/実写.md "wikilink")映像）と対戦する。
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 

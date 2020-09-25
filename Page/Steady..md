@@ -46,7 +46,7 @@
 
 ### モデル
 
-[優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")、[矢島舞美](../Page/矢島舞美.md "wikilink")、[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")、[矢野未希子](../Page/矢野未希子.md "wikilink")、[三枝こころ](https://ja.wikipedia.org/wiki/三枝こころ "wikilink")、[泉里香](../Page/泉里香.md "wikilink")、[美優](../Page/美優.md "wikilink")、[古川美有](../Page/古川美有.md "wikilink")、[森絵梨佳](../Page/森絵梨佳.md "wikilink")などが登場している。
+歴代では、[優木まおみ](https://ja.wikipedia.org/wiki/優木まおみ "wikilink")、[矢島舞美](../Page/矢島舞美.md "wikilink")、[加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")、[矢野未希子](../Page/矢野未希子.md "wikilink")、[三枝こころ](https://ja.wikipedia.org/wiki/三枝こころ "wikilink")、[泉里香](../Page/泉里香.md "wikilink")、[美優](../Page/美優.md "wikilink")、[古川美有](../Page/古川美有.md "wikilink")、[森絵梨佳](../Page/森絵梨佳.md "wikilink")、[堀田茜](https://ja.wikipedia.org/wiki/堀田茜 "wikilink")、[坂田梨香子](https://ja.wikipedia.org/wiki/坂田梨香子 "wikilink")、[Niki](https://ja.wikipedia.org/wiki/丹羽仁希 "wikilink")、[宇垣美里](https://ja.wikipedia.org/wiki/宇垣美里 "wikilink")、[千国めぐみ](https://ja.wikipedia.org/wiki/千国めぐみ "wikilink")、[野崎萌香](https://ja.wikipedia.org/wiki/野崎萌香 "wikilink")、[高橋愛](https://ja.wikipedia.org/wiki/高橋愛 "wikilink")、[朝日奈央](../Page/朝日奈央.md "wikilink")など多数のモデルが登場している。
 
 ### 連載
 

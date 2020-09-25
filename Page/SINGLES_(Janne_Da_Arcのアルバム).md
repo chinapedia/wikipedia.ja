@@ -7,13 +7,13 @@
 
 前作『[ANOTHER STORY](../Page/ANOTHER_STORY_\(Janne_Da_Arcのアルバム\).md "wikilink")』から約7ヶ月ぶり、翌年に[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")5周年を迎えることを記念して発売された初の[ベストアルバムで](../Page/ベスト・アルバム.md "wikilink")、『[ANOTHER SINGLES](../Page/ANOTHER_SINGLES.md "wikilink")』と同時発売された\[1\]。
 
-初の2枚組仕様で、1stシングル「[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink")」から、16thシングル「[餓えた太陽](https://ja.wikipedia.org/wiki/餓えた太陽 "wikilink")」までの表題曲\[2\]、[ボーナストラックとして未発表曲](../Page/ボーナス・トラック.md "wikilink")「Legend　of～」を収録した**[シングルコレクション](../Page/SINGLE_COLLECTION.md "wikilink")**となっている。
+初の2枚組仕様で、1stシングル「[RED ZONE](../Page/RED_ZONE_\(Janne_Da_Arcの曲\).md "wikilink")」から、16thシングル「[餓えた太陽](https://ja.wikipedia.org/wiki/餓えた太陽 "wikilink")」までの表題曲\[2\]、[ボーナストラックとして未発表曲](../Page/ボーナス・トラック.md "wikilink")「Legend of～」を収録した**[シングルコレクション](../Page/SINGLE_COLLECTION.md "wikilink")**となっている。
 
 初回生産分には特典として全5種類の内1種類のピクチャーレーベルが封入された。
 
 [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")には、2万枚限定生産でスペシャル・プライス盤として、3rdベストアルバム『[SINGLES 2](../Page/SINGLES_2_\(Janne_Da_Arcのアルバム\).md "wikilink")』と共に再発売された。なお、廉価盤のためボーナストラックは未収録となっており、全16曲を1枚に収めている\[3\]。
 
-[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")や[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")などの配信版は何故かDISC 2の2曲がカットされている。
+[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")や[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")などの配信版ではDISC 2の2曲がカットされている。
 
 ## 収録曲
 
@@ -92,7 +92,7 @@
   - テレビ朝日系列[討論バラエティ番組](../Page/討論番組.md "wikilink")『[ビートたけしのTVタックル](../Page/ビートたけしのTVタックル.md "wikilink")』エンディングテーマ (\#2)
   - [テレビ東京系列バラエティ番組](../Page/TXNネットワーク.md "wikilink")『[スキヤキ\!\!ロンドンブーツ大作戦](../Page/スキヤキ!!ロンドンブーツ大作戦.md "wikilink")』エンディングテーマ (\#3)
   - テレビ東京系列[リアリティ番組](https://ja.wikipedia.org/wiki/リアリティ番組 "wikilink")『[ASAYAN](https://ja.wikipedia.org/wiki/ASAYAN "wikilink")』エンディングテーマ (\#4)
-  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』エンディングテーマ (\#4)
+  - [アイディアファクトリー](../Page/アイディアファクトリー.md "wikilink")製[PlayStation 2専用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『スカイサーファー』エンディングテーマ (\#4)
   - テレビ朝日系列[木曜ドラマ](../Page/木曜ドラマ_\(テレビ朝日\).md "wikilink")『[つぐみへ…〜小さな命を忘れない〜](../Page/つぐみへ…〜小さな命を忘れない〜.md "wikilink")』[主題歌](../Page/主題歌.md "wikilink") (\#5)
   - テレビ朝日系列[アニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『[サイファイハリー](../Page/Sci-Fi_HARRY.md "wikilink")』オープニングテーマ (\#6)
   - [カプコン](../Page/カプコン.md "wikilink")製[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")専用ゲームソフト『[バトルネットワーク ロックマンエグゼ](https://ja.wikipedia.org/wiki/バトルネットワーク_ロックマンエグゼ "wikilink")』[CMソング](../Page/コマーシャルソング.md "wikilink") (\#8)

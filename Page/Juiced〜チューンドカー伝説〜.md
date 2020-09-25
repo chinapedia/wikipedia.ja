@@ -1,9 +1,9 @@
 > この記事は[Juiced〜チューンドカー伝説〜](https://ja.wikipedia.org/wiki/Juiced〜チューンドカー伝説〜)から翻訳されています。
 
 
-『**Juiced〜チューンドカー伝説〜**』（ジュースド チューンドカーでんせつ、欧米版タイトル*Juiced* ）はアメリカ[THQ](../Page/THQ.md "wikilink")より発売されたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。欧米では2005年6月に[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Xbox用が発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。
+『**Juiced〜チューンドカー伝説〜**』（ジュースド チューンドカーでんせつ、欧米版タイトル*Juiced* ）はアメリカ[THQ](../Page/THQ.md "wikilink")より発売されたカー[レースゲーム](../Page/レースゲーム.md "wikilink")。欧米では2005年6月に[パソコン](../Page/パーソナルコンピュータ.md "wikilink")、[プレイステーション2](../Page/PlayStation_2.md "wikilink")、[Xbox用が発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。
 
-日本ではセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[プレイステーション2用が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[2006年](../Page/2006年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売。
+日本ではセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から[プレイステーション2用が](../Page/PlayStation_2.md "wikilink")[2006年](../Page/2006年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")発売。
 
 ## 解説
 

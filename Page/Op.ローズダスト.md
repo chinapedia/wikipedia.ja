@@ -252,4 +252,4 @@
 [Category:福井晴敏の小説](https://ja.wikipedia.org/wiki/Category:福井晴敏の小説 "wikilink") [Category:自衛隊作品](https://ja.wikipedia.org/wiki/Category:自衛隊作品 "wikilink") [Category:2003年の小説](https://ja.wikipedia.org/wiki/Category:2003年の小説 "wikilink") [Category:週刊文春の連載小説](https://ja.wikipedia.org/wiki/Category:週刊文春の連載小説 "wikilink") [Category:テロリズムを題材にした小説](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にした小説 "wikilink") [Category:東京臨海副都心を舞台とした作品](https://ja.wikipedia.org/wiki/Category:東京臨海副都心を舞台とした作品 "wikilink")
 
 1.  [週刊文春ミステリーベスト10　2006年【国内部門】第1位は『名もなき毒』 | 年末恒例！ ミステリーベスト10 - 週刊文春WEB](http://shukan.bunshun.jp/articles/-/4683)
-2.  [文藝春秋｜本の話より｜PICK UP](http://web.archive.org/web/20070608194116/http://www.bunshun.co.jp/pickup/oprd/oprd02.htm)（インターネットアーカイブ2007年6月8日分キャッシュ）
+2.  [文藝春秋｜本の話より｜PICK UP](https://web.archive.org/web/20070608194116/http://www.bunshun.co.jp/pickup/oprd/oprd02.htm)（インターネットアーカイブ2007年6月8日分キャッシュ）

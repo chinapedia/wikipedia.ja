@@ -125,7 +125,7 @@
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")（昭和28年）日本最初の民間テレビ放送「[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")」の第一期番組スポンサーとして、深夜の英語ニュースであった「テレニュース」を提供した。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）6月に[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[相模原市](../Page/相模原市.md "wikilink")のラーニングセンター(研修用施設)跡地を[青山学院大学](../Page/青山学院大学.md "wikilink")に売却し、後に同学[淵野辺キャンパス](https://ja.wikipedia.org/wiki/淵野辺キャンパス "wikilink")となる。
   - [1994年](../Page/1994年.md "wikilink")（平成6年）に保守サービス部門を分離し関連会社を設立。45歳以上の従業員を対象に関連会社への転籍人事を計画し、転籍要請を拒否した従業員を配転したところ、69人が人事権の濫用として会社側を1999年8月に[提訴](https://ja.wikipedia.org/wiki/提訴 "wikilink")。[2001年](../Page/2001年.md "wikilink")（平成13年）2月に[和解](../Page/和解.md "wikilink")したが、「転籍拒否による配転は人事権の濫用となるか」という点で注目された。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年）に[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")、[西武百貨店](../Page/西武百貨店.md "wikilink")に導入した無線POSシステムが通信の暗号化を行っていないまま運用されていた事が発覚した。[1](http://itpro.nikkeibp.co.jp/members/NBY/ITARTICLE/20030328/1/)
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）に[髙島屋](../Page/髙島屋.md "wikilink")、[西武百貨店](../Page/西武百貨店.md "wikilink")に導入した無線POSシステムが通信の暗号化を行っていないまま運用されていた事が発覚した。[1](http://itpro.nikkeibp.co.jp/members/NBY/ITARTICLE/20030328/1/)
 
 ## 脚注
 

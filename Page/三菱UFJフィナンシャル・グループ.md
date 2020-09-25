@@ -102,7 +102,7 @@
       - [東京クレジットサービス](../Page/東京クレジットサービス.md "wikilink")（旧東京銀行系のため、[VJA](../Page/VJA.md "wikilink")に加盟）
   - [ファイナンス](https://ja.wikipedia.org/wiki/ファイナンス "wikilink")
       - [日本住宅無尽](../Page/日本住宅無尽.md "wikilink")（[無尽会社](../Page/無尽会社.md "wikilink")）
-  - [不動産](https://ja.wikipedia.org/wiki/不動産 "wikilink")
+  - [不動産](../Page/不動産.md "wikilink")
       - [三菱UFJ不動産販売](../Page/三菱UFJ不動産販売.md "wikilink")
   - [債権回収](../Page/債権回収会社.md "wikilink")
       - [エム・ユー・フロンティア債権回収](https://ja.wikipedia.org/wiki/エム・ユー・フロンティア債権回収 "wikilink")

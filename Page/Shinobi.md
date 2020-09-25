@@ -1,7 +1,7 @@
 > この記事は[Shinobi](https://ja.wikipedia.org/wiki/Shinobi)から翻訳されています。
 
 
-『**Shinobi**』（しのび）は、[2002年](../Page/2002年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[PlayStation 2専用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[忍 -SHINOBI-](https://ja.wikipedia.org/wiki/忍_-SHINOBI- "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『[ザ・スーパー忍](https://ja.wikipedia.org/wiki/ザ・スーパー忍 "wikilink")』（[1989年](../Page/1989年.md "wikilink")）などの同社「忍（しのび）シリーズ」の系譜にある[忍者](../Page/忍者.md "wikilink")ゲームである。
+『**Shinobi**』（しのび）は、[2002年](../Page/2002年.md "wikilink")[12月5日](../Page/12月5日.md "wikilink")にセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から発売された[PlayStation 2専用の](../Page/PlayStation_2.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")である。[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")『[忍 -SHINOBI-](https://ja.wikipedia.org/wiki/忍_-SHINOBI- "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）、[メガドライブ](../Page/メガドライブ.md "wikilink")用ソフト『[ザ・スーパー忍](https://ja.wikipedia.org/wiki/ザ・スーパー忍 "wikilink")』（[1989年](../Page/1989年.md "wikilink")）などの同社「忍（しのび）シリーズ」の系譜にある[忍者](../Page/忍者.md "wikilink")ゲームである。
 
 [21世紀](../Page/21世紀.md "wikilink")の現代を舞台に[主人公](../Page/主人公.md "wikilink")である忍者「秀真（ほつま）」を操作して、妖刀・悪食（あくじき）を用いて華麗な[殺陣](../Page/殺陣.md "wikilink")（たて）を演じる。
 

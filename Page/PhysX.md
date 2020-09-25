@@ -27,7 +27,7 @@ PhysXは以下のプラットフォーム上で動作する\[6\]。
   - [Xbox 360](../Page/Xbox_360.md "wikilink")
   - [Xbox One](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")
   - [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")
-  - [Android](../Page/Android.md "wikilink")
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")
 
 いずれのプラットフォーム用SDKも無料で配布されている。これらのうち、PC用のSDKは[NVIDIA](../Page/NVIDIA.md "wikilink")社のPhysX SDK ダウンロードページ\[7\]より直接入手する事ができる。[NVIDIA](../Page/NVIDIA.md "wikilink")社スタッフによるサポート及び開発支援ツールが有償で提供されているが、これらを利用しない限りは商用利用を含めて無料である。

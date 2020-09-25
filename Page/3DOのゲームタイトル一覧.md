@@ -183,7 +183,7 @@
   - 10月13日 [Aqua World 海美物語](https://ja.wikipedia.org/wiki/Aqua_World_海美物語 "wikilink")（MIZUKI）
   - 10月13日 [ゴールFH](../Page/ゴールFH.md "wikilink")（[カロッツェリアジャパン](https://ja.wikipedia.org/wiki/カロッツェリアジャパン "wikilink")）
   - 10月18日 [麻雀狂時代 コギャル放課後編](https://ja.wikipedia.org/wiki/麻雀狂時代_コギャル放課後編 "wikilink")（マイクロネット）
-  - 10月20日 [シンジケート](https://ja.wikipedia.org/wiki/シンジケート "wikilink")（エレクトロニック・アーツ・ビクター）
+  - 10月20日 [シンジケート](../Page/シンジケート.md "wikilink")（エレクトロニック・アーツ・ビクター）
   - 10月20日 [ブレードフォース](https://ja.wikipedia.org/wiki/ブレードフォース "wikilink")（スタジオ3DO）
   - 10月20日 [ペペロン村の四季](https://ja.wikipedia.org/wiki/ペペロン村の四季 "wikilink")（丸紅/メディアビジョン）
   - 10月20日 [未来少年コナン DIGITAL LIBRARY](../Page/未来少年コナン.md "wikilink")（バンダイビジュアル）

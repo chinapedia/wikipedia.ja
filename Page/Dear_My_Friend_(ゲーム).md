@@ -1,11 +1,11 @@
 > この記事は[Dear My Friend \(ゲーム\)](https://ja.wikipedia.org/wiki/Dear_My_Friend_\(ゲーム\))から翻訳されています。
 
 
-『**Dear My Friend**』（ディア マイ フレンド）は、[2004年](../Page/2004年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に[light](https://ja.wikipedia.org/wiki/light "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称は**DMF**。[CD版の副題は](../Page/コンパクトディスク.md "wikilink")「...more than friend and under sweethearts」（友達以上恋人未満）。
+『**Dear My Friend**』（ディア マイ フレンド）は、[2004年](../Page/2004年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink")に[lightより発売された](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称は**DMF**。[CD版の副題は](../Page/コンパクトディスク.md "wikilink")「...more than friend and under sweethearts」（友達以上恋人未満）。
 
 ## 概要
 
-[light](https://ja.wikipedia.org/wiki/light "wikilink")作品『[Sultan 〜The Lovesong is Forever〜](../Page/Sultan_〜The_Lovesong_is_Forever〜.md "wikilink")』を手掛けた、原画・[くすくす](../Page/くすくす.md "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
+[light作品](https://ja.wikipedia.org/wiki/light_\(ゲームブランド\) "wikilink")『[Sultan 〜The Lovesong is Forever〜](../Page/Sultan_〜The_Lovesong_is_Forever〜.md "wikilink")』を手掛けた、原画・[くすくす](../Page/くすくす.md "wikilink")と、シナリオ・[NYAON](https://ja.wikipedia.org/wiki/NYAON "wikilink")のタッグでの新作（一部のシナリオはlightの[正田崇](https://ja.wikipedia.org/wiki/正田崇 "wikilink")が担当している）。
 
 システムはテキスト型アドベンチャー。どのヒロインのシナリオに進むかは前半でたびたび出現する場所移動の選択によって決定される。選択肢もいくつか存在するが、一部の特殊な例外を除いてはストーリーに直接かかわるものではない。
 
@@ -13,7 +13,7 @@
 
 本作の制作スタッフと一部の声優が『[もしも明日が晴れならば](../Page/もしも明日が晴れならば.md "wikilink")』（[ぱれっと](../Page/ぱれっと_\(ゲームブランド\).md "wikilink")）に引き継がれている。
 
-[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](../Page/ソノシート.md "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
+[2005年](../Page/2005年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")には[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象の[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『**Dear My Friend 〜Love like powderly snow〜**』（粉雪のような恋）が[イエティより](../Page/イエティ_\(ゲームブランド\).md "wikilink")1万本の限定生産で発売された。PS2版にはBGMを収録した[ソノシート](../Page/ソノシート.md "wikilink")が同梱されているが、これを最後に[東洋化成](https://ja.wikipedia.org/wiki/東洋化成 "wikilink")がソノシートのプレスを打ち切り、国産ソノシートレコードの終焉となった\[1\]。なお、ハードの画像メモリの都合でPS2版は動作速度が遅く、プレイの際にもたつきを感じると言われている\[2\]。
 
 PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能がなくなった代わりに、麻衣以外の各ヒロインの追加シナリオと各ヒロイン5名+司役の声優インタビュー、そして月夜シナリオにバッドエンドが追加された。
 
@@ -23,9 +23,9 @@ PS2版以降ではPC版で楽しめたアナザーストーリー(AS)\[3\]機能
 
 ## ストーリー
 
-ごく有り触れた少年-主人公は、友人に囲まれ、平凡な、あたたかい日々を過ごしてきていた。 そんな、ある冬のこと。自宅の前に少女が立っていた。 後に父曰く、身寄りのないこの彼女を引き取り、里親になったという。
+ごく有り触れた少年-主人公は、友人に囲まれ、平凡な、あたたかい日々を過ごしてきていた。そんな、ある冬のこと。自宅の前に少女が立っていた。後に父曰く、身寄りのないこの彼女を引き取り、里親になったという。
 
-たったひとつのきっかけが、なにかをかえていく。 ゆっくりと、そう、まるで雪が溶けていくかのように。
+たったひとつのきっかけが、なにかをかえていく。ゆっくりと、そう、まるで雪が溶けていくかのように。
 
 ## 登場人物
 

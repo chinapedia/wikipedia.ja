@@ -1,7 +1,7 @@
 > この記事は[AYUMI](https://ja.wikipedia.org/wiki/AYUMI)から翻訳されています。
 
 
-**AYUMI**（あゆみ、[1974年](../Page/1974年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")である。所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")。本名：田中歩（旧姓：西川）。旧芸名は「あゆみ」。元『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』専属[モデル](https://ja.wikipedia.org/wiki/モデル "wikilink")。
+**AYUMI**（あゆみ、[1974年](../Page/1974年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の女性[ファッションモデル](../Page/ファッションモデル.md "wikilink")である。所属事務所は[テンカラット](../Page/テンカラット.md "wikilink")。本名：田中歩（旧姓：西川）。旧芸名は「あゆみ」。元『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』専属[モデル](../Page/モデル.md "wikilink")。
 
 ## 略歴
 

@@ -13,7 +13,7 @@
 
 ## タブレット端末・スマートフォン
 
-DiXiM for Androidは現在[NECカシオ モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")/[日本電気](../Page/日本電気.md "wikilink")製と[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")/[富士通](../Page/富士通.md "wikilink")製と[京セラ](../Page/京セラ.md "wikilink")製の[Android](../Page/Android.md "wikilink")スマートフォンとタブレット端末に搭載されているのみである。他の機種にはダウンロードが出来ないため利用は出来ない。レコーダーの機種により放送転送が出来るものと、出来ないものがある。また録画番組再生は録画モードにより再生できないものがある。
+DiXiM for Androidは現在[NECカシオ モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/NECカシオ_モバイルコミュニケーションズ "wikilink")/[日本電気](../Page/日本電気.md "wikilink")製と[富士通モバイルコミュニケーションズ](https://ja.wikipedia.org/wiki/富士通モバイルコミュニケーションズ "wikilink")/[富士通](../Page/富士通.md "wikilink")製と[京セラ](../Page/京セラ.md "wikilink")製の[Androidスマートフォンとタブレット端末に搭載されているのみである](../Page/Android_\(オペレーティングシステム\).md "wikilink")。他の機種にはダウンロードが出来ないため利用は出来ない。レコーダーの機種により放送転送が出来るものと、出来ないものがある。また録画番組再生は録画モードにより再生できないものがある。
 
 DiXiM DMCは[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")・[iPad](https://ja.wikipedia.org/wiki/iPad "wikilink")・[iPod Touch](https://ja.wikipedia.org/wiki/iPod_Touch "wikilink")）向けのアプリケーションで、こちらはDTCP-IPには対応しておらず、それ以外の機能を利用することが出来る。2013年4月25日よりiOS向けにリリースされたDiXiM Digital TVはDTCP-IPに対応したアプリで、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")製の[ブルーレイディスクレコーダー](https://ja.wikipedia.org/wiki/BDレコーダー "wikilink")[DIGA](https://ja.wikipedia.org/wiki/DIGA "wikilink")と[ソニー](../Page/ソニー.md "wikilink")製のブルーレイディスクレコーダーと[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")の[nasne](https://ja.wikipedia.org/wiki/nasne "wikilink")で放送している番組の閲覧（放送転送・ライブチューナー）と録画した番組の再生が出来る。
 

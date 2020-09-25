@@ -4,7 +4,7 @@
 {{ Infobox Software | 名称 = PuTTY | ロゴ = PuTTY icon 128px.png | スクリーンショット = [256px](https://ja.wikipedia.org/wiki/ファイル:PuTTY.PNG "wikilink") | 説明文 = PuTTYの設定ウィンドウ | 開発元 = Simon Tatham | 初版 =  | 最新版 = 0.74 | 最新版発表日 =  | プログラミング言語 = [C言語](../Page/C言語.md "wikilink") | 対応OS = [Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")
 [macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")
 [UNIX](../Page/UNIX.md "wikilink")
-[Android](../Page/Android.md "wikilink")
+[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")
 [Windows Mobile](../Page/Windows_Mobile.md "wikilink")
 [Symbian OS](../Page/Symbian_OS.md "wikilink")
 [Windows Embedded Compact](../Page/Microsoft_Windows_Embedded_CE.md "wikilink") | 種別 = リモートログオン[クライアント](../Page/クライアント_\(コンピュータ\).md "wikilink") | ライセンス = [MIT License](../Page/MIT_License.md "wikilink")\[1\] | 公式サイト = [PuTTY: A Free Telnet/SSH Client](https://www.chiark.greenend.org.uk/~sgtatham/putty/index.html) }}
@@ -13,7 +13,7 @@
 
 ## 特徴
 
-本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、下記の機能を有し、[SSH](../Page/Secure_Shell.md "wikilink")·SSH2·[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")·[rlogin](https://ja.wikipedia.org/wiki/rlogin "wikilink")·[TCP](../Page/Transmission_Control_Protocol.md "wikilink")·[シリアルポート](../Page/シリアルポート.md "wikilink")([RS-232](../Page/RS-232.md "wikilink")·[RS-422](https://ja.wikipedia.org/wiki/RS-422 "wikilink")·[RS-485](https://ja.wikipedia.org/wiki/RS-485 "wikilink"))の各[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応している。 また、[サードパーティー](../Page/サードパーティー.md "wikilink")の成果も有って、[Windowsのみならず](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[UNIX](../Page/UNIX.md "wikilink")系から[Android](../Page/Android.md "wikilink")や[Windows Mobileまで](../Page/Windows_Mobile.md "wikilink")、更には[Symbian OSや](../Page/Symbian_OS.md "wikilink")[Windows Embedded Compactも含めて](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")、様々な[OSに移植されている](../Page/オペレーティングシステム.md "wikilink")。
+本[ソフトウェア](../Page/ソフトウェア.md "wikilink")は、下記の機能を有し、[SSH](../Page/Secure_Shell.md "wikilink")·SSH2·[telnet](https://ja.wikipedia.org/wiki/telnet "wikilink")·[rlogin](https://ja.wikipedia.org/wiki/rlogin "wikilink")·[TCP](../Page/Transmission_Control_Protocol.md "wikilink")·[シリアルポート](../Page/シリアルポート.md "wikilink")([RS-232](../Page/RS-232.md "wikilink")·[RS-422](https://ja.wikipedia.org/wiki/RS-422 "wikilink")·[RS-485](https://ja.wikipedia.org/wiki/RS-485 "wikilink"))の各[通信プロトコル](../Page/通信プロトコル.md "wikilink")に対応している。 また、[サードパーティー](../Page/サードパーティー.md "wikilink")の成果も有って、[Windowsのみならず](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")、[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")や[UNIX](../Page/UNIX.md "wikilink")系から[Androidや](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Windows Mobileまで](../Page/Windows_Mobile.md "wikilink")、更には[Symbian OSや](../Page/Symbian_OS.md "wikilink")[Windows Embedded Compactも含めて](../Page/Microsoft_Windows_Embedded_CE.md "wikilink")、様々な[OSに移植されている](../Page/オペレーティングシステム.md "wikilink")。
 
   - [ポートフォワーディング機能](../Page/ポート_\(コンピュータネットワーク\).md "wikilink")([X11](https://ja.wikipedia.org/wiki/X11 "wikilink")フォワードを含む)
   - [VT102の粗完全な](../Page/VT100.md "wikilink")[エミュレーション及び](../Page/エミュレータ.md "wikilink")[xterm](https://ja.wikipedia.org/wiki/xterm "wikilink")やECMA-48端末の制御シーケンスの多くのサポート
@@ -145,7 +145,7 @@ PuTTY内包
 
   -   - adbputty [(GitHub リポジトリ)](https://github.com/sztupy/adbputty/) [(GitHub リポジトリ)](https://github.com/kiddlu/adbputty/) (adb: [Android Debug Bridge](https://ja.wikipedia.org/wiki/Android_Debug_Bridge "wikilink") 対応) (開発中止)
       - [putty](http://putty.grzybicki.pl/) (ポーランド語対応) (開発中止)
-      - [PuTTY DBCS patched](https://web.archive.org/web/20110727081905/http://www.mhsin.org/putty/) ([中国語](https://ja.wikipedia.org/wiki/中国語 "wikilink")対応) (開発中止)
+      - [PuTTY DBCS patched](https://web.archive.org/web/20110727081905/http://www.mhsin.org/putty/) ([中国語](../Page/中国語.md "wikilink")対応) (開発中止)
 
 <!-- end list -->
 
@@ -221,7 +221,7 @@ PuTTY内包
   - [mintty](https://ja.wikipedia.org/wiki/mintty "wikilink") (Cygwin、MSYS、MSYS2用)
   - puttycyg [(Google リポジトリ)](https://code.google.com/p/puttycyg/) (Cygwin 用) (開発中止)
   - [PocketPuTTY](https://web.archive.org/web/20150221064425/http://pocketputty.net/index.html) (Windows Embedded Compact 用) (開発中止)
-      - [PocketPuTTY](http://www2h.biglobe.ne.jp/~m-saeki/junk/PocketPuTTY.html) (日本語対応) (Windows Mobile & Windows Embedded Compact & Pocket PC 用) (開発中止)
+      - (日本語対応) (Windows Mobile & Windows Embedded Compact & Pocket PC 用) (開発中止)
   - [s2putty](http://s2putty.sourceforge.net/index.html) [(SourceForge リポジトリ)](https://sourceforge.net/projects/s2putty/) (Symbian OS 用) (開発中止)
   - [Putty](https://web.archive.org/web/20090416174705/http://matrix.tmit.bme.hu/putty/) ([Symbian UIQ](https://ja.wikipedia.org/wiki/Symbian_UIQ "wikilink") 用) (開発中止)
   - [PuTTy](https://web.archive.org/web/20070703043843/http://www.mobileyes.com/index.php?option=com_content&task=view&id=23&Itemid=51) (Symbian UIQ 用) (開発中止)

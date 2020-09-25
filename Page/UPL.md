@@ -11,7 +11,7 @@
 
   - [XXミッション](https://ja.wikipedia.org/wiki/XXミッション "wikilink")
 
-  - [リターン オブ ザ インベーダー](../Page/リターン_オブ_ザ_インベーダー.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の下請けとして制作されたため、クレジットなし。同社により[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[PlayStation Portableに移植された](../Page/PlayStation_Portable.md "wikilink")。
+  - [リターン オブ ザ インベーダー](../Page/リターン_オブ_ザ_インベーダー.md "wikilink") - [タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")の下請けとして制作されたため、クレジットなし。同社により[PlayStation 2と](../Page/PlayStation_2.md "wikilink")[PlayStation Portableに移植された](../Page/PlayStation_Portable.md "wikilink")。
 
   - [レイダース5](https://ja.wikipedia.org/wiki/レイダース5 "wikilink") - こちらもタイトーが販売していたが、タイトル画面でUPLのロゴが確認出来る。
 

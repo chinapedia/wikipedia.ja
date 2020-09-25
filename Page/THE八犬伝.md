@@ -139,7 +139,7 @@ THE八犬伝の1話、新章の3・4話では個性的な[アニメーター](..
 ## キャスト
 
   - 伏姫：[伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
-  - 犬江親兵衛：[日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")
+  - 犬江親兵衛：[日髙のり子](../Page/日髙のり子.md "wikilink")
   - 犬川荘助：[山口勝平](../Page/山口勝平.md "wikilink")
   - 犬村大角：[大塚明夫](../Page/大塚明夫.md "wikilink")
   - 犬坂毛野：[高山みなみ](../Page/高山みなみ.md "wikilink")

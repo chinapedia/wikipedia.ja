@@ -368,7 +368,7 @@
 
     キャラクターデザイン・総作画監督：栗田新一
 
-    音楽：井上泰久、秋月須清
+    音楽：[井上泰久](https://ja.wikipedia.org/wiki/井上泰久 "wikilink")、秋月須清
 
     制作：[A-1 Pictures](../Page/A-1_Pictures.md "wikilink")
 

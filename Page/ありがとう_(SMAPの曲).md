@@ -85,7 +85,7 @@
 
 ## 外部リンク
 
-  - [ありがとう - Victor Entertainment](http://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36666.html)
+  - [ありがとう - Victor Entertainment](https://www.jvcmusic.co.jp/-/Discography/A002763/VICL-36666.html)
 
 [Category:SMAPの楽曲](https://ja.wikipedia.org/wiki/Category:SMAPの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:関西テレビ火曜10時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:関西テレビ火曜10時枠の連続ドラマの主題歌 "wikilink") [Category:楽曲_あ](https://ja.wikipedia.org/wiki/Category:楽曲_あ "wikilink")
 
@@ -94,6 +94,6 @@
 3.  [ありがとう／SMAP -レビュー一覧-](http://www.oricon.co.jp/music/release/d/679788/1/)
 4.  [父の日に贈りたい曲、SMAP、プリプリ、陽水・民生](http://career.oricon.co.jp/news/45533/)
 5.
-6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](../Page/秋田放送.md "wikilink")・[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](../Page/福井放送.md "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
+6.  このうち、[女子マラソン競技の中継はTBS系](https://ja.wikipedia.org/wiki/2016年リオデジャネイロオリンピックの陸上競技 "wikilink")28局のみならず、[秋田放送](../Page/秋田放送.md "wikilink")・[四国放送](../Page/四国放送.md "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系単独加盟）・[福井放送](../Page/福井放送.md "wikilink")（日本テレビ系・[テレビ朝日](../Page/テレビ朝日.md "wikilink")系の[クロスネット](../Page/クロスネット局.md "wikilink")）・[サガテレビ](https://ja.wikipedia.org/wiki/サガテレビ "wikilink")（フジテレビ系単独加盟）にもネットされた。
 7.
 8.

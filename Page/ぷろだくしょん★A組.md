@@ -79,7 +79,7 @@
   - [田中一永](https://ja.wikipedia.org/wiki/田中一永 "wikilink")（現所属：アクセント）
   - [田原アルノ](../Page/田原アルノ.md "wikilink")（現所属：[ムーブマン](../Page/ムーブマン.md "wikilink")）
   - [西嶋陽一](../Page/西嶋陽一.md "wikilink")（現所属：アーツビジョン）
-  - [根本明宏](https://ja.wikipedia.org/wiki/根本明宏 "wikilink")
+  - [根本明宏](https://ja.wikipedia.org/wiki/根本明宏 "wikilink")（現所属：[宝井プロジェクト](https://ja.wikipedia.org/wiki/宝井プロジェクト "wikilink")、[ネクシード](https://ja.wikipedia.org/wiki/ネクシード "wikilink")<声預かり>）
   - [広田みのる](https://ja.wikipedia.org/wiki/広田みのる "wikilink")（現所属：[オフィス・ティービー](https://ja.wikipedia.org/wiki/オフィス・ティービー "wikilink")）
   - [藤井啓輔](../Page/藤井啓輔.md "wikilink")（現所属：[ケンユウオフィス](../Page/ケンユウオフィス.md "wikilink")）
   - [増岡太郎](../Page/増岡太郎.md "wikilink")（現所属：[プロ・フィット](../Page/プロ・フィット.md "wikilink")）

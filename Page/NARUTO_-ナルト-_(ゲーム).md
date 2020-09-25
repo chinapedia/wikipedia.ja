@@ -413,7 +413,7 @@
   - [バトルスタジアム D.O.N](../Page/バトルスタジアム_D.O.N.md "wikilink")
     メーカー：[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")
     発売日：[2006年](../Page/2006年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink")
-    [PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")
+    [PlayStation 2と](../Page/PlayStation_2.md "wikilink")[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用[アクションゲーム](../Page/アクションゲーム.md "wikilink")
     [ドラゴンボール](https://ja.wikipedia.org/wiki/ドラゴンボール "wikilink")Z、[ONE PIECE](../Page/ONE_PIECE.md "wikilink")、[NARUTO -ナルト-の](../Page/NARUTO_-ナルト-.md "wikilink")3作品のキャラクターが登場。
   - [ジャンプアルティメットスターズ](https://ja.wikipedia.org/wiki/ジャンプアルティメットスターズ "wikilink")
     メーカー：[任天堂](../Page/任天堂.md "wikilink")

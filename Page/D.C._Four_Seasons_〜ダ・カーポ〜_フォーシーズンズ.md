@@ -1,7 +1,7 @@
 > この記事は[D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ](https://ja.wikipedia.org/wiki/D.C._Four_Seasons_〜ダ・カーポ〜_フォーシーズンズ)から翻訳されています。
 
 
-『**D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ**』は、[CIRCUS原作で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[角川書店](../Page/角川書店.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。通称『**D.C.F.S.**』。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には原作のCIRCUSからWindows用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の移植版『**D.C. After Seasons 〜ダ・カーポ〜 アフターシーズンズ**』が発売された。通称は『**D.C.A.S.**』。
+『**D.C. Four Seasons 〜ダ・カーポ〜 フォーシーズンズ**』は、[CIRCUS原作で](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[角川書店](../Page/角川書店.md "wikilink")から[2005年](../Page/2005年.md "wikilink")[12月15日](../Page/12月15日.md "wikilink")に発売された[PlayStation 2用ゲーム](../Page/PlayStation_2.md "wikilink")。通称『**D.C.F.S.**』。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[6月27日](../Page/6月27日.md "wikilink")には原作のCIRCUSからWindows用[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")の移植版『**D.C. After Seasons 〜ダ・カーポ〜 アフターシーズンズ**』が発売された。通称は『**D.C.A.S.**』。
 
 ## 概要
 

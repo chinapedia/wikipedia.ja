@@ -59,7 +59,7 @@
   - [きがわ琳](https://ja.wikipedia.org/wiki/きがわ琳 "wikilink")
   - [衣谷遊](../Page/衣谷遊.md "wikilink") （毛哀蓮）
   - [木村明広](../Page/木村明広.md "wikilink")
-  - [草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")
+  - [草彅琢仁](../Page/草彅琢仁.md "wikilink")
   - [栗橋伸祐](https://ja.wikipedia.org/wiki/栗橋伸祐 "wikilink") （林悠季、桂紫蘭、蝠梨、彩明鈴、夏泉朗）
   - [こいでたく](../Page/こいでたく.md "wikilink")
   - [此路あゆみ](https://ja.wikipedia.org/wiki/此路あゆみ "wikilink")

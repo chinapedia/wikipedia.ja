@@ -411,7 +411,7 @@ I Got A Man （Remix） feat. MICHICO / The Kid Slim</p></td>
       - 『Sin』（アルバム）
           -
             「I Want You Back feat. L.L Brothers」
-  - [SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")
+  - [SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")
       - 『The Remix Of Sing Like Talking』（アルバム）
           -
             「Spirit Of Love」

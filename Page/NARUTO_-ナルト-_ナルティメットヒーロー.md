@@ -1,7 +1,7 @@
 > この記事は[NARUTO -ナルト- ナルティメットヒーロー](https://ja.wikipedia.org/wiki/NARUTO_-ナルト-_ナルティメットヒーロー)から翻訳されています。
 
 
-『**NARUTO-ナルト- ナルティメットヒーロー**』（NARUTO Naltimate Hero）は、[サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")開発・バンダイ、バンダイナムコゲームス、および[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")発売による[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**NARUTO-ナルト- ナルティメットヒーロー**』（NARUTO Naltimate Hero）は、[サイバーコネクトツー](../Page/サイバーコネクトツー.md "wikilink")開発・バンダイ、バンダイナムコゲームス、および[バンダイナムコエンターテインメント](../Page/バンダイナムコエンターテインメント.md "wikilink")発売による[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")。
 
 『ナルティメット』の由来は、「ナルト」と「アルティメット」を組み合わせた造語である。
 
@@ -497,7 +497,7 @@
 <td><p>○</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/朴璐美" title="wikilink">朴璐美</a></p></td>
+<td><p><a href="../Page/朴璐美.md" title="wikilink">朴璐美</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>チヨバア</p></td>

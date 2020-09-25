@@ -22,15 +22,15 @@
   - U-tan (ユウタン)
     本名：川村 豊、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/エレクトリック・ギター.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月13日](../Page/10月13日.md "wikilink") -
   - MAKKIN (マッキン)
-    本名：正木 孝典、[ベース](../Page/エレクトリックベース.md "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[1979年](../Page/1979年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") -
+    本名：正木 孝典、[ベース](../Page/エレクトリックベース.md "wikilink")・[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[1979年](../Page/1979年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink") -
   - SUNE (スネ)
-    本名：李 敏雄、[ドラム](../Page/ドラムセット.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") -
+    本名：李 敏雄、[ドラムス](../Page/ドラムセット.md "wikilink")、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") -
     2009年10月より加入 (ex:[SEGARE](https://ja.wikipedia.org/wiki/SEGARE "wikilink"))\[4\]
 
 ### 過去のメンバー
 
   - KAWAJIN (カワジン)
-    本名：川人、[ドラム](../Page/ドラムセット.md "wikilink")
+    本名：川人、[ドラムス](../Page/ドラムセット.md "wikilink")
     2009年9月30日、堺club massiveでのライブをもって脱退\[5\]。
   - TANNY (タニー)
     本名：谷口 廣造、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ギター](../Page/エレクトリック・ギター.md "wikilink")、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月3日](../Page/5月3日.md "wikilink")

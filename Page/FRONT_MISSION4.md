@@ -5,7 +5,7 @@
 
 ## 概要
 
-[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")初の[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。前作『[3rd](../Page/FRONT_MISSION3.md "wikilink")』発売以降、開発スタッフの[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")参加等の理由によりしばらくの間、続編の開発が行われなかったが、[2003年](../Page/2003年.md "wikilink")にフロントミッションプロジェクトとして再始動。その第2弾（第1弾は[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[1ST](../Page/FRONT_MISSION.md "wikilink")』）としてリリースされ、正史のフロントミッションシリーズでは4作目となる（『[FA](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』を含めると5作目、更に『[GH](../Page/FRONT_MISSION_SERIES_GUN_HAZARD.md "wikilink")』を含めると6作目）。また、2006年に廉価版[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")として再発売されている。
+[フロントミッションシリーズ](../Page/フロントミッションシリーズ.md "wikilink")初の[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。前作『[3rd](../Page/FRONT_MISSION3.md "wikilink")』発売以降、開発スタッフの[ファイナルファンタジーシリーズ](../Page/ファイナルファンタジーシリーズ.md "wikilink")参加等の理由によりしばらくの間、続編の開発が行われなかったが、[2003年](../Page/2003年.md "wikilink")にフロントミッションプロジェクトとして再始動。その第2弾（第1弾は[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[1ST](../Page/FRONT_MISSION.md "wikilink")』）としてリリースされ、正史のフロントミッションシリーズでは4作目となる（『[FA](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』を含めると5作目、更に『[GH](../Page/FRONT_MISSION_SERIES_GUN_HAZARD.md "wikilink")』を含めると6作目）。また、2006年に廉価版[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")として再発売されている。
 
 西暦2096年のヨーロッパ、南米を舞台に、エルザとダリルの二人の主人公の視点からストーリーが展開する点が特徴。キャッチコピーは「**2人の主人公、2つの場所、2つの事件、2つの運命、1つの真実**」。
 

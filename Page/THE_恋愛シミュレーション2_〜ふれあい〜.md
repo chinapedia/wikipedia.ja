@@ -21,7 +21,7 @@
 
   - 矢萩 俊平（やはぎ しゅんぺい）
     [声](../Page/声優.md "wikilink") - なし
-    [誕生日](../Page/誕生日.md "wikilink"):7月24日 [年齢](../Page/年齢.md "wikilink"):19歳 [血液型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink"):O型 [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):特にない
+    [誕生日](../Page/誕生日.md "wikilink"):7月24日 [年齢](../Page/年齢.md "wikilink"):19歳 [血液型](../Page/ABO式血液型.md "wikilink"):O型 [趣味](https://ja.wikipedia.org/wiki/趣味 "wikilink"):特にない
     [主人公](../Page/主人公.md "wikilink")。性格にややルーズな部分も見られるが、基本的には普通の気立てのいい好青年。
     [風邪](../Page/風邪.md "wikilink")をひいてしまったことが原因で[大学受験](../Page/大学受験.md "wikilink")に失敗し、[浪人生となってしまう](https://ja.wikipedia.org/wiki/大学浪人 "wikilink")。一人暮らしに憧れていたため、大学受験を機に現在は[家族](../Page/家族.md "wikilink")と離れ暮らしている。
     姉のなつみに呼び出され、夏期講習の[バイトをさせられることになってしまった](../Page/アルバイト.md "wikilink")。

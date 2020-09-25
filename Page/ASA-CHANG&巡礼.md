@@ -218,7 +218,7 @@
 </div>
 </div></li>
 </ol></td>
-<td><p>ミュージックマインID</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>

@@ -1,7 +1,7 @@
 > この記事は[Popegg](https://ja.wikipedia.org/wiki/Popegg)から翻訳されています。
 
 
-**popegg**（ポップエッグ）は、[ソニー](../Page/ソニー.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に発売した、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 専用の[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")の愛称。製品名は**MPR-G600A**。
+**popegg**（ポップエッグ）は、[ソニー](../Page/ソニー.md "wikilink")が[2000年](../Page/2000年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")に発売した、[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 専用の[プリンター](https://ja.wikipedia.org/wiki/プリンター "wikilink")の愛称。製品名は**MPR-G600A**。
 
 ## 概要と特徴
 

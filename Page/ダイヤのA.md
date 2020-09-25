@@ -3040,7 +3040,7 @@ Go Gyoung Nam、Han Jung Y</p></td>
 </tr>
 <tr class="even">
 <td><p>9</p></td>
-<td><p>2020年9月2日予定</p></td>
+<td><p>2020年9月2日</p></td>
 <td><p>第46話 - 第52話</p></td>
 <td><p>PCXG-50669</p></td>
 </tr>

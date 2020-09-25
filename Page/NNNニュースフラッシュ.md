@@ -38,7 +38,7 @@
   - [日本海テレビ](../Page/日本海テレビジョン放送.md "wikilink")（日本テレビ系列となった1959年12月15日から、当時の放送エリアは[鳥取県](../Page/鳥取県.md "wikilink")のみ、1972年9月22日からは[島根県](../Page/島根県.md "wikilink")からの相互乗り入れ）
   - [西日本放送](https://ja.wikipedia.org/wiki/西日本放送テレビ "wikilink")（1958年7月1日テレビ放送開始から）
   - [山口放送](../Page/山口放送.md "wikilink")（徳山本局：1959年4月1日テレビ放送開始から、関門局：1964年10月1日の編成一本化から）
-  - [四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")（1959年4月1日テレビ放送開始から）
+  - [四国放送](../Page/四国放送.md "wikilink")（1959年4月1日テレビ放送開始から）
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（1958年12月1日テレビ放送開始から）
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（1959年4月1日テレビ放送開始から）
   - [テレビ西日本](../Page/テレビ西日本.md "wikilink")（現・FNN系列、1958年8月28日開局から1964年9月30日まで） → [福岡放送](../Page/福岡放送.md "wikilink")（1969年4月1日開局から）

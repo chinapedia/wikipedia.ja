@@ -1,7 +1,7 @@
 > この記事は[Honeywell 200シリーズ](https://ja.wikipedia.org/wiki/Honeywell_200シリーズ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:H200a.jpg "wikilink") 1402 パンチカードリーダ/パンチャー\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:H200c.jpg "wikilink") **Honeywell 200シリーズ**は[1960年代](../Page/1960年代.md "wikilink")に[ハネウェル](../Page/ハネウェル.md "wikilink")社が製造販売したキャラクター指向の2アドレス商用[コンピュータ](../Page/コンピュータ.md "wikilink")である。後の 1200、2200、4200、8200などの機種の基本となった。H200と略記される。
+[thumb](https://ja.wikipedia.org/wiki/画像:H200a.jpg "wikilink") 1402 パンチカードリーダ/パンチャー\]\] [thumb](https://ja.wikipedia.org/wiki/画像:H200c.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:NEAC-2200_Model200.png "wikilink") **Honeywell 200シリーズ**は[1960年代](../Page/1960年代.md "wikilink")に[ハネウェル](../Page/ハネウェル.md "wikilink")社が製造販売したキャラクター指向の2アドレス商用[コンピュータ](../Page/コンピュータ.md "wikilink")である。後の 1200、2200、4200、8200などの機種の基本となった。H200と略記される。
 
 [IBM 1401への対抗機種として登場したH](../Page/IBM_1401.md "wikilink")200は、1401の2～3倍の性能でソフトウェアのサポートにより 1401 のプログラムを再コンパイルせずに実行可能であった。マーケティングキャンペーンでこの互換性を利用し、IBM 1401 の販売を行き詰らせるほどの売れ行きを見せた。ハネウェルには当初数百の注文が殺到したが、後にIBMはマーケティング戦略として[System/360](https://ja.wikipedia.org/wiki/System/360 "wikilink")を開発中であることを明らかにし、H200シリーズの勢いは途絶えた。
 

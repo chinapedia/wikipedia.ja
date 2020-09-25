@@ -23,7 +23,7 @@ SD90MACは、[SD80MACとともに](https://ja.wikipedia.org/wiki/EMD_SD80MAC形�
 
 ## 参考
 
-  - *[The Locomotive Place](http://www.geocities.com/guilford_350/)*. Retrieved on January 13, 2005.
+  - **. Retrieved on January 13, 2005.
   - *[The Unofficial EMD homepage](http://www.trainweb.org/emdloco/index.html)*. Retrieved on January 13, 2005.
 
 ## 関連項目

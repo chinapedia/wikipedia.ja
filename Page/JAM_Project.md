@@ -183,7 +183,8 @@
 <td><p>2nd</p></td>
 <td><p>2000年11月22日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Danger_Zone" title="wikilink">Danger Zone</a></strong></p></td>
-<td><p>「Danger Zone」「It's Emotion」<sup>※</sup></p></td>
+<td><p>「Danger Zone」<br />
+「It's Emotion」<sup>※</sup></p></td>
 <td><p>LACM-4002</p></td>
 <td></td>
 </tr>
@@ -214,7 +215,8 @@
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2001年9月29日</p></td>
-<td><p><strong>FIRE WARS / TORNADO</strong></p></td>
+<td><p><strong>FIRE WARS<br />
+/ TORNADO</strong></p></td>
 <td><p>「FIRE WARS」「TORNADO」</p></td>
 <td><p>LACM-4027</p></td>
 <td></td>
@@ -563,7 +565,8 @@
 <td><p>47th</p></td>
 <td><p>2012年4月25日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIMIT_BREAK" title="wikilink">LIMIT BREAK</a></strong></p></td>
-<td><p>「LIMIT BREAK」「Fight ! Fight ! Fighting !」<sup>※</sup></p></td>
+<td><p>「LIMIT BREAK」<br />
+「Fight ! Fight ! Fighting !」<sup>※</sup></p></td>
 <td><p>LACM-4922</p></td>
 <td><p>42位</p></td>
 </tr>
@@ -650,7 +653,8 @@
 <td><p>57th</p></td>
 <td><p>2015年2月11日</p></td>
 <td><p><strong>B.B.</strong></p></td>
-<td><p>「B.B.」「追憶の光」<sup>※</sup></p></td>
+<td><p>「B.B.」<br />
+「追憶の光」<sup>※</sup></p></td>
 <td><p>LACM-14300</p></td>
 <td><p>62位</p></td>
 </tr>
@@ -708,7 +712,8 @@
 <td><p>63rd</p></td>
 <td><p>2016年2月10日</p></td>
 <td><p><strong>月華</strong></p></td>
-<td><p>「月華」「ロナレバビサミ」<sup>※</sup></p></td>
+<td><p>「月華」<br />
+「ロナレバビサミ」<sup>※</sup></p></td>
 <td><p>LACM-14450</p></td>
 <td><p>65位</p></td>
 </tr>
@@ -735,7 +740,8 @@
 <td><p>66th</p></td>
 <td><p>2017年2月15日</p></td>
 <td><p><strong>DRAGONFLAME</strong></p></td>
-<td><p>「DRAGONFLAME」「彷徨う果ての荒野は」<sup>※</sup></p></td>
+<td><p>「DRAGONFLAME」<br />
+「彷徨う果ての荒野は」<sup>※</sup></p></td>
 <td><p>LACM-14575</p></td>
 <td><p>70位</p></td>
 </tr>

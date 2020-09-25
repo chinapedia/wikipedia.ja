@@ -44,9 +44,9 @@
 
 ## 外部リンク
 
-  - [wakuwaku MUSIC-LABOホームページ](http://web.archive.org/web/20080930213311/http://www.mlabo.net/) - 閉鎖。（2008年9月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [Music Fiestaホームページ](http://web.archive.org/web/20080513180041/http://fiestaharajuku.jp/index.html) - 閉鎖。（2008年5月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
-  - [DISCOVERY EARTHホームページ](http://web.archive.org/web/20090405095857/http://www2.cosmo-oil.co.jp/discovery/index.html) - 閉鎖。（2007年10月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [wakuwaku MUSIC-LABOホームページ](https://web.archive.org/web/20080930213311/http://www.mlabo.net/) - 閉鎖。（2008年9月30日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Music Fiestaホームページ](https://web.archive.org/web/20080513180041/http://fiestaharajuku.jp/index.html) - 閉鎖。（2008年5月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [DISCOVERY EARTHホームページ](https://web.archive.org/web/20090405095857/http://www2.cosmo-oil.co.jp/discovery/index.html) - 閉鎖。（2007年10月20日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [MANABEE'S CAFEホームページ](http://www.bayfm.co.jp/manabee/)
 
 [Category:独立系FMラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:独立系FMラジオの音楽番組の歴史 "wikilink") [Category:日本の民放ネットワーク](https://ja.wikipedia.org/wiki/Category:日本の民放ネットワーク "wikilink") [Category:Bayfmの番組](https://ja.wikipedia.org/wiki/Category:Bayfmの番組 "wikilink") [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:FMヨコハマの番組](https://ja.wikipedia.org/wiki/Category:FMヨコハマの番組 "wikilink")

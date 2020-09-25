@@ -26,4 +26,4 @@
 
   - [1999年の音楽](../Page/1999年の音楽.md "wikilink")
 
-[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:アルペンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アルペンのコマーシャルソング "wikilink") [Category:小柳ゆきの楽曲](https://ja.wikipedia.org/wiki/Category:小柳ゆきの楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")
+[Category:1999年のシングル](https://ja.wikipedia.org/wiki/Category:1999年のシングル "wikilink") [Category:アルペンのコマーシャルソング](https://ja.wikipedia.org/wiki/Category:アルペンのコマーシャルソング "wikilink") [Category:小柳ゆきの楽曲](https://ja.wikipedia.org/wiki/Category:小柳ゆきの楽曲 "wikilink") [Category:ワーナーミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのシングル "wikilink") [Category:妖精を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:妖精を題材とした楽曲 "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink")

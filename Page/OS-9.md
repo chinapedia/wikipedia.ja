@@ -1,9 +1,9 @@
 > この記事は[OS-9](https://ja.wikipedia.org/wiki/OS-9)から翻訳されています。
 
 
-**OS-9**（**オーエスナイン**）は、[マイクロウェア](https://ja.wikipedia.org/wiki/マイクロウェア "wikilink")（旧[RadiSys](https://ja.wikipedia.org/wiki/RadiSys "wikilink")）によって[モトローラ](../Page/モトローラ.md "wikilink")の[8ビット](../Page/8ビット.md "wikilink")[MPUである](../Page/マイクロプロセッサ.md "wikilink")[6809のために開発された](../Page/MC6809.md "wikilink")[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")（以下、RTOS）である。 当時マイクロウェアはモトローラの依頼により共同でプログラミング言語[Basic09](https://ja.wikipedia.org/wiki/Basic09 "wikilink")を開発していた。この言語の開発・実行環境としてマイクロウェアが開発したのがOS-9である。
+**OS-9**（**オーエスナイン**）は、[マイクロウェアシステム](https://ja.wikipedia.org/wiki/マイクロウェアシステム "wikilink")によって[モトローラ](../Page/モトローラ.md "wikilink")の[8ビット](../Page/8ビット.md "wikilink")[MPUである](../Page/マイクロプロセッサ.md "wikilink")[6809のために開発された](../Page/MC6809.md "wikilink")[リアルタイムオペレーティングシステム](../Page/リアルタイムオペレーティングシステム.md "wikilink")（以下、RTOS）である。 当時マイクロウェアシステムはモトローラの依頼により共同でプログラミング言語[Basic09](https://ja.wikipedia.org/wiki/Basic09 "wikilink")を開発していた。この言語の開発・実行環境としてマイクロウェアが開発したのがOS-9である。
 
-その後[680x0に移植され](https://ja.wikipedia.org/wiki/MC68000#680x0ファミリ "wikilink")、さらに[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SH](../Page/SuperH.md "wikilink")、[ARMなど幅広い](../Page/ARMアーキテクチャ.md "wikilink")[CPU](../Page/CPU.md "wikilink")に対応した。
+その後[680x0に移植され](https://ja.wikipedia.org/wiki/MC68000#680x0ファミリ "wikilink")、さらに[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")、[PowerPC](../Page/PowerPC.md "wikilink")、[SH](../Page/SuperH.md "wikilink")、[ARMなど幅広い](../Page/ARMアーキテクチャ.md "wikilink")[CPU](../Page/CPU.md "wikilink")に対応した。 2001年にラディシス社によってマイクロウェアシステムが買収されて一部門となり、2013年に販社グループに売却されてマイクロウェアLP社として独立した。
 
 ## 特徴
 
@@ -224,6 +224,7 @@ OS-9は、モトローラの16ビットCPU[68000に移植された](../Page/MC68
   -
 ## 外部リンク
 
+  - [マイクロウェアオフィシャルサイト](https://www.microware.com/)
   - [株式会社ルネサステクノロジ - リアルタイムOS](http://www.renesas.com/jpn/products/mpumcu/tools/partner/rtos/os_radisys_preliminary.htm)
   - [株式会社エーアイコーポレーション - 「OS-9向けに組込み用電源断対応ファイルシステム『RTFiles』の供給を開始」](http://www.aicp.co.jp/news/20040610_rtfiles.shtml)
   - [nikkeibp.jp - 「日通工、電話やLANに接続できるタッチパネル式情報端末『Addシリーズ』を発売」](http://bizns.nikkeibp.co.jp/cgi-bin/search/wcs-bun.cgi?ID=52076&FORM=biztechnews)

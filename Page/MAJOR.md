@@ -227,4 +227,4 @@ MAJORシリーズは内容から以下のように分けることができ、本
 11. 『週刊ファミ通』2008年12月19日号（No.1044）43ページより
 12. [MAJORDREAM メジャーWii パーフェクトクローザーのレビュー・評価・感想](https://www.famitsu.com/games/t/2693/reviews/) ファミ通.com 2020年6月23日閲覧。
 13. 過去に、横浜大洋ホエールズ時代の[谷繁元信](https://ja.wikipedia.org/wiki/谷繁元信 "wikilink")捕手が背番号1を付け、背番号が見えるように横2本ベルトのプロテクターを使用したが、後に背番号8に変更した。
-14. 1950年代から1960年代前半まで活躍したデル・クランダール（[英語版](https://ja.wikipedia.org/wiki/en:Del_Crandall "wikilink")）が着用していた。
+14. 1950年代から1960年代前半まで活躍したデル・クランダール（[英語版](https://ja.wikipedia.org/wiki/:en:Del_Crandall "wikilink")）が着用していた。

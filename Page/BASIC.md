@@ -304,7 +304,7 @@ BASICは依然として初心者向けの言語ではあるが、パソコンに
   - [ファミリーベーシック](../Page/ファミリーベーシック.md "wikilink") (NS-HuBASIC)（[ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")、[任天堂](../Page/任天堂.md "wikilink")・[シャープ](../Page/シャープ.md "wikilink")・[ハドソン](../Page/ハドソン.md "wikilink")共同開発）
   - [PCエンジン](../Page/PCエンジン.md "wikilink")でべろBASIC（PCエンジン用開発ツール、[徳間書店インターメディア](../Page/徳間書店インターメディア.md "wikilink")が販売、[ハドソン](../Page/ハドソン.md "wikilink")・[日本電気ホームエレクトロニクス](../Page/日本電気ホームエレクトロニクス.md "wikilink")開発）
   - [GAME BASIC for SEGASATURN](../Page/GAME_BASIC_for_SEGASATURN.md "wikilink") （[セガサターン](../Page/セガサターン.md "wikilink")、MSX-BASICライク）
-  - [BASIC STUDIO](../Page/BASIC_STUDIO.md "wikilink") （[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[アートディンク](../Page/アートディンク.md "wikilink")開発）
+  - [BASIC STUDIO](../Page/BASIC_STUDIO.md "wikilink") （[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[アートディンク](../Page/アートディンク.md "wikilink")開発）
   - [プチコン](https://ja.wikipedia.org/wiki/プチコン "wikilink")・プチコンmkII (SmileBasic)（[ニンテンドーDSi](https://ja.wikipedia.org/wiki/ニンテンドーDSi "wikilink")/DSiLL・[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")・[Newニンテンドー3DS](https://ja.wikipedia.org/wiki/Newニンテンドー3DS "wikilink")、JOEDOWN・[スマイルブーム](https://ja.wikipedia.org/wiki/スマイルブーム "wikilink")・[ロケットスタジオ](../Page/ロケットスタジオ.md "wikilink")共同開発）
       - [プチコン3号](https://ja.wikipedia.org/wiki/プチコン3号 "wikilink") （ニンテンドー3DS・Newニンテンドー3DS）
       - [プチコン4](https://ja.wikipedia.org/wiki/プチコン4 "wikilink") (ニンテンドーSwitch)

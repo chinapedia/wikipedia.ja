@@ -27,7 +27,7 @@ Internet Explorer 3は[1996年](../Page/1996年.md "wikilink")[8月13日](../Pag
 
 Internet Explorer 4は[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[9月30日](../Page/9月30日.md "wikilink")に公開された\[6\]。Windowsと統合がはかられWindows 95やWindows NT 4.0は「Windows デスクトップのアップデート」を行った場合Windowsシェルが更新された\[7\]（[Active Desktopを参照](../Page/Active_Desktop.md "wikilink")）。またWindows 98に標準で搭載され、強力な市場シェアを築く要因となった。しかし、この統合は多くの批判を受け、裁判の原因になった（アメリカ合衆国の司法省とマイクロソフトとの裁判など）。
 
-グループ ポリシーでの構成に対応した。Internet Mail and Newsは[Outlook Expressに置き換えられた](https://ja.wikipedia.org/wiki/Outlook_Express "wikilink")。[レンダリング エンジンは新しく](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")「[Trident](../Page/Trident.md "wikilink")」に切り替わった。新しい試みとして[Active Channelと呼ばれるプッシュメディアが採用されたが](https://ja.wikipedia.org/wiki/Active_Channel "wikilink")、当初の期待に反して普及しなかった。当時は[常時接続](../Page/常時接続.md "wikilink")が一般的ではなかったのが原因だといわれている。当時としては高い先進性を持っていたブラウザであり初めて[HTML 4.01に対応し](../Page/HyperText_Markup_Language.md "wikilink")、CSS1に完全対応した。また、現在では一般的になった「白地の背景に黒文字」のデフォルトスタイルを初めて採用した。同年[12月4日](../Page/12月4日.md "wikilink")に不具合を修正したIE4.01が公開された\[8\]。
+グループ ポリシーでの構成に対応した。Internet Mail and Newsは[Outlook Expressに置き換えられた](https://ja.wikipedia.org/wiki/Outlook_Express "wikilink")。[レンダリング エンジンは新しく](https://ja.wikipedia.org/wiki/HTMLレンダリングエンジン "wikilink")「[Trident](../Page/Trident.md "wikilink")」に切り替わった。新しい試みとして[Active Channelと呼ばれるプッシュメディアが採用されたが](https://ja.wikipedia.org/wiki/Push技術 "wikilink")、当初の期待に反して普及しなかった。当時は[常時接続](../Page/常時接続.md "wikilink")が一般的ではなかったのが原因だといわれている。当時としては高い先進性を持っていたブラウザであり初めて[HTML 4.01に対応し](../Page/HyperText_Markup_Language.md "wikilink")、CSS1に完全対応した。また、現在では一般的になった「白地の背景に黒文字」のデフォルトスタイルを初めて採用した。同年[12月4日](../Page/12月4日.md "wikilink")に不具合を修正したIE4.01が公開された\[8\]。
 
 ###
 

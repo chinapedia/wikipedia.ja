@@ -1856,7 +1856,7 @@ Bリストには、試合前日の24:00（[中央ヨーロッパ時間](../Page/
 <td><p>119</p></td>
 <td><p>{{#expr:64/119 round 2}}</p></td>
 <td><p>2006–</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a> / <strong><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></strong></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a> / <strong><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></strong></p></td>
 </tr>
 <tr class="even">
 <td><p>6</p></td>
@@ -2163,7 +2163,7 @@ Bリストには、試合前日の24:00（[中央ヨーロッパ時間](../Page/
 <td></td>
 <td><p>112</p></td>
 <td><p>2004-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンピック・リヨン" title="wikilink">リヨン</a> / <strong><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></strong></p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a> / <strong><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></strong></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ティエリ・アンリ.md" title="wikilink">ティエリ・アンリ</a></p></td>
@@ -2333,7 +2333,7 @@ The Champions（英語：それがチャンピオン）
 ### オフィシャルサプライアーパートナー
 
   - [アディダス](../Page/アディダス.md "wikilink")（公式試合球）
-  - [マクロン](https://ja.wikipedia.org/wiki/:en:Macron_\(sportswear\) "wikilink")（レフェリーウェア）\[18\]
+  - [マクロン](../Page/マクロン_\(スポーツ用品\).md "wikilink")（レフェリーウェア）\[18\]
 
 ### オフィシャルタイムキーパー
 
@@ -2393,7 +2393,7 @@ The Champions（英語：それがチャンピオン）
 | タイトル                                                                                                                                                                                                                                          | 発売年                                                                                                                             | 発売元                                                                                         | プラットフォーム                                                                                                                  |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
 | European Club Soccer シリーズ                                                                                                                                                                                                                     | 1996年 - 1997年                                                                                                                   | [Krisalis Software](https://ja.wikipedia.org/wiki/:en:Krisalis_Software "wikilink")         | [メガドライブ](../Page/メガドライブ.md "wikilink")、[PC](https://ja.wikipedia.org/wiki/パーソナルコンピューター "wikilink")                        |
-| World League Soccer シリーズ                                                                                                                                                                                                                      | 1998年 - 2001年                                                                                                                   | [Silicon Dreams Studio](https://ja.wikipedia.org/wiki/:en:Silicon_Dreams_Studio "wikilink") | [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")                                                   |
+| World League Soccer シリーズ                                                                                                                                                                                                                      | 1998年 - 2001年                                                                                                                   | [Silicon Dreams Studio](https://ja.wikipedia.org/wiki/:en:Silicon_Dreams_Studio "wikilink") | [PlayStation 2](../Page/PlayStation_2.md "wikilink")                                                                      |
 | UEFA Champions League 2004–2005<ref name="ea1">{{Cite web |date=2016 |url=<http://www.ea.com/uk/uefa-champions-league-2004-2005>                                                                                                              | title=UEFA Champions League 2004-2005 |format= |publisher=EA Sports Official Site |accessdate=2016-08-08}}</ref>                | 2005年2月\[23\]                                                                               | [EA Sports](https://ja.wikipedia.org/wiki/EA_Sports "wikilink") Canada                                                    |
 | UEFA Champions League 2006–2007<ref name="ea">{{Cite web |date=2016 |url=<http://www.ea.com/uk/uefa-champions-league-2006-2007>                                                                                                               | title=UEFA Champions League 2006-2007 |format= |publisher=EA Sports Official Site |accessdate=2016-08-08}}</ref>                | 2007年3月22日\[24\]                                                                            | [EA Sports](https://ja.wikipedia.org/wiki/EA_Sports "wikilink") Canada                                                    |
 | [ワールドサッカー ウイニングイレブン 2009](https://ja.wikipedia.org/wiki/ワールドサッカー_ウイニングイレブン_2009 "wikilink")<ref name="k">{{Cite web |date=2008-10-24 |url=<http://dengekionline.com/elem/000/000/115/115883/>                                                 | format= |publisher=電撃オンライン |accessdate=2016-08-08}}</ref>                                                                       | 2008年11月27日（日本国内版）                                                                          | [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")                                                                |

@@ -139,6 +139,7 @@ Xerox社が自分たちの間違いに気付いたのは、1980年代初頭、Ap
   - [The Smalltalk-76 Programming System - Design and Implementation](https://web.archive.org/web/20150217042226/https://classes.soe.ucsc.edu/cmps112/Spring03/readings/Ingalls78.html) - 1977年当時、暫定Dynabookとして動作するAltoのスクリーンショットを挿絵に見ることができる。また同システムを実際に操作している様子は、Altoの特に暫定DynabookでのGUIの変遷を収めた[YouTube: PARC Movies](https://www.youtube.com/watch?v=aqW6Sp279Z0&t=16m50s)の16分50秒以降に記録として残されている。
   - [The ALTO Computer 1974](https://www.youtube.com/watch?v=AYlYSzMqGR8&feature=youtu.be) - 日本のTV番組から。[アラン・ケイ](../Page/アラン・ケイ.md "wikilink")、[スティーブ・ウォズニアック](../Page/スティーブ・ウォズニアック.md "wikilink")へのインタビューを含む。
   - [Xerox Alto Demo](https://www.youtube.com/watch?v=9H79_kKzmFs) - [VCF](https://ja.wikipedia.org/wiki/:en:Vintage_Computer_Festival "wikilink") West 2017 で披露されたリストアされたAlto実機のデモ。
+  - [Xerox Alto Source Code](https://computerhistory.org/blog/xerox-alto-source-code/) - コンピューター歴史博物館により公開されたAltoのソースコード、ドキュメントなど
 
 [Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink") [Category:ゼロックス](https://ja.wikipedia.org/wiki/Category:ゼロックス "wikilink") [Category:パーソナルコンピュータ_(製品)](https://ja.wikipedia.org/wiki/Category:パーソナルコンピュータ_\(製品\) "wikilink")
 

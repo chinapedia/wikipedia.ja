@@ -1,7 +1,7 @@
 > この記事は[SF映画](https://ja.wikipedia.org/wiki/SF映画)から翻訳されています。
 
 
-**SF映画**（エスエフえいが）は、**SF**（[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")）をモチーフにした[映画](../Page/映画.md "wikilink")。[宇宙人](../Page/宇宙人.md "wikilink")の襲来、[宇宙旅行](../Page/宇宙旅行.md "wikilink")、[宇宙戦争](../Page/宇宙戦争_\(フィクション\).md "wikilink")、海底探検、[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")などの題材がよく扱われる。
+は、**SF**（[サイエンス・フィクション](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")）をモチーフにした[映画](../Page/映画.md "wikilink")。[宇宙人](../Page/宇宙人.md "wikilink")の襲来、[宇宙旅行](../Page/宇宙旅行.md "wikilink")、[宇宙戦争](../Page/宇宙戦争_\(フィクション\).md "wikilink")、海底探検、[タイムマシン](https://ja.wikipedia.org/wiki/タイムマシン "wikilink")などの題材がよく扱われる。
 
 SFは現在の世界とは違う作品世界を、社会的、文化的、技術的な考証を元に構築するが、SF映画では非現実の世界を映像で実現する事と、一般大衆を対象にした物語が要求され、作品世界の背景を解説するより、映像的な驚きに主体を置き、勧善懲悪の物語の作品が多い。
 

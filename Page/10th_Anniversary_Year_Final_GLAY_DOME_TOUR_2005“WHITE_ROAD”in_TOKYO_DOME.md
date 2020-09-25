@@ -46,4 +46,9 @@
 8.  **[南東風](../Page/THE_FRUSTRATED.md "wikilink")**
 9.  **ENDING 〜THE FRUSTRATED〜**
 
+**特典映像**
+
+  - **MCダイジェスト**
+  - **GLAY 10th Anniversary Year Final in OKINAWA WHITE ROADダイジェスト**
+
 [Category:GLAYの映像作品](https://ja.wikipedia.org/wiki/Category:GLAYの映像作品 "wikilink") [Category:2005年のコンサート](https://ja.wikipedia.org/wiki/Category:2005年のコンサート "wikilink") [Category:2005年のライブ・ビデオ](https://ja.wikipedia.org/wiki/Category:2005年のライブ・ビデオ "wikilink") [Category:EMIミュージック・ジャパンの映像作品](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンの映像作品 "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

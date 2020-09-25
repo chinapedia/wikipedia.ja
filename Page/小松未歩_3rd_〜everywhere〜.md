@@ -54,6 +54,7 @@
 9.  **[さよならのかけら](../Page/さよならのかけら.md "wikilink")**　編曲:古井弘人
       -
         7thシングル。テレビ朝日系列[情報](https://ja.wikipedia.org/wiki/情報番組 "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[PAKU<sup>2</sup>グルメんぼ](../Page/PAKU2グルメんぼ.md "wikilink")』エンディングテーマ。
+        セルフライナーノーツによると、シングルバージョンのミックステイク違い。
         出版者:テレビ朝日ミュージック、ギザミュージック（スプーンフルミュージック）
 10. **夢と現実の狭間**　編曲:[尾城九龍](../Page/尾城九龍.md "wikilink")
       -

@@ -28,7 +28,7 @@
         （ディレクター：[上田拓](https://ja.wikipedia.org/wiki/上田拓 "wikilink")、[多田琢](https://ja.wikipedia.org/wiki/多田琢 "wikilink")）
 5.  **[Anemone](../Page/Clicked_Singles_Best_13.md "wikilink")**
       -
-        （ディレクター：[ヴィンセント・ギャロ](../Page/ヴィンセント・ギャロ.md "wikilink")〈メインアングル〉、[Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")〈サブアングル〉）
+        （ディレクター：[ヴィンセント・ギャロ](../Page/ヴィンセント・ギャロ.md "wikilink")〈メインアングル〉、[Higuchinsky](../Page/Higuchinsky.md "wikilink")〈サブアングル〉）
         正確には**[ボーナストラック](https://ja.wikipedia.org/wiki/ボーナストラック "wikilink")**として収録。[DVD](../Page/DVD.md "wikilink")版のみ、メイン・サブの2種類のアングルから選択できる。メインアングルは、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[映画監督](../Page/映画監督.md "wikilink")・ヴィンセント・ギャロが撮影した映像。独特な撮影・演出方法が使われているが、[tetsuから](https://ja.wikipedia.org/wiki/tetsuya "wikilink")「PVとは認めたくない」と発言されるなど、評判は良くない。サブアングルは、ドームツアー「TOUR 2000 REAL」のライブ映像やレコーディングの模様を中心に構成されている。
 
 <!-- end list -->

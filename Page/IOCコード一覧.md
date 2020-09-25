@@ -783,27 +783,27 @@ WAL </p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>LBN</p></td>
+<td></td>
+<td><p>1948</p></td>
+<td><p>2016年に LIB から LBN へコード変更</p></td>
+</tr>
+<tr class="odd">
 <td><p>LBR</p></td>
 <td></td>
 <td><p>1956</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>LCA</p></td>
 <td></td>
 <td><p>1996</p></td>
 <td><p>1960年  (BWI) の一部として参加</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>LES</p></td>
 <td></td>
 <td><p>1972</p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>LIB</p></td>
-<td></td>
-<td><p>1948</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -893,8 +893,7 @@ WAL </p></td>
 </tr>
 <tr class="odd">
 <td><p>MKD</p></td>
-<td><p><br />
-<a href="../Page/国際オリンピック委員会.md" title="wikilink">IOC呼称</a>: Former Yugoslav Republic of Macedonia</p></td>
+<td></td>
 <td><p>1996</p></td>
 <td><p>1920年-1988年  (YUG) の一部として参加<br />
 1992年 オリンピック独立参加者 (IOP, Independent Olympic Participants) として参加</p></td>

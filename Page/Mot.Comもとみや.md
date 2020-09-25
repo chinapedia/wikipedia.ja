@@ -136,4 +136,4 @@
 
 [Category:東北地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:東北地方のコミュニティ放送局 "wikilink") [Category:福島県のマスメディア](https://ja.wikipedia.org/wiki/Category:福島県のマスメディア "wikilink") [Category:本宮市の企業](https://ja.wikipedia.org/wiki/Category:本宮市の企業 "wikilink") [Category:2002年設立の企業](https://ja.wikipedia.org/wiki/Category:2002年設立の企業 "wikilink")
 
-1.  [電波受信](http://web.archive.org/web/20130907202725/http://fm-mot.com/motcom/antena/fmmotcom_antena.html) Mot.Com もとみや（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2013年9月7日収集）
+1.  [電波受信](https://web.archive.org/web/20130907202725/http://fm-mot.com/motcom/antena/fmmotcom_antena.html) Mot.Com もとみや（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2013年9月7日収集）

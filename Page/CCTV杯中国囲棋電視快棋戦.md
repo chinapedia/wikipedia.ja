@@ -55,7 +55,7 @@
 6.  2007年 [朴文尭](https://ja.wikipedia.org/wiki/朴文尭 "wikilink") - 陳耀燁
 7.  2008年 [謝赫](https://ja.wikipedia.org/wiki/謝赫_\(囲碁\) "wikilink") - [李喆](https://ja.wikipedia.org/wiki/李テツ_\(囲碁棋士\) "wikilink")
 8.  2009年 [孔傑](../Page/孔傑.md "wikilink") - 周鶴洋
-9.  2010年 [陳耀燁](../Page/陳耀ヨウ.md "wikilink") - [古霊益](https://ja.wikipedia.org/wiki/古霊益 "wikilink")
+9.  2010年 [陳耀燁](https://ja.wikipedia.org/wiki/陳耀燁 "wikilink") - [古霊益](https://ja.wikipedia.org/wiki/古霊益 "wikilink")
 10. 2011年 [鍾文靖](https://ja.wikipedia.org/wiki/鍾文靖 "wikilink") - 王磊
 
 <!-- end list -->
@@ -82,7 +82,7 @@
 
 <!-- end list -->
 
-1.  2016年 [芈昱廷](https://ja.wikipedia.org/wiki/ミイク廷 "wikilink") - 李欽誠
+1.  2016年 [羋昱廷](https://ja.wikipedia.org/wiki/羋昱廷 "wikilink") - 李欽誠
 
 <!-- end list -->
 
@@ -91,7 +91,7 @@
 <!-- end list -->
 
 1.  2017年 [張涛](https://ja.wikipedia.org/wiki/張涛_\(囲碁棋士\) "wikilink") - [李軒豪](https://ja.wikipedia.org/wiki/李軒豪 "wikilink")
-2.  2018年 [范廷鈺](https://ja.wikipedia.org/wiki/范廷ギョク "wikilink") - [范蘊若](https://ja.wikipedia.org/wiki/范蘊若 "wikilink")
+2.  2018年 [范廷鈺](https://ja.wikipedia.org/wiki/范廷鈺 "wikilink") - [范蘊若](https://ja.wikipedia.org/wiki/范蘊若 "wikilink")
 3.  2019年 [丁浩](https://ja.wikipedia.org/wiki/丁浩 "wikilink") - [許嘉陽](https://ja.wikipedia.org/wiki/許嘉陽 "wikilink")
 
 ## 記録

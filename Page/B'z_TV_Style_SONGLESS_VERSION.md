@@ -1,7 +1,7 @@
 > この記事は[B\'z TV Style SONGLESS VERSION](https://ja.wikipedia.org/wiki/B\'z_TV_Style_SONGLESS_VERSION)から翻訳されています。
 
 
-『**B'z TV Style SONGLESS VERSION**』（ビーズ・ティーヴィー・スタイル・ソングレス・ヴァージョン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")が[1992年](../Page/1992年.md "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")1枚目の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
+『**B'z TV Style SONGLESS VERSION**』（ビーズ・ティーヴィー・スタイル・ソングレス・ヴァージョン）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、[B'z](../Page/B'z.md "wikilink")が1992年2月19日に[BMGビクターからリリースした](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")1枚目の[コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")である。
 
 ## 内容
 
@@ -41,6 +41,5 @@
 ## 関連項目
 
   - [1992年の音楽](../Page/1992年の音楽.md "wikilink")
-  - [B'z TV STYLE II Songless Version](../Page/B'z_TV_STYLE_II_Songless_Version.md "wikilink")
 
 [Category:B'zのアルバム](https://ja.wikipedia.org/wiki/Category:B'zのアルバム "wikilink") [Category:1992年のアルバム](https://ja.wikipedia.org/wiki/Category:1992年のアルバム "wikilink") [Category:BMGビクターのアルバム](https://ja.wikipedia.org/wiki/Category:BMGビクターのアルバム "wikilink") [Category:オフヴォーカル・アルバム](https://ja.wikipedia.org/wiki/Category:オフヴォーカル・アルバム "wikilink")

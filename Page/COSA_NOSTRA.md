@@ -666,4 +666,4 @@ The Best of COSA NOSTRA</strong></p></td>
 
   - [桜井鉄太郎 (chausakura) on Twitter](http://twitter.com/chausakura)
 
-[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")
+[Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

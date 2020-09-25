@@ -891,7 +891,7 @@ SLP-1006/1007(web限定盤)</p></td>
   -
   - [成山剛コラム「二度寝する奴ぁ三度寝る」](http://skream.jp/column/sleepyab/) - 更新終了
 
-  - [山内憲介ブログ「ケンスペ」](http://sleepyab.exblog.jp/) - 更新終了
+  - [山内憲介ブログ「ケンスペ」](https://sleepyab.exblog.jp/) - 更新終了
 
 [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポストロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポストロック・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
 

@@ -49,7 +49,7 @@
 
 ## 外部リンク
 
-  - [音泉](http://onsen.ag/)
+  -
   - [RED GARDEN公式サイト](http://anime.excite.co.jp/redgarden/index.html)
 
 [Category:音泉](https://ja.wikipedia.org/wiki/Category:音泉 "wikilink")

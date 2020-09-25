@@ -390,7 +390,7 @@ CDレーベルのデザインは一貫しており、全て無地の盤面にバ
 
   - [BURGER NUDS](http://www.burgernuds.jp) - 公式サイト
   - [BURGER NUDS](http://www.ukproject.com/newrelease3/burger-nuds.html) - [UKプロジェクト](../Page/UKプロジェクト.md "wikilink")による公式サイト
-  - [TELESCOPE_LABEL](http://web.archive.org/web/20070903065221/http://www.telescope-label.com/) - [TELESCOPE LABELの公式サイト](https://ja.wikipedia.org/wiki/TELESCOPE_LABEL "wikilink")（2007年9月3日時点の[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [TELESCOPE_LABEL](https://web.archive.org/web/20070903065221/http://www.telescope-label.com/) - [TELESCOPE LABELの公式サイト](https://ja.wikipedia.org/wiki/TELESCOPE_LABEL "wikilink")（2007年9月3日時点の[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [BURGER NUDS](http://www.loft-prj.co.jp/interview/0211/04.html) - インタビュー
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink")

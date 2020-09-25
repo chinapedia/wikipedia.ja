@@ -63,6 +63,6 @@
 
 ## 外部リンク
 
-  - [フジテレビ](http://www.fujitv.co.jp/index.html)
+  - [フジテレビ](https://www.fujitv.co.jp/index.html)
 
 [Category:スカパー\!の番組](https://ja.wikipedia.org/wiki/Category:スカパー!の番組 "wikilink") [Category:1998_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:1998_FIFAワールドカップ "wikilink") [Category:2002_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:2002_FIFAワールドカップ "wikilink") [Category:2006_FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:2006_FIFAワールドカップ "wikilink") [Category:1998年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のテレビ番組_\(日本\) "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink")

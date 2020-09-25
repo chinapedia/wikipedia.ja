@@ -30,19 +30,16 @@
   - 池田虎雅
   - 石垣大祐
   - 石渡大和
-  - 岩本れお
   - 稲葉光
   - 稲葉通陽
   - [井上瑞稀](https://ja.wikipedia.org/wiki/井上瑞稀 "wikilink")
   - 今村隼人
   - 入江奏多
   - 岩﨑大昇
-  - 岩原怜音
 
 ### う
 
   - ヴァサイェガ渉
-  - 植田翔
   - [浮所飛貴](https://ja.wikipedia.org/wiki/浮所飛貴 "wikilink")
   - 内村颯太
   - 内龍星
@@ -59,7 +56,7 @@
   - 荻野未友治
   - 尾崎龍星
   - 小田将聖
-  - 織山尚大
+  - [織山尚大](https://ja.wikipedia.org/wiki/織山尚大 "wikilink")
 
 ### か
 
@@ -78,8 +75,10 @@
 
 ### く
 
-  - [久保廉](https://ja.wikipedia.org/wiki/久保廉 "wikilink")
+  - 久保廉
   - 黒田光輝
+
+•草間リチャード敬太
 
 ### け
 
@@ -103,7 +102,7 @@
 ### し
 
   - 嶋村法穏
-  - 七五三掛龍也
+  - [七五三掛龍也](https://ja.wikipedia.org/wiki/七五三掛龍也 "wikilink")
   - 下山晴叶
   - 新藤樹力
 
@@ -127,7 +126,9 @@
 
 ### た
 
-  - [高田翔](../Page/高田翔.md "wikilink")\* 高橋賢生\* 髙橋汐音\* 高橋翔吾\* 髙橋曽良\* 髙橋真斗\* [髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")\* 瀧陽次朗\* 滝本海都\* 竹田凌\* 竹村実悟\* 田中誠治\* 田仲陽成\* 谷田柊士\* 田村匠\* 谷村龍一\* 田村海琉
+[高田翔](../Page/高田翔.md "wikilink")・高橋賢生・髙橋汐音・高橋翔吾・髙橋曽良・髙橋真斗・[髙橋優斗](https://ja.wikipedia.org/wiki/髙橋優斗 "wikilink")・瀧陽次朗・滝本海都・竹田凌・竹村実悟・田中誠治・田仲陽成・谷田柊士・谷村龍一
+
+田村海琉
 
 ### ち
 
@@ -146,7 +147,6 @@
 ### と
 
   - 冨岡健翔
-  - 富田弘一
   - 豊田陸人
 
 ### な
@@ -164,6 +164,8 @@
 
   - 西村航
 
+**ぬ**
+
 ### ね
 
   - 根岸葵海
@@ -176,10 +178,9 @@
 
   - [橋本涼](https://ja.wikipedia.org/wiki/橋本涼 "wikilink")
   - 林一敬
-  - [林翔太](https://ja.wikipedia.org/wiki/林翔太 "wikilink")
   - 林拓音
   - 林蓮音
-  - 羽村仁成
+  - [羽村仁成](https://ja.wikipedia.org/wiki/羽村仁成 "wikilink")
   - 原嘉孝
 
 ### ひ
@@ -195,7 +196,6 @@
   - 福島颯人
   - 福島北斗
   - 藤井直樹
-  - ブランデン
 
 ### へ
 
@@ -213,6 +213,7 @@
   - [松倉海斗](https://ja.wikipedia.org/wiki/松倉海斗 "wikilink")
   - [松田元太](https://ja.wikipedia.org/wiki/松田元太 "wikilink")
   - 松本幸大
+  - [元木湧](../Page/元木湧.md "wikilink")
 
 ### み
 
@@ -221,8 +222,6 @@
   - [宮近海斗](https://ja.wikipedia.org/wiki/宮近海斗 "wikilink")
 
 ### む
-
-  - 村治将之助
 
 ### め
 
@@ -246,7 +245,7 @@
 ### よ
 
   - 横原悠毅
-  - 吉澤閑也
+  - [吉澤閑也](https://ja.wikipedia.org/wiki/吉澤閑也 "wikilink")
   - 吉原廉
 
 ### ら
@@ -254,7 +253,7 @@
 ### わ
 
   - 和田優希
-  - 渡辺心
+  - 渡邊心
   - 渡辺大輝
 
 ## 関西ジャニーズJr.
@@ -268,14 +267,16 @@
   - 浅倉吏玖
   - 池川侑希弥
   - 井田竜聖
-  - 伊藤翔真
-  - 伊藤篤志
+  - [伊藤翔真](../Page/伊藤翔真.md "wikilink")
+  - [伊藤篤志](../Page/伊藤篤志.md "wikilink")
+  - 井上一太
   - 今江大地
   - 岩泉輝斗
   - 岩倉司
   - 上垣廣祐
   - 浦陸斗
   - 大内リオン
+  - 扇野雅陵
   - 大西風雅
   - [大西流星](https://ja.wikipedia.org/wiki/大西流星 "wikilink")
   - [大橋和也](https://ja.wikipedia.org/wiki/大橋和也 "wikilink")
@@ -285,53 +286,64 @@
 
 ### か行
 
+  - 金子卓也
   - 亀井海聖
   - 河下楽
+  - 河本晴輝
   - 北村仁太郎
   - 草間リチャード敬太
+  - 小久保澪
   - 古謝那伊留
-
-<!-- end list -->
-
   - 小柴陸
-  - 小島健
+  - [小島健](https://ja.wikipedia.org/wiki/小島健 "wikilink")
 
 ### さ行
 
+  - 嵜本孝太朗
   - 佐田一眞
   - 佐藤颯梓
   - [佐野晶哉](https://ja.wikipedia.org/wiki/佐野晶哉 "wikilink")
   - 澤田雅也
   - 嶋﨑斗亜
-  - 末澤誠也
-  - 角紳太郎
-  - 千田藍生
+  - [末澤誠也](https://ja.wikipedia.org/wiki/末澤誠也 "wikilink")
+  - [角紳太郎](https://ja.wikipedia.org/wiki/角紳太郎 "wikilink")
+  - [千田藍生](../Page/千田藍生.md "wikilink")
 
 ### た行
 
   - [高橋恭平](https://ja.wikipedia.org/wiki/高橋恭平_\(ジャニーズ\) "wikilink")
+  - 武田優斗
   - 竹村翔
+  - 辻宗冶
   - 當間琉巧
 
 ### な行
 
   - [長尾謙杜](https://ja.wikipedia.org/wiki/長尾謙杜 "wikilink")
+  - 永岡蓮王
+  - 中川惺太
   - [西畑大吾](https://ja.wikipedia.org/wiki/西畑大吾 "wikilink")
   - 西村拓哉
+  - 野原陽稀
 
 ### は行
 
+  - 姫野颯良
   - 福井宏志朗
   - [福本大晴](https://ja.wikipedia.org/wiki/福本大晴 "wikilink")
   - 藤森凌駕
   - [藤原丈一郎](https://ja.wikipedia.org/wiki/藤原丈一郎 "wikilink")
+  - 堀躍人
 
 ### ま行
 
   - [正門良規](https://ja.wikipedia.org/wiki/正門良規 "wikilink")
   - 真弓孟之
   - 丸岡晃聖
+  - 丸山永遠
   - [道枝駿佑](https://ja.wikipedia.org/wiki/道枝駿佑 "wikilink")
+  - [室龍太](https://ja.wikipedia.org/wiki/室龍太 "wikilink")
+  - 森本悠阿
 
 ### や行
 

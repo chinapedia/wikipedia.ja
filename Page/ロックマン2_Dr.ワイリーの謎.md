@@ -15,12 +15,12 @@
 
   - 登場するステージボスが6体から8体に増加した（以降、ロックマンシリーズのボスキャラ数は8体となる）。
   - 1度クリアしたステージに行けなくなった（携帯アプリ版では行けるようになった）。
-  - [パスワードによるゲーム内容の記録が可能になった](../Page/パスワード_\(コンピュータゲーム\).md "wikilink")。ステージクリア時とゲームオーバー時に表示される。パスワードは文字を打つタイプのものではなく、5×5マスに赤丸を配置した表の形となっている\[2\]。
+  - [パスワードによるゲーム内容の記録が可能になった](../Page/パスワード_\(コンピュータゲーム\).md "wikilink")。ステージクリア時とゲームオーバー時に表示される。パスワードは文字を打つタイプのものではなく、5×5マスに9個の赤丸を配置した表の形となっている\[2\]。
   - エネルギー缶（E缶）が追加された。これは任意のタイミングで体力ゲージを全回復できるアイテムである\[3\]。最大4つまで所持できるが、ゲームオーバー時にストックが0に戻ってしまう。また、本作と[次作のみ体力ゲージ全快時でも誤って選択すると消費してしまう](../Page/ロックマン3_Dr.ワイリーの最期!?.md "wikilink")\[4\]。なお、本作では「エネルギーパック」という名称であり。「エネルギー缶」という名称になったのは『3』以降である。
   - ライフエネルギーと武器エネルギーのデザインが変更された。以降のファミリーコンピュータでの作品は、このデザインで統一されている。
   - スコアシステムの廃止（携帯アプリ版では継続）。
   - 水中でのジャンプ力の増加（動きが鈍るのは前作からの仕様）。
-  - ワイリーステージのボスラッシュは、前作のステージ途中で一定順序で戦う形式とは異なり、専用のステージが設置され、戦うボスの順番も任意で選べるようになった。また、撃破時にライフエネルギーの回復アイテム(大)を落とすようになった。
+  - ワイリーステージのボスラッシュは、前作のステージ途中で一定順序で戦う形式とは異なり、専用のステージが設置され、戦うボスの順番も任意で選べるようになった。また、撃破時にライフエネルギーの回復アイテム（大）を落とすようになった。
   - 一部を除き、敵キャラの被ダメージ後の無敵時間が非常に短くなった。耐久力の高い敵でも、至近距離からの連射で素早く倒せる。この仕様は次作まで続いた。
   - セレクトボタンでポーズをかけられなくなった。
   - ステージに置いてあるアイテムを入手した場合、ゲームオーバー時のみ復活するようになった。
@@ -56,7 +56,7 @@
     『[大乱闘スマッシュブラザーズ for Nintendo 3DS/Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS/Wii_U "wikilink")』ではロックマンの横必殺ワザとして登場する。ファイターが接触すると一定時間後に爆発するが、ファイター同士が接触すると爆弾を擦り付けることが出来るので、ダメージを回避することも可能。擦り付けられた際には、ロックマンもダメージを受ける。
   - タイムストッパー（Time Stopper）（F）- フラッシュマンを撃破 - 消費エネルギー（4/1秒）
     一定時間、ボスを含む全ての敵の動きとステージの仕掛けを停止することができる。ただし使用中は敵を攻撃できない\[10\]上、武器選択画面を開くこともできず、エネルギーを使い切るまでキャンセルできない。使用中に武器エネルギーを取ることで効果時間が延長される。設定上はボス級ロボットにはタイムストッパーに対する防御装置が施されているが、あるボスにのみこの装置に欠陥があったためダメージを与えることができる。なお、使用中にボスの部屋に入った場合、エネルギーが無くなるまでボスが登場しない(厳密に言うと、ボスが部屋の天井で停止している)。
-  - アトミックファイヤー（Atomic Fire）（H）- ヒートマンを撃破 - 消費エネルギー（1、4、10）
+  - アトミックファイヤー（Atomic Fire）（H）- ヒートマンを撃破 - 消費エネルギー（1、6、10）
     圧縮ブラスター装置により生み出された、12000℃もの爆発的エネルギーの火炎弾を発射する\[11\]。ボタンを押し続けることで2段階にチャージが可能で、チャージ段階に比例して威力・攻撃判定・消費エネルギーが増大する\[12\]。「ボタンを長押ししてチャージする」というシステムを初めて導入した武器である。
   - リーフシールド（Leaf Shield）（W）- ウッドマンを撃破 - 消費エネルギー（3）
     小型の電磁波発生装置を内蔵し、特殊コーティングされた木の葉型ビット4枚をロックマンの周囲で回転させる。使用中はジャンプ以外の動作ができないが、十字キーを押すことで任意の方向にシールドを発射可能\[13\]。武器エネルギーはその際に消費する。しかしシールドで防げるのは一撃で倒せる敵の体当たりのみで、弾などは防げない。
@@ -219,7 +219,7 @@
 <td><p>5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mega_Man_Anniversary_Collection" title="wikilink">Mega Man Anniversary Collection</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a><br />
 <a href="../Page/ニンテンドーゲームキューブ.md" title="wikilink">ゲームキューブ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Atomic_Planet_Entertainment" title="wikilink">Atomic Planet</a></p></td>
 <td><p>カプコン</p></td>
@@ -317,7 +317,7 @@
 <td><p>Mega Man 2</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/iPhone" title="wikilink">iPhone</a><br />
-(<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>)</p></td>
+（<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>）</p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード</p></td>
@@ -330,7 +330,7 @@
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
 <a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
-(<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
+（<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>）</p></td>
 <td><p>インテック</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード<br />
@@ -391,7 +391,7 @@
 <td><p>ロックマン2 モバイル</p></td>
 <td></td>
 <td><p>iOS<br />
-<a href="../Page/Android.md" title="wikilink">Android</a></p></td>
+<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a></p></td>
 <td><p>カプコン</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード</p></td>
@@ -455,7 +455,7 @@
   - 本作のタイトルデモで流れる[BGMは前作のエンディングBGMを一部流用している](../Page/バックグラウンドミュージック.md "wikilink")。その後、曲調が変化するとタイトル画面になる。
   - ボス戦BGMが1種類のみで、ラストボスまで同じ曲が使われている。これは[2014年](../Page/2014年.md "wikilink")現在、[ナンバリング作品では唯一の例である](https://ja.wikipedia.org/wiki/ロックマンシリーズ#ナンバリング作品 "wikilink")\[31\]。
   - ボス決定デモのBGMは前作の決定デモBGMをアレンジしたものである。以降の作品（一部除く）でも多数の作品でアレンジバージョンが使われているが、『[ロックマン9 野望の復活\!\!](https://ja.wikipedia.org/wiki/ロックマン9_野望の復活!! "wikilink")』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）でのみ、本作のものがそのまま流用されている（『9』は他にワイリーステージ開始時のBGMも本作のもの流用している）。
-  - 国外版（タイトルは『**Mega Man 2**』）の変更点として、難易度を抑えた「NORMALモード」の新設がある。NORMALモードでは敵に与えるダメージが全て2倍になっており、敵がライフエネルギーと武器エネルギーを落とす確率が大幅に上昇している。これにより、弱点武器で一撃で倒せるボスが存在する。また、日本版と同じ難易度の「DIFFICULTモード」もある。この国外版は、日本でも「[ロックマン クラシックス コレクション](https://ja.wikipedia.org/wiki/ロックマン_クラシックス_コレクション "wikilink")」でオプション設定により選択可能で、より簡単な「NORMALモード」でプレイすることも可能。　
+  - 国外版（タイトルは『**Mega Man 2**』）の変更点として、難易度を抑えた「NORMALモード」の新設がある。NORMALモードでは敵に与えるダメージがタイムストッパーを除き、全て2倍になっており、敵がライフエネルギーと武器エネルギーを落とす確率が大幅に上昇している。これにより、弱点武器で一撃で倒せるボスが存在する。また、日本版と同じ難易度の「DIFFICULTモード」もある。この国外版は、日本でも「[ロックマン クラシックス コレクション](https://ja.wikipedia.org/wiki/ロックマン_クラシックス_コレクション "wikilink")」でオプション設定により選択可能で、より簡単な「NORMALモード」でプレイすることも可能。　
   - FC版ではステージを選んだ時とワイリーステージのボスを倒した時に[画面が点滅する](../Page/ポケモンショック.md "wikilink")。特にラストボスを倒した時に激しく点滅する。
   - 『[ロックマンX5](https://ja.wikipedia.org/wiki/ロックマンX5 "wikilink")』（[2000年](../Page/2000年.md "wikilink")）で、本作のクイックマンステージおよびバブルマンステージに類似しているステージがある。詳細は該当項目参照。
   - 本作に登場するワイリー基地が、『[大乱闘スマッシュブラザーズ for Nintendo 3DS/Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS/Wii_U "wikilink")』（[2014年](../Page/2014年.md "wikilink")）のステージとして登場する。ステージ特有のキャラクターとして、『[ロックマン](../Page/ロックマン_\(ゲーム\).md "wikilink")』（初代）のイエローデビルが登場する。この作品のイエローデビルについては、初代のページを参照。
@@ -472,15 +472,14 @@
 
 ## 外部リンク
 
-  - [ロックマンシリーズ公式ポータルサイト](http://www.capcom.co.jp/rockman/) - CAPCOM
+  - [ロックマンシリーズ公式ポータルサイト](http://www.capcom.co.jp/game/rockman/) - CAPCOM
 
   -
   -
   -
-  - [ロックマン2 Dr.ワイリーの謎 ゲームアーカイブス版紹介サイト](http://www.jp.playstation.com/software/title/jp0102npjj00287_000000000000000001.html)
+  - [ロックマン2 Dr.ワイリーの謎 ゲームアーカイブス版紹介サイト](https://www.jp.playstation.com/software/title/jp0102npjj00287_000000000000000001.html)
 
-  - （英語）
-
+  -
 [Category:1988年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1988年のファミリーコンピュータ用ソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:iPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:iPhone用ゲームソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ロックマン](https://ja.wikipedia.org/wiki/Category:ロックマン "wikilink")
 
 1.

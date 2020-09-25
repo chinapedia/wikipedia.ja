@@ -34,7 +34,7 @@
         出版者:ギザミュージック
 5.  **I don't know the truth**　編曲:大賀好修
       -
-        [プレイステーション2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")『[Missing Blue](../Page/Missing_Blue.md "wikilink")』（[トンキンハウス](../Page/トンキンハウス.md "wikilink")）エンディングテーマ。
+        [プレイステーション2用](../Page/PlayStation_2.md "wikilink")[デジタルノベル](../Page/ビジュアルノベル.md "wikilink")『[Missing Blue](../Page/Missing_Blue.md "wikilink")』（[トンキンハウス](../Page/トンキンハウス.md "wikilink")）エンディングテーマ。
         出版者:ギザミュージック
 6.  **[Love gone <Album Mix>](../Page/Love_gone.md "wikilink")**　編曲:大賀好修
       -

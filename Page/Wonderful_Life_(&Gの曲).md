@@ -5,11 +5,11 @@
 
 ## 解説
 
-[草彅剛主演のドラマ](https://ja.wikipedia.org/wiki/草なぎ剛 "wikilink")『[僕と彼女と彼女の生きる道](../Page/僕と彼女と彼女の生きる道.md "wikilink")』の主題歌として、同じくSMAPの稲垣吾郎がソロで歌い、発表されたシングル。稲垣のソロデビュー作と扱われる節があるが、実際は[1993年](../Page/1993年.md "wikilink")にソロシングル「[If You Give Your Heart](../Page/If_You_Give_Your_Heart.md "wikilink")」を発表している。そのため、名義は違うもののソロワークとしては2作目となる\[1\]。
+[草彅剛](https://ja.wikipedia.org/wiki/草彅剛 "wikilink")主演のドラマ『[僕と彼女と彼女の生きる道](../Page/僕と彼女と彼女の生きる道.md "wikilink")』の主題歌として、同じくSMAPの稲垣吾郎がソロで歌い、発表されたシングル。稲垣のソロデビュー作と扱われる節があるが、実際は[1993年](../Page/1993年.md "wikilink")にソロシングル「[If You Give Your Heart](../Page/If_You_Give_Your_Heart.md "wikilink")」を発表している。そのため、名義は違うもののソロワークとしては2作目となる\[1\]。
 
 当初は\&Gの正体についてクレジットがされていなかったが\[2\]、ドラマの放送が開始され、シングル発売が近づくにつれ公開された。SMAPメンバーのソロシングルとしては、[香取慎吾](https://ja.wikipedia.org/wiki/香取慎吾 "wikilink")の「[慎吾ママのおはロック](../Page/慎吾ママのおはロック.md "wikilink")」（慎吾ママ名義）以来2人目の[オリコンシングルチャート](../Page/オリコンチャート.md "wikilink")1位獲得作である\[3\]。
 
-「Wonderful Life」のPVは、小柳凛役の[美山加恋](../Page/美山加恋.md "wikilink")がメインの凛ちゃんヴァージョンと、ドラマヴァージョンとがある。両ヴァージョン共に同ドラマのDVD-BOXに収録されている。 このシングルはSMAPが歌う予定であったが、先にレコーディングを済ませていた稲垣がソロで歌うこととなった。
+「Wonderful Life」のPVは、小柳凛役の[美山加恋](../Page/美山加恋.md "wikilink")がメインの凛ちゃんヴァージョンと、ドラマヴァージョンとがある。両ヴァージョン共に同ドラマのDVD-BOXに収録されている。 。
 
 なお、本作収録の2曲はアルバム未収録となった。
 
@@ -28,10 +28,6 @@
         作詞・作曲:[KAN](../Page/KAN.md "wikilink") / 編曲:[中西亮輔](../Page/中西亮輔.md "wikilink")
 3.  Wonderful Life (music track)
 4.  平和の歌 (music track)
-
-## 関連項目
-
-  - [SMAP](../Page/SMAP.md "wikilink")
 
 ## 脚注
 

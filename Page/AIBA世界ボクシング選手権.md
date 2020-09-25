@@ -32,9 +32,9 @@
 | [15](https://ja.wikipedia.org/wiki/2009年世界ボクシング選手権大会 "wikilink") | [2009年](../Page/2009年.md "wikilink")                    | [ミラノ](../Page/ミラノ.md "wikilink")（）                      | 8月21日 - 9月5日   |
 | [16](https://ja.wikipedia.org/wiki/2011年世界ボクシング選手権大会 "wikilink") | [2011年](../Page/2011年.md "wikilink")                    | [バクー](../Page/バクー.md "wikilink")（）                      | 9月16日 - 10月1日  |
 | [17](https://ja.wikipedia.org/wiki/2013年世界ボクシング選手権大会 "wikilink") | [2013年](../Page/2013年.md "wikilink")                    | [アルマトイ](../Page/アルマトイ.md "wikilink")（）                  | 10月14日 – 26日   |
-| [18](https://ja.wikipedia.org/wiki/2015年世界ボクシング選手権大会 "wikilink") | [2015年](../Page/2015年.md "wikilink")                    | [ドーハ](../Page/ドーハ.md "wikilink")（）                      |                |
-| [19](https://ja.wikipedia.org/wiki/2017年世界ボクシング選手権大会 "wikilink") | [2017年](../Page/2017年.md "wikilink")                    | [ハンブルク](../Page/ハンブルク.md "wikilink")（）                  |                |
-| [20](https://ja.wikipedia.org/wiki/2019年世界ボクシング選手権大会 "wikilink") | [2019年](../Page/2019年.md "wikilink")                    | [ソチ](../Page/ソチ.md "wikilink")（）                        |                |
+| [18](https://ja.wikipedia.org/wiki/2015年世界ボクシング選手権大会 "wikilink") | [2015年](../Page/2015年.md "wikilink")                    | [ドーハ](../Page/ドーハ.md "wikilink")（）                      | 10月5日 – 18日    |
+| [19](https://ja.wikipedia.org/wiki/2017年世界ボクシング選手権大会 "wikilink") | [2017年](../Page/2017年.md "wikilink")                    | [ハンブルク](../Page/ハンブルク.md "wikilink")（）                  | 8月25日 – 9月3日   |
+| [20](https://ja.wikipedia.org/wiki/2019年世界ボクシング選手権大会 "wikilink") | [2019年](../Page/2019年.md "wikilink")                    | [ソチ](../Page/ソチ.md "wikilink")（）                        | 9月8日 – 21日     |
 | [21](https://ja.wikipedia.org/wiki/2021年世界ボクシング選手権大会 "wikilink") | [2021年](../Page/2021年.md "wikilink")                    | [ニューデリー](../Page/ニューデリー.md "wikilink")（）                |                |
 
 ## メダル獲得数の国別一覧

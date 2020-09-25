@@ -185,7 +185,7 @@
   - [映像機器](../Page/映像機器.md "wikilink")フロア（3階）
   - [コンピュータフロア](../Page/パーソナルコンピュータ.md "wikilink")、[旅行代理店](../Page/旅行代理店.md "wikilink")（4階）
 
-### （神戸阪急）
+#### （神戸阪急）
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_Hakyu_Countdown2.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Kobe_Hankyu_close2.JPG "wikilink")
 

@@ -48,7 +48,7 @@
     『Petshop of Horrors』最終話の後は怪我を治した後刑事を辞め、クリスが描いた絵を届けるためにD伯爵を追って各地を訪ね回っている｡『新 Petshop of Horrors』ラストでも登場している。
   - クリス（クリストファー）・オルコット
     レオンの実弟だが、母親が40歳を過ぎての高齢出産で生んだため、歳がだいぶ離れている。ロングアイランドに住む叔母夫婦に育てられていたが、とある経験から[失語症](../Page/失語症.md "wikilink")を患い、レオンの元へやってくる。仕事が忙しいレオンは、“三日間だけ”と押しつけるように彼をD伯爵に預け、成り行きでそのままペットショップで暮らすことになる。D伯爵の“お客”以外でペットショップの動物たちが人型に視えている稀有な存在。クリスはペットショップの動物のことを「変わった人間たち」だと思い込んでいる。
-    後に叔母夫婦と従姉妹とは和解し同時に失語症が完治するが、同時に動物達の声も人型の姿も見られなくなった｡『Petshop of Horrors』最終話の後では、成長後は兄と同じく刑事の道を歩んでいる。
+    後に叔母夫婦と従姉妹とは和解し同時に失語症が完治するが、同時に動物達の声は聞こえなくなり、人型の姿も見えなくなった｡『Petshop of Horrors』最終話に登場する成長後は兄と同じく刑事の道を歩んでいる。
   - Dの父
     腰まである長髪にDと同じ顔・遺伝子・特殊能力をもつ。外見は20歳そこそこにしか見えない。かつてニューヨーク州立大学の医学部で遺伝子工学の研究をしていた。通称はDと同じく**D伯爵**（カウント・ディー）｡『Petshop of Horrors』最終話で殺害されるが赤子に生まれ変わる。
   - Qちゃん
@@ -75,41 +75,62 @@
 
 ## テレビアニメ
 
-[1999年](../Page/1999年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")に、TBS系テレビ番組「[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")」内のアニメ枠で放送（「ワンダフル」がネットされなかった[毎日放送](../Page/毎日放送.md "wikilink")では、1999年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")から[6月26日](../Page/6月26日.md "wikilink")に「[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")」枠内で放送された）。全4話。
+[1999年](../Page/1999年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")から[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")\[1\]に、TBS系テレビ番組「[ワンダフル](../Page/ワンダフル_\(テレビ番組\).md "wikilink")」内のアニメ枠で放送（「ワンダフル」がネットされなかった[毎日放送](../Page/毎日放送.md "wikilink")では、1999年[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")から[6月26日](../Page/6月26日.md "wikilink")に「[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")」枠内で放送された）。全4話。
 
 ### メインキャスト
 
-  - [関俊彦](../Page/関俊彦.md "wikilink")（D伯爵）
-  - [小野坂昌也](../Page/小野坂昌也.md "wikilink")（レオン・オルコット）
-  - [渡部猛](../Page/渡部猛.md "wikilink")（部長）
-  - [雪乃五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")（ジル）
-  - [山田美穂](../Page/山田みほ.md "wikilink")（Qちゃん）
+  - D伯爵 - [関俊彦](../Page/関俊彦.md "wikilink")
+  - レオン・オルコット - [小野坂昌也](../Page/小野坂昌也.md "wikilink")
+  - 部長 - [渡部猛](../Page/渡部猛.md "wikilink")
+  - ジル - [雪乃五月](https://ja.wikipedia.org/wiki/雪野五月 "wikilink")
+  - Qちゃん - [山田美穂](../Page/山田みほ.md "wikilink")
 
 ### ゲスト
 
   - Daughter
 
-:\* [家中宏](../Page/家中宏.md "wikilink")（ヘイワード氏）
+<!-- end list -->
 
-:\* [山口由里子](../Page/山口由里子.md "wikilink")（ヘイワード夫人）
+  - ヘイワード氏 - [家中宏](../Page/家中宏.md "wikilink")
+  - ヘイワード夫人- [山口由里子](../Page/山口由里子.md "wikilink")
 
-:: 一人娘のアリスを溺愛するあまり善悪の区別がつかない[犯罪者](https://ja.wikipedia.org/wiki/犯罪者 "wikilink")に育ててしまい、挙句の果てに重度の[麻薬中毒](https://ja.wikipedia.org/wiki/麻薬中毒 "wikilink")にさせてしまう。さらには然るべき治療を施せば更生出来たものを、娘の哀願に負けて薬を与えてしまった事で死に至らしめる。[葬式](https://ja.wikipedia.org/wiki/葬式 "wikilink")の翌日にアリスの姿そっくりの[兎を購入したが](https://ja.wikipedia.org/wiki/うさぎ "wikilink")、夫人が水と野菜以外与えてはいけないという契約を破って[クッキー](../Page/クッキー.md "wikilink")を与えたことで、アリスの腹からネズミのように兎が繁殖してしまう。夫のヘイワード氏は兎により喰い殺され、夫人もあわや殺されるかと思いきや、[繁殖](../Page/繁殖.md "wikilink")によってお菓子の中の[添加物](https://ja.wikipedia.org/wiki/添加物 "wikilink")が猛毒となって蓄積し続けたことにより、一斉に兎たちが死んでいった。
+<!-- end list -->
 
-:\* [長嶝高士](../Page/長嶝高士.md "wikilink")（依頼主）
+  -
 
-:: Dに虎を購入したが掛け軸だったことに抗議。しかし人前で見せてはいけないという約束を破ったので、掛け軸から本物の虎が出てきて喰い殺された。
+      -
+        一人娘のアリスを溺愛するあまり善悪の区別がつかない[犯罪者](https://ja.wikipedia.org/wiki/犯罪者 "wikilink")に育ててしまい、挙句の果てに重度の[麻薬中毒](https://ja.wikipedia.org/wiki/麻薬中毒 "wikilink")にさせてしまう。さらには然るべき治療を施せば更生出来たものを、娘の哀願に負けて薬を与えてしまった事で死に至らしめる。[葬式](https://ja.wikipedia.org/wiki/葬式 "wikilink")の翌日にアリスの姿そっくりの[兎を購入したが](https://ja.wikipedia.org/wiki/うさぎ "wikilink")、夫人が水と野菜以外与えてはいけないという契約を破って[クッキー](../Page/クッキー.md "wikilink")を与えたことで、アリスの腹からネズミのように兎が繁殖してしまう。夫のヘイワード氏は兎により喰い殺され、夫人もあわや殺されるかと思いきや、[繁殖](../Page/繁殖.md "wikilink")によってお菓子の中の[添加物](https://ja.wikipedia.org/wiki/添加物 "wikilink")が猛毒となって蓄積し続けたことにより、一斉に兎たちが死んでいった。
 
-:\* [室園丈裕](../Page/室園丈裕.md "wikilink")（野次馬A）
+<!-- end list -->
 
-:\* [福島菜七子](https://ja.wikipedia.org/wiki/福島菜七子 "wikilink")（隣人）
+  - 依頼主 - [長嶝高士](../Page/長嶝高士.md "wikilink")
 
-:\* [石川和之](../Page/石川和之.md "wikilink")（野次馬B）
+<!-- end list -->
 
-:\* [吉田小百合](../Page/吉田小百合.md "wikilink")（アリス・ヘイワード）
+  -
 
-:: 両親に溺愛されすぎるあまり、犯罪を重ねた上に重度の麻薬中毒になり死亡。
+      -
+        Dに虎を購入したが掛け軸だったことに抗議。しかし人前で見せてはいけないという約束を破ったので、掛け軸から本物の虎が出てきて喰い殺された。
 
-:\* [進藤こころ](../Page/進藤こころ.md "wikilink")（赤ん坊）
+<!-- end list -->
+
+  - 野次馬A - [室園丈裕](../Page/室園丈裕.md "wikilink")
+  - 隣人 - [福島菜七子](https://ja.wikipedia.org/wiki/福島菜七子 "wikilink")
+  - 野次馬B - [石川和之](../Page/石川和之.md "wikilink")
+  - アリス・ヘイワード - [吉田小百合](../Page/吉田小百合.md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        両親に溺愛されすぎるあまり、犯罪を重ねた上に重度の麻薬中毒になり死亡。
+
+<!-- end list -->
+
+  - 赤ん坊 - [進藤こころ](../Page/進藤こころ.md "wikilink")
+
+<!-- end list -->
 
   -
 
@@ -118,54 +139,124 @@
 
   - Delicious
 
-:\* [速水奨](../Page/速水奨.md "wikilink")（イアソン・グレイ）
+<!-- end list -->
 
-:: 歌姫エヴァンジェリンの[マネージャー](../Page/マネージャー.md "wikilink")であり夫。彼女が[結婚式](../Page/結婚式.md "wikilink")の当日、船のデッキから転落死したことから罪悪感に苛まれ、彼女の姿をした[人魚](../Page/人魚.md "wikilink")を購入する。しかしその人魚は空腹になると獰猛になり、イアソンの体を食べしまう。実は落ちたエヴァの上半身を食べており、実体が魚にも関わらずエヴァに見えていたのはそれが要因かは定かではない。
+  - イアソン・グレイ - [速水奨](../Page/速水奨.md "wikilink")
 
-:\* [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")（ルイーズ・テッセン）
+<!-- end list -->
 
-:: イアソンが本来愛していた女性。しかしそれを知ったエヴァは衝動的に自殺してしまう。イアソンと共に罪悪感に苛まれていた。
+  -
 
-:\* エヴァンジェリン・ブルー
+      -
+        歌姫エヴァンジェリンの[マネージャー](../Page/マネージャー.md "wikilink")であり夫。彼女が[結婚式](../Page/結婚式.md "wikilink")の当日、船のデッキから転落死したことから罪悪感に苛まれ、彼女の姿をした[人魚](../Page/人魚.md "wikilink")を購入する。しかしその人魚は空腹になると獰猛になり、イアソンの体を食べしまう。実は落ちたエヴァの上半身を食べており、実体が魚にも関わらずエヴァに見えていたのはそれが要因かは定かではない。
+
+<!-- end list -->
+
+  - ルイーズ・テッセン - [伊藤美紀](../Page/伊藤美紀_\(声優\).md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        イアソンが本来愛していた女性。しかしそれを知ったエヴァは衝動的に自殺してしまう。イアソンと共に罪悪感に苛まれていた。
+
+<!-- end list -->
+
+  - エヴァンジェリン・ブルー
+
+<!-- end list -->
 
   -
 
       -
         人気歌手。性格はかなりワガママ。自分に見向きもしなかったイアソンを奪い半ば強引に[結婚](../Page/結婚.md "wikilink")する。しかし結婚式当日、イアソンとルイーズの密会現場を目撃してしまい、衝動的に船から身を投げずっと行方不明だった。イアソンがエヴァそっくりの人魚を購入したのと入れ違いに死体が発見される。
 
-    [千葉進歩](../Page/千葉進歩.md "wikilink")（ラジオのアナウンス）
+<!-- end list -->
+
+  - ラジオのアナウンス - [千葉進歩](../Page/千葉進歩.md "wikilink")
+
+<!-- end list -->
 
   - Despair
 
-:\* [辻谷耕史](../Page/辻谷耕史.md "wikilink")（ロビン・ヘンドリックス）
+<!-- end list -->
 
-:: 映画俳優。10年前の映画で一躍有名になったが、儚すぎる容姿ゆえにその後は作品に恵まれていない。[爬虫類](../Page/爬虫類.md "wikilink")を買うのが好きだが、それが原因で[パトロン](../Page/パトロン.md "wikilink")でもあった妻・エミリーから離婚されてしまう。目隠しをした女性の姿をしたメデューサのトカゲを購入。彼女を守るため[オーディション](../Page/オーディション.md "wikilink")に挑むも最終審査に惜しくも落選。失意の末に彼女の瞳を見てはいけないという約束を破り、目隠しを取ってしまったため、石化したように死亡。それを知った彼女も、鏡で自分の顔を見て心中した。
+  - ロビン・ヘンドリックス - [辻谷耕史](../Page/辻谷耕史.md "wikilink")
 
-:\* [古澤徹](../Page/古澤徹.md "wikilink")（アルバート）
+<!-- end list -->
 
-:: ロビンのマネージャー。パトロンを失ったロビンに大事な爬虫類たちを売らなくてならなくなる。と脅しをかける。
+  -
 
-:\* [田中一成](../Page/田中一成.md "wikilink")（スタッフ）
+      -
+        映画俳優。10年前の映画で一躍有名になったが、儚すぎる容姿ゆえにその後は作品に恵まれていない。[爬虫類](../Page/爬虫類.md "wikilink")を買うのが好きだが、それが原因で[パトロン](../Page/パトロン.md "wikilink")でもあった妻・エミリーから離婚されてしまう。目隠しをした女性の姿をしたメデューサのトカゲを購入。彼女を守るため[オーディション](../Page/オーディション.md "wikilink")に挑むも最終審査に惜しくも落選。失意の末に彼女の瞳を見てはいけないという約束を破り、目隠しを取ってしまったため、石化したように死亡。それを知った彼女も、鏡で自分の顔を見て心中した。
+
+<!-- end list -->
+
+  - アルバート - [古澤徹](../Page/古澤徹.md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        ロビンのマネージャー。パトロンを失ったロビンに大事な爬虫類たちを売らなくてならなくなる。と脅しをかける。
+
+<!-- end list -->
+
+  - スタッフ - [田中一成](../Page/田中一成.md "wikilink")
+
+<!-- end list -->
 
   - Dual
 
-:\* [大友龍三郎](../Page/大友龍三郎.md "wikilink")（[麒麟](../Page/麒麟.md "wikilink")）
+<!-- end list -->
 
-::ロジャーに買われた雌の麒麟で、名は慶麟。ロジャーの隠れた野心を見抜いていた。
+  - [麒麟](../Page/麒麟.md "wikilink") - [大友龍三郎](../Page/大友龍三郎.md "wikilink")
 
-:\* [宮本充](../Page/宮本充.md "wikilink")（ケリー・ビンセント）
+<!-- end list -->
 
-:: ロジャーの幼馴染で秘書。彼を大統領にしようと躍起になっており、麒麟の話を聞きつけたのも彼である。暴走する幼稚園バスを助けるために犠牲になるが、その魂はロジャーの身体に乗り移った。
+  -
 
-:\* [真殿光昭](../Page/真殿光昭.md "wikilink")（ロジャー・T・スタンフォード）
+      -
+        ロジャーに買われた雌の麒麟で、名は慶麟。ロジャーの隠れた野心を見抜いていた。
 
-:: ケリーの幼馴染。祖父がDのペットショップで麒麟を購入し、アメリカ[大統領](../Page/大統領.md "wikilink")になった。彼自身もカリスマ性に優れており、大統領に立候補したが、肝心の仕事はほとんどケリーに丸投げしていた上に、ナンシーがいるにも関わらず女遊びばかりしていた。幼稚園バス事故で[英雄](../Page/英雄.md "wikilink")として讃えられるが、その身体にはケリーの魂が乗り移っていた。
+<!-- end list -->
 
-:\* [日高奈留美](../Page/日高奈留美.md "wikilink")（ナンシー・グレイスン）
+  - ケリー・ビンセント - [宮本充](../Page/宮本充.md "wikilink")
 
-:: ケリーの恋人だが、彼の勧めで未来の大統領夫人になるようにということでロジャーと婚約する。しかし当人は普通の家庭を築くことを夢みており、彼には内心愛想が尽きていた。事故から目覚めたロジャーの言葉から彼がケリーだと確信する。
+<!-- end list -->
 
-:\* [宇垣秀成](../Page/宇垣秀成.md "wikilink")（バスの運転手）
+  -
+
+      -
+        ロジャーの幼馴染で秘書。彼を大統領にしようと躍起になっており、麒麟の話を聞きつけたのも彼である。暴走する幼稚園バスを助けるために犠牲になるが、その魂はロジャーの身体に乗り移った。
+
+<!-- end list -->
+
+  - ロジャー・T・スタンフォード - [真殿光昭](../Page/真殿光昭.md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        ケリーの幼馴染。祖父がDのペットショップで麒麟を購入し、アメリカ[大統領](../Page/大統領.md "wikilink")になった。彼自身もカリスマ性に優れており、大統領に立候補したが、肝心の仕事はほとんどケリーに丸投げしていた上に、ナンシーがいるにも関わらず女遊びばかりしていた。幼稚園バス事故で[英雄](../Page/英雄.md "wikilink")として讃えられるが、その身体にはケリーの魂が乗り移っていた。
+
+<!-- end list -->
+
+  - ナンシー・グレイスン - [日高奈留美](../Page/日高奈留美.md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        ケリーの恋人だが、彼の勧めで未来の大統領夫人になるようにということでロジャーと婚約する。しかし当人は普通の家庭を築くことを夢みており、彼には内心愛想が尽きていた。事故から目覚めたロジャーの言葉から彼がケリーだと確信する。
+
+<!-- end list -->
+
+  - バスの運転手 - [宇垣秀成](../Page/宇垣秀成.md "wikilink")
 
 ### スタッフ
 
@@ -221,4 +312,8 @@
 
   - \[<http://www.mugentou.com/>　夢幻燈\]（[ハーレクイン公式サイト](../Page/ハーレクイン_\(出版社\).md "wikilink")）
 
-[Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:アニメ作品_へ](https://ja.wikipedia.org/wiki/Category:アニメ作品_へ "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:動物を題材とした漫画](https://ja.wikipedia.org/wiki/Category:動物を題材とした漫画 "wikilink") [Category:伝説の生物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:伝説の生物を題材とした漫画作品 "wikilink") [Category:不老不死を題材とした作品](https://ja.wikipedia.org/wiki/Category:不老不死を題材とした作品 "wikilink") [Category:アメリカ合衆国を舞台とした作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした作品 "wikilink") [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2004年の舞台作品](https://ja.wikipedia.org/wiki/Category:2004年の舞台作品 "wikilink") [Category:漫画を原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする舞台作品 "wikilink")
+## 脚注
+
+[Category:漫画作品_へ](https://ja.wikipedia.org/wiki/Category:漫画作品_へ "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:動物を題材とした漫画](https://ja.wikipedia.org/wiki/Category:動物を題材とした漫画 "wikilink") [Category:伝説の生物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:伝説の生物を題材とした漫画作品 "wikilink") [Category:不老不死を題材とした作品](https://ja.wikipedia.org/wiki/Category:不老不死を題材とした作品 "wikilink") [Category:アメリカ合衆国を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台とした漫画作品 "wikilink") [Category:アニメ作品_へ](https://ja.wikipedia.org/wiki/Category:アニメ作品_へ "wikilink") [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink") [Category:ワンダフルアニメ](https://ja.wikipedia.org/wiki/Category:ワンダフルアニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:伝説の生物を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:伝説の生物を題材としたアニメ作品 "wikilink") [Category:アメリカ合衆国を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国を舞台としたアニメ作品 "wikilink") [Category:日本の舞台作品](https://ja.wikipedia.org/wiki/Category:日本の舞台作品 "wikilink") [Category:2004年の舞台作品](https://ja.wikipedia.org/wiki/Category:2004年の舞台作品 "wikilink") [Category:漫画を原作とする舞台作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする舞台作品 "wikilink")
+
+1.  内包元である『ワンダフル』としての放送日のため、『ワンダフル』そのものを0時以降に放送開始した日を除き、本作品の実際の放送日はその翌日である。

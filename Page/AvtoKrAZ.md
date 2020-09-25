@@ -109,4 +109,4 @@ AvtoKrAZは、[1945年](../Page/1945年.md "wikilink")[8月31日](../Page/8月31
   - [公式ページ](http://www.autokraz.com.ua/)  /  /
   - [新しい公式ページ](http://autokraz.com.ua/new/rus/main.php)  /  /
 
-[Category:ウクライナの企業](https://ja.wikipedia.org/wiki/Category:ウクライナの企業 "wikilink") [Category:自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:自動車メーカー・ブランド "wikilink") [Category:軍用車両メーカー](https://ja.wikipedia.org/wiki/Category:軍用車両メーカー "wikilink")
+[Category:ウクライナの企業](https://ja.wikipedia.org/wiki/Category:ウクライナの企業 "wikilink") [Category:自動車メーカー・ブランド](https://ja.wikipedia.org/wiki/Category:自動車メーカー・ブランド "wikilink") [Category:軍用車両メーカー](https://ja.wikipedia.org/wiki/Category:軍用車両メーカー "wikilink") [Category:ソビエト連邦の貨物自動車メーカー](https://ja.wikipedia.org/wiki/Category:ソビエト連邦の貨物自動車メーカー "wikilink") [Category:ウクライナの貨物自動車メーカー](https://ja.wikipedia.org/wiki/Category:ウクライナの貨物自動車メーカー "wikilink")

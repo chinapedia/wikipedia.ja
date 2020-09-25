@@ -19,4 +19,4 @@
 
 [宮沢賢治](../Page/宮沢賢治.md "wikilink")の童話である『[銀河鉄道の夜](../Page/銀河鉄道の夜.md "wikilink")』との関連性は「星めぐりの口笛を吹いて」等、童話の中に書かれている文を歌詞として使っている部分がある。他にも彼らバンドグループの発表作品である別楽曲には「カムパネルラ」等、宮沢賢治による影響を少なからず受けたと推測される歌詞、及び単語が含まれている。
 
-[Category:2001年の楽曲](https://ja.wikipedia.org/wiki/Category:2001年の楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:2001年の楽曲](https://ja.wikipedia.org/wiki/Category:2001年の楽曲 "wikilink") [Category:宮沢賢治の童話を題材とした作品](https://ja.wikipedia.org/wiki/Category:宮沢賢治の童話を題材とした作品 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")

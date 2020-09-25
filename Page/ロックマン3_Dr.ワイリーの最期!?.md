@@ -165,7 +165,7 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
   - ホログラフロックマンズ（Holograph Rockmans）
     ワイリーステージ3のボス。『ロックマン』に登場したコピーロボットと2体のホログラフのチームで戦う。数が3体に増え、定期的に入れ替わりつつ多方向からロックマンを攻撃する。2体のホログラフには攻撃が効かないため、コピーロボットを探しながら攻撃することになる。こちらの装備にあわせて色は変化するが、特殊武器はコピーしない。
   - ワイリーマシーン3号（Wily Machine 3）
-    ワイリーステージ5のボス。ワイリーマシーンとしては珍しく、髑髏の意匠がない。ボディの両側に備えられた巨大な杭を突き立てて移動するという奇抜な歩行システムが採用された、対ロックマン用兵器。通常時は下部にある砲台から回転する光弾で攻撃してくるが、その砲台が同時に弱点でもある。砲台を破壊されるとコクピットが露出し、プレス攻撃を仕掛けてくるようになる。ロックマンの攻撃範囲を想定し、攻撃の届かない高い場所にコクピットを作ったが、自由に飛ぶことができるラッシュジェットの存在は想定していなかった。
+    ワイリーステージ5のボス。ワイリーマシーンとしては珍しく、髑髏の意匠がない。ボディの両側に備えられた巨大な杭を突き立てて移動するという奇抜な歩行システムが採用された、対ロックマン用兵器。通常時は下部にある砲台から回転する光弾で攻撃してくるが、その砲台が同時に弱点でもある。砲台を破壊されるとコクピットが露出し、プレス攻撃を仕掛けてくるようになる。ロックマンの攻撃範囲を想定し、攻撃の届かない高い場所にコクピットを作ったが、自由に飛ぶことができるラッシュジェットの存在は想定していなかった。なお、操縦しているのはワイリーのダミー体。
     別名「カニ道楽」\[1\]。
   - ガンマ（Gamma）
     最終ステージのボス。Dr.ライトとDr.ワイリーが平和のために共同開発した巨大ロボットであり、それをワイリーが奪って対ロックマン用兵器として改造した。しかし最終決戦の時点で左腕しか動かない未完成の状態である。8つの未知の惑星に散らばるエネルギー元素を合成して与えれば動き出す。
@@ -226,7 +226,7 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
 <td><p>4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Mega_Man_Anniversary_Collection" title="wikilink">Mega Man Anniversary Collection</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a><br />
 <a href="../Page/ニンテンドーゲームキューブ.md" title="wikilink">ゲームキューブ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Atomic_Planet_Entertainment" title="wikilink">Atomic Planet</a></p></td>
 <td><p>カプコン</p></td>
@@ -327,7 +327,7 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_3" title="wikilink">PlayStation 3</a><br />
 <a href="../Page/PlayStation_Portable.md" title="wikilink">PlayStation Portable</a><br />
-(<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>)</p></td>
+（<a href="https://ja.wikipedia.org/wiki/PlayStation_Network" title="wikilink">PlayStation Network</a>）</p></td>
 <td><p>インテック</p></td>
 <td><p>カプコン</p></td>
 <td><p>ダウンロード<br />
@@ -431,15 +431,14 @@ DWN（Dr.ワイリーナンバーズ）とはいうものの、設定上ではDr
 
 ## 外部リンク
 
-  - [ロックマンシリーズ公式ポータルサイト](http://www.capcom.co.jp/rockman/)
+  - [ロックマンシリーズ公式ポータルサイト](http://www.capcom.co.jp/game/rockman/)
 
   -
   -
   -
-  - [ロックマン3 Dr.ワイリーの最期\!? ゲームアーカイブス版紹介サイト](http://www.jp.playstation.com/software/title/jp0102npjj00341_000000000000000001.html)
+  - [ロックマン3 Dr.ワイリーの最期\!? ゲームアーカイブス版紹介サイト](https://www.jp.playstation.com/software/title/jp0102npjj00287_000000000000000001.html)
 
   -
-
 [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink") [Category:1990年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1990年のファミリーコンピュータ用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:IPhone用ゲームソフト](https://ja.wikipedia.org/wiki/Category:IPhone用ゲームソフト "wikilink") [Category:Android用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Android用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:携帯電話アプリゲーム](https://ja.wikipedia.org/wiki/Category:携帯電話アプリゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ロックマン](https://ja.wikipedia.org/wiki/Category:ロックマン "wikilink")
 
 1.  『講談社まんが百科6 ロックマン＆ロックマンＸ大図鑑』P81『ドクター・ワイリーマシン図鑑』のコーナー、『ワイリーマシン3号（第1形態）』の記事より。

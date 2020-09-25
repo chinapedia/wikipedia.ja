@@ -1,7 +1,7 @@
 > この記事は[グランディアIII](https://ja.wikipedia.org/wiki/グランディアIII)から翻訳されています。
 
 
-『**グランディアIII**』（*GRANDIA III*）は[2005年](../Page/2005年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。開発は[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")。キャラクターデザインは[吉成曜](../Page/吉成曜.md "wikilink")。
+『**グランディアIII**』（*GRANDIA III*）は[2005年](../Page/2005年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")。開発は[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")。キャラクターデザインは[吉成曜](../Page/吉成曜.md "wikilink")。
 
 本作は「空」を舞台に描かれる大冒険活劇である。企画はPS2が出回り始めた頃から始まっている\[1\]。本作では3Dグラフィックスに力が入れられており、非常にクオリティの高い物になっている\[2\]。キャラクターの声には、映画や舞台、ドラマで活躍する役者をキャスティングしている\[3\]。
 

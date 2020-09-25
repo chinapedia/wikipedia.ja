@@ -45,7 +45,7 @@
 
 1.  **Castle・imitation**
       -
-        [プレイステーション2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ブレス オブ ファイアV ドラゴンクォーター](../Page/ブレス_オブ_ファイアV_ドラゴンクォーター.md "wikilink")』（[カプコン](../Page/カプコン.md "wikilink")）[テーマソング](../Page/主題歌.md "wikilink")
+        [プレイステーション2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[ブレス オブ ファイアV ドラゴンクォーター](../Page/ブレス_オブ_ファイアV_ドラゴンクォーター.md "wikilink")』（[カプコン](../Page/カプコン.md "wikilink")）[テーマソング](../Page/主題歌.md "wikilink")
 2.  Castle・imitation (inst.)
 
 ## 楽曲解説

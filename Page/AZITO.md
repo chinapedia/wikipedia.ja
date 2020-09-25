@@ -50,7 +50,7 @@
       - [仮面ライダーZO](../Page/仮面ライダーZO.md "wikilink")
       - [仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink")
   - [宇宙刑事シリーズ](../Page/宇宙刑事シリーズ.md "wikilink")
-      - [宇宙刑事ギャバン](https://ja.wikipedia.org/wiki/宇宙刑事ギャバン "wikilink")
+      - [宇宙刑事ギャバン](../Page/宇宙刑事ギャバン.md "wikilink")
       - [宇宙刑事シャリバン](../Page/宇宙刑事シャリバン.md "wikilink")
       - [宇宙刑事シャイダー](../Page/宇宙刑事シャイダー.md "wikilink")
 

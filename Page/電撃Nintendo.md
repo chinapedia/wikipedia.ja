@@ -106,8 +106,8 @@
 ## 外部リンク
 
   - [電撃Nintendo 公式サイト](http://dn.dengeki.com/)
-  - [素のページ☆](http://www2s.biglobe.ne.jp/~kanamon/moto.htm)
 
+  -
 [Category:アスキー・メディアワークスのゲーム雑誌](https://ja.wikipedia.org/wiki/Category:アスキー・メディアワークスのゲーム雑誌 "wikilink") [Category:電撃Nintendo](https://ja.wikipedia.org/wiki/Category:電撃Nintendo "wikilink") [Category:任天堂ハード専門誌](https://ja.wikipedia.org/wiki/Category:任天堂ハード専門誌 "wikilink") [Category:1992年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1992年創刊の雑誌 "wikilink") [Category:児童・幼年漫画雑誌](https://ja.wikipedia.org/wiki/Category:児童・幼年漫画雑誌 "wikilink")
 
 1.

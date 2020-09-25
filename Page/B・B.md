@@ -172,7 +172,7 @@
   - 高樹翎：[井上和彦](../Page/井上和彦_\(声優\).md "wikilink")
   - 森山仁：[速水奨](../Page/速水奨.md "wikilink")
   - 加藤稔（ソーリー）：[関俊彦](../Page/関俊彦.md "wikilink")
-  - 松原小雪：[日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")
+  - 松原小雪：[日髙のり子](../Page/日髙のり子.md "wikilink")
   - 若林浩一：[堀秀行](../Page/堀秀行.md "wikilink")
   - すーちゃん：[水谷優子](../Page/水谷優子.md "wikilink")
   - 乙戸誠（オットセイ）：[玄田哲章](https://ja.wikipedia.org/wiki/玄田哲章 "wikilink")

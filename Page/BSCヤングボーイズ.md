@@ -30,22 +30,22 @@
 | ------- | ---------------------------------------------------- | ---------------------------------------- |
 | リーグ     | 試                                                    | 勝                                        |
 | 2003-04 | [スイス・スーパーリーグ](../Page/スーパーリーグ_\(スイス\).md "wikilink") | 36                                       |
-| 2004-05 | スイス・スーパーリーグ                                          | 34                                       |
-| 2005-06 | スイス・スーパーリーグ                                          | 36                                       |
-| 2006-07 | スイス・スーパーリーグ                                          | 36                                       |
-| 2007-08 | スイス・スーパーリーグ                                          | 36                                       |
-| 2008-09 | スイス・スーパーリーグ                                          | 36                                       |
-| 2009-10 | スイス・スーパーリーグ                                          | 36                                       |
-| 2010-11 | スイス・スーパーリーグ                                          | 36                                       |
-| 2011-12 | スイス・スーパーリーグ                                          | 34                                       |
-| 2012-13 | スイス・スーパーリーグ                                          | 36                                       |
-| 2013-14 | スイス・スーパーリーグ                                          | 36                                       |
-| 2014-15 | スイス・スーパーリーグ                                          | 36                                       |
-| 2015-16 | スイス・スーパーリーグ                                          | 36                                       |
-| 2016-17 | スイス・スーパーリーグ                                          | 36                                       |
-| 2017-18 | スイス・スーパーリーグ                                          | 36                                       |
-| 2018-19 | スイス・スーパーリーグ                                          | 36                                       |
-| 2019-20 | スイス・スーパーリーグ                                          | 36                                       |
+| 2004-05 | 34                                                   | 12                                       |
+| 2005-06 | 36                                                   | 17                                       |
+| 2006-07 | 36                                                   | 17                                       |
+| 2007-08 | 36                                                   | 21                                       |
+| 2008-09 | 36                                                   | 22                                       |
+| 2009-10 | 36                                                   | 25                                       |
+| 2010-11 | 36                                                   | 15                                       |
+| 2011-12 | 34                                                   | 13                                       |
+| 2012-13 | 36                                                   | 11                                       |
+| 2013-14 | 36                                                   | 17                                       |
+| 2014-15 | 36                                                   | 19                                       |
+| 2015-16 | 36                                                   | 20                                       |
+| 2016-17 | 36                                                   | 20                                       |
+| 2017-18 | 36                                                   | 26                                       |
+| 2018-19 | 36                                                   | 29                                       |
+| 2019-20 | 36                                                   | 23                                       |
 
 ## 欧州の成績
 
@@ -77,13 +77,13 @@
 </tr>
 <tr class="even">
 <td><p>1958-59</p></td>
-<td><p><a href="../Page/UEFAチャンピオンズカップ_1958-59.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/MTKブダペストFC.md" title="wikilink">MTKブダペスト</a></p></td>
 <td><p>2-1</p></td>
 <td><p>4-1</p></td>
 <td><p>'''6-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -110,7 +110,6 @@
 </tr>
 <tr class="odd">
 <td><p>1959-60</p></td>
-<td><p><a href="../Page/UEFAチャンピオンズカップ_1959-60.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
 <td><p>1-4</p></td>
@@ -118,16 +117,17 @@
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1960-61</p></td>
-<td><p><a href="../Page/UEFAチャンピオンズカップ_1960-61.md" title="wikilink">UEFAチャンピオンズカップ</a></p></td>
 <td><p>予選</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リムリックFC" title="wikilink">リムリック</a></p></td>
 <td><p>5-0</p></td>
 <td><p>4-2</p></td>
 <td><p>'''9-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -165,13 +165,13 @@
 </tr>
 <tr class="even">
 <td><p>1979-80</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1979-80" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">ステアウア・ブカレスト</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-6</p></td>
 <td><p>'''2-8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -231,13 +231,13 @@
 </tr>
 <tr class="even">
 <td><p>2003-04</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミリコスケン・パロ47" title="wikilink">ミリコスケン・パロ47</a></p></td>
 <td><p>2-3</p></td>
 <td><p>2-2</p></td>
 <td><p>'''4-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -297,13 +297,13 @@
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2007-08" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバナンツ" title="wikilink">バナンツ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>4-0</p></td>
 <td><p>'''5-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -319,13 +319,13 @@
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デブレツェニVSC" title="wikilink">デブレツェニ</a></p></td>
 <td><p>4-1</p></td>
 <td><p>3-2</p></td>
 <td><p>'''7-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -418,13 +418,13 @@
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2011-12" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="../Page/KVCウェステルロー.md" title="wikilink">ウェステルロー</a></p></td>
 <td><p>3–1</p></td>
 <td><p>2–0</p></td>
 <td><p>'''5-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -440,7 +440,6 @@
 </tr>
 <tr class="odd">
 <td><p>2012-13</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2012-13" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCジンブル・キシナウ" title="wikilink">ジンブル・キシナウ</a></p></td>
 <td><p>1–0</p></td>
@@ -448,6 +447,7 @@
 <td><p>'''1-1<br />
 (4–1 <a href="../Page/PK戦.md" title="wikilink">p</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -507,13 +507,13 @@
 </tr>
 <tr class="odd">
 <td><p>2014-15</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エルミス・アラディプ" title="wikilink">エルミス・アラディプ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–0</p></td>
 <td><p>'''3-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -750,13 +750,13 @@
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
 <td><p><a href="../Page/レッドスター・ベオグラード.md" title="wikilink">ツルヴェナ・ズヴェズダ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3-3 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">

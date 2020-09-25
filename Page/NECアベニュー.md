@@ -7,7 +7,7 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[NECグループのレコード会社として設立](../Page/日本電気.md "wikilink")（販売・[ナガオカ](https://ja.wikipedia.org/wiki/ナガオカトレーディング "wikilink")→[日本コロムビア](../Page/日本コロムビア.md "wikilink")）。
 
-同時に、同年に発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用のゲームソフトや周辺機器の開発・販売も手がける（NECアベニューの設立発表会の質疑応答でゲーム開発に関する質問が出たときには「開発する予定はありません。」と返答する予定であったが、関連する質問そのものが無かったため[多部田俊雄](../Page/多部田俊雄.md "wikilink")が申請することでゲーム開発を開始することができた\[1\]。）。
+設立発表会の質疑応答でゲーム開発に関する質問が出たときには「開発する予定はありません。」と返答する予定であったが、関連する質問そのものが無かったため[多部田俊雄](../Page/多部田俊雄.md "wikilink")が申請することで同年に発売された[PCエンジン](../Page/PCエンジン.md "wikilink")用のゲームソフトや周辺機器の開発・販売も手がけることとなる\[1\]。
 
 初期はセガ（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")）や[カプコン](../Page/カプコン.md "wikilink")、[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")などの[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")移植を行い、後に『[ドラゴンナイト](../Page/ドラゴンナイト.md "wikilink")III』や『[卒業 〜Graduation〜](../Page/卒業_〜Graduation〜.md "wikilink")』など[パソコン](https://ja.wikipedia.org/wiki/パソコン "wikilink")の[美少女ゲーム](../Page/美少女ゲーム.md "wikilink")移植を手がける。オリジナル作品には[クイズアベニュー](https://ja.wikipedia.org/wiki/クイズアベニュー "wikilink")シリーズなどが有る。だがプログラムなどの実開発作業は下請けへの外注が殆どでありメインはプロデュースやパブリッシング業である。
 
@@ -53,11 +53,6 @@
   - [HUMMING BIRD](../Page/HUMMING_BIRD_\(バンド\).md "wikilink")
 
 ## 脚注
-
-## 関連項目
-
-  - [インターチャネル](../Page/インターチャネル.md "wikilink")
-  - [ティー ワイ エンタテインメント](../Page/ティー_ワイ_エンタテインメント.md "wikilink")
 
 [Category:NECグループの歴史](https://ja.wikipedia.org/wiki/Category:NECグループの歴史 "wikilink") [Category:かつて存在した神奈川県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した神奈川県の企業 "wikilink") [Category:かつて存在した日本のコンピュータゲームメーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のコンピュータゲームメーカー "wikilink") [Category:かつて存在した日本のレコード会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本のレコード会社 "wikilink") [Category:1987年設立の企業](https://ja.wikipedia.org/wiki/Category:1987年設立の企業 "wikilink") [Category:1999年廃止の企業](https://ja.wikipedia.org/wiki/Category:1999年廃止の企業 "wikilink")
 

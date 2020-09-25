@@ -3,7 +3,7 @@
 
 **Windows Messenger**（ウィンドウズ メッセンジャー） は、[Windows XPに含まれた](../Page/Microsoft_Windows_XP.md "wikilink")[インスタントメッセンジャー](../Page/インスタントメッセンジャー.md "wikilink")のひとつ。
 
-後継として消費者向けに [Windows Live Messengerが提供されており](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")、企業向けの [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") のクライアントとしては、[Office Communicator](https://ja.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink") が提供されている。
+2008年に[Windows Live Messengerに引き継がれる形で終了](https://ja.wikipedia.org/wiki/Windows_Live_Messenger "wikilink")\[1\]\[2\]。企業向けの [Office Communications Server](https://ja.wikipedia.org/wiki/Microsoft_Office_Communications_Server "wikilink") のクライアントとしては、[Office Communicator](https://ja.wikipedia.org/wiki/Microsoft_Office_Communicator "wikilink") が提供された。
 
 ## 特徴
 
@@ -142,3 +142,6 @@
   - [Windows Messenger の詳細 ‐ 通信のしくみ](http://technet.microsoft.com/ja-jp/library/bb457041.aspx)
 
 [Category:インスタントメッセンジャー](https://ja.wikipedia.org/wiki/Category:インスタントメッセンジャー "wikilink") [Category:Windowsのコンポーネント](https://ja.wikipedia.org/wiki/Category:Windowsのコンポーネント "wikilink")
+
+1.  [Microsoft Previews New Windows Live and Office Live Services](https://news.microsoft.com/2005/11/01/microsoft-previews-new-windows-live-and-office-live-services/)、[マイクロソフト](../Page/マイクロソフト.md "wikilink")
+2.  [1](https://www.microsoft.com/investor/reports/ar06/staticversion/10k_fr_bus_01.html)、[マイクロソフト](../Page/マイクロソフト.md "wikilink")

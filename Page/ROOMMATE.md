@@ -49,7 +49,7 @@
   - 声：[藤野とも子](../Page/藤野とも子.md "wikilink")
   - 東京都立橘南（たちばなみなみ）高等学校2年生
   - 生年月日：[1979年](../Page/1979年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")
-  - 血液型：[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+  - 血液型：[O型](../Page/ABO式血液型.md "wikilink")
   - 身長：158cm
   - 体重：44kg
   - スリーサイズ：B84 / W58 /H84
@@ -68,7 +68,7 @@
   - 声：[柳原みわ](../Page/星河舞.md "wikilink")
   - 東京都立橘南高等学校2年生
   - 生年月日：1979年[12月21日](../Page/12月21日.md "wikilink")
-  - 血液型：[B型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")
+  - 血液型：[B型](../Page/ABO式血液型.md "wikilink")
   - 身長：157cm
   - 体重：43kg
   - スリーサイズ：B83 / W57 /H84

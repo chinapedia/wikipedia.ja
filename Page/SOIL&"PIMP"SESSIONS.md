@@ -301,7 +301,7 @@
 
   - [藤巻亮太](../Page/藤巻亮太.md "wikilink") - レコーディングやライブサポートにタブゾンビが参加。
 
-  - [藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら_\(シンガーソングライター\) "wikilink") - レコーディングやライブサポートに秋田ゴールドマンが参加。
+  - [藤原さくら](https://ja.wikipedia.org/wiki/藤原さくら "wikilink") - レコーディングやライブサポートに秋田ゴールドマンが参加。
 
   - [PE'Z](../Page/PE'Z.md "wikilink") - ジョイントライブで共演。
 

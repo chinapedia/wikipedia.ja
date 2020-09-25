@@ -3,11 +3,11 @@
 
 [thumb版モバイルSuicaのVersion](https://ja.wikipedia.org/wiki/ファイル:Mobile_suica_screenshot.png "wikilink")4aメニュー画面（2017年5月のアップデートにより、利用不可）\]\] **モバイルSuica**（モバイルスイカ）は、[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）が提供する、「[おサイフケータイ](../Page/おサイフケータイ.md "wikilink")」対応の[携帯電話](../Page/携帯電話.md "wikilink")及び[PHS](../Page/PHS.md "wikilink")において、同社が発行する[IC乗車カードである](../Page/乗車カード.md "wikilink")[Suica](../Page/Suica.md "wikilink")の機能を搭載した[アプリケーションソフトウェア](../Page/アプリケーションソフトウェア.md "wikilink")およびそのサービスである。
 
-本項では、[iOS版モバイルデバイス向けに提供している](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")「**[Apple Pay版 Suica](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")**」、ならびに[Android](../Page/Android.md "wikilink")版モバイルデバイス向けに提供している「**[Google Pay版 Suica](https://ja.wikipedia.org/wiki/#Google_Pay版_Suica "wikilink")**」についても記す。
+本項では、[iOS版モバイルデバイス向けに提供している](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")「**[Apple Pay版 Suica](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")**」、ならびに[Android版モバイルデバイス向けに提供している](../Page/Android_\(オペレーティングシステム\).md "wikilink")「**[Google Pay版 Suica](https://ja.wikipedia.org/wiki/#Google_Pay版_Suica "wikilink")**」についても記す。
 
 ## 概要
 
-[2006年](../Page/2006年.md "wikilink")（平成18年）[1月28日](../Page/1月28日.md "wikilink")に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）の対応機種を初めにサービスを開始した。同年[12月2日](../Page/12月2日.md "wikilink")に[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、2009年（平成21年）7月5日より旧[ウィルコム](../Page/ウィルコム.md "wikilink")（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）でもサービスを開始した\[1\]。 また、[2011年](../Page/2011年.md "wikilink")（平成23年）[7月23日](../Page/7月23日.md "wikilink")に、NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもサービス開始した。\[2\]。2013年（平成25年）4月6日には[イー・モバイル](../Page/イー・モバイル.md "wikilink")のAndroid搭載のスマートフォンでもサービス開始した\[3\]。
+[2006年](../Page/2006年.md "wikilink")（平成18年）[1月28日](../Page/1月28日.md "wikilink")に[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")と[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")（[KDDI](../Page/KDDI.md "wikilink")、[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")）の対応機種を初めにサービスを開始した。同年[12月2日](../Page/12月2日.md "wikilink")に[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")、2009年（平成21年）7月5日より旧[ウィルコム](../Page/ウィルコム.md "wikilink")（現・[Y\!mobile](https://ja.wikipedia.org/wiki/Y!mobile "wikilink")）でもサービスを開始した\[1\]。 また、[2011年](../Page/2011年.md "wikilink")（平成23年）[7月23日](../Page/7月23日.md "wikilink")に、NTTドコモとau、SoftBankの[Android搭載の](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもサービス開始した。\[2\]。2013年（平成25年）4月6日には[イー・モバイル](../Page/イー・モバイル.md "wikilink")のAndroid搭載のスマートフォンでもサービス開始した\[3\]。
 
 なお、これまでおサイフケータイ搭載の[SIMフリー](https://ja.wikipedia.org/wiki/SIMフリー "wikilink")端末については長らく非対応の状態が続いていたが、[2015年](../Page/2015年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")の定例社長会見において、昨今利用者数を増やしているこれらSIMフリー端末についても、12月中旬を目処に対応させることを正式に発表した\[4\]。各キャリアの[iOS端末については](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、2016年9月7日に行われた[アップルの](../Page/アップル_\(企業\).md "wikilink")[スペシャルイベントにおいて](https://ja.wikipedia.org/wiki/Apple_Special_Event "wikilink")、10月下旬より[Apple Pay版 Suicaの提供を開始することが発表されている](https://ja.wikipedia.org/wiki/#Apple_Pay版_Suica "wikilink")（後述）。
 
@@ -217,7 +217,7 @@ Suica電子マネーの利用などで貯まった[JRE POINTをモバイルSuica
 
 設定方法はAndroid版と大きく異なり、まず各端末でSuicaアプリをダウンロードし、モバイルSuica会員登録（新規登録の場合）を行った上で、[Apple Payの設定アプリ](https://ja.wikipedia.org/wiki/Apple_Pay "wikilink")「[Wallet](https://ja.wikipedia.org/wiki/Wallet "wikilink")」の起動中に別途用意したカード型のSuica（Suica定期券を含む）に端末を重ねると、Apple PayのアプリケーションがSuicaの残額や定期券の情報を読み取り、カード型Suicaの代替として使用できるようになる、というものである。情報を読み取った後のSuicaカードは、一切使用が出来なくなる。カードのデポジット500円分は、読み取り時にチャージ残額へ上乗せして返却されているため、駅窓口に返納する必要はなく、自身で処分することができる（ICチップが壊れているわけではないため、[ハサミ](https://ja.wikipedia.org/wiki/ハサミ "wikilink")を入れてから処分することが望ましい）。または既存のAndroid端末からのモバイルSuica引き継ぎも可能である。
 
-読み取りに用いるSuicaは、Suica（無記名）、My Suica（記名式）、Suica定期券の3種類が使用可能であり（子供用Suica、及び通学定期券を搭載したSuicaは読み取り不可）、複数のSuicaを登録することができる（使用時に切り替える必要がある）。Apple Payには、[自動改札機](../Page/自動改札機.md "wikilink")でのスムーズな通過を念頭に、使用時ごとの認証を省略できる「エクスプレス」認証モードが用意されている（対象となるSuica1種類のみを設定することが可能、随時変更可）が、「エクスプレス」認証を使用しなくても自動改札を通過することは出来る（ただし、改札通過毎にWalletアプリを開き、改札に通すSuicaを表示の上認証（Touch IDまたはパスコード）を行う必要がある\[49\]）。
+読み取りに用いるSuicaは、Suica（無記名）、My Suica（記名式）、Suica定期券の3種類が使用可能であり（子供用Suica、及び通学定期券を搭載したSuicaは読み取り不可）、複数のSuicaを登録することができる（使用時に切り替える必要がある）。Apple Payには、[自動改札機](../Page/自動改札機.md "wikilink")でのスムーズな通過を念頭に、使用時ごとの認証を省略できる「エクスプレス」認証モードが用意されている（対象となるSuica1種類のみを設定することが可能、随時変更可）が、「エクスプレス」認証を使用しなくても自動改札を通過することは出来る（ただし、改札通過毎にWalletアプリを開き、改札に通すSuicaを表示の上認証（Touch IDもしくはFace IDまたはパスコード）を行う必要がある\[49\]）。
 
 チャージや定期券の更新は、Suicaアプリで登録したクレジットカードまたはApple Pay（Walletアプリ）によるクレジットカード・プリペイドカードでの決済となり、登録クレジットカードをVIEWカードにすることで[オートチャージ](https://ja.wikipedia.org/wiki/オートチャージ "wikilink")を利用することも出来る。また My SuicaとSuica定期券のみ、クレジットカード登録のメニュー項目からのデビットカードの登録も可能である。但し、銀行チャージやキャリア決済チャージにはには対応しておらず、Suica（無記名）では、[デビットカード](../Page/デビットカード.md "wikilink")の登録にも対応しない\[50\]。現金チャージについては、スマートフォン対応のSuicaチャージ機にて対応している。無記名式Suica扱いとなる場合は紛失時などの払い戻しができない\[51\]。
 
@@ -300,7 +300,7 @@ Google Payで登録した場合、モバイルSuicaアプリでモバイルSuica
       - [2月22日](../Page/2月22日.md "wikilink") - [じぶん銀行](https://ja.wikipedia.org/wiki/じぶん銀行 "wikilink")からのチャージサービス開始\[72\]。
       - [3月10日](../Page/3月10日.md "wikilink") - オートチャージサービス開始\[73\]。
   - [2011年](../Page/2011年.md "wikilink")（平成23年）
-      - [7月23日](../Page/7月23日.md "wikilink") - NTTドコモとau、SoftBankの[Android](../Page/Android.md "wikilink")搭載の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の対応機種でサービス開始\[74\]。
+      - [7月23日](../Page/7月23日.md "wikilink") - NTTドコモとau、SoftBankの[Android搭載の](../Page/Android_\(オペレーティングシステム\).md "wikilink")[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の対応機種でサービス開始\[74\]。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）
       - [3月9日](../Page/3月9日.md "wikilink") - NTTドコモ「ドコモ ケータイ払い」、KDDI/沖縄セルラー電話「auかんたん決済」、[SoftBank](../Page/SoftBank_\(携帯電話\).md "wikilink")\[75\]「ソフトバンクまとめて支払い」により、キャリア料金による決済を開始。
   - [2015年](../Page/2015年.md "wikilink")（平成27年）

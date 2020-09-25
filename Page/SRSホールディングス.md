@@ -118,7 +118,7 @@
   - [SRSホールディングス株式会社](https://srs-holdings.co.jp/)
 
   -
-[Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:日本の外食事業者](https://ja.wikipedia.org/wiki/Category:日本の外食事業者 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1968年設立の企業](https://ja.wikipedia.org/wiki/Category:1968年設立の企業 "wikilink") [Category:1984年上場の企業](https://ja.wikipedia.org/wiki/Category:1984年上場の企業 "wikilink") [Category:ファミリー企業](https://ja.wikipedia.org/wiki/Category:ファミリー企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink")
+[Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:日本の外食事業者](https://ja.wikipedia.org/wiki/Category:日本の外食事業者 "wikilink") [Category:大阪市中央区の企業](https://ja.wikipedia.org/wiki/Category:大阪市中央区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:1968年設立の企業](https://ja.wikipedia.org/wiki/Category:1968年設立の企業 "wikilink") [Category:1984年上場の企業](https://ja.wikipedia.org/wiki/Category:1984年上場の企業 "wikilink") [Category:ファミリー企業](https://ja.wikipedia.org/wiki/Category:ファミリー企業 "wikilink") [Category:兵庫県発祥の企業](https://ja.wikipedia.org/wiki/Category:兵庫県発祥の企業 "wikilink") [Category:堺区の歴史](https://ja.wikipedia.org/wiki/Category:堺区の歴史 "wikilink")
 
 1.
 2.

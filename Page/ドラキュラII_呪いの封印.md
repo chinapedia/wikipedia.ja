@@ -236,8 +236,7 @@
   -
   -
   -
-  - （英語）
-
+  -
 [Category:1987年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1987年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:アクションRPG](https://ja.wikipedia.org/wiki/Category:アクションRPG "wikilink") [Category:悪魔城ドラキュラ](https://ja.wikipedia.org/wiki/Category:悪魔城ドラキュラ "wikilink") [Category:ディスクシステム用ソフト](https://ja.wikipedia.org/wiki/Category:ディスクシステム用ソフト "wikilink") [Category:ニンテンドー3DS用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドー3DS用バーチャルコンソール対応ソフト "wikilink")
 
 1.

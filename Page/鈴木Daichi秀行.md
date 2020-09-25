@@ -1,7 +1,7 @@
 > この記事は[鈴木Daichi秀行](https://ja.wikipedia.org/wiki/鈴木Daichi秀行)から翻訳されています。
 
 
-**鈴木Daichi秀行**（すずきダイチひでゆき、[1974年](../Page/1974年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")出身。[血液型はA型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。本名は**鈴木秀行**\[1\]。愛称は**Daichi**。
+**鈴木Daichi秀行**（すずきダイチひでゆき、[1974年](../Page/1974年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")、[ギタリスト](../Page/ギタリスト.md "wikilink")、[ベーシスト](../Page/ベーシスト.md "wikilink")、[キーボーディスト](../Page/キーボーディスト.md "wikilink")、[レコーディング・エンジニア](../Page/レコーディング・エンジニア.md "wikilink")。[埼玉県](../Page/埼玉県.md "wikilink")[狭山市](../Page/狭山市.md "wikilink")出身。[血液型はA型](../Page/ABO式血液型.md "wikilink")。本名は**鈴木秀行**\[1\]。愛称は**Daichi**。
 
 ## 人物
 
@@ -443,7 +443,7 @@
 
   - 「サガシモノ」（編曲）
 
-**[かつみ♥さゆり](https://ja.wikipedia.org/wiki/かつみ♥さゆり "wikilink")**
+**[かつみ♥さゆり](../Page/かつみ♥さゆり.md "wikilink")**
 
   - 「元気だ\! ボヨヨン体操 〜なかよしがいちばん〜」（作曲・編曲）
 
@@ -843,35 +843,35 @@
 
 **[Non Stop Rabbit](https://ja.wikipedia.org/wiki/Non_Stop_Rabbit "wikilink")**
 
-  - 「PLOW NOW」（編曲\[11\]）
-  - 「明るい歌」(編曲\[12\])
-  - 「UNorder」（編曲・プロデュース\[13\]）
-  - 「いけないんだ、いけないんだ」（編曲\[14\]）
-  - 「夏の終わり」（編曲・プロデュース）
-  - 「私面想歌」（編曲・プロデュース）
-  - 「僕ら」（編曲\[15\]）
-  - 「SHION」（編曲\[16\]）
-  - 「これだけ」（編曲\[17\]）
-  - 「Refutation」（編曲\[18\]）
-  - 「クリア」（編曲\[19\]）
-  - 「1ミリ先の努力」（編曲・プロデュース\[20\]）
-  - 「アンリズミックアンチ」（編曲・プロデュース\[21\]）
-  - 「乱気流」（編曲\[22\]）
-  - 「犬のおまわりさん」（編曲\[23\]）
-  - 「イニシアチブ」（編曲・プロデュース\[24\]）
-  - 「たまに死にたくもなるでしょ」(編曲\[25\])
-  - 「一二三」（編曲\[26\]）
-  - 「君と最後に選ぶ言葉」（編曲\[27\]）
-  - 「[PILE DRIVER](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[28\]）
-  - 「[其ノ他諸々](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[29\]）
-  - 「[排他的王道主義](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[30\]）
-  - 「[あなたに私が必要なくても](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[31\]）
-  - 「[万事休す](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[32\]）
-  - 「[LINEのうた](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[33\]）
-  - 「[Pant Voice](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[34\]）
-  - 「[aiai](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[35\]）
-  - 「[late bloomer](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[36\]）
-  - 「[二十五の自白](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[37\]）
+  - 「[PLOW NOW](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[11\]）
+  - 「[UNorder](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲・プロデュース\[12\]）
+  - 「[いけないんだ、いけないんだ](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[13\]）
+  - 「[夏の終わり](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲・プロデュース\[14\]）
+  - 「[私面想歌](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲・プロデュース\[15\]）
+  - 「[僕ら](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[16\]）
+  - 「[SHION](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[17\]）
+  - 「[これだけ](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[18\]）
+  - 「[Refutation](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[19\]）
+  - 「[クリア](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲\[20\]）
+  - 「[1ミリ先の努力](https://ja.wikipedia.org/wiki/全A面 "wikilink")」（編曲・プロデュース\[21\]）
+  - 「[アンリズミックアンチ](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲・プロデュース\[22\]）
+  - 「[乱気流](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲\[23\]）
+  - 「[犬のおまわりさん](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲\[24\]）
+  - 「[イニシアチブ](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲・プロデュース\[25\]）
+  - 「[たまに死にたくもなるでしょ](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」(編曲\[26\])
+  - 「[一二三](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲\[27\]）
+  - 「[君と最後に選ぶ言葉](https://ja.wikipedia.org/wiki/自力本願 "wikilink")」（編曲\[28\]）
+  - 「[PILE DRIVER](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[29\]）
+  - 「[其ノ他諸々](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[30\]）
+  - 「[排他的王道主義](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[31\]）
+  - 「[あなたに私が必要なくても](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[32\]）
+  - 「[万事休す](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[33\]）
+  - 「[LINEのうた](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[34\]）
+  - 「[Pant Voice](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[35\]）
+  - 「[aiai](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲\[36\]）
+  - 「[late bloomer](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[37\]）
+  - 「[二十五の自白](../Page/細胞分裂_\(Non_Stop_Rabbitのアルバム\).md "wikilink")」（編曲・プロデュース\[38\]）
+  - 「[明るい歌](../Page/明るい歌.md "wikilink")」（編曲）
 
 **[初音](https://ja.wikipedia.org/wiki/初音_\(歌手\) "wikilink")**
 
@@ -881,15 +881,15 @@
 
 **ハニカム.トーキョー**
 
-  - 「青空」（編曲\[38\]）
-  - 「Free」（編曲\[39\]）
-  - 「イイじゃん、スゴイやつ\!\!」（編曲\[40\]）
-  - 「全力未来\!\!」（編曲\[41\]）
-  - 「カシオペア」（編曲\[42\]）
-  - 「Bang\! Bang\! BANGOHAAAN\!\!」（編曲\[43\]）
-  - 「Yeah\!\!」（編曲\[44\]）
-  - 「スクランブル」（編曲\[45\]）
-  - 「絆」（編曲\[46\]）
+  - 「青空」（編曲\[39\]）
+  - 「Free」（編曲\[40\]）
+  - 「イイじゃん、スゴイやつ\!\!」（編曲\[41\]）
+  - 「全力未来\!\!」（編曲\[42\]）
+  - 「カシオペア」（編曲\[43\]）
+  - 「Bang\! Bang\! BANGOHAAAN\!\!」（編曲\[44\]）
+  - 「Yeah\!\!」（編曲\[45\]）
+  - 「スクランブル」（編曲\[46\]）
+  - 「絆」（編曲\[47\]）
 
 **[ハレンチ☆パンチ](../Page/80_pan.md "wikilink")**
 
@@ -1299,3 +1299,4 @@
 44.
 45.
 46.
+47.

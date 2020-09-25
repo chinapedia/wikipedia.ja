@@ -6,7 +6,7 @@
 ## 解説
 
   - [中島みゆき](../Page/中島みゆき.md "wikilink")のデビューシングル｢[アザミ嬢のララバイ](https://ja.wikipedia.org/wiki/アザミ嬢のララバイ "wikilink")｣（[1975年](../Page/1975年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")発売）から、16枚目のシングル｢[孤独の肖像](https://ja.wikipedia.org/wiki/孤独の肖像 "wikilink")｣（[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")発売）までの、シングルA面曲だけを集めたアルバム。
-  - 中島の作品は、シングルだけで発表された曲やシングルとアルバムではバージョンが違う曲が多かったため、このアルバムに収められている作品のほとんどはずっとアルバム未収録であり、未[CD化だった](../Page/コンパクトディスク.md "wikilink")。しかし、翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にA面のみならずB面収録曲もすべて収めたシングル・コレクション『[Singles](../Page/Singles_\(中島みゆきのアルバム\).md "wikilink")』が発表された。
+  - [中島の作品は](../Page/中島みゆき.md "wikilink")、シングルだけで発表された曲やシングルとアルバムではバージョンが違う曲が多かったため、このアルバムに収められている作品のほとんどはずっとアルバム未収録であり、未[CD化だった](../Page/コンパクトディスク.md "wikilink")。しかし、翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")にA面のみならずB面収録曲もすべて収めたシングル・コレクション『[Singles](../Page/Singles_\(中島みゆきのアルバム\).md "wikilink")』が発表された。
   - なお、[同名タイトルの](https://ja.wikipedia.org/wiki/#CT "wikilink")[カセットテープも存在していたが](../Page/コンパクトカセット.md "wikilink")\[1\]、こちらはCDとは収録曲や曲順が異なっている。
   - 後に発売されたシングル・コレクションやベスト・アルバムの発売によって、本作は現在廃盤となっている\[2\]。
 

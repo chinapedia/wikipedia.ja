@@ -102,19 +102,19 @@
 ## 参加ミュージシャン
 
   - [永井利光](../Page/永井利光.md "wikilink") - ドラムス
-  - SHIGEO KOMORI - キーボード
-  - 佐久間正英 - キーボード、ピアノ、ギター、プログラミング
-  - RENTARO TAKAYASU - ドランク・プログラミング(\#8)
-  - 金原千恵子 -ストリングス(\#4)
-  - NARGO - トランペット(\#5)
-  - MASAHIKO KITAHARA - トロンボーン(\#5)
-  - GAMO - テナー・サックス(\#5)
+  - [小森茂生](https://ja.wikipedia.org/wiki/小森茂生 "wikilink") - キーボード
+  - [佐久間正英](../Page/佐久間正英.md "wikilink") - キーボード、ピアノ、ギター、プログラミング
+  - [高安錬太郎](https://ja.wikipedia.org/wiki/高安錬太郎 "wikilink") - ドランク・プログラミング(\#8)
+  - [金原千恵子](../Page/金原千恵子.md "wikilink") -ストリングス(\#4)
+  - [NARGO](https://ja.wikipedia.org/wiki/NARGO "wikilink") - トランペット(\#5)
+  - [北原雅彦](https://ja.wikipedia.org/wiki/北原雅彦 "wikilink") - トロンボーン(\#5)
+  - [GAMO](https://ja.wikipedia.org/wiki/GAMO "wikilink") - テナー・サックス(\#5)
   - [茂木欣一](../Page/茂木欣一.md "wikilink") - ドラム演奏(\#5)
   - [篠崎正嗣](https://ja.wikipedia.org/wiki/篠崎正嗣 "wikilink") - ストリングス(\#8)
-  - 草間敬 - マニュピレーション(\#10)
-  - YUKI - コーラス(\#14)
-  - HIRO(くず) - コーラス(\#14)
-  - ANIKI(くず) - コーラス(\#14)
+  - [草間敬](https://ja.wikipedia.org/wiki/草間敬 "wikilink") - マニュピレーション(\#10)
+  - [YUKI](../Page/YUKI.md "wikilink") - コーラス(\#14)
+  - [HIRO](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")([くず](https://ja.wikipedia.org/wiki/くず "wikilink")) - コーラス(\#14)
+  - [ANIKI](../Page/山口智充.md "wikilink")([くず](https://ja.wikipedia.org/wiki/くず "wikilink")) - コーラス(\#14)
   - [洞口桃子](https://ja.wikipedia.org/wiki/洞口桃子 "wikilink") - コーラス(\#14)
 
 ## 関連項目

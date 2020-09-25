@@ -109,7 +109,7 @@
 
 <!-- end list -->
 
-  - [日髙のり子](https://ja.wikipedia.org/wiki/日髙のり子 "wikilink")・[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")・[関俊彦](../Page/関俊彦.md "wikilink")（三人によるユニット『[バナナフリッターズ](../Page/バナナフリッターズ.md "wikilink")』が担当しているネットラジオ番組「BANANA FRITTERS A-Go-Go\!\!\!」で）
+  - [日髙のり子](../Page/日髙のり子.md "wikilink")・[山寺宏一](https://ja.wikipedia.org/wiki/山寺宏一 "wikilink")・[関俊彦](../Page/関俊彦.md "wikilink")（三人によるユニット『[バナナフリッターズ](../Page/バナナフリッターズ.md "wikilink")』が担当しているネットラジオ番組「BANANA FRITTERS A-Go-Go\!\!\!」で）
 
 ## 脚注
 

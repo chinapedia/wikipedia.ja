@@ -38,7 +38,6 @@
 
 ## 外部リンク
 
-  - [MAY Official Website](http://www.mayland.jp/index.html)公式サイト
   - [MAYオフィシャルブログ『MAY be Happy』](https://ameblo.jp/blog-may/)
 
 [Category:韓国のポップ歌手](https://ja.wikipedia.org/wiki/Category:韓国のポップ歌手 "wikilink") [Category:1982年生](https://ja.wikipedia.org/wiki/Category:1982年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink")

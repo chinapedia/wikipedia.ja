@@ -358,7 +358,7 @@
   - 熱血高校ドッジボール部 〜強敵\!闘球戦士の巻〜（[ゲームボーイ](../Page/ゲームボーイ.md "wikilink")版） - [1991年](../Page/1991年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")
   - [くにおくんのドッジボールだよ全員集合\!](../Page/くにおくんのドッジボールだよ全員集合!.md "wikilink")（[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版） - [1993年](../Page/1993年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")
   - くにおの熱血闘球伝説（[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")版） - [1996年](../Page/1996年.md "wikilink")
-  - [オレたちゲーセン族](../Page/オレたちゲーセン族.md "wikilink") 熱血高校ドッジボール部（[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）　- [2006年](../Page/2006年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")
+  - [オレたちゲーセン族](../Page/オレたちゲーセン族.md "wikilink") 熱血高校ドッジボール部（[PlayStation 2版](../Page/PlayStation_2.md "wikilink")）　- [2006年](../Page/2006年.md "wikilink")[1月26日](../Page/1月26日.md "wikilink")
 
 <!-- end list -->
 

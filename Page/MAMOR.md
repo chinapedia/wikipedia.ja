@@ -291,6 +291,10 @@
       - [福田愛依](https://ja.wikipedia.org/wiki/福田愛依 "wikilink")（4月号）
       - [水原ゆか](https://ja.wikipedia.org/wiki/水原ゆか "wikilink")（5月号）
       - [バービー](https://ja.wikipedia.org/wiki/バービー_\(お笑い芸人\) "wikilink")＆[村上佳菜子](https://ja.wikipedia.org/wiki/村上佳菜子 "wikilink")（6月号）\[28\]
+      - [南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")（7月号）
+      - [鬼頭明里](https://ja.wikipedia.org/wiki/鬼頭明里 "wikilink")（8月号）
+      - [須田亜香里](https://ja.wikipedia.org/wiki/須田亜香里 "wikilink")（9月号）
+      - [西野未姫](https://ja.wikipedia.org/wiki/西野未姫 "wikilink")（10月号）
 
 ## 脚注
 

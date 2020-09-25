@@ -5,7 +5,7 @@
 
 [レーベルゲート](../Page/レーベルゲート.md "wikilink")CD版のSRCL-5574と、その後に通常CDとして出されたSRCL-6172がある。
 
-[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")より発売された[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[R-TYPE FINAL](../Page/R-TYPE_FINAL.md "wikilink")』（アール・タイプ ファイナル）の主題歌として編曲されたものも存在する。オリジナル版もまた、同作のCMソングとして使用された。
+[アイレムソフトウェアエンジニアリング](https://ja.wikipedia.org/wiki/アイレムソフトウェアエンジニアリング "wikilink")より発売された[PlayStation 2用ゲーム](../Page/PlayStation_2.md "wikilink")『[R-TYPE FINAL](../Page/R-TYPE_FINAL.md "wikilink")』（アール・タイプ ファイナル）の主題歌として編曲されたものも存在する。オリジナル版もまた、同作のCMソングとして使用された。
 
 ## 収録曲
 

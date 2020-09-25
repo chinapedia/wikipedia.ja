@@ -9,18 +9,17 @@
 
 ## 所属アーティスト
 
-※現在もUNIVERSAL MUSIC（[EMI Records](https://ja.wikipedia.org/wiki/UNIVERSAL_MUSIC_JAPAN "wikilink")、[Virgin Musicのそれぞれのレーベル](../Page/Virgin_Music.md "wikilink")）に所属しているアーティスト
+※現在もUNIVERSAL MUSIC（[EMI Records](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[Virgin Musicのそれぞれのレーベル](../Page/Virgin_Music.md "wikilink")）に所属しているアーティスト
 
   - [FIRE BALL](../Page/FIRE_BALL_\(レゲエグループ\).md "wikilink")（Virgin Music）(2002年-現在)
   - [ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")（Virgin Music）(2003年-現在)
-  - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")（EMI Records）(2006年-現在)
   - [松任谷由実](../Page/松任谷由実.md "wikilink")（EMI Records/EXPRESS）(2006年-現在)
 
 ## 過去に在籍したアーティスト
 
-  - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") （→[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")→[キューンミュージック](../Page/キューンミュージック.md "wikilink")）
+  - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink") （→[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")→[キューンミュージック](../Page/キューンミュージック.md "wikilink")→Warszawa-Label）
   - [アルファ](../Page/アルファ_\(音楽グループ\).md "wikilink") （→[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルJ "wikilink")）
-  - [ウルフルズ](../Page/ウルフルズ.md "wikilink")／[トータス松本](../Page/トータス松本.md "wikilink")（→[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")）
+  - [ウルフルズ](../Page/ウルフルズ.md "wikilink")／[トータス松本](../Page/トータス松本.md "wikilink")（→[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")→[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）
   - [AIR](../Page/車谷浩司.md "wikilink")
   - [エレファントカシマシ](https://ja.wikipedia.org/wiki/エレファントカシマシ "wikilink") （→[ユニバーサルシグマ](https://ja.wikipedia.org/wiki/ユニバーサルシグマ "wikilink")）
   - [大野靖之](https://ja.wikipedia.org/wiki/大野靖之 "wikilink") （→[ユーキャン](../Page/ユーキャン.md "wikilink")）
@@ -28,13 +27,13 @@
   - [氣志團](../Page/氣志團.md "wikilink") （→[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")）
   - [清貴](../Page/清貴.md "wikilink")
   - [キリンジ](../Page/キリンジ.md "wikilink") （→[日本コロムビア](../Page/日本コロムビア.md "wikilink")→[ユニバーサル クラシック&ジャズ](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
-  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")（→[日本コロムビア](../Page/日本コロムビア.md "wikilink")）
+  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")（→日本コロムビア）
   - [GUAN CHAI](../Page/GUAN_CHAI.md "wikilink")
   - [KUMAMI](../Page/KUMAMI.md "wikilink")
   - [GLAY](../Page/GLAY.md "wikilink") （→[フォーライフミュージックエンタテイメント](../Page/フォーライフミュージックエンタテイメント.md "wikilink")→ポニーキャニオン）
   - [Keison](../Page/Keison.md "wikilink")
   - [CORE OF SOUL](../Page/CORE_OF_SOUL.md "wikilink")（解散）
-  - [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")（→[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")→[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")）
+  - [GO\!GO\!7188](../Page/GO!GO!7188.md "wikilink")（→[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")→ビクターエンタテインメント）
   - [coba](https://ja.wikipedia.org/wiki/coba "wikilink") （→ビクターエンタテインメント）
   - [阪井あゆみ](../Page/阪井あゆみ.md "wikilink")
   - [Ciel](https://ja.wikipedia.org/wiki/Ciel "wikilink")
@@ -72,6 +71,7 @@
   - [廣重綾](https://ja.wikipedia.org/wiki/廣重綾 "wikilink")
   - [THE BOOM](../Page/THE_BOOM.md "wikilink")／[宮沢和史](../Page/宮沢和史.md "wikilink") （→FIVE-D PLUS／[エイベックス](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")→[よしもとアール・アンド・シー](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")）
   - [フジファブリック](../Page/フジファブリック.md "wikilink") （→ソニー・ミュージックアソシエイテッドレコーズ）
+  - [Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")（→ビクターエンタテインメント）
   - [槇原敬之](../Page/槇原敬之.md "wikilink")（→[J-more](../Page/J-more.md "wikilink")／エイベックス→[Buppuレーベル](https://ja.wikipedia.org/wiki/Buppuレーベル "wikilink")）
   - [矢沢永吉](../Page/矢沢永吉.md "wikilink")（→[GARURU RECORDS](https://ja.wikipedia.org/wiki/GARURU_RECORDS "wikilink")）
   - [YAKKO for AQUARIUS](https://ja.wikipedia.org/wiki/YAKKO "wikilink")

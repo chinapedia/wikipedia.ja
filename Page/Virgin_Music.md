@@ -30,7 +30,7 @@
   - [八代亜紀](../Page/八代亜紀.md "wikilink")
   - [MIYAVI](../Page/MIYAVI.md "wikilink")
   - [MYNAME](https://ja.wikipedia.org/wiki/MYNAME_\(音楽グループ\) "wikilink")
-  - [MonsterZ MATE](https://ja.wikipedia.org/wiki/MonsterZ_MATE "wikilink")
+  - [MonsterZ MATE](../Page/MonsterZ_MATE.md "wikilink")
   - [ラストアイドル](https://ja.wikipedia.org/wiki/ラストアイドル "wikilink")
   - [番匠谷紗衣](https://ja.wikipedia.org/wiki/番匠谷紗衣 "wikilink")
   - [三浦祐太郎](https://ja.wikipedia.org/wiki/三浦祐太朗 "wikilink")

@@ -59,7 +59,7 @@
 13. NAKED SHUFFLE
       -
         初出：『[KOOL SPICE](https://ja.wikipedia.org/wiki/KOOL_SPICE "wikilink")』 （1994年7月2日）
-14. [Funny Bunny](https://ja.wikipedia.org/wiki/Funny_Bunny "wikilink")
+14. [Funny Bunny](../Page/Funny_Bunny.md "wikilink")
       -
         初出：『HAPPY BIVOUAC』 （1999年12月2日）
 15. ストレンジ カメレオン -ORIGINAL STORY-

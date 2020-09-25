@@ -90,7 +90,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1988年のイギリス・フォーミュラ3選手権" title="wikilink">1988年</a></p></td>
+<td><p><a href="../Page/1988年のイギリス・フォーミュラ3選手権.md" title="wikilink">1988年</a></p></td>
 <td><p><a href="../Page/パシフィック・レーシング.md" title="wikilink">パシフィック・レーシング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トヨタ" title="wikilink">トヨタ</a></p></td>
 <td><p>A</p></td>

@@ -1,7 +1,7 @@
 > この記事は[ENCOUNTER](https://ja.wikipedia.org/wiki/ENCOUNTER)から翻訳されています。
 
 
-『**ENCOUNTER**』 （エンカウンター） は、[SING LIKE TALKINGの](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")6枚目のオリジナルアルバム。ファンハウス（現・[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）より[1993年](../Page/1993年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売。
+『**ENCOUNTER**』 （エンカウンター） は、[SING LIKE TALKINGの](../Page/SING_LIKE_TALKING.md "wikilink")6枚目のオリジナルアルバム。ファンハウス（現・[Ariola Japan](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）より[1993年](../Page/1993年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")に発売。
 
 ## 概要
 

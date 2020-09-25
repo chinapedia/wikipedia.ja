@@ -44,7 +44,7 @@ Leafアミューズメントソフト第2作。[1997年](https://ja.wikipedia.or
     「[To Heart](../Page/To_Heart.md "wikilink")」の番外編シナリオ。
   - Heart by Heart
     「To Heart」のキャラクターが活躍する[アクションゲーム](../Page/アクションゲーム.md "wikilink")。ショットを撃ち固定画面内の敵を全て倒すのが目的。
-    「To Heart」の[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")/PSE/[PlayStation 2版に](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、一部のキャラクターを差し替えて[ミニゲーム](../Page/ミニゲーム.md "wikilink")として収録されている。
+    「To Heart」の[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")/PSE/[PlayStation 2版に](../Page/PlayStation_2.md "wikilink")、一部のキャラクターを差し替えて[ミニゲーム](../Page/ミニゲーム.md "wikilink")として収録されている。
   - LEAF FIGHT 97
     「[DR<sup>2</sup>ナイト雀鬼](../Page/DR2ナイト雀鬼.md "wikilink")」「[Filsnown](../Page/Filsnown.md "wikilink")」「雫」「痕」「To Heart」のキャラクター総勢37人が、「痕」の舞台である隆山で異界より侵略してきたモンスターと戦う[RPG](../Page/コンピュータRPG.md "wikilink")。
     最大4人[パーティ](../Page/パーティ.md "wikilink")だが戦闘は1対1、ターン毎に戦闘メンバーをパーティメンバーから交代可能だが交代したターンでは攻撃が出来ない、戦闘では最大4種まで覚えられる「技」を選んで戦い、技を使うごとに「技ポイント」を消費すると、戦闘システムは「[ポケットモンスター](../Page/ポケットモンスター_\(ゲーム\).md "wikilink")」に近い。
@@ -126,7 +126,7 @@ Leafアミューズメントソフト第4作。[2004年](../Page/2004年.md "wik
   - [Routes EXTRA MISSON](https://ja.wikipedia.org/wiki/Routes#追加ミニシナリオ "wikilink")
     「Routes」の番外編シナリオ。**「福原庄蔵氏と楽しい仲間達」**と**「魂の絵にサクラサク」**の2本立て。
     原作は[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")だが、本作では画面下部にウィンドウを表示する一般的な[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")形式となっている。
-    [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")「Routes PE」および[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")「Routes PORTABLE」にも収録されている。（形式は本編と同様にビジュアルノベル）
+    [PlayStation 2版](../Page/PlayStation_2.md "wikilink")「Routes PE」および[PlayStation Portable版](../Page/PlayStation_Portable.md "wikilink")「Routes PORTABLE」にも収録されている。（形式は本編と同様にビジュアルノベル）
   - Leaf SIDE-B 出張版
     かつてのLeafの裏サイト「Leaf SIDE-B」（現在は閉鎖）の出張版。サイトで募集していた「第4回 Leaf CGコンテスト」のスタッフ投票の結果発表。
   - その他

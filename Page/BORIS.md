@@ -7,11 +7,11 @@
 
 ### 結成から始動
 
-[1992年](../Page/1992年.md "wikilink")より活動開始。バンド名は[メルヴィンズ](https://ja.wikipedia.org/wiki/メルヴィンズ "wikilink")のアルバム「Bullhead」の収録曲『Boris』に由来する。当初は4人組でAtsuoが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、Nagataが[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")だったが、[1996年](../Page/1996年.md "wikilink")にNagataが脱退したことでAtsuoがドラムに転向。Takeshi (Vocal/Bass/Guitar)、Wata (Guitar/Vocal)、Atsuo (Vocal/Drums)という現在のメンバー編制が完成する。同年に自主制作で『ABSOLUTEGO』を発表しデビュー\[2\]。当初よりワールドワイドなスタンスを志し、1996年から海外ツアーを始め、2003年以降はほぼ毎年行う。
+[1992年](../Page/1992年.md "wikilink")より活動開始。バンド名は[メルヴィンズ](https://ja.wikipedia.org/wiki/メルヴィンズ "wikilink")のアルバム「Bullhead」の収録曲『Boris』に由来する。当初は4人組でAtsuoが[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、Nagataが[ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")だったが、[1996年](../Page/1996年.md "wikilink")にNagataが脱退したことでAtsuoがドラムに転向。Takeshi (Vocal/Bass/Guitar)、Wata (Guitar/Vocal)、Atsuo (Vocal/Drums)という現在のメンバー編制が完成する。同年に自主制作で1st Single『ABSOLUTEGO』を発表しデビュー\[2\]。当初よりワールドワイドなスタンスを志し、1996年から海外ツアーを始め、2003年以降はほぼ毎年行う。
 
 ### 2000年代
 
-デビュー後は日本のインディーレーベル[Diwphalanx Recordsを拠点に多種多様な作品を発表していたが](https://ja.wikipedia.org/wiki/Diwphalanx_Records "wikilink")、2000年代に入って『Amplifier Worship』や『あくまのうた』が北米においてヘヴィロック／パワー・アンビエントの殿堂である[Southern Lordから相次いでリリースされたことで一躍海外での人気が高まる](https://ja.wikipedia.org/wiki/Southern_Lord "wikilink")。[2005年](../Page/2005年.md "wikilink")にリリースされた『PINK』は全世界で5万枚を超えるセールスを記録し\[3\]、[ピッチフォーク・メディア](https://ja.wikipedia.org/wiki/ピッチフォーク・メディア "wikilink")による「Top 50 Albums of 2006」では9位に選ばれるなど音楽プレスからも高評価を得る\[4\]。
+デビュー後は日本のインディーレーベル[Diwphalanx Recordsを拠点に多種多様な作品を発表していたが](https://ja.wikipedia.org/wiki/Diwphalanx_Records "wikilink")、2000年代に入って1st Albumの『Amplifier Worship』や『あくまのうた』が北米においてヘヴィロック／パワー・アンビエントの殿堂である[Southern Lordから相次いでリリースされたことで一躍海外での人気が高まる](https://ja.wikipedia.org/wiki/Southern_Lord "wikilink")。[2005年](../Page/2005年.md "wikilink")にリリースされた『PINK』は全世界で5万枚を超えるセールスを記録し\[3\]、[ピッチフォーク・メディア](https://ja.wikipedia.org/wiki/ピッチフォーク・メディア "wikilink")による「Top 50 Albums of 2006」では9位に選ばれるなど音楽プレスからも高評価を得る\[4\]。
 
 [2007年](../Page/2007年.md "wikilink")にはドゥームの重鎮[Sunn O)))との共作](https://ja.wikipedia.org/wiki/Sunn_O\)\)\) "wikilink")『Altar』を発表。サポート・ギタリストとして[ゴーストの](../Page/ゴースト_\(バンド\).md "wikilink")[栗原ミチオ](https://ja.wikipedia.org/wiki/栗原ミチオ "wikilink")を迎えて制作された[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の『Smile』は[ビルボード](../Page/ビルボード.md "wikilink")の[トップ・ヒートシーカーズ](https://ja.wikipedia.org/wiki/トップ・ヒートシーカーズ "wikilink")チャートで20位を記録\[5\]。さらに[ナイン・インチ・ネイルズ](../Page/ナイン・インチ・ネイルズ.md "wikilink")の全米アリーナツアーをサポートしたほか、ライヴハウスから大規模なフェスまで、21カ国で100本のライヴを敢行した。
 
@@ -81,7 +81,11 @@
   - **PINK -Deluxe Edition-**(2016年7月6日) <small>2005年のアルバム「PINK」に未発表曲を追加したデラックス・エディション</small> ※BORIS名義
   - **DEAR** (2017年7月12日) ※BORIS名義
   - **Live At Third Man Records** (2017年) <small>ライブ・アルバム</small>
+
+<!-- end list -->
+
   - **LφVE & EVφL** (2019年) ※Boris名義
+  - **1985** (2019年) ※Boris名義
 
 ### EP
 
@@ -94,6 +98,7 @@
   - **Cosmos**（2012年12月）<small>12"EP</small>
   - **Phenomenons Drive**（2018年8月8日）<small>12"EP</small>
   - **tears e.p**（2019年6月26日）<small>CD</small>
+  - **Boris**（2020年）12"EP Melvinsのカバー曲
 
 ### Split
 
@@ -122,8 +127,10 @@
   - **Klatter**（2011年2月23日）「Boris with Merzbow」名義
   - **現象 -Gensho-**（2016年3月16日）「Boris with Merzbow」名義
   - **不透明度**（2018年12月29日）「Boris with Michio Kurihara」名義
+  - **リフレイン -if you / En attendant Godot-**（2020年3月31日）「Z.O.A × Boris」名義
+  - **"Akuma No Uta" At Elsewhere NYC 10th Sep. 2019**（2020年）「Boris featuring Uniform」名義　Holy Mountainでの期間限定購入特典
 
-### サウンドトラック
+**サウンドトラック**
 
   - **Limits of Control Soundtrack**（2009年5月12日）
   - **告白 オリジナル・サウンドトラック**（2010年5月26日）

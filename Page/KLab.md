@@ -29,7 +29,7 @@
   - [2019年](../Page/2019年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink") - [真田哲弥](../Page/真田哲弥.md "wikilink")が社長を退任し取締役会長に就任。後任として専務取締役CCO\[26\]だった[森田英克](https://ja.wikipedia.org/wiki/森田英克 "wikilink")が代表取締役社長CEOに就任\[27\]\[28\]
   - 2019年[11月20日](../Page/11月20日.md "wikilink") - シンガポールの100％出資連結子会社KLab Global Pte. Ltd.を解散及び清算\[29\]
   - [2020年](../Page/2020年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink") - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")PRキャラクター「[くまモン](https://ja.wikipedia.org/wiki/くまモン "wikilink")」を使用したゲーム開発に関するグローバルライセンス契約を締結\[30\]
-  - [2020年](../Page/2020年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - 岡山事業所を株式会社[まかねソフト](https://ja.wikipedia.org/wiki/まかねソフト "wikilink")として分社化し、翌8月1日付でまかねソフト全株式を株式会社さくらソフトへ譲渡する予定\[31\]。
+  - [2020年](../Page/2020年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink") - 岡山事業所を株式会社[まかねソフト](../Page/まかねソフト.md "wikilink")として分社化し、翌8月1日付でまかねソフト全株式を株式会社さくらソフトへ譲渡する予定\[31\]。
 
 ## 開発実績
 

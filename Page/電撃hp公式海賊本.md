@@ -19,7 +19,7 @@
   - 『[キノ颯爽登場\! -Here Comes KINO\!-](https://ja.wikipedia.org/wiki/キノの旅#学園キノ "wikilink")』　（[時雨沢恵一](../Page/時雨沢恵一.md "wikilink")／[黒星紅白](../Page/黒星紅白.md "wikilink")）
   - 『今まさに煌々と(以下略) -the Preface-』　（[時雨沢恵一](../Page/時雨沢恵一.md "wikilink")／[黒星紅白](../Page/黒星紅白.md "wikilink")）
   - 『[天使篇(真贋について)](https://ja.wikipedia.org/wiki/ブギーポップ "wikilink")』　（[上遠野浩平](../Page/上遠野浩平.md "wikilink")／[緒方剛志](../Page/緒方剛志.md "wikilink"))
-  - 『[ダブルブリッド](../Page/ダブルブリッド.md "wikilink")　番外編/獣の螺旋』　（[中村恵里加](https://ja.wikipedia.org/wiki/中村恵里加 "wikilink")／[たけひと](https://ja.wikipedia.org/wiki/たけひと "wikilink")）
+  - 『[ダブルブリッド](../Page/ダブルブリッド.md "wikilink")　番外編/獣の螺旋』　（[中村恵里加](../Page/中村恵里加.md "wikilink")／[たけひと](https://ja.wikipedia.org/wiki/たけひと "wikilink")）
   - 『[いつもどこでも忍²ニンジャLTD　インビジブル忍](../Page/いつもどこでも忍2ニンジャ.md "wikilink")』　（[阿智太郎](../Page/阿智太郎.md "wikilink")／宮須弥）
   - 『逢えば変する奴ら』　（[川上稔](../Page/川上稔.md "wikilink")／さとやす(TENKY)）
   - 『[しゃくがんのしゃな](../Page/灼眼のシャナ.md "wikilink")』　（[高橋弥七郎](../Page/高橋弥七郎.md "wikilink")／[いとうのいぢ](../Page/いとうのいぢ.md "wikilink")）

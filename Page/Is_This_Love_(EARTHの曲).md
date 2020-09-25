@@ -5,7 +5,7 @@
 
 ## 解説
 
-  - [PVの](../Page/ミュージック・ビデオ.md "wikilink")[監督](../Page/監督.md "wikilink")は、[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")度）で「BEST GROUP CLIP」を受賞した経歴をもつ[Higuchinsky](https://ja.wikipedia.org/wiki/Higuchinsky "wikilink")（ヒグチンスキー）。
+  - [PVの](../Page/ミュージック・ビデオ.md "wikilink")[監督](../Page/監督.md "wikilink")は、[SPACE SHOWER Music Video Awards](https://ja.wikipedia.org/wiki/SPACE_SHOWER_Music_Video_Awards "wikilink")（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")度）で「BEST GROUP CLIP」を受賞した経歴をもつ[Higuchinsky](../Page/Higuchinsky.md "wikilink")（ヒグチンスキー）。
   - このシングルリリース以降、[葉山拓亮](../Page/葉山拓亮.md "wikilink")のプロデュース路線に変更した。
   - この曲でのメインボーカルは[朝長真弥](../Page/朝長真弥.md "wikilink")。
 

@@ -179,7 +179,7 @@
   - **0320**　[新生信託銀行](../Page/新生信託銀行.md "wikilink")　**SHTCJPJ1**
   - **0321**　[日証金信託銀行](../Page/日証金信託銀行.md "wikilink")　**JSTCJPJ1**
   - 0322　（旧）[新銀行東京](../Page/新銀行東京.md "wikilink")　SGTKJPJT
-  - **0324**　[日本カストディ銀行](https://ja.wikipedia.org/wiki/日本カストディ銀行 "wikilink")
+  - **0324**　[日本カストディ銀行](../Page/日本カストディ銀行.md "wikilink")
       - 0324　（旧）[日本トラスティ・サービス信託銀行](../Page/日本トラスティ・サービス信託銀行.md "wikilink")　JTSBJPJT
   - 0325　（旧）[資産管理サービス信託銀行](../Page/資産管理サービス信託銀行.md "wikilink")　TCSBJPJT
   - 0326 （旧）[りそな信託銀行](../Page/りそな信託銀行.md "wikilink")

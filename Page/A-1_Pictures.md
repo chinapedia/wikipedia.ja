@@ -725,7 +725,7 @@
 <td><p>2013年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドルマスター_ミリオンライブ!" title="wikilink">アイドルマスター ミリオンライブ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フィーチャー・フォン" title="wikilink">フィーチャーフォン</a><br />
-<a href="../Page/Android.md" title="wikilink">Android</a>、iOS、PC</p></td>
+<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android</a>、iOS、PC</p></td>
 <td><p>アイドル達のカードイラスト制作</p></td>
 </tr>
 <tr class="even">

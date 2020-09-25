@@ -38,6 +38,6 @@
 
 </div>
 
-[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:ロート製薬のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロート製薬のコマーシャルソング "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
+[Category:木村カエラの楽曲](https://ja.wikipedia.org/wiki/Category:木村カエラの楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:ロート製薬のコマーシャルソング](https://ja.wikipedia.org/wiki/Category:ロート製薬のコマーシャルソング "wikilink") [Category:楽曲_は](https://ja.wikipedia.org/wiki/Category:楽曲_は "wikilink")
 
 1.  木村カエラ、横浜ブリッツでCD発売限定ライブ開催[1](http://www.hamakei.com/headline/387/)、2004年11月07日『ヨコハマ経済新聞』

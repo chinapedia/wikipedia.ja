@@ -118,7 +118,7 @@
 ## 外部リンク
 
   - [GLAY DISCOGRAPHY 『LOVE IS BEAUTIFUL』](http://www.glay.co.jp/discography/detail.php?category=2&id=18)
-  - [『LOVE IS BEAUTIFUL』特設サイト](http://web.archive.org/web/20070122062704/http://www.glay.co.jp/free/sp/love_is_beautiful/) ※[Wayback Machineによるアーカイブ](https://ja.wikipedia.org/wiki/Wayback_Machine "wikilink")
+  - [『LOVE IS BEAUTIFUL』特設サイト](https://web.archive.org/web/20070122062704/http://www.glay.co.jp/free/sp/love_is_beautiful/) ※[Wayback Machineによるアーカイブ](https://ja.wikipedia.org/wiki/Wayback_Machine "wikilink")
 
 [Category:GLAYのアルバム](https://ja.wikipedia.org/wiki/Category:GLAYのアルバム "wikilink") [Category:2007年のアルバム](https://ja.wikipedia.org/wiki/Category:2007年のアルバム "wikilink") [Category:佐久間正英がプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:佐久間正英がプロデュースしたアルバム "wikilink") [Category:Capitol_Musicのアルバム](https://ja.wikipedia.org/wiki/Category:Capitol_Musicのアルバム "wikilink") [Category:2007年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンアルバムチャート1位獲得作品 "wikilink")
 

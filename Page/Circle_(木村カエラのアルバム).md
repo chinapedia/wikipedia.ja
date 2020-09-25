@@ -57,7 +57,7 @@
   - 木村カエラ：Vocals
   - 會田茂一：Guitars
   - 高桑圭：Bass
-  - クハラカズユキ：Drums
+  - クハラカズユキ (ex.THEE MICHELE GUN ELEPHANT)：Drums
 
 
 tea cup

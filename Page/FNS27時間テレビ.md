@@ -302,7 +302,7 @@ F1世界選手権第10戦イギリスGP予選
   - [2017年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2017年\) "wikilink")
   - [2018年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2018年\) "wikilink")
   - [2019年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2019年\) "wikilink")
-  - [2020年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2020年\) "wikilink")
+  - [2020年](../Page/FNS27時間テレビ_\(2020年\).md "wikilink")
       - \[8\]
   - [2021年](https://ja.wikipedia.org/wiki/FNS27時間テレビ_\(2021年\) "wikilink")
 

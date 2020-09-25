@@ -86,7 +86,7 @@
 ### その他の固有名詞
 
   - [Dublin Core](../Page/Dublin_Core.md "wikilink")（ダブリン・コア） - [メタデータ](../Page/メタデータ.md "wikilink")記述語彙の規格。
-  - [コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア特別区 "wikilink")（) - [ワシントン市](https://ja.wikipedia.org/wiki/ワシントン市 "wikilink")のこと。
+  - [コロンビア特別区](https://ja.wikipedia.org/wiki/コロンビア特別区 "wikilink")（) - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の首都[ワシントン市](https://ja.wikipedia.org/wiki/ワシントン市 "wikilink")（ワシントンD.C.と表記される）のこと。
   - [ディスティニー・チャイルド](https://ja.wikipedia.org/wiki/ディスティニー・チャイルド "wikilink") () - 音楽グループ。
   - [ディバイン・クルセイダーズ](../Page/ディバイン・クルセイダーズ.md "wikilink") () - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")に登場する架空の組織。
 

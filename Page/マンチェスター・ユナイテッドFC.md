@@ -1045,9 +1045,9 @@ Shield</a></p></th>
 
 </div>
 
-  - 2020年8月6日現在
+  - 2020年9月18日現在
 
-★  ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Saint_Kitts_and_Nevis.svg "wikilink")) ☆  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Saint_Vincent_and_the_Grenadines.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ★     ☆   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Slovakia.svg "wikilink"))   ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★   ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
+★  ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Saint_Kitts_and_Nevis.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Saint_Vincent_and_the_Grenadines.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ★      ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Slovakia.svg "wikilink"))  ☆   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -1423,6 +1423,8 @@ Shield</a></p></th>
 <!-- end list -->
 
   - [Official website](https://www.manutd.com/)
+
+  - [日本語公式サイト](https://www.manutd.com/ja)
 
   - [Official statistics website](https://www.stretfordend.co.uk/)
 

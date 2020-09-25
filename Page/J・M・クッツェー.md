@@ -101,8 +101,7 @@
 
   - [Survey of Coetzee's writings](http://www.weeklystandard.com/Check.asp?idArticle=3441&r=ivjnl)
 
-  - [Biography and Facts](http://www.geocities.com/keysofworld/coetzee/)
-
+  -
   - [Review of the Booker Prize winning Disgrace](http://www.mostlyfiction.com/world/coetzee.htm)
 
   -

@@ -3,11 +3,11 @@
 
 **PSX**（ピーエスエックス）は、[ソニー](../Page/ソニー.md "wikilink")株式会社が[2003年](../Page/2003年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")から[2005年](../Page/2005年.md "wikilink")にかけて販売していた、[ハードディスク搭載](https://ja.wikipedia.org/wiki/ハードディスクドライブ "wikilink")[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")（ハイブリッド・レコーダー）。
 
-ハイブリッド・レコーダーに[PlayStation 2としての機能を併せ持つのが特徴で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、後のソニー関連製品で広く採用された「[クロスメディアバー](../Page/クロスメディアバー.md "wikilink")」を最初に導入した製品としても知られる。
+ハイブリッド・レコーダーに[PlayStation 2としての機能を併せ持つのが特徴で](../Page/PlayStation_2.md "wikilink")、後のソニー関連製品で広く採用された「[クロスメディアバー](../Page/クロスメディアバー.md "wikilink")」を最初に導入した製品としても知られる。
 
 ## 概要
 
-ソニーはPSXを「ハードディスクが搭載されたハイブリッド（HDD・DVD）レコーダー」としているが、基本的な部品は[PlayStation 2で使われているものを流用しており](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、まさに「録画ができるプレステ」であった。なお、本機はPlayStation 2を展開するソニー子会社ソニー・コンピュータエンタテインメント（現[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の発売製品ではない。
+ソニーはPSXを「ハードディスクが搭載されたハイブリッド（HDD・DVD）レコーダー」としているが、基本的な部品は[PlayStation 2で使われているものを流用しており](../Page/PlayStation_2.md "wikilink")、まさに「録画ができるプレステ」であった。なお、本機はPlayStation 2を展開するソニー子会社ソニー・コンピュータエンタテインメント（現[ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）の発売製品ではない。
 
 2003年12月13日に、250GB HDD搭載の「DESR-7000（[希望小売価格](../Page/希望小売価格.md "wikilink")99,800円）」、160GB HDD搭載の「DESR-5000（同79,800円）」が発売された。この希望小売価格は当時主流であった[地上アナログ](../Page/NTSC.md "wikilink")[チューナーのみ内蔵の](https://ja.wikipedia.org/wiki/テレビチューナー "wikilink")[DVDレコーダー](../Page/DVDレコーダー.md "wikilink")（HDD無し）のエントリーモデルと同水準であった。
 
@@ -33,7 +33,7 @@
 
 ### PlayStation 2機能
 
-[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の規格のソフトがプレイ可能である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。HDD空き容量の40GBをゲーム側へ割り当て、内蔵の[イーサネット](../Page/イーサネット.md "wikilink")ポートを使用することで[PlayStation BB Unitと同等の機能を持たせることもできる](../Page/PlayStation_BB_Unit.md "wikilink")（ただし、DESR-5500・7500モデル以降PlayStation BB Navigator非対応となった）。
+[PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2の規格のソフトがプレイ可能である](../Page/PlayStation_2.md "wikilink")。HDD空き容量の40GBをゲーム側へ割り当て、内蔵の[イーサネット](../Page/イーサネット.md "wikilink")ポートを使用することで[PlayStation BB Unitと同等の機能を持たせることもできる](../Page/PlayStation_BB_Unit.md "wikilink")（ただし、DESR-5500・7500モデル以降PlayStation BB Navigator非対応となった）。
 
 PlayStation 2と比較すると、[コントローラポートは背面にあるため](../Page/ゲームコントローラ.md "wikilink")、コントローラは4[メートル](../Page/メートル.md "wikilink")ほどのケーブルが付いた専用のものかサードパーティ製の延長ケーブル\[1\]を使う必要があること、[USBポートが](../Page/ユニバーサル・シリアル・バス.md "wikilink")1つしかない、[メモリースティック](../Page/メモリースティック.md "wikilink")用スロットがある、メモリーカード差込口の形状から来る物理的な制限のため、[PocketStation](../Page/PocketStation.md "wikilink")に非対応などの相違がある。
 

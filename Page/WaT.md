@@ -1,7 +1,7 @@
 > この記事は[WaT](https://ja.wikipedia.org/wiki/WaT)から翻訳されています。
 
 
-**WaT**（ワット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、所属[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルシグマ内の](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")[A\&M RECORDS](https://ja.wikipedia.org/wiki/A&Mレコード#日本での事業 "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**So WaT?**」。[2016年](../Page/2016年.md "wikilink")解散。
+**WaT**（ワット）は、[2016年](../Page/2016年.md "wikilink")に解散した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[男性](../Page/男性.md "wikilink")[音楽デュオ](https://ja.wikipedia.org/wiki/二人組#音楽 "wikilink")。[2002年](../Page/2002年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[バーニングプロダクション](https://ja.wikipedia.org/wiki/バーニングプロダクション "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、所属[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルシグマ内の](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")[A\&M RECORDS](https://ja.wikipedia.org/wiki/A&Mレコード#日本での事業 "wikilink")。公式[ファンクラブ](../Page/ファンクラブ.md "wikilink")は「**So WaT?**」。
 
 ## メンバー
 

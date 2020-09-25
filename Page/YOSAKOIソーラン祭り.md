@@ -271,7 +271,7 @@
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><br />
 6月10 - 14日</p></td>
 <td><p>第29回</p></td>
-<td><p>colspan="5" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19拡大の影響で中止</a></p></td>
+<td><p>colspan="5" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">新型コロナウイルス拡大の影響で中止</a></p></td>
 <td><p>VirtualYOSAKOIソーラン祭りとして開催</p></td>
 <td></td>
 </tr>
@@ -681,7 +681,7 @@ YOSAKOI連</small></p></td>
 <tr class="odd">
 <td><p>第29回</p></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
-<td><p>colspan="7" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">COVID-19拡大の影響で中止</a></p></td>
+<td><p>colspan="7" style="text-align:center""|<a href="https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_(2019年)" title="wikilink">新型コロナウイルス拡大の影響で中止</a></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -748,9 +748,11 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 
 ### 新型コロナウイルス感染症の影響で初の中止に
 
-2020年初頭より、[新型コロナウイルス感染症（COVID-19）の国内での](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[流行が拡大](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")。これにより各種イベントの中止・延期など[社会的影響も広がり](../Page/日本における2019年コロナウイルス感染症による社会・経済的影響.md "wikilink")、YOSAKOI関連イベントも影響を受けることとなった。
+2020年初頭より、[新型コロナウイルスの国内での](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")[流行が拡大](../Page/日本における2019年コロナウイルス感染症の流行状況.md "wikilink")。これにより各種イベントの中止・延期など[社会的影響も広がり](../Page/日本における2019年コロナウイルス感染症による社会・経済的影響.md "wikilink")、YOSAKOI関連イベントも影響を受けることとなった。
 
-この祭りの第29回大会に関しては、感染対策として参加者ガイダンスの1週先延ばしとネットでの抽選等を行う予定だったが、同年3月31日に[石狩市](../Page/石狩市.md "wikilink")のチームが参加を辞退して以降、4日続けて有力チームの辞退が相次いだ。そして4月3日の[北海道新聞朝刊で第](../Page/北海道新聞社.md "wikilink")29回大会の中止が1面で記され\[39\]、同日午後、実行委員会は現時点での対策や保証ができない事や札幌市民の理解を得られないとの判断で、第29回大会の中止を正式発表した\[40\]。それに替わるイベントとしてまず、本来の開催日である6月10 - 14日の5日間にわたりYouTubeで「VirtualYOSAKOIソーラン祭り」と題し、過去の祭りのダイジェスト映像などを生配信した\[41\]。その後は感染の収束と市民の理解が得られる状況になったら代替イベント開催を検討したいと考えている\[42\]。
+この祭りの第29回大会に関しては、感染対策として参加者ガイダンスの1週先延ばしとネットでの抽選等を行う予定だったが、同年3月31日に[石狩市](../Page/石狩市.md "wikilink")のチームが参加を辞退して以降、4日続けて有力チームの辞退が相次いだ。そして4月3日の[北海道新聞朝刊で第](../Page/北海道新聞社.md "wikilink")29回大会の中止が1面で記され\[39\]、同日午後、実行委員会は現時点での対策や保証ができない事や札幌市民の理解を得られないとの判断で、第29回大会の中止を正式発表した\[40\]。それに替わるイベントとしてまず、本来の開催日である6月10 - 14日の5日間にわたりYouTubeで「VirtualYOSAKOIソーラン祭り」と題し、過去の祭りのダイジェスト映像などを生配信した\[41\]。その後は感染の収束と市民の理解が得られる状況になったら代替イベント開催を検討したいと考えていたが\[42\]9月8日、道内各メディアが12月26日と2021年2月6日に「YOSAKOIソーランExpo」を開催するとの一報が相次いだ\[43\]。これを受けて同日午後、実行委員会は本祭の代替イベントではなく、札幌市の観光需要回復に関わる補助金事業の採択を受け実施するかたちで「YOSAKOIソーランExpo」を開催すると発表した\[44\]。
+
+内容としては参加チームを道内限定にし、かつ新北海道スタイルに準じつつ練習から十分に配慮をしたガイドラインを作成し、12月26日にカナモトホールで大学チーム中心の15チームが、2021年2月6日は同ホールと[札幌文化芸術劇場](https://ja.wikipedia.org/wiki/札幌文化芸術劇場 "wikilink")hitaruでそれぞれ15チームが演舞する予定としている。
 
 ## 関係団体
 
@@ -820,7 +822,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 
 ## その他
 
-  - [フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")放送された[倉本聰](../Page/倉本聰.md "wikilink")脚本による「[風のガーデン](../Page/風のガーデン.md "wikilink")」は[富良野](https://ja.wikipedia.org/wiki/富良野 "wikilink")を舞台として描かれた連続ドラマで、主人公の娘のルイ（[黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")）がYOSAKOIソーランチーム「旭川北の大地」に所属している設定で、黒木メイサは実際に2008年の第17回YOSAKOIソーラン祭りの踊り手として出場し、ファイナルコンテストにも進出。そのシーンがドラマの一場面に登場した\[43\]\[44\]。
+  - [フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")放送された[倉本聰](../Page/倉本聰.md "wikilink")脚本による「[風のガーデン](../Page/風のガーデン.md "wikilink")」は[富良野](https://ja.wikipedia.org/wiki/富良野 "wikilink")を舞台として描かれた連続ドラマで、主人公の娘のルイ（[黒木メイサ](https://ja.wikipedia.org/wiki/黒木メイサ "wikilink")）がYOSAKOIソーランチーム「旭川北の大地」に所属している設定で、黒木メイサは実際に2008年の第17回YOSAKOIソーラン祭りの踊り手として出場し、ファイナルコンテストにも進出。そのシーンがドラマの一場面に登場した\[45\]\[46\]。
   - [南中ソーラン](https://ja.wikipedia.org/wiki/南中ソーラン "wikilink")は過去に第2回に招待参加し第4回と第11回に出場している。かつて「日本一荒れた学校」といわれた[稚内市](../Page/稚内市.md "wikilink")の[稚内南中学校の再生のために](../Page/稚内市立稚内南中学校.md "wikilink")、[民謡](../Page/民謡.md "wikilink")[歌手](../Page/歌手.md "wikilink")の[伊藤多喜雄](../Page/伊藤多喜雄.md "wikilink")がソーラン節をアレンジして創作。
   - [北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")の公式応援歌「GO\!GO\!ファイターズ」がYOSAKOIソーラン調の楽曲となっており、公式振り付けもあった。[2004年](../Page/2004年.md "wikilink")以降のYOSAKOIソーランにも参加していた。
   - [にっぽんど真ん中祭り](../Page/にっぽんど真ん中祭り.md "wikilink")はYOSAKOIソーラン祭りに参加した名古屋市の学生チームが中心となって[名古屋市](../Page/名古屋市.md "wikilink")で開催されている祭り。通称「どまつり」
@@ -882,5 +884,7 @@ YOSAKOIソーラン祭りの[ロゴは](../Page/ロゴタイプ.md "wikilink")[1
 40.
 41. 14日(日)「Virtual YOSAKOIソーラン祭り」開催！|publisher=YOSAKOIソーラン祭り公式サイト|date=2020-05-22|accessdate=2020-07-17}}
 42. \[<https://twitter.com/YosakoiSoranFes/status/1245939511613243394>　YOSAKOIソーラン祭り公式ツイッター\]
-43.
+43. [冬にYOSAKOI開催 組織委、12月と2月に屋内で](https://www.hokkaido-np.co.jp/article/457988) 北海道新聞社 2020年9月8日
 44.
+45.
+46.

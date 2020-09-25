@@ -410,16 +410,16 @@
   - 放送日：[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")[火曜日](../Page/火曜日.md "wikilink")
   - 放送時間：1:25 - 3:25
 
-| 出場番組チーム                                                                   | 出場者                                                                   | 結果 | 備考    |
-| ------------------------------------------------------------------------- | --------------------------------------------------------------------- | -- | ----- |
-| [子供、ほしいね](../Page/子供、ほしいね.md "wikilink")                                  | [工藤夕貴](../Page/工藤夕貴.md "wikilink")、[大高洋夫](../Page/大高洋夫.md "wikilink") |    |       |
-| [オールナイトフジ](../Page/オールナイトフジ.md "wikilink")                                | [B21スペシャル](../Page/B21スペシャル.md "wikilink")                            |    |       |
-| [冗談画報](https://ja.wikipedia.org/wiki/冗談画報 "wikilink")                     |                                                                       |    |       |
-| [ものまね珍坊](../Page/ものまね珍坊.md "wikilink")                                    |                                                                       |    |       |
-| [出たMONO勝負](https://ja.wikipedia.org/wiki/出たMONO勝負 "wikilink")             |                                                                       |    |       |
-| [いとしのファブリオ](https://ja.wikipedia.org/wiki/いとしのファブリオ "wikilink")           |                                                                       |    |       |
-| [高田・大倉の深夜NIヨイショ](https://ja.wikipedia.org/wiki/高田・大倉の深夜NIヨイショ "wikilink") |                                                                       |    |       |
-| [さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")               | [まんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")               |    | \[1\] |
+| 出場番組チーム                                                                   | 出場者                                                                     | 結果 | 備考    |
+| ------------------------------------------------------------------------- | ----------------------------------------------------------------------- | -- | ----- |
+| [子供、ほしいね](../Page/子供、ほしいね.md "wikilink")                                  | [工藤夕貴](../Page/工藤夕貴.md "wikilink")、[大高洋夫](../Page/大高洋夫.md "wikilink")   |    |       |
+| [オールナイトフジ](../Page/オールナイトフジ.md "wikilink")                                | [B21スペシャル](../Page/B21スペシャル.md "wikilink")他                             |    |       |
+| [冗談画報](https://ja.wikipedia.org/wiki/冗談画報 "wikilink")                     | [泉麻人](../Page/泉麻人.md "wikilink")、[桜沢エリカ](../Page/桜沢エリカ.md "wikilink")   |    |       |
+| [ものまね珍坊](../Page/ものまね珍坊.md "wikilink")                                    | [コロッケ](../Page/コロッケ.md "wikilink")、[清水アキラ](../Page/清水アキラ.md "wikilink") |    |       |
+| [出たMONO勝負](https://ja.wikipedia.org/wiki/出たMONO勝負 "wikilink")             | [藤村俊二](../Page/藤村俊二.md "wikilink")、[八木亜希子](../Page/八木亜希子.md "wikilink") |    |       |
+| [いとしのファブリオ](https://ja.wikipedia.org/wiki/いとしのファブリオ "wikilink")           | [きたろう](../Page/きたろう.md "wikilink")、[松坂季実子](../Page/松坂季実子.md "wikilink") |    |       |
+| [高田・大倉の深夜NIヨイショ](https://ja.wikipedia.org/wiki/高田・大倉の深夜NIヨイショ "wikilink") | [高田文夫](../Page/高田文夫.md "wikilink")、[大倉利晴](../Page/大倉利晴.md "wikilink")   |    |       |
+| [さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")               | [まんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")                 |    | \[1\] |
 
   - 秋の祭典
 

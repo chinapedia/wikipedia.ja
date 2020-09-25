@@ -15,7 +15,7 @@
 
 ### 1950年代から1960年代
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:Finale_Europa_Cup_II_AC_Milan_tegen_HSV_Hamburg_2-0._Uwe_Seeler,_Bestanddeelnr_921-3780.jpg "wikilink")。\]\] [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、後に[ドイツ代表となる](../Page/サッカードイツ代表.md "wikilink")[ウーヴェ・ゼーラー](../Page/ウーヴェ・ゼーラー.md "wikilink")が入団\[11\]。1955-56シーズンの[DFBポカール](../Page/DFBポカール.md "wikilink")では決勝戦で[カールスルーエSC](../Page/カールスルーエSC.md "wikilink")に敗れ準優勝に終わったが、1959–60シーズンのドイツ選手権では決勝で[1.FCケルン](../Page/1.FCケルン.md "wikilink")を3-2と下し32年ぶり3度目のタイトルを獲得。ゼーラーは[1960年](../Page/1960年.md "wikilink")から選定の始まった[年間最優秀選手賞の最初の受賞者となった](https://ja.wikipedia.org/wiki/年間最優秀サッカー選手賞_\(ドイツ\) "wikilink")\[12\]。1962–63シーズンのDFBポカールでは決勝戦で[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")を3-0と下して初優勝を果たすと、国際舞台においても[UEFAカップウィナーズカップ 1967-68ではフランスの](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1967-68 "wikilink")[オリンピック・リヨン](https://ja.wikipedia.org/wiki/オリンピック・リヨン "wikilink")やウェールズの[カーディフ・シティFC](../Page/カーディフ・シティFC.md "wikilink")などを下して決勝進出、決勝戦ではイタリアの[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に敗れたものの準優勝の結果を残した\[13\]。ゼーラーは[1964年](../Page/1964年.md "wikilink")\[14\]と[1970年](../Page/1970年.md "wikilink")\[15\]にも年間最優秀選手賞を受賞し人気選手となったが、一方で国内リーグでは[1963年](../Page/1963年.md "wikilink")に発足した[ブンデスリーガの創設メンバーとなったものの](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")\[16\]、ゼーラーの現役時代にはリーグタイトルを獲得することは出来なかった。
+[220px](https://ja.wikipedia.org/wiki/ファイル:Finale_Europa_Cup_II_AC_Milan_tegen_HSV_Hamburg_2-0._Uwe_Seeler,_Bestanddeelnr_921-3780.jpg "wikilink")。\]\] [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")、後に[ドイツ代表となる](../Page/サッカードイツ代表.md "wikilink")[ウーヴェ・ゼーラー](../Page/ウーヴェ・ゼーラー.md "wikilink")が入団\[11\]。1955-56シーズンの[DFBポカール](../Page/DFBポカール.md "wikilink")では決勝戦で[カールスルーエSC](../Page/カールスルーエSC.md "wikilink")に敗れ準優勝に終わったが、1959–60シーズンのドイツ選手権では決勝で[1.FCケルン](../Page/1.FCケルン.md "wikilink")を3-2と下し32年ぶり3度目のタイトルを獲得。ゼーラーは[1960年](../Page/1960年.md "wikilink")から選定の始まった[年間最優秀選手賞の最初の受賞者となった](https://ja.wikipedia.org/wiki/年間最優秀サッカー選手賞_\(ドイツ\) "wikilink")\[12\]。1962–63シーズンのDFBポカールでは決勝戦で[ボルシア・ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")を3-0と下して初優勝を果たすと、国際舞台においても[UEFAカップウィナーズカップ 1967-68ではフランスの](https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1967-68 "wikilink")[オリンピック・リヨン](../Page/オリンピック・リヨン.md "wikilink")やウェールズの[カーディフ・シティFC](../Page/カーディフ・シティFC.md "wikilink")などを下して決勝進出、決勝戦ではイタリアの[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に敗れたものの準優勝の結果を残した\[13\]。ゼーラーは[1964年](../Page/1964年.md "wikilink")\[14\]と[1970年](../Page/1970年.md "wikilink")\[15\]にも年間最優秀選手賞を受賞し人気選手となったが、一方で国内リーグでは[1963年](../Page/1963年.md "wikilink")に発足した[ブンデスリーガの創設メンバーとなったものの](../Page/サッカー・ブンデスリーガ_\(ドイツ\).md "wikilink")\[16\]、ゼーラーの現役時代にはリーグタイトルを獲得することは出来なかった。
 
 ### 1970年代から1980年代
 
@@ -191,7 +191,7 @@
 
   - 2019年8月19日現在\[63\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))       (第3主将)  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))      ()
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))       (第3主将)  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))     ()
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

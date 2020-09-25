@@ -1,7 +1,7 @@
 > この記事は[OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH)から翻訳されています。
 
 
-**OpenSSH** (Open Secure Shell) は、[SSHプロトコルを利用するためのソフトウェアで](../Page/Secure_Shell.md "wikilink")、SSHサーバおよびSSHクライアントを含む。OpenSSHは、[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトにより開発が行われ、[BSDライセンス](../Page/BSDライセンス.md "wikilink")で公開されている。オリジナルのSSH実装である**SSH Tectia**など、SSHには他にいくつかの実装があるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点で\[1\]。
+**OpenSSH**とは、[SSHプロトコルを利用するためのソフトウェアで](../Page/Secure_Shell.md "wikilink")、SSHサーバおよびSSHクライアントを含む。OpenSSHは、[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトにより開発が行われ、[BSDライセンス](../Page/BSDライセンス.md "wikilink")で公開されている。オリジナルのSSH実装である**SSH Tectia**など、SSHには他にいくつかの実装があるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点で\[1\]。
 
 ## 歴史
 
@@ -21,6 +21,7 @@ OpenSSHの開発は、まずOpenBSD上で安全・堅牢なプログラムを開
 
 ## 関連項目
 
+  - [SFTP](https://ja.wikipedia.org/wiki/SFTP "wikilink")
   - [TCP Wrapper](../Page/TCP_Wrapper.md "wikilink")
 
 ## 外部リンク

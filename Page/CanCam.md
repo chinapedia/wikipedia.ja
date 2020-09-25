@@ -1,7 +1,7 @@
 > この記事は[CanCam](https://ja.wikipedia.org/wiki/CanCam)から翻訳されています。
 
 
-『**CanCam**』（キャンキャン）は、[小学館](../Page/小学館.md "wikilink")の発行による[月刊](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")[女性](https://ja.wikipedia.org/wiki/女性誌 "wikilink")[ファッション](../Page/ファッション.md "wikilink")。『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』および『[ViVi](../Page/ViVi.md "wikilink")』と並ぶ「[赤文字系](../Page/赤文字系雑誌.md "wikilink")」の代表的な雑誌で、20代前半の女性を主要購読者層に想定している。
+『**CanCam**』（キャンキャン）は、[小学館](../Page/小学館.md "wikilink")の発行による[月刊](https://ja.wikipedia.org/wiki/月刊誌 "wikilink")[女性](https://ja.wikipedia.org/wiki/女性誌 "wikilink")[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。『[JJ](../Page/JJ_\(雑誌\).md "wikilink")』および『[ViVi](../Page/ViVi.md "wikilink")』と並ぶ「[赤文字系](../Page/赤文字系雑誌.md "wikilink")」の代表的な雑誌で、20代前半の女性を主要購読者層に想定している。
 
 [雷鳥社](https://ja.wikipedia.org/wiki/雷鳥社 "wikilink")編『雑誌タイトルコピー大全』の伝えるところによれば、誌名の由来は“I <u>can</u> <u>cam</u>pus”（アイ・**キャン**・**キャン**パス）の略で、すなわち「キャンパスリーダーになれるように」の意\[1\]。
 

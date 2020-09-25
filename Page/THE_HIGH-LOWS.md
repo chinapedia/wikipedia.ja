@@ -159,8 +159,8 @@
 <td><p>5th</p></td>
 <td><p>1996年6月24日</p></td>
 <td><p><strong><a href="../Page/相談天国.md" title="wikilink">相談天国</a></strong></p></td>
-<td><p>10位</p></td>
 <td><p><a href="../Page/日産自動車.md" title="wikilink">日産</a>・<a href="../Page/日産・シルビア.md" title="wikilink">シルビア</a><a href="../Page/コマーシャルソング.md" title="wikilink">CMソング</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -258,8 +258,8 @@
 <td><p>19th</p></td>
 <td><p>2002年9月4日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Too_Late_To_Die" title="wikilink">Too Late To Die</a></strong></p></td>
-<td><p>15位</p></td>
 <td><p>「<a href="../Page/壱番屋.md" title="wikilink">カレーハウスCoCo壱番屋</a>」CMソング</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>20th</p></td>
@@ -397,7 +397,7 @@
 <tr class="odd">
 <td><p>1995年</p></td>
 <td><p><strong><em>!TOUR</em></strong></p></td>
-<td><p>全国6大都市で公演</p>
+<td><p><strong>全国6大都市で公演</strong></p>
 <p>12/12(火) 福岡電気ホール</p>
 <p>12/14(木) 大阪御堂会館</p>
 <p>12/15(金) 名古屋ダイアモンドホール</p>
@@ -408,7 +408,7 @@
 <tr class="even">
 <td><p>1996年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR '96「KING BISCUIT TIME｣</em></strong></p></td>
-<td><p>全国34ヶ所36公演</p>
+<td><p><strong>全国34ヶ所36公演</strong></p>
 <p>3/31(日) 日野市民会館</p>
 <p>4/2(火) 岡山市立市民文化ホール</p>
 <p>4/3(水) 広島アステールプラザ</p>
@@ -447,21 +447,27 @@
 <p>7/12(金) 沖縄コンベンション劇場</p></td>
 </tr>
 <tr class="odd">
-<td><p>1996年</p></td>
 <td><p><strong><em>ザ・ハイロウズのホリデイズ・イン・ザ・サン</em></strong></p></td>
-<td><p>トム・ロビンソン・バンドと共演</p>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/トム・ロビンソン・バンド" title="wikilink">トム・ロビンソン・バンド</a>と共演</strong></p>
 <p>8/25(日) 東京・日比谷野外音楽堂</p>
 <p>8/27(火) 大阪・大阪城野外音楽堂</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>1996年</p></td>
 <td><p>'''''ザ・ハイロウズのゆきゆきて女子大 ㊙女だらけのハリケーン</p></td>
 <td><p>'''''</p></td>
+<td><p><strong>女子大学園祭ツアー</strong></p>
+<p>10/13(日) 金沢・金沢女子短期大学･金沢学院大学 大学祭</p>
+<p>10/26(土) 大阪･梅花女子大学 小梅祭</p>
+<p>10/27(日) 岐阜・東海女子大学 学園祭</p>
+<p>11/2(土) 東京･清泉女子大学 清泉祭</p>
+<p>11/3(日･祝) 千葉・和洋女子大学 里見祭</p>
+<p>11/10(日) 福岡･福岡女子大学 かすみ祭</p></td>
 </tr>
 <tr class="odd">
 <td><p>1997年</p></td>
 <td><p><strong><em>Tigermobile Tour</em></strong></p></td>
-<td><p>全国40ヶ所48公演</p>
+<td><p><strong>全国40ヶ所48公演</strong></p>
 <p>3/22(土) 結城市民文化センター アクロス</p>
 <p>3/25(火) 大宮市民会館</p>
 <p>3/27(木) 郡山市民文化センター</p>
@@ -520,7 +526,7 @@
 <tr class="odd">
 <td><p>1998年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR メイン☆ロブスター '98</em></strong></p></td>
-<td><p>全国44ヶ所58公演</p>
+<td><p><strong>全国44ヶ所58公演</strong></p>
 <p>5/28(木) 熊谷VOGUE</p>
 <p>5/30(土) 水戸ライトハウス</p>
 <p>6/2(火) 大阪 HEAT BEAT</p>
@@ -581,17 +587,17 @@
 <p>10/30(金) 那覇市民会館</p></td>
 </tr>
 <tr class="even">
-<td><p>1998年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR メイン☆ロブスター合コン '98</em></strong></p></td>
 <td><p>11/2(月) 大阪・関西外国語大学 11/3(火･祝) 奈良・奈良県立医科大学</p>
 <p>11/8(日) 埼玉・上野学園短期大学</p>
-<p>11/14(土) 滋賀・立命館大学琵琶湖草津キャンパス</p>
+<p>11/14(土) 滋賀・立命館大学びわこ草津キャンパス</p>
 <p>11/22(日) 鹿児島・鹿児島経済大学</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1999年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR BAUMKUCHEN '99</em></strong></p></td>
-<td><p>全国61ヶ所78公演</p>
+<td><p><strong>全国61ヶ所78公演</strong></p>
 <p>4/1(木) 熊谷VOGUE</p>
 <p>4/3(土) 前橋club FLEEZ</p>
 <p>4/5(月) 水戸LIGHT HOUSE</p>
@@ -675,7 +681,7 @@
 <tr class="even">
 <td><p>2000年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR 2000 Steamin</em></strong>'</p></td>
-<td><p>全国7ヶ所7公演</p>
+<td><p><strong>全国7ヶ所7公演</strong></p>
 <p>5/9(火) 広島 ナミキジャンクション</p>
 <p>5/11(木) 名古屋 ボトムライン</p>
 <p>5/16(火) 札幌 ペニーレーン24</p>
@@ -686,9 +692,8 @@
 <p>8/22(火) 京都 磔磔 ※5/28延期公演</p></td>
 </tr>
 <tr class="odd">
-<td><p>2000年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR 2000 Relaxin</em></strong>'</p></td>
-<td><p>全国64ヶ所83公演</p>
+<td><p><strong>全国64ヶ所83公演</strong></p>
 <p>6/9(金) 熊谷VOGUE</p>
 <p>6/10(土) 前橋club FLEEZ</p>
 <p>6/13(火) 水戸LIGHT HOUSE</p>
@@ -772,17 +777,18 @@
 <p>12/20(水) 福岡電気ホール</p>
 <p>12/21(木) 福岡電気ホール</p>
 <p>12/24(日) 沖縄ダンスクラブ松下</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2000年</p></td>
 <td><p><strong><em>that summer feeling</em></strong></p></td>
-<td><p>KING BROTHERS, THE NEATBEATS, JONATHAN RICHMANと共演 8/23(水) 大阪城野外音楽堂</p>
+<td><p><strong><a href="../Page/KING_BROTHERS.md" title="wikilink">KING BROTHERS</a>, <a href="../Page/THE_NEATBEATS.md" title="wikilink">THE NEATBEATS</a>, <a href="https://ja.wikipedia.org/wiki/ジョナサン・リッチマン" title="wikilink">JONATHAN RICHMANと共演</a></strong> 8/23(水) 大阪城野外音楽堂</p>
 <p>8/26(土) 日比谷野外音楽堂</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2001年-2002年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR 2001-2002</em></strong> <strong><em>WELCOME TO THE HOTEL TIKI-POTO</em></strong></p></td>
-<td><p>全国69ヶ所80公演</p>
+<td><p><strong>全国69ヶ所80公演</strong></p>
 <p>9/6(木) 那覇ダンスクラブ松下</p>
 <p>9/9(日) 加治木町文化ホール 加音ホール</p>
 <p>9/16(日) 長野県松本文化会館 中ホール</p>
@@ -875,7 +881,7 @@
 <tr class="odd">
 <td><p>2002年-2003年</p></td>
 <td><p><strong><em>THE HIGH-LOWS TOUR 2002-2003 angel beetle</em></strong></p></td>
-<td><p>全国65ヶ所75公演</p>
+<td><p><strong>全国65ヶ所75公演</strong></p>
 <p>11/26(火) SHIBUYA-AX</p>
 <p>11/27(水) SHIBUYA-AX</p>
 <p>12/3(火) 赤坂BLITZ</p>
@@ -955,7 +961,7 @@
 <tr class="even">
 <td><p>2003年</p></td>
 <td><p><strong><em>Puttin'on the Style</em></strong></p></td>
-<td><p>The Quarrymenと共演</p>
+<td><p><strong><a href="../Page/クオリーメン.md" title="wikilink">The Quarrymenと共演</a></strong></p>
 <p>9/9(火) 東京･渋谷公会堂</p>
 <p>9/10(水) 大阪･フェスティバルホール</p>
 <p>9/1(水) 渋谷公会堂</p></td>
@@ -963,7 +969,7 @@
 <tr class="odd">
 <td><p>2004年-2005年</p></td>
 <td><p><strong><em>The★MUSTANG 04-05</em></strong></p></td>
-<td><p>全国66ヵ所76公演</p>
+<td><p><strong>全国66ヵ所76公演</strong></p>
 <p>9/1(水) 渋谷公会堂</p>
 <p>9/2(木) 渋谷公会堂</p>
 <p>9/8(水) さいたま市文化センター</p>
@@ -1048,34 +1054,34 @@
 <td><p>7/23(土) 国営備北丘陵公園</p></td>
 </tr>
 <tr class="odd">
-<td><p>2005年</p></td>
 <td><p><strong><em>FM802 MEET THE WORLD BEAT 2005</em></strong><br />
 </p></td>
 <td><p>7/24(日) 万博記念公園 もみじ川芝生広場</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2005年</p></td>
 <td><p><strong><em>FUJI ROCK FESTIVAL '05</em></strong><br />
 </p></td>
 <td><p>7/29(金) GREEN STAGE at 苗場スキー場</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2005年</p></td>
 <td><p><strong><em>RISING SUN ROCK FESTIVAL 2005 in EZO</em></strong><br />
 </p></td>
 <td><p>8/20(土) SUN STAGE at 石狩湾新港樽川ふ頭横野外特設ステージ</p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2005年</p></td>
 <td><p><strong><em>RADIO BERRY ベリテンライブ2005</em></strong><br />
 </p></td>
 <td><p>9/18(日) 宇都宮市農林公園ろまんちっく村 さわやか広場野外特設ステージ</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>2005年</p></td>
 <td><p>'''''中大炎上</p></td>
 <td><p>～↑THE HIGH-LOWS↓ LIVE 2005～'''''<br />
 </p></td>
+<td><p>11/5(土) 中央大学多摩キャンパス</p></td>
 </tr>
 </tbody>
 </table>

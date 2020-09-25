@@ -23,7 +23,7 @@
 
 ## NTTドコモとの提携
 
-[2005年](../Page/2005年.md "wikilink")末、第3世代サービス強化のため、KTは持株分を[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に売却して資本提携を行なった。NTTドコモはHSDPA端末である[A2502 HIGH-SPEED](../Page/A2502_HIGH-SPEED.md "wikilink")、LG電子製FOMA[L706ie](../Page/L706ie.md "wikilink")、[Android](../Page/Android.md "wikilink")携帯電話を共同調達する。2008年3月、KTF、NTTドコモを含む[アジア](../Page/アジア.md "wikilink")携帯7事業者で形成する[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")は、データー通信の格安[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")プランを発表した。
+[2005年](../Page/2005年.md "wikilink")末、第3世代サービス強化のため、KTは持株分を[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")に売却して資本提携を行なった。NTTドコモはHSDPA端末である[A2502 HIGH-SPEED](../Page/A2502_HIGH-SPEED.md "wikilink")、LG電子製FOMA[L706ie](../Page/L706ie.md "wikilink")、[Android携帯電話を共同調達する](../Page/Android_\(オペレーティングシステム\).md "wikilink")。2008年3月、KTF、NTTドコモを含む[アジア](../Page/アジア.md "wikilink")携帯7事業者で形成する[コネクサス・モバイル・アライアンス](https://ja.wikipedia.org/wiki/コネクサス・モバイル・アライアンス "wikilink")は、データー通信の格安[国際ローミング](https://ja.wikipedia.org/wiki/国際ローミング "wikilink")プランを発表した。
 
 ### 海外プラスナンバー
 

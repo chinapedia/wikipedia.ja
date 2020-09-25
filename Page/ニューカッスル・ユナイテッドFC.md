@@ -650,9 +650,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[8月24日](../Page/8月24日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink")現在\[11\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Latvia.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Wales.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ireland.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Haiti.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Latvia.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Wales.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -721,3 +721,4 @@
 8.
 9.
 10.
+11.

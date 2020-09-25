@@ -380,7 +380,7 @@
 
 :\* 久子とあすかの高校の同級生 - [小柳友貴美](../Page/小柳友貴美.md "wikilink")、[山田百貴](https://ja.wikipedia.org/wiki/山田百貴 "wikilink")、[山口みよ子](https://ja.wikipedia.org/wiki/山口みよ子 "wikilink")、[大塚洋](https://ja.wikipedia.org/wiki/大塚洋 "wikilink")
 
-:\* 綾瀬（美里の夫） - [篠原さとし](https://ja.wikipedia.org/wiki/篠原さとし "wikilink")
+:\* 綾瀬雄二（美里の夫） - [篠原さとし](https://ja.wikipedia.org/wiki/篠原さとし "wikilink")
 
 :\* スーパー「オギノ」八王子店 店員 - [石井麗子](https://ja.wikipedia.org/wiki/石井麗子 "wikilink")
 
@@ -702,13 +702,13 @@
 
   - 第20作「砂の絆」（2011年）
 
-:\* 片桐洋子（ファッションデザイナー・本名「桑原君子」） - [小沢真珠](../Page/小沢真珠.md "wikilink")\[52\]（若き日：[西田奈津美](../Page/西田奈津美.md "wikilink")）
+:\* 片桐洋子（ファッションデザイナー、本名は「桑原君子」） - [小沢真珠](../Page/小沢真珠.md "wikilink")\[52\]（若き日：[西田奈津美](../Page/西田奈津美.md "wikilink")）
 
-:\* 元田裕司（タクシードライバー・本名「桑原一夫」） - [大浦龍宇一](../Page/大浦龍宇一.md "wikilink")\[53\]（若き日：[佐々木和徳](../Page/佐々木和徳.md "wikilink")\[54\]）
+:\* 元田裕司（タクシードライバー、本名は「桑原一夫」で君子（洋子）の実兄） - [大浦龍宇一](../Page/大浦龍宇一.md "wikilink")\[53\]（若き日：[佐々木和徳](../Page/佐々木和徳.md "wikilink")\[54\]）
 
-:\* 片桐玉子（ミカの母） - [藤田弓子](../Page/藤田弓子.md "wikilink")
+:\* 片桐玉子（ミカ（洋子）の実母） - [藤田弓子](../Page/藤田弓子.md "wikilink")
 
-:\* 青森ミカ（仕出し弁当屋従業員・本名「片桐洋子」） - [宮本真希](https://ja.wikipedia.org/wiki/宮本真希 "wikilink")
+:\* 青森ミカ（仕出し弁当屋従業員、本名「片桐洋子」で玉子の実娘） - [宮本真希](https://ja.wikipedia.org/wiki/宮本真希 "wikilink")
 
 :\* 十条（相模原中央警察署 刑事） - [石井愃一](../Page/石井愃一.md "wikilink")
 
@@ -808,13 +808,13 @@
   -
   -
   -
-  - [万引きGメン・二階堂雪17](http://www.tbs.co.jp/getsugol/20080922/drama_point.html)
+  - [万引きGメン・二階堂雪17](https://www.tbs.co.jp/getsugol/20080922/drama_point.html)
 
-  - [万引きGメン・二階堂雪18](http://www.tbs.co.jp/getsugol/20090817/drama_point.html)
+  - [万引きGメン・二階堂雪18](https://www.tbs.co.jp/getsugol/20090817/drama_point.html)
 
-  - [万引きGメン・二階堂雪19](http://www.tbs.co.jp/getsugol/20100531/drama_point.html)
+  - [万引きGメン・二階堂雪19](https://www.tbs.co.jp/getsugol/20100531/drama_point.html)
 
-  - [万引きGメン・二階堂雪20](http://www.tbs.co.jp/getsugol/20110523/drama_point.html)
+  - [万引きGメン・二階堂雪20](https://www.tbs.co.jp/getsugol/20110523/drama_point.html)
 
 </div>
 
@@ -830,26 +830,26 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [女性保安員・二階堂雪1](http://www.bs-tbs.co.jp/genre/detail/?mid=DRT0406100)
-  - [女性保安員・二階堂雪2](http://www.bs-tbs.co.jp/genre/detail/?mid=DRT0406200)
-  - [万引きGメン・二階堂雪3](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki03)
-  - [万引きGメン・二階堂雪4](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki04)
-  - [万引きGメン・二階堂雪5](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki05)
-  - [万引きGメン・二階堂雪6](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki06)
-  - [万引きGメン・二階堂雪7](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki07)
-  - [万引きGメン・二階堂雪8](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki08)
-  - [万引きGメン・二階堂雪9](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki09)
-  - [万引きGメン・二階堂雪10](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki10)
-  - [万引きGメン・二階堂雪11](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki11)
-  - [万引きGメン・二階堂雪12](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki12)
-  - [万引きGメン・二階堂雪13](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki13)
-  - [万引きGメン・二階堂雪14](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki14)
-  - [万引きGメン・二階堂雪15](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki15)
-  - [万引きGメン・二階堂雪16](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki16)
-  - [万引きGメン・二階堂雪17](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki17)
-  - [万引きGメン・二階堂雪18](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki18)
-  - [万引きGメン・二階堂雪19](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki19)
-  - [万引きGメン・二階堂雪20](http://www.bs-tbs.co.jp/genre/detail/?mid=manbiki20)
+  - [女性保安員・二階堂雪1](https://www.bs-tbs.co.jp/genre/detail/?mid=DRT0406100)
+  - [女性保安員・二階堂雪2](https://www.bs-tbs.co.jp/genre/detail/?mid=DRT0406200)
+  - [万引きGメン・二階堂雪3](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki03)
+  - [万引きGメン・二階堂雪4](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki04)
+  - [万引きGメン・二階堂雪5](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki05)
+  - [万引きGメン・二階堂雪6](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki06)
+  - [万引きGメン・二階堂雪7](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki07)
+  - [万引きGメン・二階堂雪8](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki08)
+  - [万引きGメン・二階堂雪9](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki09)
+  - [万引きGメン・二階堂雪10](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki10)
+  - [万引きGメン・二階堂雪11](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki11)
+  - [万引きGメン・二階堂雪12](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki12)
+  - [万引きGメン・二階堂雪13](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki13)
+  - [万引きGメン・二階堂雪14](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki14)
+  - [万引きGメン・二階堂雪15](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki15)
+  - [万引きGメン・二階堂雪16](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki16)
+  - [万引きGメン・二階堂雪17](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki17)
+  - [万引きGメン・二階堂雪18](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki18)
+  - [万引きGメン・二階堂雪19](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki19)
+  - [万引きGメン・二階堂雪20](https://www.bs-tbs.co.jp/genre/detail/?mid=manbiki20)
 
 </div>
 
@@ -865,26 +865,26 @@
 
 <div class="NavContent" style="text-align: left;">
 
-  - [女性保安員・二階堂雪](http://www.tbs.co.jp/tbs-ch/item/d0516/)
-  - [女性保安員・二階堂雪2](http://www.tbs.co.jp/tbs-ch/item/d0517/)
-  - [万引きGメン・二階堂雪3](http://www.tbs.co.jp/tbs-ch/item/d0518/)
-  - [万引きGメン・二階堂雪4](http://www.tbs.co.jp/tbs-ch/item/d0519/)
-  - [万引きGメン・二階堂雪5](http://www.tbs.co.jp/tbs-ch/item/d0520/)
-  - [万引きGメン・二階堂雪6](http://www.tbs.co.jp/tbs-ch/item/d1258/)
-  - [万引きGメン・二階堂雪7](http://www.tbs.co.jp/tbs-ch/item/d1259/)
-  - [万引きGメン・二階堂雪8](http://www.tbs.co.jp/tbs-ch/item/d1260/)
-  - [万引きGメン・二階堂雪9](http://www.tbs.co.jp/tbs-ch/item/d1261/)
-  - [万引きGメン・二階堂雪10](http://www.tbs.co.jp/tbs-ch/item/d1262/)
-  - [万引きGメン・二階堂雪11](http://www.tbs.co.jp/tbs-ch/item/d1399/)
-  - [万引きGメン・二階堂雪12](http://www.tbs.co.jp/tbs-ch/item/d1398/)
-  - [万引きGメン・二階堂雪13](http://www.tbs.co.jp/tbs-ch/item/d1400/)
-  - [万引きGメン・二階堂雪14](http://www.tbs.co.jp/tbs-ch/item/d1401/)
-  - [万引きGメン・二階堂雪15](http://www.tbs.co.jp/tbs-ch/item/d1402/)
-  - [万引きGメン・二階堂雪16](http://www.tbs.co.jp/tbs-ch/item/d1936/)
-  - [万引きGメン・二階堂雪17](http://www.tbs.co.jp/tbs-ch/item/d1937/)
-  - [万引きGメン・二階堂雪18](http://www.tbs.co.jp/tbs-ch/item/d1938/)
-  - [万引きGメン・二階堂雪19](http://www.tbs.co.jp/tbs-ch/item/d1939/)
-  - [万引きGメン・二階堂雪20](http://www.tbs.co.jp/tbs-ch/item/d1940/)
+  - [女性保安員・二階堂雪](https://www.tbs.co.jp/tbs-ch/item/d0516/)
+  - [女性保安員・二階堂雪2](https://www.tbs.co.jp/tbs-ch/item/d0517/)
+  - [万引きGメン・二階堂雪3](https://www.tbs.co.jp/tbs-ch/item/d0518/)
+  - [万引きGメン・二階堂雪4](https://www.tbs.co.jp/tbs-ch/item/d0519/)
+  - [万引きGメン・二階堂雪5](https://www.tbs.co.jp/tbs-ch/item/d0520/)
+  - [万引きGメン・二階堂雪6](https://www.tbs.co.jp/tbs-ch/item/d1258/)
+  - [万引きGメン・二階堂雪7](https://www.tbs.co.jp/tbs-ch/item/d1259/)
+  - [万引きGメン・二階堂雪8](https://www.tbs.co.jp/tbs-ch/item/d1260/)
+  - [万引きGメン・二階堂雪9](https://www.tbs.co.jp/tbs-ch/item/d1261/)
+  - [万引きGメン・二階堂雪10](https://www.tbs.co.jp/tbs-ch/item/d1262/)
+  - [万引きGメン・二階堂雪11](https://www.tbs.co.jp/tbs-ch/item/d1399/)
+  - [万引きGメン・二階堂雪12](https://www.tbs.co.jp/tbs-ch/item/d1398/)
+  - [万引きGメン・二階堂雪13](https://www.tbs.co.jp/tbs-ch/item/d1400/)
+  - [万引きGメン・二階堂雪14](https://www.tbs.co.jp/tbs-ch/item/d1401/)
+  - [万引きGメン・二階堂雪15](https://www.tbs.co.jp/tbs-ch/item/d1402/)
+  - [万引きGメン・二階堂雪16](https://www.tbs.co.jp/tbs-ch/item/d1936/)
+  - [万引きGメン・二階堂雪17](https://www.tbs.co.jp/tbs-ch/item/d1937/)
+  - [万引きGメン・二階堂雪18](https://www.tbs.co.jp/tbs-ch/item/d1938/)
+  - [万引きGメン・二階堂雪19](https://www.tbs.co.jp/tbs-ch/item/d1939/)
+  - [万引きGメン・二階堂雪20](https://www.tbs.co.jp/tbs-ch/item/d1940/)
 
 </div>
 

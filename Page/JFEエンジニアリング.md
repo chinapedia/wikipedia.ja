@@ -63,7 +63,7 @@
 
 [thumbが建てられた](https://ja.wikipedia.org/wiki/ファイル:JFE_Holdings,_Inc._\(headquarters\).jpg "wikilink")。\]\]
 
-  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - **日本鋼管株式会社**（にっぽんこうかん）設立。本社は[川崎市](../Page/川崎市.md "wikilink")。[浅野財閥](../Page/浅野財閥.md "wikilink")。
+  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - **日本鋼管株式会社**（にっぽんこうかん）設立。本社は[川崎市](../Page/川崎市.md "wikilink")。[浅野財閥](../Page/浅野財閥.md "wikilink")。本社横浜市、資本金200万円、社長白石元次郎＜ref＞日本鋼管株式会社三十年史＜/ref＞。
   - [1913年](../Page/1913年.md "wikilink")（[大正](../Page/大正.md "wikilink")2年）4月 - 営業開始。
   - [1919年](../Page/1919年.md "wikilink")（大正8年）11月 - 電気製鉄株式会社を合併、富山電気製鉄所発足。
   - [1933年](../Page/1933年.md "wikilink")（昭和8年）12月 - 第二鋼管株式会社を合併。
@@ -71,6 +71,7 @@
   - [1935年](../Page/1935年.md "wikilink")（昭和10年）7月 - 川崎コークス株式会社を合併。
   - [1935年](../Page/1935年.md "wikilink")（昭和10年）10月 - 新潟電気製鉄所発足。
   - [1937年](../Page/1937年.md "wikilink")（昭和12年）12月 - 第三鋼管株式会社を合併。
+  - [1938年](../Page/1938年.md "wikilink")（昭和13年）6月 - ドイツより導入したトーマス転炉の操業を開始。
   - [1940年](../Page/1940年.md "wikilink")（昭和15年）10月 - 同じ浅野系の兄弟会社、[鶴見製鉄造船株式会社を合併](../Page/浅野造船所.md "wikilink")、鶴見造船所発足。これにより重工部門を有し、事業の多角化を図る。
   - [1944年](../Page/1944年.md "wikilink")（昭和19年）7月 - 川崎窯業株式会社を合併。
   - [1946年](../Page/1946年.md "wikilink")（昭和21年）4月 - 川崎製鉄所操業開始。
@@ -84,6 +85,7 @@
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）12月 - 日本鋼管不動産株式会社を設立。
   - [1965年](../Page/1965年.md "wikilink")（昭和40年）2月 - 福山製鉄所発足。
   - [1966年](../Page/1966年.md "wikilink")（昭和41年）1月 -　[日本ブラストマシン](https://ja.wikipedia.org/wiki/日本ブラストマシン "wikilink")株式会社（現・[JFEプラントエンジ](../Page/JFEプラントエンジ.md "wikilink")）に資本参加。　
+  - [1967年](../Page/1967年.md "wikilink")（昭和42年）6月2日 - 津造船所建設を運輸省に申請（日本最初の50万GT級ドック）。
   - [1968年](../Page/1968年.md "wikilink")（昭和43年）4月 - 川崎製鉄所・鶴見製鉄所・水江製鉄所を統合し京浜製鉄所発足。
   - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）1月 - 津造船所発足。
   - [1974年](../Page/1974年.md "wikilink")（昭和49年） - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に、日本鋼管本社ビル竣工（2007年に解体され、現在は[三井住友銀行本店ビルディング](https://ja.wikipedia.org/wiki/三井住友銀行本店ビルディング "wikilink")）。

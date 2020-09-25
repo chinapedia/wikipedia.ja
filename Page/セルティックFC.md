@@ -188,7 +188,7 @@
 
 </div>
 
-\[94\]  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))   ★  ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_French_Guiana.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ★  ★
+\[94\]  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Northern_Ireland.svg "wikilink")) ★  ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cameroon.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_French_Guiana.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ★  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

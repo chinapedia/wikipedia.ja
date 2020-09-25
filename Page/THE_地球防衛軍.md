@@ -17,6 +17,8 @@
 
 [2017年](../Page/2017年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")には[PlayStation 4用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")『**[地球防衛軍5](https://ja.wikipedia.org/wiki/地球防衛軍5 "wikilink")**』が発売された。ストーリーや世界観を一新し、ゲーム内時間は「2022年」、敵は「プライマー」と呼ばれている。
 
+また2021年内には『**[地球防衛軍5](https://ja.wikipedia.org/wiki/地球防衛軍5 "wikilink")**』の結末から3年後の世界を描く続編となる『地球防衛軍6』が発売予定である。
+
 ## ストーリー
 
   - THE 地球防衛軍（以下『1』と表記）

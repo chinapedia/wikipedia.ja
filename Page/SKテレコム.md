@@ -29,7 +29,7 @@
 
 スポーツへの後援としては韓国[eスポーツ](https://ja.wikipedia.org/wiki/eスポーツ "wikilink")チームの中で圧倒的なファン層を誇る[SKテレコム T1のスポンサーを務めており](https://ja.wikipedia.org/wiki/SKテレコム_T1 "wikilink")、また[韓国プロ野球](https://ja.wikipedia.org/wiki/韓国プロ野球 "wikilink")チームの[SKワイバーンズ](../Page/SKワイバーンズ.md "wikilink")にも自社のブランドロゴを入れている。
 
-2011年11月、SKテレコムが運営する[Android](../Page/Android.md "wikilink")アプリマーケットTstoreがqiipという名前で日本でもオープンした。
+2011年11月、SKテレコムが運営する[AndroidアプリマーケットTstoreがqiipという名前で日本でもオープンした](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
 
 ## 脚注
 

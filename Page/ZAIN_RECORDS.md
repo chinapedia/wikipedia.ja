@@ -108,8 +108,8 @@
 
 ## 販売元
 
-  - 1991年5月 - 1995年3月 - [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")
-  - 1995年4月 - 2007年 - [ジェイディスク、ジェイディスクビーイング](../Page/J-DISC_Being.md "wikilink")
+  - 1991年5月 - 1995年4月 - [パイオニアLDC](https://ja.wikipedia.org/wiki/パイオニアLDC "wikilink")
+  - 1995年5月 - 2007年 - [ジェイディスク、ジェイディスクビーイング](../Page/J-DISC_Being.md "wikilink")
   - 2007年 - ビーイング
 
 ## 関連項目

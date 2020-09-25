@@ -347,7 +347,7 @@
   - ベースコンセプトプランニング - [河津秋敏](../Page/河津秋敏.md "wikilink")
   - シリーズ構成 - [冨岡淳広](../Page/冨岡淳広.md "wikilink")
   - キャラクター原案 - [野村哲也](../Page/野村哲也.md "wikilink")、[天野喜孝](../Page/天野喜孝.md "wikilink")
-  - キャラクターデザイン - [中澤一登](../Page/中澤一登.md "wikilink")、カーメル7（[草彅琢仁](https://ja.wikipedia.org/wiki/草彅琢仁 "wikilink")、[中嶋敦子](../Page/中嶋敦子.md "wikilink")、[岸田隆宏](../Page/岸田隆宏.md "wikilink")、[平田智浩](../Page/平田智浩.md "wikilink")、[ムラオミノル](https://ja.wikipedia.org/wiki/ムラオミノル "wikilink")、前田真宏）
+  - キャラクターデザイン - [中澤一登](../Page/中澤一登.md "wikilink")、カーメル7（[草彅琢仁](../Page/草彅琢仁.md "wikilink")、[中嶋敦子](../Page/中嶋敦子.md "wikilink")、[岸田隆宏](../Page/岸田隆宏.md "wikilink")、[平田智浩](../Page/平田智浩.md "wikilink")、[ムラオミノル](https://ja.wikipedia.org/wiki/ムラオミノル "wikilink")、前田真宏）
   - メカニックデザイン - [小林誠](../Page/小林誠_\(イラストレーター\).md "wikilink")
   - モンスターデザイン - [宮尾佳和](https://ja.wikipedia.org/wiki/宮尾佳和 "wikilink")、前田真宏
   - 伯爵一族コンセプト - 草彅琢仁

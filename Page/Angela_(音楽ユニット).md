@@ -1,7 +1,7 @@
 > この記事は[Angela \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Angela_\(音楽ユニット\))から翻訳されています。
 
 
-**angela**（アンジェラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のatsukoとKATSUによる[音楽ユニット](../Page/音楽ユニット.md "wikilink")。music wonder circus、[KING AMUSEMENT CREATIVEに所属している](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")。
+**angela**（アンジェラ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。music wonder circus、[KING AMUSEMENT CREATIVEに所属している](https://ja.wikipedia.org/wiki/キング・アミューズメント・クリエイティブ本部 "wikilink")。
 
 ## 来歴
 

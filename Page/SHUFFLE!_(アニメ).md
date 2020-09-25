@@ -5,7 +5,7 @@
 
 ## 概要
 
-[声優](../Page/声優.md "wikilink")は[角川書店](../Page/角川書店.md "wikilink")による[プレイステーション2移植版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』と同じだが、基本的には[Navel](../Page/Navel.md "wikilink")原作の『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』を直接の原作としている。
+[声優](../Page/声優.md "wikilink")は[角川書店](../Page/角川書店.md "wikilink")による[プレイステーション2移植版](../Page/PlayStation_2.md "wikilink")『SHUFFLE\! ON THE STAGE』と同じだが、基本的には[Navel](../Page/Navel.md "wikilink")原作の『[SHUFFLE\!](../Page/SHUFFLE!.md "wikilink")』を直接の原作としている。
 
 主要キャラクターの増減や基本設定の大幅な変更（主にWOWOW版第1〜11話の導入部分）はされていない替わりに、原作ゲームではストーリーに入っていない[裏設定](https://ja.wikipedia.org/wiki/裏設定 "wikilink")のいくつかが取り入れられている。
 

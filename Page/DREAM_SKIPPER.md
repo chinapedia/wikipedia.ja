@@ -52,7 +52,7 @@
       -
         作詞：水樹奈々、作曲・編曲：大平勉
     <!-- end list -->
-      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[Xbox用](../Page/Xbox_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ビストロ・きゅーぴっと2](https://ja.wikipedia.org/wiki/ビストロ・きゅーぴっと2 "wikilink")』主題歌
+      - [PS2](../Page/PlayStation_2.md "wikilink")・[Xbox用](../Page/Xbox_\(ゲーム機\).md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ビストロ・きゅーぴっと2](https://ja.wikipedia.org/wiki/ビストロ・きゅーぴっと2 "wikilink")』主題歌
 13. **in a fix** \[4:18\]
       -
         作詞・作曲・編曲：矢吹俊郎

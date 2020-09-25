@@ -201,7 +201,7 @@ ZONEのTAKAYO、MIYU、MAIKO、MIZUHOと[スタジオ・ランタイム](https:/
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ClariS" title="wikilink">ClariS</a></p></td>
-<td><p>アルバム『<a href="https://ja.wikipedia.org/wiki/SUMMER_TRACKS_-夏のうた-" title="wikilink">SUMMER TRACKS -夏のうた-</a>』</p></td>
+<td><p>アルバム『<a href="../Page/SUMMER_TRACKS_-夏のうた-.md" title="wikilink">SUMMER TRACKS -夏のうた-</a>』</p></td>
 <td><p>2019年8月14日</p></td>
 <td></td>
 </tr>

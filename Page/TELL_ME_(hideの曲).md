@@ -20,7 +20,7 @@
 ## 収録曲
 
 1.  **TELL ME** イントロにはディレイを使っていたが、KIYOSHIが使わずに演奏していたのを見て、hideは関心していた。
-2.  **SCANNER \[愛のデュエット？\] Featuring RYUICHI (LUNA SEA)** [LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[RYUICHIが参加](../Page/河村隆一.md "wikilink")。声質が近かったため、声を左右に分けた。 hide memorial summitでLUNA SEAがカバー。RYUICHIは「最大のリスペクトを込めて」とMCで語った。
+2.  **SCANNER \[愛のデュエット？\] Featuring RYUICHI (LUNA SEA)** [LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[RYUICHIが参加](../Page/河村隆一.md "wikilink")。声質が近かったため、声を左右に分けた。 [hide memorial summitでLUNA](https://ja.wikipedia.org/wiki/hide_memorial_summit "wikilink") SEAがカバー。RYUICHIは「最大のリスペクトを込めて」とMCで語った。LUNA SEAのカバーバージョンが[hide TRIBUTE SPIRITSに収録](https://ja.wikipedia.org/wiki/hide_TRIBUTE_SPIRITS "wikilink")。
 3.  **TELL ME \[Original TV mix\]** X JAPANが解散する前のシングルでは唯一、カラオケ・バージョンを収録。
 
 ### hide with Spread Beaver版

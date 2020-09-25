@@ -41,7 +41,7 @@
       -
         作詞：水樹奈々、作曲：[本間昭光](../Page/本間昭光.md "wikilink")、編曲：本間昭光・大平勉
     <!-- end list -->
-      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ロスト・アヤ・ソフィア](https://ja.wikipedia.org/wiki/ロスト・アヤ・ソフィア "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
+      - [PS2](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[ロスト・アヤ・ソフィア](https://ja.wikipedia.org/wiki/ロスト・アヤ・ソフィア "wikilink")』[オープニングテーマ](../Page/主題歌.md "wikilink")
 10. **JUMP\!** \[4:06\]
       -
         作詞：水樹奈々、作曲・編曲：飯田高広

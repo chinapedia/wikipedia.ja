@@ -510,7 +510,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
 
   - 第1回 - 2008年3月21日深夜
   - 第2回 - 2008年10月10日 [Special Night\!\!第](https://ja.wikipedia.org/wiki/#MUSIC_JAPAN_presents_Special_Night!! "wikilink")2部
-  - 第3回 - [2009年](../Page/2009年.md "wikilink")4月17日 深夜0:55〜1:53。出演：[ベック](../Page/ベック_\(歌手\).md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")、[サラ・ブライトマン](https://ja.wikipedia.org/wiki/サラ・ブライトマン "wikilink")、[リリー・アレン](../Page/リリー・アレン.md "wikilink")、[オアシス](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[U2](../Page/U2.md "wikilink")など。
+  - 第3回 - [2009年](../Page/2009年.md "wikilink")4月17日 深夜0:55〜1:53。出演：[ベック](../Page/ベック_\(歌手\).md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")、[サラ・ブライトマン](../Page/サラ・ブライトマン.md "wikilink")、[リリー・アレン](../Page/リリー・アレン.md "wikilink")、[オアシス](https://ja.wikipedia.org/wiki/オアシス_\(バンド\) "wikilink")、[U2](../Page/U2.md "wikilink")など。
   - 第4回 - 2009年8月28日 深夜1:10〜2:09。
 
 ### MUSIC JAPAN 新世紀アニソンSP

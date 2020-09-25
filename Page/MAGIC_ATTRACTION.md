@@ -42,7 +42,7 @@
       -
         作詞・作曲：[志倉千代丸](../Page/志倉千代丸.md "wikilink")、編曲：大平勉
     <!-- end list -->
-      - [PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[Memories Off Duet 〜1st & 2nd stories〜](../Page/Memories_Off_Duet.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")
+      - [PS2](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")『[Memories Off Duet 〜1st & 2nd stories〜](../Page/Memories_Off_Duet.md "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")
 10. **[LOVE & HISTORY](../Page/LOVE_&_HISTORY.md "wikilink")** \[4:33\]
       -
         作詞：村野直球、作曲：住吉中、編曲：[牧野信博](../Page/牧野信博.md "wikilink")

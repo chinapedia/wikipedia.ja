@@ -26,7 +26,7 @@
   - [成通岡山ビル](../Page/成通岡山ビル.md "wikilink")（[ビックカメラ](../Page/ビックカメラ.md "wikilink")岡山駅前店や[ダイワロイネットホテル](https://ja.wikipedia.org/wiki/ダイワロイネットホテル "wikilink")岡山駅前などが入居するビル）
   - [岡山一番街](../Page/岡山一番街.md "wikilink")
   - [岡山駅](https://ja.wikipedia.org/wiki/岡山駅 "wikilink")
-  - 岡山[髙島屋](https://ja.wikipedia.org/wiki/髙島屋 "wikilink")
+  - 岡山[髙島屋](../Page/髙島屋.md "wikilink")
   - 第一セントラルビル
   - 第二セントラルビル（[ドン・キホーテ岡山駅前店がメインのテナントとして入居するビル](../Page/ドン・キホーテ_\(企業\).md "wikilink")）
   - [三井住友信託銀行](https://ja.wikipedia.org/wiki/三井住友信託銀行 "wikilink")

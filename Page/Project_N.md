@@ -15,7 +15,7 @@
   - project N 08 [今澤正](https://ja.wikipedia.org/wiki/今澤正 "wikilink") (2001年 10月6日 - 12月24日)
   - project N 09 [田中栄子](https://ja.wikipedia.org/wiki/田中栄子 "wikilink") (2002年 2月8日 - 5月6日)
   - project N 10 [英裕](https://ja.wikipedia.org/wiki/英裕 "wikilink") (2002年 5月25日 - 8月15日)
-  - project N 11 [大塚泰子](https://ja.wikipedia.org/wiki/大塚泰子 "wikilink") (2002年 8月31日 - 11月17日)
+  - project N 11 [大塚泰子](../Page/大塚泰子.md "wikilink") (2002年 8月31日 - 11月17日)
   - project N 12 [小木曽瑞枝](https://ja.wikipedia.org/wiki/小木曽瑞枝 "wikilink") (2002年 12月7日 - 2003年 3月2日)
   - project N 13 [西澤千晴](https://ja.wikipedia.org/wiki/西澤千晴 "wikilink") (2003年 3月21日 - 6月8日)
   - project N 14 [井上実](https://ja.wikipedia.org/wiki/井上実 "wikilink") (2003年 8月5日 - 10月15日)

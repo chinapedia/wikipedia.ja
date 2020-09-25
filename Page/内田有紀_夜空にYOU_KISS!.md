@@ -1,7 +1,7 @@
 > この記事は[内田有紀 夜空にYOU KISS!](https://ja.wikipedia.org/wiki/内田有紀_夜空にYOU_KISS!)から翻訳されています。
 
 
-**内田有紀 夜空にYOU KISS\!**（うちだゆき よぞらにユーキッス）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作で[1994年](../Page/1994年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")～[2001年](../Page/2001年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[内田有紀](../Page/内田有紀.md "wikilink")。1994年4月－1995年6月の間は[日立製作所](../Page/日立製作所.md "wikilink")の提供で、「HITACHI CRESCENT TIME 内田有紀 夜空にYOU KISS\!」のタイトルだった（「HITACHI CRESCENT TIME」の冠がついていた番組としての前番組は「[工藤静香](../Page/工藤静香.md "wikilink") 素敵にFeel So Good」、後継番組は「[森高千里](../Page/森高千里.md "wikilink")STEP BY STEP」。[HITACHI FAN\! FUN\! TODAY\#「HITACHI CRESCENT TIME」のタイトル冠がついた放送を参照](https://ja.wikipedia.org/wiki/HITACHI_FAN!_FUN!_TODAY#「HITACHI_CRESCENT_TIME」のタイトル冠がついた放送 "wikilink")）。
+**内田有紀 夜空にYOU KISS\!**（うちだゆき よぞらにユーキッス）は、[ニッポン放送](../Page/ニッポン放送.md "wikilink")制作で[1994年](../Page/1994年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")～[2001年](../Page/2001年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")に放送された[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[パーソナリティは](../Page/ラジオパーソナリティ.md "wikilink")[内田有紀](../Page/内田有紀.md "wikilink")。1994年4月－1995年6月の間は[日立製作所](../Page/日立製作所.md "wikilink")の提供で、「HITACHI CRESCENT TIME 内田有紀 夜空にYOU KISS\!」のタイトルだった（「HITACHI CRESCENT TIME」の冠がついていた番組としての前番組は「[工藤静香](../Page/工藤静香.md "wikilink") 素敵にFeel So Good」、後継番組は「[森高千里](../Page/森高千里.md "wikilink")STEP BY STEP」。[HITACHI FAN\! FUN\! TODAY\#「HITACHI CRESCENT TIME」のタイトル冠がついた放送を参照](https://ja.wikipedia.org/wiki/HITACHI_FAN!_FUN!_TODAY#「HITACHI_CRESCENT_TIME」のタイトル冠がついた放送 "wikilink")）。
 
 ## 放送時間
 
@@ -21,6 +21,14 @@
   - 心理テスト
   - [嘘発見器](../Page/嘘発見器.md "wikilink")
   - ショートメール劇場（末期）
+
+## スタッフ
+
+  - プロデューサー：森谷和郎、松島宏
+  - ディレクター：三宅正希、[節丸雅矛](../Page/節丸雅矛.md "wikilink")、小山有紀子、[田所健太郎](../Page/田所健太郎.md "wikilink")
+  - 構成：大川きみこ、歌川知憲
+
+（\[1\]）
 
 ## エピソード
 
@@ -914,7 +922,7 @@
 
 <th>
 
-[四国放送](https://ja.wikipedia.org/wiki/四国放送 "wikilink")
+[四国放送](../Page/四国放送.md "wikilink")
 
 </th>
 
@@ -1332,6 +1340,8 @@
 
 </table>
 
+※当番組の最末期（2000年10月期）はネット局は無く、ニッポン放送のみでの放送だった。
+
 ## 書籍
 
   - 内田有紀夜空にYOU KISS\!（[1996年](../Page/1996年.md "wikilink")[1月25日](../Page/1月25日.md "wikilink")、[ニッポン放送出版](https://ja.wikipedia.org/wiki/ニッポン放送出版 "wikilink")） ISBN 4594019005
@@ -1341,4 +1351,8 @@
   - 番組末期の放送時間では、災害時の終夜放送の場合を除き、ニッポン放送の1週間の最後の放送番組であった（ただし、[クロージングと思わせて怪談のラジオドラマを放送した期間を除く](../Page/ムー_\(雑誌\).md "wikilink")。その時期の実質的な終了時刻は1:28であった）。
   - 内田有紀のファンである[小栗旬](../Page/小栗旬.md "wikilink")が自身のオールナイトニッポンR内で、内田有紀 夜空にYOU KISS\!を聞いていたことを話した。
 
+## 脚注
+
 [Category:1994年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のラジオ番組_\(日本\) "wikilink") [Category:ニッポン放送の番組の歴史](https://ja.wikipedia.org/wiki/Category:ニッポン放送の番組の歴史 "wikilink") [Category:ニッポン放送のバラエティ番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送のバラエティ番組 "wikilink") [Category:ニッポン放送の一社提供番組](https://ja.wikipedia.org/wiki/Category:ニッポン放送の一社提供番組 "wikilink") [Category:日立グループ単独提供番組](https://ja.wikipedia.org/wiki/Category:日立グループ単独提供番組 "wikilink")
+
+1.  番組本『内田有紀夜空にYOU KISS\!』p.20 より。

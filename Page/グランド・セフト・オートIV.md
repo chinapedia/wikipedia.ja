@@ -79,7 +79,7 @@
       - 緊急自動車の警光灯が損傷すると、サイレンに異常が生じ、音が乱れる。
   - その他
       - 車両は改造や、[SAで存在したトレーラーの牽引などはできない](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")。しかし同車種でも細かい仕様の違いがある。特定のミッションで登場するレアカラーのものも存在する。
-      - [列車](../Page/列車.md "wikilink")や[飛行機](../Page/飛行機.md "wikilink")を操作できなくなった。また、シリーズ恒例の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")（APCという[装甲車](../Page/装甲車.md "wikilink")は、本編には無いが[DLC](https://ja.wikipedia.org/wiki/DLC "wikilink")のEFLCにある）やSA・[VCSに登場した](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink")[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")は登場しない。
+      - [列車](../Page/列車.md "wikilink")や[飛行機](../Page/飛行機.md "wikilink")を操作できなくなった。また、シリーズ恒例の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")（APCという[装甲車](../Page/装甲車.md "wikilink")は、本編には無いが[DLCのEFLCにある](https://ja.wikipedia.org/wiki/ダウンロードコンテンツ "wikilink")）やSA・[VCSに登場した](../Page/グランド・セフト・オート・バイスシティ・ストーリーズ.md "wikilink")[自転車](https://ja.wikipedia.org/wiki/自転車 "wikilink")は登場しない。
       - [軍隊](../Page/軍隊.md "wikilink")は存在しない。そのため、戦闘ヘリ、装甲車はN.O.O.S.Eという[特殊部隊](../Page/特殊部隊.md "wikilink")（モデルは[SWAT](../Page/SWAT.md "wikilink")）の物になった。
 
 ### 一般人における特徴

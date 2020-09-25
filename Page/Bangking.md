@@ -5,7 +5,7 @@
 
 ## メンバー
 
-  - **岡本茂樹**（おかもとしげき、[12月9日](../Page/12月9日.md "wikilink") - 、[血液型O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")）
+  - **岡本茂樹**（おかもとしげき、[12月9日](../Page/12月9日.md "wikilink") - 、[血液型O型](../Page/ABO式血液型.md "wikilink")）
     ボーカル・ギター担当。[静岡県](../Page/静岡県.md "wikilink")出身、[帝京大学](../Page/帝京大学.md "wikilink")[理工学部](../Page/理工学部.md "wikilink")卒業。ほとんどの作品の作詞・作曲を手がけ、過去に発売されたCDジャケットのイラストも自らが描いている。第一学院高等学校立川キャンパスで校長も務めている。2009年[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")とのコラボレーション「[Wトラブル](https://ja.wikipedia.org/wiki/Wトラブル "wikilink")」でデビュー。　
   - **岩田健吾**（いわたけんご、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月9日](../Page/10月9日.md "wikilink") - 、血液型O型）
     ギター担当。[千葉県](../Page/千葉県.md "wikilink")出身。12歳のとき朝賀伸介の下でブルースギターを学ぶ。岡本との出会いは16歳のとき。高校を中退して大検を取得するため入学した予備校の担任講師が岡本であった。
@@ -23,7 +23,7 @@
   - 2005年　岩田、保坂が加入。バンド名を「[bang king](https://ja.wikipedia.org/wiki/bang_king "wikilink")」に改名
   - 2006年　ミニアルバム「dawn」を発売。各地でライブ活動を続ける。この年、初の試みとして[アコースティック](https://ja.wikipedia.org/wiki/アコースティック "wikilink")バージョンでのライブを行う。
   - 2007年　ラジオDJ[丸山周](https://ja.wikipedia.org/wiki/丸山周 "wikilink")とのコラボレーションCD「ロッケン牧場」を発売。また自主企画ライブ「N.O.T.S.」を[the NEW AGE](https://ja.wikipedia.org/wiki/the_NEW_AGE "wikilink")、[SpineLeather](https://ja.wikipedia.org/wiki/SpineLeather "wikilink")と共にスタート。
-  - 2008年　活動の幅を広げるために、岡本が[ソロ](https://ja.wikipedia.org/wiki/ソロ "wikilink")でライブイベントに出演。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」に岡本茂樹が出演。[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")のデュエットパートナーに選ばれる。
+  - 2008年　活動の幅を広げるために、岡本が[ソロ](../Page/ソロ.md "wikilink")でライブイベントに出演。[日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")「[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")」に岡本茂樹が出演。[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")のデュエットパートナーに選ばれる。
   - 2009年　2月25日岡本と[和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")のユニット「[Wトラブル](https://ja.wikipedia.org/wiki/Wトラブル "wikilink")」がCD『Brand New PARADISE』発売。バンドとしては、ミニアルバム「doughnut」を発売。
 
 ## 概要

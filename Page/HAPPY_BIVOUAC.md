@@ -11,7 +11,7 @@ the pillowsのアルバムは、表題曲はラスト又はラスト手前に位
 
 [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")の[山中さわお](../Page/山中さわお.md "wikilink")は、当時[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オルタナティヴ・ロック](../Page/オルタナティヴ・ロック.md "wikilink")バンドである[ピクシーズ](../Page/ピクシーズ.md "wikilink")をフェイバリットに挙げていた。「Back seat dog」はピクシーズの楽曲「Here Comes Your Man」の[オマージュ](../Page/オマージュ.md "wikilink")であり、楽曲を似せて作られている。楽曲の最後に山中が「Here Comes Your Man」と曲名を出して歌っていることによって故意で似せているということが見受けられる。また、「Kim deal」は同名の元ピクシーズの[ベーシスト](../Page/ベーシスト.md "wikilink")である[キム・ディール](https://ja.wikipedia.org/wiki/キム・ディール "wikilink")を想って作られている。ちなみに山中は、現在キム・ディールの活動しているバンドである[ブリーダーズ](../Page/ブリーダーズ.md "wikilink")の来日時にこのアルバムを彼女に贈っている。
 
-「Crazy Sunshine」、「[Funny Bunny](https://ja.wikipedia.org/wiki/Funny_Bunny "wikilink")」の2曲については前々作・LITTLE BUSTERSの制作段階ですでに曲は出来ており、プロデューサー吉田仁から歌詞をつけて完成させるように指示を出されていたが、山中が「間に合わせで歌詞を埋めるような作業は出来ない」と固辞したために見送られ、代わってパンチのある曲としてHello,Welcome to Bubbletown's Happy Zoo(Instant show)、LITTLE BUSTERSの2曲が制作されたという経緯がある。
+「Crazy Sunshine」、「[Funny Bunny](../Page/Funny_Bunny.md "wikilink")」の2曲については前々作・LITTLE BUSTERSの制作段階ですでに曲は出来ており、プロデューサー吉田仁から歌詞をつけて完成させるように指示を出されていたが、山中が「間に合わせで歌詞を埋めるような作業は出来ない」と固辞したために見送られ、代わってパンチのある曲としてHello,Welcome to Bubbletown's Happy Zoo(Instant show)、LITTLE BUSTERSの2曲が制作されたという経緯がある。
 
 ## 収録曲
 
@@ -33,7 +33,7 @@ the pillowsのアルバムは、表題曲はラスト又はラスト手前に位
 7.  **Back seat dog**
       - [noodles](https://ja.wikipedia.org/wiki/noodles "wikilink")のYOKOがコーラスで参加している。
 8.  **Kim deal**
-9.  **[Funny Bunny](https://ja.wikipedia.org/wiki/Funny_Bunny "wikilink")**
+9.  **[Funny Bunny](../Page/Funny_Bunny.md "wikilink")**
       - アニメ『[フリクリ](../Page/フリクリ.md "wikilink")』や『[SKET DANCE](https://ja.wikipedia.org/wiki/SKET_DANCE "wikilink")』で使用された。
 10. **Beautiful morning with you**
 11. **Advice**

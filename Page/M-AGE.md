@@ -11,13 +11,13 @@
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、MIYO-KENが上京し、バンド活動が本格化。四谷[FOURVALLEY](https://ja.wikipedia.org/wiki/FOURVALLEY "wikilink")などでライブ活動を続け、翌[1991年](../Page/1991年.md "wikilink")[2月25日](../Page/2月25日.md "wikilink")にミニアルバム『KISS』を発売する。しかし、宣伝の規模に反してアルバムがほとんど売れなかったことに加え、アルバムそのものの出来、また化粧を施した耽美なアーティストイメージなどに疑問を感じ、話し合いの末バンドは方向転換を決意。当時メンバーが好んで聴いていたこと、また[ジーザス・ジョーンズ](../Page/ジーザス・ジョーンズ.md "wikilink")が流行っていたこともあり、バンドサウンドとマンチェスター・サウンドの融合を試すこととなる。一方、同じ時期に雑誌のインタビューでメンバーがジーザス・ジョーンズに言及していたことに目を留めた[ビクター](https://ja.wikipedia.org/wiki/ビクター "wikilink")のディレクター・田中淳一が所属事務所を通してM-AGEにコンタクトを取り、バンドサウンドにハウスを導入することを提案する。田中の提案がバンドの新しい方向性と合致していたこともあり、ミーティングを重ねるうちに両者は意気投合。バンドが新しい方向性を形にするべくデモテープを作成すると、音源を聴いた田中はコンピレーションアルバム『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』への参加を打診する。バンドは早速『[DANCE 2 NOISE](https://ja.wikipedia.org/wiki/DANCE_2_NOISE "wikilink")』用に『CALL ME』のレコーディングを開始。その際にスクラッチを盛り込むことを思い付き、事務所社長の伝手で新宿「ミロス・ガレージ」でDJをしていた**DJ PEAH**にゲストプレイヤーとして参加を依頼する。このレコーディングで好感触を得たバンドは、レコーディング終了後DJ PEAHにバンドへの参加を正式に要請。スクラッチプレイヤーとしての活動を模索していたDJ PEAHもこれを快諾し、こうしてM-AGEの全メンバーが揃うこととなる。
 
-バンドとして新たなスタートを切ったM-AGEは、そのまま1stアルバムのレコーディングを開始。レコーディング終了後の[12月16日](../Page/12月16日.md "wikilink")に西麻布Space Lab YELLOWで行われた「DANCE 2 NOISE 001」発売記念のライブイベントに初めて五人で出演し、ライブを披露する。翌[1992年](../Page/1992年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、1stシングル『[WALK ON THE MOON](https://ja.wikipedia.org/wiki/WALK_ON_THE_MOON "wikilink")』、1stマキシシングル『[3 RE-MIX + 1](https://ja.wikipedia.org/wiki/3_RE-MIX_+_1 "wikilink")』で[ビクターインビテーションよりメジャーデビュー](../Page/Invitation_\(レーベル\).md "wikilink")。同年[2月21日](../Page/2月21日.md "wikilink")には1stフルアルバム『[MUSTARD](https://ja.wikipedia.org/wiki/MUSTARD "wikilink")』をリリースし、「V-CUBE」と題した全国7箇所を廻るプロモーションツアーを実施する。同年[4月6日](../Page/4月6日.md "wikilink")、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")にて初のワンマンライブを実施。同年7月には全国4箇所を廻る「AFTER MEAT MUSTARD 」ツアーを実施する。ツアー中の同年[7月22日](../Page/7月22日.md "wikilink")にシングル『[someday close your eyes](https://ja.wikipedia.org/wiki/someday_close_your_eyes "wikilink")』、マキシシングル『[someday ep](https://ja.wikipedia.org/wiki/someday_ep "wikilink")』を発表。そして、「AFTER MEAT MUSTARD 」ツアー終了後にロンドンへと渡りレコーディングを実施すると、丁度この頃に発足したばかりであったビクターインビテーションの姉妹レーベル、XEO Invitationへ移籍（発足時期に同じく在籍・移籍したアーティストに[BRAIN DRIVE](../Page/BRAIN_DRIVE.md "wikilink")、[SOFT BALLETがいる](../Page/SOFT_BALLET.md "wikilink")）、同年[11月21日](../Page/11月21日.md "wikilink")に2ndアルバム『[vibES](https://ja.wikipedia.org/wiki/vibES "wikilink")』を発表する。
+バンドとして新たなスタートを切ったM-AGEは、そのまま1stアルバムのレコーディングを開始。レコーディング終了後の[12月16日](../Page/12月16日.md "wikilink")に西麻布Space Lab YELLOWで行われた『DANCE 2 NOISE 001』発売記念のライブイベントに初めて五人で出演し、ライブを披露する。翌[1992年](../Page/1992年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、1stシングル『[WALK ON THE MOON](https://ja.wikipedia.org/wiki/WALK_ON_THE_MOON "wikilink")』、1stマキシシングル『[3 RE-MIX + 1](https://ja.wikipedia.org/wiki/3_RE-MIX_+_1 "wikilink")』で[ビクターインビテーションよりメジャーデビュー](../Page/Invitation_\(レーベル\).md "wikilink")。同年[2月21日](../Page/2月21日.md "wikilink")には1stフルアルバム『[MUSTARD](https://ja.wikipedia.org/wiki/MUSTARD "wikilink")』をリリースし、「V-CUBE」と題した全国7箇所を廻るプロモーションツアーを実施する。同年[4月6日](../Page/4月6日.md "wikilink")、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")にて初のワンマンライブを実施。同年7月には全国4箇所を廻る「AFTER MEAT MUSTARD 」ツアーを実施する。ツアー中の同年[7月22日](../Page/7月22日.md "wikilink")にシングル『[someday close your eyes](https://ja.wikipedia.org/wiki/someday_close_your_eyes "wikilink")』、マキシシングル『[someday ep](https://ja.wikipedia.org/wiki/someday_ep "wikilink")』を発表。そして、「AFTER MEAT MUSTARD」ツアー終了後にロンドンへと渡りレコーディングを実施すると、丁度この頃に発足したばかりであったビクターインビテーションの姉妹レーベル、XEO Invitationへ移籍（発足時期に同じく在籍・移籍したアーティストに[BRAIN DRIVE](../Page/BRAIN_DRIVE.md "wikilink")、[SOFT BALLETがいる](../Page/SOFT_BALLET.md "wikilink")）、同年[11月21日](../Page/11月21日.md "wikilink")に2ndアルバム『[vibES](https://ja.wikipedia.org/wiki/vibES "wikilink")』を発表する。
 
 リリース後の翌[1993年](../Page/1993年.md "wikilink")1月に「CHAIN ME RUN」Tourを実施するなどバンドの活動は順調に見えたが、[1993年](../Page/1993年.md "wikilink")5月、当時[ジュリアナ東京](../Page/ジュリアナ東京.md "wikilink")のDJだった[ジョン・ロビンソンによるリミックス](https://ja.wikipedia.org/wiki/ジョン・ロビンソン_\(DJ\) "wikilink")3曲収録を収録した『[NEXUS 7](https://ja.wikipedia.org/wiki/NEXUS_7 "wikilink")』の発表後、ベースのKAJIWARAが脱退。バンドはそのまま四人体制で活動を続け、同年[12月16日](../Page/12月16日.md "wikilink")3rdアルバム『[INTERFACE](https://ja.wikipedia.org/wiki/INTERFACE "wikilink")』を発表するも翌[1994年](../Page/1994年.md "wikilink")に解散となる。
 
 解散後はメンバーがそれぞれソロ活動に場を移した他、元メンバーのMIYO-KENが所属するユニット、u crack irigaruにサポートとして同じく元メンバーのOKAZAKIとDJ PEAHがサポートで参加したりと、一部メンバーが揃って共演したりもしていた。
 
-[2020年](../Page/2020年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、長年の沈黙を破り、オフィシャルサイトと公式[Twitter](../Page/Twitter.md "wikilink")アカウントが開設される。サイト内には『M-AGE 20210121』とだけ記載されており、開設時点では詳細は不明となっている。
+[2020年](../Page/2020年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、長年の沈黙を破り、オフィシャルサイトと公式[Twitter](../Page/Twitter.md "wikilink")アカウントが開設される。サイト内には『M-AGE 20210121』とだけ記載されており、開設時点では詳細は不明となっていたが、9月18日に解散時オリジナルメンバーによる2021年の再結成が発表された\[1\]。
 
 ## メンバー
 
@@ -35,7 +35,7 @@
 ### 脱退したメンバー
 
   - **KAJIWARA**（かじわら）
-    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。本名・梶原祐司(かじわら ゆうじ)。[1968年](../Page/1968年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。中学生の頃に音楽に興味を持ち始め、高校一年生の時に[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・スクワイアの[ストラトキャスターを購入する](../Page/フェンダー・ストラトキャスター.md "wikilink")。高校三年生の時に地元の先輩に誘われ、バンド「リッツ」を結成。ベースを担当するよう言われ、メンバーの一人だったMIYO-KENに自身のギターを渡し、自分はMIYO-KENのベースを使うことになる。[1989年](../Page/1989年.md "wikilink")、M-AGEに加入。[1993年](../Page/1993年.md "wikilink")に脱退し、元[Cutemen](https://ja.wikipedia.org/wiki/Cutemen "wikilink")の[CMJK](https://ja.wikipedia.org/wiki/CMJK "wikilink")とともに[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[CONFUSION](https://ja.wikipedia.org/wiki/CONFUSION "wikilink")を結成する。2枚のフルアルバムを発表するも「[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")になる」と言い残し、CONFUSIONを脱退。そのまま音楽業界から引退している。
+    [ベース担当](../Page/ベース_\(弦楽器\).md "wikilink")。本名・梶原祐司(かじわら ゆうじ)。[1968年](../Page/1968年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")生まれ。[茨城県](../Page/茨城県.md "wikilink")[日立市](../Page/日立市.md "wikilink")出身。中学生の頃に音楽に興味を持ち始め、高校一年生の時に[フェンダー](../Page/フェンダー_\(楽器メーカー\).md "wikilink")・スクワイアの[ストラトキャスターを購入する](../Page/フェンダー・ストラトキャスター.md "wikilink")。高校三年生の時に地元の先輩に誘われ、バンド「リッツ」を結成。ベースを担当するよう言われ、メンバーの一人だったMIYO-KENに自身のギターを渡し、自分はMIYO-KENのベースを使うことになる。[1989年](../Page/1989年.md "wikilink")、M-AGEに加入。[1993年](../Page/1993年.md "wikilink")に脱退し、元[Cutemen](https://ja.wikipedia.org/wiki/Cutemen "wikilink")の[CMJK](../Page/CMJK.md "wikilink")とともに[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")・[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/ユニット.md "wikilink")[CONFUSION](https://ja.wikipedia.org/wiki/CONFUSION "wikilink")を結成する。2枚のフルアルバムを発表するも「[グラフィックデザイナー](../Page/グラフィックデザイナー.md "wikilink")になる」と言い残し、CONFUSIONを脱退。そのまま音楽業界から引退している。
 
 ## ディスコグラフィー
 
@@ -562,6 +562,8 @@ RSN LP29</p></td>
 </tbody>
 </table>
 
+## 脚注
+
 ## 関連項目
 
   - [櫻井敦司](../Page/櫻井敦司.md "wikilink")
@@ -582,6 +584,7 @@ RSN LP29</p></td>
   - [M-AGE オフィシャルサイト](http://m-age.tokyo/)
 
   -
+  -
   -   -
       -
       -
@@ -596,3 +599,5 @@ RSN LP29</p></td>
   -
   -
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヴィジュアル系](https://ja.wikipedia.org/wiki/Category:ヴィジュアル系 "wikilink")
+
+1.

@@ -177,9 +177,14 @@
 <td><p>森岡浩之→YOUCHAN</p></td>
 </tr>
 <tr class="odd">
-<td><p>18</p></td>
+<td><p>19</p></td>
 <td><p><a href="../Page/林譲治_(作家).md" title="wikilink">林譲治</a>(2018/09～)</p></td>
 <td><p>鬼嶋清美</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/池澤春菜" title="wikilink">池澤春菜</a>(2020/09～)</p></td>
+<td><p><a href="../Page/榎木洋子.md" title="wikilink">榎木洋子</a></p></td>
 </tr>
 </tbody>
 </table></td>
@@ -228,13 +233,13 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 
 <!-- end list -->
 
-  - [柾悟郎](../Page/柾悟郎.md "wikilink")、[古川日出男](../Page/古川日出男.md "wikilink")、[森見登美彦](../Page/森見登美彦.md "wikilink")、[円城塔](../Page/円城塔.md "wikilink")
+  - [柾悟郎](../Page/柾悟郎.md "wikilink")、[古川日出男](../Page/古川日出男.md "wikilink")、[森見登美彦](../Page/森見登美彦.md "wikilink")、[円城塔](../Page/円城塔.md "wikilink")、[酉島伝法](https://ja.wikipedia.org/wiki/酉島伝法 "wikilink")
     [日本SF大賞](../Page/日本SF大賞.md "wikilink")受賞者だが、入会していない。なお、柾の妻である[松尾由美](../Page/松尾由美.md "wikilink")も会員ではない。
 
 <!-- end list -->
 
   - [大森望](../Page/大森望.md "wikilink")
-    2014年4月に日本SF大賞特別賞を受賞、その結果無推薦入会動議がクラブ総会にかけられたが、1/3以上の反対票により入会が認められなかった。これによりクラブ選考による賞は与えられたが入会を拒否されたという立場となった。大森は1992年にも同様に入会が却下されており、これらの経緯はすべて[小谷真理](../Page/小谷真理.md "wikilink")および[巽孝之](../Page/巽孝之.md "wikilink")との確執が原因とされた\[50\]\[51\]。さらに、このような事が起こる一方で声優の[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")を「ファン代表」のような形で入会させているのはおかしいという主張をするものもいた\[52\]（なお実際には、池澤は2009年以降[本の雑誌](https://ja.wikipedia.org/wiki/本の雑誌 "wikilink")や[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")に書評エッセイ連載を持つ文筆家であり、会則通りの通常の手続きを経て入会している。また、入会翌年の2014年には単独著書として書評集を出版している）。これらの過程で「排他的体質」([東浩紀](../Page/東浩紀.md "wikilink"))、「サークルの雰囲気優先」([我孫子武丸](../Page/我孫子武丸.md "wikilink"))などと批判が続出し\[53\]、[牧野修](../Page/牧野修.md "wikilink")・[菅浩江](../Page/菅浩江.md "wikilink")・[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")・[福田和代](https://ja.wikipedia.org/wiki/福田和代 "wikilink")・[小川一水](../Page/小川一水.md "wikilink")・[我孫子武丸](../Page/我孫子武丸.md "wikilink")・[倉阪鬼一郎](../Page/倉阪鬼一郎.md "wikilink")・[森下一仁](../Page/森下一仁.md "wikilink")らが一斉退会するという事態に発展した\[54\]。（退会者のうち、牧野修は、2016年に『月世界小説』で第35回[日本SF大賞](../Page/日本SF大賞.md "wikilink")・特別賞受賞。小川一水は2020年に『天冥の標』シリーズで第40回日本SF大賞を受賞。）さらに、この事件の前後に、[山田正紀](../Page/山田正紀.md "wikilink")、[堀晃](../Page/堀晃.md "wikilink")、[東浩紀](../Page/東浩紀.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[横田順彌](../Page/横田順彌.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[上田早夕里](../Page/上田早夕里.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")らも退会していた（このうち山田・神林は元会長）。
+    2014年4月に日本SF大賞特別賞を受賞、その結果無推薦入会動議がクラブ総会にかけられたが、1/3以上の反対票により入会が認められなかった。これによりクラブ選考による賞は与えられたが入会を拒否されたという立場となった。大森は1992年にも同様に入会が却下されており、これらの経緯はすべて[小谷真理](../Page/小谷真理.md "wikilink")および[巽孝之](../Page/巽孝之.md "wikilink")との確執が原因とされた\[50\]\[51\]。さらに、このような事が起こる一方で声優の[池澤春菜](https://ja.wikipedia.org/wiki/池澤春菜 "wikilink")を「ファン代表」のような形で入会させているのはおかしいという主張をするものもいた\[52\]（なお実際には、池澤は2009年以降[本の雑誌](https://ja.wikipedia.org/wiki/本の雑誌 "wikilink")や[SFマガジン](https://ja.wikipedia.org/wiki/SFマガジン "wikilink")に書評エッセイ連載を持つ文筆家であり、会則通りの通常の手続きを経て入会している。また、入会翌年の2014年には単独著書として書評集を出版。2020年9月より会長に就任した）。これらの過程で「排他的体質」([東浩紀](../Page/東浩紀.md "wikilink"))、「サークルの雰囲気優先」([我孫子武丸](../Page/我孫子武丸.md "wikilink"))などと批判が続出し\[53\]、[牧野修](../Page/牧野修.md "wikilink")・[菅浩江](../Page/菅浩江.md "wikilink")・[図子慧](https://ja.wikipedia.org/wiki/図子慧 "wikilink")・[福田和代](https://ja.wikipedia.org/wiki/福田和代 "wikilink")・[小川一水](../Page/小川一水.md "wikilink")・[我孫子武丸](../Page/我孫子武丸.md "wikilink")・[倉阪鬼一郎](../Page/倉阪鬼一郎.md "wikilink")・[森下一仁](../Page/森下一仁.md "wikilink")らが一斉退会するという事態に発展した\[54\]。（退会者のうち、牧野修は、2016年に『月世界小説』で第35回[日本SF大賞](../Page/日本SF大賞.md "wikilink")・特別賞受賞。小川一水は2020年に『天冥の標』シリーズで第40回日本SF大賞を受賞。）さらに、この事件の前後に、[山田正紀](../Page/山田正紀.md "wikilink")、[堀晃](../Page/堀晃.md "wikilink")、[東浩紀](../Page/東浩紀.md "wikilink")、[笠井潔](../Page/笠井潔.md "wikilink")、[横田順彌](../Page/横田順彌.md "wikilink")、[神林長平](../Page/神林長平.md "wikilink")、[上田早夕里](../Page/上田早夕里.md "wikilink")、[田中啓文](../Page/田中啓文.md "wikilink")らも退会していた（このうち山田・神林は元会長）。
     大森は、2020年、第40回日本SF大賞において、[日下三蔵](../Page/日下三蔵.md "wikilink")と共編の『年刊日本SF傑作選』により、再度、特別賞を受賞。
 
 ## 「日本SF作家クラブ」名義の書籍

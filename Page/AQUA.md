@@ -43,14 +43,15 @@
   - [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink") - 『[ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!_サンシャイン!! "wikilink")』に登場するアイドルグループ、およびそれを演じる声優による[声優ユニット](../Page/声優ユニット.md "wikilink")。
   - [アクア・ジム](https://ja.wikipedia.org/wiki/ジムシリーズのバリエーション#アクア・ジム "wikilink") - [モビルスーツGMの水中用バリエーション機](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")。
   - キュアアクア - アニメ『[Yes\!プリキュア5](../Page/Yes!プリキュア5.md "wikilink")』に登場するキャラクター。詳しくは[Yes\!プリキュア5\#キュアアクア](https://ja.wikipedia.org/wiki/Yes!プリキュア5#キュアアクア "wikilink")を参照。
+  - [湊あくあ](../Page/湊あくあ.md "wikilink") - [ホロライブプロダクション](https://ja.wikipedia.org/wiki/ホロライブプロダクション "wikilink")所属の[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")。
 
 ## 放送関係
 
   - [めざましテレビ アクア](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") - 2014年3月31日から2018年3月30日まで放送された[フジテレビの早朝の報道](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・情報番組。
-  - 　スポーツ選手
-  - 　[天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。
+  - スポーツ選手
+  - [天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。
 
 ## 関連項目
 
-  - [アクアで始まる項目名の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/アクア "wikilink")
+  -
   - [閼伽](https://ja.wikipedia.org/wiki/閼伽 "wikilink")（あか）

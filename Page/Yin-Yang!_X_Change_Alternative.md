@@ -7,7 +7,7 @@
 
 本作は、[性転換](../Page/性転換.md "wikilink")（[TSF](../Page/TSF.md "wikilink")）を題材にした「Xchange」シリーズの第4作であり、『[Xchange3](../Page/Xchange3.md "wikilink")』までの相原拓也（相原たくや）を主人公としたシリーズとは世界観が別の物語となっている。
 
-[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には、廉価版として『**Yin-Yang\! X Change Alternative 復刻版**』、ならびに『Xchange3 復刻版』とセットになった『**XチェンBOX2**』が発売された。また、[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")には、[Android](../Page/Android.md "wikilink")版も発売された。
+[2005年](../Page/2005年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")には、廉価版として『**Yin-Yang\! X Change Alternative 復刻版**』、ならびに『Xchange3 復刻版』とセットになった『**XチェンBOX2**』が発売された。また、[2012年](../Page/2012年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")には、[Android版も発売された](../Page/Android_\(オペレーティングシステム\).md "wikilink")。
 
 なお、「Xchange」の表記について、『Xchange』から『Xchange3』までのシリーズはcが小文字でXとつなげて書かれているが、本作ではメーカーWebページやパッケージにおいてCが大文字でXとの間にスペースが入っている。
 

@@ -141,7 +141,7 @@
 [マツダ](../Page/マツダ.md "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
 [フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
 
-  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。
+  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしているため](../Page/ドリフト走行.md "wikilink")、車好きのファンが多い。
   - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。「[BREAK IN2 THE NITE](../Page/BREAK_IN2_THE_NITE.md "wikilink")」、「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」、「The Double Ace」など、作中の背景を踏まえた楽曲も制作されている。アニメの関連楽曲としてRemixも多く制作されている。
   - 1st Stageでは、主題歌以外にも1stアルバム「[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")」収録曲のほとんどが劇中で挿入歌として使用されている。
   - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")。

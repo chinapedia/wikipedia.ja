@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td><p>1961年（第16回）</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>ニッポンビール</p></td>
 <td></td>
@@ -486,7 +486,7 @@
 </tr>
 <tr class="odd">
 <td><p>2008年（第63回）</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a></strong></p></td>
 <td><p><strong>5</strong>-3</p></td>
 <td><p>JR東日本</p></td>
 <td></td>
@@ -507,7 +507,7 @@
 </tr>
 <tr class="even">
 <td><p>2011年（第66回）</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">JX-ENEOS</a><br />
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">JX-ENEOS</a><br />
 <a href="../Page/NTT西日本硬式野球部.md" title="wikilink">NTT西日本</a></strong>[1]</p></td>
 <td><p>-</p></td>
 <td></td>
@@ -594,7 +594,7 @@
 
   - [3大大会 (社会人野球)](../Page/3大大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:後楽園球場で行われた野球試合](https://ja.wikipedia.org/wiki/Category:後楽園球場で行われた野球試合 "wikilink") [Category:スポーツニッポン](https://ja.wikipedia.org/wiki/Category:スポーツニッポン "wikilink") [Category:1946年開始のイベント](https://ja.wikipedia.org/wiki/Category:1946年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:関東地方の社会人野球](https://ja.wikipedia.org/wiki/Category:関東地方の社会人野球 "wikilink") [Category:後楽園球場で行われた野球試合](https://ja.wikipedia.org/wiki/Category:後楽園球場で行われた野球試合 "wikilink") [Category:スポーツニッポン](https://ja.wikipedia.org/wiki/Category:スポーツニッポン "wikilink") [Category:1946年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1946年開始のスポーツイベント "wikilink")
 
 1.  [3月11日](../Page/3月11日.md "wikilink")の決勝戦1回途中に[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")が発生しノーゲームとなり、[3月18日](../Page/3月18日.md "wikilink")に再試合を行なう予定であったが、地震に伴う[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")を考慮し中止となり両チームが優勝となった。
 2.  [社会人野球　JABA東京スポニチ大会中止　新型コロナウイルス感染拡大の影響](https://www.sponichi.co.jp/baseball/news/2020/03/02/kiji/20200302s00001003207000c.html)

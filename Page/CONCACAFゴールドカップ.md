@@ -1,7 +1,11 @@
 > この記事は[CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/CONCACAFゴールドカップ)から翻訳されています。
 
 
-**CONCACAFゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。北中米およびカリブ海諸島の国・地域によって争われる大会であるが、CONCACAF以外の大陸連盟の加盟国が招待されることもある。基本的には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")での開催となるが、[メキシコ](../Page/メキシコ.md "wikilink")との共同開催となる場合もある。
+**CONCACAFゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。
+
+## 概要
+
+北中米およびカリブ海諸島の国・地域によって争われる大会であるが、CONCACAF以外の大陸連盟の加盟国が招待されることもある。基本的には[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")での開催となるが、[メキシコ](../Page/メキシコ.md "wikilink")との共同開催となる場合もある。
 
 [FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が、コンフェデレーションズカップの直近の当大会で優勝した国に与えられていた。ただし[FIFAコンフェデレーションズカップ2017](https://ja.wikipedia.org/wiki/FIFAコンフェデレーションズカップ2017 "wikilink")の出場権については、直近2大会の当大会で優勝した2か国によるプレーオフで争われた（2大会とも同一の国が優勝した場合はプレーオフは行わない）\[1\]。
 
@@ -342,7 +346,7 @@
 
   - 注
 
-## 統計・記録
+## 統計
 
 ### 優勝回数
 
@@ -395,15 +399,19 @@
 
   - *斜数字*はCONCACAF選手権時代の開催年
 
+## 脚注
+
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
 ## 関連項目
 
   - [CONCACAF女子ゴールドカップ](../Page/CONCACAF女子ゴールドカップ.md "wikilink")
   - [カリビアンカップ](https://ja.wikipedia.org/wiki/カリビアンカップ "wikilink")
   - [コパ・セントロアメリカーナ](../Page/コパ・セントロアメリカーナ.md "wikilink")
-
-## 脚注
-
-## 出典
 
 ## 外部リンク
 

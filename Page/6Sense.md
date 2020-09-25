@@ -69,4 +69,4 @@
       -
         ホームページでは番組を音声のみオンデマンドで聴くことが出来る。
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:2004年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2004年のラジオ番組_\(日本\) "wikilink")

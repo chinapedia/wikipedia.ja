@@ -88,5 +88,6 @@
 | 第67回                                                  | 2017年     | [北原千代](https://ja.wikipedia.org/wiki/北原千代 "wikilink")          | 真珠川 Barroco    |
 | 第68回                                                  | 2018年     | [十田撓子](https://ja.wikipedia.org/wiki/十田撓子 "wikilink")          | 銘度利加           |
 | 第69回                                                  | 2019年     | [水下暢也](https://ja.wikipedia.org/wiki/水下暢也 "wikilink")          | 忘失について         |
+| 第70回                                                  | 2020年     | [高塚謙太郎](https://ja.wikipedia.org/wiki/高塚謙太郎 "wikilink")        | 量              |
 
 [Category:日本の詩歌の賞](https://ja.wikipedia.org/wiki/Category:日本の詩歌の賞 "wikilink") [Category:人名を冠した文学賞](https://ja.wikipedia.org/wiki/Category:人名を冠した文学賞 "wikilink")

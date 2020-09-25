@@ -86,7 +86,7 @@
 </tr>
 <tr class="odd">
 <td><p>1955年（第9回）</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p><strong>1</strong>-0</p></td>
 <td><p>東洋紡富田</p></td>
 <td><p>川崎球場開催</p></td>
@@ -452,7 +452,7 @@
 <td><p>2007年（第61回）</p></td>
 <td><p><strong><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">かずさマジック</a></strong></p></td>
 <td><p><strong>6</strong>-2</p></td>
-<td><p><a href="../Page/JX-ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a></p></td>
+<td><p><a href="../Page/ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -555,7 +555,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東海地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球 "wikilink") [Category:岐阜市のスポーツ](https://ja.wikipedia.org/wiki/Category:岐阜市のスポーツ "wikilink") [Category:大垣市の文化](https://ja.wikipedia.org/wiki/Category:大垣市の文化 "wikilink") [Category:1947年開始のイベント](https://ja.wikipedia.org/wiki/Category:1947年開始のイベント "wikilink") [Category:ベーブ・ルース](https://ja.wikipedia.org/wiki/Category:ベーブ・ルース "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:東海地方の社会人野球](https://ja.wikipedia.org/wiki/Category:東海地方の社会人野球 "wikilink") [Category:岐阜市のスポーツ](https://ja.wikipedia.org/wiki/Category:岐阜市のスポーツ "wikilink") [Category:大垣市の文化](https://ja.wikipedia.org/wiki/Category:大垣市の文化 "wikilink") [Category:1947年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1947年開始のスポーツイベント "wikilink") [Category:ベーブ・ルース](https://ja.wikipedia.org/wiki/Category:ベーブ・ルース "wikilink")
 
 1.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
 2.  代替行事として、中日ドラゴンズファームを含めた4チームによるチャリティ大会が開催され、[西濃運輸が優勝](../Page/西濃運輸硬式野球部.md "wikilink")。

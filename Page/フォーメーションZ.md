@@ -232,8 +232,7 @@
 
   - [フォーメーションZ for FC（プロジェクトEGG）](http://www.amusement-center.com/project/egg/cgi/ecatalog-detail.cgi?product_id=862)
 
-  - （英語）
-
+  -
   - メーカーサイト
 
       - [株式会社ジャレコ](https://web.archive.org/web/20050203050001/http://www.jaleco.co.jp/)

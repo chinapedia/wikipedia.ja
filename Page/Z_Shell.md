@@ -1,7 +1,7 @@
 > この記事は[Z Shell](https://ja.wikipedia.org/wiki/Z_Shell)から翻訳されています。
 
 
-**Z shell**（ズィーシェル、**zsh**）は[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")の[コマンドシェルの](../Page/シェル.md "wikilink")1つである。 対話的な[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")[コマンドシェルとしても](../Page/シェル.md "wikilink")、強力な[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[インタープリタ](https://ja.wikipedia.org/wiki/インタープリタ "wikilink")ーとしても使うことができる。
+**Z shell**（ズィーシェル、**zsh**）は、[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")の[コマンドシェルの](../Page/シェル.md "wikilink")1つである。対話的な[ログイン](https://ja.wikipedia.org/wiki/ログイン "wikilink")[コマンドシェルとしても](../Page/シェル.md "wikilink")、強力な[シェルスクリプト](../Page/シェルスクリプト.md "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[インタープリタ](https://ja.wikipedia.org/wiki/インタープリタ "wikilink")ーとしても使うことができる。
 
 zsh は数多くの改良を含んだ[Bourne Shellの拡張版という見方もできる](../Page/Bourne_Shell.md "wikilink")。のみならず、[bash](https://ja.wikipedia.org/wiki/bash "wikilink")や[ksh](../Page/KornShell.md "wikilink")、[tcsh](https://ja.wikipedia.org/wiki/tcsh "wikilink")の非常に有用な機能も一部取り込まれている。[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")ではmacOS 10.15 Catalinaから[デフォルト](https://ja.wikipedia.org/wiki/デフォルト "wikilink")のシェルとして設定されている\[1\]。また、Windows上でネイティブUnix環境を提供する [Interix](https://ja.wikipedia.org/wiki/Interix "wikilink") サブシステム上では[Unix](https://ja.wikipedia.org/wiki/Unix "wikilink")版のソースコードをビルドして[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")上で使用することができる。
 
@@ -15,14 +15,14 @@ zsh の特徴として次のようなことが挙げられる。
 
   - [プログラム可能な](../Page/プログラム_\(コンピュータ\).md "wikilink")[補完機能によって](https://ja.wikipedia.org/wiki/自動補完 "wikilink")、多くの[ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")[コマンドの](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")[オプション](https://ja.wikipedia.org/wiki/オプション "wikilink")や[引数](../Page/引数.md "wikilink")を打つのを支援する（[インストール](../Page/インストール.md "wikilink")の時点で数百のコマンドをサポートしている）。
   - [ユーザー](https://ja.wikipedia.org/wiki/ユーザー "wikilink")の起動している全ての zsh でコマンド履歴を共有することができる。
-  - 拡張[ファイル名生成](../Page/ファイル_\(コンピュータ\).md "wikilink")（[ワイルドカード展開](../Page/ワイルドカード_\(情報処理\).md "wikilink")）によって [`find`](https://ja.wikipedia.org/wiki/find "wikilink") のような外部コマンドを呼び出さないで、ファイル名を展開する。
+  - 拡張[ファイル名生成](../Page/ファイル_\(コンピュータ\).md "wikilink")（[ワイルドカード展開](../Page/ワイルドカード_\(情報処理\).md "wikilink")）によって [`find`](https://ja.wikipedia.org/wiki/find_\(UNIX\) "wikilink") のような外部コマンドを呼び出さないで、ファイル名を展開する。
   - [変数や](../Page/変数_\(プログラミング\).md "wikilink")[配列](../Page/配列.md "wikilink")の処理が改善されている。
   - 複数行コマンドを[バッファ](../Page/バッファ.md "wikilink")ーで編集できる。
   - [綴り字修正機能](../Page/スペルチェッカ.md "wikilink")
   - 様々な[互換モード](https://ja.wikipedia.org/wiki/互換モード "wikilink")がある。例えば、zshを`/bin/sh`として実行したとき、[Bourne Shellの](../Page/Bourne_Shell.md "wikilink")[振りをするようにできる](https://ja.wikipedia.org/wiki/エミュレート "wikilink")。
   - [プロンプトテーマ](../Page/コマンドプロンプト.md "wikilink")
-  - [端末](../Page/端末.md "wikilink")の右端に情報を表示し長いコマンドを打っているときは自動的に隠れる右プロンプトを表示できる。
-  - 殆ど全部の[カスタマイズが可能](../Page/カスタム.md "wikilink")。
+  - 端末の右端に情報を表示し長いコマンドを打っているときは自動的に隠れる右プロンプトを表示できる。
+  - ほとんど全部の[カスタマイズが可能](../Page/カスタム.md "wikilink")。
 
 このシェル全体のサイズが巨大であることは、マニュアルページの最初の有名なこの一文 「zshは多くの機能を持っているので、マニュアルは幾つかのセクションに分かれています。」 と、 17 個のセクション名のリストからも良く分かるだろう。
 

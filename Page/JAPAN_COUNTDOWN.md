@@ -3,7 +3,7 @@
 
 『**JAPAN COUNTDOWN**』（ジャパン・カウントダウン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されている[音楽番組](../Page/音楽番組.md "wikilink")。略称は**J-CD**。　
 
-この番組は[1996年](../Page/1996年.md "wikilink")10月から1998年[9月26日](../Page/9月26日.md "wikilink")まで放送されていた『**TOWER COUNTDOWN**』（タワー・カウントダウン）の後継番組としてスタートしたもの。この『TOWER COUNTDOWN』についても本項目で扱う。
+この番組は[1996年](../Page/1996年.md "wikilink")10月5日から1998年[9月26日](../Page/9月26日.md "wikilink")まで放送されていた『**TOWER COUNTDOWN**』（タワー・カウントダウン）の後継番組としてスタートしたもの。この『TOWER COUNTDOWN』についても本項目で扱う。
 
 ## 内容
 
@@ -23,28 +23,29 @@
   - [2017年](../Page/2017年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")からはロッキンオンと[サンリオ](../Page/サンリオ.md "wikilink")がコラボのショートアニメ『[Caribadix](https://ja.wikipedia.org/wiki/Caribadix "wikilink")』がスタート。
   - [2018年](../Page/2018年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")で放送開始20周年。[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")時点で日曜9:30枠での放送期間が7年半を数え、かつて同時間枠で放送されていたパソコン情報番組『[パソコンサンデー](../Page/パソコンサンデー.md "wikilink")』の放送期間記録を上回った。最終的には2020年3月29日までの8年半に渡り当枠での放送が継続した。
   - [「Imitation Rain / D.D.」と「D.D. / Imitation Rain」は](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")、個別にランクインしている\[6\]\[7\]。
+  - [2020年](../Page/2020年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")の放送で、[同月26日の放送で番組を終了することが発表された](../Page/9月26日.md "wikilink")\[8\]。
 
 ### スポンサーについて
 
   - 前身の「**TOWER COUNTDOWN**」時代はタイトル通り[タワーレコード](../Page/タワーレコード.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組だったが、後に[SONYとの](../Page/ソニー.md "wikilink")2社提供体制となっていた。
-  - その後、[Sony Music](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[EMI ミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（[2007年](../Page/2007年.md "wikilink")6月まで東芝EMI）、[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[Being GIZA等のレコード会社で](../Page/ビーイング.md "wikilink")、この体系に落ち着いたのは2004年9月以降である。レコード会社数社が入っているのは、現在、ネットワークセールスを通してこの番組だけである\[8\]。
+  - その後、[Sony Music](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[EMI ミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（[2007年](../Page/2007年.md "wikilink")6月まで東芝EMI）、[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[Being GIZA等のレコード会社で](../Page/ビーイング.md "wikilink")、この体系に落ち着いたのは2004年9月以降である。レコード会社数社が入っているのは、現在、ネットワークセールスを通してこの番組だけである\[9\]。
   - 前番組から続投していた初代ナビゲーター・アランJの頃は提供読みが「[This program is brought to you by these sponsors](https://ja.wikipedia.org/wiki/提供クレジット#テレビにおける提供クレジット "wikilink")」だった。
   - [渋谷陽一](../Page/渋谷陽一.md "wikilink")が取材しない[B'z](../Page/B'z.md "wikilink")を含むビーイング系[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")がシングル・アルバムリリース時に出演する理由は、スポンサーに"ビーイング・[GIZA](../Page/GIZA_studio.md "wikilink")"が関わっているためだった（これは[PVTV](../Page/PVTV.md "wikilink")も同様）。
-  - 2019年現在は、複数社提供になっている\[9\]。
+  - 2019年現在は、複数社提供になっている\[10\]。
       - 2012年4月1日から9月30日放送分は後提供・エンドクレジットのあと、[永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")と[ブシロード](../Page/ブシロード.md "wikilink")の[ヒッチハイクCM後](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")、「[カードファイト\!\! ヴァンガード アジアサーキット編](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")」の予告を放送した。同年10月7日放送分からはヒッチハイクCMが無くなり、次番組のジャンクションに変更した。
 
 ### 放送の流れ
 
   - オープニング→最新音楽情報→アルバム1位を獲得したアーティストのみの特集（TOP10位からテロップで流れてるスタイル）→インタビュー→シングル1位を獲得したアーティストのみの特集（アルバム同様、TOP10位から流れてるスタイル）→ニューリリース→エンディング・次回の見どころ→クイズ（提供ジングルの後に**See You Next Time\!**のテロップとゲストの書いた答えが書かれたボードを見せた静止画と共にその答えが発表され、ナビゲーターの鮎貝も**『また来週\!』**の前に字幕では表示されない英語のナレーションの他に単純にSee you next week\!といった単純なもの、それに答えに関するナレーションをする事がある）の順となっている。
-      - 番組エンディング時のクイズはゲスト（2017年現在見どころの中に出てくるCLOSE UPとして紹介したアーティストまたはその一部のメンバーには、『日曜日の朝に食べたいものは?』を必ず聞く事になっている）に纏わるものやシングルチャート1位アーティストに関するものとなっており、答えが番組からのプレゼントであるROCKIN'ON JAPAN（2015年4月からはその月の最終週にプレゼントされるbridgeやCut、H）の最新号を葉書から応募する時に必要になってくる\[10\]。
+      - 番組エンディング時のクイズはゲスト（2017年現在見どころの中に出てくるCLOSE UPとして紹介したアーティストまたはその一部のメンバーには、『日曜日の朝に食べたいものは?』を必ず聞く事になっている）に纏わるものやシングルチャート1位アーティストに関するものとなっており、答えが番組からのプレゼントであるROCKIN'ON JAPAN（2015年4月からはその月の最終週にプレゼントされるbridgeやCut、H）の最新号を葉書から応募する時に必要になってくる\[11\]。
 
 ### ハイビジョンでの放送について
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月からハイビジョン制作となり、地上デジタルでは16:9サイズで放送している\[11\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")6月からハイビジョン制作となり、地上デジタルでは16:9サイズで放送している\[12\]。
 
 ### 特番による休止・変更
 
-  - テレビ東京制作時代は、[世界卓球選手権](../Page/世界卓球選手権.md "wikilink")中継時に放送時間繰り下げ、あるいは休止になる場合があった\[12\]。また「[出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")」「[美の巨人たち](../Page/美の巨人たち.md "wikilink")」が枠拡大のスペシャル版になる時も放送時間が繰り下がった\[13\]。
+  - テレビ東京制作時代は、[世界卓球選手権](../Page/世界卓球選手権.md "wikilink")中継時に放送時間繰り下げ、あるいは休止になる場合があった\[13\]。また「[出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")」「[美の巨人たち](../Page/美の巨人たち.md "wikilink")」が枠拡大のスペシャル版になる時も放送時間が繰り下がった\[14\]。
   - テレビ大阪に制作局移管後は年末年始特番時を除き、番組が休止になることはほとんどない。
   - [2018年](../Page/2018年.md "wikilink")2月25日は[2018年平昌オリンピックのフィギュアスケート競技](https://ja.wikipedia.org/wiki/2018年平昌オリンピックのフィギュアスケート競技 "wikilink")エキシビション中継のため、前日に繰り上げて2月24日の10:30 - 11:00に放送していた。
 
@@ -68,7 +69,7 @@
 
 | 放送対象地域                                              | 放送局                                                     | 系列                                                      | 放送日時             | 備考            |
 | --------------------------------------------------- | ------------------------------------------------------- | ------------------------------------------------------- | ---------------- | ------------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 土曜 10:30 - 11:00 | **制作局**\[14\] |
+| [関東広域圏](../Page/広域放送.md "wikilink")                 | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink") | [テレビ東京系列](https://ja.wikipedia.org/wiki/TXN "wikilink") | 土曜 10:30 - 11:00 | **制作局**\[15\] |
 | [大阪府](../Page/大阪府.md "wikilink")                    | [テレビ大阪](../Page/テレビ大阪.md "wikilink")                    | **（2度目の枠移動後の）制作局→幹事局**                                  |                  |               |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [テレビ北海道](../Page/テレビ北海道.md "wikilink")                  |                                                         |                  |               |
 | [愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink") | [テレビ愛知](../Page/テレビ愛知.md "wikilink")                    |                                                         |                  |               |
@@ -797,20 +798,17 @@
 
 `<div class="NavContent" style="text-align:left;>`
 
-| 月   | オープニングテーマ                                                                                             | エンディングテーマ                                                               |
-| --- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
-| 1月  | 「イニシャル」[Poppin'Party](https://ja.wikipedia.org/wiki/BanG_Dream!#Poppin'Party（声優ユニット） "wikilink")      | 「愛とか感情」[ニノミヤユイ](https://ja.wikipedia.org/wiki/ニノミヤユイ "wikilink")        |
-| 2月  | 「ANTY-HERO'S」[BALLISTIK BOYSfromEXILE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYS "wikilink") TRIBE | 「もう踊れない」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")           |
-| 3月  | 「風（Levanter） -Japanese ver-」[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")         | 「MARBLE」[樋口楓](https://ja.wikipedia.org/wiki/樋口楓 "wikilink")             |
-| 4月  | 「月色ホライズン」[\[Alexandros](https://ja.wikipedia.org/wiki/Alexandros "wikilink")\]                        | 「星がはじまる」[Argonavis](https://ja.wikipedia.org/wiki/Argonavis "wikilink") |
-| 5月  | 「透明造花」[おいしくるメロンパン](https://ja.wikipedia.org/wiki/おいしくるメロンパン "wikilink")                               | 「駄々」[め組](https://ja.wikipedia.org/wiki/め組 "wikilink")                   |
-| 6月  | 「Breakthrough\!」Poppin'Party                                                                          | 「Grab the air」[milet](https://ja.wikipedia.org/wiki/milet "wikilink")   |
-| 7月  | 「ブルーユース」[ひかりのなかに](https://ja.wikipedia.org/wiki/ひかりのなかに "wikilink")                                   | 「CITY」[降幡愛](https://ja.wikipedia.org/wiki/降幡愛 "wikilink")               |
-| 8月  | 「パジャマでシー」[ヤングオオハラ](https://ja.wikipedia.org/wiki/ヤングオオハラ "wikilink")                                  | 「Shock Shock」[Awich](../Page/Awich.md "wikilink")                       |
-| 9月  | 未定                                                                                                    | 未定                                                                      |
-| 10月 | 未定                                                                                                    | 未定                                                                      |
-| 11月 | 未定                                                                                                    | 未定                                                                      |
-| 12月 | 未定                                                                                                    | 未定                                                                      |
+| 月  | オープニングテーマ                                                                                             | エンディングテーマ                                                                                 |
+| -- | ----------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+| 1月 | 「イニシャル」[Poppin'Party](https://ja.wikipedia.org/wiki/BanG_Dream!#Poppin'Party（声優ユニット） "wikilink")      | 「愛とか感情」[ニノミヤユイ](https://ja.wikipedia.org/wiki/ニノミヤユイ "wikilink")                          |
+| 2月 | 「ANTY-HERO'S」[BALLISTIK BOYSfromEXILE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYS "wikilink") TRIBE | 「もう踊れない」[宇宙まお](https://ja.wikipedia.org/wiki/宇宙まお "wikilink")                             |
+| 3月 | 「風（Levanter） -Japanese ver-」[Stray Kids](https://ja.wikipedia.org/wiki/Stray_Kids "wikilink")         | 「MARBLE」[樋口楓](https://ja.wikipedia.org/wiki/樋口楓 "wikilink")                               |
+| 4月 | 「月色ホライズン」[\[Alexandros](https://ja.wikipedia.org/wiki/Alexandros "wikilink")\]                        | 「星がはじまる」[Argonavis](https://ja.wikipedia.org/wiki/Argonavis "wikilink")                   |
+| 5月 | 「透明造花」[おいしくるメロンパン](https://ja.wikipedia.org/wiki/おいしくるメロンパン "wikilink")                               | 「駄々」[め組](https://ja.wikipedia.org/wiki/め組 "wikilink")                                     |
+| 6月 | 「Breakthrough\!」Poppin'Party                                                                          | 「Grab the air」[milet](https://ja.wikipedia.org/wiki/milet "wikilink")                     |
+| 7月 | 「ブルーユース」[ひかりのなかに](https://ja.wikipedia.org/wiki/ひかりのなかに "wikilink")                                   | 「CITY」[降幡愛](https://ja.wikipedia.org/wiki/降幡愛 "wikilink")                                 |
+| 8月 | 「パジャマでシー」[ヤングオオハラ](https://ja.wikipedia.org/wiki/ヤングオオハラ "wikilink")                                  | 「Shock Shock」[Awich](../Page/Awich.md "wikilink")                                         |
+| 9月 | 「Mela\!」[緑黄色社会](https://ja.wikipedia.org/wiki/緑黄色社会 "wikilink")                                       | 「スピカ（愛美×きみコ Duet Version）」[nano.RIPE](https://ja.wikipedia.org/wiki/nano.RIPE "wikilink") |
 
 </div>
 
@@ -840,10 +838,10 @@
 | 2012年 | [真夏のSounds good \!](https://ja.wikipedia.org/wiki/真夏のSounds_good_! "wikilink")                                          |                                                                                                                         |        |
 | 2013年 | [Calling/Breathless](https://ja.wikipedia.org/wiki/Calling/Breathless "wikilink")                                       | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                   |        |
 | 2014年 | [Bittersweet](https://ja.wikipedia.org/wiki/Bittersweet_\(嵐の曲\) "wikilink")                                             |                                                                                                                         |        |
-| 2015年 | [青空の下、キミのとなり](https://ja.wikipedia.org/wiki/青空の下、キミのとなり "wikilink")                                                     | \[15\]                                                                                                                  |        |
-| 2016年 | [I seek](https://ja.wikipedia.org/wiki/I_seek "wikilink")/[Daylight](https://ja.wikipedia.org/wiki/Daylight "wikilink") | \[16\]                                                                                                                  |        |
+| 2015年 | [青空の下、キミのとなり](https://ja.wikipedia.org/wiki/青空の下、キミのとなり "wikilink")                                                     | \[16\]                                                                                                                  |        |
+| 2016年 | [I seek](https://ja.wikipedia.org/wiki/I_seek "wikilink")/[Daylight](https://ja.wikipedia.org/wiki/Daylight "wikilink") | \[17\]                                                                                                                  |        |
 | 2017年 | ?                                                                                                                       | ?                                                                                                                       |        |
-| 2018年 | [Teacher Teacher](https://ja.wikipedia.org/wiki/Teacher_Teacher "wikilink")                                             | AKB48                                                                                                                   | \[17\] |
+| 2018年 | [Teacher Teacher](https://ja.wikipedia.org/wiki/Teacher_Teacher "wikilink")                                             | AKB48                                                                                                                   | \[18\] |
 
 #### 外資系CDショップシングル
 
@@ -884,9 +882,9 @@
 | 2012年 | [Popcorn](https://ja.wikipedia.org/wiki/Popcorn "wikilink")                                        |                                                               |        |
 | 2013年 | [LOVE](https://ja.wikipedia.org/wiki/LOVE_\(嵐のアルバム\) "wikilink")                                   |                                                               |        |
 | 2014年 | [THE DIGITALIAN](https://ja.wikipedia.org/wiki/THE_DIGITALIAN "wikilink")                          |                                                               |        |
-| 2015年 | [Japonism](https://ja.wikipedia.org/wiki/Japonism "wikilink")                                      | \[18\]                                                        |        |
-| 2016年 | [Are You Happy?](https://ja.wikipedia.org/wiki/Are_You_Happy? "wikilink")                          | \[19\]                                                        |        |
-| 2017年 | [Finally](https://ja.wikipedia.org/wiki/Finally "wikilink")                                        | 安室奈美恵                                                         | \[20\] |
+| 2015年 | [Japonism](https://ja.wikipedia.org/wiki/Japonism "wikilink")                                      | \[19\]                                                        |        |
+| 2016年 | [Are You Happy?](https://ja.wikipedia.org/wiki/Are_You_Happy? "wikilink")                          | \[20\]                                                        |        |
+| 2017年 | [Finally](https://ja.wikipedia.org/wiki/Finally "wikilink")                                        | 安室奈美恵                                                         | \[21\] |
 | 2018年 | \[\[海のOh,_Yeah                                                                                    | |海のOh, Yeah                                                   | \]\]   |
 
 #### 都内大型CDショップアルバム
@@ -941,16 +939,17 @@
 5.  同時期に『SHOUBIZ COUNTDOWN』も終了し本番組に統合。
 6.  [バックナンバー＞　2020/2/2 O.A 　シングル](https://www.tv-osaka.co.jp/ip4/jcd/onair/1826515_7332.html)、テレビ大阪 - 2020年3月1日閲覧。
 7.  [オリコンチャート](../Page/オリコンチャート.md "wikilink")では合算、[Billboard JAPAN Top Singles Salesでは個別にランクイン](https://ja.wikipedia.org/wiki/Billboard_JAPAN "wikilink")。[Imitation Rain/D.D.\#チャート成績を参照](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D.#チャート成績 "wikilink")。
-8.  PT扱いも含めると、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』もレコード会社が2社入っている 。
-9.  各社30秒。ただし一部企業は[PT扱い](../Page/パーティシペーション.md "wikilink")。
-10. この他に、プレゼント名、番組の感想、住所、氏名、年齢を明記する。
-11. 2011年7月23日放送分まで、地上アナログでは[レターボックスで放送していた](../Page/レターボックス_\(映像技術\).md "wikilink")
-12. 例として、[2009年](../Page/2009年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")は[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた「[第50回世界卓球選手権個人戦](../Page/第50回世界卓球選手権個人戦.md "wikilink")」デイリーハイライト放送のため休止。[2011年](../Page/2011年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")（[第51回世界卓球選手権個人戦](https://ja.wikipedia.org/wiki/第51回世界卓球選手権個人戦 "wikilink")）は25分繰り下げの0:45 - 1:15の放送となった。
-13. 例として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")のアド街ック天国2時間スペシャル「水上バスで行く\!隅田川タウンBEST50」（21:00 - 22:54）放送時は60分繰り下げの1:25 - 1:55に放送されていた。
-14. 2011年10月から2020年3月までを除く。
-15. [年間トップ１０　　2016/1/10 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1237095_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
-16. [2016年総合年間チャート　2016/12/25 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1243941_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
-17. [2018年 年間TOP10　2019/1/6 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1285607_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
-18. [年間トップ１０　　2016/1/10O.A　アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1237095_7353.html)
-19. [2016年総合年間チャート　2016/12/25O.A　アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1243941_7353.html)、テレビ大阪 - 2019年2月27日閲覧。
-20. [年間TOP10　2018/1/7O.A　 アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1253026_7353.html)、テレビ大阪 - 2019年2月27日閲覧。
+8.  [テレ東「JAPAN　COUNTDOWN」9月末で終了　22年の長寿番組にピリオド](https://www.sponichi.co.jp/entertainment/news/2020/09/12/kiji/20200912s00041000229000c.html)、[スポニチ Sponichi Annex](../Page/スポーツニッポン.md "wikilink")、2020年9月12日。
+9.  PT扱いも含めると、[テレビ朝日](../Page/テレビ朝日.md "wikilink")の『[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")』もレコード会社が2社入っている 。
+10. 各社30秒。ただし一部企業は[PT扱い](../Page/パーティシペーション.md "wikilink")。
+11. この他に、プレゼント名、番組の感想、住所、氏名、年齢を明記する。
+12. 2011年7月23日放送分まで、地上アナログでは[レターボックスで放送していた](../Page/レターボックス_\(映像技術\).md "wikilink")
+13. 例として、[2009年](../Page/2009年.md "wikilink")[5月30日](../Page/5月30日.md "wikilink")は[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われた「[第50回世界卓球選手権個人戦](../Page/第50回世界卓球選手権個人戦.md "wikilink")」デイリーハイライト放送のため休止。[2011年](../Page/2011年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")（[第51回世界卓球選手権個人戦](https://ja.wikipedia.org/wiki/第51回世界卓球選手権個人戦 "wikilink")）は25分繰り下げの0:45 - 1:15の放送となった。
+14. 例として、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")のアド街ック天国2時間スペシャル「水上バスで行く\!隅田川タウンBEST50」（21:00 - 22:54）放送時は60分繰り下げの1:25 - 1:55に放送されていた。
+15. 2011年10月から2020年3月までを除く。
+16. [年間トップ１０　　2016/1/10 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1237095_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
+17. [2016年総合年間チャート　2016/12/25 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1243941_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
+18. [2018年 年間TOP10　2019/1/6 O.A 　シングル](http://www.tv-osaka.co.jp/ip4/jcd/onair/1285607_7332.html)、テレビ大阪 - 2019年2月27日閲覧。
+19. [年間トップ１０　　2016/1/10O.A　アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1237095_7353.html)
+20. [2016年総合年間チャート　2016/12/25O.A　アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1243941_7353.html)、テレビ大阪 - 2019年2月27日閲覧。
+21. [年間TOP10　2018/1/7O.A　 アルバム](http://www.tv-osaka.co.jp/ip4/jcd/onair/1253026_7353.html)、テレビ大阪 - 2019年2月27日閲覧。

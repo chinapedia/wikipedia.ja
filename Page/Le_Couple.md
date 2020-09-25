@@ -24,7 +24,7 @@
 
 2005年にLe Coupleの活動を休止。2007年2月初旬に離婚届を提出して正式に離婚（事実上[解散](https://ja.wikipedia.org/wiki/解散 "wikilink")）、両者の間に子供は授からなかった。
 
-2015年[9月11日](../Page/9月11日.md "wikilink")に「[爆報\!THE フライデー](https://ja.wikipedia.org/wiki/爆報!THE_フライデー "wikilink")」へ元夫妻揃って再会を果たし、活動休止から10年ぶりに「ひだまりの詩」を歌唱披露した\[4\]。
+2015年[9月11日](../Page/9月11日.md "wikilink")に「[爆報\!THE フライデー](https://ja.wikipedia.org/wiki/爆報!THE_フライデー "wikilink")」へ元夫妻揃って公の場での再会を果たし、活動休止から10年ぶりに「ひだまりの詩」を歌唱披露した\[4\]。その後も元夫妻や親族間の交流は続いているという\[5\]。
 
 ## ディスコグラフィ
 
@@ -464,3 +464,4 @@
 2.  \[A-music <http://www.a-music.co/>\]
 3.  [「ル・クプル」離婚していた](http://hochi.yomiuri.co.jp/feature/entertainment/divorce/news/20070423-OHT1T00053.htm)、スポーツ報知、 2007年4月23日。
 4.  [藤田恵美、明日放送「爆報！THEフライデー」で10年振り一夜限りのLe Couple再結成（MUSICMAN-NET）](http://www.musicman-net.com/artist/49926.html)
+5.  [元ル・クプル 藤田恵美が回想する『ひだまりの詩』大ヒット当時の本音](https://www.jprime.jp/articles/-/18876) - [週刊女性](../Page/週刊女性.md "wikilink")PRIME、2020年9月17日。

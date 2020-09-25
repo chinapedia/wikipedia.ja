@@ -21,7 +21,7 @@ Phase IIソフトウェアを書き直して改良したものは、一時「Pha
 
 その後、[ウィキメディア財団](../Page/ウィキメディア財団.md "wikilink")[最高技術責任者](../Page/最高技術責任者.md "wikilink")ブリオン・ヴィッバー（Brion Vibber）\[9\]が更新管理者ならびに最も活発な開発者の役を引き受ける\[10\]\[11\]。
 
-MediaWiki開発の主要なマイルストーンは順に、カテゴリ・システム（2004年追加）、[構文解析](../Page/構文解析.md "wikilink")（2006年追加）、拡張機能[Flagged revisions](https://ja.wikipedia.org/wiki/:en:flagged_revisions "wikilink")（2008年追加）\[12\]、「ResourceLoader」という[CSS](../Page/CSS.md "wikilink")ならびにJavaScriptの配置システム（2011年追加）\[13\]、さらに2013年に編集機能の[VisualEditor](https://ja.wikipedia.org/wiki/VisualEditor "wikilink")と[WYSIWYG](../Page/WYSIWYG.md "wikilink")（What You See Is What You Getの頭文字）が追加される\[14\]。
+MediaWiki開発の主要なマイルストーンは順に、カテゴリ・システム（2004年追加）、[構文解析](../Page/構文解析.md "wikilink")（2006年追加）、拡張機能[Flagged revisions](https://ja.wikipedia.org/wiki/:en:flagged_revisions "wikilink")（2008年追加）\[12\]、「ResourceLoader」という[CSSならびにJavaScriptの配置システム](../Page/Cascading_Style_Sheets.md "wikilink")（2011年追加）\[13\]、さらに2013年に編集機能の[VisualEditor](https://ja.wikipedia.org/wiki/VisualEditor "wikilink")と[WYSIWYG](../Page/WYSIWYG.md "wikilink")（What You See Is What You Getの頭文字）が追加される\[14\]。
 
 ## 利用
 
@@ -33,7 +33,7 @@ MediaWikiはその当初のターゲットである[ウィキペディア](../Pa
 
 アメリカ政府内部でもMediaWikiを使用し、顕著な例として（採用）、（[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[内務省](../Page/内務省.md "wikilink")採用）ならびに[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[国防総省](https://ja.wikipedia.org/wiki/国防総省 "wikilink")が採用するの一部milWikiにも使われている。[国連機関](https://ja.wikipedia.org/wiki/国連機関 "wikilink")では[国連開発計画](https://ja.wikipedia.org/wiki/国連開発計画 "wikilink")及びが独自ウィキをMediaWikiで駆動すると決定した理由は「ウィキペディアが動くソフトウェアであることから試験が行き届き、将来的にも開発活動が持続可能で、未来の技術者はおそらくどんなウィキソフトウェアよりもMediaWikiに最も触れて育つと予測されるため」だという\[17\]。
 
-[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")はウェブサイトの運営にMediaWikiを使っている\[18\]。
+[フリーソフトウェア財団](../Page/フリーソフトウェア財団.md "wikilink")は[LibrePlanet](../Page/LibrePlanet.md "wikilink")ウェブサイトの運営にMediaWikiを使っている\[18\]。
 
 ### バージョンの履歴
 

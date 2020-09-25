@@ -1,7 +1,7 @@
 > この記事は[FIELD OF VIEW](https://ja.wikipedia.org/wiki/FIELD_OF_VIEW)から翻訳されています。
 
 
-**the FIELD OF VIEW**（ザ・フィールド・オブ・ビュー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1994年](../Page/1994年.md "wikilink")デビュー、[2002年](../Page/2002年.md "wikilink")12月に解散。
+**FIELD OF VIEW**（フィールド・オブ・ビュー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[1994年](../Page/1994年.md "wikilink")デビュー、[2002年](../Page/2002年.md "wikilink")12月に解散。
 
 ## メンバー
 
@@ -521,6 +521,8 @@
 
   -
   -
+  - [蓬田尚紀](https://on-wave.com/naoki/profile/) - サポートベーシストのホームページ
+
 [Category:FIELD_OF_VIEW](https://ja.wikipedia.org/wiki/Category:FIELD_OF_VIEW "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のボックスコーポレーション所属者](https://ja.wikipedia.org/wiki/Category:過去のボックスコーポレーション所属者 "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink")
 
 1.

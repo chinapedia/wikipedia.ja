@@ -22,7 +22,7 @@
 
 ## 歴史
 
-[SASシステム](https://ja.wikipedia.org/wiki/SASシステム "wikilink")は[アンソニー・バール](https://ja.wikipedia.org/wiki/アンソニー・バール "wikilink")が大学院生だった1962年から1964年にかけて[分散分析解析](https://ja.wikipedia.org/wiki/分散分析解析 "wikilink")や[多変量解析](https://ja.wikipedia.org/wiki/多変量解析 "wikilink")ソフトウェアとして開発された。当時の[IBM](../Page/IBM.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")で動くソフトウェアであったため、ライブラリー関数は[FORTRAN](../Page/FORTRAN.md "wikilink")でハードウエア制御部分はアッセンブラ、それ以外は[PL/I](https://ja.wikipedia.org/wiki/PL/I "wikilink")で混合プログラミングで開発された。1966年から1968年の間に基本コンセプトが定まった。現在の文法やデータ形式である。1968年、[ジェームズ・グッドナイト](https://ja.wikipedia.org/wiki/ジェームズ・グッドナイト "wikilink")とともにソフトウェアの改良に取り組み、[線形回帰](../Page/線形回帰.md "wikilink")計算機能を備えた。
+[SASシステム](https://ja.wikipedia.org/wiki/SASシステム "wikilink")は[アンソニー・バール](https://ja.wikipedia.org/wiki/アンソニー・バール "wikilink")が大学院生だった1962年から1964年にかけて[分散分析解析](https://ja.wikipedia.org/wiki/分散分析解析 "wikilink")や[多変量解析](../Page/多変量解析.md "wikilink")ソフトウェアとして開発された。当時の[IBM](../Page/IBM.md "wikilink")[メインフレーム](../Page/メインフレーム.md "wikilink")で動くソフトウェアであったため、ライブラリー関数は[FORTRAN](../Page/FORTRAN.md "wikilink")でハードウエア制御部分はアッセンブラ、それ以外は[PL/I](https://ja.wikipedia.org/wiki/PL/I "wikilink")で混合プログラミングで開発された。1966年から1968年の間に基本コンセプトが定まった。現在の文法やデータ形式である。1968年、[ジェームズ・グッドナイト](https://ja.wikipedia.org/wiki/ジェームズ・グッドナイト "wikilink")とともにソフトウェアの改良に取り組み、[線形回帰](../Page/線形回帰.md "wikilink")計算機能を備えた。
 
 NASAの[アポロ計画](../Page/アポロ計画.md "wikilink")で使用されたことで、1971年頃に全米でポピュラーな解析パッケージとして[学会](../Page/学会.md "wikilink")で名を馳せた。1972年製品版として正式に発売され、製薬業界や農業業界が採用するに至った。1973年に[ジョン・ソール](https://ja.wikipedia.org/wiki/ジョン・ソール "wikilink")が加わり[時系列分析](https://ja.wikipedia.org/wiki/時系列分析 "wikilink")が出来るように改良された。その後、[ジェーン・ヘルビッヒ](https://ja.wikipedia.org/wiki/ジェーン・ヘルビッヒ "wikilink")が加わった。
 

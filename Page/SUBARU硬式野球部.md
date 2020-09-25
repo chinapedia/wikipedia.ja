@@ -61,7 +61,7 @@
   - [橋本敬司](../Page/橋本敬司.md "wikilink")（投手） - ドラフト4位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")から指名を受け、翌1982年シーズン終了後に入団
   - [谷良治](../Page/谷良治.md "wikilink")（投手） - 1983年ドラフト外で[阪急ブレーブスに入団](../Page/オリックス・バファローズ.md "wikilink")
   - [井場友和](../Page/井場友和.md "wikilink")（投手） - ドラフト1位で[日本ハムファイターズに入団](../Page/北海道日本ハムファイターズ.md "wikilink")
-  - [高谷裕亮](../Page/高谷裕亮.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 退団後、[白鷗大学](https://ja.wikipedia.org/wiki/白鷗大学 "wikilink")に進学し、大学生・社会人ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
+  - [高谷裕亮](../Page/高谷裕亮.md "wikilink")（[捕手](../Page/捕手.md "wikilink")） - 退団後、[白鷗大学](../Page/白鷗大学.md "wikilink")に進学し、大学生・社会人ドラフト3位で[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")に入団
   - [鬼崎裕司](../Page/鬼崎裕司.md "wikilink")（[内野手](../Page/内野手.md "wikilink")） - 大学生・社会人ドラフト3位で[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に入団
   - [東明大貴](https://ja.wikipedia.org/wiki/東明大貴 "wikilink")（投手） - ドラフト2位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
   - [西村凌](https://ja.wikipedia.org/wiki/西村凌 "wikilink")（捕手） - ドラフト5位でオリックス・バファローズに入団

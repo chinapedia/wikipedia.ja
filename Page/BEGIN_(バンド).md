@@ -1,7 +1,7 @@
 > この記事は[BEGIN \(バンド\)](https://ja.wikipedia.org/wiki/BEGIN_\(バンド\))から翻訳されています。
 
 
-**BEGIN**（ビギン）は、[沖縄県](../Page/沖縄県.md "wikilink")[石垣市](../Page/石垣市.md "wikilink")出身の3人からなる、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のアコースティック[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")は[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")。『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』出身のバンドである。「[涙そうそう](../Page/涙そうそう.md "wikilink")」や「[島人ぬ宝](../Page/島人ぬ宝.md "wikilink")」などヒット曲を世に送り出し、[紅白歌合戦にも出場した](../Page/NHK紅白歌合戦.md "wikilink")。
+**BEGIN**（ビギン）は、[沖縄のアコースティック](../Page/沖縄県.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[事務所は](../Page/芸能事務所.md "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。[レコード会社](../Page/レコード会社.md "wikilink")は[Imperial Records](../Page/インペリアルレコード_\(日本\).md "wikilink")。『[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")』出場経験のあるバンドである。「[涙そうそう](../Page/涙そうそう.md "wikilink")」や「[島人ぬ宝](../Page/島人ぬ宝.md "wikilink")」などヒット曲を世に送り出し、[紅白歌合戦にも出場した](../Page/NHK紅白歌合戦.md "wikilink")。
 
 ## メンバー
 

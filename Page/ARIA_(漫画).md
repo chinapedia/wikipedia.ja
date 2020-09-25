@@ -1410,25 +1410,25 @@ Navigation</p></td>
   -
 
       -
-        作詞・作曲 - 志倉千代丸 / 編曲 - 水野大輔 / 歌 - [諌山実生](https://ja.wikipedia.org/wiki/諌山実生 "wikilink")
+        作詞・作曲 - 志倉千代丸 / 編曲 - 水野大輔 / 歌 - [諫山実生](https://ja.wikipedia.org/wiki/諫山実生 "wikilink")
 
 ### モバイルゲーム
 
 #### ARIA The AVVENIRE（ゲーム）
 
-『**ARIA The AVVENIRE**』（アリア ジ アッヴェニーレ）のタイトルで、同名のTVアニメ10周年記念プロジェクト『蒼のカーテンコール』のプロジェクトのOVAのイベント上映（劇場公開）を記念し、2015年9月24日に[Android](../Page/Android.md "wikilink")・[iOS用にHarvesTからリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[12\]。
+『**ARIA The AVVENIRE**』（アリア ジ アッヴェニーレ）のタイトルで、同名のTVアニメ10周年記念プロジェクト『蒼のカーテンコール』のプロジェクトのOVAのイベント上映（劇場公開）を記念し、2015年9月24日に[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")・[iOS用にHarvesTからリリースされた](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")\[12\]。
 
 ジャンルは[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")となっていて、カンパニーの手伝いとして、アリア社長がおつかいで買ってくるグッズで内装を変えたり、お店を訪れるキャラクターと会話したりすることで同名OVAの画像を集めたりすることができる。時間をおいて起動することでも内容はすすむ。無料アプリで、アプリ内課金もない。
 
 #### ARIA 〜AQUA RITMO〜
 
-『**ARIA 〜AQUA RITMO〜**』（アリア アクア リトゥモ）のタイトルで、2016年[1月15日](../Page/1月15日.md "wikilink")に[Android](../Page/Android.md "wikilink")用に[Google Playにて](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[13\]、2016年1月28日に[iOS用に](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[App Storeにて](../Page/App_Store.md "wikilink")\[14\]共にHarvesTからモバイルゲームとして発売された。
+『**ARIA 〜AQUA RITMO〜**』（アリア アクア リトゥモ）のタイトルで、2016年[1月15日](../Page/1月15日.md "wikilink")に[Android用に](../Page/Android_\(オペレーティングシステム\).md "wikilink")[Google Playにて](https://ja.wikipedia.org/wiki/Google_Play "wikilink")\[13\]、2016年1月28日に[iOS用に](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")[App Storeにて](../Page/App_Store.md "wikilink")\[14\]共にHarvesTからモバイルゲームとして発売された。
 
 ジャンルは[リズムゲーム](https://ja.wikipedia.org/wiki/リズムゲーム "wikilink")となっていて、アニメで使用された楽曲が収録され、またキャラクターも登場し[Live2D](https://ja.wikipedia.org/wiki/Live2D "wikilink")アニメーションと新規録りおろし音声を収録、他に最高のプリマを目指すという目的の下ストーリーイベントも用意されている。基本プレイ無料だが、アプリ内課金あり。
 
 #### その他
 
-『**[嫁コレ](https://ja.wikipedia.org/wiki/嫁コレ "wikilink")**』（よめこれ）にて、作品に登場したキャラクターが追加された。[Android](../Page/Android.md "wikilink")・[iOS用](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。水無灯里が2012年7月13日、藍華・S・グランチェスタが2012年7月27日、アリス・キャロルが2012年8月10日。
+『**[嫁コレ](https://ja.wikipedia.org/wiki/嫁コレ "wikilink")**』（よめこれ）にて、作品に登場したキャラクターが追加された。[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")・[iOS用](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")。水無灯里が2012年7月13日、藍華・S・グランチェスタが2012年7月27日、アリス・キャロルが2012年8月10日。
 
 ## インターネットラジオ
 

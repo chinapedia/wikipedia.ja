@@ -310,7 +310,7 @@ Internet Explorer 6.0（日本語版）における表記と Microsoft コード
   -
 ## 外部リンク
 
-  - [Microsoft Windows Codepage 932](http://www.microsoft.com/globaldev/reference/dbcs/932.mspx) ([Web Archiveのキャッシュ](http://web.archive.org/web/20070123191209/http://www.microsoft.com/globaldev/reference/dbcs/932.mspx))
+  - [Microsoft Windows Codepage 932](http://www.microsoft.com/globaldev/reference/dbcs/932.mspx) ([Web Archiveのキャッシュ](https://web.archive.org/web/20070123191209/http://www.microsoft.com/globaldev/reference/dbcs/932.mspx))
   - \[<http://msdn2.microsoft.com/ja-jp/library/system.text.encoding(vs.80>).aspx Microsoft .NET Framework クラスライブラリ Encoding クラス\]
   - [Windows-31J情報](http://www2d.biglobe.ne.jp/~msyk/charcode/cp932/index.html)
   - [通信で使って良い文字、悪い文字](http://www.kt.rim.or.jp/~aotaka/pc/character.htm)

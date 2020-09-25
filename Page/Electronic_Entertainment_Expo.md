@@ -1,11 +1,11 @@
 > この記事は[Electronic Entertainment Expo](https://ja.wikipedia.org/wiki/Electronic_Entertainment_Expo)から翻訳されています。
 
 
-**Electronic Entertainment Expo**（エレクトロニック・エンターテイメント・エキスポ）とは[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で開催される世界最大の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")関連の[見本市](../Page/見本市.md "wikilink")である。略称「**E3**（イースリー）」。
+**Electronic Entertainment Expo**（エレクトロニック・エンターテイメント・エキスポ）は、[米国の](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ロサンゼルス](../Page/ロサンゼルス.md "wikilink")で開催している世界最大の[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")関連の[見本市](../Page/見本市.md "wikilink")である。略称は**E3**（イースリー）。
 
 ## 概要
 
-米国の業界団体[Entertainment Software Association](https://ja.wikipedia.org/wiki/Entertainment_Software_Association "wikilink")（ESA）の主催で毎年5月中旬から6月初めの間の数日間に開かれており、[ロサンゼルス・コンベンションセンター](https://ja.wikipedia.org/wiki/ロサンゼルス・コンベンションセンター "wikilink")を会場として1週間近くに渡って行われる。流通向けの見本市という位置付けから入場できるのは業界関係者、即ち流通・ゲーム制作及び報道関係者に限られる。1997・1998年のみ[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")の[Georgia World Congress Centerで行われた](https://ja.wikipedia.org/wiki/:en:Georgia_World_Congress_Center "wikilink")。
+米国の業界団体「[Entertainment Software Association](https://ja.wikipedia.org/wiki/Entertainment_Software_Association "wikilink")」の主催で毎年5月中旬から6月初めの間の数日間に開かれており、[ロサンゼルス・コンベンションセンター](https://ja.wikipedia.org/wiki/ロサンゼルス・コンベンションセンター "wikilink")を会場として1週間近くに渡って行われる。流通向けの見本市という位置付けから入場できるのは業界関係者、即ち流通・ゲーム制作及び報道関係者に限られる。1997年と1998年のみ[ジョージア州](../Page/ジョージア州.md "wikilink")[アトランタ](../Page/アトランタ.md "wikilink")の[Georgia World Congress Centerで行われた](https://ja.wikipedia.org/wiki/:en:Georgia_World_Congress_Center "wikilink")。
 
 [ファミコン](https://ja.wikipedia.org/wiki/ファミリーコンピュータ "wikilink")[ブームに始まった](../Page/流行.md "wikilink")[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")市場が[SCEIのプラットフォーム参入を経て一大産業として確立してきた](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に当時のInteractive Digital Software Association（ESAの前身）が第1回を開催して以来、主にテレビゲーム分野の商品がターゲットとなっている。しかし近年ではコンピューターゲームの進歩とジャンル間のボーダーレス化により、[PCゲームを含む視聴覚上のコンピューターゲーム全般が対象に含まれようとしている](../Page/パソコンゲーム.md "wikilink")。
 
@@ -29,13 +29,13 @@
 
 各ゲームメーカーのブースは趣向が凝らされ各社が命運を賭ける意気込みが伝わるものとなっているが、前述の通り流通向けのショーとしての性格が強いため、会場内に商談スペースなどが広く取られているのも特徴である。
 
-## E3/Tokyo'96
+## E3 / Tokyo'96
 
 [1996年](../Page/1996年.md "wikilink")に一度だけE3が日本で開催されたことがある。同年[11月1日](../Page/11月1日.md "wikilink")から[4日まで](../Page/11月4日.md "wikilink")[幕張メッセ](../Page/幕張メッセ.md "wikilink")にて「**E3/Tokyo'96**」という名称で[テレビ朝日](../Page/テレビ朝日.md "wikilink")などが主催者となり開催された。そもそもこれは[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")主催の[PlayStation EXPOとの併催という形だったが](https://ja.wikipedia.org/wiki/PlayStation_EXPO "wikilink")、同年8月から始まった[東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")とバッティングしたこともあり、国内・海外の主力ゲームメーカーの出展が少なく小規模な展示にとどまり、結果的に失敗に終わった\[4\]。
 
 ## 開催実績
 
-日程は全て現地時間。1997・1998年を除いてロサンゼルス・コンベンションセンターで開催。
+日程は現地時間。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")と[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")を除いて[ロサンゼルス・コンベンションセンター](https://ja.wikipedia.org/wiki/ロサンゼルス・コンベンションセンター "wikilink")で開催。
 
   - E3 1995\[5\]
   - E3 1996\[6\]
@@ -69,8 +69,8 @@
 
 ## 関連項目
 
-  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")（TGS） - 東京で開催される日本最大のゲーム見本市。
-  - [ゲームズコム](https://ja.wikipedia.org/wiki/ゲームズコム "wikilink")（GC） - 欧州最大のゲーム[見本市](../Page/見本市.md "wikilink")。
+  - [東京ゲームショウ](../Page/東京ゲームショウ.md "wikilink")
+  - [gamescom](https://ja.wikipedia.org/wiki/ゲームズコム "wikilink")
   - [Game Developers Conference](../Page/Game_Developers_Conference.md "wikilink")
   - [ゲームズ・コンベンション](https://ja.wikipedia.org/wiki/ゲームズ・コンベンション "wikilink")
   - [ペニー・アーケード・エキスポ](https://ja.wikipedia.org/wiki/ペニー・アーケード・エキスポ "wikilink")
@@ -80,7 +80,7 @@
   - [E3expo official site](https://www.e3expo.com/)
   - [Impress PC WatchによるE3/Tokyo'96レポート](https://pc.watch.impress.co.jp/docs/article/961105/rumor1.htm)
 
-[Category:コンピュータゲームの展示会](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの展示会 "wikilink") [Category:ロサンゼルスの文化](https://ja.wikipedia.org/wiki/Category:ロサンゼルスの文化 "wikilink") [Category:アメリカ合衆国の見本市](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の見本市 "wikilink")
+[Category:コンピュータゲームの展示会](https://ja.wikipedia.org/wiki/Category:コンピュータゲームの展示会 "wikilink") [Category:アメリカ合衆国の見本市](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の見本市 "wikilink") [Category:ロサンゼルスの文化](https://ja.wikipedia.org/wiki/Category:ロサンゼルスの文化 "wikilink")
 
 1.
 2.

@@ -45,7 +45,7 @@
 | ----------- | -------------------------------------------------------------------- |
 | 1962年（第15回） | **日本生命**                                                             |
 | 1963年（第16回） | **全鐘紡**                                                              |
-| 1964年（第17回） | **[日本石油](../Page/JX-ENEOS野球部.md "wikilink")**                        |
+| 1964年（第17回） | **[日本石油](../Page/ENEOS野球部.md "wikilink")**                           |
 | 1965年（第18回） | **全鐘紡**                                                              |
 | 1966年（第19回） | **日本石油**                                                             |
 | 1967年（第20回） | **[日立製作所](../Page/日立製作所硬式野球部.md "wikilink")**                        |
@@ -117,7 +117,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:近畿地方の社会人野球](https://ja.wikipedia.org/wiki/Category:近畿地方の社会人野球 "wikilink") [Category:京都市のスポーツ](https://ja.wikipedia.org/wiki/Category:京都市のスポーツ "wikilink") [Category:1947年開始のイベント](https://ja.wikipedia.org/wiki/Category:1947年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:近畿地方の社会人野球](https://ja.wikipedia.org/wiki/Category:近畿地方の社会人野球 "wikilink") [Category:京都市のスポーツ](https://ja.wikipedia.org/wiki/Category:京都市のスポーツ "wikilink") [Category:1947年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1947年開始のスポーツイベント "wikilink")
 
 1.  8月に開催する予定だった同年の都市対抗野球が秋に延期となったため、日本選手権の開催も見送りとなった。
 2.  同一チーム・同一日程により「チャリティ京都交流大会」が開催され、[三菱自動車岡崎が優勝した](../Page/三菱自動車岡崎硬式野球部.md "wikilink")。

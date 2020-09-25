@@ -55,7 +55,7 @@
 
   - [株式会社IDCフロンティア](http://www.idcf.jp/)
 
-[Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:日本の情報・通信業](https://ja.wikipedia.org/wiki/Category:日本の情報・通信業 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink")
+[Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:日本のIT企業](https://ja.wikipedia.org/wiki/Category:日本のIT企業 "wikilink") [Category:日本のプラットフォーム事業者](https://ja.wikipedia.org/wiki/Category:日本のプラットフォーム事業者 "wikilink") [Category:ソフトバンクグループ](https://ja.wikipedia.org/wiki/Category:ソフトバンクグループ "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2009年設立の企業](https://ja.wikipedia.org/wiki/Category:2009年設立の企業 "wikilink") [Category:Yahoo\!_JAPANの歴史](https://ja.wikipedia.org/wiki/Category:Yahoo!_JAPANの歴史 "wikilink")
 
 1.
 2.

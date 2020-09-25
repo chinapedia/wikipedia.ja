@@ -13,7 +13,7 @@
 
 、[都市対抗野球で初優勝を遂げた](../Page/第52回都市対抗野球大会.md "wikilink")。
 
-、日本電信電話の民営化に伴いチーム名を『**NTT東京硬式野球部**』に改称した。
+、日本電信電話公社の民営化に伴いチーム名を『**NTT東京硬式野球部**』に改称した。
 
 、[NTTグループ](../Page/NTTグループ.md "wikilink")の再編に伴い同年[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")にNTT東京硬式野球部を『**NTT東日本硬式野球部**』に、NTT関西硬式野球部を『[NTT西日本硬式野球部](../Page/NTT西日本硬式野球部.md "wikilink")』にそれぞれ改称し、社内の各野球部はそのどちらかに統合されることが決まった。これを受け当チームは、NTT東日本のエリアにある4チーム（[NTT北海道](../Page/NTT北海道_\(野球チーム\).md "wikilink")、[NTT東北](../Page/東北マークス.md "wikilink")、[NTT関東](https://ja.wikipedia.org/wiki/NTT関東硬式野球部 "wikilink")、[NTT信越](../Page/信越硬式野球クラブ.md "wikilink")）を統合した。合宿所と練習グラウンド（[NTT東日本船橋グラウンド](../Page/NTT東日本船橋グラウンド.md "wikilink")）については、NTT関東のものを使用することになった。
 
@@ -73,7 +73,7 @@
   - [清田育宏](https://ja.wikipedia.org/wiki/清田育宏 "wikilink")（外野手） - ドラフト4位で千葉ロッテマリーンズに入団
   - [小石博孝](https://ja.wikipedia.org/wiki/小石博孝 "wikilink")（投手） - ドラフト2位で[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")に入団
   - [井納翔一](https://ja.wikipedia.org/wiki/井納翔一 "wikilink")（投手） - ドラフト3位で[横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")に入団
-  - [高木伴](https://ja.wikipedia.org/wiki/高木伴 "wikilink")（投手） - ドラフト4位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
+  - [髙木伴](https://ja.wikipedia.org/wiki/髙木伴 "wikilink")（投手） - ドラフト4位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
   - [横山弘樹](https://ja.wikipedia.org/wiki/横山弘樹 "wikilink")（投手） - ドラフト2位で[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")に入団
   - [西村天裕](https://ja.wikipedia.org/wiki/西村天裕 "wikilink")（投手） - ドラフト2位で[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")に入団
   - [福田周平](https://ja.wikipedia.org/wiki/福田周平_\(野球\) "wikilink")（内野手） - 2017年ドラフト3位でオリックス・バファローズに入団

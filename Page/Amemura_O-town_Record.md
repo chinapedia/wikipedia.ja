@@ -24,7 +24,7 @@
 ## 所属していたアーティスト
 
   - 小松未歩　ZAIN RECORDS/Spoonfulより本レーベルへ移籍（転入）。GIZA studioへ移籍（転出）。
-  - 椎名祐海　BLUE-Z Recordsよりインディーズデビュー後、本レーベルでメジャーデビュー、活動中止。
+  - 椎名祐海　BLUE-Z Recordsよりインディーズデビュー後、本レーベルでメジャーデビュー、1999年9月まで[KISS-FM KOBEでサウンドクルーとして活動後](https://ja.wikipedia.org/wiki/兵庫エフエム放送 "wikilink")、休止。
   - 辻尾有紗　ZAIN RECORDS/Spoonfulより本レーベルへ移籍（転入）後、予定されていたシングルが発売中止。直後に活動中止。
 
 ## 作品

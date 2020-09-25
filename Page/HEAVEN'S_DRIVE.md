@@ -1,7 +1,7 @@
 > この記事は[HEAVEN\'S DRIVE](https://ja.wikipedia.org/wiki/HEAVEN\'S_DRIVE)から翻訳されています。
 
 
-「**HEAVEN'S DRIVE**」（ヘヴンズ ドライヴ）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の15作目のシングル。[1999年](../Page/1999年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
+{{ external media | width = 300px | align = right | video1 =  }} 「**HEAVEN'S DRIVE**」（ヘヴンズ ドライヴ）は、[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の15作目のシングル。[1999年](../Page/1999年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")発売。発売元は[Ki/oon Records](../Page/キューンミュージック.md "wikilink")。
 
 ## 解説
 

@@ -92,4 +92,4 @@
 [Category:NHK紅白歌合戦](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦 "wikilink") [Category:1953年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1953年のラジオ番組_\(日本\) "wikilink") [Category:1953年の音楽](https://ja.wikipedia.org/wiki/Category:1953年の音楽 "wikilink") [Category:1953年1月](https://ja.wikipedia.org/wiki/Category:1953年1月 "wikilink")
 
 1.  [太田省一](https://ja.wikipedia.org/wiki/太田省一 "wikilink")『紅白歌合戦と日本人』、25頁。
-2.  ただし、67年後の[2020年](../Page/2020年.md "wikilink")[元日](../Page/元日.md "wikilink")に総合テレビで放送された「NHKバーチャル紅白歌合戦」は紅組をV-tuber、白組を実在の歌手としているため、正月の「紅白歌合戦」ではあるものの全くの別物である。
+2.  ただし、67年後の[2020年](../Page/2020年.md "wikilink")[元日](../Page/元日.md "wikilink")に総合テレビで放送された「[NHKバーチャル紅白歌合戦](../Page/NHKバーチャル紅白歌合戦.md "wikilink")」は紅組を[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")、白組を実在の歌手としているため、正月の「紅白歌合戦」ではあるものの全くの別物である。

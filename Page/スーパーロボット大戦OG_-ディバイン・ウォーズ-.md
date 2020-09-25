@@ -9,7 +9,7 @@
 
 テレビ放送は第25話をもって終了したが、第26話がDVD最終巻に収録されている。2007年2月23日からDVDが発売され、奇数巻のみ通常版のほかに彩色済みアクションフィギュアが同梱されたLimited Editionが発売された\[2\]。
 
-本作の放送が開始された2006年には、『OG1』の[PS2への移植作](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』（以後『OGS』）の発売が予定されていたが\[3\]、その後放送中の2007年1月25日に延期された後に無期延期となり\[4\]、3月末に放送された最終話のCMで同年6月28日に発売されることが告知された\[5\]。
+本作の放送が開始された2006年には、『OG1』の[PS2への移植作](../Page/PlayStation_2.md "wikilink")『[スーパーロボット大戦OG ORIGINAL GENERATIONS](../Page/スーパーロボット大戦OG_ORIGINAL_GENERATIONS.md "wikilink")』（以後『OGS』）の発売が予定されていたが\[3\]、その後放送中の2007年1月25日に延期された後に無期延期となり\[4\]、3月末に放送された最終話のCMで同年6月28日に発売されることが告知された\[5\]。
 
 後に『OG1』の続編であるGBA用ゲームソフト『[スーパーロボット大戦ORIGINAL GENERATION2](../Page/スーパーロボット大戦ORIGINAL_GENERATION2.md "wikilink")』も『[スーパーロボット大戦OG -ジ・インスペクター-](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_-ジ・インスペクター- "wikilink")』としてテレビアニメ化されている。
 

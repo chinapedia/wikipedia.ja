@@ -161,7 +161,7 @@
 </tr>
 <tr class="odd">
 <td><p>31</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サラ・ブライトマン" title="wikilink">サラ・ブライトマン</a>(初)</p></td>
+<td><p><a href="../Page/サラ・ブライトマン.md" title="wikilink">サラ・ブライトマン</a>(初)</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カントリー・ミュージック" title="wikilink">カントリー・ミュージック</a></p></td>

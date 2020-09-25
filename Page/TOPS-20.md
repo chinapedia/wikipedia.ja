@@ -9,7 +9,7 @@ TOPS-20はPDP-10で当時利用可能だったOSとして、TOPS-10、[ITS](../P
 
 ## TENEX
 
-TOPS-20は[BBNが](https://ja.wikipedia.org/wiki/Bolt,_Beranek_and_Newman "wikilink")[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[PDP-10](../Page/PDP-10.md "wikilink")用に開発した[TENEX](https://ja.wikipedia.org/wiki/TENEX "wikilink")というOSをベースに開発された。TENEXはPDP-10で動作するサードパーティー製のOSとして当時最も人気があったが、DECが新たに開発した高速なKI-10版PDP-10では動作しなかった。この問題に対応するため、DECのPDP-10担当セールスマネージャはBBNからTENEXの権利を買い取り、新機種に移植するプロジェクトを立ち上げた。最終的には元のTENEXのコードはほとんど残らず、TOPS-20という名前で販売された。
+TOPS-20は[BBNが](https://ja.wikipedia.org/wiki/Bolt,_Beranek_and_Newman "wikilink")[DECの](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")[PDP-10](../Page/PDP-10.md "wikilink")用に開発した[TENEX](../Page/TENEX.md "wikilink")というOSをベースに開発された。TENEXはPDP-10で動作するサードパーティー製のOSとして当時最も人気があったが、DECが新たに開発した高速なKI-10版PDP-10では動作しなかった。この問題に対応するため、DECのPDP-10担当セールスマネージャはBBNからTENEXの権利を買い取り、新機種に移植するプロジェクトを立ち上げた。最終的には元のTENEXのコードはほとんど残らず、TOPS-20という名前で販売された。
 
 ## PA1050
 

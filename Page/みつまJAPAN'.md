@@ -1,7 +1,7 @@
 > この記事は[みつまJAPAN\'](https://ja.wikipedia.org/wiki/みつまJAPAN\')から翻訳されています。
 
 
-**みつまJAPAN**'（みつま じゃぱん、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い芸人である](../Page/お笑いタレント.md "wikilink")。本名、**三津間 正晃**（みつま まさあき）。 [福島県](../Page/福島県.md "wikilink")[二本松市](../Page/二本松市.md "wikilink")出身。[2009年](../Page/2009年.md "wikilink")から[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")のお笑いセクション「WAHAHA商店」に所属。身長149cm、体重65kg。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。
+**みつまJAPAN**'（みつま じゃぱん、[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")[5月1日](../Page/5月1日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑い芸人である](../Page/お笑いタレント.md "wikilink")。本名、**三津間 正晃**（みつま まさあき）。 [福島県](../Page/福島県.md "wikilink")[二本松市](../Page/二本松市.md "wikilink")出身。[2009年](../Page/2009年.md "wikilink")から[WAHAHA本舗](../Page/WAHAHA本舗.md "wikilink")のお笑いセクション「WAHAHA商店」に所属。身長149cm、体重65kg。[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。
 
 ## 経歴
 

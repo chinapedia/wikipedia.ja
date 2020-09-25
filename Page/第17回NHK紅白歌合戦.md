@@ -68,7 +68,7 @@
   - [五代利矢子](https://ja.wikipedia.org/wiki/五代利矢子 "wikilink") - 評論家。『[こんにちは奥さん](https://ja.wikipedia.org/wiki/こんにちは奥さん "wikilink")』レギュラー。
   - [浜美枝](../Page/浜美枝.md "wikilink") - 女優。映画『[007は二度死ぬ](../Page/007は二度死ぬ.md "wikilink")』アジア人初の[ボンドガール](../Page/ボンドガール.md "wikilink")。この年に日本ロケが行われた。
   - [山崎豊子](../Page/山崎豊子.md "wikilink") - 作家。この年のテレビドラマ『横堀川』の原作者。
-  - [大佛次郎](../Page/大佛次郎.md "wikilink") - 作家。翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[三姉妹](https://ja.wikipedia.org/wiki/三姉妹 "wikilink")』の原作者。
+  - [大佛次郎](../Page/大佛次郎.md "wikilink") - 作家。翌年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[三姉妹](../Page/三姉妹.md "wikilink")』の原作者。
   - [尾上菊之助](../Page/尾上菊五郎_\(7代目\).md "wikilink") - 歌舞伎俳優。この年の大河ドラマ『[源義経](../Page/源義経_\(NHK大河ドラマ\).md "wikilink")』の主人公・[源義経](../Page/源義経.md "wikilink")役。
   - [加藤芳郎](../Page/加藤芳郎.md "wikilink") - 漫画家。
   - [鶴ヶ嶺昭男](../Page/鶴ヶ嶺昭男.md "wikilink") - 大相撲・前頭。
@@ -83,7 +83,7 @@
   - [砂川啓介](../Page/砂川啓介.md "wikilink")
   - [松竹歌劇団](../Page/松竹歌劇団.md "wikilink")(SKD)
   - [渥美清](../Page/渥美清.md "wikilink")
-  - [藤村志保](../Page/藤村志保.md "wikilink") - [大河ドラマ](../Page/大河ドラマ.md "wikilink")「[三姉妹](https://ja.wikipedia.org/wiki/三姉妹 "wikilink")」のおるい役
+  - [藤村志保](../Page/藤村志保.md "wikilink") - [大河ドラマ](../Page/大河ドラマ.md "wikilink")「[三姉妹](../Page/三姉妹.md "wikilink")」のおるい役
   - [石坂浩二](../Page/石坂浩二.md "wikilink")
 
 ### 大会委員長

@@ -65,10 +65,10 @@
   - [中山卯郎](https://ja.wikipedia.org/wiki/中山卯郎 "wikilink") - NHK芸能局長（審査委員長）
   - [福島慎太郎](https://ja.wikipedia.org/wiki/福島慎太郎 "wikilink") - [共同通信社](../Page/共同通信社.md "wikilink")社長。
   - [木村秀政](../Page/木村秀政.md "wikilink") - [日本大学](https://ja.wikipedia.org/wiki/日本大学 "wikilink")教授・航空機設計者。
-  - [西本幸雄](../Page/西本幸雄.md "wikilink") - [阪急ブレーブス監督](../Page/オリックス・バファローズ.md "wikilink")。
+  - [西本幸雄](../Page/西本幸雄.md "wikilink") - [阪急ブレーブス監督](../Page/オリックス・バファローズ.md "wikilink")。この年阪急を初のリーグ優勝に導く。
   - [石坂浩二](../Page/石坂浩二.md "wikilink") - 俳優。
   - [福原美和](../Page/福原美和.md "wikilink") - フィギュアスケート選手。
-  - [栗原小巻](../Page/栗原小巻.md "wikilink") - 女優。この年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[三姉妹](https://ja.wikipedia.org/wiki/三姉妹 "wikilink")』の雪役。
+  - [栗原小巻](../Page/栗原小巻.md "wikilink") - 女優。この年の[大河ドラマ](../Page/大河ドラマ.md "wikilink")『[三姉妹](../Page/三姉妹.md "wikilink")』の雪役。
   - [塩月弥栄子](../Page/塩月弥栄子.md "wikilink") - 茶道家。
   - [平岩弓枝](../Page/平岩弓枝.md "wikilink") - 作家。
   - 地方審査員16名

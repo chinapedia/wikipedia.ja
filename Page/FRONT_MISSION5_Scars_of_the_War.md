@@ -1,7 +1,7 @@
 > この記事は[FRONT MISSION5 Scars of the War](https://ja.wikipedia.org/wiki/FRONT_MISSION5_Scars_of_the_War)から翻訳されています。
 
 
-『**FRONT MISSION5〜Scars of the War〜**』 （フロントミッションフィフス スカーズオブザウォー）は、[2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。
+『**FRONT MISSION5〜Scars of the War〜**』 （フロントミッションフィフス スカーズオブザウォー）は、[2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。ジャンルは[シミュレーションRPG](https://ja.wikipedia.org/wiki/シミュレーションRPG "wikilink")。
 
 ## 概要
 

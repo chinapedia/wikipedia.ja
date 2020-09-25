@@ -13,7 +13,7 @@
 
 Pluribus は2台以上の標準的な19インチの電子機器用ラックで構成される(各ラックには4つのベイがある)。それぞれのベイには[バックプレーン](../Page/バックプレーン.md "wikilink")[バスがあり](../Page/バス_\(コンピュータ\).md "wikilink")、ベイ毎に電源が供給されている。ベイ毎にプロセッサバスの構成されたもの、共有メモリバスの構成されたもの、I/Oバスの構成されたものがある。ベイとベイの間は独自のカプラーで接続し、それによってプロセッサが共有メモリやI/O機器にアクセスできるようにする。
 
-13プロセッサのPluribusをネットワーク交換機として使用して、BBNの5つの[TENEX](https://ja.wikipedia.org/wiki/TENEX "wikilink")/"Tewnex"[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")を[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")で接続した。Pluribusのプロセッサは、[ロッキード](../Page/ロッキード.md "wikilink")の SUE と呼ばれるものであった。SUE のアーキテクチャはDECの[PDP-11](../Page/PDP-11.md "wikilink")に類似している。
+13プロセッサのPluribusをネットワーク交換機として使用して、BBNの5つの[TENEX](../Page/TENEX.md "wikilink")/"Tewnex"[タイムシェアリングシステム](../Page/タイムシェアリングシステム.md "wikilink")を[モデム](https://ja.wikipedia.org/wiki/モデム "wikilink")で接続した。Pluribusのプロセッサは、[ロッキード](../Page/ロッキード.md "wikilink")の SUE と呼ばれるものであった。SUE のアーキテクチャはDECの[PDP-11](../Page/PDP-11.md "wikilink")に類似している。
 
 ## Pluribus のソフトウェア
 

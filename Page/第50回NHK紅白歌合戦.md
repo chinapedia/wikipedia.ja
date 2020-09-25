@@ -61,7 +61,7 @@
 
   - [出島武春](../Page/出島武春.md "wikilink")（[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")・[大関](../Page/大関.md "wikilink")）：この年の大相撲[名古屋場所で優勝し大関に昇進](../Page/本場所.md "wikilink")。
   - [松嶋菜々子](https://ja.wikipedia.org/wiki/松嶋菜々子 "wikilink")（[女優](../Page/俳優.md "wikilink")）：主人公を演じた[TBSドラマ](../Page/TBSテレビ.md "wikilink")『[魔女の条件](../Page/魔女の条件.md "wikilink")』が話題に。
-  - [内館牧子](../Page/内館牧子.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[私の青空](../Page/私の青空.md "wikilink")』作者。
+  - [内館牧子](../Page/内館牧子.md "wikilink")（[脚本家](../Page/脚本家.md "wikilink")）：翌年上期の[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")『[私の青空](../Page/私の青空.md "wikilink")』作者。
   - [野村萬斎](https://ja.wikipedia.org/wiki/野村萬斎#二世野村萬斎 "wikilink")（[狂言師](https://ja.wikipedia.org/wiki/狂言師 "wikilink")）：この年『[課外授業 ようこそ先輩](../Page/課外授業_ようこそ先輩.md "wikilink")』に出演し母校で狂言を指導。
   - [田村亮子](../Page/谷亮子.md "wikilink")（[柔道](../Page/柔道.md "wikilink")[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")）：翌年の[シドニーオリンピック女子48kg以下級出場が内定](../Page/2000年シドニーオリンピックの柔道競技.md "wikilink")。
   - [津川雅彦](../Page/津川雅彦.md "wikilink")（[俳優](../Page/俳優.md "wikilink")）：翌年の大河ドラマ『[葵 徳川三代](../Page/葵_徳川三代.md "wikilink")』の主人公・[徳川家康](../Page/徳川家康.md "wikilink")役。
@@ -172,7 +172,7 @@
 
 50回という節目の回らしく大物・人気のタレントが大量に番組の随所に登場し、番組を賑やかに盛り上げた。
 
-  - [スヌーピー](../Page/スヌーピー.md "wikilink")、[チャーリー・ブラウン](../Page/チャーリー・ブラウン_\(ピーナッツ\).md "wikilink")、ルーシー（『[ピーナッツ](https://ja.wikipedia.org/wiki/ピーナッツ_\(漫画\) "wikilink")』のキャラクター）：Hystelic Blueの曲紹介。
+  - [スヌーピー](../Page/スヌーピー.md "wikilink")、[チャーリー・ブラウン](../Page/チャーリー・ブラウン_\(ピーナッツ\).md "wikilink")、ルーシー（『[ピーナッツ](../Page/ピーナッツ_\(漫画\).md "wikilink")』のキャラクター）：Hystelic Blueの曲紹介。
   - スプー（『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』の「スプーとガタラット」（後の「[ぐ〜チョコランタン](../Page/ぐ〜チョコランタン.md "wikilink")」）のキャラクター）：茂森あゆみ・速水けんたろうの曲中。
   - みど・わおん、ふぁど・わおん、れおなるど・とびっしー、青井空男（同じく「[ドレミファ・どーなっつ\!](../Page/ドレミファ・どーなっつ!.md "wikilink")」のキャラクター）：同上。
   - 袋小路じゃじゃまる、ふぉるてしも・ぴっころ、ぽろり・カジリアッチIII世（同じく「[にこにこぷん](../Page/にこにこぷん.md "wikilink")」のキャラクター）：同上。

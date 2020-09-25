@@ -1311,7 +1311,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コザっぴDO!" title="wikilink">コザっぴDO!</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2013年7月12日</p></td>
 <td></td>
 </tr>
@@ -1732,1002 +1732,1008 @@
 <td><p>後にTV放映</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/夏恋戦機" title="wikilink">夏恋戦機</a></p></td>
+<td><p><a href="../Page/Crunchyroll.md" title="wikilink">Crunchyroll</a></p></td>
+<td><p>2014年9月27日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔弾の王と戦姫#ティグルくんとヴァナディーちゅ" title="wikilink">ティグルくんとヴァナディーちゅ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年10月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Bonjour♪恋味パティスリー" title="wikilink">Bonjour♪恋味パティスリー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2014年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/STEINS;GATE_(アニメ)#ミニアニメ" title="wikilink">STEINS;GATE 聡明叡智のコグニティブ・コンピューティング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年10月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/つぶやき隊" title="wikilink">つぶやき隊</a>×スカルプD</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年10月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Wake_Up,_Girls!#Webアニメ" title="wikilink">うぇいくあっぷがーるZOO!</a></p></td>
 <td><p><a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a>等</p></td>
 <td><p>2014年10月22日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マッツとヤンマとモブリさん" title="wikilink">マッツとヤンマとモブリさん</a>2－水軍お宝と謎解きの島々－</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年10月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FASTENING_DAYS" title="wikilink">FASTENING DAYS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年10月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本アニメ（ーター）見本市" title="wikilink">日本アニメ（ーター）見本市</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2014年11月7日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルサイユのばら#Webアニメ" title="wikilink">チャンネル5.5 ベルサイユのばら</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年11月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポケットモンスター_オメガルビー・アルファサファイア#映像" title="wikilink">『ポケットモンスター オメガルビー・アルファサファイア』 メガスペシャルアニメーション</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年11月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コアテクノロジー・アニメーション" title="wikilink">コアテクノロジー・アニメーション</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年11月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おにくだいすき!ゼウシくん" title="wikilink">おにくだいすき!ゼウシくん （第2期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2014年11月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ふなっしー#Webアニメ" title="wikilink">ふなっしーとゆかいな兄弟</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a>1月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マンガで分かる心療内科" title="wikilink">アニメで分かる心療内科</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a>等</p></td>
 <td><p>2015年2月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/虫族" title="wikilink">虫族</a>chu!chu!chu!</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年2月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ベイブレード.md" title="wikilink">ベイウォーリアーズ サイボーグ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アニメ放題" title="wikilink">アニメ放題</a></p></td>
 <td><p>2015年2月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポンタ劇場" title="wikilink">ポンタ劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年2月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハリとコシの女王_〜髪相撲で美を競う女たち〜" title="wikilink">ハリとコシの女王 〜髪相撲で美を競う女たち〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年2月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本アニメ（ーター）見本市" title="wikilink">日本アニメ（ーター）見本市 2ndシーズン</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2015年3月13日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フェットとチーネとグミ星人" title="wikilink">フェットとチーネとグミ星人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年3月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/イオンファンタジー#アニメ" title="wikilink">ラララ ララちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年3月20日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Master_of_Torque_Season2" title="wikilink">Master of Torque Season2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年3月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/超爆裂異次元メンコバトル_ギガントシューター_つかさ" title="wikilink">超爆裂異次元メンコバトル ギガントシューター つかさα</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/平成松江怪談" title="wikilink">平成松江怪談</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年4月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リトルハローキティ" title="wikilink">リトルハローキティ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年4月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖闘士星矢_黄金魂_-soul_of_gold-" title="wikilink">聖闘士星矢 黄金魂 -soul of gold-</a></p></td>
 <td><p><a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a>等</p></td>
 <td><p>2015年4月11日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャスレイヤー" title="wikilink">ニンジャスレイヤー フロムアニメイシヨン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></td>
 <td><p>2015年4月16日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おなか姫" title="wikilink">おなか姫</a></p></td>
 <td><p><a href="../Page/Facebook.md" title="wikilink">Facebook</a></p></td>
 <td><p>2015年5月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロボットガールズZ" title="wikilink">ロボットガールズZ</a>プラス</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2015年5月20日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/極道大戦争" title="wikilink">極道酒場でんでん〜極道大戦争外伝〜</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2015年5月30日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1000ちゃん" title="wikilink">1000ちゃん</a>スペシャルショートドラマ2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年6月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/VAMPIRE_HOLMES" title="wikilink">ホームズ今日の一言</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2015年6月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KANPAI!-乾杯-" title="wikilink">KANPAI!-乾杯-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年6月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/こびとづかん" title="wikilink">こびとす</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年6月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/体育祭にかけろ!" title="wikilink">体育祭にかけろ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年6月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガッチャマン_クラウズ" title="wikilink">ガッチャマン クラウズ インサイト #00</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Hulu" title="wikilink">Hulu</a></p></td>
 <td><p>2015年6月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/帰ってきてよぉ富山から" title="wikilink">帰ってきてよぉ富山から</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年6月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おじゾウさん" title="wikilink">おじゾウさん</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2015年6月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/みんなのおかやま犬" title="wikilink">みんなのおかやま犬</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年7月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/Axis_powers_ヘタリア.md" title="wikilink">ヘタリア The World Twinkle （第6期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドコモ・アニメストア" title="wikilink">dアニメストア</a></p></td>
 <td><p>2015年7月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスター娘のいる日常" title="wikilink">モンスター娘のいる日常 ほぼ毎日○○！生っぽい動画</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2015年7月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/チャンネル5.5" title="wikilink">全力予備校5.5ゼミナール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/森のおんがくだん" title="wikilink">森のおんがくだん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年7月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/語りべ少女ほのか" title="wikilink">語りべ少女ほのか</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年7月31日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本アニメ（ーター）見本市" title="wikilink">日本アニメ（ーター）見本市 3rdシーズン</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2015年7月31日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オシリスの天秤" title="wikilink">オシリスの天秤</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビオンデマンド" title="wikilink">フジテレビオンデマンド</a></p></td>
 <td><p>2015年8月1日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボンボンTV" title="wikilink">味噌</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/たましち!" title="wikilink">たましち!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/かなかなかぞく" title="wikilink">かなかなかぞく 第2シーズン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/雛蜂" title="wikilink">雛蜂</a>-B.E.E-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ザクセスヘブン" title="wikilink">ザクセスヘブン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2015年8月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/スカイガールズ.md" title="wikilink">釣りバカ瑛花さん スカイガールズ ダイナマイトフィッシング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トマトになった男の子" title="wikilink">トマトになった男の子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年8月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MILPOM★" title="wikilink">MILPOM★</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年9月5日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/超次元変形フレームロボ" title="wikilink">超次元変形フレームロボ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年9月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/彼女が漢字を好きな理由。" title="wikilink">彼女が漢字を好きな理由。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年9月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ランス・アンド・マスクス#テレビアニメ" title="wikilink">真緒と毎日おしゃべり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Vine_(アプリケーション)" title="wikilink">Vine</a></p></td>
 <td><p>2015年9月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スギオ〜森林で恋をして〜" title="wikilink">スギオ〜森林で恋をして〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年9月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/龍三と七人の子分たち" title="wikilink">龍三と七人の子分たち コラボアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年9月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/超機動街区_KASHIWA-NO-HA" title="wikilink">超機動街区 KASHIWA-NO-HA</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年10月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイリトルポニー:_エクエストリア・ガールズ" title="wikilink">マイリトルポニー: エクエストリア・ガールズ</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2015年10月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)" title="wikilink">モンスターストライク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイリトルポニー:_エクエストリア・ガールズ_-_虹の冒険" title="wikilink">マイリトルポニー: エクエストリア・ガールズ - 虹の冒険</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2015年10月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/吾輩ノ彼ハ馬鹿である" title="wikilink">カレバカ〜吾輩ノ彼ハ馬鹿でR〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヤングアニマルDensi" title="wikilink">ヤングアニマルDensi</a></p></td>
 <td><p>2015年10月16日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Master_of_Torque_スピンオフ_Four_Seasons_楓花と七波" title="wikilink">Master of Torque スピンオフ Four Seasons 楓花と七波</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年10月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スーパーショートコミックス" title="wikilink">スーパーショートコミックス</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2015年11月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/弱酸性ミリオンアーサー" title="wikilink">弱酸性ミリオンアーサー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2015年11月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔法少女まみりん" title="wikilink">魔法少女まみりん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレ東プレイ</a></p></td>
 <td><p>2015年11月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/僕らの明日" title="wikilink">僕らの明日</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年11月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">〜亜人 meets 秘密結社鷹の爪〜 鷹の爪団の亜人捕獲大作戦!</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2015年11月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/わんわんわんコイン" title="wikilink">わんわんわんコイン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年12月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ねば〜る君" title="wikilink">てくてくねば〜る君</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年12月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_サンダーボルト" title="wikilink">機動戦士ガンダム サンダーボルト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a></p></td>
 <td><p>2015年12月11日</p></td>
 <td><p>後にこの映像を用いて映画化<br />
 後に映画版がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/磯部磯兵衛物語〜浮世はつらいよ〜" title="wikilink">磯部磯兵衛物語</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a><br />
 <a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a></p></td>
 <td><p>2015年12月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ももくり" title="wikilink">ももくり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/comico" title="wikilink">comico</a></p></td>
 <td><p>2015年12月24日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バナ夫" title="wikilink">エリートバナナ バナ夫</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アルスラーン戦記#テレビアニメ" title="wikilink">企業戦士アルスラーン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2015年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイリトルポニー:_エクエストリア・ガールズ_-_フレンドシップ・ゲーム" title="wikilink">マイリトルポニー: エクエストリア・ガールズ - フレンドシップ・ゲーム</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2015年12月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マジンガーZ×ハローキティ×超合金_オリジナルショートアニメ" title="wikilink">マジンガーZ×ハローキティ×超合金 オリジナルショートアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a>1月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/どろけい_(アニメ)" title="wikilink">どろけい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年1月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/野菜戦士ぬかづけマン" title="wikilink">野菜戦士ぬかづけマン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年1月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/暦物語_(西尾維新)" title="wikilink">暦物語</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2016年1月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/学戦都市アスタリスク" title="wikilink">なぜなに!?アスタリスク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年1月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヒストリカル_(アニメ)" title="wikilink">ヒストリカル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年1月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ノブレス.md" title="wikilink">Noblesse: Awakening</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年2月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おにくだいすき!ゼウシくん" title="wikilink">おにくだいすき!ゼウシくん （第3期）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年2月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/みらいへの手紙〜この道の途中から〜" title="wikilink">みらいへの手紙〜この道の途中から〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年2月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュエルペット#Webアニメ" title="wikilink">ジュエルペット あたっくちゃんす!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年2月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おちよ蛇類明神" title="wikilink">おちよ蛇類明神</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/暗殺教室#テレビアニメ" title="wikilink">暗殺教室 第2期 課外授業編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a></p></td>
 <td><p>2016年3月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/守り人シリーズ#テレビドラマ" title="wikilink">ちっちゃな精霊の守り人</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">日本放送協会</a>公式サイト</p></td>
 <td><p>2016年3月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プルーン大好き紫女子部_〜同窓会編〜" title="wikilink">プルーン大好き紫女子部 〜同窓会編〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/未来のワタシ" title="wikilink">未来のワタシ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Facebook.md" title="wikilink">Facebook</a></p></td>
 <td><p>2016年3月16日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ストーカー被害、未然に防ごう&quot;Cafe_Mizen&quot;" title="wikilink">ストーカー被害、未然に防ごう"Cafe Mizen"</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソウルワーカー" title="wikilink">ソウルワーカー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ふらいんぐうぃっち" title="wikilink">ふらいんぐうぃっち ぷち</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月18日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オーバーウォッチ" title="wikilink">オーバーウォッチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)" title="wikilink">モンスターストライク 第2章</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月26日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宇宙ネコ_マードックの冒険" title="wikilink">宇宙ネコ マードックの冒険</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ファイナルファンタジーXV.md" title="wikilink">BROTHERHOOD FINAL FANTASY XV</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年3月31日</p></td>
 <td><p>後に編集版がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中くんはいつもけだるげ" title="wikilink">田中くんは今日もけだるげ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2016年4月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">秘密結社鷹の爪</a>GT</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVE</a></p></td>
 <td><p>2016年4月7日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おしえて_アベマくん" title="wikilink">おしえて アベマくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2016年4月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROBOT_TOWN_SAGAMI_2028" title="wikilink">ROBOT TOWN SAGAMI 2028</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年4月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オニズシ" title="wikilink">オニズシ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年4月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スターフォックス_ゼロ_ザ・バトル・ビギンズ" title="wikilink">スターフォックス ゼロ ザ・バトル・ビギンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年4月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オシリスの天秤" title="wikilink">オシリスの天秤 -season2-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビオンデマンド" title="wikilink">フジテレビオンデマンド</a></p></td>
 <td><p>2016年4月22日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/パティシエのモンスター" title="wikilink">パティシエのモンスター</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年4月27日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Master_of_Torque_Season3" title="wikilink">Master of Torque Season3</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年4月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/政宗ダテニクル" title="wikilink">政宗ダテニクル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2016年5月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ホームメイト・アニメ" title="wikilink">ホームメイト・アニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年5月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/にこやか食堂" title="wikilink">にこやか食堂</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年5月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アメイジングぷっちょ" title="wikilink">アメイジングぷっちょ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年5月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/婚活スイッチ" title="wikilink">婚活スイッチ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年5月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/いっぽう日本昔ばなし" title="wikilink">いっぽう日本昔ばなし</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UULA" title="wikilink">UULA</a><br />
 <a href="https://ja.wikipedia.org/wiki/ゲオホールディングス" title="wikilink">ゲオチャンネル</a></p></td>
 <td><p>2016年6月1日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/気まぐれコンセプト.md" title="wikilink">残念中高年の健康見栄講座</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年6月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Promised_Town" title="wikilink">Promised Town</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年6月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/こまねこ" title="wikilink">ワクワクこまちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2016年6月17日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トミカハイパーシリーズ_NEXT_STAGE" title="wikilink">トミカハイパーシリーズ NEXT STAGE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年6月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#オールフリー×おそ松さん" title="wikilink">オールフリー×おそ松さん オールフリーと楽しむ、この夏イチオシ物語</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2016年6月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/弱虫ペダル#Webアニメ" title="wikilink">ちばペダル 〜弱虫ペダルと学ぶ自転車交通安全〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔法少女?なりあ☆がーるず" title="wikilink">なりあ☆がーるずの生でアニメをつくるさま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></td>
 <td><p>2016年7月1日</p></td>
 <td><p>後に編集版がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/討鬼伝" title="wikilink">討鬼伝</a>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Peeping_Life" title="wikilink">Peeping Life×SANYO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/planetarian_〜ちいさなほしのゆめ〜" title="wikilink">planetarian 〜ちいさなほしのゆめ〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a>等</p></td>
 <td><p>2016年7月7日</p></td>
 <td><p>後にこの映像を用いて映画化<br />
 後に映画版がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/はみだしコロコロ" title="wikilink">はみだしコロコロ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/かなかなかぞく" title="wikilink">かなかなかぞく 吉本興業版</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/元素の日常" title="wikilink">元素の日常</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年7月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FASTENING_DAYS" title="wikilink">FASTENING DAYS 2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年8月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/氷結_(チューハイ)#WEB限定アニメCM" title="wikilink">キリン 氷結® あたらしくいこう アニメーションムービー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年8月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん外伝_エイリアン_vs._しんのすけ" title="wikilink">クレヨンしんちゃん外伝 エイリアン vs. しんのすけ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2016年8月3日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/うさまる" title="wikilink">うさまる</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVE</a></p></td>
 <td><p>2016年8月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/1000ちゃん" title="wikilink">WEBアニメ1000ちゃん 厚木LOVE編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年8月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FINGERS5" title="wikilink">FINGERS5</a>劇場</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年9月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドリフェス!" title="wikilink">ドリフェス!</a></p></td>
 <td><p><a href="../Page/アニメイト.md" title="wikilink">アニメイト</a>チャンネル<br />
 <a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2016年9月23日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドロップス" title="wikilink">アイドロップス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年9月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/怪獣娘_〜ウルトラ怪獣擬人化計画〜" title="wikilink">怪獣娘（かいじゅうがーるず） 〜ウルトラ怪獣擬人化計画〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dアニメストア" title="wikilink">dアニメストア</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年9月27日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イマノワタシニデキルコト・・・" title="wikilink">イマノワタシニデキルコト・・・</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年9月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)" title="wikilink">モンストーク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/GJ8マン" title="wikilink">GJ8マン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2016年10月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/月曜日のたわわ" title="wikilink">月曜日のたわわ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2016年10月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#6つ子とおうまの物語" title="wikilink">6つ子とおうまの物語</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガールフレンド（♪）" title="wikilink">ガールフレンド（♪）</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dアニメストア" title="wikilink">dアニメストア</a></p></td>
 <td><p>2016年10月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/彼岸島X" title="wikilink">彼岸島X</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2016年10月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/100%パスカル先生" title="wikilink">100%パスカル先生</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月15日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SHELTER" title="wikilink">SHELTER</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月18日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/逃猫ジュレ" title="wikilink">逃猫ジュレ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オハイアリイ〜輝く日のために〜" title="wikilink">オハイアリイ〜輝く日のために〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年10月31日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/知力丸" title="wikilink">知力丸</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年11月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イナズマイレブン_アウターコード" title="wikilink">イナズマイレブン アウターコード</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2016年11月4日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん外伝_おもちゃウォーズ" title="wikilink">クレヨンしんちゃん外伝 おもちゃウォーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2016年11月9日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/あいのまち!" title="wikilink">あいのまち! It's a wonderful days in Aioi編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年11月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ACCA13区監察課" title="wikilink">アッカァくんのACCA講座</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2016年11月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/中古ビデオ屋の女店員_X" title="wikilink">中古ビデオ屋の女店員 X</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年11月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">シンデレラガールズ劇場 5周年記念ショートアニメ</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2016年11月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポケモンジェネレーションズ" title="wikilink">ポケモンジェネレーションズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年12月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/シルバニアファミリー.md" title="wikilink">シルバニアファミリー シルバニア村のたからもの</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2016年12月16日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/殺せんせーQ!" title="wikilink">殺せんせーQ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フジテレビオンデマンド" title="wikilink">フジテレビオンデマンド</a>等</p></td>
 <td><p>2016年12月23日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ナンバカ" title="wikilink">ナンバカ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドコモ・アニメストア" title="wikilink">dアニメストア</a></p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a>1月4日</p></td>
 <td><p>後にTV放映<br />
 第14話以降</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/それゆけ!毛ガニちゃん!" title="wikilink">それゆけ!毛ガニちゃん!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/守り人シリーズ#テレビドラマ" title="wikilink">ちっちゃな精霊の守り人II</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/日本放送協会" title="wikilink">日本放送協会</a>公式サイト</p></td>
 <td><p>2017年1月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/幼女戦記" title="wikilink">ようじょしぇんき</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月6日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Tokyo_SAKE_Brewery" title="wikilink">Tokyo SAKE Brewery</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/超游世界" title="wikilink">超游世界</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a><br />
@@ -2735,1494 +2741,1494 @@
 <td><p>2017年1月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トレインヒーロー" title="wikilink">トレインヒーロー 本日もスピンアウト! インドネシア編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a>等</p></td>
 <td><p>2017年1月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Innovators" title="wikilink">Innovators</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/LINE_ぷるぽん" title="wikilink">LINE ぷるぽん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/花王_消臭ストロングシリーズ_親子は続くよ編" title="wikilink">花王 消臭ストロングシリーズ 親子は続くよ編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/さくらインターネット_新生" title="wikilink">さくらインターネット 新生</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/たまぽんず" title="wikilink">たまぽんず</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年1月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイリトルポニー:_エクエストリア・ガールズ_-_エバーフリーの伝説" title="wikilink">マイリトルポニー: エクエストリア・ガールズ - エバーフリーの伝説</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2017年2月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/まるもふびより.md" title="wikilink">まるもふびより</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年2月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん外伝_家族連れ狼" title="wikilink">クレヨンしんちゃん外伝 家族連れ狼</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2017年2月22日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/乙女落語" title="wikilink">乙女落語</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2017年2月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/3月のライオン.md" title="wikilink">うごく!ニャー将棋</a></p></td>
 <td><p><a href="../Page/ジュピターエンタテインメント.md" title="wikilink">J:COMオンデマンド</a></p></td>
 <td><p>2017年2月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/駐日フィンランド大使館" title="wikilink">フィンたん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年2月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/青のストラーダ" title="wikilink">青のストラーダ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年2月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ちゃんと・・・" title="wikilink">ちゃんと・・・</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こえだちゃん" title="wikilink">みどりのくにのおともだち こえだちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレイブ_フロンティア" title="wikilink">ゆるっとフロンティア</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/磯部磯兵衛物語〜浮世はつらいよ〜" title="wikilink">磯部磯兵衛物語 第2期</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2017年3月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ひるね姫_〜知らないワタシの物語〜" title="wikilink">エンシェンと魔法のタブレット 〜もうひとつのひるね姫〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Hulu" title="wikilink">Hulu</a></p></td>
 <td><p>2017年3月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/よ!大統領トラップくん" title="wikilink">よ!大統領トラップくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/平成松江怪談" title="wikilink">平成松江怪談</a>〜怪し〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビーくん" title="wikilink">ゾゾゾ ゾンビーくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポケットシェルターと魔法王子" title="wikilink">ポケットシェルターと魔法王子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/北九州プライド_KITAKYUSHU_PRIDE_十番勝負" title="wikilink">北九州プライド KITAKYUSHU PRIDE 十番勝負</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_サンダーボルト" title="wikilink">機動戦士ガンダム サンダーボルト 第2シーズン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a>等</p></td>
 <td><p>2017年3月24日</p></td>
 <td><p>後にこの映像を用いて映画化<br />
 後に映画版がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ピーポくん.md" title="wikilink">ピーポくん</a>アニメーション</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/夢王国と眠れる100人の王子様" title="wikilink">夢王国と眠れる100人の王子様 ショート</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年3月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/変形少女" title="wikilink">変形少女</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月27日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/COOL_CHOICE_イメージキャラクター3DCG動画" title="wikilink">COOL CHOICE イメージキャラクター3DCG動画</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ぺらぺらニホンジン" title="wikilink">ぺらぺらニホンジン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年3月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フランケンシュタインの恋#かいぶつが、生まれた日。" title="wikilink">かいぶつが、生まれた日。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)" title="wikilink">モンスターストライク 第2期</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月1日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第1期）</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2017年4月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/シルバニアファミリー.md" title="wikilink">シルバニアファミリー 夢ふくらむ あこがれの街</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/拡張少女系トライナリー" title="wikilink">拡張少女系トライナリー</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a>等</p></td>
 <td><p>2017年4月12日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/パ・リネズミくん!" title="wikilink">パ・リネズミくん!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/七つの大罪_(ホビージャパン)" title="wikilink">『sin 七つの大罪』ショートアニメ「懺悔録」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エリスのワンダークッキング" title="wikilink">エリスのワンダークッキング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/未来のワタシ" title="wikilink">未来のワタシ 第2弾</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2017年4月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/あした世界が終わるとしても" title="wikilink">ソウタイセカイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Hulu" title="wikilink">Hulu</a></p></td>
 <td><p>2017年4月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ぬいぬい日昇三兄弟" title="wikilink">ぬいぬい日昇三兄弟</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年4月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オニズシ" title="wikilink">オニズシ</a>VR</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/360Channel" title="wikilink">360Channel</a></p></td>
 <td><p>2017年4月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンソニ!_ダルタニャンのアイドル宣言" title="wikilink">センリツのルシファー ただひとつの始まりの歌</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年5月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/紙兎ロペ" title="wikilink">紙兎ロペ 映画番組をアニメで生実況ってマジっすか!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVE</a></p></td>
 <td><p>2017年5月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/八月のシンデレラナイン" title="wikilink">ハチナイ外伝 戦力外!カタトちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年5月18日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/地図のない冒険" title="wikilink">地図のない冒険</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年5月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/猫がくれたまぁるいしあわせ" title="wikilink">猫がくれたまぁるいしあわせ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年5月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おしりたんてい" title="wikilink">おしりたんてい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年5月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん外伝_お・お・お・のしんのすけ" title="wikilink">クレヨンしんちゃん外伝 お・お・お・のしんのすけ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2017年5月31日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#アフリカのサラリーマン" title="wikilink">アフリカのサラリーマン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#残念女幹部ブラックジェネラルさん" title="wikilink">残念女幹部ブラックジェネラルさん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/てぃ先生" title="wikilink">てぃ先生</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/できるかな_(漫画)" title="wikilink">できるかな</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ルナたん_〜巨人ルナと地底探検〜" title="wikilink">ルナたん 〜1万年のひみつ〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/サバゲー女子サバ子ちゃん" title="wikilink">サバゲー女子サバ子ちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年6月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大福くん_(キャラクター群)" title="wikilink">大福くん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年6月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[ぺらぺら</p></td>
 <td><p>ニホンジン学園|ぺらぺら</p></td>
 <td><p>ニホンジン学園]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンソニ!_ダルタニャンのアイドル宣言" title="wikilink">モンソニ! ダルタニャンのアイドル宣言</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年6月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/成長戦隊ノビルンジャー" title="wikilink">成長戦隊ノビルンジャー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2017年6月20日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/機動戦士ガンダム_Twilight_AXIS" title="wikilink">機動戦士ガンダム Twilight AXIS</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a>等</p></td>
 <td><p>2017年6月23日</p></td>
 <td><p>後にこの映像を用いて映画化<br />
 後に映画版がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニックトゥーン" title="wikilink">ソニックトゥーン</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2017年7月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/弱虫ペダル#Webアニメ" title="wikilink">ちばペダル 〜弱虫ペダルと学ぶ自転車交通安全〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年7月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴォルトロン" title="wikilink">ヴォルトロン</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2017年7月6日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_-キャッスルヴァニア-" title="wikilink">悪魔城ドラキュラ -キャッスルヴァニア-</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2017年7月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[月刊コロコロコミック#Webアニメ|40周年だよ</p></td>
 <td><p>コロコロオールスター小学校]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年7月15日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/マリンちゃん.md" title="wikilink">アイマリンプロジェクト</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2017年7月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#えのしまんず" title="wikilink">えのしまんず</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年7月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ピコ太郎のララバイラーラバイ" title="wikilink">ピコ太郎のララバイラーラバイ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a><br />
 <a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a></p></td>
 <td><p>2017年7月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/せいぜいがんばれ!魔法少女くるみ" title="wikilink">せいぜいがんばれ!魔法少女くるみ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年7月30日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こぎみゅん" title="wikilink">こぎみゅん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年7月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/カラダ探し" title="wikilink">カラダ探し</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年7月31日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ザ・キング・オブ・ファイターズ#映像作品" title="wikilink">THE KING OF FIGHTERS: DESTINY</a></p></td>
 <td><p><a href="../Page/Steam.md" title="wikilink">Steam</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ_バトローグ" title="wikilink">ガンダムビルドファイターズ バトローグ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a>等</p></td>
 <td><p>2017年8月4日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/内山勇士#企業向けPR動画" title="wikilink">アリキリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/けものフレンズ_(アニメ)" title="wikilink">ウマのフレンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディアホライゾン" title="wikilink">ディアホライゾン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スプラトゥーン" title="wikilink">Splatoon</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月12日</p></td>
 <td><p>コミックアニメ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/しろたん.md" title="wikilink">しろたん しろたんがいっぱい!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/生放送アニメ_直感×アルゴリズム♪" title="wikilink">直感×アルゴリズム♪</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></td>
 <td><p>2017年8月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ギーモン" title="wikilink">ギーモン</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2017年8月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ドリフェス!" title="wikilink">ドリフェス!</a>R</p></td>
 <td><p><a href="../Page/アニメイト.md" title="wikilink">アニメイト</a>チャンネル<br />
 <a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2017年8月23日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドファイターズ" title="wikilink">ガンダムビルドファイターズ GMの逆襲</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムファンクラブ" title="wikilink">ガンダムファンクラブ</a>等</p></td>
 <td><p>2017年8月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/きび男子" title="wikilink">きび男子</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年8月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FASTENING_DAYS" title="wikilink">FASTENING DAYS 3</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年9月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#ゴハンスキー" title="wikilink">ゴハンスキー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年9月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/わたし、ひらく" title="wikilink">わたし、ひらく</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年9月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#稲川淳二のすご〜く恐い話" title="wikilink">稲川淳二のすご〜く恐い話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年9月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジンギスカンのジンくん" title="wikilink">ジンギスカンのジンくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年9月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/てぃ先生" title="wikilink">てぃ先生</a>（未配信エピソード）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年9月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネオ・ヨキオ" title="wikilink">ネオ・ヨキオ</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2017年9月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ムシ忍" title="wikilink">ムシ忍</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年9月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレードランナー_ブラックアウト2022" title="wikilink">ブレードランナー ブラックアウト2022</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年9月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ウーとワー" title="wikilink">ウーとワー</a></p></td>
 <td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>公式サイト</p></td>
 <td><p>2017年10月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第2期）</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a></p></td>
 <td><p>2017年10月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔法使いの嫁" title="wikilink">まほよめ</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2017年10月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/くるねこ" title="wikilink">くるねこ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年10月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/妹さえいればいい。" title="wikilink">○○さえいればいい。</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2017年10月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ひとり暮らしの小学生" title="wikilink">ひとり暮らしの小学生</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年10月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROAD_TO_YOU〜君へと続く道〜" title="wikilink">ROAD TO YOU〜君へと続く道〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年10月11日</p></td>
 <td><p><a href="../Page/ダンロップ.md" title="wikilink">ダンロップ</a>製品のプロモーション</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#マツモトキヨシ×おそ松さん" title="wikilink">マツモトキヨシ×おそ松さん 限定動画</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2017年10月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#おしゅしだよ" title="wikilink">おしゅしだよ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年10月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[バトルスピリッツ|がんばれ</p></td>
 <td><p>シキツルさん]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年10月25日</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>[[カードファイト</p></td>
 <td><p>_ヴァンガード_(アニメ)|愛西市“イメージして…”PRショートアニメ]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月3日</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/『愛する家族を守る術』備えていますか?" title="wikilink">『愛する家族を守る術』備えていますか?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/雲の森のマーカス" title="wikilink">雲の森のマーカス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/銃娘：ガンガール" title="wikilink">銃娘：ガンガール</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a>等</p></td>
 <td><p>2017年11月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#バイト先は「悪の組織」!?" title="wikilink">バイト先は「悪の組織」!?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年11月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイリトルポニー" title="wikilink">MLP: Equestria Girls シーズン1</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ありがとう20年、そしてこれからも" title="wikilink">ありがとう20年、そしてこれからも</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大切な家族を包む、その手。" title="wikilink">大切な家族を包む、その手。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年11月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/孤独のグルメ#アプリ配信アニメ" title="wikilink">孤独のグルメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年11月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)#いたずら魔女と眠らない街" title="wikilink">いたずら魔女と眠らない街</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">ふたりの吉田さん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆめをかなえるかんぽくん" title="wikilink">ゆめをかなえるかんぽくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月1日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/映画監督とぶらり!まち歩き" title="wikilink">映画監督とぶらり!まち歩き</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月4日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/レイヤードストーリーズ_ゼロ" title="wikilink">レイヤードストーリーズ ゼロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2017年12月7日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#めんトリ" title="wikilink">めんトリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年12月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブレイク轟牙" title="wikilink">ブレイク轟牙</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/焼肉店センゴク" title="wikilink">焼肉店センゴク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GANMA!" title="wikilink">GANMA!</a></p></td>
 <td><p>2017年12月17日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/YOKOHAMA_GREEN_BATON_PROJECT" title="wikilink">未来色の風景</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/かこパッド_－長岡花火物語－" title="wikilink">かこパッド －長岡花火物語－</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#誘惑★オフィスLOVER2" title="wikilink">誘惑★オフィスLOVER2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2017年12月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/まだ未完成だっていいじゃない" title="wikilink">まだ未完成だっていいじゃない</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2017年12月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DEVILMAN_crybaby" title="wikilink">DEVILMAN crybaby</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p><a href="../Page/2018年.md" title="wikilink">2018年</a>1月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/刀剣乱舞#刀剣乱舞-花丸-" title="wikilink">続『刀犬乱舞-花丸-』</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年1月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#d松さん" title="wikilink">d松さん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a></p></td>
 <td><p>2018年1月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニクいよっ!カルビくん〜煙が目にしみる〜" title="wikilink">ニクいよっ!カルビくん〜煙が目にしみる〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年1月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モリモリ島のモーグとペロル" title="wikilink">モリモリ島のモーグとペロル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年1月19日</p></td>
 <td><p><a href="../Page/人形アニメ.md" title="wikilink">パペットアニメ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/トミカハイパーレスキュー_ドライブヘッド_機動救急警察" title="wikilink">トミカハイパーレスキュー ドライブヘッド 機動救急警察2018</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a>等</p></td>
 <td><p>2018年1月20日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔のメムメムちゃん" title="wikilink">悪魔のメムメムちゃん</a></p></td>
 <td><p>独自サイト<br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年1月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ステーションメモリーズ!" title="wikilink">駅メモ!ショートアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年1月31日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/衛宮さんちの今日のごはん" title="wikilink">衛宮さんちの今日のごはん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2018年2月1日</p></td>
 <td><p>後にTV放映<br />
 第2話以降</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドロップス" title="wikilink">アイドロップス Special Episode</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年2月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タヌキとキツネ" title="wikilink">タヌキとキツネ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年2月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドリッシュセブン" title="wikilink">アイドリッシュセブン Vibrato</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年2月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/うちの旦那_どんな旦那_こんな旦那" title="wikilink">うちの旦那 どんな旦那 こんな旦那</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年2月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/あいのまち!" title="wikilink">あいのまち! A fun Sunday in Aioi編</a>2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年2月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/B：The_Beginning" title="wikilink">B：The Beginning</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年3月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/A.I.C.O._Incarnation" title="wikilink">A.I.C.O. Incarnation</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年3月9日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/すこぶる動くウサギ" title="wikilink">すこぶる動くウサギ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">帝国戦旗劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/○○男子project" title="wikilink">○○男子project</a>プチ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/食べちゃったっていいのにな!" title="wikilink">食べちゃったっていいのにな!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/弱酸性ミリオンアーサー" title="wikilink">弱酸性ミリオンアーサー 第5クール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2018年3月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/22/7_(アイドル)#22/7「あの日の彼女たち」" title="wikilink">22/7「あの日の彼女たち」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソードガイ_The_Animation" title="wikilink">ソードガイ The Animation</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年3月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/SNSポリス" title="wikilink">SNSポリス</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2018年3月24日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#妖精てぃんてぃん" title="wikilink">妖精てぃんてぃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2018年3月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ばーちゃるわいど" title="wikilink">ばーちゃるわいど</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Yahoo!_Japan" title="wikilink">Yahoo! Japan</a></p></td>
 <td><p>2018年3月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ちちぶでぶちち" title="wikilink">ちちぶでぶちち</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ナナマル_サンバツ" title="wikilink">若者啓発クイズ動画×ナナマルサンバツ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田のタイムスリップ不昧公" title="wikilink">吉田のタイムスリップ不昧公</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年3月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おあん物語" title="wikilink">おあむ物語 その夏、わたしが知ったこと</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年4月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/異世界居酒屋「のぶ」" title="wikilink">異世界居酒屋〜古都アイテーリアの居酒屋のぶ〜</a></p></td>
 <td><p><a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a>等</p></td>
 <td><p>2018年4月13日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴッドイーター" title="wikilink">GOD EATER レゾなんとか劇場</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2018年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴールデンカムイ#ショートアニメ" title="wikilink">ゴールデン道画劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#ちびあいりんのゆるやかな日常" title="wikilink">ちびあいりんのゆるやかな日常</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">タテアニメ</a></p></td>
 <td><p>2018年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アグレッシブ烈子" title="wikilink">アグレッシブ烈子</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年4月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大福マン" title="wikilink">和菓子の国の「大福マン」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/You_Tube" title="wikilink">You Tube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2018年4月29日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/デスティニーチャイルド" title="wikilink">デスティニーチャイルド オリジナルアニメーション 完全版</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/LINE_LIVE" title="wikilink">LINE LIVE</a></p></td>
 <td><p>2018年5月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/GAIKAN_CHIBA" title="wikilink">GAIKAN CHIBA</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年5月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/何色の何" title="wikilink">何色の何</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></td>
 <td><p>2018年5月19日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソニックマニア" title="wikilink">ソニックマニア アドベンチャーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年5月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/君に、くっつけ!" title="wikilink">君に、くっつけ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年5月23日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モモウメ" title="wikilink">薬剤師 モモとウメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年5月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アルケロンレポート" title="wikilink">アルケロンレポート 鳥取県PRバージョン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年5月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/天下統一恋の乱_Love_Ballad" title="wikilink">天下統一恋の乱〜出陣!雑賀4人衆〜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2018年5月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/めしぬま。" title="wikilink">めしぬま。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年5月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/股間戦士エムズーン" title="wikilink">股間戦士エムズーン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年6月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/アナグライフ" title="wikilink">アナグライフ</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2018年6月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/からめるハニー" title="wikilink">からめるハニー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年6月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/15歳、今日から同棲はじめます。" title="wikilink">15歳、今日から同棲はじめます。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年6月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ#もしもし、てるみです。" title="wikilink">もしもし、てるみです。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年6月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/テイルズ_オブ_シリーズ.md" title="wikilink">大体5分くらいで分かるRPG「TALES OF パペット」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年6月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポプテピピック" title="wikilink">ポプテピ記念</a></p></td>
 <td><p>独自サイト</p></td>
 <td><p>2018年6月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/すすめ、カロリーナ。" title="wikilink">すすめ、カロリーナ。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年6月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん_(アニメ)" title="wikilink">野原ひろし独占インタビュー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年6月15日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/テイルズ_オブ_シリーズ.md" title="wikilink">ているず おぶ HR</a></p></td>
 <td><p><a href="../Page/バンダイナムコエンターテインメント.md" title="wikilink">アソビストア</a></p></td>
 <td><p>2018年6月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第3期）</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
-<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2018年7月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/あるゾンビ少女の災難" title="wikilink">あるゾンビ少女の災難</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ひかりTV" title="wikilink">ひかりTV</a>等</p></td>
 <td><p>2018年7月4日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンスターストライク_(アニメ)" title="wikilink">モンスターストライク 第3期</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年7月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪GG</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年7月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/嫌な顔されながらおパンツ見せてもらいたい" title="wikilink">嫌な顔されながらおパンツ見せてもらいたい</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2018年7月14日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コウペンちゃん" title="wikilink">コウペンちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年7月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Dot_Bit_Retro_-_ぼくだけのクソゲー" title="wikilink">Dot Bit Retro - ぼくだけのクソゲー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_レイズ" title="wikilink">ているず おぶ ざ れいず 劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a></p></td>
 <td><p>2018年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ネコぱら" title="wikilink">ネコぱら 仔ネコの日の約束</a>OVA</p></td>
 <td><p><a href="../Page/Steam.md" title="wikilink">Steam</a></p></td>
 <td><p>2018年7月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソードガイ_The_Animation" title="wikilink">ソードガイ The Animation PartⅡ</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年7月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハタチの龍馬_with_クロフネくん!" title="wikilink">ハタチの龍馬 with クロフネくん!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年8月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ホリデイラブ_〜夫婦間恋愛〜" title="wikilink">ホリデイラブ 〜夫婦間恋愛〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年8月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おそ松さん#おそ松さん〜はじまりはじまり〜_ストーリームービー" title="wikilink">おそ松さん〜はじまりはじまり〜 ストーリームービー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年8月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/約束の七夜祭り" title="wikilink">約束の七夜祭り</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年8月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/キスまで、あと1秒。" title="wikilink">キスまで、あと1秒。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年8月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/＃コンパス" title="wikilink">#コンパス 戦闘摂理解析システム</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2018年8月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/けものフレンズ#Webアニメ" title="wikilink">ようこそジャパリパーク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a></p></td>
 <td><p>2018年8月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロボットガールズZ" title="wikilink">ロボットガールズNEO</a></p></td>
 <td><p><a href="../Page/アニマックス.md" title="wikilink">ANIMAX on PlayStation</a></p></td>
 <td><p>2018年8月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/深夜!天才バカボン" title="wikilink">夜のウナギイヌ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a><br />
 <a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a></p></td>
 <td><p>2018年8月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/珈琲いかがでしょう" title="wikilink">珈琲いかがでしょう</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年8月24日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビクマっ娘!" title="wikilink">ビクマっ娘Theあにめーしょん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年8月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">Wings of hearts 劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年8月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/花咲ク絆ノ浪漫譚" title="wikilink">花咲ク絆ノ浪漫譚</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/スーパードラゴンボールヒーローズ#プロモーションアニメ" title="wikilink">スーパードラゴンボールヒーローズ プロモーションアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月6日</p></td>
 <td><p>第3話以降</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/むすんでひらいて_(漫画)" title="wikilink">むすんでひらいて</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年9月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/HelloWorld_6人のエンジニアの6ヶ月間" title="wikilink">HelloWorld 6人のエンジニアの6ヶ月間</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月13日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ギフト±" title="wikilink">ギフト±</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年9月21日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団の 行け!ODAマン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月21日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/メガネの魔法" title="wikilink">メガネの魔法</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/接着ナイン!" title="wikilink">接着ナイン!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年9月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROAD_TO_YOU〜星降る丘の約束〜" title="wikilink">ROAD TO YOU〜星降る丘の約束〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月3日</p></td>
 <td><p><a href="../Page/ダンロップ.md" title="wikilink">ダンロップ</a>製品のプロモーション</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/殺戮の天使" title="wikilink">殺戮の天使</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2018年10月5日</p></td>
 <td><p>後にTV放映<br />
 第13話以降</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/いつか会えるキミに" title="wikilink">いつか会えるキミに</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月6日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/お酒は夫婦になってから" title="wikilink">お酒は夫婦になってから 第14話</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a></p></td>
 <td><p>2018年10月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/生放送アニメ_直感×アルゴリズム♪" title="wikilink">直感×アルゴリズム♪ 2nd Season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ニコニコ生放送" title="wikilink">ニコニコ生放送</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a></p></td>
 <td><p>2018年10月8日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/わたしの名はオオタフクコ〜小さな幸せを、地球の幸せに。〜" title="wikilink">わたしの名はオオタフクコ〜小さな幸せを、地球の幸せに。〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/鋏と笑顔" title="wikilink">鋏と笑顔</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ハン・ソロ/スター・ウォーズ・ストーリー" title="wikilink">ショート・アニメ「ハン・ソロ」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳川斉昭と弘道館物語〜学びが人を創り人が道をつくる〜" title="wikilink">徳川斉昭と弘道館物語〜学びが人を創り人が道をつくる〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年10月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_-キャッスルヴァニア-" title="wikilink">悪魔城ドラキュラ -キャッスルヴァニア- シーズン2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年10月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/モンキーピーク" title="wikilink">モンキーピーク</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年10月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/科学忍者隊ガッチャマン.md" title="wikilink">科学忍ニャ隊ガッチャニャン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a>等</p></td>
 <td><p>2018年10月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/せいぜいがんばれ!魔法少女くるみ" title="wikilink">せいぜいがんばれ!魔法少女くるみ 第2期</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2018年10月27日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/パンと僕のモモちゃん" title="wikilink">パンと僕のモモちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年10月31日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/かいじゅうステップ" title="wikilink">KAIJU STEP</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルチュア・コンビニエンス・クラブ#ネット事業" title="wikilink">TSUTAYA TV</a></p></td>
 <td><p>2018年11月1日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔法少女リーゼプリティア_〜魔法少女のお約束!〜" title="wikilink">魔法少女リーゼプリティア 〜魔法少女のお約束!〜</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年11月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/きみの待つ未来へ" title="wikilink">きみの待つ未来へ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年11月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/こえだちゃん" title="wikilink">こえだちゃん</a>公式アニメ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年11月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オーバーロード_(小説)#ちびキャラアニメ" title="wikilink">ぷれぷれぷれあです クレマンティーヌ逃亡編</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ひかりTV" title="wikilink">ひかりTV</a></p></td>
 <td><p>2018年11月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/雪女.md" title="wikilink">小泉八雲『雪女 特別編』</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年11月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ばーちゃるわいど" title="wikilink">ばーちゃるわいど</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Yahoo!_Japan" title="wikilink">Yahoo! Japan</a></p></td>
 <td><p>2018年11月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中卒労働者から始める高校生活" title="wikilink">中卒労働者から始める高校生活</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年11月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/けだまのゴンじろー" title="wikilink">けだまのゴンじろー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月1日</p></td>
 <td><p>コミックアニメ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/HERO_MASK" title="wikilink">HERO MASK</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年12月3日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖闘士星矢_セインティア翔" title="wikilink">聖闘士星矢 セインティア翔</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2018年12月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベイビーアイラブユーだぜ" title="wikilink">ベイビーアイラブユーだぜ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月12日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ツキの神様!" title="wikilink">ツキの神様!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2018年12月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/長妻樹里の溌剌!" title="wikilink">ハツラツ君</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SHOWROOM_(ストリーミングサービス)" title="wikilink">SHOWROOM</a></p></td>
 <td><p>2018年12月17日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アグレッシブ烈子" title="wikilink">アグレッシブ烈子 Wish You a Metal Christmas</a>：We</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2018年12月20日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ワオっち!" title="wikilink">ワオっち!</a>ショートアニメ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/崩壊3rd" title="wikilink">崩壊3rd</a>公式アニメ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/やさしいあくま" title="wikilink">やさしいあくま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2018年12月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/花王_春のしあわせ咲く咲く劇場" title="wikilink">花王 春のしあわせ咲く咲く劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/監獄実験_プリズンラボ_(漫画)" title="wikilink">監獄実験-プリズンラボ-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タテアニメ" title="wikilink">アニメBeans</a></p></td>
 <td><p>2018年12月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">銀河新年2019 劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2018年12月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/もっと、街に恋をする。" title="wikilink">もっと、街に恋をする。</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>1月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファンタシースターオンライン2#Webアニメ" title="wikilink">アニメぷそ煮コミ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2019年1月8日</p></td>
 <td><p>後に一部話数がTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/テニスの王子様_(アニメ)" title="wikilink">新テニスの王子様 修行開始篇 / いざ、グランドスラム篇</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
@@ -4230,16 +4236,22 @@
 <td><p>2019年1月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/池袋PRアニメ" title="wikilink">池袋PRアニメ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年1月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マナリアフレンズ" title="wikilink">マナリアフレンズ エクストラパート</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a>等</p></td>
 <td><p>2019年1月21日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/テイコウペンギン.md" title="wikilink">テイコウペンギン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2019年1月22日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -4323,7 +4335,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/天下統一恋の乱_Love_Ballad" title="wikilink">天下統一恋の乱 Love Ballad 〜月の章〜 2周年お祝いちびアニメ 愛し月に祝杯を</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2019年3月21日</p></td>
 <td></td>
 </tr>
@@ -4379,7 +4391,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 （第4期）</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
-<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2019年4月2日</p></td>
 <td></td>
 </tr>
@@ -4399,7 +4411,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/荒野のコトブキ飛行隊" title="wikilink">荒野のコトブキ飛行隊 大空のハルカゼ飛行隊</a>外伝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年4月10日</p></td>
 <td></td>
@@ -4574,7 +4586,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_ザ_レイズ" title="wikilink">TALES OF THE RAYS Everlasting Destiny</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2019年7月4日</p></td>
 <td></td>
 </tr>
@@ -4586,7 +4598,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/少女☆歌劇_レヴュースタァライト" title="wikilink">少女☆寸劇 オールスタァライト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2019年7月5日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
@@ -4715,89 +4727,101 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/混血のカレコレ" title="wikilink">混血のカレコレ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2019年9月15日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆるゆり" title="wikilink">みにゆり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モノのかみさま_ここたま" title="wikilink">モノのかみさま ここたま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プラモ向上委員会" title="wikilink">mini.プラモ向上委員会</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月27日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/カナリスおーるでいず!" title="wikilink">カナリスおーるでいず!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年9月27日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ROAD_TO_YOU〜記憶に舞う粉雪〜" title="wikilink">ROAD TO YOU〜記憶に舞う粉雪〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月3日</p></td>
 <td><p><a href="../Page/ダンロップ.md" title="wikilink">ダンロップ</a>製品のプロモーション</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE" title="wikilink">ガンダムビルドダイバーズRe:RISE</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノー・ガンズ・ライフ" title="wikilink">ノー・ガンズ・ライフ ミニ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/無限の住人.md" title="wikilink">無限の住人</a>-IMMORTAL-</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ" title="wikilink">Amazonプライム・ビデオ</a></p></td>
 <td><p>2019年10月10日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/天体のメソッド" title="wikilink">天体のメソッド 第17話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月11日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/SUPER_SHIRO" title="wikilink">SUPER SHIRO</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a><br />
 <a href="https://ja.wikipedia.org/wiki/ビデオパス" title="wikilink">ビデオパス</a></p></td>
 <td><p>2019年10月14日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/あの日の心をとらえて" title="wikilink">あの日の心をとらえて</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年10月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">ニンジャボックス シーズン2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2019年10月24日</p></td>
 <td><p>後に編集版がTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ケンガンアシュラ" title="wikilink">ケンガンアシュラ Part2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2019年10月31日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">あなたが選ぶ島根県の名城はどっち!?「松江城」vs「富田城」頂上決戦!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2019年11月1日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/全力回避フラグちゃん!" title="wikilink">全力回避フラグちゃん!</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2019年11月2日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -5020,80 +5044,86 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/秘密結社ヤルミナティー.md" title="wikilink">秘密結社ヤルミナティー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年2月14日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/新幹線変形ロボ_シンカリオン" title="wikilink">シンカリオン ハローキティ 特別PV</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年2月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" title="wikilink">カタリナ脳内会議</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年2月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/悪魔城ドラキュラ_-キャッスルヴァニア-" title="wikilink">悪魔城ドラキュラ -キャッスルヴァニア- シーズン3</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ランウェイで笑って" title="wikilink">千雪のファッションチェック</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年3月8日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">ルクサント劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[&amp;CAST</p></td>
 <td><p>!アワー_ラブナイツ!|ラブナイツ!A×D]]</p></td>
 <td><p>[[&amp;CAST</p></td>
 <td><p>!|&amp;CAST</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オルタード・カーボン" title="wikilink">オルタード・カーボン</a>:リスリーブド</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月19日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/恐竜少女ガウ子" title="wikilink">恐竜少女ガウ子 シーズン2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/シンデレラガールズ劇場" title="wikilink">アイドルマスター シンデレラガールズ劇場 Extra Stage</a></p></td>
 <td><p><a href="../Page/Mobage.md" title="wikilink">Mobage</a><br />
-<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2020年3月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Love_Love_Kitakyushu_愛すべきまち_愛すべき人々" title="wikilink">Love Love Kitakyushu 愛すべきまち 愛すべき人々</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月25日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/7SEEDS.md" title="wikilink">7SEEDS パート2</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年3月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ニンジャボックス" title="wikilink">ニンジャボックス 新シリーズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="../Page/バンダイチャンネル.md" title="wikilink">バンダイチャンネル</a></p></td>
 <td><p>2020年3月26日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイカツオンパレード!" title="wikilink">アイカツオンパレード!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a><br />
@@ -5101,359 +5131,365 @@
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/つのつのまめたん" title="wikilink">つのつのまめたん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ロノー先生の悪魔な神授業.md" title="wikilink">ロノー先生の悪魔な神授業</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタディサプリ" title="wikilink">スタディサプリ</a></p></td>
 <td><p>2020年3月28日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大垣まつりにいこうよ!" title="wikilink">大垣まつりにいこうよ!</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/がきたびっ!" title="wikilink">がきたびっ!</a>〜青春お城編〜</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ニンジャラ.md" title="wikilink">ニンジャラ エピソード0</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年3月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/神酒ノ尊-ミキノミコト-.md" title="wikilink">神酒ノ尊〜絆の物語〜</a></p></td>
 <td><p>[[&amp;CAST</p></td>
 <td><p>!|&amp;CAST</p></td>
 <td><p>!]]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/Sol_Levante" title="wikilink">Sol Levante</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/かいじゅうせかいせいふく" title="wikilink">かいじゅうせかいせいふく</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月2日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/爆丸アーマードアライアンス.md" title="wikilink">爆丸アーマードアライアンス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a>等</p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ベイブレードバースト" title="wikilink">ベイブレードバースト スパーキング</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/イエスタデイをうたって.md" title="wikilink">イエスタデイをうたって 配信限定episode</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a></p></td>
 <td><p>2020年4月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ファンタシースターオンライン2#Webアニメ" title="wikilink">アニメぷそ煮コミおかわり</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a><br />
 <a href="https://ja.wikipedia.org/wiki/ニコニコチャンネル" title="wikilink">ニコニコチャンネル</a></p></td>
 <td><p>2020年4月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ガンダムビルドダイバーズRe:RISE" title="wikilink">ガンダムビルドダイバーズRe:RISE 2nd Season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月9日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ざしきわらしのタタミちゃん.md" title="wikilink">ざしきわらしのタタミちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV等</a></p></td>
 <td><p>2020年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/魔神英雄伝ワタル_七魂の龍神丸.md" title="wikilink">魔神英雄伝ワタル 七魂の龍神丸</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゾゾゾ_ゾンビーくん" title="wikilink">ゾゾゾ ゾンビーくん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月15日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/秘密結社鷹の爪.md" title="wikilink">鷹の爪団のジェネリックトラベル大作戦2030</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月16日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/まるとしっぽ" title="wikilink">まるとしっぽ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月18日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/チェブラーシカ.md" title="wikilink">チェブラーシカ -ともだち、みつけた-</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/攻殻機動隊_SAC_2045" title="wikilink">攻殻機動隊 SAC_2045</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年4月23日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>[[やろうぜ</p></td>
 <td><p>カードゲーム|やろうぜ</p></td>
 <td><p>カードゲーム]]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/MOKURI(モクリ)" title="wikilink">MOKURI(モクリ)</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年4月26日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛玩怪獣" title="wikilink">愛玩怪獣</a>2020</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/あにてれ" title="wikilink">あにてれ</a></p></td>
 <td><p>2020年5月1日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/猫ADさくらいと犬Dしばた" title="wikilink">猫ADさくらいと犬Dしばた</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月3日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大企業社員モブー" title="wikilink">大企業社員モブー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月6日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/バンドリ!_ガールズバンドパーティ!#BanG_Dream!_ガルパ☆ピコ" title="wikilink">BanG Dream! ガルパ☆ピコ 〜大盛り〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube#ライブストリーミング" title="wikilink">YouTube Live</a><br />
 <a href="https://ja.wikipedia.org/wiki/Periscope" title="wikilink">Periscope</a></p></td>
 <td><p>2020年5月7日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…" title="wikilink">はめふら!</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年5月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/白猫プロジェクト" title="wikilink">白猫ミニアニメ劇場 〜ゼロキス、がんばる?〜</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/星合の空" title="wikilink">星合の空 Special Fan Movie</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/からかい上手の高木さん" title="wikilink">からかい上手の高木さん 1学期</a>VR</p></td>
 <td><p><a href="../Page/Steam.md" title="wikilink">Steam</a><br />
 <a href="https://ja.wikipedia.org/wiki/Oculus" title="wikilink">Oculus Store</a></p></td>
 <td><p>2020年5月22日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/峰岸さんは大津くんに食べさせたい.md" title="wikilink">峰岸さんは大津くんに食べさせたい</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月22日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイドルっすか_ケケ子ちゃん" title="wikilink">アイドルっすか ケケ子ちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月25日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/おやさいかいじゅう" title="wikilink">おやさいかいじゅう</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月29日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/なぞたまなぞたま" title="wikilink">なぞたまなぞたま</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年5月29日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/グラップラー刃牙.md" title="wikilink">バキ 大擂台賽編</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年6月4日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ポケットモンスター_(アニメ)#その他の作品、番組" title="wikilink">POKÉTOON ズルッグとミミッキュ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/もったいないばあさん" title="wikilink">もったいないばあさん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月5日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/魔進戦隊キラメイジャー.md" title="wikilink">ましんむかしばなし劇場</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月7日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ONE_PIECE_(アニメ).md" title="wikilink">TVアニメ「ONE PIECE」麦わらの一味からの感染予防メッセージ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月11日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/コンドームバトラー_ゴロー" title="wikilink">コンドームバトラー ゴロー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月12日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/猫OLさくらいと犬上司しばた" title="wikilink">猫OLさくらいと犬上司しばた</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月13日</p></td>
 <td><p>後にTV放映</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/クレヨンしんちゃん_(アニメ)" title="wikilink">クレヨンしんちゃん×クラフトボス「すべての父ちゃんたちへ」</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月18日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/泣きたい私は猫をかぶる.md" title="wikilink">泣きたい私は猫をかぶる</a></p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年6月18日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ニンジャラ.md" title="wikilink">ニンジャラ シノビの血</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月24日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/忘れたフリをして" title="wikilink">忘れたフリをして</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年6月30日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/GETUP!_GETLIVE!.md" title="wikilink">GETUP! GETLIVE! #げらげら 第0話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月3日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コピペ&amp;ロイド" title="wikilink">コピペ&amp;ロイド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月3日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ふしぎねこのきゅーちゃん" title="wikilink">ふしぎねこのきゅーちゃん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月7日</p></td>
 <td><p>MANIMATION</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/リリィ・トライアングル" title="wikilink">リリィ・トライアングル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月7日</p></td>
 <td><p>MANIMATION</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/日本沈没.md" title="wikilink">日本沈没</a>2020</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
 <td><p>2020年7月9日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/日本の紙リサイクル" title="wikilink">日本の紙リサイクル</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月9日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Re:ゼロから始める異世界生活" title="wikilink">Re:ゼロから始める休憩時間 2nd season</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月10日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ノクターンブギ.md" title="wikilink">ノクターンブギ</a></p></td>
 <td><p><a href="../Page/GYAO!.md" title="wikilink">GYAO!</a><br />
 <a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月10日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ARP_Backstage_Pass" title="wikilink">ARP Backstage Pass 第11話</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/dアニメストア" title="wikilink">dアニメストア</a><br />
 <a href="https://ja.wikipedia.org/wiki/dTV_(NTTドコモ)" title="wikilink">dTV</a></p></td>
 <td><p>2020年7月13日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ちびゴジラ.md" title="wikilink">ただいま!ちびゴジラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年7月15日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/彼女、お借りします" title="wikilink">彼女、お借りします ぷち</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年7月17日</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/どうぶつのフォレスト" title="wikilink">どうぶつのフォレスト</a></p></td>
 <td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
 <td><p>2020年7月20日</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/仮面ライダーゼロワン" title="wikilink">仮面ライダーゼロワン ショートアニメ EVERYONE'S DAILY LIFE</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android.md" title="wikilink">Android</a>向けアプリ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/iOS_(アップル)" title="wikilink">iOS</a>、<a href="../Page/Android_(オペレーティングシステム).md" title="wikilink">Android向けアプリ</a></p></td>
 <td><p>2020年7月23日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/にゃっこアイランド" title="wikilink">にゃっこアイランド</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年7月27日</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -5469,15 +5505,87 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/ニンジャラ.md" title="wikilink">ニンジャラ 瞳の秘密</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年7月30日</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビートルバトラー_カブ闘士" title="wikilink">ビートルバトラー カブ闘士</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年8月1日</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/オナラのニンジャ_忍ぷ〜あられ" title="wikilink">オナラのニンジャ 忍ぷ〜あられ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年8月7日</p></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ハンバーグマのグーグー" title="wikilink">ハンバーグマのグーグー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年8月7日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/巨神と氷華の城" title="wikilink">巨神と氷華の城</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年8月8日</p></td>
+<td><p>後に編集版がTV放映</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/僕のヒーローアカデミア" title="wikilink">僕のヒーローアカデミア 生き残れ!決死のサバイバル訓練</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Hulu" title="wikilink">Hulu</a></p></td>
+<td><p>2020年8月16日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神達に拾われた男" title="wikilink">スライムたちの井戸端会議</a></p></td>
+<td><p><a href="../Page/Twitter.md" title="wikilink">Twitter</a></p></td>
+<td><p>2020年8月21日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アグレッシブ烈子" title="wikilink">アグレッシブ烈子 シーズン3</a></p></td>
+<td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a></p></td>
+<td><p>2020年8月27日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/バトルスピリッツ_赫盟のガレット.md" title="wikilink">バトルスピリッツ 赫盟のガレット</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
 <td><p>2020年8月28日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/新サクラ大戦シリーズ" title="wikilink">サクラ革命 〜華咲く乙女たち〜 スペシャルアニメ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年8月28日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/エレちゃん&amp;キョーコの電気安全劇場" title="wikilink">エレちゃん&amp;キョーコの電気安全劇場</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年8月31日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ブラックチャンネル" title="wikilink">ブラックチャンネル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年9月1日</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ニンジャラ.md" title="wikilink">ニンジャラ 美しき侵入者</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年9月2日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/アグレッシブ烈子" title="wikilink">OTMGirlsのよきよきチャンネル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/YouTube" title="wikilink">YouTube</a></p></td>
+<td><p>2020年9月2日</p></td>
 <td></td>
 </tr>
 </tbody>

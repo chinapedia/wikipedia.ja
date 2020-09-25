@@ -121,7 +121,7 @@
   - [椋梨藤太](../Page/椋梨藤太.md "wikilink")
     演：[内田稔](../Page/内田稔.md "wikilink")
     俗論党の首領。俗論と言われても、幕府の長州処分に従う事が藩を守る道だと考えている。
-  - [佐世主殿](https://ja.wikipedia.org/wiki/福原元僴 "wikilink")
+  - [佐世主殿](../Page/福原元僴.md "wikilink")
     演：[草薙幸二郎](../Page/草薙幸二郎.md "wikilink")
   - [来原良蔵](https://ja.wikipedia.org/wiki/来原良蔵 "wikilink")
     演：[西園寺宏](../Page/西園寺章雄.md "wikilink")

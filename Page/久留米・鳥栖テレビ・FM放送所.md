@@ -82,17 +82,17 @@
 <thead>
 <tr class="header">
 <th><p><a href="../Page/リモコンキーID.md" title="wikilink">ID</a></p></th>
-<th><p>放送局名]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a>]</p></th>
+<th><p>放送局名</p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/識別信号#呼出符号" title="wikilink">呼出符号</a></p></th>
 <th><p><a href="../Page/チャンネル_(テレビ放送).md" title="wikilink">チャンネル<br />
-番号</a>]</p></th>
+番号</a></p></th>
 <th><p><a href="../Page/空中線電力.md" title="wikilink">空中線<br />
-電力</a>]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a>]</p></th>
-<th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a>]</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a>]</p></th>
+電力</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/実効放射電力" title="wikilink">ERP</a></p></th>
+<th><p><a href="../Page/偏光.md" title="wikilink">偏波面</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/放送#放送対象地域" title="wikilink">放送対象地域</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/放送#放送区域" title="wikilink">放送区域</a><br />
-内世帯数]</p></th>
+内世帯数</p></th>
 <th><p>運用開始日</p></th>
 </tr>
 </thead>

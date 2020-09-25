@@ -45,7 +45,7 @@
     本名：**矢追 知美**（やおい ともみ）。アルバイトに精を出す清貧少女。強力なダッシュと当たり判定の小さい体を武器に戦う。父親とケーキが好き。
   - MYSTERIOUS POWER（ミステリアスパワー）
     声 - 七瀬里緒
-    本名：**谷 フジ子**（たに ふじこ）。地味な[カジノ](../Page/カジノ.md "wikilink")の[ディーラー](https://ja.wikipedia.org/wiki/ディーラー "wikilink")だが、グラマラスな謎の女に変身する。[光線銃](../Page/光線銃.md "wikilink")を武器とし、トリッキーな必殺技が多い。外国人だが日本語も得意。
+    本名：**谷 フジ子**（たに ふじこ）。地味な[カジノ](../Page/カジノ.md "wikilink")の[ディーラー](../Page/ディーラー.md "wikilink")だが、グラマラスな謎の女に変身する。[光線銃](../Page/光線銃.md "wikilink")を武器とし、トリッキーな必殺技が多い。外国人だが日本語も得意。
   - KIRIKO（キリコ）
     声 - [藤咲かおり](../Page/藤咲かおり.md "wikilink")
     本名：**霞 霧湖**（かすみ きりこ）。抜け[忍で](../Page/忍者.md "wikilink")、富豪の家に匿われ[メイド](../Page/メイド.md "wikilink")として働いている。スピードが早く、二本の[クナイを使った強力な攻撃が持ち味](https://ja.wikipedia.org/wiki/くない "wikilink")。3D3Dキャラクターの一人。動物とも話せる心を持っている。
@@ -64,7 +64,7 @@
 
 ## 隠しキャラクター（PS版のみ）
 
-各ストーリーに登場する。メインキャラクターのパワーアップ版やパワーダウン版もあれば、完全な別人も存在する。
+各ストーリーに登場する。メインキャラクターのパワーアップ版やパワーダウン版もあれば、完全な別人も存在する。それぞれ元のキャラクターを使用してストーリーモードをクリアするとVSモードで使用可能になる。\[1\]
 
   - B・ライヤ（ブラック・ライヤ）
     声 - 静木亜美
@@ -186,3 +186,5 @@
   - [闘姫伝承のページ](http://www.tecmo.co.jp/product/tds/index2.htm)（テクモ内 解説ページ）
 
 [Category:テクモのゲームソフト](https://ja.wikipedia.org/wiki/Category:テクモのゲームソフト "wikilink") [Category:2D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦型格闘ゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1996年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1996年のアーケードゲーム "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:天使を題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:天使を題材としたコンピュータゲーム "wikilink")
+
+1.

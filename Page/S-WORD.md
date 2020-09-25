@@ -53,7 +53,7 @@
       - 4月2日、3rdシングル「FIGHT FOR YOUR RIGHT」を発売。[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")をカバー。
       - 6月11日、4thシングル「WRAP MUZIK」を発売。[藤原ヒロシ](https://ja.wikipedia.org/wiki/藤原ヒロシ "wikilink")が楽曲を提供した。
       - 7月16日、2ndアルバム『STARILL WARZ』をリリース。アメリカのトラックメーカーJUST BLAZEや、プロデューサーRASHAD SMITHなど海外プロデューサーも楽曲を提供し、自身初となるニューヨークでのレコーディングを経験する。
-      - 8月21日発売の[PlayStation 2の格闘ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・ソフト「Def Jam Vendetta」([エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink"))に、同じく当時Def Jam Japanと契約していた[DABO](../Page/DABO.md "wikilink")と共にゲーム・キャラクターとして登場。
+      - 8月21日発売の[PlayStation 2の格闘ゲーム](../Page/PlayStation_2.md "wikilink")・ソフト「Def Jam Vendetta」([エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink"))に、同じく当時Def Jam Japanと契約していた[DABO](../Page/DABO.md "wikilink")と共にゲーム・キャラクターとして登場。
 
 <!-- end list -->
 
@@ -536,7 +536,7 @@
   -
   -
   -
-  - [S-WORD](http://columbia.jp/artist-info/s-word/prof.html) - [日本コロムビア](../Page/日本コロムビア.md "wikilink")
+  - [S-WORD](https://columbia.jp/artist-info/s-word/prof.html) - [日本コロムビア](../Page/日本コロムビア.md "wikilink")
 
 [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:デフ・ジャム・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:デフ・ジャム・ジャパンのアーティスト "wikilink") [Category:青山学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:青山学院大学出身の人物 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

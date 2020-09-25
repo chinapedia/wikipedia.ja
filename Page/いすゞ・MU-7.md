@@ -24,7 +24,8 @@ D-MAXをベースとして2002年に販売を開始した。
 
 ## 関連項目
 
-  - [いすゞ](https://ja.wikipedia.org/wiki/いすゞ "wikilink")
+  - [いすゞ自動車](../Page/いすゞ自動車.md "wikilink")
+  - [いすゞ・ミュー](../Page/いすゞ・ミュー.md "wikilink")
   - [いすゞ・ウィザード](../Page/いすゞ・ウィザード.md "wikilink")
   - [いすゞ・D-MAX](../Page/いすゞ・D-MAX.md "wikilink")
   - [いすゞ・MU-X](https://ja.wikipedia.org/wiki/いすゞ・MU-X "wikilink")

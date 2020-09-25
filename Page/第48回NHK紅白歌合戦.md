@@ -3,7 +3,7 @@
 
 『**第48回NHK紅白歌合戦**』（だいよんじゅうはっかいエヌエイチケイこうはくうたがっせん）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（[平成](../Page/平成.md "wikilink")9年）[12月31日](../Page/12月31日.md "wikilink")に[NHKホール](../Page/NHKホール.md "wikilink")で行われた、通算48回目の『[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")』。
 
-20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。2部制は採用されていない。
+20時から21時25分および21時30分 - 23時45分に[NHKで](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[生放送](../Page/生放送.md "wikilink")された。
 
 ## 概要
 
@@ -23,26 +23,26 @@
   - 冒頭で中居は「**ド緊張**」と書かれた扇子を披露。以後、中居は組司会を担当する際、冒頭で文字の書かれた扇子を披露することが恒例となった。
   - 初出場の[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")が紅組トップバッターを担当、女性のみで構成されるグループがトップバッターを務めるのは初めて。
   - 「[フラれて元気](../Page/フラれて元気.md "wikilink")」を披露した[TOKIO](../Page/TOKIO.md "wikilink")は、一部歌詞を白組を応援するものに変えて歌った。
-  - [反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")は自身主演の[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ビーチボーイズ](../Page/ビーチボーイズ_\(テレビドラマ\).md "wikilink")』の主題歌「[Forever](../Page/Forever_\(反町隆史_with_Richie_Samboraの曲\).md "wikilink")」を歌唱。歌唱終了後、反町と『ビーチボーイズ』で共演した[竹野内豊](../Page/竹野内豊.md "wikilink")が登場し、「紅白出場おめでとう」と祝辞を述べ、握手で激励した。
+  - [反町隆史](https://ja.wikipedia.org/wiki/反町隆史 "wikilink")は自身主演の[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ビーチボーイズ](../Page/ビーチボーイズ_\(テレビドラマ\).md "wikilink")』の主題歌「[Forever](../Page/Forever_\(反町隆史_with_Richie_Samboraの曲\).md "wikilink")」を歌唱。歌唱終了直後に『ビーチボーイズ』で反町とのダブル主演として出演していた[竹野内豊](../Page/竹野内豊.md "wikilink")が登場し、「紅白出場おめでとう」と祝辞を述べ、握手で激励した。
   - 第1部には[長野オリンピックを先駆けたコーナーが設けられた](../Page/1998年長野オリンピック.md "wikilink")。コーナーのラストには同オリンピックの公式テーマソングである[AGHARTA](../Page/AGHARTA.md "wikilink")の「[ILE AIYE〜WAになっておどろう〜](../Page/WAになっておどろう.md "wikilink")」が[三倉茉奈・佳奈](../Page/マナカナ.md "wikilink")、[前田愛](../Page/前田愛_\(女優\).md "wikilink")、[前田亜季](../Page/前田亜季.md "wikilink")、[鈴木杏](https://ja.wikipedia.org/wiki/鈴木杏 "wikilink")と出場歌手らで合唱された。
-  - 前回紅組司会の[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")は、本回は歌手として出場したが、歌唱前に松が和田に「去年はありがとうございました」、和田が松に「いえいえ、どう致しまして」とのやりとりがそれぞれ交わされた。
+  - 前年紅組司会の[松たか子](https://ja.wikipedia.org/wiki/松たか子 "wikilink")は、本回は歌手として出場したが、歌唱前に松が和田に「去年はありがとうございました」、和田が松に「いえいえ、どう致しまして」とのやりとりがそれぞれ交わされた。また、和田の曲紹介は松が行った。
   - [伍代夏子](../Page/伍代夏子.md "wikilink")の曲前に和田が審査員の[吉永小百合](../Page/吉永小百合.md "wikilink")に「紅組・白組どちらが優勢でしょうか?」と振ったところ、「去年は松さんが司会で松さんが初々しくて、皆で守ってあげようという雰囲気を感じましたが、今年は和田キャプテンが怖いからということで、紅組に勢いがありますね」と吉永が返して会場や視聴者をわかせた。
   - [森高千里](../Page/森高千里.md "wikilink")の曲紹介を[美川憲一](../Page/美川憲一.md "wikilink")が行った。
-  - [SMAP](../Page/SMAP.md "wikilink")は前回に引き続き後半のトップバッターを務め、「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」、「[セロリ](../Page/セロリ_\(SMAPの曲\).md "wikilink")」の[メドレー](../Page/メドレー.md "wikilink")を披露。なお、SMAPの出番の曲紹介は中居が自ら行った。
-  - [華原朋美](../Page/華原朋美.md "wikilink")には前回同様、当時彼女の音楽プロデューサーで交際中だった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が駆けつけ、ギター演奏とコーラスを担当した。
-  - [美川憲一](../Page/美川憲一.md "wikilink")は[プリンセス・テンコープロデュースにより間奏でステージから消え](../Page/引田天功_\(2代目\).md "wikilink")、2番がはじまると後ろのセットから「大天使ミカエル」に扮し大きな翼を生やした衣装に早着替えし空中浮遊で現れ会場が歓声に包まれた。（プリンセス・テンコーの演出プロデュースは[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）まで続いた）。
+  - [SMAP](../Page/SMAP.md "wikilink")は前年に引き続き後半のトップバッターを務め、「[ダイナマイト](../Page/ダイナマイト_\(SMAPの曲\).md "wikilink")」、「[セロリ](../Page/セロリ_\(SMAPの曲\).md "wikilink")」の[メドレー](../Page/メドレー.md "wikilink")を披露。なお、SMAPの曲紹介は中居が自ら行った。
+  - [華原朋美](../Page/華原朋美.md "wikilink")の歌唱では前年と同様、プロデューサーで当時交際中だった[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")が駆けつけ、ギター演奏とコーラスを担当した。
+  - [美川憲一](../Page/美川憲一.md "wikilink")は[プリンセス・テンコープロデュースによるイリュージョンを採用した間奏で一旦ステージから消え](../Page/引田天功_\(2代目\).md "wikilink")、2番の歌唱からは、「大天使ミカエル」に扮し大きな翼を生やした衣装に早着替えし空中浮遊で現れ会場が歓声に包まれた。美川の紅白のステージは、以降[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")（[2002年](../Page/2002年.md "wikilink")）までプリンセス・テンコープロデュースによる演出となった。
   - [小林幸子](../Page/小林幸子.md "wikilink")は「生命誕生」と題した豪華衣装で登場。間奏あたりでステージいっぱいに蝶々の羽をイメージした舞台装置が展開した。
   - [X JAPANはこの日](../Page/X_JAPAN.md "wikilink")、[東京ドーム](../Page/東京ドーム.md "wikilink")での解散ライブを行った直後にNHKホールに移動して「[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink")」を歌唱し、正式に解散した。
   - この年還暦を迎えた[加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")は、白組メンバーの[さだまさし](../Page/さだまさし.md "wikilink")（ギター）、[西城秀樹](https://ja.wikipedia.org/wiki/西城秀樹 "wikilink")（ドラム）、[城島茂](../Page/城島茂.md "wikilink")（TOKIO・ギター）、[はたけ](../Page/はたけ.md "wikilink")（[シャ乱Q](../Page/シャ乱Q.md "wikilink")・ギター）、[まこと](../Page/まこと_\(ミュージシャン\).md "wikilink")（シャ乱Q・ドラム）とスペシャルバンドを結成し、「夜空の星」、「ブラック・サンド・ビーチ」、「蒼い星くず」のメドレーを披露した。
   - [由紀さおり](../Page/由紀さおり.md "wikilink")・[安田祥子](../Page/安田祥子.md "wikilink")は「[トルコ行進曲](../Page/ピアノソナタ第11番_\(モーツァルト\).md "wikilink")」を[スキャット](../Page/スキャット.md "wikilink")で歌唱した。
   - [森進一](../Page/森進一.md "wikilink")はこの年、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[えりも町](../Page/えりも町.md "wikilink")に自身の歌う銅像が建った記念に「[襟裳岬](../Page/襟裳岬_\(森進一の曲\).md "wikilink")」を歌唱した。
-  - [和田アキ子](https://ja.wikipedia.org/wiki/和田アキ子 "wikilink")の歌唱前は、前回司会の松が和田の曲紹介を行った。
   - この年デビュー5周年を迎え、結婚・妊娠を発表、本紅白を最後に産休に入る[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が「[CAN YOU CELEBRATE?](../Page/CAN_YOU_CELEBRATE?.md "wikilink")」（同曲で2年連続で[日本レコード大賞](https://ja.wikipedia.org/wiki/日本レコード大賞 "wikilink")受賞）で紅組トリを飾り、注目を集めた。
-  - 白組トリおよび大トリは[五木ひろし](../Page/五木ひろし.md "wikilink")で、翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月の直前に迫った長野オリンピックへの賛歌として、五木が当地・[長野県](../Page/長野県.md "wikilink")を舞台にして[1975年](../Page/1975年.md "wikilink")に発表した「[千曲川](../Page/千曲川_\(五木ひろしの曲\).md "wikilink")」を歌唱。同曲発表年の[第26回でも五木は同曲を自身初の白組トリを務めた際にも歌唱しており](../Page/第26回NHK紅白歌合戦.md "wikilink")、紅白で2回目の披露となった。
+  - 白組トリ・大トリは[五木ひろし](../Page/五木ひろし.md "wikilink")で、翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")2月の直前に迫った長野オリンピックへの賛歌として、五木が当地・[長野県](../Page/長野県.md "wikilink")を舞台にして[1975年](../Page/1975年.md "wikilink")に発表した「[千曲川](../Page/千曲川_\(五木ひろしの曲\).md "wikilink")」を歌唱。同曲発表年の[第26回でも五木は同曲を自身初の白組トリを務めた際にも歌唱しており](../Page/第26回NHK紅白歌合戦.md "wikilink")、紅白で2回目の披露となった。
   - 白組が優勝し、紅白両軍では[第25回](../Page/第25回NHK紅白歌合戦.md "wikilink")（[1974年](../Page/1974年.md "wikilink")）以来23年ぶり、白組単独では[第13回](../Page/第13回NHK紅白歌合戦.md "wikilink")（[1962年](../Page/1962年.md "wikilink")）以来35年ぶりに3連勝を達成した。
 
 ### その他
 
+  - [1994年](../Page/1994年.md "wikilink")から『[NHK新人歌謡コンテスト](https://ja.wikipedia.org/wiki/NHK新人歌謡コンテスト "wikilink")』の優勝者（グランプリ）には紅白の出場権が与えられていたが、コンテストの開催が同年で終了した為、この年の優勝者である[岩本公水](../Page/岩本公水.md "wikilink")が同コンテストグランプリの副賞である紅白出場権を行使出来た最後の歌手となった。
   - 『[サンケイスポーツ](../Page/サンケイスポーツ.md "wikilink")』によると、『[ポケットモンスター](../Page/ポケットモンスター.md "wikilink")』のキャラクターの[ぬいぐるみ](../Page/ぬいぐるみ.md "wikilink")（[着ぐるみ](../Page/着ぐるみ.md "wikilink")）をゲスト出演させる演出が検討されたが、[ポケモンショック](../Page/ポケモンショック.md "wikilink")により白紙になったという\[1\]。
   - [サッカー日本代表](../Page/サッカー日本代表.md "wikilink")メンバーは、[岡田武史](../Page/岡田武史.md "wikilink")監督が早々に審査員の出演を辞退。[中山雅史](../Page/中山雅史.md "wikilink")、[本田泰人](../Page/本田泰人.md "wikilink")らはゲスト出演者選考の時点で所属チームが[天皇杯を勝ち進んでおり](../Page/第77回天皇杯全日本サッカー選手権大会.md "wikilink")、元日（[1月1日](../Page/1月1日.md "wikilink")）開催の決勝戦まで残る可能性があったため出演交渉を断念。[岡野雅行](../Page/岡野雅行_\(サッカー選手\).md "wikilink")、[城彰二](../Page/城彰二.md "wikilink")、[川口能活](../Page/川口能活.md "wikilink")、[小村徳男](../Page/小村徳男.md "wikilink")らにもゲスト出演を打診したが、いずれも辞退し結局キャプテンである[井原正巳](../Page/井原正巳.md "wikilink")が審査員で出演した。なお[三浦知良](../Page/三浦知良.md "wikilink")、[中田英寿](../Page/中田英寿.md "wikilink")には、NHKが最初からオファーしなかった\[2\]。
   - SMAPは当日[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ系列で生放送された『[SMAP×SMAP](https://ja.wikipedia.org/wiki/SMAP×SMAP "wikilink")』SPの合間を縫っての出演（実際は本番組放送時間帯を避けて編成しており、本番組放送時間の20:00 - 23:45は別の特番を放送していた）であり、中居を除く4人はエンディングには出演しなかった。中居も本紅白終了直後、フジテレビ本社に駆け付けた。
@@ -59,7 +59,7 @@
 
 ## 審査員
 
-  - [井原正巳](../Page/井原正巳.md "wikilink")（[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[ディフェンダー](../Page/ディフェンダー_\(サッカー\).md "wikilink")）：翌年開催の[FIFAワールドカップフランス大会にキャプテンとして](../Page/1998_FIFAワールドカップ.md "wikilink")[サッカー日本代表を](../Page/1998_FIFAワールドカップ日本代表.md "wikilink")[初出場に導く](../Page/ジョホールバルの歓喜.md "wikilink")。
+  - [井原正巳](../Page/井原正巳.md "wikilink")（[横浜マリノス](https://ja.wikipedia.org/wiki/横浜F・マリノス "wikilink")[ディフェンダー](../Page/ディフェンダー_\(サッカー\).md "wikilink")）：翌年開催の[FIFAワールドカップフランス大会に](../Page/1998_FIFAワールドカップ.md "wikilink")[サッカー日本代表キャプテンとして](../Page/1998_FIFAワールドカップ日本代表.md "wikilink")[初出場に導く](../Page/ジョホールバルの歓喜.md "wikilink")。
   - [吉永小百合](../Page/吉永小百合.md "wikilink")（[女優](../Page/俳優.md "wikilink")）：長年に渡り原爆詩の朗読をライフワークとしている。
   - [片岡仁左衛門](../Page/片岡仁左衛門_\(15代目\).md "wikilink")（[歌舞伎](../Page/歌舞伎.md "wikilink")[俳優](../Page/俳優.md "wikilink")）：この年十五代目 [片岡仁左衛門](../Page/片岡仁左衛門.md "wikilink")を襲名する事を発表\[3\]。
   - [伊藤みどり](../Page/伊藤みどり.md "wikilink")（[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")[フィギュアスケーター](../Page/フィギュアスケート.md "wikilink")）：長野オリンピックで最終点火者を務める。

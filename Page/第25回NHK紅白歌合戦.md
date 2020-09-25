@@ -62,7 +62,7 @@
       - 白組：**[三善英史](../Page/三善英史.md "wikilink")**・[上條恒彦](../Page/上條恒彦.md "wikilink")・**[美川憲一](../Page/美川憲一.md "wikilink")**・**[村田英雄](../Page/村田英雄.md "wikilink")**・**[にしきのあきら](https://ja.wikipedia.org/wiki/にしきのあきら "wikilink")**・[水原弘](https://ja.wikipedia.org/wiki/水原弘 "wikilink")・[ぴんから兄弟](../Page/宮史郎.md "wikilink")
   - 前回の出場歌手の中より今回不選出となった歌手は以下（但し前回「特別出演」として紅白出場した、[渡辺はま子](../Page/渡辺はま子.md "wikilink")と[藤山一郎](../Page/藤山一郎.md "wikilink")を除く）。
       - 紅組：[麻丘めぐみ](../Page/麻丘めぐみ.md "wikilink")・[欧陽菲菲](../Page/欧陽菲菲.md "wikilink")・金井克子・[朱里エイコ](../Page/朱里エイコ.md "wikilink")
-      - 白組：上條恒彦・[GARO](https://ja.wikipedia.org/wiki/GARO "wikilink")・[西郷輝彦](https://ja.wikipedia.org/wiki/西郷輝彦 "wikilink")・[鶴岡雅義と東京ロマンチカ](../Page/鶴岡雅義と東京ロマンチカ.md "wikilink")・ぴんから兄弟・水原弘
+      - 白組：上條恒彦・[GARO](https://ja.wikipedia.org/wiki/GARO "wikilink")・[西郷輝彦](../Page/西郷輝彦.md "wikilink")・[鶴岡雅義と東京ロマンチカ](../Page/鶴岡雅義と東京ロマンチカ.md "wikilink")・ぴんから兄弟・水原弘
   - 第20回の落選以降、「ヒット曲がありませんから…」と紅白出場を断り続けていた[江利チエミ](../Page/江利チエミ.md "wikilink")が、同年「[酒場にて](https://ja.wikipedia.org/wiki/酒場にて "wikilink")」で久々にヒットを飛ばしオファーされたが「もう紅白は卒業しましたから…」と辞退。その後も紅白には1度も出演しなかった。
   - 前回落選した[美空ひばり](../Page/美空ひばり.md "wikilink")は「ご迷惑でしょう」との理由で自ら出場辞退を申し出た\[3\]。
   - 今回は出場歌手と司会の発表を同時に行った\[4\]。

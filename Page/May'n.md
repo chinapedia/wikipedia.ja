@@ -3,7 +3,7 @@
 
 **May'n**（メイン、[1989年](../Page/1989年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")\[1\] - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[女性歌手](../Page/歌手.md "wikilink")。
 
-[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[2\]。本名および旧芸名は**中林 芽依**（なかばやし めい）\[3\]。身長164.5cm\[4\]。[血液型は](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")[O型](https://ja.wikipedia.org/wiki/ABO式血液型 "wikilink")。所属事務所は[ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")、所属レーベルは[FlyingDog](../Page/フライングドッグ.md "wikilink")。
+[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")出身\[2\]。本名および旧芸名は**中林 芽依**（なかばやし めい）\[3\]。身長164.5cm\[4\]。[血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。所属事務所は[ホリプロインターナショナル](https://ja.wikipedia.org/wiki/ホリプロインターナショナル "wikilink")、所属レーベルは[FlyingDog](../Page/フライングドッグ.md "wikilink")。
 
 ## 概要
 

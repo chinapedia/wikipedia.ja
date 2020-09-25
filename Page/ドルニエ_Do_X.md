@@ -46,7 +46,7 @@
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")の[新千歳空港](https://ja.wikipedia.org/wiki/新千歳空港 "wikilink")ターミナルビル一階に復元模型が展示されている。
 
-## 註釈
+## 注釈
 
 ## 出典
 

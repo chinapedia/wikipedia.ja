@@ -3,7 +3,7 @@
 
 **EPO**（エポ、本名：**宮川 榮子**（みやがわ えいこ）、旧名および出生名：**佐藤 永子**、[1960年](../Page/1960年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[セラピスト](../Page/心理療法.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。現在、[沖縄県](../Page/沖縄県.md "wikilink")[宜野湾市](../Page/宜野湾市.md "wikilink")在住。
 
-代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](../Page/高見知佳.md "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](../Page/香坂みゆき.md "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った一人であると見なされている。
+代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](../Page/高見知佳.md "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](../Page/香坂みゆき.md "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。最近では[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")「[Gift ～あなたはマドンナ～](https://ja.wikipedia.org/wiki/Gift_～あなたはマドンナ～ "wikilink")」がある。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った一人であると見なされている。
 
 ## 来歴
 
@@ -26,7 +26,7 @@
 <!-- end list -->
 
   - [東京女子体育大学](../Page/東京女子体育大学.md "wikilink")入学。当時は方向性がまだ決まっていなかったということから、昼は大学、夜はスタジオでのアルバイトという生活を3年ほど続けていた\[6\]。
-  - [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の[シングル](../Page/シングル.md "wikilink")「[SEPTEMBER](https://ja.wikipedia.org/wiki/SEPTEMBER_\(竹内まりやの曲\) "wikilink")」の[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")&コーラス[アレンジを担当](../Page/編曲.md "wikilink")。
+  - [竹内まりや](https://ja.wikipedia.org/wiki/竹内まりや "wikilink")の[シングル](../Page/シングル.md "wikilink")「[SEPTEMBER](https://ja.wikipedia.org/wiki/SEPTEMBER_\(竹内まりやの曲\) "wikilink")」の[コーラスを担当したほか](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、コーラス[アレンジを実際に行った](../Page/編曲.md "wikilink")[宮田茂樹](https://ja.wikipedia.org/wiki/宮田茂樹 "wikilink")の意向で、名目上はコーラスアレンジを担当したことにされた。
   - [大滝詠一](https://ja.wikipedia.org/wiki/大滝詠一 "wikilink")作曲の[サントリー](../Page/サントリー.md "wikilink")レモンの[コマーシャルソング](../Page/コマーシャルソング.md "wikilink")として作られた「大きいのが好き」のボーカルを担当。同曲のコーラスは[シャネルズ](https://ja.wikipedia.org/wiki/シャネルズ "wikilink")（後のラッツ&スター）で、後に『[NIAGARA CM SPECIAL](https://ja.wikipedia.org/wiki/NIAGARA_CM_SPECIAL "wikilink")』に収録された後、「大瀧詠一 Song Book 1 大瀧詠一 作品集 Vol.1」にEPO WITH シャネルズのアーティスト名で収録される。なお、コマーシャルソングは未使用だった。
 
 <!-- end list -->

@@ -294,4 +294,4 @@
   - [FictionJunction](https://www.jvcmusic.co.jp/flyingdog/-/Artist/A022369.html)
   - [FictionJunctionCLUB](http://www.spacecraft.co.jp/fjc/)（公式ファンクラブ。梶浦およびボーカリストのファンクラブを兼ねる）
 
-[Category:FictionJunction](https://ja.wikipedia.org/wiki/Category:FictionJunction "wikilink")
+[Category:FictionJunction](https://ja.wikipedia.org/wiki/Category:FictionJunction "wikilink") [Category:過去のスペースクラフト所属者](https://ja.wikipedia.org/wiki/Category:過去のスペースクラフト所属者 "wikilink")

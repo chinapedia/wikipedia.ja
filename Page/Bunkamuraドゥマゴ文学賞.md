@@ -61,7 +61,7 @@
   - 第27回（[2017年](../Page/2017年.md "wikilink")）[川本三郎](../Page/川本三郎.md "wikilink") : [松浦寿輝](../Page/松浦寿輝.md "wikilink")『名誉と恍惚』\[2\]
   - 第28回（[2018年](../Page/2018年.md "wikilink")）[大竹昭子](https://ja.wikipedia.org/wiki/大竹昭子 "wikilink") : [九螺ささら](https://ja.wikipedia.org/wiki/九螺ささら "wikilink")『神様の住所』\[3\]
   - 第29回（[2019年](../Page/2019年.md "wikilink")）[鹿島茂](../Page/鹿島茂.md "wikilink") : [小田光雄](https://ja.wikipedia.org/wiki/小田光雄 "wikilink")『古本屋散策』\[4\]
-  - 第30回（[2020年](../Page/2020年.md "wikilink")）[野矢茂樹](../Page/野矢茂樹.md "wikilink")：
+  - 第30回（[2020年](../Page/2020年.md "wikilink")）[野矢茂樹](../Page/野矢茂樹.md "wikilink")：[石川宗生](https://ja.wikipedia.org/wiki/石川宗生 "wikilink")『ホテル・アルカディア』
 
 ## 脚注
 

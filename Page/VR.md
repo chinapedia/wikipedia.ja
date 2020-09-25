@@ -13,6 +13,7 @@
   - 電子部品
       - [可変抵抗器](https://ja.wikipedia.org/wiki/可変抵抗器 "wikilink") ()
       - [電圧レギュレータ](https://ja.wikipedia.org/wiki/電圧レギュレータ "wikilink") ()
+      - [LED](https://ja.wikipedia.org/wiki/LED "wikilink")の逆電圧のこと(LED reverse voltage)
   - [静脈還流](https://ja.wikipedia.org/wiki/静脈還流 "wikilink") ()
   - [取締役会](https://ja.wikipedia.org/wiki/取締役会 "wikilink") ()
   - [付値環](https://ja.wikipedia.org/wiki/付値環 "wikilink") ()

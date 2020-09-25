@@ -44,8 +44,10 @@
   - 22:00 - 翌0:30 （[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")10月-[1972年](../Page/1972年.md "wikilink")9月）
   - 22:00 - 23:55 （1972年10月-[1974年](../Page/1974年.md "wikilink")3月）
   - 21:30 - 23:25 （1974年4月-[1981年](../Page/1981年.md "wikilink")3月）
-  - 21:00 - 22:55 （1981年4月-1981年9月、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月-[1984年](../Page/1984年.md "wikilink")3月）
+  - 21:00 - 22:55 （1981年4月-[1982年](../Page/1982年.md "wikilink")3月、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")10月-[1984年](../Page/1984年.md "wikilink")3月）
+  - 21:30 - 22:55 （1982年4月-1983年9月）
   - 21:00 - 22:00 （1984年10月-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）
+  - 23:00 - 23:30 （1985年4月-1986年3月）
   - 21:00 - 22:25 （[1986年](../Page/1986年.md "wikilink")4月-1986年9月）
 
 ### ナイターオフ枠（第1部）
@@ -78,10 +80,10 @@
   - [毒蝮三太夫](../Page/毒蝮三太夫.md "wikilink")、小島一慶、マリ・クリスティーヌ （[1975年](../Page/1975年.md "wikilink")10月〜[1977年](../Page/1977年.md "wikilink")3月）
       - [1976年](../Page/1976年.md "wikilink")10月にマリ・クリスティーヌから[アン・ルイス](../Page/アン・ルイス.md "wikilink")に交替。
   - [鈴木ヒロミツ](../Page/鈴木ヒロミツ.md "wikilink")、[太田裕美](../Page/太田裕美.md "wikilink")、アン・ルイス、[岸本加世子](https://ja.wikipedia.org/wiki/岸本加世子 "wikilink") （1977年4月〜[1979年](../Page/1979年.md "wikilink")9月）
-  - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink") （1979年10月〜[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、『サタデーハッピーハートコンサート』）
+  - [ハイ・ファイ・セット](../Page/ハイ・ファイ・セット.md "wikilink")、[サーカス](../Page/サーカス_\(歌手\).md "wikilink") （1979年10月〜[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")3月、『サタデーハッピーハートコンサート』）
   - [吉田拓郎](../Page/吉田拓郎.md "wikilink")、[小室等](../Page/小室等.md "wikilink") （1980年4月〜[1981年](../Page/1981年.md "wikilink")9月、『サタデーナイトカーニバル』）
-  - [ザ・ぼんち](../Page/ザ・ぼんち.md "wikilink")、[甲斐智枝美](../Page/甲斐智枝美.md "wikilink") （1981年10月〜1983年9月）
-  - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink") （1983年10月〜1984年3月）
+  - [ザ・ぼんち](../Page/ザ・ぼんち.md "wikilink")、[甲斐智枝美](../Page/甲斐智枝美.md "wikilink") → ザ・ぼんち、今月のマスコットガール（1981年10月〜1983年9月、『フレッシュ・ア・ゴーゴー』）
+  - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")、今月のマスコットガール （1983年10月〜1984年3月）
       - この後、引き続き同じ時間帯で『所ジョージのホロホロ天国すんごいですね』を1984年9月まで放送、同年10月からは平日に移って『所ジョージの[進め\!おもしろバホバホ隊](../Page/進め!おもしろバホバホ隊.md "wikilink")』を放送した。
   - [ザ・グッバイ](../Page/THE_GOOD-BYE.md "wikilink") （1984年10月〜1985年10月、『ザ・グッバイのマリーナ・マイ・フレッシュ・ライブ』）
   - [中村繁之](../Page/中村繁之.md "wikilink") （1985年10月〜1986年4月・『Shige's Cafeへようこそ』、1986年4月〜1986年10月・『シゲのライブインハウス』）

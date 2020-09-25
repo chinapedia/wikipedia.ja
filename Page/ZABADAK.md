@@ -3,93 +3,102 @@
 
 **ZABADAK**（ザバダック）は、日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[ユニット](../Page/音楽ユニット.md "wikilink")。
 
-[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[吉良知彦](../Page/吉良知彦.md "wikilink")・[上野洋子](../Page/上野洋子.md "wikilink")・[松田克志](https://ja.wikipedia.org/wiki/松田克志 "wikilink")の3人で結成し\[1\]、翌[1986年](../Page/1986年.md "wikilink")に[東芝EMIよりLPレコード](../Page/EMIミュージック・ジャパン.md "wikilink")『ZABADAK-I』でデビューした。[1993年](../Page/1993年.md "wikilink")以降は吉良による[ソロユニットとして活動し](../Page/一人バンド.md "wikilink")、[2011年](../Page/2011年.md "wikilink")3月、[小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")が正式メンバーとして加入して二人組ユニットとなった\[2\]\[3\]。2016年7月に吉良が死去して以降は、小峰とサポートメンバーにより活動を続けている。
+[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、[吉良知彦](../Page/吉良知彦.md "wikilink")・[上野洋子](../Page/上野洋子.md "wikilink")・[松田克志](https://ja.wikipedia.org/wiki/松田克志 "wikilink")の3人で結成し\[1\]、翌[1986年](../Page/1986年.md "wikilink")に[東芝EMIより](../Page/EMIミュージック・ジャパン.md "wikilink")[LPレコード](../Page/レコード.md "wikilink")『ZABADAK-I』でデビューした。[1993年](../Page/1993年.md "wikilink")の上野の脱退後は、吉良による[ソロユニットとして活動し](../Page/一人バンド.md "wikilink")、[2011年](../Page/2011年.md "wikilink")3月、[小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")が正式メンバーとして加入して2人組ユニットとなった\[2\]\[3\]。[2016年](../Page/2016年.md "wikilink")7月に吉良が死去してからは、小峰と[サポートメンバーにより活動を続けている](https://ja.wikipedia.org/wiki/バックバンド "wikilink")。
 
 ## メンバー
 
   - [吉良知彦](../Page/吉良知彦.md "wikilink")（きら ともひこ、[1959年](../Page/1959年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")\[4\]）
-    バンドリーダー。[プロデュース](../Page/音楽プロデューサー.md "wikilink")（zabadakとして）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[作詞](../Page/作詞.md "wikilink")、ヴォーカル、ギター、ベース、キーボード etc.
-    2016年7月3日、56歳で没\[5\]。
+    バンドリーダー。[プロデュース](../Page/音楽プロデューサー.md "wikilink")（zabadakとして）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、他。.
+    2016年[7月3日](../Page/7月3日.md "wikilink")、56歳で没\[5\]。
   - [小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")（こみね こうこ）
-    ヴォーカル、アコーディオン、作詞 etc.
-    音楽ユニット[KARAK](https://ja.wikipedia.org/wiki/KARAK_\(バンド\) "wikilink")（活動休止中）のメンバー。1987年以降よりzabadakに多数の歌詞を提供し、ライブサポートも務めた。[2011年](../Page/2011年.md "wikilink")3月、アルバム『ひと』発表と共に、zabadakに正式加入した\[6\]。
+    作詞、ボーカル、[アコーディオン](../Page/アコーディオン.md "wikilink")、他。
+    音楽ユニット[KARAK](https://ja.wikipedia.org/wiki/KARAK_\(バンド\) "wikilink")（活動休止中）のメンバー。1987年よりZABADAKに多数の歌詞を提供し、ライブサポートも務めた。[2011年](../Page/2011年.md "wikilink")3月、アルバム『ひと』発表と共に、ZABADAKに正式加入した\[6\]。
     私生活では吉良の妻である\[7\]。
 
 ### 旧メンバー
 
   - [上野洋子](../Page/上野洋子.md "wikilink")（うえの ようこ、[1963年](../Page/1963年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink") - ）
-    プロデュース（zabadakとして）、作曲・編曲・作詞、ヴォーカル、ピアノ、キーボード、プログラミング etc.
+    プロデュース（ZABADAKとして）、作曲・編曲・作詞、ボーカル、[ピアノ](../Page/ピアノ.md "wikilink")、アコーディオン、キーボード、[プログラミング](https://ja.wikipedia.org/wiki/マニピュレーター#音楽 "wikilink")、他。
     [1993年](../Page/1993年.md "wikilink")まで在籍。
   - [松田克志](https://ja.wikipedia.org/wiki/松田克志 "wikilink")（まつだ かつし、1963年 - ）
-    作詞、ドラムス、パーカッションetc.
-    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")出身。[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで在籍。ZABADAK在籍時は作詞も担当し、2009年の『平行世界』以降ふたたび歌詞提供をしている。現在は[岩手県](../Page/岩手県.md "wikilink")を拠点に[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")・バンド「Otaria's Bloc(k)（オタリアズ・ブロック）」などで活動\[8\]。
+    作詞、[ドラムス](../Page/ドラムセット.md "wikilink")、[パーカッション](../Page/パーカッション.md "wikilink")、他。
+    [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")まで在籍。ZABADAK在籍時は作詞も担当し、2009年の『平行世界』以降ふたたび歌詞提供をしている。
+    [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[帯広市](../Page/帯広市.md "wikilink")出身。現在は[岩手県](../Page/岩手県.md "wikilink")を拠点に[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")・バンド「Otaria's Bloc(k)（オタリアズ・ブロック）」などで活動\[8\]。
+
+## 名称の由来
+
+1986年の東芝EMIからのデビュー時に、仮の名前として「プロジェクトK」と呼ばれていたグループ名を正式に「ZABADAK」と命名した。名称の由来は、吉良がデビュー直前になっても[バンド名が決められず](../Page/バンド_\(音楽\).md "wikilink")、レコード会社のスタッフに早く決めるよう催促され、目に留まったレコードから名を採ったことによる\[9\]。スタジオ内で数十枚のレコードを適当に探していたところ、"" という曲名のレコードが見つかり「なんとなく字面が面白いな」という理由で決まった\[10\]。"ZABADAK" は、[デイヴ・ディー・グループ](https://ja.wikipedia.org/wiki/デイヴ・ディー・グループ "wikilink")による1967年のヒット曲で、このタイトルは "just a meaningless word"（意味を持たない単語）\[11\]である。
 
 ## 略歴
 
 ### デビューから「のれん分け」まで
 
-1984年、いわゆる「ハコバン」（ライブハウス付きのバンド）で活動していた吉良知彦が[ケイト・ブッシュ](../Page/ケイト・ブッシュ.md "wikilink")の『[DREAMING](../Page/ドリーミング_\(ケイト・ブッシュのアルバム\).md "wikilink")』にインスピレーションを受けて自主製作盤『AFTER THE MATTER』を制作した。この時に、音楽学校での仲間で後のメンバーとなる上野洋子、松田克志が参加。1985年、吉良名義で「第3回[PARCOオルガン坂大賞](https://ja.wikipedia.org/wiki/PARCOオルガン坂大賞 "wikilink")」に応募し、入賞。グランプリは逃したが、審査員の一人であった[立川直樹](../Page/立川直樹.md "wikilink")の推薦もあり、上野・松田とのバンドとして東芝EMIからのデビューが決まる\[9\]\[10\]。初期は株式会社トランスフォーマーに所属した\[11\]。
+いわゆる「ハコバン」（[ライブハウス](../Page/ライブハウス.md "wikilink")付きのバンド）で活動していた吉良知彦が、[ケイト・ブッシュ](../Page/ケイト・ブッシュ.md "wikilink")の『[DREAMING](../Page/ドリーミング_\(ケイト・ブッシュのアルバム\).md "wikilink")』にインスピレーションを受け、[1984年](../Page/1984年.md "wikilink")に[自主製作盤](../Page/インディーズ.md "wikilink")『AFTER THE MATTER』を制作した。この時に、音楽学校での仲間で後のメンバーとなる上野洋子、松田克志が参加。翌[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")、吉良名義で「第3回[PARCOオルガン坂大賞](https://ja.wikipedia.org/wiki/PARCOオルガン坂大賞 "wikilink")」に応募して入賞。グランプリは逃したが、審査員の一人であった[立川直樹](../Page/立川直樹.md "wikilink")の推薦もあり、上野・松田とのバンドとして東芝EMIからのデビューが決まる\[12\]\[13\]。初期は株式会社トランスフォーマーに所属した\[14\]。
 
-1986年、東芝EMIの新設レーベル・POPSIZE（ポップサイズ）設立第1弾のひとつとして発売されたミニアルバム『ZABADAK-1』でデビュー\[12\]。仮の名前として「プロジェクトK」と呼ばれていたグループ名を正式にZABADAKと命名した。この名の由来は、デビュー直前になってもバンド名が決められず、レコード会社スタッフに早く決めるよう催促され、目に留まったレコードから名を採ったことによる。スタジオ内で数十枚のレコードを適当に探していたところ、"" という曲名のレコードが見つかり「なんとなく字面が面白いな」という理由で決まった\[13\]。"ZABADAK" は、[デイヴ・ディー・グループ](https://ja.wikipedia.org/wiki/デイヴ・ディー・グループ "wikilink")による1967年のヒット曲で、このタイトルは"just a meaningless word(意味を持たない単語)"\[14\]である。同年はの来日ツアーで[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")も務めた\[15\]。
+1986年、東芝EMIの新設[レーベル](../Page/レコードレーベル.md "wikilink")「POPSIZE（ポップサイズ）」設立第1弾のひとつとして発売されたミニアルバム『ZABADAK-I』でデビュー\[15\]。同年はの来日ツアーで[オープニングアクト](https://ja.wikipedia.org/wiki/オープニングアクト "wikilink")も務めた\[16\]。
 
-バンドとしての活動のかたわら、デビュー当初より[CM音楽制作者として注目されるようになり](../Page/コマーシャルメッセージ.md "wikilink")\[16\]、多数のCM曲や映画音楽などを手掛け、一部はオリジナル作品としてアルバムに収録された\[17\]。
+バンドとしての活動のかたわら、デビュー当初より[CM音楽制作者として注目されるようになり](../Page/コマーシャルメッセージ.md "wikilink")\[17\]、多数の[CM曲や](../Page/コマーシャルソング.md "wikilink")[映画音楽](../Page/映画音楽.md "wikilink")などを手掛け、一部はオリジナル作品としてアルバムに収録された\[18\]。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に松田克志が脱退。松田在籍時のアルバムは『ZABADAK-I』『銀の三角』および、この2枚を後に再編集した『WATER GARDEN』のみである。
 
-[1989年](../Page/1989年.md "wikilink")に事務所をレコーディングスタジオ経営会社マグネット内のZABADAK OFFICEに、レコード会社を[MOON RECORDSレーベル](../Page/MOON_RECORDS.md "wikilink")（アルファ・ムーン）に移籍した\[18\]。
+[1989年](../Page/1989年.md "wikilink")に事務所をレコーディングスタジオ経営会社マグネット内のZABADAK OFFICEに、レコード会社を[MOON RECORDSレーベル](../Page/MOON_RECORDS.md "wikilink")（アルファ・ムーン）に移籍した\[19\]。この時期は、上野洋子の透明感ある歌声と吉良知彦の美しいメロディ、および緻密なサウンドで人気を博した\[20\]。
 
-この時期は、上野洋子の透明感ある歌声と吉良知彦の美しいメロディ、および緻密なサウンドで人気を博した\[19\]。
+[1993年](../Page/1993年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")の[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのコンサートをもって上野洋子が脱退し、これを「[のれん分け](../Page/のれん分け.md "wikilink")」と称した\[21\]。同日には[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『decade』も発売された\[22\]。
 
-[1993年](../Page/1993年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")の[日比谷野外音楽堂](../Page/日比谷野外音楽堂.md "wikilink")でのコンサートをもって上野洋子が脱退し、これを「[のれん分け](../Page/のれん分け.md "wikilink")」と称した\[20\]。同日には[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『decade』も発売された。以降、吉良知彦は「自分だけのために」作る音楽をZABADAK名義とし、商業音楽家としての活動を吉良名義として使い分けながら\[21\]、2011年までZABADAKを吉良知彦のソロユニット（ワンマンバンド）として継続した\[22\]。
+以降、吉良知彦は「自分だけのために」作る音楽をZABADAK名義とし、商業音楽家としての活動を吉良名義として使い分けながら\[23\]、2011年までZABADAKを吉良知彦のソロユニット（ワンマンバンド）として継続した\[24\]。
 
 ### ソロユニットから第2次デュオ期へ
 
-その後、マグネット運営の[インディーズ](../Page/インディーズ.md "wikilink")・レーベル・[BIOSPHERE RECORDSとメジャーの](https://ja.wikipedia.org/wiki/BIOSPHERE_RECORDS "wikilink")[ポリスター](../Page/ポリスター.md "wikilink")から作品を発表する傍ら、[演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")の音楽も担当\[23\]。
+その後、マグネット運営の[インディーズ](../Page/インディーズ.md "wikilink")・レーベル・[BIOSPHERE RECORDSと](https://ja.wikipedia.org/wiki/BIOSPHERE_RECORDS "wikilink")、メジャーレーベルの[ポリスター](../Page/ポリスター.md "wikilink")から作品を発表する傍ら、[演劇集団キャラメルボックス](../Page/演劇集団キャラメルボックス.md "wikilink")の音楽も担当した\[25\]。
 
-[2001年](../Page/2001年.md "wikilink")に所属事務所のZABADAK OFFICEとBIOSPHERE RECORDSから独立、新事務所Penelope、新レーベルGargoyleを設立した。
+[2001年](../Page/2001年.md "wikilink")、所属事務所のZABADAK OFFICEとBIOSPHERE RECORDSから独立、新事務所Penelope、新レーベルGargoyleを設立した。
 
-[2009年](../Page/2009年.md "wikilink")に発表したアルバム『平行世界』には、松田克志が作詞を行った曲「樹海 -umi-」が収録された。
+[2009年](../Page/2009年.md "wikilink")に発表したアルバム『平行世界』には、元メンバーの松田克志が作詞した楽曲「樹海 -umi-」が収録された。
 
-[2011年](../Page/2011年.md "wikilink")3月、アルバム『ひと』の発表と共に、吉良の妻であり長年にわたりZABADAKに作詞、ヴォーカルなどで参加してきた小峰公子が正式加入した\[24\]。
+[2011年](../Page/2011年.md "wikilink")3月、アルバム『ひと』の発表と共に、吉良の妻であり長年にわたりZABADAKに作詞、ボーカルなどで参加してきた小峰公子が正式加入した\[26\]。
 
-その他、吉良は[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")『[クロノ・クロス](../Page/クロノ・クロス.md "wikilink")』（1999年）でギター・[ブズーキ](https://ja.wikipedia.org/wiki/ブズーキ "wikilink")の演奏を担当したり、NHK『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』に楽曲を提供したりするなどした。
+その他、吉良は[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[RPG](../Page/コンピュータRPG.md "wikilink")『[クロノ・クロス](../Page/クロノ・クロス.md "wikilink")』（1999年）でギター、[ブズーキ](https://ja.wikipedia.org/wiki/ブズーキ "wikilink")の演奏を担当したり、NHK『[おかあさんといっしょ](../Page/おかあさんといっしょ.md "wikilink")』への楽曲提供などを行った。
 
 ### 吉良知彦の死去とその後
 
-[2016年](../Page/2016年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、吉良知彦が死去し\[25\]、同年7月6日にオフィシャルサイトで発表された\[26\]。同年3月のステージの際に体調を崩したが、療養後活動を再開し、企画ライブやツアーの予定を立てていた矢先だった\[27\]。吉良の訃報は音楽ニュースサイト[ナタリーなどでも報じられ](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")\[28\]、同サイトでは報道直後の週（7月7日 - 7月13日）の1週間における記事のうち、このニュースがアクセスランキング1位となった\[29\]。ファンのための「お別れの会」は「〜katami wake〜かたみわけ」と題して同年8月7日、演劇集団キャラメルボックスの協力により[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")で行なわれた\[30\]。
+[2016年](../Page/2016年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")、吉良知彦が死去し\[27\]、同年7月6日にオフィシャルサイトで発表された\[28\]。同年3月のステージの際に体調を崩したが、療養後に活動を再開し、企画ライブやツアーの予定を立てていた矢先だった\[29\]。吉良の訃報は音楽ニュースサイト[ナタリーなどでも報じられ](https://ja.wikipedia.org/wiki/ナタリー_\(ニュースサイト\) "wikilink")\[30\]、同サイトでは報道直後の週（7月7日 - 7月13日）の1週間における記事のうち、このニュースがアクセスランキング1位となった\[31\]。
 
-その後のzabadakの活動は、小峰公子とサポートメンバーによって継続されると発表された\[31\]\[32\]。
+同年[8月7日](../Page/8月7日.md "wikilink")、ファンのための「お別れの会」が「〜katami wake〜かたみわけ」と題し、演劇集団キャラメルボックスの協力により[サンシャイン劇場](../Page/サンシャイン劇場.md "wikilink")で行なわれた\[32\]。
 
-2017年には小峰が作詞、上野洋子が編曲を担当して完成させた吉良の未発表曲が[糸奇はな](https://ja.wikipedia.org/wiki/糸奇はな "wikilink")のデビュー曲「環-cycle-」（アニメ『[魔法使いの嫁](https://ja.wikipedia.org/wiki/魔法使いの嫁 "wikilink")』エンディングテーマ）として発表された\[33\]。
+ZABADAKのその後の活動は、小峰公子とサポートメンバーによって継続されると発表された\[33\]\[34\]。
+
+2017年には小峰が作詞、上野洋子が編曲を担当して完成させた吉良の未発表曲が、[糸奇はな](https://ja.wikipedia.org/wiki/糸奇はな "wikilink")のデビュー曲「環-cycle-」（[アニメ](../Page/アニメ.md "wikilink")『[魔法使いの嫁](https://ja.wikipedia.org/wiki/魔法使いの嫁 "wikilink")』[エンディングテーマ](../Page/主題歌.md "wikilink")）として発表された\[35\]。
 
 ## サポートメンバー
 
-zabadakは吉良を中心とするユニットとして活動するが、特にライブ演奏では[サポートメンバーが多く参加し](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、彼らに支えられた不定形な形態となっている\[34\]。
+ZABADAKは吉良を中心とするユニットとして活動するが、特にライブ演奏では[サポートメンバーが多く参加し](https://ja.wikipedia.org/wiki/バックバンド "wikilink")、彼らに支えられた不定形な形態となっている\[36\]。
 
 主要パートは以下のとおり。
 
   - ギター
-    吉良知彦のパートである。[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")とサンバーストの[ストラトキャスターを使いわけている](../Page/フェンダー・ストラトキャスター.md "wikilink")。
-    またゲストとして[鬼怒無月](https://ja.wikipedia.org/wiki/鬼怒無月 "wikilink")ほかが担当。
-  - ヴォーカル、[リコーダー](../Page/リコーダー.md "wikilink")、[アンデス25](https://ja.wikipedia.org/wiki/アンデス25 "wikilink")、[アコーディオン](../Page/アコーディオン.md "wikilink")
-    男性・女性両方のヴォーカル曲が存在する。吉良ソロユニット時代は小峰公子、高井萌、[新居昭乃](../Page/新居昭乃.md "wikilink")、[柚楽弥衣](https://ja.wikipedia.org/wiki/柚楽弥衣 "wikilink")、[みとせのりこ](../Page/みとせのりこ.md "wikilink")ほかをゲストに迎えた。
-    またリコーダー・アンデスが多用され、zabadak側からの求めにより、観客がこれらで演奏に参加する場合もあり、この形態が**風部**と呼ばれている\[35\]。
+      - 吉良知彦のパートである。[アコースティック・ギター](../Page/アコースティック・ギター.md "wikilink")と、サンバーストの[ストラトキャスターを使い分ける](../Page/フェンダー・ストラトキャスター.md "wikilink")。
+      - ゲストとして、[鬼怒無月](https://ja.wikipedia.org/wiki/鬼怒無月 "wikilink")ほかが担当。
+  - ボーカル
+      - 男性・女性両方のヴォーカル曲が存在する。初期から「のれん分け」までは吉良と上野が担当。
+      - 吉良のソロユニット時代は、女性ボーカリストとして小峰公子、高井萌、[新居昭乃](../Page/新居昭乃.md "wikilink")、[柚楽弥衣](https://ja.wikipedia.org/wiki/柚楽弥衣 "wikilink")、[みとせのりこ](../Page/みとせのりこ.md "wikilink")ほかをゲストに迎えた。
+  - [リコーダー](../Page/リコーダー.md "wikilink")、[アンデス25](https://ja.wikipedia.org/wiki/アンデス25 "wikilink")、アコーディオン
+      - リコーダー、アンデス25、が多用され、ZABADAK側からの求めにより、観客がこれらで演奏に参加する場合もあり、この形態が**風部**と呼ばれている\[37\]。
   - [ヴァイオリン](../Page/ヴァイオリン.md "wikilink")
-    [太田恵資](https://ja.wikipedia.org/wiki/太田恵資 "wikilink")、[斎藤ネコ](../Page/斎藤ネコ.md "wikilink")、[壷井彰久](https://ja.wikipedia.org/wiki/壷井彰久 "wikilink")、[向島ゆり子](https://ja.wikipedia.org/wiki/向島ゆり子 "wikilink")らが参加。
+      - [太田恵資](https://ja.wikipedia.org/wiki/太田恵資 "wikilink")、[斎藤ネコ](../Page/斎藤ネコ.md "wikilink")、[壷井彰久](https://ja.wikipedia.org/wiki/壷井彰久 "wikilink")、[向島ゆり子](https://ja.wikipedia.org/wiki/向島ゆり子 "wikilink")らが参加。
   - [マリンバ](../Page/マリンバ.md "wikilink")
-    [藤井珠緒](https://ja.wikipedia.org/wiki/藤井珠緒 "wikilink")など。
+      - [藤井珠緒](https://ja.wikipedia.org/wiki/藤井珠緒 "wikilink")などが参加。
   - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-    [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")、吉田誠 など。
+      - [渡辺等](https://ja.wikipedia.org/wiki/渡辺等 "wikilink")、吉田誠 など。
   - ドラムス、パーカッション
-    [仙波清彦](../Page/仙波清彦.md "wikilink")、[楠均](https://ja.wikipedia.org/wiki/楠均 "wikilink")、[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(音楽家\) "wikilink")、[宮田繁男](../Page/宮田繁男.md "wikilink")など。
+      - 松田克志の脱退後は、[仙波清彦](../Page/仙波清彦.md "wikilink")、[楠均](https://ja.wikipedia.org/wiki/楠均 "wikilink")、[佐藤正治](https://ja.wikipedia.org/wiki/佐藤正治_\(音楽家\) "wikilink")、[宮田繁男](../Page/宮田繁男.md "wikilink")などが参加。
   - [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
-    [難波弘之](../Page/難波弘之.md "wikilink")、[丸尾めぐみ](https://ja.wikipedia.org/wiki/丸尾めぐみ "wikilink")など。
+      - [難波弘之](../Page/難波弘之.md "wikilink")、[丸尾めぐみ](https://ja.wikipedia.org/wiki/丸尾めぐみ "wikilink")などがゲストとして参加。
 
-## 作品
+## ディスコグラフィー
 
 ### アルバム
 
-なお、複数のレーベルからアルバムが出ている事や、再発・サントラ・ソロ・ミニ・[カバー](../Page/カバー.md "wikilink")等の理由でアルバムの枚数の数え方には諸説あり、下記の数え方は便宜上である。
+複数のレーベルからアルバムがリリースされており、再発盤、[サウンドトラック](../Page/サウンドトラック.md "wikilink")、ソロアルバム、ミニアルバム、[カバー](../Page/カバー.md "wikilink")アルバムなどの諸形態があるため、アルバムの枚数の数え方には諸説あり、下記の数え方は便宜上のものである。
 
 [iTunes Storeや](https://ja.wikipedia.org/wiki/iTunes_Store "wikilink")[Amazon.co.jp](../Page/Amazon.co.jp.md "wikilink")、[着うたフル](../Page/着うたフル.md "wikilink")などでの[音楽配信](../Page/音楽配信.md "wikilink")については省略する。
 
@@ -135,7 +144,7 @@ CD化にあたりメンバーによって曲順が再構成されている。</p
 <tr class="even">
 <td><p>1st+2nd</p></td>
 <td><p>1991年2月14日</p></td>
-<td><p><em>ZABADAK</em></p></td>
+<td><p><em><a href="https://ja.wikipedia.org/wiki/ZABADAK_(アルバム)" title="wikilink">ZABADAK</a></em></p></td>
 <td><p>TOCT-6003</p></td>
 <td><p>『ZABADAK-I』と『銀の三角』の編集盤。<br />
 『WATER GARDEN』と違いアナログ盤発売時の曲順そのままとなっている。</p></td>
@@ -225,7 +234,8 @@ BRIDGE217/218 (再発)</p></td>
 1996年12月11日 (再発)</p></td>
 <td><p><em><a href="https://ja.wikipedia.org/wiki/創世紀_〜ザ・ベスト・オブ・ザバダック〜" title="wikilink">創世紀 〜ザ・ベスト・オブ・ザバダック〜</a></em><br />
 <em>創世紀 +2</em> (再発)</p></td>
-<td><p>TOCT-9737</p></td>
+<td><p>TOCT-6507<br />
+TOCT-9737 (再発)</p></td>
 <td><p>東芝EMI</p></td>
 <td><p>東芝EMI時代の3枚からのベスト。1996年に2曲を加え再発売。</p></td>
 </tr>
@@ -324,7 +334,7 @@ BRIDGE217/218 (再発)</p></td>
 <td><p><em>賢治の幻燈</em></p></td>
 <td><p>PSCN-5032</p></td>
 <td><p>NTT出版/POLYSTAR</p></td>
-<td><p><a href="../Page/宮沢賢治.md" title="wikilink">宮沢賢治</a>の童話を題材とした<a href="../Page/コンセプト・アルバム.md" title="wikilink">コンセプチュアル･アルバム</a>[36]。吉良知彦[ZABADAK] Music: ZABADAK名義</p></td>
+<td><p><a href="../Page/宮沢賢治.md" title="wikilink">宮沢賢治</a>の童話を題材とした<a href="../Page/コンセプト・アルバム.md" title="wikilink">コンセプチュアル･アルバム</a>[38]。吉良知彦[ZABADAK] Music: ZABADAK名義</p></td>
 </tr>
 <tr class="odd">
 <td><p>10th</p></td>
@@ -363,7 +373,7 @@ BRIDGE217/218 (再発)</p></td>
 <td><p>1998年9月2日</p></td>
 <td><p><em>はちみつ白書</em></p></td>
 <td><p>PSCR-5709</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/クマのプーさん" title="wikilink">クマのプーさん</a>』をモチーフとしている[37]。12曲のうち女性ボーカル曲が6曲ありMOE（高井萌）が歌を担当。</p></td>
+<td><p>『<a href="https://ja.wikipedia.org/wiki/クマのプーさん" title="wikilink">クマのプーさん</a>』をモチーフとしている[39]。12曲のうち女性ボーカル曲が6曲ありMOE（高井萌）が歌を担当。</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -380,7 +390,7 @@ BRIDGE217/218 (再発)</p></td>
 <td><p><em>IKON〜遠い旅の記憶〜</em></p></td>
 <td><p>ZA-0019</p></td>
 <td><p>BIOSPHERE RECORDS</p></td>
-<td><p><a href="../Page/鈴木光司.md" title="wikilink">鈴木光司</a>の小説『<a href="../Page/楽園_(鈴木光司の小説).md" title="wikilink">楽園</a>』に影響を受けて制作されたアルバム[38]。</p></td>
+<td><p><a href="../Page/鈴木光司.md" title="wikilink">鈴木光司</a>の小説『<a href="../Page/楽園_(鈴木光司の小説).md" title="wikilink">楽園</a>』に影響を受けて制作されたアルバム[40]。</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -399,7 +409,7 @@ BRIDGE217/218 (再発)</p></td>
 <td><p>CBST-00011<br />
 CBST-00063 (再発)</p></td>
 <td><p>ネビュラプロジェクト</p></td>
-<td><p>演劇集団キャラメルボックスの演劇『<a href="https://ja.wikipedia.org/wiki/立川迅助シリーズ#風を継ぐ者" title="wikilink">風を継ぐ者</a>』のサウンドトラック[39]<br />
+<td><p>演劇集団キャラメルボックスの演劇『<a href="https://ja.wikipedia.org/wiki/立川迅助シリーズ#風を継ぐ者" title="wikilink">風を継ぐ者</a>』のサウンドトラック[41]<br />
 2009年盤はオリジナルと若干だが収録曲が異なる。</p></td>
 </tr>
 <tr class="even">
@@ -652,10 +662,10 @@ HARV-0016B(通常盤)</p></td>
   - Videokid（[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")）
   - RECIENTE（[資生堂](https://ja.wikipedia.org/wiki/資生堂 "wikilink") 91'春のキャンペーン）
   - 水のルネス（[アクアリゾート ルネスかなざわ](../Page/アクアリゾート_ルネスかなざわ.md "wikilink")）
-  - POLAND（[セゾンカード](../Page/クレディセゾン.md "wikilink")）
+  - POLAND（[セゾンカード](../Page/クレディセゾン.md "wikilink")）『[ZABADAK-I](https://ja.wikipedia.org/wiki/ZABADAK-I "wikilink")』収録
   - ブランシェ（[大塚家具](../Page/大塚家具.md "wikilink")）
   - 街角（大塚家具）
-  - 美チャンス-妖しい輪舞-（[メナード化粧品](https://ja.wikipedia.org/wiki/メナード化粧品 "wikilink")）
+  - 美・チャンス -妖しい輪舞-（[メナード化粧品](https://ja.wikipedia.org/wiki/メナード化粧品 "wikilink")）
   - 明日からの風（メナード化粧品）
   - 朝（[カルビー](https://ja.wikipedia.org/wiki/カルビー "wikilink") ポテトスープ）
   - FOLLOW YOUR DREAMS（[ミズノ](../Page/ミズノ.md "wikilink") エスポート）
@@ -670,7 +680,7 @@ HARV-0016B(通常盤)</p></td>
 ### 楽曲提供
 
   - サウンドトラック
-      - [白虎社](https://ja.wikipedia.org/wiki/白虎社 "wikilink")ビデオ作品『光の王国』『KIMELLA』ほか（1986年 - 1987年）\[40\]
+      - [白虎社](https://ja.wikipedia.org/wiki/白虎社 "wikilink")ビデオ作品『光の王国』『KIMELLA』ほか（1986年 - 1987年）\[42\]
   - 作曲
       - [有坂美香](../Page/有坂美香.md "wikilink") 「[月迷風影](../Page/月迷風影.md "wikilink")」（テレビアニメ『[十二国記](../Page/十二国記.md "wikilink")』エンディングテーマ）
       - [大塚明夫](../Page/大塚明夫.md "wikilink") 「おやすみ天使達」（イメージアルバム『BE HAPPY\!』（原案：橘皆無）より）
@@ -701,7 +711,7 @@ HARV-0016B(通常盤)</p></td>
 
 ### 音楽家への影響
 
-  - [霜月はるか](../Page/霜月はるか.md "wikilink")は影響を受けたアーティストとしてZABADAKの名前をあげている\[41\]\[42\]。
+  - [霜月はるか](../Page/霜月はるか.md "wikilink")は、影響を受けたアーティストとしてZABADAKの名前を挙げている\[43\]\[44\]。
 
 ### カバーしたアーティスト
 
@@ -709,7 +719,7 @@ HARV-0016B(通常盤)</p></td>
 
 ### その他の影響
 
-  - アニメ『[灰羽連盟](../Page/灰羽連盟.md "wikilink")』の第一話タイトル「繭・空を落ちる夢・オールドホーム」は、ZABADAKの「飛行夢（そら・とぶ・ゆめ）」を原作者の[安倍吉俊](../Page/安倍吉俊.md "wikilink")が高校時代に聞いていたことからアイデアを得ている\[43\]。
+  - アニメ『[灰羽連盟](../Page/灰羽連盟.md "wikilink")』の第一話タイトル「繭・空を落ちる夢・オールドホーム」は、ZABADAKの「飛行夢（そら・とぶ・ゆめ）」を原作者の[安倍吉俊](../Page/安倍吉俊.md "wikilink")が高校時代に聴いていたことからアイデアを得ている\[45\]。
   - [西川秀明](../Page/西川秀明.md "wikilink")の漫画『[Z MAN](../Page/Z_MAN.md "wikilink")』の最終巻（第11巻）で「休まない翼」が引用されている。
 
 ## 脚注
@@ -735,17 +745,17 @@ HARV-0016B(通常盤)</p></td>
 7.
 8.  [Otaria's Bloc(k)](http://otariasblock.web.fc2.com/)Otaria's Bloc(k)公式サイトプロフィール
 9.
-10. [Profile](http://www.zabadak.net/profile/)、ZABADAK公式サイト、2013年5月10日閲覧。
-11. アルバム『ウォーター・ガーデン』歌詞カードなど。
-12. 『[宝島](../Page/宝島_\(雑誌\).md "wikilink")』1986年4月号、[JICC出版局](../Page/宝島社.md "wikilink")、p.142。
-13.
-14. [Zabadak(BBC)](http://davedeedozybeakymickandtich.nl/zabadak-bbc/)2014年12月17日閲覧。
-15.
+10.
+11. [Zabadak(BBC)](http://davedeedozybeakymickandtich.nl/zabadak-bbc/)2014年12月17日閲覧。
+12.
+13. [Profile](http://www.zabadak.net/profile/)、ZABADAK公式サイト、2013年5月10日閲覧。
+14. アルバム『ウォーター・ガーデン』歌詞カードなど。
+15. 『[宝島](../Page/宝島_\(雑誌\).md "wikilink")』1986年4月号、[JICC出版局](../Page/宝島社.md "wikilink")、p.142。
 16.
-17. アルバム『Welcome to Zabadak』など
-18. アルバム『飛行夢』ブックレット。
-19. [ZABADAK - CDJournal](http://artist.cdjournal.com/a/zabadak/111463)、CDジャーナル、2016年8月3日閲覧。
-20.
+17.
+18. アルバム『Welcome to Zabadak』など
+19. アルバム『飛行夢』ブックレット。
+20. [ZABADAK - CDJournal](http://artist.cdjournal.com/a/zabadak/111463)、CDジャーナル、2016年8月3日閲覧。
 21.
 22.
 23.
@@ -765,7 +775,9 @@ HARV-0016B(通常盤)</p></td>
 37.
 38.
 39.
-40. [ザバダック / 十二月の午後、河原で僕は夏の風景を思い出していた。 ［再発］](http://artist.cdjournal.com/d/-/3198060047)、CDジャーナル、2016年8月20日閲覧。
-41. [霜月はるか「SHIMOTSUKIN 10th Anniversary BEST」インタビュー](https://natalie.mu/music/pp/shimotsukin/page/3) - ナタリー（2020年5月28日閲覧）
-42. 『同人音楽を聴こう\!』三才ブックス、2007年、p.8
-43. 『灰羽連盟脚本集』第一巻 2004年8月15日。
+40.
+41.
+42. [ザバダック / 十二月の午後、河原で僕は夏の風景を思い出していた。 ［再発］](http://artist.cdjournal.com/d/-/3198060047)、CDジャーナル、2016年8月20日閲覧。
+43. [霜月はるか「SHIMOTSUKIN 10th Anniversary BEST」インタビュー](https://natalie.mu/music/pp/shimotsukin/page/3) - ナタリー（2020年5月28日閲覧）
+44. 『同人音楽を聴こう\!』三才ブックス、2007年、p.8
+45. 『灰羽連盟脚本集』第一巻 2004年8月15日。

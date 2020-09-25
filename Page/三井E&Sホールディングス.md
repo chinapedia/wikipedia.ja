@@ -7,7 +7,7 @@
 
 ## 概要
 
-[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")が玉（現[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")）に設立した造船部を発祥とし、[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")時には各種軍用艦の建造に携わった。現在では商船、[自衛隊](../Page/自衛隊.md "wikilink")の艦艇、船舶用ディーゼルエンジンといった船舶分野だけでなく、発電・化学プラントといったエンジニアリング事業や、港湾クレーン、橋梁の建設など社会インフラ事業まで多岐にわたる。
+[三井物産](https://ja.wikipedia.org/wiki/三井物産 "wikilink")が玉（現[岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")[玉野市](../Page/玉野市.md "wikilink")）に設立した造船部を発祥とし、[大東亜戦争](../Page/大東亜戦争.md "wikilink")時には各種軍用艦の建造に携わった。現在では商船、[自衛隊](../Page/自衛隊.md "wikilink")の艦艇、船舶用ディーゼルエンジンといった船舶分野だけでなく、発電・化学プラントといったエンジニアリング事業や、港湾クレーン、橋梁の建設など社会インフラ事業まで多岐にわたる。
 
 主に船舶、機械、エンジニアリングの3つの事業を柱とする。傘下には浮体式海洋[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")・[ガス生産設備](https://ja.wikipedia.org/wiki/ガス燃料 "wikilink")(FPSO)で大きなシェアを誇る[三井海洋開発](../Page/三井海洋開発.md "wikilink")を持つ。また[メタンハイドレート](https://ja.wikipedia.org/wiki/メタンハイドレート "wikilink")の実用化に向けた研究も進めており、他の重工業メーカーと比べ海洋分野に力を入れていることが特徴である。
 
@@ -128,9 +128,9 @@
 
 #### 艦艇
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")中より艦艇建造に携わり、主に海防艦を建造、戦後も[自衛艦](../Page/自衛艦.md "wikilink")の建造を続けている。
+大東亜戦争中より艦艇建造に携わり、主に海防艦を建造、戦後も[自衛艦](../Page/自衛艦.md "wikilink")の建造を続けている。
 
-  - [日本海軍](../Page/大日本帝国海軍.md "wikilink")
+  - [大日本帝国海軍](../Page/大日本帝国海軍.md "wikilink")
 
 <!-- end list -->
 
@@ -299,7 +299,7 @@
 
 ### 鉄道車両
 
-[太平洋戦争](https://ja.wikipedia.org/wiki/太平洋戦争 "wikilink")[終戦](../Page/終戦.md "wikilink")後、1946年（昭和21年）5月から政府の[傾斜生産方式](../Page/傾斜生産方式.md "wikilink")に応えるため、三井造船玉野造船所では一時的に[鉄道車両](../Page/鉄道車両.md "wikilink")製造に関わった\[56\]\[57\]。
+大東亜戦争終結後、1946年（昭和21年）5月から政府の[傾斜生産方式](../Page/傾斜生産方式.md "wikilink")に応えるため、三井造船玉野造船所では一時的に[鉄道車両](../Page/鉄道車両.md "wikilink")製造に関わった\[56\]\[57\]。
 
 三井鉱山（現・[日本コークス工業](../Page/日本コークス工業.md "wikilink")）、三菱鉱業（現・[三菱マテリアル](../Page/三菱マテリアル.md "wikilink")）等から[石炭車](../Page/石炭車.md "wikilink")1,000両以上を受注・製造した\[58\]\[59\]。鉄道車両工事も行われ、[鉄道省](https://ja.wikipedia.org/wiki/鉄道省 "wikilink")広島鉄道局・大阪鉄道局、[東京急行電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")（当時は[大東急](../Page/大東急.md "wikilink")時代）から相当量の発注があった\[60\]\[61\]。
 

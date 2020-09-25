@@ -54,6 +54,8 @@
 
 ## 結果
 
+### 大会結果
+
 ※1968年イラン大会までは、総当たり戦のみ実施し順位を決定
 
 <table>
@@ -199,29 +201,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>回</p></td>
-<td><p>開催年</p></td>
-<td><p>開催国</p></td>
-<td><p>決勝戦</p></td>
-<td><p>準決勝敗退国（3位決定戦無し）</p></td>
-<td><p>出場<br />
-国数</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>優勝</p></td>
-<td><p>結果</p></td>
-<td><p>準優勝</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/AFCアジアカップ1996.md" title="wikilink">11</a></p></td>
 <td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
 <td></td>
@@ -294,6 +273,29 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>回</p></td>
+<td><p>開催年</p></td>
+<td><p>開催国</p></td>
+<td></td>
+<td><p>決勝戦</p></td>
+<td></td>
+<td><p>準決勝敗退国（3位決定戦無し）</p></td>
+<td></td>
+<td><p>出場<br />
+国数</p></td>
+</tr>
+<tr class="odd">
+<td><p>優勝</p></td>
+<td><p>結果</p></td>
+<td><p>準優勝</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ2019" title="wikilink">17</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td></td>
@@ -318,7 +320,218 @@
 </tbody>
 </table>
 
-## 統計・記録
+### 開催実績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>回</p></th>
+<th><p>開催年</p></th>
+<th><p>決勝戦開催都市</p></th>
+<th><p>決勝戦会場</p></th>
+<th><p>試合数</p></th>
+<th><p>総<br />
+ゴール数</p></th>
+<th><p>1試合平均<br />
+ゴール数</p></th>
+<th><p>総<br />
+入場者数</p></th>
+<th><p>1試合平均<br />
+入場者数</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1956.md" title="wikilink">1</a></p></td>
+<td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/香港" title="wikilink">香港</a></p></td>
+<td><p><a href="../Page/香港スタジアム.md" title="wikilink">香港政府大球場</a></p></td>
+<td><p>6</p></td>
+<td><p>27</p></td>
+<td><p>4.50</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ1960.md" title="wikilink">2</a></p></td>
+<td><p><a href="../Page/1960年.md" title="wikilink">1960年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ソウル特別市" title="wikilink">ソウル</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/孝昌運動場" title="wikilink">孝昌運動場</a></p></td>
+<td><p>6</p></td>
+<td><p>19</p></td>
+<td><p>3.17</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1964.md" title="wikilink">3</a></p></td>
+<td><p><a href="../Page/1964年.md" title="wikilink">1964年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラマト・ガン" title="wikilink">ラマト・ガン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラマト・ガン・スタジアム" title="wikilink">ラマト・ガン・スタジアム</a></p></td>
+<td><p>6</p></td>
+<td><p>13</p></td>
+<td><p>2.17</p></td>
+<td><p>99,000</p></td>
+<td><p>16,500</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ1968.md" title="wikilink">4</a></p></td>
+<td><p><a href="../Page/1968年.md" title="wikilink">1968年</a></p></td>
+<td><p><a href="../Page/テヘラン.md" title="wikilink">テヘラン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シャヒード・シロウディ・スタジアム" title="wikilink">シャヒード・シロウディ・スタジアム</a></p></td>
+<td><p>10</p></td>
+<td><p>32</p></td>
+<td><p>3.20</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1972.md" title="wikilink">5</a></p></td>
+<td><p><a href="../Page/1972年.md" title="wikilink">1972年</a></p></td>
+<td><p><a href="../Page/バンコク.md" title="wikilink">バンコク</a></p></td>
+<td><p><a href="../Page/スパチャラサイ国立競技場.md" title="wikilink">スパチャラサイ国立競技場</a></p></td>
+<td><p>13</p></td>
+<td><p>38</p></td>
+<td><p>2.92</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ1976.md" title="wikilink">6</a></p></td>
+<td><p><a href="../Page/1976年.md" title="wikilink">1976年</a></p></td>
+<td><p><a href="../Page/テヘラン.md" title="wikilink">テヘラン</a></p></td>
+<td><p><a href="../Page/アザディ・スタジアム.md" title="wikilink">アザディ・スタジアム</a></p></td>
+<td><p>10</p></td>
+<td><p>25</p></td>
+<td><p>2.50</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1980.md" title="wikilink">7</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1980年" title="wikilink">1980年</a></p></td>
+<td><p><a href="../Page/クウェート市.md" title="wikilink">クウェート</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サバーハ・アッ＝サーリム・スタジアム" title="wikilink">サバーハ・アッ＝サーリム・スタジアム</a></p></td>
+<td><p>24</p></td>
+<td><p>76</p></td>
+<td><p>3.17</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ1984.md" title="wikilink">8</a></p></td>
+<td><p><a href="../Page/1984年.md" title="wikilink">1984年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シンガポール" title="wikilink">シンガポール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ナショナルスタジアム_(シンガポール)" title="wikilink">ナショナルスタジアム</a></p></td>
+<td><p>24</p></td>
+<td><p>44</p></td>
+<td><p>1.83</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1988.md" title="wikilink">9</a></p></td>
+<td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
+<td><p><a href="../Page/ドーハ.md" title="wikilink">ドーハ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アル・アリ競技場" title="wikilink">アル・アリ競技場</a></p></td>
+<td><p>24</p></td>
+<td><p>40</p></td>
+<td><p>1.67</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">10</a></p></td>
+<td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島</a></p></td>
+<td><p><a href="../Page/広島広域公園陸上競技場.md" title="wikilink">広島広域公園陸上競技場</a></p></td>
+<td><p>16</p></td>
+<td><p>31</p></td>
+<td><p>1.94</p></td>
+<td><p>316,496</p></td>
+<td><p>19,781</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ1996.md" title="wikilink">11</a></p></td>
+<td><p><a href="../Page/1996年.md" title="wikilink">1996年</a></p></td>
+<td><p><a href="../Page/アブダビ.md" title="wikilink">アブダビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シェイク・ザイード・スタジアム" title="wikilink">シェイク・ザイード・スタジアム</a></p></td>
+<td><p>26</p></td>
+<td><p>80</p></td>
+<td><p>3.08</p></td>
+<td><p>398,008</p></td>
+<td><p>15,308</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ2000.md" title="wikilink">12</a></p></td>
+<td><p><a href="../Page/2000年.md" title="wikilink">2000年</a></p></td>
+<td><p><a href="../Page/ベイルート.md" title="wikilink">ベイルート</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カミール・シャムーン・スポーツ・シティ・スタジアム" title="wikilink">スポーツ・シティ・スタジアム</a></p></td>
+<td><p>26</p></td>
+<td><p>77</p></td>
+<td><p>2.96</p></td>
+<td><p>276,482</p></td>
+<td><p>10,634</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ2004.md" title="wikilink">13</a></p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+<td><p><a href="../Page/北京市.md" title="wikilink">北京</a></p></td>
+<td><p><a href="../Page/北京工人体育場.md" title="wikilink">北京工人体育場</a></p></td>
+<td><p>32</p></td>
+<td><p>96</p></td>
+<td><p>3.00</p></td>
+<td><p>1,020,050</p></td>
+<td><p>31,877</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/AFCアジアカップ2007.md" title="wikilink">14</a></p></td>
+<td><p><a href="../Page/2007年.md" title="wikilink">2007年</a></p></td>
+<td><p><a href="../Page/ジャカルタ.md" title="wikilink">ジャカルタ</a></p></td>
+<td><p><a href="../Page/ゲロラ・ブン・カルノ・スタジアム.md" title="wikilink">ゲロラ・ブン・カルノ・スタジアム</a></p></td>
+<td><p>32</p></td>
+<td><p>84</p></td>
+<td><p>2.63</p></td>
+<td><p>724,222</p></td>
+<td><p>22,632</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/AFCアジアカップ2011.md" title="wikilink">15</a></p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a></p></td>
+<td><p><a href="../Page/ドーハ.md" title="wikilink">ドーハ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハリーファ国際スタジアム" title="wikilink">ハリーファ国際スタジアム</a></p></td>
+<td><p>32</p></td>
+<td><p>90</p></td>
+<td><p>2.81</p></td>
+<td><p>405,361</p></td>
+<td><p>12,668</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ2015" title="wikilink">16</a></p></td>
+<td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
+<td><p><a href="../Page/シドニー.md" title="wikilink">シドニー</a></p></td>
+<td><p><a href="../Page/スタジアム・オーストラリア.md" title="wikilink">スタジアム・オーストラリア</a></p></td>
+<td><p>32</p></td>
+<td><p>85</p></td>
+<td><p>2.66</p></td>
+<td><p>649,705</p></td>
+<td><p>20,303</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ2019" title="wikilink">17</a></p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
+<td><p><a href="../Page/アブダビ.md" title="wikilink">アブダビ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シェイク・ザイード・スタジアム" title="wikilink">シェイク・ザイード・スタジアム</a></p></td>
+<td><p>51</p></td>
+<td><p>130</p></td>
+<td><p>2.55</p></td>
+<td><p>607,531</p></td>
+<td><p>11,912</p></td>
+</tr>
+</tbody>
+</table>
+
+## 統計
 
 ### 代表別通算成績
 
@@ -1743,184 +1956,6 @@
 </tbody>
 </table>
 
-### 開催実績
-
-<table>
-<thead>
-<tr class="header">
-<th><p>大会</p></th>
-<th><p>開催国</p></th>
-<th><p>試合数</p></th>
-<th><p>総<br />
-ゴール数</p></th>
-<th><p>1試合平均<br />
-ゴール数</p></th>
-<th><p>総<br />
-入場者数</p></th>
-<th><p>1試合平均<br />
-入場者数</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1956.md" title="wikilink">1956</a></p></td>
-<td></td>
-<td><p>6</p></td>
-<td><p>27</p></td>
-<td><p>4.50</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ1960.md" title="wikilink">1960</a></p></td>
-<td></td>
-<td><p>6</p></td>
-<td><p>19</p></td>
-<td><p>3.17</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1964.md" title="wikilink">1964</a></p></td>
-<td></td>
-<td><p>6</p></td>
-<td><p>13</p></td>
-<td><p>2.17</p></td>
-<td><p>99,000</p></td>
-<td><p>16,500</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ1968.md" title="wikilink">1968</a></p></td>
-<td></td>
-<td><p>10</p></td>
-<td><p>32</p></td>
-<td><p>3.20</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1972.md" title="wikilink">1972</a></p></td>
-<td></td>
-<td><p>13</p></td>
-<td><p>38</p></td>
-<td><p>2.92</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ1976.md" title="wikilink">1976</a></p></td>
-<td></td>
-<td><p>10</p></td>
-<td><p>25</p></td>
-<td><p>2.50</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1980.md" title="wikilink">1980</a></p></td>
-<td></td>
-<td><p>24</p></td>
-<td><p>76</p></td>
-<td><p>3.17</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ1984.md" title="wikilink">1984</a></p></td>
-<td></td>
-<td><p>24</p></td>
-<td><p>44</p></td>
-<td><p>1.83</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1988.md" title="wikilink">1988</a></p></td>
-<td></td>
-<td><p>24</p></td>
-<td><p>40</p></td>
-<td><p>1.67</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ1992.md" title="wikilink">1992</a></p></td>
-<td></td>
-<td><p>16</p></td>
-<td><p>31</p></td>
-<td><p>1.94</p></td>
-<td><p>316,496</p></td>
-<td><p>19,781</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ1996.md" title="wikilink">1996</a></p></td>
-<td></td>
-<td><p>26</p></td>
-<td><p>80</p></td>
-<td><p>3.08</p></td>
-<td><p>398,008</p></td>
-<td><p>15,308</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ2000.md" title="wikilink">2000</a></p></td>
-<td></td>
-<td><p>26</p></td>
-<td><p>77</p></td>
-<td><p>2.96</p></td>
-<td><p>276,482</p></td>
-<td><p>10,634</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ2004.md" title="wikilink">2004</a></p></td>
-<td></td>
-<td><p>32</p></td>
-<td><p>96</p></td>
-<td><p>3.00</p></td>
-<td><p>1,020,050</p></td>
-<td><p>31,877</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/AFCアジアカップ2007.md" title="wikilink">2007</a></p></td>
-<td><p><br />
-<br />
-<br />
-</p></td>
-<td><p>32</p></td>
-<td><p>84</p></td>
-<td><p>2.63</p></td>
-<td><p>724,222</p></td>
-<td><p>22,632</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/AFCアジアカップ2011.md" title="wikilink">2011</a></p></td>
-<td></td>
-<td><p>32</p></td>
-<td><p>90</p></td>
-<td><p>2.81</p></td>
-<td><p>405,361</p></td>
-<td><p>12,668</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ2015" title="wikilink">2015</a></p></td>
-<td></td>
-<td><p>32</p></td>
-<td><p>85</p></td>
-<td><p>2.66</p></td>
-<td><p>649,705</p></td>
-<td><p>20,303</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/AFCアジアカップ2019" title="wikilink">2019</a></p></td>
-<td></td>
-<td><p>51</p></td>
-<td><p>130</p></td>
-<td><p>2.55</p></td>
-<td><p>607,531</p></td>
-<td><p>11,912</p></td>
-</tr>
-</tbody>
-</table>
-
 ## 表彰
 
 <table>
@@ -2090,7 +2125,8 @@
 ## 関連項目
 
   - [AFC女子アジアカップ](../Page/AFC女子アジアカップ.md "wikilink")
-  - [AFCフットサル選手権](../Page/AFCフットサル選手権.md "wikilink")
+  - [アフロアジア選手権](../Page/アフロアジア選手権.md "wikilink")
+  - [AFC/OFCチャレンジカップ](https://ja.wikipedia.org/wiki/AFC/OFCチャレンジカップ "wikilink")
 
 ## 外部リンク
 

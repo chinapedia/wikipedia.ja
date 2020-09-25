@@ -6877,7 +6877,7 @@ DISC1(1145MB)・DISC2(1020MB)の2枚組</p></td>
 <tr class="even">
 <td><p>06月28日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Dies_irae_-Also_sprach_Zarathustra-" title="wikilink">Dies Irae 〜Amantes amentes〜</a></p></td>
-<td><p><a href="../Page/Light.md" title="wikilink">Light</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/light_(ゲームブランド)" title="wikilink">light</a></p></td>
 <td><p>1,384MB</p></td>
 <td><p>●</p></td>
 <td><p>●</p></td>

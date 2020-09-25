@@ -38,7 +38,7 @@
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[8月17日](../Page/8月17日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")現在
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 

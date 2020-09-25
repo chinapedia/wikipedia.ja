@@ -69,7 +69,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
   - 2011年[4月28日](../Page/4月28日.md "wikilink") - 『SHUFFLE\! Essence+』のファンディスク『[SHUFFLE\! Love Rainbow](https://ja.wikipedia.org/wiki/SHUFFLE!_Love_Rainbow "wikilink")』発売\[14\]。
   - [2019年](../Page/2019年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink") - 初代SHUFFE\!から次のステージの「間」となる新作『SPIRAL\!\!』が発売。
   - 2019年[5月1日](../Page/5月1日.md "wikilink") - 『SHUFFLE\! エピソード2』の公式サイトがオープン。
-  - [2020年](../Page/2020年.md "wikilink")5月29日 -『SHUFFLE\!エピソード2 ～神にも悪魔にも狙われている男～』発売。
+  - [2020年](../Page/2020年.md "wikilink")5月29日 -『[SHUFFLE\! エピソード2 神にも悪魔にも狙われている男](../Page/SHUFFLE!_エピソード2_神にも悪魔にも狙われている男.md "wikilink")』発売。
 
 ## ストーリー
 

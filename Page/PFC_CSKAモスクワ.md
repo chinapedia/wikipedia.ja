@@ -74,9 +74,9 @@ CSKAモスクワの最大のライバルは[FCスパルタク・モスクワ](..
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[8月5日](../Page/8月5日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))                          ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))                           ※括弧内の国旗はその他保有国籍、もしくは市民権を示す。
 
   - [監督](../Page/監督.md "wikilink")
 

@@ -314,8 +314,7 @@ FCやSFCで発売された他のFFシリーズと異なり、戦闘画面は[ド
 
   -
   -
-  - （英語）
-
+  -
 [Category:1992年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1992年のコンピュータゲーム "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:コンピュータRPG](https://ja.wikipedia.org/wiki/Category:コンピュータRPG "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:スクウェア・エニックスのゲームソフト](https://ja.wikipedia.org/wiki/Category:スクウェア・エニックスのゲームソフト "wikilink") [Category:ファイナルファンタジーシリーズのスピンオフ作品](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーシリーズのスピンオフ作品 "wikilink") [Category:ファイナルファンタジーのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファイナルファンタジーのコンピュータゲーム "wikilink") [Category:冒険ゲーム](https://ja.wikipedia.org/wiki/Category:冒険ゲーム "wikilink")
 
 1.  [Gametrailers.com - Final Fantasy Retrospective - Part X](http://www.gametrailers.com/player/25549.html)

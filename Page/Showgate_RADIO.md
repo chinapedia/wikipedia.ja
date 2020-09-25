@@ -70,7 +70,7 @@
 
   - [UPLIFTかくかたりき](../Page/UPLIFTかくかたりき.md "wikilink") （2006年10月13日～11月17日） UPLIFTとTE-A room各番組のパーソナリティが出演し、[キャララジオ](../Page/キャララジオ.md "wikilink")で配信
 
-### 外部リンク
+## 外部リンク
 
   - [Showgate RADIO](http://showgate.i-revo.jp/) 現在はサービス終了のお知らせのみ
 

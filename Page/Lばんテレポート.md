@@ -64,7 +64,7 @@
 
 ## 外部リンク
 
-  - [Lばんテレポート](http://web.archive.org/web/20010303191605/http://www.fukushima-tv.co.jp/jisya/telepo/telepo.htm)（インターネット・アーカイブ保存データ）
+  - [Lばんテレポート](https://web.archive.org/web/20010303191605/http://www.fukushima-tv.co.jp/jisya/telepo/telepo.htm)（インターネット・アーカイブ保存データ）
 
 [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:福島テレビの番組](https://ja.wikipedia.org/wiki/Category:福島テレビの番組 "wikilink") [Category:東北地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの帯番組 "wikilink") [Category:東北地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:東北地方のテレビの情報・ワイドショー番組 "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink")
 

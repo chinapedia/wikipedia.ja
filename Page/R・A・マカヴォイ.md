@@ -1,7 +1,7 @@
 > この記事は[R・A・マカヴォイ](https://ja.wikipedia.org/wiki/R・A・マカヴォイ)から翻訳されています。
 
 
-**R・A・マカヴォイ**（*Roberta Ann MacAvoy*、[1949年](../Page/1949年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[オハイオ州](../Page/オハイオ州.md "wikilink")[クリーブランド出身の](../Page/クリーブランド_\(オハイオ州\).md "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")作家。
+**ロベルタ・アン・マカヴォイ**（Roberta Ann MacAvoy、[1949年](../Page/1949年.md "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")・[オハイオ州](../Page/オハイオ州.md "wikilink")[クリーブランド出身の](../Page/クリーブランド_\(オハイオ州\).md "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")作家。
 
 1979年から1982年まで[コンピュータ](../Page/コンピュータ.md "wikilink")・[プログラマ](../Page/プログラマ.md "wikilink")として働き、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に長編『黒龍とお茶を』でデビュー。同作で1984年、[ジョン・W・キャンベル新人賞](https://ja.wikipedia.org/wiki/ジョン・W・キャンベル新人賞 "wikilink")を受賞。
 

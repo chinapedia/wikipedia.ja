@@ -42,6 +42,9 @@
 <!-- end list -->
 
   - **[MACKA-CHIN](../Page/MACKA-CHIN.md "wikilink")**（マッカチン、本名：吉田由照、1974年 - ）
+
+### 元メンバー
+
   - **[S-WORD](../Page/S-WORD.md "wikilink")**（スウォード、本名：下村善正、1975年 - ）
 
 ## 来歴
@@ -136,7 +139,12 @@
 <!-- end list -->
 
   - [2019年](../Page/2019年.md "wikilink")
-      - 5月7日、活動休止から7年ぶりの新曲「LIVE 19」のMVを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で公開し、また6月20日に[Tsutaya O-EASTにてワンマンライブを行うことを発表](../Page/Shibuya_O-EAST.md "wikilink")\[7\]。
+      - 5月7日、活動休止から7年ぶりの新曲「LIVE19」のMVを[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で公開し、また6月20日に[Tsutaya O-EASTにてワンマンライブを行うことを発表](../Page/Shibuya_O-EAST.md "wikilink")\[7\]。
+
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")
+      - 1月31日、前日に行われた「LIVE20」をもってS-WORDが脱退したことを発表\[8\]。
 
 ## 派生ユニット
 
@@ -146,11 +154,11 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 
 ### MONTIEN
 
-[2004年](../Page/2004年.md "wikilink")にSUIKEN、MACKA-CHIN、シンガーの[Tina](../Page/Tina.md "wikilink")の3人で[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")**MONTIEN**（モンティエン）を結成。ユニット名は[タイ語](../Page/タイ語.md "wikilink")で「王家の家」という意味。[2006年](../Page/2006年.md "wikilink")までに[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")2枚、[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")を1枚発表\[8\]。
+[2004年](../Page/2004年.md "wikilink")にSUIKEN、MACKA-CHIN、シンガーの[Tina](../Page/Tina.md "wikilink")の3人で[ヒップホップ](../Page/ヒップホップ.md "wikilink")[ユニット](../Page/ユニット.md "wikilink")**MONTIEN**（モンティエン）を結成。ユニット名は[タイ語](../Page/タイ語.md "wikilink")で「王家の家」という意味。[2006年](../Page/2006年.md "wikilink")までに[ミニアルバム](https://ja.wikipedia.org/wiki/ミニアルバム "wikilink")2枚、[スタジオ・アルバム](../Page/スタジオ・アルバム.md "wikilink")を1枚発表\[9\]。
 
 ### 東京弐拾伍時
 
-[2014年](../Page/2014年.md "wikilink")7月13日、**Dabo & Macka-chin & Suiken & S-word**名義でシングル「東京弐拾伍時」をManhattan Recordingsより発売\[9\]\[10\]。[2015年](../Page/2015年.md "wikilink")には同メンバーでユニット**東京弐拾伍時**（とうきょうにじゅうごじ）を結成し、ミニアルバム『TOKYO 25:00』を同年7月22日に発売\[11\]。
+[2014年](../Page/2014年.md "wikilink")7月13日、**Dabo & Macka-chin & Suiken & S-word**名義でシングル「東京弐拾伍時」をManhattan Recordingsより発売\[10\]\[11\]。[2015年](../Page/2015年.md "wikilink")には同メンバーでユニット**東京弐拾伍時**（とうきょうにじゅうごじ）を結成し、ミニアルバム『TOKYO 25:00』を同年7月22日に発売\[12\]。
 
 ## ディスコグラフィ
 
@@ -456,7 +464,8 @@ DABOとMACKA-CHINによるユニット。2003年、[ラッパ我リヤ](../Page/
 5.  [【HMV インタビュー】NITRO MICROPHONE UNDERGROUND 2回目！ HMV ONLINE](http://www.hmv.co.jp/news/article/1012220109)
 6.  [NITRO MICROPHONE UNDERGROUND、今月末で活動休止 (ＮＩＴＲＯ　ＭＩＣＲＯＰＨＯＮＥ　ＵＮＤＥＲＧＲＯＵＮＤ) ニュース-ORICON STYLE-](http://www.oricon.co.jp/news/2011679/full)
 7.
-8.  [MONTIEN](http://www.barks.jp/artist/?id=1000000047#artist_biography) - [BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
-9.  [東京弐拾伍時 | レコード・CD通販のマンハッタンレコード通販サイト](http://manhattanrecords.jp/%E6%9D%B1%E4%BA%AC%E5%BC%90%E6%8B%BE%E4%BC%8D%E6%99%82/product/0/2000001069912/?cat=001002007)
-10. [DABO, MACKA-CHIN, SUIKEN & S-WORD"東京弐拾伍時" - YouTube](https://www.youtube.com/watch?v=L_1Cn-NSeOQ)
-11.
+8.
+9.  [MONTIEN](http://www.barks.jp/artist/?id=1000000047#artist_biography) - [BARKS](https://ja.wikipedia.org/wiki/BARKS "wikilink")
+10. [東京弐拾伍時 | レコード・CD通販のマンハッタンレコード通販サイト](http://manhattanrecords.jp/%E6%9D%B1%E4%BA%AC%E5%BC%90%E6%8B%BE%E4%BC%8D%E6%99%82/product/0/2000001069912/?cat=001002007)
+11. [DABO, MACKA-CHIN, SUIKEN & S-WORD"東京弐拾伍時" - YouTube](https://www.youtube.com/watch?v=L_1Cn-NSeOQ)
+12.

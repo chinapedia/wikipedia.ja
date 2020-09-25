@@ -13,7 +13,8 @@ Sg-TVというビデオ・オン・デマンドのサービスも行っていた
 
 ### 映像
 
-  - [がぁーでぃあんHearts](../Page/がぁーでぃあんHearts.md "wikilink")/がぁーでぃあんHearts ぱわ～あっぷ\!（いずれも[OVA](../Page/OVA.md "wikilink")版）
+  - [がぁーでぃあんHearts](../Page/がぁーでぃあんHearts.md "wikilink")
+      - がぁーでぃあんHearts ぱわ～あっぷ\!（いずれも[OVA](../Page/OVA.md "wikilink")版）
   - [Wind -a breath of heart-](../Page/Wind_-a_breath_of_heart-.md "wikilink")（OVA版）
   - [らいむいろ流奇譚X](../Page/らいむいろ戦奇譚.md "wikilink")
   - [下級生2 〜瞳の中の少女たち〜](../Page/下級生2.md "wikilink")

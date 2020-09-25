@@ -194,7 +194,7 @@ Russian Air Force Mikoyan-Gurevich MiG-31 Pichugin-1.jpg|MiG-31DZ MiG-31 790 IAP
 [Category:ソ連・ロシアの戦闘機](https://ja.wikipedia.org/wiki/Category:ソ連・ロシアの戦闘機 "wikilink") [Category:ミコヤン・グレヴィッチ設計局の航空機](https://ja.wikipedia.org/wiki/Category:ミコヤン・グレヴィッチ設計局の航空機 "wikilink")
 
 1.  MiG-31もMiG-25もカタログスペック上の最高速度は時速3,000km(約マッハ2.83)であるが、この最高速度は機体の耐用限界である。そしてMiG-25はしばしば耐用限界を超えた速度で運用されており、中東上空にてマッハ3.4を記録している（出典『ミグ戦闘機―ソ連戦闘機の最新テクノロジー メカニックブックス』原書房から）。MiG-31については、少なくとも現在までそのような高速での飛行事例は存在しない。
-2.  [MiG-31 Foxhound](http://web.archive.org/web/20120124025040/http://www.vectorsite.net/avmig25_2.html)
+2.  [MiG-31 Foxhound](https://web.archive.org/web/20120124025040/http://www.vectorsite.net/avmig25_2.html)
 3.
 4.  [Russia's MiG-31 Fighter Is a Mach 3 Monster (Even at 35 Years Old) The National Interest](https://nationalinterest.org/blog/russias-mig-31-fighter-mach-3-monster-even-35-years-old-18376)
 5.  [Сергей Шойгу осмотрел выставку новейшей авиатехники, представленной в Кубинке в рамках форума "Армия-2018"](http://www.militarynews.ru/story.asp?rid=1&nid=488526)

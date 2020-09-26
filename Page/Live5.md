@@ -79,6 +79,6 @@
 
 ## 外部リンク
 
-  - [Live5](http://web.archive.org/web/20060427081658/http://www.kbs-kyoto.jp/tv/live5/) - KBS京都（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
+  - [Live5](https://web.archive.org/web/20060427081658/http://www.kbs-kyoto.jp/tv/live5/) - KBS京都（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")保存データ）
 
 [Category:2003年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のテレビ番組_\(日本\) "wikilink") [Category:KBS京都のテレビ帯番組](https://ja.wikipedia.org/wiki/Category:KBS京都のテレビ帯番組 "wikilink") [Category:近畿地方のテレビの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビの情報・ワイドショー番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink")

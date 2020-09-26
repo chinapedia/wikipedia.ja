@@ -407,7 +407,7 @@
   - [今・おも・ラジオ〜石川のラジオは今も面白い〜](https://ja.wikipedia.org/wiki/今・おも・ラジオ〜石川のラジオは今も面白い〜 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[12月18日](../Page/12月18日.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")・[エフエム石川](../Page/エフエム石川.md "wikilink")との共同制作番組）
   - 石川アーカイブス（開局80周年記念番組。2010年から2012年2月まで放送）
   - [FMジュークボックス](https://ja.wikipedia.org/wiki/FMジュークボックス "wikilink")
-  - いよっ\![弁慶](https://ja.wikipedia.org/wiki/弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[8\]\[9\]
+  - [いよっ\!弁慶](https://ja.wikipedia.org/wiki/いよっ!弁慶 "wikilink")（[2018年](../Page/2018年.md "wikilink")[10月31日](../Page/10月31日.md "wikilink")、[BSプレミアムにおいて](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")「石川発[地域ドラマ](https://ja.wikipedia.org/wiki/地域発ドラマ "wikilink")」として放送）\[8\]\[9\]
 
 ## アナウンサー・キャスター
 

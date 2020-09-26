@@ -59,7 +59,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
     報道端末[5300](../Page/5300_\(放送\).md "wikilink")（ごーさんまるまる）が各フロアやスタジオ近くに備えられ、迅速な原稿制作に対応している。
     災害等で放送センターが被害に遭い通常番組の放送が不能の場合でも、ニュースセンターは独立して稼働し、同センター内の設備のみで放送が行えるようになっている。
     地震の特番等ではNHK・民放を問わず「○○局内の様子」として震源に近い放送局の報道部の様子が放映されることが多い\[15\]が、このニュースセンターの場合は後述するセキュリティの都合からか、そうした事態が起こっても内部の詳細が映し出されることはほとんどない\[16\]（ウェブサイトで写真がアップされることはある）。こうした場合、代わりに[千代田放送会館](../Page/千代田放送会館.md "wikilink")の映像がよく使われている。[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の際には、[代々木公園](../Page/代々木公園.md "wikilink")と[西新宿](../Page/西新宿.md "wikilink")の高層ビル街を[ロングショット](https://ja.wikipedia.org/wiki/ロングショット "wikilink")で撮影しているカメラが激しく揺すられる様子が全国に放映された。
-    NC-A・NC-Bの2つのスタジオ内部は、ひとつのスタジオを間仕切りで分離する格好で、取り払うこともできる。NC-Aの入口から入って右側に定時ニュース用のセット、左側にメイク用の簡易化粧台がある\[17\]。スタジオセットは時期によってリニューアルを行うが、リニューアルされる数日前からNC-Bフロアで放送している番組はNC-Aフロアで暫定セットを使って代替使用される。2011年4月にスタジオセットの大規模なリニューアルが行われる予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連報道があった関係で例年より1か月半遅れの5月中旬に行われた。また、[衆議院](../Page/衆議院議員総選挙.md "wikilink")・[参議院の](../Page/参議院議員通常選挙.md "wikilink")[国政選挙や](../Page/日本の選挙.md "wikilink")[統一地方選挙](../Page/統一地方選挙.md "wikilink")などの時期にはNC-Bフロアは**[開票速報本部](../Page/NHKにおける選挙報道.md "wikilink")**として使用されるため、NC-Bで放送される番組は前後の数日間はNC-Aフロアで代替使用される。
+    NC-A・NC-Bの2つのスタジオ内部は、ひとつのスタジオを間仕切りで分離する格好で、取り払うこともできるが、近年はセットの大型化で間仕切りは常時取り払われている。NC-Aの入口から入って右側に定時ニュース用のセット、左側にメイク用の簡易化粧台がある\[17\]。スタジオセットは時期によってリニューアルを行うが、リニューアルされる数日前からNC-Bフロアで放送している番組はNC-Aフロアで暫定セットを使って代替使用される。2011年4月にスタジオセットの大規模なリニューアルが行われる予定だったが、[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")関連報道があった関係で例年より1か月半遅れの5月中旬に行われた。また、[衆議院](../Page/衆議院議員総選挙.md "wikilink")・[参議院の](../Page/参議院議員通常選挙.md "wikilink")[国政選挙や](../Page/日本の選挙.md "wikilink")[統一地方選挙](../Page/統一地方選挙.md "wikilink")などの時期にはNC-Bフロアは**[開票速報本部](../Page/NHKにおける選挙報道.md "wikilink")**として使用されるため、NC-Bで放送される番組は前後の数日間はNC-Aフロアで代替使用される。
     特設ニュースや災害放送はNC-Aから総合テレビ、NHKワールド・プレミアム以外への各チャンネル（テレビ・ラジオとも）でも同時放送を行う\[18\]\[19\]。
     運用開始前には[ソウルオリンピック](https://ja.wikipedia.org/wiki/ソウルオリンピック "wikilink")において、総合テレビ・BSの全中継の送出とスタジオ進行で使われたほか、本運用開始に先行して、当時夕方に放送されていた『[イブニングネットワーク](../Page/イブニングネットワーク_\(NHK総合\).md "wikilink")』では、一部企画コーナーがAフロアから放送されていた。
 
@@ -808,7 +808,7 @@ IPサイマルラジオサービス「[らじる★らじる](https://ja.wikiped
 </ul></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ニュース645_(首都圏センター).md" title="wikilink">ニュース645</a></p></td>
+<td><p><a href="../Page/ニュース645_(首都圏センター).md" title="wikilink">ニュース645（関東・山梨・長野）</a></p></td>
 <td><p>土日祝 18:45 - 18:59</p></td>
 <td><ul>
 <li>甲府：18:55 - 『ニュース・気象情報（山梨県域）』</li>
@@ -1355,6 +1355,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [青井実](../Page/青井実.md "wikilink")（あおい・みのる）
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink")（あさの・たつろう）
   - [阿部渉](../Page/阿部渉.md "wikilink")（あべ･わたる）(EA)
+  - [網秀一郎](https://ja.wikipedia.org/wiki/網秀一郎 "wikilink")（あみ・しゅういちろう）
   - [新井秀和](https://ja.wikipedia.org/wiki/新井秀和 "wikilink")（あらい・ひでかず）
   - [新井隆太](https://ja.wikipedia.org/wiki/新井隆太 "wikilink")（あらい・りゅうた）
   - [飯島徹郎](https://ja.wikipedia.org/wiki/飯島徹郎 "wikilink")（いいじま・てつろう）
@@ -1373,20 +1374,17 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [大橋拓](https://ja.wikipedia.org/wiki/大橋拓 "wikilink")（おおはし・たく）
   - [小澤康喬](../Page/小澤康喬.md "wikilink")（おざわ・やすたか）
   - [小田切千](../Page/小田切千.md "wikilink")（おだぎり・せん）（CA）
-  - [鏡和臣](https://ja.wikipedia.org/wiki/鏡和臣 "wikilink")（かがみ・かずおみ）
   - [笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink")（かさい・だいすけ）
   - [金子哲也](../Page/金子哲也.md "wikilink")（かねこ・てつや）副部長
   - [栗原望](https://ja.wikipedia.org/wiki/栗原望 "wikilink")（くりはら・のぞむ）
   - [黒田信哉](../Page/黒田信哉.md "wikilink")（くろだ・しんや）
   - [小西政親](https://ja.wikipedia.org/wiki/小西政親 "wikilink")（こにし・まさちか）
-  - [小林陽広](../Page/小林陽広.md "wikilink")（こばやし・あきひろ）
   - [後藤康之](https://ja.wikipedia.org/wiki/後藤康之_\(アナウンサー\) "wikilink")（ごとう・やすゆき）
   - [小松宏司](../Page/小松宏司.md "wikilink")（こまつ・こうじ）
   - [小山径](https://ja.wikipedia.org/wiki/小山径 "wikilink")（こやま・けい）
   - [近藤泰郎](../Page/近藤泰郎.md "wikilink")（こんどう・たいろう）
   - [西東大](../Page/西東大.md "wikilink")（さいとう・だい）（SA）
   - [坂梨哲士](../Page/坂梨哲士.md "wikilink")（さかなし・てつし）（CA）
-  - [佐々生佳典](../Page/佐々生佳典.md "wikilink")（ささお・よしのり）
   - [里匠](../Page/里匠.md "wikilink")（さと・たくみ）副部長
   - [佐藤克樹](https://ja.wikipedia.org/wiki/佐藤克樹 "wikilink")（さとう・かつき）
   - [佐藤誠太](https://ja.wikipedia.org/wiki/佐藤誠太 "wikilink")（さとう・せいた）
@@ -1398,6 +1396,8 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [杉岡英樹](../Page/杉岡英樹.md "wikilink")（すぎおか・ひでき）
   - [杉澤僚](../Page/杉澤僚.md "wikilink")（すぎさわ・りょう）
   - [杉嶋亮作](../Page/杉嶋亮作.md "wikilink")（すぎしま・りょうさく）
+  - [鈴木貴彦](https://ja.wikipedia.org/wiki/鈴木貴彦 "wikilink")（すずき・たかひこ）
+  - [鈴木健一](../Page/鈴木健一_\(アナウンサー\).md "wikilink")（すずき・けんいち）
   - [曽根優](../Page/曽根優.md "wikilink")（そね・まさる）
   - [高井正智](https://ja.wikipedia.org/wiki/高井正智 "wikilink")（たかい・まさとも）
   - [高瀬耕造](../Page/高瀬耕造.md "wikilink")（たかせ・こうぞう）
@@ -1415,7 +1415,9 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [永井伸一](../Page/永井伸一.md "wikilink")（ながい・しんいち）
   - [中野淳](../Page/中野淳.md "wikilink")（なかの・あつし）
   - [中野純一](../Page/中野純一.md "wikilink")（なかの・じゅんいち）（SA）
+  - [中谷文彦](../Page/中谷文彦.md "wikilink")（なかや・ふみひこ）(SA)
   - [八田知大](https://ja.wikipedia.org/wiki/八田知大 "wikilink")（はった・ともひろ）
+  - [早坂隆信](https://ja.wikipedia.org/wiki/早坂隆信 "wikilink")（はやさか・たかのぶ）
   - [原大策](https://ja.wikipedia.org/wiki/原大策 "wikilink")（はら・だいさく）
   - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink")（ひだ・よしひと）
   - [昼間敬仁](../Page/昼間敬仁.md "wikilink")（ひるま・ただよし）（SA）
@@ -1427,6 +1429,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [松苗竜太郎](https://ja.wikipedia.org/wiki/松苗竜太郎 "wikilink")（まつなえ・りゅうたろう）
   - [松野靖彦](../Page/松野靖彦.md "wikilink")（まつの・やすひこ）
   - [三浦拓実](../Page/三浦拓実.md "wikilink")（みうら・たくみ）スポーツ統括
+  - [三輪洋雄](https://ja.wikipedia.org/wiki/三輪洋雄 "wikilink")（みわ・ひろたか）
   - [宮崎大地](../Page/宮崎大地.md "wikilink")（みやざき・だいち）
   - [森田洋平](https://ja.wikipedia.org/wiki/森田洋平_\(アナウンサー\) "wikilink")（もりた・ようへい）
   - [山田賢治](https://ja.wikipedia.org/wiki/山田賢治 "wikilink")（やまだ・けんじ）（SA）
@@ -1461,7 +1464,6 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [鈴木奈穂子](../Page/鈴木奈穂子.md "wikilink")（すずき・なおこ）（産休）
   - [副島萌生](https://ja.wikipedia.org/wiki/副島萌生 "wikilink")（そえじま・めい）
   - [高橋さとみ](../Page/高橋さとみ.md "wikilink")（たかはし・さとみ）
-  - [千葉美乃梨](https://ja.wikipedia.org/wiki/千葉美乃梨 "wikilink")（ちば・みのり）（産休）
   - [塚原愛](../Page/塚原愛.md "wikilink")（つかはら・あい）
   - [柘植恵水](../Page/柘植恵水.md "wikilink")（つげ・えみ）
   - [寺門亜衣子](https://ja.wikipedia.org/wiki/寺門亜衣子 "wikilink")（てらかど・あいこ）（産休）
@@ -1471,7 +1473,7 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
   - [中山果奈](https://ja.wikipedia.org/wiki/中山果奈 "wikilink")（なかやま・かな）
   - [林田理沙](https://ja.wikipedia.org/wiki/林田理沙 "wikilink")（はやしだ・りさ）
   - [廣瀬智美](../Page/廣瀬智美.md "wikilink")（ひろせ・ともみ）
-  - [藤井彩子](../Page/藤井彩子.md "wikilink") (ふじい・あやこ)
+  - [藤井彩子](../Page/藤井彩子.md "wikilink")（ふじい・あやこ）
   - [古野晶子](../Page/古野晶子.md "wikilink")（ふるの・あきこ）
   - [星麻琴](https://ja.wikipedia.org/wiki/星麻琴 "wikilink")（ほし・まこと）
   - [保里小百合](https://ja.wikipedia.org/wiki/保里小百合 "wikilink")（ほり・さゆり）
@@ -1552,12 +1554,10 @@ NHKでは[受信報告書](https://ja.wikipedia.org/wiki/受信報告書 "wikili
 
 #### 男性
 
-  - [伊林毅暁](../Page/伊林毅暁.md "wikilink")（いばやし・たかあき）
   - [大野済也](../Page/大野済也.md "wikilink")（おおの・せいや）（SA）
   - [緒方宏一郎](https://ja.wikipedia.org/wiki/緒方宏一郎 "wikilink")（おがた・こういちろう）（SA）
   - [小林孝司](../Page/小林孝司.md "wikilink")（こばやし・たかし）（SA）
   - [近藤敏之](../Page/近藤敏之.md "wikilink")（こんどう・としゆき）（SA）
-  - [鈴木健一](../Page/鈴木健一_\(アナウンサー\).md "wikilink")（すずき・けんいち）（SA）
   - [武田涼介](../Page/武田涼介.md "wikilink")（たけだ・りょうすけ）(CA)
   - [野村正育](../Page/野村正育.md "wikilink")（のむら・まさいく） (EA)
   - [畠山智之](../Page/畠山智之.md "wikilink")（はたけやま・さとし）(EA)

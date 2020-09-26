@@ -32,9 +32,27 @@ HTML文書の head要素内に meta要素の http-equiv属性の値に "refresh"
 
 セキュリティなどの理由でスクリプトの実行を許可していない[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")では、転送されない。また、HTTPレスポンスではリダイレクトなしで直接アクセスした場合と同様のステータスコードが返されるため、検索エンジンなどの[クローラ](../Page/クローラ.md "wikilink")に移転したことが伝わらない場合もある。
 
-## 脚注
+## 目的
 
-[Category:Uniform_Resource_Locator](https://ja.wikipedia.org/wiki/Category:Uniform_Resource_Locator "wikilink") [Category:スパム](https://ja.wikipedia.org/wiki/Category:スパム "wikilink") [Category:HTML](https://ja.wikipedia.org/wiki/Category:HTML "wikilink")
+## 実装
+
+## サービス
+
+## セキュリティ上の問題
+
+## 関連項目
+
+  - [リンク腐敗](../Page/リンク切れ.md "wikilink")
+
+## 参考文献
+
+## 外部リンク
+
+  - [ファイルシステムの場所へのURLのマッピング](http://httpd.apache.org/docs/1.3/urlmapping.html)
+  - [JavaScriptリダイレクトスパムの分類](http://www2007.org/workshops/paper_115.pdf) （Microsoft Live Labs）
+  - [URLリダイレクタ](http://projects.webappsec.org/URL-Redirector-Abuse)の[セキュリティ脆弱性](http://projects.webappsec.org/URL-Redirector-Abuse) Webアプリケーションセキュリティコンソーシアムの脅威の分類
+
+[Category:インターネット用語](https://ja.wikipedia.org/wiki/Category:インターネット用語 "wikilink") [Category:インターネット検索](https://ja.wikipedia.org/wiki/Category:インターネット検索 "wikilink") [Category:Uniform_Resource_Locator](https://ja.wikipedia.org/wiki/Category:Uniform_Resource_Locator "wikilink")
 
 1.
 2.

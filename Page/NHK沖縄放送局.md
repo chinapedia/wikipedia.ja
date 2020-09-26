@@ -540,84 +540,78 @@
 （キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/黒住駿" title="wikilink">黒住駿</a></p></td>
-<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
-<td><p>沖縄県のニュース<br />
-各種スポーツ中継</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/竜田理史" title="wikilink">竜田理史</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>沖縄県のニュース<br />
 <a href="../Page/きんくる_〜沖縄金曜クルーズ〜.md" title="wikilink">きんくる 〜沖縄金曜クルーズ〜</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/荒木さくら.md" title="wikilink">荒木さくら</a></p></td>
 <td><p>沖縄県のニュース</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/寺内皓大.md" title="wikilink">寺内皓大</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀越将伸" title="wikilink">堀越将伸</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/土橋大記.md" title="wikilink">土橋大記</a>*</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>丹部あゆみ</p></td>
 <td></td>
 <td><p>沖縄ちゅらTV</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>仲本奈鶴季</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>内原早紀子</p></td>
 <td></td>
 <td><p>おきなわHOTeye<br />
 （キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中美音" title="wikilink">田中美音</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>上田詩織</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/渋谷遥華" title="wikilink">渋谷遥華</a></p></td>
 <td></td>
 <td><p>おはよう沖縄</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/結野亜希" title="wikilink">結野亜希</a></p></td>
 <td></td>
 <td><p>おきなわHOTeye</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

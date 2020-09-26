@@ -174,7 +174,7 @@ KVは並行開発されたSMKとは各部のデザインや部品が共通して
 
   -
   -
-  - *Beutepanzer*, <http://archive.is/20121225015155/beute.narod.ru/Beutepanzer/su/su.htm>
+  - *Beutepanzer*, <https://archive.is/20121225015155/beute.narod.ru/Beutepanzer/su/su.htm>
 
   - Jochen Vollert, *KV-1 Soviet Heavy Tank of WWII - Early Variants, Tankograd - Soviet Special No.2002*, Tankograd Publishing 2005
 

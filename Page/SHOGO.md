@@ -78,7 +78,7 @@
 
 ### ラジオ
 
-  - [175R SHOGOの青春馬鹿野郎\!\!](https://ja.wikipedia.org/wiki/175R_SHOGOの青春馬鹿野郎!! "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、2009年8月7日-）
+  - [175R SHOGOの青春馬鹿野郎\!\!](https://ja.wikipedia.org/wiki/175R_SHOGOの青春馬鹿野郎!! "wikilink")（[CROSS FM](https://ja.wikipedia.org/wiki/CROSS_FM "wikilink")、2009年8月7日-2010年3月26日）
   - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（[FM802](../Page/FM802.md "wikilink") [日曜日](../Page/日曜日.md "wikilink")（隔週）、2002年[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-2003年[9月](../Page/9月.md "wikilink")）
   - SHOGOのallnightnippon-r（2002年10月1日-2003年9月23日）
   - SHOGOのオールナイトニッポンフライデー（2003年11月7日-2004年3月26日）

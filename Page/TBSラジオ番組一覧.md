@@ -250,13 +250,13 @@
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
 <td><p>50 <a href="../Page/何かが始まる音がする.md" title="wikilink">何かが始まる音がする</a></p></td>
+<td><p>50 マコくんのベリハピラジオ2</p></td>
 <td><p>50 IQbuds BOOST presents<br />
 <a href="https://ja.wikipedia.org/wiki/純烈#ラジオ番組" title="wikilink">純烈の10分ください!</a></p></td>
 <td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />
 <a href="https://ja.wikipedia.org/wiki/小森谷徹の「あした話したくなるラジオ」" title="wikilink">小森谷徹の<br />
 「あした話したくなるラジオ」</a><br />
 <a href="../Page/小森谷徹.md" title="wikilink">小森谷徹</a>、<a href="https://ja.wikipedia.org/wiki/金井憧れ" title="wikilink">金井憧れ</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>

@@ -112,6 +112,8 @@
   - [ジャスティス](../Page/ジャスティス_\(GUILTY_GEAR\).md "wikilink")
   - [梅喧](../Page/梅喧.md "wikilink")
 
+## 脚注
+
 ## 関連項目
 
   - [GUILTY GEARの用語集](../Page/GUILTY_GEARの用語集.md "wikilink")

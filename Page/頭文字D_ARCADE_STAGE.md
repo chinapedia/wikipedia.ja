@@ -37,7 +37,7 @@
 
 ### 家庭用向けラインナップ
 
-  - 頭文字D Special Stage（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - 頭文字D Special Stage（[PlayStation 2](../Page/PlayStation_2.md "wikilink")）
   - 頭文字D STREET STAGE（[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")）
   - 頭文字D EXTREME STAGE（[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")）
 

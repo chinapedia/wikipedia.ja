@@ -116,7 +116,7 @@ G1がある日のオープニングは前年の当該競走のスタートと最
 <!-- end list -->
 
   -
-    原則1レースおきに交代。同じ[フジサンケイグループ](../Page/フジサンケイグループ.md "wikilink")の[カンテレが制作するテレビの中継](../Page/関西テレビ放送.md "wikilink")（『[DREAM競馬](../Page/DREAM競馬.md "wikilink")』→『[競馬beat』→『競馬BEAT](https://ja.wikipedia.org/wiki/競馬BEAT "wikilink")』→『[KEIBA BEAT](https://ja.wikipedia.org/wiki/KEIBA_BEAT "wikilink")』）と掛け持ちしている者も多い。また、関東の[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されている同種の番組『[日曜競馬ニッポン](../Page/日曜競馬ニッポン.md "wikilink")』と掛け持ちする者もいる。
+    原則1レースおきに交代。[関西テレビが制作するテレビの中継](../Page/関西テレビ放送.md "wikilink")（『[DREAM競馬](../Page/DREAM競馬.md "wikilink")』→『[競馬beat』→『競馬BEAT](https://ja.wikipedia.org/wiki/競馬BEAT "wikilink")』→『[KEIBA BEAT](https://ja.wikipedia.org/wiki/KEIBA_BEAT "wikilink")』）と掛け持ちしている者も多い。また、関東の[ニッポン放送](../Page/ニッポン放送.md "wikilink")で放送されている同種の番組『[日曜競馬ニッポン](../Page/日曜競馬ニッポン.md "wikilink")』と掛け持ちする者もいる。
       - [門口博光](https://ja.wikipedia.org/wiki/門口博光 "wikilink") - エイト関西本紙予想担当。
       - [喜多村克利](https://ja.wikipedia.org/wiki/喜多村克利 "wikilink")
       - [高橋賢司](https://ja.wikipedia.org/wiki/高橋賢司 "wikilink")

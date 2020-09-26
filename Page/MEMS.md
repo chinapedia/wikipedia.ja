@@ -68,7 +68,8 @@
 ### [流体](../Page/流体.md "wikilink")応用
 
   - マイクロバルブ
-  - マイクロ流路
+  - [マイクロ流路](https://ja.wikipedia.org/wiki/マイクロ流体力学 "wikilink")
+  - [Micro-TAS](https://ja.wikipedia.org/wiki/Micro-TAS "wikilink")/[Lab-on-a-chip](https://ja.wikipedia.org/wiki/Lab-on-a-chip "wikilink")
 
 ### [生化学](../Page/生化学.md "wikilink")応用
 

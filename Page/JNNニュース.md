@@ -27,11 +27,10 @@
 
 ### 朝
 
-  - 平日 5:51頃 - 5:55頃（終了時刻不明）
   - 土曜日 6:45 - 6:59
   - 日曜日 6:45 - 7:00
 
-平日は『[あさチャン\!](https://ja.wikipedia.org/wiki/あさチャン! "wikilink")先出し』の1コーナーとして、土曜日は『[まるっと\!サタデー](https://ja.wikipedia.org/wiki/まるっと!サタデー "wikilink")』の内包番組として、日曜日は単独番組として、それぞれ放送されている。
+土曜日は『[まるっと\!サタデー](https://ja.wikipedia.org/wiki/まるっと!サタデー "wikilink")』の内包番組として、日曜日は単独番組として、それぞれ放送されている。
 
 なお、『まるっと\!サタデー』については一部系列局で非ネットとなっており、これらの系列局では単独番組としての放送となる。また、当該番組内の『JNN NEWS』のテロップは、一部を除き同番組独自のフォーマットを使用している。6:59から1分間のエンディングがあるため、『JNN NEWS』は14分間での放送となる。
 
@@ -41,9 +40,9 @@
 
 ### 昼
 
-  - 平日 11:30 - 11:55（11:49以降はローカル差し替え枠）
+  - 平日 11:30 - 11:55（11:48以降はローカル差し替え枠）
   - 土曜日 11:45 - 11:59（※一部地域では、番組末尾のローカルニュース枠の拡大又は縮小を行っているため、11:58や12:00など、終了時刻が異なる。）
-  - 日曜日 11:30 - 11:45
+  - 日曜日 11:30 - 11:40
 
 [リアルタイム字幕放送](../Page/リアルタイム字幕放送.md "wikilink")を実施。平日は『 [ひるおび\!](https://ja.wikipedia.org/wiki/ひるおび! "wikilink")・午前』内にて、週末は完全な独立番組として放送。なお、土曜日はTBSほか一部地域において『[王様のブランチ](https://ja.wikipedia.org/wiki/王様のブランチ "wikilink")』の一時中断番組として放送\[2\]。また、他地域でも自社制作[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")の一時中断番組として放送している系列局がある。
 
@@ -55,13 +54,13 @@
 
 平日の地デジEPGでの番組の名称は、以下のように系列局によって異なる。
 
-  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")\[4\]、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[5\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
+  - 「ひるおび\!」 - [青森テレビ](../Page/青森テレビ.md "wikilink")\[4\]、[IBC岩手放送](../Page/IBC岩手放送.md "wikilink")、[東北放送](../Page/東北放送.md "wikilink")、[テレビユー山形](../Page/テレビユー山形.md "wikilink")、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")、[TBSテレビ](../Page/TBSテレビ.md "wikilink")、[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")\[5\]、[RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")、[中国放送](../Page/中国放送.md "wikilink")、[テレビ山口](../Page/テレビ山口.md "wikilink")、[あいテレビ](../Page/あいテレビ.md "wikilink")、[テレビ高知](../Page/テレビ高知.md "wikilink")、[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、[長崎放送](../Page/長崎放送.md "wikilink")、[熊本放送](../Page/熊本放送.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 「ひるおび\!JNN NEWS」 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")、[信越放送](../Page/信越放送.md "wikilink")、[チューリップテレビ](../Page/チューリップテレビ.md "wikilink")、[北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")、[山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")
   - 「ひるおび\!（JNN NEWS）」 - [テレビユー福島](../Page/テレビユー福島.md "wikilink")
   - 「JNNニュース」 - [北海道放送](../Page/北海道放送.md "wikilink")\[6\]、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")、[CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")
-      - なお、「JNN NEWS」として放送している局では、ニュース枠のエンディングは、北海道放送の様にエンドタイトルを流さない局や琉球放送のようにエンドタイトルを流す局に分かれる。
+      - なお、「JNN NEWS」として放送している局では、ニュース枠のエンディングは、北海道放送の様にエンドタイトルを流さない(ただし、「ひるおび！このあとすぐ」と表示)局や琉球放送のようにエンドタイトルを流す局に分かれる。
 
-日曜版は1985年4月以来、35年（『THE NEWS』時代を含む）の長期に渡って11:30 - 11:40枠だったが、2020年4月より5分拡大して11:45までの放送となった。ただし拡大分の11:40 - 11:45枠は実質的には[ガイド枠であるため](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、番組自体は拡大しない。
+日曜版は1985年4月以来、35年（『THE NEWS』時代を含む）の長期に渡って11:30 - 11:40枠だったが、2020年4月より5分拡大して11:45までの放送となった。ただし拡大分の11:40 - 11:45枠は実質的には[ガイド枠であるため](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、番組自体は拡大しない。9月6日からミニ番組『[台湾王子](https://ja.wikipedia.org/wiki/台湾王子_\(ドラマ\) "wikilink")』が復活するため11:40までとなった。
 
 ### スポットニュース
 
@@ -107,7 +106,7 @@
 ## 担当キャスター
 
 <table>
-<caption>2020年8月第2週現在の「JNN NEWS」担当キャスター一覧</caption>
+<caption>2020年9月第3週以降の「JNN NEWS」担当キャスター一覧</caption>
 <thead>
 <tr class="header">
 <th><p>放送時間</p></th>
@@ -168,7 +167,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/出水麻衣" title="wikilink">出水麻衣</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山形純菜" title="wikilink">山形純菜</a><sup>9</sup></p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -189,7 +188,7 @@
 <tr class="odd">
 <td><p>午後</p></td>
 <td><p>出水麻衣<sup>5</sup></p></td>
-<td><p>宇賀神メグ<sup>5</sup></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a><sup>5</sup></p></td>
 <td><p>（放送なし）</p></td>
 <td></td>
 <td></td>
@@ -227,6 +226,7 @@
 <li><sup>6</sup> 『<a href="https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター" title="wikilink">新・情報7days ニュースキャスター</a>』メインキャスターを兼務。</li>
 <li><sup>7</sup> 『<a href="https://ja.wikipedia.org/wiki/報道特集_(TBS)" title="wikilink">報道特集</a>』ナレーションを兼務。</li>
 <li><sup>8</sup> 『<a href="https://ja.wikipedia.org/wiki/サンデーニュース_Bizスクエア" title="wikilink">サンデーニュース Bizスクエア</a>』（<a href="../Page/BS-TBS.md" title="wikilink">BS-TBS</a>）のキャスターを兼務。</li>
+<li><sup>9</sup> 『<a href="https://ja.wikipedia.org/wiki/はやドキ!" title="wikilink">はやドキ!</a>』金曜日のメインキャスターを兼務。</li>
 </ul>
 <dl>
 <dt>備考</dt>
@@ -726,10 +726,15 @@
 </tr>
 <tr class="odd">
 <td><p>2020.8.6</p></td>
-<td><p>現在</p></td>
+<td><p>2020.9.11</p></td>
 <td><p>宇賀神メグ<sup>13</sup></p></td>
 </tr>
 <tr class="even">
+<td><p>2020.9.18</p></td>
+<td><p>現在</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/山形純菜" title="wikilink">山形純菜</a><sup>14</sup></p></td>
+</tr>
+<tr class="odd">
 <td><ul>
 <li>土曜の担当者は同日の『<a href="../Page/TBSニュース.md" title="wikilink">TBS NEWS</a>』を兼務。</li>
 <li>土曜の担当者は2010年10月から2019年6月まで『<a href="https://ja.wikipedia.org/wiki/報道特集_(TBS)" title="wikilink">報道特集</a>』のナレーターを兼務。</li>
@@ -747,6 +752,7 @@
 <li><sup>11</sup> 産休のため途中降板。</li>
 <li><sup>12</sup> 伊藤隆太（7日）、長岡（14日）、小林由未子（21・28日）、田村（10月5日）が担当した。</li>
 <li><sup>13</sup> 『<a href="https://ja.wikipedia.org/wiki/あさチャン!" title="wikilink">あさチャン!</a>』水 - 金曜日のサブキャスターを兼務。</li>
+<li><sup>14</sup> 『<a href="https://ja.wikipedia.org/wiki/はやドキ!" title="wikilink">はやドキ!</a>』金曜日のメインキャスターを兼務。</li>
 </ul></td>
 <td></td>
 <td></td>
@@ -1090,7 +1096,7 @@
 2.  ただし、TBS公式サイトの番組表では『王様のブランチ』に[フロート扱いされている](../Page/フロート番組.md "wikilink")。2015年8月15日は通常放送であったが、後半に戦没者追悼式典を放送するも、『王様のブランチ・第2部』内で同パートのネット局および同パート非ネット局のうちのごく一部でのみ継続放送となり、12時10分頃までその続きを放送した（『ブランチ・第2部』開始の11時59分にテロップで「王様のブランチの時間ですが継続します」と表示された）。
 3.  『王様のブランチ』で放送されていたWEATHER BRUNCHから移行。そのため『王様のブランチ・第1部』のWEATHER BRUNCHは廃止された。
 4.  通常は10:25からネットするが、特別編成等でひるおび\!を11:30からネットする場合は当該枠を『ひるおび\! （JNNニュース）』と表示する日がある。
-5.  2012年3月30日でネットを打ち切り、10月より3曜日だけ復帰。2013年3月25日より、全曜日復帰
+5.  「JNN NEWS」パートより前の午前枠については、2012年3月30日でネットをいったん終了したため、「JNN NEWS」からの飛び乗り方式で『ひるおび』を放送していた。同年10月より3曜日限定、2013年3月25日より全曜日で午前枠のネットを再開。
 6.  HBCでは各種新聞のテレビ欄でも別番組扱いとなっている。
 7.  はなまるマーケット内の「はなまるニュース」は、(単独枠で放送の)JNN NEWSのフォーマットを使用。
 8.  協定により「JNN」の名称が入っているニュース番組は加盟する全ての放送局で同時ネットする必要がある。

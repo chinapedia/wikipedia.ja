@@ -200,7 +200,7 @@
 
   - [ニュース630 京いちにち](../Page/ニュース630_京いちにち.md "wikilink")（平日18:30 - 19:00）
   - [京都ニュース845](../Page/京都ニュース845.md "wikilink")（平日20:45 - 21:00）
-      - 祝日は、20:55 - 21:00に大阪局から[近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")向けのニュース・気象情報を放送。
+      - 祝日は休止し、20:55 - 21:00に、「関西のニュース・気象情報」を放送。
   - 京都の気象情報（平日11:57 - 12:00）
 
 ### ラジオ（FM放送）
@@ -255,7 +255,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀井洋一" title="wikilink">堀井洋一</a></p></td>
 <td><p><a href="../Page/NHK神戸放送局.md" title="wikilink">神戸</a></p></td>
-<td><p><a href="../Page/京都ニュース845.md" title="wikilink">京都ニュース845</a> など</p></td>
+<td><p><a href="../Page/京都ニュース845.md" title="wikilink">京都ニュース845</a>など</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/小林千恵.md" title="wikilink">小林千恵</a></p></td>
@@ -269,57 +269,61 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/斉藤寿朗.md" title="wikilink">斉藤寿朗</a></p></td>
-<td><p><a href="../Page/NHK放送センター.md" title="wikilink">日本語センター</a></p></td>
+<td><p><a href="../Page/NHK放送センター.md" title="wikilink">日本語センター出向</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/酒井良彦" title="wikilink">酒井良彦</a></p></td>
-<td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
-<td><p>京都ニュース845<br />
-各種スポーツ中継</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐竹祐人" title="wikilink">佐竹祐人</a></p></td>
+<td><p><a href="../Page/NHK大分放送局.md" title="wikilink">大分</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/千野秀和.md" title="wikilink">千野秀和</a></p></td>
+<td><p><a href="../Page/NHKラジオセンター.md" title="wikilink">ラジオセンター</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/荒山沙織" title="wikilink">荒山沙織</a></p></td>
 <td><p>神戸</p></td>
 <td><p>ニュース630 京いちにち（キャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/寺田有希_(アナウンサー)" title="wikilink">寺田有希</a></p></td>
 <td><p><a href="../Page/NHK大津放送局.md" title="wikilink">大津</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/猪崎由華" title="wikilink">猪崎由華</a></p></td>
 <td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>ニュース630 京いちにち（リポーター）<br />
 <a href="../Page/ぐるっと関西おひるまえ.md" title="wikilink">ぐるっと関西おひるまえ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小谷麻菜美" title="wikilink">小谷麻菜美</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/磯野悠香" title="wikilink">磯野悠香</a></p></td>
 <td><p><a href="../Page/NHK帯広放送局.md" title="wikilink">帯広</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/矢澤剛" title="wikilink">矢澤剛</a></p></td>
 <td></td>
 <td><p>ニュース630 京いちにち</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

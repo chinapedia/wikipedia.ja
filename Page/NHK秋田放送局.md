@@ -417,33 +417,35 @@
 <tr class="even">
 <td><p><a href="../Page/秋野由美子.md" title="wikilink">秋野由美子</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
-<td><p>|秋田県のニュース</p></td>
+<td><p>秋田県のニュース</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/松井大_(アナウンサー)" title="wikilink">松井大</a></p></td>
+<td><p><a href="../Page/NHK宮崎放送局.md" title="wikilink">宮崎</a></p></td>
+<td><p>秋田県のニュース<br />
+各種スポーツ中継</p></td>
+</tr>
+<tr class="even">
 <td><p>倉沢宏希</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td><p>秋田県のニュース<br />
 放課後ラジオ よりみちこまち</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/浅田春奈.md" title="wikilink">浅田春奈</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>江口実玖</p></td>
 <td></td>
-<td><p>ニュースこまち</p></td>
-</tr>
-<tr class="odd">
-<td><p>亀田瑛莉子</p></td>
-<td></td>
-<td></td>
+<td><p>ニュースこまち<br />
+（キャスター）</p></td>
 </tr>
 <tr class="even">
 <td><p>高野栞</p></td>
@@ -451,26 +453,31 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>武田実紗</p></td>
+<td><p>亀田瑛莉子</p></td>
 <td></td>
-<td></td>
+<td><p>ニュースこまち（スポーツ）</p></td>
 </tr>
 <tr class="even">
+<td><p>武田実紗</p></td>
+<td><p>　</p></td>
+<td><p>ニュースこまち（リポーター）</p></td>
+</tr>
+<tr class="odd">
 <td><p>宮地由季</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>渡辺早紀</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>加藤直樹</p></td>
 <td></td>
 <td><p>ニュースこまち</p></td>

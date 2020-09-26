@@ -410,9 +410,9 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_UEFAスーパーカップ" title="wikilink">2020</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></strong>（CL）</p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a>(EL)</p></td>
 <td><p><a href="../Page/プスカシュ・アレーナ.md" title="wikilink">プスカシュ・アレーナ</a>（<a href="../Page/ブダペスト.md" title="wikilink">ブダペスト</a>）</p></td>
 </tr>
 <tr class="even">

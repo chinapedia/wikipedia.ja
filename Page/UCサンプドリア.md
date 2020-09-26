@@ -175,9 +175,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在\[2\]
+  - [2020年](../Page/2020年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   ★ ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Indonesia.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★   ★ ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

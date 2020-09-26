@@ -5,7 +5,7 @@
 
 ## 歴史
 
-1916年、軍から「[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中なので外国から磁石鋼が輸入できないため、作ってほしい」という要請を受けて、鉄の磁性研究に取り組んだ\[4\]\[5\]。その結果、1917年に[東北帝国大学の](https://ja.wikipedia.org/wiki/東北大学 "wikilink")[本多光太郎](../Page/本多光太郎.md "wikilink")と[高木弘](https://ja.wikipedia.org/wiki/高木弘 "wikilink")によって発明され、世界最強の[永久磁石](../Page/永久磁石.md "wikilink")鋼として脚光を浴びた。また、同年に[特許](../Page/特許.md "wikilink")出願し\[6\]、特許権を[住友吉左衛門に無償で渡している](https://ja.wikipedia.org/wiki/住友吉左衛門_\(15代\) "wikilink")\[7\]。
+1916年、軍から「[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中なので外国から磁石鋼が輸入できないため、作ってほしい」という要請を受けて、鉄の磁性研究に取り組んだ\[4\]\[5\]。その結果、1917年に[東北帝国大学の](https://ja.wikipedia.org/wiki/東北大学 "wikilink")[本多光太郎](../Page/本多光太郎.md "wikilink")と[高木弘](https://ja.wikipedia.org/wiki/高木弘 "wikilink")によって発明され、世界最強の[永久磁石](../Page/永久磁石.md "wikilink")鋼として脚光を浴びた。また、同年に[特許](../Page/特許.md "wikilink")出願し\[6\]（32234号）、特許権を[住友吉左衛門に無償で渡している](https://ja.wikipedia.org/wiki/住友吉左衛門_\(15代\) "wikilink")\[7\]。
 
 このことにより、計測機器の性能を向上させ、工業発展に貢献し\[8\]、日本で磁石開発が盛んに行われるようになった\[9\]。
 

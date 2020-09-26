@@ -48,6 +48,10 @@
   - [さえぐさ鼻男](https://ja.wikipedia.org/wiki/さえぐさ鼻男 "wikilink")
   - [ビジーストリート](https://ja.wikipedia.org/wiki/ビジーストリート "wikilink")（古澤麻由子、伊藤未来）
   - [北見](https://ja.wikipedia.org/wiki/北見寛明 "wikilink")
+  - [奥山ツンヂ](https://ja.wikipedia.org/wiki/奥山ツンヂ "wikilink")
+  - [江藤小吾](https://ja.wikipedia.org/wiki/江藤小吾 "wikilink")
+  - [ガラパゴス](https://ja.wikipedia.org/wiki/ガラパゴス "wikilink")（船見誠、長谷川海茉）
+  - [タッピーおか](https://ja.wikipedia.org/wiki/タッピーおか "wikilink")
 
 ### タレント
 
@@ -69,12 +73,7 @@
 
 #### 芸人
 
-  - 奥山ツンヂ
-  - ムラタ
   - イガラシソウル
-  - 江藤小吾
-  - [ガラパゴス](https://ja.wikipedia.org/wiki/ガラパゴス "wikilink")（船見誠、長谷川海茉）
-  - [タッピーおか](https://ja.wikipedia.org/wiki/タッピーおか "wikilink")
 
 #### 女優
 
@@ -116,7 +115,6 @@
   - [アル北郷](https://ja.wikipedia.org/wiki/アル北郷 "wikilink") - 現在はT.Nゴン所属
   - [石塚康介](https://ja.wikipedia.org/wiki/石塚康介 "wikilink")
   - [お宮の松](../Page/お宮の松_\(お笑い芸人\).md "wikilink")
-  - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")） - 現在はフリー
   - [がじゅまる](https://ja.wikipedia.org/wiki/がじゅまる "wikilink")（スーミーマン、小林すっとこどっこい） - 現在は[浅井企画](../Page/浅井企画.md "wikilink")所属
   - [川本マース](https://ja.wikipedia.org/wiki/川本マース "wikilink") - 在籍中の芸名は「シェパード太郎」
   - [元祖いちごちゃん](https://ja.wikipedia.org/wiki/元祖いちごちゃん "wikilink")（植村侑史、ハイパーペロちゃん） - 現在は浅井企画所属
@@ -135,7 +133,8 @@
   - [太陽の小町](../Page/太陽の小町.md "wikilink")（つる、安田一平） - 現在はラフィーネプロモーション所属
   - [高尾悠希](https://ja.wikipedia.org/wiki/高尾悠希 "wikilink") - 現在は[パイプライン所属](https://ja.wikipedia.org/wiki/パイプライン_\(芸能プロダクション\) "wikilink")
   - [髙橋洋](../Page/高橋洋_\(俳優\).md "wikilink") - 現在は[ケイファクトリー](../Page/ケイファクトリー.md "wikilink")所属
-  - [橘美緒](../Page/橘美緒.md "wikilink") - 現在は[オフィスノアール](https://ja.wikipedia.org/wiki/オフィスノアール "wikilink")所属、BESPOKE JAMと業務提携
+  - [橘美緒](../Page/橘美緒.md "wikilink") - 現在は[オフィスノアール](https://ja.wikipedia.org/wiki/オフィスノアール "wikilink")所属
+  - [玉袋筋太郎](../Page/玉袋筋太郎.md "wikilink")（[浅草キッド](../Page/浅草キッド.md "wikilink")） - 現在はフリー
   - [寺島進](https://ja.wikipedia.org/wiki/寺島進 "wikilink") - 現在は[ジャパン・ミュージックエンターテインメント](../Page/ジャパン・ミュージックエンターテインメント.md "wikilink")所属
   - [中嶋美和子](../Page/中嶋美和子.md "wikilink")
   - [なべやかん](../Page/なべやかん.md "wikilink") - 現在は[ワイエムエヌ](https://ja.wikipedia.org/wiki/ワイエムエヌ "wikilink")所属

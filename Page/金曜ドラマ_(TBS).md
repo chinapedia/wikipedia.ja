@@ -21,13 +21,13 @@
 
 1989年以降の代表的な作品には、冬彦さんブームを巻き起こした『ずっとあなたが好きだった』（1992年）、および同じスタッフで製作された『誰にも言えない』（1993年）、野島伸司脚本による『高校教師』（1993年）、『人間・失格』（1994年）、『未成年』（1995年）、『聖者の行進』（1998年）、手話ブームを牽引した『愛していると言ってくれ』（1995年）、続編が作成された『青い鳥』（1997年）、田村正和、木村拓哉、宮沢りえの共演で話題を呼んだ『協奏曲』（1996年）、スペシャル版や映画版も制作された『ケイゾク』（1999年）など。2000年以降は、続編・映画化までされ、続編は平均20%を超える高視聴率をマークするなどの人気を博した『花より男子』、ベストセラー小説をドラマ化した『世界の中心で、愛をさけぶ』（2004年）、映画化された『クロサギ』（2006年）、若手俳優が多くブレイクした『ドラゴン桜』（2005年）、[アラフォーが流行語にもなった](https://ja.wikipedia.org/wiki/アラサー "wikilink")『Around40〜注文の多いオンナたち〜』（2008年）など。
 
-2000年代に入ると平均視聴率が10%を切ることも少なくない。特に2012年に放送された全4作品すべてが一桁台と低迷し、2008年10月期の『流星の絆』最終回から2013年7月期の『なるようになるさ。』初回まで単回で15%を超える作品がなかった。『木更津キャッツアイ』、『タイガー&ドラゴン』、『歌姫』、『魔王』、『SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜』などの視聴率は低かったものの、後に[DVD](../Page/DVD.md "wikilink")販売でヒットしたというケースもある。また、同様にこの時期から「オリジナルドラマ」だけではなく、「漫画作品をドラマ化」、「[海外ドラマ](../Page/海外ドラマ.md "wikilink")を日本版に[リメイク](../Page/リメイク.md "wikilink")」などを取り入れ始め他のドラマ枠と同様、年々増加傾向にある。
+2000年代に入ると平均視聴率が10%を切ることも少なくない。特に2012年に放送された全4作品すべてが一桁台と低迷し、2008年10月期の『流星の絆』最終回から2013年7月期の『なるようになるさ。』初回まで単回で15%を超える作品がなかった。『木更津キャッツアイ』、『タイガー&ドラゴン』、『歌姫』、『魔王』、『SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜』（以下、『SPEC』）などの視聴率は低かったものの、後に[DVD](../Page/DVD.md "wikilink")販売でヒットしたというケースもある\[2\]。また、同様にこの時期から「オリジナルドラマ」だけではなく、「漫画作品をドラマ化」、「[海外ドラマ](../Page/海外ドラマ.md "wikilink")を日本版に[リメイク](../Page/リメイク.md "wikilink")」などを取り入れ始め他のドラマ枠と同様、年々増加傾向にある。
 
-放送された作品は現代劇だが、[2012年](../Page/2012年.md "wikilink")10月からの『[大奥〜誕生［有功・家光篇］](https://ja.wikipedia.org/wiki/大奥〜誕生［有功・家光篇］ "wikilink")』では初めて[時代劇](../Page/時代劇.md "wikilink")の作品が登場した。\[2\]\[3\]
+放送された作品は現代劇だが、[2012年](../Page/2012年.md "wikilink")10月からの『[大奥〜誕生［有功・家光篇］](https://ja.wikipedia.org/wiki/大奥〜誕生［有功・家光篇］ "wikilink")』では初めて[時代劇](../Page/時代劇.md "wikilink")の作品が登場した。\[3\]\[4\]
 
 2004年春に[水曜22時枠ドラマが廃枠になり](../Page/TBS水曜10時枠の連続ドラマ.md "wikilink")、2008年春に[木曜22時枠ドラマが廃枠になると](../Page/TBS木曜10時枠の連続ドラマ.md "wikilink")、当枠はTBSテレビ唯一の22時枠ドラマとなったが、2014年春の改編で、かつて『[刑事コジャック](../Page/刑事コジャック.md "wikilink")』『[刑事スタスキー&ハッチ](https://ja.wikipedia.org/wiki/スタスキー&ハッチ "wikilink")』などの[海外ドラマを編成していた火曜](https://ja.wikipedia.org/wiki/TBS火曜10時枠の連続ドラマ "wikilink")22時枠に、国産1時間ドラマ『[火曜ドラマ](https://ja.wikipedia.org/wiki/火曜ドラマ_\(TBS\) "wikilink")』を設置、6年ぶりに22時枠ドラマが2体制になった。
 
-また2018年春の改編で、月 - 木の22時台番組（『火曜ドラマ』を含む）が22:00 - 23:07に拡大（13分延長）されたが、当枠は引き続き22:00 - 22:54枠での放送となった（2019年4月29日より22:57までに縮小）。TBSテレビの22時番組で23:00を超えないのは当枠と日曜の『[林先生が驚く初耳学\!](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")』（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）の2番組\[4\]だけで、「平日」と「TBS制作」は当枠が唯一となる。
+また2018年春の改編で、月 - 木の22時台番組（『火曜ドラマ』を含む）が22:00 - 23:07に拡大（13分延長）されたが、当枠は引き続き22:00 - 22:54枠での放送となった（2019年4月29日より22:57までに縮小）。TBSテレビの22時番組で23:00を超えないのは当枠と日曜の『[林先生が驚く初耳学\!](https://ja.wikipedia.org/wiki/林先生が驚く初耳学! "wikilink")』（[毎日放送制作](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）の2番組\[5\]だけで、「平日」と「TBS制作」は当枠が唯一となる。
 
 なお、一部の作品については、TBS系全国ネットでの放送終了してから、後に他系列の不定期ネット局でも[遅れネット](../Page/遅れネット.md "wikilink")で放送されている。
 
@@ -149,7 +149,7 @@
 
 ## 1989年以降の作品リスト
 
-以下の制作プロダクション記号のないものはTBS（東京放送 → TBSエンタテインメント → TBSテレビ）の局制作\[5\]。
+以下の制作プロダクション記号のないものはTBS（東京放送 → TBSエンタテインメント → TBSテレビ）の局制作\[6\]。
 
   - ［KP］ → ［DM］ → ［SP］ - [木下プロダクション → ドリマックス・テレビジョン](../Page/ドリマックス・テレビジョン.md "wikilink") → [TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")
   - ［TP］ - [テレパック](../Page/テレパック.md "wikilink")
@@ -242,7 +242,7 @@
 ### 2001年
 
   - [ストロベリー・オンザ・ショートケーキ](../Page/ストロベリー・オンザ・ショートケーキ.md "wikilink")（1月12日 - 3月16日、主演：[滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")、[深田恭子](https://ja.wikipedia.org/wiki/深田恭子 "wikilink") 共演：[内山理名](https://ja.wikipedia.org/wiki/内山理名 "wikilink")、[窪塚洋介](../Page/窪塚洋介.md "wikilink")）
-  - [昔の男](../Page/昔の男.md "wikilink")（4月13日 - 6月29日、主演：藤原紀香、[大沢たかお](../Page/大沢たかお.md "wikilink")）［TP］\[6\]
+  - [昔の男](../Page/昔の男.md "wikilink")（4月13日 - 6月29日、主演：藤原紀香、[大沢たかお](../Page/大沢たかお.md "wikilink")）［TP］\[7\]
   - [世界で一番熱い夏](../Page/世界で一番熱い夏.md "wikilink")（7月6日 - 9月14日、主演：[岸谷五朗](../Page/岸谷五朗.md "wikilink")）
   - [恋を何年休んでますか](../Page/恋を何年休んでますか.md "wikilink")（10月19日 - 12月21日、主演：小泉今日子 共演：[飯島直子](https://ja.wikipedia.org/wiki/飯島直子 "wikilink")、[黒木瞳](../Page/黒木瞳.md "wikilink")）
 
@@ -349,7 +349,7 @@
   - [わたしを離さないで](https://ja.wikipedia.org/wiki/わたしを離さないで "wikilink")（1月15日 - 3月18日、原作：[カズオ・イシグロ](../Page/カズオ・イシグロ.md "wikilink") 主演：綾瀬はるか）
   - [私 結婚できないんじゃなくて、しないんです](https://ja.wikipedia.org/wiki/私_結婚できないんじゃなくて、しないんです "wikilink")（4月15日 - 6月17日、原案：[水野敬也](../Page/水野敬也.md "wikilink") 主演：[中谷美紀](https://ja.wikipedia.org/wiki/中谷美紀 "wikilink")）［DM］
   - [神の舌を持つ男](https://ja.wikipedia.org/wiki/神の舌を持つ男 "wikilink")（7月8日 - 9月9日 、主演：[向井理](../Page/向井理.md "wikilink")）
-  - [砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")（10月14日 - 12月16日 、主演：[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")）\[7\]［DM］
+  - [砂の塔〜知りすぎた隣人](https://ja.wikipedia.org/wiki/砂の塔〜知りすぎた隣人 "wikilink")（10月14日 - 12月16日 、主演：[菅野美穂](https://ja.wikipedia.org/wiki/菅野美穂 "wikilink")）\[8\]［DM］
 
 ### 2017年
 
@@ -375,14 +375,14 @@
 ### 2020年
 
   - [病室で念仏を唱えないでください](https://ja.wikipedia.org/wiki/病室で念仏を唱えないでください "wikilink")（1月17日 - 3月20日、原作：[こやす珠世](../Page/こやす珠世.md "wikilink")、主演：[伊藤英明](../Page/伊藤英明.md "wikilink")）
-  - [MIU404](../Page/MIU404.md "wikilink")（6月26日 - 、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）［SP］
+  - [MIU404](../Page/MIU404.md "wikilink")（6月26日 - 9月4日、主演：綾野剛、[星野源](../Page/星野源.md "wikilink")）［SP］
   - [キワドい2人-K2-池袋署刑事課 神崎・黒木](../Page/K2_池袋署刑事課_神崎・黒木.md "wikilink")（9月11日 - 、原作：[横関大](https://ja.wikipedia.org/wiki/横関大 "wikilink")、主演：[山田涼介](https://ja.wikipedia.org/wiki/山田涼介 "wikilink")）［SP］
   - [恋する母たち](https://ja.wikipedia.org/wiki/恋する母たち "wikilink")（10月 -、原作：[柴門ふみ](https://ja.wikipedia.org/wiki/柴門ふみ "wikilink")、主演：[木村佳乃](https://ja.wikipedia.org/wiki/木村佳乃 "wikilink")）\[SP\]
 
 ## 備考
 
   - 2010年7月期に放送されていた『[うぬぼれ刑事](https://ja.wikipedia.org/wiki/うぬぼれ刑事 "wikilink")』から、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）と[日本民間放送連盟](../Page/日本民間放送連盟.md "wikilink")の方針により[地上アナログ放送では](../Page/NTSC.md "wikilink")、[地上デジタル放送への完全移行を前提として画角サイズ](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")16:9の[レターボックス放送に移行していた](../Page/レターボックス_\(映像技術\).md "wikilink")。
-  - 2005年7月期に放送された『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』の続編は、[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")へ放送枠を変更して2020年7月期に放送予定だった。しかし、[新型コロナウイルス感染拡大防止により撮影が自粛され](https://ja.wikipedia.org/wiki/2019年新型コロナウイルス "wikilink")、4月期の『[半沢直樹](https://ja.wikipedia.org/wiki/半沢直樹 "wikilink")』の放送開始日が未定になりキャストのオーディションなど制作の見通しが経たなくなったため、延期が決定した\[8\]（『半沢直樹』の方は[7月19日](../Page/7月19日.md "wikilink")に放送開始をした）。
+  - 2005年7月期に放送された『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』の続編は、[日曜劇場](https://ja.wikipedia.org/wiki/日曜劇場 "wikilink")へ放送枠を変更して2020年7月期に放送予定だった。しかし、[新型コロナウイルス感染拡大防止により撮影が自粛され](https://ja.wikipedia.org/wiki/2019年新型コロナウイルス "wikilink")、4月期の『[半沢直樹](https://ja.wikipedia.org/wiki/半沢直樹 "wikilink")』の放送開始日が未定になりキャストのオーディションなど制作の見通しが経たなくなったため、延期が決定した\[9\]（『半沢直樹』の方は[7月19日](../Page/7月19日.md "wikilink")に放送開始をした）。
 
 ## 放送局・配信元
 
@@ -398,7 +398,7 @@
 
 | 放送対象地域                                                            | 放送局                                                                   | 系列                                              | 放送時間              | 提供         | 備考      |
 | ----------------------------------------------------------------- | --------------------------------------------------------------------- | ----------------------------------------------- | ----------------- | ---------- | ------- |
-| [関東広域圏](../Page/広域放送.md "wikilink")                               | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）\[9\]                      | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 金曜日 22:00 - 22:54 | ネットワークセールス | **制作局** |
+| [関東広域圏](../Page/広域放送.md "wikilink")                               | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）\[10\]                     | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 金曜日 22:00 - 22:54 | ネットワークセールス | **制作局** |
 | [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")               | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                             | 同時ネット                                           |                   |            |         |
 | [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")               | [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）                             |                                                 |                   |            |         |
 | [岩手県](../Page/岩手県.md "wikilink")                                  | [IBC岩手放送](../Page/IBC岩手放送.md "wikilink")（IBC）                         |                                                 |                   |            |         |
@@ -411,17 +411,17 @@
 | [静岡県](../Page/静岡県.md "wikilink")                                  | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）            |                                                 |                   |            |         |
 | [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")               | [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）                     |                                                 |                   |            |         |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")               | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）            |                                                 |                   |            |         |
-| [中京広域圏](../Page/広域放送.md "wikilink")                               | [CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）\[10\]  |                                                 |                   |            |         |
+| [中京広域圏](../Page/広域放送.md "wikilink")                               | [CBCテレビ](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")（CBC）\[11\]  |                                                 |                   |            |         |
 | [近畿広域圏](../Page/広域放送.md "wikilink")                               | [毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")（MBS）          |                                                 |                   |            |         |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）            |                                                 |                   |            |         |
-| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）\[11\] |                                                 |                   |            |         |
+| [岡山県・香川県](../Page/岡山県・香川県の放送.md "wikilink")                       | [RSK山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）\[12\] |                                                 |                   |            |         |
 | [広島県](../Page/広島県.md "wikilink")                                  | [中国放送](../Page/中国放送.md "wikilink")（RCC）                               |                                                 |                   |            |         |
 | [山口県](../Page/山口県.md "wikilink")                                  | [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）                             |                                                 |                   |            |         |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [あいテレビ](../Page/あいテレビ.md "wikilink")（itv）                             |                                                 |                   |            |         |
 | [高知県](../Page/高知県.md "wikilink")                                  | [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）                            |                                                 |                   |            |         |
 | [福岡県](../Page/福岡県.md "wikilink")                                  | [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（RKB）      |                                                 |                   |            |         |
 | [長崎県](../Page/長崎県.md "wikilink")                                  | [長崎放送](../Page/長崎放送.md "wikilink")（NBC）                               |                                                 |                   |            |         |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）            |                                                 |                   |            |         |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](../Page/熊本放送.md "wikilink")（RKK）                               |                                                 |                   |            |         |
 | [大分県](../Page/大分県.md "wikilink")                                  | [大分放送](../Page/大分放送.md "wikilink")（OBS）                               |                                                 |                   |            |         |
 | [宮崎県](../Page/宮崎県.md "wikilink")                                  | [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（mrt）            |                                                 |                   |            |         |
 | [鹿児島県](../Page/鹿児島県.md "wikilink")                                | [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（MBC）          |                                                 |                   |            |         |
@@ -463,12 +463,12 @@
 <td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
 <td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
 <td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系列</a></p></td>
-<td><p>[12]</p></td>
+<td><p>[13]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/秋田テレビ" title="wikilink">秋田テレビ</a>（AKT）</p></td>
 <td><p><a href="../Page/フジネットワーク.md" title="wikilink">フジテレビ系列</a></p></td>
-<td><p>[13]</p></td>
+<td><p>[14]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -488,7 +488,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
 <td><p><a href="../Page/四国放送.md" title="wikilink">四国放送</a>（JRT）</p></td>
 <td><p>日本テレビ系列</p></td>
-<td><p>[14]</p></td>
+<td><p>[15]</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -533,8 +533,8 @@
 <td><p>福島県</p></td>
 <td><p><a href="../Page/福島テレビ.md" title="wikilink">福島テレビ</a></p></td>
 <td><p>フジテレビ系列</p></td>
-<td><p>『<a href="../Page/金曜日の妻たちへ.md" title="wikilink">金曜日の妻たちへ</a>』第7回まで同時ネット[15]。<br />
-第8回から時差ネット化され、同作品最終回をもって打ち切り[16]。<br />
+<td><p>『<a href="../Page/金曜日の妻たちへ.md" title="wikilink">金曜日の妻たちへ</a>』第7回まで同時ネット[16]。<br />
+第8回から時差ネット化され、同作品最終回をもって打ち切り[17]。<br />
 1983年3月まではTBS系列とのクロスネット局</p></td>
 </tr>
 <tr class="odd">
@@ -578,8 +578,8 @@
   - [テレビ高知](../Page/テレビ高知.md "wikilink")では、系列局でありながら一時期この番組をネットしていなかった。しかし、1996年春の改編で同局ゴールデン帯の独自差し替え枠の番組割り当て見直しが行われ、その結果本枠はTBS同時ネットに転換し、以降は同時ネットが行われる様になった。
   - 外部のプロダクションが制作した作品の場合、制作局TBSの権利失効後、以前の作品をTBS系列以外の[ローカル局](../Page/ローカル局.md "wikilink")において再放送されたことがある。
   - 過去に制作された作品の一部は、TBSのCS放送・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")で再放送されたことがある。また、TBSの権利が失効した作品は[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")や[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")などのテレビドラマ専門のCS放送でも再放送されたこともある。
-  - 山陽放送、[長崎放送](../Page/長崎放送.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
-  - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](../Page/秋田放送.md "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[17\]に遅れて放送されている。
+  - 山陽放送、[長崎放送](../Page/長崎放送.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")、[熊本放送](../Page/熊本放送.md "wikilink")、[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")、[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、[琉球放送](../Page/琉球放送.md "wikilink")の[地上デジタル放送において](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")、『セーラー服と機関銃』の最終回のみの[サービス放送](../Page/サービス放送.md "wikilink")を行っていた。
+  - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")は2007年で放送打ち切り。それ以降『歌姫』と『エジソンの母』はそれぞれABS秋田放送が放送権を持つ。理由は本来放送される「TBS系木曜21時枠」が『[3年B組金八先生](https://ja.wikipedia.org/wiki/3年B組金八先生 "wikilink")』」であるため（同番組はAKTが放映権を持つが、2007年10月 - 2008年3月の第8シリーズについては放送されなかった）。それ以降、秋田県での放送は1年間放送無く、2009年4月から1年遅れで[ABS秋田放送が](../Page/秋田放送.md "wikilink")『Around40〜注文の多いオンナたち〜』と放送したが、同年12月に『流星の絆』を放送したのを最後にしばらく打ち切りが続いていたが、『夜行観覧車』で3年4か月振りの放送再開（同県では2013年4月放送開始）となった。以降は、不定期で平日の夕方\[18\]に遅れて放送されている。
 
 ## 脚注
 
@@ -596,19 +596,20 @@
 [Category:TBS金曜ドラマ](https://ja.wikipedia.org/wiki/Category:TBS金曜ドラマ "wikilink") [Category:TBSのテレビドラマ](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ "wikilink")
 
 1.  この後の金曜19時台後半はドラマから撤退するが、前半は『[ウルトラマンレオ](../Page/ウルトラマンレオ.md "wikilink")』や、『[昭和仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")（第2期）』などの[石森（ → 石ノ森）章太郎原作](../Page/石ノ森章太郎.md "wikilink")・[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")&[東映](../Page/東映.md "wikilink")制作の30分特撮番組を、[1981年](../Page/1981年.md "wikilink")3月まで断続的に放送していたため、4本・3時間半もドラマが編成されていた。
-2.
-3.  民放での連続時代劇としても2012年3月で終了した『[逃亡者 おりん2](https://ja.wikipedia.org/wiki/逃亡者_おりん#逃亡者_おりん2 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）以来半年ぶりとなる。
-4.  土曜日の『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター "wikilink")』は22:00 - 23:24枠。
-5.  2000年4月-2004年9月はTBSエンタテインメント名義、2004年10月-2009年3月はTBSテレビ名義。この時期、[TBS本体が](../Page/東京放送ホールディングス.md "wikilink")「制作・著作」でクレジットされていたので二重表示された。
-6.  当作品から「[愛なんていらねえよ、夏](../Page/愛なんていらねえよ、夏.md "wikilink")」、「[Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")」を除き、HD（[高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")）制作。
-7.
-8.  [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")[6月19日](../Page/6月19日.md "wikilink")の記事参照。
-9.  2009年3月20日（2008年度最終放送日）までの放送局は認定放送持株会社移行並びに分社化前のため、旧法人の東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）。実制作は旧TBSエンタテインメントも含む。
-10. 2014年3月21日（2013年度最終放送日）までは認定放送持株会社移行並びに分社化前のため、旧法人の[中部日本放送](../Page/中部日本放送.md "wikilink")。
-11. 2019年3月15日（2018年度最終放送日）までは認定放送持株会社移行並びに分社化前のため、旧法人の山陽放送（現・[RSKホールディングス](https://ja.wikipedia.org/wiki/RSKホールディングス "wikilink")）。
-12. 『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』から前と『[歌姫](../Page/歌姫_\(劇作品\).md "wikilink")』から『[流星の絆](../Page/流星の絆.md "wikilink")』、『夜行観覧車』から『TAKE FIVE〜俺たちは愛を盗めるか〜』、『なるようになるさ。』（第1シリーズ）、『クロコーチ』、『アリスの棘』、『Nのために』、『コウノトリ』、『砂の塔〜知りすぎた隣人』、『アンナチュラル』が放送されていた。ちなみに秋田放送では『なるようになるさ。』（第1シリーズ）より先に『クロコーチ』が放送された。なお、それ以外の作品は一切放送される予定はない。
-13. かつては約4か月遅れで、毎週土曜日の13:30から放送されていた。
-14. 『3年B組金八先生』を除く。『[朝ドラ\!](https://ja.wikipedia.org/wiki/朝ドラ! "wikilink")』扱いで放送。地域により、毎日放送か山陽放送で視聴されるケースあり。
-15. 当該枠は、フジテレビ『[金曜劇場](../Page/金曜劇場_\(フジテレビ\).md "wikilink")』の同時ネット枠となる。
-16. 土曜16時に時差ネット。『金曜日の妻たちへ』打ち切り後は、『[2年B組仙八先生](../Page/2年B組仙八先生.md "wikilink")』の遅れネットとなった。
-17. 主に月曜 - 水曜。
+2.  特に『木更津キャッツアイ』、『SPEC』に至っては続編が映画化されている。
+3.
+4.  民放での連続時代劇としても2012年3月で終了した『[逃亡者 おりん2](https://ja.wikipedia.org/wiki/逃亡者_おりん#逃亡者_おりん2 "wikilink")』（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）以来半年ぶりとなる。
+5.  土曜日の『[新・情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/情報7days_ニュースキャスター "wikilink")』は22:00 - 23:24枠。
+6.  2000年4月-2004年9月はTBSエンタテインメント名義、2004年10月-2009年3月はTBSテレビ名義。この時期、[TBS本体が](../Page/東京放送ホールディングス.md "wikilink")「制作・著作」でクレジットされていたので二重表示された。
+7.  当作品から「[愛なんていらねえよ、夏](../Page/愛なんていらねえよ、夏.md "wikilink")」、「[Stand Up\!\!](../Page/Stand_Up!!_\(テレビドラマ\).md "wikilink")」を除き、HD（[高精細度テレビジョン放送](https://ja.wikipedia.org/wiki/高精細度テレビジョン放送 "wikilink")）制作。
+8.
+9.  [日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")[6月19日](../Page/6月19日.md "wikilink")の記事参照。
+10. 2009年3月20日（2008年度最終放送日）までの放送局は認定放送持株会社移行並びに分社化前のため、旧法人の東京放送（現・[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）。実制作は旧TBSエンタテインメントも含む。
+11. 2014年3月21日（2013年度最終放送日）までは認定放送持株会社移行並びに分社化前のため、旧法人の[中部日本放送](../Page/中部日本放送.md "wikilink")。
+12. 2019年3月15日（2018年度最終放送日）までは認定放送持株会社移行並びに分社化前のため、旧法人の山陽放送（現・[RSKホールディングス](https://ja.wikipedia.org/wiki/RSKホールディングス "wikilink")）。
+13. 『[ドラゴン桜](../Page/ドラゴン桜_\(テレビドラマ\).md "wikilink")』から前と『[歌姫](../Page/歌姫_\(劇作品\).md "wikilink")』から『[流星の絆](../Page/流星の絆.md "wikilink")』、『夜行観覧車』から『TAKE FIVE〜俺たちは愛を盗めるか〜』、『なるようになるさ。』（第1シリーズ）、『クロコーチ』、『アリスの棘』、『Nのために』、『コウノトリ』、『砂の塔〜知りすぎた隣人』、『アンナチュラル』が放送されていた。ちなみに秋田放送では『なるようになるさ。』（第1シリーズ）より先に『クロコーチ』が放送された。なお、それ以外の作品は一切放送される予定はない。
+14. かつては約4か月遅れで、毎週土曜日の13:30から放送されていた。
+15. 『3年B組金八先生』を除く。『[朝ドラ\!](https://ja.wikipedia.org/wiki/朝ドラ! "wikilink")』扱いで放送。地域により、毎日放送か山陽放送で視聴されるケースあり。
+16. 当該枠は、フジテレビ『[金曜劇場](../Page/金曜劇場_\(フジテレビ\).md "wikilink")』の同時ネット枠となる。
+17. 土曜16時に時差ネット。『金曜日の妻たちへ』打ち切り後は、『[2年B組仙八先生](../Page/2年B組仙八先生.md "wikilink")』の遅れネットとなった。
+18. 主に月曜 - 水曜。

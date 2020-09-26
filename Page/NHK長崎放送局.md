@@ -240,56 +240,51 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/片平和宏" title="wikilink">片平和宏</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/武田健太" title="wikilink">武田健太</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/武田健太" title="wikilink">武田健太</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/嶋田ココ.md" title="wikilink">嶋田ココ</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/上田悠華子" title="wikilink">上田悠華子</a></p></td>
 <td></td>
 <td><p>イブニング長崎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/辻原麻希" title="wikilink">辻原麻希</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/寺田美穂" title="wikilink">寺田美穂</a></p></td>
 <td><p><a href="../Page/NHK佐賀放送局.md" title="wikilink">佐賀</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/福光瞳" title="wikilink">福光瞳</a></p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ながさきナビゲーター_ヒルミテ" title="wikilink">ながさきナビゲーター ヒルミテ</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西牟田知佳" title="wikilink">西牟田知佳</a></p></td>
 <td><p>|</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/斎藤綾乃.md" title="wikilink">斎藤綾乃</a></p></td>
 <td><p><a href="../Page/NHK沖縄放送局.md" title="wikilink">沖縄</a></p></td>
 <td><p>イブニング長崎</p></td>

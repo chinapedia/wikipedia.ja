@@ -3,7 +3,7 @@
 
 **SuperLiteシリーズ**は、[サクセスが発売している](../Page/サクセス_\(ゲーム会社\).md "wikilink")[廉価版](../Page/廉価版.md "wikilink")ソフトのシリーズである。
 
-[PlayStation用のSuperLite](../Page/PlayStation_\(ゲーム機\).md "wikilink")1500と、[PlayStation 2用のSuperLite](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")2000、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のSuperLite2500に大別される。その他、SuperLite 3in1とSuperLite Goldシリーズ（どちらもPlayStation用）も存在する。パソコン用のStandard1500も存在した。
+[PlayStation用のSuperLite](../Page/PlayStation_\(ゲーム機\).md "wikilink")1500と、[PlayStation 2用のSuperLite](../Page/PlayStation_2.md "wikilink")2000、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用のSuperLite2500に大別される。その他、SuperLite 3in1とSuperLite Goldシリーズ（どちらもPlayStation用）も存在する。パソコン用のStandard1500も存在した。
 
 ラインナップの中には[KIDなど他社が発売した作品の廉価版も存在するが](../Page/KID_\(ゲームブランド\).md "wikilink")、こういった作品ではオリジナルとの間にセーブデータの互換性がない物もある。
 

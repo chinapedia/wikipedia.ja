@@ -3,7 +3,7 @@
 
 [right](https://ja.wikipedia.org/wiki/ファイル:CGA_CompVsRGB_Text.png "wikilink") **Color Graphics Adapter** (CGA) は、[1981年](../Page/1981年.md "wikilink")に[IBM PC用に販売された](../Page/IBM_PC.md "wikilink")、[IBM](../Page/IBM.md "wikilink")の[カラーグラフィックスカードで](../Page/ビデオカード.md "wikilink")、後の標準となった。
 
-CGAは4つのテキストモードと2つのグラフィックモードの、計6つの表示モードを持つ。後継の[EGA](../Page/Enhanced_Graphics_Adapter.md "wikilink")、[MCGA](https://ja.wikipedia.org/wiki/Multicolor_Graphics_Adapter "wikilink")、[VGA等はCGAの全ての表示モードを持ち](../Page/Video_Graphics_Array.md "wikilink")、[上位互換](https://ja.wikipedia.org/wiki/上位互換 "wikilink")である。
+CGAは4つのテキストモードと2つのグラフィックモードの、計6つの表示モードを持つ。後継の[EGA](../Page/Enhanced_Graphics_Adapter.md "wikilink")、[MCGA](../Page/Multicolor_Graphics_Adapter.md "wikilink")、[VGA等はCGAの全ての表示モードを持ち](../Page/Video_Graphics_Array.md "wikilink")、[上位互換](https://ja.wikipedia.org/wiki/上位互換 "wikilink")である。
 
 ## 概要
 

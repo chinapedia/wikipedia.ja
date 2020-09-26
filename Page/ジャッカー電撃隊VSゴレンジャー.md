@@ -165,13 +165,12 @@
 ## 参考文献
 
   -
+  -
 ## 関連項目
 
   - [スーパー戦隊Vシネマ](../Page/スーパー戦隊Vシネマ.md "wikilink")
 
 ## 外部リンク
-
-  - [YouTube東映公式チャンネル「ジャッカー電撃隊VSゴレンジャー」](https://web.archive.org/web/20140923034423/http://www.youtube.com/watch?v=8IH5vPGE3Kw)
 
   -
   -

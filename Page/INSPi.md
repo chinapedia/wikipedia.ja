@@ -72,7 +72,7 @@
 
 [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")』のコーナー「[ハモネプ](https://ja.wikipedia.org/wiki/ハモネプ "wikilink")」へ出演したのをきっかけに[2001年](../Page/2001年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")にシングル「Cicada's Love Song」でデビュー。このときのメンバーは杉田、大倉、北、塚田の4人。同日、[RAG FAIRと共にZEPP](../Page/RAG_FAIR.md "wikilink") TOKYOでデビュー記念ライブを行う。この2グループはデビュー日も事務所も同じである。
 
-[2002年](../Page/2002年.md "wikilink")春、RAG FAIRと共に初の全国ツアー「月に願ってフリフリでツアー」開催。全6公演で8000人を動員。このツアーにサポートで参加した奥村伸二と[渡邉崇文](https://ja.wikipedia.org/wiki/渡邉崇文 "wikilink")がツアー終了後に正式メンバーとして加入し、6人編成になる。
+[2002年](../Page/2002年.md "wikilink")春、RAG FAIRと共に初の全国ツアー「月に願ってフリフリでツアー」開催。全6公演で8000人を動員。このツアーにサポートで参加した[奥村伸二](https://ja.wikipedia.org/wiki/奥村伸二 "wikilink")と[渡邉崇文](https://ja.wikipedia.org/wiki/渡邉崇文 "wikilink")がツアー終了後に正式メンバーとして加入し、6人編成になる。
 
 （ただし、渡邉はハモネプ出演時やデビュー記念ライブもサポートメンバーとして出演している。また、ハモネプ出演の際は岡田健次良もメンバーだったがソロ志向が強かったためINSPiデビュー前に脱退し、現在はLuz fonteとしてインディーズでソロ活動中。）
 
@@ -98,7 +98,7 @@
 
 11月1日[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")より移籍第一弾シングル「粉雪／雨音にきみを想う」（両A面シングル）をリリース。「雨音にきみを想う」は同タイトルの台湾映画（主演[ディラン・クォ](https://ja.wikipedia.org/wiki/ディラン・クォ "wikilink")）のイメージソング。[11月5日](../Page/11月5日.md "wikilink")には初の[渋谷公会堂](../Page/渋谷公会堂.md "wikilink")ワンマンライブを行った。
 
-2006年[12月22日](../Page/12月22日.md "wikilink")および[24日の](../Page/12月24日.md "wikilink")2日間、RAG FAIRと共にディナーショー開催をもってベースボーカルの塚田陽が脱退。塚田はINSPiの創設メンバーの一人であったが、結婚を機に「自分自身の人生を見つめなおし、音楽活動に終止符を打つ」事となった後、2007年3月に行われたツアーでは暫定的にヘルプとしてRAG FAIRのベースボーカル・加納孝政が参加した。
+2006年[12月22日](../Page/12月22日.md "wikilink")および[24日の](../Page/12月24日.md "wikilink")2日間、[RAG FAIRと共にディナーショー開催をもってベースボーカルの塚田陽が脱退](../Page/RAG_FAIR.md "wikilink")。塚田はINSPiの創設メンバーの一人であったが、結婚を機に「自分自身の人生を見つめなおし、音楽活動に終止符を打つ」事となった後、2007年3月に行われたツアーでは暫定的にヘルプとしてRAG FAIRのベースボーカル・加納孝政が参加した。
 
 [2007年](../Page/2007年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、オーディションにより選ばれた新ベースボーカル・吉田圭介が加入。2007年[4月14日](../Page/4月14日.md "wikilink")のFCイベント旅行のライブにて初披露された。
 
@@ -112,13 +112,13 @@
 
 [2009年](../Page/2009年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink") アルバム『インスピ特薦盤』を発売。
 
-2009年7月31日、ファンクラブ5周年、RAG FAIRと共にディナーショー以来の合同イベント“FeiCR うたまつり09”（別名：杉田祭り）が東京ドームシティ Gロッソにて開催。ここで、LoveDiary・[BROAD6](../Page/BROAD6.md "wikilink")結成。
+2009年7月31日、ファンクラブ5周年、[RAG FAIRと共にディナーショー以来の合同イベント](../Page/RAG_FAIR.md "wikilink")“FeiCR うたまつり09”（別名：杉田祭り）が東京ドームシティ Gロッソにて開催。ここで、LoveDiary・[BROAD6](../Page/BROAD6.md "wikilink")結成。
 
 2009年10月より、INSPiレギュラーミュージカルラジオCROSS FMにて「INSPiレディオ☆プラザ」放送開始
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")3月、大倉がRAG FAIR[引地洋輔](https://ja.wikipedia.org/wiki/引地洋輔 "wikilink")とともに活動、LoveDiaryがデビューライブを吉祥寺スターパインズで行う
 
-同月、奥村・杉田・吉田・北がRAG FAIRの荒井・加藤とともにBroad6としてデビューライブを行う。
+同月、奥村・杉田・吉田・北がRAG FAIRの荒井・加藤とともにBROAD6としてデビューライブを行う。
 
 同月21日 9枚目のシングル「さくら咲く／ありがとうのこと」リリース
 
@@ -211,7 +211,13 @@
           -
             作詞：尾上文／作曲：田村直樹／編曲：幾見雅博・INSPi
 7.  この星の子守唄（2004年3月26日）これよりpure musicへ移籍
+    1.  この星の子守唄
+          -
+            作詞：大倉智之・塚田陽／作曲：塚田陽
 8.  インスピ限定盤（2005年3月5日）限定シングル
+    1.  [恋のバカンス](../Page/恋のバカンス_\(曲\).md "wikilink")
+    2.  [そして僕は途方に暮れる](https://ja.wikipedia.org/wiki/そして僕は途方に暮れる "wikilink")
+    3.  Dear You
 9.  粉雪/雨音にきみを想う（2006年11月1日）東芝EMI移籍第一弾 両A面シングル。オリコン128位
     1.  粉雪\[4:55\]
           -
@@ -225,20 +231,41 @@
           -
             作詞・作曲：奥村伸二／編曲：本間昭光
 10. さくら咲く（2010年3月21日）
+    1.  さくら咲く\[5:22\]
+          -
+            作詞：江原啓之／作曲：杉田篤史／編曲：光田健一
+    2.  ありがとうのこと\[5:23\]
+          -
+            作詞・作曲・編曲：光田健一
 11. エンターテイナー（2016年1月6日）
-    1.  エンターテイナー
-    2.  ドミソはハーモニー
+    1.  エンターテイナー\[2:48\]
           -
-            NHK「みんなのうた」2015年12月～2016年1月期オンエア曲
-    3.  あなたの声
+            作詞・作曲：大倉智之／編曲：吉田圭介
+    2.  ドミソはハーモニー\[2:23\]
           -
-            ABCラジオ「ドッキリ！ハッキリ！三代澤康司です」コラボ曲
-    4.  夏祭り
-    5.  初音ミクの消失
+            作詞・作曲：大倉智之／編曲：吉田圭介
+            NHK「[みんなのうた](../Page/みんなのうた.md "wikilink")」2015年12月～2016年1月期オンエア曲
+    3.  あなたの声\[4:18\]
+          -
+            ABCラジオ「[ドッキリ！ハッキリ！三代澤康司です](../Page/ドッキリ!ハッキリ!三代澤康司です.md "wikilink")」コラボ曲
+            作詞：[三代澤康司](../Page/三代澤康司.md "wikilink")(ABCアナウンサー)／作曲：杉田篤史／編曲：吉田圭介
+    4.  [夏祭り](https://ja.wikipedia.org/wiki/夏祭り_\(JITTERIN'JINNの曲\) "wikilink")/with Daichi \[3:05\]
+          -
+            作詞・作曲：[破矢ジンタ](https://ja.wikipedia.org/wiki/破矢ジンタ "wikilink")／編曲：吉田圭介
+    5.  初音ミクの消失\[1:40\]
+          -
+            作詞・作曲：[cosMo@暴走P](https://ja.wikipedia.org/wiki/cosMo@暴走P "wikilink")／編曲：吉田圭介
+12. ひとりじゃない／ちいさな勲章
+    1.  ひとりじゃない\[4:03\]
+          -
+            作詞・作曲：杉田篤史／編曲：杉田篤史・吉田圭介
+    2.  ちいさな勲章\[5:43\]
+          -
+            作詞・作曲：杉田篤史／編曲：杉田篤史・吉田圭介
 
 ### アルバム
 
-1.  inspiritual voices（2002年6月26日）M10. Love is there はRAG FAIR共作・参加。オリコン58位
+1.  inspiritual voices（2002年6月26日）M10. Love is there は[RAG FAIR共作](../Page/RAG_FAIR.md "wikilink")・参加。オリコン58位
     1.  intro 〜inspiritual voices〜\[1:49\]
     2.  通りすぎた雨のあとで\[3:03\]
     3.  what's my life?\[3:29\]
@@ -283,7 +310,7 @@
 5.  インスピ・復刻盤2（2005年10月19日）オールカバーアルバム
     1.  [ハートのエースが出てこない](../Page/ハートのエースが出てこない.md "wikilink")\[3:08\]
     2.  [グッド・バイ・マイ・ラブ](../Page/グッド・バイ・マイ・ラブ.md "wikilink")\[3:14\]
-    3.  恋人もいないのに\[3:26\]
+    3.  [恋人もいないのに](https://ja.wikipedia.org/wiki/恋人もいないのに "wikilink")\[3:26\]
     4.  [戦争を知らない子供たち](https://ja.wikipedia.org/wiki/戦争を知らない子供たち_\(曲\) "wikilink")\[3:02\]
     5.  [まちぶせ](../Page/まちぶせ.md "wikilink")\[3:04\]
     6.  [さよなら](../Page/さよなら_\(オフコースの曲\).md "wikilink")\[4:36\]
@@ -307,19 +334,19 @@
     10. グラジオラス\[4:40\]
     11. 遥かなる青春\[2:32\]
 8.  A Cappella X’mas（2008年12月）
-    1.  SANTA CLAUS IS COMIN TO TOWN
-    2.  silent night
-    3.  冬のファンタジー
-    4.  いつかのメリークリスマス
-    5.  Amazing Grace
-    6.  WHITE CHRISTMAS
-    7.  Hark\! The Herald Angels Sing
-    8.  Merry Christmas Mr.Lawrence (戦場のメリークリスマス)
-    9.  カウントダウン・クリスマス
-    10. 家族という星座
+    1.  Santa Claus Is Coming to Town \[2:38\]
+    2.  silent night \[3:20\]
+    3.  冬のファンタジー\[4:52\]
+    4.  いつかのメリークリスマス\[5:22\]
+    5.  [Amazing Grace](https://ja.wikipedia.org/wiki/Amazing_Grace "wikilink")\[3:55\]
+    6.  WHITE CHRISTMAS\[4:06\]
+    7.  Hark\! The Herald Angels Sing\[3:04\]
+    8.  Merry Christmas Mr. Lawrence (戦場のメリークリスマス)\[3:25\]
+    9.  カウントダウン・クリスマス \[3:57\]
+    10. 家族という星座\[4:44\]
 9.  インスピ特薦盤（2009年07月4日）
     1.  蘇州夜曲
-    2.  木綿のハンカチーフ
+    2.  [木綿のハンカチーフ](../Page/木綿のハンカチーフ.md "wikilink")
     3.  咲桜～さくら～ (2009 Version)
     4.  わらべ唄メドレー
     5.  恋のバカンス
@@ -354,15 +381,20 @@
     9.  手のひらを太陽に
     10. あるこう
 12. インスピ浪漫2（2014年8月6日)
-    1.  エサホイ
-    2.  かざぐるま
-    3.  滑走路
-    4.  good
-    5.  ココロの根っこ～Akar Hati～
-    6.  ドンと来い！
-    7.  ネバギビラ
-    8.  MANY\!
-13. ペラタゴニスタ（2019年7月6日)
+
+<!-- end list -->
+
+1.  1.  かざぐるま \[4:48\]
+    2.  MANY\! \[3:55\]
+    3.  エサホイ \[4:26\]
+    4.  滑走路 \[3:16\]
+    5.  ドンと来い！ \[1:26\]
+    6.  good \[4:21\]
+    7.  ネバギビラ \[3:03\]
+    8.  ココロの根っこ～Akar Hati～ \[4:28\]
+
+2.  ペラタゴニスタ（2019年7月6日)
+
     1.  ヒーロー
     2.  うつくしい花となれ
     3.  ドミソはハーモニー
@@ -380,35 +412,88 @@
     15. ステキな関係
     16. （Bonus Track）ドットライナー dot dot dot！！！
 
+3.  INSPi Acappella Covers（2020年8月15日)
+
+    1.  [君の名は希望](https://ja.wikipedia.org/wiki/君の名は希望 "wikilink")
+
+    2.  [ぼくらが旅に出る理由](../Page/ぼくらが旅に出る理由.md "wikilink")
+
+    3.  [DRAGON NIGHT](https://ja.wikipedia.org/wiki/Dragon_Night "wikilink")
+
+    4.  [SCATMAN (SKI-BA-BOP-BA-DOP-BOP)](https://ja.wikipedia.org/wiki/Scatman_\(Ski_Ba_Bop_Ba_Dop_Bop\) "wikilink") feat.[Daichi](https://ja.wikipedia.org/wiki/Daichi "wikilink")
+
+    5.  [TRY EVERYTHING](https://ja.wikipedia.org/wiki/トライ・エヴリシング "wikilink")
+
+    6.  [一年生になったら](https://ja.wikipedia.org/wiki/一年生になったら "wikilink")
+
+    7.  [青春フォトグラフ](https://ja.wikipedia.org/wiki/青春フォトグラフ "wikilink")
+
+    8.  [初音ミクの消失](https://ja.wikipedia.org/wiki/初音ミクの消失 "wikilink")
+
+    9.  [セカオワメドレー](https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI "wikilink") feat.Daichi
+
+    10. [前前前世](https://ja.wikipedia.org/wiki/前前前世 "wikilink")
+
+    11. [SHAKE IT OFF](https://ja.wikipedia.org/wiki/シェイク・イット・オフ_\(テイラー・スウィフトの曲\) "wikilink")
+
+    12. [HOT STUFF](https://ja.wikipedia.org/wiki/ホット・スタッフ_\(ドナ・サマーの曲\) "wikilink") feat.Daichi
+
+    13. [ルパン三世のテーマ](../Page/ルパン三世のテーマ.md "wikilink")
+
+    14. [海の声](https://ja.wikipedia.org/wiki/海の声_\(曲\) "wikilink")
+
+    15. [DANCE DANCE DANCE](https://ja.wikipedia.org/wiki/Dance_Dance_Dance_\(E-girlsの曲\) "wikilink")
+
+    16. [MONKEY MAGIC](https://ja.wikipedia.org/wiki/MONKEY_MAGIC "wikilink")
+
+    17.
+    18. [希空～まれぞら～](https://ja.wikipedia.org/wiki/まれ#オープニングテーマ "wikilink")
+
 ### DVD
 
 1.  INSPi SINGLES Vol.1（2003年11月26日）オリコン155位
-2.  インスピ常夏盤〜マウイでエニャコラ〜
-3.  INSPi LIVE 2006.11.5 渋公だョ\!全員集合
+2.  INSPi Cafe Vol.37 LIQUIDROOM Ebisu April 16th 2006
+3.  インスピ常夏盤〜マウイでエニャコラ〜
+4.  INSPi LIVE 2006.11.5 渋公だョ\!全員集合
+5.  INSPi cafe Vol.38～祝・復活\!38\!サンバ\!Samba\!～
+6.  ありがとうでつながろうLIVE～10周年記念日～
 
 ### 参加作品
 
-1.  X'mas Party\!（2002年11月6日）RAG FAIR、チン☆パラとのコンピレーションアルバム
+1.  [X'mas Party\!](https://ja.wikipedia.org/wiki/X'mas_Party! "wikilink")（2002年11月6日）[RAG FAIR](../Page/RAG_FAIR.md "wikilink")、[チン☆パラ](../Page/チン☆パラ.md "wikilink")とのコンピレーションアルバム
+      -
+        2.Beautiful/INSPi
+        4.恋人がサンタクロース/INSPi
+        7.Happy X'mas (War Is Over)/INSPi
 2.  [長渕剛](../Page/長渕剛.md "wikilink")「[しあわせになろうよ](../Page/しあわせになろうよ.md "wikilink")」（2003年05月01日）
       -
         2.しあわせになろうよ＜アカペラ・バージョン＞（編曲）
 3.  DISCOVER THE SONGS 1+1 J-STANDARDS（2004年02月25日）
       -
         2-7.風になりたい〜VENT DE AMOR〜
-4.  甲斐バンド＆甲斐よしひろ グレイト・トリビュート・コレクション〜グッドフェローズ（2004年08月25日）
+4.  [甲斐バンド＆甲斐よしひろ グレイト・トリビュート・コレクション〜グッドフェローズ](https://ja.wikipedia.org/wiki/甲斐バンド&甲斐よしひろ_グレイト・トリビュート・コレクション_グッド・フェローズ "wikilink")（2004年08月25日）
       -
         10.破れたハートを売り物に
-5.  J-POP ベストヒットカヴァー（2008年03月19日）
+5.  sakura songs 2(2008年03月12日)
+      -
+        8.桜咲～さくら～
+6.  J-POP ベストヒットカヴァー（2008年03月19日）
       -
         12.風になりたい〜VENT DE AMOR〜
-6.  歌鬼3 ～阿久悠×青春のハーモニー～（2010年7月14日）
+7.  Japanese Standard Songs 2(2009年01月18日)
+      -
+        11.Seishun No Kage=青春の影
+8.  歌鬼3 ～阿久悠×青春のハーモニー～（2010年7月14日）
       -
         3.五番街のマリーへ
-        9.宇宙戦艦ヤマト（RAG FAIR＆INSPi）
-7.  ハモネプ チャンピオンズCD（2010年09月01日）
+        9.宇宙戦艦ヤマト（[RAG FAIR](../Page/RAG_FAIR.md "wikilink")＆INSPi）
+9.  ハモネプ チャンピオンズCD（2010年09月01日）
       -
         11.桜(けい／ゆーだい／INSPi)
-        14.あなたといれば(RAG FAIR／INSPi／ハモネプオールスターズ)
+        14.あなたといれば([RAG FAIR](../Page/RAG_FAIR.md "wikilink")／INSPi／ハモネプオールスターズ)
+10. 美空ひばりトリビュートRespect HIBARI -30 years from 1989-(2019年05月29日)
+      -
+        お祭りマンボ
 
 ## 脚注
 

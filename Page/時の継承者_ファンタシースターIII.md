@@ -5,7 +5,7 @@
 
 同社の『[ファンタシースターシリーズ](../Page/ファンタシースターシリーズ.md "wikilink")』の第3作目。主人公のケイン・サ・リークを操作し、ドラゴンに攫われた婚約者を救出する事を目的としている。同シリーズのナンバリングタイトルではあるが、時系列的に他のシリーズ作とのストーリー上のつながりが薄いため、シリーズの中では外伝的な位置づけになっている。結婚相手の選択によるストーリー分岐とマルチエンディングが本作の大きな特徴の一つである。
 
-開発は[セガ第二研究開発部が行い](https://ja.wikipedia.org/wiki/SEGA-AM2 "wikilink")、プロデューサーは後に[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『うお 7つの水と伝説のヌシ』（[2004年](../Page/2004年.md "wikilink")）を手掛けた塚本一成、ディレクターおよびシナリオは前作にてアシスタント・ディレクターを務めた佐伯広人、音楽はメガドライブ用ソフト『[アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink")』（[1989年](../Page/1989年.md "wikilink")）を手掛けた竹内出穂、カバーイラストは当時セガに勤めていた漫画家の[せがわまさき](../Page/せがわまさき.md "wikilink")が担当した。
+開発は[セガ第二研究開発部が行い](https://ja.wikipedia.org/wiki/SEGA-AM2 "wikilink")、プロデューサーは後に[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『うお 7つの水と伝説のヌシ』（[2004年](../Page/2004年.md "wikilink")）を手掛けた塚本一成、ディレクターおよびシナリオは前作にてアシスタント・ディレクターを務めた佐伯広人、音楽はメガドライブ用ソフト『[アレックスキッド 天空魔城](https://ja.wikipedia.org/wiki/アレックスキッド_天空魔城 "wikilink")』（[1989年](../Page/1989年.md "wikilink")）を手掛けた竹内出穂、カバーイラストは当時セガに勤めていた漫画家の[せがわまさき](../Page/せがわまさき.md "wikilink")が担当した。
 
 [1992年](../Page/1992年.md "wikilink")頃セガの通信ゲームサービス「[ゲーム図書館](https://ja.wikipedia.org/wiki/ゲーム図書館 "wikilink")」にて、作中のBGMが視聴できるミュージックコレクションが配信されていた。移植版としては、[セガサターン](../Page/セガサターン.md "wikilink")用ソフト『SEGA AGES/ファンタシースターコレクション』（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")）や、PlayStation 2用ソフト『[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink") ファンタシースター コンプリートコレクション』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）に収録されているほか、2008年に[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")用ソフトとして[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")にて配信された。
 
@@ -418,8 +418,7 @@
 
   - [PS3否公式ページ](http://ape.pro.tok2.com/t-ozaki/) - 開発関係者による非公式サイト。現在は無期限休止中。
 
-  - （英語）
-
+  -
 [Category:1990年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1990年のコンピュータゲーム "wikilink") [Category:Windows用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Windows用ゲームソフト "wikilink") [Category:Wii用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii用バーチャルコンソール対応ソフト "wikilink") [Category:ファンタシースターのコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:ファンタシースターのコンピュータゲーム "wikilink") [Category:冒険ゲームブック](https://ja.wikipedia.org/wiki/Category:冒険ゲームブック "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  『Beepメガドライブ』のインタビューによる。

@@ -7,6 +7,8 @@
 
 「神隠しの物語」のみ[電撃hp](https://ja.wikipedia.org/wiki/電撃hp "wikilink")で[漫画化](https://ja.wikipedia.org/wiki/漫画化 "wikilink")、連載されている。また、ラジオ番組「[電撃大賞](../Page/電撃大賞.md "wikilink")」で放送された[ラジオドラマ](../Page/ラジオドラマ.md "wikilink")のCDも発売されている。
 
+シリーズ累計発行部数は2020年5月時点で、150万部を突破している\[1\]。
+
 ## 概要
 
 不条理さと[リアル](../Page/リアル.md "wikilink")さに満ちた、[ライトノベル](../Page/ライトノベル.md "wikilink")の枠に収まらない本格的現代[ホラー](../Page/ホラー小説.md "wikilink")[ファンタジー](../Page/ファンタジー.md "wikilink")[小説](../Page/小説.md "wikilink")。日常感知できない「[怪異](../Page/超常現象.md "wikilink")」の恐ろしさを描く。最初から最後まで『現代ファンタジー』と称されているが、ホラー度もかなり高い。[泉鏡花](../Page/泉鏡花.md "wikilink")的な[幻想](../Page/幻想文学.md "wikilink")・怪奇趣味と日本的な「死の美学」が上手くマッチしており、文章は文学的表現が多々見受けられる。1，2，5，8巻以外は「完結編」とあわせるなどする『続き物』。近藤武巳から見た空目恭一の物語であるとされている（13巻より）が、様々な人物の視点から物語が進んでいく。題材の殆どは[民俗学](../Page/民俗学.md "wikilink")及び[オカルト](../Page/オカルト.md "wikilink")の一部から採られている。
@@ -184,8 +186,9 @@
   - 神降ろし
     異界から神を人間界に降ろすこと。
   - [憑き物筋](https://ja.wikipedia.org/wiki/憑き物筋 "wikilink")
-    機関
-    物語の感染を防ぐ為の機関。魔術や都市伝説など科学的でない事柄を表に出さないよう暗躍する組織。
+    物語に憑りつかれやすい血筋。或いは物語の怪異を式神として使役してきた血筋のこと。
+  - 機関
+    物語の感染を防ぐ為の機関。魔術や都市伝説など科学的でない事柄を表に出さないよう暗躍する組織。都市伝説のメン・イン・ブラックそのもの。
   - 聖創学院大付属高校
     主要人物のほとんどが通う学校にして、作品の主な舞台。総合学科を備える高校であり、生徒が個々人に合わせたカリキュラムを組むことができる。
 
@@ -235,3 +238,5 @@
   - [遠野物語](../Page/遠野物語.md "wikilink")
 
 [Category:電撃文庫](https://ja.wikipedia.org/wiki/Category:電撃文庫 "wikilink") [Category:学園小説](https://ja.wikipedia.org/wiki/Category:学園小説 "wikilink") [Category:日本のホラー小説](https://ja.wikipedia.org/wiki/Category:日本のホラー小説 "wikilink") [Category:日本の小説のシリーズ](https://ja.wikipedia.org/wiki/Category:日本の小説のシリーズ "wikilink") [Category:多重人格を題材とした小説](https://ja.wikipedia.org/wiki/Category:多重人格を題材とした小説 "wikilink") [Category:都市伝説を題材とした作品](https://ja.wikipedia.org/wiki/Category:都市伝説を題材とした作品 "wikilink") [Category:2001年の小説](https://ja.wikipedia.org/wiki/Category:2001年の小説 "wikilink") [Category:座敷童子を題材にした作品](https://ja.wikipedia.org/wiki/Category:座敷童子を題材にした作品 "wikilink")
+
+1.

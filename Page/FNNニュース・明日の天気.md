@@ -422,7 +422,7 @@
 
 1.  [東京12チャンネル（現：テレビ東京）が夜のスポットタイムを](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")5分に拡大するのはもっと遅れて、[1974年](../Page/1974年.md "wikilink")10月に行った。
 2.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
-3.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](../Page/L!VE_MAJOR_LEAGUE_BASEBALL.md "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](../Page/打ち切り.md "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
+3.  ただし[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[5月](https://ja.wikipedia.org/wiki/5月 "wikilink")から[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")の間は、『[アメリカ大リーグアワー](https://ja.wikipedia.org/wiki/アメリカ大リーグ実況中継 "wikilink")』が『[新・座頭市](https://ja.wikipedia.org/wiki/新・座頭市 "wikilink")』（第2シリーズ）[打ち切り](../Page/打ち切り.md "wikilink")に伴う[つなぎとして枠拡大したため](../Page/つなぎ番組.md "wikilink")、21:48 - 21:54で放送。
 4.  『[火曜ワイドスペシャル](../Page/火曜ワイドスペシャル.md "wikilink")』放送のため。
 5.  『FNNニュース』と『明日の天気』の各3分枠。
 6.  『[時代劇スペシャル](../Page/時代劇スペシャル_\(フジテレビ\).md "wikilink")』放送のため。

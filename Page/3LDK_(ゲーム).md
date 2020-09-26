@@ -1,7 +1,7 @@
 > この記事は[3LDK \(ゲーム\)](https://ja.wikipedia.org/wiki/3LDK_\(ゲーム\))から翻訳されています。
 
 
-『**3LDK♥**』（さんエルディーケイ）は、2003年6月27日に[DEEPBLUE](../Page/DEEPBLUE.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。2004年7月1日に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")よりの[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**3LDK♥〜幸せになろうよ〜**』が発売されている。
+『**3LDK♥**』（さんエルディーケイ）は、2003年6月27日に[DEEPBLUE](../Page/DEEPBLUE.md "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。2004年7月1日に[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")よりの[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『**3LDK♥〜幸せになろうよ〜**』が発売されている。
 
 ## ストーリー
 

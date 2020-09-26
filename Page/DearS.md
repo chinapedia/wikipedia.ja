@@ -1,7 +1,7 @@
 > この記事は[DearS](https://ja.wikipedia.org/wiki/DearS)から翻訳されています。
 
 
-『**DearS**』（ディアーズ）は、[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")による[電撃コミックガオ\!に連載された](../Page/月刊電撃コミックガオ!.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")作品と[PlayStation 2用ゲーム作品](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**DearS**』（ディアーズ）は、[PEACH-PIT](../Page/PEACH-PIT.md "wikilink")による[電撃コミックガオ\!に連載された](../Page/月刊電撃コミックガオ!.md "wikilink")[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、およびそれを原作とする[アニメ](../Page/アニメ.md "wikilink")作品と[PlayStation 2用ゲーム作品](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 
@@ -362,7 +362,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
   - シングル
       - 恋のJET SHOOTER/SukiSuki☆Moon（[2004年](../Page/2004年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")、LACM-4131）
           - ラジオ大阪系「DearS×DearS」[主題歌](../Page/主題歌.md "wikilink")
-          - [PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『DearS』主題歌
+          - [PS2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『DearS』主題歌
       - HAPPY COSMOS/地球にぴんぽ〜ん（2004年[8月25日](../Page/8月25日.md "wikilink")、LACM-4148、DVD付）
           - テレビアニメ版エンディングテーマ
 
@@ -380,7 +380,7 @@ DVD版のみの回を含めて全13回の短期シリーズのため、全体的
 
 ## ゲーム
 
-[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")から2004年6月24日に発売。[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15才以上対象。
+[PlayStation 2用ソフトとして](../Page/PlayStation_2.md "wikilink")、[メディアワークス](../Page/メディアワークス.md "wikilink")から2004年6月24日に発売。[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15才以上対象。
 
 チナ役を[桃井はるこ](../Page/桃井はるこ.md "wikilink")が担当した。
 

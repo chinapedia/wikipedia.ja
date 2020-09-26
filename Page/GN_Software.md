@@ -9,7 +9,7 @@ PIACCIの代表取締役である有泉富三彦は、[ヒューネックス](..
 
 ## 作品一覧
 
-※PS2：[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、PS3：[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、PSP：[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、DC：[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、Xbox360：[Xbox 360](../Page/Xbox_360.md "wikilink")。（カッコ）内は移植元のブランド・タイトルである。
+※PS2：[PlayStation 2](../Page/PlayStation_2.md "wikilink")、PS3：[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、PSP：[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、DC：[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")、Xbox360：[Xbox 360](../Page/Xbox_360.md "wikilink")。（カッコ）内は移植元のブランド・タイトルである。
 
   - 発売元：グッドナビゲイト
 

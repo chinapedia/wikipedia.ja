@@ -23,7 +23,7 @@
   -
 
       -
-        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](../Page/司会.md "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独で[パチスロ](../Page/パチスロ.md "wikilink")番組への出演も多くなっており、多くのライターとも共演している（『パチスロ(旅)』（[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で射駒タケシと共演他）
+        Kj、BOTSとは同級生。HIROKIと共に[endive](https://ja.wikipedia.org/wiki/endive "wikilink")としても活動している。ライブでは[MCを担当することが多い](../Page/司会.md "wikilink")。趣味はゲームと料理で料理本を出版しており、ライブやフェスでも「桜井食堂」として出店している。最近では単独で[パチスロ](../Page/パチスロ.md "wikilink")番組への出演も多くなっており、多くのライターとも共演している（『パチスロ(旅)』（[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")）で射駒タケシと共演他）。2児の父親。
 
 <!-- end list -->
 
@@ -49,6 +49,17 @@
 
 <!-- end list -->
 
+  - **IKÜZÖNE**（イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
+
+<!-- end list -->
+
+  -
+
+      -
+        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。没46歳。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席で[hide](https://ja.wikipedia.org/wiki/hide "wikilink")を遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、[アンプヘッドにhide人形を飾っていたが](../Page/アンプ_\(音響機器\).md "wikilink")、生前のhideと直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
+
+### 旧メンバー
+
   - **DRI-V**（ドライブ、千葉雅紀（ちば よしのり））：[ダンサー](https://ja.wikipedia.org/wiki/ダンサー "wikilink")
 
 <!-- end list -->
@@ -68,17 +79,6 @@
 
       -
         2003年加入。[為末大](../Page/為末大.md "wikilink")に、[ヒップホップダンス](https://ja.wikipedia.org/wiki/ヒップホップダンス "wikilink")を教えている。Dragon Ashの曲の振り付けを担当。RIP SLYMEの紹介で加入。2009年、プロジェクト「POWER of LIFE」を発起。2012年、[平間至](../Page/平間至.md "wikilink")と共に[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[塩竈市](../Page/塩竈市.md "wikilink")に於いて「GAMA ROCK FES」を立ち上げる。ランウェイモデルとして[パリコレクション](https://ja.wikipedia.org/wiki/パリコレクション "wikilink")にも出演している。2020年9月4日、TACHIKAWA STAGE GARDENでのワンマンライブ「DRAGONASH LIVE "DEPARTURE"」を以て脱退する事を発表\[2\]。
-
-<!-- end list -->
-
-  - **IKÜZÖNE**（イクゾーン、馬場育三（ばば いくぞう）、[1965年](../Page/1965年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink") - [2012年](../Page/2012年.md "wikilink")[4月21日](../Page/4月21日.md "wikilink")）：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        [ピンキー青木](https://ja.wikipedia.org/wiki/ピンキー青木 "wikilink")が結成したPinky & The Crazy Love Machineなどで活動後、Dragon Ashのメンバー募集のオーディションにより加入。メンバー最年長者としてDragon Ashの活動を支え続けた。2012年4月21日、急性心不全のため逝去。没46歳。Dragon Ash以外では、桜井と共にMotor Headphoneを結成し、[YMOのトリビュートアルバムや](../Page/イエロー・マジック・オーケストラ.md "wikilink")、[PENICILLIN](../Page/PENICILLIN.md "wikilink")の[千聖](../Page/千聖.md "wikilink")のソロプロジェクトである[Crack 6にも参加した](../Page/Crack_6.md "wikilink")。インディーズ時代、飲みの席で[hide](https://ja.wikipedia.org/wiki/hide "wikilink")を遠目に見て憧れていた。hideの死後、泥酔しhide ミュージアムの壁に落書きをするなどした。腕にはhideの刺青を入れ、[アンプヘッドにhide人形を飾っていたが](../Page/アンプ_\(音響機器\).md "wikilink")、生前のhideと直接の関わりは無かった。[ジャパニーズ・メタル](../Page/ジャパニーズ・メタル.md "wikilink")と[ダイムバッグ・ダレル](../Page/ダイムバッグ・ダレル.md "wikilink")をこよなく愛していた。
 
 ### 現サポートメンバー
 

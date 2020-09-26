@@ -32,7 +32,7 @@
   - 1999年10月 - 12月期
       - 月曜日：漂泊の俳人（[金子兜太](../Page/金子兜太.md "wikilink")）
       - 火曜日：論語紀行　孔子の素顔を探る（[坂田新](https://ja.wikipedia.org/wiki/坂田新 "wikilink")）
-      - 水曜日：ロボットから人間を読み解く（[舘暲](https://ja.wikipedia.org/wiki/舘すすむ "wikilink")）
+      - 水曜日：ロボットから人間を読み解く（[舘暲](../Page/舘暲.md "wikilink")）
       - 木曜日：狂言ってどんな芝居 庶民が生んだ笑いの芸能（[茂山千之丞](https://ja.wikipedia.org/wiki/茂山千之丞 "wikilink")）
   - [2000年](../Page/2000年.md "wikilink")1月 - 3月期
       - 月曜日：パリ・奇想の20世紀（[荒俣宏](../Page/荒俣宏.md "wikilink")）

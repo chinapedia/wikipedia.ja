@@ -102,6 +102,8 @@ MP4は下記に採用されており、実際に利用されている。
 
   - , 個人サイト
 
+  - [MP4のタグ付けツール MP4TagWriter](https://erogrammer.wordpress.com/mp4tagwriter/)
+
 [Category:コーデック](https://ja.wikipedia.org/wiki/Category:コーデック "wikilink") [Category:動画ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:動画ファイルフォーマット "wikilink") [Category:MPEG](https://ja.wikipedia.org/wiki/Category:MPEG "wikilink")
 
 1.  アップル社ではiTunes Video format、iTunes Audio formatと表現している。

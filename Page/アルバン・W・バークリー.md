@@ -1,7 +1,7 @@
 > この記事は[アルバン・W・バークリー](https://ja.wikipedia.org/wiki/アルバン・W・バークリー)から翻訳されています。
 
 
-**アルバン・ウィリアム・バークリー**（、[1877年](../Page/1877年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は、[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")選出[下院および](../Page/アメリカ合衆国下院.md "wikilink")[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、第35代[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")。
+**アルバン・ウィリアム・バークリー**（、[1877年](../Page/1877年.md "wikilink")[11月24日](../Page/11月24日.md "wikilink") - [1956年](../Page/1956年.md "wikilink")[4月30日](../Page/4月30日.md "wikilink")）は、[ケンタッキー州](../Page/ケンタッキー州.md "wikilink")選出[下院及び](../Page/アメリカ合衆国下院.md "wikilink")[上院議員](../Page/アメリカ合衆国上院.md "wikilink")、[ハリー・S・トルーマン](../Page/ハリー・S・トルーマン.md "wikilink")政権で35代目[アメリカ合衆国副大統領](../Page/アメリカ合衆国副大統領.md "wikilink")を務めた。
 
 ## 生い立ちと初期の経歴
 

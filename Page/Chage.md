@@ -723,6 +723,8 @@ The Primrose Hills
 
 ## ライブ・イベント
 
+### ライブ・コンサートツアー
+
 <table>
 <thead>
 <tr class="header">
@@ -758,7 +760,35 @@ The Primrose Hills
 <div class="NavContent" style="text-align:center">
 <p><strong>1998年</strong><br />
 6月22日 <a href="../Page/日本武道館.md" title="wikilink">日本武道館</a></p>
-<div>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li><strong>NとLの野球帽</strong></li>
+<li>勇気の言葉</li>
+<li><strong>CRIMSON</strong></li>
+<li>LOVE</li>
+<li>Mr.Liverpool</li>
+<li><strong>東京Doll</strong></li>
+<li><strong>レノンのミスキャスト</strong></li>
+<li><strong>Reason</strong></li>
+<li><strong>紫陽花と向日葵</strong></li>
+<li><strong>夢を見ましょうか</strong></li>
+<li>SOME DAY</li>
+<li><strong>ベンチ</strong></li>
+<li><strong>赤いベッド</strong></li>
+<li><strong>夢</strong></li>
+<li><strong>CATCH &amp; RELEASE</strong></li>
+<li><strong>告白</strong></li>
+<li>WINDY ROAD</li>
+<li><strong>終章（エピローグ）</strong></li>
+<li>[7]</li>
+<li><strong>ロマンシングヤード</strong></li>
+<li><strong>夏の終わり</strong></li>
+</ol>
 </div></td>
 <td></td>
 </tr>
@@ -1287,13 +1317,51 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <td><p>ファンミーティングツアー</p></td>
 <td><p><br />
 ～57歳はじめての・・・～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>equal</li>
+<li><strong>終章（エピローグ）</strong></li>
+<li>Stay With Me</li>
+<li><strong>光の羅針盤</strong></li>
+</ol>
+</div></td>
 </tr>
 <tr class="even">
 <td><p>ライブツアー</p></td>
 <td><p><br />
 ～天使がくれたハンマー～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>天使がくれたハンマー</li>
+<li>[7]</li>
+<li><strong>CATCH &amp; RELEASE</strong></li>
+<li>幻灯綺談</li>
+<li><strong>誘惑のベルが鳴る</strong></li>
+<li>アイシテル</li>
+<li><strong>ベンチ</strong></li>
+<li><strong>夏は過ぎて</strong></li>
+<li><strong>君はなにも知らないまま</strong></li>
+<li><strong>TAO</strong></li>
+<li><strong>終章（エピローグ）</strong></li>
+<li>Hurray! Hurray!</li>
+<li>ふたりの愛ランド</li>
+<li><strong>CRIMSON</strong></li>
+<li><strong>ロマンシングヤード</strong></li>
+<li>equal</li>
+<li><strong>光の羅針盤</strong></li>
+<li><strong>Sea of Gray ～ Knock</strong></li>
+<li><strong>ripple ring</strong></li>
+<li><strong>NとLの野球帽</strong></li>
+</ol>
+</div></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1301,13 +1369,50 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <td><p>ファンミーティングツアー</p></td>
 <td><p><br />
 ～ここがファンミのど真ん中!～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>Hurray! Hurray!</li>
+<li>Make You Feel My Love</li>
+<li><strong>夏の終わり</strong></li>
+<li>ふたりの愛ランド</li>
+<li><strong>ロマンシングヤード</strong></li>
+<li>たった一度の人生ならば</li>
+</ol>
+</div></td>
 </tr>
 <tr class="even">
 <td><p>ライブツアー</p></td>
 <td><p><br />
 ～もうひとつのLOVE SONG～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>&amp;C</li>
+<li>Hurray! Hurray!</li>
+<li>アイシテル</li>
+<li>迷い猫のシャッフル</li>
+<li><strong>Reason</strong></li>
+<li>春の雪</li>
+<li>空飛ぶ電車とPancake</li>
+<li><strong>夏の終わり</strong></li>
+<li>SOME DAY</li>
+<li>もうひとつのLOVE SONG</li>
+<li>GO! GO! GO!</li>
+<li>ふたりの愛ランド</li>
+<li><strong>ロマンシングヤード</strong></li>
+<li><strong>NとLの野球帽</strong></li>
+<li><strong>YAH YAH YAH</strong></li>
+<li>WINDY ROAD</li>
+<li>たった一度の人生ならば</li>
+</ol>
+</div></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1315,20 +1420,108 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <td><p>ファンミーティングツアー</p></td>
 <td><p><br />
 ～ドレミファ♪ ファミリー♪～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li><strong>愛すべきばかちんたちへ</strong></li>
+<li><strong>Primrose Hill</strong></li>
+<li>機嫌が悪いの</li>
+<li>僕と君のように</li>
+<li>もうひとつのLOVE SONG</li>
+<li>たった一度の人生ならば</li>
+</ol>
+</div></td>
 </tr>
 <tr class="even">
 <td><p>ホールツアー</p></td>
 <td><p><br />
 ～Have a Dream！～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>勇気の言葉</li>
+<li>アイシテル</li>
+<li>飾りじゃないのよ涙は</li>
+<li><strong>愛すべきばかちんたちへ</strong></li>
+<li>あの素晴しい愛をもう一度</li>
+<li><strong>終章（エピローグ）</strong></li>
+<li>時代</li>
+<li>夜の向こう側（川島ケイジ）</li>
+<li><strong>万里の河</strong></li>
+<li>夏の終りのハーモニー</li>
+<li>TOKIO</li>
+<li>ふたりの愛ランド</li>
+<li>もうひとつのLOVE SONG</li>
+<li>たった一度の人生ならば</li>
+<li>バン・バン・バン</li>
+<li><strong>YAH YAH YAH</strong></li>
+<li><strong>NとLの野球帽</strong></li>
+</ol>
+</div></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>ライブツアー</p></td>
 <td><p><br />
 ～遠景 / landscape～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>GO! GO! GO!</li>
+<li>SURPRISE</li>
+<li>UNDO</li>
+<li><strong>CATCH &amp; RELEASE</strong></li>
+<li><strong>絶対的関係</strong></li>
+<li>春の雪</li>
+<li>Milky Way Blues</li>
+<li><strong>夏の終わり</strong></li>
+<li>たった一度の人生ならば</li>
+<li>愛の空で</li>
+<li>SO SO</li>
+<li>ふたりの愛ランド</li>
+<li>もうひとつのLOVE SONG</li>
+<li>組曲 WANDERING</li>
+<li>永遠の謎</li>
+<li><strong>YAH YAH YAH</strong></li>
+<li>WINDY ROAD</li>
+</ol>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト（追加公演）</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>GO! GO! GO!</li>
+<li>SURPRISE</li>
+<li>UNDO</li>
+<li><strong>CATCH &amp; RELEASE</strong></li>
+<li><strong>絶対的関係</strong></li>
+<li>春の雪</li>
+<li>Milky Way Blues</li>
+<li><strong>夏の終わり</strong></li>
+<li>たった一度の人生ならば</li>
+<li>愛の空で</li>
+<li>SO SO</li>
+<li>ふたりの愛ランド</li>
+<li>もうひとつのLOVE SONG</li>
+<li>組曲 WANDERING</li>
+<li>永遠の謎</li>
+<li><strong>万里の河</strong></li>
+<li>夏の終りのハーモニー</li>
+<li><strong>YAH YAH YAH</strong></li>
+<li>WINDY ROAD</li>
+</ol>
+</div></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1336,7 +1529,16 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 <td><p>ファンミーティングツアー</p></td>
 <td><p><br />
 ～はい　チーズ！歌写♪～</p></td>
-<td></td>
+<td><div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li><strong>終章（エピローグ）</strong></li>
+<li>まわせ大きな地球儀</li>
+</ol>
+</div></td>
 </tr>
 <tr class="odd">
 <td><p>ライブツアー</p></td>
@@ -1389,6 +1591,22 @@ CHAGE&amp;ASKAの3部構成ライブ</p>
 4月27日 東京 品川インターシティホール（夜公演）<br />
 4月28日 東京 品川インターシティホール（昼公演）<br />
 4月28日 東京 品川インターシティホール（夜公演）</p>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>遠い街から</li>
+<li><strong>誰かさん〜CLOSE YOUR EYES〜</strong></li>
+<li><strong>嘘</strong></li>
+<li><strong>告白</strong></li>
+<li><strong>あきらめのBlue Day</strong></li>
+<li>Mimosa</li>
+<li><strong>もうすぐ僕らはふたつの時代を超える恋になる</strong></li>
+<li>Graduation</li>
+</ol>
 </div></td>
 </tr>
 <tr class="even">
@@ -1405,6 +1623,34 @@ feedback</p></td>
 9月8日 東京 Toyosu PIT<br />
 9月13日 福岡 Zepp Fukuoka<br />
 9月15日 大阪 Zepp Osaka Bayside</p>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>Kitsch Kiss Yeah Yeah</li>
+<li>たどりついたらいつも雨ふり～あの時君は若かった</li>
+<li>勇気の言葉</li>
+<li>Hello!</li>
+<li><strong>螢</strong></li>
+<li>Mimosa</li>
+<li>二人だけ</li>
+<li><strong>夢の飛礫</strong></li>
+<li>Well,Well,Well</li>
+<li>もうひとつのLOVE SONG</li>
+<li><strong>夢</strong></li>
+<li><strong>あきらめのBlue Day</strong></li>
+<li>ふたりの愛ランド</li>
+<li>好きさ 好きさ 好きさ〜悲しき願い</li>
+<li>Love Balance</li>
+<li><strong>NとLの野球帽</strong></li>
+<li>Knockin' On The Hill</li>
+<li>Graduation</li>
+<li>WINDY ROAD</li>
+<li>Kitsch Kiss Yeah Yeah</li>
+</ol>
 </div></td>
 <td></td>
 </tr>
@@ -1418,6 +1664,30 @@ feedback</p></td>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>11月17日 中国 上海東方芸術中心</p>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li>Kitsch Kiss Yeah Yeah</li>
+<li>たどりついたらいつも雨ふり～あの時君は若かった</li>
+<li>勇気の言葉</li>
+<li>好きさ 好きさ 好きさ〜悲しき願い</li>
+<li>Mimosa</li>
+<li>涙そうそう</li>
+<li>SOME DAY</li>
+<li>リバーサイドホテル</li>
+<li>夏の終りのハーモニー</li>
+<li><strong>万里の河</strong></li>
+<li>Well,Well,Well</li>
+<li><strong>夢</strong></li>
+<li><strong>あきらめのBlue Day</strong></li>
+<li><strong>NとLの野球帽</strong></li>
+<li><strong>終章（エピローグ）</strong></li>
+<li><strong>YAH YAH YAH</strong></li>
+</ol>
 </div></td>
 <td></td>
 </tr>
@@ -1471,6 +1741,25 @@ feedback</p></td>
 </div>
 <div class="NavContent" style="text-align:center">
 <p>9月5日</p>
+</div>
+<div class="NavFrame" style="clear:both;border:0">
+<div class="NavHead" style="text-align:center">
+<p>セットリスト</p>
+</div>
+<div class="NavContent" style="text-align:left">
+<ol>
+<li><strong>Reason</strong></li>
+<li>アイシテル</li>
+<li><strong>告白</strong></li>
+<li><strong>終章（エピローグ）</strong></li>
+<li>君に逢いたいだけ</li>
+<li><strong>NとLの野球帽</strong></li>
+<li><strong>夏の終わり</strong></li>
+<li>Mimosa</li>
+<li><strong>あきらめのBlue Day</strong></li>
+<li><strong>光の羅針盤</strong></li>
+<li>Well,Well,Well</li>
+</ol>
 </div></td>
 <td></td>
 </tr>
@@ -1825,11 +2114,17 @@ Chage ライブステージ</strong></p></td>
 <td><p>「少年時代」「ふたりの愛ランド」</p></td>
 </tr>
 <tr class="odd">
-<td><p>2020年11月23日</p></td>
-<td><p><strong>川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～</strong></p></td>
+<td><p>2020年10月18日</p></td>
+<td><p><strong>僕らのポプコンエイジ・オンライン 2020<br />
+～Forever Friends, Forever Cocky Pop〜</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>開催未定</p></td>
+<td><p><strong>川島ケイジ STRINGS CONCERT 2020 ～My Sweet Ume Town～</strong></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

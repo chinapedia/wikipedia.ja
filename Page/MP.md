@@ -20,7 +20,6 @@
   - [マッサージパーラー](../Page/マッサージパーラー.md "wikilink")()
   - [マレー・ポリネシア語派](../Page/マレー・ポリネシア語派.md "wikilink") ()
   - [マイクロプラスチック](https://ja.wikipedia.org/wiki/マイクロプラスチック "wikilink")（）
-  - [マスクポイント](https://ja.wikipedia.org/wiki/密ですゲーム#マスクポイント "wikilink")（Mask Point） - 「[密ですゲーム](../Page/密ですゲーム.md "wikilink")」内で使用される[ヒットポイント](../Page/ヒットポイント.md "wikilink")。
 
 ### 地名
 
@@ -82,7 +81,6 @@
 ## mP
 
   - ミリ[ポアズ](https://ja.wikipedia.org/wiki/ポアズ "wikilink") () = 1/10000 [パスカル秒](https://ja.wikipedia.org/wiki/パスカル秒 "wikilink")
-  - [40mP](https://ja.wikipedia.org/wiki/40mP "wikilink")（よんじゅうメートルピー） - [ボカロP](https://ja.wikipedia.org/wiki/ボカロP "wikilink")。
 
 ## 関連項目
 

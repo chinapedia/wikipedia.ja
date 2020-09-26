@@ -13,7 +13,7 @@
 
 [ロッキード事件](../Page/ロッキード事件.md "wikilink")[公判](../Page/公判.md "wikilink")で、被告だった[田中角栄](../Page/田中角栄.md "wikilink")元首相を法廷内で撮影したり、1997年の[神戸連続児童殺傷事件](https://ja.wikipedia.org/wiki/神戸連続児童殺傷事件 "wikilink")で未成年の犯人の顔写真や、著名人の葬儀に際し棺に納められた遺体の顔\[1\]を掲載したりと、法に抵触しかねない取材活動をして問題となったこともある（敢えて行った面もある）。また、[フライデー襲撃事件](../Page/フライデー襲撃事件.md "wikilink")などのあおりを受け、その取材方法に社会的批判を浴びるようにもなった。
 
-だが、その一方では[桶川ストーカー殺人事件](https://ja.wikipedia.org/wiki/桶川ストーカー殺人事件 "wikilink")で、同誌の[清水潔が](https://ja.wikipedia.org/wiki/清水潔_\(ジャーナリスト\) "wikilink")、[埼玉県警察](../Page/埼玉県警察.md "wikilink")より先に犯人を捕捉し、捜査を放置した[警察の不祥事](https://ja.wikipedia.org/wiki/警察の不祥事 "wikilink")まで暴くという[調査報道](../Page/調査報道.md "wikilink")も成功させてもいる（テレビ朝日『[ザ・スクープ](../Page/ザ・スクープ.md "wikilink")』が後を追った）。1983年（昭和58年）には、[高部知子](../Page/高部知子.md "wikilink")の一服写真を掲載した（[ニャンニャン事件](https://ja.wikipedia.org/wiki/ニャンニャン事件 "wikilink")）。
+だが、その一方では[桶川ストーカー殺人事件](https://ja.wikipedia.org/wiki/桶川ストーカー殺人事件 "wikilink")で、同誌の[清水潔が](https://ja.wikipedia.org/wiki/清水潔_\(ジャーナリスト\) "wikilink")、[埼玉県警察](../Page/埼玉県警察.md "wikilink")より先に犯人を捕捉し、捜査を放置した[警察の不祥事まで暴くという](../Page/警察不祥事.md "wikilink")[調査報道](../Page/調査報道.md "wikilink")も成功させてもいる（テレビ朝日『[ザ・スクープ](../Page/ザ・スクープ.md "wikilink")』が後を追った）。1983年（昭和58年）には、[高部知子](../Page/高部知子.md "wikilink")の一服写真を掲載した（[ニャンニャン事件](https://ja.wikipedia.org/wiki/ニャンニャン事件 "wikilink")）。
 
 最終ページは、[マッド・アマノ](../Page/マッド・アマノ.md "wikilink")が世相を広告風に作ったパロディ写真（[オマージュ](../Page/オマージュ.md "wikilink")）『狂告の時代』が連載されていた。
 

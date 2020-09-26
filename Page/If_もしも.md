@@ -228,6 +228,7 @@
   - [打ち上げ花火、下から見るか? 横から見るか?](../Page/打ち上げ花火、下から見るか?_横から見るか?.md "wikilink")
   - [リセット (漫画)](https://ja.wikipedia.org/wiki/リセット_\(漫画\) "wikilink")
   - [素敵な選TAXI](https://ja.wikipedia.org/wiki/素敵な選TAXI "wikilink")
+  - [カードの切り方が人生だ](../Page/カードの切り方が人生だ.md "wikilink")
 
 ## 外部リンク
 

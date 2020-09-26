@@ -4024,6 +4024,22 @@ KTV[13]</p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>11月8日</p></td>
+<td><p><a href="../Page/アルゼンチン共和国杯.md" title="wikilink">アルゼンチン共和国杯</a><br />
+<a href="https://ja.wikipedia.org/wiki/みやこステークス" title="wikilink">みやこステークス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>11月15日</p></td>
+<td><p>エリザベス女王杯<br />
+福島記念</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

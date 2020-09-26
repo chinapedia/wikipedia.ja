@@ -1,7 +1,7 @@
 > この記事は[パール・S・バック](https://ja.wikipedia.org/wiki/パール・S・バック)から翻訳されています。
 
 
-**パール・サイデンストリッカー・バック**（**Pearl Sydenstricker Buck**, [1892年](../Page/1892年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")。[南長老ミッション](../Page/南長老ミッション.md "wikilink")派[宣教師](../Page/宣教師.md "wikilink")の両親と中国（[中華民国](../Page/中華民国.md "wikilink")）に渡り、そこで育つ。[処女作](https://ja.wikipedia.org/wiki/処女作 "wikilink")『東の風・西の風』に続き、1931年に代表作『大地』を発表して1932年に[ピュリッツァー賞](https://ja.wikipedia.org/wiki/ピュリッツァー賞 "wikilink")を受賞。『大地』は『息子たち』『分裂せる家』とともに三部作を成す。1938年に[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")を受賞した。
+**パール・サイデンストリッカー・バック**（**Pearl Sydenstricker Buck**, [1892年](../Page/1892年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink") - [1973年](../Page/1973年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")）は[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[小説家](../Page/小説家.md "wikilink")。[南長老ミッション](../Page/南長老ミッション.md "wikilink")派[宣教師](../Page/宣教師.md "wikilink")の両親と中国（[中華民国](../Page/中華民国.md "wikilink")）に渡り、そこで育つ。[処女作](https://ja.wikipedia.org/wiki/処女作 "wikilink")『東の風・西の風』に続き、1931年に代表作『[大地](../Page/大地_\(パール・S・バック\).md "wikilink")』を発表して1932年に[ピュリッツァー賞](https://ja.wikipedia.org/wiki/ピュリッツァー賞 "wikilink")を受賞。『大地』は『[息子たち](https://ja.wikipedia.org/wiki/息子たち "wikilink")』『[分裂せる家](../Page/分裂せる家.md "wikilink")』とともに三部作を成す。1938年に[ノーベル文学賞](../Page/ノーベル文学賞.md "wikilink")を受賞した。
 
 ## 経歴
 

@@ -174,7 +174,7 @@
   - [番組エピソード NHK特集「シルクロード—絲綢之路—」_NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=special002)
   - \[<https://www2.nhk.or.jp/archives/search/special/detail/?d=special039>　番組エピソード NHK特集 海のシルクロード_NHKアーカイブス\]
 
-[Category:NHK特集](https://ja.wikipedia.org/wiki/Category:NHK特集 "wikilink") [Category:シルクロード](https://ja.wikipedia.org/wiki/Category:シルクロード "wikilink") [Category:石坂浩二](https://ja.wikipedia.org/wiki/Category:石坂浩二 "wikilink")
+[Category:NHK特集](https://ja.wikipedia.org/wiki/Category:NHK特集 "wikilink") [Category:シルクロード](https://ja.wikipedia.org/wiki/Category:シルクロード "wikilink") [Category:石坂浩二](https://ja.wikipedia.org/wiki/Category:石坂浩二 "wikilink") [Category:日本と海外の合作作品](https://ja.wikipedia.org/wiki/Category:日本と海外の合作作品 "wikilink")
 
 1.  [NHK特集　シルクロード 絲綢之路 NHK名作選（動画・静止画） -NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010244_00000)
 2.  [NHK特集　シルクロード 第２部 NHK名作選（動画・静止画） -NHKアーカイブス](https://www2.nhk.or.jp/archives/tv60bin/detail/index.cgi?das_id=D0009010279_00000)

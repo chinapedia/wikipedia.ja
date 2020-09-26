@@ -413,15 +413,6 @@
 <td><p>管理業務主体</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/戸部眞輔" title="wikilink">戸部眞輔</a></p></td>
-<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
-<td><p>大相撲九州場所中継統括<br />
-各種スポーツ中継<br />
-九州沖縄のニュース<br />
-ニュース845福岡</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/西川順一" title="wikilink">西川順一</a></p></td>
 <td><p><a href="../Page/NHK新潟放送局.md" title="wikilink">新潟</a></p></td>
 <td><p>各種スポーツ中継<br />
@@ -429,15 +420,21 @@
 ニュース845福岡</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/早瀬雄一.md" title="wikilink">早瀬雄一</a>*</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス" title="wikilink">G-media出向</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/森田哲意" title="wikilink">森田哲意</a></p></td>
 <td><p><a href="../Page/NHK長崎放送局.md" title="wikilink">長崎</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/酒井良彦" title="wikilink">酒井良彦</a></p></td>
+<td><p><a href="../Page/NHK京都放送局.md" title="wikilink">京都</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -456,30 +453,23 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/猪原智紀" title="wikilink">猪原智紀</a>*</p></td>
-<td><p>北九州</p></td>
+<td><p><a href="../Page/NHK北九州放送局.md" title="wikilink">北九州</a></p></td>
 <td><p>北九州市出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/原田徹.md" title="wikilink">原田徹</a>*</p></td>
-<td><p>北九州市出身<br />
-<strong>嘱託職</strong></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/田中秀喜.md" title="wikilink">田中秀喜</a>*</p></td>
 <td><p><a href="../Page/NHK山口放送局.md" title="wikilink">山口</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>女性</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/庭木櫻子" title="wikilink">庭木櫻子</a></p></td>
 <td><p><strong><a href="../Page/NHK徳島放送局.md" title="wikilink">徳島</a></strong></p></td>
 <td><p>ロクいち!福岡<br />
@@ -488,7 +478,20 @@
 ニュース845福岡</p></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>嘱託職</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="odd">
+<td><p><a href="../Page/原田徹.md" title="wikilink">原田徹</a>*</p></td>
+<td><p>北九州</p></td>
+<td><p>九州沖縄のニュース<br />
+ニュース845福岡</p></td>
+<td><p>北九州市出身</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

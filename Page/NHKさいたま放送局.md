@@ -50,19 +50,19 @@
 <td><p>3W</p></td>
 </tr>
 <tr class="odd">
-<td><p>小川</p></td>
+<td><p><a href="../Page/小川町.md" title="wikilink">小川</a></p></td>
 <td><p>13</p></td>
 <td><p>26</p></td>
 <td><p>1W</p></td>
 </tr>
 <tr class="even">
-<td><p>秩父</p></td>
+<td><p><a href="../Page/秩父市.md" title="wikilink">秩父</a></p></td>
 <td><p>13</p></td>
 <td><p>26</p></td>
 <td><p>10W</p></td>
 </tr>
 <tr class="odd">
-<td><p>小鹿野</p></td>
+<td><p><a href="../Page/小鹿野町.md" title="wikilink">小鹿野</a></p></td>
 <td><p>19</p></td>
 <td><p>17</p></td>
 <td><p>1W</p></td>

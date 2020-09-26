@@ -5,22 +5,24 @@
 
 ## 概要
 
-[GMの](../Page/ゼネラルモーターズ.md "wikilink")[EV1](https://ja.wikipedia.org/wiki/EV1 "wikilink")と同じくカリフォルニア大気資源委員会（CARB）の[ゼロエミッション車普及プログラムに対応する形で開発が行われた](../Page/低公害車.md "wikilink")。300台の生産が計画され、主に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")でリース販売され、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[スイス](../Page/スイス.md "wikilink")でも少数リース販売が行われた。
+[GMの](../Page/ゼネラルモーターズ.md "wikilink")[EV1](https://ja.wikipedia.org/wiki/EV1 "wikilink")と同じくカリフォルニア大気資源委員会（CARB）の[ゼロエミッション車普及プログラムに対応する形で開発が行われた](../Page/低公害車.md "wikilink")。300台の生産が計画され、主に[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[カリフォルニア州](../Page/カリフォルニア州.md "wikilink")で[リース](../Page/リース.md "wikilink")販売され、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[スイス](../Page/スイス.md "wikilink")でも少数リース販売が行われた。
 
-同社で生産されていた小型ハッチバック、[ロゴとスタイルが酷似しているため](../Page/ホンダ・ロゴ.md "wikilink")、ロゴと車体の大部分を共有してるように見られがちであるが、[プラットフォームから電気自動車に合わせた専用設計となっている](../Page/プラットフォーム_\(自動車\).md "wikilink")。安全性も十分に考慮されており、日米の安全基準に適合する。全高が高く、ドア形状も全く異なり、ボンネットやウインドシールドの角度も異なる。
+同社で生産されていた小型ハッチバックの[ロゴとスタイルが酷似しており](../Page/ホンダ・ロゴ.md "wikilink")、ロゴと車体の大部分を共有してるように見られがちであるが、全高が高く、[ボンネットや](https://ja.wikipedia.org/wiki/ボンネット_\(自動車\) "wikilink")[ウインドシールド](https://ja.wikipedia.org/wiki/風防 "wikilink")（A[ピラー](https://ja.wikipedia.org/wiki/ピラー "wikilink")）の角度、ドア形状も異なる、[プラットフォームから電気自動車に合わせた専用設計となっている](../Page/プラットフォーム_\(自動車\).md "wikilink")。安全性も十分に考慮されており、日米の安全基準に適合する。
 
-パワーユニットは独自開発の水冷DCブラシレスモーターで、最高出力（連続定格）は49kW/1,700-8,750rpm、最大トルクは275N·m/0-1,700rpm、最高効率は96%、平均効率は90%（LA-4モード走行時）である。 変速機は1速固定減速比。 [ニッケル水素電池](https://ja.wikipedia.org/wiki/ニッケル水素電池 "wikilink")を使用しており、充電器は車載でAC100V、200Vに対応し、家庭でも充電可能である。アメリカでは充電にAvcon社のコンダクティブコネクターが用いられている。充電は回生ブレーキによっても行われる。
+パワーユニットは独自開発の水冷[DCブラシレスモーターで](https://ja.wikipedia.org/wiki/無整流子電動機 "wikilink")、最高出力（連続[定格](../Page/定格.md "wikilink")）は49 kW/1,700 - 8,750 rpm、最大トルクは275 N·m/0 - 1,700 rpm、最高効率は96 %、平均効率は90 %（LA-4モード走行時）である。[変速機は無く](../Page/トランスミッション.md "wikilink")、[減速比は](https://ja.wikipedia.org/wiki/歯車比 "wikilink")1速固定。
 
-エアコンは[ヒートポンプ](../Page/ヒートポンプ.md "wikilink")式で、[ヘッドランプは](../Page/前照灯.md "wikilink")[HID式の](https://ja.wikipedia.org/wiki/HIDランプ "wikilink")[プロジェクタータイプ](https://ja.wikipedia.org/wiki/プロジェクターヘッドランプ "wikilink")。通常の自動車と同様に走行に12Vの鉛蓄電池を使用する。
+[ニッケル水素電池](https://ja.wikipedia.org/wiki/ニッケル水素電池 "wikilink")を使用しており、充電器は車載でAC100 V、AC200 Vに対応し、家庭でも充電可能である。アメリカでは充電にAvcon社のコンダクティブコネクターが用いられている。充電は回生ブレーキによっても行われる。
+
+[エアコンは](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")[ヒートポンプ](../Page/ヒートポンプ.md "wikilink")式で、[ヘッドランプは](../Page/前照灯.md "wikilink")[HID式の](https://ja.wikipedia.org/wiki/HIDランプ "wikilink")[プロジェクタータイプ](https://ja.wikipedia.org/wiki/プロジェクターヘッドランプ "wikilink")。これらのほか、[カーオーディオ](../Page/カーオーディオ.md "wikilink")や室内灯などの電装品には通常の自動車と同様に走行に12 Vの[鉛蓄電池](../Page/鉛蓄電池.md "wikilink")を使用する。
 
 ### その他スペック
 
-  - バッテリー:12Vシール型Ni-MH電池24個
-  - 電圧：288V
-  - 充電時間：6-8時間
-  - 1充電走行距離：10･15モード 220km、40km/h定地走行 350km、80％放電 160-190km
-  - 加速：4.9秒(0-50km/h)
-  - 最高速度：130km/h以上
+  - バッテリー:12 Vシール型[Ni-MH電池](../Page/ニッケル・水素充電池.md "wikilink")24個
+  - 電圧：288 V
+  - 充電時間：6 - 8時間
+  - 1充電走行距離：10･15モード 220 km、40 km/h定地走行 350 km、80 %放電 160 - 190 km
+  - 加速：4.9秒（0 - 50 [km/h](../Page/キロメートル毎時.md "wikilink")）
+  - 最高速度：130 km/h以上
 
 ## 歴史
 

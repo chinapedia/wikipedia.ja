@@ -92,7 +92,7 @@ BS2でも[1989年](../Page/1989年.md "wikilink")[6月2日](../Page/6月2日.md 
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/NHK札幌放送局.md" title="wikilink">札幌</a></p></td>
-<td><p>イブニングネットワーク北海道</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イブニングネットワーク北海道" title="wikilink">イブニングネットワーク北海道</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/NHK室蘭放送局.md" title="wikilink">室蘭</a></p></td>

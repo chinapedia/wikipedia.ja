@@ -135,22 +135,22 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/上野速人.md" title="wikilink">上野速人</a>*</p></td>
+<td><p>法性亮太</p></td>
+<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
 <td><p>熊本県のニュース<br />
 各種スポーツ中継</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p>法性亮太</p></td>
-<td><p><a href="../Page/NHK金沢放送局.md" title="wikilink">金沢</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/後藤佑太郎" title="wikilink">後藤佑太郎</a></p></td>
+<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
+<td><p>熊本県のニュース</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>米澤太郎</p></td>
 <td><p><strong>初任地</strong></p></td>
-<td><p>熊本県のニュース</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">

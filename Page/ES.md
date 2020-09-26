@@ -28,7 +28,7 @@
       - ダイハツ・e:S - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")の[コンセプトカー](../Page/コンセプトカー.md "wikilink")または市販[軽自動車](https://ja.wikipedia.org/wiki/軽自動車 "wikilink")。
           - 市販車については[ダイハツ・ミライース](https://ja.wikipedia.org/wiki/ダイハツ・ミライース "wikilink")を参照。
       - [ホンダ](../Page/本田技研工業.md "wikilink")・3代目[シビックフェリオ](https://ja.wikipedia.org/wiki/シビックフェリオ "wikilink")および初代[シビックハイブリッド](https://ja.wikipedia.org/wiki/シビックハイブリッド "wikilink")(シビック全体としては7代目)の型式
-      - [ESシリーズ](https://ja.wikipedia.org/wiki/SONY_ESPRIT "wikilink") - [ソニー](../Page/ソニー.md "wikilink")の[オーディオ機器の](../Page/音響機器.md "wikilink")1群。Extremely high Standardから。
+      - ESシリーズ - [ソニー](../Page/ソニー.md "wikilink")の[オーディオ機器の](../Page/音響機器.md "wikilink")1群。Extremely high Standardから。
       - [PC-9801ES](https://ja.wikipedia.org/wiki/PC-9800シリーズ#80286/80386とEGCの搭載 "wikilink") - [NECの](../Page/日本電気.md "wikilink")[パソコン](../Page/パーソナルコンピュータ.md "wikilink")
   - その他の固有名詞
       - [ユーロスター](../Page/ユーロスター.md "wikilink") (Eurostar) - [英](https://ja.wikipedia.org/wiki/イギリス "wikilink")[欧間](../Page/大陸ヨーロッパ.md "wikilink")[国際列車](../Page/国際列車.md "wikilink")の[愛称](../Page/列車愛称.md "wikilink")

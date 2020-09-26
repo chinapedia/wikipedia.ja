@@ -208,15 +208,16 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/戸部眞輔" title="wikilink">戸部眞輔</a>*</p></td>
+<td><p><a href="../Page/NHK福岡放送局.md" title="wikilink">福岡</a></p></td>
+<td><p>各種スポーツ中継<br />
+大分県のニュース</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/富田典保" title="wikilink">富田典保</a>*</p></td>
 <td><p><a href="../Page/NHK岐阜放送局.md" title="wikilink">岐阜</a></p></td>
 <td><p>大分県のニュース<br />
 5時いろラジオ</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/佐竹祐人" title="wikilink">佐竹祐人</a></p></td>
-<td><p><a href="../Page/NHK静岡放送局.md" title="wikilink">静岡</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/飯尾夏帆.md" title="wikilink">飯尾夏帆</a></p></td>

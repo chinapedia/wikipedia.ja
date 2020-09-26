@@ -138,7 +138,7 @@
   - [Honda | 四輪製品アーカイブ「Z(1970～) 」](http://www.honda.co.jp/pressroom/products/auto/z1970/)
   - [Honda | 四輪製品アーカイブ「Z(1998～) 」](http://www.honda.co.jp/pressroom/products/auto/z1998/)
 
-[Category:ホンダの車種](https://ja.wikipedia.org/wiki/Category:ホンダの車種 "wikilink") [Category:軽自動車](https://ja.wikipedia.org/wiki/Category:軽自動車 "wikilink") [Category:軽クーペ](https://ja.wikipedia.org/wiki/Category:軽クーペ "wikilink") [Category:スポーツ・ユーティリティ・ビークル](https://ja.wikipedia.org/wiki/Category:スポーツ・ユーティリティ・ビークル "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
+[Category:ホンダの車種](https://ja.wikipedia.org/wiki/Category:ホンダの車種 "wikilink") [Category:軽自動車](https://ja.wikipedia.org/wiki/Category:軽自動車 "wikilink") [Category:軽クーペ](https://ja.wikipedia.org/wiki/Category:軽クーペ "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink") [Category:スポーツ・ユーティリティ・ビークル](https://ja.wikipedia.org/wiki/Category:スポーツ・ユーティリティ・ビークル "wikilink") [Category:四輪駆動車](https://ja.wikipedia.org/wiki/Category:四輪駆動車 "wikilink")
 
 1.  空冷のトップグレード「GS」ではフロントにディスクブレーキが採用されていたが、水冷ではトップグレードの「GTL」後の「GSS」でも4輪ドラムブレーキであった。
 2.  デアゴスティーニジャパン 週刊日本の名車第73号19ページより。

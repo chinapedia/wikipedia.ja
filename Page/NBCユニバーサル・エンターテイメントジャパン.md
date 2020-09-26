@@ -21,22 +21,23 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月、電通は米国[NBCユニバーサル](../Page/NBCユニバーサル.md "wikilink")傘下で[ユニバーサル・ピクチャーズ事業部門の](../Page/ユニバーサル・スタジオ.md "wikilink")「[ユニバーサル・ピクチャーズ・インターナショナル・エンターテイメント](../Page/ユニバーサル・スタジオ.md "wikilink")（UPIE）」に株式の大部分を譲渡する契約を締結、同年12月までにUPIEが大半の株式を取得した。ただし、この時点で電通の[連結子会社](../Page/連結子会社.md "wikilink")では無くなるが、まだ支配株主として残っており、電通の[その他関連会社扱いである](https://ja.wikipedia.org/wiki/持分法適用会社 "wikilink")。
 
-2009年2月にUPIE（ユニバーサル映画）の日本法人である**ユニバーサル・ピクチャーズ・ジャパン（UPJ）合同会社**（設立時は株式会社、合併発表時は有限会社）と合併、商号も**ジェネオン・ユニバーサル・エンターテイメントジャパン合同会社**に変更された。なお、NBCユニバーサル傘下に入る前の2008年3月からユニバーサルの新作映画のDVDソフトはジェネオンからリリースされていた。それ以前の発売元については*[ユニバーサル・スタジオ\#日本での配給・ビデオソフト販売](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ#日本での配給・ビデオソフト販売 "wikilink")*参照。
+[2009年](../Page/2009年.md "wikilink")2月にUPIE（ユニバーサル映画）の日本法人である**ユニバーサル・ピクチャーズ・ジャパン（UPJ）合同会社**（設立時は株式会社、合併発表時は有限会社）と合併、商号も**ジェネオン・ユニバーサル・エンターテイメントジャパン合同会社**に変更された。なお、NBCユニバーサル傘下に入る前の2008年3月からユニバーサルの新作映画のDVDソフトはジェネオンからリリースされていた。それ以前の発売元については*[ユニバーサル・スタジオ\#日本での配給・ビデオソフト販売](https://ja.wikipedia.org/wiki/ユニバーサル・スタジオ#日本での配給・ビデオソフト販売 "wikilink")*参照。
 
-2013年12月9日に社名を**NBCユニバーサル・エンターテイメントジャパン合同会社**に変更され、2016年1月1日に**ジェネオン音楽出版合同会社**は、NBCユニバーサル・エンターテイメントジャパン合同会社を存続会社として合併した。これに伴い13年間用いられてきた「ジェネオン」ブランドは完全消滅した\[2\]。
+[2013年](../Page/2013年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")に社名を**NBCユニバーサル・エンターテイメントジャパン合同会社**に変更され、[2016年](../Page/2016年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に**ジェネオン音楽出版合同会社**は、NBCユニバーサル・エンターテイメントジャパン合同会社を存続会社として合併した。これに伴い13年間用いられてきた「ジェネオン」ブランドは完全消滅した\[2\]。
 
 通常"*entertainment*"を日本語表記する際には「エンタ（ー）テイ**ン**メント」が用いられ、ジェネオン エンタテインメント時代はこれに倣っていたが、合併後は「ン」を入れない「**エンターテイメント**」が正しい社名の表記である。
 
 ジェネオンは米国に「Geneon Entertainment USA」（米国ジェネオン エンタテインメント、ジェネオンUSA/米（国）ジェネオン/ジェネオンアメリカ）という[子会社](../Page/子会社.md "wikilink")を持っていた。旧パイオニアLDC（PLDC）（[パイオニア](https://ja.wikipedia.org/wiki/パイオニア "wikilink")子会社）時代に設立した唯一の海外法人である。こちらは合併後も電通の海外子会社となった。
 
-2020年1月、[ワーナー・ブラザース・ホームエンターテイメントと](https://ja.wikipedia.org/wiki/ワーナー・ホーム・ビデオ "wikilink")[ユニバーサル・ピクチャーズ・ホームエンターテイメント](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ・ホームエンターテイメント "wikilink")は北米地域におけるソフト販売と流通に関する事業について統合することを発表した。同時に前述2社は米国外におけるディスク流通に関する国際ライセンス契約を締結したため、2020年第3四半期からワーナー作品のソフト流通も担当する予定になっている\[3\]。
+[2020年](../Page/2020年.md "wikilink")1月、[ワーナー・ブラザース・ホームエンターテイメントと](https://ja.wikipedia.org/wiki/ワーナー・ホーム・ビデオ "wikilink")[ユニバーサル・ピクチャーズ・ホームエンターテイメント](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ・ホームエンターテイメント "wikilink")は北米地域におけるソフト販売と流通に関する事業について統合することを発表した。同時に前述2社は米国外におけるディスク流通に関する国際ライセンス契約を締結したため、2020年[10月9日](../Page/10月9日.md "wikilink")からワーナー作品のソフト流通も担当する予定になっている\[3\]。
 
 ## 沿革
 
   - [1981年](../Page/1981年.md "wikilink") - パイオニアの出資により、**レーザーディスク株式会社**として設立。
   - [1989年](../Page/1989年.md "wikilink") - **パイオニア エル・ディー・シー株式会社**（パイオニアLDC）に商号変更。
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 8月2日に子会社として[学研](https://ja.wikipedia.org/wiki/学研 "wikilink")と共に「ROCK IT RECORDS」（ビーイングの出資会社では無い）を設立（[T-BOLAN](../Page/T-BOLAN.md "wikilink")が所属）。
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - [ビーイング](../Page/ビーイング.md "wikilink")が学研のスタッフを擁し初の直営レコード会社であるビージンを設立。1992年にはT-BOLANを移籍させるにあたりレーベルとして[ZAIN RECORDSを設置](../Page/ZAIN_RECORDS.md "wikilink")、更に1993年1月に社名変更し法人としてZAIN RECORDSとなる。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 前年末にパイオニアが出資した事を機に、4月から[マイカルハミングバード](../Page/マイカルハミングバード.md "wikilink")の販売受託を開始\[4\]。
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink") - 8月2日に子会社として[学研](https://ja.wikipedia.org/wiki/学研 "wikilink")と共に「ROCK IT RECORDS」を六本木ほうらいやビル内に設立（[T-BOLAN](../Page/T-BOLAN.md "wikilink")が所属）。
+  - [1991年](../Page/1991年.md "wikilink") - [ビーイング](../Page/ビーイング.md "wikilink")が学研のスタッフを擁し初の直営レコード会社であるビージンを「ROCK IT RECORDS」と同じ六本木ほうらいやビル内に設立。翌年11月にはT-BOLANを移籍させるにあたりレーベルとして[ZAIN RECORDSを設置](../Page/ZAIN_RECORDS.md "wikilink")、更に1993年1月に社名変更し法人としてZAIN RECORDSとなる\[5\]。
   - [1992年](../Page/1992年.md "wikilink") - 初のオリジナルビデオアニメ（[OVA](../Page/OVA.md "wikilink")）『[天地無用\! 魎皇鬼](../Page/天地無用!.md "wikilink")』をリリース。この年がアニメ事業のスタートとされている。
   - [1993年](../Page/1993年.md "wikilink") - ROCK IT RECORDSを吸収
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")と組み、新レーベル「[ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink")」を立ち上げる。同レーベルは[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")と提携し、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に「[factoryorumok](https://ja.wikipedia.org/wiki/factoryorumok "wikilink")」となるが、[2001年](../Page/2001年.md "wikilink")頃に活動を休止。
@@ -48,13 +49,13 @@
   - [2007年](../Page/2007年.md "wikilink")9月 - ユニバーサル・ピクチャーズ・ジャパン（UPJ）より、2008年リリースの「[ボーン・アルティメイタム](../Page/ボーン・アルティメイタム.md "wikilink")」以降のユニバーサル・ピクチャーズ新作映画のDVD・ビデオ商品販売業務を受託。UPJはカタログ作品およびTVシリーズの販売業務を引き続き担当。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月12日 - 米NBCユニバーサル傘下のユニバーサル・ピクチャーズ・インターナショナル・エンターテインメント（UPIE）は電通よりジェネオン株式の過半数を取得し、2009年2月末までにUPIEの日本法人であるユニバーサル・ピクチャーズ・ジャパン有限会社と合併、商号も変更することが発表された。
   - 2008年12月2日 - UPIEによる過半数株式の取得が完了。
-  - [2009年](../Page/2009年.md "wikilink")2月1日 - ユニバーサル・ピクチャーズ・ジャパン合同会社とジェネオン エンタテインメントが合併（存続会社はジェネオン エンタテインメント）。商号も**ジェネオン・ユニバーサル・エンターテイメントジャパン合同会社** (*Geneon Universal Entertainment Japan, LLC.*) となった。
+  - [2009年](../Page/2009年.md "wikilink")2月1日 - ユニバーサル・ピクチャーズ・ジャパン合同会社とジェネオン エンタテインメントが合併（存続会社はジェネオン エンタテインメント）。商号も**ジェネオン・ユニバーサル・エンターテイメントジャパン合同会社**（*Geneon Universal Entertainment Japan, LLC.*）となった。
   - [2011年](../Page/2011年.md "wikilink")3月 - 前身を含めて設立30周年を迎えた。
-  - [2013年](../Page/2013年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink") - 商号を**NBCユニバーサル・エンターテイメントジャパン合同会社**に変更。
+  - [2013年](../Page/2013年.md "wikilink")12月9日 - 商号を**NBCユニバーサル・エンターテイメントジャパン合同会社**に変更。
   - [2016年](../Page/2016年.md "wikilink")1月1日 - ジェネオン音楽出版合同会社を吸収合併。[パラマウント映画](../Page/パラマウント映画.md "wikilink")の日本法人であるパラマウント・ジャパンから日本における映像ソフトの営業・販売を移管。
-  - [2017年](../Page/2017年.md "wikilink") - 同社アニメ関連商品の公式オンラインショップ「[あにばーさる](https://store.nbcuni.co.jp/s/nbcu/?ima=1008)」を開設。[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")が運営\[4\]。
-  - [2018年](../Page/2018年.md "wikilink")2月3日 - アニメ事業25周年を記念して、音楽フェスティバル「[NBCUniversal ANIME×MUSIC FESTIVAL](https://ja.wikipedia.org/wiki/NBCUniversal_ANIME×MUSIC_FESTIVAL "wikilink")～25th ANNIVERSARY～」を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催\[5\]。
-  - [2020年](../Page/2020年.md "wikilink")第3四半期 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")作品のソフト流通を担当する予定\[6\]。
+  - [2017年](../Page/2017年.md "wikilink") - 同社アニメ関連商品の公式オンラインショップ「[あにばーさる](https://store.nbcuni.co.jp/s/nbcu/?ima=1008)」を開設。[ソニー・ミュージックコミュニケーションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックコミュニケーションズ "wikilink")が運営\[6\]。
+  - [2018年](../Page/2018年.md "wikilink")2月3日 - アニメ事業25周年を記念して、音楽フェスティバル「[NBCUniversal ANIME×MUSIC FESTIVAL](https://ja.wikipedia.org/wiki/NBCUniversal_ANIME×MUSIC_FESTIVAL "wikilink")～25th ANNIVERSARY～」を[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催\[7\]。
+  - [2020年](../Page/2020年.md "wikilink")10月9日 - [ワーナー・ブラザース](../Page/ワーナー・ブラザース.md "wikilink")作品のソフト流通を担当する予定\[8\]。
 
 ## 所属アーティスト
 
@@ -63,25 +64,22 @@
   - [After the Rain](https://ja.wikipedia.org/wiki/After_the_Rain "wikilink") ([そらる](https://ja.wikipedia.org/wiki/そらる "wikilink")×[まふまふ](https://ja.wikipedia.org/wiki/まふまふ "wikilink")) (2016年 - )
   - [飯田里穂](../Page/飯田里穂.md "wikilink") (2018年 - )
   - [浦島坂田船](https://ja.wikipedia.org/wiki/浦島坂田船 "wikilink") (2017年 - )
-  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") (2016年 - )
-      - [キツネツキ](https://ja.wikipedia.org/wiki/キツネツキ "wikilink") (2018年 - )
-  - [Crusher-P](https://ja.wikipedia.org/wiki/Crusher-P "wikilink") (2017年 - )
+      - Fourpe (2017年)
   - [黒崎真音](https://ja.wikipedia.org/wiki/黒崎真音 "wikilink") (2010年 - )
   - [Gero](https://ja.wikipedia.org/wiki/Gero "wikilink") (2013年 - )
-  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") (2004年 - 2010年、2018年 - )\[7\]
-  - [siraph](https://ja.wikipedia.org/wiki/siraph "wikilink") (2016年 - )
-  - [てにをは](https://ja.wikipedia.org/wiki/てにをは_\(ミュージシャン\) "wikilink") (2013年 - )
+  - [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink") (2004年 - 2010年、2018年 - )\[9\]
+  - [THE SIXTH LIE](https://ja.wikipedia.org/wiki/THE_SIXTH_LIE "wikilink") (2018年 - )
   - [DECO\*27](https://ja.wikipedia.org/wiki/DECO*27 "wikilink") (2019年 - )
+  - [中島由貴](https://ja.wikipedia.org/wiki/中島由貴_\(声優\) "wikilink") (2020年 - )
   - [流田Project](https://ja.wikipedia.org/wiki/流田Project "wikilink") (2010年 - 2012年、2016年 - )
   - [南條愛乃](../Page/南條愛乃.md "wikilink") (2012年 - )
-  - [binaria](https://ja.wikipedia.org/wiki/binaria "wikilink") (2016年 - )
-  - [日向電工](https://ja.wikipedia.org/wiki/日向電工 "wikilink") (2017年 - )
+  - [Neru](https://ja.wikipedia.org/wiki/Neru "wikilink") (2015年 - )
+  - [petit fleurs](https://ja.wikipedia.org/wiki/petit_fleurs "wikilink") (2020年 - )
   - [fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink") (2009年 - )
+  - [H-el-ical/](https://ja.wikipedia.org/wiki/H-el-ical/ "wikilink")/ (2020年 - )
   - [やなぎなぎ](https://ja.wikipedia.org/wiki/やなぎなぎ "wikilink") (2012年 - )
   - [山崎はるか](https://ja.wikipedia.org/wiki/山崎はるか "wikilink") (2011年 - 2013年、2018年 - )
   - [Luce Twinkle Wink☆](https://ja.wikipedia.org/wiki/Luce_Twinkle_Wink☆ "wikilink") (2015年 - )
-  - [H-el-ical//](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")（KalafinaのHikaru） (2020年 - )
-  - [petit fleurs](https://ja.wikipedia.org/wiki/petit_fleurs "wikilink") (2020年 - )
 
 ### 過去の所属者
 
@@ -116,10 +114,13 @@
   - [岸田教団\&THE明星ロケッツ](https://ja.wikipedia.org/wiki/岸田教団&THE明星ロケッツ "wikilink") (2010年 - 2011年)（ワーナー・ホーム・ビデオに移籍）
   - [キジ☆ムナ](https://ja.wikipedia.org/wiki/キジ☆ムナ "wikilink") (2008年)
   - [木村由姫](https://ja.wikipedia.org/wiki/木村由姫 "wikilink") (1998年 - 2001年)
+  - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink") (2016年 - 2018年)（日本コロムビアに移籍）
+      - [キツネツキ](https://ja.wikipedia.org/wiki/キツネツキ "wikilink") (2017年)
   - [quasimode](https://ja.wikipedia.org/wiki/quasimode "wikilink") (2007年 - 2008年)（[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")に移籍）
+  - [Crusher-P](https://ja.wikipedia.org/wiki/Crusher-P "wikilink") (2017年)
   - [栗コーダーカルテット](../Page/栗コーダーカルテット.md "wikilink") (2005年 - 2014年)
   - [K+S CASE](https://ja.wikipedia.org/wiki/K+S_CASE "wikilink") (2008年)
-  - [KEMU VOXX](https://ja.wikipedia.org/wiki/KEMU_VOXX "wikilink") (2013年)
+  - [KEMU VOXX](../Page/堀江晶太_\(音楽家\).md "wikilink") (2013年)
   - [the Indigo](https://ja.wikipedia.org/wiki/the_Indigo "wikilink") (2003年 - 2007年)
   - [財津和夫](https://ja.wikipedia.org/wiki/財津和夫 "wikilink") (1992年 - 1996年)
   - [C.G mix](../Page/C.G_mix.md "wikilink") (2006年 - 2009年)（現在も[I've](../Page/I've.md "wikilink")で活動、CDをリリース）
@@ -127,20 +128,23 @@
   - [島みやえい子](../Page/島みやえい子.md "wikilink") (2005年 - 2011年)（現在はフリーで活動）
   - [樹海](../Page/樹海_\(音楽ユニット\).md "wikilink")（2006年 - 2008年活動休止）
       - [Aimmy](../Page/Aimmy.md "wikilink") (2008年)
+  - [siraph](https://ja.wikipedia.org/wiki/siraph "wikilink") (2016年)
   - [Sunaga t experience](https://ja.wikipedia.org/wiki/須永辰緒 "wikilink") (2009年)
   - [鈴木トオル](../Page/鈴木トオル.md "wikilink") (1990年 - 1991年)（パイオニアLDC初年度の1990年に[EPIC・ソニーより移籍](../Page/エピックレコードジャパン.md "wikilink")、1992年に[東芝EMIに再移籍し現在はインディーズで活動](../Page/EMIミュージック・ジャパン.md "wikilink")）
   - [スズム](https://ja.wikipedia.org/wiki/スズム "wikilink") (2013年 - 2015年)
   - [ステファニー・ヤネズ](https://ja.wikipedia.org/wiki/ステファニー・ヤネズ "wikilink")
   - [Soul Bossa Trio](https://ja.wikipedia.org/wiki/Soul_Bossa_Trio "wikilink") (2004年 - 2005年)
+  - [sora tob sakana](https://ja.wikipedia.org/wiki/sora_tob_sakana "wikilink") (2020年)（解散）
   - [タイナカサチ](https://ja.wikipedia.org/wiki/タイナカ彩智 "wikilink") (2006年 - 2010年)（自主レーベルを設立）
   - [THYME](../Page/THYME.md "wikilink") (2007年 - 2008年)（2010年活動終了）
   - [ダウト](https://ja.wikipedia.org/wiki/ダウト_\(バンド\) "wikilink") (2008年 - 2010年)（徳間ジャパンコミュニケーションズに移籍）
   - [高橋直純](../Page/高橋直純.md "wikilink") (2006年)
-  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[8\]）
+  - [高橋洋子](../Page/高橋洋子_\(歌手\).md "wikilink") (2004年 - 200?年)（[スターチャイルド](../Page/スターチャイルド.md "wikilink")に移籍\[10\]）
   - [田中理恵](../Page/田中理恵_\(声優\).md "wikilink") (2010年)
   - [たま](../Page/たま_\(バンド\).md "wikilink") (1996年 - 1997年)（立ち上げていたプライベート[インディーズレーベル](https://ja.wikipedia.org/wiki/インディーズレーベル "wikilink")の地球レコードに再び戻った後、2003年解散）
   - [田村直美](../Page/田村直美.md "wikilink") (2002年)（[アップフロント/ゼティマを経て](../Page/アップフロントワークス.md "wikilink")[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")および[Faith（フェイス）の両社合弁によるインディーズレーベルへ移籍](../Page/フェイス_\(企業\).md "wikilink")）
   - [鶴田加茂](https://ja.wikipedia.org/wiki/鶴田加茂 "wikilink") (2012年 - 2013年)
+  - [てにをは](https://ja.wikipedia.org/wiki/てにをは_\(ミュージシャン\) "wikilink") (2013年 - 2016年)
   - [照屋実穂](https://ja.wikipedia.org/wiki/照屋実穂 "wikilink") (2006年 - 2007年)
 
 #### な〜わ行
@@ -149,11 +153,12 @@
   - [NICOTINE](../Page/NICOTINE.md "wikilink") (2005年 - 2007年)（ユニバーサルミュージックに移籍）
   - [THE NEUTRAL](../Page/THE_NEUTRAL.md "wikilink") (2005年)
   - [ニューロティカ](../Page/ニューロティカ.md "wikilink") (2005年)
-  - [Neru](https://ja.wikipedia.org/wiki/Neru "wikilink") (2015年)
   - [heidi.](https://ja.wikipedia.org/wiki/heidi. "wikilink") (2010年 - 2011年)（インディーズレーベル0 market.に移籍）
   - [ハヤシケイ](https://ja.wikipedia.org/wiki/ハヤシケイ "wikilink") (2013年)
   - [THE PAN](https://ja.wikipedia.org/wiki/THE_PAN "wikilink") (2004年)
   - [バンバンバザール](https://ja.wikipedia.org/wiki/バンバンバザール "wikilink") (2008年)（HOME WORK RECORDSに移籍）
+  - [binaria](https://ja.wikipedia.org/wiki/binaria "wikilink") (2016年)
+  - [日向電工](https://ja.wikipedia.org/wiki/日向電工 "wikilink") (2017年)
   - [VADER](https://ja.wikipedia.org/wiki/VADER "wikilink") (2004年 - 2007年)
   - [フェイP](https://ja.wikipedia.org/wiki/フェイP "wikilink") (2013年)
   - [FULL MONTY](../Page/FULL_MONTY.md "wikilink") (2004年 - 2008年)
@@ -284,7 +289,7 @@
   - [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink") - [電撃文庫](../Page/電撃文庫.md "wikilink")作品のアニメ化の大半を手掛けている。
   - [フィフスアベニュー](../Page/フィフスアベニュー.md "wikilink")
   - [マーベラス](../Page/マーベラス_\(企業\).md "wikilink") - 一部のみ。大半がポニーキャニオン、ソニー・ミュージックマーケティングが販売委託元。
-  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") - 2017年秋より、CD/DVD等のパッケージ商品の小売販売・流通業務を[ソニー・ミュージックマーケティング](../Page/ソニー・ミュージックマーケティング.md "wikilink")へ委託する事を発表した\[9\]。
+  - [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") - 2017年秋より、CD/DVD等のパッケージ商品の小売販売・流通業務を[ソニー・ミュージックマーケティング](../Page/ソニー・ミュージックマーケティング.md "wikilink")へ委託する事を発表した\[11\]。
   - [ワーナー ブラザース ジャパン](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")
   - [ソニー・ミュージックソリューションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックソリューションズ "wikilink") - 旧ソニー・ミュージックディストリビューション。旧ジェネオン制作のアニメの楽曲販売委託
   - [コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink") - 一部のみ。大半はソニー・ミュージックマーケティング（SMM、前述）が販売委託元。
@@ -340,7 +345,7 @@
   - [小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
       - [ORUMOK RECORDS](../Page/ORUMOK_RECORDS.md "wikilink") - かつて小室がプロデュースした音楽レーベル。パイオニアLDC（※CI・VI導入前）時代に存在。
       - [factoryorumok](https://ja.wikipedia.org/wiki/factoryorumok "wikilink") - メディアファクトリーとの共同事業。上記と同じく小室プロデュースである、かつての音楽レーベル。
-  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink") - 1991年8月2日に設立されたビーイング初の直営レコード会社。1995年6月に販売元がJ-DISCに変わるまでの同社の販売元（社名はパイオニアLDC）だった。設立時の社名はb-jin。その後法人は2003年に[B-Gram RECORDSに吸収合併された](../Page/B-Gram_RECORDS.md "wikilink")。
+  - [ZAIN RECORDS](../Page/ZAIN_RECORDS.md "wikilink") - 1991年4月16日に設立されたビーイング初の直営レコード会社。1995年5月に販売元がJ-DISCに変わるまで販売受託を行なっていた。設立時の社名はb-jin。その後法人は2003年に[B-Gram RECORDSに吸収合併された](../Page/B-Gram_RECORDS.md "wikilink")。
   - [キュー・テック](../Page/キュー・テック.md "wikilink") - パイオニアLDCに社名変更した際、レーザーディスク株式会社内にあった映像ポストプロダクション部門が分離独立して発足。
   - [ソニー・ミュージックソリューションズ](https://ja.wikipedia.org/wiki/ソニー・ミュージックソリューションズ "wikilink") - 公式オンラインショップ「あにばーさる」を運営。
 
@@ -371,9 +376,11 @@
 1.  その後、同社の家庭用AV事業は機能子会社の「パイオニアホームエレクトロニクス株式会社」への移管を経て、[2015年](../Page/2015年.md "wikilink")3月より「[オンキヨー](../Page/オンキヨー.md "wikilink")株式会社」の機能子会社の「[オンキヨー&パイオニア](https://ja.wikipedia.org/wiki/オンキヨー&パイオニア "wikilink")株式会社」に再び移管された。
 2.  [規格品番](../Page/規格品番.md "wikilink")は**GN**（GeNeon）が引き続き使われている。
 3.
-4.
-5.
+4.  1990年3月までは[ビクター音楽産業が販売受託及び製造を行なっていた](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")。ビクター音産が販売していた旧譜作品においては、販売元表記の変更シールを貼付して出荷されていた。
+5.  1995年に販売元が[J-DISCへ移管された際に](../Page/J-DISC_Being.md "wikilink")、パイオニアLDCが資本を引き揚げビーイング100%出資の会社となる。
 6.
-7.  2011年8月1日付でI'veから独立、同時に[ワーナー・ホーム・ビデオへ移籍していたが](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、2018年2月3日にNBCユニバーサルへの復帰を発表した。
-8.  ただし彼女の場合は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（当時の[キティレコード](https://ja.wikipedia.org/wiki/マーキュリー・レコード#マーキュリー・ミュージックエンタテインメント "wikilink")）を経ての一時的移籍ということになっていたため、彼女の歌手デビューの契機でもある[『エヴァンゲリオン』](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")[新劇場版プロジェクト始動の際に古巣の](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")[キング](../Page/キングレコード.md "wikilink")（スターチャイルド）へ再移籍を表明。
-9.
+7.
+8.
+9.  2011年8月1日付でI'veから独立、同時に[ワーナー・ホーム・ビデオへ移籍していたが](https://ja.wikipedia.org/wiki/ワーナー_ブラザース_ジャパン "wikilink")、2018年2月3日にNBCユニバーサルへの復帰を発表した。
+10. ただし彼女の場合は[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")（当時の[キティレコード](https://ja.wikipedia.org/wiki/マーキュリー・レコード#マーキュリー・ミュージックエンタテインメント "wikilink")）を経ての一時的移籍ということになっていたため、彼女の歌手デビューの契機でもある[『エヴァンゲリオン』](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")[新劇場版プロジェクト始動の際に古巣の](../Page/ヱヴァンゲリヲン新劇場版.md "wikilink")[キング](../Page/キングレコード.md "wikilink")（スターチャイルド）へ再移籍を表明。
+11.

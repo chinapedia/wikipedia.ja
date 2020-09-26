@@ -395,6 +395,7 @@
 
   -
   -
+  -
   - [Yahoo\!ニュース テレ東NEWS](https://news.yahoo.co.jp/media/tvtnews)
 
 [Category:1982年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1982年のテレビ番組_\(日本\) "wikilink") [Category:TXN](https://ja.wikipedia.org/wiki/Category:TXN "wikilink") [Category:TXN番組](https://ja.wikipedia.org/wiki/Category:TXN番組 "wikilink") [Category:テレビ東京](https://ja.wikipedia.org/wiki/Category:テレビ東京 "wikilink") [Category:テレビ東京のミニ番組](https://ja.wikipedia.org/wiki/Category:テレビ東京のミニ番組 "wikilink")

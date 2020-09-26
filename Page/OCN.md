@@ -126,15 +126,15 @@ IP電話OCNドットホンに対応している。
     2011年1月25日現在、既読時のメールヘッダーにStatus:ROがつかないため、このヘッダを用いたフィルタリングができなかったり、第3者による盗聴に気付きにくい。
 
   - ホームページ作成
-    10MBまで無料でホームページの開設が可能。ディスク容量追加の場合は有料となる。合わせて[ブログ](../Page/ブログ.md "wikilink")も無料で作成が可能となる。サービス名はPageOn、既に提供を終了している。
+    10MBまで無料でホームページの開設が可能。ディスク容量追加の場合は有料となる。合わせて[ブログ](../Page/ブログ.md "wikilink")も無料で作成が可能となる。サービス名は[PageOn](https://ja.wikipedia.org/wiki/PageOn "wikilink")、既に提供を終了している。
 
   - ブログ
 
-サービス名はブログ人、こちらも提供終了。
+サービス名は[ブログ人](https://ja.wikipedia.org/wiki/ブログ人 "wikilink")、こちらも提供終了。
 
   - SNS
 
-サービス名はOCNcafe、こちらも提供終了。
+サービス名は[OCNcafe](https://ja.wikipedia.org/wiki/OCNcafe "wikilink")・[OCNフォトフレンド](https://ja.wikipedia.org/wiki/OCNフォトフレンド "wikilink")、こちらも提供終了。
 
 ### IP電話
 
@@ -148,8 +148,8 @@ IP電話OCNドットホンに対応している。
   - [ネットニュース](../Page/ネットニュース.md "wikilink")（2009年1月サービス提供終了）
   - [緊急地震速報](../Page/緊急地震速報.md "wikilink") フレッツタイプ
   - [ローミング](../Page/ローミング.md "wikilink")サービス
-  - OCNシアター　[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")サービス（2008年3月[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")へ統合されサービス提供終了）
-  - OCNのテクニカルサポート 「教えて\!OCN」 教えて\!gooとはまったく別物である。
+  - [OCNシアター](https://ja.wikipedia.org/wiki/OCNシアター "wikilink")　　[ビデオ・オン・デマンド](../Page/ビデオ・オン・デマンド.md "wikilink")サービス（2008年3月[ひかりTV](https://ja.wikipedia.org/wiki/ひかりTV "wikilink")へ統合されサービス提供終了）
+  - OCNのテクニカルサポート 「[教えて\!OCN](https://ja.wikipedia.org/wiki/教えて!OCN "wikilink")」 教えて\!gooとはまったく別物である。
 
 ## OCNポータルサイト
 

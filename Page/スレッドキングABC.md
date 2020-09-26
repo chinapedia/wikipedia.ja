@@ -63,7 +63,7 @@ ABCラジオの日曜深夜の人気番組「[誠のサイキック青年団](ht
   - [トゥームレイダー](../Page/トゥームレイダー.md "wikilink")
   - DEAD OR ALIVE
   - [少林サッカー](https://ja.wikipedia.org/wiki/少林サッカー "wikilink")
-  - [チャーリーズ・エンジェル](https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_\(映画\) "wikilink")
+  - [チャーリーズ・エンジェル](https://ja.wikipedia.org/wiki/チャーリーズ・エンジェル_\(2000年の映画\) "wikilink")
   - 忍者vs少林寺
   - [プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink") 「通勤ラッシュを退治せよ」
   - [トリプルX](https://ja.wikipedia.org/wiki/トリプルX "wikilink")
@@ -122,7 +122,7 @@ ABCラジオの日曜深夜の人気番組「[誠のサイキック青年団](ht
   - 45：DSソフト「レイトン教授と悪魔の箱」or PSPソフト「モンスターハンターポータブル2ndG」
   - 75：PS3ソフト「龍が如く見参！」
   - 100：ポータブル[MDプレーヤー](../Page/ミニディスク.md "wikilink")
-  - 150：[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - 150：[PlayStation 2](../Page/PlayStation_2.md "wikilink")
   - 150：[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")
   - 200：[iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") nano(2G)
   - 200：ニンテンドーDS Lite or [PSP](../Page/PlayStation_Portable.md "wikilink") or [iPod](https://ja.wikipedia.org/wiki/iPod "wikilink") nano(4G)

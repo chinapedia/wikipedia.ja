@@ -184,47 +184,53 @@
 各種スポーツ中継</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/池野健" title="wikilink">池野健</a></p></td>
+<td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
+<td><p>佐賀県のニュース<br />
+各種スポーツ中継</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/井原陽介.md" title="wikilink">井原陽介</a></p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>佐賀県のニュース</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/竹野大輝" title="wikilink">竹野大輝</a></p></td>
 <td><p><a href="../Page/NHK富山放送局.md" title="wikilink">富山</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>保田一成</p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>田中愛理</p></td>
 <td></td>
 <td><p>ニュースただいま佐賀<br />
 （キャスター）</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>時松仁美</p></td>
 <td></td>
 <td><p>ニュースただいま佐賀</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>山﨑優里</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>石掛貴人</p></td>
 <td></td>
 <td><p>ニュースただいま佐賀</p></td>

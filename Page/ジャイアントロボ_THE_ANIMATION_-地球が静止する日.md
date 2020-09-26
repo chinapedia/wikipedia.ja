@@ -871,7 +871,7 @@
 ### ゲーム
 
   - ジャイアントロボ THE ANIMATION 地球が静止する日
-      - 対応機種：[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") ジャンル：[対戦アクション](../Page/アクションゲーム.md "wikilink") 発売：[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")
+      - 対応機種：[PlayStation 2](../Page/PlayStation_2.md "wikilink") ジャンル：[対戦アクション](../Page/アクションゲーム.md "wikilink") 発売：[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")
       - 発売日：[2004年](../Page/2004年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") 小売価格：6,090円（[消費税](../Page/消費税.md "wikilink")込み）
       - リマスター版DVDとほぼ同時期に発売されたもので、DVDの第4巻にも[プロモーションビデオが収録されているが](../Page/ミュージック・ビデオ.md "wikilink")、その映像の[ナレーション](https://ja.wikipedia.org/wiki/ナレーション "wikilink")で大作の名前を「風間大作」と間違えている。
   - [スーパーロボット大戦シリーズ](../Page/スーパーロボット大戦シリーズ.md "wikilink")参戦作

@@ -30,6 +30,7 @@
 
 ## Mt
 
+  - [Mt'](../Page/Mt'.md "wikilink")は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽家](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[編曲家](../Page/編曲家.md "wikilink")
   - [マイトネリウム](../Page/マイトネリウム.md "wikilink")の元素記号
   - [メガトン](https://ja.wikipedia.org/wiki/メガトン "wikilink") = 100万[トン](../Page/トン.md "wikilink")
   - [メガTNTトン](https://ja.wikipedia.org/wiki/核威力 "wikilink") - [核爆弾](../Page/核爆弾.md "wikilink")等の威力

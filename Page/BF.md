@@ -31,7 +31,7 @@
   - [国際標準化機構](https://ja.wikipedia.org/wiki/国際標準化機構 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1](../Page/ISO_3166-1.md "wikilink") alpha-2）で、**[ブルキナファソ](../Page/ブルキナファソ.md "wikilink")**を示す。
   - [バイエルン航空機製造](https://ja.wikipedia.org/wiki/バイエルン航空機製造 "wikilink")株式会社 (Bayerische Flugzeug-Werke A.G.) が設計した航空機であることを示す符号。
   - [レガシィツーリングワゴン初代](../Page/スバル・レガシィ.md "wikilink")（1989年2月-1993年10月）の型番。
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")([呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")：JO**BF**)
+  - [熊本放送](../Page/熊本放送.md "wikilink")([呼出符号](https://ja.wikipedia.org/wiki/呼出符号 "wikilink")：JO**BF**)
 
 ## 他の記号等を付して用いるもの
 

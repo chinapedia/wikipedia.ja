@@ -222,8 +222,7 @@
 
 ## 外部リンク
 
-  - （英語）
-
+  -
 [Category:1988年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1988年のアーケードゲーム "wikilink") [Category:PCエンジン用ソフト](https://ja.wikipedia.org/wiki/Category:PCエンジン用ソフト "wikilink") [Category:セガのゲームソフト](https://ja.wikipedia.org/wiki/Category:セガのゲームソフト "wikilink") [Category:タイトーのアーケードゲーム](https://ja.wikipedia.org/wiki/Category:タイトーのアーケードゲーム "wikilink") [Category:縦スクロールシューティングゲーム](https://ja.wikipedia.org/wiki/Category:縦スクロールシューティングゲーム "wikilink") [Category:東亜プランのゲームソフト](https://ja.wikipedia.org/wiki/Category:東亜プランのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:メガドライブ用ソフト](https://ja.wikipedia.org/wiki/Category:メガドライブ用ソフト "wikilink")
 
 1.  [株式会社QBQ](http://qbq.jp/)編　『懐かしのメガドライブ 蘇れメガドライバー \!\!』マイウェイ出版発行、2018年。ISBN 9784865118704 p26-27

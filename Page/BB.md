@@ -34,6 +34,7 @@
       - [ブリジット・バルドー](../Page/ブリジット・バルドー.md "wikilink") - [女優](../Page/俳優.md "wikilink")。「ベベ」と呼ばれる。
       - [ボビー・ブラウン](../Page/ボビー・ブラウン.md "wikilink") - [歌手](../Page/歌手.md "wikilink")
   - 企業・団体名
+      - [ブルース・ブラザーズ (曖昧さ回避)](https://ja.wikipedia.org/wiki/ブルース・ブラザーズ_\(曖昧さ回避\) "wikilink")
       - [B.B.クィーンズ](../Page/B.B.クィーンズ.md "wikilink") - [坪倉唯子](../Page/坪倉唯子.md "wikilink")、[近藤房之助](../Page/近藤房之助.md "wikilink")らで構成される[音楽ユニット](../Page/音楽ユニット.md "wikilink")。
       - [BIGBANG](https://ja.wikipedia.org/wiki/BIGBANG "wikilink") - 韓国5人組アーティスト。
       - [Yahoo\!BB](https://ja.wikipedia.org/wiki/Yahoo!BB "wikilink") - [ソフトバンクBB](../Page/ソフトバンクBB.md "wikilink")が運営する[インターネットプロバイダ](https://ja.wikipedia.org/wiki/インターネットプロバイダ "wikilink")。

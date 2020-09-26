@@ -3,7 +3,7 @@
 
 **立花裕人のMORNING FREEWAY**（たちばなひろとのモーニングフリーウェイ）は、[TOKYO FMで](../Page/エフエム東京.md "wikilink")[月曜日](../Page/月曜日.md "wikilink")から[金曜日](../Page/金曜日.md "wikilink")の6:00 - 9:00に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")をもって放送終了。同10月からは番組に出演していた七尾藍佳が引き続き同枠で「[6Sense](../Page/6Sense.md "wikilink")」を担当している。
 
-前身は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")開始の「越智啓斗のMORNING FREEWAY」。[ケビン・クローン](../Page/ケビン・クローン.md "wikilink")が**越智 啓斗**（おち けいと）のマイクネームでパーソナリティを務めていた。この頃はアシスタント役のサブパーソナリティがおらず、ケビンが単独で進行していた。また、6時と7時のオープニングには『見えるラジオ』の宣伝を兼ねて[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")が担当したTOKYO FMのジングルが流されていた。ただし、TOKYO FM以外の地域にもネットしていたため「TOKYO FM」のフレーズを外したものが使われていた。[見えるラジオが誕生した年であり](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")「見えるラジオと音声番組の連動」を目指した実験的朝番組であったが、ケビンは半年で降板した。
+前身は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月3日](../Page/4月3日.md "wikilink")開始の「越智啓斗のMORNING FREEWAY」。[ケビン・クローン](../Page/ケビン・クローン.md "wikilink")が**越智 啓斗**（おち けいと）のマイクネームでパーソナリティを務めていた。この頃はアシスタント役のサブパーソナリティがおらず、ケビンが単独で進行していた。また、6時と7時のオープニングには『見えるラジオ』の宣伝を兼ねて[ピチカート・ファイヴ](https://ja.wikipedia.org/wiki/ピチカート・ファイヴ "wikilink")が担当したTOKYO FMのジングルが流されていた。ただし、TOKYO FM以外の地域にもネットしていたため「TOKYO FM」のフレーズを外したものが使われていた。[見えるラジオが誕生した年であり](https://ja.wikipedia.org/wiki/文字多重放送 "wikilink")「見えるラジオと音声番組の連動」を目指した実験的朝番組であったが、ケビンは半年で降板した。
 
 ## 番組概要
 
@@ -63,6 +63,6 @@
   -
     URLはMORNING FREEWAYのままだが、現在はこのページにアクセスすると[6Sense](../Page/6Sense.md "wikilink")のページにジャンプする。
 
-[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink")
+[Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:1995年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のラジオ番組_\(日本\) "wikilink")
 
 1.  のちに土曜早朝に一時期放送されていた「[サタデーキックオフ](https://ja.wikipedia.org/wiki/サタデーキックオフ "wikilink")」を[関東地方](https://ja.wikipedia.org/wiki/関東地方 "wikilink")及び隣接県へ[ブロックネット](../Page/ブロックネット.md "wikilink")化するにあたっては、K-MIXが平日6時台についてTOKYO FMからネット受けしていたことがきっかけのひとつとなったとも言われている（関東においてはTOKYO FMを除けば唯一のAラインネット局であったことも関係していると思われる）。

@@ -1,7 +1,7 @@
 > この記事は[ウルトラマンUSA](https://ja.wikipedia.org/wiki/ウルトラマンUSA)から翻訳されています。
 
 
-『**ウルトラマンUSA**』（ウルトラマンユーエスエー）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハンナ・バーベラ・プロダクション](../Page/ハンナ・バーベラ・プロダクション.md "wikilink")と日本の[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")が製作した[アニメ](../Page/アニメ.md "wikilink")作品。アニメーションの実制作は[スタジオ・ザイン](https://ja.wikipedia.org/wiki/スタジオ・ザイン "wikilink")と[葦プロダクション](../Page/葦プロダクション.md "wikilink")が請け負った。英題『*ULTRAMAN : THE ADVENTURE BEGINS*』。アメリカでは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月に[テレビ映画](../Page/テレビ映画.md "wikilink")として初放映され\[1\]、日本では「ウルトラマン大会（フェスティバル）」と題して、日本語吹き替え版が[1989年](../Page/1989年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に劇場公開された。同時上映は『[ウルトラマン 恐怖のルート87](https://ja.wikipedia.org/wiki/ウルトラマン#劇場版 "wikilink")』『[ウルトラマンA 大蟻超獣対ウルトラ兄弟](https://ja.wikipedia.org/wiki/ウルトラマンA#劇場版 "wikilink")』『[ウルトラマンキッズ](../Page/ウルトラマンキッズ.md "wikilink")』。上映時間は78分。
+『**ウルトラマンUSA**』（ウルトラマンユーエスエー）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ハンナ・バーベラ・プロダクション](../Page/ハンナ・バーベラ・プロダクション.md "wikilink")と日本の[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")が提携して製作した長編[アニメ](../Page/アニメ.md "wikilink")作品。アニメーションの実制作は[スタジオ・ザイン](https://ja.wikipedia.org/wiki/スタジオ・ザイン "wikilink")と[葦プロダクション](../Page/葦プロダクション.md "wikilink")が請け負った。英題『*ULTRAMAN : THE ADVENTURE BEGINS*』。アメリカでは[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月に[テレビ映画](../Page/テレビ映画.md "wikilink")として初放映され\[1\]、日本では「ウルトラマン大会（フェスティバル）」のメインプログラムとして、日本語吹き替え版が[1989年](../Page/1989年.md "wikilink")[4月28日](../Page/4月28日.md "wikilink")に劇場公開された。同時上映は『[ウルトラマン 恐怖のルート87](https://ja.wikipedia.org/wiki/ウルトラマン#劇場版 "wikilink")』『[ウルトラマンA 大蟻超獣対ウルトラ兄弟](https://ja.wikipedia.org/wiki/ウルトラマンA#劇場版 "wikilink")』『[ウルトラマンキッズ](../Page/ウルトラマンキッズ.md "wikilink")』。上映時間は78分。
 
 ## 概要
 
@@ -267,7 +267,7 @@
 
 ## 客演作品
 
-本作の主役チーム3人がすべて実写で客演したウルトラシリーズ作品。3人のスーツは、『[ウルトラマンネオス](../Page/ウルトラマンネオス.md "wikilink")』のパイロット版製作の際にウルトラ戦士全員集合ビジュアルを撮影するため、制作された。
+本作の主役チーム3人がすべて実写で客演したウルトラシリーズ作品。3人のスーツは、『[ウルトラマンネオス](../Page/ウルトラマンネオス.md "wikilink")』のパイロット版製作の際にウルトラ戦士全員集合ビジュアルを撮影するため、制作され、1995年、東宝ビルト特写会にてスチール撮影がされた。
 
   - 『[新世紀ウルトラマン伝説](../Page/新世紀ウルトラマン伝説.md "wikilink")』
     他のウルトラ戦士と共に天空魔と戦った。
@@ -291,6 +291,7 @@
 
 ## 参考文献
 
+  -
   -
   -
   -

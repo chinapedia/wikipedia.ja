@@ -52,7 +52,7 @@
 
 ## 外部リンク
 
-  - [桂枝三郎HP内「Mr.ボールドさん、さようなら」](http://web.archive.org/web/20071007224734/http://www.mars.sannet.ne.jp/edasaburou/boorudo.htm) - 閉鎖。（2007年10月7日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [桂枝三郎HP内「Mr.ボールドさん、さようなら」](https://web.archive.org/web/20071007224734/http://www.mars.sannet.ne.jp/edasaburou/boorudo.htm) - 閉鎖。（2007年10月7日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:お笑い芸人](https://ja.wikipedia.org/wiki/Category:お笑い芸人 "wikilink") [Category:過去の吉本興業所属者](https://ja.wikipedia.org/wiki/Category:過去の吉本興業所属者 "wikilink") [Category:岡山県出身の人物](https://ja.wikipedia.org/wiki/Category:岡山県出身の人物 "wikilink") [Category:一輪車](https://ja.wikipedia.org/wiki/Category:一輪車 "wikilink") [Category:1942年生](https://ja.wikipedia.org/wiki/Category:1942年生 "wikilink") [Category:2003年没](https://ja.wikipedia.org/wiki/Category:2003年没 "wikilink")
 

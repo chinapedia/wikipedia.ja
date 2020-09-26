@@ -36,6 +36,7 @@
   - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（呼出符号：JOAF）
   - [近鉄22600系電車](https://ja.wikipedia.org/wiki/近鉄22600系電車 "wikilink")（4両編成）の電算記号(「Ace Four」の略)。
   - [AF (航空機)](https://ja.wikipedia.org/wiki/AF_\(航空機\) "wikilink") - アメリカ海軍が1950年代に運用した対潜哨戒機。
+  - [大日本帝国海軍](../Page/大日本帝国海軍.md "wikilink") - [ミッドウェー島](../Page/ミッドウェー島.md "wikilink")の[コードネーム](../Page/コードネーム.md "wikilink")
 
 ## フィクションのことがら
 

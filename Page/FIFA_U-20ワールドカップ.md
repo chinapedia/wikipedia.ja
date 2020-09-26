@@ -359,7 +359,7 @@
       - aet - [延長戦](../Page/延長戦.md "wikilink")終了時の結果
       - PK - [PK戦](../Page/PK戦.md "wikilink")による結果
 
-## 統計・記録
+## 統計
 
 ### 代表別通算成績
 

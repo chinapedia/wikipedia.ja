@@ -8,26 +8,37 @@
 ### Nintendo Switch
 
   - [蒼き雷霆ガンヴォルト ストライカーパック](https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト_爪 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - [いけにえと雪のセツナ](https://ja.wikipedia.org/wiki/いけにえと雪のセツナ "wikilink")（コンテンツアイコン：「犯罪」）
-  - ウルトラストリートファイターII ザ・ファイナルチャレンジャーズ（コンテンツアイコン：「セクシャル、暴力」）
+  - アトミクロップス
+  - [イース・オリジン](../Page/イース・オリジン.md "wikilink")　スペシャルエディション
+  - [いけにえと雪のセツナ](https://ja.wikipedia.org/wiki/いけにえと雪のセツナ "wikilink")（コンテンツアイコン：「犯罪」
+  - [インディヴィジブル　闇を祓う魂たち](../Page/インディヴィジブル_闇を祓う魂たち.md "wikilink")
+  - [ウルトラストリートファイターII ザ・ファイナルチャレンジャーズ](https://ja.wikipedia.org/wiki/ウルトラストリートファイターII_ザ・ファイナルチャレンジャーズ "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+  - [エアミッションズ：ハインド](https://ja.wikipedia.org/wiki/エアミッションズ：ハインド "wikilink")
   - [金色のコルダ オクターヴ](../Page/金色のコルダ.md "wikilink")（コンテンツアイコン：「恋愛」）
+  - [ケイデンス・オフ・ハイラル：クリプト・オブ・ネクロダンサー　Feat.ゼルダの伝説](https://ja.wikipedia.org/wiki/ケイデンス・オブ・ハイラル:_クリプト・オブ・ネクロダンサー_feat._ゼルダの伝説 "wikilink")
   - [幻影異聞録♯FE Encore](https://ja.wikipedia.org/wiki/幻影異聞録♯FE "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [シャドーバース　チャンピオンズバトル](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")
   - [シャンティ ヒーロー アルティメット・エディション](https://ja.wikipedia.org/wiki/シャンティ "wikilink"):ハーフ・ジーニー（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [真・三國無双7 Empires](https://ja.wikipedia.org/wiki/真・三國無双7#真・三國無双7_Empires "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [スーパーマリオ オデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオ_オデッセイ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
-  - スター・ウォーズ ピンボール（コンテンツアイコン：「暴力、犯罪」）
+  - [スター・ウォーズ ピンボール](https://ja.wikipedia.org/wiki/スター・ウォーズ_ピンボール "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [聖剣伝説コレクション](https://ja.wikipedia.org/wiki/聖剣伝説コレクション "wikilink")（コンテンツアイコン：「犯罪」）
   - [ゼルダの伝説シリーズ](../Page/ゼルダの伝説シリーズ.md "wikilink")
       - [ゼルダの伝説 ブレス オブ ザ ワイルド](https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
       - [ゼルダの伝説 夢をみる島](https://ja.wikipedia.org/wiki/ゼルダの伝説_夢をみる島 "wikilink")（コンテンツアイコン：「犯罪」）
       - [ゼルダ無双 ハイラルオールスターズ DX](https://ja.wikipedia.org/wiki/ゼルダ無双 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+  - WWE 2K　バトルグラウンド（コンテンツアイコン：「セクシャル、暴力」）
   - [テイルズ オブ ヴェスペリア REMASTER](https://ja.wikipedia.org/wiki/テイルズ_オブ_ヴェスペリア "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
-  - 東京2020オリンピック The Official Video Game（コンテンツアイコン：「セクシャル」）
+  - [東京2020オリンピック The Official Video Game](https://ja.wikipedia.org/wiki/東京2020オリンピック_The_Official_Video_Game "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [智代アフター～It\`s a wonderful　life～　CS　エディション](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")（コンテンツアイコン：「セクシャル、恋愛」）
   - ドラゴンクエストヒーローズI・II for Nintendo Switch（コンテンツアイコン：「セクシャル、暴力」）
   - [CaveStory+](../Page/洞窟物語.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ドラゴンボール ゼノバース2 for Nintendo Switch](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース2 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [ナムコットコレクション](../Page/ナムコットコレクション.md "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+  - [ネバーソング＆ピンストライプ](https://ja.wikipedia.org/wiki/ネバーソング＆ピンストライプ "wikilink")
+  - [ハードコア・メカ](https://ja.wikipedia.org/wiki/ハードコア・メカ "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [ファイアーエムブレム 風花雪月](https://ja.wikipedia.org/wiki/ファイアーエムブレム_風花雪月 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力、犯罪」）
+  - [ベアナックルⅣ](../Page/ベア・ナックルIV.md "wikilink")（コンテンツアイコン：「暴力」）
   - [魔界戦記ディスガイア5](https://ja.wikipedia.org/wiki/魔界戦記ディスガイア5 "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
 
 <!-- end list -->
@@ -155,7 +166,7 @@
       - [ファイアーエムブレム Echoes もうひとりの英雄王](https://ja.wikipedia.org/wiki/ファイアーエムブレム_Echoes_もうひとりの英雄王 "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力、犯罪」）
   - [Fate/kaleid liner プリズマ☆イリヤ](https://ja.wikipedia.org/wiki/Fate/kaleid_liner_プリズマ☆イリヤ "wikilink")（コンテンツアイコン：「セクシャル」）
   - [FabStyle](https://ja.wikipedia.org/wiki/FabStyle "wikilink")（コンテンツアイコン：「恋愛、セクシャル」）
-  - [プロジェクト クロスゾーン](https://ja.wikipedia.org/wiki/プロジェクト_クロスゾーン "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
+  - [PROJECT X ZONE](https://ja.wikipedia.org/wiki/PROJECT_X_ZONE "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [ペルソナQ シャドウ オブ ザ ラビリンス](https://ja.wikipedia.org/wiki/ペルソナQ_シャドウ_オブ_ザ_ラビリンス "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力、恐怖」）
   - [僕のヒーローアカデミア バトル・フォー・オール](https://ja.wikipedia.org/wiki/僕のヒーローアカデミア "wikilink")（コンテンツアイコン：「セクシャル」）
   - [マギシリーズ](https://ja.wikipedia.org/wiki/マギ_\(漫画\) "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -595,12 +606,17 @@
       - LEGO ムービー ザ・ゲーム（コンテンツアイコン：「暴力、犯罪」）
       - LEGO ワールド 目指せマスタービルダー（コンテンツアイコン：「暴力」）
       - LEGO DCスーパーヴィランズ（コンテンツアイコン：「暴力、犯罪」）
+  - ゴーストパレード
   - [真・三國無双7 with 猛将伝](https://ja.wikipedia.org/wiki/真・三國無双7_with_猛将伝 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [サモンナイト6 失われた境界たち](https://ja.wikipedia.org/wiki/サモンナイト6_失われた境界たち "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - [シャンティ ヒーロー アルティメット・エディション](https://ja.wikipedia.org/wiki/シャンティ "wikilink"):ハーフ・ジーニー（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [戦場のヴァルキュリア リマスター](../Page/戦場のヴァルキュリア.md "wikilink")（コンテンツアイコン：「恋愛、暴力、犯罪、言葉・その他」）
   - [スーパーロボット大戦OG ムーン・デュエラーズ](https://ja.wikipedia.org/wiki/スーパーロボット大戦OG_ムーン・デュエラーズ "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
+  - WWE 2K19 （コンテンツアイコン：「セクシャル、暴力」）　
+  - WWE 2K20（コンテンツアイコン：「セクシャル、暴力」）　
+  - WWE 2K バトルグラウンド（コンテンツアイコン「セクシャル、暴力」）
   - [超次次元ゲイム ネプテューヌ Re:Birth 1+](https://ja.wikipedia.org/wiki/超次元ゲイム_ネプテューヌ "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [デスカムトゥルー](../Page/デスカムトゥルー.md "wikilink")
   - [テイルズ オブ シリーズ](../Page/テイルズ_オブ_シリーズ.md "wikilink")
       - [テイルズ オブ ゼスティリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ゼスティリア "wikilink")（コンテンツアイコン：「セクシャル、暴力、言葉・その他」）
       - [テイルズ オブ ベルセリア](https://ja.wikipedia.org/wiki/テイルズ_オブ_ベルセリア "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
@@ -1373,7 +1389,7 @@
       - [鉄拳タッグトーナメント](../Page/鉄拳タッグトーナメント.md "wikilink")（PlayStation 2 the Best）
       - [鉄拳4](../Page/鉄拳4.md "wikilink")（PlayStation 2 the Best）
       - [鉄拳5](../Page/鉄拳5.md "wikilink")
-  - [デビルメイクライ2](https://ja.wikipedia.org/wiki/デビルメイクライ2 "wikilink")（コンテンツアイコン：「不明」） <small>\*[公式ポータルサイト](http://www.capcom.co.jp/devilmaycry/)では「C 15才以上対象」と記載。</small>
+  - [デビルメイクライ2](https://ja.wikipedia.org/wiki/デビルメイクライ2 "wikilink")（コンテンツアイコン：「不明」） <small>\*[公式ポータルサイト](http://www.capcom.co.jp/devilmaycry/) では「C 15才以上対象」と記載。</small>
   - [天外魔境III NAMIDA](../Page/天外魔境III_NAMIDA.md "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力」）
   - [天空断罪スケルターヘブン](../Page/天空断罪スケルターヘブン.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [桃華月憚 -光風の陵王-](https://ja.wikipedia.org/wiki/桃華月憚_-光風の陵王- "wikilink")（コンテンツアイコン：「恋愛、セクシャル、暴力、恐怖」）
@@ -1614,7 +1630,7 @@
       - リアルバウト餓狼伝説スペシャル DOMINATED MIND（コンテンツアイコン：「セクシャル、暴力」）
       - [餓狼伝説 WILD AMBITION](../Page/餓狼伝説_WILD_AMBITION.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ガンパレード・マーチ](../Page/高機動幻想ガンパレード・マーチ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、犯罪」）
-  - [ギャラクシーファイト_ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
+  - [ギャラクシーファイト ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [球転界](https://ja.wikipedia.org/wiki/球転界 "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル」）
   - [キラーバス](https://ja.wikipedia.org/wiki/キラーバス "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「暴力、恐怖」）
   - [GUILTY GEAR 復刻版](../Page/GUILTY_GEAR.md "wikilink")（ゲームアーカイブス）（コンテンツアイコン：「セクシャル、暴力」）
@@ -2095,7 +2111,7 @@ NEOGEO
       - メタルスラッグ3
       - メタルスラッグ4
       - メタルスラッグ5
-  - [ギャラクシーファイト_ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")（コンテンツアイコン：「セクシャル」）
+  - [ギャラクシーファイト ユニバーサル・ウォーリアーズ](../Page/ギャラクシーファイト_ユニバーサル・ウォーリアーズ.md "wikilink")（コンテンツアイコン：「セクシャル」）
   - [ニンジャコンバット](https://ja.wikipedia.org/wiki/ニンジャコンバット "wikilink")（コンテンツアイコン：「暴力」）
   - [ニンジャコマンドー](https://ja.wikipedia.org/wiki/ニンジャコマンドー "wikilink")（コンテンツアイコン：「暴力」）
   - [バーニングファイト](https://ja.wikipedia.org/wiki/バーニングファイト "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）

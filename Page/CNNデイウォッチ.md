@@ -51,7 +51,7 @@
 <li><a href="../Page/伊藤信太郎.md" title="wikilink">伊藤信太郎</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/平野陽子" title="wikilink">平野陽子</a>|</li>
 <li><a href="../Page/首藤信彦.md" title="wikilink">首藤信彦</a></li>
-<li><a href="https://ja.wikipedia.org/wiki/長窪正寛" title="wikilink">長窪正寛</a> - 1992年時点では日曜日担当</li>
+<li><a href="https://ja.wikipedia.org/wiki/長窪正寛" title="wikilink">長窪正寛</a> - 1992年時点では日曜日担当[3]。</li>
 <li><a href="https://ja.wikipedia.org/wiki/菊池眉円美" title="wikilink">菊池眉円美</a> - 1992年時点では日曜日担当</li>
 <li><a href="https://ja.wikipedia.org/wiki/三崎由紀" title="wikilink">三崎由紀</a></li>
 <li>三枝成章（後に<a href="../Page/三枝成彰.md" title="wikilink">三枝成彰</a>）</li>
@@ -62,7 +62,7 @@
 <li><a href="../Page/安藤和津.md" title="wikilink">安藤和津</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/清水國明" title="wikilink">清水國明</a> - 1988年4月時点では土曜日担当</li>
 <li><a href="https://ja.wikipedia.org/wiki/坂本明美" title="wikilink">坂本明美</a> - 男性、1991年時点では日曜日担当</li>
-<li><a href="../Page/東海林良.md" title="wikilink">東海林良</a>[3]</li>
+<li><a href="../Page/東海林良.md" title="wikilink">東海林良</a>[4]</li>
 <li><a href="../Page/山上万恵美.md" title="wikilink">山上万恵美</a></li>
 <li><a href="../Page/秋尾沙戸子.md" title="wikilink">秋尾沙戸子</a></li>
 <li><a href="../Page/中里雅子.md" title="wikilink">中里雅子</a></li>
@@ -71,7 +71,7 @@
 </tbody>
 </table>
 
-この他、ゲストが編集長兼キャスターを務める形で出演した。1984年7月14日放送では[ビートたけし](../Page/ビートたけし.md "wikilink")、土曜日以外では1984年10月14日放送では[嵐山光三郎](../Page/嵐山光三郎.md "wikilink")、1985年3月13日放送では[永六輔](../Page/永六輔.md "wikilink")が出演した\[4\]。
+この他、タレントや文化人のゲストが編集長兼キャスターを務める形で出演した。1984年7月14日放送では[ビートたけし](../Page/ビートたけし.md "wikilink")、土曜日以外では1984年10月14日放送では[嵐山光三郎](../Page/嵐山光三郎.md "wikilink")、1985年3月13日放送では[永六輔](../Page/永六輔.md "wikilink")が出演した\[5\]。
 
 ## 放送時間
 
@@ -99,7 +99,7 @@
 ## 番組雑記・エピソード
 
   - 初代プロデューサーは[長英太郎](https://ja.wikipedia.org/wiki/長英太郎 "wikilink")。長は[ワシントン支局長時代](../Page/ワシントンD.C..md "wikilink")、日本に初めて[CNN](https://ja.wikipedia.org/wiki/CNN "wikilink")を紹介した。
-  - 本番組を含めた「CNN関連番組群」は、当初JCTVが制作の主導権を持っていたこともあり、番組の制作スタジオもJCTV社内に設けられることとなった\[5\]。このオープンスタジオは1987年10月の『[CNNヘッドライン](../Page/CNNヘッドライン_\(テレビ朝日\).md "wikilink")』開始に伴い、運用開始後初めてとなる大幅なセットチェンジとフロアレイアウトの変更が行われた後、1988年10月改編をメドとして、当時の[テレビ朝日アーク放送センター](../Page/テレビ朝日アーク放送センター.md "wikilink")1階にあったNスタジオへ集約された（同様に「CNN関連番組群」の制作フロアもJCTV社内からアーク放送センター地下1階へ移動している ）。
+  - 本番組を含めた「CNN関連番組群」は、当初JCTVが制作の主導権を持っていたこともあり、番組の制作スタジオもJCTV社内に設けられることとなった\[6\]。このオープンスタジオは1987年10月の『[CNNヘッドライン](../Page/CNNヘッドライン_\(テレビ朝日\).md "wikilink")』開始に伴い、運用開始後初めてとなる大幅なセットチェンジとフロアレイアウトの変更が行われた後、1988年10月改編をメドとして、当時の[テレビ朝日アーク放送センター](../Page/テレビ朝日アーク放送センター.md "wikilink")1階にあったNスタジオへ集約された（同様に「CNN関連番組群」の制作フロアもJCTV社内からアーク放送センター地下1階へ移動している ）。
   - 番組開始当初の関東地区における筆頭スポンサーは[三洋証券](../Page/三洋証券.md "wikilink")。当時は証券会社が深夜番組へ提供するケースが皆無に近かったことから、証券業界では注目を集めた。
 
 ## 参考文献
@@ -112,6 +112,7 @@
 
 1.  久和ひとみ　『私はニュースキャスター』　岩波書店〈岩波ジュニア新書〉、1989年、57頁から68頁。
 2.  1989年4月から半年間は、[TBSテレビ](../Page/TBSテレビ.md "wikilink")の夕方ニュース番組『[テレポート6](../Page/テレポートTBS6.md "wikilink")』キャスターを兼任。
-3.  [その他の作品歴](http://sound.jp/shoji/other.htm)
-4.  この他ピーコがオブザーバーという形で出演し、この日の放送のエンディングでは、永の親友である[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")が電話出演した。
-5.  JCTV社内には既にスタジオや副調整室などの設備が備わっていたものの、特にスタジオは「CNN関連番組群」専用とはできない事情もあり、副調整室は既存の設備を使用するもスタジオについてはCNN制作フロア内に**オープンスタジオ**を設置することとなった。
+3.  他のキャスターが「こんばんは、○○（キャスター名）です」というシンプルな挨拶なのに対して、長窪は決まって「**お待たせしました\!日曜夜の『CNNデイウォッチ』の時間がやって参りました。**」という前口上を挨拶としていた特徴がある。
+4.  [その他の作品歴](http://sound.jp/shoji/other.htm)
+5.  この他ピーコがオブザーバーという形で出演し、この日の放送のエンディングでは、永の親友である[黒柳徹子](https://ja.wikipedia.org/wiki/黒柳徹子 "wikilink")が電話出演した。
+6.  JCTV社内には既にスタジオや副調整室などの設備が備わっていたものの、特にスタジオは「CNN関連番組群」専用とはできない事情もあり、副調整室は既存の設備を使用するもスタジオについてはCNN制作フロア内に**オープンスタジオ**を設置することとなった。

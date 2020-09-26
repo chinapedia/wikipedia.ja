@@ -140,7 +140,7 @@ MBSラジオにおける初めての競馬中継は、[1952年](../Page/1952年.
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）</p></td>
 <td><p>15:25 - 15:55</p></td>
 <td><p>GIレース開催日のみ放送。</p></td>
 </tr>

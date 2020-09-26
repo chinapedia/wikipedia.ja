@@ -46,7 +46,7 @@
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")：月曜 19:00 - 19:30\[22\]
   - [長崎放送](../Page/長崎放送.md "wikilink")：月曜 19:00 - 19:30\[23\]
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")：月曜 19:00 - 19:30\[24\]
+  - [熊本放送](../Page/熊本放送.md "wikilink")：月曜 19:00 - 19:30\[24\]
   - [大分放送](../Page/大分放送.md "wikilink")：月曜 19:00 - 19:30\[25\]\[26\]
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")：月曜 19:00 - 19:30\[27\]
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")：月曜 19:00 - 19:30\[28\]

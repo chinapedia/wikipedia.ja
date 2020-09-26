@@ -189,7 +189,7 @@ TOTOの創立100周年にあたる[2017年](../Page/2017年.md "wikilink")まで
   - [ギラヴァンツ北九州](../Page/ギラヴァンツ北九州.md "wikilink")
   - [天才バカボン](../Page/天才バカボン.md "wikilink") - [バカボンのパパ](../Page/バカボンのパパ.md "wikilink")の後輩にその名も「東洋陶器」というキャラクターが存在する。便器のようなアゴで目が「TOTO」になっている\[10\]。
   - [早川英里](https://ja.wikipedia.org/wiki/早川英里 "wikilink") - TOTO[陸上競技](../Page/陸上競技.md "wikilink")部に5年間（2012年4月～2017年3月）所属した、女子[長距離走](../Page/長距離走.md "wikilink")・[マラソン](../Page/マラソン.md "wikilink")元[選手](https://ja.wikipedia.org/wiki/選手 "wikilink")。[2014年仁川アジア大会](../Page/2014年アジア競技大会.md "wikilink")・女子マラソン日本代表
-  - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink") - [2019年](../Page/2019年.md "wikilink")にで開催される第9回大会のオフィシャルスポンサーを担当する。
+  - [ラグビーワールドカップ](../Page/ラグビーワールドカップ.md "wikilink") - [2019年](../Page/2019年.md "wikilink")にで開催された[第9回大会のオフィシャルスポンサーを担当した](../Page/ラグビーワールドカップ2019.md "wikilink")。
   - [ヒカシュー](../Page/ヒカシュー.md "wikilink") - 戸川純出演前のウォシュレットのCMでCMソングを担当
   - [幼児用便器](../Page/幼児用便器.md "wikilink")
 

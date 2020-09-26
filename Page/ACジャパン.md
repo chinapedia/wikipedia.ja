@@ -726,7 +726,7 @@ CMの出稿を自粛するのは企業側の都合による場合が多い。企
       - 2008年度の「追いかけてくる手」（大阪地域のみ）に出演。
   - [永井貴也](https://ja.wikipedia.org/wiki/永井貴也 "wikilink")（俳優）
       - 2008年度の「5秒でできる、思いやり」（中四国地域のみ）に出演。
-  - [川﨑宗則](https://ja.wikipedia.org/wiki/川﨑宗則 "wikilink")、[松田宣浩](https://ja.wikipedia.org/wiki/松田宣浩 "wikilink")、[山崎勝己](https://ja.wikipedia.org/wiki/山崎勝己 "wikilink")、[大場翔太](../Page/大場翔太.md "wikilink")（プロ野球選手）
+  - [川﨑宗則](../Page/川﨑宗則.md "wikilink")、[松田宣浩](https://ja.wikipedia.org/wiki/松田宣浩 "wikilink")、[山崎勝己](https://ja.wikipedia.org/wiki/山崎勝己 "wikilink")、[大場翔太](../Page/大場翔太.md "wikilink")（プロ野球選手）
       - 2008年度の「川﨑選手、キーパーになる。」（九州地域のみ）に出演。
   - [豊川悦司](../Page/豊川悦司.md "wikilink")（俳優）
       - 2008年度の「hope」（[国際連合世界食糧計画](../Page/国際連合世界食糧計画.md "wikilink")〔WFP〕の支援キャンペーン）でナレーションを担当。

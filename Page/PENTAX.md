@@ -133,7 +133,7 @@ PENTAXのカメラは、、[中判カメラ](../Page/中判カメラ.md "wikilin
 
 ### カメラ製品
 
-  - [PENTAXのカメラ製品一覧](https://ja.wikipedia.org/wiki/PENTAXのカメラ製品一覧 "wikilink")
+  - [PENTAXのカメラ製品一覧](../Page/PENTAXのカメラ製品一覧.md "wikilink")
       - [PENTAXの銀塩一眼レフカメラ製品一覧:35mm判 (ねじ込み式マウント)](../Page/PENTAXの銀塩一眼レフカメラ製品一覧:35mm判_\(ねじ込み式マウント\).md "wikilink")
       - [PENTAXの銀塩一眼レフカメラ製品一覧:35mm判 (KマウントMF機種)](../Page/PENTAXの銀塩一眼レフカメラ製品一覧:35mm判_\(KマウントMF機種\).md "wikilink")
       - [PENTAXの銀塩一眼レフカメラ製品一覧:35mm判 (KマウントAF機種)](https://ja.wikipedia.org/wiki/PENTAXの銀塩一眼レフカメラ製品一覧:35mm判_\(KマウントAF機種\) "wikilink")

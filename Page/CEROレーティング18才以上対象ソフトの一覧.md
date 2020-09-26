@@ -7,7 +7,7 @@
 
 この一覧においては、タイトル名の前に「<span style="color:#FF0000;">'''Z : **</span>」と表記した作品がZ区分、「<span style="color:#FF8000;">**D : '''</span>」と表記した作品をD区分として表示している。
 
-なお、新基準導入後に発売されたソフト（[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PlayStation 3の全タイトル](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、及び[Xbox 360](../Page/Xbox_360.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink") 、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation 2の一部のタイトル](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）は、ここでは割愛する。
+なお、新基準導入後に発売されたソフト（[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PlayStation 3の全タイトル](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、及び[Xbox 360](../Page/Xbox_360.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink") 、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[PlayStation 2の一部のタイトル](../Page/PlayStation_2.md "wikilink")）は、ここでは割愛する。
 
 ## 任天堂 ハード
 

@@ -489,6 +489,12 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/8月12日.md" title="wikilink">8月12日</a></p></td>
+<td><p><strong>ROCK ACADEMIA</strong></p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

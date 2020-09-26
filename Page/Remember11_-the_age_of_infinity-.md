@@ -6,7 +6,7 @@
 ## 歴史
 
   - Remember11 -the age of infinity-
-    [2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）版が発売。
+    [2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")（PS2）版が発売。
     [2005年](../Page/2005年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")、[サクセスより](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズでPS](../Page/SuperLiteシリーズ.md "wikilink")2版が発売。
   - infinity plus
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")、[サイバーフロント](../Page/サイバーフロント.md "wikilink")より、シリーズ3作に新作『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』を加えたPC版セットが発売。

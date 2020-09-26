@@ -79,6 +79,7 @@
   - [上沼・高田のクギズケ\!](https://ja.wikipedia.org/wiki/上沼・高田のクギズケ! "wikilink")（読売テレビ）- **不定期出演**
   - [水曜日のダウンタウン](https://ja.wikipedia.org/wiki/水曜日のダウンタウン "wikilink")（TBS系列）- **不定期出演**
   - [秘密のケンミンSHOW](https://ja.wikipedia.org/wiki/秘密のケンミンSHOW "wikilink")（読売テレビ）- **不定期出演**
+  - [満天☆青空レストラン](https://ja.wikipedia.org/wiki/満天☆青空レストラン "wikilink")（[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")系列）- **不定期出演**
   - [クイズ☆正解は一年後](https://ja.wikipedia.org/wiki/クイズ☆正解は一年後 "wikilink")（TBS系列）- **毎年出演**
 
 ※個人での出演はそれぞれ個人の記事参照。コンビでの出演のみ記載。
@@ -379,6 +380,7 @@
 ## 外部リンク
 
   - \[ 公式プロフィール\]
+  - [FUJIWARA超合キーン](https://www.youtube.com/channel/UCIqJDM2M8EVf7wpS4SzdyFw/featured) - 公式YouTubeチャンネル
 
 ## 脚注
 

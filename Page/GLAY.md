@@ -13,7 +13,7 @@
 
 ### バンド名の由来
 
-バンド名「GLAY」は、[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")の歌詞に由来しているなど諸説ある中\[10\]、白（[ポップス](../Page/ポップ・ミュージック.md "wikilink")）でも黒（[ロック](../Page/ロック_\(音楽\).md "wikilink")）でもない音楽ということでリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が名づけた[造語](../Page/造語.md "wikilink")であると言われている\[11\]。また、[HISASHI](../Page/HISASHI.md "wikilink")によると高校時代にTAKUROと雑誌「[宝島](../Page/宝島_\(雑誌\).md "wikilink")」などから[サブカルチャー](../Page/サブカルチャー.md "wikilink")な[バンドについての情報交換をしており](../Page/バンド_\(音楽\).md "wikilink")、「[KENZI TRIPS](https://ja.wikipedia.org/wiki/KENZI "wikilink")\&THE」などのメンバーであったJun Gray\[12\]がバンド名由来の1つになっていると述べている\[13\]。
+バンド名「GLAY」は、[BOØWY](../Page/BOØWY.md "wikilink")の歌詞に由来しているなど諸説ある中\[10\]、白（[ポップス](../Page/ポップ・ミュージック.md "wikilink")）でも黒（[ロック](../Page/ロック_\(音楽\).md "wikilink")）でもない音楽ということでリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が名づけた[造語](../Page/造語.md "wikilink")であると言われている\[11\]。また、[HISASHI](../Page/HISASHI.md "wikilink")によると高校時代にTAKUROと雑誌「[宝島](../Page/宝島_\(雑誌\).md "wikilink")」などから[サブカルチャー](../Page/サブカルチャー.md "wikilink")な[バンドについての情報交換をしており](../Page/バンド_\(音楽\).md "wikilink")、「[KENZI TRIPS](https://ja.wikipedia.org/wiki/KENZI "wikilink")\&THE」などのメンバーであったJun Gray\[12\]がバンド名由来の1つになっていると述べている\[13\]。
 
 ## メンバー
 
@@ -81,7 +81,7 @@ HISASHI以外全員、生まれも育ちも[北海道](https://ja.wikipedia.org/
 
 ## 音楽性
 
-GLAYのデビュー時は、いわゆる「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")」と呼ばれる[バンドのイメージであった](../Page/バンド_\(音楽\).md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[佐久間正英](../Page/佐久間正英.md "wikilink")によると、GLAYを最初に聴いた時は、自身がプロデュースしていた[UP-BEAT](../Page/UP-BEAT.md "wikilink")や[BOØWY](https://ja.wikipedia.org/wiki/BOØWY "wikilink")を混ぜた感じであり、特にBOØWYの影響を受けた世代のバンドであると述べている\[20\]。これまでに多くの曲をリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が書いているが、[TERU](../Page/TERU.md "wikilink")はTAKUROが作詞作曲に関していろんなジャンルにルーツがあることが他のバンドとの違いを生んでいると述べており\[21\]、GLAYは「ヴィジュアル系」枠を越えた人気を獲得するようになった\[22\]。[HISASHI](../Page/HISASHI.md "wikilink")によると、GLAYに対して自分と[JIRO](../Page/JIRO.md "wikilink")がある種の負荷を加えることで反発力が出てくるので、実験的な試みをやってきているとしている\[23\]。
+GLAYのデビュー時は、いわゆる「[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")」と呼ばれる[バンドのイメージであった](../Page/バンド_\(音楽\).md "wikilink")。[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[佐久間正英](../Page/佐久間正英.md "wikilink")によると、GLAYを最初に聴いた時は、自身がプロデュースしていた[UP-BEAT](../Page/UP-BEAT.md "wikilink")や[BOØWY](../Page/BOØWY.md "wikilink")を混ぜた感じであり、特にBOØWYの影響を受けた世代のバンドであると述べている\[20\]。これまでに多くの曲をリーダーの[TAKURO](../Page/TAKURO.md "wikilink")が書いているが、[TERU](../Page/TERU.md "wikilink")はTAKUROが作詞作曲に関していろんなジャンルにルーツがあることが他のバンドとの違いを生んでいると述べており\[21\]、GLAYは「ヴィジュアル系」枠を越えた人気を獲得するようになった\[22\]。[HISASHI](../Page/HISASHI.md "wikilink")によると、GLAYに対して自分と[JIRO](../Page/JIRO.md "wikilink")がある種の負荷を加えることで反発力が出てくるので、実験的な試みをやってきているとしている\[23\]。
 
 GLAYはメンバー全員が[ソングライター](../Page/ソングライター.md "wikilink")である。TAKUROによると、10thアルバム『[GLAY](https://ja.wikipedia.org/wiki/GLAY_\(アルバム\) "wikilink")』を制作した後から次は違う表現に挑戦したいと思うようになり\[24\]、43rdシングル「[G4・II -THE RED MOON-](https://ja.wikipedia.org/wiki/G4・II_-THE_RED_MOON- "wikilink")」以降の「G4シリーズ」では、各メンバーが作曲した曲を収録しているほか、HISASHIが46thシングル「\[\[JUSTICE_from_GUILTY|JUSTICE \[from\] GUILTY\]\]」、JIROが47thシングル「[運命論](https://ja.wikipedia.org/wiki/運命論_\(曲\) "wikilink")」、TERUが配信限定シングル「[Thank you for your love](https://ja.wikipedia.org/wiki/Thank_you_for_your_love "wikilink")」や50thシングル「[BLEEZE](https://ja.wikipedia.org/wiki/BLEEZE_〜G4・III〜 "wikilink")」などのタイトル曲を作曲するようになった。メンバーの曲についてJIROは、ポップであるのは共通しているが[ベクトル](../Page/ベクトル.md "wikilink")が違うとしている\[25\]。TAKUROはGLAYが持つ[ロックな面はJIROが担っているとしており](../Page/ロック_\(音楽\).md "wikilink")\[26\]</ref>、JIROもGLAYの中でストレートな[ロックンロール](../Page/ロックンロール.md "wikilink")をやるのは自分しかいないと述べている\[27\]。また、TAKUROはHISASHIが持つ[サブカルチャー](../Page/サブカルチャー.md "wikilink")的な要素や[ニッチな部分が脚光を浴びるようになっていると述べているほか](../Page/ニッチ市場.md "wikilink")\[28\]、どんな歌詞でも真っ直ぐに歌い上げるTERUを賞賛している\[29\]。
 
@@ -432,7 +432,7 @@ NEVER MINDメンバー
 <div class="NavContent" style="text-align:left;">
 <p>10/10 <a href="https://ja.wikipedia.org/wiki/福島女子短期大学" title="wikilink">福島女子短期大学</a><br />
 10/26 <a href="../Page/常磐大学.md" title="wikilink">常磐大学</a><br />
-10/27 <a href="https://ja.wikipedia.org/wiki/白鷗大学" title="wikilink">白鷗大学</a><br />
+10/27 <a href="../Page/白鷗大学.md" title="wikilink">白鷗大学</a><br />
 11/03 <a href="../Page/立正大学.md" title="wikilink">立正大学</a><br />
 11/04 <a href="https://ja.wikipedia.org/wiki/上武大学" title="wikilink">上武大学</a></p>
 </div>

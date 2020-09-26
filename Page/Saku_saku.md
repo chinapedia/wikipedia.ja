@@ -91,7 +91,7 @@
   - 7月1日 - この日をもって増田ジゴロウとペパーが出演終了（これについては[増田ジゴロウ\#『saku saku』降板問題を参照](https://ja.wikipedia.org/wiki/増田ジゴロウ#『saku_saku』降板問題 "wikilink")）。
   - 7月4日 - アパートの新管理人「**白井ヴィンセント**」が登場。また、あかぎあい時代・木村カエラ時代初期に出演していた「イチノセさん」と「ケンタロウ」も再び登場することになった。そして、[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")（BSN）でも放送開始。
   - 8月9日 - ご意見番こと金田真人ディレクターが急逝。これにより生前に収録済みだった8月19日放送分をもってご意見番の出演終了。同時にご意見番が声を担当していた「イチノセさん」と「ケンタロウ」も出演終了した\[2\]。
-  - 10月 - [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）、[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）で放送が開始されたが、北海道テレビ放送及び名古屋テレビ放送での放送が打ち切られた。
+  - 10月 - [福島テレビ](../Page/福島テレビ.md "wikilink")（FTV）、[山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）、[熊本放送](../Page/熊本放送.md "wikilink")（RKK）で放送が開始されたが、北海道テレビ放送及び名古屋テレビ放送での放送が打ち切られた。
   - 12月16日 - 「人事異動」のためカーリー田中の「出演（?）終了」という形で卒業。最初で最後の画面への登場（後姿のみ）を果たした。
 
 <!-- end list -->
@@ -1503,7 +1503,7 @@ tvk以外の局では[金曜日](../Page/金曜日.md "wikilink")放送分をネ
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a> (RKK)</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a> (RKK)</p></td>
 <td><p>火曜 1:25 - 1:55（月曜深夜）</p></td>
 <td><p>2005年10月 - 2008年8月</p></td>
 <td></td>

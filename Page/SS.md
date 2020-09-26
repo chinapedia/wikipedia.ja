@@ -48,29 +48,50 @@
   -
 
   - その他
-    音楽ゲームにおける評価の例
 
-      - [シークレットサービス](https://ja.wikipedia.org/wiki/シークレットサービス "wikilink") (secret service) - SP（[セキュリティポリス](../Page/セキュリティポリス.md "wikilink")）とも
-      - [ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink") (service station)
-      - [二次創作小説](https://ja.wikipedia.org/wiki/二次創作物 "wikilink")/[外伝](../Page/外伝.md "wikilink") (side story)
-      - [短編小説](../Page/短編小説.md "wikilink") (short story) / [ショートショート](../Page/ショートショート.md "wikilink") (short short)
-      - [社会満足](https://ja.wikipedia.org/wiki/社会満足 "wikilink") (social satisfaction)
-      - [スペクトラム拡散](../Page/スペクトラム拡散.md "wikilink") (spread spectrum) - 通信方式のひとつ
-      - [サイズ](https://ja.wikipedia.org/wiki/サイズ "wikilink")を表す記号のひとつ。S（small）より小さい
-      - [舞台照明](../Page/舞台照明.md "wikilink") (stage side light)
-      - [一般構造用圧延鋼材](https://ja.wikipedia.org/wiki/一般構造用圧延鋼材 "wikilink") (steel structure)
-      - [風浪階級](https://ja.wikipedia.org/wiki/風浪階級 "wikilink") (sea state) - [海況](https://ja.wikipedia.org/wiki/海況 "wikilink")を表す尺度の一つ。[WMO](https://ja.wikipedia.org/wiki/WMO "wikilink") 3700にて規定
-      - [剰余金計算書](https://ja.wikipedia.org/wiki/剰余金計算書 "wikilink") (surplus statement)
-      - [株主資本等変動計算書](https://ja.wikipedia.org/wiki/株主資本等変動計算書 "wikilink") (Statements of Shareholders' Equity)
-      - 浮遊物質 (suspended solid) または懸濁物質 (suspended substance) → [浮遊物質](https://ja.wikipedia.org/wiki/浮遊物質 "wikilink")
-      - [蒸気船](../Page/蒸気船.md "wikilink") (steam ship) - 船名の前に[艦船接頭辞](https://ja.wikipedia.org/wiki/艦船接頭辞 "wikilink")SSをつける
-      - [社会科](../Page/社会_\(教科\).md "wikilink") (social studies)
-      - [偏差値](../Page/偏差値.md "wikilink") (standard score)
-      - [ジスルフィド結合](../Page/ジスルフィド結合.md "wikilink") (-S-S-)
-      - [聖霊](../Page/聖霊.md "wikilink") (SPIRITUS SANCTUS)の略。ラテン語
-      - [聖人](../Page/聖人.md "wikilink") (Santissimo、Santissima)
-      - [シャッター速度](https://ja.wikipedia.org/wiki/シャッター速度 "wikilink") (shutter speed) - カメラのシャッターを開いている時間
-      - [スピードスプレーヤー](https://ja.wikipedia.org/wiki/スピードスプレーヤー "wikilink") (speed sprayer) - 果樹園の農薬散布機
+:\* 音楽ゲームにおける評価の例
+
+:\*[シークレットサービス](https://ja.wikipedia.org/wiki/シークレットサービス "wikilink") (secret service) - SP（[セキュリティポリス](../Page/セキュリティポリス.md "wikilink")）とも
+
+:\* [ガソリンスタンド](../Page/ガソリンスタンド.md "wikilink") (service station)
+
+:\* [二次創作小説](https://ja.wikipedia.org/wiki/二次創作物 "wikilink")/[外伝](../Page/外伝.md "wikilink") (side story)
+
+:\* [短編小説](../Page/短編小説.md "wikilink") (short story) / [ショートショート](../Page/ショートショート.md "wikilink") (short short)
+
+:\* [社会満足](https://ja.wikipedia.org/wiki/社会満足 "wikilink") (social satisfaction)
+
+:\* [スペクトラム拡散](../Page/スペクトラム拡散.md "wikilink") (spread spectrum) - 通信方式のひとつ
+
+:\* [サイズ](https://ja.wikipedia.org/wiki/サイズ "wikilink")を表す記号のひとつ。S（small）より小さい
+
+:\* [舞台照明](../Page/舞台照明.md "wikilink") (stage side light)
+
+:\* [一般構造用圧延鋼材](https://ja.wikipedia.org/wiki/一般構造用圧延鋼材 "wikilink") (steel structure)
+
+:\* [風浪階級](https://ja.wikipedia.org/wiki/風浪階級 "wikilink") (sea state) - [海況](https://ja.wikipedia.org/wiki/海況 "wikilink")を表す尺度の一つ。[WMO](https://ja.wikipedia.org/wiki/WMO "wikilink") 3700にて規定
+
+:\* [剰余金計算書](https://ja.wikipedia.org/wiki/剰余金計算書 "wikilink") (surplus statement)
+
+:\* [株主資本等変動計算書](https://ja.wikipedia.org/wiki/株主資本等変動計算書 "wikilink") (Statements of Shareholders' Equity)
+
+:\* 浮遊物質 (suspended solid) または懸濁物質 (suspended substance) → [浮遊物質](https://ja.wikipedia.org/wiki/浮遊物質 "wikilink")
+
+:\* [蒸気船](../Page/蒸気船.md "wikilink") (steam ship) - 船名の前に[艦船接頭辞](https://ja.wikipedia.org/wiki/艦船接頭辞 "wikilink")SSをつける
+
+:\* [社会科](../Page/社会_\(教科\).md "wikilink") (social studies)
+
+:\* [偏差値](../Page/偏差値.md "wikilink") (standard score)
+
+:\* [ジスルフィド結合](../Page/ジスルフィド結合.md "wikilink") (-S-S-)
+
+:\* [聖霊](../Page/聖霊.md "wikilink") (SPIRITUS SANCTUS)の略。ラテン語
+
+:\* [聖人](../Page/聖人.md "wikilink") (Santissimo、Santissima)
+
+:\* [シャッター速度](https://ja.wikipedia.org/wiki/シャッター速度 "wikilink") (shutter speed) - カメラのシャッターを開いている時間
+
+:\* [スピードスプレーヤー](https://ja.wikipedia.org/wiki/スピードスプレーヤー "wikilink") (speed sprayer) - 果樹園の農薬散布機
 
 ### 固有名詞
 

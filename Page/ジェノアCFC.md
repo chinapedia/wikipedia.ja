@@ -318,9 +318,9 @@
 
 </div>
 
-  - 2020年2月14日現在\[49\]
+  - 2020年9月19日現在\[49\]
 
-★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))
+★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -451,7 +451,8 @@
 </tr>
 <tr class="odd">
 <td><p>ジョン・デイヴィッド・アストリー<br />
-後にジョン・デイヴィッド・アストリーおよび<a href="https://ja.wikipedia.org/wiki/フェデリコ・アッラージオ" title="wikilink">フェデリコ・アッラージオ</a><br />
+後にジョン・デイヴィッド・アストリー<br />
+および<a href="https://ja.wikipedia.org/wiki/フェデリコ・アッラージオ" title="wikilink">フェデリコ・アッラージオ</a><br />
 後に<a href="https://ja.wikipedia.org/wiki/マニーロ・バチガルポ" title="wikilink">マニーロ・バチガルポ</a></p></td>
 <td><p><br />
 <br />

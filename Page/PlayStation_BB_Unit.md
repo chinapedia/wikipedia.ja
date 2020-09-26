@@ -5,7 +5,7 @@
 
 </div>
 
-**PlayStation BB Unit**（プレイステーション ビービー ユニット）は、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 用の[周辺機器](../Page/周辺機器.md "wikilink")。[ネットワークへの接続機能を備え](../Page/コンピュータネットワーク.md "wikilink")、主に[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")のプレイ時に利用される。「**PlayStation BB**」はゲーム・映像・音楽といったPS2用ブロードバンドネットワークサービスであり、「**PlayStation BB Navigator**」を利用してサービスを受ける。
+**PlayStation BB Unit**（プレイステーション ビービー ユニット）は、[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 用の[周辺機器](../Page/周辺機器.md "wikilink")。[ネットワークへの接続機能を備え](../Page/コンピュータネットワーク.md "wikilink")、主に[オンラインゲーム](../Page/オンラインゲーム.md "wikilink")のプレイ時に利用される。「**PlayStation BB**」はゲーム・映像・音楽といったPS2用ブロードバンドネットワークサービスであり、「**PlayStation BB Navigator**」を利用してサービスを受ける。
 
 なお、[2016年](../Page/2016年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもってオンラインサービス提供は終了している。
 

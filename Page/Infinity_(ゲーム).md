@@ -13,7 +13,7 @@
     2000年12月21日、[ドリームキャスト](../Page/ドリームキャスト.md "wikilink") (DC) 版発売。
     [2001年](../Page/2001年.md "wikilink")[10月26日](../Page/10月26日.md "wikilink")、Windows版発売。
     [2002年](../Page/2002年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、[ドリコレ](https://ja.wikipedia.org/wiki/ドリコレ "wikilink")（DCの[廉価版](https://ja.wikipedia.org/wiki/廉価版#ゲームソフト "wikilink")）発売。
-    [2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版発売。
+    [2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 版発売。
     [2004年](../Page/2004年.md "wikilink")[9月2日](../Page/9月2日.md "wikilink")、[SuperLite 2000](../Page/SuperLiteシリーズ.md "wikilink")（PS2の廉価版）が[サクセスより発売](../Page/サクセス_\(ゲーム会社\).md "wikilink")。
   - infinity plus
     [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")4月4日、[サイバーフロント](../Page/サイバーフロント.md "wikilink")より、シリーズ3作に新作『[12RIVEN -the Ψcliminal of integral-](../Page/12RIVEN_-the_Ψcliminal_of_integral-.md "wikilink")』を加えたPC版セットが発売。
@@ -70,7 +70,7 @@
 
 『INFINITY cure.』で語られた内容が追加され、シナリオが若干改訂されている。オリジナルの「いづみ」シナリオとは別に『INFINITY cure.』の「いづみキュア」シナリオが用意されており、このシナリオを以ってグランドフィナーレを迎えることとなる。また『cure.』にはなかったエンディングがさらに1つ追加されている。「優夏キュア」シナリオについては後述のアペンドストーリーに収録。こちらはアペンドストーリーと言う位置付け上、音声は収録されていない。
 
-後にWindows版と[PlayStation 2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。PlayStation 2版ではBGMにアレンジが加えられたほか、『infinity』のサウンドトラックに収録されたボーカル曲が新たにエンディングテーマソングとして採用されている。
+後にWindows版と[PlayStation 2版が発売された](../Page/PlayStation_2.md "wikilink")。PlayStation 2版ではBGMにアレンジが加えられたほか、『infinity』のサウンドトラックに収録されたボーカル曲が新たにエンディングテーマソングとして採用されている。
 
 DC版は[アペンドストーリー](../Page/アペンドストーリー.md "wikilink")を初めて導入したソフトである。採用されたシナリオはその一部がWindows版に、またほぼ全部がPS2版に収録されている。また、『Infinity Plus』に収録された Windows 版は、PS2版をベースにしているが、アペンドストーリーは収録されていない。ただしシナリオを自作することは可能である。
 

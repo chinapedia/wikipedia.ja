@@ -24,7 +24,7 @@ HTCPCPは[HTTPを拡張したものである](../Page/Hypertext_Transfer_Protoco
 | `BREW` または `POST` | HTCPCPサーバに[コーヒー](https://ja.wikipedia.org/wiki/コーヒー "wikilink")を淹れさせる。この目的で`POST`を使用することは推奨されていない。新しいHTTPリクエストヘッダフィールド"Accept-Additions"が提案されており、クリーム、全乳、バニラ、ラズベリー、ウィスキー、アクアビットなどのオプションの追加に対応している。 |
 | `GET`             | HTCPCPサーバからコーヒーを「取得」する。                                                                                                                                                                            |
 | `PROPFIND`        | コーヒーに関する[メタデータ](../Page/メタデータ.md "wikilink")を返す。                                                                                                                                                   |
-| `WHEN`            | "When"と言うと、HTCPCPサーバがコーヒにミルクを注ぐのを止める（該当する場合）。                                                                                                                                                      |
+| `WHEN`            | "When"と言うと、HTCPCPサーバがコーヒーにミルクを注ぐのを止める（該当する場合）。                                                                                                                                                     |
 
 以下の2つの[エラー応答が定義されている](https://ja.wikipedia.org/wiki/HTTPステータスコード#4xx_Client_Error_クライアントエラー "wikilink")。
 

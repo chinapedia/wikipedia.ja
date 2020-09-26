@@ -5,7 +5,7 @@
 
 ## 概要
 
-[イタリア](../Page/イタリア.md "wikilink")・[フィレンツェ](../Page/フィレンツェ.md "wikilink")を舞台に、命がけの戦いを繰り広げる青年と、純真な少女との出会いを描く[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。2002年には、全年齢対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版や[PlayStation 2版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[SIMPLE2000シリーズとして発売されている](https://ja.wikipedia.org/wiki/シンプル2000シリーズ "wikilink")。
+[イタリア](../Page/イタリア.md "wikilink")・[フィレンツェ](../Page/フィレンツェ.md "wikilink")を舞台に、命がけの戦いを繰り広げる青年と、純真な少女との出会いを描く[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")である。2002年には、全年齢対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版や[PlayStation 2版が](../Page/PlayStation_2.md "wikilink")[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[SIMPLE2000シリーズとして発売されている](https://ja.wikipedia.org/wiki/シンプル2000シリーズ "wikilink")。
 
 [2005年](../Page/2005年.md "wikilink")[12月28日](../Page/12月28日.md "wikilink")にはWindows用リパッケージ版が発売された。
 

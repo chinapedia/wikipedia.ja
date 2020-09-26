@@ -231,12 +231,12 @@
 ## 外部リンク
 
   - [UP-FRONT WORKSディスコグラフィ](http://www.up-front-works.jp/discography/zetima/16/list.html)
-  - [つんく♂オフィシャルウェブサイトのコメント](http://www.tsunku.net/producework.php?Music_ArtistID=21)
+  - [つんく♂オフィシャルウェブサイトのコメント](https://www.tsunku.net/producework.php?Music_ArtistID=21)
 
 [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ハロー\!プロジェクトのユニット](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのユニット "wikilink") [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:ハロー\!プロジェクトのポップ・グループ](https://ja.wikipedia.org/wiki/Category:ハロー!プロジェクトのポップ・グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:2004年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2004年に結成した音楽グループ "wikilink")
 
-1.  "[つんく♂オフィシャルウェブサイト＜辻希美＆加護亜依の新ユニットに関してのお知らせ＞2004/03/06](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=16)"2011年4月20日閲覧
-2.  "[つんく♂オフィシャルウェブサイト ＜ハロー！プロジェクト及びモーニング娘。に関して＞2004/01/03](http://www.tsunku.net/officialcommentdetail.php?@DB_ID@=12)"2011年4月20日閲覧
+1.  "[つんく♂オフィシャルウェブサイト＜辻希美＆加護亜依の新ユニットに関してのお知らせ＞2004/03/06](https://www.tsunku.net/officialcommentdetail.php?@DB_ID@=16)"2011年4月20日閲覧
+2.  "[つんく♂オフィシャルウェブサイト ＜ハロー！プロジェクト及びモーニング娘。に関して＞2004/01/03](https://www.tsunku.net/officialcommentdetail.php?@DB_ID@=12)"2011年4月20日閲覧
 3.
 4.  [山本リンダ](https://ja.wikipedia.org/wiki/山本リンダ "wikilink")のカバー曲。
 5.  [辻希美＆加護亜依、３月ハロプロ公演　で“コンビ再結成”　辻「10年以上ぶり」「私の夢だった」](https://www.sponichi.co.jp/entertainment/news/2019/01/23/kiji/20190123s00041000448000c.html) スポーツニッポン2019年1月24日

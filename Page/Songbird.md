@@ -42,7 +42,7 @@ Webブラウザの[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")と
 
 ## フェザー
 
-Songbirdではメディアプレーヤーによくある[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")機能のことをフェザーと呼び、ユーザーは好みに応じて様々なフェザーを選択して利用することができる。ユーザーは[CSS](../Page/CSS.md "wikilink")などを利用してフェザーを開発することもできる。
+Songbirdではメディアプレーヤーによくある[スキン](https://ja.wikipedia.org/wiki/スキン "wikilink")機能のことをフェザーと呼び、ユーザーは好みに応じて様々なフェザーを選択して利用することができる。ユーザーは[CSSなどを利用してフェザーを開発することもできる](../Page/Cascading_Style_Sheets.md "wikilink")。
 
 ## リリースの変遷
 

@@ -15,7 +15,7 @@
   - [アルペンスキー](../Page/アルペンスキー.md "wikilink")の競技の一種、[大回転](../Page/大回転.md "wikilink")(**G**iant **S**lalom)の略
   - [南ジョージア島・南サンドイッチ諸島](https://ja.wikipedia.org/wiki/南ジョージア島・南サンドイッチ諸島 "wikilink")の[国名コード](../Page/国名コード.md "wikilink")（[ISO 3166-1 alpha-2](../Page/ISO_3166-1.md "wikilink")、[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink")など）
   - [対地速度](../Page/対地速度.md "wikilink")(**G**round **S**peed)の略
-  - [プレイステーション2の画像処理プロセッサ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Graphics Synthesizerの略](https://ja.wikipedia.org/wiki/Graphics_Synthesizer "wikilink")
+  - [プレイステーション2の画像処理プロセッサ](../Page/PlayStation_2.md "wikilink")、[Graphics Synthesizerの略](https://ja.wikipedia.org/wiki/Graphics_Synthesizer "wikilink")
   - [グリーンスタジアム神戸](../Page/神戸総合運動公園野球場.md "wikilink")。[ネーミングライツにより](https://ja.wikipedia.org/wiki/命名権 "wikilink")、現在はほっともっとフィールド神戸
   - [野球](../Page/野球.md "wikilink")記録における[先発出場](../Page/スターティングメンバー.md "wikilink")
   - 一般名詞、あるいは固有名詞に用いられる、**g**round**s**capeの略。一例として、[篠原修](../Page/篠原修.md "wikilink")や[内藤廣](../Page/内藤廣.md "wikilink")が代表を務めるGSデザイン会議。
@@ -37,4 +37,4 @@
       - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の金融グループであり[投資銀行](https://ja.wikipedia.org/wiki/投資銀行 "wikilink")の、[ゴールドマン・サックス](../Page/ゴールドマン・サックス.md "wikilink")(**G**oldman **S**achs)の略
       - [セイコーの腕時計のブランド](../Page/セイコーホールディングス.md "wikilink")、[グランドセイコー](../Page/グランドセイコー.md "wikilink")(**G**rand **S**eiko)の略
       - 金星(クムソン・GoldStar) - [LGグループ](../Page/LGグループ.md "wikilink")の前身の一つ
-      - [GSグループ](https://ja.wikipedia.org/wiki/GSグループ "wikilink") - 2004年にLGから分離した韓国のコンツェルン
+      - [GSグループ](../Page/GSグループ.md "wikilink") - 2004年にLGから分離した韓国のコンツェルン

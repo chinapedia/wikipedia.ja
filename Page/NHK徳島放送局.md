@@ -184,66 +184,60 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（キャスター）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/佐々木智一" title="wikilink">佐々木智一</a></p></td>
-<td><p><a href="../Page/NHK広島放送局.md" title="wikilink">広島</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/あわとく" title="wikilink">あわとく</a>（キャスター）<br />
-徳島県のニュース</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="../Page/岡隆一.md" title="wikilink">岡隆一</a>*</p></td>
 <td><p><a href="../Page/NHK放送センター.md" title="wikilink">東京アナウンス室</a></p></td>
 <td><p>徳島県のニュース</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/増村聡太" title="wikilink">増村聡太</a></p></td>
 <td><p><strong>初任地</strong></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎あずさ" title="wikilink">宮崎あずさ</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/坂本聡" title="wikilink">坂本聡</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/廣由梨" title="wikilink">廣由梨</a></p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（キャスター）</p></td>
-</tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/太田晶子" title="wikilink">太田晶子</a></p></td>
+<td></td>
+<td><p>とく6徳島（キャスター）</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/越田穂香" title="wikilink">越田穂香</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/及川凛華" title="wikilink">及川凛華</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国_おひるのクローバー" title="wikilink">四国 おひるのクローバー</a>（キャスター）</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/太田晶子" title="wikilink">太田晶子</a></p></td>
-<td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/四国_おひるのクローバー" title="wikilink">四国 おひるのクローバー</a>（キャスター）<br />
-<a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a>（リポーター）</p></td>
+<td><p>ひるどき徳島（キャスター）<br />
+とく6徳島（リポーター）</p></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/佐竹綾" title="wikilink">佐竹綾</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/とく6徳島" title="wikilink">とく6徳島</a></p></td>
+<td><p>とく6徳島</p></td>
 </tr>
 </tbody>
 </table>

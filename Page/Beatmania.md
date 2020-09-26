@@ -395,7 +395,7 @@ PlayStation版は単体で起動する「キーディスク」と、起動にキ
   - pop'n music打\!\!（2000年9月28日発売、PCHOME版は2002年[9月6日](../Page/9月6日.md "wikilink")発売）
     『beatmania BEST打\!\!』と同時発売された派生作品。インターフェイスと収録曲は姉妹作である『[pop'n music](https://ja.wikipedia.org/wiki/pop'n_music "wikilink")』をベースとしているが、内容は上記『BEST打\!\!』とほぼ同じシステムが採用されている。体験版や廉価版についても同様。
   - beatmania打打打\!\!（2001年[3月29日](../Page/3月29日.md "wikilink")発売、BEST版は2002年[5月16日](../Page/5月16日.md "wikilink")発売）
-    [PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。発売元はハンズオン・エンタテインメント。「コナミUSBキーボード」対応ソフト第1弾。USBキーボードを接続してプレイする形態となっており、「コナミUSB対応キーボード同梱セット」として発売された。上記PC版本編2作の収録曲（「Beauty and The KUMA-SAN」除く）に加え、新たにJ-POP系の楽曲や『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』の曲のアレンジも収録されている。全26曲。
+    [PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。発売元はハンズオン・エンタテインメント。「コナミUSBキーボード」対応ソフト第1弾。USBキーボードを接続してプレイする形態となっており、「コナミUSB対応キーボード同梱セット」として発売された。上記PC版本編2作の収録曲（「Beauty and The KUMA-SAN」除く）に加え、新たにJ-POP系の楽曲や『[ときめきメモリアル](../Page/ときめきメモリアル.md "wikilink")』の曲のアレンジも収録されている。全26曲。
     後に『- THE BEST 打』という名で廉価版も発売された。ゲーム内容は通常版から変更されていない。
 
 ### 北米PlayStation 2版

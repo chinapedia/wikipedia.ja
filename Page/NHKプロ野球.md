@@ -352,6 +352,10 @@ BS1のデジタル放送では、2007年からほとんどの試合を16:9の「
   - [得津高宏](../Page/得津高宏.md "wikilink")（2014年 - 。本数契約。ロッテ主催試合に出演）
   - [立川隆史](../Page/立川隆史.md "wikilink")（2015年 - 。本数契約。ロッテ主催試合に出演）
 
+<!-- end list -->
+
+  - [星野伸之](../Page/星野伸之.md "wikilink") (2019年 - 。本数契約。オリックス主催試合や旭川出身なので、ゲスト解説として出演。[関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")・[J SPORTS兼](../Page/J_SPORTS.md "wikilink"))
+
 #### 過去の解説者
 
 ●印はメジャーリーグ中継を兼任
@@ -410,14 +414,14 @@ BS1のデジタル放送では、2007年からほとんどの試合を16:9の「
 
 リポートは全国中継の場合は各チーム1人ずつだが、ラジオやBS、総合のローカル中継、他スポーツなどで人員が不足の場合は1人で両チーム担当のこともある。テレビとラジオで同じ試合を中継する場合、リポーターは両方に出演する場合がある。ポストシーズンでは、如何なる事象が重なっても必ずリポーターは二人配置される。なお、地方球場での開催の中継では、主催球団担当地域の放送局アナウンサー以外に、球場がある地域を管轄する放送局アナウンサーがリポーターを担当する場合\[79\] がある。
 
-  - 札幌局 - [星野圭介](https://ja.wikipedia.org/wiki/星野圭介 "wikilink")、[横山哲也](https://ja.wikipedia.org/wiki/横山哲也 "wikilink")
-  - 仙台局 - [池野健](https://ja.wikipedia.org/wiki/池野健 "wikilink")、[塚本貴之](../Page/塚本貴之.md "wikilink")
-  - 放送センター（東京アナウンス室） - [秋山浩志](../Page/秋山浩志.md "wikilink")、[飯塚洋介](../Page/飯塚洋介.md "wikilink")、[伊藤慶太](../Page/伊藤慶太.md "wikilink")、[鏡和臣](https://ja.wikipedia.org/wiki/鏡和臣 "wikilink")、[坂梨哲士](../Page/坂梨哲士.md "wikilink")、[豊原謙二郎](../Page/豊原謙二郎.md "wikilink")、[福澤浩行](../Page/福澤浩行.md "wikilink")、[森中直樹](../Page/森中直樹.md "wikilink")、[高鍬亮](https://ja.wikipedia.org/wiki/高鍬亮 "wikilink")、[三浦拓実](../Page/三浦拓実.md "wikilink")
+  - 札幌放送局 - [星野圭介](https://ja.wikipedia.org/wiki/星野圭介 "wikilink")、[筒井亮太郎](../Page/筒井亮太郎.md "wikilink")
+  - 仙台放送局 - [深澤健太](https://ja.wikipedia.org/wiki/深澤健太 "wikilink")、[塚本貴之](../Page/塚本貴之.md "wikilink")
+  - 東京アナウンス室 - [秋山浩志](../Page/秋山浩志.md "wikilink")、[飯塚洋介](../Page/飯塚洋介.md "wikilink")、[伊藤慶太](../Page/伊藤慶太.md "wikilink")、[坂梨哲士](../Page/坂梨哲士.md "wikilink")、[豊原謙二郎](../Page/豊原謙二郎.md "wikilink")、[福澤浩行](../Page/福澤浩行.md "wikilink")、[森中直樹](../Page/森中直樹.md "wikilink")、[高鍬亮](https://ja.wikipedia.org/wiki/高鍬亮 "wikilink")、[三浦拓実](../Page/三浦拓実.md "wikilink")
       - [G-Media出向](https://ja.wikipedia.org/wiki/NHKグローバルメディアサービス "wikilink")\[80\] - [渡辺憲司](../Page/渡辺憲司.md "wikilink")、[高木修平](../Page/高木修平.md "wikilink")、[高瀬登志彦](../Page/高瀬登志彦.md "wikilink")、[笠井大輔](https://ja.wikipedia.org/wiki/笠井大輔 "wikilink")、[下境秀幸](../Page/下境秀幸.md "wikilink")、[竹林宏](../Page/竹林宏.md "wikilink")、[厚井大樹](../Page/厚井大樹.md "wikilink")、[小宮山晃義](../Page/小宮山晃義.md "wikilink")、[小野卓哉](https://ja.wikipedia.org/wiki/小野卓哉 "wikilink")
-  - 名古屋局 - [神戸和貴](https://ja.wikipedia.org/wiki/神戸和貴 "wikilink")、[別井敬之](../Page/別井敬之.md "wikilink")、[酒匂飛翔](https://ja.wikipedia.org/wiki/酒匂飛翔 "wikilink")、[内山俊哉](../Page/内山俊哉.md "wikilink")（人員不足の時のみ）、[船岡久嗣](../Page/船岡久嗣.md "wikilink")（金沢局）
-  - 大阪局 - [筒井亮太郎](../Page/筒井亮太郎.md "wikilink")、[宮田貴行](../Page/宮田貴行.md "wikilink")、[冨坂和男](../Page/冨坂和男.md "wikilink")、[清水敬亮](https://ja.wikipedia.org/wiki/清水敬亮 "wikilink")、[広坂安伸](../Page/広坂安伸.md "wikilink")（神戸局）、[田中崇裕](../Page/田中崇裕.md "wikilink")（神戸局）
-  - 広島局 - [浅井僚馬](../Page/浅井僚馬.md "wikilink")、[南波雅俊](https://ja.wikipedia.org/wiki/南波雅俊 "wikilink")
-  - 福岡局 - [早瀬雄一](../Page/早瀬雄一.md "wikilink")、 [西川順一](https://ja.wikipedia.org/wiki/西川順一 "wikilink")、[上野速人](../Page/上野速人.md "wikilink")（熊本局）
+  - 名古屋放送局 - [神戸和貴](https://ja.wikipedia.org/wiki/神戸和貴 "wikilink")、[別井敬之](../Page/別井敬之.md "wikilink")、[酒匂飛翔](https://ja.wikipedia.org/wiki/酒匂飛翔 "wikilink")、[広坂安伸](../Page/広坂安伸.md "wikilink")、[船岡久嗣](../Page/船岡久嗣.md "wikilink")（金沢放送局）
+  - 大阪放送局 - [宮田貴行](../Page/宮田貴行.md "wikilink")、[冨坂和男](../Page/冨坂和男.md "wikilink")、[清水敬亮](https://ja.wikipedia.org/wiki/清水敬亮 "wikilink")、[北嶋右京](https://ja.wikipedia.org/wiki/北嶋右京 "wikilink")
+  - 広島放送局 - [浅井僚馬](../Page/浅井僚馬.md "wikilink")、[南波雅俊](https://ja.wikipedia.org/wiki/南波雅俊 "wikilink")
+  - 福岡放送局 - [早瀬雄一](../Page/早瀬雄一.md "wikilink")、[西川順一](https://ja.wikipedia.org/wiki/西川順一 "wikilink")
 
 #### 過去の担当アナウンサー
 

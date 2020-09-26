@@ -122,10 +122,10 @@
 （キャスター）</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/吉田一之.md" title="wikilink">吉田一之</a></p></td>
-<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
+<td><p><a href="../Page/川崎寛司.md" title="wikilink">川崎寛司</a></p></td>
+<td><p><a href="../Page/NHK福島放送局.md" title="wikilink">福島</a></p></td>
 <td><p>ほっとぐんま630<br />
-<a href="https://ja.wikipedia.org/wiki/ひるまえほっと" title="wikilink">ひるまえほっと</a></p></td>
+ひるまえほっと</p></td>
 </tr>
 <tr class="even">
 <td><p>契約キャスター</p></td>
@@ -187,7 +187,7 @@
 1.
 2.
 3.
-4.  [NHK前橋放送局80年のあゆみ（2013年11月5日現在のアーカイブ](http://web.archive.org/web/20131105202802/http://www.nhk.or.jp/maebashi/80th/history.html)[オリジナルURL](http://www.nhk.or.jp/maebashi/80th/history.html)
+4.  [NHK前橋放送局80年のあゆみ（2013年11月5日現在のアーカイブ](https://web.archive.org/web/20131105202802/http://www.nhk.or.jp/maebashi/80th/history.html)[オリジナルURL](http://www.nhk.or.jp/maebashi/80th/history.html)
 5.
 6.  日本放送協会総合放送文化研究所放送史編修室 『NHK年鑑'73』 日本放送出版協会、1973年、20頁
 7.

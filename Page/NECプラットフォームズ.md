@@ -132,8 +132,8 @@
 4.
 5.
 6.
-7.  [プロフィール](http://web.archive.org/web/20140713020311/http://www.necplatforms.co.jp/company/profile.html) - 2014年7月13日時点公式ウェブサイトのアーカイブ
-8.  [プロフィール](http://web.archive.org/web/20150702210315/http://www.necplatforms.co.jp/company/profile.html) - 2015年7月2日時点公式ウェブサイトのアーカイブ
-9.  [プロフィール](http://web.archive.org/web/20141010042926/http://www.necplatforms.co.jp/company/profile.html) - 2014年10月10日時点公式ウェブサイトのアーカイブ
-10. [プロフィール](http://web.archive.org/web/20160714174641/http://www.necplatforms.co.jp/company/profile.html) - 2016年7月14日時点公式ウェブサイトのアーカイブ
+7.  [プロフィール](https://web.archive.org/web/20140713020311/http://www.necplatforms.co.jp/company/profile.html) - 2014年7月13日時点公式ウェブサイトのアーカイブ
+8.  [プロフィール](https://web.archive.org/web/20150702210315/http://www.necplatforms.co.jp/company/profile.html) - 2015年7月2日時点公式ウェブサイトのアーカイブ
+9.  [プロフィール](https://web.archive.org/web/20141010042926/http://www.necplatforms.co.jp/company/profile.html) - 2014年10月10日時点公式ウェブサイトのアーカイブ
+10. [プロフィール](https://web.archive.org/web/20160714174641/http://www.necplatforms.co.jp/company/profile.html) - 2016年7月14日時点公式ウェブサイトのアーカイブ
 11. [NECプラットフォームズ Red Falcons](http://jsl-women.com/teams/%EF%BC%AE%EF%BC%A5%EF%BC%A3%E3%83%97%E3%83%A9%E3%83%83%E3%83%88%E3%83%95%E3%82%A9%E3%83%BC%E3%83%A0%E3%82%BA/) - 日本女子ソフトボールリーグ機構

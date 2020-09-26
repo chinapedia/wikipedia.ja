@@ -1,13 +1,13 @@
 > この記事は[TUBE](https://ja.wikipedia.org/wiki/TUBE)から翻訳されています。
 
 
-**TUBE**（チューブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2008年頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
+**TUBE**（チューブ）は、[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）[6月1日](../Page/6月1日.md "wikilink")にデビューした日本の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ソニー・ミュージックアソシエイテッドレコーズ](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")、所属事務所は[ホワイトミュージック](../Page/ぐあんばーる.md "wikilink")（個人事務所、[田辺エージェンシー](../Page/田辺エージェンシー.md "wikilink")のグループ会社）、公式ファンクラブは「チューブライダース」。音楽制作は2008年（平成20年）頃まで[ビーイング](../Page/ビーイング.md "wikilink")グループのZAIN PRODUCTSが担当していた。
 
 ## 概要
 
 一般的には[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")や[オメガトライブ](../Page/オメガトライブ.md "wikilink")と並んで「[夏](../Page/夏.md "wikilink")バンド」のイメージが強い。初めは[チェッカーズ](../Page/チェッカーズ.md "wikilink")や[SALLY](../Page/SALLY.md "wikilink")といったアイドルバンドに対抗して、CBSソニーと[ビーイング](../Page/ビーイング.md "wikilink")が組んで[長戸大幸](https://ja.wikipedia.org/wiki/長戸大幸 "wikilink")プロデュースでデビュー。ビーイング系としては珍しくテレビなどへの露出が多く、プロフィールも公表している他、バラエティ色の濃い番組への出演もある。
 
-バンド名はサーフィン用語の「[チューブライディング](https://ja.wikipedia.org/wiki/:en:Tube_riding "wikilink")」に由来する。アマチュア時代は「パイプライン」というバンド名で活動し、デビューした1985年はバンド名を「The TUBE」としていたが、[北海道文化放送](../Page/北海道文化放送.md "wikilink")の「Sound club 1700」（当時土曜17時台に放送されていた音楽番組）に出演した際、姓名判断師（木村天山）に「画数が悪い、名前の"The"を取ればバンドは良い方向へ向かう」と言われ、翌1986年、3rdシングル「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」発売前に、正式に「**TUBE**」と改名。
+バンド名はサーフィン用語の「[チューブライディング](https://ja.wikipedia.org/wiki/:en:Tube_riding "wikilink")」に由来する。アマチュア時代は「パイプライン」というバンド名で活動し、デビューした1985年（昭和60年）はバンド名を「The TUBE」としていたが、[北海道文化放送](../Page/北海道文化放送.md "wikilink")の「Sound club 1700」（当時土曜17時台に放送されていた音楽番組）に出演した際、姓名判断師（木村天山）に「画数が悪い、名前の"The"を取ればバンドは良い方向へ向かう」と言われ、翌1986年、3rdシングル「[シーズン・イン・ザ・サン](../Page/シーズン・イン・ザ・サン_\(TUBEの曲\).md "wikilink")」発売前に、正式に「**TUBE**」と改名。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")から[2004年](../Page/2004年.md "wikilink")までシングル連続TOP10入り（15年、歴代2位）の記録を持つ。[アルバム](../Page/アルバム.md "wikilink")は[1986年](../Page/1986年.md "wikilink")の「[THE SEASON IN THE SUN](https://ja.wikipedia.org/wiki/THE_SEASON_IN_THE_SUN "wikilink")」で週間[オリコンチャート](../Page/オリコンチャート.md "wikilink")3位を記録して以来、2012年まで[アルバム](../Page/アルバム.md "wikilink")連続TOP10入り（27年、歴代2位）をコンスタントに記録している。
 
@@ -483,10 +483,10 @@
 
   - TUBEと同じく[夏](../Page/夏.md "wikilink")、[海](../Page/海.md "wikilink")、[湘南](../Page/湘南.md "wikilink")をテーマとした曲を多くヒットさせているサザンオールスターズとは、何かと比べられる事が多い。
   - TUBEはデビュー前に参加したオーディションに、サザンオールスターズの曲で出場したことがある。
-  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")には偶然な事に、TUBEが[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で、サザンオールスターズが日産スタジアム（[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")）で、それぞれ野外ライブを行なうという異例の事態となった。サザンオールスターズは同公演をもって一時活動休止となるため、7万人収容の横浜国際総合競技場が満員となった。
-  - [2012年](../Page/2012年.md "wikilink")冬には、ドラマーにサザンオールスターズの[松田弘](../Page/松田弘.md "wikilink")を迎えて、春畑道哉のソロツアーが行われた。また、春畑曰く、松田は「ゴルフを教えてくれる人」だという。
-  - [2013年](../Page/2013年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、「復活！サザンオールスターズの流儀 35周年スペシャル」において、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が「俺達のとっておきの曲を」と言うニュアンスのコメントの後に「シーズン・イン・ザ・サン」を唄っている。その際にメロディーに乗せながら前田の名前を替え歌的に出している。
-  - 2013年[8月31日](../Page/8月31日.md "wikilink")には、TUBEが横浜スタジアムで「LIVE AROUND SPECIAL 2013 HANDMADE SUMMER」を、サザンオールスターズが[茅ヶ崎公園野球場](https://ja.wikipedia.org/wiki/茅ヶ崎公園野球場 "wikilink")でツアーライブである「SUPER SUMMER LIVE 2013 灼熱のマンピー\!\!G★スポット解禁\!\!」の茅ヶ崎公演を行ったことで、またしても野外ライブが同日に開催される事態が起きている。また、メンバーの春畑、角野、松本の3人は[8月10日](../Page/8月10日.md "wikilink")に行われた横浜国際総合競技場公演を見に行ったという。
+  - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（平成20年）[8月23日](../Page/8月23日.md "wikilink")には偶然な事に、TUBEが[横浜スタジアム](../Page/横浜スタジアム.md "wikilink")で、サザンオールスターズが日産スタジアム（[横浜国際総合競技場](../Page/横浜国際総合競技場.md "wikilink")）で、それぞれ野外ライブを行なうという異例の事態となった。サザンオールスターズは同公演をもって一時活動休止となるため、7万人収容の横浜国際総合競技場が満員となった。
+  - [2012年](../Page/2012年.md "wikilink")（平成24年）冬には、ドラマーにサザンオールスターズの[松田弘](../Page/松田弘.md "wikilink")を迎えて、春畑道哉のソロツアーが行われた。また、春畑曰く、松田は「ゴルフを教えてくれる人」だという。
+  - [2013年](../Page/2013年.md "wikilink")（平成25年）[8月9日](../Page/8月9日.md "wikilink")に[NHKで放送された](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、「復活！サザンオールスターズの流儀 35周年スペシャル」において、[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")が「俺達のとっておきの曲を」と言うニュアンスのコメントの後に「シーズン・イン・ザ・サン」を唄っている。その際にメロディーに乗せながら前田の名前を替え歌的に出している。
+  - 2013年（平成25年）[8月31日](../Page/8月31日.md "wikilink")には、TUBEが横浜スタジアムで「LIVE AROUND SPECIAL 2013 HANDMADE SUMMER」を、サザンオールスターズが[茅ヶ崎公園野球場](https://ja.wikipedia.org/wiki/茅ヶ崎公園野球場 "wikilink")でツアーライブである「SUPER SUMMER LIVE 2013 灼熱のマンピー\!\!G★スポット解禁\!\!」の茅ヶ崎公演を行ったことで、またしても野外ライブが同日に開催される事態が起きている。また、メンバーの春畑、角野、松本の3人は[8月10日](../Page/8月10日.md "wikilink")に行われた横浜国際総合競技場公演を見に行ったという。
 
 ## ディスコグラフィ
 
@@ -2378,16 +2378,24 @@ RIDE ON SUMMER</strong></p></td>
 </tr>
 <tr class="odd">
 <td><p>2017年8月19日</p></td>
-<td><p><strong></strong></p></td>
+<td><p><strong>TUBE LIVE AROUND SPECIAL 2017 sunny day</strong></p></td>
 <td><p>全1会場・1公演<br />
 横浜スタジアム</p></td>
-<td></td>
+<td><p>猛烈な雷雨による一時中断があった。</p></td>
 </tr>
 <tr class="even">
 <td><p>2017年11月15日- 2017年12月9日</p></td>
 <td><p><strong></strong> <strong></strong></p></td>
 <td><p>全3会場・3公演 <a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a>、大阪城ホール、<a href="../Page/愛知県体育館.md" title="wikilink">愛知県体育館</a></p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年9月5日</p></td>
+<td><p><strong></strong></p></td>
+<td><p>全1会場・1公演 <a href="../Page/横浜スタジアム.md" title="wikilink">横浜スタジアム</a></p></td>
+<td><p>新型コロナウイルス感染症蔓延によりTUBE史上初の無観客ライブとなった。</p>
+<p>この様子は、各種インターネット配信サービスで有料配信された。</p>
+<p>7月25日に開催予定だった阪神甲子園球場公演は2021年に延期となった。</p></td>
 </tr>
 </tbody>
 </table>

@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:パラパラパラダイス.JPG "wikilink") 『**ParaParaParadise**』（パラパラパラダイス）は[パラパラオールスターズ](https://ja.wikipedia.org/wiki/パラパラオールスターズ "wikilink")による同名の[パラパラ](../Page/パラパラ.md "wikilink")教則ビデオシリーズなどをもとに[2000年](../Page/2000年.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")から[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として発売された[パラパラ](../Page/パラパラ.md "wikilink")をテーマとしたダンスゲームのシリーズ名。またはその1作目のタイトル。[BEMANIシリーズ](../Page/BEMANIシリーズ.md "wikilink")の1つである。
 
-[2001年](../Page/2001年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[PlayStation 2版が発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[2001年](../Page/2001年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[PlayStation 2版が発売されている](../Page/PlayStation_2.md "wikilink")。
 
 韓国では"**ParaParaDancing**"（パラパラダンシング）に名称を変更して発売され、韓国国内の有名アーティスト・アイドルグループのユーロビート曲が数曲追加されていた。
 

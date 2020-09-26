@@ -116,50 +116,55 @@ NHKは[2009年](../Page/2009年.md "wikilink")度から3年間の経営計画に
 とちスペ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/加藤成史" title="wikilink">加藤成史</a></p></td>
-<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
+<td><p><a href="../Page/小林陽広.md" title="wikilink">小林陽広</a></p></td>
 <td><p>とちぎ630<br />
 （キャスター）</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/加藤成史" title="wikilink">加藤成史</a></p></td>
+<td><p><a href="../Page/NHK放送研修センター・日本語センター.md" title="wikilink">日本語センター出向</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>契約キャスター</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>落合慶子</p></td>
 <td><p>前橋(契約キャスター)</p></td>
 <td><p>とちぎ640<br />
 ちょこトチ!<br />
 <a href="https://ja.wikipedia.org/wiki/ひるまえほっと" title="wikilink">ひるまえほっと</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>森岡由紀子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>川島加奈代</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>小澤見依子</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>中島彩</p></td>
 <td></td>
 <td><p>とちぎ640<br />
 （スポーツキャスター）</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>気象予報士</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/福嶋真理子.md" title="wikilink">福嶋真理子</a></p></td>
 <td></td>
 <td><p>とちぎ640</p></td>

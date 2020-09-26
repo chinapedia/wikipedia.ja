@@ -1,7 +1,7 @@
 > この記事は[NHKワールド JAPAN](https://ja.wikipedia.org/wiki/NHKワールド_JAPAN)から翻訳されています。
 
 
-**NHKワールド JAPAN**（えぬえいちけいワールド、）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の行う[国際放送](../Page/国際放送.md "wikilink")、[協会国際衛星放送](https://ja.wikipedia.org/wiki/協会国際衛星放送 "wikilink")及び外国向け番組配信の総称である。 [NHK_World.svg](https://ja.wikipedia.org/wiki/File:NHK_World.svg "fig:NHK_World.svg")
+**NHKワールド JAPAN**（エヌエイチケイ ワールド ジャパン、）とは、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の行う[国際放送](../Page/国際放送.md "wikilink")、[協会国際衛星放送](https://ja.wikipedia.org/wiki/協会国際衛星放送 "wikilink")及び外国向け番組配信の総称である。 [NHK_World.svg](https://ja.wikipedia.org/wiki/File:NHK_World.svg "fig:NHK_World.svg")
 
 ## 概要
 
@@ -17,7 +17,7 @@ NHKは、[放送法](../Page/放送法.md "wikilink")第20条第1項により、
 
 ラジオ放送。[短波](../Page/短波.md "wikilink")が受信できる[ラジオ受信機で受信可能](../Page/受信機.md "wikilink")。また、NHKワールドTV、NHKワールド・プレミアムのテレビ放送で使用されている海外衛星を用いたデジタルラジオ（衛星ラジオ）でも終日ノンスクランブルで放送を行っている。短波の場合、日本国内でも時間帯や[周波数](../Page/周波数.md "wikilink")、地域によっては受信可能であるが、家電量販店で一般に売られている[日経ラジオ社](../Page/日経ラジオ社.md "wikilink")（ラジオNIKKEI、旧ラジオたんぱ）周波数のみ受信可能な短波チューナーを搭載したラジオでは受信不可であり、[ソニー](../Page/ソニー.md "wikilink")・[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")が市販している「国際ラジオ」や、海外メーカーの短波ラジオを入手する必要がある。
 
-かつては日本語・英語を中心に22言語で放送されていたが、テレビ国際放送への移行、衛星デジタルラジオの放送開始、インターネット普及により短波での放送は長期的に縮小傾向にある。在外日本人向けの日本語番組はニュース（日本時間の昼間の時間帯のみ）、海外安全情報、周波数案内と独自制作はごくわずかで残りのすべては日本国内向けの[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")（一部、[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")、[FM放送で放送される番組の日本国内との同時放送や時差](../Page/NHK-FM放送.md "wikilink")・[再放送](../Page/再放送.md "wikilink")を行っている。
+かつては日本語・英語を中心に22言語で放送されていたが、テレビ国際放送への移行、衛星デジタルラジオの放送開始、インターネット普及により短波での放送は長期的に縮小傾向にある。在外日本人向けの日本語番組はニュース（日本時間の昼間の時間帯のみ）、海外安全情報、周波数案内と独自制作はごくわずかで残りのすべては日本国内向けの[ラジオ第1放送](../Page/NHKラジオ第1放送.md "wikilink")（一部、[ラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink"))、[FM放送で放送される番組の日本国内との同時放送や時差](../Page/NHK-FM放送.md "wikilink")・[再放送](../Page/再放送.md "wikilink")を行っている。
 
 一部外国語（英語・[中国語](../Page/中国語.md "wikilink")・[朝鮮語](../Page/朝鮮語.md "wikilink")・[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink")・[ポルトガル語](https://ja.wikipedia.org/wiki/ポルトガル語 "wikilink")）ニュースと、英語・中国語・朝鮮語の情報番組については、ラジオ第2放送で同時あるいは時差放送が行われている。
 

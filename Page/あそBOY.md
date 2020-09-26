@@ -42,15 +42,15 @@ SLの不調等でダイヤに大幅な遅れが見込まれる場合に限り、
 ## 沿革
 
   - [1988年](../Page/1988年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")63年）
-      - [8月28日](../Page/8月28日.md "wikilink") - 「**SLあそBOY**」が運転開始\[3\]。
+      - [8月28日](../Page/8月28日.md "wikilink") - 「**SLあそBOY**」が運転開始。
   - [1999年](../Page/1999年.md "wikilink")（[平成](../Page/平成.md "wikilink")11年）
-      - 7月18日 - 8月31日 - 「**銀河鉄道999号**」として運転。999ヘッドマークが取り付けられ、炭水車に「999」のメーテル・星野鉄郎のイラストが掲示される。また、スタンプラリーが実施されたり、特製のオレンジカードが発売された。
+      - 7月18日 - 8月31日 - 「**[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")号**」として運転。[999ヘッドマークが取り付けられ](../Page/999号.md "wikilink")、炭水車に「999」の[メーテル](../Page/メーテル.md "wikilink")・[星野鉄郎](../Page/星野鉄郎.md "wikilink")のイラストが掲示される。また、スタンプラリーが実施されたり、特製のオレンジカードが発売された。
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - [6月](../Page/6月.md "wikilink") - 蒸気機関車による運転休止発表。
       - [7月2日](../Page/7月2日.md "wikilink") - ディーゼル機関車牽引による「**ディーゼルあそBOY**」運転開始。
       - [8月21日](../Page/8月21日.md "wikilink") - [肥薩線](https://ja.wikipedia.org/wiki/肥薩線 "wikilink")を走る「[SL人吉](https://ja.wikipedia.org/wiki/SL人吉 "wikilink")号」運転休止。
       - [8月28日](../Page/8月28日.md "wikilink") - この日で58654牽引による「SLあそBOY」運転終了。以後、「ディーゼルあそBOY」となる。
-      - [11月27日](../Page/11月27日.md "wikilink") - この日限りで「ディーゼルあそBOY」運転終了。2006年からは代わりに「あそ1962」が運転開始された。
+      - [11月27日](../Page/11月27日.md "wikilink") - この日限りで「ディーゼルあそBOY」運転終了。2006年からは代わりに「[あそ1962](../Page/あそ1962.md "wikilink")」が運転開始された。
 
 ファイル:SL aso-boy 999version(Suizenji stn.)-19990814.jpg|[銀河鉄道999](../Page/銀河鉄道999.md "wikilink")の正面から（[水前寺駅](https://ja.wikipedia.org/wiki/水前寺駅 "wikilink")） ファイル:SL aso-boy 999version(Tateno stn.)-19990814.jpg|銀河鉄道999号の側面（[立野駅](../Page/立野駅_\(熊本県\).md "wikilink")） ファイル:Miyaji-station20050828.jpg|運転最終日の宮地駅の様子
 
@@ -72,4 +72,3 @@ SLの不調等でダイヤに大幅な遅れが見込まれる場合に限り、
 
 1.  [九州に豪華列車を　「ななつ星」の原点、28年前に 成功の陰に笑いあり（11） 九州旅客鉄道会長　唐池恒二氏](https://style.nikkei.com/article/DGXZZO23032720S7A101C1000000?channel=DF180320167079) - NIKKEI STYLE
 2.
-3.

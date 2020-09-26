@@ -457,7 +457,7 @@ Gダライアス</p></td>
 <tr class="odd">
 <td><p>5</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月25日.md" title="wikilink">8月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイトーメモリーズ#タイトーメモリーズ_下巻" title="wikilink">タイトーメモリーズ 下巻</a></p></td>
 <td><p>タイトー</p></td>
 <td><p>タイトー</p></td>
@@ -470,7 +470,7 @@ Gダライアス</p></td>
 <tr class="even">
 <td><p>6</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="../Page/9月7日.md" title="wikilink">9月7日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>TAITO BEST<br />
 タイトーメモリーズ 下巻</p></td>
 <td><p>タイトー</p></td>
@@ -484,7 +484,7 @@ Gダライアス</p></td>
 <tr class="odd">
 <td><p>7</p></td>
 <td><p><a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/6月28日.md" title="wikilink">6月28日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>エターナルヒッツ<br />
 タイトーメモリーズ 下巻</p></td>
 <td><p>タイトー</p></td>

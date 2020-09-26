@@ -51,7 +51,7 @@
 
 ## テーマ
 
-オリジナル版でのテーマ（五十音順）。歴代出場者・王者はほぼ全て一般人のため特記のない限り明記しない。
+歴代出場者・王者はほぼ全て一般人のため特記のない限り明記しない。
 
 <table>
 <thead>
@@ -425,9 +425,11 @@
 <td><p><small><sup>出演・<a href="../Page/渡辺正行.md" title="wikilink">渡辺正行</a>、<a href="../Page/森口博子.md" title="wikilink">森口博子</a>、<a href="../Page/CoCo_(アイドルグループ).md" title="wikilink">CoCo</a>、<a href="../Page/笑福亭笑瓶.md" title="wikilink">笑福亭笑瓶</a></sup></small></p></td>
 </tr>
 <tr class="odd">
+<td><p><small>カルトQ2005～誇り～<br />
+（テーマ：<a href="../Page/北の国から.md" title="wikilink">北の国から</a>）</small></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p><small><sup>司会・<a href="../Page/伊藤利尋.md" title="wikilink">伊藤利尋</a>（フジテレビアナウンサー）、<a href="https://ja.wikipedia.org/wiki/有村実樹" title="wikilink">有村実樹</a><br />
+解答者・<a href="../Page/勝俣州和.md" title="wikilink">勝俣州和</a>、<a href="../Page/増田英彦.md" title="wikilink">増田英彦</a>（<a href="../Page/ますだおかだ.md" title="wikilink">ますだおかだ</a>）、<a href="https://ja.wikipedia.org/wiki/ビビる大木" title="wikilink">ビビる大木</a></sup></small></p></td>
 </tr>
 </tbody>
 </table>

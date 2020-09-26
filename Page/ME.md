@@ -24,7 +24,7 @@
   - [動き予測](https://ja.wikipedia.org/wiki/動き予測 "wikilink") (motion estimation)
   - [代謝エネルギー](https://ja.wikipedia.org/wiki/代謝エネルギー "wikilink") (metabolizable energy)
   - [中英語](../Page/中英語.md "wikilink") (Middle English)
-  - [マイクロ-エレクトロニクス](https://ja.wikipedia.org/wiki/マイクロ-エレクトロニクス "wikilink") (Micro Electronics)
+  - [マイクロ-エレクトロニクス](https://ja.wikipedia.org/wiki/マイクロエレクトロニクス "wikilink") (Micro Electronics)
   - [最大エントロピー](../Page/最大エントロピー原理.md "wikilink") (Maximum Entropy)
 
 ### 固有名詞

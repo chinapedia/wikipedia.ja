@@ -62,4 +62,4 @@ OSたんの世界観や設定は明確に決まっておらず、いくつもの
 [Category:萌え擬人化](https://ja.wikipedia.org/wiki/Category:萌え擬人化 "wikilink") [Category:コンピュータ関連のマスコット](https://ja.wikipedia.org/wiki/Category:コンピュータ関連のマスコット "wikilink") [Category:ふたば☆ちゃんねる](https://ja.wikipedia.org/wiki/Category:ふたば☆ちゃんねる "wikilink")
 
 1.  参考書籍『とらぶる・うぃんどうず -OSたんファンブック-』
-2.  [Meのお部屋](http://web.archive.org/web/20100505041707/http://windows-me-tan.hp.infoseek.co.jp/)（2010年5月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）というMeあきのホームページでその旨が記載されている
+2.  [Meのお部屋](https://web.archive.org/web/20100505041707/http://windows-me-tan.hp.infoseek.co.jp/)（2010年5月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）というMeあきのホームページでその旨が記載されている

@@ -426,7 +426,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
 <td><p>2004年<a href="../Page/7月26日.md" title="wikilink">7月26日</a> - <a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p>月曜 26:45 - 27:15</p></td>
 <td><p>TBS系列</p></td>

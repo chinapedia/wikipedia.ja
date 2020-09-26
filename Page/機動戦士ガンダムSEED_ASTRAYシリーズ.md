@@ -302,7 +302,7 @@
 ## ゲーム
 
   - [SDガンダム GGENERATIONシリーズ](../Page/SDガンダム_GGENERATION.md "wikilink")
-      - SDガンダム GGENERATION SEED（2004年2月19日、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） - 無印
+      - SDガンダム GGENERATION SEED（2004年2月19日、[PlayStation 2](../Page/PlayStation_2.md "wikilink")） - 無印
       - SDガンダム GGENERATION WORLD（2011年2月24日、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") / [Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")） - 無印・『X』
       - SDガンダム GGENERATION OVER WORLD（2012年9月27日、PlayStation Portable） - 無印・『X』
       - SDガンダム GGENERATION CROSSRAYS（2019年11月28日、[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink") / [Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")） - 無印・『R』・『B』・『X』・『DESTINY』・『Δ』・『FRAME』・『VS』・『DESTINY R』・『DESTINY B』・『天空の皇女』

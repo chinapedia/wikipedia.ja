@@ -79,7 +79,7 @@
 
 所在地：[茨城県](../Page/茨城県.md "wikilink")[ひたちなか市](../Page/ひたちなか市.md "wikilink")「[日立製作所](../Page/日立製作所.md "wikilink")水戸事業所」 [thumb](https://ja.wikipedia.org/wiki/ファイル:EF200-901_\(No_1_end\)_Hitachi_Mito_Factory_20170603.jpg "wikilink") 2016年10月には既に廃車、除籍されていた試作車である901号機が[静態保存](../Page/静態保存.md "wikilink")のため[新鶴見信号場](../Page/新鶴見信号場.md "wikilink")から製造元である日立製作所水戸事業所に向けて[甲種輸送され](https://ja.wikipedia.org/wiki/車両輸送#甲種輸送 "wikilink")\[26\]、2017年に登場当初の塗色、形態に復元された上で展示されている\[27\]。
 
-また吹田機関区に2号機が保管されている
+また吹田機関区に2号機が保管されている。
 
 {{-}}
 

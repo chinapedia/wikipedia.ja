@@ -74,5 +74,5 @@
 4.
 5.
 6.
-7.  [宗教法人「神慈秀明会」、会長ら１６億円申告漏れ](http://web.archive.org/web/20060420153925/http://www.asahi.com/national/update/0419/OSK200604180062.html) 朝日新聞 2006年04月19日 インターネットアーカイブ
+7.  [宗教法人「神慈秀明会」、会長ら１６億円申告漏れ](https://web.archive.org/web/20060420153925/http://www.asahi.com/national/update/0419/OSK200604180062.html) 朝日新聞 2006年04月19日 インターネットアーカイブ
 8.

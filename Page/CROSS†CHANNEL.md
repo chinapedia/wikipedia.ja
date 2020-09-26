@@ -8,7 +8,7 @@
   - CROSS†CHANNEL
     [2003年](../Page/2003年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")発売。
   - CROSS†CHANNEL 〜To all people〜
-    [2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象の[PlayStation 2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。家庭用向けのシナリオ修正はオリジナル版と同じ[田中ロミオ](../Page/田中ロミオ.md "wikilink")の手によって行われており、他のシナリオライターは関わっていない。
+    [2004年](../Page/2004年.md "wikilink")[3月18日](../Page/3月18日.md "wikilink")、[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象の[PlayStation 2版が発売された](../Page/PlayStation_2.md "wikilink")。家庭用向けのシナリオ修正はオリジナル版と同じ[田中ロミオ](../Page/田中ロミオ.md "wikilink")の手によって行われており、他のシナリオライターは関わっていない。
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月25日、PlayStation Portable版が[サイバーフロント](../Page/サイバーフロント.md "wikilink")より発売された。CEROによるレーティング設定は「[D 17才以上対象](../Page/CEROレーティング17才以上対象ソフトの一覧.md "wikilink")」。
   - CROSS†CHANNEL 〜In memory of all people〜
     [2011年](../Page/2011年.md "wikilink")[4月14日](../Page/4月14日.md "wikilink")、[Xbox 360版がサイバーフロントより発売された](../Page/Xbox_360.md "wikilink")。PSP版に比べ、シナリオのボリュームが1.5倍に増えている\[1\]。追加シナリオの1つ「ANOTHER STORY」は、本編では明らかにならなかった「8人しか存在しないはずの世界で見つかった死体は誰のものか」という謎の答えになっている。これは『CROSS†CHANNEL 公式設定資料集』に収録されたシナリオを改めてゲーム化したものである。もう1本の追加シナリオ「AFTER STORY」は本編の後日談を描いたものであり、独自の主題歌が収録されている。このほか、本編の表現もPS2・PSP版よりPC版に近くなっている。

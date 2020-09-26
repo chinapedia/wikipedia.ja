@@ -276,6 +276,9 @@
   - 保子
     演：[あめくみちこ](../Page/あめくみちこ.md "wikilink")
     義貞の正室
+  - [船田入道](https://ja.wikipedia.org/wiki/船田義昌 "wikilink")
+    演：[花王おさむ](https://ja.wikipedia.org/wiki/花王おさむ "wikilink")
+    義貞の執事
   - [新田氏義](https://ja.wikipedia.org/wiki/新田氏義 "wikilink")
     演: [河合隆司](https://ja.wikipedia.org/wiki/河合隆司 "wikilink")
   - [三木俊連](https://ja.wikipedia.org/wiki/三木俊連 "wikilink")
@@ -747,7 +750,7 @@
 <td><p>6月2日</p></td>
 <td><p>鎌倉炎上</p></td>
 <td><p>佐藤幹夫</p></td>
-<td></td>
+<td><p>鎌倉</p></td>
 <td><p>27.5%</p></td>
 <td></td>
 </tr>
@@ -757,7 +760,7 @@
 <td><p>凱旋</p></td>
 <td><p>仲倉重郎</p></td>
 <td><p>峰島総生</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a>・<a href="../Page/菊池市.md" title="wikilink">菊池市</a></p></td>
 <td><p>24.6%</p></td>
 </tr>
 <tr class="even">
@@ -765,7 +768,7 @@
 <td><p>6月16日</p></td>
 <td><p>新政</p></td>
 <td><p>榎戸崇泰</p></td>
-<td></td>
+<td><p>群馬県・<a href="../Page/新田町.md" title="wikilink">新田町</a></p></td>
 <td><p>22.9%</p></td>
 <td></td>
 </tr>

@@ -3,7 +3,7 @@
 
 [Luna_Sea_logo.svg](https://ja.wikipedia.org/wiki/File:Luna_Sea_logo.svg "fig:Luna_Sea_logo.svg")
 
-**LUNA SEA**（ルナシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")ロックバンド\[1\]。1989年に現メンバーで結成し、1992年[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。2000年に終幕（解散）を宣言し活動を休止したが、2010年に活動を再開した。
+**LUNA SEA**（ルナシー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロックバンド](../Page/ヴィジュアル系.md "wikilink")\[1\]。1989年に現メンバーで結成し、1992年[メジャーデビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。2000年に終幕（解散）を宣言し活動を休止したが、2010年に活動を再開した。
 
 [RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")以外のメンバーは全員[神奈川県秦野市出身だが](../Page/秦野市.md "wikilink")、[RYUICHI](https://ja.wikipedia.org/wiki/RYUICHI "wikilink")のみ[神奈川県大和市出身である](../Page/大和市.md "wikilink")。
 
@@ -3213,7 +3213,7 @@ REBOOT -THE LAST COUNT DOWN-</p></td>
 <tr class="odd">
 <td><p><a href="../Page/TONIGHT_(LUNA_SEAの曲).md" title="wikilink">TONIGHT</a></p></td>
 <td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>EURO2000サッカー欧州選手権イメージソング<br />
-<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PS2専用ソフト</a>「新撰組郡狼伝」エンディングテーマ</p></td>
+<a href="../Page/PlayStation_2.md" title="wikilink">PS2専用ソフト</a>「新撰組郡狼伝」エンディングテーマ</p></td>
 </tr>
 <tr class="even">
 <td></td>

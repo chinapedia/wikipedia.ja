@@ -95,7 +95,7 @@ JNN海外支局再編の為、2012年3月をもって閉鎖された。
       - [4月1日](../Page/4月1日.md "wikilink") - [岡山県](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[岡山市](../Page/岡山市.md "wikilink")・[山陽新聞](../Page/山陽新聞.md "wikilink")社・[天満屋](../Page/天満屋.md "wikilink")・倉敷レイヨン（現在の[クラレ](../Page/クラレ.md "wikilink")）・[倉敷紡績](../Page/倉敷紡績.md "wikilink")などの出資で会社設立。
           - 本社は岡山市丸の内の[中國銀行本店](https://ja.wikipedia.org/wiki/中国銀行_\(日本\) "wikilink")3階に置かれた。
       - [9月15日](../Page/9月15日.md "wikilink") - サービス放送開始\[9\]。
-      - [10月1日](../Page/10月1日.md "wikilink") - 全国21番目（[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")、[大分放送](../Page/大分放送.md "wikilink")と同日）にラジオ（コールサイン：**JOYR**、呼出名称：ラジオさんよう、愛称：**ラジオ山陽**）開局。
+      - [10月1日](../Page/10月1日.md "wikilink") - 全国21番目（[西日本放送](https://ja.wikipedia.org/wiki/西日本放送ラジオ "wikilink")、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")、[熊本放送](../Page/熊本放送.md "wikilink")、[大分放送](../Page/大分放送.md "wikilink")と同日）にラジオ（コールサイン：**JOYR**、呼出名称：ラジオさんよう、愛称：**ラジオ山陽**）開局。
           - 開局に伴い、岡山市東中山下（現在の岡山市北区表町二丁目）の[天満屋](../Page/天満屋.md "wikilink")西別館\[10\] 3・4階\[11\] に演奏所を設け、本社もここへ移転した。
           - 岡山市浜野字野田（現在の岡山市[南区浜野四丁目](../Page/南区_\(岡山市\).md "wikilink")）に送信所が設置され、周波数1280[kc](https://ja.wikipedia.org/wiki/kHz "wikilink")、出力昼間1kW・夜間500W（[1956年](../Page/1956年.md "wikilink")10月1日からは終日1kWに）\[12\]。
   - [1954年](../Page/1954年.md "wikilink")（昭和29年）[9月1日](../Page/9月1日.md "wikilink") - 浜野ラジオ送信所が、ラジオ送信所としては全国初の完全無人化\[13\]。本社からの遠隔操作に。

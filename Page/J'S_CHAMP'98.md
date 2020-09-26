@@ -108,7 +108,7 @@ FM-FUJIはアーティスト番組の充実を図るべく[1998年](https://ja.w
 ## このほかFM-FUJIにおける主なアーティスト番組
 
   - 宇都宮隆 EASY ATTRACTION（[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")）
-  - SING LIKE TALKING FAST BREAK （[SING LIKE TALKING](https://ja.wikipedia.org/wiki/SING_LIKE_TALKING "wikilink")）
+  - SING LIKE TALKING FAST BREAK （[SING LIKE TALKING](../Page/SING_LIKE_TALKING.md "wikilink")）
   - EBONY & IVORY （[かとうれいこ](../Page/かとうれいこ.md "wikilink")）
   - ON THE FREEWAY （中村耕一：[JAYWALK](https://ja.wikipedia.org/wiki/JAYWALK "wikilink")）
   - GISHOの会いたくて大滝（GISHO：[PENICILLIN](../Page/PENICILLIN.md "wikilink")）- ※「[RADIO-Veep](https://ja.wikipedia.org/wiki/RADIO-Veep "wikilink")」内の1コーナーとして放送

@@ -122,7 +122,7 @@
 
 #### 艦艇
 
-戦前の[日本海軍からの受注は小型艦が主立っていたが](../Page/大日本帝国海軍.md "wikilink")（幕末および明治初期に数隻建造したのみで[軍艦](../Page/軍艦.md "wikilink")建造から離れたが、大正期になり[駆逐艦](../Page/駆逐艦.md "wikilink")建造で復帰）、当時先進的な[上陸戦](../Page/上陸戦.md "wikilink")能力を備えていた[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[船舶部隊より](https://ja.wikipedia.org/wiki/陸軍船舶司令部 "wikilink")、[特種船と称す大型](https://ja.wikipedia.org/wiki/陸軍特種船 "wikilink")[揚陸艦](../Page/揚陸艦.md "wikilink")（現代の[強襲揚陸艦](https://ja.wikipedia.org/wiki/強襲揚陸艦 "wikilink")の嚆矢とされる船種）を受注しており主力船2隻を建造している。
+戦前の[日本海軍からの受注は小型艦が主立っていたが](../Page/大日本帝国海軍.md "wikilink")（幕末および明治初期に数隻建造したのみで[軍艦](../Page/軍艦.md "wikilink")建造から離れたが、大正期になり[駆逐艦](../Page/駆逐艦.md "wikilink")建造で復帰）、当時先進的な[上陸戦](../Page/上陸戦.md "wikilink")能力を備えていた[日本陸軍の](../Page/大日本帝国陸軍.md "wikilink")[船舶部隊より](https://ja.wikipedia.org/wiki/陸軍船舶司令部 "wikilink")、[特種船と称す大型](https://ja.wikipedia.org/wiki/陸軍特種船 "wikilink")[揚陸艦](../Page/揚陸艦.md "wikilink")（現代の[強襲揚陸艦](../Page/強襲揚陸艦.md "wikilink")の嚆矢とされる船種）を受注しており主力船2隻を建造している。
 
 戦後は輸出向けに建造されたことはないため、納入先は[海上自衛隊](../Page/海上自衛隊.md "wikilink")のみである。
 

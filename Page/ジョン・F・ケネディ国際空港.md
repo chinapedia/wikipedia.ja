@@ -34,7 +34,7 @@
 
 ### B747SP誕生のきっかけとなった空港
 
-当時パンアメリカン航空の本拠地であったこの空港は、[ロンドン](../Page/ロンドン・ヒースロー空港.md "wikilink")・[パリ](../Page/パリ＝シャルル・ド・ゴール空港.md "wikilink")・[ローマからはノンストップで行けるのに対し](../Page/フィウミチーノ空港.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")からのアクセスは747就航後でも[アンカレジまたは](../Page/テッド・スティーブンス・アンカレッジ国際空港.md "wikilink")[ホノルル](../Page/ダニエル・K・イノウエ国際空港.md "wikilink")・[シアトル](../Page/シアトル・タコマ国際空港.md "wikilink")・[ロサンゼルスを経由する必要があった](../Page/ロサンゼルス国際空港.md "wikilink")。そこで、極東からJFKまでの無着陸飛行のためにボーイング社が開発したのが超長距離用747SPである。1976年4月25日、パンアメリカン航空により、世界で初めて同空港から[東京への無着陸直行便が就航した](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。
+当時パンアメリカン航空の本拠地であったこの空港は、[ロンドン](../Page/ロンドン・ヒースロー空港.md "wikilink")・[パリ/CDG](../Page/パリ＝シャルル・ド・ゴール空港.md "wikilink")・[ローマからはノンストップで行けるのに対し](../Page/フィウミチーノ空港.md "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")からのアクセスは747就航後でも[アンカレジまたは](../Page/テッド・スティーブンス・アンカレッジ国際空港.md "wikilink")[ホノルル](../Page/ダニエル・K・イノウエ国際空港.md "wikilink")・[シアトル](../Page/シアトル・タコマ国際空港.md "wikilink")・[ロサンゼルス/LAXを経由する必要があった](../Page/ロサンゼルス国際空港.md "wikilink")。そこで、極東からJFKまでの無着陸飛行のためにボーイング社が開発したのが超長距離用747SPである。1976年4月25日、パンアメリカン航空により、世界で初めて同空港から[東京への無着陸直行便が就航した](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。
 
 ## 構造と機能
 
@@ -110,37 +110,37 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [東京/成田](../Page/成田国際空港.md "wikilink")、[東京/羽田](https://ja.wikipedia.org/wiki/羽田国際空港 "wikilink")
+  - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink"): [東京/成田](../Page/成田国際空港.md "wikilink")、[東京/羽田](https://ja.wikipedia.org/wiki/羽田国際空港 "wikilink")
 
-  - [ソウル/仁川](https://ja.wikipedia.org/wiki/仁川国際空港 "wikilink")
+  - [韓国](../Page/大韓民国.md "wikilink"): [ソウル/仁川](https://ja.wikipedia.org/wiki/仁川国際空港 "wikilink")
 
-  - [台北/桃園](https://ja.wikipedia.org/wiki/台湾桃園国際空港 "wikilink")
+  - [台湾](../Page/中華民国.md "wikilink"): [台北/桃園](https://ja.wikipedia.org/wiki/台湾桃園国際空港 "wikilink")
 
-  - [香港](../Page/香港国際空港.md "wikilink")
+  - [香港](https://ja.wikipedia.org/wiki/香港 "wikilink"): [香港](../Page/香港国際空港.md "wikilink")
 
-  - [北京/首都](../Page/北京首都国際空港.md "wikilink")、[上海/浦東](../Page/上海浦東国際空港.md "wikilink")、[福州/長楽](../Page/福州長楽国際空港.md "wikilink")、[広州/白雲](../Page/広州白雲国際空港.md "wikilink")
+  - [中国](../Page/中華人民共和国.md "wikilink"): [北京/首都](../Page/北京首都国際空港.md "wikilink")、[上海/浦東](../Page/上海浦東国際空港.md "wikilink")、[福州/長楽](../Page/福州長楽国際空港.md "wikilink")、[広州/白雲](../Page/広州白雲国際空港.md "wikilink")
 
-  - [シンガポール](../Page/シンガポール・チャンギ国際空港.md "wikilink")
+  - [シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"): [シンガポール](../Page/シンガポール・チャンギ国際空港.md "wikilink")
 
-  - [デリー](../Page/インディラ・ガンディー国際空港.md "wikilink")、[ムンバイ](https://ja.wikipedia.org/wiki/チャトラパティ・シヴァージー国際空港 "wikilink")、[チェンナイ](../Page/チェンナイ国際空港.md "wikilink")
+  - [インド](../Page/インド.md "wikilink"): [デリー](../Page/インディラ・ガンディー国際空港.md "wikilink")、[ムンバイ](https://ja.wikipedia.org/wiki/チャトラパティ・シヴァージー国際空港 "wikilink")、[チェンナイ](../Page/チェンナイ国際空港.md "wikilink")
 
-  - [カラチ](../Page/ジンナー国際空港.md "wikilink")、[ラホール](../Page/アッラーマ・イクバール国際空港.md "wikilink")
+  - [パキスタン](../Page/パキスタン.md "wikilink"): [カラチ](../Page/ジンナー国際空港.md "wikilink")、[ラホール](../Page/アッラーマ・イクバール国際空港.md "wikilink")
 
-  - [ドバイ](../Page/ドバイ国際空港.md "wikilink")、[アブダビ](../Page/アブダビ国際空港.md "wikilink")
+  - [アラブ首長国連邦](../Page/アラブ首長国連邦.md "wikilink"): [ドバイ](../Page/ドバイ国際空港.md "wikilink")、[アブダビ](../Page/アブダビ国際空港.md "wikilink")
 
-  - [ドーハ](https://ja.wikipedia.org/wiki/ハマド国際空港 "wikilink")
+  - [カタール](../Page/カタール.md "wikilink"): [ドーハ](https://ja.wikipedia.org/wiki/ハマド国際空港 "wikilink")
 
-  - [リヤド](../Page/キング・ハーリド国際空港.md "wikilink")、[ジェッダ](../Page/キング・アブドゥルアズィーズ国際空港.md "wikilink")
+  - [サウジアラビア](../Page/サウジアラビア.md "wikilink"): [リヤド](../Page/キング・ハーリド国際空港.md "wikilink")、[ジェッダ](../Page/キング・アブドゥルアズィーズ国際空港.md "wikilink")
 
-  - [クウェート](../Page/クウェート国際空港.md "wikilink")
+  - [クウェート](../Page/クウェート.md "wikilink"): [クウェート](../Page/クウェート国際空港.md "wikilink")
 
-  - [アンマン](../Page/クィーンアリア国際空港.md "wikilink")
+  - [ヨルダン・ハシミテ王国](https://ja.wikipedia.org/wiki/ヨルダン・ハシミテ王国 "wikilink"): [アンマン](../Page/クィーンアリア国際空港.md "wikilink")
 
-  - [タシュケント](../Page/タシュケント国際空港.md "wikilink")
+  - [ウズベキスタン](../Page/ウズベキスタン.md "wikilink"): [タシュケント](../Page/タシュケント国際空港.md "wikilink")
 
-  - [テルアビブ](../Page/ベン・グリオン国際空港.md "wikilink")
+  - [イスラエル](../Page/イスラエル.md "wikilink"): [テルアビブ](../Page/ベン・グリオン国際空港.md "wikilink")
 
-  - [イスタンブール](../Page/アタテュルク国際空港.md "wikilink")
+  - [トルコ](../Page/トルコ.md "wikilink"): [イスタンブール](../Page/アタテュルク国際空港.md "wikilink")
 
 <!-- end list -->
 
@@ -148,19 +148,19 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [ヨハネスブルク](https://ja.wikipedia.org/wiki/ヨハネスブルグ国際空港 "wikilink")
+  - [南アフリカ](https://ja.wikipedia.org/wiki/南アフリカ共和国 "wikilink"): [ヨハネスブルク](https://ja.wikipedia.org/wiki/ヨハネスブルグ国際空港 "wikilink")
 
-  - [カサブランカ](../Page/ムハンマド5世国際空港.md "wikilink")
+  - [モロッコ](https://ja.wikipedia.org/wiki/モロッコ王国 "wikilink"): [カサブランカ](../Page/ムハンマド5世国際空港.md "wikilink")
 
-  - [アクラ](../Page/コトカ国際空港.md "wikilink")
+  - [ガーナ](https://ja.wikipedia.org/wiki/ガーナ共和国 "wikilink"): [アクラ](../Page/コトカ国際空港.md "wikilink")
 
-  - [カイロ](../Page/カイロ国際空港.md "wikilink")
+  - [エジプト](../Page/エジプト.md "wikilink"): [カイロ](../Page/カイロ国際空港.md "wikilink")
 
-  - [ナイロビ](../Page/ジョモ・ケニヤッタ国際空港.md "wikilink")
+  - [ケニア](../Page/ケニア.md "wikilink"): [ナイロビ](../Page/ジョモ・ケニヤッタ国際空港.md "wikilink")
 
-  - [ラゴス](https://ja.wikipedia.org/wiki/ムルタラ・モハンマド国際空港 "wikilink")、[アブジャ](https://ja.wikipedia.org/wiki/ンナムディ・アジキウェ国際空港 "wikilink")
+  - [ナイジェリア](../Page/ナイジェリア.md "wikilink"): [ラゴス](https://ja.wikipedia.org/wiki/ムルタラ・モハンマド国際空港 "wikilink")、[アブジャ](https://ja.wikipedia.org/wiki/ンナムディ・アジキウェ国際空港 "wikilink")
 
-  - [ダカール](../Page/レオポール・セダール・サンゴール国際空港.md "wikilink")
+  - [セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink"): [ダカール](../Page/レオポール・セダール・サンゴール国際空港.md "wikilink")
 
 <!-- end list -->
 
@@ -168,45 +168,45 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [ロンドン/ヒースロー](../Page/ロンドン・ヒースロー空港.md "wikilink")、[マンチェスター](../Page/マンチェスター空港.md "wikilink")
+  - [イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink"): [ロンドン/ヒースロー](../Page/ロンドン・ヒースロー空港.md "wikilink")、[マンチェスター](../Page/マンチェスター空港.md "wikilink")
 
-  - [アムステルダム](../Page/アムステルダム・スキポール空港.md "wikilink")
+  - [アイルランド](../Page/アイルランド.md "wikilink"): [ダブリン](../Page/ダブリン空港.md "wikilink")
 
-  - [チューリッヒ](../Page/チューリッヒ空港.md "wikilink")、[ジュネーヴ](../Page/ジュネーヴ空港.md "wikilink")
+  - [アイスランド](https://ja.wikipedia.org/wiki/アイスランド "wikilink"): [レイキャビク](../Page/ケプラヴィーク国際空港.md "wikilink")
 
-  - [レイキャビク](../Page/ケプラヴィーク国際空港.md "wikilink")
+  - [デンマーク](https://ja.wikipedia.org/wiki/デンマーク "wikilink"): [コペンハーゲン](../Page/コペンハーゲン空港.md "wikilink")
 
-  - [ウィーン](../Page/ウィーン国際空港.md "wikilink")
+  - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink"): [ストックホルム](../Page/ストックホルム・アーランダ空港.md "wikilink")
 
-  - [プラハ](../Page/ヴァーツラフ・ハヴェル・プラハ国際空港.md "wikilink")
+  - [フィンランド](../Page/フィンランド.md "wikilink"): [ヘルシンキ](../Page/ヘルシンキ・ヴァンター国際空港.md "wikilink")
 
-  - [フランクフルト](../Page/フランクフルト空港.md "wikilink")、[ミュンヘン](https://ja.wikipedia.org/wiki/ミュンヘン国際空港 "wikilink")、[デュッセルドルフ](../Page/デュッセルドルフ空港.md "wikilink")、[ベルリン](../Page/ベルリン・シェーネフェルト空港.md "wikilink")
+  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ連邦共和国 "wikilink"): [フランクフルト](../Page/フランクフルト空港.md "wikilink")、[ミュンヘン](https://ja.wikipedia.org/wiki/ミュンヘン国際空港 "wikilink")、[デュッセルドルフ](../Page/デュッセルドルフ空港.md "wikilink")、[ベルリン](../Page/ベルリン・シェーネフェルト空港.md "wikilink")
 
-  - [ミラノ](https://ja.wikipedia.org/wiki/ミラノ・マルペンサ国際空港 "wikilink")、[ローマ](../Page/フィウミチーノ空港.md "wikilink")、[ヴェネツィア](../Page/ヴェネツィア・テッセラ空港.md "wikilink")、[ピサ](../Page/ピサ空港.md "wikilink")、[ナポリ](../Page/ナポリ・カポディキーノ国際空港.md "wikilink")、[パレルモ](https://ja.wikipedia.org/wiki/ファルコーネ・ボルセリーノ国際空港 "wikilink")
+  - [スイス](../Page/スイス.md "wikilink"): [チューリッヒ](../Page/チューリッヒ空港.md "wikilink")、[ジュネーヴ](../Page/ジュネーヴ空港.md "wikilink")
 
-  - [バルセロナ](https://ja.wikipedia.org/wiki/バルセロナ＝エル・プラット空港 "wikilink")、[マドリード](https://ja.wikipedia.org/wiki/アドルフォ・スアレス・マドリード＝バラハス空港 "wikilink")、[マラガ](https://ja.wikipedia.org/wiki/マラガ＝コスタ・デル・ソル空港 "wikilink")、[バレンシア](https://ja.wikipedia.org/wiki/バレンシア空港 "wikilink")
+  - [オーストリア](../Page/オーストリア.md "wikilink"): [ウィーン](../Page/ウィーン国際空港.md "wikilink")
 
-  - [パリ/シャルル・ド・ゴール](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール国際空港 "wikilink")、[ニース](../Page/コート・ダジュール空港.md "wikilink")
+  - [オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink"): [アムステルダム](../Page/アムステルダム・スキポール空港.md "wikilink")
 
-  - [ワルシャワ](../Page/ワルシャワ・ショパン空港.md "wikilink")、
+  - [ベルギー](https://ja.wikipedia.org/wiki/ベルギー "wikilink"): [ブリュッセル](../Page/ブリュッセル空港.md "wikilink")
 
-  - [アテネ](../Page/アテネ国際空港.md "wikilink")
+  - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink"): [パリ/CDG](https://ja.wikipedia.org/wiki/シャルル・ド・ゴール国際空港 "wikilink")、[パリ/オルリー](https://ja.wikipedia.org/wiki/オルリー空港 "wikilink")、[ニース](../Page/コート・ダジュール空港.md "wikilink")
 
-  - [ブリュッセル](../Page/ブリュッセル空港.md "wikilink")
+  - [イタリア](../Page/イタリア.md "wikilink"): [ミラノ](https://ja.wikipedia.org/wiki/ミラノ・マルペンサ国際空港 "wikilink")、[ローマ](../Page/フィウミチーノ空港.md "wikilink")、[ヴェネツィア](../Page/ヴェネツィア・テッセラ空港.md "wikilink")、[ピサ](../Page/ピサ空港.md "wikilink")、[ナポリ](../Page/ナポリ・カポディキーノ国際空港.md "wikilink")、[パレルモ](https://ja.wikipedia.org/wiki/ファルコーネ・ボルセリーノ国際空港 "wikilink")
 
-  - [ヘルシンキ](../Page/ヘルシンキ・ヴァンター国際空港.md "wikilink")
+  - [スペイン](https://ja.wikipedia.org/wiki/スペイン王国 "wikilink"): [バルセロナ](https://ja.wikipedia.org/wiki/バルセロナ＝エル・プラット空港 "wikilink")、[マドリード](https://ja.wikipedia.org/wiki/アドルフォ・スアレス・マドリード＝バラハス空港 "wikilink")、[マラガ](https://ja.wikipedia.org/wiki/マラガ＝コスタ・デル・ソル空港 "wikilink")、[バレンシア](https://ja.wikipedia.org/wiki/バレンシア空港 "wikilink")
 
-  - [コペンハーゲン](../Page/コペンハーゲン空港.md "wikilink")
+  - [チェコ](../Page/チェコ.md "wikilink"): [プラハ](../Page/ヴァーツラフ・ハヴェル・プラハ国際空港.md "wikilink")
 
-  - [ストックホルム](../Page/ストックホルム・アーランダ空港.md "wikilink")
+  - [ポーランド](../Page/ポーランド.md "wikilink"): [ワルシャワ](../Page/ワルシャワ・ショパン空港.md "wikilink")、
 
-  - [ダブリン](../Page/ダブリン空港.md "wikilink")
+  - [ロシア](../Page/ロシア.md "wikilink"): [モスクワ](../Page/シェレメーチエヴォ国際空港.md "wikilink")
 
-  - [モスクワ](../Page/シェレメーチエヴォ国際空港.md "wikilink")
+  - [ウクライナ](../Page/ウクライナ.md "wikilink"): [キエフ](../Page/ボルィースピリ国際空港.md "wikilink")
 
-  - [キエフ](../Page/ボルィースピリ国際空港.md "wikilink")
+  - [ラトビア](https://ja.wikipedia.org/wiki/ラトビア "wikilink"): [リガ](../Page/リガ国際空港.md "wikilink")
 
-  - [リガ](../Page/リガ国際空港.md "wikilink")
+  - [ギリシャ](../Page/ギリシャ.md "wikilink"): [アテネ](../Page/アテネ国際空港.md "wikilink")
 
 <!-- end list -->
 
@@ -214,11 +214,11 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [トロント](https://ja.wikipedia.org/wiki/トロント・ピアソン国際空港 "wikilink")、[モントリオール](../Page/モントリオール・ピエール・エリオット・トルドー国際空港.md "wikilink")、[バンクーバー](../Page/バンクーバー国際空港.md "wikilink")
+  - [カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink"): [トロント](https://ja.wikipedia.org/wiki/トロント・ピアソン国際空港 "wikilink")、[モントリオール](../Page/モントリオール・ピエール・エリオット・トルドー国際空港.md "wikilink")、[バンクーバー](../Page/バンクーバー国際空港.md "wikilink")
 
-  - [メキシコシティ](../Page/メキシコ・シティ国際空港.md "wikilink")、[カンクン](https://ja.wikipedia.org/wiki/カンクン国際空港 "wikilink")、
+  - [メキシコ](../Page/メキシコ.md "wikilink"): [メキシコシティ](../Page/メキシコ・シティ国際空港.md "wikilink")、[カンクン](https://ja.wikipedia.org/wiki/カンクン国際空港 "wikilink")、
 
-  - [ハミルトン](../Page/バミューダ国際空港.md "wikilink")
+  - [バミューダ](https://ja.wikipedia.org/wiki/バミューダ "wikilink"): [ハミルトン](../Page/バミューダ国際空港.md "wikilink")
 
 <!-- end list -->
 
@@ -226,13 +226,13 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [パナマシティ](../Page/トクメン国際空港.md "wikilink")
+  - [パナマ](https://ja.wikipedia.org/wiki/パナマ "wikilink"): [パナマシティ](../Page/トクメン国際空港.md "wikilink")
 
-  - [サン・ホセ](../Page/フアン・サンタマリーア国際空港.md "wikilink")
+  - [コスタリカ](../Page/コスタリカ.md "wikilink"): [サン・ホセ](../Page/フアン・サンタマリーア国際空港.md "wikilink")
 
-  - [サン・ペドロ・スーラ](https://ja.wikipedia.org/wiki/ラモン・ビジェダ・モラレス国際空港 "wikilink")
+  - [ホンジュラス](https://ja.wikipedia.org/wiki/ホンジュラス "wikilink"): [サン・ペドロ・スーラ](https://ja.wikipedia.org/wiki/ラモン・ビジェダ・モラレス国際空港 "wikilink")
 
-  - [サンサルバドル](../Page/エルサルバドル国際空港.md "wikilink")
+  - [エルサルバドル](https://ja.wikipedia.org/wiki/エルサルバドル "wikilink"): [サンサルバドル](../Page/エルサルバドル国際空港.md "wikilink")
 
 <!-- end list -->
 
@@ -240,11 +240,11 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - 　[サン・フアン](../Page/ルイス・ムニョス・マリン国際空港.md "wikilink")、
+  - [プエルトリコ](../Page/プエルトリコ.md "wikilink"): [サン・フアン](../Page/ルイス・ムニョス・マリン国際空港.md "wikilink")、
 
-  - [サントドミンゴ](../Page/ラス・アメリカス国際空港.md "wikilink")、、、
+  - [ドミニカ共和国](../Page/ドミニカ共和国.md "wikilink"): [サントドミンゴ](../Page/ラス・アメリカス国際空港.md "wikilink")、、、
 
-  - オランダ海外領土
+  - [オランダ領アンティル](../Page/オランダ領アンティル.md "wikilink")（オランダ海外領土）:
 
       - [オラニエスタッド](https://ja.wikipedia.org/wiki/クィーン・ベアトリクス国際空港 "wikilink")
 
@@ -252,29 +252,29 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
       - [クラレンダイク](../Page/フラミンゴ空港.md "wikilink")
 
-  - 、[キングストン](../Page/ノーマン・マンレー国際空港.md "wikilink")
+  - [ジャマイカ](../Page/ジャマイカ.md "wikilink"): 、[キングストン](../Page/ノーマン・マンレー国際空港.md "wikilink")
 
-  - [ブリッジタウン](https://ja.wikipedia.org/wiki/グラントレー・アダムス国際空港 "wikilink")
+  - [バルバトス](../Page/バルバトス.md "wikilink"): [ブリッジタウン](https://ja.wikipedia.org/wiki/グラントレー・アダムス国際空港 "wikilink")
 
-  - [セントジョンズ](../Page/VCバード国際空港.md "wikilink")
+  - [アンティグア・バーブーダ](../Page/アンティグア・バーブーダ.md "wikilink"): [セントジョンズ](../Page/VCバード国際空港.md "wikilink")
 
-  - [ナッソー](../Page/リンデン・ピンドリング国際空港.md "wikilink")
+  - [バハマ](../Page/バハマ.md "wikilink"): [ナッソー](../Page/リンデン・ピンドリング国際空港.md "wikilink")
 
-  -
+  - [グランドケイマン](../Page/グランドケイマン.md "wikilink")（[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")海外領土）:
 
-  - [セントクリストファー島](../Page/ロバート・L・ブラッドショー国際空港.md "wikilink")
+  - [セント・クリストファー](https://ja.wikipedia.org/wiki/セント・クリストファー "wikilink"): [セントクリストファー島](../Page/ロバート・L・ブラッドショー国際空港.md "wikilink")
 
-  - [ポルトープランス](../Page/ポルトープランス国際空港.md "wikilink")
+  - [ハイチ](https://ja.wikipedia.org/wiki/ハイチ "wikilink"): [ポルトープランス](../Page/ポルトープランス国際空港.md "wikilink")
 
-  - [ポートオブスペイン](../Page/ピアルコ国際空港.md "wikilink")、[スカボロー](../Page/クラウン・ポイント空港.md "wikilink")
+  - [トリニダード・ドバゴ](https://ja.wikipedia.org/wiki/トリニダード・ドバゴ "wikilink"): [ポートオブスペイン](../Page/ピアルコ国際空港.md "wikilink")、[スカボロー](../Page/クラウン・ポイント空港.md "wikilink")
 
-  - [セントジョージズ](../Page/ポイント・サリンス国際空港.md "wikilink")
+  - [グレナダ](https://ja.wikipedia.org/wiki/グレナダ "wikilink"): [セントジョージズ](../Page/ポイント・サリンス国際空港.md "wikilink")
 
-  - [ヴューフォート](https://ja.wikipedia.org/wiki/ヘウノラ国際空港 "wikilink")
+  - [セントルシア](../Page/セントルシア.md "wikilink"): [ヴューフォート](https://ja.wikipedia.org/wiki/ヘウノラ国際空港 "wikilink")
 
-  - [プロビデンシアレス](https://ja.wikipedia.org/wiki/プロビデンシアレス国際空港 "wikilink")
+  - [プロビデンシアレス](https://ja.wikipedia.org/wiki/プロビデンシアレス "wikilink"): [プロビデンシアレス](https://ja.wikipedia.org/wiki/プロビデンシアレス国際空港 "wikilink")
 
-  - [セント・トーマス島](https://ja.wikipedia.org/wiki/シリル・E・キング空港 "wikilink")
+  - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（バージン諸島）: [セント・トーマス島](https://ja.wikipedia.org/wiki/シリル・E・キング空港 "wikilink")
 
 <!-- end list -->
 
@@ -282,19 +282,19 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [ブエノスアイレス](../Page/エセイサ国際空港.md "wikilink")
+  - [アルゼンチン](../Page/アルゼンチン.md "wikilink"): [ブエノスアイレス](../Page/エセイサ国際空港.md "wikilink")
 
-  - [サンパウロ](../Page/グアルーリョス国際空港.md "wikilink")、[リオデジャネイロ](../Page/アントニオ・カルロス・ジョビン国際空港.md "wikilink")
+  - [ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink"): [サンパウロ](../Page/グアルーリョス国際空港.md "wikilink")、[リオデジャネイロ](../Page/アントニオ・カルロス・ジョビン国際空港.md "wikilink")
 
-  - [リマ](../Page/ホルヘ・チャベス国際空港.md "wikilink")
+  - [ペルー](https://ja.wikipedia.org/wiki/ペルー "wikilink"): [リマ](../Page/ホルヘ・チャベス国際空港.md "wikilink")
 
-  - [サンティアゴ](https://ja.wikipedia.org/wiki/アルトゥーロ・メリノ・ベニテス国際空港 "wikilink")
+  - [チリ](../Page/チリ.md "wikilink"): [サンティアゴ](https://ja.wikipedia.org/wiki/アルトゥーロ・メリノ・ベニテス国際空港 "wikilink")
 
-  - [ボゴタ](../Page/エルドラド国際空港.md "wikilink")、、
+  - [コロンビア](../Page/コロンビア.md "wikilink"): [ボゴタ](../Page/エルドラド国際空港.md "wikilink")、、
 
-  - [キト](../Page/マリスカル・スクレ国際空港.md "wikilink")、[グアヤキル](https://ja.wikipedia.org/wiki/ホセ・ホアキン・デ・オルメード国際空港 "wikilink")
+  - [エクアドル](https://ja.wikipedia.org/wiki/エクアドル "wikilink"): [キト](../Page/マリスカル・スクレ国際空港.md "wikilink")、[グアヤキル](https://ja.wikipedia.org/wiki/ホセ・ホアキン・デ・オルメード国際空港 "wikilink")
 
-  - [ジョージタウン](https://ja.wikipedia.org/wiki/チェディ・ジェーガン国際空港 "wikilink")
+  - [ガイアナ](https://ja.wikipedia.org/wiki/ガイアナ "wikilink"): [ジョージタウン](https://ja.wikipedia.org/wiki/チェディ・ジェーガン国際空港 "wikilink")
 
 <!-- end list -->
 
@@ -302,7 +302,7 @@ JFK International Airport terminal 1.png|第1ターミナル JFK International A
 
 <!-- end list -->
 
-  - [シドニー](../Page/シドニー国際空港.md "wikilink")
+  - [オーストラリア](../Page/オーストラリア.md "wikilink"): [シドニー](../Page/シドニー国際空港.md "wikilink")
 
 ## アクセス
 

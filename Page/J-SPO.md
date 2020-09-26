@@ -119,7 +119,7 @@
 
 ### 単独番組時代（2002年4月8日〈7日深夜〉〜2009年3月23日〈22日深夜〉）
 
-  - **東京放送（TBS・制作局）**・[北海道放送](../Page/北海道放送.md "wikilink")・[テレビユー山形](../Page/テレビユー山形.md "wikilink")・[東北放送](../Page/東北放送.md "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[中国放送](../Page/中国放送.md "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")・[あいテレビ](../Page/あいテレビ.md "wikilink")・[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[大分放送](../Page/大分放送.md "wikilink")
+  - **東京放送（TBS・制作局）**・[北海道放送](../Page/北海道放送.md "wikilink")・[テレビユー山形](../Page/テレビユー山形.md "wikilink")・[東北放送](../Page/東北放送.md "wikilink")・[新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")・[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")・[中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")・[中国放送](../Page/中国放送.md "wikilink")・[テレビ山口](../Page/テレビ山口.md "wikilink")・[あいテレビ](../Page/あいテレビ.md "wikilink")・[熊本放送](../Page/熊本放送.md "wikilink")・[大分放送](../Page/大分放送.md "wikilink")
       -
         0:10 - 0:50（まれに特番のため0:30までの短縮放送の日がある）
   - 上記以外のJNN系列局

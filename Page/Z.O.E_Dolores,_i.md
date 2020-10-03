@@ -5,7 +5,7 @@
 
 ## 概要
 
-時間軸的には[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ZONE OF THE ENDERS](../Page/ZONE_OF_THE_ENDERS.md "wikilink")』（以下、『Z.O.E』）の後の話だが、内容的にはアニメ作品『[Z.O.E 2167 IDOLO](../Page/Z.O.E_2167_IDOLO.md "wikilink")』の続編にあたる。初老の運び屋ジェイムズ・リンクスと、彼を「おじさま」と呼んで慕う巨大ロボット[オービタルフレーム](https://ja.wikipedia.org/wiki/オービタルフレーム "wikilink")（以下OF）のドロレスを中心に、陰謀と戦乱の中での家族を描いた作品。
+時間軸的には[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[ZONE OF THE ENDERS](../Page/ZONE_OF_THE_ENDERS.md "wikilink")』（以下、『Z.O.E』）の後の話だが、内容的にはアニメ作品『[Z.O.E 2167 IDOLO](../Page/Z.O.E_2167_IDOLO.md "wikilink")』の続編にあたる。初老の運び屋ジェイムズ・リンクスと、彼を「おじさま」と呼んで慕う巨大ロボット[オービタルフレーム](https://ja.wikipedia.org/wiki/オービタルフレーム "wikilink")（以下OF）のドロレスを中心に、陰謀と戦乱の中での家族を描いた作品。
 
 物語の前半では、無実の罪で指名手配されてしまったジェイムズが、二人の子供やドロレスと逃亡生活を送りながら、一家の大黒柱として冷え切った親子関係を修復しようと奮闘する様子を描き、家族の問題が解決した終盤では、ドロレスを狙う武装組織バフラムとの死闘や[軌道エレベータ](https://ja.wikipedia.org/wiki/軌道エレベータ "wikilink")をめぐる攻防を描いている。
 

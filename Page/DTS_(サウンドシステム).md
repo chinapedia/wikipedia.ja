@@ -7,7 +7,7 @@
 
 ## 沿革
 
-映画、音楽、[LD](../Page/レーザーディスク.md "wikilink")、[DVDビデオ](../Page/DVD-Video.md "wikilink")、[BD](../Page/Blu-ray_Disc.md "wikilink")、[UHDBD](https://ja.wikipedia.org/wiki/Ultra_HD_Blu-ray "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[4用ゲームソフトの音声トラック](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[XBOXONE用の音声トラック](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PC](../Page/パーソナルコンピュータ.md "wikilink")、モバイル、[カーオーディオ](../Page/カーオーディオ.md "wikilink")、[ホームシアター](../Page/ホームシアター.md "wikilink")等として用いられている。
+映画、音楽、[LD](../Page/レーザーディスク.md "wikilink")、[DVDビデオ](../Page/DVD-Video.md "wikilink")、[BD](../Page/Blu-ray_Disc.md "wikilink")、[UHDBD](https://ja.wikipedia.org/wiki/Ultra_HD_Blu-ray "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")・[3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")・[4用ゲームソフトの音声トラック](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")、[XBOXONE用の音声トラック](https://ja.wikipedia.org/wiki/Xbox_One "wikilink")、[PC](../Page/パーソナルコンピュータ.md "wikilink")、モバイル、[カーオーディオ](../Page/カーオーディオ.md "wikilink")、[ホームシアター](../Page/ホームシアター.md "wikilink")等として用いられている。
 
 DTSの初期開発は、MCAユニバーサル・スタジオ（現:[ユニバーサル・ピクチャーズ](https://ja.wikipedia.org/wiki/ユニバーサル・ピクチャーズ "wikilink")）と[ハリウッド](../Page/ハリウッド.md "wikilink")の技術陣が共同で行った。
 

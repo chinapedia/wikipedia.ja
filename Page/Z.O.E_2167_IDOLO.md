@@ -1,7 +1,7 @@
 > この記事は[Z.O.E 2167 IDOLO](https://ja.wikipedia.org/wiki/Z.O.E_2167_IDOLO)から翻訳されています。
 
 
-『**Z.O.E 2167 IDOLO**』は、[2001年](../Page/2001年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[PlayStation 2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Z.O.E](../Page/ZONE_OF_THE_ENDERS.md "wikilink")』と同時に発売された[OVA](../Page/OVA.md "wikilink")。制作は[VAP](../Page/バップ.md "wikilink")。
+『**Z.O.E 2167 IDOLO**』は、[2001年](../Page/2001年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink")に[PlayStation 2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[Z.O.E](../Page/ZONE_OF_THE_ENDERS.md "wikilink")』と同時に発売された[OVA](../Page/OVA.md "wikilink")。制作は[VAP](../Page/バップ.md "wikilink")。
 
 ## 概要
 

@@ -223,7 +223,7 @@
   - [KBC九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")（1999年10月）
   - [大分放送](../Page/大分放送.md "wikilink")（2001年4月）
   - [長崎放送](../Page/長崎放送.md "wikilink")（2000年4月）
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（2000年1月）
+  - [熊本放送](../Page/熊本放送.md "wikilink")（2000年1月）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（1999年10月）
 
 ## 脚注

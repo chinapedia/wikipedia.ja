@@ -1,7 +1,7 @@
 > この記事は[ゼノサーガ エピソードII［善悪の彼岸］](https://ja.wikipedia.org/wiki/ゼノサーガ_エピソードII［善悪の彼岸］)から翻訳されています。
 
 
-『**ゼノサーガ エピソードII［善悪の彼岸］**』（ゼノサーガ エピソード ツー ぜんあくのひがん）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコが](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[2004年](../Page/2004年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
+『**ゼノサーガ エピソードII［善悪の彼岸］**』（ゼノサーガ エピソード ツー ぜんあくのひがん）は、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が制作、 [ナムコが](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[2004年](../Page/2004年.md "wikilink")[6月24日](../Page/6月24日.md "wikilink")に発売した[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ロールプレイングゲーム](../Page/コンピュータRPG.md "wikilink")。
 
 [ゼノサーガシリーズ](../Page/ゼノサーガシリーズ.md "wikilink")の第2作目にあたる。[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象。
 

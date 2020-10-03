@@ -9,7 +9,7 @@
 
 また、過去のゲームシステムを踏襲しつつも、カプコンが2003年に発売した[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ゲーム『[ガチャフォース](../Page/ガチャフォース.md "wikilink")』のシステムを新たに取り入れているため、過去の戦法の中には今作ではそのまま使えないものも存在する。
 
-2005年11月17日に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、PS2）への移植版が発売されたが、AC版と異なり4人対戦は不可能であった。[2007年](../Page/2007年.md "wikilink")4月5日に、ミッションモードと4人対戦を追加した『**機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE**』が[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）で発売された。
+2005年11月17日に[PlayStation 2](../Page/PlayStation_2.md "wikilink")（以下、PS2）への移植版が発売されたが、AC版と異なり4人対戦は不可能であった。[2007年](../Page/2007年.md "wikilink")4月5日に、ミッションモードと4人対戦を追加した『**機動戦士ガンダムSEED 連合vs.Z.A.F.T. PORTABLE**』が[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")（以下、PSP）で発売された。
 
 続編『[機動戦士ガンダムSEED DESTINY 連合vs.Z.A.F.T.II](../Page/機動戦士ガンダムSEED_DESTINY_連合vs.Z.A.F.T.II.md "wikilink")』が2006年6月29日に稼動開始した。
 

@@ -21,7 +21,7 @@
 </tbody>
 </table>
 
-『**想い出にかわる君 〜Memories Off〜**』（おもいでにかわるきみ 〜メモリーズオフ〜）は、[KIDが](../Page/KID_\(ゲームブランド\).md "wikilink")[2002年](../Page/2002年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")および[PlayStation 2で発売した](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称「**想君**」（おもきみ）、「**想オフ**」（おもオフ）。[2004年](../Page/2004年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズ版が発売されている](../Page/SuperLiteシリーズ.md "wikilink")（『[Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")』のプロモーションムービー収録、[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。
+『**想い出にかわる君 〜Memories Off〜**』（おもいでにかわるきみ 〜メモリーズオフ〜）は、[KIDが](../Page/KID_\(ゲームブランド\).md "wikilink")[2002年](../Page/2002年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")および[PlayStation 2で発売した](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")である。略称「**想君**」（おもきみ）、「**想オフ**」（おもオフ）。[2004年](../Page/2004年.md "wikilink")[6月3日](../Page/6月3日.md "wikilink")には[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite2000シリーズ版が発売されている](../Page/SuperLiteシリーズ.md "wikilink")（『[Memories Off 〜それから〜](../Page/Memories_Off_〜それから〜.md "wikilink")』のプロモーションムービー収録、[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。
 
 初代・2ndとキャラクターデザインは[ささきむつみ](../Page/ささきむつみ.md "wikilink")が担当していたが本作以降では担当していない。また、KIDの作品として初めて「[かもめカード](../Page/かもめカード.md "wikilink")」（[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")）の絵柄にも採用された。
 

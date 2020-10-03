@@ -35,7 +35,7 @@
 
 :\* 『[素敵だね featured in FINAL FANTASY X](../Page/素敵だね.md "wikilink")』（2001年7月18日）
 
-:\*: [プレイステーション2専用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")』主題歌。
+:\*: [プレイステーション2専用ゲーム](../Page/PlayStation_2.md "wikilink")『[ファイナルファンタジーX](../Page/ファイナルファンタジーX.md "wikilink")』主題歌。
 
 :\* 『からたち野道 / 朱鷺 -トキ-』(2003年3月19日) ※RIKKI+[宮沢和史](../Page/宮沢和史.md "wikilink")名義
 

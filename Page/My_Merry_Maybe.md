@@ -1,7 +1,7 @@
 > この記事は[My Merry Maybe](https://ja.wikipedia.org/wiki/My_Merry_Maybe)から翻訳されています。
 
 
-『**My Merry Maybe**』（マイ・メリー・メイビー）は、[KIDが](../Page/KID_\(ゲームブランド\).md "wikilink")『[My Merry May](../Page/My_Merry_May.md "wikilink")』の続編として2003年4月24日に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。同年7月10日に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売され、2005年6月30日には本作と前作を同時収録したほか、この2作を補完する3本の新シナリオと全ての[アペンドストーリー](../Page/アペンドストーリー.md "wikilink")を収めた『[My Merry May with be](https://ja.wikipedia.org/wiki/My_Merry_May_with_be "wikilink")』が発売された。
+『**My Merry Maybe**』（マイ・メリー・メイビー）は、[KIDが](../Page/KID_\(ゲームブランド\).md "wikilink")『[My Merry May](../Page/My_Merry_May.md "wikilink")』の続編として2003年4月24日に発売した[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。同年7月10日に[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が発売され、2005年6月30日には本作と前作を同時収録したほか、この2作を補完する3本の新シナリオと全ての[アペンドストーリー](../Page/アペンドストーリー.md "wikilink")を収めた『[My Merry May with be](https://ja.wikipedia.org/wiki/My_Merry_May_with_be "wikilink")』が発売された。
 
 ## 概要
 

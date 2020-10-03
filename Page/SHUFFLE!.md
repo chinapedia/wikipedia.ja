@@ -20,7 +20,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
 
 [2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")から[WOWOW](../Page/WOWOW.md "wikilink")（ノンスクランブル）にて[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")が放送された\[2\]。
 
-[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象で発売された。
+[2005年](../Page/2005年.md "wikilink")[10月20日](../Page/10月20日.md "wikilink")に[角川書店](../Page/角川書店.md "wikilink")より、新規OPムービー・OPソング\[3\]と、麻弓＝タイムおよびカレハルート・カレハの妹「ツボミ」が追加された[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『SHUFFLE\! ON THE STAGE』（シャッフル オン ザ ステージ）が[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象で発売された。
 
 スピンオフ作品として、ネリネEND後を描いた『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』、楓END後を描いた『[Really? Really\!](../Page/Really?_Really!.md "wikilink")』が発売されている。
 
@@ -46,7 +46,7 @@ Navelのデビュー作である本作品は、他社の作品に埋もれない
   - [2005年](../Page/2005年.md "wikilink")[9月16日](../Page/9月16日.md "wikilink") - ネリネEND後を描いたスピンオフ作品『[Tick\! Tack\!](../Page/Tick!_Tack!.md "wikilink")』発売。
       -
         セージ、アイ、サイネリアが初登場。
-  - 2005年[10月20日](../Page/10月20日.md "wikilink") - [PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『SHUFFLE\! ON THE STAGE』発売\[9\]。
+  - 2005年[10月20日](../Page/10月20日.md "wikilink") - [PS2版](../Page/PlayStation_2.md "wikilink")『SHUFFLE\! ON THE STAGE』発売\[9\]。
       -
         麻弓＝タイムとカレハがメインヒロインに昇格。ツボミ初登場。パッケージはメインヒロイン7人。
         DXパックと通常版が同時発売。DXパックの同梱特典は、リシアンサスフィギュア（全高約12センチメートル）、スペシャルCD「SHUFFLE\! ON THE STAGE MIX」、オリジナル携帯クリーナー。さらに予約特典として、ネリネフィギュア（全高約12センチメートル）がある。

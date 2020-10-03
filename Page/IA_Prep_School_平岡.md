@@ -3,7 +3,7 @@
 
 **I.A. Prep School 平岡**（アイ・エイ・プレップスクールひらおか）は、[英語](../Page/英語.md "wikilink")専門の[学習塾](../Page/学習塾.md "wikilink")である。旧称は平岡塾（ひらおかじゅく）\[1\]。現在でも通称はヒラオカ。
 
-設立者・前塾長は[平岡芳江](https://ja.wikipedia.org/wiki/平岡芳江 "wikilink")。[東大受験生専用の英語塾として](https://ja.wikipedia.org/wiki/東京大学 "wikilink")1965年に創立。校舎は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")桜ヶ丘。現代表は[大町慎浩](https://ja.wikipedia.org/wiki/大町慎浩 "wikilink")。
+設立者・前塾長は[平岡芳江](../Page/平岡芳江.md "wikilink")。[東大受験生専用の英語塾として](https://ja.wikipedia.org/wiki/東京大学 "wikilink")1965年に創立。校舎は[東京都](../Page/東京都.md "wikilink")[渋谷区](https://ja.wikipedia.org/wiki/渋谷区 "wikilink")桜ヶ丘。現代表は[大町慎浩](https://ja.wikipedia.org/wiki/大町慎浩 "wikilink")。
 
 ## 特色
 

@@ -21,7 +21,7 @@
 
 ## シリーズ
 
-  - 『**戦国BASARA**』 [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2） - 以下『1』。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。
+  - 『**戦国BASARA**』 [PlayStation 2](../Page/PlayStation_2.md "wikilink")（PS2） - 以下『1』。[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")発売。
       - 『**戦国BASARA**』 [PS2アーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")（GA） - [2013年](../Page/2013年.md "wikilink")[6月19日](../Page/6月19日.md "wikilink")配信。
   - 『**戦国BASARA2**』 PS2 - 以下『2』。[2006年](../Page/2006年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink")発売。
       - 『**戦国BASARA ダブルパック**』 PS2 - [2007年](../Page/2007年.md "wikilink")[7月19日](../Page/7月19日.md "wikilink")発売。『1』『2』+スペシャル映像DVDのセット。

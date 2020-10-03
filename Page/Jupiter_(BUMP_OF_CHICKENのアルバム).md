@@ -41,7 +41,7 @@
     <!-- end list -->
       -
         増川と藤原による共作。箱根で合宿を行い完成した。作詞にあたって、二人は[キャッチボール](../Page/キャッチボール.md "wikilink")ではなく[バドミントン](../Page/バドミントン.md "wikilink")をした。藤原はキャッチボールを題材に「制作中の増川のことを書いた」と語っている。
-5.  **[ハルジオン](https://ja.wikipedia.org/wiki/ハルジオン_\(BUMP_OF_CHICKENの曲\) "wikilink")**
+5.  **[ハルジオン](../Page/ハルジオン_\(BUMP_OF_CHICKENの曲\).md "wikilink")**
       - 作詞・作曲:Motoo Fujiwara
     <!-- end list -->
       -

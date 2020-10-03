@@ -85,7 +85,7 @@
   - [九州朝日放送](../Page/KBCラジオ.md "wikilink") 16:50 - 16:55（[栗田善成のまずはラジオでおつかれさん](../Page/栗田善成のまずはラジオでおつかれさん.md "wikilink")内）
   - [長崎放送](../Page/長崎放送.md "wikilink") 16:00 - 16:05
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 16:00 - 16:05
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 16:30 - 16:35
+  - [熊本放送](../Page/熊本放送.md "wikilink") 16:30 - 16:35
   - [大分放送](../Page/大分放送.md "wikilink") 16:55 - 17:00
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") 17:55 - 18:00
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") 16:55 - 17:00

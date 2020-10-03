@@ -94,7 +94,7 @@
 
 ## ゲーム
 
-  - THE MECH SMITH RUN＝DIM - [PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+  - THE MECH SMITH RUN＝DIM - [PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。
   - RUN=DIM AS Black Soul - [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")用ソフト。
   - RUN＝DIM －Return of Earth－ - [ワンダースワンカラー](../Page/ワンダースワンカラー.md "wikilink")専用ソフト（[デジタルドリーム](https://ja.wikipedia.org/wiki/デジタルドリーム "wikilink")より発売）。
 

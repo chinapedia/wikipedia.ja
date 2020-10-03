@@ -209,7 +209,7 @@
 ## ゲーム
 
   - TOUGH DARK FIGHT (タフダークファイト)
-    [PlayStation 2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[コナミより](../Page/コナミデジタルエンタテインメント.md "wikilink")2005年12月1日発売\[2\]。
+    [PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")。[コナミより](../Page/コナミデジタルエンタテインメント.md "wikilink")2005年12月1日発売\[2\]。
 
 ## 脚注
 

@@ -56,7 +56,7 @@
   - [大分放送](../Page/大分放送.md "wikilink") (土)9:15〜9:30
   - [長崎放送](../Page/長崎放送.md "wikilink") (土)14:35〜14:50
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") (土)14:35〜14:50
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") (土)12:10〜12:25
+  - [熊本放送](../Page/熊本放送.md "wikilink") (土)12:10〜12:25
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") (土)10:20〜10:35（「[MRTスーパーワイドバリッと朝](../Page/MRTスーパーワイドバリッと朝.md "wikilink")」(6:30〜11:00)枠内）
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") (土)16:35〜16:50
   - [琉球放送](../Page/琉球放送.md "wikilink") (土)10:00〜10:15

@@ -15,7 +15,7 @@
 ## 提供区域内自治体
 
   - [千葉県](../Page/千葉県.md "wikilink")
-      - [木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")、[君津市](https://ja.wikipedia.org/wiki/君津市 "wikilink")、[袖ケ浦市](https://ja.wikipedia.org/wiki/袖ケ浦市 "wikilink")、[富津市](https://ja.wikipedia.org/wiki/富津市 "wikilink")
+      - [木更津市](https://ja.wikipedia.org/wiki/木更津市 "wikilink")、[君津市](../Page/君津市.md "wikilink")、[袖ケ浦市](https://ja.wikipedia.org/wiki/袖ケ浦市 "wikilink")、[富津市](https://ja.wikipedia.org/wiki/富津市 "wikilink")
 
 ## 主な放送チャンネル
 

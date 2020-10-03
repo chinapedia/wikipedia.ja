@@ -212,7 +212,7 @@
 
 #### 2013年
 
-  - この年は様々な音楽番組に出演しボーカルの宮沢は『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）に出演しグループとしては『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、『[THE MUSIC DAY 音楽のちから](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY_音楽のちから "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に出演するなど活発的なメディア露出もした。
+  - この年は様々な音楽番組に出演しボーカルの宮沢は『[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")』（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）に出演しグループとしては『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")』（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）、『[THE MUSIC DAY 音楽のちから](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY_音楽のちから "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）に出演するなど活発的なメディア露出もした。
   - [3月20日](../Page/3月20日.md "wikilink")、「[島唄 (オリジナル・ヴァージョン)](../Page/島唄_\(オリジナル・ヴァージョン\).md "wikilink")」発売から20年を記念して、新たにレコーディングしたシングル「[島唄 (島唄20周年記念シングル)](https://ja.wikipedia.org/wiki/島唄_\(島唄20周年記念シングル\) "wikilink")」を発売。
   - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")より全国ホールツアー「THE BOOM CONCERT TOUR 2013『24』」 開催。
   - [6月19日](../Page/6月19日.md "wikilink")、アルバム『[世界でいちばん美しい島](https://ja.wikipedia.org/wiki/世界でいちばん美しい島 "wikilink")』を発売。

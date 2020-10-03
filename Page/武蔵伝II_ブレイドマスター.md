@@ -1,7 +1,7 @@
 > この記事は[武蔵伝II ブレイドマスター](https://ja.wikipedia.org/wiki/武蔵伝II_ブレイドマスター)から翻訳されています。
 
 
-『**武蔵伝II ブレイドマスター**』（*むさしでんツー BLADE MASTER*）は、[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームソフト。
+『**武蔵伝II ブレイドマスター**』（*むさしでんツー BLADE MASTER*）は、[2005年](../Page/2005年.md "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink")に[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")より発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[アクションRPG](https://ja.wikipedia.org/wiki/アクションRPG "wikilink")ゲームソフト。
 
 ## 概要
 

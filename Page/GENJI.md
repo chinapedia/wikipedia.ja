@@ -1,7 +1,7 @@
 > この記事は[GENJI](https://ja.wikipedia.org/wiki/GENJI)から翻訳されています。
 
 
-『**GENJI**』（ゲンジ）は、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[PlayStation 2向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、神威（[カムイ](https://ja.wikipedia.org/wiki/カムイ "wikilink")）アクション・アドベンチャーゲーム。[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")×[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")ジャパンの第一弾作品。また、同作品はベスト版も発売されている。
+『**GENJI**』（ゲンジ）は、[2005年](../Page/2005年.md "wikilink")[6月30日](../Page/6月30日.md "wikilink")に[PlayStation 2向けに発売された](../Page/PlayStation_2.md "wikilink")、神威（[カムイ](https://ja.wikipedia.org/wiki/カムイ "wikilink")）アクション・アドベンチャーゲーム。[ゲームリパブリック](../Page/ゲームリパブリック.md "wikilink")×[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")ジャパンの第一弾作品。また、同作品はベスト版も発売されている。
 
 ## クリエイター
 

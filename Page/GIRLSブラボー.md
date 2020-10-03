@@ -512,7 +512,7 @@
     GIRLSブラボー second season（全7巻）
   - ゲーム
     GIRLSブラボー Romance15's
-      - 2005年1月27日に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象。
+      - 2005年1月27日に[PlayStation 2で発売](../Page/PlayStation_2.md "wikilink")、[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象。
     雪成の女性アレルギーがアレルギーメーターで表現されており、メーターを振り切ると雪成は倒れて1日が強制終了されるのに対し、日々メーターを振り切らないように過ごすと、徐々に雪成の女性アレルギーが出にくくなってくる\[6\]。
 
 ## 脚注

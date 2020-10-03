@@ -14,7 +14,7 @@
 2.  [The 美学](https://ja.wikipedia.org/wiki/The_美学 "wikilink")
       - 7枚目のシングル。
 3.  あなたの彼女
-4.  [♡桃色片想い♡](https://ja.wikipedia.org/wiki/♡桃色片想い♡ "wikilink")
+4.  [♡桃色片想い♡](../Page/♡桃色片想い♡.md "wikilink")
       - 5枚目のシングル。
 5.  ダイアリー
 6.  SHINE MORE

@@ -132,7 +132,7 @@
 
 原則として『[FNN Live News α](https://ja.wikipedia.org/wiki/FNN_Live_News_α "wikilink")』『[S-PARK](https://ja.wikipedia.org/wiki/S-PARK "wikilink")』などのTNCエリア枠もローテーションで担当するほか、『614ニュース』『[福岡NEWSファイル CUBE](../Page/福岡NEWSファイル_CUBE.md "wikilink")』でのリポートもこなす。
 
-  - [柿木綾乃](https://ja.wikipedia.org/wiki/柿木綾乃 "wikilink")（契約社員、元[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")）
+  - [柿木綾乃](https://ja.wikipedia.org/wiki/柿木綾乃 "wikilink")（契約社員、元[熊本放送](../Page/熊本放送.md "wikilink")）
   - [花村枝里](https://ja.wikipedia.org/wiki/花村枝里 "wikilink")（契約社員、元[琉球放送](../Page/琉球放送.md "wikilink")、[長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink")）
   - 永野小夜子（契約社員、元[ケーブルステーション福岡](../Page/ケーブルステーション福岡.md "wikilink")）
 

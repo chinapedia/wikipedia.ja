@@ -1632,7 +1632,7 @@ ACT4では主役校となっている。
 ## ゲーム
 
   - DEAR BOYS （[ユタカ](../Page/ポピー_\(玩具メーカー\).md "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")、1994年10月28日）
-  - DEAR BOYS -Fast Break\!- （[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2003年9月18日）
+  - DEAR BOYS -Fast Break\!- （[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、2003年9月18日）
 
 ## 脚注
 

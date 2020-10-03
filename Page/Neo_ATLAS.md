@@ -1,7 +1,7 @@
 > この記事は[Neo ATLAS](https://ja.wikipedia.org/wiki/Neo_ATLAS)から翻訳されています。
 
 
-『**Neo ATLAS**』（ネオ アトラス）は、[アートディンク](../Page/アートディンク.md "wikilink")及び[メディアクエスト](https://ja.wikipedia.org/wiki/メディアクエスト "wikilink")から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")のシリーズ作品。元々は[PC-9801](https://ja.wikipedia.org/wiki/PC-9801 "wikilink")用のシミュレーションゲームとして発売されていた『[THE ATLAS](../Page/THE_ATLAS.md "wikilink")』に新たなアレンジを加え、コンシューマプラットフォームへと移植したものである。3作品が発売されており『I』と『II』はWindows用および[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")、『III』は[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。どの作品も基本的なシステムはほぼ同じ。
+『**Neo ATLAS**』（ネオ アトラス）は、[アートディンク](../Page/アートディンク.md "wikilink")及び[メディアクエスト](https://ja.wikipedia.org/wiki/メディアクエスト "wikilink")から発売された[シミュレーションゲーム](../Page/シミュレーションゲーム.md "wikilink")のシリーズ作品。元々は[PC-9801](https://ja.wikipedia.org/wiki/PC-9801 "wikilink")用のシミュレーションゲームとして発売されていた『[THE ATLAS](../Page/THE_ATLAS.md "wikilink")』に新たなアレンジを加え、コンシューマプラットフォームへと移植したものである。3作品が発売されており『I』と『II』はWindows用および[PlayStation用](../Page/PlayStation_\(ゲーム機\).md "wikilink")、『III』は[PlayStation 2用](../Page/PlayStation_2.md "wikilink")。どの作品も基本的なシステムはほぼ同じ。
 
 制作販売はメディアクエスト(Windows)、アートディンク（プレイステーション）。開発担当の有限会社フリップフロップはディレクターの山口洋一が1992年に設立した会社であったが、2007年には古巣であるアートディンクに復帰している\[1\]。
 

@@ -1,7 +1,7 @@
 > この記事は[ときめきメモリアル Girl\'s Side 2nd Kiss](https://ja.wikipedia.org/wiki/ときめきメモリアル_Girl\'s_Side_2nd_Kiss)から翻訳されています。
 
 
-『**ときめきメモリアル Girl's Side 2nd Kiss**』（ときめきメモリアル ガールズサイド セカンドキス）は、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から[PlayStation 2向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[女性向け](../Page/乙女ゲーム.md "wikilink")[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。略称は「**GS2**」。
+『**ときめきメモリアル Girl's Side 2nd Kiss**』（ときめきメモリアル ガールズサイド セカンドキス）は、[2006年](../Page/2006年.md "wikilink")[8月3日](../Page/8月3日.md "wikilink")に[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")から[PlayStation 2向けに発売された](../Page/PlayStation_2.md "wikilink")[女性向け](../Page/乙女ゲーム.md "wikilink")[恋愛シミュレーションゲーム](https://ja.wikipedia.org/wiki/恋愛シミュレーションゲーム "wikilink")。略称は「**GS2**」。
 
 『[Girl's Side](../Page/ときめきメモリアルシリーズ.md "wikilink")』のシリーズ第2弾。舞台は前作同様はばたき市だが、主人公たちが通う学校は「羽ヶ崎学園」（はねがさきがくえん）となる。
 

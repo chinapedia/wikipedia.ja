@@ -11,7 +11,7 @@
 
 『Darling II Backlash』は攻略対象キャラクターが4人に増え、グラフィックが実写ではなくイラストになった。[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")は『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』や『[頭文字D](../Page/頭文字D.md "wikilink")』で知られる[アニメーター](../Page/アニメーター.md "wikilink")の[佐藤正樹](https://ja.wikipedia.org/wiki/佐藤正樹 "wikilink")が担当。前作のメインキャラクターだった加賀見琉の兄で、今作のメインキャラクターとなるレーサーの加賀見慧も子安が演じており、それ以外のキャラクターも[緑川光](../Page/緑川光.md "wikilink")、[森久保祥太郎](../Page/森久保祥太郎.md "wikilink")といった女性ファンの人気が高い声優が担当。また[子安武人](../Page/子安武人.md "wikilink")の事務所の後輩である[佐藤ミチル](../Page/佐藤ミチル.md "wikilink")も出演している。尚、このキャスティングは子安本人によるオファで決定した。
 
-本作は[PlayStation 2移植版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より『**Darling Special Backlash 恋のエキゾースト・ヒート**』として発売され、追加要素として攻略対象キャラクターに加賀見琉が加えられた。
+本作は[PlayStation 2移植版が](../Page/PlayStation_2.md "wikilink")[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より『**Darling Special Backlash 恋のエキゾースト・ヒート**』として発売され、追加要素として攻略対象キャラクターに加賀見琉が加えられた。
 
 ## 登場人物
 

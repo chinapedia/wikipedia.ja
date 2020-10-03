@@ -1,7 +1,7 @@
 > この記事は[真・女神転生III-NOCTURNE](https://ja.wikipedia.org/wiki/真・女神転生III-NOCTURNE)から翻訳されています。
 
 
-『**真・女神転生III-NOCTURNE**』（しん・めがみてんせいスリー ノクターン）は、[アトラスより](../Page/アトラス_\(ゲーム会社\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+『**真・女神転生III-NOCTURNE**』（しん・めがみてんせいスリー ノクターン）は、[アトラスより](../Page/アトラス_\(ゲーム会社\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月20日](../Page/2月20日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 ## 概要
 

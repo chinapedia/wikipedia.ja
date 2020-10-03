@@ -93,7 +93,7 @@
 
 ## ゲームの発売
 
-本作の[続編](../Page/続編.md "wikilink")として、[2003年](../Page/2003年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のBLACK社から[PC及び](../Page/パーソナルコンピュータ.md "wikilink")[PS2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[遊星からの物体X episodeII](../Page/遊星からの物体X_episodeII.md "wikilink")』が発売された。日本語版は[コナミ社が発売している](../Page/コナミデジタルエンタテインメント.md "wikilink")。
+本作の[続編](../Page/続編.md "wikilink")として、[2003年](../Page/2003年.md "wikilink")に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")のBLACK社から[PC及び](../Page/パーソナルコンピュータ.md "wikilink")[PS2用ソフト](../Page/PlayStation_2.md "wikilink")『[遊星からの物体X episodeII](../Page/遊星からの物体X_episodeII.md "wikilink")』が発売された。日本語版は[コナミ社が発売している](../Page/コナミデジタルエンタテインメント.md "wikilink")。
 
 ## 続編
 

@@ -53,7 +53,7 @@ ACEのソロアルバム（エース清水名義）『[TIME AXIS](../Page/TIME_A
     5.  CLOUDY DAY -Inst-\[4:36\]
 4.  **RAIN** （2002年11月21日/日本クラウン）オリコン86位
     1.  RAIN\[4:34\]（作詞・作曲：ACE／編曲：face to ace）
-          - YTV・NTV系「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」エンディングテーマ
+          - YTV・NTV系「[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")」エンディングテーマ
     2.  パンドラの空\[4:39\]（作詞：ACE／作曲：HONDA KURAGE／編曲：face to ace）
     3.  RAIN -Inst-\[4:31\]
 5.  **ノンフィクション** （2003年4月23日/日本クラウン）オリコン84位

@@ -70,7 +70,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）</p></td>
 <td><p>水曜 13:25 - 13:35</p></td>
 <td><p>[5]</p></td>
 </tr>

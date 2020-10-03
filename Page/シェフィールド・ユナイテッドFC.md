@@ -278,7 +278,7 @@
 
   - [ブライアン・ディーン](https://ja.wikipedia.org/wiki/ブライアン・ディーン "wikilink") 2005-2006
 
-  - [郝海東](https://ja.wikipedia.org/wiki/郝海東 "wikilink") 2005-2007
+  - [郝海東](../Page/郝海東.md "wikilink") 2005-2007
 
   - [李鉄](../Page/李鉄.md "wikilink") 2006-2008
 

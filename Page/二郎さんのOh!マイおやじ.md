@@ -21,7 +21,7 @@
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")★
   - [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink") - NETテレビ製作『[ジャンボ尾崎のチャレンジゴルフ](../Page/尾崎将司.md "wikilink")』の後番組として放送。
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")★
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") - 火曜18:00-18:30に放送。
+  - [熊本放送](../Page/熊本放送.md "wikilink") - 火曜18:00-18:30に放送。
 
 ## 脚注
 

@@ -81,7 +81,7 @@
   - [ブレイクもの\!](https://ja.wikipedia.org/wiki/ブレイクもの! "wikilink")（フジテレビ、1998年）
   - [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")（NHK） - 戦績0勝1敗 最高342KB。
   - [いろもん](../Page/いろもん.md "wikilink")（日本テレビ、1999年）
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")）
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（[よみうりテレビ](https://ja.wikipedia.org/wiki/よみうりテレビ "wikilink")）
   - [明石家マンション物語](../Page/明石家マンション物語.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、1999年10月13日 - 2001年9月26日）
   - [笑う子犬の生活](../Page/笑う犬.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")）
   - [未来ナース](../Page/未来ナース.md "wikilink")（TBS）

@@ -44,7 +44,7 @@
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")（7:30～7:40）
   - [KBCラジオ](../Page/KBCラジオ.md "wikilink")（7:35～7:50　[中村もときの通勤ラジオ](../Page/中村もときの通勤ラジオ.md "wikilink")）
   - [長崎放送](../Page/長崎放送.md "wikilink")（8:20～8:25　今日も朝からNBC\!）
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（7:26～7:35　史郎と扶美の日刊・朝まる）
+  - [熊本放送](../Page/熊本放送.md "wikilink")（7:26～7:35　史郎と扶美の日刊・朝まる）
   - [大分放送](../Page/大分放送.md "wikilink")（7:25～7:35）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（7:00～7:10　[MRTスーパーワイドバリッと朝](../Page/MRTスーパーワイドバリッと朝.md "wikilink")）
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")（7:42～7:51　むっちゃんのきょうも元気にChi・Ka・Raこぶ）

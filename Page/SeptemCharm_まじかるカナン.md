@@ -305,7 +305,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
 <td><p>2005年<a href="../Page/1月24日.md" title="wikilink">1月24日</a> - <a href="../Page/4月25日.md" title="wikilink">4月25日</a></p></td>
 <td><p>月曜 26:20 - 26:50</p></td>
 <td></td>

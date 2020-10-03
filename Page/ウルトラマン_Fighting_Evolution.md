@@ -27,7 +27,7 @@
 
 ## ウルトラマン Fighting Evolution 2
 
-2002年10月31日発売。[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+2002年10月31日発売。[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。
 
   - 「ふらふらゲージ」の導入。このシステムによって、序盤は小技で体力を削り、最後は必殺技で勝利するテレビシリーズのウルトラマンの戦いを再現している。
       - 通常技を当てることによって「ふらふらゲージ」の値が増える。通常技では敵の体力が0になっても勝負はつかない。
@@ -119,7 +119,7 @@
 
 ## ウルトラマン Fighting Evolution 3
 
-2004年12月2日発売。[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。長期間、入手困難なプレミアソフトと化していたが、2007年7月19日に[BEST版として再発売された](https://ja.wikipedia.org/wiki/廉価版#ゲームソフト "wikilink")。
+2004年12月2日発売。[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。長期間、入手困難なプレミアソフトと化していたが、2007年7月19日に[BEST版として再発売された](https://ja.wikipedia.org/wiki/廉価版#ゲームソフト "wikilink")。
 
   - 前作の正統な発展形。『[アストラ](https://ja.wikipedia.org/wiki/ウルトラマンレオ#アストラ "wikilink")』及び『[ウルトラマン80](../Page/ウルトラマン80.md "wikilink")』や『[ウルトラマンティガ](../Page/ウルトラマンティガ.md "wikilink")』から『[ウルトラマンコスモス](../Page/ウルトラマンコスモス.md "wikilink")』までの[平成ウルトラマンシリーズのキャラ及びシナリオが追加された](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")。
   - 「ウルトラモード」のシナリオ、各キャラの必殺技、使用できるステージが大幅に追加された（ステージでは前作にあった防衛センターと異次元が削除された）。
@@ -510,7 +510,7 @@
 
 ## ウルトラマン Fighting Evolution Rebirth
 
-2005年10月27日発売。[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。2007年7月19日にBEST版として再発売された。
+2005年10月27日発売。[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")。2007年7月19日にBEST版として再発売された。
 
   - 特撮版の忠実な再現から、ゲームならではのダイナミックな演出への方針変換。ゲームオリジナル怪獣も登場。
   - ふらふらゲージが無くなり、R1でゲージを溜め、必殺技を放つ形となった。これにより、必殺技は出しにくくなっている。又、ゲージを最大まで溜めると一撃必殺技が発動されるようになった。

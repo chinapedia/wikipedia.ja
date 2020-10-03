@@ -281,7 +281,7 @@ ARMADA - [組み込みシステム](../Page/組み込みシステム.md "wikilin
 
 ### ソニー・コンピュータエンタテインメント
 
-  - [Emotion Engine](../Page/Emotion_Engine.md "wikilink")（[PlayStation 2のCPU](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[東芝](../Page/東芝.md "wikilink")と共同開発、MIPS系）
+  - [Emotion Engine](../Page/Emotion_Engine.md "wikilink")（[PlayStation 2のCPU](../Page/PlayStation_2.md "wikilink")。[東芝](../Page/東芝.md "wikilink")と共同開発、MIPS系）
   - [Cell](../Page/Cell_Broadband_Engine.md "wikilink") - （[PlayStation 3のCPU](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。[東芝](../Page/東芝.md "wikilink")、[IBM](../Page/IBM.md "wikilink")と共同開発、Power系）
 
 ### テキサス・インスツルメンツ

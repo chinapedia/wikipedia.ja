@@ -233,7 +233,7 @@ CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikili
   - 1998年 インテル [Celeron](https://ja.wikipedia.org/wiki/Celeron "wikilink")発表。
       -
         AMD K6-2 に対抗した。Pentium に対する[ローエンド](https://ja.wikipedia.org/wiki/ローエンド "wikilink")用CPUの位置づけだったが、実質的にはメインストリームのCPUとなった。
-  - [1999年](../Page/1999年.md "wikilink")2月 ISSCCにて、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が"[Emotion Engine](../Page/Emotion_Engine.md "wikilink")"を発表。世界初の完全[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")CPUであり、[プレイステーション2向けに開発された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+  - [1999年](../Page/1999年.md "wikilink")2月 ISSCCにて、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")が"[Emotion Engine](../Page/Emotion_Engine.md "wikilink")"を発表。世界初の完全[128ビット](https://ja.wikipedia.org/wiki/128ビット "wikilink")CPUであり、[プレイステーション2向けに開発された](../Page/PlayStation_2.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink") インテル [Pentium III](../Page/Pentium_III.md "wikilink") 発表
       -
         32ビットCPU。Pentium IIに高クロック化を意識してパイプラインを長大化する改良を施し、マルチメディア用演算機能を拡張した[SSEを追加したもの](../Page/ストリーミングSIMD拡張命令.md "wikilink")。
@@ -263,7 +263,7 @@ CPUの分野では業務用向けに[64ビット](../Page/64ビット.md "wikili
   - 2000年1月 米[Transmeta](https://ja.wikipedia.org/wiki/Transmeta "wikilink") [Crusoe](../Page/Crusoe.md "wikilink")発表
       -
         内部的には[VLIW](../Page/VLIW.md "wikilink")だが、コードモーフィングと呼ばれる命令変換技術で、x86系CPU互換を実現する。低消費電力を指向し、モバイル分野を意識したCPU。高密度サーバにも多く採用された。
-  - 2000年3月 [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")、[Emotion Engineを搭載した](../Page/Emotion_Engine.md "wikilink")[プレイステーション2を発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。世界初の128ビットCPU搭載システムであった。
+  - 2000年3月 [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")、[Emotion Engineを搭載した](../Page/Emotion_Engine.md "wikilink")[プレイステーション2を発売](../Page/PlayStation_2.md "wikilink")。世界初の128ビットCPU搭載システムであった。
   - 2000年3月 AMD Athlon の動作周波数が1[GHz](https://ja.wikipedia.org/wiki/GHz "wikilink")に到達。
   - 2000年10月　IBM、[RS64](../Page/RS64.md "wikilink")-IVを発表
       -

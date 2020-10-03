@@ -87,7 +87,7 @@
 <td><p><a href="../Page/BLADE_CHORD.md" title="wikilink">BLADE CHORD</a></p></td>
 <td><p>2007年<a href="../Page/12月5日.md" title="wikilink">12月5日</a></p></td>
 <td><p>2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a>/<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2用ゲームソフト</a>『<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 英雄外伝</a>2』主題歌。</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Wii" title="wikilink">Wii</a>/<a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2用ゲームソフト</a>『<a href="../Page/戦国BASARA.md" title="wikilink">戦国BASARA 英雄外伝</a>2』主題歌。</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>

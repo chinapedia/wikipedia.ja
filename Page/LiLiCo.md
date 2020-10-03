@@ -190,7 +190,7 @@
 
 ### ゲーム
 
-  - [ポイニーポイン](https://ja.wikipedia.org/wiki/ポイニーポイン "wikilink")（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、ラッド）
+  - [ポイニーポイン](https://ja.wikipedia.org/wiki/ポイニーポイン "wikilink")（[PlayStation 2](../Page/PlayStation_2.md "wikilink")、ラッド）
 
 ### ラジオ番組
 

@@ -53,7 +53,7 @@
         タイアップは、前者は[レオパレス21](../Page/レオパレス21.md "wikilink")のCMソングで、後者はアニメ『[僕等がいた](../Page/僕等がいた.md "wikilink")』のテーマ曲である。
 6.  「WORLD'S LOVE」（[2007年](../Page/2007年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")発売）
       -
-        タイアップは、[PS2用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[シャイニング・フォース イクサ](../Page/シャイニング・フォース_イクサ.md "wikilink")』主題歌、エンディング曲である。『シャイニング・フォース イクサ』のキャラが登場する、『[PROJECT X ZONE](https://ja.wikipedia.org/wiki/PROJECT_X_ZONE "wikilink")』に主題歌の『WORLD'S LOVE』がボーカル無しでリメイクされ使用されている。
+        タイアップは、[PS2用ゲームソフト](../Page/PlayStation_2.md "wikilink")『[シャイニング・フォース イクサ](../Page/シャイニング・フォース_イクサ.md "wikilink")』主題歌、エンディング曲である。『シャイニング・フォース イクサ』のキャラが登場する、『[PROJECT X ZONE](https://ja.wikipedia.org/wiki/PROJECT_X_ZONE "wikilink")』に主題歌の『WORLD'S LOVE』がボーカル無しでリメイクされ使用されている。
 7.  「BLUE☆STAR」（2007年[4月11日](../Page/4月11日.md "wikilink")発売）
       -
         タイアップは、オンラインゲーム『アミーゴ・アミーガ』のCMソングと、テレビ神奈川『[新車ファイル クルマのツボ](../Page/新車ファイル_クルマのツボ.md "wikilink")』のエンディング曲である。

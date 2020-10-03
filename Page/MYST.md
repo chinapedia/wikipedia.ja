@@ -43,7 +43,7 @@
 
 ### 『MYST III EXILE』
 
-2001年に発売された3作目。前作に引き続き、WindowsおよびMacに対応している。360度のプリレンダされた画像をマウスの操作で見渡すことができる新システムの採用で、前作にも増して映像・演出が発展した。また、比較的低スペックなPCでも快適に動作するように設計されている。後にMicrosoft社の[Xboxや](../Page/Xbox_\(ゲーム機\).md "wikilink")[PlayStation 2にも移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。ゲームソフト初の5.1chサラウンドシステムの導入により、「Xboxユーザーはいままで体験したことのない音と映像の世界を手にした」と評された。
+2001年に発売された3作目。前作に引き続き、WindowsおよびMacに対応している。360度のプリレンダされた画像をマウスの操作で見渡すことができる新システムの採用で、前作にも増して映像・演出が発展した。また、比較的低スペックなPCでも快適に動作するように設計されている。後にMicrosoft社の[Xboxや](../Page/Xbox_\(ゲーム機\).md "wikilink")[PlayStation 2にも移植された](../Page/PlayStation_2.md "wikilink")。ゲームソフト初の5.1chサラウンドシステムの導入により、「Xboxユーザーはいままで体験したことのない音と映像の世界を手にした」と評された。
 
 なお、本作品の製作はPresto Studios（[:en:Presto Studios](https://ja.wikipedia.org/wiki/:en:Presto_Studios "wikilink")）である。また、『ロード・オブ・ザ・リング/二つの塔』で**蛇の舌グリマ**役を演じた[ブラッド・ドゥーリフ](../Page/ブラッド・ドゥーリフ.md "wikilink")が出演している。
 

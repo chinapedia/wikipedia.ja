@@ -1335,7 +1335,7 @@ EDのスタッフロール終了後から次回予告の間にあたるパタパ
     ニンテンドーDS用ソフト
     2006年[3月30日](../Page/3月30日.md "wikilink") 発売
   - メルヘヴン ÄRM FIGHT DREAM
-    [プレイステーション2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+    [プレイステーション2用ソフト](../Page/PlayStation_2.md "wikilink")
     [2005年](../Page/2005年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink") 発売
   - メルヘヴン KNOCKIN'ON HEAVEN'S DOOR
     [ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")用ソフト

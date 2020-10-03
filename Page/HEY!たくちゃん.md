@@ -144,7 +144,7 @@
   - [萩本欽一](../Page/萩本欽一.md "wikilink")
   - [所ジョージ](https://ja.wikipedia.org/wiki/所ジョージ "wikilink")
   - [内村光良](https://ja.wikipedia.org/wiki/内村光良 "wikilink")
-  - [浜田雅功](../Page/浜田雅功.md "wikilink")[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")内で本人の前で披露
+  - [浜田雅功](../Page/浜田雅功.md "wikilink")[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")内で本人の前で披露
   - [松本人志](../Page/松本人志.md "wikilink")ダウンタウンDX内で本人の前で披露
   - [東野幸治](../Page/東野幸治.md "wikilink")
   - [千原せいじ](../Page/千原せいじ.md "wikilink")

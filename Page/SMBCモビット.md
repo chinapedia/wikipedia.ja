@@ -48,7 +48,7 @@
 
 ## 提供番組
 
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）※同業の[アイフル](../Page/アイフル.md "wikilink")、[アコム](../Page/アコム.md "wikilink")も提供。
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")）※同業の[アイフル](../Page/アイフル.md "wikilink")、[アコム](../Page/アコム.md "wikilink")も提供。
   - [陸海空 こんなところでヤバイバル](https://ja.wikipedia.org/wiki/陸海空_こんなところでヤバイバル "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列）
   - [ダウンタウンなう](https://ja.wikipedia.org/wiki/ダウンタウンなう "wikilink")（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）※同業のアイフル、アコム、[プロミス](../Page/SMBCコンシューマーファイナンス.md "wikilink")、[レイクALSAも提供](../Page/新生フィナンシャル.md "wikilink")。
   - [竹中直人〜月夜の蟹〜](../Page/竹中直人〜月夜の蟹〜.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")）※旧題の「竹中直人ハードボイルド・ソーセージ」よりスポンサーを務める。

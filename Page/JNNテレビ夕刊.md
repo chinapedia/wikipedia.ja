@@ -37,7 +37,7 @@
   - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")\[5\]
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [長崎放送](../Page/長崎放送.md "wikilink")
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - [熊本放送](../Page/熊本放送.md "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")\[6\]
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")

@@ -230,7 +230,7 @@ TVコードに伴ういくつかの変更点はあるが、物語の大筋に大
 
 ## ゲーム
 
-『**REC☆ドキドキ声優パラダイス☆**』は、2006年11月30日発売の[PlayStation 2専用ゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、限定版も同時発売。
+『**REC☆ドキドキ声優パラダイス☆**』は、2006年11月30日発売の[PlayStation 2専用ゲームソフト](../Page/PlayStation_2.md "wikilink")、限定版も同時発売。
 
 ### キャラクター（ゲーム）
 

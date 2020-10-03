@@ -214,7 +214,7 @@
 
 ## イース -ナピシュテムの匣-
 
-[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")による[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 及び、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) 向けの移植作品。開発を行ったのはコナミの米国子会社・Konami Digital Entertainment,Inc.（現在「KONAMI」ブランドで日本国内のゲーム事業を行う[同名企業とは異なる](../Page/コナミデジタルエンタテインメント.md "wikilink")。[参照](http://www.konami.co.jp/press/2003/12/032/r.15.12.08.html)）。
+[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")による[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 及び、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink") (PSP) 向けの移植作品。開発を行ったのはコナミの米国子会社・Konami Digital Entertainment,Inc.（現在「KONAMI」ブランドで日本国内のゲーム事業を行う[同名企業とは異なる](../Page/コナミデジタルエンタテインメント.md "wikilink")。[参照](http://www.konami.co.jp/press/2003/12/032/r.15.12.08.html)）。
 
 シリーズ番号を外したのは、[コンシューマー機市場において](../Page/コンシューマーゲーム.md "wikilink")『イース』を知らない新規ユーザが続き物である事を理由に避けない様にした為と言われている。
 

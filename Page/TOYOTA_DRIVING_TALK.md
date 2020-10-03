@@ -47,7 +47,7 @@
   - [九州朝日放送](../Page/KBCラジオ.md "wikilink") 10:48 - 10:53（『[ブギウギラジオ](../Page/ブギウギラジオ.md "wikilink")』内）
   - [長崎放送](../Page/長崎放送.md "wikilink")・[NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") 9:45 - 9:50
   - [大分放送](../Page/大分放送.md "wikilink") 9:01 - 9:06（『おはようラジオ』内）
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 8:55 - 8:59
+  - [熊本放送](../Page/熊本放送.md "wikilink") 8:55 - 8:59
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink") 10:15 - 10:20
   - [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink") 11:55 - 12:00（『たんぽぽ倶楽部』内）
   - [ラジオ沖縄](https://ja.wikipedia.org/wiki/ラジオ沖縄 "wikilink") 9:15 - 9:20（『[まことにいい朝\!](../Page/まことにいい朝!.md "wikilink")』内）

@@ -203,7 +203,7 @@ MCである[キャイ〜ン](../Page/キャイ〜ン.md "wikilink")・[モーニ
   - 福岡県 - TVQ **[TVQ九州放送](../Page/TVQ九州放送.md "wikilink")** ★
   - 佐賀県 - 未放送
   - 長崎県 - NCC [長崎文化放送](https://ja.wikipedia.org/wiki/長崎文化放送 "wikilink")（テレビ朝日系列）
-  - 熊本県 - RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（TBS系列）
+  - 熊本県 - RKK [熊本放送](../Page/熊本放送.md "wikilink")（TBS系列）
   - 大分県 - OBS [大分放送](../Page/大分放送.md "wikilink")（同上） ☆
   - 宮崎県 - 未放送
   - 鹿児島県 - KYT [鹿児島読売テレビ](../Page/鹿児島讀賣テレビ.md "wikilink")（日本テレビ系列）

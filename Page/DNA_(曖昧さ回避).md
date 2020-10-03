@@ -47,7 +47,7 @@
   - [D・N・A² 〜何処かで失くしたあいつのアイツ〜](../Page/D・N・A²_〜何処かで失くしたあいつのアイツ〜.md "wikilink") - [桂正和](https://ja.wikipedia.org/wiki/桂正和 "wikilink")の漫画作品。
   - [D・N・ANGEL](../Page/D・N・ANGEL.md "wikilink") - [杉崎ゆきる](../Page/杉崎ゆきる.md "wikilink")の漫画・アニメ作品
   - DNA - テレビゲーム[電脳戦機バーチャロン](../Page/電脳戦機バーチャロン.md "wikilink")に登場する架空の軍事組織。[電脳戦機バーチャロン\#運用組織](https://ja.wikipedia.org/wiki/電脳戦機バーチャロン#運用組織 "wikilink")を参照。
-  - [D.N.A. 〜Dark Native Apostle〜](https://ja.wikipedia.org/wiki/D.N.A._〜Dark_Native_Apostle〜 "wikilink") - [ハドソン](../Page/ハドソン.md "wikilink")から発売された[PlayStation 2用のゲームソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+  - [D.N.A. 〜Dark Native Apostle〜](https://ja.wikipedia.org/wiki/D.N.A._〜Dark_Native_Apostle〜 "wikilink") - [ハドソン](../Page/ハドソン.md "wikilink")から発売された[PlayStation 2用のゲームソフト](../Page/PlayStation_2.md "wikilink")。
   - DNA (通信社) - [アルジェリア](../Page/アルジェリア.md "wikilink")の通信社
   - [D.N.A (どうでしょう・なびげーと・あんちゃん)](../Page/水曜どうでしょう.md "wikilink") - かつて放送されていた、[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")の再放送版、[どうでしょうリターンズ](https://ja.wikipedia.org/wiki/どうでしょうリターンズ "wikilink")において、[安田顕](../Page/安田顕.md "wikilink")の肩書き。
   - DNA - アニメ[メタルファイト ベイブレード ZEROGに登場する架空の組織](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG "wikilink")。詳細は[メタルファイト ベイブレード ZEROG\#作中用語を参照](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG#作中用語 "wikilink")

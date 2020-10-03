@@ -1,7 +1,7 @@
 > この記事は[NAMCO x CAPCOM](https://ja.wikipedia.org/wiki/NAMCO_x_CAPCOM)から翻訳されています。
 
 
-『**NAMCO x CAPCOM**』（ナムコ クロス カプコン）は、[カプコン](../Page/カプコン.md "wikilink")の許諾を受けて、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が開発し、[ナムコが製造](../Page/バンダイナムコエンターテインメント.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[シミュレーションRPGである](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。通称「ナムカプ」。
+『**NAMCO x CAPCOM**』（ナムコ クロス カプコン）は、[カプコン](../Page/カプコン.md "wikilink")の許諾を受けて、[モノリスソフト](../Page/モノリスソフト.md "wikilink")が開発し、[ナムコが製造](../Page/バンダイナムコエンターテインメント.md "wikilink")、[2005年](../Page/2005年.md "wikilink")[5月26日](../Page/5月26日.md "wikilink")に発売した[PlayStation 2用の](../Page/PlayStation_2.md "wikilink")[シミュレーションRPGである](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。通称「ナムカプ」。
 
 ## 概要
 

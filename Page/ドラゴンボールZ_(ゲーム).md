@@ -1,7 +1,7 @@
 > この記事は[ドラゴンボールZ \(ゲーム\)](https://ja.wikipedia.org/wiki/ドラゴンボールZ_\(ゲーム\))から翻訳されています。
 
 
-『**ドラゴンボールZ**』（ドラゴンボールゼット、**DRAGON BALL Z**）は、[ディンプス](../Page/ディンプス.md "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦](../Page/対戦型格闘ゲーム.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
+『**ドラゴンボールZ**』（ドラゴンボールゼット、**DRAGON BALL Z**）は、[ディンプス](../Page/ディンプス.md "wikilink")が開発し、[バンダイ](../Page/バンダイ.md "wikilink")が発売した[PlayStation 2用の](../Page/PlayStation_2.md "wikilink")[3D](../Page/3次元コンピュータグラフィックス.md "wikilink")[対戦](../Page/対戦型格闘ゲーム.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")。
 
 本作はPlayStation2用ソフトとして[2003年](../Page/2003年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")に発売されたのち、同年の[11月28日](../Page/11月28日.md "wikilink")に[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")版が発売された。
 

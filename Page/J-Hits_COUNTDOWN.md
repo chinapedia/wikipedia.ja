@@ -182,7 +182,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）[7]</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）[7]</p></td>
 <td><p>水曜 23:00 - 23:30</p></td>
 <td><p>後番組は『<a href="https://ja.wikipedia.org/wiki/ウィリアムス浩子のMY_ROOM_JAZZ" title="wikilink">ウィリアムス浩子のMY ROOM JAZZ</a>』を放送。</p></td>
 </tr>

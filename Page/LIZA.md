@@ -20,7 +20,7 @@
   - [奇跡体験\!アンビリバボー](../Page/奇跡体験!アンビリバボー.md "wikilink")（2007年4月 - 、フジテレビ系） 隔週レギュラー
   - [雨上がり決死隊のトーク番組アメトーーク\!](../Page/雨上がり決死隊のトーク番組アメトーーク!.md "wikilink")（2007年6月7日、[テレビ朝日](../Page/テレビ朝日.md "wikilink")系）
   - [ブルブルアンタッチャブル](../Page/ブルブルアンタッチャブル.md "wikilink")（2007年8月10日、[ABCテレビ](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")）
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（2007年8月23日、[読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")）
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（2007年8月23日、[読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")）
   - [easy sports](https://ja.wikipedia.org/wiki/easy_sports "wikilink")（2008年10月13日 - 17日、テレビ朝日系）
   - [Goro's Bar](../Page/Goro's_Bar.md "wikilink")（2007年10月18日、[TBS系](../Page/TBSテレビ.md "wikilink")）
 

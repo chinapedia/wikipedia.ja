@@ -3,7 +3,7 @@
 
 『**ラングリッサーIII**』（ラングリッサースリー）は、[1996年](../Page/1996年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")に[日本コンピュータシステム](../Page/日本コンピュータシステム.md "wikilink")（メサイヤ）から発売された[セガサターン](../Page/セガサターン.md "wikilink")用[コンピュータゲーム](../Page/コンピュータゲーム.md "wikilink")[ソフトである](../Page/ゲームソフト.md "wikilink")。[ラングリッサー](https://ja.wikipedia.org/wiki/ラングリッサー "wikilink")シリーズの第3作。
 
-[2005年](../Page/2005年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")には[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")より[PlayStation 2に移植された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[10月27日](../Page/10月27日.md "wikilink")には[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")より[PlayStation 2に移植された](../Page/PlayStation_2.md "wikilink")。
 
 ## 概要
 

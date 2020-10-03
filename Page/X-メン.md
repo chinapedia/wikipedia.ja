@@ -1114,7 +1114,7 @@ X-メンのメンバーの一部をハイティーンに設定し、学園青春
   - [:en:X-Men Legends](https://ja.wikipedia.org/wiki/:en:X-Men_Legends "wikilink")
     [Xboxのワールドコレクションで発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。発売はACTIVISION、開発はRAVEN SOFTWARE。斜め上から見たスタイルのアクションRPG。続編も発売された。
   - [:en:X-Men Legends II: Rise of Apocalypse](https://ja.wikipedia.org/wiki/:en:X-Men_Legends_II:_Rise_of_Apocalypse "wikilink")
-    Xbox、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation 2の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3ハード同時発売されたが、発売日が遅れて[PlayStation Portableも発売された](../Page/PlayStation_Portable.md "wikilink")。日本では発売されていないが、Xboxなら海外版をプレイすることができる。
+    Xbox、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[PlayStation 2の](../Page/PlayStation_2.md "wikilink")3ハード同時発売されたが、発売日が遅れて[PlayStation Portableも発売された](../Page/PlayStation_Portable.md "wikilink")。日本では発売されていないが、Xboxなら海外版をプレイすることができる。
     尚、PSP版は発売が遅れた代わりにキャラクターが4人追加されている。
     X-MEN LEGENDSの続編で、『エイジ・オブ・アポカリプス』をモデルとしたゲーム版オリジナルストーリーでゲームが進む。システムに大きな変化はない。ナイトクロウラーなどは『エイジ・オブ・アポカリプス』をモデルとしたグラフィックになっているが、同作で死んでいたプロフェッサーXが生きているなどストーリーの核となる部分が変わっている。
     PSP版では4人の追加キャラが使用可能となり、「発売が遅れてすみません。しかしPSPではケーブルが使えます！！」という売り文句をWebサイトで載せていた。

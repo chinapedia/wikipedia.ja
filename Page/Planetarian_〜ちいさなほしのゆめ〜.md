@@ -20,7 +20,7 @@
       - [12月6日](../Page/12月6日.md "wikilink") - PC版、一般向けにダウンロード販売開始（オープニング・エンディングのみ声入り）。
   - [2006年](../Page/2006年.md "wikilink")
       - [4月28日](../Page/4月28日.md "wikilink") - PCパッケージ版発売（ヒロインのみフルボイス対応）。
-      - [8月24日](../Page/8月24日.md "wikilink") - [プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 版発売（全キャラクターフルボイス対応）\[2\]。
+      - [8月24日](../Page/8月24日.md "wikilink") - [プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 版発売（全キャラクターフルボイス対応）\[2\]。
       - [11月28日](../Page/11月28日.md "wikilink") - [携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として、[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[3G対応端末と](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けに配信開始（全キャラクターフルボイス対応）。
   - [2009年](../Page/2009年.md "wikilink")
       - [2月28日](../Page/2月28日.md "wikilink")・[3月1日](../Page/3月1日.md "wikilink") - Key誕生10周年記念イベントにおいて、会場限定で[PSPパッケージ版を販売](../Page/PlayStation_Portable.md "wikilink")。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-世界各地で開催されるF1のデータを収録したゲームとして、[1996年](../Page/1996年.md "wikilink")に第1作が発売。[欧州地域ではソニー](../Page/ヨーロッパ.md "wikilink")・コンピュータエンタテインメント・ヨーロッパ (Sony Computer Entertainment Europe, SCEE) の子会社で開発部門の（2000年以降は「SCEスタジオ・リバプール」として運営。2012年閉鎖）をメインパブリッシャーとし、各地域のSCEがローカライズをする形となる。シリーズの発売はほぼシーズン毎に行われ\[1\]、初期作品はSCEの外部スタジオによる開発だったが、2001年シリーズ（[PlayStation 2向け](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）以降は一括してスタジオ・リバプールが担当した。
+世界各地で開催されるF1のデータを収録したゲームとして、[1996年](../Page/1996年.md "wikilink")に第1作が発売。[欧州地域ではソニー](../Page/ヨーロッパ.md "wikilink")・コンピュータエンタテインメント・ヨーロッパ (Sony Computer Entertainment Europe, SCEE) の子会社で開発部門の（2000年以降は「SCEスタジオ・リバプール」として運営。2012年閉鎖）をメインパブリッシャーとし、各地域のSCEがローカライズをする形となる。シリーズの発売はほぼシーズン毎に行われ\[1\]、初期作品はSCEの外部スタジオによる開発だったが、2001年シリーズ（[PlayStation 2向け](../Page/PlayStation_2.md "wikilink")）以降は一括してスタジオ・リバプールが担当した。
 
 欧州・[北米では夏から秋頃の発売が通例となっていたことから](../Page/北アメリカ.md "wikilink")、基本「シーズン開幕時点でのマシン・ドライバー」を収録しているが、初代のように**シーズン中に入れ替わったドライバー**が重複して収録されているパターンや、発売時期がシーズン終了後から開幕前にずれ込んだ『[Formula One Championship Edition](https://ja.wikipedia.org/wiki/Formula_One_Championship_Edition "wikilink")』のように、**シーズン中盤のデータ**を収録しているケースも存在する。また、ゲーム内でのコメンタリーには実際のテレビ中継で実況・解説を担当している人物を据え、欧州版では[BBC](../Page/英国放送協会.md "wikilink")・[ITVで実況を担当した](../Page/ITV_\(イギリス\).md "wikilink")が長年起用されていた\[2\]。
 
@@ -85,7 +85,7 @@ Microsoft Windows</p></td>
 PS2版は<a href="../Page/ロジクール.md" title="wikilink">ロジクール</a>製の<a href="../Page/ステアリングコントローラ.md" title="wikilink">ステアリングコントローラ</a>「GT FORCE」へ対応した（以降のシリーズ作品も同じ）。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td></td>
 <td><p>SCEスタジオ・リバプール</p></td>
 <td></td>

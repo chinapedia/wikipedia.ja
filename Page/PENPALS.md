@@ -39,7 +39,7 @@
 <li>TELL ME WHY[3:13]
 <dl>
 <dt></dt>
-<dd>アニメ「<a href="../Page/ベルセルク_(漫画).md" title="wikilink">ベルセルク</a>」OP、「<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>」内「スター青春白書」OP
+<dd>アニメ「<a href="../Page/ベルセルク_(漫画).md" title="wikilink">ベルセルク</a>」OP、「<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>」内「スター青春白書」OP
 </dd>
 </dl></li>
 <li>underground[3:43]（作詞・作曲・編曲：PENPALS）</li>
@@ -164,7 +164,7 @@
 <li>Life on the way[5:16]（作詞・作曲：林宗應／編曲：PENPALS）
 <dl>
 <dt></dt>
-<dd>NTV系「<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>」エンディングテーマ
+<dd>NTV系「<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>」エンディングテーマ
 </dd>
 </dl></li>
 <li>SPYDER[3:13]作詞・作曲：林宗應／編曲：PENPALS）</li>

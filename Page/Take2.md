@@ -54,7 +54,7 @@
   - [ものまねグランプリ](https://ja.wikipedia.org/wiki/ものまねグランプリ "wikilink")（NTV） - 第2回（2009年9月）
   - [ぐるぐるナインティナイン](../Page/ぐるぐるナインティナイン.md "wikilink")（NTV）
   - [踊る\!さんま御殿\!\!](../Page/踊る!さんま御殿!!.md "wikilink")（NTV）
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[YTV](https://ja.wikipedia.org/wiki/読売テレビ放送 "wikilink")）
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（[YTV](https://ja.wikipedia.org/wiki/読売テレビ放送 "wikilink")）
   - [おもいッきりPON\!](https://ja.wikipedia.org/wiki/おもいッきりDON! "wikilink")（NTV） - 「ハラハラトーク スタア秘宝館」ゲスト（2009年11月26日）
   - [めっけMON\!](../Page/めっけMON!.md "wikilink")（TBS）総合司会の[徳光和夫](../Page/徳光和夫.md "wikilink")が入院で番組を休養していた時は東が徳光の代わりに総合司会を務めた
 

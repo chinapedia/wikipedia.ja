@@ -114,7 +114,7 @@
   - AF 温泉モノ（発売日・価格未定）
   - White Shadow（発売日・価格未定）
 
-「Angel's Feather」と「Angel's Feather -琥珀の瞳-」は[PlayStation 2版も発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+「Angel's Feather」と「Angel's Feather -琥珀の瞳-」は[PlayStation 2版も発売されている](../Page/PlayStation_2.md "wikilink")。
 
 「Angel's Feather -琥珀の瞳-」は、PS2版では「Angel's Feather -黒の残影-」として発売されている。
 

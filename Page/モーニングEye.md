@@ -296,7 +296,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
 <td><p>1989年10月2日よりネット開始 9:55で飛び降り</p></td>
 <td></td>
 </tr>

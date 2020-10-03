@@ -1,7 +1,7 @@
 > この記事は[ときめきメモリアル Girl\'s Side](https://ja.wikipedia.org/wiki/ときめきメモリアル_Girl\'s_Side)から翻訳されています。
 
 
-『**ときめきメモリアル Girl's Side**』（ときめきメモリアル ガールズサイド、略称は「ときメモGS」）は、[2002年](../Page/2002年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から[PlayStation 2向けに発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[女性](../Page/女性.md "wikilink")向け[恋愛シミュレーションゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。製作会社は[コナミコンピュータエンタテインメント東京](../Page/コナミコンピュータエンタテインメント東京.md "wikilink")。開発協力に[テンキー](../Page/テンキー_\(ゲーム会社\).md "wikilink")。
+『**ときめきメモリアル Girl's Side**』（ときめきメモリアル ガールズサイド、略称は「ときメモGS」）は、[2002年](../Page/2002年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink")）から[PlayStation 2向けに発売された](../Page/PlayStation_2.md "wikilink")[女性](../Page/女性.md "wikilink")向け[恋愛シミュレーションゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。製作会社は[コナミコンピュータエンタテインメント東京](../Page/コナミコンピュータエンタテインメント東京.md "wikilink")。開発協力に[テンキー](../Page/テンキー_\(ゲーム会社\).md "wikilink")。
 
 また、[移植版として](../Page/移植_\(ソフトウェア\).md "wikilink")[2007年](../Page/2007年.md "wikilink")[3月15日](../Page/3月15日.md "wikilink")に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用ソフト『**ときめきメモリアル Girl's Side 1st Love**』（ -ガールズサイドファーストラブ、略称は「GSDS」）が発売された。更に、[2009年](../Page/2009年.md "wikilink")[3月12日](../Page/3月12日.md "wikilink")にはGSDSのフルボイス版『**ときめきメモリアル Girl's Side 1st Love Plus**』が発売されている。
 

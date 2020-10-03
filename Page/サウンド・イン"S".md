@@ -85,7 +85,7 @@
   - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（現：[RSK山陽放送](../Page/RSK山陽放送.md "wikilink")）
   - [中国放送](../Page/中国放送.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - [熊本放送](../Page/熊本放送.md "wikilink")
 
 一部時差ネット局あり。なお、当時の少民放地域のTBS系列単独加盟局は、未ネットの局もあった。
 

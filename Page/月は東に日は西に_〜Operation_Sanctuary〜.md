@@ -11,7 +11,7 @@
 
 原画は前々作、前作と同じく[べっかんこう](https://ja.wikipedia.org/wiki/べっかんこう "wikilink")。システムは必要なものはほぼすべて備えており、プレイアビリティを損ねる要素はほとんどない。また、主人公以外フルボイスというのは同ブランド初の試み。各ヒロイン別の[BGMや](../Page/バックグラウンドミュージック.md "wikilink")、立ち絵の表情分けなど、前作では叶わなかったものを実装している。
 
-[アルケミストにより](../Page/アルケミスト_\(企業\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")・[PlayStation 2へ移植されたほか](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、小説や[ドラマCD](../Page/ドラマCD.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")、[フィギュア](../Page/フィギュア.md "wikilink")、[アンソロジー](../Page/アンソロジー.md "wikilink")コミックスに至る迄、多数の[メディアミックス](../Page/メディアミックス.md "wikilink")作品が登場した。
+[アルケミストにより](../Page/アルケミスト_\(企業\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")・[PlayStation 2へ移植されたほか](../Page/PlayStation_2.md "wikilink")、小説や[ドラマCD](../Page/ドラマCD.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")、[フィギュア](../Page/フィギュア.md "wikilink")、[アンソロジー](../Page/アンソロジー.md "wikilink")コミックスに至る迄、多数の[メディアミックス](../Page/メディアミックス.md "wikilink")作品が登場した。
 
 オーガスト作品のファンディスクである『[オーガストファンBOX](../Page/オーガストファンBOX.md "wikilink")』にも短編シナリオや、キャラクターに関する情報を掲載したデータベースなどのコンテンツがある。
 
@@ -429,7 +429,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
 <td><p>2004年<a href="../Page/7月26日.md" title="wikilink">7月26日</a> - <a href="../Page/10月18日.md" title="wikilink">10月18日</a></p></td>
 <td><p>月曜 26:45 - 27:15</p></td>
 <td><p>TBS系列</p></td>

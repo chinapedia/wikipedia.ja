@@ -1,7 +1,7 @@
 > この記事は[ホームメイド -Homemaid-](https://ja.wikipedia.org/wiki/ホームメイド_-Homemaid-)から翻訳されています。
 
 
-『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象の[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ホームメイド〜終の館〜**』が[2005年](../Page/2005年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に発売された。
+『**ホームメイド -Homemaid-**』は、[CIRCUS FETISHの](https://ja.wikipedia.org/wiki/CIRCUS_\(ブランド\) "wikilink")[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")である。[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に初回限定版が、[10月29日](../Page/10月29日.md "wikilink")に通常版が発売された。また、[プリンセスソフト](../Page/プリンセスソフト.md "wikilink")から[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象の[プレイステーション2版](../Page/PlayStation_2.md "wikilink")『**ホームメイド〜終の館〜**』が[2005年](../Page/2005年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink")に発売された。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[8月29日](../Page/8月29日.md "wikilink")には、『[D.C.II 〜ダ・カーポII〜](../Page/D.C.II_〜ダ・カーポII〜.md "wikilink")』のスタッフが追加エピソード、追加ヒロインを加えリファインした、『ホームメイド スイーツ』が発売された。この作品には前作となる『[終の館](../Page/終の館.md "wikilink")』全5章も再編集して収録されている。
 

@@ -3,7 +3,7 @@
 
 『**CAPCOM FIGHTING Jam**』（カプコン ファイティング ジャム）は、[カプコン](../Page/カプコン.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[10月8日](../Page/10月8日.md "wikilink")に開発・発売した[対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。日本国外版の名称は、『**Capcom Fighting Evolution**』。
 
-[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")版のシステム基板は、[PlayStation 2をベースとした](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[SYSTEM246](../Page/SYSTEM246.md "wikilink")が使われている。家庭用ゲーム機移植として[2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")にPS2版が、[2005年](../Page/2005年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[Xbox版が発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。また、[2012年](../Page/2012年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から[PS2アーカイブスとして](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")[Playstation@Storeでの配信が開始された](../Page/PlayStation_Store.md "wikilink")。
+[アーケード](https://ja.wikipedia.org/wiki/アーケード "wikilink")版のシステム基板は、[PlayStation 2をベースとした](../Page/PlayStation_2.md "wikilink")[SYSTEM246](../Page/SYSTEM246.md "wikilink")が使われている。家庭用ゲーム機移植として[2004年](../Page/2004年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")にPS2版が、[2005年](../Page/2005年.md "wikilink")[6月16日](https://ja.wikipedia.org/wiki/6月16日 "wikilink")に[Xbox版が発売](../Page/Xbox_\(ゲーム機\).md "wikilink")。また、[2012年](../Page/2012年.md "wikilink")[12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")から[PS2アーカイブスとして](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")[Playstation@Storeでの配信が開始された](../Page/PlayStation_Store.md "wikilink")。
 
 ## 概要
 
@@ -174,7 +174,7 @@
   -
 ## その他
 
-2004年5月2日に[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") CAPCOM FIGHTING Jamの特典ディスクのMaster's Diskもあり\[5\]。
+2004年5月2日に[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink") CAPCOM FIGHTING Jamの特典ディスクのMaster's Diskもあり\[5\]。
 
   - Master's Disk 収録内容
       - オリジナルタイトル紹介。

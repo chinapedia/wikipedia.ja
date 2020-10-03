@@ -138,7 +138,7 @@
   - [山陽放送（現:RSK山陽放送）](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")（RSK）※2・3部も放送していた時期あり
   - [中国放送](../Page/中国放送.md "wikilink")（RCC）
   - [テレビ高知](../Page/テレビ高知.md "wikilink")（KUTV）※1990年頃から
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）
+  - [熊本放送](../Page/熊本放送.md "wikilink")（RKK）
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")（MRT）
 
 </div>

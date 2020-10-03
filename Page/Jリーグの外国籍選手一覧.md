@@ -1607,7 +1607,7 @@
   - FW [トーマス](../Page/トーマス・フランコフスキー.md "wikilink") (1996、)
   - MF [リカルジーニョ](../Page/リカルド・ソウザ・シルバ.md "wikilink") (1997年、)
   - MF [バウド](https://ja.wikipedia.org/wiki/バウド・カンディド・フィリョ "wikilink") (1997年-1998年、、)
-  - MF [アルー](https://ja.wikipedia.org/wiki/ベルナール・アルー "wikilink") (1998年、)
+  - MF [アルー](../Page/ベルナール・アルー.md "wikilink") (1998年、)
   - MF [ウリダ](../Page/タリック・ウリダ.md "wikilink") (1998年-2002年、)
   - DF [ホミルド](https://ja.wikipedia.org/wiki/ホミルド・サントス・ローザ "wikilink") (2000年、)
   - FW [ウェズレイ](../Page/ウェズレイ・ハイムンド・ペレイラ・ダ・シルヴァ.md "wikilink") (2000年-2005年、)

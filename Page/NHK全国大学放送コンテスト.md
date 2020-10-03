@@ -103,7 +103,7 @@ NHKの関係者がNHK京都放送局内で実施（非公開）。
 ## 過去の大会に関係した放送関係者
 
   - [長谷川豊](../Page/長谷川豊.md "wikilink")（[フジテレビアナウンサー](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・13回大会）
-  - [山崎雄樹](../Page/山崎雄樹.md "wikilink")（[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")アナウンサー・13回大会）
+  - [山崎雄樹](../Page/山崎雄樹.md "wikilink")（[熊本放送](../Page/熊本放送.md "wikilink")アナウンサー・13回大会）
   - [石井百恵](../Page/石井百恵.md "wikilink")（[テレビ新広島](https://ja.wikipedia.org/wiki/テレビ新広島 "wikilink")アナウンサー・15回大会）
   - [大沢幸広](https://ja.wikipedia.org/wiki/大沢幸広 "wikilink")（NHKアナウンサー18回大会）
   - [和田光太郎](../Page/和田光太郎.md "wikilink")（NHKアナウンサー・21回大会）

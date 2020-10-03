@@ -44,7 +44,7 @@
   - RKC[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")　月曜20:50～21:00
   - [RKB毎日放送](../Page/RKBラジオ.md "wikilink")　月曜20:35～20:45
   - NBC[長崎放送](../Page/長崎放送.md "wikilink")　月曜19:00～19:10
-  - RKK[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")　月曜19:50～20:00
+  - RKK[熊本放送](../Page/熊本放送.md "wikilink")　月曜19:50～20:00
   - OBS[大分放送](../Page/大分放送.md "wikilink")　月曜19:00～19:10
   - MRT[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")　月曜19:30～19:40
   - MBC[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")　月曜19:00～19:10

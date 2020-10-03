@@ -127,7 +127,7 @@ VICL-35861:通常盤</p></td>
 <li>In The Sky (MUSIC TRACK)</li>
 </ol></td>
 <td><p>初回盤DVD付<br />
-<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">プレイステーション2用ゲームソフト</a>『<a href="../Page/グランディア.md" title="wikilink">グランディア</a>III』テーマソング</p></td>
+<a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a><a href="../Page/PlayStation_2.md" title="wikilink">プレイステーション2用ゲームソフト</a>『<a href="../Page/グランディア.md" title="wikilink">グランディア</a>III』テーマソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>4th</p></td>

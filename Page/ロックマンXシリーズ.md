@@ -19,7 +19,7 @@
   - **[ロックマンX4](../Page/ロックマンX4.md "wikilink")**（PS、SS、Windows、[GA](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")）
   - **[ロックマンX5](https://ja.wikipedia.org/wiki/ロックマンX5 "wikilink")**（PS、Windows、GA）
   - **[ロックマンX6](https://ja.wikipedia.org/wiki/ロックマンX6 "wikilink")**（PS、GA）
-  - **[ロックマンX7](../Page/ロックマンX7.md "wikilink")**（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - **[ロックマンX7](../Page/ロックマンX7.md "wikilink")**（[PS2](../Page/PlayStation_2.md "wikilink")）
   - **[ロックマンX8](../Page/ロックマンX8.md "wikilink")**（PS2、Windows、GA）
 
 ### 番外作品

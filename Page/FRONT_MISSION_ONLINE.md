@@ -7,7 +7,7 @@
 
 ## 概要
 
-[2004年](../Page/2004年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")からβテストが始まり、[2005年](../Page/2005年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[PlayStation 2版が発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2005年[12月8日](../Page/12月8日.md "wikilink")発売。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもってサービスを終了した。
+[2004年](../Page/2004年.md "wikilink")[11月4日](../Page/11月4日.md "wikilink")からβテストが始まり、[2005年](../Page/2005年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")に[PlayStation 2版が発売](../Page/PlayStation_2.md "wikilink")。[Windows版は](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")2005年[12月8日](../Page/12月8日.md "wikilink")発売。 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月31日](../Page/5月31日.md "wikilink")をもってサービスを終了した。
 
 プレイヤーは第二次ハフマン紛争を舞台にO.C.U.軍、U.S.N.軍のどちらか1つの勢力に所属し、[ヴァンツァー](../Page/ヴァンツァー.md "wikilink")と呼ばれる兵器を操り、戦争に参加していく。
 

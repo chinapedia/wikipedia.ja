@@ -71,7 +71,7 @@ OVAシリーズを含め、作品の展開は[DVD](../Page/DVD.md "wikilink")登
 
 ### PlayStation 2用ゲームによる続編
 
-非公式なものではあるが、[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『新世紀GPXサイバーフォーミュラ Road To The INFINITY 2』では第18回(2023年)大会が、『新世紀GPXサイバーフォーミュラ Road To The INFINITY 3』では第18回(2023年)大会に加え、第19回(2024年)大会がシナリオモードにてプレイ出来るようになっている。これらのゲームの製作にあたっては本編の制作スタッフも協力しているが、発売元である[サンライズインタラクティブ](../Page/サンライズインタラクティブ.md "wikilink")としてはあくまで「非公式な続編」というスタンスを採っている。
+非公式なものではあるが、[PlayStation 2用ゲーム](../Page/PlayStation_2.md "wikilink")『新世紀GPXサイバーフォーミュラ Road To The INFINITY 2』では第18回(2023年)大会が、『新世紀GPXサイバーフォーミュラ Road To The INFINITY 3』では第18回(2023年)大会に加え、第19回(2024年)大会がシナリオモードにてプレイ出来るようになっている。これらのゲームの製作にあたっては本編の制作スタッフも協力しているが、発売元である[サンライズインタラクティブ](../Page/サンライズインタラクティブ.md "wikilink")としてはあくまで「非公式な続編」というスタンスを採っている。
 
 ## 作品タイムライン
 
@@ -2243,7 +2243,7 @@ EDテーマの入り方は一貫して、「本編のラストシーンからエ
 
 発売元は[サンライズインタラクティブ](../Page/サンライズインタラクティブ.md "wikilink")。
 
-  - 新世紀GPXサイバーフォーミュラ Road To The INFINITY（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2003年12月18日発売）
+  - 新世紀GPXサイバーフォーミュラ Road To The INFINITY（[PlayStation 2](../Page/PlayStation_2.md "wikilink")、2003年12月18日発売）
   - 新世紀GPXサイバーフォーミュラ Road To The EVOLUTION（[ゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、2004年7月29日発売）
   - 新世紀GPXサイバーフォーミュラ Road To The INFINITY 2（PlayStation 2、2005年8月4日発売）
   - 新世紀GPXサイバーフォーミュラ Road To The INFINITY 3（PlayStation 2、2006年10月26日発売）

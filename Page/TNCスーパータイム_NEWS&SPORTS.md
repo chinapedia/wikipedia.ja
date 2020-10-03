@@ -34,7 +34,7 @@
 ### メインキャスター（アンカーマン）
 
   - [稲坂硬一](https://ja.wikipedia.org/wiki/稲坂硬一 "wikilink")（1984年10月1日 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[12月31日](../Page/12月31日.md "wikilink")） - 前番組「テレポートTNC」より続投。
-  - [高橋幸平](https://ja.wikipedia.org/wiki/高橋幸平 "wikilink")（[1986年](../Page/1986年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 1997年3月28日） - 後番組「TNC NEWS ザ・ヒューマン」も続投。
+  - [高橋幸平](../Page/高橋幸平.md "wikilink")（[1986年](../Page/1986年.md "wikilink")[1月6日](../Page/1月6日.md "wikilink") - 1997年3月28日） - 後番組「TNC NEWS ザ・ヒューマン」も続投。
 
 ### サブキャスター（アシスタント）
 

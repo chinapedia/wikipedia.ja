@@ -179,7 +179,7 @@
 
 ## DUEL SAVIOR DESTINY
 
-[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[アルケミストから発売されたDUEL](../Page/アルケミスト_\(企業\).md "wikilink") SAVIORの[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")に[アルケミストから発売されたDUEL](../Page/アルケミスト_\(企業\).md "wikilink") SAVIORの[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。
 
 クレアルートの追加、主人公を含むキャラクターに新しく声優をキャスティングして選択可能のほか、新主題歌と新OPムービーとなっている（OP曲: 『**NO WAY OUT\!**』 作詞・作曲：YOFFY、ボーカル: [サイキックラバー](../Page/サイキックラバー.md "wikilink")）。
 

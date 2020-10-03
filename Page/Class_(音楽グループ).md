@@ -121,7 +121,7 @@
   - 百万本の雨：テレビ朝日系ドラマ「[ママのベッドへいらっしゃい](../Page/ママのベッドへいらっしゃい.md "wikilink")」挿入歌
   - 夏にかかるWedding Song：テレビ朝日系「[クイズ21\! ジャックをねらえ](../Page/クイズ21!_ジャックをねらえ.md "wikilink")」エンディングテーマ
   - 君だけが知ってる：[日本テレビ系](../Page/日本テレビ放送網.md "wikilink") 「[独占\!\!スポーツ情報](../Page/独占!!スポーツ情報.md "wikilink")」イメージソング
-  - 冬の日の2009：[読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")～[2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")エンディングテーマ・[中京テレビ系](../Page/中京テレビ放送.md "wikilink")「[スポーツスタジアム](../Page/SPORTS_STADIUM.md "wikilink")」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")期エンディングテーマ
+  - 冬の日の2009：[読売テレビ系](../Page/讀賣テレビ放送.md "wikilink")「[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")～[2009年](../Page/2009年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")エンディングテーマ・[中京テレビ系](../Page/中京テレビ放送.md "wikilink")「[スポーツスタジアム](../Page/SPORTS_STADIUM.md "wikilink")」[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")期エンディングテーマ
 
 ## M-onederful
 

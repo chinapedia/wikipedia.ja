@@ -239,7 +239,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（JNN）</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（JNN）</p></td>
 <td><p>1987年4月放送開始 - 途中打ち切り</p></td>
 </tr>
 <tr class="even">

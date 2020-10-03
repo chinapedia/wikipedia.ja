@@ -1,7 +1,7 @@
 > この記事は[ギャラクシーエンジェルII](https://ja.wikipedia.org/wiki/ギャラクシーエンジェルII)から翻訳されています。
 
 
-『**ギャラクシーエンジェルII**』（ギャラクシーエンジェル・ツー、*Galaxy Angel II*）は株式会社[ブロッコリーによるキャラクター](../Page/ブロッコリー_\(企業\).md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")企画「Project G.A.」の一作品で、[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")の続編。略称は**GA2**。前作と引き続いて、[小説](../Page/ライトノベル.md "wikilink")、コミック、[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")（3部作）、アニメ、キャラクターグッズを展開しており、アニメは番組名『**[ギャラクシーエンジェる〜ん](../Page/ギャラクシーエンジェる〜ん.md "wikilink")**』として2006年10月から12月にかけて放送された。
+『**ギャラクシーエンジェルII**』（ギャラクシーエンジェル・ツー、*Galaxy Angel II*）は株式会社[ブロッコリーによるキャラクター](../Page/ブロッコリー_\(企業\).md "wikilink")[メディアミックス](../Page/メディアミックス.md "wikilink")企画「Project G.A.」の一作品で、[ギャラクシーエンジェル](../Page/ギャラクシーエンジェル.md "wikilink")の続編。略称は**GA2**。前作と引き続いて、[小説](../Page/ライトノベル.md "wikilink")、コミック、[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")（3部作）、アニメ、キャラクターグッズを展開しており、アニメは番組名『**[ギャラクシーエンジェる〜ん](../Page/ギャラクシーエンジェる〜ん.md "wikilink")**』として2006年10月から12月にかけて放送された。
 
 ## 主要スタッフ
 

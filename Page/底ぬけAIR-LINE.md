@@ -19,7 +19,7 @@
       -
         [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")担当、[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[江南市](../Page/江南市.md "wikilink")出身、血液型A型、[名城大学附属高等学校](../Page/名城大学附属高等学校.md "wikilink")卒業。愛称は「ねこ小島」。未婚。
         特技は器械体操。古坂ともにNO BOTTOM\!を結成、**忍丸**の名で活動。[2005年](../Page/2005年.md "wikilink")[6月](../Page/6月.md "wikilink")脱退。
-        現在は3DCG及びコンピューターソフトウェアの制作を手掛ける[株式会社アニマ](http://www.studioanima.co.jp/)にて[プロデューサー](../Page/プロデューサー.md "wikilink")やディレクターとして活動中。2007年発売の[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ#ゲーム "wikilink")』などの開発にも携わっていた。
+        現在は3DCG及びコンピューターソフトウェアの制作を手掛ける[株式会社アニマ](http://www.studioanima.co.jp/)にて[プロデューサー](../Page/プロデューサー.md "wikilink")やディレクターとして活動中。2007年発売の[PlayStation 2版](../Page/PlayStation_2.md "wikilink")『[のだめカンタービレ](https://ja.wikipedia.org/wiki/のだめカンタービレ#ゲーム "wikilink")』などの開発にも携わっていた。
 
 ### 旧メンバー
 

@@ -7,7 +7,7 @@
 
 開発はナムコ開発部が行い、プログラムは『[ボスコニアン](../Page/ボスコニアン.md "wikilink")』（[1981年](../Page/1981年.md "wikilink")）を手掛けた黒須一雄、音楽は『[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")』（1980年）を手掛けた甲斐敏夫が担当している。
 
-[1981年](../Page/1981年.md "wikilink")に[VIC-1001](../Page/VIC-1001.md "wikilink")に移植された他、アーケード版は[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『**[ナムコミュージアム VOL.1](../Page/ナムコミュージアム.md "wikilink")**』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**[ナムコミュージアム](https://ja.wikipedia.org/wiki/ナムコミュージアム_\(PSP\) "wikilink")**』（[2005年](../Page/2005年.md "wikilink")）、[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**ナムコミュージアム アーケードHITS\!**』（[2006年](../Page/2006年.md "wikilink")）、[Xbox 360用ソフト](../Page/Xbox_360.md "wikilink")『**ナムコミュージアム バーチャルアーケード**』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）などに収録された。
+[1981年](../Page/1981年.md "wikilink")に[VIC-1001](../Page/VIC-1001.md "wikilink")に移植された他、アーケード版は[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『**[ナムコミュージアム VOL.1](../Page/ナムコミュージアム.md "wikilink")**』（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**[ナムコミュージアム](https://ja.wikipedia.org/wiki/ナムコミュージアム_\(PSP\) "wikilink")**』（[2005年](../Page/2005年.md "wikilink")）、[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『**ナムコミュージアム アーケードHITS\!**』（[2006年](../Page/2006年.md "wikilink")）、[Xbox 360用ソフト](../Page/Xbox_360.md "wikilink")『**ナムコミュージアム バーチャルアーケード**』（[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")）などに収録された。
 
 翌年には難易度を調整した『ニューラリーX』が稼働された（[後述](https://ja.wikipedia.org/wiki/#ニューラリーX "wikilink")）。
 
@@ -129,7 +129,7 @@
 <td><p>7</p></td>
 <td></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a><br />
 <a href="../Page/Xbox_(ゲーム機).md" title="wikilink">Xbox</a><br />
 <a href="../Page/ニンテンドーゲームキューブ.md" title="wikilink">ゲームキューブ</a></p></td>
 <td><p>Digital Eclipse</p></td>

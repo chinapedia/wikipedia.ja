@@ -18,9 +18,9 @@
   - 『宇宙戦艦ヤマト2199』から始まるリメイク版のアニメシリーズ（以下、便宜上「リメイクアニメシリーズ」）
       - 『[宇宙戦艦ヤマト2199](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2199 "wikilink")』 - 『2199』
       - 『[宇宙戦艦ヤマト2202 愛の戦士たち](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマト2202_愛の戦士たち "wikilink")』 - 『2202』
-  - [PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2においてゲーム化したシリーズ](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下、便宜上「[PSゲームシリーズ](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\) "wikilink")」）
+  - [PlayStationおよび](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2においてゲーム化したシリーズ](../Page/PlayStation_2.md "wikilink")（以下、便宜上「[PSゲームシリーズ](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\) "wikilink")」）
       - [PS用ゲーム](../Page/PlayStation_\(ゲーム機\).md "wikilink")『[さらば宇宙戦艦ヤマト 愛の戦士たち](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\)#さらば宇宙戦艦ヤマト_愛の戦士たち "wikilink")』 - 『PS版さらば』
-      - [PS2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[宇宙戦艦ヤマト イスカンダルへの追憶](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\)#宇宙戦艦ヤマト_イスカンダルへの追憶 "wikilink")』 - 『イスカンダルへの追憶』
+      - [PS2用ゲーム](../Page/PlayStation_2.md "wikilink")『[宇宙戦艦ヤマト イスカンダルへの追憶](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\)#宇宙戦艦ヤマト_イスカンダルへの追憶 "wikilink")』 - 『イスカンダルへの追憶』
       - PS2用ゲーム『[宇宙戦艦ヤマト 暗黒星団帝国の逆襲](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\)#宇宙戦艦ヤマト_暗黒星団帝国の逆襲 "wikilink")』 - 『暗黒星団帝国の逆襲』
       - PS2用ゲーム『[宇宙戦艦ヤマト 二重銀河の崩壊](https://ja.wikipedia.org/wiki/宇宙戦艦ヤマトシリーズ_\(PlayStation\)#宇宙戦艦ヤマト_二重銀河の崩壊 "wikilink")』 - 『二重銀河の崩壊』
 

@@ -1,7 +1,7 @@
 > この記事は[ドリームミックスTV ワールドファイターズ](https://ja.wikipedia.org/wiki/ドリームミックスTV_ワールドファイターズ)から翻訳されています。
 
 
-『**ドリームミックスTV ワールドファイターズ**』 （- ティーヴィー - \[1\]、*DREAMMIX TV WORLD FIGHTERS*） は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[KDE](../Page/コナミデジタルエンタテインメント.md "wikilink")）、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）、[ハドソン](../Page/ハドソン.md "wikilink")の3社が共同制作し、[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")にハドソンが[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（PS2）と[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")（GC）で発売した[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。略称は「**DMTV**」、「**WF**」など。本作は日本国内のみ発売された。
+『**ドリームミックスTV ワールドファイターズ**』 （- ティーヴィー - \[1\]、*DREAMMIX TV WORLD FIGHTERS*） は、[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（現・[KDE](../Page/コナミデジタルエンタテインメント.md "wikilink")）、[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")（現・[タカラトミー](../Page/タカラトミー.md "wikilink")）、[ハドソン](../Page/ハドソン.md "wikilink")の3社が共同制作し、[2003年](../Page/2003年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink")にハドソンが[PlayStation 2](../Page/PlayStation_2.md "wikilink")（PS2）と[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")（GC）で発売した[対戦アクションゲーム](../Page/対戦アクションゲーム.md "wikilink")である。略称は「**DMTV**」、「**WF**」など。本作は日本国内のみ発売された。
 
 [2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")には、[廉価版](../Page/廉価版.md "wikilink")「ハドソン・ザ・ベスト」として両機種版とも再発売された。ハドソンがGC向けに発売したゲームソフトとしては、このベスト版が最後のソフトとなった（なお、この廉価版を除けば『[ボボボーボ・ボーボボ 脱出\!\!ハジケ・ロワイアル](../Page/ボボボーボ・ボーボボ_脱出!!ハジケ・ロワイアル.md "wikilink")』が最後となる）。
 

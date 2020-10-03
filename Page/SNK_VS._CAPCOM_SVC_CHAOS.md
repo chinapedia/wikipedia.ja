@@ -1,7 +1,7 @@
 > この記事は[SNK VS. CAPCOM SVC CHAOS](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM_SVC_CHAOS)から翻訳されています。
 
 
-『**SNK VS. CAPCOM SVC CHAOS**』（エス・エヌ・ケイ バーサス カプコン エスブイシー カオス）は、[SNKプレイモアが制作した](../Page/SNK_\(2001年設立の企業\).md "wikilink")[2D対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[SNKと](../Page/SNK_\(1978年設立の企業\).md "wikilink")[カプコン](../Page/カプコン.md "wikilink")の間で結ばれた「お互いの社の対戦型格闘ゲームのキャラクターをそれぞれ借り合う」というクロスライセンス契約によるプロジェクト「[SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM "wikilink")」の作品の1つ。2003年11月13日に[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")向けの[ロムカセット](../Page/ロムカセット.md "wikilink")が発売され、同年12月25日に[プレイステーション2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2004年10月7日には[Xboxで家庭用移植版が発売されている](../Page/Xbox_\(ゲーム機\).md "wikilink")。
+『**SNK VS. CAPCOM SVC CHAOS**』（エス・エヌ・ケイ バーサス カプコン エスブイシー カオス）は、[SNKプレイモアが制作した](../Page/SNK_\(2001年設立の企業\).md "wikilink")[2D対戦型格闘ゲーム](../Page/対戦型格闘ゲーム.md "wikilink")。[SNKと](../Page/SNK_\(1978年設立の企業\).md "wikilink")[カプコン](../Page/カプコン.md "wikilink")の間で結ばれた「お互いの社の対戦型格闘ゲームのキャラクターをそれぞれ借り合う」というクロスライセンス契約によるプロジェクト「[SNK VS. CAPCOM](https://ja.wikipedia.org/wiki/SNK_VS._CAPCOM "wikilink")」の作品の1つ。2003年11月13日に[ネオジオ](https://ja.wikipedia.org/wiki/ネオジオ "wikilink")向けの[ロムカセット](../Page/ロムカセット.md "wikilink")が発売され、同年12月25日に[プレイステーション2で](../Page/PlayStation_2.md "wikilink")、2004年10月7日には[Xboxで家庭用移植版が発売されている](../Page/Xbox_\(ゲーム機\).md "wikilink")。
 
 タイトル画面のロゴでは“SVC CHAOS”の表記の方が大きく、また位置でも上に来ており、タイトルコールのボイスも "SVC CHAOS SNK VS. CAPCOM" と呼んでいるが、メーカーが公式サイトなどの表記は常に『SNK VS. CAPCOM SVC CHAOS』であるため、記事名および本文はそれにならう。
 

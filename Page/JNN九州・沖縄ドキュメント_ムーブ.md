@@ -61,7 +61,7 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></p></td>
 <td><p>26:20-26:50<br />
 （月2:20-2:50）</p></td>
 <td><p>21時間5分遅れ</p></td>

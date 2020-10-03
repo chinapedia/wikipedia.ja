@@ -1,7 +1,7 @@
 > この記事は[RKKワイド夕方いちばん](https://ja.wikipedia.org/wiki/RKKワイド夕方いちばん)から翻訳されています。
 
 
-『**RKKワイド 夕方いちばん**』（アールケーケーワイド ゆうがたいちばん、通称『**夕方いちばん**』）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）で毎週[月曜](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 16:00 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。後番組は、[ウェルカム\!](https://ja.wikipedia.org/wiki/ウェルカム! "wikilink")
+『**RKKワイド 夕方いちばん**』（アールケーケーワイド ゆうがたいちばん、通称『**夕方いちばん**』）は、[2002年](../Page/2002年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")から[2015年](../Page/2015年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink")まで[熊本放送](../Page/熊本放送.md "wikilink")（RKK）で毎週[月曜](../Page/月曜日.md "wikilink") - [金曜日](../Page/金曜日.md "wikilink") 16:00 - 18:55（[JST](../Page/日本標準時.md "wikilink")）に放送されていた[夕方ワイド番組](../Page/夕方ワイド番組.md "wikilink")。後番組は、[ウェルカム\!](https://ja.wikipedia.org/wiki/ウェルカム! "wikilink")
 
 ## 概要
 

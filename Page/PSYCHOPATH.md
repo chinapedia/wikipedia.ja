@@ -5,7 +5,7 @@
 
 ## 背景
 
-全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」をリリースする。
+全国ツアー『[ROCK'N'ROLL CIRCUS TOUR](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』が終了した後、メンバーはオフ期間に入り、その期間中にアルバムからのシングルカットとして「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」をリリースする。
 
 既に音楽的にも商業的にも成功を収めたBOØWYは、このアルバムが発売された1987年は解散に向けて活動していくようになる。既にメンバー間や一部スタッフの間では解散は決定事項となっていたが、外部には一切知られていない状態であった。
 

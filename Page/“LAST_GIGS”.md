@@ -128,7 +128,7 @@ ZT28-5200 (CT)</p></td>
 
       - 作詞：深沢和明　作曲：布袋寅泰
 
-5.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:31)
+5.  **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:31)
 
       - 作詞：氷室京介　作曲：布袋寅泰
 

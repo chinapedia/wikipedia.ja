@@ -52,7 +52,7 @@
 10. **[B・BLUE](../Page/B・BLUE.md "wikilink")** (3:56)
       -
         4thシングル
-11. **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
+11. **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:10)
       -
         5thシングル。
 12. **[BEAT SWEET](../Page/BEAT_EMOTION.md "wikilink")** (3:21)

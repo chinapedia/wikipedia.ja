@@ -66,7 +66,7 @@
       - 作詞・作曲:布袋寅泰
 10. **[JUSTY](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")** (3:44)
       - 作詞:氷室京介　作曲:布袋寅泰
-11. **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:57)
+11. **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:57)
       - 作詞:氷室京介　作曲:布袋寅泰
 12. **[BEAT SWEET](../Page/BEAT_EMOTION.md "wikilink")** (4:36)
       - 作詞:氷室京介　作曲:布袋寅泰

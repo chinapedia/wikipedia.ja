@@ -1,7 +1,7 @@
 > この記事は[THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球](https://ja.wikipedia.org/wiki/THE_BASEBALL_2003_バトルボールパーク宣言_パーフェクトプレープロ野球)から翻訳されています。
 
 
-『**THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球**』（ザ・ベースボール2003 バトルボールパークせんげん パーフェクトプレープロやきゅう）は、[2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[※](https://ja.wikipedia.org/wiki/#備考 "wikilink")）から[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフトとして発売されたリアル[野球ゲーム](../Page/スポーツゲーム.md "wikilink")。
+『**THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球**』（ザ・ベースボール2003 バトルボールパークせんげん パーフェクトプレープロやきゅう）は、[2003年](../Page/2003年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")に[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")（[※](https://ja.wikipedia.org/wiki/#備考 "wikilink")）から[PlayStation 2](../Page/PlayStation_2.md "wikilink")・[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")用ソフトとして発売されたリアル[野球ゲーム](../Page/スポーツゲーム.md "wikilink")。
 
 同年秋に選手データの更新や新要素が追加された『**THE BASEBALL 2003 バトルボールパーク宣言 パーフェクトプレープロ野球 秋季号**』を発売している（PlayStation 2版のみ）。
 

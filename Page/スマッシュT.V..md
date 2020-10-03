@@ -9,7 +9,7 @@
 
 1991年に北米および欧州にて各種ホビーパソコン、[NES](../Page/Nintendo_Entertainment_System.md "wikilink")、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")、[メガドライブ](../Page/メガドライブ.md "wikilink")、[ゲームギア](../Page/ゲームギア.md "wikilink")、[セガ・マスターシステム](https://ja.wikipedia.org/wiki/セガ・マスターシステム "wikilink")に移植され、日本国内ではスーパーファミコン版とゲームギア版のみ発売された。
 
-アーケード版は後に北米と欧州にて、[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『*[Arcade Party Pak](https://ja.wikipedia.org/wiki/:en:Arcade_Party_Pak "wikilink")*』（[1999年](../Page/1999年.md "wikilink")）、[PlayStation 2ならびに](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Windows用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『*[Midway Arcade Treasures](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures "wikilink")*』（[2003年](../Page/2003年.md "wikilink")）、[PlayStation 3ならびにXbox](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") 360用ソフト『*[Midway Arcade Origins](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Origins "wikilink")*』（[2012年](../Page/2012年.md "wikilink")）に収録された他、単独で[2005年](../Page/2005年.md "wikilink")にXbox 360用ソフトとして[Xbox Live Arcadeにて配信された](../Page/Xbox_Live.md "wikilink")。
+アーケード版は後に北米と欧州にて、[PlayStation用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")『*[Arcade Party Pak](https://ja.wikipedia.org/wiki/:en:Arcade_Party_Pak "wikilink")*』（[1999年](../Page/1999年.md "wikilink")）、[PlayStation 2ならびに](../Page/PlayStation_2.md "wikilink")[Xbox](../Page/Xbox_\(ゲーム機\).md "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Windows用ソフト](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")『*[Midway Arcade Treasures](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures "wikilink")*』（[2003年](../Page/2003年.md "wikilink")）、[PlayStation 3ならびにXbox](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") 360用ソフト『*[Midway Arcade Origins](https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Origins "wikilink")*』（[2012年](../Page/2012年.md "wikilink")）に収録された他、単独で[2005年](../Page/2005年.md "wikilink")にXbox 360用ソフトとして[Xbox Live Arcadeにて配信された](../Page/Xbox_Live.md "wikilink")。
 
 スーパーファミコン版はゲーム誌『[ファミコン通信](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』の「[クロスレビュー](../Page/クロスレビュー.md "wikilink")」にてシルバー殿堂入りを獲得した。
 
@@ -143,7 +143,7 @@
 <td><p>8</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:en:Midway_Arcade_Treasures" title="wikilink">Midway Arcade Treasures</a></p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>Digital Eclipse</p></td>
 <td><p>ミッドウェイ</p></td>
 <td><p>CD-ROM</p></td>

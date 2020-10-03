@@ -807,7 +807,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 ### ゲーム
 
   - 『黄金騎士牙狼』
-    3Dアクション。2006年4月20日に[PlayStation 2で発売](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+    3Dアクション。2006年4月20日に[PlayStation 2で発売](../Page/PlayStation_2.md "wikilink")。
     因みに『VERSUS ROAD』では[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として登場する。
 
 ### フィギュア

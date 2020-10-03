@@ -11,7 +11,7 @@
 ## 構成
 
   - 東芝EMI時代に発表された全シングル曲と、一部カップリング曲を収録している。
-  - 未収録になったB面曲は「Our Language」（2ndシングル「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」B面）と、「BEGINNING FROM ENDLESS」、「[〜GIVE IT TO ME](../Page/MORAL.md "wikilink") (LIVE VERSION)」（3rdシングル「[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")」B面）と、「[B・BLUE](../Page/B・BLUE.md "wikilink") (Live Version)」、「[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink") (Live Version)」（5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」B面）と、カバー曲「The Wild One」（6thシングル「[Marionette -マリオネット-](../Page/Marionette_\(BOØWYの曲\).md "wikilink")」B面）の計6曲。
+  - 未収録になったB面曲は「Our Language」（2ndシングル「[BAD FEELING](../Page/BAD_FEELING.md "wikilink")」B面）と、「BEGINNING FROM ENDLESS」、「[〜GIVE IT TO ME](../Page/MORAL.md "wikilink") (LIVE VERSION)」（3rdシングル「[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")」B面）と、「[B・BLUE](../Page/B・BLUE.md "wikilink") (Live Version)」、「[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink") (Live Version)」（5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」B面）と、カバー曲「The Wild One」（6thシングル「[Marionette -マリオネット-](../Page/Marionette_\(BOØWYの曲\).md "wikilink")」B面）の計6曲。
   - 「["16"](../Page/ホンキー・トンキー・クレイジー.md "wikilink")」「[季節が君だけを変える (Single Version)](../Page/季節が君だけを変える.md "wikilink")」「[CLOUDY HEART](https://ja.wikipedia.org/wiki/CLOUDY_HEART "wikilink") (Single Version)」はこのアルバムで初CD化された。なお、「[BAD FEELING (12inch Single Version)](../Page/BAD_FEELING.md "wikilink")」はオムニバスアルバム『ロング・バージョン・スペシャル』（1985年）で、「[NO. NEW YORK](https://ja.wikipedia.org/wiki/NO._NEW_YORK "wikilink")」はCD VIDEO「Marionette」（1987年）で既にCD化されていた。実際に全ての曲がCD化されたのは翌年の全シングルCD化の際となった。
 
 ## リリース履歴
@@ -148,7 +148,7 @@ CD-BOX『BOØWY COMPLETE 21st CENTURY 20th ANNIVERSARY EDITION』収録<br />
     <!-- end list -->
       -
         4thシングル「B・BLUE」のB面。
-3.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
+3.  **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:10)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -

@@ -28,7 +28,7 @@
       - 作詞:[氷室京介](../Page/氷室京介.md "wikilink")　作曲:[布袋寅泰](../Page/布袋寅泰.md "wikilink")
     <!-- end list -->
       -
-        8thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」B面収録のライブトラックと同テイクである。
+        8thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」B面収録のライブトラックと同テイクである。
 2.  **[ハイウェイに乗る前に](../Page/BOØWY_\(アルバム\).md "wikilink")**
       - 作詞:氷室京介・[松井五郎](https://ja.wikipedia.org/wiki/松井五郎 "wikilink")　作曲:氷室京介
 3.  **[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink")**
@@ -85,7 +85,7 @@
       - 作詞・作曲：BOØWY
 10. **[BLUE VACATION](../Page/JUST_A_HERO_\(BOØWYのアルバム\).md "wikilink")**
       - 作詞:氷室京介　作曲:布袋寅泰
-11. **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")**
+11. **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")**
       - 作詞:氷室京介　作曲:布袋寅泰
 
 [Category:BOØWYのライブ・アルバム](https://ja.wikipedia.org/wiki/Category:BOØWYのライブ・アルバム "wikilink") [Category:2004年のライブ・アルバム](https://ja.wikipedia.org/wiki/Category:2004年のライブ・アルバム "wikilink") [Category:イーストワールドのアルバム](https://ja.wikipedia.org/wiki/Category:イーストワールドのアルバム "wikilink") [Category:長大な音楽作品名](https://ja.wikipedia.org/wiki/Category:長大な音楽作品名 "wikilink")

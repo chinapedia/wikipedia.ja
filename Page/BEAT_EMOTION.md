@@ -187,7 +187,7 @@ ZH28-1743</p></td>
     <!-- end list -->
       -
         4thシングル。制作段階では「TRUE BLUE」というタイトルだったが、[マドンナが同名のアルバムを発表したため](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、タイトルが変更された。
-2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
+2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:10)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
@@ -251,7 +251,7 @@ ZH28-1743</p></td>
 #### A面
 
 1.  **[B・BLUE](../Page/B・BLUE.md "wikilink")** (3:57)
-2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
+2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:10)
 3.  **RUNAWAY TRAIN** (3:21)
 4.  **BEAT SWEET** (3:22)
 5.  **NOISE LIMITTER** (2:40)
@@ -279,7 +279,7 @@ ZH28-1743</p></td>
 ### CD版
 
 1.  **[B・BLUE](../Page/B・BLUE.md "wikilink")** (3:57)
-2.  **[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")** (4:10)
+2.  **[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")** (4:10)
 3.  **RUNAWAY TRAIN** (3:21)
 4.  **BEAT SWEET** (3:22)
 5.  **NOISE LIMITTER** (2:40)

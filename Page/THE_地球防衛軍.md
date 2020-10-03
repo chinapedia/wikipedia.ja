@@ -1,7 +1,7 @@
 > この記事は[THE 地球防衛軍](https://ja.wikipedia.org/wiki/THE_地球防衛軍)から翻訳されています。
 
 
-『**THE 地球防衛軍**』（ザ・ちきゅうぼうえいぐん）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された『[SIMPLE2000シリーズ](../Page/SIMPLEシリーズ.md "wikilink")』第31作目の[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")3D[アクションシューティング](../Page/シューティングゲーム.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")（[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")）である。開発は[サンドロット](../Page/サンドロット.md "wikilink")。販売は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")。『4』発売前の2012年時点で、世界累計150万本（国内累計120万本）を出荷している。
+『**THE 地球防衛軍**』（ザ・ちきゅうぼうえいぐん）は、[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")より[2003年](../Page/2003年.md "wikilink")[6月26日](../Page/6月26日.md "wikilink")に発売された『[SIMPLE2000シリーズ](../Page/SIMPLEシリーズ.md "wikilink")』第31作目の[PlayStation 2用の](../Page/PlayStation_2.md "wikilink")3D[アクションシューティング](../Page/シューティングゲーム.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")（[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")）である。開発は[サンドロット](../Page/サンドロット.md "wikilink")。販売は[ディースリー・パブリッシャー](../Page/ディースリー・パブリッシャー.md "wikilink")。『4』発売前の2012年時点で、世界累計150万本（国内累計120万本）を出荷している。
 
 本項では同じく『SIMPLE2000シリーズ』として発売された続編『**THE 地球防衛軍2**』にも触れる。『SIMPLEシリーズ』から独立して、単独のゲームシリーズとなった『[地球防衛軍3](../Page/地球防衛軍3.md "wikilink")』以降の作品の詳細は、各作品の項目を参照。
 
@@ -500,7 +500,7 @@
   - THE 地球防衛軍T（タクティクス）
     2006年7月27日発売のSIMPLE2000シリーズVol.103。THE 地球防衛軍シリーズの世界観を使った[ウォーシミュレーション](../Page/シミュレーションロールプレイングゲーム.md "wikilink")。制作は[シンクアーツ](https://ja.wikipedia.org/wiki/シンクアーツ "wikilink")で、サンドロットは直接関わっていない。ゲーム雑誌[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")のクロスレビューで10点満点中3点という低評価を受けた。全100ステージ。内1〜50ステージはEDF側、51〜100ステージはインベーダー側を操作する。
   - [地球防衛軍3](../Page/地球防衛軍3.md "wikilink")
-    2006年12月14日発売の[Xbox 360用ソフトで定価は](../Page/Xbox_360.md "wikilink")6,800円（税抜）。[PlayStation 2版とは直接関係のない世界観である](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。主人公の指示に従って戦う部下が登場するなど、ハード性能の向上を活かした作品となった。2006年12月発売以来、日本国内では販売本数12万本超のセールスを記録（WWでは約30万本）した。
+    2006年12月14日発売の[Xbox 360用ソフトで定価は](../Page/Xbox_360.md "wikilink")6,800円（税抜）。[PlayStation 2版とは直接関係のない世界観である](../Page/PlayStation_2.md "wikilink")。主人公の指示に従って戦う部下が登場するなど、ハード性能の向上を活かした作品となった。2006年12月発売以来、日本国内では販売本数12万本超のセールスを記録（WWでは約30万本）した。
   - THE 地球防衛軍モバイル
     2007年発表の携帯電話アプリ。シリーズ本編とほぼ同様の3Dアクションを遊ぶことができる。「襲来編」と「地底突入編」の2種が存在する。配信サイト『D3Pモバイル』の終了に伴い、2012年2月末で配信終了。
   - THE 地球防衛軍シューティング 〜出撃\!ペイルウィング
@@ -510,7 +510,7 @@
   - 地球防衛軍 LEGEND
     2011年2月1日提供開始のモバイル用サービスで、『地球防衛軍』シリーズの世界観を題材にしたSLG。自分自身のキャラクターを育成しながら仲間たちと防衛軍を結成しゲームを進めていく。育てたキャラクターがそのまま戦闘時に反映され、戦局を左右する仲間からの援護射撃“フレンドショット”というソーシャル要素がゲームを盛り上げる。配信はグリーの "GREE Platform for smartphone" で行われている。iPhone/Android端末向けのWebアプリとしてWebブラウザを通して提供されているが、従来型の携帯電話でもプレイできる。基本プレイ無料でアイテム課金制だが、GREEの無料会員登録が別途必要。
   - 地球防衛軍2 PORTABLE
-    2011年4月7日発売の[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。定価は通常版が4,800円（税抜）、通常版ソフト2本が同梱された初回生産分のみの特別版である『ダブル入隊パック』が5,980円（税抜）。[PlayStation 2版THE](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") 地球防衛軍2に新ミッション、新武器、アドホック通信による最大4人のマルチプレイ対応などの要素を追加。総出荷17万本超（ダブル入隊パック5万本含）。
+    2011年4月7日発売の[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")。定価は通常版が4,800円（税抜）、通常版ソフト2本が同梱された初回生産分のみの特別版である『ダブル入隊パック』が5,980円（税抜）。[PlayStation 2版THE](../Page/PlayStation_2.md "wikilink") 地球防衛軍2に新ミッション、新武器、アドホック通信による最大4人のマルチプレイ対応などの要素を追加。総出荷17万本超（ダブル入隊パック5万本含）。
   - [EARTH DEFENSE FORCE: INSECT ARMAGEDDON](https://ja.wikipedia.org/wiki/EARTH_DEFENSE_FORCE:_INSECT_ARMAGEDDON "wikilink")
     2011年7月5日北米で発売の地球防衛軍スピンオフ作品。日本版の発売日は2011年7月7日。[Xbox 360](../Page/Xbox_360.md "wikilink")・[PlayStation 3用ソフト](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。最大6人のオンラインプレイに対応。開発は北米の[Vicious Cycle Software](https://ja.wikipedia.org/wiki/:en:Vicious_Cycle_Software "wikilink")。地球防衛軍の雰囲気を意識するため、サンドロットが監修を務めている。シリーズ初のオンラインCO-OPに対応したり、プレイキャラクターを全4兵科に増やしたり、後の『地球防衛軍4』に影響を与えた。ストーリーや世界観のつながりはない。後にPC版の配信がSteamで開始された。
   - 地球防衛軍3 PORTABLE

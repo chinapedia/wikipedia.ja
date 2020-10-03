@@ -3,7 +3,7 @@
 
 『**ソウルキャリバーII**』（ソウルキャリバーツー、**SOULCALIBUR II**）は、[ナムコが発売した](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")[3D武器格闘](../Page/対戦型格闘ゲーム.md "wikilink")。“[ソウルシリーズ](../Page/ソウルシリーズ.md "wikilink")”の第3作目。
 
-[2002年](../Page/2002年.md "wikilink")に[アーケード版が製作され](../Page/アーケードゲーム.md "wikilink")、翌年家庭用ゲーム機版が[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Xboxの](../Page/Xbox_\(ゲーム機\).md "wikilink")3機種同時に発売された。
+[2002年](../Page/2002年.md "wikilink")に[アーケード版が製作され](../Page/アーケードゲーム.md "wikilink")、翌年家庭用ゲーム機版が[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")、[Xboxの](../Page/Xbox_\(ゲーム機\).md "wikilink")3機種同時に発売された。
 
 また、[2014年](../Page/2014年.md "wikilink")に、HD高画質化・オンライン対戦を実装した[PlayStation 3版](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")『**ソウルキャリバーII HD ONLINE**』がダウンロードソフトとして配信開始された。
 

@@ -135,7 +135,7 @@
   - 神戸空港就航記念とバンバン・おたかの神戸観光大使任命記念ということで、東京以外の各都市（北海道、宮城、新潟、熊本、鹿児島、沖縄）の生ワイドに乱入。各生ワイドに各々3人にゴンチャロフのチョコレートを、1人に宿泊券をプレゼントを贈るという企画を実行した。金バンの中では当選者発表はなかった。
   - 北海道[HBC](../Page/北海道放送.md "wikilink")－[一平・直子のほっとスマイル\!](../Page/一平・直子のほっとスマイル!.md "wikilink")（2006年7月21日）
   - 宮城[TBC](../Page/東北放送.md "wikilink")－[YAGIYAMA発 ラジオな気分](https://ja.wikipedia.org/wiki/YAGIYAMA発_ラジオな気分 "wikilink")（2006年7月21日）
-  - 熊本[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")－とんでるワイド　大田黒浩一のきょうも元気\!（2006年7月28日）
+  - 熊本[RKK](../Page/熊本放送.md "wikilink")－とんでるワイド　大田黒浩一のきょうも元気\!（2006年7月28日）
   - 新潟[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")－[キンラジ](../Page/キンラジ.md "wikilink")（2006年7月28日）
   - 鹿児島[MBC](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")－[城山スズメ](../Page/城山スズメ.md "wikilink")（2006年8月4日）
   - 沖縄[RBC](../Page/琉球放送.md "wikilink")－[シャキッとi](../Page/シャキッとi.md "wikilink")（2006年8月4日）

@@ -11,7 +11,7 @@
 
 日本よりも米国での人気が高く、米国では格闘ゲームの全国大会「Evo」の種目として毎年選ばれている。
 
-[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")には[PlayStation 2と](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[Xboxで本作を移植したゲームソフトが発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。その後、[2009年](../Page/2009年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[Xbox 360](../Page/Xbox_360.md "wikilink")、同年[8月12日](../Page/8月12日.md "wikilink")に[PlayStation 3でダウンロード版の配信が開始](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[1\]、[2012年](../Page/2012年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")には[iOSでもダウンロード版の配信が開始された](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。なお、Xbox 360版・PS3版とも、6キャラクターのみ使用可能な体験版が無料で用意されていた 。2013年12月にXbox 360版・PS3版が配信終了、2014年6月30日にiOS版が配信終了となった。
+[2002年](../Page/2002年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")には[PlayStation 2と](../Page/PlayStation_2.md "wikilink")[Xboxで本作を移植したゲームソフトが発売された](../Page/Xbox_\(ゲーム機\).md "wikilink")。その後、[2009年](../Page/2009年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")に[Xbox 360](../Page/Xbox_360.md "wikilink")、同年[8月12日](../Page/8月12日.md "wikilink")に[PlayStation 3でダウンロード版の配信が開始](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[1\]、[2012年](../Page/2012年.md "wikilink")[4月25日](../Page/4月25日.md "wikilink")には[iOSでもダウンロード版の配信が開始された](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")。なお、Xbox 360版・PS3版とも、6キャラクターのみ使用可能な体験版が無料で用意されていた 。2013年12月にXbox 360版・PS3版が配信終了、2014年6月30日にiOS版が配信終了となった。
 
 ### 特徴
 

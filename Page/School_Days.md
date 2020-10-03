@@ -105,7 +105,7 @@ PC版ではエンディングが20通り、後日談が1通り存在する。ま
 
 発売当初は[バグ](../Page/バグ.md "wikilink")があり、即座に修正パッチが公開されたものの一度では解決できず、毎日のように修正パッチが更新されていた。その後、計11回に渡る更新（後述の「おっぱい修正プログラム」も含む）を経て[2005年](../Page/2005年.md "wikilink")[7月21日](../Page/7月21日.md "wikilink")に配布されたVer1.11のファイルサイズは約274MBで、2005年当時の[アダルトゲーム](../Page/アダルトゲーム.md "wikilink")用修正パッチとしては大容量であった。
 
-後の[DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")版（[DVD-PG版](https://ja.wikipedia.org/wiki/#DVD-PG版 "wikilink")）、[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[PS2版](https://ja.wikipedia.org/wiki/#PS2版 "wikilink")）、[UMDプレイヤーズゲーム版](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム#UMDPG "wikilink")（[UMD-PG版](https://ja.wikipedia.org/wiki/#UMD-PG版 "wikilink")）は、このVer1.11を元に制作されている。
+後の[DVDプレイヤーズゲーム](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")版（[DVD-PG版](https://ja.wikipedia.org/wiki/#DVD-PG版 "wikilink")）、[PlayStation 2版](../Page/PlayStation_2.md "wikilink")（[PS2版](https://ja.wikipedia.org/wiki/#PS2版 "wikilink")）、[UMDプレイヤーズゲーム版](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム#UMDPG "wikilink")（[UMD-PG版](https://ja.wikipedia.org/wiki/#UMD-PG版 "wikilink")）は、このVer1.11を元に制作されている。
 
   - おっぱい修正プログラム
     初回版発売直後に配布されていた修正パッチ。「[誠と](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#伊藤誠 "wikilink")[世界の初体験シーンで](https://ja.wikipedia.org/wiki/デイズシリーズの登場人物#西園寺世界 "wikilink")、世界の[乳房](../Page/乳房.md "wikilink")が[キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")の設定画よりも少し大きく見える」という理由から、世界の乳房を設定画に沿うよう修正する差分込みの修正[パッチ](../Page/パッチ.md "wikilink")である\[11\]。なお、これ以降に配布された修正パッチには同一の修正差分が含まれているため、これを改めて導入する必要は無い。

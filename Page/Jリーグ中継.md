@@ -298,7 +298,7 @@ Jリーグ発足後しばらくはJリーグ発足などによるサッカーブ
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">熊本</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>、<a href="../Page/NHK熊本放送局.md" title="wikilink">NHK熊本</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>、<a href="../Page/NHK熊本放送局.md" title="wikilink">NHK熊本</a></p></td>
 <td><p><a href="../Page/熊本朝日放送.md" title="wikilink">熊本朝日放送</a>、<a href="../Page/テレビ熊本.md" title="wikilink">テレビくまもと</a>、<a href="../Page/熊本県民テレビ.md" title="wikilink">くまもと県民テレビ</a></p></td>
 </tr>
 <tr class="even">
@@ -780,7 +780,7 @@ VSQ[63]*</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ロアッソ熊本" title="wikilink">熊本</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>*</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>*</p></td>
 <td><p>2007 -</p></td>
 </tr>
 <tr class="odd">

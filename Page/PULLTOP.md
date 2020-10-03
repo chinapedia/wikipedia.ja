@@ -249,8 +249,8 @@ FD</p></td>
 
 #### コンシューマ機移植
 
-  - 2003年[7月17日](../Page/7月17日.md "wikilink") - [とらかぷっ\! だーっしゅ\!\!](https://ja.wikipedia.org/wiki/とらかぷっ!_だーっしゅ!! "wikilink")（発売元：[WellMADE](https://ja.wikipedia.org/wiki/WellMADE "wikilink")、機種：[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
-  - 2004年[7月29日](../Page/7月29日.md "wikilink") - [夏少女 -Promised Summer-](https://ja.wikipedia.org/wiki/夏少女_-Promised_Summer- "wikilink")（発売元：[株式会社SUCCESS](../Page/サクセス_\(ゲーム会社\).md "wikilink")、機種：[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - 2003年[7月17日](../Page/7月17日.md "wikilink") - [とらかぷっ\! だーっしゅ\!\!](https://ja.wikipedia.org/wiki/とらかぷっ!_だーっしゅ!! "wikilink")（発売元：[WellMADE](https://ja.wikipedia.org/wiki/WellMADE "wikilink")、機種：[PS2](../Page/PlayStation_2.md "wikilink")）
+  - 2004年[7月29日](../Page/7月29日.md "wikilink") - [夏少女 -Promised Summer-](https://ja.wikipedia.org/wiki/夏少女_-Promised_Summer- "wikilink")（発売元：[株式会社SUCCESS](../Page/サクセス_\(ゲーム会社\).md "wikilink")、機種：[PS2](../Page/PlayStation_2.md "wikilink")）
   - 2012年3月27日 - [てとてトライオン\! TROPICAL](https://ja.wikipedia.org/wiki/てとてトライオン!_TROPICAL "wikilink")（発売元：[BOOST ON](https://ja.wikipedia.org/wiki/アスガルド_\(企業\) "wikilink")、機種：[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - 2012年[7月26日](../Page/7月26日.md "wikilink") - [しろくまベルスターズ♪ ハッピーホリデーズ\!](https://ja.wikipedia.org/wiki/しろくまベルスターズ♪_ハッピーホリデーズ! "wikilink")（発売元：[BOOST ON](https://ja.wikipedia.org/wiki/アスガルド_\(企業\) "wikilink")、機種：[PSP](../Page/PlayStation_Portable.md "wikilink")）
   - 2016年[3月31日](../Page/3月31日.md "wikilink") - [この大空に、翼をひろげて CRUISE SIGN](https://ja.wikipedia.org/wiki/この大空に、翼をひろげて_CRUISE_SIGN "wikilink")（発売元：[5pb](https://ja.wikipedia.org/wiki/5pb#5pb.Games "wikilink")、機種：[PS3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")/[PS Vita](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")）\[6\]

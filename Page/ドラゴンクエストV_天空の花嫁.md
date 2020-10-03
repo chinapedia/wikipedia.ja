@@ -7,7 +7,7 @@
 
 開発は[チュンソフト](../Page/チュンソフト.md "wikilink")が行い、前作からスタッフを引き継ぐ形でプロデューサーは[千田幸信](../Page/千田幸信.md "wikilink")、シナリオおよびゲーム・デザインは[堀井雄二](../Page/堀井雄二.md "wikilink")、音楽は[すぎやまこういち](https://ja.wikipedia.org/wiki/すぎやまこういち "wikilink")、キャラクター・デザインは[鳥山明](../Page/鳥山明.md "wikilink")が担当している他、新たに前作までプログラムを手掛けていた[山名学](../Page/山名学.md "wikilink")がディレクターを担当している。
 
-[リメイク](../Page/リメイク.md "wikilink")版として2004年に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（以下PS2）版が、2008年に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（以下DS）版が、スマートフォン（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")）版が[2014年](../Page/2014年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売されている（PS2版およびDS版はのちに[廉価版](../Page/廉価版.md "wikilink")「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として発売された）。
+[リメイク](../Page/リメイク.md "wikilink")版として2004年に[PlayStation 2](../Page/PlayStation_2.md "wikilink")（以下PS2）版が、2008年に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")（以下DS）版が、スマートフォン（[iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")）版が[2014年](../Page/2014年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売されている（PS2版およびDS版はのちに[廉価版](../Page/廉価版.md "wikilink")「[アルティメットヒッツ](../Page/アルティメットヒッツ.md "wikilink")」として発売された）。
 
 当時のエニックスが[SNES（日本国外版スーパーファミコン）に参入しなかったこともあって](https://ja.wikipedia.org/wiki/スーパーファミコン#Super_Nintendo_Entertainment_System "wikilink")、長らく日本国外では発売されなかったが、2009年、DS版が[北米で](../Page/北アメリカ.md "wikilink")『**Dragon Quest V: Hand of the Heavenly Bride**』として、[欧州では](../Page/ヨーロッパ.md "wikilink")『V』を除いた『**Dragon Quest: The Hand of the Heavenly Bride**』として発売された。
 
@@ -603,7 +603,7 @@
 <td><p>1</p></td>
 <td><p>ドラゴンクエストV 天空の花嫁</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p><a href="../Page/マトリックス_(ゲーム会社).md" title="wikilink">マトリックス</a><br />
 <a href="../Page/アルテピアッツァ.md" title="wikilink">アルテピアッツァ</a></p></td>
 <td><p><a href="../Page/スクウェア・エニックス.md" title="wikilink">スクウェア・エニックス</a></p></td>

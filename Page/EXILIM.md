@@ -268,7 +268,7 @@ EX-S1の成功からカシオではEXILIMを主力ブランドとした。初代
 <!-- end list -->
 
   - FCシリーズ
-      - [EX-FC100](https://ja.wikipedia.org/wiki/EX-FC100 "wikilink") - シリーズ初のコンパクトボディモデル。[劇団ひとり](../Page/劇団ひとり.md "wikilink")が[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")に出演した際、愛用品として紹介された。
+      - [EX-FC100](https://ja.wikipedia.org/wiki/EX-FC100 "wikilink") - シリーズ初のコンパクトボディモデル。[劇団ひとり](../Page/劇団ひとり.md "wikilink")が[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")に出演した際、愛用品として紹介された。
       - [EX-FC150](https://ja.wikipedia.org/wiki/EX-FC150 "wikilink") －FC100から、有効画素数・連写機能が強化されたほか、ソニー製の裏面照射型CMOSを採用し、暗い場所の撮影にも強くなった。
       - [EX-FC160S](https://ja.wikipedia.org/wiki/EX-FC160S "wikilink") - スイングチェックなど、ゴルファー向けの機能が搭載された1010万画素。
       - [EX-FC200S](https://ja.wikipedia.org/wiki/EX-FC200S "wikilink")

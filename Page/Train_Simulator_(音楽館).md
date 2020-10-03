@@ -9,7 +9,7 @@
 
 [鉄道ファン](../Page/鉄道ファン.md "wikilink")が作った作品ということで、各所に多くのこだわりがあり、実際の映像ならではの省略のない沿線風景、[加速](https://ja.wikipedia.org/wiki/加速 "wikilink")や[ブレーキ](../Page/ブレーキ.md "wikilink")の感覚が実車さながらに再現されている。音楽に携わる向谷ならではという点では、走行音のリアル感があげられ、結果実際の[運転士](../Page/運転士.md "wikilink")のような操作を体験できるこの作品は鉄道ファンの心をつかみ大ヒットを飛ばした。具体的には次の点がこだわりとして挙げられており、その際には各鉄道会社の協力が欠かせないものとなっている。
 
-  - 保安装置や信号も実際に即して再現されている。[PlayStation 2に移行後は](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、特にその発展が目覚ましく、実際に運転士の新人指導用に使われている。[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")および東横車輛電設向けに乗務員養成用のシミュレータも制作された。
+  - 保安装置や信号も実際に即して再現されている。[PlayStation 2に移行後は](../Page/PlayStation_2.md "wikilink")、特にその発展が目覚ましく、実際に運転士の新人指導用に使われている。[東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")および東横車輛電設向けに乗務員養成用のシミュレータも制作された。
   - 「決められた停止位置に列車を停めた際に、対向列車が見えてはならない」というルールがある。理由は**駅での停車時に対向列車が駅でもないのに停まって見えるのは不自然だから**であるが、そのために鉄道会社の協力を得て撮影列車のダイヤを設定してもらう際には、撮影日の天気の他に対向列車とのすれ違い地点がどこになるかが最重要項目となる。
   - 音声・スピードとの調整から、撮影列車は基本的に一定の速度で走り抜けてもらう必要がある。
   - ゲーム中の運転士・車掌の声は必ず実際に担当している乗務員の声を採用している。
@@ -17,7 +17,7 @@
 
 第一作目中央線から第三作目東北本線（1995年発売）までは、一般の特急列車で撮影された他社撮影映像の提供をうけるかたちを取ったため、当該特急の停車駅ではなくかつ長区間の区間、すなわち始発駅からではない中途半端な区間（**[八王子](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")**の隣駅の[豊田](https://ja.wikipedia.org/wiki/豊田駅 "wikilink")、**[大宮](https://ja.wikipedia.org/wiki/大宮駅_\(埼玉県\) "wikilink")**の隣駅の[土呂等](https://ja.wikipedia.org/wiki/土呂駅 "wikilink")）を採用せざるを得ず、マッキントッシュ専用ソフトとして発売された。しかし、秋葉原のパソコンショップでは売れないと言われたものの、実際に発売すると1万本以上が売れて程なくシリーズ化されるようになる。その後、相模鉄道から制作依頼を受け全面協力のもと制作された「相模鉄道本線」より撮影専用列車を運転させるようになり、以後[南仏](https://ja.wikipedia.org/wiki/フランス "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")2国の鉄道路線を含む『Train Simulator』シリーズ17作品、映像の拡大や疑似先行列車による信号変化を取り入れるなどより臨場感を高めた『Train Simulator Plus』シリーズ4作品がリリース。累計40万本以上を売上げている。
 
-2001年にはユーザのPC環境に左右されず、1つのプラットフォームに投資を集中してクオリティの高い作品を提供することを目的に、さらにはコンシューマ層の厚い一般ゲーム機市場に進出し、DVDによる高精細映像を使用した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『Train Simulator Real』シリーズとして『[THE 山手線](../Page/Train_Simulator_Real_THE_山手線.md "wikilink")』『[THE 京浜急行](../Page/Train_Simulator_Real_THE_京浜急行.md "wikilink")』（[SCE発売](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")）。『[Train Simulator 御堂筋線](../Page/Train_Simulator_御堂筋線.md "wikilink")』『[Train Simulator+電車でGO\! 東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")』『[Train Simulator 九州新幹線](https://ja.wikipedia.org/wiki/Train_Simulator_九州新幹線 "wikilink")』『[Train Simulator 京成・都営浅草・京急線](../Page/Train_Simulator_京成・都営浅草・京急線.md "wikilink")』（音楽館発売）の6作品がリリースされている。
+2001年にはユーザのPC環境に左右されず、1つのプラットフォームに投資を集中してクオリティの高い作品を提供することを目的に、さらにはコンシューマ層の厚い一般ゲーム機市場に進出し、DVDによる高精細映像を使用した[PlayStation 2用](../Page/PlayStation_2.md "wikilink")『Train Simulator Real』シリーズとして『[THE 山手線](../Page/Train_Simulator_Real_THE_山手線.md "wikilink")』『[THE 京浜急行](../Page/Train_Simulator_Real_THE_京浜急行.md "wikilink")』（[SCE発売](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")）。『[Train Simulator 御堂筋線](../Page/Train_Simulator_御堂筋線.md "wikilink")』『[Train Simulator+電車でGO\! 東京急行編](../Page/Train_Simulator+電車でGO!_東京急行編.md "wikilink")』『[Train Simulator 九州新幹線](https://ja.wikipedia.org/wiki/Train_Simulator_九州新幹線 "wikilink")』『[Train Simulator 京成・都営浅草・京急線](../Page/Train_Simulator_京成・都営浅草・京急線.md "wikilink")』（音楽館発売）の6作品がリリースされている。
 
 [2005年](../Page/2005年.md "wikilink")からは[PlayStation Portable用](../Page/PlayStation_Portable.md "wikilink")『Mobile Train Simulator＋電車でGO\! 東京急行編』『Mobile Train Simulator 京成・都営浅草・京急線』の2作品をリリースしている。
 

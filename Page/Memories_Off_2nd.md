@@ -23,7 +23,7 @@
 
 『**Memories Off 2nd**』（メモリーズオフ・セカンド）は、2001年9月27日に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")と[PlayStationで発売された](../Page/PlayStation_\(ゲーム機\).md "wikilink")[恋愛アドベンチャーゲーム](../Page/恋愛ゲーム_\(ゲームジャンル\).md "wikilink")。
 
-2003年3月27日に前作である『**[Memories Off](../Page/Memories_Off.md "wikilink")**』とのカップリング版である『**[Memories Off Duet](../Page/Memories_Off_Duet.md "wikilink")**』が[PlayStation 2で発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite 2000で](../Page/SuperLiteシリーズ.md "wikilink")2004年8月5日に発売されている）。
+2003年3月27日に前作である『**[Memories Off](../Page/Memories_Off.md "wikilink")**』とのカップリング版である『**[Memories Off Duet](../Page/Memories_Off_Duet.md "wikilink")**』が[PlayStation 2で発売されている](../Page/PlayStation_2.md "wikilink")（[サクセスから](../Page/サクセス_\(ゲーム会社\).md "wikilink")[SuperLite 2000で](../Page/SuperLiteシリーズ.md "wikilink")2004年8月5日に発売されている）。
 
 2008年5月29日に[PlayStation Portableで移植版が発売されている](../Page/PlayStation_Portable.md "wikilink")。PSP版には『Duet』に収録されている「雪蛍」がPure Storyとして収録されているほか、登場人物のその後を描いたAfter Storyも収録されている。After Storyはほたるエンドから続いている。
 

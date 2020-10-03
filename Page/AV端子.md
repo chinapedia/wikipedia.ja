@@ -60,7 +60,7 @@
         橙色の同コネクタ付きケーブルを用いてデジタル音声信号の伝送を行う。形状はRCA端子かBNC端子。
 
   - [AVマルチ](../Page/AVマルチ.md "wikilink")端子
-    [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、一部の[ソニー](../Page/ソニー.md "wikilink")製[テレビ](../Page/テレビ.md "wikilink")に搭載。
+    [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")、一部の[ソニー](../Page/ソニー.md "wikilink")製[テレビ](../Page/テレビ.md "wikilink")に搭載。
 
   - [フォーン端子](../Page/フォーンプラグ.md "wikilink")（ TRSフォーン）
     民生用から業務用のオーディオ機器において[ヘッドホンや](../Page/ヘッドフォン.md "wikilink")[マイクロフォン](../Page/マイクロフォン.md "wikilink")など入出力装置に使われることが多い。また、シンセサイザーやエレキギターなど電気・電子楽器の接続にも広く用いられ、この用途のケーブルはシールド線と呼ばれる。大きさにより標準プラグ、ミニプラグなどがあり、用途によって使い分けられる。

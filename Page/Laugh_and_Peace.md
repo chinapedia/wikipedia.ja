@@ -98,7 +98,7 @@
 #### ゲームミュージック
 
   - [ビブリボン](../Page/ビブリボン.md "wikilink")（1999年[12月9日](../Page/12月9日.md "wikilink")） - [PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
-  - [モジブリボン](https://ja.wikipedia.org/wiki/モジブリボン "wikilink")（2003年[11月20日](../Page/11月20日.md "wikilink")） - [PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、ソニー・コンピュータエンタテインメント
+  - [モジブリボン](https://ja.wikipedia.org/wiki/モジブリボン "wikilink")（2003年[11月20日](../Page/11月20日.md "wikilink")） - [PlayStation 2](../Page/PlayStation_2.md "wikilink")、ソニー・コンピュータエンタテインメント
 
 #### ゲームミュージック[サウンドトラック](../Page/サウンドトラック.md "wikilink")
 

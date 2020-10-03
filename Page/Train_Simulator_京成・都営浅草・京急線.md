@@ -1,7 +1,7 @@
 > この記事は[Train Simulator 京成・都営浅草・京急線](https://ja.wikipedia.org/wiki/Train_Simulator_京成・都営浅草・京急線)から翻訳されています。
 
 
-『**Train Simulator 京成・都営浅草・京急線**』（トレインシミュレータ けいせい・とえいあさくさ・けいきゅうせん）は[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された[PlayStation 2用電車運転ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。当初は[7月21日](../Page/7月21日.md "wikilink")に発売を予定していたが、発売延期となった。
+『**Train Simulator 京成・都営浅草・京急線**』（トレインシミュレータ けいせい・とえいあさくさ・けいきゅうせん）は[2005年](../Page/2005年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")に[音楽館](../Page/音楽館.md "wikilink")から発売された[PlayStation 2用電車運転ゲーム](../Page/PlayStation_2.md "wikilink")。当初は[7月21日](../Page/7月21日.md "wikilink")に発売を予定していたが、発売延期となった。
 
 これまでのTrain Simulatorには無い「ライセンス制度」、「ポイント制度」を導入した。
 

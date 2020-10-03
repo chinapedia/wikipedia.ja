@@ -397,7 +397,7 @@
 
 ### ゲーム
 
-  - WONDER ZONE（[PlayStation 2専用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）（2002年10月10日、ソニー・ミュージックエンタテインメント）
+  - WONDER ZONE（[PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")）（2002年10月10日、ソニー・ミュージックエンタテインメント）
 
 ### 書籍/楽譜
 

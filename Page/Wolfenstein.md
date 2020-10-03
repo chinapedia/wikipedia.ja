@@ -43,7 +43,7 @@
 
 本作は『Wolfenstein 3D』をQuake3エンジンでリメイクしたものであり\[7\]、2001年に発表され、日本ではP\&Aより発売された\[8\]。本作のシングルプレイはGray Matter Studios、マルチプレイは[Nerve Softwareが製作](../Page/Nerve_Software.md "wikilink")。通称「RtCW」。
 
-[Xboxにも移植されており](../Page/Xbox_\(ゲーム機\).md "wikilink")、プロローグとなる新たなエピソード等、新要素を追加した『Return to Castle Wolfenstein : Tides of War』が2003年に[マイクロソフト](../Page/マイクロソフト.md "wikilink")より「Xbox ワールドコレクション」として発売されている。海外では[プレイステーション2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『Return to Castle Wolfenstein: Operation Resurrection』なる移植版が発売されているが、日本国内では未発売。
+[Xboxにも移植されており](../Page/Xbox_\(ゲーム機\).md "wikilink")、プロローグとなる新たなエピソード等、新要素を追加した『Return to Castle Wolfenstein : Tides of War』が2003年に[マイクロソフト](../Page/マイクロソフト.md "wikilink")より「Xbox ワールドコレクション」として発売されている。海外では[プレイステーション2で](../Page/PlayStation_2.md "wikilink")『Return to Castle Wolfenstein: Operation Resurrection』なる移植版が発売されているが、日本国内では未発売。
 
 また、関連作品としてRtCWのマルチプレイに特化した無料ゲーム『[Wolfenstein: Enemy Territory](../Page/Wolfenstein:_Enemy_Territory.md "wikilink")』がある。
 

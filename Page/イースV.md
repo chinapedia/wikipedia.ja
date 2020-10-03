@@ -179,7 +179,7 @@
 
 ## イースV -Lost Kefin, Kingdom of Sand-
 
-タイトーによる[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink") (PS2) 向け[リメイク](../Page/リメイク.md "wikilink")作品。開発は[アクセス](https://ja.wikipedia.org/wiki/アクセス_\(ゲーム会社\) "wikilink")。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
+タイトーによる[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) 向け[リメイク](../Page/リメイク.md "wikilink")作品。開発は[アクセス](https://ja.wikipedia.org/wiki/アクセス_\(ゲーム会社\) "wikilink")。システムは同じくタイトーより発売されたPS2版[イースIV](../Page/イースIV.md "wikilink")『[イースIV MASK OF THE SUN -a new theory-](../Page/イースIV_MASK_OF_THE_SUN_-a_new_theory-.md "wikilink") 』のシステムに改良を加える形で作られており、オリジナルとは大きく異なる。ストーリーにもアレンジが加えられており、PS2版『IV』と同じく、『VI』の有翼人による古代文明と言う世界設定を踏襲している。オリジナルでは登場しなかったドギが登場する反面、ストーカー等のように登場しなくなったキャラクターもいる。
 
 ### キャスト
 

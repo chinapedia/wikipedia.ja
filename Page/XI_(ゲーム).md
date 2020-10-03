@@ -284,7 +284,7 @@
   - 『XI Little』(サイリトル) - 2001年12月20日、[ワンダースワン](../Page/ワンダースワン.md "wikilink")、発売元：[バンダイ](../Page/バンダイ.md "wikilink")
       -
         初代『XI』のモードの他、サウンド要素を取り入れた**AQUIちゃんのダイスでダンス**モードもある。
-  - 『XIゴ』（サイゴ） - 2002年12月19日、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - 『XIゴ』（サイゴ） - 2002年12月19日、[PlayStation 2](../Page/PlayStation_2.md "wikilink")
   - 『XI コロシアム』(サイコロシアム) - 2006年03月09日、[PSP](../Page/PlayStation_Portable.md "wikilink")
       -
         内容はほぼ初代『XI』と同じだが、ゲーム中のデザインは「XIゴ」に近いものに変更されている。

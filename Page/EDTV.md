@@ -22,7 +22,7 @@ EDTV対応と見なせるゲーム機を下記に記す。
   - [セガ](https://ja.wikipedia.org/wiki/セガゲームス "wikilink") [ドリームキャスト](../Page/ドリームキャスト.md "wikilink")
     全てのゲームではないがVGA接続による640×480のプログレッシブ出力に対応している。
   - [ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")
-    [プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")：いくつかのゲームが480pの出力に対応している。
+    [プレイステーション2](../Page/PlayStation_2.md "wikilink")：いくつかのゲームが480pの出力に対応している。
     [プレイステーション3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")：コンポーネント接続、およびHDMI接続を通じて480p出力に対応している。
   - [任天堂](../Page/任天堂.md "wikilink")
     [ニンテンドーゲームキューブ](../Page/ニンテンドーゲームキューブ.md "wikilink")：[コンポーネント接続](../Page/コンポーネント端子.md "wikilink")（D2）互換の出力に対応している（初期型のみ）。

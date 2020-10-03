@@ -66,7 +66,7 @@ beatmaniaシリーズと同じく、[SYSTEM-GX](https://ja.wikipedia.org/wiki/SY
 
 『[beatmania](https://ja.wikipedia.org/wiki/beatmania "wikilink") 7thMIX』などと同等、先行販売のみの機種であり、販売中止になった作品として知られている。
 
-本作のオリジナル楽曲は、後にアーケード版『pop'n music 5』において4曲と5キャラクター（FAT BOYのみ本作の曲ではなく新曲担当として移植、HOTARUはキャラクターデザインが一新された）が譜面を手でプレイする用にアレンジされた上で移植された。続いてアーケード版『pop'n music 6』にて1曲（YURI\*chanはアニメーションが一部変更された）、アーケード版『pop'n music 8』にて4曲、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『pop'n music 6』において「クールダンス/full moon」を除いた全ての楽曲が同様に本家に移植された（一部の楽曲は[PlayStation 2版の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『pop'n music 7』『8』『11』などにも再録）。アーケード版ではAC5・AC6・AC8で移植された9曲（その内3曲はAC17で削除され、現行作はプレイ不可）と「80'ポップ/Girls From The Portrait」（AC16で移植、カテゴリーではCS曲扱い）以外の曲は移植されていない。また、アーケード版・家庭用共にMARGARETとBOMBER、『ex』でのINUCHIYOの別バージョンは移植されていない。
+本作のオリジナル楽曲は、後にアーケード版『pop'n music 5』において4曲と5キャラクター（FAT BOYのみ本作の曲ではなく新曲担当として移植、HOTARUはキャラクターデザインが一新された）が譜面を手でプレイする用にアレンジされた上で移植された。続いてアーケード版『pop'n music 6』にて1曲（YURI\*chanはアニメーションが一部変更された）、アーケード版『pop'n music 8』にて4曲、[PlayStation版](../Page/PlayStation_\(ゲーム機\).md "wikilink")『pop'n music 6』において「クールダンス/full moon」を除いた全ての楽曲が同様に本家に移植された（一部の楽曲は[PlayStation 2版の](../Page/PlayStation_2.md "wikilink")『pop'n music 7』『8』『11』などにも再録）。アーケード版ではAC5・AC6・AC8で移植された9曲（その内3曲はAC17で削除され、現行作はプレイ不可）と「80'ポップ/Girls From The Portrait」（AC16で移植、カテゴリーではCS曲扱い）以外の曲は移植されていない。また、アーケード版・家庭用共にMARGARETとBOMBER、『ex』でのINUCHIYOの別バージョンは移植されていない。
 
 ## 関連項目
 

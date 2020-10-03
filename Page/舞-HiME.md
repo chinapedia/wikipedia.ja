@@ -61,7 +61,7 @@
 <th><p>タイトル = 舞-HiME 運命の系統樹 (PS2)<br />
 舞-HiME 運命の系統樹 修羅 (PC)</p></th>
 <th><p>ゲームジャンル = <a href="../Page/アドベンチャーゲーム.md" title="wikilink">恋愛&amp;バトルAVG</a></p></th>
-<th><p>対応機種 = <a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a><br />
+<th><p>対応機種 = <a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a><br />
 <a href="https://ja.wikipedia.org/wiki/Microsoft_Windows" title="wikilink">Windows</a><a href="../Page/Microsoft_Windows_98.md" title="wikilink">98</a>/<a href="../Page/Microsoft_Windows_Millennium_Edition.md" title="wikilink">Me</a>/<a href="../Page/Microsoft_Windows_2000.md" title="wikilink">2000</a>/<a href="../Page/Microsoft_Windows_XP.md" title="wikilink">XP</a> (PC)</p></th>
 <th><p>必要環境 = <a href="../Page/パーソナルコンピュータ.md" title="wikilink">PC</a> <a href="../Page/Pentium_III.md" title="wikilink">Pentium III</a> 600 MHz (CPU) / 128MB（メモリ）</p></th>
 <th><p>推奨環境 = PC Pentium III 1GHz (CPU) / 256MB（メモリ）</p></th>
@@ -1085,7 +1085,7 @@ DVD各巻3話（1巻のみ2話）収録のピクチャードラマ。全26話。
 
 ### 舞-HiME 運命の系統樹
 
-[PlayStation 2用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")より2005年6月30日に発売された。開発はCIRCUS。また、Best版が2006年2月23日に発売された。アニメ版後半部の内容をさらにハードしたような内容で、ヒロインによってはバッドエンドとも取れる内容がある。
+[PlayStation 2用ソフトとして](../Page/PlayStation_2.md "wikilink")[マーベラスインタラクティブ](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")より2005年6月30日に発売された。開発はCIRCUS。また、Best版が2006年2月23日に発売された。アニメ版後半部の内容をさらにハードしたような内容で、ヒロインによってはバッドエンドとも取れる内容がある。
 
 #### スタッフ（ゲーム）
 

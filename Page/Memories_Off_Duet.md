@@ -1,7 +1,7 @@
 > この記事は[Memories Off Duet](https://ja.wikipedia.org/wiki/Memories_Off_Duet)から翻訳されています。
 
 
-『**Memories Off Duet**』は、2003年3月27日に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[Memories Off](../Page/Memories_Off.md "wikilink")』と『[Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")』のカップリング版である。また、2004年8月5日に設定原画集などを追加した[SuperLite2000シリーズ版が](../Page/SuperLiteシリーズ.md "wikilink")[サクセスより発売されている](../Page/サクセス_\(ゲーム会社\).md "wikilink")（こちらは[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。 また2008年9月19日にはPC版が発売されている\[1\]。
+『**Memories Off Duet**』は、2003年3月27日に[KIDより](../Page/KID_\(ゲームブランド\).md "wikilink")[PlayStation 2で発売された](../Page/PlayStation_2.md "wikilink")『[Memories Off](../Page/Memories_Off.md "wikilink")』と『[Memories Off 2nd](../Page/Memories_Off_2nd.md "wikilink")』のカップリング版である。また、2004年8月5日に設定原画集などを追加した[SuperLite2000シリーズ版が](../Page/SuperLiteシリーズ.md "wikilink")[サクセスより発売されている](../Page/サクセス_\(ゲーム会社\).md "wikilink")（こちらは[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12才以上対象）。 また2008年9月19日にはPC版が発売されている\[1\]。
 
 ## Memories Off 2nd 〜雪蛍〜
 

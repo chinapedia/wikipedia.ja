@@ -395,7 +395,7 @@
   - [テレビ山口](../Page/テレビ山口.md "wikilink")
   - [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")：土曜 20:30 - 20:55
   - [九州朝日放送](https://ja.wikipedia.org/wiki/九州朝日放送 "wikilink")：土曜 20:30 - 20:55
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - [熊本放送](../Page/熊本放送.md "wikilink")
   - [テレビ大分](../Page/テレビ大分.md "wikilink")
 
 ## DVD

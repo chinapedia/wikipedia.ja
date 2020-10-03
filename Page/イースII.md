@@ -184,7 +184,7 @@
 
 以下の作品はWin版『イースII完全版』をベースに移植されている。
 
-  - [PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - [PlayStation 2版](../Page/PlayStation_2.md "wikilink")
     タイトルは『**イースI・IIエターナルストーリー**』であり、『I』と一本にまとめられている。「Ys II ETERNALモード」と「Ys ETERNAL STORYモード」があり「Ys II ETERNALモード」はWinからのベタ移植。「Ys ETERNAL STORYモード」では装備品に対する新システムが追加されている。詳しくは『[イースI・IIエターナルストーリー](https://ja.wikipedia.org/wiki/イースI・II#イースI・IIエターナルストーリー "wikilink")』を参照。
   - [ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")版
     タイトルは『**イースII DS**』。Win版をベースとしているが、「体当たり攻撃」を廃止して「剣を振る」操作が追加されている。またマップを3D化しており、ノルティア氷壁やサルモン神殿などの広大なマップエリアでは画面の切り替えがWin版より多く生じている。DSの機能を利用したタッチペンでの操作や、ワイヤレス通信機能を使った最大4人までの通信対戦を行うことが可能となった。

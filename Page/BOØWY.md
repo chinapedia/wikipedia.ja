@@ -148,7 +148,7 @@ PlotData=
 ### 1987年
 
   - 2月24日、[日本武道館](../Page/日本武道館.md "wikilink")で「ROCK 'N ROLL CIRCUS TOUR」ツアー終了。
-  - 4月6日、シングル『[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")』発売。
+  - 4月6日、シングル『[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")』発売。
   - 7月22日、シングル『[MARIONETTE](../Page/Marionette_\(BOØWYの曲\).md "wikilink")』発売。
   - 7月31日、[神戸でライブ](../Page/ワールド記念ホール.md "wikilink")「CASE OF 」を開催。しばらく演奏されていなかった初期の曲もセットリストに含めた、バンドの総括的なライブであった。8月7日には[横浜でも開催された](../Page/横浜文化体育館.md "wikilink")。
   - 8月22日-23日、[グリーンピア南阿蘇アスペクタにて行われたライブ](../Page/熊本県野外劇場.md "wikilink")・イベント「[BEAT CHILD](https://ja.wikipedia.org/wiki/BEAT_CHILD "wikilink")」に出演。
@@ -183,7 +183,7 @@ PlotData=
   - このうち『5時SATマガジン』では、“ロックスター[ボウリング](../Page/ボウリング.md "wikilink")大会”という企画に出演している。
   - [日本テレビの番組](../Page/日本テレビ放送網.md "wikilink")『メリー・クリスマス・ショー』で吉川晃司と[ビートルズ](../Page/ビートルズ.md "wikilink")の「[ヘルプ\!](../Page/ヘルプ!_\(ビートルズの曲\).md "wikilink")」をカバー。その他ではオープニングの「[カム・トゥゲザー](https://ja.wikipedia.org/wiki/カム・トゥゲザー "wikilink")」（同じくビートルズの曲）、出演者のほとんどが参加したロッケストラ名義で「[夜をぶっとばせ](https://ja.wikipedia.org/wiki/夜をぶっとばせ "wikilink")」（[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の曲）、「[テレグラム・サム](https://ja.wikipedia.org/wiki/テレグラム・サム "wikilink")」（[T.REX](https://ja.wikipedia.org/wiki/T.REX "wikilink")の曲）、エンディングの「[Kissin' Christmas (クリスマスだからじゃない)](../Page/Kissin'_Christmas_\(クリスマスだからじゃない\).md "wikilink")」にも参加している。
   - 『夜のヒットスタジオ』の「対面シリーズ」では、氷室の初恋の女性が登場して、氷室は「さすがフジテレビだぜい\!」と驚いた。本当にこの女性が来るとは思っていなかったため、収録後にメンバー全員が出演したことを後悔したという\[16\]。
-  - 同番組に「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」で出演した際には、司会の[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")から「（氷室の衣装が）[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")の買い物帰りのおばさんみたい」と言われ、布袋に対しては[殿さまキングス](../Page/殿さまキングス.md "wikilink")の物真似を強要させられ\[17\]、また高橋は自前のドラムセットを使えなかったこと\[18\]等が原因か、テレビ出演は1986年12月を最後に途絶えている。
+  - 同番組に「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」で出演した際には、司会の[古舘伊知郎](../Page/古舘伊知郎.md "wikilink")から「（氷室の衣装が）[銀座](https://ja.wikipedia.org/wiki/銀座 "wikilink")の買い物帰りのおばさんみたい」と言われ、布袋に対しては[殿さまキングス](../Page/殿さまキングス.md "wikilink")の物真似を強要させられ\[17\]、また高橋は自前のドラムセットを使えなかったこと\[18\]等が原因か、テレビ出演は1986年12月を最後に途絶えている。
   - バラエティ番組である『いきなり\!フライデーナイト』にしばしば出演したのは、司会の[山田邦子](../Page/山田邦子.md "wikilink")が、ライブハウス時代からのファンであり、氷室によれば山田が「楽曲をよく理解してくれていたから」だという。氷室が「俺のオヤジ、邦子ちゃんの大ファンなんです」とカミングアウトすることもあった。本番組にはメンバーが酔っ払ったまま出演している。
   - 音楽雑誌に掲載された記事も少ない。「[B・BLUE](../Page/B・BLUE.md "wikilink")」がヒットした直後からインタビュー等のオファーが殺到するが、それらのほとんどを拒否している。数少ないインタビュー記事は、ブレイクする以前から懇意にしていたライターや、自分たちの音楽をよく理解してくれていたライターの雑誌に限定されていた。
       - このような対応の裏には、まだライブハウスで活動していた時期に、熱意剥き出しで挑んだインタビューがほんの僅かしか掲載されていなかったり、懸命にスタイリングして撮影したはずの写真が掲載されていなかった等の経験から、[メディアへの不信感を抱いたことが影響している](../Page/メディア_\(媒体\).md "wikilink")。
@@ -334,7 +334,7 @@ PlotData=
   - [BAD FEELING](../Page/BAD_FEELING.md "wikilink")（1985年）
   - [わがままジュリエット](../Page/わがままジュリエット.md "wikilink")（1986年）
   - [B・BLUE](../Page/B・BLUE.md "wikilink")（1986年）
-  - [ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")（1987年）
+  - [ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")（1987年）
   - [Marionette -マリオネット-](../Page/Marionette_\(BOØWYの曲\).md "wikilink")（1987年）
   - [季節が君だけを変える](../Page/季節が君だけを変える.md "wikilink")（1987年）
   - [DAKARA](https://ja.wikipedia.org/wiki/DAKARA_\(BOØWYの曲\) "wikilink")（1988年）

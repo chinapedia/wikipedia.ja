@@ -199,7 +199,7 @@
 
 [日本テレビ系列](../Page/日本テレビ放送網.md "wikilink")
 
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")）
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（[読売テレビ制作](../Page/讀賣テレビ放送.md "wikilink")）
   - [金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")
   - [エンタの神様](https://ja.wikipedia.org/wiki/エンタの神様 "wikilink")
 

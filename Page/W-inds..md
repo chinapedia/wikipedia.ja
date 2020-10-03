@@ -1739,7 +1739,7 @@ c/w「Love or Leave」（全盤共通）<br />
   - [チノパン](https://ja.wikipedia.org/wiki/チノパン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [力の限りゴーゴゴー\!\!](../Page/力の限りゴーゴゴー!!.md "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [人気者でいこう\!](../Page/人気者でいこう!.md "wikilink")([テレビ朝日](../Page/テレビ朝日.md "wikilink"))
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))
   - [大阪発元気ダッシュ\!DOYAH](../Page/大阪発元気ダッシュ!DOYAH.md "wikilink") （2001年11月 - 2003年9月、[BS2](../Page/NHK衛星第2テレビジョン.md "wikilink")）
   - [アヤパン](https://ja.wikipedia.org/wiki/アヤパン "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))
   - [めちゃめちゃイケてるッ\!](https://ja.wikipedia.org/wiki/めちゃめちゃイケてるッ! "wikilink")([フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[系列](../Page/フジネットワーク.md "wikilink"))

@@ -222,7 +222,7 @@
         コナミコンピュータエンタテインメントハワイが開発。ゲームボーイアドバンスで発売されたアクションアドベンチャーゲーム。
   - [経営シミュレーション ジュラシック・パーク](https://ja.wikipedia.org/wiki/経営シミュレーション_ジュラシック・パーク "wikilink")
       -
-        コナミから[PlayStation 2にて発売された経営シミュレーションゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+        コナミから[PlayStation 2にて発売された経営シミュレーションゲーム](../Page/PlayStation_2.md "wikilink")。
   - [Jurassic Park: Survival](https://ja.wikipedia.org/wiki/:en:Jurassic_Park:_Survival "wikilink")
       -
         映画公開により、2001年11月14日に[ヴィヴェンディ](../Page/ヴィヴェンディ.md "wikilink")とコナミから発売予定されていたPlayStation 2と[Xbox用のサードパーソンシューティングタイプのアクションアドベンチャーゲーム](../Page/Xbox_\(ゲーム機\).md "wikilink")。かつて恐竜が飼育されていた謎の秘密の第3の島イスラ・ソルナ島を舞台に、プレイヤーは島に派遣された調査隊のセキュリティーチームの研究者デイビッド・ヴォーンとなって、恐竜や恐竜の遺伝子を狙う謎の企業の武装組織と戦いながらステージを進めていく内容のゲームで、ゲーム内容のデモ映像も公開されるなど、ゲームの完成近くだったが、開発元の[Savage Entertainmentと発売元のヴィヴェンディとの間で起きた予算の対立トラブルから発売はキャンセルされ](https://ja.wikipedia.org/wiki/:en:Savage_Entertainment "wikilink")、発売されなかった。

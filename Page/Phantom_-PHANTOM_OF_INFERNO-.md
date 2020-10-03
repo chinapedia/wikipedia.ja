@@ -1,7 +1,7 @@
 > この記事は[Phantom -PHANTOM OF INFERNO-](https://ja.wikipedia.org/wiki/Phantom_-PHANTOM_OF_INFERNO-)から翻訳されています。
 
 
-『**Phantom -PHANTOM OF INFERNO-**』（ファントム ファントム・オブ・インフェルノ）は、[2000年](../Page/2000年.md "wikilink")2月25日に[ニトロプラス](../Page/ニトロプラス.md "wikilink")が発売した[18禁](../Page/アダルトゲーム.md "wikilink")[ハードボイルド](../Page/ハードボイルド.md "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")に全年齢対象の[DVD-VIDEO GAME版](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")、[2003年](../Page/2003年.md "wikilink")に[PS2版が発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。
+『**Phantom -PHANTOM OF INFERNO-**』（ファントム ファントム・オブ・インフェルノ）は、[2000年](../Page/2000年.md "wikilink")2月25日に[ニトロプラス](../Page/ニトロプラス.md "wikilink")が発売した[18禁](../Page/アダルトゲーム.md "wikilink")[ハードボイルド](../Page/ハードボイルド.md "wikilink")系[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。[2002年](../Page/2002年.md "wikilink")に全年齢対象の[DVD-VIDEO GAME版](https://ja.wikipedia.org/wiki/DVDプレイヤーズゲーム "wikilink")、[2003年](../Page/2003年.md "wikilink")に[PS2版が発売された](../Page/PlayStation_2.md "wikilink")。
 
 [2004年](../Page/2004年.md "wikilink")11月19日には、オリジナルに全年齢対象版で追加・修正されたシナリオ・グラフィック・楽曲をフィードバックし、ゲームエンジンを[Shockwave](https://ja.wikipedia.org/wiki/Shockwave "wikilink")からニトロプラスオリジナルのものに変更した『**Phantom INTEGRATION**』（ファントム インテグレーション）が発売された（18禁）。
 

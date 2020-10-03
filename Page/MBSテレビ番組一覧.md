@@ -1300,7 +1300,7 @@
   - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
   - [中居大輔と夜な夜なラブ子さん](../Page/中居大輔と夜な夜なラブ子さん.md "wikilink")（土 0:20 - 1:20〈金深夜〉）
   - [KAT-TUNの世界一タメになる旅\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅! "wikilink")+（日 1:28 - 2:03〈土深夜〉）
-  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
+  - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](../Page/熊本放送.md "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [バナナサンド](../Page/バナナサンド.md "wikilink")（日 12:54 - 13:54）
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）

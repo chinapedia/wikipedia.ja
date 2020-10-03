@@ -37,7 +37,7 @@
   - MARVEL SUPER HEROES VS. STREET FIGHTER EX EDITION（プレイステーション）
   - MARVEL VS. CAPCOM CLASH OF SUPER HEROES EX EDITION（プレイステーション）
       - これら「EX EDITION」3作品は、プレイステーションのメモリ性能の関係上、キャラクターの交代が基本的にできなくなっている代わりに、システムなどに細部のアレンジが施されている。
-  - MARVEL VS. CAPCOM 2 -New Age of Heroes- モデムパック（[プレイステーション2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")）
+  - MARVEL VS. CAPCOM 2 -New Age of Heroes- モデムパック（[プレイステーション2](../Page/PlayStation_2.md "wikilink")）
 
 ## SNK
 

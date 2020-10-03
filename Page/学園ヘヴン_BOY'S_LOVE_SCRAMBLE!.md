@@ -8,7 +8,7 @@
   - 学園ヘヴン BOY'S LOVE SCRAMBLE\!
     2002年8月2日に発売のPC版。
   - 学園ヘヴン BOY'S LOVE SCRAMBLE\!
-    [NECインターチャネルより発売の](../Page/インターチャネル.md "wikilink")[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象ソフトとして、[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")にCEROレーティング15歳以上対象のType Bが発売されている。後者は前者からギャンブルシーンを取り除き、プログレッシブ出力およびアンチフリッカー機能を追加した物。なお[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に発売された廉価版は前者で、CEROレーティングはD（17才以上対象）。PS2版にはアダルトシーンがない。
+    [NECインターチャネルより発売の](../Page/インターチャネル.md "wikilink")[PlayStation 2版](../Page/PlayStation_2.md "wikilink")。[2003年](../Page/2003年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象ソフトとして、[2004年](../Page/2004年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")にCEROレーティング15歳以上対象のType Bが発売されている。後者は前者からギャンブルシーンを取り除き、プログレッシブ出力およびアンチフリッカー機能を追加した物。なお[2006年](../Page/2006年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")に発売された廉価版は前者で、CEROレーティングはD（17才以上対象）。PS2版にはアダルトシーンがない。
   - 学園ヘヴン おかわりっ\! BOY'S LOVE ATTACK\!
     インターチャネルより2005年[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")にPlayStation 2で発売（本編Type B同様CEROレーティング15歳以上対象、2006年[9月28日](../Page/9月28日.md "wikilink")に廉価版発売）。
   - 学園ヘヴン BOY'S LOVE SCRAMBLE\!

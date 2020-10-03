@@ -23,7 +23,7 @@
       - 『[今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")』■（月 - 金 15:44 - 19:00。ローカルニュース部は15:44 - 17:50と18:15 - 19:00。特別編成により通常版「今日ドキッ\!」が休止となる場合は「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ "wikilink")」を13:55 - 15:49まで・「Nスタ」を15:49 - 18:15までそれぞれフル放送し、18:15 - 18:30枠で「HBCニュース」を放送。日ハムナイター中継がある場合、ローカルニュースは17時台で繰り上げ放送し、18:15からはプロ野球中継を放送）
       - キャスター：[堀啓知](../Page/堀啓知.md "wikilink")、[金城茉里奈](https://ja.wikipedia.org/wiki/金城茉里奈 "wikilink")、[森田絹子](https://ja.wikipedia.org/wiki/森田絹子 "wikilink")、[森結有花](https://ja.wikipedia.org/wiki/森結有花 "wikilink")、ほか
       - フィールドキャスター：[堀内大輝](https://ja.wikipedia.org/wiki/堀内大輝 "wikilink")・[日下怜奈](https://ja.wikipedia.org/wiki/日下怜奈 "wikilink")
-      - スポーツキャスター：[川畑恒一](https://ja.wikipedia.org/wiki/川畑恒一 "wikilink")・[卓田和広](../Page/卓田和広.md "wikilink")・[渕上紘行](../Page/渕上紘行.md "wikilink")・[山内要一](../Page/山内要一.md "wikilink")・[世永聖奈](https://ja.wikipedia.org/wiki/世永聖奈 "wikilink")
+      - スポーツキャスター：[川畑恒一](../Page/川畑恒一.md "wikilink")・[卓田和広](../Page/卓田和広.md "wikilink")・[渕上紘行](../Page/渕上紘行.md "wikilink")・[山内要一](../Page/山内要一.md "wikilink")・[世永聖奈](https://ja.wikipedia.org/wiki/世永聖奈 "wikilink")
       - 天気コーナー担当：[近藤肇](https://ja.wikipedia.org/wiki/近藤肇 "wikilink")（HBC[気象予報士](../Page/気象予報士.md "wikilink")）
   - [青森テレビ](../Page/青森テレビ.md "wikilink")（ATV）
       - 『[わっち\!\!](https://ja.wikipedia.org/wiki/わっち!! "wikilink")』（月 - 金 16:50 - 18:56。ローカルニュース「わっち\!\!NEWS」は18:15 - 18:56）
@@ -159,7 +159,7 @@
       - 『[Pint](../Page/Pint.md "wikilink")』（月 - 金 16:50 - 19:00。ローカルニュースは18:15 - 19:00。祝日は前半部を単発特番へ差し替え・または「Nスタ」を15:49 - 18:15まで臨時にフルネットし、本編を18:15 - 19:00へ枠小する場合あり）
       - キャスター：[大倉聡](../Page/大倉聡.md "wikilink")、[染矢すみれ](https://ja.wikipedia.org/wiki/染矢すみれ "wikilink")
       - フィールドキャスター：[住吉光](https://ja.wikipedia.org/wiki/住吉光 "wikilink")、[甲斐田貴之](../Page/甲斐田貴之.md "wikilink")、[平地真菜](https://ja.wikipedia.org/wiki/平地真菜 "wikilink")、[山崎菜緒](https://ja.wikipedia.org/wiki/山崎菜緒 "wikilink")
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）
+  - [熊本放送](../Page/熊本放送.md "wikilink")（RKK）
       - 『[夕方Live ゲツキン\!](https://ja.wikipedia.org/wiki/夕方Live_ゲツキン! "wikilink")』■（月 - 金 18:15 - 18:55）
       - キャスター：[吉田明央](https://ja.wikipedia.org/wiki/吉田明央 "wikilink")、[福居万里子](https://ja.wikipedia.org/wiki/福居万里子 "wikilink")、ほか
       - フィールドキャスター：[青谷倫太郎](../Page/青谷倫太郎.md "wikilink")（報道部記者）、[平岡夏希](../Page/平岡夏希.md "wikilink")

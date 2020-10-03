@@ -17,7 +17,7 @@ RPGツクールXPの目玉機能としては、まずスクリプト言語[RGSS]
 
 一方で画面モードのチェック機能が搭載され、使用しているモニターが最低でも1024×768の画面モードに満たない場合だとエディターを起動すること自体ができなくなった。これはXP体験版、次回作の[VX以降も同様である](../Page/RPGツクールVX.md "wikilink")。
 
-2005年には[東京工科大学](../Page/東京工科大学.md "wikilink")メディア学部の授業用教材として採用された\[1\]。また同年には[PS2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[RPGツクール](https://ja.wikipedia.org/wiki/RPGツクール#RPGツクール "wikilink")』と『RPGツクールXP』による作品を対象としたコンテスト「ツクール魂2005」が開催された\[2\]。
+2005年には[東京工科大学](../Page/東京工科大学.md "wikilink")メディア学部の授業用教材として採用された\[1\]。また同年には[PS2版](../Page/PlayStation_2.md "wikilink")『[RPGツクール](https://ja.wikipedia.org/wiki/RPGツクール#RPGツクール "wikilink")』と『RPGツクールXP』による作品を対象としたコンテスト「ツクール魂2005」が開催された\[2\]。
 
 2007年5月16日にバージョンが1.03となり、[Windows Vistaに対応するようになった](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")。
 

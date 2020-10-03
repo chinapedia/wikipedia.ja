@@ -63,7 +63,7 @@ Canvas2 〜虹色のスケッチ〜</p></th>
 
 『**Canvas2**』（キャンバスツー）は、[F\&C・FC01](https://ja.wikipedia.org/wiki/F&C・FC01 "wikilink")より発売された[18禁](../Page/アダルトゲーム.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")、また同ゲームを原作とする[アニメ](../Page/アニメ.md "wikilink")作品である。[2004年](../Page/2004年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")に『**Canvas2 〜茜色のパレット〜**』（ - あかねいろのパレット）が発売され、[2005年](../Page/2005年.md "wikilink")10月から[2006年](../Page/2006年.md "wikilink")3月まで『**Canvas2 〜虹色のスケッチ〜**』（ - にじいろのスケッチ）のタイトルでテレビアニメ（[UHFアニメ](../Page/UHFアニメ.md "wikilink")）が放送された。
 
-2006年[1月26日](../Page/1月26日.md "wikilink")には副題をアニメと同じ「虹色のスケッチ」に変更した[PlayStation 2版が](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[角川書店](../Page/角川書店.md "wikilink")より発売され（[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[対象年齢](../Page/コンピュータゲームのレイティングシステム.md "wikilink")：15歳以上）、同年[10月6日](../Page/10月6日.md "wikilink")にはF\&C・FC01より「虹色のスケッチ」の追加要素を含む逆移植版『**Canvas2 DVD EDITION**』が発売された。ダウンロード版もある。
+2006年[1月26日](../Page/1月26日.md "wikilink")には副題をアニメと同じ「虹色のスケッチ」に変更した[PlayStation 2版が](../Page/PlayStation_2.md "wikilink")[角川書店](../Page/角川書店.md "wikilink")より発売され（[CERO](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")[対象年齢](../Page/コンピュータゲームのレイティングシステム.md "wikilink")：15歳以上）、同年[10月6日](../Page/10月6日.md "wikilink")にはF\&C・FC01より「虹色のスケッチ」の追加要素を含む逆移植版『**Canvas2 DVD EDITION**』が発売された。ダウンロード版もある。
 
 ## 概要
 

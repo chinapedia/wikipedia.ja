@@ -645,7 +645,7 @@ SA: Stand Alone（独立）エピソード　 C: Complex（複合）エピソー
 
 ### ゲーム
 
-  - 『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_\(ゲーム\).md "wikilink")』（[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、2004年3月発売）
+  - 『[攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_\(ゲーム\).md "wikilink")』（[PS2](../Page/PlayStation_2.md "wikilink")、2004年3月発売）
   - 『[攻殻機動隊 STAND ALONE COMPLEX -狩人の領域-](../Page/攻殻機動隊_STAND_ALONE_COMPLEX_-狩人の領域-.md "wikilink")』（[PSP](../Page/PlayStation_Portable.md "wikilink")、2005年9月発売）
   - 『攻殻機動隊 STAND ALONE COMPLEX オンライン』（パソコン用オンラインFPS、2016年11月よりβ版サービス開始）
 

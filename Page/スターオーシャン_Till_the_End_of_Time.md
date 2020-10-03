@@ -1,7 +1,7 @@
 > この記事は[スターオーシャン Till the End of Time](https://ja.wikipedia.org/wiki/スターオーシャン_Till_the_End_of_Time)から翻訳されています。
 
 
-『**スターオーシャン Till the End of Time**』（スターオーシャン ティル ジ エンド オブ タイム、STAR OCEAN: TILL THE END OF TIME）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が[2003年](../Page/2003年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に発売した[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
+『**スターオーシャン Till the End of Time**』（スターオーシャン ティル ジ エンド オブ タイム、STAR OCEAN: TILL THE END OF TIME）は、[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")（現[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）が[2003年](../Page/2003年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に発売した[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[ゲームソフト](../Page/ゲームソフト.md "wikilink")。
 
 ## 概要
 

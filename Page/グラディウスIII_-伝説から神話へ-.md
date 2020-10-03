@@ -5,7 +5,7 @@
 
 [グラディウスシリーズ](../Page/グラディウスシリーズ.md "wikilink")のメインストリーム3作目にあたる。なお、[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")版に関しては[グラディウスIII (スーパーファミコン)を参照](https://ja.wikipedia.org/wiki/グラディウスIII_\(スーパーファミコン\) "wikilink")。
 
-後に[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**グラディウスIII\&IV -復活の神話-**』（[2000年](../Page/2000年.md "wikilink")）に『[グラディウスIV -復活-](../Page/グラディウスIV_-復活-.md "wikilink")』（[1999年](../Page/1999年.md "wikilink")）とのカップリングで収録された他、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")**』（[2006年](../Page/2006年.md "wikilink")）にも収録された。
+後に[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『**グラディウスIII\&IV -復活の神話-**』（[2000年](../Page/2000年.md "wikilink")）に『[グラディウスIV -復活-](../Page/グラディウスIV_-復活-.md "wikilink")』（[1999年](../Page/1999年.md "wikilink")）とのカップリングで収録された他、[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『**[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")**』（[2006年](../Page/2006年.md "wikilink")）にも収録された。
 
 ゲーム誌『[ゲーメスト](../Page/ゲーメスト.md "wikilink")』の「第4回[ゲーメスト大賞](https://ja.wikipedia.org/wiki/ゲーメスト大賞 "wikilink")」では大賞3位、ベストシューティング賞3位、ベストグラフィック賞4位、ベストVGM賞1位を獲得、ゲーメストムック『ザ・ベストゲーム』では第20位を獲得した。
 
@@ -369,7 +369,7 @@ NORMAL・CYCLONE以外は2連射可能。ダブル系装備とは排他選択で
 <td><p>2</p></td>
 <td><p>グラディウスIII&amp;IV -復活の神話-</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p><a href="../Page/コナミコンピュータエンタテインメント東京.md" title="wikilink">KCET</a></p></td>
 <td><p>コナミ</p></td>
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>
@@ -439,7 +439,7 @@ NORMAL・CYCLONE以外は2連射可能。ダブル系装備とは排他選択で
 
 ### PlayStation 2・PlayStation Portable版
 
-[2000年](../Page/2000年.md "wikilink")に[PlayStation 2で](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『グラディウスIII\&IV -復活の神話-』として『[グラディウスIV -復活-](../Page/グラディウスIV_-復活-.md "wikilink")』とのカップリングが発売された。一部のバグを修正しつつ、ステージ構成、BGM、グラフィック、当たり判定、処理落ち（ポーズ画面で三段階から有無を選択可）等、いずれもAC版のほぼ忠実な移植となった\[2\]。難易度を調整したモードや、[SFC版の装備を再現したモード](https://ja.wikipedia.org/wiki/グラディウスIII_\(スーパーファミコン\)#パワーアップ "wikilink")、[コナミコマンド](../Page/コナミコマンド.md "wikilink")、ステージセレクトなど、様々な追加要素も用意されている。
+[2000年](../Page/2000年.md "wikilink")に[PlayStation 2で](../Page/PlayStation_2.md "wikilink")『グラディウスIII\&IV -復活の神話-』として『[グラディウスIV -復活-](../Page/グラディウスIV_-復活-.md "wikilink")』とのカップリングが発売された。一部のバグを修正しつつ、ステージ構成、BGM、グラフィック、当たり判定、処理落ち（ポーズ画面で三段階から有無を選択可）等、いずれもAC版のほぼ忠実な移植となった\[2\]。難易度を調整したモードや、[SFC版の装備を再現したモード](https://ja.wikipedia.org/wiki/グラディウスIII_\(スーパーファミコン\)#パワーアップ "wikilink")、[コナミコマンド](../Page/コナミコマンド.md "wikilink")、ステージセレクトなど、様々な追加要素も用意されている。
 
 その後、[2006年](../Page/2006年.md "wikilink")に[PlayStation PortableでグラディウスI](../Page/PlayStation_Portable.md "wikilink")、II、III、IV、外伝のシリーズ5作品を収録した『[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")』が発売されている。PS2版の追加要素に加え、自機の当たり判定サイズの設定やゲーム中のセーブ機能などが追加されている。
 

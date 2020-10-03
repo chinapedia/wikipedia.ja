@@ -5,7 +5,7 @@
 
 ## 概要
 
-[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にシナリオの追加やグラフィックの全面改訂などを行い、タイトルを『**想いのかけら -Close to-**』（おもいのかけら クローストゥ）とした[PlayStation 2版も発売されている](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。なお、PlayStation 2版には本作出演声優によるラジオ風トークCDが特典として同梱されている（初回限定特典ではない）。[2011年](../Page/2011年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にはKIDの事業を引き継いだ[サイバーフロント](../Page/サイバーフロント.md "wikilink")から[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")（内容はPS2版と同じ）。
+[2003年](../Page/2003年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")にシナリオの追加やグラフィックの全面改訂などを行い、タイトルを『**想いのかけら -Close to-**』（おもいのかけら クローストゥ）とした[PlayStation 2版も発売されている](../Page/PlayStation_2.md "wikilink")。なお、PlayStation 2版には本作出演声優によるラジオ風トークCDが特典として同梱されている（初回限定特典ではない）。[2011年](../Page/2011年.md "wikilink")[12月22日](../Page/12月22日.md "wikilink")にはKIDの事業を引き継いだ[サイバーフロント](../Page/サイバーフロント.md "wikilink")から[PlayStation Portable版が発売された](../Page/PlayStation_Portable.md "wikilink")（内容はPS2版と同じ）。
 
 [キャラクターデザイン](../Page/キャラクターデザイン.md "wikilink")担当は[ごとP](../Page/ごとP.md "wikilink")。
 

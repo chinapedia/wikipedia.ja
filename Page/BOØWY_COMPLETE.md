@@ -138,12 +138,12 @@
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
+        5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
 8.  **[BABY ACTION](../Page/BOØWY_\(アルバム\).md "wikilink") (Live Version)** (3:12)
       - 作詞：氷室京介 / 作曲・編曲：布袋寅泰
     <!-- end list -->
       -
-        5thシングル「[ONLY YOU](https://ja.wikipedia.org/wiki/ONLY_YOU_\(BOØWYの曲\) "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
+        5thシングル「[ONLY YOU](../Page/ONLY_YOU_\(BOØWYの曲\).md "wikilink")」のB面曲。「ROCK'N'ROLL CIRCUS」ツアー1987年2月24日武道館での演奏を録音したものである。『[GIGS at BUDOKAN BEAT EMOTION ROCK'N ROLL CIRCUS TOUR 1986.11.11〜1987.02.24](../Page/GIGS_at_BUDOKAN_BEAT_EMOTION_ROCK'N_ROLL_CIRCUS_TOUR_1986.11.11〜1987.02.24.md "wikilink")』に収録されている同テイクとは異なり、こちらはリミックスバージョンである。
 9.  **[THE WILD ONE (BOØWY & SUZI QUATRO)](../Page/Marionette_\(BOØWYの曲\).md "wikilink")** (3:25)
       - 作詞・作曲：N.CHINN-M.CHAPMAN / 編曲：布袋寅泰
     <!-- end list -->

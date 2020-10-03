@@ -7,7 +7,7 @@
 
 開発は[セガ第1AM研究開発部が行い](https://ja.wikipedia.org/wiki/セガワウ "wikilink")、音楽は同社の『[カルテット](../Page/カルテット_\(アーケードゲーム\).md "wikilink")』（[1986年](../Page/1986年.md "wikilink")）を手掛けた[林克洋](../Page/林克洋.md "wikilink")が担当している。[BGMや](../Page/バックグラウンドミュージック.md "wikilink")[効果音](../Page/効果音.md "wikilink")は[YM2151](../Page/YM2151.md "wikilink") (OPM) が使用された。[ベース](https://ja.wikipedia.org/wiki/ベース "wikilink")ラインが非常に複雑になっている事が特徴である。
 
-同年に[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")に移植された他、欧州では各種[ホビーパソコン](../Page/ホビーパソコン.md "wikilink")に移植された。アーケード版は[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『**[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink") Vol.21 SDI&カルテット〜SEGA SYSTEM 16 COLLECTION〜**』（[2005年](../Page/2005年.md "wikilink")）に収録された他、[2007年](../Page/2007年.md "wikilink")に[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として[ウィルコム](../Page/ウィルコム.md "wikilink")にて配信された。
+同年に[セガ・マークIII](../Page/セガ・マークIII.md "wikilink")に移植された他、欧州では各種[ホビーパソコン](../Page/ホビーパソコン.md "wikilink")に移植された。アーケード版は[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")『**[セガエイジス2500シリーズ](../Page/セガエイジス2500シリーズ.md "wikilink") Vol.21 SDI&カルテット〜SEGA SYSTEM 16 COLLECTION〜**』（[2005年](../Page/2005年.md "wikilink")）に収録された他、[2007年](../Page/2007年.md "wikilink")に[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")として[ウィルコム](../Page/ウィルコム.md "wikilink")にて配信された。
 
 ## ゲーム内容
 
@@ -134,7 +134,7 @@
 <td><p><a href="../Page/セガエイジス2500シリーズ.md" title="wikilink">セガエイジス2500シリーズ</a> Vol.21<br />
 SDI&amp;カルテット〜SEGA SYSTEM 16 COLLECTION〜</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p><a href="../Page/M2_(ゲーム会社).md" title="wikilink">M2</a></p></td>
 <td><p>セガ</p></td>
 <td><p><a href="../Page/CD-ROM.md" title="wikilink">CD-ROM</a></p></td>

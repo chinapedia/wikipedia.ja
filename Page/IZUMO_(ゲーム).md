@@ -64,7 +64,7 @@
 
 ## IZUMO
 
-[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2002年2月22日にDVD版が発売され、2004年7月30日に発売されたIZUMO2のDVD版には完全版が同梱されている。またコンシューマ機には2004年1月29日に[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版、2005年2月3日に[GN Softwareより](../Page/GN_Software.md "wikilink")[プレイステーション2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『IZUMO COMPLETE』（IZUMO2のDVD版同梱と同じ物）が発売された（こちらもCEROレーティング18歳以上対象）。IZUMO2などに同梱された完全版では、新規イラスト・シーンの追加や立ち絵カットの全体から上半身への変更、対応OSの追加などが行われている。
+[2001年](../Page/2001年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")に[Studio e.go\!より発売された](../Page/Studio_e.go!.md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[RPGである](../Page/コンピュータRPG.md "wikilink")。2002年2月22日にDVD版が発売され、2004年7月30日に発売されたIZUMO2のDVD版には完全版が同梱されている。またコンシューマ機には2004年1月29日に[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")18歳以上対象の[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版、2005年2月3日に[GN Softwareより](../Page/GN_Software.md "wikilink")[プレイステーション2版](../Page/PlayStation_2.md "wikilink")『IZUMO COMPLETE』（IZUMO2のDVD版同梱と同じ物）が発売された（こちらもCEROレーティング18歳以上対象）。IZUMO2などに同梱された完全版では、新規イラスト・シーンの追加や立ち絵カットの全体から上半身への変更、対応OSの追加などが行われている。
 
 ### 登場キャラクター
 

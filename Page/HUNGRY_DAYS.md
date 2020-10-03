@@ -41,7 +41,7 @@
 <li>初恋物語</li>
 </ol></td>
 <td><p>オリコン最高50位<br />
-<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>のエンディングテーマ、<a href="../Page/ボクらの太陽.md" title="wikilink">続・ボクらの太陽CMソング</a>。<br />
+<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>のエンディングテーマ、<a href="../Page/ボクらの太陽.md" title="wikilink">続・ボクらの太陽CMソング</a>。<br />
 2004年5月度<a href="../Page/ミューパライチ押しナンバー.md" title="wikilink">ミューパライチ押しナンバー</a></p></td>
 </tr>
 <tr class="even">

@@ -144,7 +144,7 @@
 | [近畿広域圏](../Page/広域放送.md "wikilink")                               | [毎日放送](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")（MBS） | 2013年12月まで              | かつては競合局の[朝日放送で放送されていた](../Page/朝日放送ラジオ.md "wikilink")。           |
 | [鳥取県](../Page/鳥取県.md "wikilink")・[島根県](../Page/島根県.md "wikilink") | [山陰放送](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")（BSS）   | 2016年3月22日まで            |                                                                  |
 | [愛媛県](../Page/愛媛県.md "wikilink")                                  | [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB）   | 2016年9月23日まで            |                                                                  |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")（RKK）   | 2015年4月2日から2019年9月29日まで | 2016年3月までは木曜 23:00 - 23:30、2016年4月からは月曜 0:30 - 1:00（日曜深夜）に放送された。 |
+| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")               | [熊本放送](../Page/熊本放送.md "wikilink")（RKK）                      | 2015年4月2日から2019年9月29日まで | 2016年3月までは木曜 23:00 - 23:30、2016年4月からは月曜 0:30 - 1:00（日曜深夜）に放送された。 |
 
 ## イベント
 

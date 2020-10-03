@@ -136,7 +136,7 @@
 <li>Pureness Liar Girl</li>
 <li>ラストフォトグラフ</li>
 </ol></td>
-<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系</a>『<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>』エンディングテーマ<br />
+<td><p><a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">日本テレビ系</a>『<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>』エンディングテーマ<br />
 オリコン最高40位</p></td>
 </tr>
 <tr class="odd">

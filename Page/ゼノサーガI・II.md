@@ -1,7 +1,7 @@
 > この記事は[ゼノサーガI・II](https://ja.wikipedia.org/wiki/ゼノサーガI・II)から翻訳されています。
 
 
-『**ゼノサーガI・II**』は、ナムコ（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）から[2006年](../Page/2006年.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。2002年発売の[PlayStation 2用ゲーム](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[ゼノサーガ エピソードI［力への意志］](../Page/ゼノサーガ_エピソードI［力への意志］.md "wikilink")』と2004年発売のPS2用ゲーム『[ゼノサーガ エピソードII［善悪の彼岸］](../Page/ゼノサーガ_エピソードII［善悪の彼岸］.md "wikilink")』の2本の物語を1本にまとめ、全20章で再構成している。
+『**ゼノサーガI・II**』は、ナムコ（後の[バンダイナムコゲームス](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")）から[2006年](../Page/2006年.md "wikilink")に発売された[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")用[コンピュータRPG](../Page/コンピュータRPG.md "wikilink")。2002年発売の[PlayStation 2用ゲーム](../Page/PlayStation_2.md "wikilink")『[ゼノサーガ エピソードI［力への意志］](../Page/ゼノサーガ_エピソードI［力への意志］.md "wikilink")』と2004年発売のPS2用ゲーム『[ゼノサーガ エピソードII［善悪の彼岸］](../Page/ゼノサーガ_エピソードII［善悪の彼岸］.md "wikilink")』の2本の物語を1本にまとめ、全20章で再構成している。
 
 なお、本作品はナムコが販売した最後のコンシューマーゲームソフトである（2006年3月31日以降に発売された“ナムコ ”レーベルゲームは全てバンダイナムコゲームスが制作・販売している）。
 

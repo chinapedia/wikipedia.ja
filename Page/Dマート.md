@@ -47,7 +47,7 @@
 
 [千葉県](../Page/千葉県.md "wikilink")
 
-  - 君津店（千葉県[君津市](https://ja.wikipedia.org/wiki/君津市 "wikilink")）（旧・忠実屋→ダイエー君津店（2016年2月29日もって閉店)→[イオンタウン君津](http://www.aeontown.co.jp/kimitsu)）
+  - 君津店（千葉県[君津市](../Page/君津市.md "wikilink")）（旧・忠実屋→ダイエー君津店（2016年2月29日もって閉店)→[イオンタウン君津](http://www.aeontown.co.jp/kimitsu)）
   - 松戸店（千葉県[松戸市](https://ja.wikipedia.org/wiki/松戸市 "wikilink")）（現・[ダイエー松戸西口店](https://ja.wikipedia.org/wiki/ダイエー松戸西口店 "wikilink")）※
   - 我孫子店（千葉県[我孫子市](../Page/我孫子市.md "wikilink")）（ダイエー→Dマート→建物解体マンション）
   - 稲毛海岸店（[千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")[美浜区](../Page/美浜区.md "wikilink")）（忠実屋新稲毛店→忠実屋フランツ新稲毛店→DISPA\!稲毛海岸店→Dマート、建物存続）（→[イオン](../Page/イオン_\(企業\).md "wikilink")[マリンピア専門館](http://www.aeon.jp/sc/marinpia-senmonkan/)）

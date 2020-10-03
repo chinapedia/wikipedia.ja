@@ -160,7 +160,7 @@
 <li>I believe [4:43]（作詞・作曲：SAKURA／編曲：キハラ龍太郎）
 <dl>
 <dt></dt>
-<dd><a href="../Page/讀賣テレビ放送.md" title="wikilink">YTV</a>・<a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">NTV系</a>「<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>」エンディングテーマ
+<dd><a href="../Page/讀賣テレビ放送.md" title="wikilink">YTV</a>・<a href="../Page/日本テレビネットワーク協議会.md" title="wikilink">NTV系</a>「<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>」エンディングテーマ
 </dd>
 </dl></li>
 <li>抱きしめあって愛しあいたい [6:26]（作詞・作曲：SAKURA／編曲：キハラ龍太郎）</li>

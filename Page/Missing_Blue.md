@@ -1,7 +1,7 @@
 > この記事は[Missing Blue](https://ja.wikipedia.org/wiki/Missing_Blue)から翻訳されています。
 
 
-『**MissingBlue**』（ミッシングブルー）は[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[トンキンハウス](../Page/トンキンハウス.md "wikilink")より発売された[PlayStation 2用](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[デジタルノベルゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
+『**MissingBlue**』（ミッシングブルー）は[2001年](../Page/2001年.md "wikilink")[7月26日](../Page/7月26日.md "wikilink")に[トンキンハウス](../Page/トンキンハウス.md "wikilink")より発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[デジタルノベルゲーム](../Page/アドベンチャーゲーム.md "wikilink")。
 
 ## 概要
 

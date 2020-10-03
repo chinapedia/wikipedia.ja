@@ -137,7 +137,7 @@
 ## 関連項目
 
   - [長谷川崇彦](https://ja.wikipedia.org/wiki/長谷川崇彦 "wikilink") - 2018年まで日本アミューズメント放送株式会社の代表取締役であった
-  - [ミリオンゴッド](../Page/ミリオンゴッド.md "wikilink") - [PlayStation 2用ゲームソフトが日本アミューズメント放送から発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")
+  - [ミリオンゴッド](../Page/ミリオンゴッド.md "wikilink") - [PlayStation 2用ゲームソフトが日本アミューズメント放送から発売された](../Page/PlayStation_2.md "wikilink")
 
 ## 外部リンク
 

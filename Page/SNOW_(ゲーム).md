@@ -17,7 +17,7 @@
 
 ## 移植版
 
-[NECインターチャネルより本作の](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が同年[9月25日](../Page/9月25日.md "wikilink")に、サブキャラクターであった橘芽依子を新規ヒロインとして追加した[PlayStation 2版](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が[翌年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売されている。また、2004年9月24日の『[友達以上恋人未満](../Page/友達以上恋人未満_\(ゲーム\).md "wikilink")』発売に合わせ、同日フルボイス版が発売された。
+[NECインターチャネルより本作の](https://ja.wikipedia.org/wiki/インターチャネル・ホロン "wikilink")[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版が同年[9月25日](../Page/9月25日.md "wikilink")に、サブキャラクターであった橘芽依子を新規ヒロインとして追加した[PlayStation 2版](../Page/PlayStation_2.md "wikilink")（[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")15歳以上対象）が[翌年](../Page/2004年.md "wikilink")[2月26日](../Page/2月26日.md "wikilink")に発売されている。また、2004年9月24日の『[友達以上恋人未満](../Page/友達以上恋人未満_\(ゲーム\).md "wikilink")』発売に合わせ、同日フルボイス版が発売された。
 
 2006年9月29日にはこのフルボイス版にDC版やPS2版での追加部分を逆移植し、さらに新規ヒロインとして謎の少女を追加した『SNOW P・E』(P・Eは"Plus Edition"の略)が発売された。[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")では[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")の[SoftBank 3G端末と](../Page/SoftBank_3G.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")の[FOMA](../Page/FOMA.md "wikilink")向けにも2006年11月1日から配信されている。2006年12月に[プロトタイプから](../Page/プロトタイプ_\(企業\).md "wikilink")[PlayStation Portable版が発売予定であったが](../Page/PlayStation_Portable.md "wikilink")、延期に次ぐ延期で2007年夏の8月16日に発売された。
 

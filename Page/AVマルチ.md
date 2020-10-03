@@ -5,7 +5,7 @@
 
 ## 概要
 
-PlayStation（および[PS one](../Page/PS_one.md "wikilink")）、[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[1\]に標準装備されており、AVマルチケーブル（TV側はコンポジットへ接続する）が標準で付属\[2\]している。[PSX](../Page/PSX.md "wikilink")および[PlayStation 4は非対応](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。
+PlayStation（および[PS one](../Page/PS_one.md "wikilink")）、[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")\[1\]に標準装備されており、AVマルチケーブル（TV側はコンポジットへ接続する）が標準で付属\[2\]している。[PSX](../Page/PSX.md "wikilink")および[PlayStation 4は非対応](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。
 
 PlayStation時代より、オプションでテレビ側が[S端子](../Page/S端子.md "wikilink")、[RF端子](https://ja.wikipedia.org/wiki/RF端子 "wikilink")、[RGB21ピン](../Page/RGB21ピン.md "wikilink")\[3\]のケーブルが発売されたほか、[ソニー](../Page/ソニー.md "wikilink")のテレビ「[WEGA](../Page/ベガ_\(テレビ\).md "wikilink")」に[RGB](../Page/RGB.md "wikilink")用のAVマルチ入力端子が付くようになったため、テレビ側もAVマルチ端子のケーブルが発売された。当時既にRGB21ピンを装備したテレビは少なくなっていたため、RGBで接続できることはソニーのテレビの優位な部分であった（画質面のほか配線の単純化などの点で）。
 
@@ -45,7 +45,7 @@ PlayStation 2発売初期の[DVDプレーヤー](../Page/DVDプレーヤー.md "
 
   - [6機種対応 AVマルチケーブル YK0224](http://www.gametech.co.jp/products/catalog/3509/3509_1.html)
 
-      - [ゲームテック](../Page/ゲームテック.md "wikilink")製。[PS2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PS](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[DC](../Page/ドリームキャスト.md "wikilink")、[XB](../Page/Xbox_\(ゲーム機\).md "wikilink")、[SFCに対応](../Page/スーパーファミコン.md "wikilink")。ケーブル全長約2m。生産完了品。
+      - [ゲームテック](../Page/ゲームテック.md "wikilink")製。[PS2](../Page/PlayStation_2.md "wikilink")、[PS](../Page/PlayStation_\(ゲーム機\).md "wikilink")、[PS one](../Page/PS_one.md "wikilink")、[DC](../Page/ドリームキャスト.md "wikilink")、[XB](../Page/Xbox_\(ゲーム機\).md "wikilink")、[SFCに対応](../Page/スーパーファミコン.md "wikilink")。ケーブル全長約2m。生産完了品。
 
   -   - AVマルチを汎用のRGB21ピンに変換し、ゲーム機以外の機器も接続出来る。
 

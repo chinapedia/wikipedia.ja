@@ -110,7 +110,7 @@ FNS系列各局のアナウンサーの資質向上を目的に[1985年](https:/
 <tr class="odd">
 <td><p>第10回<br />
 （<a href="../Page/1994年.md" title="wikilink">1994年</a>）</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋幸平" title="wikilink">高橋幸平</a><br />
+<td><p><a href="../Page/高橋幸平.md" title="wikilink">高橋幸平</a><br />
 （<a href="../Page/テレビ西日本.md" title="wikilink">テレビ西日本</a>）</p></td>
 <td></td>
 <td><p><a href="../Page/佐藤拓雄.md" title="wikilink">佐藤拓雄</a><br />

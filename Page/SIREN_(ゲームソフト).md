@@ -1,7 +1,7 @@
 > この記事は[SIREN \(ゲームソフト\)](https://ja.wikipedia.org/wiki/SIREN_\(ゲームソフト\))から翻訳されています。
 
 
-『**SIREN**』（サイレン）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（略: SCEI、現: [ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）が発売した[PlayStation 2用の](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")[ホラーゲーム](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")。
+『**SIREN**』（サイレン）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・コンピュータエンタテインメント "wikilink")（略: SCEI、現: [ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")）が発売した[PlayStation 2用の](../Page/PlayStation_2.md "wikilink")[ホラーゲーム](https://ja.wikipedia.org/wiki/ホラーゲーム "wikilink")。
 
 [2006年](../Page/2006年.md "wikilink")[2月9日](../Page/2月9日.md "wikilink")には続編の『[SIREN2](../Page/SIREN2.md "wikilink")』が発売された。同年にはその『2』をベースにした映画『[サイレン 〜FORBIDDEN SIREN〜](../Page/サイレン_〜FORBIDDEN_SIREN〜.md "wikilink")』も公開された。また、ゲーム・映画のアナザーワールドとして漫画『[サイレン 〜ETERNAL SIREN〜](../Page/サイレン_〜ETERNAL_SIREN〜.md "wikilink")』がある。
 

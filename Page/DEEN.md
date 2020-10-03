@@ -1631,7 +1631,7 @@ ESBL-2579 (DVD)</p></td>
 </tr>
 <tr class="odd">
 <td><p>夢であるように</p></td>
-<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a>/<a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a> 『<a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_デスティニー" title="wikilink">テイルズ オブ デスティニー</a>』テーマソング</p></td>
+<td><p><a href="../Page/PlayStation_(ゲーム機).md" title="wikilink">PlayStation</a>/<a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a> 『<a href="https://ja.wikipedia.org/wiki/テイルズ_オブ_デスティニー" title="wikilink">テイルズ オブ デスティニー</a>』テーマソング</p></td>
 </tr>
 <tr class="even">
 <td><p>遠い空で</p></td>

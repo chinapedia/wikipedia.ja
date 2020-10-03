@@ -1376,7 +1376,7 @@ Navigation</p></td>
 
 #### ARIA The NATURAL 〜遠い記憶のミラージュ〜
 
-『**ARIA The NATURAL 〜遠い記憶のミラージュ〜**』（アリア ザ ナチュラル とおいゆめのミラージュ）のタイトルで、2006年[9月28日](../Page/9月28日.md "wikilink")に[アルケミストから](../Page/アルケミスト_\(企業\).md "wikilink")[PlayStation 2用ゲームとして発売された](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。2008年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[加賀クリエイト](https://ja.wikipedia.org/wiki/加賀クリエイト "wikilink")からベスト版が発売している。
+『**ARIA The NATURAL 〜遠い記憶のミラージュ〜**』（アリア ザ ナチュラル とおいゆめのミラージュ）のタイトルで、2006年[9月28日](../Page/9月28日.md "wikilink")に[アルケミストから](../Page/アルケミスト_\(企業\).md "wikilink")[PlayStation 2用ゲームとして発売された](../Page/PlayStation_2.md "wikilink")。2008年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")に[加賀クリエイト](https://ja.wikipedia.org/wiki/加賀クリエイト "wikilink")からベスト版が発売している。
 
 ゲーム自体はアニメ的な演出効果を盛り込んでいる[ビジュアルノベル](../Page/ビジュアルノベル.md "wikilink")の形式をとっており\[11\]、物語を主人公の青年の視点から描いている。また、本作のために新たに書き下ろされたCGや天野自らがデザインしたゲームオリジナルのキャラクターも追加されている。2006年4月に行われたアルケミストのイベント「アルケ祭」にて本作の主題歌が発表された。
 

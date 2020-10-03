@@ -11,7 +11,7 @@
 
 [ゲームというメディアを](../Page/コンピュータゲーム.md "wikilink")[本](../Page/本.md "wikilink")などと同じようにひとつの文化としてとらえ、それを手軽に遊べるようにしようというコンセプトがあった。
 
-従来の[PlayStationはもちろんのこと](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[PlayStation 3でも動作する](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
+従来の[PlayStationはもちろんのこと](../Page/PlayStation_\(ゲーム機\).md "wikilink")[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation 3でも動作する](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink")。
 
 ## これまでに発売された主な作品
 

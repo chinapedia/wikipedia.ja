@@ -3,7 +3,7 @@
 
 『**グラディウスIV -復活-**』（グラディウスフォー ふっかつ、*GRADIUS IV*）は、[1999年](../Page/1999年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として稼動された[コナミの横スクロール](../Page/コナミアミューズメント.md "wikilink")[シューティングゲーム](../Page/シューティングゲーム.md "wikilink")。
 
-2000年には[PlayStation 2専用ソフトとして](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")『[グラディウスIII -伝説から神話へ-](../Page/グラディウスIII_-伝説から神話へ-.md "wikilink")』と一緒に『グラディウスIII\&IV -復活の神話-』として移植されている（後に廉価版としてKONAMI The Best版、コナミ殿堂セレクション版も発売）。また、2006年には[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")』にも収録された。
+2000年には[PlayStation 2専用ソフトとして](../Page/PlayStation_2.md "wikilink")『[グラディウスIII -伝説から神話へ-](../Page/グラディウスIII_-伝説から神話へ-.md "wikilink")』と一緒に『グラディウスIII\&IV -復活の神話-』として移植されている（後に廉価版としてKONAMI The Best版、コナミ殿堂セレクション版も発売）。また、2006年には[PlayStation Portable用ソフト](../Page/PlayStation_Portable.md "wikilink")『[グラディウス ポータブル](../Page/グラディウス_ポータブル.md "wikilink")』にも収録された。
 
 ## 概要
 
@@ -234,7 +234,7 @@ BGMは[渡辺篤紀](https://ja.wikipedia.org/wiki/渡辺篤紀 "wikilink")（"A
 <tr class="odd">
 <td><p>1</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/4月13日.md" title="wikilink">4月13日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PlayStation_2" title="wikilink">PlayStation 2</a></p></td>
+<td><p><a href="../Page/PlayStation_2.md" title="wikilink">PlayStation 2</a></p></td>
 <td><p>グラディウスIII&amp;IV -復活の神話-</p></td>
 <td><p><a href="../Page/コナミコンピュータエンタテインメント東京.md" title="wikilink">KCET</a></p></td>
 <td><p>コナミ</p></td>

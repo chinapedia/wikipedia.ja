@@ -7,7 +7,7 @@
 
 2001年デビュー。父親は元[ザ・ファイターズのメンバー](../Page/ジェット・ブラザース.md "wikilink")、弓おさむ。デビュー曲の携帯会社のCMで、[BoA](../Page/BoA.md "wikilink")と共に本人も出演しオリコンデイリーチャート2位を記録。[2005年](../Page/2005年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")をもって歌手としての一時的な活動休止を発表するも、同年9月11日、活動再開を宣言。
 
-声優としての代表作は『[満月をさがして](../Page/満月をさがして.md "wikilink")』の[神山満月](https://ja.wikipedia.org/wiki/神山満月 "wikilink")役、『[NANA](../Page/NANA.md "wikilink")』（[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")） の芹澤レイラ、『[Get Ride\! アムドライバー](../Page/Get_Ride!_アムドライバー.md "wikilink")』のシャシャ役など。
+声優としての代表作は『[満月をさがして](../Page/満月をさがして.md "wikilink")』の[神山満月](https://ja.wikipedia.org/wiki/神山満月 "wikilink")役、『[NANA](../Page/NANA.md "wikilink")』（[PlayStation 2](../Page/PlayStation_2.md "wikilink")） の芹澤レイラ、『[Get Ride\! アムドライバー](../Page/Get_Ride!_アムドライバー.md "wikilink")』のシャシャ役など。
 
 ## Changin' My Life
 
@@ -126,7 +126,7 @@ myco（vo）、[辺見鑑孝](https://ja.wikipedia.org/wiki/辺見鑑孝 "wikili
 #### シングル
 
 1.  また恋しよう（2004年2月18日）オリコンデイリー21位オリコン166位
-    1.  また恋しよう\[5:03\] - NTV系「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」エンディングテーマ
+    1.  また恋しよう\[5:03\] - NTV系「[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")」エンディングテーマ
           -
             作詞：ｍmyo／作曲：[大谷靖夫](../Page/大谷靖夫.md "wikilink")／編曲：大野宏明
     2.  赤い糸\[5:07\]

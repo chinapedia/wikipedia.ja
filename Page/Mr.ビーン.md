@@ -326,7 +326,7 @@ of London</p></td>
   - ミスター・ビーン ***Mr. Bean: The Animated Series***
     [2002年](../Page/2002年.md "wikilink")より[ITV](../Page/ITV_\(イギリス\).md "wikilink")1にて放送開始。アトキンソンによるプロデュース作品で、本人の声や[モーションキャプチャ](../Page/モーションキャプチャ.md "wikilink")により二次元上でも完璧に動きや世界観を再現している。ブラックジョークなどは抑えられ、ファミリー向けのストーリー展開となっている。
     日本では[カートゥーン ネットワークで放送され](../Page/カートゥーン_ネットワーク.md "wikilink")、DVDも発売された。アニメ版ではTVシリーズ中盤でビーンに愛想を尽かしたはずのイルマや、TVシリーズには出てこないオリジナルのキャラクターが登場するなどTVシリーズとは設定が一新されている。
-    アニメ版はTVゲーム化もされており、[2009年](../Page/2009年.md "wikilink")2月20日に[PlayStation 2](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PC](../Page/パーソナルコンピュータ.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")にて欧州でのみ発売された。プレイヤーはコミカルなビーンを操り、テディを捜してアクションや愛車のミニを操作してのカーレースからパズルなど様々なミニゲームなどしながら世界を旅する[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")となっている。
+    アニメ版はTVゲーム化もされており、[2009年](../Page/2009年.md "wikilink")2月20日に[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")、[PC](../Page/パーソナルコンピュータ.md "wikilink")、[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")にて欧州でのみ発売された。プレイヤーはコミカルなビーンを操り、テディを捜してアクションや愛車のミニを操作してのカーレースからパズルなど様々なミニゲームなどしながら世界を旅する[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")となっている。
 
 ## パロディ化
 

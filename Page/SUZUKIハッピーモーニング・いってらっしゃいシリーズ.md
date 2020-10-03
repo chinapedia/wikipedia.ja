@@ -242,7 +242,7 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）</p></td>
 <td><p>8:42 - 8:47</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/奥田圭のさんさんラジオ" title="wikilink">奥田圭のさんさんラジオ</a>』内</p></td>
 </tr>

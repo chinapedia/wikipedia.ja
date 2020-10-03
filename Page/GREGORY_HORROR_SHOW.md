@@ -9,7 +9,7 @@
 
 シリーズは全4作。第3・第4シリーズは舞台がホテルから離れ、それぞれグレゴリー、キャサリンが主役。この2作ではごく普通の第三者的なカメラワークが用いられている。
 
-[フィギュア](../Page/フィギュア.md "wikilink")などキャラクターグッズ販売や[携帯電話](../Page/携帯電話.md "wikilink")での動画配信、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")などの[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")、ムック本や[PlayStation 2でのゲーム化など幅広いメディアに展開している](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")。また[講談社](../Page/講談社.md "wikilink")での漫画化、[GYAO\!](../Page/GYAO!.md "wikilink")での動画配信などがある。
+[フィギュア](../Page/フィギュア.md "wikilink")などキャラクターグッズ販売や[携帯電話](../Page/携帯電話.md "wikilink")での動画配信、[iアプリ](https://ja.wikipedia.org/wiki/iアプリ "wikilink")などの[携帯電話ゲーム](../Page/携帯電話ゲーム.md "wikilink")、ムック本や[PlayStation 2でのゲーム化など幅広いメディアに展開している](../Page/PlayStation_2.md "wikilink")。また[講談社](../Page/講談社.md "wikilink")での漫画化、[GYAO\!](../Page/GYAO!.md "wikilink")での動画配信などがある。
 
 [2015年](../Page/2015年.md "wikilink")に[ポリゴン・ピクチュアズ](../Page/ポリゴン・ピクチュアズ.md "wikilink")企業サイト→[2019年](../Page/2019年.md "wikilink")にイワタナオミ個人サイト上にて[リブート版](https://ja.wikipedia.org/wiki/リブート_\(作品展開\) "wikilink")『**グレゴリーホラーショー・ミステリーホリデー**』が[ポートフォリオとしてキャラクターのみが公開されている](https://ja.wikipedia.org/wiki/ポートフォリオ_\(曖昧さ回避\) "wikilink")。
 
@@ -255,7 +255,7 @@
 
 ### ゲーム
 
-  - グレゴリーホラーショー ソウルコレクター（[PlayStation 2用ソフト](https://ja.wikipedia.org/wiki/PlayStation_2 "wikilink")・[カプコン](../Page/カプコン.md "wikilink")・2003年8月7日発売・[CERO](https://ja.wikipedia.org/wiki/CERO "wikilink")-全年齢対象）
+  - グレゴリーホラーショー ソウルコレクター（[PlayStation 2用ソフト](../Page/PlayStation_2.md "wikilink")・[カプコン](../Page/カプコン.md "wikilink")・2003年8月7日発売・[CERO](https://ja.wikipedia.org/wiki/CERO "wikilink")-全年齢対象）
 
 <!-- end list -->
 

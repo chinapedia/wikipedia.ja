@@ -86,7 +86,7 @@
   - [長崎国際テレビ](../Page/長崎国際テレビ.md "wikilink") 木曜（24:50〜25:20）
   - [テレビ和歌山](../Page/テレビ和歌山.md "wikilink") 木曜（17:25〜17:55）
   - [静岡第一テレビ](../Page/静岡第一テレビ.md "wikilink") [日曜](../Page/日曜日.md "wikilink")（10:55〜11:25）
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink") 水曜（24:25〜24:55）
+  - [熊本放送](../Page/熊本放送.md "wikilink") 水曜（24:25〜24:55）
   - [ミヤギテレビ](../Page/宮城テレビ放送.md "wikilink") 水曜（24:26〜24:56、[2007年](../Page/2007年.md "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")〜、但し、「[エンジョイガレッジ](../Page/エンジョイガレッジ.md "wikilink")」を放送することもあった。）
   - [土曜日](../Page/土曜日.md "wikilink")に[テレビ大分](../Page/テレビ大分.md "wikilink")でも数回以上放送された。
 

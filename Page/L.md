@@ -134,7 +134,7 @@
   -
   - [Lh](https://ja.wikipedia.org/wiki/Lh "wikilink")
 
-  - [Ll](https://ja.wikipedia.org/wiki/Ll "wikilink")
+  - [Ll](../Page/Ll.md "wikilink")
 
   - [Ly](https://ja.wikipedia.org/wiki/Ly "wikilink")
 

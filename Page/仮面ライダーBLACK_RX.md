@@ -1202,7 +1202,7 @@
   - [高知県](../Page/高知県.md "wikilink")：KUTV [テレビ高知](../Page/テレビ高知.md "wikilink")（遅れネット、水曜16:30 - 17:00放送。TBS系列局でありながら番販扱い）
   - [福岡県](../Page/福岡県.md "wikilink")：RKB [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - [長崎県](../Page/長崎県.md "wikilink")：NBC [長崎放送](../Page/長崎放送.md "wikilink")
-  - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")：RKK [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")：RKK [熊本放送](../Page/熊本放送.md "wikilink")
   - [大分県](../Page/大分県.md "wikilink")：OBS [大分放送](../Page/大分放送.md "wikilink")（遅れネット、日曜11:00 - 11:30放送）
   - [宮崎県](../Page/宮崎県.md "wikilink")：MRT [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - [鹿児島県](../Page/鹿児島県.md "wikilink")：MBC [南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")

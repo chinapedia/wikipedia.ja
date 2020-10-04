@@ -47,8 +47,8 @@
 
 この文字が表す音素・音声は、
 
-  - [IPAでは](https://ja.wikipedia.org/wiki/国際音声字母 "wikilink")[有声歯茎摩擦音](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink")を表す。また、 で[有声歯茎破擦音](../Page/有声歯茎破擦音.md "wikilink")を表す。
-  - フランス語、エスペラントでは、音素は ・音声は [{{IPA](https://ja.wikipedia.org/wiki/有声歯茎摩擦音 "wikilink") である。
+  - [IPAでは](https://ja.wikipedia.org/wiki/国際音声字母 "wikilink")[有声歯茎摩擦音](../Page/有声歯茎摩擦音.md "wikilink")を表す。また、 で[有声歯茎破擦音](../Page/有声歯茎破擦音.md "wikilink")を表す。
+  - フランス語、エスペラントでは、音素は ・音声は [{{IPA](../Page/有声歯茎摩擦音.md "wikilink") である。
   - 英語では、基本的に  だが、azure(群青色) など極一部の単語では  が[融合同化](https://ja.wikipedia.org/wiki/融合同化 "wikilink")し [{{IPA](https://ja.wikipedia.org/wiki/有声後部歯茎摩擦音 "wikilink") となる。
   - ラテン語では、[古典期には](../Page/古典ラテン語.md "wikilink") [{{IPA](../Page/有声歯茎破擦音.md "wikilink") を表した。[俗ラテン語](../Page/俗ラテン語.md "wikilink")ではさまざまな音に変化し、現在の[ロマンス語](https://ja.wikipedia.org/wiki/ロマンス語 "wikilink")の音につながる。
   - 日本語の[ローマ字](https://ja.wikipedia.org/wiki/ローマ字 "wikilink")表記では、（[ざ行子音](https://ja.wikipedia.org/wiki/さ行#濁音 "wikilink")）に用いられる（ただし[ヘボン式](https://ja.wikipedia.org/wiki/ヘボン式 "wikilink")では  の前以外）。音は、（母音の後で  の前）・（母音の後以外で  の前）・[{{IPA](https://ja.wikipedia.org/wiki/有声歯茎硬口蓋摩擦音 "wikilink")（母音の後で  の前）・[{{IPA](../Page/有声歯茎硬口蓋破擦音.md "wikilink")（母音の後以外で  の前）という[異音](../Page/異音.md "wikilink")に変化する。
@@ -56,7 +56,7 @@
   - フランス語では、zが動詞二人称複数の語尾部分"-ez"を中心に多く使用されている。（例："vous aimez"） 同部分を含めた語尾のzはほとんどの場合、黙字となる。ただし、そのあとに母音が続く場合はリエゾンして を発音する。
   - スペイン語では、原則として [{{ipax](../Page/無声歯摩擦音.md "wikilink") を表す (ceceo)。中南米では [{{IPA](https://ja.wikipedia.org/wiki/無声歯茎摩擦音 "wikilink") である (seseo)。
   - イタリア語では、語によって [{{IPA](../Page/有声歯茎破擦音.md "wikilink") または [{{IPA](../Page/無声歯茎破擦音.md "wikilink") である。
-  - ドイツ語、中国語の[拼音](https://ja.wikipedia.org/wiki/拼音 "wikilink")では、[{{IPA](../Page/無声歯茎破擦音.md "wikilink") である。
+  - ドイツ語、中国語の[拼音](../Page/拼音.md "wikilink")では、[{{IPA](../Page/無声歯茎破擦音.md "wikilink") である。
   - フィンランド語では、 である。
 
 ## Z の意味

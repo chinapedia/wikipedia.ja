@@ -1115,7 +1115,7 @@ BGMはのちに『[仮面ライダーJ](../Page/仮面ライダーJ.md "wikilink
   - 高知県：[テレビ高知](../Page/テレビ高知.md "wikilink")
   - 福岡県：[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
   - 長崎県：[長崎放送](../Page/長崎放送.md "wikilink")
-  - 熊本県：[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - 熊本県：[熊本放送](../Page/熊本放送.md "wikilink")
   - 大分県：[大分放送](../Page/大分放送.md "wikilink")
   - 宮崎県：[宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")
   - 鹿児島県：[南日本放送](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")

@@ -100,7 +100,7 @@
       - 流山店(R\&D)([流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink"))
       - 江戸川台店(R\&D)([流山市](https://ja.wikipedia.org/wiki/流山市 "wikilink"))
       - 柏増尾台店(R\&D)([柏市](https://ja.wikipedia.org/wiki/柏市 "wikilink"))
-      - 君津店([君津市](https://ja.wikipedia.org/wiki/君津市 "wikilink"))
+      - 君津店([君津市](../Page/君津市.md "wikilink"))
       - 長浦店([袖ケ浦市](https://ja.wikipedia.org/wiki/袖ケ浦市 "wikilink"))
       - 横芝店([山武郡](../Page/山武郡.md "wikilink")[横芝光町](../Page/横芝光町.md "wikilink"))
   - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")

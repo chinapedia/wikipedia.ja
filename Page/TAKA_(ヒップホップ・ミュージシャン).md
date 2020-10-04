@@ -7,7 +7,7 @@
 
 ## プロフィール
 
-1996年より活動開始。[DJ HASEBEの大阪でのプレイ時のサイドMCを皮切りに](../Page/DJ_HASEBE.md "wikilink")、様々なアーティストと共演。2004年8月、ミニアルバム「空(KUH)」を[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink") よりリリースしてメジャーデビューを果たし、収録曲の「青空ノ向コウ」は[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")のエンディングテーマに起用された。その後シングル3枚をリリース。その作品も日本テレビ系「[松紳](../Page/松紳.md "wikilink")」、「[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")」など様々なタイアップを実現し、2005年10月・11月にはスマッシュヒットになった「クリスマスキャロルの頃には」がフジTV系[HEY\!HEY\!HEY\! MUSIC CHAMPのエンディング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・テーマに起用された。2006年3月にはシングル3曲収録のファーストアルバム「伽（TOGI）」をリリース。2007年にはクリスマスキャロルの頃にはで競演した[デリカテッセン](http://www.avexnet.or.jp/delicatessen/index.html)のBA-Kと共にTAKA+BA-Kを再結成し、「REVIVE」をリリース。2013年7月には[GAKU-MC](../Page/GAKU-MC.md "wikilink")をフィーチャリングした「生涯現役 feat GAKU-MC」をリリース。 2014年には[ET-KING](../Page/ET-KING.md "wikilink") KLUTCHと共にHow many RED?を結成。
+1996年より活動開始。[DJ HASEBEの大阪でのプレイ時のサイドMCを皮切りに](../Page/DJ_HASEBE.md "wikilink")、様々なアーティストと共演。2004年8月、ミニアルバム「空(KUH)」を[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink") よりリリースしてメジャーデビューを果たし、収録曲の「青空ノ向コウ」は[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ジャンクSPORTS](../Page/ジャンクSPORTS.md "wikilink")のエンディングテーマに起用された。その後シングル3枚をリリース。その作品も日本テレビ系「[松紳](../Page/松紳.md "wikilink")」、「[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")」など様々なタイアップを実現し、2005年10月・11月にはスマッシュヒットになった「クリスマスキャロルの頃には」がフジTV系[HEY\!HEY\!HEY\! MUSIC CHAMPのエンディング](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")・テーマに起用された。2006年3月にはシングル3曲収録のファーストアルバム「伽（TOGI）」をリリース。2007年にはクリスマスキャロルの頃にはで競演した[デリカテッセン](http://www.avexnet.or.jp/delicatessen/index.html)のBA-Kと共にTAKA+BA-Kを再結成し、「REVIVE」をリリース。2013年7月には[GAKU-MC](../Page/GAKU-MC.md "wikilink")をフィーチャリングした「生涯現役 feat GAKU-MC」をリリース。 2014年には[ET-KING](../Page/ET-KING.md "wikilink") KLUTCHと共にHow many RED?を結成。
 
 LIVE活動においては交友のある[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")の「ASTROMANTIC TOUR」「DOPE SPEACE NINE TOUR」に参加。また[BLACK JAXX](../Page/BLACK_JAXX.md "wikilink")([DJ DRAGON](../Page/DJ_DRAGON.md "wikilink")、[武田真治](../Page/武田真治.md "wikilink")、[iSSEi iSHiDa](../Page/いしだ壱成.md "wikilink"))と共演するなどロック系、ハウス系、HIP HOP系、様々なジャンルのイベントに出演。
 
@@ -48,7 +48,7 @@ LIVE活動においては交友のある[m-flo](https://ja.wikipedia.org/wiki/m-
   - Good bye Summer Time feat. mur mur - [関西電力](../Page/関西電力.md "wikilink")CM、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[浜ちゃんと\!](../Page/浜ちゃんと!.md "wikilink")エンディングテーマ
   - LOVE TRAIN - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[松紳](../Page/松紳.md "wikilink")エンディングテーマ、[auラジオCM](../Page/Au_\(携帯電話\).md "wikilink")
   - Alcohol Magic-OLD NICK ver.-feat.BOY-KEN(DJ HASEBE) - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](../Page/上海大腕.md "wikilink")エンディングテーマ
-  - NI-CHI-YO\! feat.BOO - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")エンディングテーマ
+  - NI-CHI-YO\! feat.BOO - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")エンディングテーマ
   - 二人の距離 - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[ぶちぬき](../Page/ぶちぬき.md "wikilink")エンディングテーマ
   - クリスマスキャロルの頃には - [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[HEY\!HEY\!HEY\! MUSIC CHAMPエンディングテーマ](https://ja.wikipedia.org/wiki/HEY!HEY!HEY!_MUSIC_CHAMP "wikilink")
   - OH YEAH\! feat. HI-D - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系[上海大腕](../Page/上海大腕.md "wikilink")エンディングテーマ

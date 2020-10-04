@@ -84,7 +84,7 @@
 <li><a href="../Page/KBCラジオ.md" title="wikilink">九州朝日放送</a>○◎</li>
 <li><a href="../Page/大分放送.md" title="wikilink">大分放送</a>◎</li>
 <li><a href="../Page/長崎放送.md" title="wikilink">長崎放送</a>○</li>
-<li><a href="https://ja.wikipedia.org/wiki/熊本放送" title="wikilink">熊本放送</a></li>
+<li><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/宮崎放送" title="wikilink">宮崎放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ラジオ沖縄" title="wikilink">ラジオ沖縄</a></li>

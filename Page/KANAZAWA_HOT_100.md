@@ -61,7 +61,7 @@
   - 3月10日：**[人生が変わる1分間の深イイ話](../Page/人生が変わる1分間の深イイ話.md "wikilink")**
   - 3月11日：**[幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")**
   - 3月12日：**[ザ\!世界仰天ニュース](../Page/ザ!世界仰天ニュース.md "wikilink")**
-  - 3月13日：秘密のケンミンSHOW（北國新聞掲載の番組は『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』）
+  - 3月13日：秘密のケンミンSHOW（北國新聞掲載の番組は『[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")』）
   - 3月14日：[金曜ロードSHOW\!](../Page/金曜ロードSHOW!.md "wikilink")・[神様のカルテ](https://ja.wikipedia.org/wiki/神様のカルテ "wikilink")
 
 [Category:エフエム石川の番組](https://ja.wikipedia.org/wiki/Category:エフエム石川の番組 "wikilink") [Category:JFN系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink")

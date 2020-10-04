@@ -23,7 +23,7 @@
 
   - [金沢信用金庫](../Page/金沢信用金庫.md "wikilink")
   - [のと共栄信用金庫](../Page/のと共栄信用金庫.md "wikilink")
-  - [はくさん信用金庫](https://ja.wikipedia.org/wiki/はくさん信用金庫 "wikilink")
+  - [はくさん信用金庫](../Page/はくさん信用金庫.md "wikilink")
   - [興能信用金庫](../Page/興能信用金庫.md "wikilink")
 
 ### 福井県

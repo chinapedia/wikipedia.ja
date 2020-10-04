@@ -102,7 +102,7 @@
       - 京葉支店 [習志野市](../Page/習志野市.md "wikilink")芝園2-3-3
       - 船橋支店 [船橋市](https://ja.wikipedia.org/wiki/船橋市 "wikilink")西浦1-1-1 [日鉄住金鋼板](https://ja.wikipedia.org/wiki/日鉄住金鋼板 "wikilink")株式会社内
       - 西船橋支店 船橋市潮見町11
-      - 君津支店 [君津市](https://ja.wikipedia.org/wiki/君津市 "wikilink")坂田39-5
+      - 君津支店 [君津市](../Page/君津市.md "wikilink")坂田39-5
       - 佐倉営業所 [佐倉市](../Page/佐倉市.md "wikilink")大作2-5-3
       - 成田空港支店 [成田市](../Page/成田市.md "wikilink")古込字込前154-4 第1貨物代理店ビル
       - 成田横芝支店 [山武郡](../Page/山武郡.md "wikilink")[横芝光町](../Page/横芝光町.md "wikilink")長山台1-2

@@ -184,7 +184,7 @@
 | [群馬テレビ](../Page/群馬テレビ.md "wikilink")                      | 2007年[1月21日](../Page/1月21日.md "wikilink") - [4月15日](../Page/4月15日.md "wikilink")                                                                      | 日曜 25:30 - 26:00 |                                                                      |
 | [信越放送](../Page/信越放送.md "wikilink")                        | 2007年[1月26日](../Page/1月26日.md "wikilink") - [4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")                                                   | 金曜 27:00 - 27:30 | [TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink") |
 | [BS朝日](../Page/ビーエス朝日.md "wikilink")                      | 2007年[1月29日](../Page/1月29日.md "wikilink") - [4月23日](../Page/4月23日.md "wikilink")                                                                      | 月曜 26:00 - 26:30 | [BS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#BSデジタル放送 "wikilink") |
-| [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")     | 2007年[2月12日](../Page/2月12日.md "wikilink") - [5月7日](../Page/5月7日.md "wikilink")                                                                        | 月曜 26:20 - 26:50 | TBS系列                                                                |
+| [熊本放送](../Page/熊本放送.md "wikilink")                        | 2007年[2月12日](../Page/2月12日.md "wikilink") - [5月7日](../Page/5月7日.md "wikilink")                                                                        | 月曜 26:20 - 26:50 | TBS系列                                                                |
 
 BS朝日では、4:3の映像を16:9に引き伸ばして放送している。[AT-Xでは](../Page/アニメシアターX.md "wikilink")「猫ラーメン」のみを2007年8、9月にCM枠内で放送した。[アニマックス](../Page/アニマックス.md "wikilink")でも「猫ラーメン」のみ不定期的に放送している。
 

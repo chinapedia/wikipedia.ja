@@ -37,7 +37,7 @@
   - [テレビ山口](../Page/テレビ山口.md "wikilink")（放送当時フジテレビ系列（[FNSのみ加盟](../Page/フジネットワーク.md "wikilink")）とのクロスネット）
   - [テレビ高知](../Page/テレビ高知.md "wikilink")
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")
-  - [熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+  - [熊本放送](../Page/熊本放送.md "wikilink")
   - [長崎放送](../Page/長崎放送.md "wikilink")
   - [大分放送](../Page/大分放送.md "wikilink")
   - [宮崎放送](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")

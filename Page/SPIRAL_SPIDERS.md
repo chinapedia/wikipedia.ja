@@ -101,7 +101,7 @@
 <td><p><small>01. 産声<br />
 02. 間に合っていますんで<br />
 03. ケピック</small></p></td>
-<td><p><small><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>「<a href="https://ja.wikipedia.org/wiki/ダウンタウンDX" title="wikilink">ダウンタウンDX</a>」2007年4月〜5月エンディングテーマ</small></p></td>
+<td><p><small><a href="../Page/讀賣テレビ放送.md" title="wikilink">読売テレビ</a>「<a href="../Page/ダウンタウンDX.md" title="wikilink">ダウンタウンDX</a>」2007年4月〜5月エンディングテーマ</small></p></td>
 </tr>
 </tbody>
 </table>

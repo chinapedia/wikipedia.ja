@@ -1176,7 +1176,7 @@
 
 <th>
 
-[熊本放送](https://ja.wikipedia.org/wiki/熊本放送 "wikilink")
+[熊本放送](../Page/熊本放送.md "wikilink")
 
 </th>
 

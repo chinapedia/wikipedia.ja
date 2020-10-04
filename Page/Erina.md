@@ -43,7 +43,7 @@
   - 嬢織〜知りたgirly〜　（2009年4月-　、[テレビ朝日](../Page/テレビ朝日.md "wikilink")）
   - ペロリ カレーの旅　\#1〜4（2009年8月〜9、[スカパー](https://ja.wikipedia.org/wiki/スカパー "wikilink")[EXエンターテインメント](https://ja.wikipedia.org/wiki/EXエンターテインメント "wikilink")）
   - [ホンマでっか\!?TV](https://ja.wikipedia.org/wiki/ホンマでっか!?TV "wikilink")（2009年11月、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）ゲスト
-  - [ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")（2010年4月15日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
+  - [ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")（2010年4月15日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）
   - [さまぁ〜ずのヤリタ☆ガ〜リ〜](https://ja.wikipedia.org/wiki/さまぁ〜ずのヤリタ☆ガ〜リ〜 "wikilink")（2011年8月4日、[TBS](../Page/TBSテレビ.md "wikilink")）
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")2011秋（2011年10月1日、TBS）
       - 総合成績　126位 14問 1:31.44

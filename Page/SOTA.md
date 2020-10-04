@@ -81,7 +81,7 @@ B-DASHの前身バンド[HAGUKI](https://ja.wikipedia.org/wiki/HAGUKI "wikilink"
 
 :\* 『[うぇぶたま](../Page/うぇぶたま.md "wikilink")』(テレビ東京)オープニング映像制作（2007年）
 
-:\* 『[ダウンタウンDX](https://ja.wikipedia.org/wiki/ダウンタウンDX "wikilink")』（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）ジングル映像(2008年7月10日 - 8月7日)
+:\* 『[ダウンタウンDX](../Page/ダウンタウンDX.md "wikilink")』（[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")）ジングル映像(2008年7月10日 - 8月7日)
 
 :\* 『[ネオコラ\!東京環境会議](https://ja.wikipedia.org/wiki/ネオコラ!東京環境会議 "wikilink")』（[フジテレビ系列](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）倉本美津留総合演出のもと[中川翔子](../Page/中川翔子.md "wikilink")MCシーンをCG制作(2008年10月12日)
 

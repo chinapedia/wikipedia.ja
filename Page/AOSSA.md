@@ -67,7 +67,7 @@
 
   - [AOSSA公式サイト](http://www.aossa.jp/)
 
-[Category:福井市の商業施設](https://ja.wikipedia.org/wiki/Category:福井市の商業施設 "wikilink") [Category:福井市の建築物](https://ja.wikipedia.org/wiki/Category:福井市の建築物 "wikilink")
+[Category:福井市の商業施設](https://ja.wikipedia.org/wiki/Category:福井市の商業施設 "wikilink") [Category:福井市の建築物](https://ja.wikipedia.org/wiki/Category:福井市の建築物 "wikilink") [Category:建築物の愛称](https://ja.wikipedia.org/wiki/Category:建築物の愛称 "wikilink")
 
 1.  [1F フロアガイド](http://www.aossa.jp/floor-cat/1f/)
 2.  [2F フロアガイド](http://www.aossa.jp/floor-cat/2f/)

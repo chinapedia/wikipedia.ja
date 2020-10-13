@@ -80,7 +80,7 @@
 
   - [PGMホールディングス](http://www.pacificgolf.co.jp/)
 
-[Category:台東区の企業](https://ja.wikipedia.org/wiki/Category:台東区の企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:日本のゴルフ場運営管理会社](https://ja.wikipedia.org/wiki/Category:日本のゴルフ場運営管理会社 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink") [Category:平和_(パチンコ)](https://ja.wikipedia.org/wiki/Category:平和_\(パチンコ\) "wikilink") [Category:地産グループ](https://ja.wikipedia.org/wiki/Category:地産グループ "wikilink")
+[Category:台東区の企業](https://ja.wikipedia.org/wiki/Category:台東区の企業 "wikilink") [Category:日本の持株会社](https://ja.wikipedia.org/wiki/Category:日本の持株会社 "wikilink") [Category:日本のサービス業](https://ja.wikipedia.org/wiki/Category:日本のサービス業 "wikilink") [Category:日本のゴルフ場運営管理会社](https://ja.wikipedia.org/wiki/Category:日本のゴルフ場運営管理会社 "wikilink") [Category:日本のホテル運営会社](https://ja.wikipedia.org/wiki/Category:日本のホテル運営会社 "wikilink") [Category:2004年設立の企業](https://ja.wikipedia.org/wiki/Category:2004年設立の企業 "wikilink") [Category:平和_(パチンコ)](https://ja.wikipedia.org/wiki/Category:平和_\(パチンコ\) "wikilink") [Category:地産グループ](https://ja.wikipedia.org/wiki/Category:地産グループ "wikilink") [Category:PGMホールディングス](https://ja.wikipedia.org/wiki/Category:PGMホールディングス "wikilink")
 
 1.  [平和(6412)PGMをTOB1株5.2万円最大648億円](http://news.searchina.ne.jp/disp.cgi?y=2011&d=1027&f=business_1027_068.shtml)（[サーチナ](https://ja.wikipedia.org/wiki/サーチナ "wikilink")、2011年10月27日）
 2.  [親会社、親会社以外の支配株主及び主要株主である筆頭株主の異動に関するお知らせ](http://v4.eir-parts.net/v4Contents/View.aspx?cat=tdnet&sid=936455) PGMホールディングス株式会社・平成23年11月29日

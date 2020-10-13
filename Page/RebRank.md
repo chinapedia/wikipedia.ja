@@ -74,7 +74,7 @@
   - 『[シューティングゲームサイド Vol.2](http://gameside.jp/sgs/sgs2/)』 P153（2011年6月30日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-365-3
   - 『[シューティングゲームサイド Vol.4](http://gameside.jp/sgs/sgs4/)』 P145〜149, 開発者インタビュー Yoko、らいね（2012年2月3日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-384-4
   - 『[シューティングゲームサイド Vol.6](http://gameside.jp/sgs/sgs6/)』 P120〜121, 作曲者インタビュー Yoko、竜ライター（2013年2月9日 / [マイクロマガジン社](../Page/マイクロマガジン社.md "wikilink")） ISBN 978-4-89637-410-0
-  - [IDGA Japan](../Page/国際ゲーム開発者協会.md "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) [SIG-Indie6](http://igdaj-indie.blogspot.jp/2011/08/sig-indie6-80.html)「同人シューティングゲームの潮流 -80年代から現代まで、変化から学ぶ実践的な普遍性-」で使用された講演資料
+  - [IDGA Japan](../Page/国際ゲーム開発者協会.md "wikilink") [同人・インディーゲーム部会（SIG-Indie）第6回研究会（2010年2月20日）](http://www.igda.jp/modules/bulletin/index.php?page=article&storyid=247) [SIG-Indie6](https://igdaj-indie.blogspot.com/2011/08/sig-indie6-80.html)「同人シューティングゲームの潮流 -80年代から現代まで、変化から学ぶ実践的な普遍性-」で使用された講演資料
       - \- Yoko
 
       - \- Sheile

@@ -304,7 +304,7 @@
 
 ## 外部リンク
 
-  - [Chokesleeper MySpace](http://www.myspace.com/chokesleeper)
+  - [Chokesleeper MySpace](https://myspace.com/chokesleeper)
 
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:横浜市出身の人物](https://ja.wikipedia.org/wiki/Category:横浜市出身の人物 "wikilink")
 

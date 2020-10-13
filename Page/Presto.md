@@ -237,5 +237,5 @@ Mobile</a></p></th>
 
 [Category:オペラ・ソフトウェア](https://ja.wikipedia.org/wiki/Category:オペラ・ソフトウェア "wikilink") [Category:ウェブブラウザ](https://ja.wikipedia.org/wiki/Category:ウェブブラウザ "wikilink") [Category:2003年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2003年のソフトウェア "wikilink")
 
-1.  [300 million users and move to WebKit](http://web.archive.org/web/20130214043259/http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit)
+1.  [300 million users and move to WebKit](https://web.archive.org/web/20130214043259/http://my.opera.com/ODIN/blog/300-million-users-and-move-to-webkit)
 2.  [Opera version history](http://www.opera.com/docs/history/#o6) At first *Electra* was the codename for the Opera 4.0 browser but was later designated as a layout engine name for Opera versions 3.5 through 6

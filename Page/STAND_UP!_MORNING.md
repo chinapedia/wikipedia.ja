@@ -9,7 +9,7 @@
 
 2009年10月からは土曜日まで放送されるようになり、全国でも珍しく月〜土の帯番組となっており、月〜木は「**STAND UP\! MORNING ― スタモニ ―**」として、金・土は「**STAND UP\! MORNING ― スタモニ・ウィークエンドエディション ―**」のタイトルで放送されていた。
 
-2013年3月21日のエンディングにて、月末での番組終了が発表。この番組の終了以降、FM福岡の6時台の生放送番組は放送されておらず、6時台は午後のワイド番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](../Page/モーニングジャム.md "wikilink")』となっている。また、土曜日の生放送番組も2019年4月の[Weekend more radio\!\!〜7サタ〜の開始まで行われなかった](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")。
+2013年3月21日のエンディングにて、月末での番組終了が発表。この番組の終了以降、FM福岡の6時台の生放送番組は放送されておらず、6時台は午後のワイド番組を再編集した番組となったため、実質の後継ぎは7:30スタートに繰り上がった『[MORNING JAM](../Page/モーニングジャム.md "wikilink")』となっていたが、2020年10月より『[ZERO MORNING](https://ja.wikipedia.org/wiki/ZERO_MORNING "wikilink")』の開始に伴い、早朝生放送が再開する。また、土曜日の生放送番組も2019年4月の『[Weekend more radio\!\!〜7サタ〜](https://ja.wikipedia.org/wiki/Weekend_more_radio!! "wikilink")』の開始まで行われなかった。
 
 ## 放送時間
 

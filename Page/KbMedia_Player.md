@@ -79,8 +79,7 @@
 
 ## 外部リンク
 
-  - [Kobarinのホームページ](http://hwm5.gyao.ne.jp/kobarin/index.htm)
-
+  -
 [Category:フリーウェア](https://ja.wikipedia.org/wiki/Category:フリーウェア "wikilink") [Category:メディアプレーヤーソフト](https://ja.wikipedia.org/wiki/Category:メディアプレーヤーソフト "wikilink")
 
 1.  配布ソフト同梱のHistory.txtより。

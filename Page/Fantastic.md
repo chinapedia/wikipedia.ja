@@ -5,11 +5,11 @@
 
 ## 解説
 
-[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。ライブDVD『SUZUKI AMI AROUND THE WORLD〜LIVE HOUSE TOUR 2005〜』と同時リリースである。「CDのみ（通常盤）」、「CD+DVD」、「CDのみ(期間限定盤)」の3形態で発売された。「CDのみ」、「CD+DVD」の初回盤にはブラック・ジャック書下ろし巻き帯びステッカー封入。（「CD(期間限定盤)」のみはレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")規格になっていて、それ以外の商品はレンタル仕様のものは[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
+[2006年](../Page/2006年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")に[avex traxよりリリースされた](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。ライブDVD『SUZUKI AMI AROUND THE WORLD〜LIVE HOUSE TOUR 2005〜』と同時リリースである。「CDのみ（通常盤）」、「CD+DVD」、「CDのみ(期間限定盤)」の3形態で発売された。「CDのみ」、「CD+DVD」の初回盤には『ブラック・ジャック』描き下ろし巻き帯びステッカー封入。（「CD(期間限定盤)」のみはレンタル盤も[CD-DA](../Page/CD-DA.md "wikilink")規格になっていて、それ以外の商品はレンタル仕様のものは[CCCD](../Page/コピーコントロールCD.md "wikilink")）。
 
-ジャケット写真は[レスリー・キー](../Page/レスリー・キー.md "wikilink")が担当した。期間限定盤のジャケットは[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")による書き下ろしイラストがジャケットになっている。
+ジャケット写真は[レスリー・キー](../Page/レスリー・キー.md "wikilink")が担当した。期間限定盤のジャケットは[手塚プロダクション](../Page/手塚プロダクション.md "wikilink")による描き下ろしイラストがジャケットになっている。
 
-[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列で放映されたテレビアニメ](../Page/日本テレビ放送網.md "wikilink")「[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")」オープニングテーマ曲。本人初めてのアニメ・タイアップソングである。「Fantastic」のプロモーションビデオは、前作「Crystal」（シングル『リトルクリスタル』収録）のPVとつながった内容になっている。
+[よみうりテレビ](../Page/讀賣テレビ放送.md "wikilink")・[日本テレビ系列で放映されたテレビアニメ](../Page/日本テレビ放送網.md "wikilink")『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』オープニングテーマ曲。鈴木亜美にとって初めてのアニメ・タイアップソングである。「Fantastic」のプロモーションビデオは、前作「Crystal」（シングル『リトルクリスタル』収録）のPVとつながった内容になっている。
 
 本作はアルバム『[AROUND THE WORLD](../Page/AROUND_THE_WORLD_\(鈴木亜美のアルバム\).md "wikilink")』とほぼ同時でレコーディングされていた。ライブハウスツアー「SUZUKI AROUND THE WORLD〜LIVE HOUSE TOUR 2005〜」のアンコールで紹介、披露された。アルバム収録は『[CONNETTA](../Page/CONNETTA.md "wikilink")』である。しかし、カップリング曲はアルバム未収録曲になっている。なお、期間生産限定盤は「Fantastic」と「Fantastic (Instrumental)」のみの収録となっている。
 
@@ -22,8 +22,8 @@
 1.  **Fantastic**
       -
         作曲：[y@suo ohtani](../Page/大谷靖夫.md "wikilink")／編曲：[原田憲](../Page/原田憲.md "wikilink")
-        [NTV系アニメ](../Page/讀賣テレビ放送.md "wikilink")「[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")」オープニング・テーマ
-        2ndアルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』に収録
+        [NTV系アニメ](../Page/讀賣テレビ放送.md "wikilink")『[ブラック・ジャック](../Page/ブラック・ジャック_\(テレビアニメ\).md "wikilink")』オープニング・テーマ
+        2枚目のアルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』に収録
 2.  **スローモーション** \[5:09\]\[1\]
       -
         作曲：[吉川慶](../Page/吉川慶.md "wikilink")、編曲：[田辺恵二](https://ja.wikipedia.org/wiki/田辺恵二 "wikilink")
@@ -34,7 +34,7 @@
 
 1.  Fantastic （Music Clip）
 
-## 収録アルバム
+## 各曲の収録アルバム
 
 | 曲名        | 収録アルバム                                           | 発売日                                                                      | 備考                                              |
 | --------- | ------------------------------------------------ | ------------------------------------------------------------------------ | ----------------------------------------------- |

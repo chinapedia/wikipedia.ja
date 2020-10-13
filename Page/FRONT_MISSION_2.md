@@ -115,6 +115,8 @@
   - 隠し要素のひとつ「[嫌なヴァンツァー](https://ja.wikipedia.org/wiki/シュネッケ#嫌なヴァンツァー "wikilink")」と対空ミサイル「おたけさん」は「フロントミッションシリーズ」のファンでもある[吉田戦車](https://ja.wikipedia.org/wiki/吉田戦車 "wikilink")が自身の4コママンガ「ゴッドボンボン」に描いたものが元になっている。なお、嫌なヴァンツァーは、『[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")』連載の吉田の4コママンガ「俺ボンボン」にも登場している。
   - 『[FRONT MISSION ALTERNATIVE](../Page/FRONT_MISSION_ALTERNATIVE.md "wikilink")』同様、本作のアロルデシュの軍事蜂起描写に対し、[バングラデシュ](../Page/バングラデシュ.md "wikilink")から抗議が行われた逸話が残されている。
 
+## 脚注
+
 ## 関連項目
 
   - [末弥純](../Page/末弥純.md "wikilink")

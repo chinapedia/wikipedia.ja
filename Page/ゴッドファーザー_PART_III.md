@@ -11,6 +11,8 @@
 
 当初のタイトルが『マイケル・コルレオーネの死』と予定されていたように（パラマウント側が却下）、本作は[三部作](../Page/三部作.md "wikilink")（トリロジー）の最終作ではなく、前二部作に対する[後日談](https://ja.wikipedia.org/wiki/後日談 "wikilink")として位置づけられている。
 
+公開30周年となる[2020年](../Page/2020年.md "wikilink")9月、フィルムと音声を修復し、新たなオープニングとエンディング及び音楽を付け加えて再構成し、タイトルを当初の構想に基づく『Mario Puzo's The Godfather Coda: The Death of Michael Corleone』としたニューバージョンを12月にアメリカの一部劇場で公開し、その後[ストリーミング](../Page/ストリーミング.md "wikilink")配信する予定と発表された\[1\]。
+
 ## あらすじ
 
 [1979年](../Page/1979年.md "wikilink")のニューヨーク、ファミリーのドンとなったマイケル・コルレオーネは、父の名を取った「ヴィトー・コルレオーネ財団」の名の下、「[シシリー復興のための資金](https://ja.wikipedia.org/wiki/シチリア "wikilink")」との名目で行った多額の寄付が功を奏して[バチカン](https://ja.wikipedia.org/wiki/バチカン "wikilink")より[叙勲](../Page/叙勲.md "wikilink")され、同時にバチカン内の資金運営を掌るアメリカ人のギルディ大司教との関係を得る。そして、それをきっかけとして長年にわたって非合法ビジネスに関与してきた一族の活動から引退を決意するとともに、合法ビジネスへの全面的な転換を画策していた。
@@ -370,7 +372,7 @@
 
 特にキャリアがないままに主要な助演女優に抜擢されたこともあり、事実上の[スケープ・ゴート](https://ja.wikipedia.org/wiki/スケープ・ゴート "wikilink")にされたメアリー・コルレオーネ役の[ソフィア・コッポラ](../Page/ソフィア・コッポラ.md "wikilink")（監督であるフランシス・フォード・コッポラの娘）に対する批判は苛烈なもので、ソフィアは[同年度のゴールデンラズベリー賞の最低助演女優賞](https://ja.wikipedia.org/wiki/第11回ゴールデンラズベリー賞 "wikilink")・最低新人賞を受賞してしまう。
 
-しかし、同作品を評価する声もあり、著名な映画評論家である[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は、本作品に星3つ半のスコアを与えた\[1\]。これは過去にイーバートが『Part II』に与えた星3つを上回る評価である。
+しかし、同作品を評価する声もあり、著名な映画評論家である[ロジャー・イーバート](../Page/ロジャー・イーバート.md "wikilink")は、本作品に星3つ半のスコアを与えた\[2\]。これは過去にイーバートが『Part II』に与えた星3つを上回る評価である。
 
 ## 脚注
 
@@ -393,4 +395,5 @@
   -
 [Category:1990年の映画](https://ja.wikipedia.org/wiki/Category:1990年の映画 "wikilink") [Category:ゴッドファーザー](https://ja.wikipedia.org/wiki/Category:ゴッドファーザー "wikilink") [Category:ニュージャージー州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニュージャージー州を舞台とした映画作品 "wikilink") [Category:バチカンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:バチカンを舞台とした映画作品 "wikilink") [Category:シチリアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:シチリアを舞台とした映画作品 "wikilink") [Category:ローマで製作された映画作品](https://ja.wikipedia.org/wiki/Category:ローマで製作された映画作品 "wikilink") [Category:家族を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:家族を題材とした映画作品 "wikilink") [Category:アメリカン・ゾエトロープの作品](https://ja.wikipedia.org/wiki/Category:アメリカン・ゾエトロープの作品 "wikilink") [Category:小説を原作とする映画](https://ja.wikipedia.org/wiki/Category:小説を原作とする映画 "wikilink")
 
-1.  Roger Ebert、“[The Godfather, Part III](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19901225/REVIEWS/12250303/1023)”、1990年12月25日。（参照：2009年5月30日）
+1.  [映画『ゴッドファーザー』に「よりふさわしい」結末、新版最終章を12月公開](https://www.afpbb.com/articles/-/3302899)、[AFPBB](https://ja.wikipedia.org/wiki/AFPBB "wikilink")、2020年9月4日、同年9月25日閲覧
+2.  Roger Ebert、“[The Godfather, Part III](http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19901225/REVIEWS/12250303/1023)”、1990年12月25日。（参照：2009年5月30日）

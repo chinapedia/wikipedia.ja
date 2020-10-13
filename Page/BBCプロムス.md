@@ -75,6 +75,7 @@
   - [エドワード・ガードナー](https://ja.wikipedia.org/wiki/エドワード・ガードナー "wikilink")(2011)
   - [マリン・オールソップ](../Page/マリン・オールソップ.md "wikilink")(2013, 2015)
   - [サカリ・オラモ](../Page/サカリ・オラモ.md "wikilink")\[13\](2014, 2016, 2017, 2019)
+  - [ダリア・スタセフスカ](https://ja.wikipedia.org/wiki/ダリア・スタセフスカ "wikilink")(2020)
 
 ## 日本での開催
 

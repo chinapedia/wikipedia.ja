@@ -84,7 +84,7 @@
     11. サイコー☆ラヴリィディ
           - 作詞：Funta3、作曲・編曲：Funta7
 
-### テレビ番組
+### アニメ
 
   - [ドクタースランプ](../Page/ドクタースランプ.md "wikilink")（1997年 - 1999年）
   - SHOW BY ROCK\!\!
@@ -202,6 +202,8 @@
       - Kiss(and)Love（作詞・作曲・編曲）
   - [SHOW BY ROCK\!\!\#](https://ja.wikipedia.org/wiki/SHOW_BY_ROCK!! "wikilink")
       - My Song is YOU \!\!（編曲）
+  - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ "wikilink")
+      - Dark Angel（作曲・編曲）
 
 ### ゲーム
 

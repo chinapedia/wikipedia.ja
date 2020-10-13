@@ -1,7 +1,7 @@
 > この記事は[MOCマーケティング](https://ja.wikipedia.org/wiki/MOCマーケティング)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsui_Oil_R6Soma_SS.jpg "wikilink") [S_P7050018.JPG](https://ja.wikipedia.org/wiki/File:S_P7050018.JPG "fig:S_P7050018.JPG") **MOCマーケティング合同会社**（えむおーしーまーけてぃんぐ）は、かつて存在した[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")卸売会社。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")（現・[ENEOS](../Page/ENEOS.md "wikilink")）の[子会社](../Page/子会社.md "wikilink")であった。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsui_Oil_R6Soma_SS.jpg "wikilink") [S_P7050018.JPG](https://ja.wikipedia.org/wiki/File:S_P7050018.JPG "fig:S_P7050018.JPG") **MOCマーケティング合同会社**（エムオーシーマーケティング）は、かつて存在した[石油](https://ja.wikipedia.org/wiki/石油 "wikilink")卸売会社。[東燃ゼネラル石油](../Page/東燃ゼネラル石油.md "wikilink")（現・[ENEOS](../Page/ENEOS.md "wikilink")）の[子会社](../Page/子会社.md "wikilink")であった。
 
 三井物産の子会社**三井石油株式会社**（みついせきゆ）として運営されていたが、2014年に同社保有の株式を東燃ゼネラル石油に売却し、現社名に変更した。MOCはMitsui oil companyの略称である。
 

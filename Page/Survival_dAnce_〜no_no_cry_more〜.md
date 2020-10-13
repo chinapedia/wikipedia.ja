@@ -26,7 +26,7 @@
   - [BiS](https://ja.wikipedia.org/wiki/BiS "wikilink")（2012年、メジャーデビューシングル『[PPCC](https://ja.wikipedia.org/wiki/PPCC "wikilink")』、ミニアルバム『[びすけて](https://ja.wikipedia.org/wiki/びすけて "wikilink")』、『TRFリスペクトアイドルトリビュート\!\!』収録）
   - [loop](https://ja.wikipedia.org/wiki/loop "wikilink")（2016年、コンピレーション・アルバム『[EXA IDOL COMPLEX〜Super duper\!](https://ja.wikipedia.org/wiki/EXA_IDOL_COMPLEX〜Super_duper! "wikilink")』収録）
   - 大和アレクサンダー（CV.[武内駿輔](https://ja.wikipedia.org/wiki/武内駿輔 "wikilink")） - 2019年7月24日発売予定のシングル『KING OF PRISM -Shiny Seven Stars- マイソングシングルシリーズ 大和アレクサンダー』に収録。テレビアニメ『[KING OF PRISM -Shiny Seven Stars-](https://ja.wikipedia.org/wiki/KING_OF_PRISM_-Shiny_Seven_Stars- "wikilink")』第9話挿入歌。
-  - 城ヶ崎莉嘉（CV.[山本希望](https://ja.wikipedia.org/wiki/山本希望 "wikilink")） - ゲーム「[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")」内の楽曲「TRF×CG -DJKOO Mix-」より。2020年8月21日配信開始。
+  - 城ヶ崎莉嘉（CV.[山本希望](https://ja.wikipedia.org/wiki/山本希望 "wikilink")） - ゲーム「[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")」内の楽曲「TRF×CG -DJKOO Mix-」より。2020年8月21日配信開始。同年9月26日より単体配信。
 
 ## 外部リンク
 

@@ -47,13 +47,15 @@
 
 この方法は、直接吸着法における微量タンパク質の定量性の低さを改善し、抗原に対して一種類の抗体で高感度に検出できる方法である。ただし、直接結合法と同様に用いる抗体によっては、交差反応により十分な特異性が得られないときがある。このような場合には何らかの前処理が必要となる。
 
-## 脚注
+## 歴史
 
-<references />
+1966年に[中根一穂](https://ja.wikipedia.org/wiki/中根一穂 "wikilink")とPierceによって[酵素](../Page/酵素.md "wikilink")を利用して抗体の結合部位を酵素反応によって発色することにより抗原物質の所在を検出する手法が開発された\[12\]\[13\]。1960年代、オランダで[免疫化学](https://ja.wikipedia.org/wiki/免疫化学 "wikilink")を応用した[妊娠検査薬](https://ja.wikipedia.org/wiki/妊娠検査薬 "wikilink")を販売していた[製薬会社](https://ja.wikipedia.org/wiki/製薬会社 "wikilink")である[オルガノンは](https://ja.wikipedia.org/wiki/:en:Organon_International "wikilink")[リトマス試験紙](../Page/リトマス試験紙.md "wikilink")のように手軽に検査できる手法の開発に取り組んでおり、アントン・スールス(Anton Schuurs)は、発色する酵素と抗原抗体反応を組合せるアイディアを提案してバウケ・ファン・ウェーメン(Bauke van Weemen)と研究に着手してその結果を1971年に発表した\[14\]。続いて1974年に酵素を利用する手法を発表した\[15\]。また同時期1969年、[ストックホルム大学](../Page/ストックホルム大学.md "wikilink")のピーター・パールマン(Peter Perlmann)の研究室に加わったエヴァ・エングヴァール(Eva Engvall)は、RIAに代わる定量的検出系の構築に着手した\[16\]。また、同時期フランスのストラティス・アヴラメアス(Stratis Avrameas)も同様の研究を進めていた\[17\]\[18\]。
+
+## 脚注
 
 ## 関連項目
 
-  - [酵素抗体法](https://ja.wikipedia.org/wiki/酵素抗体法 "wikilink")
+  - [酵素抗体法](../Page/酵素抗体法.md "wikilink")
   - [ウェスタンブロッティング](../Page/ウェスタンブロッティング.md "wikilink")
   - [免疫染色](../Page/免疫染色.md "wikilink")
   - [モノクローナル抗体](../Page/モノクローナル抗体.md "wikilink")
@@ -80,3 +82,10 @@
 9.
 10.
 11.
+12. NAKANE, PAUL K., and G. BARRY PIERCE JR. "Enzyme-labeled antibodies: preparation and application for the localization of antigens." Journal of Histochemistry & Cytochemistry 14.12 (1966): 929-931.
+13.
+14. Van Weemen, B. K., and A. H. W. M. Schuurs. "Immunoassay using antigen—enzyme conjugates." FEBS letters 15.3 (1971): 232-236.
+15. Van Weemen, B. K., et al. "Immunoassay using antibody—enzyme conjugates." FEBS letters 43.2 (1974): 215-218.
+16. Engvall, Eva, and Peter Perlmann. "Enzyme-linked immunosorbent assay (ELISA) quantitative assay of immunoglobulin G." Immunochemistry 8.9 (1971): 871-874.
+17. Avrameas, S., and Brigitte Guilbert. "A method for quantitative determination of cellular immunoglobulins by enzyme‐labeled antibodies." European journal of immunology 1.5 (1971): 394-396.
+18.

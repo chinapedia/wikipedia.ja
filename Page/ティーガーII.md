@@ -3,7 +3,7 @@
 
 **ティーガーII**（）は、[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")の[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[重戦車](../Page/重戦車.md "wikilink")（70トン級）である[VI号戦車](../Page/VI号戦車.md "wikilink")の通称。VI号戦車にはI型とII型の2種類の[戦車](https://ja.wikipedia.org/wiki/戦車 "wikilink")が存在し、それぞれ**[ティーガーI](../Page/ティーガーI.md "wikilink")**、**ティーガーII**と呼ばれる。本稿での表記は**ティーガーII**で統一する。
 
-[ノルマンディー戦線でこの戦車を見た](../Page/ノルマンディー上陸作戦.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")は「**キング・タイガー**」と呼び、[イギリス軍](../Page/イギリス軍.md "wikilink")は「**ロイヤル・タイガー**」とあだ名した。この渾名がドイツに逆輸入され、「**ケーニッヒス・ティーガー**（）」（ドイツ語での意味は「王の虎」、[ベンガルトラ](https://ja.wikipedia.org/wiki/ベンガルトラ "wikilink")）と翻訳された。なお[ソ連赤軍からは](../Page/赤軍.md "wikilink")[パンターの発展型と解釈され](../Page/V号戦車パンター.md "wikilink")、前線では「新型豹戦車」と呼ばれた。
+[ノルマンディー戦線でこの戦車を見た](../Page/ノルマンディー上陸作戦.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")は「**キング・タイガー**」と呼び、[イギリス軍](../Page/イギリス軍.md "wikilink")は「**ロイヤル・タイガー**」とあだ名した。この渾名がドイツに逆輸入され、「**ケーニッヒス・ティーガー**（）」（ドイツ語での意味は「王の虎」、[ベンガルトラ](https://ja.wikipedia.org/wiki/ベンガルトラ "wikilink")）と翻訳された。なお[ソ連赤軍と](../Page/赤軍.md "wikilink")[アメリカ軍](../Page/アメリカ軍.md "wikilink")からは[パンターの発展型と解釈され](../Page/V号戦車パンター.md "wikilink")、前線では「新型豹戦車」と呼ばれた。
 
 ## 概要
 

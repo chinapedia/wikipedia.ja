@@ -443,8 +443,8 @@ SLRL-10017:通常盤</p></td>
 **[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
 
   - 「[テレパシーOne\! Two\!](https://ja.wikipedia.org/wiki/5_Performer-Z "wikilink")」(作詞)
-
-　「夜明けのガンスリンガー」（作詞）
+  - 「夜明けのガンスリンガー」（作詞）
+  - 「さぁ生きまくれ\! wonderful life\!」（作詞）
 
 ## 主なライブ
 

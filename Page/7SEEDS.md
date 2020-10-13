@@ -412,7 +412,7 @@
   - プロデューサー - 星野禎、高橋知子、金子広孝、姉帯恒、大森慎司
   - アニメーションプロデューサー - 西山達也
   - 制作 - [NAS](../Page/日本アドシステムズ.md "wikilink")
-  - アニメーション制作 - [GONZO](../Page/ゴンゾ.md "wikilink")
+  - アニメーション制作 - [GONZO](../Page/ゴンゾ.md "wikilink")（第1期/第2期）、スタジオKAI（第2期）
   - 製作 - 7SEEDS project（GONZO、NAS、[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")、ユニバーサルミュージック、[BSフジ](../Page/BSフジ.md "wikilink")）
 
 ### 主題歌

@@ -1,7 +1,7 @@
 > この記事は[Dream Power ジョン・レノン スーパー・ライヴ](https://ja.wikipedia.org/wiki/Dream_Power_ジョン・レノン_スーパー・ライヴ)から翻訳されています。
 
 
-**Dream Power ジョン・レノン スーパー・ライヴ**は、ジョン・レノン音楽祭の一環として、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")のパートナーであり、前衛芸術家の[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")のDream Powerの提唱の下、アジア・アフリカの教育機会に恵まれない子どもたちの学校建設資金を売上金からチャリティするため、[2001年](../Page/2001年.md "wikilink")からジョンの誕生日もしくは命日あたりで毎年行われている、チャリティ・コンサートである。
+『**Dream Power ジョン・レノン スーパー・ライヴ**』は、ジョン・レノン音楽祭の一環として、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")のパートナーであり、前衛芸術家の[オノ・ヨーコ](../Page/オノ・ヨーコ.md "wikilink")のDream Powerの提唱の下、アジア・アフリカの教育機会に恵まれない子どもたちの学校建設資金を売上金からチャリティするため、[2001年](../Page/2001年.md "wikilink")からジョンの誕生日もしくは命日あたりで毎年行われている、チャリティ・コンサートである。
 
 平和活動を続けたジョン・レノンのスピリットを継承する目的もあるため、ジョン・レノンの[トリビュート](https://ja.wikipedia.org/wiki/トリビュート "wikilink")ライブという性質や平和イベントという性質もある。
 
@@ -88,7 +88,7 @@
   - [大塚雄三](../Page/大塚雄三.md "wikilink")・[小名川高弘](../Page/小名川高弘.md "wikilink")（[CHARCOAL FILTER](../Page/CHARCOAL_FILTER.md "wikilink")）
   - [Gackt](https://ja.wikipedia.org/wiki/Gackt "wikilink")
   - [Something ELse](../Page/Something_ELse.md "wikilink")
-  - [ZONE](../Page/ZONE_\(バンド\).md "wikilink") - 「[テル・ミー・ホワイ](../Page/テル・ミー・ホワイ_\(ビートルズの曲\).md "wikilink")」「[ガール](../Page/ガール.md "wikilink")」の2曲
+  - [ZONE](../Page/ZONE_\(バンド\).md "wikilink") - 「[テル・ミー・ホワイ](../Page/テル・ミー・ホワイ_\(ビートルズの曲\).md "wikilink")」「[ガール](../Page/ガール_\(ビートルズの曲\).md "wikilink")」の2曲
   - [中村修二](../Page/中村修二.md "wikilink")
   - [PUFFY](../Page/PUFFY.md "wikilink")
   - [MY LITTLE LOVER](https://ja.wikipedia.org/wiki/My_Little_Lover "wikilink")＋[曽我部恵一](../Page/曽我部恵一.md "wikilink")-「[オー・マイ・ラヴ](../Page/オー・マイ・ラヴ.md "wikilink")」「[ストロベリー・フィールズ・フォーエバー](../Page/ストロベリー・フィールズ・フォーエバー.md "wikilink")」「[アクロス・ザ・ユニバース](../Page/アクロス・ザ・ユニバース.md "wikilink")」「[トゥモロー・ネバー・ノウズ](../Page/トゥモロー・ネバー・ノウズ.md "wikilink")」の4曲

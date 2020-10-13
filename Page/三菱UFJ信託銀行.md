@@ -133,7 +133,7 @@
 
   - [三菱UFJ信託銀行 公式サイト](https://www.tr.mufg.jp)
 
-[Category:信託銀行](https://ja.wikipedia.org/wiki/Category:信託銀行 "wikilink") [Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:三菱グループ](https://ja.wikipedia.org/wiki/Category:三菱グループ "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:三億円事件](https://ja.wikipedia.org/wiki/Category:三億円事件 "wikilink")
+[Category:信託銀行](https://ja.wikipedia.org/wiki/Category:信託銀行 "wikilink") [Category:三菱UFJフィナンシャル・グループ](https://ja.wikipedia.org/wiki/Category:三菱UFJフィナンシャル・グループ "wikilink") [Category:三菱グループ](https://ja.wikipedia.org/wiki/Category:三菱グループ "wikilink") [Category:三和グループ](https://ja.wikipedia.org/wiki/Category:三和グループ "wikilink") [Category:みどり会](https://ja.wikipedia.org/wiki/Category:みどり会 "wikilink") [Category:三億円事件](https://ja.wikipedia.org/wiki/Category:三億円事件 "wikilink") [Category:不動産鑑定業者](https://ja.wikipedia.org/wiki/Category:不動産鑑定業者 "wikilink")
 
 1.  [札幌市告示第2858号/大規模小売店舗の変更の届出の公告](http://www.city.sapporo.jp/keizai/daiten/todokede/documents/121204-61ionsapporomotomati.pdf) - [札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")公式ウェブサイト、2013年9月27日閲覧。
 2.  [日本リテールファンド投資法人\>不動産ポートフォリオ\>ポートフォリオマップ\>イオン戸畑ショッピングセンター](http://www.jrf-reit.com/portfolio/detail.php?article_id=49) - [日本リテールファンド](../Page/日本リテールファンド.md "wikilink")投資法人公式ウェブサイト、2013年9月26日閲覧。

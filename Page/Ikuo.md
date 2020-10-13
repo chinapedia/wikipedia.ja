@@ -165,6 +165,7 @@
   - [VANISHING STARLIGHT](https://ja.wikipedia.org/wiki/VANISHING_STARLIGHT "wikilink")
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
   - [Sound Horizon](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")
+  - [堀江由衣](https://ja.wikipedia.org/wiki/堀江由衣 "wikilink")
 
 <!-- end list -->
 

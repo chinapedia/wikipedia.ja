@@ -8,12 +8,12 @@
 ### 自社制作番組
 
   - [スマイルナビゲーション](https://ja.wikipedia.org/wiki/NSTくらしの情報 "wikilink")（月 - 金曜 11:20 - 11:25、日曜 14:55 - 15:00）
-  - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:14 - 19:00）
+  - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:09 - 19:00）
   - [FNN・NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土曜 - 日曜 17:30 - 18:00）
-  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50 再放送・金曜 25:00 - 26:00、※2020年5月8日より放送休止）
+  - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50、再放送・金曜 25:00 - 26:00、※2020年5月8日より放送休止）
   - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00、2015年3月までは『NSTニュース』）
   - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00、八千代コースターの姉妹番組）
-  - [八千代コースター](https://ja.wikipedia.org/wiki/八千代コースター "wikilink")（土曜 10:25 - 11:15）
+  - [八千代コースター](https://ja.wikipedia.org/wiki/八千代コースター "wikilink")（土曜 10:25 - 11:15、再放送・土曜 25:45 - 26:35）
   - [シネマスタジアム](https://ja.wikipedia.org/wiki/シネマスタジアム "wikilink")（第2土曜、第4土曜 14:55 - 15:00 ※時間変更の場合あり）
   - [県からのお知らせ](../Page/新潟県.md "wikilink")（土曜 12:55 - 13:00）
   - [スマイルスタジアムNST](../Page/スマイルスタジアムNST.md "wikilink")（土曜 18:00 - 18:55）
@@ -69,7 +69,7 @@
 
 ### テレビ東京系列
 
-  - [昼めし旅 〜あなたのご飯見せてください\!〜](https://ja.wikipedia.org/wiki/昼めし旅_〜あなたのご飯見せてください!〜 "wikilink")（月曜 - 木曜 16:20 - 16:50）
+  - [昼めし旅 〜あなたのご飯見せてください\!〜](https://ja.wikipedia.org/wiki/昼めし旅_〜あなたのご飯見せてください!〜 "wikilink")（月曜 - 金曜 15:15 - 15:45）
   - [出没\!アド街ック天国](https://ja.wikipedia.org/wiki/出没!アド街ック天国 "wikilink")（火曜 24:30 - 25:25）
   - [ゴッドタン](../Page/ゴッドタン.md "wikilink")（火曜 25:25 - 25:55）
   - [モヤモヤさまぁ〜ず2](../Page/モヤモヤさまぁ〜ず2.md "wikilink")（木曜 24:30 - 25:25）

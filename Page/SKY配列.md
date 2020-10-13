@@ -50,11 +50,16 @@ style="text-align:left" | 2)
 SKYは原形のままでも、日本語文のほとんどを快適に入力できる。しかし、「[ヴ](https://ja.wikipedia.org/wiki/ヴ "wikilink")」や長音符、[捨て仮名](../Page/捨て仮名.md "wikilink")（小書き文字）を入力出来ず、未完成であるといえる。 そこで、その欠点を補うべくさまざまな拡張配列が生み出された。
 
   - 木村泉の著書『ワープロ徹底操縦法』で紹介された拡張配列（出典不明）および、私家版配列
+
   - SKY\!
+
   - SKY+
+
   - SKY++
+
   - [SKY♯](https://smectic-g.github.io/SKY_Input_method/skysharp.html)
-  - [SKYu](http://sapporo.cool.ne.jp/tsukimoriseki/skyu.html)
+
+  -
   - [宙配列](http://home.s05.itscom.net/cc123/html/sky-dash/index.htm)
 
 [Category:各言語のキー配列](https://ja.wikipedia.org/wiki/Category:各言語のキー配列 "wikilink")

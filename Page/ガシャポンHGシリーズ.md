@@ -42,7 +42,7 @@
   - [ファイナルファンタジーVIII](../Page/ファイナルファンタジーVIII.md "wikilink")
   - 燃えろ\!\!ロボコン
   - [救急戦隊ゴーゴーファイブ](../Page/救急戦隊ゴーゴーファイブ.md "wikilink")
-  - [レインボーマン](https://ja.wikipedia.org/wiki/レインボーマン "wikilink")
+  - [レインボーマン](../Page/レインボーマン.md "wikilink")
   - [キカイダー01](../Page/キカイダー01.md "wikilink")
   - [キン肉マン](../Page/キン肉マン.md "wikilink")
   - [超時空要塞マクロス](../Page/超時空要塞マクロス.md "wikilink") 1〜3
@@ -175,7 +175,7 @@
 
   - HGワールド [ガンバの冒険](../Page/ガンバの冒険.md "wikilink") 1〜2
   - HGPlusアクションポーズ ドラゴンボールZ
-  - HG D+ ゴジラ 01～03
+  - HG D+ ゴジラ 01～04
   - [ウルトラマンギンガS](https://ja.wikipedia.org/wiki/ウルトラマンギンガS "wikilink") ビッグサイズなりきりウェポン\[3\]
 
 ### その他ガシャポン以外のHGシリーズ

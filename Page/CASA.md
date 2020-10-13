@@ -160,7 +160,7 @@
 
 <!-- end list -->
 
-  - スナックイン[池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")店（西部池袋駅地下改札内）※閉店
+  - スナックイン[池袋駅](https://ja.wikipedia.org/wiki/池袋駅 "wikilink")店（西武池袋駅地下改札内）※閉店
 
 ## 脚注
 

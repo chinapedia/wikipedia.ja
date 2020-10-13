@@ -1,7 +1,7 @@
 > この記事は[DJMAX](https://ja.wikipedia.org/wiki/DJMAX)から翻訳されています。
 
 
-『**DJMAX**』（ディージェイマックス）は、[韓国のゲーム製作会社](../Page/大韓民国.md "wikilink")[PENTAVISION](../Page/PENTAVISION.md "wikilink")の[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")シリーズの総称。「DJ」と「MAX」の間に半角スペースが入ることもある。
+『**DJMAX**』（ディージェイマックス）は、[韓国のゲーム製作会社](../Page/大韓民国.md "wikilink")[PENTAVISION](../Page/PENTAVISION.md "wikilink")、NEOWIZの[音楽ゲーム](../Page/音楽ゲーム.md "wikilink")シリーズの総称。「DJ」と「MAX」の間に半角スペースが入ることもある。
 
 ## シリーズ作品
 

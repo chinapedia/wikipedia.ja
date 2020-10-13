@@ -2627,7 +2627,7 @@ RESIDENT DJ's
 </ul></td>
 <td><ul>
 <li>神啓文（FREE THROW）</li>
-<li><a href="https://ja.wikipedia.org/wiki/チームしゃちほこ" title="wikilink">チームしゃちほこ</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/TEAM_SHACHI" title="wikilink">チームしゃちほこ</a></li>
 <li>UL</li>
 <li>avengers in sci-fi</li>
 <li><a href="https://ja.wikipedia.org/wiki/東京女子流" title="wikilink">東京女子流</a></li>

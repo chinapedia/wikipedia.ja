@@ -1,7 +1,7 @@
 > この記事は[NICO Touches the Walls](https://ja.wikipedia.org/wiki/NICO_Touches_the_Walls)から翻訳されています。
 
 
-**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。[2019年](../Page/2019年.md "wikilink")に解散。
+**NICO Touches the Walls**（ニコ・タッチズ・ザ・ウォールズ）は、[2004年](../Page/2004年.md "wikilink")に結成した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。略称は『**NICO**』『**ニコ**』（公式TwitterのIDや一部グッズには『**NTtW**』の表記も見られる）。2015年以降、アコースティック編成の名義として『**ACO Touches the Walls**』が用いられることもある。[2019年](../Page/2019年.md "wikilink")に活動終了。
 
 ## メンバー
 
@@ -1114,7 +1114,7 @@ KSXL-235<small>（Blu-ray）</small></p></td>
 <li><a href="https://ja.wikipedia.org/wiki/again_(YUIの曲)" title="wikilink">again</a> / <a href="https://ja.wikipedia.org/wiki/YUI_(歌手)" title="wikilink">YUI</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/嘘_(シドの曲)" title="wikilink">嘘</a> / <a href="../Page/シド_(バンド).md" title="wikilink">シド</a></li>
 <li><strong><a href="https://ja.wikipedia.org/wiki/ホログラム_(NICO_Touches_the_Wallsの曲)" title="wikilink">ホログラム</a> / NICO Touches the Walls</strong></li>
-<li><a href="https://ja.wikipedia.org/wiki/LET_IT_OUT" title="wikilink">LET IT OUT</a> / <a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/LET_IT_OUT_(福原美穂の曲)" title="wikilink">LET IT OUT</a> / <a href="https://ja.wikipedia.org/wiki/福原美穂" title="wikilink">福原美穂</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ゴールデンタイムラバー" title="wikilink">ゴールデンタイムラバー</a> / <a href="../Page/スキマスイッチ.md" title="wikilink">スキマスイッチ</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/つないだ手" title="wikilink">つないだ手</a> / <a href="https://ja.wikipedia.org/wiki/Lil&#39;B" title="wikilink">Lil'B</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/Period_(CHEMISTRYの曲)" title="wikilink">Period</a> / <a href="../Page/CHEMISTRY.md" title="wikilink">CHEMISTRY</a></li>

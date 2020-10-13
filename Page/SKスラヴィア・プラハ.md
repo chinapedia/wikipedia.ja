@@ -1011,13 +1011,7 @@
 
 ## 現所属メンバー
 
-  - 2019-20シーズン 基本フォーメーション
-
-<div style="position: relative;">
-
-[350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
-
-  - [2019年](../Page/2019年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[8月6日](../Page/8月6日.md "wikilink")現在\[1\]
 
 ## 歴代監督
 
@@ -1078,3 +1072,5 @@
   - [公式サイト](http://www.slavia.cz/)
 
 [Category:SKスラヴィア・プラハ](https://ja.wikipedia.org/wiki/Category:SKスラヴィア・プラハ "wikilink") [Category:プラハのサッカークラブ](https://ja.wikipedia.org/wiki/Category:プラハのサッカークラブ "wikilink")
+
+1.

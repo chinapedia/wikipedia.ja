@@ -61,7 +61,7 @@
 
   - 2020年1月31日現在\[3\]
 
-★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★     ★   ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))
+★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★    ★   ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

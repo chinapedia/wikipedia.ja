@@ -438,9 +438,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月15日](../Page/9月15日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")現在\[1\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

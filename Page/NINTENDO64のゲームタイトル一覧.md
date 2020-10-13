@@ -38,7 +38,7 @@
   - 7月18日 [スーパーマリオ64 振動パック対応バージョン](../Page/スーパーマリオ64.md "wikilink")（任天堂）★
   - 7月25日 [雀豪シミュレーション 麻雀道64](https://ja.wikipedia.org/wiki/雀豪シミュレーション_麻雀道64 "wikilink")（[ビデオシステム](../Page/ビデオシステム.md "wikilink")）
   - 8月1日 [麻雀放浪記CLASSIC](https://ja.wikipedia.org/wiki/麻雀放浪記CLASSIC "wikilink")（イマジニア）
-  - 8月1日 [DOOM](../Page/DOOM.md "wikilink")64（[ゲームバンク](https://ja.wikipedia.org/wiki/ゲームバンク "wikilink")）
+  - 8月1日 [Doom 64](../Page/Doom_64.md "wikilink")（[ゲームバンク](https://ja.wikipedia.org/wiki/ゲームバンク "wikilink")）
   - 8月7日 [がんばれゴエモン〜ネオ桃山幕府のおどり〜](../Page/がんばれゴエモン〜ネオ桃山幕府のおどり〜.md "wikilink")（コナミ）
   - 8月8日 [パワーリーグ](../Page/パワーリーグ.md "wikilink")64（[ハドソン](../Page/ハドソン.md "wikilink")）
   - 8月23日 [ゴールデンアイ 007](../Page/ゴールデンアイ_007.md "wikilink")（任天堂）
@@ -122,7 +122,7 @@
   - 12月24日 [爆笑人生64 めざせ\!リゾート王](../Page/爆笑!!人生劇場.md "wikilink")（タイトー）
   - 12月25日 [カメレオンツイスト2](../Page/カメレオンツイスト2.md "wikilink")（日本システムサプライ）
   - 12月26日 [スノースピーダー](../Page/スノースピーダー.md "wikilink")（イマジニア）
-  - 12月26日 [新日本プロレスリング 闘魂炎導2 the next generation](https://ja.wikipedia.org/wiki/新日本プロレスリング_闘魂炎導 "wikilink")（ハドソン）
+  - 12月26日 [新日本プロレスリング 闘魂炎導2 the next generation](https://ja.wikipedia.org/wiki/闘魂炎導2 "wikilink")（ハドソン）
 
 ## 1999年（全58タイトル）
 

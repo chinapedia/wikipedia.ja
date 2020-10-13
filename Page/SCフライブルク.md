@@ -261,9 +261,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")現在\[1\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland_\(Pantone\).svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zambia.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))         ★  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland_\(Pantone\).svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Zambia.svg "wikilink"))            ★  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

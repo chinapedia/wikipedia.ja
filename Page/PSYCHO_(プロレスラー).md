@@ -50,6 +50,8 @@
   - [WEWハードコアタッグ王座](../Page/WEWハードコアタッグ王座.md "wikilink")
   - ワールドナイスガイガウン王座
 
+四国統一タッグ王座
+
 ## テレビ出演
 
   - [プロレスKING](https://ja.wikipedia.org/wiki/プロレスKING "wikilink")（[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")）

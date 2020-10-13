@@ -227,7 +227,7 @@ Welcome! [Alexandros]</p></td>
 
 :; [アンプ](https://ja.wikipedia.org/wiki/アンプ "wikilink") ※スタックタイプは組合せ表記
 
-::\* [Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") Twin Reverb
+::\*[Fender](../Page/フェンダー_\(楽器メーカー\).md "wikilink") Twin Reverb
 
 ::\* Fender Custom ShopTone Master + 2-12 ENCLOSURE set
 
@@ -749,7 +749,7 @@ Welcome! [Alexandros]</p></td>
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>2020年9月9日</p></td>
-<td><p>白夜の日々</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/白夜の日々" title="wikilink">白夜の日々</a></p></td>
 <td><p>COCA-17780</p></td>
 <td><p>19位</p></td>
 <td></td>
@@ -835,11 +835,11 @@ Welcome! [Alexandros]</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>5</p></td>
+<td><p>2020年10月21日</p></td>
+<td><p>Blazing Souls</p></td>
+<td><p>―</p></td>
+<td><p>―</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -1148,7 +1148,7 @@ Welcome! [Alexandros]</p></td>
 <tr class="odd">
 <td></td>
 <td><p>2020年9月9日</p></td>
-<td><p>CHAOSMOLOGY</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CHAOSMOLOGY" title="wikilink">CHAOSMOLOGY</a></p></td>
 <td><p>COCP-41241～2</p></td>
 <td><p>14位</p></td>
 </tr>

@@ -166,6 +166,6 @@
 
 ## 外部リンク
 
-  - [マクドナルド初のグローバル･ブランド戦略 『i'm lovin' it』 (TM)をスタート](http://www.mcd-holdings.co.jp/news/news/2003/release-030916.html)
+  - [マクドナルド初のグローバル･ブランド戦略 『i'm lovin' it』 (TM)をスタート](https://www.mcd-holdings.co.jp/news/news/2003/release-030916.html)
 
 [Category:CM](https://ja.wikipedia.org/wiki/Category:CM "wikilink") [Category:マクドナルド](https://ja.wikipedia.org/wiki/Category:マクドナルド "wikilink")

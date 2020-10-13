@@ -54,7 +54,7 @@
         </div>
 
         16thシングルの表題曲。今回の収録で[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")をリテイク、またMixを「Vo.やや小」バージョンにしたものが収録されている\[1\]。なお、栗林誠一郎のゲストボーカルはそのまま。
-4.  **LOVE 〜眠れずに君の横顔ずっと見ていた**
+4.  **LOVE 〜眠れずに君の横顔ずっと見ていた〜**
       -
 
         <div class="NavContent" style="text-align: left;font-size:small;">

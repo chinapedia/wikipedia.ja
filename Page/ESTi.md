@@ -98,6 +98,8 @@
 
   -
   -
+  - \[<https://bunshun.jp/articles/-/40354>　韓国発・日本人シティポップ歌手が世界で注目 “黒幕”ゲーム会社社長が語った戦略　YUKIKAを世に送り出した、ESTi氏インタビュー\]「文春オンライン」2020年9月23日配信。
+
 [Category:韓国の作曲家](https://ja.wikipedia.org/wiki/Category:韓国の作曲家 "wikilink") [Category:ゲーム音楽の作曲家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽の作曲家 "wikilink") [Category:同人音楽の作曲家・編曲家](https://ja.wikipedia.org/wiki/Category:同人音楽の作曲家・編曲家 "wikilink") [Category:アイドルマスターの音楽関係者](https://ja.wikipedia.org/wiki/Category:アイドルマスターの音楽関係者 "wikilink") [Category:1980年生](https://ja.wikipedia.org/wiki/Category:1980年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  \[<http://goodbye-twenties.com/profile/esti.html>　ESTi\]『而立 〜さよなら20代〜』2009年

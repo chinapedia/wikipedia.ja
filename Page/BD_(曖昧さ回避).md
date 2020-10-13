@@ -54,7 +54,7 @@
 
 ## 関連項目
 
-  - [DB](https://ja.wikipedia.org/wiki/DB "wikilink")
+  - [DB](https://ja.wikipedia.org/wiki/DB "wikilink")（曖昧さ回避）
   - [ラテン文字のアルファベット二文字組み合わせの一覧](../Page/ラテン文字のアルファベット二文字組み合わせの一覧.md "wikilink")
   - [BDで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/BD "wikilink")
   - [Bd, bdで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/Bd "wikilink")

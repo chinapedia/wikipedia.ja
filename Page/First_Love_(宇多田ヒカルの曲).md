@@ -106,7 +106,7 @@
   - 2008年、[ジェイク・シマブクロ](../Page/ジェイク・シマブクロ.md "wikilink")（アルバム『一期一会』に収録）
   - 2009年、[押尾コータロー](../Page/押尾コータロー.md "wikilink")（アルバム『Tussie Mussie』に収録）
   - 2010年、[徳永英明](../Page/徳永英明.md "wikilink")（アルバム『[VOCALIST 4](https://ja.wikipedia.org/wiki/VOCALIST_4 "wikilink")』に収録）
-  - 2010年、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")（アルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』に収録）
+  - 2010年、[JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink")（アルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(JUJUのアルバム\) "wikilink")』に収録）
   - 2010年、[エリック・マーティン](../Page/エリック・マーティン.md "wikilink")（アルバム『Mr. Vocalist 3』に収録）
   - 2010年、[ボーイズ・II・メン](https://ja.wikipedia.org/wiki/ボーイズ・II・メン "wikilink")（アルバム『Covered: Winter』に収録）
   - 2012年、[Ms.OOJA](https://ja.wikipedia.org/wiki/Ms.OOJA "wikilink")（アルバム『[WOMAN -Love Song Covers-](https://ja.wikipedia.org/wiki/WOMAN_-Love_Song_Covers- "wikilink")』に収録）

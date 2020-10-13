@@ -352,6 +352,8 @@ CYP3A4の阻害剤は、そのによって、次のように分類できる。
 
   - [シトクロムP450](../Page/シトクロムP450.md "wikilink")
   - [薬物相互作用](https://ja.wikipedia.org/wiki/薬物相互作用 "wikilink")
+  - [グレープフルーツジュース](https://ja.wikipedia.org/wiki/グレープフルーツジュース "wikilink")
+  - [:en:Grapefruit–drug interactions](https://ja.wikipedia.org/wiki/:en:Grapefruit–drug_interactions "wikilink")
 
 [Category:酸化還元酵素](https://ja.wikipedia.org/wiki/Category:酸化還元酵素 "wikilink") [Category:シトクロムP450](https://ja.wikipedia.org/wiki/Category:シトクロムP450 "wikilink") [Category:EC_1.14.14](https://ja.wikipedia.org/wiki/Category:EC_1.14.14 "wikilink")
 

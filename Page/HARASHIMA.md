@@ -173,7 +173,7 @@
   - [HARASHIMAの「へろへろ日記」](http://blog.livedoor.jp/heroheroman/)
 
   -
-[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:DDTに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTに所属するプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:帝京大学出身の人物](https://ja.wikipedia.org/wiki/Category:帝京大学出身の人物 "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink")
+[Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:DDTに所属するプロレスラー](https://ja.wikipedia.org/wiki/Category:DDTに所属するプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:覆面レスラーとして活動していたプロレスラー](https://ja.wikipedia.org/wiki/Category:覆面レスラーとして活動していたプロレスラー "wikilink") [Category:本名非公開の人物](https://ja.wikipedia.org/wiki/Category:本名非公開の人物 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:1974年生](https://ja.wikipedia.org/wiki/Category:1974年生 "wikilink") [Category:帝京大学出身の人物](https://ja.wikipedia.org/wiki/Category:帝京大学出身の人物 "wikilink") [Category:学士号取得者](https://ja.wikipedia.org/wiki/Category:学士号取得者 "wikilink")
 
 1.
 2.  新日本プロレス [真壁刀義、“後輩”HARASHIMAと合体してDDT武道館に見参\! ハードコア戦で石川＆伊東に激勝\!\!](http://www.njpw.co.jp/news/detail.php?nid=8021)2014.7.7閲覧

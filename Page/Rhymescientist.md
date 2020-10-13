@@ -5,7 +5,7 @@
 
 オリジナリティ溢れる楽曲と、完成度の高いライブパフォーマンスに対し、各方面からの評価も高い。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に結成され、[2006年](../Page/2006年.md "wikilink")7月に[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")より[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏から[コロムビアへ移籍](../Page/日本コロムビア.md "wikilink")。公式なアナウンスはないが、元メンバーの[ベースMIYAのブログ](http://miyagroove.blogspot.jp/2011/01/blog-post.html)によると、2011年1月現在で活動を休止している模様。
+[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")夏から[コロムビアへ移籍](../Page/日本コロムビア.md "wikilink")。公式なアナウンスはないが、元メンバーの[ベースMIYAのブログ](https://miyagroove.blogspot.com/2011/01/blog-post.html)によると、2011年1月現在で活動を休止している模様。
 
 ## 概要・来歴
 

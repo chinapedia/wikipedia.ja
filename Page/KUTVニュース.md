@@ -24,6 +24,8 @@
   - [情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink") （月曜 - 金曜 16:50 - 18:55\[1\]）
   - [ローカルニュース動画配信実施局一覧](../Page/ローカルニュース動画配信実施局一覧.md "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [Yahoo\!ニュース テレビ高知](https://news.yahoo.co.jp/media/kutv) - 動画配信あり

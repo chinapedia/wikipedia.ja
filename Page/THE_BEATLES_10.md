@@ -169,18 +169,75 @@
 
 ## ネット局
 
-2020年7月現在。放送時間の早い順から記載。
+2020年10月現在。放送時間の早い順から記載。
 
-| 放送対象地域                                                | 放送局名                                                             | 放送時間               | 放送基準    |
-| ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------ | ------- |
-| [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink") | [アール・エフ・ラジオ日本](../Page/アール・エフ・ラジオ日本.md "wikilink")               | 毎週日曜 19:00 - 20:00 | **制作局** |
-| [秋田県](../Page/秋田県.md "wikilink")                      | [秋田放送](../Page/秋田放送.md "wikilink")（ABS）                          | 毎週土曜 18:00 - 19:00 | 25時間先行  |
-| [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink")   | [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")（MRO）       |                    |         |
-| [青森県](https://ja.wikipedia.org/wiki/青森県 "wikilink")   | [青森放送](https://ja.wikipedia.org/wiki/青森放送 "wikilink")（RAB）       | 毎週土曜 28:00 - 29:00 | 19時間先行  |
-| [福井県](../Page/福井県.md "wikilink")                      | [福井放送](../Page/福井放送.md "wikilink")（FBC）                          | 毎週日曜 10:00 - 11:00 | 13時間先行  |
-| [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")   | [北日本放送](../Page/北日本放送.md "wikilink")（KNB）                        | 毎週日曜 16:00 - 17:00 | 7時間先行   |
-| [岐阜県](../Page/岐阜県.md "wikilink")                      | [岐阜放送](https://ja.wikipedia.org/wiki/ぎふチャンラジオ "wikilink")（ぎふチャン） | 毎週日曜 19:00 - 20:00 | 同時ネット   |
-| [熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")   | [熊本放送](../Page/熊本放送.md "wikilink")（RKK）                          | 毎週月曜 22:00 - 23:00 | 27時間遅れ  |
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局名</p></th>
+<th><p>放送時間</p></th>
+<th><p>放送基準</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
+<td><p><a href="../Page/アール・エフ・ラジオ日本.md" title="wikilink">アール・エフ・ラジオ日本</a></p></td>
+<td><p>毎週日曜 19:00 - 20:00</p></td>
+<td><p><strong>制作局</strong></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/秋田県.md" title="wikilink">秋田県</a></p></td>
+<td><p><a href="../Page/秋田放送.md" title="wikilink">秋田放送</a>（ABS）</p></td>
+<td><p>毎週土曜 18:00 - 19:00</p></td>
+<td><p>25時間先行</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>（MRO）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>（RAB）</p></td>
+<td><p>毎週日曜 4:00 - 5:00<br />
+（毎週土曜 28:00 - 29:00）</p></td>
+<td><p>15時間先行</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
+<td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
+<td><p>毎週日曜 10:00 - 11:00</p></td>
+<td><p>9時間先行</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
+<td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
+<td><p>毎週日曜 16:00 - 17:00</p></td>
+<td><p>3時間先行</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ぎふチャンラジオ" title="wikilink">岐阜放送</a>（ぎふチャン）</p></td>
+<td><p>毎週日曜 19:00 - 20:00</p></td>
+<td><p>同時ネット</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）</p></td>
+<td><p>毎週月曜 22:00 - 23:00</p></td>
+<td><p>27時間遅れ</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>（SBS）</p></td>
+<td><p>毎週金曜 21:00 - 22:00</p></td>
+<td><p>5日遅れ</p></td>
+</tr>
+</tbody>
+</table>
 
 ## 脚注
 

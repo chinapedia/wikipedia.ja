@@ -103,7 +103,7 @@
 
 [Category:ソニー](https://ja.wikipedia.org/wiki/Category:ソニー "wikilink") [Category:日本のロボット](https://ja.wikipedia.org/wiki/Category:日本のロボット "wikilink") [Category:二足歩行ロボット](https://ja.wikipedia.org/wiki/Category:二足歩行ロボット "wikilink") [Category:アニマトロニクス・ロボット](https://ja.wikipedia.org/wiki/Category:アニマトロニクス・ロボット "wikilink")
 
-1.  [2005年日本国際博覧会　愛知万博「愛・地球博」開幕式出演](http://web.archive.org/web/20070210183835/http://www.sony.co.jp/SonyInfo/QRIO/works/20050331_nf.html)
+1.  [2005年日本国際博覧会　愛知万博「愛・地球博」開幕式出演](https://web.archive.org/web/20070210183835/http://www.sony.co.jp/SonyInfo/QRIO/works/20050331_nf.html)
 2.  [1](http://www.mtvjapan.com/news/music/11370)
 3.  [ソニー、ロボット撤退の舞台裏](https://web.archive.org/web/20150104081045/http://www.asahi.com/articles/ASG5964YMG59UHBI02G.html?ref=yahoo)
 4.  [そしてソニーはロボット開発をやめた](http://business.nikkeibp.co.jp/atcl/interview/16/031800001/061000011/)

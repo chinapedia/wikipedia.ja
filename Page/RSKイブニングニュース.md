@@ -7,11 +7,11 @@
 
 ## 概要
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に放送を開始した、[岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川エリアのローカルニュースを中心に報道するニュース番組である](../Page/香川県.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")改編で『**[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")**』のタイトルの冠を「山陽TV」から「RSK」と改名した。後述の2011年に番組開始40周年記念特番「40歳のイブニングニュース」を放送しており、山陽放送は『イブニングニュース』をひとつの[長寿番組としている](../Page/長寿番組の一覧.md "wikilink")。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に『**[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")**』の番組名で放送を開始した、[岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川エリアの内容を中心に報道するローカルニュース番組である](../Page/香川県.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")改編でタイトルの冠を「山陽TV」から「RSK」へ改題した。後述の2011年に番組開始40周年記念特番「40歳のイブニングニュース」を放送しており、山陽放送は『イブニングニュース』をひとつの[長寿番組としている](../Page/長寿番組の一覧.md "wikilink")。
 
-山陽放送が[地上デジタルテレビ放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")での[試験放送](../Page/試験放送.md "wikilink")を開始した2006年10月16日以降は、[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送となっている（ただし、しばらくの間ニュース取材映像のうち四国支社は16:9[SD](../Page/標準画質映像.md "wikilink")、倉敷支社などは4:3SDだった。現在ではすべてハイビジョンないしは16:9SDになっている）。また、本放送開始の12月1日以降、音声モードが[ステレオに変更されたが](../Page/ステレオ放送.md "wikilink")、スタジオ内は[BGM](../Page/バックグラウンドミュージック.md "wikilink")・[効果音](../Page/効果音.md "wikilink")を含めて[モノラル音源で放送されている現状は変わっていない](https://ja.wikipedia.org/wiki/モノラル放送 "wikilink")。
+山陽放送が[地上デジタルテレビ放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")での[試験放送](../Page/試験放送.md "wikilink")を開始した2006年10月16日以降は、[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送となっている。
 
-岡山・香川エリアのニュース以外にも時折中四国のJNN系各局からの企画特集も組まれたり、また変わったところでは中近東からのリポートも伝えられる。こちらは山陽放送が2012年3月まで[エジプト](../Page/エジプト.md "wikilink")・[カイロ](../Page/カイロ.md "wikilink")に支局を設けていた関係からであり、2011年2月発生した[エジプトの反政府デモではトップニュースで伝えられた](https://ja.wikipedia.org/wiki/2011年エジプト騒乱 "wikilink")。また、全国・世界の重大ニュースについても当番組でも取り上げることがある（2010年11月23日の[韓国](../Page/大韓民国.md "wikilink")・[延坪島砲撃事件](https://ja.wikipedia.org/wiki/延坪島砲撃事件 "wikilink")など）。また、番組内で内閣総理大臣などの記者会見を中継する（JNNのネット回線のまま放送しており、全国ニュース番組をネットしているわけではない。番組開始時間を跨ぐ際は、一度回線が切り替わっている）ことがある。
+岡山・香川エリアのニュース以外にも時折中四国のJNN系各局からの企画特集も組まれたり、また変わったところでは中近東からのリポートも伝えられる。こちらは山陽放送が2012年3月まで[エジプト](../Page/エジプト.md "wikilink")・[カイロ](../Page/カイロ.md "wikilink")に支局を設けていた関係からであり、2011年2月発生した[エジプトの反政府デモではトップニュースで伝えられた](https://ja.wikipedia.org/wiki/2011年エジプト騒乱 "wikilink")。また、全国・世界の重大ニュースについても当番組でも取り上げることがある（2010年11月23日の[韓国](../Page/大韓民国.md "wikilink")・[延坪島砲撃事件](https://ja.wikipedia.org/wiki/延坪島砲撃事件 "wikilink")など）。また、番組内で内閣総理大臣などの記者会見を中継することがある。
 
 ## 放送時間
 

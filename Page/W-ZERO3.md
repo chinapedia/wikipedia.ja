@@ -11,7 +11,7 @@
 
 名前の由来は、「W」は[ウィルコム](../Page/ウィルコム.md "wikilink")の英語表記「WILLCOM」、搭載OSである「[Windows Mobile](../Page/Windows_Mobile.md "wikilink")」、 無線LANとPHS端末機能を表す「Wireless」のそれぞれの頭文字を、「ZERO」は[携帯電話](../Page/携帯電話.md "wikilink")も[PCも超えた新たなものを作り上げていくという意味を](../Page/パーソナルコンピュータ.md "wikilink")、「3」は「第3のコミュニケーションと、[PHS](../Page/PHS.md "wikilink")通信、[PHS](../Page/PHS.md "wikilink")ボイス、[無線LAN](../Page/無線LAN.md "wikilink")という3WAYコミュニケーション」の意味で名づけられた。
 
-基本的には[PocketPC](https://ja.wikipedia.org/wiki/PocketPC "wikilink")の後継OSであるWindows Mobileを搭載した[PDAである](../Page/携帯情報端末.md "wikilink")。また、通信機能を内蔵した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもあり、PHS端末としての[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")機能、[Eメール送受信機能や](../Page/電子メール.md "wikilink")[ライトメール機能も併せ持っている](https://ja.wikipedia.org/wiki/ショートメッセージサービス#ショートメッセージサービス "wikilink")。
+基本的には[PocketPC](https://ja.wikipedia.org/wiki/PocketPC "wikilink")の後継OSであるWindows Mobileを搭載した[PDAである](../Page/携帯情報端末.md "wikilink")。また、通信機能を内蔵した[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")でもあり、PHS端末としての[音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")機能、[Eメール送受信機能や](../Page/電子メール.md "wikilink")[ライトメール機能も併せ持っている](https://ja.wikipedia.org/wiki/ショートメッセージサービス#ショートメッセージサービス "wikilink")。また、[NetBSD](../Page/NetBSD.md "wikilink")が移植\[1\]されている。
 
 PDAとしての大きな特徴として、[タッチパネル](../Page/タッチパネル.md "wikilink")液晶画面の他、入力デバイスとしてバネ付きスライド機構の[QWERTY配列](../Page/QWERTY配列.md "wikilink")[キーボードを搭載している](../Page/キーボード_\(コンピュータ\).md "wikilink")。通常、キーボードは本体下部に格納されており、下部を右にずらすことで現れる。また、[Microsoft ActiveSyncを使ってパソコンとデータを同期することができる](../Page/Microsoft_ActiveSync.md "wikilink")。
 
@@ -25,7 +25,7 @@ PDAとしての大きな特徴として、[タッチパネル](../Page/タッチ
 
 ### WS003SH
 
-[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。初代W-ZERO3。キーボード搭載のスマートフォンとして、その発表と同時に注目を集めた。シャープ製端末はDDIポケット時代には供給実績が無く、ウィルコム初である。予約受付開始日には店頭に200人以上が並び\[1\]、予約で初回出荷分が満了するなど、発売即日に完売する店舗が続出した。ウィルコムストアも注文が殺到したためにサーバが異常に繋がりにくくなり、抽選販売が行われる\[2\]など、長らく低迷が伝えられていたPDA業界では久々のスマッシュヒットとなる機種となった。発売後6か月足らずで販売台数15万台を達成した\[3\]。設定カラーは当初「ブラック」(B)のみで、2006年3月に「シャンパンシルバー」(S)が追加発売された。
+[2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")発売。初代W-ZERO3。キーボード搭載のスマートフォンとして、その発表と同時に注目を集めた。シャープ製端末はDDIポケット時代には供給実績が無く、ウィルコム初である。予約受付開始日には店頭に200人以上が並び\[2\]、予約で初回出荷分が満了するなど、発売即日に完売する店舗が続出した。ウィルコムストアも注文が殺到したためにサーバが異常に繋がりにくくなり、抽選販売が行われる\[3\]など、長らく低迷が伝えられていたPDA業界では久々のスマッシュヒットとなる機種となった。発売後6か月足らずで販売台数15万台を達成した\[4\]。設定カラーは当初「ブラック」(B)のみで、2006年3月に「シャンパンシルバー」(S)が追加発売された。
 
 ### WS004SH
 
@@ -83,13 +83,13 @@ W-ZERO3</p></th>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/オペレーティングシステム.md" title="wikilink">OS</a></p></td>
-<td><p><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile</a> 5.0[4]</p></td>
+<td><p><a href="../Page/Windows_Mobile.md" title="wikilink">Windows Mobile</a> 5.0[5]</p></td>
 <td><p>Windows<br />
-Mobile 6[5]</p></td>
+Mobile 6[6]</p></td>
 <td><p>Windows<br />
-Mobile 6.1[6]</p></td>
+Mobile 6.1[7]</p></td>
 <td><p>Windows<br />
-Mobile 6.5[7]</p></td>
+Mobile 6.5[8]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -144,10 +144,10 @@ Mobile 6.5[7]</p></td>
 <tr class="even">
 <td><p>ユーザーエリア</p></td>
 <td><p>不明</p></td>
-<td><p>197MB[8]</p></td>
+<td><p>197MB[9]</p></td>
 <td><p>60MB</p></td>
-<td><p>155MB[9]</p></td>
-<td><p>135MB[10]</p></td>
+<td><p>155MB[10]</p></td>
+<td><p>135MB[11]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/SDRAM.md" title="wikilink">SDRAM</a>（ワークエリア）</p></td>
@@ -278,13 +278,13 @@ HSUPA 5.7Mbps、</p></td>
 </tr>
 <tr class="even">
 <td><p>連続待受時間</p></td>
-<td><p>200時間[11]</p></td>
-<td><p>500時間[12]<br />
-300時間[13]</p></td>
-<td><p>420時間[14]<br />
-250時間[15]</p></td>
-<td><p>400時間[16]<br />
-200時間[17]</p></td>
+<td><p>200時間[12]</p></td>
+<td><p>500時間[13]<br />
+300時間[14]</p></td>
+<td><p>420時間[15]<br />
+250時間[16]</p></td>
+<td><p>400時間[17]<br />
+200時間[18]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -299,8 +299,8 @@ HSUPA 5.7Mbps、</p></td>
 <td><p>カメラ有効画素数</p></td>
 <td><p>133万画素</p></td>
 <td><p>131万画素</p></td>
-<td><p>200万画素[18]</p></td>
-<td><p>500万画素[19]</p></td>
+<td><p>200万画素[19]</p></td>
+<td><p>500万画素[20]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -308,9 +308,9 @@ HSUPA 5.7Mbps、</p></td>
 <td><p>Microsoft IME</p></td>
 <td><p>Microsoft IME、ATOK</p></td>
 <td><p>Microsoft IME、<br />
-<a href="https://ja.wikipedia.org/wiki/FSKAREN" title="wikilink">ケータイShoin</a>[20]</p></td>
+<a href="https://ja.wikipedia.org/wiki/FSKAREN" title="wikilink">ケータイShoin</a>[21]</p></td>
 <td><p>Microsoft IME、<br />
-ケータイShoin[21]</p></td>
+ケータイShoin[22]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -324,8 +324,8 @@ HSUPA 5.7Mbps、</p></td>
 </tr>
 <tr class="odd">
 <td><p>質量（充電池含む）</p></td>
-<td><p>220g[22]</p></td>
-<td><p>175g[23]</p></td>
+<td><p>220g[23]</p></td>
+<td><p>175g[24]</p></td>
 <td><p>157g</p></td>
 <td><p>135g</p></td>
 <td><p>158g</p></td>
@@ -356,26 +356,27 @@ HSUPA 5.7Mbps、</p></td>
 
 [Category:スマートフォン](https://ja.wikipedia.org/wiki/Category:スマートフォン "wikilink") [Category:PHS端末_(ウィルコム)](https://ja.wikipedia.org/wiki/Category:PHS端末_\(ウィルコム\) "wikilink") [Category:携帯電話端末_(シャープ)](https://ja.wikipedia.org/wiki/Category:携帯電話端末_\(シャープ\) "wikilink") [Category:Windows_CE端末_(シャープ)](https://ja.wikipedia.org/wiki/Category:Windows_CE端末_\(シャープ\) "wikilink") [Category:2005年のハードウェア](https://ja.wikipedia.org/wiki/Category:2005年のハードウェア "wikilink")
 
-1.  [ITmedia +D モバイル：「W-ZERO3」予約に行列、200人](http://plusd.itmedia.co.jp/mobile/articles/0512/09/news025.html)
-2.  [ITmedia +D モバイル：「W-ZERO3」予約でウィルコムストアがパンク](http://plusd.itmedia.co.jp/mobile/articles/0512/12/news027.html)
-3.  [W-ZERO3の販売台数は15万台、夏モデルは別の機会に](http://k-tai.impress.co.jp/cda/article/news_toppage/29529.html) - ケータイWatch
-4.  Microsoft Windows Mobile 5.0 software for Pocket PC 日本語版
-5.  Microsoft Windows Mobile 6 Classic 日本語版
-6.  Microsoft Windows Mobile 6.1 Classic 日本語版
-7.  Microsoft Windows Mobile 6.5 Professional 日本語版
-8.  出荷時の空き容量は169MB
-9.  出荷時の空き容量は107MB
-10. 出荷時の空き容量は60MB
-11. 電波状態ランプ消灯時
-12.
-13. 電波状態ランプ点灯時
-14.
+1.
+2.  [ITmedia +D モバイル：「W-ZERO3」予約に行列、200人](http://plusd.itmedia.co.jp/mobile/articles/0512/09/news025.html)
+3.  [ITmedia +D モバイル：「W-ZERO3」予約でウィルコムストアがパンク](http://plusd.itmedia.co.jp/mobile/articles/0512/12/news027.html)
+4.  [W-ZERO3の販売台数は15万台、夏モデルは別の機会に](http://k-tai.impress.co.jp/cda/article/news_toppage/29529.html) - ケータイWatch
+5.  Microsoft Windows Mobile 5.0 software for Pocket PC 日本語版
+6.  Microsoft Windows Mobile 6 Classic 日本語版
+7.  Microsoft Windows Mobile 6.1 Classic 日本語版
+8.  Microsoft Windows Mobile 6.5 Professional 日本語版
+9.  出荷時の空き容量は169MB
+10. 出荷時の空き容量は107MB
+11. 出荷時の空き容量は60MB
+12. 電波状態ランプ消灯時
+13.
+14. 電波状態ランプ点灯時
 15.
-16. W-CDMA OFF時
-17. W-CDMA ON時
-18. オートフォーカス付
-19. 手ブレ補正、オートフォーカス対応
-20. ケータイShoin6 for WS020SH
-21. ケータイShoin for WS027SH
-22. スタイラス含む
-23.
+16.
+17. W-CDMA OFF時
+18. W-CDMA ON時
+19. オートフォーカス付
+20. 手ブレ補正、オートフォーカス対応
+21. ケータイShoin6 for WS020SH
+22. ケータイShoin for WS027SH
+23. スタイラス含む
+24.

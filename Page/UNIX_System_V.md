@@ -5,7 +5,7 @@
 
 ## 概要
 
-本来は[AT\&T](../Page/AT&T.md "wikilink")が開発し[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に最初にリリースした。4つの主要バージョンがリリースされている（Release 1, 2, 3, 4）。その中でもSystem V Release 4、通称SVR4は最も成功したバージョンであり、いくつかの一般的なUNIXの機能の起源でもある。例えばシステムの立ち上がりとシャットダウンを制御する「SysV [init](https://ja.wikipedia.org/wiki/init "wikilink") スクリプト」（`/etc/init.d`）などである。また、このシステムは *[System V Interface Definition](../Page/System_V_Interface_Definition.md "wikilink")* (SVID) の元になっている。System V がどのように動作するかを定義したものである。
+本来は[AT\&T](../Page/AT&T.md "wikilink")が開発し[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")に最初にリリースした。4つの主要バージョンがリリースされている（Release 1, 2, 3, 4）。その中でもSystem V Release 4、通称SVR4は最も成功したバージョンであり、いくつかの一般的なUNIXの機能の起源でもある。例えばシステムの立ち上がりとシャットダウンを制御する「SysV [init](https://ja.wikipedia.org/wiki/init "wikilink") スクリプト」（`/etc/init.d`）などである。また、このシステムは *[System V Interface Definition](../Page/System_V_Interface_Definition.md "wikilink")* (SVID) の元になっている。System V がどのように動作するかを[定義](https://ja.wikipedia.org/wiki/定義 "wikilink")したものである。
 
 AT\&Tも System V が動作するハードウェアを販売していたが、ほとんどの顧客は、再販業者がAT\&Tの[リファレンス実装](../Page/リファレンス実装.md "wikilink")に基づいて実装したものを使っていた。 有名な System V の派生品としては、System V Release 3 をベースとしている[IBM](../Page/IBM.md "wikilink")の[AIX](../Page/AIX.md "wikilink")や[OpenServer](https://ja.wikipedia.org/wiki/OpenServer "wikilink")、System V Release 4 をベースにしている[サン・マイクロシステムズ](../Page/サン・マイクロシステムズ.md "wikilink")の[Solaris](../Page/Solaris.md "wikilink")や[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink")の[HP-UX](../Page/HP-UX.md "wikilink")がある。他にも[NEC](https://ja.wikipedia.org/wiki/NEC "wikilink")の[EWS-UX](../Page/EWS-UX.md "wikilink")や[UP-UX](../Page/UP-UX.md "wikilink")とその後継OSの[UX/4800](https://ja.wikipedia.org/wiki/UX/4800 "wikilink")が System V Release 4 をベースにしていた。
 

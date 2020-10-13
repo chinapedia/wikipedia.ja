@@ -809,6 +809,13 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
   - 『黄金騎士牙狼』
     3Dアクション。2006年4月20日に[PlayStation 2で発売](../Page/PlayStation_2.md "wikilink")。
     因みに『VERSUS ROAD』では[アーケードゲーム](../Page/アーケードゲーム.md "wikilink")として登場する。
+  - 『[モンスターハンターダブルクロス](https://ja.wikipedia.org/wiki/モンスターハンターダブルクロス "wikilink")』
+    [ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")用ゲームソフト。2017年3月にコラボイベントが開催。
+    なお、本コラボに際してコラボロゴを雨宮慶太が書き下ろしている。
+  - 『[ファイナルファンタジーXIV](https://ja.wikipedia.org/wiki/ファイナルファンタジーXIV "wikilink")』
+    [Windows用オンラインゲーム](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")。2017年1月にコラボイベントが開催。
+  - 『[スーパーロボット大戦X-Ω](https://ja.wikipedia.org/wiki/スーパーロボット大戦X-Ω "wikilink")』
+    [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink") / [Android用アプリゲーム](../Page/Android_\(オペレーティングシステム\).md "wikilink")。シリーズ15周年を記念して、2020年10月にコラボイベントが開催\[77\]。
 
 ### フィギュア
 
@@ -1001,7 +1008,7 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 
 :\* [牙狼〈GARO〉ショップ](http://www.garoshop.jp/)（牙狼〈GARO〉ショップ公式サイト） - 牙狼〈GARO〉グッズ専門オンラインショップ
 
-[Category:牙狼-GARO-](https://ja.wikipedia.org/wiki/Category:牙狼-GARO- "wikilink") [Category:テレビ東京の特撮番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の特撮番組 "wikilink") [Category:テレビ東京土曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京土曜未明の深夜ドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:ホラードラマ](https://ja.wikipedia.org/wiki/Category:ホラードラマ "wikilink") [Category:エクソシスム・悪霊ばらいを題材とした作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材とした作品 "wikilink") [Category:パワードスーツ・プロテクターを題材とした作品](https://ja.wikipedia.org/wiki/Category:パワードスーツ・プロテクターを題材とした作品 "wikilink")
+[Category:牙狼-GARO-](https://ja.wikipedia.org/wiki/Category:牙狼-GARO- "wikilink") [Category:テレビ東京の特撮番組](https://ja.wikipedia.org/wiki/Category:テレビ東京の特撮番組 "wikilink") [Category:テレビ東京土曜未明の深夜ドラマ](https://ja.wikipedia.org/wiki/Category:テレビ東京土曜未明の深夜ドラマ "wikilink") [Category:2000年代の特撮作品](https://ja.wikipedia.org/wiki/Category:2000年代の特撮作品 "wikilink") [Category:2005年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2005年のテレビドラマ "wikilink") [Category:深夜特撮](https://ja.wikipedia.org/wiki/Category:深夜特撮 "wikilink") [Category:ホラードラマ](https://ja.wikipedia.org/wiki/Category:ホラードラマ "wikilink") [Category:エクソシスム・悪霊ばらいを題材としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材としたテレビドラマ "wikilink") [Category:パワードスーツ・プロテクターを題材とした作品](https://ja.wikipedia.org/wiki/Category:パワードスーツ・プロテクターを題材とした作品 "wikilink")
 
 1.
 2.
@@ -1079,3 +1086,4 @@ GARO Project名義のバージョンでは鋼牙役の[小西大樹](../Page/小
 74.
 75.
 76.
+77.

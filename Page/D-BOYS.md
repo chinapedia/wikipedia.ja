@@ -73,28 +73,20 @@ D2合流以前のD-BOYSメンバーのほとんどは、「D-BOYSオーディシ
 <td><p><small>D☆DATEメンバー</small></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="../Page/柳下大.md" title="wikilink">柳下大</a></p></td>
-<td><p>やなぎした とも</p></td>
-<td><p>1988年6月3日（歳）</p></td>
-<td><p>2006年12月</p></td>
-<td><p><small>D☆DATEメンバー<br />
-第3回D−BOYSオーディショングランプリ</small></p></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/碓井将大.md" title="wikilink">碓井将大</a></p></td>
 <td><p>うすい まさひろ</p></td>
 <td><p>1991年12月3日（歳）</p></td>
 <td><p>2007年12月</p></td>
 <td><p><small>第4回D−BOYSオーディショングランプリ</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/山田悠介_(俳優)" title="wikilink">山田悠介</a></p></td>
 <td><p>やまだ ゆうすけ</p></td>
 <td><p>1987年7月29日（歳）</p></td>
 <td><p>2009年7月</p></td>
 <td><p><small>第5回D−BOYSオーディショングランプリ</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/堀井新太" title="wikilink">堀井新太</a></p></td>
 <td><p>ほりい あらた</p></td>
 <td><p>1992年6月26日（歳）</p></td>
@@ -102,84 +94,84 @@ D2合流以前のD-BOYSメンバーのほとんどは、「D-BOYSオーディシ
 <td><p><small>D☆DATEメンバー<br />
 D☆DATE新メンバーオーディショングランプリ</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/西井幸人" title="wikilink">西井幸人</a></p></td>
 <td><p>にしい ゆきと</p></td>
 <td><p>1995年6月14日（歳）</p></td>
 <td><p>2013年10月[14]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/三津谷亮" title="wikilink">三津谷亮</a></p></td>
 <td><p>みつや りょう</p></td>
 <td><p>1988年2月11日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/陳内将" title="wikilink">陳内将</a></p></td>
 <td><p>じんない しょう</p></td>
 <td><p>1988年1月16日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/荒井敦史" title="wikilink">荒井敦史</a></p></td>
 <td><p>あらい あつし</p></td>
 <td><p>1993年5月23日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/池岡亮介" title="wikilink">池岡亮介</a></p></td>
 <td><p>いけおか りょうすけ</p></td>
 <td><p>1993年9月3日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/山田裕貴" title="wikilink">山田裕貴</a></p></td>
 <td><p>やまだ ゆうき</p></td>
 <td><p>1990年9月18日（歳）</p></td>
 <td><p><small>D☆DATE新メンバーオーディションD-BOYS部門グランプリ</small></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/前山剛久" title="wikilink">前山剛久</a></p></td>
 <td><p>まえやま たかひさ</p></td>
 <td><p>1991年2月7日（歳）</p></td>
 <td><p><small>D☆DATE新メンバーオーディションファイナリスト</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/大久保祥太郎" title="wikilink">大久保祥太郎</a></p></td>
 <td><p>おおくぼ しょうたろう</p></td>
 <td><p>1995年8月27日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/志尊淳" title="wikilink">志尊淳</a></p></td>
 <td><p>しそん じゅん</p></td>
 <td><p>1995年3月5日（歳）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎秋人" title="wikilink">宮崎秋人</a></p></td>
 <td><p>みやざき しゅうと</p></td>
 <td><p>1990年9月10日（歳）</p></td>
 <td><p>2015年10月</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/中尾暢樹" title="wikilink">中尾暢樹</a></p></td>
 <td><p>なかお まさき</p></td>
 <td><p>1996年11月27日（歳）</p></td>
 <td><p>2016年1月</p></td>
 <td><p><small>D-BOYS最年少</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -191,16 +183,18 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 
 ### 過去のメンバー
 
+備考にある情報は離籍した時期のもの。その後時間を経ての事務所移籍、引退からの活動再開、といった例も少なくない。詳細は各個人の記事を参照。
+
 | 名前                                                        | よみ         | 脱退時期              | 卒業/脱退                                                                                 | 加入時期           | 備考                                                                                                 |
 | --------------------------------------------------------- | ---------- | ----------------- | ------------------------------------------------------------------------------------- | -------------- | -------------------------------------------------------------------------------------------------- |
 | [一太郎](../Page/一太郎_\(俳優\).md "wikilink")                   | いちたろう      | 2005年3月           | 卒業                                                                                    | 結成時            | <small>[グランドスラム](../Page/グランドスラム.md "wikilink")に移籍</small>                                         |
-| [中村勝樹](https://ja.wikipedia.org/wiki/中村勝樹 "wikilink")     | なかむら かつき   | 2005年4月1日\[15\]   | 脱退\[16\]                                                                              | 2004年10月       | 事務所離籍                                                                                              |
-| [鐵進太郎](https://ja.wikipedia.org/wiki/鐵進太郎 "wikilink")     | てつ しんたろう   | 2004年10月          | 事務所離籍                                                                                 |                |                                                                                                    |
+| 中村勝樹                                                      | なかむら かつき   | 2005年4月1日\[15\]   | 脱退\[16\]                                                                              | 2004年10月       | 事務所離籍                                                                                              |
+| 鐵進太郎                                                      | てつ しんたろう   | 2004年10月          | 事務所離籍                                                                                 |                |                                                                                                    |
 | [皆川佑馬](../Page/皆川佑馬.md "wikilink")                        | みなかわ ゆうま   | 2007年2月1日\[17\]   | 脱退                                                                                    | 2004年10月       | <small>芸能界引退につき事務所離籍</small>                                                                       |
 | [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")       | しろた ゆう     | 2008年7月6日         | 卒業                                                                                    | 2004年10月       |                                                                                                    |
 | [熊井幸平](../Page/熊井幸平.md "wikilink")                        | くまい こうへい   | 2008年10月1日\[18\]  | 脱退                                                                                    | 2005年12月       | <small>[オフィスシュウ](https://ja.wikipedia.org/wiki/オフィスシュウ "wikilink")に移籍</small>                      |
 | [中村昌也](../Page/中村昌也.md "wikilink")                        | なかむら まさや   | 2010年4月6日\[19\]   | 脱退\[20\]                                                                              | 2007年7月        |                                                                                                    |
-| [中川真吾](../Page/中川真吾.md "wikilink")                        | なかがわ しんご   | 2010年11月30日\[21\] | 脱退\[22\]                                                                              | 2005年12月       | 事務所離籍                                                                                              |
+| [中川真吾](../Page/中川真吾.md "wikilink")                        | なかがわ しんご   | 2010年11月30日\[21\] | 脱退\[22\]                                                                              | 2005年12月       | <small>事務所離籍</small>                                                                               |
 | [中村優一](../Page/中村優一.md "wikilink")                        | なかむら ゆういち  | 2011年11月8日        | 脱退\[23\]                                                                              | 2004年10月       | <small>芸能界引退につき事務所離籍</small>                                                                       |
 | [遠藤雄弥](../Page/遠藤雄弥.md "wikilink")                        | えんどう ゆうや   | 2012年9月17日\[24\]  | 卒業\[25\]                                                                              | 結成時            |                                                                                                    |
 | [加治将樹](../Page/加治将樹.md "wikilink")                        | かじ まさき     | 2004年10月          |                                                                                       |                |                                                                                                    |
@@ -216,8 +210,9 @@ D☆DATE新メンバーオーディショングランプリ</small></p></td>
 | [三上真史](../Page/三上真史.md "wikilink")                        | みかみ まさし    | 2017年4月30日        | 卒業                                                                                    | 2007年12月       |                                                                                                    |
 | [土屋シオン](../Page/土屋シオン.md "wikilink")                      | つちや しおん    | 2018年9月28日        | 卒業                                                                                    | 2013年10月\[32\] | <small>事務所離籍、卒業後はフリー活動</small>                                                                     |
 | [根岸拓哉](https://ja.wikipedia.org/wiki/根岸拓哉 "wikilink")     | ねぎし たくや    | 2018年12月26日       | 卒業                                                                                    | 2013年10月\[33\] | <small>事務所離籍、卒業後はフリー活動</small>                                                                     |
-| [白又敦](../Page/白又敦.md "wikilink")                          | しらまた あつし   | 2019年3月29日        | 卒業                                                                                    | 2013年10月\[34\] | <small>事務所離籍、卒業後はフリー活動</small>                                                                     |
+| [白又敦](../Page/白又敦.md "wikilink")                          | しらまた あつし   | 2019年3月29日        | 卒業                                                                                    | 2013年10月\[34\] | <small>[ジースター・プロ](https://ja.wikipedia.org/wiki/ジースター・プロ "wikilink")に移籍</small>                    |
 | [牧田哲也](../Page/牧田哲也.md "wikilink")                        | まきた てつや    | 2020年7月31日        | 卒業                                                                                    | 2007年7月        | <small>[カクトエンタテインメントに移籍](https://ja.wikipedia.org/wiki/リバースプロジェクト#カクトエンタテインメント "wikilink")</small> |
+| [柳下大](../Page/柳下大.md "wikilink")                          | やなぎした とも   | 2020年9月30日        | 言及なし                                                                                  | 2006年12月       | <small>芸能界引退につき事務所離籍</small>                                                                       |
 
 ### D-BOYSオーディション
 

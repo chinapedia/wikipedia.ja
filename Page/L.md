@@ -43,6 +43,7 @@
   - [非SI接頭辞](../Page/非SI接頭辞.md "wikilink")（ジム・ブロワーズ (Jim Blowers) の提案）
       - ルマ (luma)(10<sup>63</sup>)（大文字）
       - ルント (lunto)(10<sup>−63</sup>)（小文字）
+  - [二十一を意味する数字](../Page/21.md "wikilink")。[三十二進法](../Page/三十二進法.md "wikilink")など、二十二進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において二十一（[十進法](../Page/十進法.md "wikilink")の**21**）を一桁で表すために用いられる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いないことがあり、この場合、[J](../Page/J.md "wikilink") が[十八](../Page/18.md "wikilink")、[K](https://ja.wikipedia.org/wiki/K "wikilink") が[十九](https://ja.wikipedia.org/wiki/19 "wikilink")、L が[二十を意味する](../Page/20.md "wikilink")。
   - [生物](../Page/生物.md "wikilink")の[学名](https://ja.wikipedia.org/wiki/学名 "wikilink")を表記する際に、[カール・フォン・リンネ](../Page/カール・フォン・リンネ.md "wikilink")の略称として使われる。
   - [ラグランジュ点](../Page/ラグランジュ点.md "wikilink") (**L**agrangian point) の略号。
   - [L（計算複雑性理論）](https://ja.wikipedia.org/wiki/L_\(計算複雑性理論\) "wikilink") - [計算複雑性理論](https://ja.wikipedia.org/wiki/計算複雑性理論 "wikilink")において[決定性チューリングマシンが](../Page/チューリングマシン.md "wikilink")[対数](../Page/対数.md "wikilink")領域で解くことができる[決定問題](https://ja.wikipedia.org/wiki/決定問題 "wikilink")の[複雑性クラス](https://ja.wikipedia.org/wiki/複雑性クラス "wikilink")

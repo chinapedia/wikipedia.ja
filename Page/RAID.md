@@ -1,7 +1,7 @@
 > この記事は[RAID](https://ja.wikipedia.org/wiki/RAID)から翻訳されています。
 
 
-**RAID**（Redundant Arrays of Inexpensive Disks、または Redundant Arrays of Independent Disks、**レイド**）\[1\]は、複数台の[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")を組み合わせることで仮想的な1台のハードディスクとして運用し冗長性を向上させる技術\[2\]。[ディスクアレイ](../Page/ディスクアレイ.md "wikilink")の代表的な実装形態で、主に信頼性・可用性の向上を目的として用いられるものである。[バックアップ](../Page/バックアップ.md "wikilink")と混同される場合もあるが､RAIDはあくまでも運用に対しての冗長性を確保するものでありバックアップとは異なる点に注意が必要｡
+**RAID**（Redundant Arrays of Inexpensive Disks、または Redundant Arrays of Independent Disks、**レイド**）\[1\]は、複数台の[ハードディスク](https://ja.wikipedia.org/wiki/ハードディスク "wikilink")を組み合わせることで仮想的な1台のハードディスクとして運用し冗長性を向上させる技術\[2\]。[ディスクアレイ](../Page/ディスクアレイ.md "wikilink")の代表的な実装形態で、主に信頼性・可用性の向上を目的として用いられるものである。[バックアップ](../Page/バックアップ.md "wikilink")と混同される場合もあるが､RAIDはあくまでも運用に対しての[冗長性を確保するものでありバックアップとは異なる点に注意が必要](../Page/冗長性_\(情報理論\).md "wikilink")｡
 
 本記事において、「装置」という語句を用いるが、これはRAIDが取り付けられる機器（サーバ・ワークステーション・パソコンなど）の総称を意味する。
 

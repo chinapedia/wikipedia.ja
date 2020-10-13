@@ -146,31 +146,51 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ユー・タウワン" title="wikilink">ユー・タウワン</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トン・インチャン" title="wikilink">トン・インチャン</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海上警察隊員</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベニー・ライ" title="wikilink">ベニー・ライ</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マン・キーワン" title="wikilink">マン・キーワン</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>酒場の給仕</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トー・シウミン" title="wikilink">トー・シウミン</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>陸上警察隊員</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ユー・タウワン" title="wikilink">ユー・タウワン</a></p></td>
-<td></td>
-</tr>
 <tr class="odd">
+<td><p>その他</p></td>
+<td></td>
+<td><p><a href="../Page/徳丸完.md" title="wikilink">徳丸完</a><br />
+<a href="../Page/亀井三郎.md" title="wikilink">亀井三郎</a><br />
+<a href="../Page/郷里大輔.md" title="wikilink">郷里大輔</a><br />
+<a href="../Page/仲木隆司.md" title="wikilink">仲木隆司</a><br />
+<a href="../Page/稲葉実.md" title="wikilink">稲葉実</a><br />
+<a href="../Page/清川元夢.md" title="wikilink">清川元夢</a><br />
+<a href="../Page/石森達幸.md" title="wikilink">石森達幸</a><br />
+<a href="../Page/目黒光祐.md" title="wikilink">目黒光祐</a><br />
+富田晃<br />
+<a href="../Page/鈴木勝美.md" title="wikilink">鈴木勝美</a><br />
+<a href="../Page/福士秀樹.md" title="wikilink">福士秀樹</a><br />
+<a href="../Page/大滝進矢.md" title="wikilink">大滝進矢</a><br />
+<a href="../Page/小川里永子.md" title="wikilink">小川里永子</a><br />
+<a href="../Page/江原正士.md" title="wikilink">江原正士</a><br />
+滝田絵子<br />
+<a href="../Page/木藤聡子.md" title="wikilink">木藤聡子</a></p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -189,69 +209,71 @@
   - 副監督：[チャオ・ルーチャン](https://ja.wikipedia.org/wiki/チャオ・ルーチャン "wikilink")、エドワード・タン
   - 製作会社：[ゴールデン・ハーベスト](../Page/ゴールデン・ハーベスト.md "wikilink")、ゴールデン・ウェイ・フィルムズ
 
-## 受賞
-
-  - 【第四回香港電影金像獎】最佳動作設計：成家班
-
-## 日本語吹き替え版スタッフ
+### 日本語版スタッフ
 
 <table>
-<thead>
-<tr class="header">
-<th><p>役職</p></th>
-<th><p>スタッフ</p></th>
-</tr>
-</thead>
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>版</p></td>
 <td><p><a href="../Page/WOWOW.md" title="wikilink">WOWOW</a>版</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>演出</p></td>
+<td></td>
 <td><p><a href="../Page/春日正伸.md" title="wikilink">春日正伸</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>翻訳</p></td>
+<td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平田勝茂" title="wikilink">平田勝茂</a></p></td>
 </tr>
 <tr class="even">
 <td><p>調整</p></td>
+<td></td>
 <td><p>遠西勝三</p></td>
 </tr>
 <tr class="odd">
 <td><p>効果</p></td>
+<td></td>
 <td><p>南部満治<br />
 大橋勝次</p></td>
 </tr>
 <tr class="even">
 <td><p>選曲</p></td>
+<td></td>
 <td><p>河合直</p></td>
 </tr>
 <tr class="odd">
 <td><p>録音</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>解説</p></td>
-<td><p>淀川長治</p></td>
+<td></td>
+<td><p><a href="../Page/淀川長治.md" title="wikilink">淀川長治</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>『プロジェクトV』メンバー</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>製作</p></td>
+<td></td>
 <td><p>ニュージャパンフィルム</p></td>
 </tr>
 <tr class="odd">
 <td><p>初回放送</p></td>
+<td></td>
 <td><p>1987年1月4日<br />
 『<a href="../Page/日曜洋画劇場.md" title="wikilink">日曜洋画劇場</a>』[2]<br />
 ノーカット</p></td>
 </tr>
 <tr class="even">
 <td><p>再放送</p></td>
+<td></td>
 <td><p>1987年12月26日<br />
 『<a href="../Page/ゴールデン洋画劇場.md" title="wikilink">ゴールデン洋画劇場</a>』</p></td>
 </tr>
@@ -260,6 +282,10 @@
 
   - テレビ朝日版：[正月](../Page/正月.md "wikilink")1作目としてノーカット版放送後、再放送は2時間枠にカットされ、フジテレビで頻繁にリピートされた。ユニバーサルより発売のデジタル・リマスター版[DVD](../Page/DVD.md "wikilink")、パラマウントより2010年に発売された廉価版DVDには再放送2時間枠カット版が収録された。2012年発売の「日本語吹替収録版DVD」と「デジタル・リマスター版[Blu-ray](../Page/Blu-ray_Disc.md "wikilink")」と2014年発売の「エクストリーム・エディション(Blu-ray)」には初回放送ノーカット版が収録された。しかし、Blu-rayではエンディングのNG集冒頭の石丸のセリフはカットされているが日本語吹替収録版DVDでは収録されている。そのため、エンディング冒頭のセリフまで収録されている完全版が収録されているのは「日本語吹替収録版DVD」しかない。
   - WOWOW版：2014年発売の「エクストリーム・エディション(Blu-ray)」に収録。
+
+### 受賞
+
+  - 【第四回香港電影金像獎】最佳動作設計：成家班
 
 ## 日本公開版
 

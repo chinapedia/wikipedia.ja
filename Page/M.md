@@ -66,6 +66,7 @@
   - [修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink") (master) の略。M1と表記されれば修士課程1年生の意。
   - [行列環](https://ja.wikipedia.org/wiki/行列環 "wikilink")
   - [数学](../Page/数学.md "wikilink")においては右下添え字を伴って[メルセンヌ数](../Page/メルセンヌ数.md "wikilink")を表す。
+  - [二十二を意味する数字](../Page/22.md "wikilink")。[三十二進法](../Page/三十二進法.md "wikilink")など、二十三進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において二十二（[十進法](../Page/十進法.md "wikilink")の**22**）を一桁で表すために用いられる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いないことがあり、この場合、[J](../Page/J.md "wikilink") が[十八](../Page/18.md "wikilink")、[K](https://ja.wikipedia.org/wiki/K "wikilink") が[十九](https://ja.wikipedia.org/wiki/19 "wikilink")、[L](../Page/L.md "wikilink") が[二十](../Page/20.md "wikilink")、M が[二十一を意味する](../Page/21.md "wikilink")。
 
 #### 工学・産業
 

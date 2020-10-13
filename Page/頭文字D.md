@@ -3,7 +3,7 @@
 
 『**頭文字D**』（イニシャル・ディー、英語表記: **Initial D**） は、[しげの秀一](../Page/しげの秀一.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。また、それを原作にした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")と[映画](../Page/映画.md "wikilink")を指す。通称「**イニD**」\[1\]。『[週刊ヤングマガジン](https://ja.wikipedia.org/wiki/週刊ヤングマガジン "wikilink")』（[講談社](../Page/講談社.md "wikilink")）にて、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")30号から[2013年](../Page/2013年.md "wikilink")35号まで連載された。
 
-コミックス累計発行部数は47巻の時点で約4800万部を突破\[2\]。アニメの関連CDは70万枚、ビデオとDVDは合わせて50万本を販売している\[3\]。
+コミックス累計発行部数は、2015年4月時点で約4860万部を突破\[2\]。アニメの関連CDは70万枚、ビデオとDVDは合わせて50万本を販売している\[3\]。
 
 ## 概要
 

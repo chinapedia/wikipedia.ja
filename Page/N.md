@@ -76,6 +76,7 @@
   - [海王星](../Page/海王星.md "wikilink") ()
   - [正規化群](https://ja.wikipedia.org/wiki/正規化群 "wikilink")
   - [ティッツ系](../Page/ティッツ系.md "wikilink")（(*B*, *N*) 対）の *N*
+  - [二十三を意味する数字](../Page/23.md "wikilink")。[三十二進法](../Page/三十二進法.md "wikilink")など、二十四進法以上<small>（参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink")）</small>において二十三（[十進法](../Page/十進法.md "wikilink")の**23**）を一桁で表すために用いられる。ただし、アルファベットの [I](../Page/I.md "wikilink") と数字の [1](https://ja.wikipedia.org/wiki/1 "wikilink") が混同し易いために、アルファベットの I を用いないことがあり、この場合、[J](../Page/J.md "wikilink") が[十八](../Page/18.md "wikilink")、[K](https://ja.wikipedia.org/wiki/K "wikilink") が[十九](https://ja.wikipedia.org/wiki/19 "wikilink")、…、N が[二十二を意味する](../Page/22.md "wikilink")。
 
 #### 工学
 

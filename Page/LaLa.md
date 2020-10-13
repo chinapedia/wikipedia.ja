@@ -22,7 +22,6 @@
   - [可愛いたぬきも楽じゃない](https://ja.wikipedia.org/wiki/可愛いたぬきも楽じゃない "wikilink")（[河口けい](https://ja.wikipedia.org/wiki/河口けい "wikilink")）
   - [君は春に目を醒ます](https://ja.wikipedia.org/wiki/君は春に目を醒ます "wikilink")（[縞あさと](https://ja.wikipedia.org/wiki/縞あさと "wikilink")）
   - [この凶愛は天災です](https://ja.wikipedia.org/wiki/この凶愛は天災です "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）
-  - [執事と主は結ばれません](https://ja.wikipedia.org/wiki/執事と主は結ばれません "wikilink")（[角野ユウ](https://ja.wikipedia.org/wiki/角野ユウ "wikilink")）
   - [スイートバニラビーンズ](https://ja.wikipedia.org/wiki/スイートバニラビーンズ "wikilink")（[八神星子](https://ja.wikipedia.org/wiki/八神星子 "wikilink")）
   - [末永くよろしくお願いします](https://ja.wikipedia.org/wiki/末永くよろしくお願いします "wikilink")（[池ジュン子](https://ja.wikipedia.org/wiki/池ジュン子 "wikilink")）　
   - [転生悪女の黒歴史](https://ja.wikipedia.org/wiki/転生悪女の黒歴史 "wikilink")（[冬夏アキハル](https://ja.wikipedia.org/wiki/冬夏アキハル "wikilink")）
@@ -30,6 +29,7 @@
   - [夏目友人帳](https://ja.wikipedia.org/wiki/夏目友人帳 "wikilink")（[緑川ゆき](../Page/緑川ゆき.md "wikilink")）
   - [鳩子さんは時々魔法少女](https://ja.wikipedia.org/wiki/鳩子さんは時々魔法少女 "wikilink")（[可歌まと](https://ja.wikipedia.org/wiki/可歌まと "wikilink")）
   - [マリッジパープル](https://ja.wikipedia.org/wiki/マリッジパープル "wikilink")（[林みかせ](../Page/林みかせ.md "wikilink")）
+  - [ミミズクと夜の王](../Page/ミミズクと夜の王.md "wikilink")（[鈴木ゆう](https://ja.wikipedia.org/wiki/鈴木ゆう "wikilink")、原作：[紅玉いづき](../Page/紅玉いづき.md "wikilink")）
   - [4ジゲン](../Page/4ジゲン.md "wikilink")（[にざかな](../Page/にざかな.md "wikilink")）
   - [リバース×リバース](https://ja.wikipedia.org/wiki/リバース×リバース "wikilink")（[天乃忍](https://ja.wikipedia.org/wiki/天乃忍 "wikilink")）
 
@@ -89,6 +89,7 @@
   - [櫻の園](../Page/櫻の園_\(漫画\).md "wikilink")（[吉田秋生](../Page/吉田秋生.md "wikilink")）
   - [砂漠のハレム](https://ja.wikipedia.org/wiki/砂漠のハレム "wikilink")（[夢木みつる](https://ja.wikipedia.org/wiki/夢木みつる "wikilink")）
   - [ZIG☆ZAG](https://ja.wikipedia.org/wiki/ZIG☆ZAG "wikilink")（[なかじ有紀](../Page/なかじ有紀.md "wikilink")）
+  - [執事と主は結ばれません](https://ja.wikipedia.org/wiki/執事と主は結ばれません "wikilink")（[角野ユウ](https://ja.wikipedia.org/wiki/角野ユウ "wikilink")）
   - [シニカル・ヒステリー・アワー](../Page/シニカル・ヒステリー・アワー.md "wikilink")（[玖保キリコ](../Page/玖保キリコ.md "wikilink")）
   - [シャンペン・シャワー](https://ja.wikipedia.org/wiki/シャンペン・シャワー "wikilink")（[かわみなみ](https://ja.wikipedia.org/wiki/かわみなみ "wikilink")）
   - [獣王星](../Page/獣王星.md "wikilink")（[樹なつみ](../Page/樹なつみ.md "wikilink")）

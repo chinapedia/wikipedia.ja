@@ -13,6 +13,8 @@
 
 [2017年](../Page/2017年.md "wikilink")4月を目処に、[ホームセンター](../Page/ホームセンター.md "wikilink")（HC）業界第6位の[ケーヨー](../Page/ケーヨー.md "wikilink")（本社[千葉市](../Page/千葉市.md "wikilink")）と[経営統合](https://ja.wikipedia.org/wiki/経営統合 "wikilink")を予定していたが、資本・業務提携でも経営統合をするのと同等の効果が得られる（事業規模の拡大や商品調達力等の強化は可能）として統合は見送り、同年1月20日付けで[持分法適用関連会社](https://ja.wikipedia.org/wiki/持分法適用関連会社 "wikilink")化することとなった\[1\] 。
 
+2020年9月18日には、ホームセンター同業の[島忠](../Page/島忠.md "wikilink")に対し[TOB](https://ja.wikipedia.org/wiki/TOB "wikilink")を実施した上で買収を検討していることが明らかになったと[NHKニュース](../Page/NHKニュース.md "wikilink")により報じられている[1](https://www3.nhk.or.jp/news/html/20200918/k10012624861000.html)。
+
 ## 沿革
 
   - [2006年](../Page/2006年.md "wikilink")（平成18年）
@@ -51,8 +53,8 @@
   - [DCMダイキ](../Page/DCMダイキ.md "wikilink")株式会社 100%
   - [DCMサンワ](../Page/DCMサンワ.md "wikilink")株式会社 100%
   - [DCMくろがねや](../Page/DCMくろがねや.md "wikilink")株式会社 100%
-  - 株式会社[ホームセンターサンコー](../Page/ホームセンターサンコー.md "wikilink") 100%
-  - 株式会社[ホーマックニコット](https://ja.wikipedia.org/wiki/ホーマックニコット "wikilink") 100%
+  - 株式会社[ホームセンターサンコー](../Page/ホームセンターサンコー.md "wikilink") 100%（間接所有割合）
+  - 株式会社[ホーマックニコット](https://ja.wikipedia.org/wiki/ホーマックニコット "wikilink") 100%（間接所有割合）
   - 株式会社[ケーヨー](../Page/ケーヨー.md "wikilink") 19.29%
 
 ## グループ会社の店舗がない県

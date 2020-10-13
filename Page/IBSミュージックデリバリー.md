@@ -22,7 +22,7 @@
   - ベンジャミン高円寺（[遠藤理](https://ja.wikipedia.org/wiki/遠藤理 "wikilink")）
   - フランケンK（[高木圭二郎](https://ja.wikipedia.org/wiki/高木圭二郎_\(アナウンサー\) "wikilink")）
   - 綾小路あっきー（[今章子](https://ja.wikipedia.org/wiki/今章子 "wikilink")）
-  - アグネス斉藤（[斉藤さおり](https://ja.wikipedia.org/wiki/斉藤さおり "wikilink")）
+  - アグネス斉藤（[斉藤さおり](https://ja.wikipedia.org/wiki/木村さおり "wikilink")）
   - Eーじゃん加奈（[藤田加奈子](https://ja.wikipedia.org/wiki/藤田加奈子 "wikilink")）
 
 ## 1夜だけ復活\!IBSミュージックデリバリー

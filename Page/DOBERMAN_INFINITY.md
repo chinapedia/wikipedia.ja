@@ -289,6 +289,7 @@
 | 2019年3月6日             | こんにちWhat's Up\! Remix feat. DOBERMAN INFINITY          | [スダンナユズユリー](https://ja.wikipedia.org/wiki/スダンナユズユリー "wikilink")『[SYY](https://ja.wikipedia.org/wiki/SYY_\(スダンナユズユリーのアルバム\) "wikilink")』                                                                             |
 | 2020年1月15日            | Can't Stop Won't Stop feat. DOBERMAN INFINITY & VERBAL | RUN THE FLOOR®『THE 4CE』                                                                                                                                                                                             |
 | 2020年6月10日            | HOOD LOVE                                              | NATO a.k.a. Fresh Loc feat. KAZUKI(DOBERMAN INFINITY) & KJI 「HOOD LOVE」                                                                                                                                             |
+| 2020年9月1日             | DANCE PARTY Part 2〜Music Bird〜                         | 『中学校の現代的なリズムのダンス授業 〜レクチャームービー〜』\[23\]                                                                                                                                                                               |
 
 ### 書籍
 
@@ -302,7 +303,7 @@
 | 曲名                                                                                                                          | タイアップ                                                                                                                                                                               |
 | --------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | INFINITY                                                                                                                    | [関西テレビ](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[GTO（第2期）](https://ja.wikipedia.org/wiki/GTO_\(2012年のテレビドラマ\) "wikilink")』挿入歌 |
-| 99                                                                                                                          | [J SPORTS](../Page/J_SPORTS.md "wikilink")『高校バスケ ウインターカップ2014』番組テーマソング\[23\]                                                                                                        |
+| 99                                                                                                                          | [J SPORTS](../Page/J_SPORTS.md "wikilink")『高校バスケ ウインターカップ2014』番組テーマソング\[24\]                                                                                                        |
 | Tomorrow Never Dies                                                                                                         | [劇団EXILE](https://ja.wikipedia.org/wiki/劇団EXILE "wikilink")公演『Tomorrow Never Dies 〜やってこない明日はない〜』主題歌                                                                                 |
 | Heartbeat                                                                                                                   | [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[ワールドプレミアムボクシング](../Page/ワールドプレミアムボクシング.md "wikilink")』イメージソング                                                                             |
 | JUMP AROUND ∞                                                                                                               | [KANSAI COLLECTION](https://ja.wikipedia.org/wiki/関西コレクション "wikilink") 2015 A/W 公式テーマソング                                                                                            |
@@ -321,7 +322,7 @@
 | We can be the light                                                                                                         | 三重県桑名市「なばなの里 イルミネーション」CMソング                                                                                                                                                         |
 | YOU & I                                                                                                                     | 映画『[DTC -湯けむり純情篇- from HiGH\&LOW](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")』主題歌                                                                   |
 | NEVER CHANGE                                                                                                                | ドラマ 「Love or Not 2」主題歌                                                                                                                                                              |
-| スリルライフ                                                                                                                      | ナガシマスパーランド ハイブリッドコースター「白鯨」CMソング\[24\]                                                                                                                                               |
+| スリルライフ                                                                                                                      | ナガシマスパーランド ハイブリッドコースター「白鯨」CMソング\[25\]                                                                                                                                               |
 | 真夏のマスマティック                                                                                                                  | ナガシマスパーランド 「ジャンボ海水プール」 2019年CMソング                                                                                                                                                   |
 | 5IVE                                                                                                                        | “[荒野行動](https://ja.wikipedia.org/wiki/荒野行動 "wikilink")”×“BIGO LIVE JAPAN” コラボイベント公式応援ソング                                                                                            |
 | まだ足りねぇ                                                                                                                      | 映画『[HiGH\&LOW THE WORST](https://ja.wikipedia.org/wiki/HiGH&LOW〜THE_STORY_OF_S.W.O.R.D.〜 "wikilink")』劇中歌                                                                            |
@@ -356,7 +357,7 @@ DOBERMAN INFINITY LIVE『\#PRLG』
 
 <div class="NavHead" style="text-align: left;">
 
-DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE"\[25\]
+DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE"\[26\]
 
 </div>
 
@@ -368,7 +369,7 @@ DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE"\[25\]
   - 3月21日：北海道・Zepp Sapporo
   - 3月25日：大阪・Zepp Namba
 
-DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE" ～TO THE NEXT～\[26\]
+DOBERMAN INFINITY LIVE TOUR 2016 "THE LINE" ～TO THE NEXT～\[27\]
 
   - 4月12日、4月13日：大阪・[インテックス大阪](../Page/大阪国際見本市会場.md "wikilink") 5号館
   - 4月16日、4月17日：千葉・[幕張メッセ](../Page/幕張メッセ.md "wikilink") 国際展示場ホール1・2
@@ -440,12 +441,12 @@ DOBERMAN INFINITY LIVE TOUR 2018 DOGG YEAR 〜PARTY ON THE OFF ROAD〜
   - 8月04日：新潟・[新潟県民会館](../Page/新潟県民会館.md "wikilink")
   - 8月11日：福岡・[福岡サンパレス](../Page/福岡サンパレス.md "wikilink")
   - 8月18日：北海道・[ニトリ文化ホール](https://ja.wikipedia.org/wiki/ニトリ文化ホール "wikilink")
-  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール（2日目は[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[27\]）
+  - 8月22日、<s>8月23日</s>：大阪・[大阪国際会議場 グランキューブ大阪](../Page/大阪府立国際会議場.md "wikilink") メインホール（2日目は[台風20号により中止](https://ja.wikipedia.org/wiki/平成30年台風第20号 "wikilink")\[28\]）
   - 8月25日：京都・[ロームシアター京都](../Page/ロームシアター京都.md "wikilink")
   - 9月02日：静岡・[アクトシティ浜松](../Page/アクトシティ浜松.md "wikilink") 大ホール
   - 9月06日：熊本・[市民会館シアーズホーム夢ホール](../Page/熊本市民会館.md "wikilink")
   - 9月08日：愛媛・[松山市民会館](../Page/松山市民会館.md "wikilink")
-  - 10月16日：大阪・大阪国際会議場 グランキューブ大阪 メインホール（振替公演\[28\]）
+  - 10月16日：大阪・大阪国際会議場 グランキューブ大阪 メインホール（振替公演\[29\]）
 
 </div>
 
@@ -489,7 +490,7 @@ DOBERMAN INFINITY LIVE TOUR 2019 5IVE 〜必ず会おうこの約束の場所で
 
 <div class="NavHead" style="text-align: left;">
 
-DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
+DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[30\]
 
 </div>
 
@@ -522,7 +523,7 @@ DOBERMAN INFINITY LIVE TOUR 2020 We are the one\[29\]
 
 <div class="NavHead" style="text-align: left;">
 
-DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[30\]
+DOBERMAN INFINITY LIVE TOUR 2020 We are the one 〜PERFECT YEAH\!\!〜\[31\]
 
 </div>
 
@@ -580,7 +581,7 @@ EXILE TRIBE PERFECT YEAR LIVE TOUR TOWER OF WISH 2014 〜THE REVOLUTION〜
 
 <div class="NavHead" style="text-align: left;">
 
-HiGH\&LOW THE LIVE\[31\]
+HiGH\&LOW THE LIVE\[32\]
 
 </div>
 
@@ -626,37 +627,37 @@ DOBERMAN INFINITY presents D.Island
 
 ### 配信
 
-  - LIVE×ONLINE（2020年7月4日：ABEMA）\[32\]
+  - LIVE×ONLINE（2020年7月4日：ABEMA）\[33\]
   - LIVE×ONLINE IMAGINATION（2020年9月22日：ABEMA）
 
 ## 出演
 
 ### ラジオ
 
-  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[33\]
+  - WE ALL CAN BE CONNECTED.（2015年10月 - 、[bayfm](../Page/ベイエフエム.md "wikilink")）\[34\]
 
 ### ネット配信
 
-  - 漢部 ～真ノ男道～\[34\]（其ノ二：2014年11月20日\[35\]、其ノ四：2015年1月20日\[36\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
+  - 漢部 ～真ノ男道～\[35\]（其ノ二：2014年11月20日\[36\]、其ノ四：2015年1月20日\[37\]、[ニコニコ動画](../Page/ニコニコ動画.md "wikilink")）
 
 ### WebCM
 
-  - 「Gatti」（2019年 - ）\[37\]
+  - 「Gatti」（2019年 - ）\[38\]
 
 ### ミュージックビデオ
 
-  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[38\]
+  - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")「[YEAH\!\! YEAH\!\! YEAH\!\!](https://ja.wikipedia.org/wiki/YEAH!!_YEAH!!_YEAH!! "wikilink")」（2016年）\[39\]
 
 ### その他
 
-  - マリアナ観光大使（2019年）\[39\]
-  - 日本の花火『エール』プロジェクト アンバサダー（2020年）\[40\]
+  - マリアナ観光大使（2019年）\[40\]
+  - 日本の花火『エール』プロジェクト アンバサダー（2020年）\[41\]
 
 ## プロデュース
 
 ### アーティスト
 
-  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[41\]
+  - [BALLISTIK BOYZ from EXILE TRIBE](https://ja.wikipedia.org/wiki/BALLISTIK_BOYZ_from_EXILE_TRIBE "wikilink") （[EXILE HIROと共同プロデュース](../Page/五十嵐広行.md "wikilink")） \[42\]
 
 ## DOBERMAN INCの作品
 
@@ -807,8 +808,8 @@ DOBERMAN INFINITY presents D.Island
 30.
 31.
 32.
-33. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
-34.
+33.
+34. [10/5mon. start\! WE ALL CAN BE CONNECTED.](http://bayfm78.net/ht/wacbc.htm)
 35.
 36.
 37.
@@ -816,3 +817,4 @@ DOBERMAN INFINITY presents D.Island
 39.
 40.
 41.
+42.

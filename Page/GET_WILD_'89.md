@@ -15,7 +15,9 @@
 
 また、2013年3月6日発売の小室哲哉ソロアルバム「[DEBF3](https://ja.wikipedia.org/wiki/DEBF3 "wikilink")」2枚目においては、この曲にtechno overdub mixとは異なるシンセサイザーの音をオーバーダビングさせたバージョンが収録されている。
 
-プロトバージョンとして[原曲版のようなイントロ](../Page/Get_Wild.md "wikilink")、間奏、アウトロ、リフレインにおいては原曲版にあったディストーションギターなどの音も入り、代わりにサビの歌い出しサンプリングが一切無く4分近い構成になった『7inch Version』があり、音源は1989年当時から存在していたが、2020年にリリースされた「[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")」まで収録されず、これを元にしたインスト版（「[BEAT EXPRESS ORIGINAL KARAOKE VOX for men](https://ja.wikipedia.org/wiki/BEAT_EXPRESS#収録曲 "wikilink")」・1991年）及びオリカラ版（「[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")」・2012年）がボーカル入りよりも先にリリースされていた。なお、『7inch Version』との名称だが、1989年当時、このシングルは8cmCDシングル及びカセットテープでリリースされ、『7inch』を意味する[EP盤でのリリースはなかった](../Page/レコード.md "wikilink")。2017年には本来の長さの『GET WILD '89』が12インチアナログシングルで、リミックスを担当した“PWL”のロゴが入ったオリジナル・アナログテープを使用して\[1\]、原曲版のカップリングとして再リリースされた。
+プロトバージョンとして[原曲版のようなイントロ](../Page/Get_Wild.md "wikilink")、間奏、アウトロ、リフレインにおいては原曲版にあったディストーションギターなどの音も入り、代わりにサビの歌い出しサンプリングが一切無く4分近い構成になった『7inch Version』があり、音源は1989年当時から存在していたが、2020年にリリースされた「[Gift from Fanks M](../Page/Gift_from_Fanks_M.md "wikilink")」まで収録されず、これを元にしたインスト版（「[BEAT EXPRESS ORIGINAL KARAOKE VOX for men](https://ja.wikipedia.org/wiki/BEAT_EXPRESS#収録曲 "wikilink")」・1991年）及びオリカラ版（「[ORIGINAL SINGLE BACK TRACKS 1984-1999](https://ja.wikipedia.org/wiki/ORIGINAL_SINGLE_BACK_TRACKS_1984-1999 "wikilink")」・2012年）がボーカル入りよりも先にリリースされていた。なお、『7inch Version』との名称だが、1989年当時、このシングルは8cmCDシングル及びカセットテープでリリースされ、『7inch』を意味する[EP盤でのリリースはなかった](../Page/レコード.md "wikilink")。なお、「GET WILD '89」がアナログレコードでリリースされるのは、2017年発売の本来の長さの12インチアナログシングルであり、リミックスを担当した“PWL”のロゴが入ったオリジナル・アナログテープを使用して\[1\]、原曲版のカップリングとして再リリースされた。
+
+小室はPWLがLINN Linn 9000を母体として、1台のクロックマシンを基準にしてそこから全部音を出すことでぴったり音を合わせる方法や、PUBLISONのピッチシフターを使っていたことで、歌の上手い・下手を問わず、全て「あの声」になること、それを2トラックで録音してフェイズさせるというノウハウをPWLから見せてもらい、「GET WILD '89」が原曲とは全然技術的に違う発想で作られたことを見せつけられたと言っている\[2\]。
 
 ## 収録曲
 
@@ -71,3 +73,4 @@
 [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:エピックレコードジャパンのシングル](https://ja.wikipedia.org/wiki/Category:エピックレコードジャパンのシングル "wikilink") [Category:TM_NETWORKの楽曲](https://ja.wikipedia.org/wiki/Category:TM_NETWORKの楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:小室みつ子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室みつ子が制作した楽曲 "wikilink") [Category:楽曲_け](https://ja.wikipedia.org/wiki/Category:楽曲_け "wikilink")
 
 1.  <http://www.110107.com/s/oto/page/tmn_getw?ima=1522>
+2.  Sound & Recording 2017 6 P.28

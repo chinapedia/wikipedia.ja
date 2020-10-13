@@ -176,6 +176,8 @@
       - 悪魔モロッコ - [滝浪倫邦](https://ja.wikipedia.org/wiki/滝浪倫邦 "wikilink")
       - 部下A - 蓮透
 
+## 脚注
+
 ## 関連項目
 
   - [テクモ](../Page/テクモ.md "wikilink")

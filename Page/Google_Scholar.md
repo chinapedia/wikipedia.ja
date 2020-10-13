@@ -21,7 +21,7 @@
 ## 外部リンク
 
   - [Google Scholar](http://scholar.google.com/)
-  - [Google Scholar: The New Generation of Citation Indexes](http://www.librijournal.org/pdf/2005-4pp170-180.pdf). [Libri](https://ja.wikipedia.org/wiki/Libri "wikilink") 55(4): 170-180.
+  - [Google Scholar: The New Generation of Citation Indexes](https://www.researchgate.net/publication/28804326_Google_Scholar_The_New_Generation_of_Citation_Indexes). [Libri](https://ja.wikipedia.org/wiki/Libri "wikilink") 55(4): 170-180.
 
 [Category:Googleのサービス](https://ja.wikipedia.org/wiki/Category:Googleのサービス "wikilink") [Category:文献検索サイト](https://ja.wikipedia.org/wiki/Category:文献検索サイト "wikilink")
 

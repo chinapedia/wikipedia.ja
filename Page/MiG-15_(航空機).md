@@ -392,10 +392,10 @@ MiG-15bis(ISh)</p></td>
 31530912</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG-15_Hu.jpg" title="fig:MiG-15_Hu.jpg">MiG-15_Hu.jpg</a></p></td>
 <td><p>ハンガリー ヤース・ナジクン・ソルノク県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Airplane_Museum_of_Szolnok" title="wikilink">ソルノク飛行機博物館</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Airplane_Museum_of_Szolnok" title="wikilink">ソルノク飛行機博物館</a><a href="https://www.reptar.hu/en/">19</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td></td>
+<td><p><a href="https://www.reptar.hu/en/repulogepeink/mig-15bis-jet-fighter-aircraft-.html">20</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Mig-15bis</p></td>
@@ -413,10 +413,10 @@ MiG-15bis(ISh)</p></td>
 <td><p>70007 (PLAAF)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:NavalAirMuseum_4-30-17-2430_(33615096844).jpg" title="fig:NavalAirMuseum_4-30-17-2430_(33615096844).jpg">NavalAirMuseum_4-30-17-2430_(33615096844).jpg</a>奥上側</p></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="https://www.navalaviationmuseum.org/">19</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/国立海軍航空博物館" title="wikilink">国立海軍航空博物館</a><a href="https://www.navalaviationmuseum.org/">21</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.navalaviationmuseum.org/aircraft/mig-15/">20</a></p></td>
+<td><p><a href="https://www.navalaviationmuseum.org/aircraft/mig-15/">22</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15bis<br />
@@ -435,7 +435,7 @@ MiG-15bis(ISh)</p></td>
 <td><p>81072 (PLAAF)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15bis_Russia_Air_Force_81072_(7281706088).jpg" title="fig:Mikoyan-Gurevich_MiG-15bis_Russia_Air_Force_81072_(7281706088).jpg">Mikoyan-Gurevich_MiG-15bis_Russia_Air_Force_81072_(7281706088).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flying_Leatherneck_Aviation_Museum" title="wikilink">飛行海兵航空博物館</a><a href="https://flyingleathernecks.org/">21</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flying_Leatherneck_Aviation_Museum" title="wikilink">飛行海兵航空博物館</a><a href="https://flyingleathernecks.org/">23</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>[<a href="https://flyingleathernecks.org/project/mikoyan-gurevich-mig-15-fagot/%5D旧塗装">https://flyingleathernecks.org/project/mikoyan-gurevich-mig-15-fagot/]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:MiG-15bis_although_this_is_in_Chinese_Air_force_marks_it_is_probably_a_Czech_machine_(3267538756).jpg" title="fig:MiG-15bis_although_this_is_in_Chinese_Air_force_marks_it_is_probably_a_Czech_machine_(3267538756).jpg">MiG-15bis_although_this_is_in_Chinese_Air_force_marks_it_is_probably_a_Czech_machine_(3267538756).jpg</a></p></td>
@@ -446,10 +446,10 @@ MiG-15bis(ISh)</p></td>
 <td><p>2292 (PLAN)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15bis_‘NX90589’_(29914491294).jpg" title="fig:Mikoyan-Gurevich_MiG-15bis_‘NX90589’_(29914491294).jpg">Mikoyan-Gurevich_MiG-15bis_‘NX90589’_(29914491294).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Oakland_Aviation_Museum" title="wikilink">オークランド航空博物館</a><a href="https://www.oaklandaviationmuseum.org/">22</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Oakland_Aviation_Museum" title="wikilink">オークランド航空博物館</a><a href="https://www.oaklandaviationmuseum.org/">24</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>1998年から2003年の間はプラウドバード・レストランに展示されていた。<a href="https://www.oaklandaviationmuseum.org/aircraft-on-display">23</a></p></td>
+<td><p>1998年から2003年の間はプラウドバード・レストランに展示されていた。<a href="https://www.oaklandaviationmuseum.org/aircraft-on-display">25</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MiG-15bis</p></td>
@@ -469,17 +469,17 @@ MiG-15bis(ISh)</p></td>
 <td><p>ヴィーンヌィツャ・ウクライナ空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://www.aviationmuseum.eu/Blogvorm/military-historical-museum-of-the-ukrainian-air-force/">24</a></p></td>
+<td><p><a href="http://www.aviationmuseum.eu/Blogvorm/military-historical-museum-of-the-ukrainian-air-force/">26</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MiG-15bis</p></td>
 <td><p>339</p></td>
 <td><p><a href="https://www.airliners.net/photo/North-Korea-Air-Force/Mikoyan-Gurevich-MiG-15/1522430/L">写真</a></p></td>
 <td><p>韓国 全羅南道</p></td>
-<td><p>務安ホダム航空宇宙展示館<a href="http://www.aviationmuseum.eu/Blogvorm/hodam-air-and-space-center/">25</a></p></td>
+<td><p>務安ホダム航空宇宙展示館<a href="http://www.aviationmuseum.eu/Blogvorm/hodam-air-and-space-center/">27</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://thebluesky.info/109">26</a></p></td>
+<td><p><a href="https://thebluesky.info/109">28</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15bis<br />
@@ -507,10 +507,10 @@ MiG-15bis(ISh)</p></td>
 <td><p>1765</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:EX-PRCAF_MiG-15_1765_Side_View_20111015.jpg" title="fig:EX-PRCAF_MiG-15_1765_Side_View_20111015.jpg">EX-PRCAF_MiG-15_1765_Side_View_20111015.jpg</a></p></td>
 <td><p>台湾 高雄</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/航空教育展示館_(台湾)" title="wikilink">航空教育展示館</a><a href="http://www.aeeh.com.tw/">27</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/航空教育展示館_(台湾)" title="wikilink">航空教育展示館</a><a href="http://www.aeeh.com.tw/">29</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>1962年3月3日、人民解放軍海軍航空隊第6師団第16連隊第3大隊第8中隊に所属していた劉承司（リウ・チェンスー）が台湾に亡命した際に搭乗した機体。現在は建物内に展示されている。<a href="http://www.aeeh.com.tw/tw/index.asp?au_id=3&amp;sub_id=11&amp;id=3">28</a><a href="http://en-aeeh.ezsale.tw/tw/index.asp?au_id=3&amp;sub_id=11&amp;id=3">29</a></p></td>
+<td><p>1962年3月3日、人民解放軍海軍航空隊第6師団第16連隊第3大隊第8中隊に所属していた劉承司（リウ・チェンスー）が台湾に亡命した際に搭乗した機体。現在は建物内に展示されている。<a href="http://www.aeeh.com.tw/tw/index.asp?au_id=3&amp;sub_id=11&amp;id=3">30</a><a href="http://en-aeeh.ezsale.tw/tw/index.asp?au_id=3&amp;sub_id=11&amp;id=3">31</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MiG-15bis</p></td>
@@ -527,10 +527,10 @@ MiG-15bis(ISh)</p></td>
 <td><p>2458</p></td>
 <td></td>
 <td><p>オーストラリア 首都特別地域</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Australian_War_Memorial" title="wikilink">オーストラリア戦争記念館</a><a href="https://www.awm.gov.au/">30</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Australian_War_Memorial" title="wikilink">オーストラリア戦争記念館</a><a href="https://www.awm.gov.au/">32</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.awm.gov.au/collection/C260309">31</a></p></td>
+<td><p><a href="https://www.awm.gov.au/collection/C260309">33</a></p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -560,7 +560,7 @@ MiG-15bis(ISh)</p></td>
 <td><p>桂林市七星公園</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://wrecks.hatenablog.com/entry/2019/02/12/104811">32</a></p></td>
+<td><p><a href="https://wrecks.hatenablog.com/entry/2019/02/12/104811">34</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15bis</p></td>
@@ -570,14 +570,14 @@ MiG-15bis(ISh)</p></td>
 <td><p>中国空軍航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:zh:常香玉" title="wikilink">チャン・シャンユィー</a>（常香玉）らのオペラ劇団（香玉劇社）が献納した機体の「香玉劇社號」という名称がつけられている。献納された本物の機体かは不明。<a href="http://www.81.cn/2016bwg/2016-05/18/content_7060875_7.htm">33</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:zh:常香玉" title="wikilink">チャン・シャンユィー</a>（常香玉）らのオペラ劇団（香玉劇社）が献納した機体の「香玉劇社號」という名称がつけられている。献納された本物の機体かは不明。<a href="http://www.81.cn/2016bwg/2016-05/18/content_7060875_7.htm">35</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MiG-15bis</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15_Fagot_RFront_storage_SNFSI_FOF_15April2010_(14629875602).jpg" title="fig:Mikoyan-Gurevich_MiG-15_Fagot_RFront_storage_SNFSI_FOF_15April2010_(14629875602).jpg">Mikoyan-Gurevich_MiG-15_Fagot_RFront_storage_SNFSI_FOF_15April2010_(14629875602).jpg</a></p></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Fantasy_of_Flight" title="wikilink">ファンタジー・オヴ・フライト</a><a href="https://www.fantasyofflight.com/collection/">34</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Fantasy_of_Flight" title="wikilink">ファンタジー・オヴ・フライト</a><a href="https://www.fantasyofflight.com/collection/">36</a></p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
 <td></td>
@@ -590,10 +590,10 @@ SBLim-2</p></td>
 1A 01-004</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan_Gurevich_MiG-15_UTI_flying.jpg" title="fig:Mikoyan_Gurevich_MiG-15_UTI_flying.jpg">Mikoyan_Gurevich_MiG-15_UTI_flying.jpg</a></p></td>
 <td><p>ノルウェー</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノルウェー空軍" title="wikilink">ノルウェー空軍</a>歴史飛行隊<a href="https://www.historicalsquadron.com/">35</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ノルウェー空軍" title="wikilink">ノルウェー空軍</a>歴史飛行隊<a href="https://www.historicalsquadron.com/">37</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p><a href="../Page/ユーリイ・ガガーリン.md" title="wikilink">Y・A・ガガーリンが搭乗した機体の塗装がされている</a>。<a href="https://www.historicalsquadron.com/mig-15">36</a>[<a href="https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090%5D旧塗装">https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:Lim-2_N104CJ_Turku_Airshow_2015_04.JPG" title="fig:Lim-2_N104CJ_Turku_Airshow_2015_04.JPG">Lim-2_N104CJ_Turku_Airshow_2015_04.JPG</a><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg" title="fig:PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg">PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg</a></p></td>
+<td><p><a href="../Page/ユーリイ・ガガーリン.md" title="wikilink">Y・A・ガガーリンが搭乗した機体の塗装がされている</a>。<a href="https://www.historicalsquadron.com/mig-15">38</a>[<a href="https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090%5D旧塗装">https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:Lim-2_N104CJ_Turku_Airshow_2015_04.JPG" title="fig:Lim-2_N104CJ_Turku_Airshow_2015_04.JPG">Lim-2_N104CJ_Turku_Airshow_2015_04.JPG</a><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg" title="fig:PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg">PZL-Mielec_SBLim-2_’18_red’_(N104CJ)_(40431981630).jpg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-1<br />
@@ -606,7 +606,7 @@ SBLim-2M</p></td>
 <td><p>プレインズ・オヴ・フェイム航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p>SBLim-2に改修される際にLim-2 / 1B 01-014号機の後部胴体とエンジンを接合した。ソ連機の塗装がされている。<a href="https://planesoffame.org/aircraft?submit=Submit&amp;planessearchv2=Mikoyan-Gurevich+MiG-15UTI">37</a></p></td>
+<td><p>SBLim-2に改修される際にLim-2 / 1B 01-014号機の後部胴体とエンジンを接合した。ソ連機の塗装がされている。<a href="https://planesoffame.org/aircraft?submit=Submit&amp;planessearchv2=Mikoyan-Gurevich+MiG-15UTI">39</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-1<br />
@@ -616,10 +616,10 @@ SBLim-2A</p></td>
 1A 03-506</p></td>
 <td><p><a href="https://www.flickr.com/photos/23711298@N07/6108221852/sizes/3k/">写真</a></p></td>
 <td><p>アメリカ ミネソタ州</p></td>
-<td><p>ミネソタ空軍州兵博物館<a href="http://mnangmuseum.org/">38</a></p></td>
+<td><p>ミネソタ空軍州兵博物館<a href="http://mnangmuseum.org/">40</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="http://mnangmuseum.org/exhibits/mig-15/">39</a></p></td>
+<td><p><a href="http://mnangmuseum.org/exhibits/mig-15/">41</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-1<br />
@@ -632,7 +632,7 @@ SBLim-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:pl:Fundacja_Polskie_Orły" title="wikilink">ポーランド・イーグルス財団</a></p></td>
 <td><p>公開</p></td>
 <td><p>飛行可能</p></td>
-<td><p>006の塗装がされている。現在販売中。<a href="https://www.plane4you.eu/en/offers/pzl-mielec-sb-lim2-sp-ynz,184">40</a></p></td>
+<td><p>006の塗装がされている。現在販売中。<a href="https://www.plane4you.eu/en/offers/pzl-mielec-sb-lim2-sp-ynz,184">42</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-1<br />
@@ -658,7 +658,7 @@ SBLim-2M</p></td>
 <td><p>ポーランド空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">41</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">43</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-1<br />
@@ -681,7 +681,7 @@ SBLim-2M</p></td>
 1A 06-018</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_SBLim-2M_‘018’_(19528045352).jpg" title="fig:PZL-Mielec_SBLim-2M_‘018’_(19528045352).jpg">PZL-Mielec_SBLim-2M_‘018’_(19528045352).jpg</a></p></td>
 <td><p>ポーランド マウォポルスカ県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Polish_Aviation_Museum" title="wikilink">クラクフ・ポーランド航空博物館</a><a href="https://muzeumlotnictwa.pl/">42</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Polish_Aviation_Museum" title="wikilink">クラクフ・ポーランド航空博物館</a><a href="https://muzeumlotnictwa.pl/">44</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -694,10 +694,10 @@ SBLim-2</p></td>
 1A 06-027</p></td>
 <td><p><a href="https://live.staticflickr.com/624/21288850583_b1fdbf8182_k.jpg">写真</a></p></td>
 <td><p>アメリカ フロリダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Valiant_Air_Command_Warbird_Museum" title="wikilink">勇敢航空軍団社ウォーバード博物館</a><a href="https://www.valiantaircommand.com/">43</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Valiant_Air_Command_Warbird_Museum" title="wikilink">勇敢航空軍団社ウォーバード博物館</a><a href="https://www.valiantaircommand.com/">45</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.valiantaircommand.com/static-collection">44</a></p></td>
+<td><p><a href="https://www.valiantaircommand.com/static-collection">46</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-1<br />
@@ -707,7 +707,7 @@ SBLim-2</p></td>
 1A 06-033</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Military_park,_Zamárdi.jpg" title="fig:Military_park,_Zamárdi.jpg">Military_park,_Zamárdi.jpg</a></p></td>
 <td><p>ハンガリー ショモジ県</p></td>
-<td><p>ザマールディ軍事公園<a href="http://www.zamardi.org/?page_id=430">45</a></p></td>
+<td><p>ザマールディ軍事公園<a href="http://www.zamardi.org/?page_id=430">47</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -733,7 +733,7 @@ SBLim-2</p></td>
 1A 06-036</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:VH-LKW-636_red_(15921930518).jpg" title="fig:VH-LKW-636_red_(15921930518).jpg">VH-LKW-636_red_(15921930518).jpg</a></p></td>
 <td><p>オーストラリア クイーンズランド州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Queensland_Air_Museum" title="wikilink">クイーンズランド航空博物館</a><a href="https://qam.com.au/">46</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Queensland_Air_Museum" title="wikilink">クイーンズランド航空博物館</a><a href="https://qam.com.au/">48</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>近年まで<a href="https://ja.wikipedia.org/wiki/:en:Classic_Jets_Fighter_Museum" title="wikilink">クラシック・ジェッツ戦闘機博物館にあった</a>。[<a href="https://qam.com.au/portfolio/wsk-mielec-sb-lim-2-cn-1a0-636/%5D旧塗装">https://qam.com.au/portfolio/wsk-mielec-sb-lim-2-cn-1a0-636/]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:LIM-2_(MIG-15)_side_view.jpg" title="fig:LIM-2_(MIG-15)_side_view.jpg">LIM-2_(MIG-15)_side_view.jpg</a></p></td>
@@ -760,10 +760,10 @@ SBLim-2A</p></td>
 1A 06-040</p></td>
 <td><p><a href="https://live.staticflickr.com/1855/29181691597_e75ea1ff80_6k.jpg">写真</a></p></td>
 <td><p>アメリカ ニューメキシコ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ウォー・イーグルス航空博物館" title="wikilink">ウォー・イーグルス航空博物館</a><a href="http://www.war-eagles-air-museum.com/">47</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ウォー・イーグルス航空博物館" title="wikilink">ウォー・イーグルス航空博物館</a><a href="http://www.war-eagles-air-museum.com/">49</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>ソ連機の塗装がされている。<a href="http://www.war-eagles-air-museum.com/exhibit.php?id=18">48</a></p></td>
+<td><p>ソ連機の塗装がされている。<a href="http://www.war-eagles-air-museum.com/exhibit.php?id=18">50</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-1</p></td>
@@ -774,7 +774,7 @@ SBLim-2A</p></td>
 <td><p>クラクフ・ポーランド航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=53&amp;w=a">49</a><a href="https://live.staticflickr.com/2451/5783180293_af74a3306e_3k.jpg">旧塗装</a></p></td>
+<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=53&amp;w=a">51</a><a href="https://live.staticflickr.com/2451/5783180293_af74a3306e_3k.jpg">旧塗装</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-1<br />
@@ -800,7 +800,7 @@ SBLim-2M</p></td>
 <td><p>ポーランド空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">50</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">52</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-1<br />
@@ -810,7 +810,7 @@ SBLim-2M</p></td>
 1A 07-050</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:050(400_red.)_(15925221209).jpg" title="fig:050(400_red.)_(15925221209).jpg">050(400_red.)_(15925221209).jpg</a></p></td>
 <td><p>オーストラリア クイーンズランド州</p></td>
-<td><p>飛行戦闘機博物館<a href="https://flyingfighters.com.au/">51</a></p></td>
+<td><p>飛行戦闘機博物館<a href="https://flyingfighters.com.au/">53</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>ソ連機の塗装がされている。</p></td>
@@ -826,7 +826,7 @@ SBLim-2</p></td>
 <td><p>ポーランド空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">52</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">54</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -834,10 +834,10 @@ SBLim-2</p></td>
 1B 00-109</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_Lim-2_&#39;109&#39;_(13476362773).jpg" title="fig:PZL-Mielec_Lim-2_&#39;109&#39;_(13476362773).jpg">PZL-Mielec_Lim-2_'109'_(13476362773).jpg</a></p></td>
 <td><p>ポーランド ルブリン県</p></td>
-<td><p>ポーランド空軍博物館<a href="https://muzeumsp.pl/">53</a></p></td>
+<td><p>ポーランド空軍博物館<a href="https://muzeumsp.pl/">55</a></p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">54</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">56</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-2</p></td>
@@ -856,10 +856,10 @@ SBLim-2</p></td>
 1B 00-301</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15_(Lim-2Rbis)_jet_fighter_aircraft_-_Αεριωθούμενο_μαχητικό_αεροσκάφος_(26999656936).jpg" title="fig:Mikoyan-Gurevich_MiG-15_(Lim-2Rbis)_jet_fighter_aircraft_-_Αεριωθούμενο_μαχητικό_αεροσκάφος_(26999656936).jpg">Mikoyan-Gurevich_MiG-15_(Lim-2Rbis)_jet_fighter_aircraft_-_Αεριωθούμενο_μαχητικό_αεροσκάφος_(26999656936).jpg</a></p></td>
 <td><p>ギリシャ アッティカ地方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Hellenic_Air_Force_Museum" title="wikilink">ギリシャ空軍博物館</a><a href="https://www.haf.gr/en/history/museum/">55</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Hellenic_Air_Force_Museum" title="wikilink">ギリシャ空軍博物館</a><a href="https://www.haf.gr/en/history/museum/">57</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>イェイェジェニ・ペペーリィェエフ (Yeygeni Pepelyiaev)搭乗機の塗装がされているが、ラウンデルは北朝鮮のものとなっている。<a href="https://www.haf.gr/en/history/museum/exhibits/">56</a></p></td>
+<td><p>イェイェジェニ・ペペーリィェエフ (Yeygeni Pepelyiaev)搭乗機の塗装がされているが、ラウンデルは北朝鮮のものとなっている。<a href="https://www.haf.gr/en/history/museum/exhibits/">58</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-2</p></td>
@@ -881,7 +881,7 @@ SBLim-2</p></td>
 <td><p>ポーランド空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">57</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">59</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-2</p></td>
@@ -889,10 +889,10 @@ SBLim-2</p></td>
 1B 00-316</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_Lim-2_at_Canada_Aviation_and_Space_Museum_2.jpg" title="fig:PZL-Mielec_Lim-2_at_Canada_Aviation_and_Space_Museum_2.jpg">PZL-Mielec_Lim-2_at_Canada_Aviation_and_Space_Museum_2.jpg</a></p></td>
 <td><p>カナダ オンタリオ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Canada_Aviation_and_Space_Museum" title="wikilink">カナダ航空宇宙博物館(オタワ)</a><a href="https://ingeniumcanada.org/collection-research/collection-highlights">58</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Canada_Aviation_and_Space_Museum" title="wikilink">カナダ航空宇宙博物館(オタワ)</a><a href="https://ingeniumcanada.org/collection-research/collection-highlights">60</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://ingeniumcanada.org/artifact/wsk-lim-2-mikoyan-gurevich-mig-15bis">59</a></p></td>
+<td><p><a href="https://ingeniumcanada.org/artifact/wsk-lim-2-mikoyan-gurevich-mig-15bis">61</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -914,7 +914,7 @@ SBLim-2</p></td>
 <td><p>ポーランド空軍博物館</p></td>
 <td><p>公開</p></td>
 <td><p>保管中</p></td>
-<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">60</a></p></td>
+<td><p><a href="https://muzeumsp.pl/kategorie-eksponatow/muzeum-sil-powietrznych/samoloty/">62</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -933,7 +933,7 @@ SBLim-2</p></td>
 1B 00-822</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:822_Mikoyan_Mig-15bis_Fagot_Republic_Of_Korea_Air_Force_(8744506136).jpg" title="fig:822_Mikoyan_Mig-15bis_Fagot_Republic_Of_Korea_Air_Force_(8744506136).jpg">822_Mikoyan_Mig-15bis_Fagot_Republic_Of_Korea_Air_Force_(8744506136).jpg</a></p></td>
 <td><p>アメリカ アリゾナ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="https://pimaair.org/">61</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Pima_Air_&amp;_Space_Museum" title="wikilink">ピマ航空宇宙博物館</a><a href="https://pimaair.org/">63</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>北朝鮮機の塗装がされている。[<a href="https://pimaair.org/museum-aircraft/mig-15bis/%5D旧塗装">https://pimaair.org/museum-aircraft/mig-15bis/]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:MIG-15_(5732726794).jpg" title="fig:MIG-15_(5732726794).jpg">MIG-15_(5732726794).jpg</a></p></td>
@@ -944,10 +944,10 @@ SBLim-2</p></td>
 1B 00-917</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG_15_at_the_Southern_Museum_of_Flight.JPG" title="fig:MiG_15_at_the_Southern_Museum_of_Flight.JPG">MiG_15_at_the_Southern_Museum_of_Flight.JPG</a></p></td>
 <td><p>アメリカ アラバマ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Southern_Museum_of_Flight" title="wikilink">サザン・ミュージアム・オヴ・フライト</a><a href="http://www.southernmuseumofflight.org/">62</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Southern_Museum_of_Flight" title="wikilink">サザン・ミュージアム・オヴ・フライト</a><a href="http://www.southernmuseumofflight.org/">64</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/盧今錫" title="wikilink">盧今錫</a>の搭乗したMiG-15bis / 2015357機の塗装がされている。<a href="http://www.southernmuseumofflight.org/about/exhibitions/">63</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/盧今錫" title="wikilink">盧今錫</a>の搭乗したMiG-15bis / 2015357機の塗装がされている。<a href="http://www.southernmuseumofflight.org/about/exhibitions/">65</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-2</p></td>
@@ -955,7 +955,7 @@ SBLim-2</p></td>
 1B 01-006</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Vasters_0908_(9077690371).jpg" title="fig:Vasters_0908_(9077690371).jpg">Vasters_0908_(9077690371).jpg</a></p></td>
 <td><p>ドイツ バーデン＝ヴュルテンベルク州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジンスハイム自動車・技術博物館" title="wikilink">ジンスハイム自動車・技術博物館</a><a href="https://sinsheim.technik-museum.de/en/">64</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジンスハイム自動車・技術博物館" title="wikilink">ジンスハイム自動車・技術博物館</a><a href="https://sinsheim.technik-museum.de/en/">66</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>ソ連機の塗装がされている。</p></td>
@@ -977,10 +977,10 @@ SBLim-2</p></td>
 1B 01-016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Williamsport,_KS,_USA_-_panoramio_(10).jpg" title="fig:Williamsport,_KS,_USA_-_panoramio_(10).jpg">Williamsport,_KS,_USA_-_panoramio_(10).jpg</a></p></td>
 <td><p>アメリカ カンザス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Combat_Air_Museum" title="wikilink">コンバット航空博物館</a><a href="https://www.combatairmuseum.org/">65</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Combat_Air_Museum" title="wikilink">コンバット航空博物館</a><a href="https://www.combatairmuseum.org/">67</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>ソ連機の塗装がされている。<a href="https://www.combatairmuseum.org/aircraft/mikoyanmig15.html">66</a></p></td>
+<td><p>ソ連機の塗装がされている。<a href="https://www.combatairmuseum.org/aircraft/mikoyanmig15.html">68</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -1002,7 +1002,7 @@ SBLim-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イギリス空軍博物館" title="wikilink">イギリス空軍博物館</a>コスフォード館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.rafmuseum.org.uk/documents/collections/1994-1338-A-Sb-Lim-2-MIG-15-1120.pdf&amp;ved=2ahUKEwiS24HAk7LpAhUGfnAKHYapDuwQFjAAegQIARAB&amp;usg=AOvVaw077ppdd_GbihxK74MoYgPB">67</a></p></td>
+<td><p><a href="https://www.rafmuseum.org.uk/documents/collections/1994-1338-A-Sb-Lim-2-MIG-15-1120.pdf&amp;ved=2ahUKEwiS24HAk7LpAhUGfnAKHYapDuwQFjAAegQIARAB&amp;usg=AOvVaw077ppdd_GbihxK74MoYgPB">69</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -1013,7 +1013,7 @@ SBLim-2</p></td>
 <td><p>クラクフ・ポーランド航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=147&amp;w=a">68</a></p></td>
+<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=147&amp;w=a">70</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Lim-2</p></td>
@@ -1024,7 +1024,7 @@ SBLim-2</p></td>
 <td><p>プレインズ・オヴ・フェイム航空博物館別館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>ほかにMiG-15bis / 91301号機だとする説もある。<a href="https://planesoffame.org/aircraft?submit=Submit&amp;planessearchv2=Mikoyan-Gurevich+MiG-15+bis">69</a></p></td>
+<td><p>ほかにMiG-15bis / 91301号機だとする説もある。<a href="https://planesoffame.org/aircraft?submit=Submit&amp;planessearchv2=Mikoyan-Gurevich+MiG-15+bis">71</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -1054,7 +1054,7 @@ SBLim-2</p></td>
 1B 01-420</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan_MiG15_(1420)_(G-BMZF)_(6865685459).jpg" title="fig:Mikoyan_MiG15_(1420)_(G-BMZF)_(6865685459).jpg">Mikoyan_MiG15_(1420)_(G-BMZF)_(6865685459).jpg</a></p></td>
 <td><p>イギリス サマセット州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fleet_Air_Arm_Museum" title="wikilink">イギリス海軍航空博物館</a><a href="https://www.fleetairarm.com/">70</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Fleet_Air_Arm_Museum" title="wikilink">イギリス海軍航空博物館</a><a href="https://www.fleetairarm.com/">72</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>赤円の内側に青円という、北朝鮮機に似た塗装がされている。</p></td>
@@ -1065,10 +1065,10 @@ SBLim-2</p></td>
 1B 01-524</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG-15_4_(30041236873).jpg" title="fig:MiG-15_4_(30041236873).jpg">MiG-15_4_(30041236873).jpg</a></p></td>
 <td><p>アメリカ ハワイ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/真珠湾航空博物館" title="wikilink">真珠湾航空博物館</a><a href="https://www.pearlharboraviationmuseum.org/">71</a>（<a href="https://ja.wikipedia.org/wiki/:en:Pearl_Horbor_Aviation_Museum" title="wikilink">英語版</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/真珠湾航空博物館" title="wikilink">真珠湾航空博物館</a><a href="https://www.pearlharboraviationmuseum.org/">73</a>（<a href="https://ja.wikipedia.org/wiki/:en:Pearl_Horbor_Aviation_Museum" title="wikilink">英語版</a>）</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://jp.pacificaviationmuseum.org/exhibits.html">72</a><a href="https://www.pearlharboraviationmuseum.org/exhibits/mikoyan-gurevich-mig-15-fighter/">73</a></p></td>
+<td><p><a href="https://jp.pacificaviationmuseum.org/exhibits.html">74</a><a href="https://www.pearlharboraviationmuseum.org/exhibits/mikoyan-gurevich-mig-15-fighter/">75</a></p></td>
 </tr>
 <tr class="even">
 <td><p>Lim-2</p></td>
@@ -1076,7 +1076,7 @@ SBLim-2</p></td>
 1B 01-614</p></td>
 <td><p><a href="https://live.staticflickr.com/1630/24214228212_1764abf7ee_b.jpg">写真</a></p></td>
 <td><p>アメリカ ネヴァダ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Naval_Air_Station_Fallon" title="wikilink">ファロン海軍航空基地航空公園</a><a href="http://airwingspotter.com/nas-fallon-air-park/">74</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Naval_Air_Station_Fallon" title="wikilink">ファロン海軍航空基地航空公園</a><a href="http://airwingspotter.com/nas-fallon-air-park/">76</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>北朝鮮機の塗装がされている。旧塗装<a href="https://ja.wikipedia.org/wiki/File:1614_a_Polish_built_Lim-2_as_Soviet_&quot;8170&quot;_Lim-2_(3253215195).jpg" title="fig:1614_a_Polish_built_Lim-2_as_Soviet_&quot;8170&quot;_Lim-2_(3253215195).jpg">1614_a_Polish_built_Lim-2_as_Soviet_"8170"_Lim-2_(3253215195).jpg</a></p></td>
@@ -1087,7 +1087,7 @@ SBLim-2</p></td>
 1B 01-621</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Air_Zoo_December_2019_140_(Mikoyan-Gurevich_MiG-15).jpg" title="fig:Air_Zoo_December_2019_140_(Mikoyan-Gurevich_MiG-15).jpg">Air_Zoo_December_2019_140_(Mikoyan-Gurevich_MiG-15).jpg</a></p></td>
 <td><p>アメリカ ミシガン州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Air_Zoo" title="wikilink">エア・ズー航空宇宙科学博物館</a><a href="https://www.airzoo.org/aircrafts">75</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Air_Zoo" title="wikilink">エア・ズー航空宇宙科学博物館</a><a href="https://www.airzoo.org/aircrafts">77</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1111,14 +1111,14 @@ SBLim-2</p></td>
 <td><p>クラクフ・ポーランド航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=209&amp;w=a">76</a></p></td>
+<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=209&amp;w=a">78</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SBLim-2</p></td>
 <td><p>3501</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG-15,_Lim-2_-_Soviet_Air_Force_-_301_Red_at_Flugausstellung_Hermeskeil,_pic2.JPG" title="fig:MiG-15,_Lim-2_-_Soviet_Air_Force_-_301_Red_at_Flugausstellung_Hermeskeil,_pic2.JPG">MiG-15,_Lim-2_-_Soviet_Air_Force_-_301_Red_at_Flugausstellung_Hermeskeil,_pic2.JPG</a></p></td>
 <td><p>ドイツ ラインラント＝プファルツ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flugausstellung_Peter_Junior" title="wikilink">ピーター・ユニォア飛行機展示場</a><a href="http://www.flugausstellung.de/">77</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Flugausstellung_Peter_Junior" title="wikilink">ピーター・ユニォア飛行機展示場</a><a href="http://www.flugausstellung.de/">79</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1131,14 +1131,14 @@ SBLim-2</p></td>
 <td><p>クラクフ・ポーランド航空博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=210&amp;w=a">78</a></p></td>
+<td><p><a href="https://muzeumlotnictwa.pl/zbiory_sz.php?ido=210&amp;w=a">80</a></p></td>
 </tr>
 <tr class="even">
 <td><p>SBLim-2</p></td>
 <td><p>622047</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PZL-Mielec_SBLim-2_(MiG-15UTI),_Poland_-_Air_Force_AN1202060.jpg" title="fig:PZL-Mielec_SBLim-2_(MiG-15UTI),_Poland_-_Air_Force_AN1202060.jpg">PZL-Mielec_SBLim-2_(MiG-15UTI),_Poland_-_Air_Force_AN1202060.jpg</a></p></td>
 <td><p>ブラジル サンパウロ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:pt:Memorial_Aeroespacial_Brasileiro" title="wikilink">ブラジル航空宇宙記念館</a><a href="http://www.mab.cta.br/#acervo">79</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:pt:Memorial_Aeroespacial_Brasileiro" title="wikilink">ブラジル航空宇宙記念館</a><a href="http://www.mab.cta.br/#acervo">81</a></p></td>
 <td><p>非公開</p></td>
 <td><p>保管中</p></td>
 <td><p>ブラジルの<a href="https://ja.wikipedia.org/wiki/:en:TAM_Museum" title="wikilink">TAM博物館に展示されていたが</a>、同博物館の閉館後に現在の施設へ移され、新しい展示館の完成待ち。</p></td>
@@ -1148,10 +1148,10 @@ SBLim-2</p></td>
 <td></td>
 <td></td>
 <td><p>アメリカ オハイオ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:MAPS_Air_Museum" title="wikilink">MAPS航空博物館</a><a href="https://mapsairmuseum.org/">80</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:MAPS_Air_Museum" title="wikilink">MAPS航空博物館</a><a href="https://mapsairmuseum.org/">82</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://mapsairmuseum.org/pzl-mielec-sb-lim-2-midget/">81</a></p></td>
+<td><p><a href="https://mapsairmuseum.org/pzl-mielec-sb-lim-2-midget/">83</a></p></td>
 </tr>
 <tr class="even">
 <td><p>MiG-15UTI</p></td>
@@ -1161,14 +1161,14 @@ SBLim-2</p></td>
 <td><p>ソルノク飛行機博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td></td>
+<td><p><a href="https://www.reptar.hu/en/repulogepeink/uti-mig-15-jet-trainer-aircraft-.html">84</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15UTI</p></td>
 <td><p>3507</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15UTI_18Jul2018.jpg" title="fig:Mikoyan-Gurevich_MiG-15UTI_18Jul2018.jpg">Mikoyan-Gurevich_MiG-15UTI_18Jul2018.jpg</a></p></td>
 <td><p>イスラエル 南部地区</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イスラエル空軍博物館" title="wikilink">イスラエル空軍博物館</a><a href="https://www.iaf.org.il/5700-he/IAF.aspx">82</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/イスラエル空軍博物館" title="wikilink">イスラエル空軍博物館</a><a href="https://www.iaf.org.il/5700-he/IAF.aspx">85</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1231,7 +1231,7 @@ SBLim-2</p></td>
 <td><p>415320</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:18-BLACK_at_Speyer_(9622138105).jpg" title="fig:18-BLACK_at_Speyer_(9622138105).jpg">18-BLACK_at_Speyer_(9622138105).jpg</a></p></td>
 <td><p>ドイツ ラインラント＝プファルツ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/シュパイアー技術博物館" title="wikilink">シュパイアー技術博物館</a><a href="http://www.sbap.be/museum/speyer/speyer.htm">83</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シュパイアー技術博物館" title="wikilink">シュパイアー技術博物館</a><a href="http://www.sbap.be/museum/speyer/speyer.htm">86</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1242,7 +1242,7 @@ SBLim-2</p></td>
 623908</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan_MiG-15bis_3908_(8113940545).jpg" title="fig:Mikoyan_MiG-15bis_3908_(8113940545).jpg">Mikoyan_MiG-15bis_3908_(8113940545).jpg</a></p></td>
 <td><p>チェコ 中央ボヘミア州</p></td>
-<td><p>ナームニェシュチ・ナド・オスラボウ空軍基地<a href="http://www.lznamest.army.cz/">84</a></p></td>
+<td><p>ナームニェシュチ・ナド・オスラボウ空軍基地<a href="http://www.lznamest.army.cz/">87</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1262,17 +1262,17 @@ SBLim-2</p></td>
 <td><p>512036</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Cavanaugh_Flight_Museum_December_2019_42_(Mikoyan-Gurevich_MiG-15UTI).jpg" title="fig:Cavanaugh_Flight_Museum_December_2019_42_(Mikoyan-Gurevich_MiG-15UTI).jpg">Cavanaugh_Flight_Museum_December_2019_42_(Mikoyan-Gurevich_MiG-15UTI).jpg</a></p></td>
 <td><p>アメリカ テキサス州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">85</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Cavanaugh_Flight_Museum" title="wikilink">キャヴァナー飛行博物館</a><a href="https://cavflight.org/">88</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119">86</a></p></td>
+<td><p><a href="https://cavflight.org/index.php?option=com_content&amp;view=article&amp;id=60&amp;Itemid=119">89</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15UTI</p></td>
 <td><p>612341</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:МиГ-15_УТИ.JPG" title="fig:МиГ-15_УТИ.JPG">МиГ-15_УТИ.JPG</a></p></td>
 <td><p>ウクライナ キエフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Ukraine_State_Aviation_Museum" title="wikilink">アリェーク・アントーノフ国立航空博物館</a><a href="http://aviamuseum.com.ua/en">87</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Ukraine_State_Aviation_Museum" title="wikilink">アリェーク・アントーノフ国立航空博物館</a><a href="http://aviamuseum.com.ua/en">90</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>[<a href="http://aviamuseum.com.ua/en/exposition/exposition/kb-mig/183-mig-15uti%5D旧塗装">http://aviamuseum.com.ua/en/exposition/exposition/kb-mig/183-mig-15uti]旧塗装</a><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15UTI,_Russia_-_Air_Force_AN2194076.jpg" title="fig:Mikoyan-Gurevich_MiG-15UTI,_Russia_-_Air_Force_AN2194076.jpg">Mikoyan-Gurevich_MiG-15UTI,_Russia_-_Air_Force_AN2194076.jpg</a></p></td>
@@ -1333,7 +1333,7 @@ SBLim-2</p></td>
 <td><p>2603 (EAF)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mig15_egypt.jpg" title="fig:Mig15_egypt.jpg">Mig15_egypt.jpg</a></p></td>
 <td><p>エジプト ポートサイド県</p></td>
-<td><p>ポートサイド軍事博物館<a href="https://www.mod.gov.eg/ModWebSite/MuseumDetails.aspx?id=4">88</a></p></td>
+<td><p>ポートサイド軍事博物館<a href="https://www.mod.gov.eg/ModWebSite/MuseumDetails.aspx?id=4">91</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1385,7 +1385,7 @@ SBLim-2</p></td>
 <td><p>47</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gurevich_MiG-15UTI_in_Museum_of_technique_2016-08-16.JPG" title="fig:Mikoyan-Gurevich_MiG-15UTI_in_Museum_of_technique_2016-08-16.JPG">Mikoyan-Gurevich_MiG-15UTI_in_Museum_of_technique_2016-08-16.JPG</a></p></td>
 <td><p>ロシア モスクワ州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヴァディム・ザドロズヌイ技術博物館" title="wikilink">ヴァディム・ザドロズヌイ技術博物館</a><a href="https://tmuseum.ru/">89</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/ヴァディム・ザドロズヌイ技術博物館" title="wikilink">ヴァディム・ザドロズヌイ技術博物館</a><a href="https://tmuseum.ru/">92</a><br />
 (Technical Museum of Vadim Zadorozhny)</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
@@ -1406,10 +1406,10 @@ SBLim-2</p></td>
 <td><p>128</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Korea-Seoul-War_Memorial_of_Korea-19.jpg" title="fig:Korea-Seoul-War_Memorial_of_Korea-19.jpg">Korea-Seoul-War_Memorial_of_Korea-19.jpg</a></p></td>
 <td><p>韓国 ソウル特別市</p></td>
-<td><p><a href="../Page/戦争記念館_(韓国).md" title="wikilink">戦争記念館</a><a href="https://www.warmemo.or.kr/">90</a></p></td>
+<td><p><a href="../Page/戦争記念館_(韓国).md" title="wikilink">戦争記念館</a><a href="https://www.warmemo.or.kr/">93</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.warmemo.or.kr/LNG/exhibition/exhibit.do">91</a></p></td>
+<td><p><a href="https://www.warmemo.or.kr/LNG/exhibition/exhibit.do">94</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>MiG-15UTI</p></td>
@@ -1489,7 +1489,7 @@ SBLim-2</p></td>
 <td></td>
 <td></td>
 <td></td>
-<td><p><a href="http://afterburner.com.pl/mikoyan-gurevich-mig-15uti-%D0%BC%D0%B8%D0%B3-15%D1%83%D1%82%D0%B8/">92</a></p></td>
+<td><p><a href="http://afterburner.com.pl/mikoyan-gurevich-mig-15uti-%D0%BC%D0%B8%D0%B3-15%D1%83%D1%82%D0%B8/">95</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>S-102<br />
@@ -1510,7 +1510,7 @@ MiG-15SB</p></td>
 141133</p></td>
 <td><p><a href="https://live.staticflickr.com/8640/16194532548_f9372ef753_3k.jpg">写真</a></p></td>
 <td><p>スロヴァキア トレンチーン県</p></td>
-<td><p>航空博物館<a href="http://www.akdubnica.sk/letecke-muzeum/">93</a></p></td>
+<td><p>航空博物館<a href="http://www.akdubnica.sk/letecke-muzeum/">96</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td><p>スラヴニツァ空港(letisko slavnica)に隣接した博物館にある。</p></td>
@@ -1533,7 +1533,7 @@ MiG-15SB</p></td>
 231397</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mig_15_a_Volandia.jpg" title="fig:Mig_15_a_Volandia.jpg">Mig_15_a_Volandia.jpg</a></p></td>
 <td><p>イタリア ロンバルディア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Volandia" title="wikilink">ヴォランディア公園・飛行博物館</a><a href="http://volandia.it/en/">94</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Volandia" title="wikilink">ヴォランディア公園・飛行博物館</a><a href="http://volandia.it/en/">97</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1589,10 +1589,10 @@ SBLim-2</p></td>
 242271</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG-15UTI,_1947,_Shenyang_Aircraft_Factory_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00349.jpg" title="fig:MiG-15UTI,_1947,_Shenyang_Aircraft_Factory_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00349.jpg">MiG-15UTI,_1947,_Shenyang_Aircraft_Factory_-_Evergreen_Aviation_&amp;_Space_Museum_-_McMinnville,_Oregon_-_DSC00349.jpg</a></p></td>
 <td><p>アメリカ オレゴン州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Evergreen_Aviation_&amp;_Space_Museum" title="wikilink">エヴァーグリーン航空宇宙博物館</a><a href="https://www.evergreenmuseum.org/">95</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Evergreen_Aviation_&amp;_Space_Museum" title="wikilink">エヴァーグリーン航空宇宙博物館</a><a href="https://www.evergreenmuseum.org/">98</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>アルバニア空軍機の塗装がされている。<a href="https://www.evergreenmuseum.org/military-aircrafts">96</a></p></td>
+<td><p>アルバニア空軍機の塗装がされている。<a href="https://www.evergreenmuseum.org/military-aircrafts">99</a></p></td>
 </tr>
 <tr class="even">
 <td><p>CS-102<br />
@@ -1601,10 +1601,10 @@ SBLim-2M</p></td>
 712273</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:PZL_Mielec_SBLim-2M_‘273’_(really_773)_(27003496606).jpg" title="fig:PZL_Mielec_SBLim-2M_‘273’_(really_773)_(27003496606).jpg">PZL_Mielec_SBLim-2M_‘273’_(really_773)_(27003496606).jpg</a></p></td>
 <td><p>アメリカ カリフォルニア州</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:March_Field_Air_Museum" title="wikilink">マーチフィールド航空博物館</a><a href="https://www.marchfield.org/">97</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:March_Field_Air_Museum" title="wikilink">マーチフィールド航空博物館</a><a href="https://www.marchfield.org/">100</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.marchfield.org/aircraft/fighter/mig-15-fagot-mikoyan-gurevich/">98</a></p></td>
+<td><p><a href="https://www.marchfield.org/aircraft/fighter/mig-15-fagot-mikoyan-gurevich/">101</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>CS-102</p></td>
@@ -1612,7 +1612,7 @@ SBLim-2M</p></td>
 722375</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:MiG-15_UTI_MU-4_Keski-Suomen_ilmailumuseo_2.JPG" title="fig:MiG-15_UTI_MU-4_Keski-Suomen_ilmailumuseo_2.JPG">MiG-15_UTI_MU-4_Keski-Suomen_ilmailumuseo_2.JPG</a></p></td>
 <td><p>フィンランド 中央スオミ県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Finnish_Air_Force_Museum" title="wikilink">フィンランド空軍博物館</a><a href="https://airforcemuseum.fi/">99</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Finnish_Air_Force_Museum" title="wikilink">フィンランド空軍博物館</a><a href="https://airforcemuseum.fi/">102</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1623,10 +1623,10 @@ SBLim-2M</p></td>
 822028</p></td>
 <td><p><a href="https://live.staticflickr.com/1764/28208618397_7860418f50_4k.jpg">写真</a></p></td>
 <td><p>フィンランド パイヤト＝ハメ県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Päijänne_Tavastia_Aviation_Museum" title="wikilink">パイヤト＝ハメン航空博物館</a><a href="https://www.ilmailumuseot.fi/">100</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Päijänne_Tavastia_Aviation_Museum" title="wikilink">パイヤト＝ハメン航空博物館</a><a href="https://www.ilmailumuseot.fi/">103</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090">101</a></p></td>
+<td><p><a href="https://www.ilmailumuseot.fi/tuotteet.html?id=20776/255090">104</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>CS-102</p></td>
@@ -1648,7 +1648,7 @@ SBLim-2M</p></td>
 <td><p>ベルリン・ガトウ空港軍事歴史博物館</p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.lars-rollberg.com/ap/11357/">102</a></p></td>
+<td><p><a href="https://www.lars-rollberg.com/ap/11357/">105</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>CS-102</p></td>
@@ -1679,10 +1679,10 @@ MiG-15bisSB</p></td>
 613652</p></td>
 <td><p><a href="https://live.staticflickr.com/7819/45647174425_63d6416810_6k.jpg">写真</a></p></td>
 <td><p>スロヴァキア ニトラ県</p></td>
-<td><p>アヴィアティック・クラブ<a href="http://www.aeroslovakia.sk/aviatik-klub.html">103</a></p></td>
+<td><p>アヴィアティック・クラブ<a href="http://www.aeroslovakia.sk/aviatik-klub.html">106</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>エアロ・スロヴァキア社の設立した財団が所有し、同社に展示されている。<a href="http://www.aeroslovakia.sk/aviatik-klub.html">104</a></p></td>
+<td><p>エアロ・スロヴァキア社の設立した財団が所有し、同社に展示されている。<a href="http://www.aeroslovakia.sk/aviatik-klub.html">107</a></p></td>
 </tr>
 <tr class="even">
 <td><p>S-103<br />
@@ -1691,10 +1691,10 @@ MiG-15bisSB</p></td>
 613677</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Aero_S-103_‘3677’_(39093390794).jpg" title="fig:Aero_S-103_‘3677’_(39093390794).jpg">Aero_S-103_‘3677’_(39093390794).jpg</a></p></td>
 <td><p>イギリス ロージアン地方</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:National_Museum_of_Flight" title="wikilink">国立飛行博物館</a><a href="https://www.nms.ac.uk/national-museum-of-flight">105</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:National_Museum_of_Flight" title="wikilink">国立飛行博物館</a><a href="https://www.nms.ac.uk/national-museum-of-flight">108</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://www.nms.ac.uk/national-museum-of-flight/things-to-see-and-do/explore-the-hangars/military-aircraft/aero-s-103/">106</a></p></td>
+<td><p><a href="https://www.nms.ac.uk/national-museum-of-flight/things-to-see-and-do/explore-the-hangars/military-aircraft/aero-s-103/">109</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>S-103<br />
@@ -1716,10 +1716,10 @@ MiG-15bisSB</p></td>
 623814</p></td>
 <td><p><a href="https://live.staticflickr.com/922/43379959191_8295d8453d_3k.jpg">写真</a></p></td>
 <td><p>フランス オート＝ガロンヌ県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:ISAE_SUPAERO" title="wikilink">国立高等航空宇宙研究所・大学</a><a href="https://websites.isae-supaero.fr/">107</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:ISAE_SUPAERO" title="wikilink">国立高等航空宇宙研究所・大学</a><a href="https://websites.isae-supaero.fr/">110</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p><a href="https://websites.isae-supaero.fr/mig-15/un-mig-15-a-l-isae-supaero/un-mig-15-a-l-isae-supaero">108</a></p></td>
+<td><p><a href="https://websites.isae-supaero.fr/mig-15/un-mig-15-a-l-isae-supaero/un-mig-15-a-l-isae-supaero">111</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>S-103</p></td>
@@ -1750,7 +1750,7 @@ MiG-15bisSB</p></td>
 623912</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan_MiG-15bisSB_3912_(8132629515).jpg" title="fig:Mikoyan_MiG-15bisSB_3912_(8132629515).jpg">Mikoyan_MiG-15bisSB_3912_(8132629515).jpg</a></p></td>
 <td><p>チェコ 南モラヴィア州</p></td>
-<td><p>航空機・地上技術博物館<a href="https://lhs-vyskov.cz/">109</a></p></td>
+<td><p>航空機・地上技術博物館<a href="https://lhs-vyskov.cz/">112</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>
@@ -1774,20 +1774,20 @@ MiG-15bisSB</p></td>
 713001</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Mikoyan-Gourevitch_MiG-15.jpg" title="fig:Mikoyan-Gourevitch_MiG-15.jpg">Mikoyan-Gourevitch_MiG-15.jpg</a></p></td>
 <td><p>フランス オート＝ガロンヌ県</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:fr:Aeroscopia" title="wikilink">アエホ・スコピシャ</a><a href="http://www.musee-aeroscopia.fr/en/">110</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/:fr:Aeroscopia" title="wikilink">アエホ・スコピシャ</a><a href="http://www.musee-aeroscopia.fr/en/">113</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>[<a href="http://www.musee-aeroscopia.fr/en/d%C3%A9couvrir-le-mus%C3%A9e/la-collection/les-a%C3%A9ronefs/mikoyan-gurevich-mig-15-bis%5D同じデザインのレプリカが">http://www.musee-aeroscopia.fr/en/d%C3%A9couvrir-le-mus%C3%A9e/la-collection/les-a%C3%A9ronefs/mikoyan-gurevich-mig-15-bis]同じデザインのレプリカが</a><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">米国</a><a href="../Page/カリフォルニア州.md" title="wikilink">加州のレストランにある</a>。<a href="https://socalspotters.net/2017/06/29/the-new-proud-bird-at-lax/">111</a><a href="https://ja.wikipedia.org/wiki/File:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg" title="fig:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg">PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg</a></p></td>
+<td><p>[<a href="http://www.musee-aeroscopia.fr/en/d%C3%A9couvrir-le-mus%C3%A9e/la-collection/les-a%C3%A9ronefs/mikoyan-gurevich-mig-15-bis%5D同じデザインのレプリカが">http://www.musee-aeroscopia.fr/en/d%C3%A9couvrir-le-mus%C3%A9e/la-collection/les-a%C3%A9ronefs/mikoyan-gurevich-mig-15-bis]同じデザインのレプリカが</a><a href="https://ja.wikipedia.org/wiki/アメリカ合衆国" title="wikilink">米国</a><a href="../Page/カリフォルニア州.md" title="wikilink">加州のレストランにある</a>。<a href="https://socalspotters.net/2017/06/29/the-new-proud-bird-at-lax/">114</a><a href="https://ja.wikipedia.org/wiki/File:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg" title="fig:PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg">PROUD_BIRD_RESTARAUNT_AND_MUSEUM_(2814459016).jpg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>S-103</p></td>
 <td><p>713005</p></td>
 <td><p><a href="https://live.staticflickr.com/452/32506928296_657c3cfd0e_b.jpg">写真</a></p></td>
 <td><p>チェコ ズリーン州</p></td>
-<td><p>航空博物館<a href="https://www.muzeum-kunovice.cz/">112</a></p></td>
+<td><p>航空博物館<a href="https://www.muzeum-kunovice.cz/">115</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
-<td><p>この機体のある博物館は、かつては「クノヴィツェ航空博物館」という名称だった。<a href="https://www.muzeum-kunovice.cz/mikojan-gurjevic-mig-15-bis-sb/">113</a></p></td>
+<td><p>この機体のある博物館は、かつては「クノヴィツェ航空博物館」という名称だった。<a href="https://www.muzeum-kunovice.cz/mikojan-gurjevic-mig-15-bis-sb/">116</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>S-103<br />
@@ -1806,7 +1806,7 @@ MiG-15bisSB</p></td>
 <td><p>231704</p></td>
 <td><p><a href="https://live.staticflickr.com/1887/43412169164_bff4deb1ee_3k.jpg">写真</a></p></td>
 <td><p>ルーマニア</p></td>
-<td><p>ドミートル・ドリーン・プロナーリウ航空博物館<a href="https://www.pucioasa-modelism.ro/muzeul-aviatic/">114</a></p></td>
+<td><p>ドミートル・ドリーン・プロナーリウ航空博物館<a href="https://www.pucioasa-modelism.ro/muzeul-aviatic/">117</a></p></td>
 <td><p>公開</p></td>
 <td><p>静態展示</p></td>
 <td></td>

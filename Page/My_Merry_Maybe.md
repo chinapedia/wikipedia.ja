@@ -132,7 +132,9 @@
   -
   - [My Merry Maybe（PS2） プレイステーション オフィシャルサイト](https://www.jp.playstation.com/software/title/slps25238.html)
 
-  - [Q'tron](http://blog.qtron.jp/)
+  - [My Merry Maybe 阿保剛KID作品集シリーズ作品紹介](http://5pb.jp/records/sp/kid/FPBD0575/)
+
+  - [Q'tron](https://web.archive.org/web/20110411104004/http://blog.qtron.jp/)（2011年4月11日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 
   - [ARCHIBOLD](http://sound.jp/archibold/)
 

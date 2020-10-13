@@ -449,7 +449,7 @@ Percussion 竹本一匹 / Saxophone 宇賀まり参加。
 
 <!-- end list -->
 
-  - [feelin' groovy　でいこう](http://fk03.blogspot.jp/) - ブログ
+  - [feelin' groovy　でいこう](https://fk03.blogspot.com/) - ブログ
 
   -
 <!-- end list -->

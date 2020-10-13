@@ -1,7 +1,7 @@
 > この記事は[Verilog](https://ja.wikipedia.org/wiki/Verilog)から翻訳されています。
 
 
-**Verilog**（ヴェリログ）は、**IEEE 1364**として標準化されている[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")（Hardware Description Language; HDL）である。最もよく使用されているのは、[デジタル回路](../Page/デジタル回路.md "wikilink")の[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")の設計と検証である。また、[アナログ回路](../Page/アナログ回路.md "wikilink")やの検証や、の設計にも使用されている\[1\]。
+**Verilog**（ヴェリログ）は、**IEEE 1364**として標準化されている[ハードウェア記述言語](../Page/ハードウェア記述言語.md "wikilink")（Hardware Description Language; HDL）である。最も重要な用途は、[デジタル回路](../Page/デジタル回路.md "wikilink")を[レジスタ転送レベル](../Page/レジスタ転送レベル.md "wikilink")で設計・検証することである。また、[アナログ回路](../Page/アナログ回路.md "wikilink")やの検証や、の設計にも使用されている\[1\]。
 
 もともとVerilogは[電子回路シミュレーション](https://ja.wikipedia.org/wiki/電子回路シミュレーション "wikilink")を行うシミュレータであり、それに使用する言語であった。文法は、[プログラミング言語](../Page/プログラミング言語.md "wikilink")の[C言語](../Page/C言語.md "wikilink")や[Pascal](../Page/Pascal.md "wikilink")に似ている。
 

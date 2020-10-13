@@ -91,6 +91,6 @@
 
 [Category:かつて存在した日本の旅行会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の旅行会社 "wikilink") [Category:かつて存在した宮城県の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した宮城県の企業 "wikilink") [Category:JTBグループ](https://ja.wikipedia.org/wiki/Category:JTBグループ "wikilink") [Category:1981年設立の企業](https://ja.wikipedia.org/wiki/Category:1981年設立の企業 "wikilink")
 
-1.  [JTB、最初の地域事業会社を東北に発足、持株会社への移行準備の一環で](http://www.travelvision.jp/news/detail.php?id=19653) - トラベルビジョン 2005年3月4日
-2.  [JTB、トラベランド店舗を地域各社に再編−首都圏法人営業、国内仕入関連も](http://www.travelvision.jp/news/detail.php?id=46381) - トラベルビジョン 2010年10月5日
-3.  [合併広告](https://www.jtbcorp.jp/jp/company/publicnotice/pdf/public_anouncement2017.pdf) 株式会社JTB：公式サイトより（2018年4月23日閲覧）
+1.
+2.
+3.

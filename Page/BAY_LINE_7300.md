@@ -111,7 +111,7 @@
 
   - きゃんひとみ、[KEN KAWASHIMA](https://ja.wikipedia.org/wiki/KEN_KAWASHIMA "wikilink")（1991年4月 - 1993年9月）
   - きゃんひとみ、フレンズ（1993年10月 - 1994年3月）
-  - きゃんひとみ、[我満嘉治](https://ja.wikipedia.org/wiki/我満嘉治 "wikilink")、相沢元気（現：[あいざわ元気](https://ja.wikipedia.org/wiki/あいざわ元気 "wikilink")）（1994年4月 - 1995年3月）
+  - きゃんひとみ、[我満嘉治](https://ja.wikipedia.org/wiki/我満嘉治 "wikilink")、相沢元気（現：[あいざわ元気](../Page/あいざわ元気.md "wikilink")）（1994年4月 - 1995年3月）
   - きゃんひとみ、島村幸男、我満嘉治（1995年4月 - 1995年9月）
   - きゃんひとみ、島村幸男（1995年10月 - 1998年3月）
   - 島村幸男、[菅野莉子](https://ja.wikipedia.org/wiki/菅野莉子 "wikilink")（1998年4月 - 1999年3月）

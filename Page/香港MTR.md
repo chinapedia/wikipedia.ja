@@ -22,7 +22,7 @@
   - [ADtranz-CAF電車](../Page/香港地鉄ADtranz-CAF電車.md "wikilink") - [東涌線](https://ja.wikipedia.org/wiki/東涌線 "wikilink")・[機場快線](https://ja.wikipedia.org/wiki/機場快線 "wikilink")
   - [中国製電車](../Page/香港鉄路市区線中国製電車_\(初代\).md "wikilink")（C-Train） - [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")
   - [南港島線中国製電車](../Page/香港鉄路南港島線中国製電車.md "wikilink")（S-Train） - [南港島線](https://ja.wikipedia.org/wiki/南港島線 "wikilink")
-  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [觀塘線古いシステム](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[荃湾線](https://ja.wikipedia.org/wiki/荃湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
+  - [中車四方電車](https://ja.wikipedia.org/wiki/:en:MTR_Urban_Lines_Vision_Train "wikilink")（Q-Train）（2019年より導入予定）- [観塘線](https://ja.wikipedia.org/wiki/観塘線 "wikilink")・[荃湾線](https://ja.wikipedia.org/wiki/荃湾線 "wikilink")・[港島線](https://ja.wikipedia.org/wiki/港島線 "wikilink")・[将軍澳線](https://ja.wikipedia.org/wiki/将軍澳線 "wikilink")
 
 旧香港地下鉄の路線で使用されている車両は2019年現在5種類存在する。一般車両については[英国](https://ja.wikipedia.org/wiki/イギリス "wikilink")、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")、[韓国](../Page/大韓民国.md "wikilink")、[中国の各国で製造されている](../Page/中華人民共和国.md "wikilink")。一次車では元宗主国であった[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")が建設した影響からか、[ロンドン地下鉄](../Page/ロンドン地下鉄.md "wikilink")と近い[デザイン](../Page/デザイン.md "wikilink")の施しが随所に見られた。連結部は貫通しており扉は無く車両間の移動は自由である。また連結部の扉が無いため、直線部への列車進入時には前後では長い空間が広がる。[座席](../Page/座席.md "wikilink")は全て[ロングシートで](../Page/鉄道車両の座席.md "wikilink")、素材は[ステンレスである](../Page/ステンレス鋼.md "wikilink")。2009年より[優先席](https://ja.wikipedia.org/wiki/優先席 "wikilink")や[車椅子](https://ja.wikipedia.org/wiki/車椅子 "wikilink")専用エリアが設置された。
 
@@ -207,6 +207,20 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 </tr>
 <tr class="even">
 <td><p> </p></td>
+<td><p><a href="../Page/馬鞍山線.md" title="wikilink">馬鞍山線</a>（Ma On Shan Line）</p></td>
+<td><p>（Tai Wai）〜（Wu Kai Sha）</p></td>
+<td><p>11.4km</p></td>
+<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
+</tr>
+<tr class="odd">
+<td><p> </p></td>
+<td><p><a href="../Page/屯馬線.md" title="wikilink">屯馬線</a>（<a href="https://ja.wikipedia.org/wiki/沙田至中環線" title="wikilink">東西走廊</a>）（Tuen Ma Line）</p></td>
+<td><p>（Wu Kai Sha）〜（Kai Tak）</p></td>
+<td></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+</tr>
+<tr class="even">
+<td><p> </p></td>
 <td><p><a href="../Page/西鉄線.md" title="wikilink">西鉄線</a> (West Rail Line)</p></td>
 <td><p>（Hung Hom）〜（Tuen Mun）</p></td>
 <td><p>35.7km</p></td>
@@ -214,33 +228,26 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 </tr>
 <tr class="odd">
 <td><p> </p></td>
-<td><p><a href="../Page/馬鞍山線.md" title="wikilink">馬鞍山線</a>（Ma On Shan Line）</p></td>
-<td><p>（Tai Wai）〜（Wu Kai Sha）</p></td>
-<td><p>11.4km</p></td>
-<td><p><a href="../Page/2004年.md" title="wikilink">2004年</a></p></td>
-</tr>
-<tr class="even">
-<td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/迪士尼線" title="wikilink">迪士尼線</a>（ディズニーランドリゾート線）（Disneyland Resort Line）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/迪士尼線" title="wikilink">迪士尼線</a>（Disneyland Resort Line）</p></td>
 <td><p>欣澳（Sunny Bay）～迪士尼（Disney Land Resort）</p></td>
 <td><p>3.5km</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p> </p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南港島線" title="wikilink">南港島線</a> (South Island Line)</p></td>
 <td><p>（South Horizons）〜（Admiralty）</p></td>
 <td><p>7.4km</p></td>
 <td><p><a href="../Page/2016年.md" title="wikilink">2016年</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p> </p></td>
 <td><p><a href="../Page/軽鉄_(香港).md" title="wikilink">軽鉄</a> （Light Rail）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/屯門区" title="wikilink">屯門区</a>、<a href="../Page/元朗区.md" title="wikilink">元朗区</a>、<a href="../Page/天水囲.md" title="wikilink">天水囲</a>区</p></td>
 <td><p>36.15km</p></td>
 <td><p><a href="../Page/1988年.md" title="wikilink">1988年</a></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p> </p></td>
 <td><p><a href="../Page/広深港高速鉄道.md" title="wikilink">広深港高速鉄道</a>香港段 (Guangzhou–Shenzhen–Hong Kong express rail link hong kong section)</p></td>
 <td><p>（Hong Kong West Kowloon）〜（Futian）</p></td>
@@ -265,14 +272,14 @@ MTR内の車両は全て[冷房](../Page/冷房.md "wikilink")完備である。
 <tbody>
 <tr class="odd">
 <td><p> </p></td>
-<td><p><a href="../Page/屯馬線.md" title="wikilink">屯馬線</a>（Tuen Ma Line）</p></td>
-<td><p>（Tuen Mun）〜（Wu Kai Sha）</p></td>
-<td><p>57km</p></td>
+<td><p>屯馬線（東西走廊）（Tuen Ma Line）</p></td>
+<td><p>（Kai Tak）〜（Hung Hom）</p></td>
+<td></td>
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>開業予定</p></td>
 </tr>
 <tr class="even">
 <td><p> </p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/沙田至中環線" title="wikilink">東鐵線過海段</a> (East Rail Line cross-harbour extension)</p></td>
+<td><p>東鉄線（<a href="https://ja.wikipedia.org/wiki/沙田至中環線" title="wikilink">南北走廊</a>） (East Rail Line cross-harbour extension)</p></td>
 <td><p>（Hung Hom）〜（Admiralty）</p></td>
 <td><p>6km</p></td>
 <td><p><a href="../Page/2021年.md" title="wikilink">2021年</a>開業予定</p></td>

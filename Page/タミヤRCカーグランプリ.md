@@ -20,7 +20,7 @@
   - [大野香菜](../Page/大野香菜.md "wikilink")（開始〜1986年9月）
   - [日髙のり子](../Page/日髙のり子.md "wikilink")（1986年10月〜1990年5月） - 1998年ではアニメ『[爆走兄弟レッツ&ゴー\!\!MAX](https://ja.wikipedia.org/wiki/爆走兄弟レッツ&ゴー!!MAX "wikilink")』の主人公の一人・一文字烈矢を演じる。
   - [前田靖幸](https://ja.wikipedia.org/wiki/前田靖幸 "wikilink") （1988年4月〜1994年3月） - 1986年より田宮模型の名物開発スタッフとして「前ちゃん」の愛称で番組に登場。巧みな話術を買われ1988年より社員ながら正式にレギュラーの司会･解説役に起用される。尚、現在はタミヤを退社し、[スクウェア](../Page/スクウェア_\(ゲーム会社\).md "wikilink")（現：[スクウェア・エニックス](../Page/スクウェア・エニックス.md "wikilink")）、[楽天](https://ja.wikipedia.org/wiki/楽天 "wikilink")、[AQインタラクティブ](../Page/AQインタラクティブ.md "wikilink")を経て、[ユビキタスエンターテインメント](https://ja.wikipedia.org/wiki/ユビキタスエンターテインメント "wikilink")に勤務している。
-  - [小林彩子](https://ja.wikipedia.org/wiki/小林彩子 "wikilink")（1990年5月〜1991年5月）
+  - [小林彩子](https://ja.wikipedia.org/wiki/小林彩子 "wikilink")（1990年5月〜1991年5月） - テーマソング「[好きさ好きさ好きさ](https://ja.wikipedia.org/wiki/好きさ好きさ好きさ#小林彩子版 "wikilink")」を歌唱。
   - [春風亭昇太](../Page/春風亭昇太.md "wikilink")（1994年4月〜終了まで）
   - [吹田明日香](../Page/吹田明日香.md "wikilink")（1991年5月〜1995年7月）
   - [細木美和](../Page/細木美和.md "wikilink")（1995年8月〜1997年3月）

@@ -68,7 +68,7 @@
 <td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–2</p></td>
-<td><p>'''3–2</p></td>
+<td><p><strong>3–2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -76,7 +76,7 @@
 <td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>3–0</p></td>
 <td><p>1–0</p></td>
-<td><p>'''4–0</p></td>
+<td><p><strong>4–0</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -86,7 +86,7 @@
 <td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–2</p></td>
-<td><p>'''3位</p></td>
+<td><p><strong>3位</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -117,7 +117,7 @@
 <td><p><a href="../Page/ハンブルガーSV.md" title="wikilink">ハンブルガー</a></p></td>
 <td><p>1–0</p></td>
 <td><p>0–2</p></td>
-<td><p>'''1–2</p></td>
+<td><p><strong>1–2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 </tr>
@@ -128,7 +128,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FKヴラズニア" title="wikilink">ヴラズニア</a></p></td>
 <td><p>2–1</p></td>
 <td><p>0–0</p></td>
-<td><p>'''2–1</p></td>
+<td><p><strong>2–1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
@@ -136,7 +136,7 @@
 <td><p><a href="../Page/USチッタ・ディ・パレルモ.md" title="wikilink">パレルモ</a></p></td>
 <td><p>1–1</p></td>
 <td><p>2–2</p></td>
-<td><p>'''3–3 (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
+<td><p><strong>3–3</strong> (<a href="../Page/アウェーゴール.md" title="wikilink">a</a>)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -146,7 +146,7 @@
 <td><p><a href="../Page/ストーク・シティFC.md" title="wikilink">ストーク・シティ</a></p></td>
 <td><p>0–1</p></td>
 <td><p>1–4</p></td>
-<td><p>'''1–5</p></td>
+<td><p><strong>1–5</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -158,7 +158,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/FCチフラ・サチヘレ" title="wikilink">チフラ・サチヘレ</a></p></td>
 <td><p>2–0</p></td>
 <td><p>3–1</p></td>
-<td><p>'''5–1</p></td>
+<td><p><strong>5–1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -166,7 +166,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/BKヘッケン" title="wikilink">BKヘッケン</a></p></td>
 <td><p>1–0</p></td>
 <td><p>2–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p><strong>3–1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -176,7 +176,7 @@
 <td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン・ベオグラード</a></p></td>
 <td><p>3–0</p></td>
 <td><p>0–1</p></td>
-<td><p>'''3–1</p></td>
+<td><p><strong>3–1</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -186,7 +186,7 @@
 <td><p>ディナモ・キエフ</p></td>
 <td><p>0–2</p></td>
 <td><p>0–3</p></td>
-<td><p>'''4位</p></td>
+<td><p><strong>4位</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -218,7 +218,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ハポエル・ベエルシェバFC" title="wikilink">ハポエル・ベエルシェバ</a></p></td>
 <td><p>2–1</p></td>
 <td><p>1–1</p></td>
-<td><p>'''3–2</p></td>
+<td><p><strong>3–2</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -226,7 +226,7 @@
 <td><p><a href="../Page/FCファドゥーツ.md" title="wikilink">ファドゥーツ</a></p></td>
 <td><p>0–0</p></td>
 <td><p>2–2</p></td>
-<td><p>'''2–2 (a)</p></td>
+<td><p><strong>2–2</strong> (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -236,7 +236,7 @@
 <td><p>スパルタ・プラハ</p></td>
 <td><p>3–3</p></td>
 <td><p>1–3</p></td>
-<td><p>'''4–6</p></td>
+<td><p><strong>4–6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -248,7 +248,7 @@
 <td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
 <td></td>
 <td></td>
-<td><p>'''</p></td>
+<td><p>''' '''</p></td>
 <td></td>
 </tr>
 </tbody>

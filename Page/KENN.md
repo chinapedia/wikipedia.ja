@@ -2656,6 +2656,20 @@
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2021年</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>5月28日</p></td>
+<td><p>ツキウタ。 THE ANIMATION2 BD・DVD第5巻特典CD</p></td>
+<td><p>皐月葵（<strong>KENN</strong>）</p></td>
+<td><p>「Fly Together」</p></td>
+<td><p>テレビアニメ『ツキウタ。 THE ANIMATION2』エンディングテーマ</p></td>
+</tr>
 </tbody>
 </table>
 

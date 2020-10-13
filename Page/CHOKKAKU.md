@@ -1,7 +1,7 @@
 > この記事は[CHOKKAKU](https://ja.wikipedia.org/wiki/CHOKKAKU)から翻訳されています。
 
 
-**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
+**CHOKKAKU**（チョッカク、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[アレンジャー](../Page/編曲家.md "wikilink")、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")。旧名は**島田 直角**で、本名は島田直。[広島県](../Page/広島県.md "wikilink")出身。[広島修道大学](../Page/広島修道大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")[経営学](../Page/経営学.md "wikilink")科出身。
 
 ## 人物
 
@@ -561,7 +561,7 @@
   - 「[Open Your Heart 〜素顔のままで〜](https://ja.wikipedia.org/wiki/Open_Your_Heart〜素顔のままで〜 "wikilink")」（編曲）
   - 「[Wonderful Life](https://ja.wikipedia.org/wiki/Wonderful_Life_\(JUJUのアルバム\) "wikilink")」（作曲・編曲）
   - 「[ガーベラの花](https://ja.wikipedia.org/wiki/JUJU_\(アルバム\) "wikilink")」（編曲）
-  - 「[つつみ込むように…](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")」（編曲）
+  - 「[つつみ込むように…](https://ja.wikipedia.org/wiki/Request_\(JUJUのアルバム\) "wikilink")」（編曲）
 
 **[SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")**
 
@@ -599,7 +599,7 @@
   - 「[Start of Life](https://ja.wikipedia.org/wiki/SLOW_TIME "wikilink")」（編曲）
   - 「[大切な場所](https://ja.wikipedia.org/wiki/Times..._\(玉木宏のアルバム\) "wikilink")」（編曲）
 
-**[チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")**
+**[チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")**
 
   - 「[Wow Oh\! Oh\!](https://ja.wikipedia.org/wiki/Cherie! "wikilink")」（編曲）
 

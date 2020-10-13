@@ -70,7 +70,7 @@
 
   - [暗号](../Page/暗号.md "wikilink")
   - [暗号理論](../Page/暗号理論.md "wikilink")
-  - [ラティス暗号](https://ja.wikipedia.org/wiki/ラティス暗号 "wikilink")
+  - [格子暗号](../Page/格子暗号.md "wikilink")
   - [NTRU署名](https://ja.wikipedia.org/wiki/NTRU署名 "wikilink")
 
 [Category:暗号](https://ja.wikipedia.org/wiki/Category:暗号 "wikilink")

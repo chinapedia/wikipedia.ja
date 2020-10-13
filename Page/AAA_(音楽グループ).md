@@ -130,51 +130,51 @@
 
 ### 2005年 - 2010年
 
-[2005年](../Page/2005年.md "wikilink")2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")が配信された。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル『[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")』でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
+2005年2月、初代[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")の[富樫明生](https://ja.wikipedia.org/wiki/富樫明生 "wikilink")が宇野、西島、末吉という3人組で[avex traxから夏にデビューを予定され](https://ja.wikipedia.org/wiki/avex_trax "wikilink")、3人がavex artist academy（aaa）でレッスンを受ける\[10\]。その後同じくレッスンを積んでいた浦田、日高、與を加えた6人がメンバーとなり、4月にAAAが正式に発表され、後藤友香里が加入し、浦田直也がリーダーに就任する。同時に新曲「[Friday Party](../Page/Friday_Party.md "wikilink")」の[プロモーション・ビデオが配信された](../Page/ミュージック・ビデオ.md "wikilink")。5月にAAAとしての活動が開始し、16日に伊藤千晃がオーディション番組『[歌スタ\!\!](../Page/歌スタ!!.md "wikilink")』の優勝者となり\[11\]、6月15日に公式サイトで伊藤の加入が発表され、8人のメンバーで活動することになる。8月から11月にかけて15回以上にわたるストリートライブ（青山、渋谷、大阪、福岡、札幌）が行われ、9月14日にシングル『[BLOOD on FIRE](../Page/BLOOD_on_FIRE.md "wikilink")』でデビュー。同作で[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2005新人賞、[第38回日本有線大賞](../Page/日本有線大賞.md "wikilink") 有線音楽賞、[第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink") 最優秀新人賞を受賞した。
 
-[2006年](../Page/2006年.md "wikilink")1月1日、1stアルバム『[ATTACK](../Page/ATTACK.md "wikilink")』が発売。5月4日から7日にかけてAAAが主演する舞台『[Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")』が公演された。6月4日、AAAオフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「AAA Party（トリエーパーティ）」が設立され、入会受付が始まった。9月13日、[dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")提供による無料ライブ『AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館』が開催された\[12\]\[13\]。 11月20日、7thシングル『[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")』で、[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006ゴールドアーティスト賞を受賞した。11月28日に[横浜税関](../Page/横浜税関.md "wikilink")134周年記念税関記念日式典にてAAAが一日税関長を務め、12月23日に東京ラフォーレミュージアム六本木にて初ファンクラブイベントを開催した。
+2006年1月1日、1stアルバム『[ATTACK](../Page/ATTACK.md "wikilink")』が発売。5月4日から7日にかけてAAAが主演する舞台『[Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")』が公演された。6月4日、AAAオフィシャル[ファンクラブ](../Page/ファンクラブ.md "wikilink")「AAA Party（トリエーパーティ）」が設立され、入会受付が始まった。9月13日、[dwango](https://ja.wikipedia.org/wiki/dwango "wikilink")提供による無料ライブ『AAA 1st Anniversary Live 060913 〜3rd ATTACK〜 日本武道館』が開催された\[12\]\[13\]。 11月20日、7thシングル『[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")』で、[ベストヒット歌謡祭](../Page/ベストヒット歌謡祭.md "wikilink")2006ゴールドアーティスト賞を受賞した。11月28日に[横浜税関](../Page/横浜税関.md "wikilink")134周年記念税関記念日式典にてAAAが一日税関長を務め、12月23日に東京ラフォーレミュージアム六本木にて初ファンクラブイベントを開催した。
 
-[2007年](../Page/2007年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、後藤の体調不良による脱退がAAA公式ホームページで発表された\[14\]。これよりメンバーは7人となった。7月19日から23日まで[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にて行われたアニメコンベンションイベント『[OTAKON 2007](https://ja.wikipedia.org/wiki/:en:Otakon "wikilink")』に出演\[15\]。
+2007年6月11日、後藤の体調不良による脱退がAAA公式ホームページで発表された\[14\]。これよりメンバーは7人となった。7月19日から23日まで[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[ボルチモア](../Page/ボルチモア.md "wikilink")にて行われたアニメコンベンションイベント『[OTAKON 2007](https://ja.wikipedia.org/wiki/:en:Otakon "wikilink")』に出演\[15\]。
 
-[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月9日](../Page/1月9日.md "wikilink")、17thシングル『[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")』が発売され、AAA初となる[オリコン週間シングルランキング第](../Page/オリコンチャート.md "wikilink")1位を獲得した\[16\]。3月5日、グループ初のアルバム『[ATTACK ALL AROUND](../Page/ATTACK_ALL_AROUND_\(アルバム\).md "wikilink")」が発売された。8月26日、東京新木場[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")[MTV](../Page/MTV.md "wikilink")主催イベント『MTV STUDENT VOICE AWARD 2008』に出演し、最優秀ダンスアーティスト賞を受賞した。この当時グループ内はバラバラになっており、グループは解散の危機に陥った\[17\]。その中で宇野はグループの存続を主張し\[18\]、皆で何かを掴みたいという理由から解散を撤回\[19\]。以降、リーダー・浦田はAAAを3人メイン体制から全員体制の方向に引かれている\[20\]。
+2008年1月9日、17thシングル『[MIRAGE](../Page/MIRAGE_\(AAAの曲\).md "wikilink")』が発売され、AAA初となる[オリコン週間シングルランキング第](../Page/オリコンチャート.md "wikilink")1位を獲得した\[16\]。3月5日、グループ初のアルバム『[ATTACK ALL AROUND](../Page/ATTACK_ALL_AROUND_\(アルバム\).md "wikilink")」が発売された。8月26日、東京新木場[STUDIO COASTにて](../Page/STUDIO_COAST.md "wikilink")[MTV](../Page/MTV.md "wikilink")主催イベント『MTV STUDENT VOICE AWARD 2008』に出演し、最優秀ダンスアーティスト賞を受賞した。この当時グループ内はバラバラになっており、グループは解散の危機に陥った\[17\]。その中で宇野はグループの存続を主張し\[18\]、皆で何かを掴みたいという理由から解散を撤回\[19\]。以降、リーダー・浦田はAAAを3人メイン体制から全員体制の方向に引かれている\[20\]。
 
-[2009年](../Page/2009年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")、デビュー4周年記念ライブ『AAA 4th Anniversary LIVE』が[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われ、過去最高1万1000人を動員した\[21\]。12月21日、AAAオフィシャルモバイルサイト『AAA mobile（トリエー・モバイル）』がグランドオープン。
+2009年9月22日、デビュー4周年記念ライブ『AAA 4th Anniversary LIVE』が[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")で行われ、過去最高1万1000人を動員した\[21\]。12月21日、AAAオフィシャルモバイルサイト『AAA mobile（トリエー・モバイル）』がグランドオープン。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月27日](../Page/1月27日.md "wikilink")、[赤坂サカス](../Page/赤坂サカス.md "wikilink")にて、White Sacas『[瀬尾茜](https://ja.wikipedia.org/wiki/瀬尾茜 "wikilink")×AAA コラボレーション アイスショー』が開催された。[6月25日](../Page/6月25日.md "wikilink")に[アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")において、AAAピグLIVE『AAA Heart to ♥ TOUR 2010』が行われた\[22\]\[23\]。
+2010年1月27日、[赤坂サカス](../Page/赤坂サカス.md "wikilink")にて、White Sacas『[瀬尾茜](https://ja.wikipedia.org/wiki/瀬尾茜 "wikilink")×AAA コラボレーション アイスショー』が開催された。6月25日に[アメーバピグ](https://ja.wikipedia.org/wiki/アメーバピグ "wikilink")において、AAAピグLIVE『AAA Heart to ♥ TOUR 2010』が行われた\[22\]\[23\]。
 
 ### 2011年 - 2015年
 
-[2011年](../Page/2011年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")、AAA YouTubeオフィシャルチャンネルがオープン。オープンを記念して、日本のレーベルとしては初となるモデレーター機能を使用したミュージック・ビデオ投票が行われ、「[MUSIC\!\!\!](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」が1位となった\[24\]。9月14日にベスト・アルバム『[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")』が発売され、自身初のオリコン週間アルバムランキング第1位を獲得する\[25\]。
+2011年2月1日、AAA YouTubeオフィシャルチャンネルがオープン。オープンを記念して、日本のレーベルとしては初となるモデレーター機能を使用したミュージック・ビデオ投票が行われ、「[MUSIC\!\!\!](https://ja.wikipedia.org/wiki/MUSIC!!!/ZERO "wikilink")」が1位となった\[24\]。9月14日にベスト・アルバム『[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")』が発売され、自身初のオリコン週間アルバムランキング第1位を獲得する\[25\]。
 
-[2012年](../Page/2012年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")、7thアルバム『[777 〜TRIPLE SEVEN〜](https://ja.wikipedia.org/wiki/777_〜TRIPLE_SEVEN〜 "wikilink")』を発売。過去最高となる初動売上5.4万枚を記録し、[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")付のオリコン週間アルバムランキングで2位を獲得した\[26\]。[8月23日](../Page/8月23日.md "wikilink")、[ららぽーと豊洲](https://ja.wikipedia.org/wiki/ららぽーと豊洲 "wikilink")にて7thアルバム『777 〜TRIPLE SEVEN〜』発売記念スペシャルイベントが開催され、ファン777人が集まり、777発の花火が打ち上げられた\[27\]。
+2012年8月22日、7thアルバム『[777 〜TRIPLE SEVEN〜](https://ja.wikipedia.org/wiki/777_〜TRIPLE_SEVEN〜 "wikilink")』を発売。過去最高となる初動売上5.4万枚を記録し、9月3日付のオリコン週間アルバムランキングで2位を獲得した\[26\]。8月23日、[ららぽーと豊洲](https://ja.wikipedia.org/wiki/ららぽーと豊洲 "wikilink")にて7thアルバム『777 〜TRIPLE SEVEN〜』発売記念スペシャルイベントが開催され、ファン777人が集まり、777発の花火が打ち上げられた\[27\]。
 
-[2013年](../Page/2013年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")、AAA限定オンラインショップ『え〜ショップ』のリアル店舗『え〜ショップ in URAHARAJYUKU』が[裏原宿](../Page/裏原宿.md "wikilink")にて期間限定でオープンした\[28\]。[6月13日](../Page/6月13日.md "wikilink")に[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")によるライブイベント『LOVE in Action Meeting（LIVE）』が[日本武道館](../Page/日本武道館.md "wikilink")にて行われ、ライブパフォーマンスを披露した\[29\]。[9月18日](../Page/9月18日.md "wikilink")に8thアルバム『[Eighth Wonder](https://ja.wikipedia.org/wiki/Eighth_Wonder "wikilink")』が発売され、オリジナル・アルバムでは初となるオリコン週間アルバムランキング1位を獲得した\[30\]。[12月31日](../Page/12月31日.md "wikilink")、[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")に紅白史上初の組替えで、紅組として出場\[31\]。
+2013年3月13日、AAA限定オンラインショップ『え〜ショップ』のリアル店舗『え〜ショップ in URAHARAJYUKU』が[裏原宿](../Page/裏原宿.md "wikilink")にて期間限定でオープンした\[28\]。6月13日に[日本赤十字社](https://ja.wikipedia.org/wiki/日本赤十字社 "wikilink")によるライブイベント『LOVE in Action Meeting（LIVE）』が[日本武道館](../Page/日本武道館.md "wikilink")にて行われ、ライブパフォーマンスを披露した\[29\]。9月18日に8thアルバム『[Eighth Wonder](https://ja.wikipedia.org/wiki/Eighth_Wonder "wikilink")』が発売され、オリジナル・アルバムでは初となるオリコン週間アルバムランキング1位を獲得した\[30\]。12月31日、[第64回NHK紅白歌合戦](https://ja.wikipedia.org/wiki/第64回NHK紅白歌合戦 "wikilink")に紅白史上初の組替えで、紅組として出場\[31\]。
 
-[2014年](../Page/2014年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")より「[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")」が『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』のオープニングテーマとしてO.A.がスタートし、アニメ15周年のPR大使として任命された\[32\]。同作は[7月2日](../Page/7月2日.md "wikilink")に41作目のシングルとして発売された。
+2014年1月19日より「[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")」が『[ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink")』のオープニングテーマとしてO.A.がスタートし、アニメ15周年のPR大使として任命された\[32\]。同作は7月2日に41作目のシングルとして発売された。
 
-[2015年](../Page/2015年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、[東京体育館](../Page/東京体育館.md "wikilink")にて『AAA NEW YEAR PARTY 2015』が行われ、10周年記念として7カ月連続リリースすることが発表された\[33\]\[34\]\[35\]\[36\]。[2月20日](../Page/2月20日.md "wikilink")に「[Lil' Infinity](https://ja.wikipedia.org/wiki/Lil'_Infinity "wikilink")」がイメージソングとなった映画『きっと、星のせいじゃない。』が公開され\[37\]\[38\]\[39\]、2月25日に44枚目のシングルとして発売された。[3月21日](../Page/3月21日.md "wikilink")、原宿に期間限定カフェ『AAA Cafe powered by スイーツパラダイス × avex management』がオープンする\[40\]。[4月4日](../Page/4月4日.md "wikilink")、初の全4公演アジアツアー『AAA ASIA TOUR 2015 -ATTACK ALL AROUND-』が、SCAPE ([シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"))にてスタートした\[41\]。[9月16日](../Page/9月16日.md "wikilink")にベスト・アルバム『[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")』が発売。初週売上8.6万枚を記録し、[9月28日](../Page/9月28日.md "wikilink")付のオリコン週間アルバムランキング第1位を獲得した\[42\]。[9月21日](../Page/9月21日.md "wikilink")に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")にて3日間の初の野外ライブ『AAA 10th Anniversary SPECIAL 野外LIVE in 富士急ハイランド』を開催し、約5万人を動員した\[43\]。
+2015年1月1日、[東京体育館](../Page/東京体育館.md "wikilink")にて『AAA NEW YEAR PARTY 2015』が行われ、10周年記念として7カ月連続リリースすることが発表された\[33\]\[34\]\[35\]\[36\]。2月20日に「[Lil' Infinity](https://ja.wikipedia.org/wiki/Lil'_Infinity "wikilink")」がイメージソングとなった映画『きっと、星のせいじゃない。』が公開され\[37\]\[38\]\[39\]、2月25日に44枚目のシングルとして発売された。3月21日、原宿に期間限定カフェ『AAA Cafe powered by スイーツパラダイス × avex management』がオープンする\[40\]。4月4日、初の全4公演アジアツアー『AAA ASIA TOUR 2015 -ATTACK ALL AROUND-』が、SCAPE ([シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink"))にてスタートした\[41\]。9月16日にベスト・アルバム『[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")』が発売。初週売上8.6万枚を記録し、9月28日付のオリコン週間アルバムランキング第1位を獲得した\[42\]。9月21日に[富士急ハイランド](https://ja.wikipedia.org/wiki/富士急ハイランド "wikilink")にて3日間の初の野外ライブ『AAA 10th Anniversary SPECIAL 野外LIVE in 富士急ハイランド』を開催し、約5万人を動員した\[43\]。
 
 ### 2016年 - 2020年
 
-[2016年](../Page/2016年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、初開催となった『ハウステンボス MUSIC FES.2016』に出演し、トリを務めた。11月12日、東京・大阪で全4公演で初のドーム公演『AAA Special Live 2016 in Dome -FANTASTIC OVER-』が、[東京ドーム](../Page/東京ドーム.md "wikilink")・[京セラドーム大阪にて行われた](../Page/大阪ドーム.md "wikilink")\[44\]。
+2016年6月11日、初開催となった『ハウステンボス MUSIC FES.2016』に出演し、トリを務めた。11月12日、東京・大阪で全4公演で初のドーム公演『AAA Special Live 2016 in Dome -FANTASTIC OVER-』が、[東京ドーム](../Page/東京ドーム.md "wikilink")・[京セラドーム大阪にて行われた](../Page/大阪ドーム.md "wikilink")\[44\]。
 
-[2017年](../Page/2017年.md "wikilink")[1月12日](../Page/1月12日.md "wikilink")、メンバーの伊藤が結婚、妊娠を発表し、3月いっぱいでグループから卒業すること、また、夏頃に出産予定であることを発表\[45\]。2月10日、ミュージックステーションに初の6人体制で5回目となる出演をし、「[MAGIC](https://ja.wikipedia.org/wiki/MAGIC_\(AAAの曲\) "wikilink")」を披露した。6人でテレビに出演するのはこれが初めてである。以後のイベントなども6人での出演となる。3月12日、[駒沢オリンピック公園陸上競技場](https://ja.wikipedia.org/wiki/駒沢オリンピック公園陸上競技場 "wikilink")にて開催された「パラ駅伝2017」に応援ゲストとして出演した。3月19日、[ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")にて「AAA SPECIAL LIVE 2017 at UNIVERSAL STUDIOS JAPAN」が行われた。3月31日、伊藤が卒業し、男5女1の計6人のグループとなった。[6月17日](../Page/6月17日.md "wikilink")に6人体制では初となる全国ツアー『AAA ARENA TOUR 2017 -WAY OF GLORY-』が[広島グリーンアリーナ](https://ja.wikipedia.org/wiki/広島グリーンアリーナ "wikilink")にてスタート。7月5日に6人体制では初のシングル『[No Way Back](https://ja.wikipedia.org/wiki/No_Way_Back "wikilink")』が発売された。[9月2日](../Page/9月2日.md "wikilink")、グループ史上初となる4大ドームツアー『AAA DOME TOUR 2017 -WAY OF GLORY-』が[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")にてスタートした。[10月18日](../Page/10月18日.md "wikilink")、55thシングル『[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")』が発売された。この楽曲は10月23日からスタートしたフジテレビ系[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[民衆の敵〜世の中、おかしくないですか\!?〜](https://ja.wikipedia.org/wiki/民衆の敵〜世の中、おかしくないですか!?〜 "wikilink")』の主題歌になっている。12月30日、第59回日本レコード大賞「優秀作品賞（LIFE）」を受賞。同日にAAAの公式Instagramが開設された。
+2017年1月12日、メンバーの伊藤が結婚、妊娠を発表し、3月いっぱいでグループから卒業すること、また、夏頃に出産予定であることを発表\[45\]。2月10日、ミュージックステーションに初の6人体制で5回目となる出演をし、「[MAGIC](https://ja.wikipedia.org/wiki/MAGIC_\(AAAの曲\) "wikilink")」を披露した。6人でテレビに出演するのはこれが初めてである。以後のイベントなども6人での出演となる。3月12日、[駒沢オリンピック公園陸上競技場](https://ja.wikipedia.org/wiki/駒沢オリンピック公園陸上競技場 "wikilink")にて開催された「パラ駅伝2017」に応援ゲストとして出演した。3月19日、[ユニバーサル・スタジオ・ジャパン](../Page/ユニバーサル・スタジオ・ジャパン.md "wikilink")にて「AAA SPECIAL LIVE 2017 at UNIVERSAL STUDIOS JAPAN」が行われた。3月31日、伊藤が卒業し、男5女1の計6人のグループとなった。6月17日に6人体制では初となる全国ツアー『AAA ARENA TOUR 2017 -WAY OF GLORY-』が[広島グリーンアリーナ](https://ja.wikipedia.org/wiki/広島グリーンアリーナ "wikilink")にてスタート。7月5日に6人体制では初のシングル『[No Way Back](https://ja.wikipedia.org/wiki/No_Way_Back "wikilink")』が発売された。9月2日、グループ史上初となる4大ドームツアー『AAA DOME TOUR 2017 -WAY OF GLORY-』が[ナゴヤドーム](../Page/ナゴヤドーム.md "wikilink")にてスタートした。10月18日、55thシングル『[LIFE](https://ja.wikipedia.org/wiki/LIFE_\(AAAの曲\) "wikilink")』が発売された。この楽曲は10月23日からスタートしたフジテレビ系[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[民衆の敵〜世の中、おかしくないですか\!?〜](https://ja.wikipedia.org/wiki/民衆の敵〜世の中、おかしくないですか!?〜 "wikilink")』の主題歌になっている。12月30日、第59回日本レコード大賞「優秀作品賞（LIFE）」を受賞。同日にAAAの公式Instagramが開設された。
 
-[2018年](../Page/2018年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、[東京体育館](../Page/東京体育館.md "wikilink")にて「AAA NEW YEAR PARTY 2018」が行われた。ゲストとして、｢[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")｣も出演した。[6月17日](../Page/6月17日.md "wikilink")にグループ初となるファンミーティングアリーナツアー『AAA FAN MEETING ARENA TOUR 2018 〜FAN FUN FAN〜』が大阪城ホールにてスタートした。[8月29日](../Page/8月29日.md "wikilink")に6人体制では初のアルバム『[COLOR A LIFE](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")』が発売された。9月1日、4大ドームツアー『AAA DOME TOUR 2018 - COLOR A LIFE -』が[東京ドーム](../Page/東京ドーム.md "wikilink")にてスタートし、約34万人を動員した。
+2018年1月1日、[東京体育館](../Page/東京体育館.md "wikilink")にて「AAA NEW YEAR PARTY 2018」が行われた。ゲストとして、｢[Da-iCE](https://ja.wikipedia.org/wiki/Da-iCE "wikilink")｣も出演した。6月17日にグループ初となるファンミーティングアリーナツアー『AAA FAN MEETING ARENA TOUR 2018 〜FAN FUN FAN〜』が大阪城ホールにてスタートした。\[\[8月29日に6人体制では初のアルバム『\[\[COLOR_A_LIFE|8月29日に6人体制では初のアルバム『[COLOR A LIFE](https://ja.wikipedia.org/wiki/COLOR_A_LIFE "wikilink")』が発売された。9月1日、4大ドームツアー『AAA DOME TOUR 2018 - COLOR A LIFE -』が[東京ドーム](../Page/東京ドーム.md "wikilink")にてスタートし、約34万人を動員した。
 
-[2019年](../Page/2019年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink")、56thシングル『[笑顔のループ](https://ja.wikipedia.org/wiki/笑顔のループ "wikilink")』が発売された。この楽曲は[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[みんなのうた](../Page/みんなのうた.md "wikilink")」2018年12月〜2019年1月の歌に起用されている\[46\]。 [4月22日](../Page/4月22日.md "wikilink")、浦田が[警視庁](../Page/警視庁.md "wikilink")[月島署に暴行容疑で](../Page/月島警察署.md "wikilink")[逮捕](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。無期限謹慎処分となったことにより当面は5人で活動をすることになった\[47\] \[48\]。
+2019年1月19日、56thシングル『[笑顔のループ](https://ja.wikipedia.org/wiki/笑顔のループ "wikilink")』が発売された。この楽曲は[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[みんなのうた](../Page/みんなのうた.md "wikilink")』2018年12月〜2019年1月の歌として放送された\[46\]。 4月22日、浦田が[警視庁](../Page/警視庁.md "wikilink")[月島署に暴行容疑で](../Page/月島警察署.md "wikilink")[逮捕](https://ja.wikipedia.org/wiki/逮捕_\(日本法\) "wikilink")。無期限謹慎処分となったことにより当面は5人で活動をすることになった\[47\] \[48\]。
 
-[6月15日](../Page/6月15日.md "wikilink")、全国8会場21公演ツアー「AAA FAN MEETING ARENA TOUR 2019 〜FAN FUN FAN〜」が宮城セキスイハイムスーパーアリーナにてスタートした。浦田直也に関しては、無期限謹慎のため、5人体制での開催になった\[49\]。[10月23日](../Page/10月23日.md "wikilink")、57thシングル『[BAD LOVE](https://ja.wikipedia.org/wiki/BAD_LOVE_\(AAAの曲\) "wikilink")』が発売された。この楽曲は[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")オリジナルドラマ『[奪い愛、夏](https://ja.wikipedia.org/wiki/奪い愛、夏 "wikilink")』の主題歌に起用されている\[50\]。メンバーの浦田直也が活動自粛中のため、浦田を除く5人体制でのリリース。 [11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")、3度目の4大ドームツアー「AAA DOME TOUR 2019 ＋PLUS」が[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")にてスタートした。浦田直也に関しては、無期限謹慎のため、5人体制での開催になった。
+6月15日、全国8会場21公演ツアー「AAA FAN MEETING ARENA TOUR 2019 〜FAN FUN FAN〜」が宮城セキスイハイムスーパーアリーナにてスタートした。浦田直也に関しては、無期限謹慎のため、5人体制での開催になった\[49\]。10月23日、57thシングル『[BAD LOVE](https://ja.wikipedia.org/wiki/BAD_LOVE_\(AAAの曲\) "wikilink")』が発売された。この楽曲は[AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")オリジナルドラマ『[奪い愛、夏](https://ja.wikipedia.org/wiki/奪い愛、夏 "wikilink")』の主題歌に起用されている\[50\]。メンバーの浦田直也が活動自粛中のため、浦田を除く5人体制でのリリース。 11月16日、3度目の4大ドームツアー「AAA DOME TOUR 2019 ＋PLUS」が[京セラドーム大阪](https://ja.wikipedia.org/wiki/京セラドーム大阪 "wikilink")にてスタートした。浦田直也に関しては、無期限謹慎のため、5人体制での開催になった。
 
-[2019年](../Page/2019年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")、[浦田直也](../Page/浦田直也.md "wikilink")が同日付でAAAを脱退することを発表。浦田は同時に謹慎処分が解除され、ソロ活動に専念することも発表され、男4女1の計5人のグループとなった\[51\]。
+2019年12月31日、[浦田直也](../Page/浦田直也.md "wikilink")が同日付でAAAを脱退することを発表。浦田は同時に謹慎処分が解除され、ソロ活動に専念することも発表され、男4女1の計5人のグループとなった\[51\]。
 
-[2020年](../Page/2020年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")、年内をもって一旦活動を休止することを発表\[52\]。また[2月19日](../Page/2月19日.md "wikilink")にデビュー15周年記念ベストアルバムとミュージッククリップベストを発売し\[53\]、[11月7日](../Page/11月7日.md "wikilink")から、AAAデビュー15周年を記念した、グループ史上最大規模となる5大ドームツアー【AAA DOME TOUR 2020】開催決定した\[54\]ことも発表した。[2月5日](../Page/2月5日.md "wikilink")、【AAA DOME TOUR 2020】の追加公演が決定し、男女混合パフォーマンスグループ日本史上"初"６大ドームツアーの開催が決定した\[55\]。
+2020年1月15日、年内をもって一旦活動を休止することを発表\[52\]。また2月19日にデビュー15周年記念ベストアルバムとミュージッククリップベストを発売し\[53\]、11月7日から、AAAデビュー15周年を記念した、グループ史上最大規模となる5大ドームツアー【AAA DOME TOUR 2020】開催決定した\[54\]ことも発表した。2月5日、【AAA DOME TOUR 2020】の追加公演が決定し、男女混合パフォーマンスグループ日本史上"初"６大ドームツアーの開催が決定した\[55\]。しかし、[新型コロナウイルスの影響で](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")2021年以降に延期、もしくは中止することとなった\[56\]
 
-[2月27日](../Page/2月27日.md "wikilink")、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベスト・アルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot-.md "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[56\]\[57\]。
+2月27日、AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベスト・アルバム『[AAA 15th Anniversary All Time Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Best_-thanx_AAA_lot-.md "wikilink")』 & ミュージック・クリップベスト『[AAA 15th Anniversary All Time Music Clip Best -thanx AAA lot-](../Page/AAA_15th_Anniversary_All_Time_Music_Clip_Best_-thanx_AAA_lot-.md "wikilink")』との同時発売初週で11.5万枚の売上を記録し、3月2日付の[オリコン週間アルバムランキングで](../Page/オリコンチャート.md "wikilink")、9thアルバム『[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")』より5作連続での首位を獲得（通算7作目）。同時に、11thアルバム『[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")』の初週売上（10.8万枚）を上回り、アルバム自己最高初週売上を記録\[57\]\[58\]。
 
-[5月18日](../Page/5月18日.md "wikilink")、AAA15周年を記念して「AAA 15TH ANNIVERSARYプレミアムグッズ」の発売が決定した\[58\]。
+5月18日、AAA15周年を記念して「AAA 15TH ANNIVERSARYプレミアムグッズ」の発売が決定した\[59\]。
 
-[6月19日](../Page/6月19日.md "wikilink")、AAA15周年を記念したエキシビション『AAA ＋PLUS＋ FAN EXHIBITION -Thanks 15th Anniversary-』開催が決定した\[59\]。
+6月19日、AAA15周年を記念したエキシビション『AAA ＋PLUS＋ FAN EXHIBITION -Thanks 15th Anniversary-』開催が決定した\[60\]。
 
 ## ディスコグラフィ
 
@@ -717,7 +717,7 @@ AVC1-48931</p></td>
 <td><p>40</p></td>
 <td><p>2014年3月26日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/SHOWTIME" title="wikilink">SHOW TIME</a></strong></p></td>
-<td><p>[60]</p></td>
+<td><p>[61]</p></td>
 <td><p>CD+DVD+BOOK(FC限定)<br />
 CD(FC限定)</p></td>
 <td><p>AVC1-48961/B<br />
@@ -1271,7 +1271,7 @@ AVCD-23596</p></td>
 <td><p>5</p></td>
 <td><p>2011年1月12日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/2011.02.16_6th_ALBUM_“Buzz_Communication”Pre-Release_Special_Mini_Album" title="wikilink">2011.02.16 6th ALBUM “Buzz Communication”Pre-Release Special Mini Album</a></strong></p></td>
-<td><p>[61]</p></td>
+<td><p>[62]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -1885,7 +1885,7 @@ AVXD-92307</p></td>
 <td><p>1</p></td>
 <td><p>2007年6月20日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜" title="wikilink">Theater of AAA 〜ボクラノテ〜</a></strong></p></td>
-<td><p>[62]</p></td>
+<td><p>[63]</p></td>
 <td><p>DVD</p></td>
 <td><p>AVB1-91474</p></td>
 </tr>
@@ -1901,7 +1901,7 @@ AVXD-92307</p></td>
 <td><p>1</p></td>
 <td><p>2008年3月15日</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PPP_-Premium_Performance_Party-" title="wikilink">PPP -Premium Performance Party-</a></strong></p></td>
-<td><p>[63]</p></td>
+<td><p>[64]</p></td>
 <td><p>2DVD</p></td>
 <td><p>AVB1-91532</p></td>
 </tr>
@@ -1909,7 +1909,7 @@ AVXD-92307</p></td>
 <td><p>2</p></td>
 <td><p>2011年1月12日</p></td>
 <td><p><strong>AAA Party 秋の大運動会ツアー in 静岡 2010.9.25〜9.26</strong></p></td>
-<td><p>[64]</p></td>
+<td><p>[65]</p></td>
 <td><p>DVD</p></td>
 <td><p>AQB1-50578</p></td>
 </tr>
@@ -1960,7 +1960,7 @@ AVXD-92307</p></td>
 8.  AAA 2013 TOUR Eighth Wonder PREMIUM BOX（2014年3月27日）ISBN 978-4847046377
 9.  AAA –ATTACK ALL AROUND- 10th ANNIVERSARY BOOK（2015年7月1日）ISBN 978-4391147223
 10. AAAぴあ（2016年4月2日）ISBN 978-4835625584
-11. あのとき、僕らの歌声は。（2016年9月14日、[幻冬舎](../Page/幻冬舎.md "wikilink")）ISBN 978-4344029903\[65\]
+11. あのとき、僕らの歌声は。（2016年9月14日、[幻冬舎](../Page/幻冬舎.md "wikilink")）ISBN 978-4344029903\[66\]
 12. AAA Special Live 2016 in Dome -FANTASTIC OVER- photo book（2017年3月31日）ISBN 978-4391149944
 13. AAA DOME TOUR 2018 COLOR A LIFE photo book（2019年3月29日、[主婦と生活者](https://ja.wikipedia.org/wiki/主婦と生活者 "wikilink")）
 
@@ -1976,132 +1976,132 @@ AVXD-92307</p></td>
 <tbody>
 <tr class="odd">
 <td><p>工藤伸一</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=Rnnh1mpiE_w">BLOOD on FIRE</a>」[66]「<a href="https://www.youtube.com/watch?v=XmMVsDCiA9M">Friday Party</a>」[67]「<a href="https://www.youtube.com/watch?v=FONlR17JIf4">Summer Revolution</a>」[68]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=Rnnh1mpiE_w">BLOOD on FIRE</a>」[67]「<a href="https://www.youtube.com/watch?v=XmMVsDCiA9M">Friday Party</a>」[68]「<a href="https://www.youtube.com/watch?v=FONlR17JIf4">Summer Revolution</a>」[69]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/薗田賢次" title="wikilink">薗田賢次</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=k9Rn5QkiILM">きれいな空</a>」[69]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=k9Rn5QkiILM">きれいな空</a>」[70]</p></td>
 </tr>
 <tr class="odd">
 <td><p>森田一平</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=S6gWMs63w-o">DRAGON FIRE</a>」[70]「<a href="http://www.youtube.com/watch?v=fxTpOscORFg">ハレルヤ</a>」[71]「<a href="https://www.youtube.com/watch?v=xqkMLC5FSZ8">CRAZY GONNA CRAZY</a>」[72]「<a href="https://www.youtube.com/watch?v=rMkm-qZI_tI">Get チュー!</a>」[73]「<a href="https://www.youtube.com/watch?v=MlrxEINhhp8">Red Soul</a>」[74]「[<a href="https://www.youtube.com/watch?v=0Af6Fk1N6Wc">https://www.youtube.com/watch?v=0Af6Fk1N6Wc</a> Jamboree</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=S6gWMs63w-o">DRAGON FIRE</a>」[71]「<a href="http://www.youtube.com/watch?v=fxTpOscORFg">ハレルヤ</a>」[72]「<a href="https://www.youtube.com/watch?v=xqkMLC5FSZ8">CRAZY GONNA CRAZY</a>」[73]「<a href="https://www.youtube.com/watch?v=rMkm-qZI_tI">Get チュー!</a>」[74]「<a href="https://www.youtube.com/watch?v=MlrxEINhhp8">Red Soul</a>」[75]「[<a href="https://www.youtube.com/watch?v=0Af6Fk1N6Wc">https://www.youtube.com/watch?v=0Af6Fk1N6Wc</a> Jamboree</p></td>
 </tr>
 <tr class="even">
 <td><p>|<a href="https://ja.wikipedia.org/wiki/野田智雄" title="wikilink">野田智雄</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=ti6N_LzjdJI">Shalala キボウの歌</a>」[75]「<a href="http://www.youtube.com/watch?v=u2-W0JE_DGk">That's Right</a>」「<a href="https://www.youtube.com/watch?v=QYS1V6YaR_M">NEW</a>」「<a href="https://www.youtube.com/watch?v=ZgV7pe4iK2c">SAILING</a>」[76]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=ti6N_LzjdJI">Shalala キボウの歌</a>」[76]「<a href="http://www.youtube.com/watch?v=u2-W0JE_DGk">That's Right</a>」「<a href="https://www.youtube.com/watch?v=QYS1V6YaR_M">NEW</a>」「<a href="https://www.youtube.com/watch?v=ZgV7pe4iK2c">SAILING</a>」[77]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/竹内鉄郎.md" title="wikilink">竹内鉄郎</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=ZRg9uNv33ls">ハリケーン・リリ,ボストン・マリ</a>」[77]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=ZRg9uNv33ls">ハリケーン・リリ,ボストン・マリ</a>」[78]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/井上哲央.md" title="wikilink">井上哲央</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=NOyDKZQJ0p8">ソウルエッジボーイ</a>」[78]「<a href="https://www.youtube.com/watch?v=fOQWjkB2jdo">チューインガム</a>」[79]「<a href="https://www.youtube.com/watch?v=h57kow7wrjE">PARADISE</a>」[80]「<a href="https://www.youtube.com/watch?v=lXMZH8S7AxQ">ダイジナコト</a>」[81]「STEP」[82]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=NOyDKZQJ0p8">ソウルエッジボーイ</a>」[79]「<a href="https://www.youtube.com/watch?v=fOQWjkB2jdo">チューインガム</a>」[80]「<a href="https://www.youtube.com/watch?v=h57kow7wrjE">PARADISE</a>」[81]「<a href="https://www.youtube.com/watch?v=lXMZH8S7AxQ">ダイジナコト</a>」[82]「STEP」[83]</p></td>
 </tr>
 <tr class="odd">
 <td><p>フータ</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=HsagBDq_twE">キモノジェットガール</a>」[83]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=HsagBDq_twE">キモノジェットガール</a>」[84]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=VvwRexI6lpA">Let it beat!</a>」[84]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=VvwRexI6lpA">Let it beat!</a>」[85]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/多田卓也" title="wikilink">多田卓也</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=l61joOKDwe0">"Q"</a>」[85]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=l61joOKDwe0">"Q"</a>」[86]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/須永秀明.md" title="wikilink">須永秀明</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=EoakL4GuW5I">Samurai heart-侍魂-</a>」[86]「[<a href="https://www.youtube.com/watch?v=y3qXINoOURI">https://www.youtube.com/watch?v=y3qXINoOURI</a> MUSIC</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=EoakL4GuW5I">Samurai heart-侍魂-</a>」[87]「[<a href="https://www.youtube.com/watch?v=y3qXINoOURI">https://www.youtube.com/watch?v=y3qXINoOURI</a> MUSIC</p></td>
 </tr>
 <tr class="odd">
 <td><p>福和敏</p></td>
-<td><p>「いざゆけ若鷹軍団2007」[87]</p></td>
+<td><p>「いざゆけ若鷹軍団2007」[88]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/川村ケンスケ.md" title="wikilink">川村ケンスケ</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=xYO1vF2zmuk">唇からロマンチカ</a>」[88]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=xYO1vF2zmuk">唇からロマンチカ</a>」[89]</p></td>
 </tr>
 <tr class="odd">
 <td><p>上村右近</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=l-J5saXHh6Q">SUNSHINE</a>」[89]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=l-J5saXHh6Q">SUNSHINE</a>」[90]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/UGICHIN.md" title="wikilink">UGICHIN</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=4lWtrduxWJA">MIRAGE</a>」[90]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=4lWtrduxWJA">MIRAGE</a>」[91]</p></td>
 </tr>
 <tr class="odd">
 <td><p>岡川太郎</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=GefI13vuScI">BEYOND〜カラダノカナタ</a>」[91]「<a href="https://www.youtube.com/watch?v=1TatlJE-Hjo">ZERO</a>」[92]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=GefI13vuScI">BEYOND〜カラダノカナタ</a>」[92]「<a href="https://www.youtube.com/watch?v=1TatlJE-Hjo">ZERO</a>」[93]</p></td>
 </tr>
 <tr class="even">
 <td><p>ヒグチリョウ</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=eFVPlXFujGI">Crash</a>」[93]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=eFVPlXFujGI">Crash</a>」[94]</p></td>
 </tr>
 <tr class="odd">
 <td><p>spicy</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=8qwG2nGAI-c">旅ダチノウタ</a>」[94]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=8qwG2nGAI-c">旅ダチノウタ</a>」[95]</p></td>
 </tr>
 <tr class="even">
 <td><p>星保行<br />
 工藤伸一</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=2JPRDWErln8">Break Down</a>」[95]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=2JPRDWErln8">Break Down</a>」[96]</p></td>
 </tr>
 <tr class="odd">
 <td><p>NINO</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=5DN4WxwiFpU">Hide-away</a>」[96]「<a href="https://www.youtube.com/watch?v=Z-ai8au91Hc">Hide &amp; Seek</a>」[97]「<a href="https://www.youtube.com/watch?v=JglKHzrmyhg">Find you</a>」[98]「<a href="https://www.youtube.com/watch?v=CTTngIgV_I8">Heart and Soul</a>」[99]「<a href="https://www.youtube.com/watch?v=gmEwvrXmOFA">FIELD</a>」[100]「<a href="https://www.youtube.com/watch?v=lfCxkURRY0I">逢いたい理由</a>」[101]「<a href="https://www.youtube.com/watch?v=b9o65ivXc28">Dream After Dream〜夢から醒めた夢〜</a>」[102]「<a href="https://www.youtube.com/watch?v=zrXBmpuikBM">負けない心</a>」[103]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=5DN4WxwiFpU">Hide-away</a>」[97]「<a href="https://www.youtube.com/watch?v=Z-ai8au91Hc">Hide &amp; Seek</a>」[98]「<a href="https://www.youtube.com/watch?v=JglKHzrmyhg">Find you</a>」[99]「<a href="https://www.youtube.com/watch?v=CTTngIgV_I8">Heart and Soul</a>」[100]「<a href="https://www.youtube.com/watch?v=gmEwvrXmOFA">FIELD</a>」[101]「<a href="https://www.youtube.com/watch?v=lfCxkURRY0I">逢いたい理由</a>」[102]「<a href="https://www.youtube.com/watch?v=b9o65ivXc28">Dream After Dream〜夢から醒めた夢〜</a>」[103]「<a href="https://www.youtube.com/watch?v=zrXBmpuikBM">負けない心</a>」[104]</p></td>
 </tr>
 <tr class="even">
 <td><p>セキ☆リュウジ</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=l74_3X2FTvU">No cry No more</a>」[104]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=l74_3X2FTvU">No cry No more</a>」[105]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/スミス_(映像作家)" title="wikilink">スミス</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=LrFUWhoiotI">CALL</a>」[105]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=LrFUWhoiotI">CALL</a>」[106]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/福居英晃" title="wikilink">福居英晃</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=txbg3rBvILg">Charge &amp; Go!</a>」[106]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=txbg3rBvILg">Charge &amp; Go!</a>」[107]</p></td>
 </tr>
 <tr class="odd">
 <td><p>ICHIRO ITAKURA</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=RN5d6vvlsCs">虹</a>」[107]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=RN5d6vvlsCs">虹</a>」[108]</p></td>
 </tr>
 <tr class="even">
 <td><p>末吉ノブ</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=a1YvVRGgnVI">Miss you</a>」[108]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=a1YvVRGgnVI">Miss you</a>」[109]</p></td>
 </tr>
 <tr class="odd">
 <td><p>園田俊郎</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=Pp7jFpkHpy4">PARTY IT UP</a>」[109]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=Pp7jFpkHpy4">PARTY IT UP</a>」[110]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/武藤眞志" title="wikilink">武藤眞志</a></p></td>
-<td><p>「<a href="http://www.youtube.com/watch?v=p3ndhKexgck">Still Love You</a>」[110][111]「<a href="http://www.youtube.com/watch?v=FeKAfqxinEE">777 〜We can sing a song!〜</a>」[112][113]「<a href="https://www.youtube.com/watch?v=lYc5fbFkpok">Love Is In The Air</a>」[114][115]「<a href="http://www.youtube.com/watch?v=6np6Qt42WfU">LOVER</a>」<ref name="amg150824">{{Cite web|url=<a href="http://avex-management.jp/sp/media/detail/150824_656/%7Ctitle=【MV秘話】AAA「LOVER」のMVを手がけた武藤眞志監督に、撮影のエピソードを聞いてみた">http://avex-management.jp/sp/media/detail/150824_656/|title=【MV秘話】AAA「LOVER」のMVを手がけた武藤眞志監督に、撮影のエピソードを聞いてみた</a></p></td>
+<td><p>「<a href="http://www.youtube.com/watch?v=p3ndhKexgck">Still Love You</a>」[111][112]「<a href="http://www.youtube.com/watch?v=FeKAfqxinEE">777 〜We can sing a song!〜</a>」[113][114]「<a href="https://www.youtube.com/watch?v=lYc5fbFkpok">Love Is In The Air</a>」[115][116]「<a href="http://www.youtube.com/watch?v=6np6Qt42WfU">LOVER</a>」<ref name="amg150824">{{Cite web|url=<a href="http://avex-management.jp/sp/media/detail/150824_656/%7Ctitle=【MV秘話】AAA「LOVER」のMVを手がけた武藤眞志監督に、撮影のエピソードを聞いてみた">http://avex-management.jp/sp/media/detail/150824_656/|title=【MV秘話】AAA「LOVER」のMVを手がけた武藤眞志監督に、撮影のエピソードを聞いてみた</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>中根さや香 (N・E・W)</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=A_1t2Dkd2Io">恋音と雨空</a>」[116][117]「<a href="https://www.youtube.com/watch?v=GVFR9zmQjec">さよならの前に</a>」[118]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=A_1t2Dkd2Io">恋音と雨空</a>」[117][118]「<a href="https://www.youtube.com/watch?v=GVFR9zmQjec">さよならの前に</a>」[119]</p></td>
 </tr>
 <tr class="even">
 <td><p>高城明久</p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=TZ4m8oeOqok">Love</a>」[119]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=TZ4m8oeOqok">Love</a>」[120]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/丸山健志" title="wikilink">丸山健志</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=bXGjQptzrqw">SHOW TIME</a>」[120]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=bXGjQptzrqw">SHOW TIME</a>」[121]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/須藤カンジ" title="wikilink">須藤カンジ</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=BPrslgZKkRI">風に薫る夏の記憶</a>」[121]<a href="https://www.youtube.com/watch?v=iLnX9s0EJhU">Lil' Infinity</a>」[122]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=BPrslgZKkRI">風に薫る夏の記憶</a>」[122]<a href="https://www.youtube.com/watch?v=iLnX9s0EJhU">Lil' Infinity</a>」[123]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/船本恵太" title="wikilink">船本恵太</a> (SILT)</p></td>
-<td><p>「<a href="http://www.youtube.com/watch?v=bZwVI_wIWUs">ぼくの憂鬱と不機嫌な彼女</a>」[123]</p></td>
+<td><p>「<a href="http://www.youtube.com/watch?v=bZwVI_wIWUs">ぼくの憂鬱と不機嫌な彼女</a>」[124]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/須永秀明.md" title="wikilink">須永秀明</a></p></td>
-<td><p>「<a href="https://www.youtube.com/watch?v=oGjCbtlLu04">愛してるのに、愛せない</a>」[124]</p></td>
+<td><p>「<a href="https://www.youtube.com/watch?v=oGjCbtlLu04">愛してるのに、愛せない</a>」[125]</p></td>
 </tr>
 <tr class="odd">
 <td><p>不明</p></td>
@@ -2207,7 +2207,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation ’05 BEST HIT LIVE（2005年10月26日）\[125\]
+  - a-nation ’05 BEST HIT LIVE（2005年10月26日）\[126\]
 
 <!-- end list -->
 
@@ -2216,7 +2216,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation ’06 BEST HIT LIVE』（2006年11月8日）\[126\]
+  - a-nation ’06 BEST HIT LIVE』（2006年11月8日）\[127\]
 
 <!-- end list -->
 
@@ -2225,7 +2225,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation’07 BEST HIT LIVE（2007年11月7日）\[127\]
+  - a-nation’07 BEST HIT LIVE（2007年11月7日）\[128\]
 
 <!-- end list -->
 
@@ -2234,7 +2234,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - BEST LIVE DVD-PREMIUM LIVE DREAM SELECTION-（2007年12月5日）\[128\]
+  - BEST LIVE DVD-PREMIUM LIVE DREAM SELECTION-（2007年12月5日）\[129\]
 
 <!-- end list -->
 
@@ -2243,8 +2243,8 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - スーパーバトルライブ 美味學院 番外編〜デリシャス5 史上最強の敵〜（2008年3月12日）\[129\]
-  - a-nation’08〜avex ALL CAST SPECIAL LIVE〜（2008年11月26日）\[130\]
+  - スーパーバトルライブ 美味學院 番外編〜デリシャス5 史上最強の敵〜（2008年3月12日）\[130\]
+  - a-nation’08〜avex ALL CAST SPECIAL LIVE〜（2008年11月26日）\[131\]
 
 <!-- end list -->
 
@@ -2253,8 +2253,8 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - 7人の女弁護士2006 DVD BOX（2009年2月18日）\[131\]
-  - Animelo Summer Live 2008-Challenge-8.30（2009年3月25日）\[132\]\[133\]
+  - 7人の女弁護士2006 DVD BOX（2009年2月18日）\[132\]
+  - Animelo Summer Live 2008-Challenge-8.30（2009年3月25日）\[133\]\[134\]
 
 <!-- end list -->
 
@@ -2266,7 +2266,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation’09 BEST HIT LIVE（2009年11月18日）\[134\]
+  - a-nation’09 BEST HIT LIVE（2009年11月18日）\[135\]
 
 <!-- end list -->
 
@@ -2275,7 +2275,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation’10 BEST HIT LIVE（2010年11月24日）\[135\]
+  - a-nation’10 BEST HIT LIVE（2010年11月24日）\[136\]
 
 <!-- end list -->
 
@@ -2286,7 +2286,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - a-nation for Life BEST HIT LIVE（2011年12月21日）\[136\]
+  - a-nation for Life BEST HIT LIVE（2011年12月21日）\[137\]
 
 <!-- end list -->
 
@@ -2296,7 +2296,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - amazing tunes〜00’s MEGA HITS VISUAL MIX〜（2012年3月14日）\[137\]
+  - amazing tunes〜00’s MEGA HITS VISUAL MIX〜（2012年3月14日）\[138\]
 
 <!-- end list -->
 
@@ -2305,8 +2305,8 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - 劇場版 テニスの王子様 英国式庭球城決戦\!（2012年3月23日）\[138\]\[139\]
-  - a-nation2012 stadium fes.（2013年3月13日）\[140\]\[141\]
+  - 劇場版 テニスの王子様 英国式庭球城決戦\!（2012年3月23日）\[139\]\[140\]
+  - a-nation2012 stadium fes.（2013年3月13日）\[141\]\[142\]
 
 <!-- end list -->
 
@@ -2316,7 +2316,7 @@ AVXD-92307</p></td>
 
 <!-- end list -->
 
-  - トクボウ 警察庁特殊防犯課 DVD-BOX（2014年9月2日）\[142\]
+  - トクボウ 警察庁特殊防犯課 DVD-BOX（2014年9月2日）\[143\]
 
 <!-- end list -->
 
@@ -3219,7 +3219,8 @@ AVXD-92307</p></td>
 <strong>※</strong>印は追加公演</p>
 </div>
 </div></td>
-<td><p>男女混合パフォーマンスグループ日本史上"初"の6大ドームツアー [143]</p></td>
+<td><p>男女混合パフォーマンスグループ日本史上"初"の6大ドームツアー [144]</p>
+<p>新型コロナウイルスの影響で全公演、2021年以降に見送ることが決定した [145]</p></td>
 </tr>
 </tbody>
 </table>
@@ -3673,17 +3674,17 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/涙のない世界" title="wikilink">Yell</a></p></td>
-<td><p><a href="../Page/全日本空手道連盟.md" title="wikilink">全日本空手道連盟</a>公式応援ソング[144]</p></td>
+<td><p><a href="../Page/全日本空手道連盟.md" title="wikilink">全日本空手道連盟</a>公式応援ソング[146]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2016年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NEW_(AAAの曲)" title="wikilink">NEW</a></p></td>
-<td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a>「<a href="../Page/スプライト_(炭酸飲料).md" title="wikilink">スプライト</a>」CMソング[145]</p></td>
+<td><p><a href="../Page/日本コカ・コーラ.md" title="wikilink">日本コカ・コーラ</a>「<a href="../Page/スプライト_(炭酸飲料).md" title="wikilink">スプライト</a>」CMソング[147]</p></td>
 </tr>
 <tr class="even">
 <td><p>Yell</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ベネッセコーポレーション" title="wikilink">ベネッセコーポレーション</a>「進研ゼミプラス」CMソング[146]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベネッセコーポレーション" title="wikilink">ベネッセコーポレーション</a>「進研ゼミプラス」CMソング[148]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3694,14 +3695,14 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/涙のない世界" title="wikilink">Jewel</a></p></td>
 <td><p>VIP『Geo World VIP』CMソング<br />
-<a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">ニンテンドー3DS</a>用ゲームソフト「<a href="https://ja.wikipedia.org/wiki/ぷよぷよクロニクル" title="wikilink">ぷよぷよクロニクル</a>」CMソング[147]<br />
-<a href="../Page/ラグーナテンボス.md" title="wikilink">ラグーナテンボス</a>「史上最光の冬ラグーナ」CMソング[148]</p></td>
+<a href="https://ja.wikipedia.org/wiki/ニンテンドー3DS" title="wikilink">ニンテンドー3DS</a>用ゲームソフト「<a href="https://ja.wikipedia.org/wiki/ぷよぷよクロニクル" title="wikilink">ぷよぷよクロニクル</a>」CMソング[149]<br />
+<a href="../Page/ラグーナテンボス.md" title="wikilink">ラグーナテンボス</a>「史上最光の冬ラグーナ」CMソング[150]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2017年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MAGIC_(AAAの曲)" title="wikilink">MAGIC</a></p></td>
-<td><p>テレビ朝日系<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>『<a href="https://ja.wikipedia.org/wiki/奪い愛、冬" title="wikilink">奪い愛、冬</a>』主題歌[149]</p></td>
+<td><p>テレビ朝日系<a href="../Page/金曜ナイトドラマ.md" title="wikilink">金曜ナイトドラマ</a>『<a href="https://ja.wikipedia.org/wiki/奪い愛、冬" title="wikilink">奪い愛、冬</a>』主題歌[151]</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/WAY_OF_GLORY" title="wikilink">S.O.L</a></p></td>
@@ -3710,7 +3711,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/No_Way_Back" title="wikilink">No Way Back</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/キリン_(企業)" title="wikilink">KIRIN</a>「<a href="https://ja.wikipedia.org/wiki/氷結_(チューハイ)" title="wikilink">氷結</a>(R)×AAA」オリジナルWEBムービーソング[150]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/キリン_(企業)" title="wikilink">KIRIN</a>「<a href="https://ja.wikipedia.org/wiki/氷結_(チューハイ)" title="wikilink">氷結</a>(R)×AAA」オリジナルWEBムービーソング[152]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -3721,7 +3722,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/LIFE_(AAAの曲)" title="wikilink">LIFE</a></p></td>
-<td><p>フジテレビ系<a href="../Page/フジテレビ月曜9時枠の連続ドラマ.md" title="wikilink">月9ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/民衆の敵〜世の中、おかしくないですか!?〜" title="wikilink">民衆の敵〜世の中、おかしくないですか!?〜</a>』主題歌[151]<br />
+<td><p>フジテレビ系<a href="../Page/フジテレビ月曜9時枠の連続ドラマ.md" title="wikilink">月9ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/民衆の敵〜世の中、おかしくないですか!?〜" title="wikilink">民衆の敵〜世の中、おかしくないですか!?〜</a>』主題歌[153]<br />
 フジテレビ『<a href="https://ja.wikipedia.org/wiki/Tune" title="wikilink">Tune</a>』10月度エンディングテーマソング<br />
 <a href="https://ja.wikipedia.org/wiki/日成アドバンス" title="wikilink">日成アドバンス</a> TVCMソング</p></td>
 <td></td>
@@ -3729,16 +3730,16 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <tr class="even">
 <td><p>2018年</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Eighth_Wonder_(AAAのアルバム)" title="wikilink">drama</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>『真冬のオオカミくんには騙されない』エンディングテーマ[152]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AbemaTV" title="wikilink">AbemaTV</a>『真冬のオオカミくんには騙されない』エンディングテーマ[154]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">Tomorrow</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/関西テレビ" title="wikilink">カンテレ</a>・フジテレビ系<a href="https://ja.wikipedia.org/wiki/関西テレビ制作火曜夜9時枠の連続ドラマ" title="wikilink">火9ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/健康で文化的な最低限度の生活" title="wikilink">健康で文化的な最低限度の生活</a>』主題歌[153]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/関西テレビ" title="wikilink">カンテレ</a>・フジテレビ系<a href="https://ja.wikipedia.org/wiki/関西テレビ制作火曜夜9時枠の連続ドラマ" title="wikilink">火9ドラマ</a>『<a href="https://ja.wikipedia.org/wiki/健康で文化的な最低限度の生活" title="wikilink">健康で文化的な最低限度の生活</a>』主題歌[155]</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/COLOR_A_LIFE" title="wikilink">Kiss The Sky</a></p></td>
-<td><p>AbemaTV×<a href="https://ja.wikipedia.org/wiki/メ〜テレ" title="wikilink">メ〜テレ</a>共同制作ドラマ『<a href="https://ja.wikipedia.org/wiki/星屑リベンジャーズ" title="wikilink">星屑リベンジャーズ</a>』主題歌[154]</p></td>
+<td><p>AbemaTV×<a href="https://ja.wikipedia.org/wiki/メ〜テレ" title="wikilink">メ〜テレ</a>共同制作ドラマ『<a href="https://ja.wikipedia.org/wiki/星屑リベンジャーズ" title="wikilink">星屑リベンジャーズ</a>』主題歌[156]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -3843,12 +3844,12 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
           - 今週発売の洋楽を1曲紹介（金）
       - 西島隆弘と末吉秀太のA〜お話
           - 色々なトークやリスナーからのメールに答える（火・日）</ref>
-  - [イキナリ\!](../Page/イキナリ!.md "wikilink")木曜日「AAAのRadio'n Fire」（[東北放送](../Page/東北放送.md "wikilink")、2006年4月6日〜2008年3月20日）※パーソナリティ\[155\]
-  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「AAA TALKING ATTACK」（[JFN](../Page/全国FM放送協議会.md "wikilink")、2007年2月〜2009年3月）※パーソナリティ\[156\]
+  - [イキナリ\!](../Page/イキナリ!.md "wikilink")木曜日「AAAのRadio'n Fire」（[東北放送](../Page/東北放送.md "wikilink")、2006年4月6日〜2008年3月20日）※パーソナリティ\[157\]
+  - [RADIO SESSIONS](../Page/RADIO_SESSIONS.md "wikilink")「AAA TALKING ATTACK」（[JFN](../Page/全国FM放送協議会.md "wikilink")、2007年2月〜2009年3月）※パーソナリティ\[158\]
 
 ### 舞台
 
-  - [Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")（[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")、2006年5月4日〜7日）※主演\[157\]
+  - [Theater of AAA 〜ボクラノテ〜](https://ja.wikipedia.org/wiki/Theater_of_AAA_〜ボクラノテ〜 "wikilink")（[ステラボール](https://ja.wikipedia.org/wiki/ステラボール "wikilink")、2006年5月4日〜7日）※主演\[159\]
   - [スーパーバトルライブ美味學院番外編〜デリシャス5 史上最大の敵〜](https://ja.wikipedia.org/wiki/美味學院#舞台 "wikilink")（[青山劇場](../Page/青山劇場.md "wikilink")、2007年5月16日）※主演<ref group="※">;美味學院
   - 西島隆弘－主人公・北坂狼馬 役/與真司郎－主人公・桂城秀吾 役/末吉秀太－高杉凛 役/日高光啓－マシュー・ペリエ 役/浦田直也－南郷隆司 役
 
@@ -3862,7 +3863,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
 ### 映画
 
-  - 鍵のある場所（[飯塚健](../Page/飯塚健.md "wikilink")監督、未公開）※主演\[158\]
+  - 鍵のある場所（[飯塚健](../Page/飯塚健.md "wikilink")監督、未公開）※主演\[160\]
 
 ### 雑誌連載
 
@@ -3876,7 +3877,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <tr class="header">
 <th><p>ブランド</p></th>
 <th><p>テーマ</p></th>
-<th><p>公開日[159]</p></th>
+<th><p>公開日[161]</p></th>
 <th><p>タイアップ</p></th>
 </tr>
 </thead>
@@ -4003,13 +4004,13 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>COOL STYLE</p></td>
-<td><p>夏、涼。[160]</p></td>
+<td><p>夏、涼。[162]</p></td>
 <td><p>2015年4月22日</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>WARM STYLE</p></td>
-<td><p>新デザイン×新機能[161]</p></td>
+<td><p>新デザイン×新機能[163]</p></td>
 <td><p>2015年10月14日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛してるのに、愛せない" title="wikilink">愛してるのに、愛せない</a></p></td>
 </tr>
@@ -4027,7 +4028,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 </tr>
 <tr class="odd">
 <td><p>支援キャンペーン</p></td>
-<td><p>断言できない[162]</p></td>
+<td><p>断言できない[164]</p></td>
 <td><p>2011年7月1日</p></td>
 <td></td>
 </tr>
@@ -4053,7 +4054,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <td><p>[[ぷよぷよ</p></td>
 <td><p>クエスト|ぷよぷよ</p></td>
 <td><p>クエスト]]</p></td>
-<td><p>「はじめよう」篇[163]</p></td>
+<td><p>「はじめよう」篇[165]</p></td>
 </tr>
 <tr class="even">
 <td><p>「友達とぷよクエ!」篇</p></td>
@@ -4133,7 +4134,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 
   - 曲名、対戦相手の後の（数字）は紅白で披露された回数を表す。
   - 出演順は「（出演順）／（出場者数）」で表す。
-  - それまでは白組からの出場だったが2013年には紅組から出場。同一のグループおよびメンバーの組替え出場はこれが初だった。エンターテインメント番組部長の古谷太郎は「パワーのあるグループ。最近は紅組は劣勢なので、パワーアップを目指し、紅組で出場して頂くことになった」と説明した\[164\]。
+  - それまでは白組からの出場だったが2013年には紅組から出場。同一のグループおよびメンバーの組替え出場はこれが初だった。エンターテインメント番組部長の古谷太郎は「パワーのあるグループ。最近は紅組は劣勢なので、パワーアップを目指し、紅組で出場して頂くことになった」と説明した\[166\]。
 
 ## 実績
 
@@ -4143,7 +4144,7 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
   - [第38回日本有線大賞](../Page/日本有線大賞.md "wikilink")『有線音楽賞（BLOOD on FIRE）』受賞（2005年）
   - [第47回日本レコード大賞](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")『最優秀新人賞（BLOOD on FIRE）』受賞（2005年）
   - ベストヒット歌謡祭『ゴールドアーティスト賞（[ハリケーン・リリ、ボストン・マリ](../Page/ハリケーン・リリ、ボストン・マリ.md "wikilink")）』受賞（2006年）
-  - MTV STUDENT VOICE AWARDS 2008\[165\]『最優秀 "STUDENT VOICE" ダンスアーティスト賞（[Get チュー！](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")）』受賞（2008年）
+  - MTV STUDENT VOICE AWARDS 2008\[167\]『最優秀 "STUDENT VOICE" ダンスアーティスト賞（[Get チュー！](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")）』受賞（2008年）
   - ベストヒット歌謡祭『ゴールドアーティスト賞（[Break Down](https://ja.wikipedia.org/wiki/Break_Down/Break_your_name/Summer_Revolution "wikilink")）』受賞（2009年）
   - [第52回日本レコード大賞](https://ja.wikipedia.org/wiki/第52回日本レコード大賞 "wikilink")『優秀作品賞（[逢いたい理由](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")）』受賞（2010年）
   - [第53回日本レコード大賞](https://ja.wikipedia.org/wiki/第53回日本レコード大賞 "wikilink")『優秀作品賞（[CALL](https://ja.wikipedia.org/wiki/CALL/I4U "wikilink")）』受賞（2011年）
@@ -4161,8 +4162,8 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <!-- end list -->
 
   -
-    シングル：2008年3月「[Climax Jump](https://ja.wikipedia.org/wiki/Climax_Jump#Climax_Jump "wikilink")」\[166\]。
-    アルバム：2011年9月、「[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")」\[167\]。2014年11月、「[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")」\[168\]。2015年9月、「[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")」。2017年3月、「[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")」。
+    シングル：2008年3月「[Climax Jump](https://ja.wikipedia.org/wiki/Climax_Jump#Climax_Jump "wikilink")」\[168\]。
+    アルバム：2011年9月、「[\#AAABEST](https://ja.wikipedia.org/wiki/AAABEST "wikilink")」\[169\]。2014年11月、「[GOLD SYMPHONY](https://ja.wikipedia.org/wiki/GOLD_SYMPHONY "wikilink")」\[170\]。2015年9月、「[AAA 10th ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/AAA_10th_ANNIVERSARY_BEST "wikilink")」。2017年3月、「[WAY OF GLORY](https://ja.wikipedia.org/wiki/WAY_OF_GLORY "wikilink")」。
 
 <!-- end list -->
 
@@ -4171,13 +4172,13 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 <!-- end list -->
 
   -
-    着うたフル：2007年11月、「Climax Jump」<small>（2011年4月プラチナ）</small>\[169\]\[170\]。2013年11月、「[恋音と雨空](https://ja.wikipedia.org/wiki/恋音と雨空 "wikilink")」<small>（2014年3月プラチナ）</small>\[171\]\[172\]。2014年1月、「[逢いたい理由](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")」・「[負けない心](https://ja.wikipedia.org/wiki/負けない心 "wikilink")」\[173\]。2014年7月、「[Get チュー！](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」\[174\]。2014年12月、「[さよならの前に](https://ja.wikipedia.org/wiki/さよならの前に "wikilink")」\[175\]。2015年3月、「[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")」\[176\]。2015年4月、「[No cry No more](https://ja.wikipedia.org/wiki/No_cry_No_more "wikilink")」\[177\]。
+    着うたフル：2007年11月、「Climax Jump」<small>（2011年4月プラチナ）</small>\[171\]\[172\]。2013年11月、「[恋音と雨空](https://ja.wikipedia.org/wiki/恋音と雨空 "wikilink")」<small>（2014年3月プラチナ）</small>\[173\]\[174\]。2014年1月、「[逢いたい理由](https://ja.wikipedia.org/wiki/逢いたい理由/Dream_After_Dream_〜夢から醒めた夢〜 "wikilink")」・「[負けない心](https://ja.wikipedia.org/wiki/負けない心 "wikilink")」\[175\]。2014年7月、「[Get チュー！](https://ja.wikipedia.org/wiki/Get_チュー!/SHEの事実 "wikilink")」\[176\]。2014年12月、「[さよならの前に](https://ja.wikipedia.org/wiki/さよならの前に "wikilink")」\[177\]。2015年3月、「[Wake up\!](https://ja.wikipedia.org/wiki/Wake_up! "wikilink")」\[178\]。2015年4月、「[No cry No more](https://ja.wikipedia.org/wiki/No_cry_No_more "wikilink")」\[179\]。
 
 ## 芸能人からの評価
 
-  - タレントの[佐々木もよこ](https://ja.wikipedia.org/wiki/佐々木もよこ "wikilink")は、メンバーを「一人一人がすっごくパワフルで、ダンスも歌も上手だし、MCもナチュラルで自由で面白い」と述べている\[178\]。
-  - [iDOL Streetの横山奈央は](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")、メンバーのスタイル（宇野）、滑舌（日高）、歌（西島）、司会力と[リーダーシップ](../Page/リーダーシップ.md "wikilink")（浦田）、周りを笑わせてくれるおもしろさ（與）、ダンス（末吉）がすべて憧れと語る\[179\]。
-  - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")は、個性的で全員が集まると更にかっこ良くてステージから目が離せません、AKBもあんな風にキラキラできていたらいいなと語る\[180\]。
+  - タレントの[佐々木もよこ](https://ja.wikipedia.org/wiki/佐々木もよこ "wikilink")は、メンバーを「一人一人がすっごくパワフルで、ダンスも歌も上手だし、MCもナチュラルで自由で面白い」と述べている\[180\]。
+  - [iDOL Streetの横山奈央は](https://ja.wikipedia.org/wiki/iDOL_Street "wikilink")、メンバーのスタイル（宇野）、滑舌（日高）、歌（西島）、司会力と[リーダーシップ](../Page/リーダーシップ.md "wikilink")（浦田）、周りを笑わせてくれるおもしろさ（與）、ダンス（末吉）がすべて憧れと語る\[181\]。
+  - [AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")の[峯岸みなみ](https://ja.wikipedia.org/wiki/峯岸みなみ "wikilink")は、個性的で全員が集まると更にかっこ良くてステージから目が離せません、AKBもあんな風にキラキラできていたらいいなと語る\[182\]。
 
 ## エピソード
 
@@ -4292,13 +4293,13 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 53. [AAAが15年分の感謝の気持ちを込めて届ける15周年記念ベストアルバム & ミュージック・クリップベストが2月19日（水）に発売決定しました！](https://avex.jp/aaa/news/detail.php?id=1080302) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年1月15日
 54. [グループ史上最大規模となる5大ドームツアー【AAA DOME TOUR 2020】開催決定！！](https://avex.jp/aaa/news/detail.php?id=1080308) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年1月15日
 55. [【AAA DOME TOUR 2020】追加公演決定！男女混合パフォーマンスグループ日本史上"初"６大ドーム制覇\!\!](https://avex.jp/aaa/news/detail.php?id=1080893) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年2月5日
-56. [3/2付週間アルバムランキング、AAAの15周年ベスト盤が1位](https://www.oricon.co.jp/news/2156275/full/) | ORICON NEWS 2020年2月27日
-57. [AAA15周年記念ミュージック・クリップベスト1位 日高「記録を残せた」【オリコンランキング】](https://www.oricon.co.jp/news/2156235/full/) | ORICON NEWS 2020年2月27日
-58. [AAA15周年を記念して 「AAA 15TH ANNIVERSARYプレミアムグッズ第1弾」の発売が決定！アイテムラインナップを発表します！さらに「AAA 15TH ANNIVERSARY ロゴ」も解禁！](https://avex.jp/aaa/news/detail.php?id=1083504) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年5月18日
-59. [AAA15周年を記念したエキシビション『AAA ＋PLUS＋ FAN EXHIBITION -Thanks 15th Anniversary-』開催決定！](https://avex.jp/aaa/news/detail.php?id=1084141) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年6月19日
-60. ファンクラブ『AAA Party』会員限定販売
-61. レンタル限定
-62.
+56. [【AAA DOME TOUR 2020】に関するお知らせ](https://avex.jp/aaa/news/detail.php?id=1086197) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年9月24日
+57. [3/2付週間アルバムランキング、AAAの15周年ベスト盤が1位](https://www.oricon.co.jp/news/2156275/full/) | ORICON NEWS 2020年2月27日
+58. [AAA15周年記念ミュージック・クリップベスト1位 日高「記録を残せた」【オリコンランキング】](https://www.oricon.co.jp/news/2156235/full/) | ORICON NEWS 2020年2月27日
+59. [AAA15周年を記念して 「AAA 15TH ANNIVERSARYプレミアムグッズ第1弾」の発売が決定！アイテムラインナップを発表します！さらに「AAA 15TH ANNIVERSARY ロゴ」も解禁！](https://avex.jp/aaa/news/detail.php?id=1083504) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年5月18日
+60. [AAA15周年を記念したエキシビション『AAA ＋PLUS＋ FAN EXHIBITION -Thanks 15th Anniversary-』開催決定！](https://avex.jp/aaa/news/detail.php?id=1084141) - AAA(トリプル・エー) OFFICIAL WEBSITE 2020年6月19日
+61. ファンクラブ『AAA Party』会員限定販売
+62. レンタル限定
 63.
 64.
 65.
@@ -4379,30 +4380,30 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 140.
 141.
 142.
-143. [【AAA DOME TOUR 2020】schedule](https://avex.jp/aaa/live/tour.php?id=1001842) - AAA(トリプル・エー) OFFICIAL WEBSITE
-144. [全日本空手道連盟公式応援ソングに、AAAの新曲「Yell」（エール）が起用！ 公式サイト 2015年11月26日](http://avex.jp/aaa/news/detail.php?id=1029167#)
-145. [「スプライト」がリニューアル！ 新CMにAAAとかれらの新曲を起用 5月30日（月）全国発売\&CM放映 日本コカ・コーラ 2016年5月6日](http://www.cocacola.co.jp/press-center/press-release/news-20160506)
-146. [「進研ゼミプラス」がAAAと一緒に中高生の夏を応援！〜AAAの「Yell」を使用した夏の新CM「勝ちにいく夏篇」を6月24日より放映開始〜 PRTIMES 2016年6月23日](http://prtimes.jp/main/html/rd/p/000000523.000000120.html)
-147.
-148.
-149. [2/8発売シングル・2/22発売アルバムのタイトルが決定！さらに新曲がドラマ主題歌に決定！ 公式サイト 2016年12月28日](http://avex.jp/aaa/news/detail.php?id=1044683)
-150. [キリン 氷結® × AAA オリジナルムービーのトレーラー映像初公開！ 公式サイト 2017年6月9日](http://avex.jp/aaa/news/detail.php?id=1050089)
-151. <http://www.oricon.co.jp/news/2096529/full/>
-152. [「drama」 (AAA by Takahiro Nishijima & Misako Uno)が「AbemaTV」オリジナル恋愛リアリティーショーの人気番組シーズン3『真冬のオオカミくんには騙されない』のエンディングテーマに決定しました！ 公式サイト 2018年1月15日](http://avex.jp/aaa/news/detail.php?id=1057512)
-153. [【AAA】7月スタートのフジテレビ系火9ドラマ「健康で文化的な最低限度の生活 」(毎週火曜21:00〜)の主題歌を担当することが決定しました！！ 公式サイト 2018年6月14日](http://avex.jp/aaa/news/detail.php?id=1062321)
-154. [【AAA】8月29日（水）発売『COLOR A LIFE』に収録される新曲「Kiss The Sky」がAbemaTV×メ〜テレ共同制作ドラマ｢星屑リベンジャーズ｣主題歌に決定！ 公式サイト 2018年7月10日](http://avex.jp/aaa/news/detail.php?id=1063311)
-155. 登場メンバーは不定。2008年4月7日からは番組名を「[AAA浦田直也のいけ\!浦田直也](https://ja.wikipedia.org/wiki/AAA浦田直也のいけ!浦田直也 "wikilink")」に変更された。
-156. 登場メンバーは不定。
-157. 西島隆弘－西島敬 役/浦田直也－浦田和也 役/宇野実彩子－あかね 役/日高光啓－日高裕道 役/與真司郎－與慎一 役/後藤友香里－後藤タエ 役/末吉秀太－末吉修三 役/伊藤千晃－伊藤朋子 役
-158. 西島隆弘－鈴木 役/浦田直也－鍵の救急車のお兄さん役/宇野実彩子－ミナ 役/日高光啓－清水 役/與真司郎－主人公の元同校生役/末吉秀太－主人公・青木サトシ 役/伊藤千晃－木内礼子 役
-159.
-160. (1)カーテン〜ver.：宇野実彩子（語り）・西島隆弘・末吉秀太。(2)レースカーテン〜ver.：伊藤千晃（語り）・浦田直也・日高光啓、與真司郎
-161. (1)全員が出演するver.。(2)ファッションのように〜ver.：伊藤千晃（語り）、西島隆弘、浦田直也・與真司郎。(3)人が発する湿気を熱に変えるver.：宇野実彩子（語り）・末吉秀太・日高光啓
-162. 浦田直也・與真司郎・伊藤千晃・宇野実彩子の4人が出演
-163.
-164. [1](http://www.daily.co.jp/gossip/2013/11/26/0006525988.shtml),デイリーニュース,2013年11月26日
+143.
+144. [【AAA DOME TOUR 2020】schedule](https://avex.jp/aaa/live/tour.php?id=1001842) - AAA(トリプル・エー) OFFICIAL WEBSITE
+145.
+146. [全日本空手道連盟公式応援ソングに、AAAの新曲「Yell」（エール）が起用！ 公式サイト 2015年11月26日](http://avex.jp/aaa/news/detail.php?id=1029167#)
+147. [「スプライト」がリニューアル！ 新CMにAAAとかれらの新曲を起用 5月30日（月）全国発売\&CM放映 日本コカ・コーラ 2016年5月6日](http://www.cocacola.co.jp/press-center/press-release/news-20160506)
+148. [「進研ゼミプラス」がAAAと一緒に中高生の夏を応援！〜AAAの「Yell」を使用した夏の新CM「勝ちにいく夏篇」を6月24日より放映開始〜 PRTIMES 2016年6月23日](http://prtimes.jp/main/html/rd/p/000000523.000000120.html)
+149.
+150.
+151. [2/8発売シングル・2/22発売アルバムのタイトルが決定！さらに新曲がドラマ主題歌に決定！ 公式サイト 2016年12月28日](http://avex.jp/aaa/news/detail.php?id=1044683)
+152. [キリン 氷結® × AAA オリジナルムービーのトレーラー映像初公開！ 公式サイト 2017年6月9日](http://avex.jp/aaa/news/detail.php?id=1050089)
+153. <http://www.oricon.co.jp/news/2096529/full/>
+154. [「drama」 (AAA by Takahiro Nishijima & Misako Uno)が「AbemaTV」オリジナル恋愛リアリティーショーの人気番組シーズン3『真冬のオオカミくんには騙されない』のエンディングテーマに決定しました！ 公式サイト 2018年1月15日](http://avex.jp/aaa/news/detail.php?id=1057512)
+155. [【AAA】7月スタートのフジテレビ系火9ドラマ「健康で文化的な最低限度の生活 」(毎週火曜21:00〜)の主題歌を担当することが決定しました！！ 公式サイト 2018年6月14日](http://avex.jp/aaa/news/detail.php?id=1062321)
+156. [【AAA】8月29日（水）発売『COLOR A LIFE』に収録される新曲「Kiss The Sky」がAbemaTV×メ〜テレ共同制作ドラマ｢星屑リベンジャーズ｣主題歌に決定！ 公式サイト 2018年7月10日](http://avex.jp/aaa/news/detail.php?id=1063311)
+157. 登場メンバーは不定。2008年4月7日からは番組名を「[AAA浦田直也のいけ\!浦田直也](https://ja.wikipedia.org/wiki/AAA浦田直也のいけ!浦田直也 "wikilink")」に変更された。
+158. 登場メンバーは不定。
+159. 西島隆弘－西島敬 役/浦田直也－浦田和也 役/宇野実彩子－あかね 役/日高光啓－日高裕道 役/與真司郎－與慎一 役/後藤友香里－後藤タエ 役/末吉秀太－末吉修三 役/伊藤千晃－伊藤朋子 役
+160. 西島隆弘－鈴木 役/浦田直也－鍵の救急車のお兄さん役/宇野実彩子－ミナ 役/日高光啓－清水 役/與真司郎－主人公の元同校生役/末吉秀太－主人公・青木サトシ 役/伊藤千晃－木内礼子 役
+161.
+162. (1)カーテン〜ver.：宇野実彩子（語り）・西島隆弘・末吉秀太。(2)レースカーテン〜ver.：伊藤千晃（語り）・浦田直也・日高光啓、與真司郎
+163. (1)全員が出演するver.。(2)ファッションのように〜ver.：伊藤千晃（語り）、西島隆弘、浦田直也・與真司郎。(3)人が発する湿気を熱に変えるver.：宇野実彩子（語り）・末吉秀太・日高光啓
+164. 浦田直也・與真司郎・伊藤千晃・宇野実彩子の4人が出演
 165.
-166.
+166. [1](http://www.daily.co.jp/gossip/2013/11/26/0006525988.shtml),デイリーニュース,2013年11月26日
 167.
 168.
 169.
@@ -4417,3 +4418,5 @@ H.I.S.『中部秋キャンペーン』CMソング</p></td>
 178.
 179.
 180.
+181.
+182.

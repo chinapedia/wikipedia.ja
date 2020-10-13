@@ -1,9 +1,7 @@
 > この記事は[TOUGH \(漫画\)](https://ja.wikipedia.org/wiki/TOUGH_\(漫画\))から翻訳されています。
 
 
-『**TOUGH**』（タフ）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。前作『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』の続編で、『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）において、2003年35号より2012年34号（7月19日発売）まで連載された\[1\]。単行本は39巻まで刊行された。単行本の帯には毎回、実在の格闘家が漫画に関連するコメントを残している。
-
-## 概要
+『**TOUGH**』（タフ）は、[猿渡哲也](../Page/猿渡哲也.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")。前作『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』の続編で、『[週刊ヤングジャンプ](https://ja.wikipedia.org/wiki/週刊ヤングジャンプ "wikilink")』（[集英社](../Page/集英社.md "wikilink")）において、2003年35号より2012年34号（7月19日発売）まで連載された\[1\]。単行本は39巻まで刊行された。単行本の帯には毎回、実在の格闘家が漫画に関連するコメントを残している。2020年7月時点で、累計発行部数は1000万部を突破している\[2\]。
 
 『[高校鉄拳伝タフ](../Page/高校鉄拳伝タフ.md "wikilink")』の続編で、主人公の“キー坊”こと宮沢熹一が、2年前の鬼龍との死闘の末に身体に障害を起こしている父親を救うため、[暴力団](https://ja.wikipedia.org/wiki/暴力団 "wikilink")が主催する闇試合『ダークファイト』で闘っている所から始まる。
 
@@ -209,7 +207,7 @@
 ## ゲーム
 
   - TOUGH DARK FIGHT (タフダークファイト)
-    [PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")。[コナミより](../Page/コナミデジタルエンタテインメント.md "wikilink")2005年12月1日発売\[2\]。
+    [PlayStation 2専用ソフト](../Page/PlayStation_2.md "wikilink")。[コナミより](../Page/コナミデジタルエンタテインメント.md "wikilink")2005年12月1日発売\[3\]。
 
 ## 脚注
 
@@ -223,4 +221,5 @@
 [Category:猿渡哲也](https://ja.wikipedia.org/wiki/Category:猿渡哲也 "wikilink") [Category:漫画作品_た](https://ja.wikipedia.org/wiki/Category:漫画作品_た "wikilink") [Category:週刊ヤングジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊ヤングジャンプの漫画作品 "wikilink") [Category:格闘技漫画](https://ja.wikipedia.org/wiki/Category:格闘技漫画 "wikilink") [Category:高校鉄拳伝タフ](https://ja.wikipedia.org/wiki/Category:高校鉄拳伝タフ "wikilink")
 
 1.  [「タフ」開始から約19年、猿渡哲也「TOUGH」堂々の完結](https://natalie.mu/comic/news/73164)ナタリー
-2.  [TOUGH DARK FIGHT](http://www.konami.jp/products/tough_dark_ps2/)コナミ公式サイト
+2.
+3.  [TOUGH DARK FIGHT](http://www.konami.jp/products/tough_dark_ps2/)コナミ公式サイト

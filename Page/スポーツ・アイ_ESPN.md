@@ -76,4 +76,4 @@
 
   - [ウェブアーカイブにおける、公式ホームページの保存キャッシュ一覧](http://web.archive.org/web/*/http://www.sports-i.co.jp/)
 
-[Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:スポーツ専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:スポーツ専門テレビチャンネル "wikilink") [Category:J_SPORTS](https://ja.wikipedia.org/wiki/Category:J_SPORTS "wikilink") [Category:ESPN](https://ja.wikipedia.org/wiki/Category:ESPN "wikilink") [Category:福岡ソフトバンクホークスの歴史](https://ja.wikipedia.org/wiki/Category:福岡ソフトバンクホークスの歴史 "wikilink")
+[Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:スポーツ専門テレビチャンネル](https://ja.wikipedia.org/wiki/Category:スポーツ専門テレビチャンネル "wikilink") [Category:J_SPORTS](https://ja.wikipedia.org/wiki/Category:J_SPORTS "wikilink") [Category:ESPN](https://ja.wikipedia.org/wiki/Category:ESPN "wikilink") [Category:福岡ソフトバンクホークスの歴史](https://ja.wikipedia.org/wiki/Category:福岡ソフトバンクホークスの歴史 "wikilink") [Category:CS放送のチャンネル_(閉局)](https://ja.wikipedia.org/wiki/Category:CS放送のチャンネル_\(閉局\) "wikilink")

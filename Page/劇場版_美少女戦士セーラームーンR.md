@@ -179,7 +179,7 @@
 ## 外部リンク
 
   -
-[Category:美少女戦士セーラームーンのアニメ](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーンのアニメ "wikilink") [Category:1993年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1993年のアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:花を題材とした作品](https://ja.wikipedia.org/wiki/Category:花を題材とした作品 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink")
+[Category:美少女戦士セーラームーンのアニメ](https://ja.wikipedia.org/wiki/Category:美少女戦士セーラームーンのアニメ "wikilink") [Category:1993年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1993年のアニメ映画 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:地球外生命体を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材としたアニメ映画 "wikilink") [Category:花を題材としたアニメ映画](https://ja.wikipedia.org/wiki/Category:花を題材としたアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink")
 
 1.  社団法人日本映画製作者連盟調べ。
 2.  「映画 美少女戦士セーラームーンR 音楽集」（日本コロムビア）の中のプロデューサー東伊里弥ライナーノートより。

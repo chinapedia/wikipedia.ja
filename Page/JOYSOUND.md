@@ -334,7 +334,7 @@ JOYSOUND（ジョイサウンド）直営店、[カラオケボックス](../Pag
 
   - [エクシング製品情報ページ](https://joysound.biz/)
 
-  - [JOYSOUND公式ホームページ](https://joysound.com/)
+  - [JOYSOUND公式ホームページ](https://www.joysound.com/web/)
 
   -
   -

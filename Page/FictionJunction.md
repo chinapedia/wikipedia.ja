@@ -11,7 +11,7 @@
 
 プロジェクトの始動は2003年、梶浦とボーカルの[南里侑香](../Page/南里侑香.md "wikilink")をメンバーとした「[FictionJunction　YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")」である。(詳細は、同項を参照のこと。)当初のグループ名は、「FictionJunction featuring YUUKA」であったが、2004年に1stシングル「[瞳の欠片](../Page/瞳の欠片.md "wikilink")」をリリースするのとともに、現グループ名に変更となった。グループ名の「FictionJunction」は、梶浦自身が"Fiction"(創作)し、楽曲ごとにボーカリストらと"Junction"(交差・接合)して新たなものを送り出すというコンセプトから命名されたという。
 
-2005年には、梶浦が音楽を担当した[NHKのテレビアニメーション](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ツバサ・クロニクル](https://ja.wikipedia.org/wiki/ツバサ・クロニクル "wikilink")」の挿入歌を歌うにあたって、新たに[織田かおり](../Page/織田かおり.md "wikilink")と[窪田啓子](../Page/窪田啓子.md "wikilink")がボーカリストに起用され、それぞれ「FictionJunction KAORI」と「FictionJunction KEIKO」としてデビューする。更に、同年には梶浦が音楽を担当したテレビアニメ「[エレメンタルジェレイド](https://ja.wikipedia.org/wiki/エレメンタルジェレイド "wikilink")」の挿入歌を歌うにあたって、新たに[加藤あすか](https://ja.wikipedia.org/wiki/加藤あすか "wikilink")が、翌年には、[OVA](../Page/OVA.md "wikilink")「[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")～ユリア伝～」の挿入歌を歌うにあたって、[大滝若菜](https://ja.wikipedia.org/wiki/大滝若菜 "wikilink")がボーカリストに起用され、それぞれ「FictionJunction ASUKA」、「FictionJunction WAKANA」としてデビューする。
+2005年には、梶浦が音楽を担当した[NHKのテレビアニメーション](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")「[ツバサ・クロニクル](https://ja.wikipedia.org/wiki/ツバサ・クロニクル "wikilink")」の挿入歌を歌うにあたって、新たに[織田かおり](../Page/織田かおり.md "wikilink")と[窪田啓子](../Page/窪田啓子.md "wikilink")がボーカリストに起用され、それぞれ「FictionJunction KAORI」と「FictionJunction KEIKO」としてデビューする。更に、同年には梶浦が音楽を担当したテレビアニメ「[エレメンタルジェレイド](https://ja.wikipedia.org/wiki/エレメンタルジェレイド "wikilink")」の挿入歌を歌うにあたって、新たに[加藤あすか](https://ja.wikipedia.org/wiki/加藤あすか "wikilink")が、翌年には、[OVA](../Page/OVA.md "wikilink")「[北斗の拳](https://ja.wikipedia.org/wiki/北斗の拳 "wikilink")～ユリア伝～」の挿入歌を歌うにあたって、[大滝若奈](https://ja.wikipedia.org/wiki/大滝若奈 "wikilink")がボーカリストに起用され、それぞれ「FictionJunction ASUKA」、「FictionJunction WAKANA」としてデビューする。
 
 ### 「FictionJunction」統一後
 
@@ -68,7 +68,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/大滝若菜" title="wikilink">大滝若菜</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大滝若奈" title="wikilink">大滝若奈</a></p></td>
 <td><p>2006年「FictionJunction WAKANA」でデビュー。2009年から2016年までは、CD、LIVEにレギュラー参加していた。2008年から2019年まで梶浦プロデュース歌唱ユニットKalafinaのメンバーであった。</p></td>
 <td></td>
 </tr>
@@ -281,7 +281,7 @@
 ## 関連項目
 
   - [Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")
-      - [大滝若菜](https://ja.wikipedia.org/wiki/大滝若菜 "wikilink")
+      - [大滝若奈](https://ja.wikipedia.org/wiki/大滝若奈 "wikilink")
       - [窪田啓子](../Page/窪田啓子.md "wikilink")
       - [政井光](https://ja.wikipedia.org/wiki/Hikaru_\(歌手\) "wikilink")
   - [伊東恵里](../Page/伊東恵里.md "wikilink")

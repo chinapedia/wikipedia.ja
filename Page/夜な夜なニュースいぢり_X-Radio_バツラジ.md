@@ -1,7 +1,7 @@
 > この記事は[夜な夜なニュースいぢり X-Radio バツラジ](https://ja.wikipedia.org/wiki/夜な夜なニュースいぢり_X-Radio_バツラジ)から翻訳されています。
 
 
-『**夜な夜なニュースいぢり X-Radio バツラジ**』（よなよなニュースいぢり バツラジ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")の間、月曜〜木曜24:00〜25:00（火曜〜金曜午前0:00〜1:00）に[生放送](../Page/生放送.md "wikilink")していた[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは[宮川賢](../Page/宮川賢.md "wikilink")。
+『**夜な夜なニュースいぢり X-Radio バツラジ**』（よなよなニュースいぢり バツラジ）は、かつて[TBSラジオ](../Page/TBSラジオ.md "wikilink")が[2003年](../Page/2003年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月25日](../Page/9月25日.md "wikilink")の間、月曜〜木曜24:00〜25:00（火曜〜金曜午前0:00〜1:00）に[生放送](../Page/生放送.md "wikilink")していた[深夜の](../Page/深夜放送.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティは[宮川賢](../Page/宮川賢.md "wikilink")（賢。で、「まさる」と読む）
 
 ## 概要
 

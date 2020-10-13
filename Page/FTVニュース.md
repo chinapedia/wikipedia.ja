@@ -24,8 +24,8 @@
   - 金曜日 21:49 - 21:55、月曜 - 木曜・土曜 20:54 - 21:00、日曜は『[ニチファミ\!](https://ja.wikipedia.org/wiki/ニチファミ! "wikilink")』に中断ニュースとして内包（2015年3月30日－2017年3月31日は『FTV[こんやのニュース](https://ja.wikipedia.org/wiki/こんやのニュース "wikilink")』として、2017年4月1日－2017年10月1日は『FTV[ユアタイム クイック](https://ja.wikipedia.org/wiki/ユアタイム_クイック "wikilink")』として、2017年10月2日から2018年3月までは『FTV [THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』として放送していた。2017年3月から2018年3月までの土日および2018年1月から2018年3月までの金曜日はフジテレビ発の全国ニュースをネットし、ニュース本編終了後に県内の天気予報を放送していた。月曜 - 木曜は県内ニュースを放送していた。）
   - 2018年3月を以って、フジテレビの『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』が終了したが、FTVもそれに合わせて終了。これにより、FTVの夜のスポットニュースは終了することになった。（4月より当番組の時間は月曜と日曜はフジテレビの20時台の番組をフルネットし、それ以外の曜日はフジテレビの20時台の番組を20:54（金曜のみ21:49）で飛び降りし日替わりのミニ番組および天気予報を放送している。）
   - おおよその時間、実質的には30秒後から始まっていた。
-  - 『FNN Live News days』および日曜夕方の『[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』でも、番組後半にローカルニュースと県内の天気予報を伝えている（但し、土曜日昼枠の天気予報は『[サタふく](../Page/サタふく.md "wikilink")』の中で伝えている）。
-  - [年末年始](../Page/年末年始.md "wikilink")には、昼・夕方の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』（『[FNN Live News days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")』、『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』、『[Live News it\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』の代替）のローカル枠にて県内ニュースを伝えている。
+  - 『FNN Live News days』および日曜夕方の『[Live News イット\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』でも、番組後半にローカルニュースと県内の天気予報を伝えている（但し、土曜日昼枠の天気予報は『[サタふく](../Page/サタふく.md "wikilink")』の中で伝えている）。
+  - [年末年始](../Page/年末年始.md "wikilink")には、昼・夕方の『[FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")』（『[FNN Live News days](https://ja.wikipedia.org/wiki/FNN_Live_News_days "wikilink")』、『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』、『[Live News イット\!](https://ja.wikipedia.org/wiki/Live_News_it! "wikilink")』の代替）のローカル枠にて県内ニュースを伝えている。
 
 ## 外部リンク
 

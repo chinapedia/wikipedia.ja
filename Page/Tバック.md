@@ -1,11 +1,17 @@
 > この記事は[Tバック](https://ja.wikipedia.org/wiki/Tバック)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Group_of_young_women_in_thong_bikinis_2.jpg "wikilink") **Tバック**（ティーバック、）は、[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")（[尻](../Page/尻.md "wikilink")）を露出した[水着](../Page/水着.md "wikilink")及び[下着](../Page/下着.md "wikilink")（下穿き）の一種で、[和製英語](../Page/和製英語.md "wikilink")である。海外では[ソング](https://ja.wikipedia.org/wiki/ソング_\(下着\) "wikilink")()、[Gストリング](../Page/Gストリング.md "wikilink")()、[タンガ](../Page/タンガ.md "wikilink")()、等に分類されているが、日本では和製英語としてこれらの下着の総称として用いられる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Group_of_young_women_in_thong_bikinis_2.jpg "wikilink") **Tバック**（ティーバック、）は、[臀部](https://ja.wikipedia.org/wiki/臀部 "wikilink")（[尻](../Page/尻.md "wikilink")）を露出した[水着](../Page/水着.md "wikilink")及び[下着](../Page/下着.md "wikilink")（下穿き）の一種で、[和製英語](../Page/和製英語.md "wikilink")である。
 
-バックスタイルがT字型でカットされたデザインになっており、外形がアルファベットのTの字に見える事から、Tバックと名付けられた。フロントは普通の[ハイレグ](../Page/ハイレグ.md "wikilink")[ビキニの形になっているが](../Page/ビキニ_\(水着\).md "wikilink")、バックはゴム紐か細い布になっており、布が[尻](../Page/尻.md "wikilink")間に食い込むため、独特の穿き心地やヒップラインが美しく見えるなどの利点を持つ[下着](../Page/下着.md "wikilink")、もしくは水着の一種である。
+海外では[ソング](https://ja.wikipedia.org/wiki/ソング_\(下着\) "wikilink")()、[Gストリング](../Page/Gストリング.md "wikilink")()、[タンガ](../Page/タンガ.md "wikilink")()、等に分類されているが、日本では[和製英語](../Page/和製英語.md "wikilink")として、これらの下着の総称として用いられる。
 
-競泳[水着](../Page/水着.md "wikilink")の背中部分がT字になっている物をTバックよ呼ぶ場合もあるが、本項では下着や水着のボトム形状を指し示す。
+## 由来
+
+バックスタイルがT字型でカットされたデザインになっており、外形がアルファベットのTの字に見える事から、Tバックと名付けられた。
+
+フロントは普通の[ハイレグ](../Page/ハイレグ.md "wikilink")[ビキニの形になっているが](../Page/ビキニ_\(水着\).md "wikilink")、バックはゴム紐か細い布になっており、布が[尻](../Page/尻.md "wikilink")間に食い込むため、独特の穿き心地やヒップラインが美しく見えるなどの利点を持つ[下着](../Page/下着.md "wikilink")、もしくは水着の一種である。
+
+なお、競泳[水着](../Page/水着.md "wikilink")の背中部分がT字になっている物をTバックと呼ぶ場合もあるが、本項では下着や水着のボトム形状を指し示す。
 
 ## 概要・デザイン
 

@@ -31,7 +31,7 @@
 
 同年、グループは一時活動を休止。
 
-[2006年](../Page/2006年.md "wikilink")9月、プロデューサーに今井大介を迎え入れて24枚目のシングル「[ALRIGHT\!](https://ja.wikipedia.org/wiki/ALRIGHT! "wikilink")」を発売し、3人体制で活動を再開。
+[2006年](../Page/2006年.md "wikilink")9月、プロデューサーに今井大介を迎え入れて24枚目のシングル「[ALRIGHT\!](https://ja.wikipedia.org/wiki/ALRIGHT!_\(DA_PUMPの曲\) "wikilink")」を発売し、3人体制で活動を再開。
 
 [2007年](../Page/2007年.md "wikilink")、デビュー10周年を迎え、記念コンサート『BUMPIN' PUMPIN' TOUR 2008』の開催が予定されていたが、リハーサル中にISSAが右足を骨折してしまい、4年ぶりのツアー公演が中止となった\[5\]。
 
@@ -441,7 +441,7 @@ CD</p></td>
 <tr class="even">
 <td><p>24</p></td>
 <td><p><a href="../Page/2006年.md" title="wikilink">2006年</a><a href="https://ja.wikipedia.org/wiki/9月27日" title="wikilink">9月27日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALRIGHT!" title="wikilink">ALRIGHT!</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ALRIGHT!_(DA_PUMPの曲)" title="wikilink">ALRIGHT!</a></strong></p></td>
 <td><p>AVCT-30119/B<br />
 AVCT-30120</p></td>
 <td><p>CD+DVD<br />
@@ -607,7 +607,7 @@ CD+DVD <small>【初回限定盤】 </small><br />
 CD+Blu-ray <small>【初回限定盤】 </small><br />
 CD+DVD<br />
 CD</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フジテレビ" title="wikilink">フジテレビ</a>『<a href="https://ja.wikipedia.org/wiki/なりゆき街道旅" title="wikilink">なりゆき街道旅</a>』エンディングテーマ</p></td>
 </tr>
 </tbody>
 </table>

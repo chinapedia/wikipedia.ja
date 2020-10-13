@@ -82,7 +82,7 @@ U-LT232J
 
 いすゞLT系は、大型車体と同じものを使い、純正車体（川重車体・IKコーチ・いすゞバス製造）の場合[キュービックもしくは](../Page/いすゞ・キュービック.md "wikilink")[エルガ車体となる](../Page/いすゞ・エルガ.md "wikilink")。初期の一部にはモノコックボディを架装したLTも存在した。
 
-また、[富士重工製の車体のバスも多く製造された](../Page/スバルカスタマイズ工房.md "wikilink")（1999年まで）。[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")製の車体架装車も地域によっては一定数みられた。(新潟などの北陸や東北の一部地域)
+また、[富士重工業製の車体のバスも多く製造された](../Page/スバルカスタマイズ工房.md "wikilink")（1999年まで）。[北村製作所](https://ja.wikipedia.org/wiki/北村製作所 "wikilink")製の車体架装車も[新潟県](../Page/新潟県.md "wikilink")など、[東北](https://ja.wikipedia.org/wiki/東北地方 "wikilink")・[北陸地方](../Page/北陸地方.md "wikilink")など地域によっては一定数みられた。
 
 なお、[西日本車体工業](../Page/西日本車体工業.md "wikilink")製のECM/EDMはごく少数、LT系架装例は皆無と思われる。
 
@@ -104,9 +104,13 @@ P-LT312J
 P-LT312J
 相模鉄道 ファイル:Yamakobus-90026.JPG|富士7E架装
 U-LT232J
-山交バス ファイル:Ugo-kotsu-748.jpg|富士7E架装
+山交バス ファイル:KC-LT333J Sotetsu 5654.jpg|富士7E架装
 KC-LT333J
-羽後交通
+相模鉄道 ファイル:Ugo-kotsu-748.jpg|富士7E架装
+KC-LT333J
+羽後交通 ファイル:Rinkogreen-1g062.jpg|富士7E架装
+KC-LT333J
+川崎鶴見臨港バス（臨港グリーンバス）
 
 ## 教習車
 
@@ -119,14 +123,18 @@ KL-LT233J2
 
 ## 関連項目
 
+  - [いすゞ・BX\#リヤエンジンバス](https://ja.wikipedia.org/wiki/いすゞ・BX#リヤエンジンバス "wikilink")
+  - [いすゞ・BU](../Page/いすゞ・BU.md "wikilink")
+  - [いすゞ・C系](../Page/いすゞ・C系.md "wikilink")
+  - [いすゞ・キュービック](../Page/いすゞ・キュービック.md "wikilink")
+  - [いすゞ・エルガ](../Page/いすゞ・エルガ.md "wikilink")
+  - [いすゞ・ジャーニーK](../Page/いすゞ・ジャーニーK.md "wikilink") - 中型車
+  - [いすゞ・エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink") - 中型車
+  - [いすゞ・LT134](../Page/いすゞ・LT134.md "wikilink") - 輸出用
   - [いすゞバス製造](../Page/いすゞバス製造.md "wikilink")
   - [スバルカスタマイズ工房](../Page/スバルカスタマイズ工房.md "wikilink")
-  - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink")
-  - [いすゞ・エルガ](../Page/いすゞ・エルガ.md "wikilink")
-  - [いすゞ・エルガミオ](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")（中型バス）
-  - [いすゞ・LT134](../Page/いすゞ・LT134.md "wikilink")
-  - [いすゞ・キュービック](../Page/いすゞ・キュービック.md "wikilink")
-  - [三菱ふそう・エアロスターMM](../Page/三菱ふそう・エアロスターMM.md "wikilink")
+  - [三菱ふそう・エアロスターMM](../Page/三菱ふそう・エアロスターMM.md "wikilink") - 大型短尺車
+  - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink") - 大型短尺車
 
 ## 脚注
 

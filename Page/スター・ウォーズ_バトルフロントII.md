@@ -1,11 +1,11 @@
 > この記事は[スター・ウォーズ バトルフロントII](https://ja.wikipedia.org/wiki/スター・ウォーズ_バトルフロントII)から翻訳されています。
 
 
-『**スター・ウォーズ バトルフロントII**』 (*STAR WARS BATTLEFRONT II*)は、[ルーカスアーツ](https://ja.wikipedia.org/wiki/ルーカスアーツ "wikilink")開発、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")販売の[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")で日本でも販売されている。『[スター・ウォーズ・シリーズ](https://ja.wikipedia.org/wiki/スター・ウォーズ・シリーズ "wikilink")』を題材にした3人称視点のアクション・シューティング（TPS）であり、『[スター・ウォーズ バトルフロント](../Page/スター・ウォーズ_バトルフロント.md "wikilink")』の続編となる。
+『**スター・ウォーズ バトルフロントII**』 (*STAR WARS BATTLEFRONT II*)は、[ルーカスアーツ](https://ja.wikipedia.org/wiki/ルーカスアーツ "wikilink")開発、[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")販売の[PlayStation 2](../Page/PlayStation_2.md "wikilink")、[PlayStation Portable](../Page/PlayStation_Portable.md "wikilink")、[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")用[コンピューターゲーム](https://ja.wikipedia.org/wiki/コンピューターゲーム "wikilink")で日本でも販売されている。『[スター・ウォーズシリーズ](../Page/スター・ウォーズシリーズ.md "wikilink")』を題材にした3人称視点のアクション・シューティング（TPS）であり、『[スター・ウォーズ バトルフロント](../Page/スター・ウォーズ_バトルフロント.md "wikilink")』の続編となる。
 
 ## 概要
 
-前作から約1年半後に発売された本作は、前作に収録されなかった『[スター・ウォーズ エピソード3/シスの復讐](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード3/シスの復讐 "wikilink")』の内容も収録し、[クローン大戦](https://ja.wikipedia.org/wiki/クローン大戦 "wikilink")（エピソード1～3）、銀河内乱（エピソード4～6）を全て網羅したアクションシューティングとなっている。今作では兵士だけでなく、ルークやアナキン、ダース・モールやダース・ベイダーといった[ジェダイ](../Page/ジェダイ.md "wikilink")の騎士や[シスの暗黒卿も使用可能になった](../Page/シス_\(スター・ウォーズ\).md "wikilink")。クローン戦争編では共和国軍か独立星系連合軍、銀河内乱編では帝国軍か反乱軍から選択できるのは前作と同じ。
+前作から約1年半後に発売された本作は、前作に収録されなかった『[スター・ウォーズ エピソード3/シスの復讐](https://ja.wikipedia.org/wiki/スター・ウォーズ_エピソード3/シスの復讐 "wikilink")』の内容も収録し、[クローン大戦](https://ja.wikipedia.org/wiki/スター・ウォーズにおける戦いの一覧#クローン戦争 "wikilink")（エピソード1～3）、銀河内乱（エピソード4～6）を全て網羅したアクションシューティングとなっている。今作では兵士だけでなく、ルークやアナキン、ダース・モールやダース・ベイダーといった[ジェダイ](../Page/ジェダイ.md "wikilink")の騎士や[シスの暗黒卿も使用可能になった](../Page/シス_\(スター・ウォーズ\).md "wikilink")。クローン戦争編では共和国軍か独立星系連合軍、銀河内乱編では帝国軍か反乱軍から選択できるのは前作と同じ。
 
 キャラクターはメインウェポン、サブウェポンあわせて2から4種類を持っており状況に応じて使い分けることが重要となる。映画に登場したXウィングやタイ・ファイター、スピーダー・バイクやAT-STといった様々な乗り物が「ビークル」として登場し、△ボタンでこれに乗って戦うこともできる。
 

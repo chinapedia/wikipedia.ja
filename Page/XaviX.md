@@ -1,7 +1,7 @@
 > この記事は[XaviX](https://ja.wikipedia.org/wiki/XaviX)から翻訳されています。
 
 
-[2007TaipeiITMonth_XaviXPORT.jpg](https://ja.wikipedia.org/wiki/File:2007TaipeiITMonth_XaviXPORT.jpg "fig:2007TaipeiITMonth_XaviXPORT.jpg") **XaviX**（**ザビックス**）は、[新世代](https://ja.wikipedia.org/wiki/新世代 "wikilink")株式会社が開発したユニークな技術の総称、あるいはそのコアとなるLSIチップのこと。多くの家庭用体感型玩具（[体感ゲーム](../Page/体感ゲーム.md "wikilink")）に採用されている。
+[2007TaipeiITMonth_XaviXPORT.jpg](https://ja.wikipedia.org/wiki/File:2007TaipeiITMonth_XaviXPORT.jpg "fig:2007TaipeiITMonth_XaviXPORT.jpg") **XaviX**（**ザビックス**）は、[新世代株式会社が開発したユニークな技術の総称](https://ja.wikipedia.org/wiki/#新世代株式会社とは "wikilink")、あるいはそのコアとなるLSIチップのこと。多くの家庭用体感型玩具（[体感ゲーム](../Page/体感ゲーム.md "wikilink")）に採用されている。
 
 本稿ではXaviXチップを開発した**新世代株式会社**、およびXaviXチップを搭載したフィットネス機器・[ゲーム機](../Page/ゲーム機.md "wikilink")である**XaviX PORT**についても解説する。
 

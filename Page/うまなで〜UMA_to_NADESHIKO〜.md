@@ -127,7 +127,7 @@ MCを務めた女子3名はいずれも競馬素人であった。
 <!-- end list -->
 
   - [CEYREN](../Page/CEYREN.md "wikilink") / With You （2007年1月 - 6月）
-  - [山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink") / Palm　（2007年7月 - 12月）
+  - [山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink") / Palm　（2007年7月 - 12月）
 
 ## 関連項目
 

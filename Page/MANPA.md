@@ -68,21 +68,15 @@
 
   - 第1部
 
-:\* [魔王学院の不適合者 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜](https://ja.wikipedia.org/wiki/魔王学院の不適合者_〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜 "wikilink")（2020年7月7日 - 、TOKYO MX・BS11・AT-X）
-
-  - 第2部・第3部
-
-:\* [犬夜叉 完結編](https://ja.wikipedia.org/wiki/犬夜叉_完結編 "wikilink")（再放送）（2020年6月30日 - 、本局）
-
-### 放送予定
-
-  - 第1部
-
 :\* [ゴールデンカムイ](https://ja.wikipedia.org/wiki/ゴールデンカムイ "wikilink")（第三期）（2020年10月6日 - ）
 
   - 第2部
 
 :\* [トニカクカワイイ](https://ja.wikipedia.org/wiki/トニカクカワイイ "wikilink")（2020年10月6日 - ）
+
+  - 第3部
+
+:\* [半妖の夜叉姫](../Page/半妖の夜叉姫.md "wikilink")（再放送）（2020年10月6日 - 、本局）
 
 ### アニ探\!
 
@@ -157,7 +151,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/犬夜叉_完結編" title="wikilink">犬夜叉 完結編</a></p></td>
 <td><p>2009年10月6日 - 2010年3月30日</p></td>
 <td><p>第1部（1:44 - 2:14）</p></td>
-<td><p>2020年7月期に第2部で再放送。</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>乃木坂春香の秘密 ぴゅあれっつぁ♪</p></td>
@@ -283,7 +277,7 @@ YTE音楽協力。</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/世界でいちばん強くなりたい!" title="wikilink">世界でいちばん強くなりたい！</a></p></td>
 <td><p>2013年10月8日 - 12月24日</p></td>
 <td><p>第3部（2:42 - 3:12）</p></td>
-<td><p>YTE・<a href="https://ja.wikipedia.org/wiki/AT-X" title="wikilink">AT-X</a>・<a href="../Page/大阪放送.md" title="wikilink">ラジオ大阪が製作として参加</a>。</p></td>
+<td><p>YTE・<a href="https://ja.wikipedia.org/wiki/AT-X" title="wikilink">AT-X</a>・<a href="https://ja.wikipedia.org/wiki/ラジオ大阪" title="wikilink">ラジオ大阪</a>が製作として参加。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ノブナガン" title="wikilink">ノブナガン</a></p></td>
@@ -800,6 +794,15 @@ AT-X</p></td>
 BSフジ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/テレビ東京" title="wikilink">テレビ東京</a>の子会社である<a href="../Page/テレビ東京メディアネット.md" title="wikilink">テレビ東京メディアネット</a>も製作に参加。</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/魔王学院の不適合者_〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜" title="wikilink">魔王学院の不適合者 〜史上最強の魔王の始祖、転生して子孫たちの学校へ通う〜</a></p></td>
+<td><p>2020年7月7日 - 9月29日</p></td>
+<td><p>第1部（1:59 - 2:29）</p></td>
+<td><p>TOKYO MX<br />
+BS11<br />
+AT-X</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1002,10 +1005,16 @@ BSフジ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ハクション大魔王.md" title="wikilink">ハクション大魔王</a>2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハクション大魔王2020" title="wikilink">ハクション大魔王2020</a></p></td>
 <td><p>2020年4月14日 - 7月7日</p></td>
 <td><p>第2部（2:29 - 2:59）</p></td>
 <td><p>第10話までの再放送。</p></td>
+</tr>
+<tr class="odd">
+<td><p>犬夜叉 完結編</p></td>
+<td><p>2020年6月30日 - 9月29日</p></td>
+<td><p>第2部（2:29 - 3:29）</p></td>
+<td><p>2話連続での再放送。</p></td>
 </tr>
 </tbody>
 </table>
@@ -1047,7 +1056,7 @@ BSフジ</p></td>
   - [ビキニ・ウォリアーズ](https://ja.wikipedia.org/wiki/ビキニ・ウォリアーズ "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。YTE企画協力作品。
   - [SERVAMP-サーヴァンプ-](https://ja.wikipedia.org/wiki/SERVAMP-サーヴァンプ- "wikilink")
-    [メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")企画協力。近畿地方ではサンテレビ、中京地区ではメ〜テレで放送。
+    [メ〜テレ](https://ja.wikipedia.org/wiki/メ〜テレ "wikilink")企画協力。近畿地方ではサンテレビで放送。
   - [セントールの悩み](https://ja.wikipedia.org/wiki/セントールの悩み "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [アニメガタリズ](https://ja.wikipedia.org/wiki/アニメガタリズ "wikilink")
@@ -1059,19 +1068,19 @@ BSフジ</p></td>
   - [伊藤潤二『コレクション』](https://ja.wikipedia.org/wiki/伊藤潤二『コレクション』 "wikilink")
     近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [この世の果てで恋を唄う少女YU-NO](../Page/この世の果てで恋を唄う少女YU-NO.md "wikilink")
-    ABCアニメーション・メ〜テレも製作委員会に参加。近畿地方では朝日放送テレビ、中京地区ではメ〜テレで放送。
+    ABCアニメーション・メ〜テレも製作委員会に参加。近畿地方では朝日放送テレビ『[水もん](https://ja.wikipedia.org/wiki/水もん "wikilink")』枠で放送。
   - [本好きの下剋上 司書になるためには手段を選んでいられません](https://ja.wikipedia.org/wiki/本好きの下剋上_司書になるためには手段を選んでいられません "wikilink")
-    ABCアニメーションも製作委員会に参加。近畿地方では朝日放送テレビで放送。
+    ABCアニメーションも製作委員会に参加。近畿地方では朝日放送テレビ『水もん』枠で放送。
   - [警視庁 特務部 特殊凶悪犯対策室 第七課 -トクナナ-](https://ja.wikipedia.org/wiki/警視庁_特務部_特殊凶悪犯対策室_第七課_-トクナナ- "wikilink")
     近畿地方ではサンテレビで放送。
   - [魔術士オーフェンはぐれ旅](../Page/魔術士オーフェン_\(アニメ\).md "wikilink")
     日本テレビも製作委員会に参加。近畿地方での放送なし（地上波はTOKYO MXのみの放送）。
   - [理系が恋に落ちたので証明してみた。](https://ja.wikipedia.org/wiki/理系が恋に落ちたので証明してみた。 "wikilink")
-    [北海道文化放送](../Page/北海道文化放送.md "wikilink")も製作委員会に参加。近畿地方では[毎日放送で放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")。
+    [北海道文化放送](../Page/北海道文化放送.md "wikilink")も製作委員会に参加。近畿地方では[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメ特区](https://ja.wikipedia.org/wiki/アニメ特区 "wikilink")』枠で放送。
   - [ぼくのとなりに暗黒破壊神がいます。](https://ja.wikipedia.org/wiki/ぼくのとなりに暗黒破壊神がいます。 "wikilink")
     近畿地方ではサンテレビで放送。
   - [継つぐもも](https://ja.wikipedia.org/wiki/継つぐもも "wikilink")
-    [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")も製作委員会に参加。近畿地方では放送せず、中京地区では中京テレビで放送。
+    [中京テレビ](https://ja.wikipedia.org/wiki/中京テレビ "wikilink")も製作委員会に参加。近畿地方での放送なし（地上波はTOKYO MX・中京テレビで放送）。
 
 ### 番組の移り変わり
 
@@ -1812,6 +1821,17 @@ PIECE OF TRUTH</strong></p></td>
 <td></td>
 <td></td>
 </tr>
+<tr class="even">
+<td><p>2020年10月</p></td>
+<td><p><strong>ゴールデンカムイ<br />
+(第三期)</strong></p></td>
+<td><p><strong>トニカクカワイイ</strong></p></td>
+<td><p><em>' 半妖の夜叉姫<br />
+（再放送）</em>'</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1849,17 +1869,17 @@ PIECE OF TRUTH</strong></p></td>
   - [日本テレビ系列の深夜アニメ枠](../Page/日本テレビネットワーク協議会.md "wikilink")
       - [AnichU](../Page/日本テレビの深夜アニメ枠.md "wikilink") - [日本テレビが水曜未明に放送している深夜アニメ枠](../Page/日本テレビ放送網.md "wikilink")。舞台地にちなんだ原作漫画のアニメ化に関しては系列局との共同製作となっている。
       - [チュッキョアニメ](https://ja.wikipedia.org/wiki/チュッキョアニメ "wikilink") - [中京テレビが日曜未明に放送している深夜アニメ枠](../Page/中京テレビ放送.md "wikilink")。[遅れネット](../Page/遅れネット.md "wikilink")作品があるが、たまに新作を放送する。
-      - [アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink") - [BS日テレが帯番組として放送している深夜アニメ枠](../Page/BS日本.md "wikilink")。特に日曜未明の1時間は[ブシロード](../Page/ブシロード.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組として位置づけられている。
+      - [アニメにむちゅ〜](https://ja.wikipedia.org/wiki/アニメにむちゅ〜 "wikilink") - [BS日テレが帯番組として放送している深夜アニメ枠](../Page/BS日本.md "wikilink")。特に日曜未明の1時間は、2020年6月まで、[ブシロード](../Page/ブシロード.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")番組として位置づけられていた。
 
 ## 外部リンク
 
   - [読売テレビアニメ総合サイト ANIME ROOM](https://www.ytv.co.jp/animeroom/)
 
   -
-[Category:2012年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2012年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビ系アニメの放送枠](https://ja.wikipedia.org/wiki/Category:日本テレビ系アニメの放送枠 "wikilink") [Category:読売テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜番組 "wikilink") [Category:読売テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜アニメ "wikilink") [Category:日本のテレビアニメの放送枠レーベル](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの放送枠レーベル "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
+[Category:日本テレビ系アニメの放送枠](https://ja.wikipedia.org/wiki/Category:日本テレビ系アニメの放送枠 "wikilink") [Category:読売テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜番組 "wikilink") [Category:読売テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:読売テレビの深夜アニメ "wikilink") [Category:日本のテレビアニメの放送枠レーベル](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの放送枠レーベル "wikilink") [Category:2012年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2012年のテレビ番組_\(日本\) "wikilink") [Category:登録商標](https://ja.wikipedia.org/wiki/Category:登録商標 "wikilink")
 
 1.  2008年4月 - 12月は2本、2009年1月 - 3月は1本のみだった。逆に、これまでに最も多く放送されたのは2016年7月期の5本である（アニ探を含めると6タイトルとなる）。
-2.  [近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")における同様の趣旨の番組枠として、他にも[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』や[朝日放送テレビの](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")『[水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink")』があるが、これらでは番組ごとに分かれている（前者は開始当初を除く）。
+2.  [近畿地方](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")における同様の趣旨の番組枠として、他にも[毎日放送の](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")』や[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")の『[水曜アニメ〈水もん〉](https://ja.wikipedia.org/wiki/水曜アニメ〈水もん〉 "wikilink")』があるが、これらでは番組ごとに分かれている（前者は開始当初を除く）。
 3.
 4.  近畿地方の地上波では、MBSと2作品ずつ分け合って放送している（2010年度、2017年度は全作品をMBSで独占放送）。
 5.  ラジオ番組である『[水谷優子のアニメ探偵団II](../Page/水谷優子のアニメ探偵団II.md "wikilink")』や『[アニメ探偵団3](https://ja.wikipedia.org/wiki/アニメ探偵団3 "wikilink")』とは無関係。

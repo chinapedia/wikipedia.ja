@@ -1,15 +1,15 @@
 > この記事は[ツバサ-RESERVoir CHRoNiCLE-](https://ja.wikipedia.org/wiki/ツバサ-RESERVoir_CHRoNiCLE-)から翻訳されています。
 
 
-『**ツバサ-RESERVoir CHRoNiCLE-**』（ツバサ レザヴォア クロニクル）は、『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』にて2003年から2009年まで連載された[CLAMP](../Page/CLAMP.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。続編である『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』についてはそちらを参照のこと。
+『**ツバサ-RESERVoir CHRoNiCLE-**』（ツバサ レザヴォア クロニクル）は、『[週刊少年マガジン](https://ja.wikipedia.org/wiki/週刊少年マガジン "wikilink")』にて2003年から2009年まで連載された[CLAMP](../Page/CLAMP.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品である。続編である『[ツバサ-WoRLD CHRoNiCLE-ニライカナイ編](https://ja.wikipedia.org/wiki/ツバサ-WoRLD_CHRoNiCLE-ニライカナイ編 "wikilink")』についてはそちらを参照のこと。累計発行部数は2000万部を突破している\[1\]。
 
 ## 概要
 
 「サクラの記憶の羽根」を求め、様々な異世界を冒険する冒険活劇。[スター・システムと](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")[ハイパーリンクを採用](https://ja.wikipedia.org/wiki/ハイパーリンク_\(劇作手法\) "wikilink")、他のCLAMP作品から様々なキャラクターが多数登場しており、『[XXXHOLiC](../Page/XXXHOLiC.md "wikilink")』とは所々話が繋がっている。旅の余談や羽根とは関係のない世界を描いた番外編『ツバサ-語られなかった世界-』が本誌および関連雑誌に何度か掲載された。
 
-異世界は バラエティーに富んだ[パラレルワールド](../Page/パラレルワールド.md "wikilink")であり、世界間を移動できない登場人物の役割が世界によって異なるのが特徴である。いわゆる「多重世界」\[1\]であり、[侑子の世界にいるさくら&小狼と本作のさくら](https://ja.wikipedia.org/wiki/カードキャプターさくらの登場人物 "wikilink")&小狼の魂は同じである。[ツバサ-RESERVoir CHRoNiCLE-の登場人物では](../Page/ツバサ-RESERVoir_CHRoNiCLE-の登場人物.md "wikilink")、そのように魂を同じくする者同士の関係を「異世界の同一人物」「同じだけれど違う人」と表現している。
+異世界は バラエティーに富んだ[パラレルワールド](../Page/パラレルワールド.md "wikilink")であり、世界間を移動できない登場人物の役割が世界によって異なるのが特徴である。いわゆる「多重世界」\[2\]であり、[侑子の世界にいるさくら&小狼と本作のさくら](https://ja.wikipedia.org/wiki/カードキャプターさくらの登場人物 "wikilink")&小狼の魂は同じである。[ツバサ-RESERVoir CHRoNiCLE-の登場人物では](../Page/ツバサ-RESERVoir_CHRoNiCLE-の登場人物.md "wikilink")、そのように魂を同じくする者同士の関係を「異世界の同一人物」「同じだけれど違う人」と表現している。
 
-[ビィートレイン](../Page/ビィートレイン.md "wikilink")の制作による[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『ツバサ・クロニクル』\[2\]は[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から2005年[10月15日](../Page/10月15日.md "wikilink")まで第1シリーズが、[2006年](../Page/2006年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から2006年[11月4日](../Page/11月4日.md "wikilink")まで第2シリーズが放送された。また、2005年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[Production I.Gの制作](../Page/プロダクション・アイジー.md "wikilink")、[松竹](../Page/松竹.md "wikilink")の配給による『劇場版ツバサ・クロニクル 鳥カゴの国の姫君』\[3\]が公開された。他にProduction I.Gの制作によるオリジナルアニメーションDVD作品として、本作の東京編を原作とした『ツバサ TOKYO REVELATIONS』が、第21巻&第22巻&第23巻の初回限定版として発売された。さらに、その第二弾『ツバサ 春雷記』が第26巻&第27巻の初回限定版として発売された。
+[ビィートレイン](../Page/ビィートレイン.md "wikilink")の制作による[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")『ツバサ・クロニクル』\[3\]は[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")[2005年](../Page/2005年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")から2005年[10月15日](../Page/10月15日.md "wikilink")まで第1シリーズが、[2006年](../Page/2006年.md "wikilink")[4月29日](../Page/4月29日.md "wikilink")から2006年[11月4日](../Page/11月4日.md "wikilink")まで第2シリーズが放送された。また、2005年[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")には、[Production I.Gの制作](../Page/プロダクション・アイジー.md "wikilink")、[松竹](../Page/松竹.md "wikilink")の配給による『劇場版ツバサ・クロニクル 鳥カゴの国の姫君』\[4\]が公開された。他にProduction I.Gの制作によるオリジナルアニメーションDVD作品として、本作の東京編を原作とした『ツバサ TOKYO REVELATIONS』が、第21巻&第22巻&第23巻の初回限定版として発売された。さらに、その第二弾『ツバサ 春雷記』が第26巻&第27巻の初回限定版として発売された。
 
 reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Page/英語.md "wikilink")）は、（主に液体を）貯蔵･保管する場所や物を意味する。chronicle（英）は、起きた事柄を記録したものを意味する。
 
@@ -35,7 +35,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 ### 日本国内での発売
 
-[単行本](../Page/単行本.md "wikilink")は28巻で完結。通常版と、[扉絵](https://ja.wikipedia.org/wiki/扉絵 "wikilink")、[カバー](../Page/カバー.md "wikilink")、[紙](../Page/紙.md "wikilink")の材質などが通常版とは異なる豪華版の2種類が、いずれも[講談社](../Page/講談社.md "wikilink")より発売されている。なお、第21巻、第22巻、第23巻、第26巻、第27巻はオリジナルアニメを収録したDVDをセットにした初回限定版\[4\]が併せて発売された（オリジナルアニメに関しては[オリジナルアニメーションDVDの項を参照](https://ja.wikipedia.org/wiki/#オリジナルアニメーションDVD "wikilink")）。
+[単行本](../Page/単行本.md "wikilink")は28巻で完結。通常版と、[扉絵](https://ja.wikipedia.org/wiki/扉絵 "wikilink")、[カバー](../Page/カバー.md "wikilink")、[紙](../Page/紙.md "wikilink")の材質などが通常版とは異なる豪華版の2種類が、いずれも[講談社](../Page/講談社.md "wikilink")より発売されている。なお、第21巻、第22巻、第23巻、第26巻、第27巻はオリジナルアニメを収録したDVDをセットにした初回限定版\[5\]が併せて発売された（オリジナルアニメに関しては[オリジナルアニメーションDVDの項を参照](https://ja.wikipedia.org/wiki/#オリジナルアニメーションDVD "wikilink")）。
 
 **単行本の発売年月日** ISBNは通常版/豪華版/初回限定版（第21巻、第22巻、第23巻、第26巻、第27巻のみ）の順。
 
@@ -128,7 +128,7 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 ## テレビアニメ
 
-『**ツバサ・クロニクル**』のタイトルで、[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")2005年4月9日から同年10月15日まで第1シリーズを、2006年4月29日から同年11月4日まで第2シリーズが放送された。スターシステムにより登場のキャラクターは基本的に声優が原典から変更されている\[5\]。結末は原作とは異なり、飲酒や賭博のシーンもない。全52話。
+『**ツバサ・クロニクル**』のタイトルで、[NHK教育テレビで](../Page/NHK教育テレビジョン.md "wikilink")2005年4月9日から同年10月15日まで第1シリーズを、2006年4月29日から同年11月4日まで第2シリーズが放送された。スターシステムにより登場のキャラクターは基本的に声優が原典から変更されている\[6\]。結末は原作とは異なり、飲酒や賭博のシーンもない。全52話。
 
 [2007年](../Page/2007年.md "wikilink")[5月5日](../Page/5月5日.md "wikilink")の第2シリーズ再放送終了をもって放送を終了したが、「東京編」と「日本国編」がオリジナルアニメーションDVD化されている。詳細は[オリジナルアニメーションDVDの項を参照](https://ja.wikipedia.org/wiki/#オリジナルアニメーションDVD "wikilink")。
 
@@ -994,9 +994,9 @@ reservoir（[仏](https://ja.wikipedia.org/wiki/仏語 "wikilink")→[英](../Pa
 
 『**劇場版ツバサ・クロニクル 鳥カゴの国の姫君**』のタイトルで[2005年](../Page/2005年.md "wikilink")[8月20日](https://ja.wikipedia.org/wiki/8月20日 "wikilink")に公開された。『[劇場版xxxHOLiC 真夏ノ夜ノ夢](https://ja.wikipedia.org/wiki/XXXHOLiC#映画 "wikilink")』と同時上映。後に単品でDVD化され、レンタル版も存在する。
 
-物語は劇場版だけの完全オリジナルである\[6\]。
+物語は劇場版だけの完全オリジナルである\[7\]。
 
-劇場版のコンセプトは「シンプルであること」\[7\]。悪役は悪役らしく描き、悪を倒して国に平和がやってくるというコンセプトである\[8\]。衣装は沖縄の民族衣装をイメージしており、味方は朱色、敵は青色と分けている\[9\]。
+劇場版のコンセプトは「シンプルであること」\[8\]。悪役は悪役らしく描き、悪を倒して国に平和がやってくるというコンセプトである\[9\]。衣装は沖縄の民族衣装をイメージしており、味方は朱色、敵は青色と分けている\[10\]。
 
 ### スタッフ（映画）
 
@@ -1197,12 +1197,13 @@ DVDが[2006年](../Page/2006年.md "wikilink")[2月25日](../Page/2月25日.md "
 
 [Category:ツバサ-RESERVoir_CHRoNiCLE-](https://ja.wikipedia.org/wiki/Category:ツバサ-RESERVoir_CHRoNiCLE- "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:漫画作品_つ](https://ja.wikipedia.org/wiki/Category:漫画作品_つ "wikilink") [Category:2003年の漫画](https://ja.wikipedia.org/wiki/Category:2003年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:ハイファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ハイファンタジー漫画 "wikilink") [Category:パラレルワールドを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材とした漫画作品 "wikilink") [Category:冒険漫画](https://ja.wikipedia.org/wiki/Category:冒険漫画 "wikilink") [Category:漫画のスピンオフ作品](https://ja.wikipedia.org/wiki/Category:漫画のスピンオフ作品 "wikilink") [Category:講談社のクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:講談社のクロスオーバー作品 "wikilink") [Category:ドラマCD](https://ja.wikipedia.org/wiki/Category:ドラマCD "wikilink") [Category:CLAMP原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:CLAMP原作のアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:ハイファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ハイファンタジーアニメ "wikilink") [Category:パラレルワールドを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:パラレルワールドを題材としたアニメ作品 "wikilink") [Category:冒険アニメ](https://ja.wikipedia.org/wiki/Category:冒険アニメ "wikilink")
 
-1.  平行して存在するも選択次第では直接繋がる可能性を持つ世界
-2.  タイトルロゴ上では『ツバサ・クロニクル〜年代記〜』とされており「〜年代記〜」の文言はメインタイトルの下にふた回り以上小さい文字で書かれている。
-3.  テレビアニメと同様、タイトルロゴに「〜年代記〜」の表記があるが、公式サイトや映画情報サイトでは省略されている。
-4.  ODA付属の初回限定版にはドラマCD『[私立堀鐔学園](../Page/私立堀鐔学園.md "wikilink")』全員プレゼント用応募券が付加されていた。
-5.  第2期18話に登場したケルベロス（仮の姿）のみ、[原典と同じく](../Page/カードキャプターさくら.md "wikilink")[久川綾](../Page/久川綾.md "wikilink")が担当している。
-6.
+1.
+2.  平行して存在するも選択次第では直接繋がる可能性を持つ世界
+3.  タイトルロゴ上では『ツバサ・クロニクル〜年代記〜』とされており「〜年代記〜」の文言はメインタイトルの下にふた回り以上小さい文字で書かれている。
+4.  テレビアニメと同様、タイトルロゴに「〜年代記〜」の表記があるが、公式サイトや映画情報サイトでは省略されている。
+5.  ODA付属の初回限定版にはドラマCD『[私立堀鐔学園](../Page/私立堀鐔学園.md "wikilink")』全員プレゼント用応募券が付加されていた。
+6.  第2期18話に登場したケルベロス（仮の姿）のみ、[原典と同じく](../Page/カードキャプターさくら.md "wikilink")[久川綾](../Page/久川綾.md "wikilink")が担当している。
 7.
 8.
 9.
+10.

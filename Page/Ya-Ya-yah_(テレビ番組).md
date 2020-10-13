@@ -5,7 +5,7 @@
 
 ## 概要
 
-[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")のユニット・[Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")や[NEWSをメインに据えていた番組で](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")、[J.J.Express](../Page/J.J.Express.md "wikilink")のメンバーが出演\[2\]。また、[うつみ宮土理](../Page/うつみ宮土理.md "wikilink")や[村上信五](../Page/村上信五.md "wikilink")も出演していた\[3\]。
+[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")グループ [Ya-Ya-yah](../Page/Ya-Ya-yah.md "wikilink")が主に出演していた番組であり、[J.J.Express](../Page/J.J.Express.md "wikilink")と[NEWSのメンバーも出演](https://ja.wikipedia.org/wiki/NEWS_\(グループ\) "wikilink")\[2\]。[うつみ宮土理](../Page/うつみ宮土理.md "wikilink")と[村上信五](../Page/村上信五.md "wikilink")も出演\[3\]。
 
 [ハイビジョン](../Page/ハイビジョン.md "wikilink")制作だったが、ロケーション収録の部分に関しては4:3比の[標準画質映像](../Page/標準画質映像.md "wikilink")で、[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[アップコンバート映像に](https://ja.wikipedia.org/wiki/映像のコンバート#アップコンバート "wikilink")[サイドパネルが付いていた](../Page/ピラーボックス_\(映像技術\).md "wikilink")。このサイドパネルのデザインは、放送内容に合わせて毎回変えられていた。
 
@@ -40,6 +40,13 @@
   - [村上信五](../Page/村上信五.md "wikilink")\[9\]
   - [赤間直哉](../Page/赤間直哉.md "wikilink")
   - [星野正樹](https://ja.wikipedia.org/wiki/星野正樹 "wikilink")
+
+### アシスタント
+
+  - [二階堂高嗣](https://ja.wikipedia.org/wiki/二階堂高嗣 "wikilink")
+  - 秋山大河
+  - 上坂遼
+  - [森内寛樹](../Page/森内寛樹.md "wikilink")
 
 ## ナレーター
 

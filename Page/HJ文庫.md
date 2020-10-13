@@ -230,7 +230,7 @@
 <small>（初出：<a href="../Page/小説家になろう.md" title="wikilink">小説家になろう</a>）</small></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/海道左近" title="wikilink">海道左近</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タイキ" title="wikilink">タイキ</a></p></td>
-<td><p>既刊13巻</p></td>
+<td><p>既刊14巻</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/インフィニティ・ブレヱド_-際限なき救済者-" title="wikilink">インフィニティ・ブレヱド -際限なき救済者-</a></p></td>

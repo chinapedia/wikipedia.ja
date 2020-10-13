@@ -162,7 +162,7 @@
 <td><p>「ジムノペディ」や「威風堂々」のような<a href="../Page/クラシック音楽.md" title="wikilink">クラシックや</a><a href="../Page/映画音楽.md" title="wikilink">映画音楽</a>に自作詞を付けて披露するというコンセプト。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/カバーアルバム" title="wikilink">カバーアルバム</a></p></td>
+<td><p><a href="../Page/カバー.md" title="wikilink">カバー</a>アルバム</p></td>
 <td><p>2013年4月17日</p></td>
 <td><p>NEW STANDARD</p></td>
 <td><p>CD</p></td>
@@ -340,7 +340,7 @@
 
   - [Azumi Official Site](https://azumi.asobisystem.com/)
   - [wyolica公式blog](https://ameblo.jp/wyolica-blog/)
-  - [1](https://www.110107.com/s/oto/page/Wyolica20?ima=0000&oto=ROBO004/wyolicaデビュー20周年特設サイト)
+  - [wyolicaデビュー20周年特設サイト](https://www.110107.com/s/oto/page/Wyolica20?ima=0000&oto=ROBO004/wyolicaデビュー20周年特設サイト)
   - [azumi facebook](https://www.facebook.com/azumi.wyolica)
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

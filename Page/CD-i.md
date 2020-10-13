@@ -96,7 +96,7 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 発売元はジャパン インタラクティブ メディア(JIM)
 
   -
-    JIMは[ポリグラム](../Page/ポリグラム.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")と共同で設立された会社\[6\]。
+    JIMは[ポリグラム](../Page/ポリグラム.md "wikilink")、[ポニーキャニオン](../Page/ポニーキャニオン.md "wikilink")、[ヤマハ](../Page/ヤマハ.md "wikilink")が共同で設立した会社\[6\]。
 
 | 型番         | タイトル                         |
 | ---------- | ---------------------------- |
@@ -123,20 +123,28 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 | PCIM-00021 | リチャード･スカリーの最高に楽しい仲間たち 日本語吹替版 |
 | PCIM-00024 | サイバーソルジャー写楽                  |
 | PCIM-00025 | モーツァルト～その音楽と生涯～              |
+| PCIM-00026 | フランス印象派                      |
 | PCIM-00030 | ジェームス・ブラウン                   |
 | PCIM-00034 | アメリカンフォークアートの世界              |
 | PCIM-00035 | ミスティック･ミッドウェイ                |
 | PCIM-00036 | アースリズム -大地の響き-               |
 | PCIM-00037 | レボリューションインカラー ロシア近代絵画の黎明     |
 | PCIM-00038 | ジグソー                         |
+| PCIM-00039 | コネクション４                      |
 | PCIM-00041 | トッドラングレン･インタラクティブ            |
 | PCIM-00042 | ビデオ･スピードウェイ                  |
+| PCIM-00043 | リズムメーカー                      |
 | PCIM-000?? | 東京私立校受験ガイド リセエンヌ グラフィックス     |
-| PCIM-000?? | フランス印象派                      |
-| PCIM-000?? | ホロズコープ                       |
-| PCIM-000?? | リズムメーカー                      |
-| PCIM-000?? | コネクション４                      |
+| PCIM-000?? | ホロスコープ 西洋占星術                 |
 | PCIX-00001 | CD-I あいうえお                   |
+
+### CRC総合研究所
+
+  - CRCCDI01 - 生駒佳与子のEnjoyゴルフ
+
+### アルク
+
+  - ISBN 978-4-87234-122-5 体験アメリカ旅行 - CD-Iで学ぶ旅行英会話
 
 ## 非売品タイトル
 
@@ -172,7 +180,7 @@ CD-RTOSとは、CompactDisk - Real-Time Operating Systemの略である。アメ
 
 海外では、21世紀になってもCD-iユーザの活発な活動が行われている。
 
-  - [Interactive Dreams](http://cdii.blogspot.jp/)
+  - [Interactive Dreams](https://cdii.blogspot.com/)
   - [Philipscdi.com](http://www.philipscdi.com/)
   - [The Black Moon Project](http://www.blackmoonproject.co.uk/)
 

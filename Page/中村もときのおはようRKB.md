@@ -35,4 +35,4 @@
   - 8:50 天気予報、交通情報（[新出光](../Page/新出光.md "wikilink")、[ウベハウス](../Page/ウベハウス.md "wikilink")、[ニッポンレンタカー](../Page/ニッポンレンタカー.md "wikilink")）
   - 8:57 レースガイド
 
-[Category:RKB毎日放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink")
+[Category:RKB毎日放送のラジオ帯番組](https://ja.wikipedia.org/wiki/Category:RKB毎日放送のラジオ帯番組 "wikilink") [Category:ローカルラジオ局の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の情報・ワイドショー番組 "wikilink") [Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink")

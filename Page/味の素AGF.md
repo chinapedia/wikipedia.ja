@@ -135,6 +135,7 @@
   - [岩城滉一](https://ja.wikipedia.org/wiki/岩城滉一 "wikilink")（マキシムレギュラーコーヒー）
   - [永島暎子](../Page/永島暎子.md "wikilink")（マキシムレギュラーコーヒー）
   - [真野響子](../Page/真野響子.md "wikilink")（1980年、ユーバン）
+  - [山本達彦](../Page/山本達彦.md "wikilink")（カフェスタカフェオレ）
   - [財前直見](../Page/財前直見.md "wikilink")（ブレンディ）
   - [三原康可](../Page/三原康可.md "wikilink")（ブレンディ）
   - [織田裕二](../Page/織田裕二.md "wikilink")（マキシム）

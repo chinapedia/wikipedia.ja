@@ -109,7 +109,7 @@
 </tr>
 <tr class="even">
 <td><p>6月19日</p></td>
-<td><p>[ものまねバトル]]特別版 史上最強軍団への道 新ネタ&amp;反省会SP</p></td>
+<td><p><a href="../Page/ものまねバトル.md" title="wikilink">ものまねバトル</a>特別版 史上最強軍団への道 新ネタ&amp;反省会SP</p></td>
 <td><p>ステレオ</p></td>
 <td><p><a href="../Page/原口あきまさ.md" title="wikilink">原口あきまさ</a>、<a href="../Page/ホリ_(タレント).md" title="wikilink">ホリ</a>、<a href="https://ja.wikipedia.org/wiki/はなわ" title="wikilink">はなわ</a>、<a href="../Page/コージー冨田.md" title="wikilink">コージー冨田</a></p></td>
 <td></td>

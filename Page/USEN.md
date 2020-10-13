@@ -57,13 +57,14 @@
       - [10月22日](../Page/10月22日.md "wikilink") - 100％子会社である[株式会社GyaOを設立](../Page/GYAO!.md "wikilink")。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）
       - 4月1日 - GyaO事業本部を廃止し、株式会社GyaOにGyaO事業を移管。
-      - 4月1日 - 株式会社UCXを設立。業務内容としては、PCおよび携帯電話向け音楽配信事業やCS放送事業、雑誌出版事業などを手掛けることになっている。
+      - 4月1日 - <span id="UCX">株式会社UCX</span>を設立。業務内容としては、PCおよび携帯電話向け音楽配信事業やCS放送事業、雑誌出版事業などを手掛けることになっている。
       - [4月30日](../Page/4月30日.md "wikilink") - [Yahoo\! JAPAN保有の](https://ja.wikipedia.org/wiki/ヤフー_\(企業\) "wikilink")[Yahoo\!動画](https://ja.wikipedia.org/wiki/Yahoo!動画 "wikilink")と、株式会社GyaOの親会社であるUSEN保有の[完全無料パソコンテレビGyaOの合弁化に伴う株式売却によって株式会社GyaOは](https://ja.wikipedia.org/wiki/GYAO!#GyaO "wikilink")、ヤフーの連結子会社化された。
       - [7月22日](../Page/7月22日.md "wikilink") - [マネジメント・バイアウト](../Page/マネジメント・バイアウト.md "wikilink")によりギャガ・コミュニケーションズの発行済み全株式を[依田巽](../Page/依田巽.md "wikilink")のプライベートカンパニー[ティー ワイ リミテッドおよび](../Page/ティー_ワイ_エンタテインメント.md "wikilink")[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")グループの[キノシタ・マネージメント](https://ja.wikipedia.org/wiki/キノシタ・マネージメント "wikilink")へ譲渡。
       - [12月1日](../Page/12月1日.md "wikilink") - 「[GyaO NEXT](https://ja.wikipedia.org/wiki/GyaO_NEXT "wikilink")（ギャオネクスト）」のブランド名称を「[U-NEXT](https://ja.wikipedia.org/wiki/U-NEXT "wikilink")（ユーネクスト）」へ変更。
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）
       - [1月20日](../Page/1月20日.md "wikilink") - [ブラザー工業](https://ja.wikipedia.org/wiki/ブラザー工業 "wikilink")グループのエクシングへBMBの発行済み全株式と230億円の債務を1円で譲渡。
       - [2月1日](../Page/2月1日.md "wikilink") - [ソネットエンタテインメント](https://ja.wikipedia.org/wiki/ソネットエンタテインメント "wikilink")へ[ISP事業を譲渡](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink")。
+      - [2月26日](../Page/2月26日.md "wikilink") - [名古屋テレビネクスト](https://ja.wikipedia.org/wiki/名古屋テレビネクスト "wikilink")へCS放送『[シーエスGyaO](../Page/エンタメ〜テレ☆シネドラバラエティ.md "wikilink")』の事業を譲渡。
       - [4月7日](../Page/4月7日.md "wikilink") - 持分法適用関連会社である株式会社[UCOM](https://ja.wikipedia.org/wiki/UCOM "wikilink")の全株式譲渡を発表（売却先は[ユニゾン・キャピタル](https://ja.wikipedia.org/wiki/ユニゾン・キャピタル "wikilink")を中心とした投資ファンド会社による企業連合）。
       - [7月29日](../Page/7月29日.md "wikilink") - 連結子会社である株式会社インテリジェンスの全株式を譲渡（売却先はKohlberg Kravis Roberts & Co. L.P.の関連者である投資ファンドが全株式を保有する株式会社メティス）。
       - [9月1日](../Page/9月1日.md "wikilink") - PCおよび携帯電話向け音楽配信事業（[OnGen](https://ja.wikipedia.org/wiki/OnGen "wikilink")等）を[豊通エレクトロニクス](https://ja.wikipedia.org/wiki/豊通エレクトロニクス "wikilink")に譲渡。

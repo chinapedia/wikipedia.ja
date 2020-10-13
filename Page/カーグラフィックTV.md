@@ -101,7 +101,7 @@
   - 構成：田辺憲一（赤坂自動車研究所）
   - 撮影：原正美、平松伸浩、草柳徹也、渡辺一志、長谷部雅治、高野稔弘、小野隆宏、杉下光二、丸山純、佐々木昭喜　ほか
   - VE:大谷英夫、佐藤隆彦、深石晴久、三上明人　ほか
-  - 編集：鈴木敬典 ほか（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）
+  - 編集：小野坂 智、鈴木敬典 ほか（[IMAGICA](https://ja.wikipedia.org/wiki/IMAGICA "wikilink")）
   - MA：鳥居拓也（IMAGICA）
   - 音響効果：中田圭三（[4-Legs](../Page/4-Legs.md "wikilink")）
   - 技術協力：V-OUT、蓮　ほか
@@ -200,7 +200,7 @@
 
 ## 外部リンク
 
-  - [CAR GRAPHIC TV （BS朝日）](http://www.bs-asahi.co.jp/cgtv/)
+  - [CAR GRAPHIC TV （BS朝日）](https://www.bs-asahi.co.jp/cgtv/)
 
   - [CAR GRAPHIC TV （テレ朝動画）](http://www.tv-asahi.co.jp/douga/cargraphictv/)
 
@@ -214,7 +214,7 @@
 3.  カーグラフィックTV 公式ウェブサイト、BS朝日、2010年6月2日閲覧
 4.
 5.
-6.  [BS朝日](http://www.bs-asahi.co.jp/cgtv/prg_20131009.html) - カーグラフィックTV
+6.  [BS朝日](https://archives.bs-asahi.co.jp/cgtv/prg_20131009.html) - カーグラフィックTV
 7.  当時、11PMには新型車を紹介する「CAR GUIDANCE」というコーナーを設けていた。
 8.  2011年1月23日から3月までは[地上デジタル放送では](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[マルチチャンネル](../Page/マルチチャンネル.md "wikilink")放送の第2 （S2）チャンネル （ハイビジョン→[標準画質放送](../Page/標準画質映像.md "wikilink")）へ移動していたが、同年4月よりS1チャンネルに戻り、再びハイビジョン放送になった。
 9.  2014年1月までは土曜26:00開始だったが、同年2月に土曜22：30開始に変更。なお同年4月より土曜22:00開始に再変更されている。

@@ -7,6 +7,8 @@
 
 1991年11月7日にリリースされた、ZOOの4枚目のシングル。オリコンチャート最高位3位、約105万枚の売上を記録。メインボーカルはSATSUKIで、コーラスに[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")が参加している。
 
+同年11月の東海大学建学祭のダンスコンテストにおいて、審査員を務めたメンバーによってリリース前に披露されている。
+
 [JR東日本](../Page/東日本旅客鉄道.md "wikilink")「[JR Ski Ski](https://ja.wikipedia.org/wiki/JR_SKISKI "wikilink")」（1991-1992）の[CMソングに](../Page/コマーシャルソング.md "wikilink")、1991年10月より起用された。以降、'94-'95シーズンまでの4年間、ZOOの楽曲が採用された。
 
 タイトルにある「Choo Choo」（チュー チュー）とは、[英語](../Page/英語.md "wikilink")で[蒸気機関車](../Page/蒸気機関車.md "wikilink")の音を表現する[擬音](https://ja.wikipedia.org/wiki/擬音 "wikilink")、または蒸気機関車そのものを指す幼児語である。つまり「Choo Choo Train」は、日本語で直訳すると「**汽車ぽっぽ**」に近い。JR東日本側よりこの言葉を歌詞に使った楽曲製作の依頼を中西圭三が請け負い、イントロには[小西貴雄](../Page/小西貴雄.md "wikilink")の提案により[D.Trainの楽曲](https://ja.wikipedia.org/wiki/D・トレイン "wikilink")「」をサンプリングされている\[1\]。

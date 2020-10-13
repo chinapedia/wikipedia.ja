@@ -9,10 +9,10 @@
 
   - 1989年6月、[テレビ朝日](../Page/テレビ朝日.md "wikilink")のダンス番組 に参加したダンサー8人が、ダンスユニット を結成。10月にユニット名を「ZOO」と改名。
   - 1990年1月に、ダンサー1名を加え9人となる。5月にテレビ番組『GROOVIN SCENE DADA』 のオープニングテーマ「Careless Dance」でCDデビュー。
-  - 1991年10月、『Choo Choo TRAIN』がJR東日本CMソングに起用される（以降4年連続で起用）。11月に4枚目のシングルとして発売され、オリコン最高位3位、105万枚の売り上げを記録した。後に、作曲した[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")や、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")等がカバーした。又、中西は他の多くの楽曲でも作曲及びバックコーラスを担当しており、ZOO解散後にいくつかの楽曲は中西本人がカバーしている。
+  - 1991年10月、『Choo Choo TRAIN』がJR東日本CMソングに起用される（以降4年連続で起用）。11月に4枚目のシングルとして発売され、オリコン最高位3位、105万枚の売り上げを記録し、自身最大のヒット曲となった。後に、作曲した[中西圭三](https://ja.wikipedia.org/wiki/中西圭三 "wikilink")や、[EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")等がカバーし、話題となった。又、中西は他の多くの楽曲でも作曲及びバックコーラスを担当しており、ZOO解散後にいくつかの楽曲は中西本人がカバーしている。
   - [1992年](../Page/1992年.md "wikilink")4月、初の[武道館公演を開催](../Page/日本武道館.md "wikilink")。
   - 約6年の活動を経て、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月25日](../Page/12月25日.md "wikilink")解散。
-  - 翌1996年、SAE・CAP・HIROの3人が[LUV DELUXEを結成](https://ja.wikipedia.org/wiki/LUV_DELUXE "wikilink")。
+  - 翌1996年、SAE・CAP・HIROの3人が[LUV DELUXEを結成](https://ja.wikipedia.org/wiki/LUV_DELUXE "wikilink")。ドリカムのプロデュースでデビューを果たした。
   - 2012年、TACO・MARK・HISAMIの3人でZOO FUNKとしてイベント出演。
   - 2015年1月、元メンバーであるKAZU・MARK・HISAMIの3名が歌手の[Stephanieと](../Page/ステファニー_\(1987年生の歌手\).md "wikilink")、中西圭三プロデュースによるパフォーマンスダンスユニット・Runningman Tokyoを結成。
   - 2015年7月3日、日本テレビ「[THE MUSIC DAY](https://ja.wikipedia.org/wiki/THE_MUSIC_DAY "wikilink") 音楽は太陽だ。」にSATSUKI、TACO、CAP、NAOYAの4人がZOOとして出演し、「Choo Choo TRAIN」を披露した。
@@ -47,7 +47,7 @@
   - KAZU：「Runningman Tokyo」メンバー。
   - RYU
   - DJ・TSUYOSHI
-  - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")（北村夕起）（1990 - 1991）：ヴォーカル。現・[TRF](../Page/TRF.md "wikilink")ボーカル。
+  - [YU-KI](https://ja.wikipedia.org/wiki/YU-KI "wikilink")（北村夕起）（1990 - 1991）：ボーカル。現・[TRF](../Page/TRF.md "wikilink")ボーカル。
 
 ### DEER (ZOO.Jr)
 
@@ -88,17 +88,23 @@
         [横山輝一](../Page/横山輝一.md "wikilink")プロデュース、「JR東日本 SKI SKI」キャンペーンソング、テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
 7.  SHY-SHY-SHINE（1993年6月18日、FLDF-10250）
       -
-        「[世界リゾート博](../Page/世界リゾート博.md "wikilink")」イメージソング、テレビ朝日系「華麗にAh\!so」オープニングテーマ曲
-8.  Ding Dong Express（1993年10月21日、FLDF-10257）
+        尾関昌也プロデュース。「[世界リゾート博](../Page/世界リゾート博.md "wikilink")」イメージソング、テレビ朝日系「華麗にAh\!so」オープニングテーマ曲
+
+<!-- end list -->
+
+1.  Ding Dong Express（1993年10月21日、FLDF-10257）
       -
         「JR東日本 SKI SKI」キャンペーンソング、テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
-9.  On Time（1994年4月21日、FLDF-1503）
-10. Angelic Dream（1994年11月7日、FLDF-1533）
+2.  On Time（1994年4月21日、FLDF-1503）
+
+初のノンタイアップシングルとして当時話題に。
+
+1.  Angelic Dream（1994年11月7日、FLDF-1533）
       -
         「JR東日本 SKI SKI」キャンペーンソング、テレビ朝日系『華麗にAh\!so』オープニングテーマ曲
-11. Adam（1995年3月1日、FLDF-1551）
+2.  Adam（1995年3月1日、FLDF-1551）
       -
-        [マツダ・カペラ](../Page/マツダ・カペラ.md "wikilink")ワゴンCMソング。作曲は[ディック・リー](../Page/ディック・リー.md "wikilink")。
+        [マツダ・カペラ](../Page/マツダ・カペラ.md "wikilink")ワゴンCMソング。作曲は[ディック・リー](../Page/ディック・リー.md "wikilink")。事実上のラストシングル。ボーカルがSATSUKIではなく、SAEによる楽曲になっている。
 
 <!-- end list -->
 

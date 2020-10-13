@@ -221,7 +221,7 @@
 1.  [*El Nacimiento de una Pasión*, Alejandro Fabbri - Buenos Aires, 2007](http://es.scribd.com/doc/7250608/Alejandro-Fabbri-El-Nacimiento-de-Una-Pasion)
 2.  [Liga de Rosario 1914](http://www.rsssf.com/tablesa/arg-rosario14.html) RSSSF
 3.  [Historia del Fútbol Rosarino](http://histofutbolrosarino.blogspot.com/2010/04/rosario-central-campeon-argentino-de.html)
-4.  ["La palomita de Poy, a 40 años de una jugada legendaria"](http://archive.is/20120913200337/www.telam.com.ar/nota/10624), Télam, 2011-12-18
+4.  ["La palomita de Poy, a 40 años de una jugada legendaria"](https://archive.is/20120913200337/www.telam.com.ar/nota/10624), Télam, 2011-12-18
 5.  footballista、ソルメディア、2009年7月29日・8月5日合併号、39頁
 6.  *De Rosario y de Central*, Jorge Brisaboa, 1996 - ISBN 950-808-100-7
 7.  [Hinchadas vibrantes](http://edant.ole.com.ar/notas/2008/01/05/01578521.html)Ole、2008年1月5日

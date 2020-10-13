@@ -135,7 +135,7 @@
         作詞：maR / 作曲・編曲：MONK
     <!-- end list -->
       - 8thシングルカップリング
-7.  **[LET ME LUV U DOWN](../Page/LET_ME_LUV_U_DOWN_feat.ZEEBRA_&_MACCHO_\(OZROSAURUS\).md "wikilink")** feat.[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") & [MACCHO](https://ja.wikipedia.org/wiki/MACCHO "wikilink")（[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")）\[4:01\]
+7.  **[LET ME LUV U DOWN](https://ja.wikipedia.org/wiki/LET_ME_LUV_U_DOWN "wikilink")** feat.[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink") & [MACCHO](https://ja.wikipedia.org/wiki/MACCHO "wikilink")（[OZROSAURUS](../Page/OZROSAURUS.md "wikilink")）\[4:01\]
       -
         作詞：[FIRSTKLAS](https://ja.wikipedia.org/wiki/FIRSTKLAS "wikilink")、[MACCHO](../Page/OZROSAURUS.md "wikilink") / 作曲：FIRSTKLAS
     <!-- end list -->

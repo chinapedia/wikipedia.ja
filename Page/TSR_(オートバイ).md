@@ -440,7 +440,7 @@
 <td><p>144周</p></td>
 <td><p>18:09:19.174</p></td>
 <td><p>13Pt</p></td>
-<td></td>
+<td><p>3位 / 143.5Pt</p></td>
 </tr>
 <tr class="odd">
 <td><p>第2戦　<br />
@@ -449,7 +449,7 @@
 <td><p>12位</p></td>
 <td><p>78周</p></td>
 <td><p>05:52:16.715</p></td>
-<td><p>9Pt</p></td>
+<td><p>12Pt</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -474,10 +474,10 @@
 <td><p>第4戦　<br />
 <a href="../Page/エストリル・サーキット.md" title="wikilink">エストリル</a>12時間耐久<br />
 (2020　9/27)</p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>2位</p></td>
+<td><p>421周</p></td>
+<td><p>12:01:28.455</p></td>
+<td><p>56.5Pt</p></td>
 <td></td>
 <td></td>
 <td></td>

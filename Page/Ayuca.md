@@ -7,7 +7,7 @@
 
 [岐阜市](../Page/岐阜市.md "wikilink")が[国土交通省](../Page/国土交通省.md "wikilink")・[警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink")により指定された[オムニバスタウン](../Page/オムニバスタウン.md "wikilink")事業の一環として、[バス利用者の利便性を向上させる目的で導入された](../Page/バス_\(交通機関\).md "wikilink")。[東海3県](../Page/東海3県.md "wikilink")（[愛知](https://ja.wikipedia.org/wiki/愛知県 "wikilink")・[岐阜](../Page/岐阜県.md "wikilink")・[三重](https://ja.wikipedia.org/wiki/三重県 "wikilink")）の交通系独自のICカードシステムの導入は[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）の[TOICA](https://ja.wikipedia.org/wiki/TOICA "wikilink")に次いで2例目で、バス会社としては東海3県で初めてである。
 
-[長良川](../Page/長良川.md "wikilink")の[清流](../Page/清流.md "wikilink")をイメージした[デザイン](../Page/デザイン.md "wikilink")で、一般公募したもの。右下に3匹の[アユ](https://ja.wikipedia.org/wiki/アユ "wikilink")が泳ぎ、左上に「ayuca」の[ロゴがある](../Page/ロゴタイプ.md "wikilink")。
+[長良川](../Page/長良川.md "wikilink")の[清流](../Page/清流.md "wikilink")をイメージした[デザイン](../Page/デザイン.md "wikilink")で、デザイナーに依頼したもの。右下に3匹の[アユ](https://ja.wikipedia.org/wiki/アユ "wikilink")が泳ぎ、左上に「ayuca」の[ロゴがある](../Page/ロゴタイプ.md "wikilink")。
 
 ## 種類
 

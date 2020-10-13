@@ -7,8 +7,8 @@
 
   - 「CDのみ」、「CD+DVD」の2形態で発売された。「CDのみ」バージョンの初回限定版には特典としてフォトブックが封入されている。CDジャケットとPVは同じショットから来ている。
   - シングルのテーマは「夏の初恋」。[プロモーションビデオ](https://ja.wikipedia.org/wiki/プロモーションビデオ "wikilink")は[沖縄で撮影された](../Page/沖縄県.md "wikilink")。
-  - 「Like a Love?」は、作曲が[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")である。大塚が他の歌手に楽曲提供したのは今回が初めて。
-  - カップリング曲「スコールにぬれて」と共に、後に2曲とも2ndアルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』に収録された。
+  - 「Like a Love?」は、作曲が[大塚愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")である。大塚が他の歌手に楽曲提供したのは本曲が初めてであった。
+  - カップリング曲「スコールにぬれて」と共に、後に2枚目のアルバム『[CONNETTA](../Page/CONNETTA.md "wikilink")』に収録された。
 
 ## 収録曲
 
@@ -16,9 +16,9 @@
 
 1.  **Like a Love?**
       -
-        作詞：鈴木亜美 / 作曲：[愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink") / 編曲：[愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink")・[Ikoman](../Page/Ikoman.md "wikilink")
-        NTV系「[ミラクル☆シェイプ](../Page/ミラクル☆シェイプ.md "wikilink")」8～9月度エンディングテーマ
-        [日本テレビ](../Page/日本テレビ放送網.md "wikilink")「海の家@seezoo」イメージソング
+        作詞：鈴木亜美 / 作曲：[愛](https://ja.wikipedia.org/wiki/大塚愛 "wikilink") / 編曲：愛・[Ikoman](../Page/Ikoman.md "wikilink")
+        NTV系『[ミラクル☆シェイプ](../Page/ミラクル☆シェイプ.md "wikilink")』8～9月度エンディングテーマ
+        [日本テレビ](../Page/日本テレビ放送網.md "wikilink")『海の家@seezoo』イメージソング
 2.  **スコールにぬれて**
       -
         作詞：鈴木亜美 / 作曲：吉川慶 / 編曲：[上田ケンジ](../Page/上田ケンジ.md "wikilink")

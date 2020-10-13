@@ -5,7 +5,7 @@
 
 ## 歴史
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月、[PWCを退団した](../Page/Pro_Wrestling_Crusaders.md "wikilink")[渡辺幸正がリングネームをセッド](../Page/セッド・ジニアス.md "wikilink")・ジニアスに改名後に、「日本において失われたクラシカルレスリングの復興」を旗印に設立。[7月19日](../Page/7月19日.md "wikilink")、[大田区体育館](../Page/大田区体育館.md "wikilink")で旗揚げ戦を開催。
+[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")1月、[PWCを退団してリングネームを](../Page/Pro_Wrestling_Crusaders.md "wikilink")[セッド・ジニアス](../Page/セッド・ジニアス.md "wikilink")に改名した渡辺幸正が、「日本において失われたクラシカルレスリングの復興」を旗印に設立。[7月19日](../Page/7月19日.md "wikilink")、[大田区体育館](../Page/大田区体育館.md "wikilink")で旗揚げ戦を開催。
 
 ジニアス以外の選手は全て他のインディー団体所属選手もしくはフリーランスの選手で構成され、所属選手はジニアスのみである。またデビュー前に[ルー・テーズ](../Page/ルー・テーズ.md "wikilink")とのトラブルに懲りたためか、インディー団体としては珍しく契約には厳しく、参戦する選手にはきちんと契約書と領収書を発行したそうである。ジニアスがバラを口に咥えてワインとグラスをトレーに載せて入場したことが受けて、その後も目立つ入場を行ったが、試合は真面目にクラシカルレスリングを貫き、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にジニアス、[ヘンリー・ロビンソン](https://ja.wikipedia.org/wiki/ヘンリー・ロビンソン "wikilink")、[マーク・フレミング](https://ja.wikipedia.org/wiki/マーク・フレミング "wikilink")による巴戦「アイアンマンコンテスト」を行い巴戦だけで全7試合行った。
 

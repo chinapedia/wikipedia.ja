@@ -270,7 +270,7 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink")現在\[1\]
 
 <!-- end list -->
 
@@ -466,6 +466,8 @@
   - [エメルソン・トーメ](../Page/エメルソン・アウグスト・トーメ.md "wikilink") 2005
 
   - [タリボ・ウェスト](https://ja.wikipedia.org/wiki/タリボ・ウェスト "wikilink") 2000-2001
+
+  - [リチャード・キーオ](https://ja.wikipedia.org/wiki/リチャード・キーオ "wikilink") 2012-2020
 
   - [アシュリー・コール](../Page/アシュリー・コール.md "wikilink") 2019
 

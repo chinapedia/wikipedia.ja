@@ -136,7 +136,7 @@
 
 ## 外部リンク
 
-  - [SILENT SHUTTER](http://vofancg.blogspot.jp/) - 本人運営のブログ
+  - [SILENT SHUTTER](https://vofancg.blogspot.com/) - 本人運営のブログ
 
   - [ComiComi](http://www.comibook.com/search_results.php?target_id%5B%5D=0&search_key=VOFAN) - オンライン読み物サイト。『Colorful Dreams』の一部や『化物語』のイラストなどを見ることができる。
 

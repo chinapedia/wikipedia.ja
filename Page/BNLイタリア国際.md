@@ -11,17 +11,17 @@
 
 ### 男子シングルス
 
-  - 最多優勝:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (9)（2005-07, 2009-10, 2012-13, 2018-19）
-  - 最多決勝進出記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (11)（2005-07, 2009-14, 2018-19）
-  - 連覇記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (3) (2005-07)
-  - 連続決勝進出記録:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (6) (2009-2014)
+  - 最多優勝:  [ラファエル・ナダル](../Page/ラファエル・ナダル.md "wikilink") (9) (2005-07, 2009-10, 2012-13, 2018-19)
+  - 最多決勝進出記録:  ラファエル・ナダル (11) (2005-07, 2009-14, 2018-19)
+  - 連覇記録:  ラファエル・ナダル (3) (2005-07)
+  - 連続決勝進出記録:  ラファエル・ナダル (6) (2009-2014)
 
 ### 女子シングルス
 
   - 最多優勝:  [クリス・エバート](../Page/クリス・エバート.md "wikilink") (5)
-  - 最多決勝進出:  [クリス・エバート](../Page/クリス・エバート.md "wikilink") (7)
+  - 最多決勝進出:  クリス・エバート (7)
   - 連覇記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (4) (1993-96)
-  - 連続決勝進出記録:  [コンチタ・マルティネス](../Page/コンチタ・マルティネス.md "wikilink") (5) (1993-97)
+  - 連続決勝進出記録:  コンチタ・マルティネス (5) (1993-97)
 
 ## 歴代優勝者
 
@@ -115,7 +115,7 @@
 <td><p><a href="../Page/1955年.md" title="wikilink">1955年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ファウスト・ガルディーニ" title="wikilink">ファウスト・ガルディーニ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュゼッペ・メルロ" title="wikilink">ジュゼッペ・メルロ</a></p></td>
-<td><p>1-6, 6-1, 3-6, 6-6 （途中棄権）</p></td>
+<td><p>1-6, 6-1, 3-6, 6-6（途中棄権）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1956年.md" title="wikilink">1956年</a></p></td>
@@ -331,7 +331,7 @@
 <td><p><a href="../Page/1991年.md" title="wikilink">1991年</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/エミリオ・サンチェス" title="wikilink">エミリオ・サンチェス</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・マンシーニ" title="wikilink">アルベルト・マンシーニ</a></p></td>
-<td><p>6-3, 6-1, 3-0 （途中棄権）</p></td>
+<td><p>6-3, 6-1, 3-0（途中棄権）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1992年.md" title="wikilink">1992年</a></p></td>
@@ -500,6 +500,12 @@
 <td><p><strong><a href="../Page/ラファエル・ナダル.md" title="wikilink">ラファエル・ナダル</a></strong></p></td>
 <td><p><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></p></td>
 <td><p>6-0, 4-6, 6-1</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong><a href="../Page/ノバク・ジョコビッチ.md" title="wikilink">ノバク・ジョコビッチ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ディエゴ・シュワルツマン" title="wikilink">ディエゴ・シュワルツマン</a></p></td>
+<td><p>7-5, 6-3</p></td>
 </tr>
 </tbody>
 </table>
@@ -982,6 +988,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョアンナ・コンタ" title="wikilink">ジョアンナ・コンタ</a></p></td>
 <td><p>6-3, 6-4</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/シモナ・ハレプ" title="wikilink">シモナ・ハレプ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カロリナ・プリスコバ" title="wikilink">カロリナ・プリスコバ</a></p></td>
+<td><p>6-0, 2-1（途中棄権）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1139,7 +1151,7 @@
  <strong><a href="https://ja.wikipedia.org/wiki/オーランド・シロラ" title="wikilink">オーランド・シロラ</a></strong></p></td>
 <td><p><a href="../Page/ロイ・エマーソン.md" title="wikilink">ロイ・エマーソン</a><br />
  <a href="../Page/ニール・フレーザー.md" title="wikilink">ニール・フレーザー</a></p></td>
-<td><p>3-6, 7-5, 2-6, 11-11 （途中棄権）</p></td>
+<td><p>3-6, 7-5, 2-6, 11-11（途中棄権）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1961年" title="wikilink">1961年</a></p></td>
@@ -1179,7 +1191,7 @@
  <strong><a href="../Page/トニー・ローチ.md" title="wikilink">トニー・ローチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/トーマス・コッホ" title="wikilink">トーマス・コッホ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ロナルド・バーンズ" title="wikilink">ロナルド・バーンズ</a></p></td>
-<td><p>1-6, 6-4, 2-6, 12-10 （途中棄権）</p></td>
+<td><p>1-6, 6-4, 2-6, 12-10（途中棄権）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1966年.md" title="wikilink">1966年</a></p></td>
@@ -1211,7 +1223,7 @@
  <strong><a href="../Page/トニー・ローチ.md" title="wikilink">トニー・ローチ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マーティー・リーセン" title="wikilink">マーティー・リーセン</a><br />
  <a href="../Page/トム・オッカー.md" title="wikilink">トム・オッカー</a></p></td>
-<td><p>6-4, 1-6 （途中棄権）</p></td>
+<td><p>6-4, 1-6（途中棄権）</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/1970年.md" title="wikilink">1970年</a></p></td>
@@ -1612,6 +1624,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/レイベン・クラーセン" title="wikilink">レイベン・クラーセン</a><br />
  <a href="https://ja.wikipedia.org/wiki/マイケル・ヴィーナス" title="wikilink">マイケル・ヴィーナス</a></p></td>
 <td><p>6-1, 6-3</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong> <a href="https://ja.wikipedia.org/wiki/マルセル・グラノリェルス" title="wikilink">マルセル・グラノリェルス</a></strong><br />
+ <strong><a href="https://ja.wikipedia.org/wiki/オラシオ・セバジョス" title="wikilink">オラシオ・セバジョス</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ピアース" title="wikilink">ジョン・ピアース</a><br />
+ <a href="https://ja.wikipedia.org/wiki/マイケル・ヴィーナス" title="wikilink">マイケル・ヴィーナス</a></p></td>
+<td><p>7-6(4), 7-6(5)</p></td>
 </tr>
 </tbody>
 </table>
@@ -2203,7 +2223,7 @@
  <strong><a href="../Page/カタリナ・スレボトニク.md" title="wikilink">カタリナ・スレボトニク</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サラ・エラニ" title="wikilink">サラ・エラニ</a><br />
  <a href="https://ja.wikipedia.org/wiki/ロベルタ・ビンチ" title="wikilink">ロベルタ・ビンチ</a></p></td>
-<td><p>4-0, 途中棄権</p></td>
+<td><p>4-0,（途中棄権）</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2015年.md" title="wikilink">2015年</a></p></td>
@@ -2244,6 +2264,14 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アンナ＝レナ・グローネフェルト" title="wikilink">アンナ＝レナ・グローネフェルト</a><br />
  <a href="https://ja.wikipedia.org/wiki/デミ・スゥース" title="wikilink">デミ・スゥース</a></p></td>
 <td><p>4-6, 6-0, [10-3]</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a></p></td>
+<td><p><strong><a href="../Page/謝淑薇.md" title="wikilink">謝淑薇</a></strong><br />
+ <strong><a href="https://ja.wikipedia.org/wiki/バルボラ・ストリコバ" title="wikilink">バルボラ・ストリコバ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アンナ・レナ・フリードサム" title="wikilink">アンナ・レナ・フリードサム</a><br />
+ <a href="https://ja.wikipedia.org/wiki/イオアナ・ラルカ・オラル" title="wikilink">イオアナ・ラルカ・オラル</a></p></td>
+<td><p>6-2, 6-2</p></td>
 </tr>
 </tbody>
 </table>
@@ -2487,7 +2515,7 @@
 
 ## 外部リンク
 
-  - [トーナメント公式サイト](http://www.internazionalibnlditalia.com/)
+  - [公式サイト](https://www.internazionalibnlditalia.com/)
 
   -
   -

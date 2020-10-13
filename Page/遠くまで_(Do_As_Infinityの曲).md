@@ -69,7 +69,7 @@
 
 ### 解説
 
-過去に発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第2弾。
+過去の発表された楽曲16曲を[伴都美子](https://ja.wikipedia.org/wiki/伴都美子 "wikilink")、[大渡亮](../Page/大渡亮.md "wikilink")のメンバー2人だけで再録音し、16週連続で配信していく「2 of Us」と銘打たれたプロジェクトの第2弾。
 
 ### 収録曲
 

@@ -117,19 +117,19 @@
 </tr>
 <tr class="odd">
 <td><p>1981-82</p></td>
-<td><p>ディビジョン2</p></td>
 <td><p>42</p></td>
 <td><p>21</p></td>
 <td><p>6</p></td>
 <td><p>15</p></td>
+<td><p>65</p></td>
 </tr>
 <tr class="even">
 <td><p>1982-83</p></td>
-<td><p>ディビジョン2</p></td>
 <td><p>42</p></td>
 <td><p>26</p></td>
 <td><p>7</p></td>
 <td><p>9</p></td>
+<td><p>77</p></td>
 </tr>
 <tr class="odd">
 <td><p>1983-84</p></td>
@@ -141,67 +141,67 @@
 </tr>
 <tr class="even">
 <td><p>1984-85</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>13</p></td>
 <td><p>11</p></td>
 <td><p>18</p></td>
+<td><p>53</p></td>
 </tr>
 <tr class="odd">
 <td><p>1985-86</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>15</p></td>
 <td><p>7</p></td>
 <td><p>20</p></td>
+<td><p>53</p></td>
 </tr>
 <tr class="even">
 <td><p>1986-87</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>13</p></td>
 <td><p>11</p></td>
 <td><p>18</p></td>
+<td><p>48</p></td>
 </tr>
 <tr class="odd">
 <td><p>1987-88</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>40</p></td>
 <td><p>19</p></td>
 <td><p>10</p></td>
 <td><p>11</p></td>
+<td><p>48</p></td>
 </tr>
 <tr class="even">
 <td><p>1988-89</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>38</p></td>
 <td><p>14</p></td>
 <td><p>11</p></td>
 <td><p>13</p></td>
+<td><p>43</p></td>
 </tr>
 <tr class="odd">
 <td><p>1989-90</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>38</p></td>
 <td><p>13</p></td>
 <td><p>11</p></td>
 <td><p>14</p></td>
+<td><p>45</p></td>
 </tr>
 <tr class="even">
 <td><p>1990-91</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>38</p></td>
 <td><p>12</p></td>
 <td><p>10</p></td>
 <td><p>16</p></td>
+<td><p>44</p></td>
 </tr>
 <tr class="odd">
 <td><p>1991-92</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>42</p></td>
 <td><p>12</p></td>
 <td><p>18</p></td>
 <td><p>12</p></td>
+<td><p>48</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1992-1993" title="wikilink">1992-93</a></p></td>
@@ -213,27 +213,27 @@
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1993-1994" title="wikilink">1993-94</a></p></td>
-<td><p>プレミア</p></td>
 <td><p>42</p></td>
 <td><p>16</p></td>
 <td><p>12</p></td>
 <td><p>14</p></td>
+<td><p>62</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1994-1995" title="wikilink">1994-95</a></p></td>
-<td><p>プレミア</p></td>
 <td><p>42</p></td>
 <td><p>17</p></td>
 <td><p>9</p></td>
 <td><p>16</p></td>
+<td><p>61</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FAプレミアリーグ1995-1996" title="wikilink">1995-96</a></p></td>
-<td><p>プレミア</p></td>
 <td><p>38</p></td>
 <td><p>9</p></td>
 <td><p>6</p></td>
 <td><p>23</p></td>
+<td><p>38</p></td>
 </tr>
 <tr class="even">
 <td><p>1996-97</p></td>
@@ -245,35 +245,35 @@
 </tr>
 <tr class="odd">
 <td><p>1997-98</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>10</p></td>
 <td><p>19</p></td>
 <td><p>17</p></td>
+<td><p>51</p></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>12</p></td>
 <td><p>11</p></td>
 <td><p>23</p></td>
+<td><p>52</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999-00</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>18</p></td>
 <td><p>12</p></td>
+<td><p>62</p></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
-<td><p>ディビジョン1</p></td>
 <td><p>46</p></td>
 <td><p>7</p></td>
 <td><p>19</p></td>
 <td><p>20</p></td>
+<td><p>45</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001-02</p></td>
@@ -285,19 +285,19 @@
 </tr>
 <tr class="even">
 <td><p>2002-03</p></td>
-<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
 <td><p>11</p></td>
 <td><p>11</p></td>
+<td><p>69</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
-<td><p>ディビジョン2</p></td>
 <td><p>46</p></td>
 <td><p>22</p></td>
 <td><p>17</p></td>
 <td><p>7</p></td>
+<td><p>80</p></td>
 </tr>
 <tr class="even">
 <td><p>2004-05</p></td>
@@ -309,51 +309,51 @@
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>12</p></td>
 <td><p>14</p></td>
 <td><p>20</p></td>
+<td><p>50</p></td>
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>11</p></td>
 <td><p>21</p></td>
+<td><p>54</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007-08</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>16</p></td>
 <td><p>16</p></td>
+<td><p>60</p></td>
 </tr>
 <tr class="even">
 <td><p>2008-09</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
 <td><p>16</p></td>
 <td><p>25</p></td>
+<td><p>42</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009-10</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>15</p></td>
 <td><p>17</p></td>
+<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>24</p></td>
 <td><p>16</p></td>
 <td><p>6</p></td>
+<td><p>71</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2011-2012" title="wikilink">2011-12</a></p></td>
@@ -365,11 +365,11 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/プレミアリーグ2012-2013" title="wikilink">2012-13</a></p></td>
-<td><p>プレミア</p></td>
 <td><p>38</p></td>
 <td><p>4</p></td>
 <td><p>13</p></td>
 <td><p>21</p></td>
+<td><p>30</p></td>
 </tr>
 <tr class="odd">
 <td><p>2013-14</p></td>
@@ -397,40 +397,40 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2016-2017" title="wikilink">2016-17</a></p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
 <td><p>8</p></td>
 <td><p>23</p></td>
+<td><p>52</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2017-2018" title="wikilink">2017-18</a></p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>15</p></td>
 <td><p>11</p></td>
 <td><p>20</p></td>
+<td><p>58</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2018-2019" title="wikilink">2018-19</a></p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>14</p></td>
 <td><p>9</p></td>
 <td><p>23</p></td>
+<td><p>53</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2019-2020" title="wikilink">2019-20</a></p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
 <td><p>16</p></td>
 <td><p>10</p></td>
 <td><p>20</p></td>
+<td><p>67</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグ・チャンピオンシップ2020-2021" title="wikilink">2020-21</a></p></td>
-<td><p>チャンピオン</p></td>
 <td><p>46</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -440,7 +440,7 @@
 
 ## 現所属メンバー
 
-  - 2019年8月17日現在\[10\]
+  - 2020年9月30日現在\[10\]
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

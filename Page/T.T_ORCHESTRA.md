@@ -15,7 +15,7 @@
 
   - [仲 兼一郎](http://sound.jp/naka/) (Naka) Trumpet 他アーティストのサポートとしても活躍
 
-  - [フクダ ヨシヤ](http://tokyo.cool.ne.jp/yfkd/) (Taishow) Trumpet 他アーティストのサポート、作曲、プロデュースなど幅広く活躍
+  - (Taishow) Trumpet 他アーティストのサポート、作曲、プロデュースなど幅広く活躍
 
   - 阿久澤 一哉 (Akkun) Trumpet 元[Radio Swing](../Page/Radio_Swing.md "wikilink")
 

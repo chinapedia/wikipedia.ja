@@ -313,6 +313,7 @@
   - [Psycho le Cemu](../Page/Psycho_le_Cemu.md "wikilink")
   - [advantage Lucy](https://ja.wikipedia.org/wiki/advantage_Lucy "wikilink")
   - [CHERRY LYDER](../Page/CHERRY_LYDER.md "wikilink")
+  - [グループ魂](../Page/グループ魂.md "wikilink")
 
 ## 関連項目
 

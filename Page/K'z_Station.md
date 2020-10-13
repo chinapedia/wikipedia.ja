@@ -1,11 +1,11 @@
 > この記事は[K\'z Station](https://ja.wikipedia.org/wiki/K\'z_Station)から翻訳されています。
 
 
-**K'z Station**（ケーズステーション）は、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送局。
+**K'z Station**（ケーズステーション）は、[インターネットラジオ](../Page/インターネットラジオ.md "wikilink")放送局\[1\]\[2\]。『K'z Station』は2019年6月15日に『**チアーるTV**』に完全移行\[3\]。
 
 ## 概要
 
-「[おしゃべりやってまーす](https://ja.wikipedia.org/wiki/おしゃべりやってまーす "wikilink")」という番組を有料（一部、無料番組もある。）で配信している。
+「[おしゃべりやってまーす](https://ja.wikipedia.org/wiki/おしゃべりやってまーす "wikilink")」という番組を有料（一部、無料番組もある。）で配信している\[4\]。
 
 [株式会社 K'z channelが運営](https://ja.wikipedia.org/wiki/#株式会社_K'z_channel "wikilink")。
 
@@ -31,6 +31,8 @@
 
 **株式会社 K'z channel**（ケーズチャンネル）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[コンテンツ](../Page/コンテンツ.md "wikilink")制作・[ラジオ番組](../Page/ラジオ番組.md "wikilink")運営制作会社。
 
+## 出典
+
 ## 関連項目
 
   - [おしゃべりやってまーす](https://ja.wikipedia.org/wiki/おしゃべりやってまーす "wikilink")
@@ -43,3 +45,8 @@
   - [K'z Station 公式サイト](http://www.kzstation.com/)
 
 [Category:日本のインターネットラジオ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットラジオ局 "wikilink")
+
+1.
+2.
+3.
+4.

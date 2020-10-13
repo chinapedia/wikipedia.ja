@@ -46,20 +46,21 @@
   - [2020年](../Page/2020年.md "wikilink")[4月12日](../Page/4月12日.md "wikilink") - [新型コロナウイルス感染症の拡大に伴う](../Page/2019新型コロナウイルス.md "wikilink")[緊急事態宣言発令を受け](https://ja.wikipedia.org/wiki/新型インフルエンザ等対策特別措置法 "wikilink")、この日の放送分より番組の収録を当面見合わせ。4月12日の放送分より内容を変更して「BUMP OF CHICKENミュージックセレクション」が放送される。
   - 2020年[8月9日](../Page/8月9日.md "wikilink") - 放送再開。
   - 2020年[8月23日](../Page/8月23日.md "wikilink") - 番組内で、藤原が結婚したことを発表\[4\]。
+  - 2020年[9月18日](../Page/9月18日.md "wikilink") - 直井の過去の女性問題が報道され、直井がバンドのホームページや自身のSNSに謝罪文を掲載。[9月20日](../Page/9月20日.md "wikilink")の放送が「ミュージックセレクション」\[5\]に差し替えられる。なお、[9月25日](../Page/9月25日.md "wikilink")には直井の活動休止が公式サイトを通じて発表され、それに伴って[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")の放送分からは3人での収録となる。
 
 ## 特別番組
 
 すべて通常とは異なる火曜日の放送となっており、放送開始時刻も通常より早くなっている。
 
   - PONTSUKA\!\! Forever\!?
-    [2014年](../Page/2014年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")26:00 - 28:57放送\[5\]\[6\]\[7\]。
-    bayfm開局25周年・番組放送15周年を記念した特別番組。リスナーへの[逆電](../Page/逆電.md "wikilink")も行われた\[8\]。
+    [2014年](../Page/2014年.md "wikilink")[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")26:00 - 28:57放送\[6\]\[7\]\[8\]。
+    bayfm開局25周年・番組放送15周年を記念した特別番組。リスナーへの[逆電](../Page/逆電.md "wikilink")も行われた\[9\]。
   - [MOZAIKU NIGHT](../Page/MOZAIKU_NIGHT〜No.1_Music_Factory〜.md "wikilink") BUMP OF CHICKEN 20th ANNIVERSARY ポンツカSPECIAL
     [2016年](../Page/2016年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink")26:00 - 29:00放送。
-    BUMP OF CHICKENの結成20周年を記念した特別番組。bayfmで毎週月曜日〜水曜日、金曜日の深夜に放送されている『[MOZAIKU NIGHT](../Page/MOZAIKU_NIGHT〜No.1_Music_Factory〜.md "wikilink")』内での放送となった\[9\]。
+    BUMP OF CHICKENの結成20周年を記念した特別番組。bayfmで毎週月曜日〜水曜日、金曜日の深夜に放送されている『[MOZAIKU NIGHT](../Page/MOZAIKU_NIGHT〜No.1_Music_Factory〜.md "wikilink")』内での放送となった\[10\]。
   - bayfm 30th Anniversary Special PONTSUKA\!\! 20周年緊急特番 ～ボクらの軌跡～
     [2019年](../Page/2019年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")25:00 - 28:53放送。
-    bayfmの開局30周年および番組放送20周年を記念した特別番組。出演者はBUMP OF CHICKEN、[長弘翔子](https://ja.wikipedia.org/wiki/長弘翔子 "wikilink")、[仲村宗悟](https://ja.wikipedia.org/wiki/仲村宗悟 "wikilink")\[10\]。25:00から27:00まではBUMP OF CHICKENは出演せず、長弘と仲村がナビゲーターとして登場し、リスナーから寄せられたお便りを紹介した。27:00からは通常と同じメンバー4人での放送となった\[11\]。
+    bayfmの開局30周年および番組放送20周年を記念した特別番組。出演者はBUMP OF CHICKEN、[長弘翔子](https://ja.wikipedia.org/wiki/長弘翔子 "wikilink")、[仲村宗悟](https://ja.wikipedia.org/wiki/仲村宗悟 "wikilink")\[11\]。25:00から27:00まではBUMP OF CHICKENは出演せず、長弘と仲村がナビゲーターとして登場し、リスナーから寄せられたお便りを紹介した。27:00からは通常と同じメンバー4人での放送となった\[12\]。
 
 ## ゲスト
 
@@ -69,7 +70,7 @@
   - [BURGER NUDS](../Page/BURGER_NUDS.md "wikilink")（2002年12月）
   - [ハックルベリーフィン](../Page/ハックルベリーフィン_\(日本のバンド\).md "wikilink")（2004年1月18日・1月25日）
   - 小林弘典（[トランスフォーマー](../Page/トランスフォーマー.md "wikilink")デザイナー。2010年10月10日の放送にコメント出演）
-  - 川田十夢（[AR三兄弟](https://ja.wikipedia.org/wiki/AR三兄弟 "wikilink")、2014年10月28日『PONTSUKA\!\! Forever\!?』）\[12\]
+  - 川田十夢（[AR三兄弟](https://ja.wikipedia.org/wiki/AR三兄弟 "wikilink")、2014年10月28日『PONTSUKA\!\! Forever\!?』）\[13\]
 
 ## 脚注
 
@@ -92,11 +93,12 @@
 2.  こちらのコーナーもリスナーからのお便りを募集している。
 3.  4人の誕生日が数ヶ月ずつ離れている（[藤原基央](https://ja.wikipedia.org/wiki/藤原基央 "wikilink")は[4月12日](../Page/4月12日.md "wikilink")、[升秀夫](../Page/升秀夫.md "wikilink")は[8月10日](../Page/8月10日.md "wikilink")、[直井由文](../Page/直井由文.md "wikilink")は[10月9日](../Page/10月9日.md "wikilink")、[増川弘明](../Page/増川弘明.md "wikilink")は[12月20日](../Page/12月20日.md "wikilink")）ため、ほぼ1年を通して誰かしらの企画が行われている。
 4.
-5.
+5.  前述の「BUMP OF CHICKENミュージックセレクション」とは異なる。
 6.
 7.
-8.  通常放送と同じく、逆電も事前に収録されたものが放送された。
-9.
-10. 長弘と仲村はbayfm「MOZAIKU NIGHT」の毎週火曜日のDJである。
-11.
-12. 反対に、BUMP OF CHICKENが『[THE HANGOUT](https://ja.wikipedia.org/wiki/THE_HANGOUT "wikilink")』（J-WAVE）に出演した。（[2014年12月9日放送分](https://www.youtube.com/watch?v=a2yED0xTh38)）
+8.
+9.  通常放送と同じく、逆電も事前に収録されたものが放送された。
+10.
+11. 長弘と仲村はbayfm「MOZAIKU NIGHT」の毎週火曜日のDJである。
+12.
+13. 反対に、BUMP OF CHICKENが『[THE HANGOUT](https://ja.wikipedia.org/wiki/THE_HANGOUT "wikilink")』（J-WAVE）に出演した。（[2014年12月9日放送分](https://www.youtube.com/watch?v=a2yED0xTh38)）

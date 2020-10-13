@@ -503,4 +503,4 @@ VIBL-524</p></td>
 
   - ["Love You" Cymbals](http://www.jvcmusic.co.jp/cymbals/) - 公式ウェブサイト
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink")
+[Category:Cymbals](https://ja.wikipedia.org/wiki/Category:Cymbals "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:渋谷系](https://ja.wikipedia.org/wiki/Category:渋谷系 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")

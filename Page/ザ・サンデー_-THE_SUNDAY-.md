@@ -57,7 +57,7 @@
   - [秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")
   - [山形テレビ](../Page/山形テレビ.md "wikilink") - 日本テレビ製作の『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』を同時ネットで放送したため、7日遅れの日曜 11:00 - 11:54 に放送。
   - [福島テレビ](../Page/福島テレビ.md "wikilink")
-  - [新潟総合テレビ](https://ja.wikipedia.org/wiki/新潟総合テレビ "wikilink")
+  - [新潟総合テレビ](../Page/NST新潟総合テレビ.md "wikilink")
   - [長野放送](../Page/長野放送.md "wikilink")
   - [テレビ静岡](../Page/テレビ静岡.md "wikilink")
   - [富山テレビ](../Page/富山テレビ放送.md "wikilink")

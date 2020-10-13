@@ -116,11 +116,11 @@
 
 <!-- end list -->
 
-  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（[日テレ](../Page/日本テレビ放送網.md "wikilink")）※2017年10月より。
+  - [行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）※2017年10月より。
       - その他、不定期で様々な番組に提供する事がある。
   - モシモワールド supported by TOYO TIRES ([TOKYO FM](../Page/エフエム東京.md "wikilink"))
   - [おはようパーソナリティ道上洋三です](../Page/おはようパーソナリティ道上洋三です.md "wikilink")（[ABCラジオ](../Page/朝日放送ラジオ.md "wikilink")） - スタジオのある[朝日放送の本社社屋が当社の江戸堀本社社屋の近隣](../Page/朝日放送グループホールディングス.md "wikilink")（[ほたるまち](../Page/ほたるまち.md "wikilink")）にある縁で、7時台前半の[天気予報](../Page/天気予報.md "wikilink")のコーナースポンサーに付いている。ただし、免震ゴム・防振ゴムの性能データ改ざん問題（後述）が発覚した2015年には、CMや提供クレジットの放送を一時自粛していた。
-  - [クルマでいこう\!](../Page/クルマでいこう!.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")） - 「新車情報」および「新車ファイル クルマのツボ」、「岡崎五朗のクルマでいこう\!」から継続。2009年度～2013年度の間は一時降板していたが、2014年度から提供再開し2018年現在もスポンサーを務める。2015年の免震・防振ゴムの性能データ改ざん問題（後述）発覚時前後には一時CM・提供クレジットを自粛、2016年度には再開している。
+  - [クルマでいこう\!](../Page/クルマでいこう!.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")） - 「新車情報」および「新車ファイル クルマのツボ」、「岡崎五朗のクルマでいこう\!」から継続。2009年度〜2013年度の間は一時降板していたが、2014年度から提供再開し2018年現在もスポンサーを務める。2015年の免震・防振ゴムの性能データ改ざん問題（後述）発覚時前後には一時CM・提供クレジットを自粛、2016年度には再開している。
 
 <!-- end list -->
 
@@ -128,7 +128,7 @@
 
 <!-- end list -->
 
-  - [日本テレビ日曜8時連続ドラマ](https://ja.wikipedia.org/wiki/日本テレビ日曜8時連続ドラマ "wikilink")（日テレ）※ニットータイヤ時代
+  - [日本テレビ日曜8時連続ドラマ](https://ja.wikipedia.org/wiki/日本テレビ日曜8時連続ドラマ "wikilink")（日本テレビ）※ニットータイヤ時代
   - [知っとこ\!](../Page/知っとこ!.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")）
   - [新車情報](../Page/新車情報.md "wikilink") → [新車ファイル クルマのツボ](../Page/新車ファイル_クルマのツボ.md "wikilink") → [岡崎五朗のクルマでいこう\!](../Page/クルマでいこう!.md "wikilink")（[tvk](../Page/テレビ神奈川.md "wikilink")）
   - [SPORT](../Page/すぽると!.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
@@ -137,8 +137,8 @@
   - [JNNニュースデスク](https://ja.wikipedia.org/wiki/JNNニュースデスク "wikilink")（[JNN系](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")） - 1970年代の一時期のみ
   - [金曜ロードショー](../Page/金曜ロードSHOW!.md "wikilink")（日本テレビ）
   - [驚きももの木20世紀](../Page/驚きももの木20世紀.md "wikilink")（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")）
-  - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")（日テレ）※長年提供していた[タケダの後継](../Page/武田薬品工業.md "wikilink")。
-  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")（日テレ・水曜中盤ナショナルセールス枠）※2017年4月より2019年3月まで。
+  - [世界まる見え\!テレビ特捜部](../Page/世界まる見え!テレビ特捜部.md "wikilink")（日本テレビ）※長年提供していた[タケダの後継](../Page/武田薬品工業.md "wikilink")。
+  - [NEWS ZERO](https://ja.wikipedia.org/wiki/news_zero "wikilink")（日本テレビ・水曜中盤ナショナルセールス枠）※2017年4月より2019年3月まで。
   - [おぎやはぎの愛車遍歴 NO CAR, NO LIFE\!](https://ja.wikipedia.org/wiki/おぎやはぎの愛車遍歴_NO_CAR,_NO_LIFE! "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")）
   - 平井堅 NOW ON AIR 〜やっと逢えたね〜 ([レディオキューブ FM三重](https://ja.wikipedia.org/wiki/三重エフエム放送 "wikilink"))
   - [トラック野郎](https://ja.wikipedia.org/wiki/トラック野郎 "wikilink")シリーズ（[東映](../Page/東映.md "wikilink")）※ニットータイヤ

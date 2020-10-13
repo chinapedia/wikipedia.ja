@@ -15,7 +15,9 @@
 
 全国ツアー『DAHLIA TOUR 1995-1996』終了後に本アルバム発売がアナウンスされたものの、10曲のうち6曲が本アルバム発売前となる1996年11月には既に世に出た楽曲となっており、後にシングルカットされる「[SCARS](https://ja.wikipedia.org/wiki/SCARS "wikilink")」もライブではすでに披露されていたために、実質的には1993年以降にリリースされたシングルコレクションともいえる作品となった。一部の作品ではアルバムバージョンとして手直しが施されているものの、ほとんどの曲はシングルバージョンと同一である。
 
-アルバムのジャケット写真は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[ブロードウェイの路上にバラを撒いて撮影された](../Page/ブロードウェイ_\(ニューヨーク\).md "wikilink")\[1\]。
+アルバムタイトルが決まったのが1994年で、「『DAHLIA』という空想の少女が、悲しみ・孤独等YOSHIKIの色々な言葉を彼女の解釈で言っていく」ことをコンセプトにした\[1\]。
+
+アルバムのジャケット写真は[ニューヨーク](../Page/ニューヨーク.md "wikilink")・[ブロードウェイの路上にバラを撒いて撮影された](../Page/ブロードウェイ_\(ニューヨーク\).md "wikilink")\[2\]。
 
 アルバム発売後は「SCARS」のシングルカット、2日間の年末の東京ドーム公演こそ行われたものの、翌年春にToshlのバンドからの脱退が決まり、X JAPANは解散することとなる。
 
@@ -35,9 +37,11 @@
     （作詞・作曲・編曲：YOSHIKI）
       -
         [日本石油](https://ja.wikipedia.org/wiki/JXエネルギー "wikilink")「ZOA」CMソング。
-        ボーカル以外の楽器は全てYOSHIKIが演奏した\[2\]。
-        メロディーを女性ボーカルが執る事も検討されたが、Toshlのボーカルに[イコライザーをかけたものを使用した](../Page/イコライザー_\(音響機器\).md "wikilink")\[3\]。
-        「White Poem II」も制作されたが、本アルバムには収録されなかった\[4\]。
+        YOSHIKIのソロ作品としての意向が強く反映されている\[3\]。
+        デモテープの段階で、ボーカル以外のギター・ベース等の楽器の演奏は打ち込みも含めて全てYOSHIKIが担当した\[4\]\[5\]。
+        デモテープの雰囲気で弾いてほしいとメンバーに要請したが、「そんなメチャクチャな感じに弾けるわけない」と断られ、ギター・ベースのパートはデモテープのテイクそのままで収録している\[6\]。
+        メロディーを女性ボーカルが執る事も検討されたが、Toshlのボーカルに[イコライザーをかけたものを使用した](../Page/イコライザー_\(音響機器\).md "wikilink")\[7\]。
+        「White Poem II」も制作されたが、本アルバムには収録されなかった\[8\]。
 6.  **[CRUCIFY MY LOVE](../Page/CRUCIFY_MY_LOVE.md "wikilink")** (4:36)
     （作詞・作曲・編曲：YOSHIKI）
 7.  **[Tears](../Page/Tears_\(X_JAPANの曲\).md "wikilink")**(10:30)
@@ -49,9 +53,14 @@
       -
         デジタル・ロックサウンドの[インストゥルメンタル](../Page/器楽曲.md "wikilink")。
         歴代の楽曲で、唯一作曲にHEATHが関わった曲。演奏はPATAのみ参加（プログラミングはHEATHによる）。
+        「メンバー全員に曲作りに参加してほしい」という意向から、HEATHにストックの曲を全部持ってきてもらい、全て聴いた中から選んでいった\[9\]。
+        YOSHIKIは「長さは1分半で」等厳密に注文を出した\[10\]。
+        レコーディング後半に出来上がった\[11\]。
 9.  **DRAIN** (3:28)
     （作詞：HIDE、TOSHI　作曲・編曲：HIDE）
       -
+        YOSHIKIが「悲しくて激しい曲が欲しい」とHIDEに注文して出来上がった\[12\]。
+        制作途中でHIDEは「途中で『やっぱり嫌だ』って言わないよね?」とダメだしされたが、いざ完成すると「良い感じだ」と満足した\[13\]。
         リズムトラックが打ち込みであり、YOSHIKIが演奏に参加していないほか、ギタートラックは全てHIDEが弾いているため、PATAも演奏に参加していない。(Live演奏時には参加している。）そのためToshlとHIDEとHEATHの3人による楽曲である。
         後に、[HIDE](https://ja.wikipedia.org/wiki/HIDE "wikilink")が[zilch](https://ja.wikipedia.org/wiki/zilch "wikilink")名義でタイトルを「WHAT'S UP MR.JONES?」に変えてカバーした。
 10. **[Forever Love](../Page/Forever_Love_\(X_JAPANの曲\).md "wikilink") (Acoustic Version)** (7:54)
@@ -67,7 +76,16 @@
 
 [Category:X_JAPANのアルバム](https://ja.wikipedia.org/wiki/Category:X_JAPANのアルバム "wikilink") [Category:1996年のアルバム](https://ja.wikipedia.org/wiki/Category:1996年のアルバム "wikilink") [Category:アトランティック・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:アトランティック・レコードのアルバム "wikilink") [Category:YOSHIKIがプロデュースしたアルバム](https://ja.wikipedia.org/wiki/Category:YOSHIKIがプロデュースしたアルバム "wikilink") [Category:1996年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1996年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  『ロッキンf』（1997年1月号）立東社
-2.  『uv』（Vol. 13）ソニー・マガジンズ
-3.
-4.
+1.
+2.  『ロッキンf』（1997年1月号）立東社
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1996年12月号「X JAPAN 『DAHLIA』という事件」111P-113Pより。
+4.  『uv』（Vol. 13）ソニー・マガジンズ
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.

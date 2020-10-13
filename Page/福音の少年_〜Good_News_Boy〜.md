@@ -107,4 +107,4 @@
 
   - [GoodNewsBoy.com 福音の少年 公式サイト](http://www.goodnewsboy.com/)
 
-[Category:徳間デュアル文庫](https://ja.wikipedia.org/wiki/Category:徳間デュアル文庫 "wikilink") [Category:日本のファンタジー小説](https://ja.wikipedia.org/wiki/Category:日本のファンタジー小説 "wikilink") [Category:錬金術を題材とした作品](https://ja.wikipedia.org/wiki/Category:錬金術を題材とした作品 "wikilink") [Category:宗教・聖典を題材とした作品](https://ja.wikipedia.org/wiki/Category:宗教・聖典を題材とした作品 "wikilink") [Category:他の作品を題材とした作品](https://ja.wikipedia.org/wiki/Category:他の作品を題材とした作品 "wikilink")
+[Category:徳間デュアル文庫](https://ja.wikipedia.org/wiki/Category:徳間デュアル文庫 "wikilink") [Category:日本のファンタジー小説](https://ja.wikipedia.org/wiki/Category:日本のファンタジー小説 "wikilink") [Category:錬金術を題材とした小説](https://ja.wikipedia.org/wiki/Category:錬金術を題材とした小説 "wikilink") [Category:宗教・聖典を題材とした作品](https://ja.wikipedia.org/wiki/Category:宗教・聖典を題材とした作品 "wikilink") [Category:他の作品を題材とした作品](https://ja.wikipedia.org/wiki/Category:他の作品を題材とした作品 "wikilink")

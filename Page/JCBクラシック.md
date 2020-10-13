@@ -109,7 +109,7 @@
 
   - [JCBクラシック2007](http://www.ox-tv.co.jp/jcb-classic/)
 
-[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:現存しないゴルフトーナメント](https://ja.wikipedia.org/wiki/Category:現存しないゴルフトーナメント "wikilink") [Category:宮城県のスポーツ史](https://ja.wikipedia.org/wiki/Category:宮城県のスポーツ史 "wikilink") [Category:仙台放送](https://ja.wikipedia.org/wiki/Category:仙台放送 "wikilink")
+[Category:日本ゴルフツアー](https://ja.wikipedia.org/wiki/Category:日本ゴルフツアー "wikilink") [Category:現存しないゴルフトーナメント](https://ja.wikipedia.org/wiki/Category:現存しないゴルフトーナメント "wikilink") [Category:宮城県のスポーツ史](https://ja.wikipedia.org/wiki/Category:宮城県のスポーツ史 "wikilink") [Category:仙台放送](https://ja.wikipedia.org/wiki/Category:仙台放送 "wikilink") [Category:アコーディア・ゴルフ](https://ja.wikipedia.org/wiki/Category:アコーディア・ゴルフ "wikilink")
 
 1.  [仙台放送／終着駅からはじめちゃう?\!](https://www.ox-tv.co.jp/shuchakueki/)
 2.

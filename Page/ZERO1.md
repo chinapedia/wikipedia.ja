@@ -144,8 +144,8 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_世界ヘビー級王座" title="wikilink">世界ヘビー級王座</a></p></td>
 <td><p><a href="../Page/田村ハヤト.md" title="wikilink">田村ハヤト</a></p></td>
 <td><p>第28代</p></td>
+<td><p>1</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎永遠" title="wikilink">岩﨑永遠</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座" title="wikilink">NWA UNヘビー級王座</a></p></td>
@@ -182,7 +182,8 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <a href="../Page/ビリーケン・キッド.md" title="wikilink">ビリーケン・キッド</a></p></td>
 <td><p>第30代</p></td>
 <td></td>
-<td></td>
+<td><p><a href="../Page/SUGI.md" title="wikilink">SUGI</a><br />
+<a href="https://ja.wikipedia.org/wiki/RAICHO" title="wikilink">RAICHO</a></p></td>
 </tr>
 </tbody>
 </table>

@@ -209,6 +209,7 @@ PLAYBOYはアメリカ合衆国の大手[エージェンシー](https://ja.wikip
   - [表現の自由](https://ja.wikipedia.org/wiki/表現の自由 "wikilink")
   - [娯楽](https://ja.wikipedia.org/wiki/娯楽 "wikilink")、[雑誌](../Page/雑誌.md "wikilink")
   - [ショービジネス](https://ja.wikipedia.org/wiki/ショービジネス "wikilink")
+      - [ポルノ雑誌](../Page/ポルノ雑誌.md "wikilink")
   - アメリカ合衆国の大手[エージェンシー](https://ja.wikipedia.org/wiki/エージェンシー "wikilink")
       - [クリエイティヴ・アーティスツ・エージェンシー](../Page/クリエイティヴ・アーティスツ・エージェンシー.md "wikilink")（CAA）
       - [ウィリアム・モリス・エンデヴァー](../Page/ウィリアム・モリス・エンデヴァー・エンターテイメント.md "wikilink")（WME）

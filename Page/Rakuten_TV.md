@@ -110,7 +110,7 @@
 
   - [２つのサイトのご説明 《 ShowTime 》と《 Rakuten TV 》](https://www.showtime.jp/special/site_comparison/)
 
-[Category:定額制動画配信サービス](https://ja.wikipedia.org/wiki/Category:定額制動画配信サービス "wikilink") [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:世田谷区の企業](https://ja.wikipedia.org/wiki/Category:世田谷区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink")
+[Category:定額制動画配信サービス](https://ja.wikipedia.org/wiki/Category:定額制動画配信サービス "wikilink") [Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:楽天](https://ja.wikipedia.org/wiki/Category:楽天 "wikilink") [Category:世田谷区の企業](https://ja.wikipedia.org/wiki/Category:世田谷区の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink") [Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:ビデオ・オン・デマンドのサービス](https://ja.wikipedia.org/wiki/Category:ビデオ・オン・デマンドのサービス "wikilink")
 
 1.  [２つのサイトのご説明 | 《 ShowTime 》と《 Rakuten TV 》 | 国内最大級の動画配信サービス | 動画を楽しむにはShowTime（ショウタイム）](https://www.showtime.jp/special/site_comparison/)
 2.

@@ -143,6 +143,14 @@
       - 編集可能な新しい図形の追加
   - Pages for iCloud March 2020リリース\[10\]
 
+2020年7月9日 -
+
+  - macOS Mojave, iOS/iPadOS向けPages 10.1リリース
+
+2020年9月22日 -
+
+  - [macOS Catalina](https://ja.wikipedia.org/wiki/macOS_Catalina "wikilink"), iOS/iPadOS 13.1向けPages 10.2リリース
+
 ## macOS版のバージョン
 
 | <small>バージョン No.</small> | <small>対応OS ver.</small> | <small>リリース日</small>                                                                                       | <small>備考</small>                                                                                                                                                                                           |
@@ -193,6 +201,7 @@
 | <small>8.2.1</small>     | <small>10.14</small>     | <small>2019年11月14日</small>                                                                                 |                                                                                                                                                                                                             |
 | <small>10.0</small>      | <small>10.14</small>     | <small>2020年3月31日</small>                                                                                  | <small>iCloudでの共同制作の自動保存など対応向上、iOS/iPadOS版とバージョン番号の統一</small>                                                                                                                                               |
 | <small>10.1</small>      | <small>10.14</small>     | <small>2020年7月9日</small>                                                                                   |                                                                                                                                                                                                             |
+| <small>10.2</small>      | <small>10.15</small>     | <small>2020年9月22日</small>                                                                                  |                                                                                                                                                                                                             |
 |                          |                          |                                                                                                            |                                                                                                                                                                                                             |
 
 ## 脚注

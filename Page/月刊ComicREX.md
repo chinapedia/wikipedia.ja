@@ -28,7 +28,6 @@
   - [どっちも気づかない。](https://ja.wikipedia.org/wiki/どっちも気づかない。 "wikilink")（[東ふゆ](https://ja.wikipedia.org/wiki/東ふゆ "wikilink")）（2020年4月号 - ）
   - [ニジとクロ](https://ja.wikipedia.org/wiki/ニジとクロ "wikilink")（[武梨えり](../Page/武梨えり.md "wikilink")）（2018年9月号 - ）
   - [バーナード嬢曰く。](https://ja.wikipedia.org/wiki/バーナード嬢曰く。 "wikilink")（[施川ユウキ](https://ja.wikipedia.org/wiki/施川ユウキ "wikilink")）（2014年1月号 - ）
-  - [美少女同人作家と若頭](https://ja.wikipedia.org/wiki/美少女同人作家と若頭 "wikilink")（[ベニガシラ](https://ja.wikipedia.org/wiki/ベニガシラ "wikilink")）（2019年1月号 - ）
   - [八十亀ちゃんかんさつにっき](https://ja.wikipedia.org/wiki/八十亀ちゃんかんさつにっき "wikilink")（[安藤正基](https://ja.wikipedia.org/wiki/安藤正基 "wikilink")）（2016年7月号 - ）
 
 ### 連載中（メディアミックス）
@@ -128,6 +127,7 @@
   - [ノイン](https://ja.wikipedia.org/wiki/ノイン "wikilink")（[村崎久都](https://ja.wikipedia.org/wiki/村崎久都 "wikilink")）（2009年3月号 - 2010年6月号）
   - [ハンド×レッド](https://ja.wikipedia.org/wiki/ハンド×レッド "wikilink")（原作：[倉田英之](../Page/倉田英之.md "wikilink") 漫画：[星樹](https://ja.wikipedia.org/wiki/星樹 "wikilink")）（2006年8月号 - 2009年1月号、2009年8月号）
   - [BUS GAMER](../Page/BUS_GAMER.md "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）（2006年4月号 - 2006年11月号、2008年1月号 - 2009年5月号） - 休載のまま未完
+  - [美少女同人作家と若頭](https://ja.wikipedia.org/wiki/美少女同人作家と若頭 "wikilink")（[ベニガシラ](https://ja.wikipedia.org/wiki/ベニガシラ "wikilink")）（2019年1月号 - 2020年10月号）
   - [ひめゴト](https://ja.wikipedia.org/wiki/ひめゴト "wikilink")（[佃煮のりお](https://ja.wikipedia.org/wiki/佃煮のりお "wikilink")）（2013年12月号 - 2015年8月号）
   - [ひめなカメナ](../Page/ひめなカメナ.md "wikilink")（[結城心一](../Page/結城心一.md "wikilink")）（創刊号 - 2008年8月号）
   - [ヒロインボイス](https://ja.wikipedia.org/wiki/ヒロインボイス "wikilink")（[佃煮のりお](https://ja.wikipedia.org/wiki/佃煮のりお "wikilink")）（2016年1月号 - 2016年12月号） - 第1部完

@@ -38,7 +38,7 @@
   - 2月23日、スペシャルシングル「ONE\&ONLY」をリリース。
   - 5月4日、7thミニアルバム「GATEWAY」をリリース。
   - 6月28日、デジタルシングル「아니 그래」をリリース。
-  - 9月14日、メンバーのムンビンとサナのグループ内初となるユニット「MOONBIN & SANHA (ASTRO)」の1stミニアルバム「IN-OUT」をリリースし、デビューする予定\[3\]。
+  - 9月14日、メンバーのムンビンとサナのグループ内初となるユニット「MOONBIN & SANHA (ASTRO)」の1stミニアルバム「IN-OUT」をリリースし、デビューした\[3\]。
 
 ## メンバー
 
@@ -539,7 +539,8 @@
 <li>All Wanna Do</li>
 <li>Dream Catcher</li>
 </ol></td>
-<td></td>
+<td><p>2位<br />
+[49]</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -807,7 +808,7 @@
   -
 **日本**
 
-  - [ASTRO JAPAN OFFICIAL SITE](https://astrojapan.jp/)
+  - [ASTRO JAPAN OFFICIAL SITE](https://astro-official.jp/)
 
   -
 **中国**
@@ -877,3 +878,4 @@
 46. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2017&termGbn=month>　Gaonアルバム月間チャート2017年3月\]
 47. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=11&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年3月8日\~2020年3月14日\]
 48. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=03&hitYear=2020&termGbn=month>　Gaonアルバム月間チャート2020年3月\]
+49. \[<http://gaonchart.co.kr/main/section/chart/album.gaon?nationGbn=T&serviceGbn=&targetTime=38&hitYear=2020&termGbn=week>　Gaonアルバムチャート2020年9月13日\~2020年9月19日\]

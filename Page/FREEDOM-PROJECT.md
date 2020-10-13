@@ -133,7 +133,7 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 <table>
 <thead>
 <tr class="header">
-<th><p>話数</p></th>
+<th><p>DVD</p></th>
 <th><p>脚本</p></th>
 <th><p>絵コンテ</p></th>
 <th><p>演出</p></th>
@@ -142,14 +142,14 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1</p></td>
+<td><p>FREEDOM 1</p></td>
 <td><p><a href="../Page/千葉克彦.md" title="wikilink">千葉克彦</a></p></td>
 <td><p><a href="../Page/片山一良_(アニメ監督).md" title="wikilink">片山一良</a></p></td>
 <td><p>新井浩一</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2</p></td>
+<td><p>FREEDOM 2</p></td>
 <td><p><a href="../Page/まついひとゆき.md" title="wikilink">まついひとゆき</a></p></td>
 <td><p><a href="../Page/堀内博之.md" title="wikilink">堀内博之</a><br />
 <a href="../Page/橋本敬史.md" title="wikilink">橋本敬史</a>（エフェクト）</p></td>
@@ -157,14 +157,14 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>3</p></td>
+<td><p>FREEDOM 3</p></td>
 <td><p>牧孝雄</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>4</p></td>
+<td><p>FREEDOM 4</p></td>
 <td><p><a href="../Page/佐藤大.md" title="wikilink">佐藤大</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/森田修平" title="wikilink">森田修平</a></p></td>
 <td><p><a href="../Page/松尾衡.md" title="wikilink">松尾衡</a></p></td>
@@ -172,21 +172,22 @@ OVA作品の『**FREEDOM**』は、[Yahoo\!動画](https://ja.wikipedia.org/wiki
 小松英司（エフェクト）</p></td>
 </tr>
 <tr class="odd">
-<td><p>5</p></td>
+<td><p>FREEDOM 5</p></td>
 <td><p><a href="../Page/野村祐一.md" title="wikilink">野村祐一</a></p></td>
 <td><p>安藤裕章</p></td>
 <td><p>堀内博之</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>6</p></td>
+<td><p>FREEDOM 6</p></td>
 <td><p>佐藤大</p></td>
 <td><p>遠藤広隆</p></td>
 <td><p>牧孝雄</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>特別編</p></td>
+<td><p>特別編<br />
+FREEDOM SEVEN</p></td>
 <td><p>松尾衡<br />
 安藤裕章</p></td>
 <td><p>山崎浩司</p></td>

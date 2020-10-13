@@ -5,7 +5,7 @@
 
 ## 名称
 
-Amarokという名称は[Mike Oldfieldのアルバム](../Page/マイク・オールドフィールド.md "wikilink")[Amarokから来ている](https://ja.wikipedia.org/wiki/:en:Amarok_\(album\) "wikilink")。"amarok"（または"amaroq"）は[イヌクティトゥット語](../Page/イヌクティトゥット語.md "wikilink")([イヌイットの方言のひとつ](../Page/エスキモー.md "wikilink"))でオオカミの意味。Amarok はオオカミをマスコットに用いている。元々の名称は**amaroK**(末尾の**K**が大文字)であったが、2006年6月に改名された。
+Amarokという名称は[Mike Oldfieldのアルバム](../Page/マイク・オールドフィールド.md "wikilink")[Amarokから来ている](https://ja.wikipedia.org/wiki/:en:Amarok_\(Mike_Oldfield_album\) "wikilink")。"amarok"（または"amaroq"）は[イヌクティトゥット語](../Page/イヌクティトゥット語.md "wikilink")([イヌイットの方言のひとつ](../Page/エスキモー.md "wikilink"))でオオカミの意味。Amarok はオオカミをマスコットに用いている。元々の名称は**amaroK**(末尾の**K**が大文字)であったが、2006年6月に改名された。
 
 ## 特徴
 

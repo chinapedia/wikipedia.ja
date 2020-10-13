@@ -26,179 +26,113 @@
 
 ### 映画・テレビドラマ
 
-:; 『[RED/レッド](https://ja.wikipedia.org/wiki/RED/レッド "wikilink")』
-
-:: 物語冒頭、主人公のフランク・モーゼズの家を襲った[傭兵](../Page/傭兵.md "wikilink")が[ダットサイトとフォアグリップを装着したものを使用](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
-
-:; 『[アサルト13 要塞警察](https://ja.wikipedia.org/wiki/アサルト13_要塞警察 "wikilink")』
-
-:: ジェイク・ローニック、マリオン・ビショップ、ベック、襲撃部隊が使用。ダットサイトやフォアグリップなどを装着。
-
-:; 『[ウルトラヴァイオレット](https://ja.wikipedia.org/wiki/ウルトラヴァイオレット "wikilink")』
-
-:: 統合省の[兵士](../Page/兵士.md "wikilink")が使用（ホワイトカラーもあり）。
-
-:; 『[ザ・プレデター](https://ja.wikipedia.org/wiki/ザ・プレデター_\(映画\) "wikilink")』
-
-:: スターゲイザーの兵士が使用。また、スターゲイザーに捕獲され、拘束を解いた[フジティブ・プレデターが](../Page/プレデター_\(架空の生物\).md "wikilink")、殺害したスターゲイザーの兵士から奪って使用。これは映像作品で始めて、プレデターが使用した地球製の武器になる。
-
-:; 『[ジウ 警視庁特殊犯捜査係](https://ja.wikipedia.org/wiki/ジウ_警視庁特殊犯捜査係 "wikilink")』
-
-:: 新世界秩序の武装集団が所持。撮影にはエキストラの物が使われた。
-
-:; 『[スズメバチ](../Page/スズメバチ_\(映画\).md "wikilink")』
-
-:: ジョヴァンニが使用。
-
-:; 『[スティーヴ・オースティン S.W.A.T.](https://ja.wikipedia.org/wiki/スティーヴ・オースティン_S.W.A.T. "wikilink")』
-
-:; 『[バイオハザードII アポカリプス](../Page/バイオハザードII_アポカリプス.md "wikilink")』
-
-:: ラクーンシティ警察[特殊部隊](../Page/特殊部隊.md "wikilink")「[S.T.A.R.S.](https://ja.wikipedia.org/wiki/S.T.A.R.S. "wikilink")」がフォアグリップと[タクティカルライトを装着したものを](../Page/懐中電灯.md "wikilink")、CSA隊員がダットサイト、タクティカルライト、レーザーサイトを装着したものを使用する。
-
-::; 『[バイオハザードV リトリビューション](https://ja.wikipedia.org/wiki/バイオハザードV_リトリビューション "wikilink")』
-
-  -
-
-      -
+  - 『[RED/レッド](https://ja.wikipedia.org/wiki/RED/レッド "wikilink")』
+    物語冒頭、主人公のフランク・モーゼズの家を襲った[傭兵](../Page/傭兵.md "wikilink")が[ダットサイトとフォアグリップを装着したものを使用](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
+  - 『[アサルト13 要塞警察](https://ja.wikipedia.org/wiki/アサルト13_要塞警察 "wikilink")』
+    ジェイク・ローニック、マリオン・ビショップ、ベック、襲撃部隊が使用。ダットサイトやフォアグリップなどを装着。
+  - 『[インセプション](https://ja.wikipedia.org/wiki/インセプション "wikilink")』
+    イームス（[トム・ハーディ](https://ja.wikipedia.org/wiki/トム・ハーディ "wikilink")）が使用。
+  - 『[ウルトラヴァイオレット](https://ja.wikipedia.org/wiki/ウルトラヴァイオレット "wikilink")』
+    統合省の[兵士](../Page/兵士.md "wikilink")が使用（ホワイトカラーもあり）。
+  - 『[ザ・プレデター](https://ja.wikipedia.org/wiki/ザ・プレデター_\(映画\) "wikilink")』
+    スターゲイザーの兵士が使用。また、スターゲイザーに捕獲され、拘束を解いた[フジティブ・プレデターが](../Page/プレデター_\(架空の生物\).md "wikilink")、殺害したスターゲイザーの兵士から奪って使用。これは映像作品で始めて、プレデターが使用した地球製の武器になる。
+  - 『[ジウ 警視庁特殊犯捜査係](https://ja.wikipedia.org/wiki/ジウ_警視庁特殊犯捜査係 "wikilink")』
+    新世界秩序の武装集団が所持。撮影にはエキストラの物が使われた。
+  - 『[スズメバチ](../Page/スズメバチ_\(映画\).md "wikilink")』
+    ジョヴァンニが使用。
+  - 『[スティーヴ・オースティン S.W.A.T.](https://ja.wikipedia.org/wiki/スティーヴ・オースティン_S.W.A.T. "wikilink")』
+    『[バイオハザードII アポカリプス](../Page/バイオハザードII_アポカリプス.md "wikilink")』
+    ラクーンシティ警察[特殊部隊](../Page/特殊部隊.md "wikilink")「[S.T.A.R.S.](https://ja.wikipedia.org/wiki/S.T.A.R.S. "wikilink")」がフォアグリップと[タクティカルライトを装着したものを](../Page/懐中電灯.md "wikilink")、CSA隊員がダットサイト、タクティカルライト、レーザーサイトを装着したものを使用する。
+      - 『[バイオハザードV リトリビューション](https://ja.wikipedia.org/wiki/バイオハザードV_リトリビューション "wikilink")』
         アリス救出チームの1人、[レオン・S・ケネディ](https://ja.wikipedia.org/wiki/レオン・S・ケネディ "wikilink")がEO Tech社製ホロサイトとタクティカルライトを装着したものを使用する。
-
-:; 『[マイアミ・バイス](../Page/マイアミ・バイス_\(映画\).md "wikilink")』
-
-:: ジェームズ・ソニー・クロケットが使用。
-
-:; 『[ホワイトハウス・ダウン](https://ja.wikipedia.org/wiki/ホワイトハウス・ダウン "wikilink")』
-
-:: ヴァディムが使用しており、主人公、ジョン・ケイルも奪って使用する。
-
-:; 『[レッド・サイレン](https://ja.wikipedia.org/wiki/レッド・サイレン "wikilink")』
-
-  -
-
-      -
-        ヒューゴーが使用（[赤外線](../Page/赤外線.md "wikilink")[スコープ付き](../Page/照準器.md "wikilink")）。
+  - 『[マイアミ・バイス](../Page/マイアミ・バイス_\(映画\).md "wikilink")』
+    ジェームズ・ソニー・クロケットが使用。
+  - 『[ホワイトハウス・ダウン](https://ja.wikipedia.org/wiki/ホワイトハウス・ダウン "wikilink")』
+    ヴァディムが使用しており、主人公、ジョン・ケイルも奪って使用する。
+  - 『[レッド・サイレン](https://ja.wikipedia.org/wiki/レッド・サイレン "wikilink")』
+    ヒューゴーが使用（[赤外線](../Page/赤外線.md "wikilink")[スコープ付き](../Page/照準器.md "wikilink")）。
 
 ### 漫画・アニメ
 
-:; 『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』
-
-:: 第8話にて高松が所持。
-
-:; 『[GUNSLINGER GIRL](../Page/GUNSLINGER_GIRL.md "wikilink")』
-
-:: アニメ版にてエルザが使用。
-
-:; 『[蒼き鋼のアルペジオ -アルス・ノヴァ-](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ_-アルス・ノヴァ- "wikilink")』
-
-:: \#06「ともだち」にて陸軍の[特殊部隊](../Page/特殊部隊.md "wikilink")が使用。[ショートバレルの](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[M203 グレネードランチャー](../Page/M203_グレネードランチャー.md "wikilink")、[レーザーサイト](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")、ダットサイトを装着している。
-
-:; 『[ジオブリーダーズ](https://ja.wikipedia.org/wiki/ジオブリーダーズ "wikilink")』
-
-:: 厚生省衛生二課（ハウンド）が使用。
-
-:; 『[とある魔術の禁書目録](https://ja.wikipedia.org/wiki/とある魔術の禁書目録_\(アニメ\) "wikilink")』
-
-:: アニメ版にて警備員（アンチスキル）の隊員が使用。
-
-::; 『[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")』
-
-  -
-
-      -
+  - 『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』
+    第8話にて高松が所持。
+  - 『[GUNSLINGER GIRL](../Page/GUNSLINGER_GIRL.md "wikilink")』
+    アニメ版にてエルザが使用。
+  - 『[蒼き鋼のアルペジオ -アルス・ノヴァ-](https://ja.wikipedia.org/wiki/蒼き鋼のアルペジオ_-アルス・ノヴァ- "wikilink")』
+    \#06「ともだち」にて陸軍の[特殊部隊](../Page/特殊部隊.md "wikilink")が使用。[ショートバレルの](https://ja.wikipedia.org/wiki/銃砲身 "wikilink")[M203 グレネードランチャー](../Page/M203_グレネードランチャー.md "wikilink")、[レーザーサイト](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")、ダットサイトを装着している。
+  - 『[ジオブリーダーズ](https://ja.wikipedia.org/wiki/ジオブリーダーズ "wikilink")』
+    厚生省衛生二課（ハウンド）が使用。
+  - 『[とある魔術の禁書目録](https://ja.wikipedia.org/wiki/とある魔術の禁書目録_\(アニメ\) "wikilink")』
+    アニメ版にて警備員（アンチスキル）の隊員が使用。
+      - 『[とある科学の超電磁砲](https://ja.wikipedia.org/wiki/とある科学の超電磁砲 "wikilink")』
         上記のスピンオフ作品。こちらのアニメ版にも数度登場するが、SG552にしてはハンドガードが長過ぎ、形状はSG551に近い。
-
-:; 『娘入り箱』
-
-  -
-
-      -
-        広域宇宙対策省の突入部隊が所持。通常の物より銃身が長い。
+  - 『娘入り箱』
+    広域宇宙対策省の突入部隊が所持。通常の物より銃身が長い。
 
 ### 小説
 
-:; 『[僕の学校の暗殺部](https://ja.wikipedia.org/wiki/僕の学校の暗殺部 "wikilink")』
-
-  -
-
-      -
-        主人公とヒロインの未但馬裕佳梨が所持している。[タクティカルライトと](../Page/懐中電灯.md "wikilink")[ホロサイトを装着している](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
+  - 『[僕の学校の暗殺部](https://ja.wikipedia.org/wiki/僕の学校の暗殺部 "wikilink")』
+    主人公とヒロインの未但馬裕佳梨が所持している。[タクティカルライトと](../Page/懐中電灯.md "wikilink")[ホロサイトを装着している](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。
 
 ### ゲーム
 
-:; 『[007 Everything or Nothing](https://ja.wikipedia.org/wiki/007_Everything_or_Nothing "wikilink")』
+  - 『[007 Everything or Nothing](https://ja.wikipedia.org/wiki/007_Everything_or_Nothing "wikilink")』
+    [ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")が、[ビル降下](https://ja.wikipedia.org/wiki/ビルディング "wikilink")[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")の際に使用。
 
-:: [ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")が、[ビル降下](https://ja.wikipedia.org/wiki/ビルディング "wikilink")[作戦](https://ja.wikipedia.org/wiki/作戦 "wikilink")の際に使用。
-
-::; 『[007 ナイトファイア](../Page/007_ナイトファイア.md "wikilink")』
-
-  -
-
-      -
+      - 『[007 ナイトファイア](../Page/007_ナイトファイア.md "wikilink")』
         SG552が「SG-5コマンドー」と言う名前で登場。主にフェニックス構成員が使用する。
 
-:; 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
+  - 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
+    「SG552 Commando」という名称で、ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」のメイン[武器](../Page/武器.md "wikilink")として登場。改造すると「SG552 RIS」と言う武器になり、カスタムパーツが装着可能になる。
 
-:: 「SG552 Commando」という名称で、ゲーム内[兵科](../Page/兵科.md "wikilink")「ポイントマン」のメイン[武器](../Page/武器.md "wikilink")として登場。改造すると「SG552 RIS」と言う武器になり、カスタムパーツが装着可能になる。
+  - 『[Far Cry 3](https://ja.wikipedia.org/wiki/Far_Cry_3 "wikilink")』
+    「STG-90」という名称でSG553が登場。様々なカスタマイズができる。
 
-:; 『[Far Cry 3](https://ja.wikipedia.org/wiki/Far_Cry_3 "wikilink")』
+  - 『[The Bourne Conspiracy](https://ja.wikipedia.org/wiki/:en:Robert_Ludlum's_The_Bourne_Conspiracy "wikilink")』
+    ジェイソン・ボーンと各種敵キャラが、[ダットサイト付を使用](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では未販売。
 
-:: 「STG-90」という名称でSG553が登場。様々なカスタマイズができる。
+  - 『[Left 4 Dead 2](https://ja.wikipedia.org/wiki/Left_4_Dead_2 "wikilink")』
+    ゴア表現が規制されているプレイヤーがいると使用可能になる。日本版はゴア表現が規制されていないので通常は使用不可能。オフラインプレイ時のみ開発者コンソールコマンドで呼び出す事が可能。しかし当たり判定はあってもダメージ判定のスプリクトが無いため実用性は皆無。
 
-:; 『[The Bourne Conspiracy](https://ja.wikipedia.org/wiki/:en:Robert_Ludlum's_The_Bourne_Conspiracy "wikilink")』
+  - 『[TrueCombat:Elite](../Page/TrueCombat:Elite.md "wikilink")』
+    [テロリストのアサルトクラスが装備可能](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。
 
-:: ジェイソン・ボーンと各種敵キャラが、[ダットサイト付を使用](https://ja.wikipedia.org/wiki/照準器#オプティカルサイト（Optical_sight） "wikilink")。[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")国内では未販売。
+  - 『[カウンターストライク](../Page/カウンターストライク.md "wikilink")』
+    「SSG552」という名称で登場。
 
-:; 『[Left 4 Dead 2](https://ja.wikipedia.org/wiki/Left_4_Dead_2 "wikilink")』
+  - 『[クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")』
+    「SG552」の名称で登場。ゲーム内通貨で購入可能。
 
-:: ゴア表現が規制されているプレイヤーがいると使用可能になる。日本版はゴア表現が規制されていないので通常は使用不可能。オフラインプレイ時のみ開発者コンソールコマンドで呼び出す事が可能。しかし当たり判定はあってもダメージ判定のスプリクトが無いため実用性は皆無。
+  - 『[ザ・サード バースデイ](https://ja.wikipedia.org/wiki/ザ・サード_バースデイ "wikilink")』
+    「S552」の名称で登場。
 
-:; 『[TrueCombat:Elite](../Page/TrueCombat:Elite.md "wikilink")』
+  - 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
 
-:: [テロリストのアサルトクラスが装備可能](https://ja.wikipedia.org/wiki/テロリズム "wikilink")。
+:; 『[BF3](https://ja.wikipedia.org/wiki/バトルフィールド3 "wikilink")』
 
-:; 『[カウンターストライク](../Page/カウンターストライク.md "wikilink")』
+:: マルチプレイで[工兵](../Page/工兵.md "wikilink")が使用できる[カービン](../Page/カービン.md "wikilink")ライフルとしてSG553が登場。
 
-:: 「SSG552」という名称で登場。
+:; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
 
-:; 『[クロスファイア](../Page/クロスファイア_\(オンラインゲーム\).md "wikilink")』
+:: 全[兵科](../Page/兵科.md "wikilink")共通のカービンライフルとしてSG553が登場。
 
-:: 「SG552」の名称で登場。ゲーム内通貨で購入可能。
+:; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
 
-:; 『[ザ・サード バースデイ](https://ja.wikipedia.org/wiki/ザ・サード_バースデイ "wikilink")』
+  - 『[レインボーシックス](../Page/レインボーシックス.md "wikilink")シリーズ』
 
-:: 「S552」の名称で登場。
+:; 『[レインボーシックス ベガス](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス "wikilink")』
 
-:; 『[バトルフィールドシリーズ](../Page/バトルフィールド_\(コンピューターゲーム\).md "wikilink")』
+:: 「552コマンドー｣の名称で登場。
 
-::; 『[BF3](https://ja.wikipedia.org/wiki/バトルフィールド3 "wikilink")』
-
-::: マルチプレイで[工兵](../Page/工兵.md "wikilink")が使用できる[カービン](../Page/カービン.md "wikilink")ライフルとしてSG553が登場。
-
-::; 『[BF4](https://ja.wikipedia.org/wiki/バトルフィールド4 "wikilink")』
-
-::: 全[兵科](../Page/兵科.md "wikilink")共通のカービンライフルとしてSG553が登場。
-
-::; 『[BFH](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
-
-:; 『[レインボーシックス](../Page/レインボーシックス.md "wikilink")シリーズ』
-
-::; 『[レインボーシックス ベガス](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス "wikilink")』
-
-::: 「552コマンドー｣の名称で登場。
-
-::; 『[レインボーシックス シージ](https://ja.wikipedia.org/wiki/レインボーシックス_シージ "wikilink")』
+:; 『[レインボーシックス シージ](https://ja.wikipedia.org/wiki/レインボーシックス_シージ "wikilink")』
 
   -
 
       -
         [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[特殊部隊](../Page/特殊部隊.md "wikilink")「[GSG-9](../Page/GSG-9.md "wikilink")」の攻撃側オペレーターの「IQ」のみ使用できる武器として「552 Command」という名前で登場。発売当初はメインウェポン中最強の威力を誇っていたが、何度かバージョンが入ったことにより弱体化している。
 
-:; 『[レッドクルシブル2](https://ja.wikipedia.org/wiki/レッドクルシブル2 "wikilink")』
-
-  -
-
-      -
-        「commando」という名称で登場。
+  - 『[レッドクルシブル2](https://ja.wikipedia.org/wiki/レッドクルシブル2 "wikilink")』
+    「commando」という名称で登場。
 
 ## 関連項目
 

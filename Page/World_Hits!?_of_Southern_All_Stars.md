@@ -1,7 +1,7 @@
 > この記事は[World Hits!\? of Southern All Stars](https://ja.wikipedia.org/wiki/World_Hits!\?_of_Southern_All_Stars)から翻訳されています。
 
 
-『**World Hits\!? of Southern All Stars**』（ワールドヒッツ・オブ・サザンオールスターズ）は、[関口和之](../Page/関口和之.md "wikilink")のアルバムであり、アーティスト名義は「**関口和之&砂山オールスターズ**」として発売された[カバーアルバム](https://ja.wikipedia.org/wiki/カバーアルバム "wikilink")。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**World Hits\!? of Southern All Stars**』（ワールドヒッツ・オブ・サザンオールスターズ）は、[関口和之](../Page/関口和之.md "wikilink")のアルバムであり、アーティスト名義は「**関口和之&砂山オールスターズ**」として発売された[カバー](../Page/カバー.md "wikilink")アルバム。[2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
 初回盤はデジパック仕様。
 

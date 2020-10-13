@@ -249,7 +249,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/新潟県.md" title="wikilink">新潟県</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/新潟総合テレビ" title="wikilink">新潟総合テレビ</a></p></td>
+<td><p><a href="../Page/NST新潟総合テレビ.md" title="wikilink">新潟総合テレビ</a></p></td>
 <td><p><small>水曜 25:30 - 25:55（2007年2月14日 - 2009年4月15日）</small><br />
 火曜　25:35 - 25:50（2009年4月21日 - 同年10月13日）</p></td>
 <td><p>19日遅れ</p></td>

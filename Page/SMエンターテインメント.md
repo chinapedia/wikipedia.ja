@@ -179,8 +179,8 @@
       - [スーパージュニア-T](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-T "wikilink")
       - [スーパージュニア-HAPPY](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-Happy "wikilink")
       - [スーパージュニア-D\&E](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-D&E "wikilink")
-  - [少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink") （しょうじょじだい、:ソニョシデ） - 2007年デビューの女性8人組（2014年9月末まで9人組）
-  - [SHINee](../Page/SHINee.md "wikilink") （シャイニー） - 2008年デビューの男性5人組
+  - [少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink") （しょうじょじだい、:ソニョシデ） - 2007年デビューの女性5人組（2014年9月末まで9人組、2017年10月10日まで8人組）
+  - [SHINee](../Page/SHINee.md "wikilink") （シャイニー） - 2008年デビューの男性4人組
   - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink") （エフエックス） - 2009年9月デビューの女性4人組（2015年8月末まで5人組）
   - [S.M. The Ballad](https://ja.wikipedia.org/wiki/S.M._The_Ballad "wikilink") （エス・エム・ザ・バラード）- 2010年結成されたプロジェクト。
   - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") （エクソ） - 2012年デビューの男性12人組。(現在は9人組)韓国で活動するEXO-K(韓国人6人組)と中国で活動するEXO-M(中国人1人＋韓国人2人)

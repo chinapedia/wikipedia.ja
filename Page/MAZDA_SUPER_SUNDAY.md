@@ -32,4 +32,4 @@
 
   - [MAZDA SUPER SUNDAY](http://www.tfm.co.jp/supersunday/)
 
-[Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:JFN系ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのバラエティ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:マツダ一社提供番組](https://ja.wikipedia.org/wiki/Category:マツダ一社提供番組 "wikilink")
+[Category:1999年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1999年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:JFN系ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオのバラエティ番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:マツダ一社提供番組](https://ja.wikipedia.org/wiki/Category:マツダ一社提供番組 "wikilink")

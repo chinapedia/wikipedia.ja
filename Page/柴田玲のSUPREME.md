@@ -1,7 +1,7 @@
 > この記事は[柴田玲のSUPREME](https://ja.wikipedia.org/wiki/柴田玲のSUPREME)から翻訳されています。
 
 
-**柴田玲のSUPREME（しばたれいのシュープリーム）**は、[TOKYO FMにて](../Page/エフエム東京.md "wikilink")2002年4月1日から2006年3月30日までの毎週平日の午前9:00～11:00にて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。パーソナリティーは[柴田玲](../Page/柴田玲.md "wikilink")。
+**柴田玲のSUPREME（しばたれいのシュープリーム）**は、[TOKYO FMにて](../Page/エフエム東京.md "wikilink")2002年4月1日から2006年3月30日まで、平日9:00-11:00にて放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。前番組の『[FMソフィア](https://ja.wikipedia.org/wiki/FMソフィア "wikilink")』から、女性向けの番組ターゲットを引き継いだ。パーソナリティーは[柴田玲](../Page/柴田玲.md "wikilink")。
 
 ## タイムテーブル
 
@@ -23,4 +23,4 @@
 
   - [柴田玲のSUPREME](http://www.tfm.co.jp/supreme/index.html)
 
-[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:TOKYO_FMのローカル番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMのローカル番組 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:TOKYO_FMのローカル番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMのローカル番組 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組‎ "wikilink")

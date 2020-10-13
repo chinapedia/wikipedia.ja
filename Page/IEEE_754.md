@@ -405,7 +405,7 @@ IEEE 754-1985 では実装の自由度が大きかった（符号化や例外発
 ## 外部リンク
 
   - [Web Based Converter](http://people.rit.edu/meseec/eecc250-winter99/IEEE-754hex32.html)
-  - [Java Applet Converter](http://www.h-schmidt.net/FloatApplet/IEEE754.html)
+  - [IEEE-754 Floating Point Converter](https://www.h-schmidt.net/FloatConverter/IEEE754.html)
   - [Converter as MS-Windows program](http://www.61131.com/download.htm)
   - [An Interview with the Old Man of Floating-Point](http://www.cs.berkeley.edu/~wkahan/ieee754status/754story.html)
 

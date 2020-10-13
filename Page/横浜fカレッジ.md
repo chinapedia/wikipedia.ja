@@ -1,7 +1,7 @@
 > この記事は[横浜fカレッジ](https://ja.wikipedia.org/wiki/横浜fカレッジ)から翻訳されています。
 
 
-**横浜fカレッジ**（よこはまエフカレッジ）は[横浜市](../Page/横浜市.md "wikilink")の[専門学校](../Page/専門学校.md "wikilink")。[ファッション](../Page/ファッション.md "wikilink")、[ブライダル](https://ja.wikipedia.org/wiki/ブライダル "wikilink")、[美容](https://ja.wikipedia.org/wiki/美容 "wikilink")の専門学校。運営者は[学校法人岩崎学園](../Page/学校法人岩崎学園.md "wikilink")。
+**横浜fカレッジ**（よこはまエフカレッジ）は[横浜市](../Page/横浜市.md "wikilink")の[専門学校](../Page/専門学校.md "wikilink")。[ファッション](../Page/ファッション.md "wikilink")、[ブライダル](https://ja.wikipedia.org/wiki/ブライダル "wikilink")、[美容](../Page/美容.md "wikilink")の専門学校。運営者は[学校法人岩崎学園](../Page/学校法人岩崎学園.md "wikilink")。
 
 ## 沿革
 

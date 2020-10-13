@@ -86,7 +86,7 @@ FNCは、FN社が期待をかけて市場に投入した製品であったが、
   - 『[Alliance of Valiant Arms](https://ja.wikipedia.org/wiki/Alliance_of_Valiant_Arms "wikilink")』
     ゲーム内[兵科](../Page/兵科.md "wikilink")「ライフルマン」のメイン[武器](../Page/武器.md "wikilink")として登場。
   - 『[メタルギアソリッドV](https://ja.wikipedia.org/wiki/メタルギアソリッドV "wikilink")』
-    「グラウンド・ゼロ」のメインミッションおよびエンディングにて[ビッグ・ボス](../Page/ビッグ・ボス.md "wikilink")が使用。
+    「グラウンド・ゼロ」のメインミッションおよびエンディングにて[ビッグ・ボス](../Page/ビッグ・ボス.md "wikilink")が使用。（本銃を基にデザインしたと思われる架空銃である。）
   - 『[レインボーシックス ベガス 2](https://ja.wikipedia.org/wiki/レインボーシックス_ベガス_2 "wikilink")』
     プレイヤー装備として登場。あまり性能は高くない。
   - 『[ドールズフロントライン](https://ja.wikipedia.org/wiki/ドールズフロントライン "wikilink")』

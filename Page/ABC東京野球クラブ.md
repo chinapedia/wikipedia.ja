@@ -30,7 +30,7 @@
 
 ## 元プロ野球選手の競技者登録
 
-  - [庄司大介](https://ja.wikipedia.org/wiki/庄司大介 "wikilink")外野手（元：[オリックス](../Page/オリックス・バファローズ.md "wikilink")）
+  - [庄司大介](https://ja.wikipedia.org/wiki/庄司大介 "wikilink")外野手（元：[オリックス](../Page/オリックス・バファローズ.md "wikilink")）2009年はコーチ兼任
   - [片山文男](../Page/片山文男.md "wikilink")投手（元：[ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）
 
 ## 脚注

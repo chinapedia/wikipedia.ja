@@ -1,28 +1,28 @@
 > この記事は[MY OLYMPIC](https://ja.wikipedia.org/wiki/MY_OLYMPIC)から翻訳されています。
 
 
-『**MY OLYMPIC**』（マイ・オリンピック）は、[JFN加盟](../Page/全国FM放送協議会.md "wikilink")38局制作の[オリンピック情報番組である](../Page/近代オリンピック.md "wikilink")。提供は[ロッテ](../Page/ロッテ.md "wikilink")（放送開始 - [2015年](../Page/2015年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")）→[東京海上日動](../Page/東京海上日動火災保険.md "wikilink")（2015年[4月1日](../Page/4月1日.md "wikilink") - ）。
+『**MY OLYMPIC**』（マイ・オリンピック）は、[JFN加盟](../Page/全国FM放送協議会.md "wikilink")38局制作の[オリンピック情報番組である](../Page/近代オリンピック.md "wikilink")。提供は[ロッテ](../Page/ロッテ.md "wikilink")（放送開始 - [2015年](../Page/2015年.md "wikilink")3月31日）、[東京海上日動](../Page/東京海上日動火災保険.md "wikilink")（2015年4月1日 - ）。
 
-本項目では、関連番組として放送されている、あるいは過去に放送された複数の番組についても記述する。
+本項目は、関連番組として放送されている、あるいは過去に放送された複数の番組も記述する。
 
 ## 番組概要
 
   - MY OLYMPIC
 
-[1999年](../Page/1999年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")放送開始。この番組ではナビゲーターが、オリンピック出場選手、ならびにその候補にインタビューしていくという構成。選手は1週間ずつ登場する。ちなみに[アテネオリンピックの頃には](../Page/2004年アテネオリンピック.md "wikilink")、現地にいたJFNパーソナリティ[井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink")と会話をしながら放送していた。[トリノオリンピック](https://ja.wikipedia.org/wiki/2006年トリノオリンピック "wikilink")・[ロンドンオリンピック期間中はJFNの特派員と電話をつないでいる](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")。番組の企画・監修として[日本オリンピック委員会](../Page/日本オリンピック委員会.md "wikilink")（JOC）が協力している。
+[1999年](../Page/1999年.md "wikilink")4月1日に放送を開始する。ナビゲーターが、オリンピック出場選手や候補者にインタビューする。選手は1週間ずつ登場する。[アテネオリンピックの頃は](../Page/2004年アテネオリンピック.md "wikilink")、現地にいたJFNパーソナリティ[井門宗之](https://ja.wikipedia.org/wiki/井門宗之 "wikilink")と会話をしながら放送していた。[トリノオリンピック](https://ja.wikipedia.org/wiki/2006年トリノオリンピック "wikilink")・[ロンドンオリンピック期間中はJFNの特派員と電話をつないでいる](https://ja.wikipedia.org/wiki/2012年ロンドンオリンピック "wikilink")。番組の企画・監修として[日本オリンピック委員会](../Page/日本オリンピック委員会.md "wikilink") (JOC) が協力している。
 
-[2012年](../Page/2012年.md "wikilink")3月で番組開始から13年間、番組ナビゲーターを務めていた[蒲田健](../Page/蒲田健.md "wikilink")が降板、翌月よりトリノ五輪[フィギュアスケート金メダリストの](../Page/2006年トリノオリンピックのフィギュアスケート競技.md "wikilink")[荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")が務めている。[2018年](../Page/2018年.md "wikilink")8月より[シドニー五輪](../Page/2000年シドニーオリンピック.md "wikilink")[女子マラソン金メダリストの](../Page/2000年シドニーオリンピックの陸上競技.md "wikilink")[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")がナビゲーターに就任。荒川と隔月交代で務めている。
+[2012年](../Page/2012年.md "wikilink")3月で番組開始から13年間、番組ナビゲーターを務めていた[蒲田健](../Page/蒲田健.md "wikilink")が降板し、翌月からトリノ五輪[フィギュアスケート金メダリストの](../Page/2006年トリノオリンピックのフィギュアスケート競技.md "wikilink")[荒川静香](https://ja.wikipedia.org/wiki/荒川静香 "wikilink")が務めている。[2018年](../Page/2018年.md "wikilink")8月より[シドニー五輪](../Page/2000年シドニーオリンピック.md "wikilink")[女子マラソン金メダリストの](../Page/2000年シドニーオリンピックの陸上競技.md "wikilink")[高橋尚子](https://ja.wikipedia.org/wiki/高橋尚子 "wikilink")がナビゲーターに就任。荒川と隔月交代で務めている。
 
   - 関連番組
 
-『MY OLYMPIC』と同様に選手などへのインタビューが基本構成となっている。
+『MY OLYMPIC』と同様に選手などへのインタビューを基本構成とする。
 
   - **MY OLYMPIC α**（マイ・オリンピック・アルファー）
-      - [2015年](../Page/2015年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")に放送開始。放送時間は月曜日から金曜日の14:55 - 15:00（一部地域は時差ネット）。2018年8月放送からは荒川と高橋が隔月交代で出演している。
+      - [2015年](../Page/2015年.md "wikilink")10月5日に放送を開始する。放送時間は月曜日から金曜日の14:55 - 15:00（一部地域は時差ネット）で、2018年8月放送から荒川と高橋が隔月交代で出演している。
   - **MY OLYMPIC+**（マイ・オリンピック・プラス）
-      - [2016年](../Page/2016年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink")から2018年[10月27日](../Page/10月27日.md "wikilink")まで放送。放送時間は毎週土曜 22:30 - 22:55。2016年度上半期は[三井住友銀行](../Page/三井住友銀行.md "wikilink")が提供していた\[1\]。
+      - [2016年](../Page/2016年.md "wikilink")1月2日から2018年10月27日まで放送した。放送時間は毎週土曜 22:30 - 22:55で、2016年度上半期は[三井住友銀行](../Page/三井住友銀行.md "wikilink")が提供した\[1\]。
   - **MY OLYMPIC STORY**（マイ・オリンピック・ストーリー）
-      - 2018年[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")に、『MY OLYMPIC+』の後継番組としてスタート。番組ナビゲーターとして[朝倉あき](../Page/朝倉あき.md "wikilink")が出演し、物語を朗読する[ドラマ](../Page/ドラマ.md "wikilink")パートとインタビューパートで構成されている。[2019年](../Page/2019年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")の放送からは、朝倉に替わり[池松壮亮](../Page/池松壮亮.md "wikilink")がナビゲーターを務める\[2\]。
+      - 2018年11月3日に、『MY OLYMPIC+』の後継番組として開始した。番組ナビゲーターは[朝倉あき](../Page/朝倉あき.md "wikilink")が担当し、物語を朗読する[ドラマ](../Page/ドラマ.md "wikilink")パートとインタビューパートで構成する。[2019年](../Page/2019年.md "wikilink")4月6日の放送から、朝倉に替わり[池松壮亮](../Page/池松壮亮.md "wikilink")がナビゲーターを務める\[2\]。
 
 ## 出演者
 
@@ -71,13 +71,13 @@
 
 ## ネット局
 
-MY OLYMPICおよびMY OLYMPIC+→MY OLYMPIC STORYは前番組『[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")』からの継続でネットワークセールスとなるため全国同時ネットのため、割愛とする。
+MY OLYMPIC、MY OLYMPIC+、MY OLYMPIC STORYは前番組『[EXILE EX-PRESS](https://ja.wikipedia.org/wiki/EXILE_EX-PRESS "wikilink")』から継続でネットワークセールスで全国同時ネットのために割愛する。
 
-MY OLYMPICはFM大阪・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 - 木曜） / ONE MORNING FRIDAY（金曜）](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』に内包\[3\]。かつては東京・大阪・福岡などの基幹局で放送時間が異なる例が多々あった\[4\]。その後は徐々に放送時間がそろえられていったが、福岡では2019年3月まで自主編成を優先していたため1時間先行放送していた。同年4月より同時ネットへ移行し、放送開始から20年でようやく全局同時放送へこぎつけた。
+MY OLYMPICはFM大阪・FM AICHI・FM FUKUOKA以外は『[ONE MORNING（月曜 - 木曜） / ONE MORNING FRIDAY（金曜）](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』に内包される\[3\]。かつては東京・大阪・福岡などの基幹局で放送時間が異なる例が多々あった\[4\]。その後は徐々に放送時間がそろえられていったが、福岡は2019年3月まで自主編成を優先して1時間先行放送していたが4月から同時ネットへ移行し、放送開始から20年で全局同時放送となる。
 
-MY OLYMPIC αはTOKYO FMでは独立に、JFN系列の一部地域では『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送\[5\]。
+MY OLYMPIC αはTOKYO FMでは単独で、JFN系列の一部地域は『[Seasoning -season your life with music-](https://ja.wikipedia.org/wiki/Seasoning_-season_your_life_with_music- "wikilink")』（月曜 - 木曜）、『[FRIDAY GOES ON\! 〜あっ、それいただきっ\!〜](../Page/FRIDAY_GOES_ON!_〜あっ、それいただきっ!〜.md "wikilink")』（金曜）にそれぞれ内包して放送\[5\]している。
 
-全局、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」・「radiko.jpプレミアム」で聴取可能。放送時間の早い順から記載。
+全局ともに「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」で聴取可能である。放送時間の早い順に下記する。
 
 <table>
 <thead>

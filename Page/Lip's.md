@@ -67,5 +67,5 @@
 
 [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink")
 
-1.  [allcinema 吉村夏枝](http://www.allcinema.net/prog/show_c.php?num_c=152919)
+1.  [allcinema 吉村夏枝](https://www.allcinema.net/cinema/152919)
 2.  [Hatena 山本京子](http://d.hatena.ne.jp/kingallrange/)

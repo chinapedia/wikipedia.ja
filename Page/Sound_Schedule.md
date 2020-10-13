@@ -30,7 +30,7 @@
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
 <th><p>収録曲</p></th>
-<th><p>備考</p></th>
+<th><p>最高位</p></th>
 </tr>
 </thead>
 <tbody>
@@ -61,7 +61,7 @@
 <li>世直しブッダ[3:49]（作詞・作曲：大石昌良／編曲：Sound Schedule）</li>
 <li>あなたを想う旅[4:26]（作詞・作曲：大石昌良／編曲：Sound Schedule）</li>
 </ol></td>
-<td><p>オリコン97位</p></td>
+<td><p>97位</p></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -69,7 +69,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/幼なじみ_(Sound_Scheduleの曲)" title="wikilink">幼なじみ</a></strong></p></td>
 <td><p>YCDL-00006</p></td>
 <td></td>
-<td><p>オリコン29位</p></td>
+<td><p>29位</p></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -77,7 +77,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ピーターパン・シンドローム" title="wikilink">ピーターパン・シンドローム</a></strong></p></td>
 <td><p>YCDL-00007</p></td>
 <td></td>
-<td><p>オリコン48位</p></td>
+<td><p>48位</p></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
@@ -85,7 +85,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ことばさがし" title="wikilink">ことばさがし</a></strong></p></td>
 <td><p>YCDL-00008</p></td>
 <td></td>
-<td><p>オリコン25位</p></td>
+<td><p>25位</p></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
@@ -93,7 +93,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/さらばピニャコラーダ" title="wikilink">さらばピニャコラーダ</a></strong></p></td>
 <td><p>YCDL-00009</p></td>
 <td></td>
-<td><p>オリコン25位</p></td>
+<td><p>25位</p></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
@@ -117,7 +117,7 @@
 <td><p><strong>TIME MACHINE</strong></p></td>
 <td><p>DDCZ-2114</p></td>
 <td></td>
-<td><p>オリコン67位</p></td>
+<td><p>67位</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -139,6 +139,7 @@
 <th><p>発売日</p></th>
 <th><p>タイトル</p></th>
 <th><p>規格品番</p></th>
+<th><p>最高位</p></th>
 <th><p>備考</p></th>
 </tr>
 </thead>
@@ -148,14 +149,16 @@
 <td><p>2000年<a href="../Page/11月1日.md" title="wikilink">11月1日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ここからはじまるストーリー" title="wikilink">ここからはじまるストーリー</a></strong></p></td>
 <td><p>KGH-C-007</p></td>
+<td></td>
 <td><p>インディーズ盤<br />
-2011年7月13日 i-Tunes配信開始</p></td>
+2011年7月13日復刻配信開始[2]</p></td>
 </tr>
 <tr class="even">
 <td><p>2nd</p></td>
 <td><p>2002年<a href="../Page/7月10日.md" title="wikilink">7月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/イマココニアルモノ" title="wikilink">イマココニアルモノ</a></strong></p></td>
 <td><p>YCCL-00001</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -164,6 +167,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/456_(アルバム)" title="wikilink">456</a></strong></p></td>
 <td><p>YCCL-00003</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -171,29 +175,34 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ビオトープ_(アルバム)" title="wikilink">ビオトープ</a></strong></p></td>
 <td><p>YCCL-10001</p></td>
 <td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p>2011年<a href="../Page/9月14日.md" title="wikilink">9月14日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/PLACE_(Sound_Scheduleのアルバム)" title="wikilink">PLACE</a></strong></p></td>
 <td><p>YCCL-10008</p></td>
-<td><p>オリコン47位</p></td>
+<td><p>47位</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p>2012年<a href="../Page/9月5日.md" title="wikilink">9月5日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FUTURE_(Sound_Scheduleのアルバム)" title="wikilink">FUTURE</a></strong></p></td>
 <td><p>YCCL-10009B</p></td>
-<td><p>オリコン79位</p></td>
+<td><p>79位</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p>2014年<a href="../Page/9月10日.md" title="wikilink">9月10日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LIVE_(Sound_Scheduleのアルバム)" title="wikilink">LIVE</a></strong></p></td>
 <td><p>DDCZ-1971</p></td>
-<td><p>オリコン73位</p></td>
+<td><p>73位</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -205,20 +214,20 @@
 
 ### ベストアルバム
 
-|     | 発売日                                       | タイトル                                                                            | 規格品番          | 備考      |
-| --- | ----------------------------------------- | ------------------------------------------------------------------------------- | ------------- | ------- |
-| 1st | 2006年[9月20日](../Page/9月20日.md "wikilink") | **[THE COMPLETE SS](https://ja.wikipedia.org/wiki/THE_COMPLETE_SS "wikilink")** | YCCL-10004    | オリコン44位 |
-| 2nd | 2019年[3月27日](../Page/3月27日.md "wikilink") | **Sound Schedule ALL TIME BEST**                                                | YCCL-10010～11 | オリコン42位 |
-|     |                                           |                                                                                 |               |         |
+|     | 発売日                                       | タイトル                                                                            | 規格品番          | 最高位 |
+| --- | ----------------------------------------- | ------------------------------------------------------------------------------- | ------------- | --- |
+| 1st | 2006年[9月20日](../Page/9月20日.md "wikilink") | **[THE COMPLETE SS](https://ja.wikipedia.org/wiki/THE_COMPLETE_SS "wikilink")** | YCCL-10004    | 44位 |
+| 2nd | 2019年[3月27日](../Page/3月27日.md "wikilink") | **Sound Schedule ALL TIME BEST**                                                | YCCL-10010～11 | 42位 |
+|     |                                           |                                                                                 |               |     |
 
 ### 映像作品
 
-|     | 発売日                                       | タイトル                                                                                                                                                                  | 規格品番       | 収録曲      |
-| --- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | -------- |
-| 1st | 2005年[8月24日](../Page/8月24日.md "wikilink") | **[SS FILMS 〜Sound Schedule 8 Clips of Singles〜](https://ja.wikipedia.org/wiki/SS_FILMS_〜Sound_Schedule_8_Clips_of_Singles〜 "wikilink")**                             | YCBL-10001 | オリコン149位 |
-| 2nd | 2006年[2月8日](../Page/2月8日.md "wikilink")   | **[SS LIVES 〜Sound Schedule Live Tour "you can't beat that."〜](https://ja.wikipedia.org/wiki/SS_LIVES_〜Sound_Schedule_Live_Tour_"you_can't_beat_that."〜 "wikilink")** | YCBL-10002 | オリコン60位  |
-| 3rd | 2020年[3月5日](../Page/3月5日.md "wikilink")   | **[Sound Schedule Live Tour “PLACE2019" LIQUIDROOM](https://ja.wikipedia.org/wiki/Sound_Schedule_Live_Tour_“PLACE2019"_LIQUIDROOM "wikilink")**                       | YCXL-10001 | オリコン62位  |
-|     |                                           |                                                                                                                                                                       |            |          |
+|     | 発売日                                       | タイトル                                                                                                                                                                  | 規格品番       | 最高位  |
+| --- | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---- |
+| 1st | 2005年[8月24日](../Page/8月24日.md "wikilink") | **[SS FILMS 〜Sound Schedule 8 Clips of Singles〜](https://ja.wikipedia.org/wiki/SS_FILMS_〜Sound_Schedule_8_Clips_of_Singles〜 "wikilink")**                             | YCBL-10001 | 149位 |
+| 2nd | 2006年[2月8日](../Page/2月8日.md "wikilink")   | **[SS LIVES 〜Sound Schedule Live Tour "you can't beat that."〜](https://ja.wikipedia.org/wiki/SS_LIVES_〜Sound_Schedule_Live_Tour_"you_can't_beat_that."〜 "wikilink")** | YCBL-10002 | 60位  |
+| 3rd | 2020年[3月5日](../Page/3月5日.md "wikilink")   | **[Sound Schedule Live Tour “PLACE2019" LIQUIDROOM](https://ja.wikipedia.org/wiki/Sound_Schedule_Live_Tour_“PLACE2019"_LIQUIDROOM "wikilink")**                       | YCXL-10001 | 62位  |
+|     |                                           |                                                                                                                                                                       |            |      |
 
 ### スコアブック
 
@@ -239,7 +248,7 @@
 
 ## 出演番組
 
-  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2003年1月24日）\[2\]
+  - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2003年1月24日）\[3\]
   - [ゴーゴーモンキーズ](../Page/ゴーゴーモンキーズ.md "wikilink")（[MBSラジオ](https://ja.wikipedia.org/wiki/MBSラジオ "wikilink")、火曜日・23:45-25:00）※大石のみ出演
   - オーイシ加藤のニコ生☆音楽王
 
@@ -282,7 +291,7 @@
   - 2016年06月26日 - ネコフェス2016 くだけねこロックフェスティバル
   - 2017年06月25日 - ネコフェス2017 -KUDAKENEKO ROCK FESTIVAL-
   - 2018年06月24日 - ネコフェス2018 -KUDAKENEKO ROCK FESTIVAL-
-  - 2019年06月23日 - ネコフェス2019 -KUDAKENEKO ROCK FESTIVAL-\[3\]
+  - 2019年06月23日 - ネコフェス2019 -KUDAKENEKO ROCK FESTIVAL-\[4\]
 
 ## 外部リンク
 
@@ -306,5 +315,6 @@
 [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ヤマハミュージックコミュニケーションズのアーティスト](https://ja.wikipedia.org/wiki/Category:ヤマハミュージックコミュニケーションズのアーティスト "wikilink") [Category:兵庫県立大学出身の人物](https://ja.wikipedia.org/wiki/Category:兵庫県立大学出身の人物 "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink")
 
 1.
-2.  [ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")を演奏。
-3.  Sound Shimodule(Bass下上貴弘)として出演。
+2.
+3.  [ピーターパン・シンドローム](https://ja.wikipedia.org/wiki/ピーターパン・シンドローム "wikilink")を演奏。
+4.  Sound Shimodule(Bass下上貴弘)として出演。

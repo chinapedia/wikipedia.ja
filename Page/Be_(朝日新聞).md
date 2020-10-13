@@ -60,8 +60,8 @@
   - [朝日新聞・ベルバラキッズわーるど（be on saturday 掲載の池田理代子のベルサイユのばらのパロディー4コマ漫画とコラム。一部有料会員限定ページあり。）](http://www.asahi.com/bbkids/)
   - [ののちゃんのDo\!科学](http://www.asahi.com/edu/nie/tamate/)
   - [be evening（朝日夕刊be）](http://www.asahi.com/be_eve/)
-  - [BS朝日・be on TV](http://www.bs-asahi.co.jp/be/)
-  - [BS朝日・beメディカル](http://www.bs-asahi.co.jp/medical/)
+  - [BS朝日・be on TV](https://archives.bs-asahi.co.jp/be/)
+  - [BS朝日・beメディカル](https://archives.bs-asahi.co.jp/medical/)
 
 [Category:朝日新聞の記事](https://ja.wikipedia.org/wiki/Category:朝日新聞の記事 "wikilink")
 

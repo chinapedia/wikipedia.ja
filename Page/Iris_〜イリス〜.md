@@ -3,7 +3,7 @@
 
 『**Iris 〜イリス〜**』は、[KIDから](../Page/KID_\(ゲームブランド\).md "wikilink")[2003年](../Page/2003年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink")に発売された[PlayStation 2用](../Page/PlayStation_2.md "wikilink")[恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/恋愛アドベンチャーゲーム "wikilink")。同年[8月7日](../Page/8月7日.md "wikilink")には[ドリームキャスト](../Page/ドリームキャスト.md "wikilink")版も発売されている。また、[2006年](../Page/2006年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink")には[CEROレーティング](../Page/コンピュータエンターテインメントレーティング機構.md "wikilink")12歳以上対象のPS2廉価版が発売された。
 
-同ジャンルのゲームの多くが高校を舞台としているのに対し、中学生を物語の中心に据えているのが本作の特徴である。
+同ジャンルのゲームの多くが高校を舞台としているのに対し、本作は受験を控えた中学生を物語の中心に据えている\[1\]。
 
 ## 登場人物
 
@@ -46,8 +46,14 @@
   - 五十嵐 麗子（いがらし れいこ）
     声 : 那須めぐみ
     11月26日生まれ。身長160cm。血液型AB型。
-    音楽教師で、夏実の親友。家にまで遊びに来ることもある。ふだんは優しいのだが、たまにわがままな一面も見せる。好きなものはピアノ、猫。嫌いなものは徹夜。
+    音楽教師で、夏実の親友。家にまで遊びに来ることもある。ふだんは優しいが、たまにわがままな一面も見せる。好きなものはピアノ、猫。嫌いなものは徹夜。
     ビジュアルファンブックに麗子がヒロインの書き下ろし小説が掲載された。
+
+## 開発
+
+### 音楽
+
+音楽を手掛けた[阿保剛](../Page/阿保剛.md "wikilink")が2020年の座談会の中で話したことによると、本作の音楽はほんわかした感じのものが多く、緊迫した感じのものはほとんどなかったとしている。また、本作の音楽には、[シンセサイザー](../Page/シンセサイザー.md "wikilink")でサンプリングした、ベル系の音色が使われている。
 
 ## スタッフ
 
@@ -77,6 +83,8 @@
 
   - オリジナルサウンドトラック Iris イリス（[キングレコード](../Page/キングレコード.md "wikilink")、KICA-1290）
 
+## 脚注
+
 ## 関連項目
 
   - [てんたま](../Page/てんたま.md "wikilink")
@@ -100,4 +108,6 @@
 
   - [Million Ｋiss](http://millio.lovepop.jp/)（主題歌ボーカル"Millio"のサイト）
 
-[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:KIDのゲームソフト](https://ja.wikipedia.org/wiki/Category:KIDのゲームソフト "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink")
+[Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:ドリームキャスト用ソフト](https://ja.wikipedia.org/wiki/Category:ドリームキャスト用ソフト "wikilink") [Category:ギャルゲー](https://ja.wikipedia.org/wiki/Category:ギャルゲー "wikilink") [Category:恋愛アドベンチャーゲーム](https://ja.wikipedia.org/wiki/Category:恋愛アドベンチャーゲーム "wikilink") [Category:2003年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2003年のコンピュータゲーム "wikilink") [Category:KIDのゲームソフト](https://ja.wikipedia.org/wiki/Category:KIDのゲームソフト "wikilink") [Category:ファミ通文庫](https://ja.wikipedia.org/wiki/Category:ファミ通文庫 "wikilink") [Category:中学校を舞台とした作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした作品 "wikilink")
+
+1.

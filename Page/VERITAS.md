@@ -1,7 +1,7 @@
 > この記事は[VERITAS](https://ja.wikipedia.org/wiki/VERITAS)から翻訳されています。
 
 
-**VERITAS**（**ベリタス**）とは、アメリカの情報管理を中心としたIT企業である**Veritas Technologies**（**ベリタス・テクノロジーズ**）のこと。元々の源流は、後に、[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")のコンサルタントとして引き抜かれるジェフ・ロスチャイルドらにより、[UNIX](../Page/UNIX.md "wikilink")系の各種基幹系[ミドルウェア](../Page/ミドルウェア.md "wikilink")の開発・販売を中心にビジネス展開をしていた**VERITAS Software**である。
+**VERITAS**（**ベリタス**）とは、アメリカの情報管理を中心としたIT企業である**Veritas Technologies**（**ベリタス・テクノロジーズ**）のこと。元々の源流は、後に、[フェイスブック](https://ja.wikipedia.org/wiki/フェイスブック "wikilink")の[コンサルタント](../Page/コンサルタント.md "wikilink")として引き抜かれるジェフ・ロスチャイルドらにより、[UNIX](../Page/UNIX.md "wikilink")系の各種基幹系[ミドルウェア](../Page/ミドルウェア.md "wikilink")の開発・販売を中心にビジネス展開をしていた**VERITAS Software**である。
 
 2004年に[シマンテック](../Page/シマンテック.md "wikilink")に買収合併されたが、2015年にシマンテックから情報管理部門が分割化される際、**VERITAS**の名前が復活することとなった。当初の社名は **Tolerant Systems**（**トレラント・システムズ**）。シマンテックからの買収後、引き抜かれる迄は、悠々自適な生活を送っていた。
 

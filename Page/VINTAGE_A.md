@@ -52,7 +52,7 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>M-8 「Tokyo Boogie Night」</p></td>
+<td><p>M-8 「Tokyo Boogie Night <New Recording>」</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/TBSラジオ&amp;コミュニケーションズ" title="wikilink">TBSラジオ他</a>『<a href="../Page/林原めぐみのTokyo_Boogie_Night.md" title="wikilink">林原めぐみのTokyo Boogie Night</a>』初代<a href="../Page/主題歌.md" title="wikilink">エンディングテーマ</a></p></td>
 <td></td>
 <td></td>
@@ -112,7 +112,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>M-12「心のプラネット<NUKU NUKU Version>」</p></td>
+<td><p>M-12「心のプラネット <NUKU NUKU Version>」</p></td>
 <td><p>OVA『万能文化猫娘』イメージソング</p></td>
 <td><p>原曲：絵里香</p></td>
 <td></td>
@@ -121,7 +121,7 @@
 </tr>
 <tr class="even">
 <td><p>7thアルバム『<a href="../Page/Bertemu.md" title="wikilink">Bertemu</a>』</p></td>
-<td><p>M-15「FLY ME TO THE MOON<AYANAMI Version>」</p></td>
+<td><p>M-15「FLY ME TO THE MOON <AYANAMI Version>」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン" title="wikilink">新世紀エヴァンゲリオン</a>』エンディングテーマ</p></td>
 <td><p>1996年11月1日</p></td>
 <td><p>KICS-590</p></td>
@@ -138,7 +138,7 @@
 <td><p>KICS-640</p></td>
 </tr>
 <tr class="even">
-<td><p>M-14「魂のルフラン<Aqua Groove Mix>」</p></td>
+<td><p>M-14「魂のルフラン <Aqua Groove Mix>」</p></td>
 <td><p><a href="../Page/東映.md" title="wikilink">東映</a>配給アニメ映画『<a href="../Page/新世紀エヴァンゲリオン劇場版_シト新生.md" title="wikilink">新世紀エヴァンゲリオン劇場版 シト新生</a>』主題歌</p></td>
 <td><p>原曲：<a href="../Page/高橋洋子_(歌手).md" title="wikilink">高橋洋子</a></p></td>
 <td></td>

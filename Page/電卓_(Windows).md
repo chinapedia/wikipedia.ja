@@ -31,9 +31,8 @@ Windows 10ではUWPアプリのみの搭載となった。ただし[Long Term Se
 
 ## 外部リンク
 
-  - [GitHub リポジトリ](https://github.com/microsoft/calculator)
-  - [Windows 電卓 - Microsoft Store](https://www.microsoft.com/ja-jp/p/windows-calculator/9wzdncrfhvn5)
-
+  -
+  -
 [Category:電卓](https://ja.wikipedia.org/wiki/Category:電卓 "wikilink") [Category:Windowsのコンポーネント](https://ja.wikipedia.org/wiki/Category:Windowsのコンポーネント "wikilink") [Category:1985年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1985年のソフトウェア "wikilink") [Category:数学ソフトウェア](https://ja.wikipedia.org/wiki/Category:数学ソフトウェア "wikilink")
 
 1.

@@ -29,21 +29,9 @@
 ## 受講方式
 
   - 「Traditional 2-year program」 8月に入学し翌々年5月に卒業する最も一般的な受講方式。[秋学期](https://ja.wikipedia.org/wiki/秋学期 "wikilink")と[春学期](https://ja.wikipedia.org/wiki/春学期 "wikilink")に分かれており、1年目は[必修科目](https://ja.wikipedia.org/wiki/必修科目 "wikilink")、2年目は[選択科目](https://ja.wikipedia.org/wiki/選択科目 "wikilink")を取る事が多い。
-
-<!-- end list -->
-
   - 「iMBA」 [インターネット](../Page/インターネット.md "wikilink")を使った[通信教育](../Page/通信教育.md "wikilink")[プログラム](../Page/プログラム.md "wikilink")。「Independent MBA」の略。パソコンが普及する大分前の1977年からeラーニングコースとして開設されており、アメリカで最も古い通信教育プログラムのひとつ。但し通信教育といっても年3回はキャンパスで授業を受ける必要がある。「Traditional 2-year program」を受講していたが途中でインターンシップが入り、残りの単位を「iMBA」で取る学生も多い。
-
-<!-- end list -->
-
   - 「Accelerated MBA」 4年以上の職歴があり大学で優秀なGPAを収め、[GMATが](../Page/Graduate_Management_Admission_Test.md "wikilink")650点以上の者のみ受講可能な方式。11ヶ月で36単位取得する事で学位を取得。
-
-<!-- end list -->
-
   - 「Dual Degree」 [MBAの他に](../Page/経営学修士.md "wikilink")[シラキューズ大学](https://ja.wikipedia.org/wiki/シラキューズ大学 "wikilink")内の他学部を並行して勉強する方法。組み合わせにより名称がつけられている。（法科大学院との組み合わせ：MBA/JD、ニューハウスもしくは[SUNY](https://ja.wikipedia.org/wiki/SUNY "wikilink")環境科学部との組み合わせ：MBA/MS、[マックスウェル行政大学院](../Page/マックスウェル行政大学院.md "wikilink")との組み合わせ：MBA/MPAなど）
-
-<!-- end list -->
-
   - 「MS（Master of Science）」　[MBAとは別物だが](../Page/経営学修士.md "wikilink")「会計」や「メディア・マネージメント」専門コースが用意されている
 
 ## MBAランキング

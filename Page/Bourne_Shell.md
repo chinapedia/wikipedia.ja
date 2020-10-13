@@ -1,7 +1,7 @@
 > この記事は[Bourne Shell](https://ja.wikipedia.org/wiki/Bourne_Shell)から翻訳されています。
 
 
-**Bourne Shell**(**ボーンシェル**)は、[Unix Version 7](../Page/Version_7_Unix.md "wikilink") の[Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")である。[POSIX](../Page/POSIX.md "wikilink")規格で規定されるUnix系システムにおいて `/bin/sh` はBourne Shell互換のシェルであり、`/bin/sh`はBourne Shellかその互換プログラムへの[シンボリックリンク](https://ja.wikipedia.org/wiki/シンボリックリンク "wikilink")か[ハードリンク](../Page/ハードリンク.md "wikilink")になっている。多くのUnix系システムでは現在でもシェルスクリプトを記述するのに`/bin/sh`が一般的に使われている。ただし、ユーザの使うログインシェルにはより新しいシェルを用いることが一般的である。
+**Bourne Shell**(**ボーンシェル**)は、[Unix Version 7](../Page/Version_7_Unix.md "wikilink") の[Unixシェル](https://ja.wikipedia.org/wiki/Unixシェル "wikilink")である。[POSIX](../Page/POSIX.md "wikilink")規格で規定されるUnix系システムにおいて `/bin/sh` はBourne Shell互換のシェルであり、`/bin/sh`はBourne Shellかその互換プログラムへの[シンボリックリンク](https://ja.wikipedia.org/wiki/シンボリックリンク "wikilink")か[ハードリンク](../Page/ハードリンク.md "wikilink")になっている。多くのUnix系システムでは現在でもシェルスクリプトを記述するのに`/bin/sh`が一般的に使われている。ただし、ユーザが通常使うシェルにはより新しいシェルを用いることが一般的である。
 
 [AT\&T](../Page/AT&T.md "wikilink")[ベル研究所](../Page/ベル研究所.md "wikilink")の[スティーブン・ボーン](../Page/スティーブン・ボーン.md "wikilink")が開発し、それまでの [Thompson shell](https://ja.wikipedia.org/wiki/Thompson_shell "wikilink") を置き換えた。いずれもコマンド名は **`sh`** である。[Version 7 Unix](../Page/Version_7_Unix.md "wikilink") の一部として1977年に大学等に配布された。対話型のコマンドインタプリタとしても使われるが、[スクリプト言語](../Page/スクリプト言語.md "wikilink")としての性格が強く、一般に構造化プログラムを作り出すと考えられている全ての機能を含んでいる。
 

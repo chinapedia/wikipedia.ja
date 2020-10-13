@@ -55,4 +55,4 @@
 
   - [株式会社エーチーム](https://www.ateam-japan.com/)
 
-[Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:A-team_(芸能プロダクション)](https://ja.wikipedia.org/wiki/Category:A-team_\(芸能プロダクション\) "wikilink") [Category:バーニングプロダクション系列](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列 "wikilink") [Category:1996年設立の企業](https://ja.wikipedia.org/wiki/Category:1996年設立の企業 "wikilink")
+[Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:芸能プロダクション](https://ja.wikipedia.org/wiki/Category:芸能プロダクション "wikilink") [Category:A-team_(芸能プロダクション)](https://ja.wikipedia.org/wiki/Category:A-team_\(芸能プロダクション\) "wikilink") [Category:バーニングプロダクション系列](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列 "wikilink") [Category:1996年設立の企業](https://ja.wikipedia.org/wiki/Category:1996年設立の企業 "wikilink") [Category:麻布](https://ja.wikipedia.org/wiki/Category:麻布 "wikilink")

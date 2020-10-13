@@ -339,14 +339,14 @@ auにおいては[キャリアショップ](https://ja.wikipedia.org/wiki/キャ
 
     auブランド発足以前は「IDOプラザ」（関東中部）、「セルラースポット」（関東中部以外）などの名称で営業展開されていた。[ツーカー](../Page/ツーカー.md "wikilink")がKDDIに吸収合併されてからは、ツーカーのauへの契約変更サービスを行うことに伴い「ツーカーショップでありながらau端末を併売する」などの過渡期を経て、ツーカーショップからauショップに転換した店舗もある。
 
-    KDDIの直営店\[115\]は2020年現在、au SHINJUKU・au NAGOYA・au OSAKA\[116\]・au FUKUOKA・au HAKATA\[117\]・au SAPPORO\[118\]・au みなとみらい\[119\]・au SENDAI\[120\]・au HONJOWASEDA・au KYOTO・au KASHIWA・au OMIYA・au UENO・au 渋谷スクランブルスクエア・au SHIBUYA MODI・au TACHIKAWA・au ABENOが、沖縄セルラー直営店としてはau NAHAがある。これらはNTTドコモのドコモスマートフォンラウンジと同じく通信キャリアによるショールームの役割を担っているが、auショップとして各種手続きの受付にも対応している。かつて、東京原宿に[KDDI デザイニングスタジオがあったが](../Page/KDDI_デザイニングスタジオ.md "wikilink")、2014年11月16日に閉店している。
+    KDDIの直営店\[115\]は2020年現在、au SHINJUKU・au NAGOYA・au OSAKA\[116\]・au FUKUOKA・au HAKATA\[117\]・au SAPPORO\[118\]・au みなとみらい\[119\]・au SENDAI\[120\]・au HONJOWASEDA・au KYOTO・au KASHIWA・au OMIYA・au UENO・au 渋谷スクランブルスクエア・au SHIBUYA MODI・au TACHIKAWA・au ABENOが、沖縄セルラー直営店としてはau NAHAがある。これらはNTTドコモのドコモスマートフォンラウンジと同じく通信キャリアによるショールームの役割を担っているが、auショップとして各種手続きの受付にも対応している。かつて、東京原宿に[KDDI デザイニングスタジオがあったが](../Page/KDDI_デザイニングスタジオ.md "wikilink")、2014年11月16日に閉店している。また、2020年9月26日には、au 5G体感施設とKDDI直営店機能を併せ持ったコンセプトショップ「GINZA 456 Created by KDDI」がオープンした\[121\]。
 
   - PiPit（ピピット）
 
 <!-- end list -->
 
   -
-    [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が一次代理店となり、全国各地のトヨタ[販売会社が二次代理店として運営しているショップ](../Page/自動車ディーラー.md "wikilink")。auショップ同等に修理や諸手続の受付に対応しているが、KDDI側では店舗情報について積極的に案内を行っておらず、PiPitを統括するトヨタ自動車も店舗情報を含めたポータルサイトを閉鎖したため、各地域のトヨタ販売会社の公式サイトやチラシなどローカル広告でしか周知されていない。KDDI発足時にDDIポケット（現:[ワイモバイル](../Page/ワイモバイル.md "wikilink")）の販売を開始したことから現在も一部店舗で[ウィルコム](../Page/ウィルコム.md "wikilink")\[121\]の取扱いを継続している。PiPitではなく、auショップを別途運営するトヨタ販売会社や[トヨタグループ](../Page/トヨタグループ.md "wikilink")会社もある。
+    [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")が一次代理店となり、全国各地のトヨタ[販売会社が二次代理店として運営しているショップ](../Page/自動車ディーラー.md "wikilink")。auショップ同等に修理や諸手続の受付に対応しているが、KDDI側では店舗情報について積極的に案内を行っておらず、PiPitを統括するトヨタ自動車も店舗情報を含めたポータルサイトを閉鎖したため、各地域のトヨタ販売会社の公式サイトやチラシなどローカル広告でしか周知されていない。KDDI発足時にDDIポケット（現:[ワイモバイル](../Page/ワイモバイル.md "wikilink")）の販売を開始したことから現在も一部店舗で[ウィルコム](../Page/ウィルコム.md "wikilink")\[122\]の取扱いを継続している。PiPitではなく、auショップを別途運営するトヨタ販売会社や[トヨタグループ](../Page/トヨタグループ.md "wikilink")会社もある。
   - auプレイス（エーユープレイス）
     auショップよりも取扱サービスが限定された形態のキャリアショップ。2000年代中盤以降はauショップへの転換や閉店等で減少したが、NTTドコモグループのドコモスポット等と同等の店舗であった。主に旧DDIセルラー地域に多く見られた。
   - auスクエア（エーユースクエア）
@@ -367,11 +367,11 @@ auにおいては[キャリアショップ](https://ja.wikipedia.org/wiki/キャ
   - 「一緒にいこう。」(2019年1月1日 - 現在)
   - 「その人は突然あらわれた。」(2019年5月15日 - 現在)
   - 「新しい物語がはじまった。」(2019年5月31日 - 現在)
-  - 「おもしろいほうの未来へ。」(2019年5月15日 - 現在)\[122\]
+  - 「おもしろいほうの未来へ。」(2019年5月15日 - 現在)\[123\]
 
 ### 過去
 
-  - 「**a**ccess to **u** (you) 〜あなたに、あう。」（最初期）\[123\]\[124\]
+  - 「**a**ccess to **u** (you) 〜あなたに、あう。」（最初期）\[124\]\[125\]
   - 「感動ケータイへ、au」（2004年11月1日 - 2005年12月）
   - 「Customer Satisfaction 〜お客様満足主義でいこう\!〜」（2006年10月1日 - 2007年9月30日）
   - 「チャレンジの先に、新たなバリューを Create **it\!**」（2008年2月1日 - 2012年1月15日）
@@ -398,7 +398,7 @@ auにおいては[キャリアショップ](https://ja.wikipedia.org/wiki/キャ
   - 「笑おう」(2018年1月1日 - 2018年5月31日)
   - 「みんなつくろう」(2018年6月1日 - 2018年9月11日)
   - 「家族を話そう。」(2018年9月12日 - 2018年12月31日)
-  - 「あたらしい自由。」（2012年1月16日 - 2019年5月15日)\[125\]
+  - 「あたらしい自由。」（2012年1月16日 - 2019年5月15日)\[126\]
 
 ## イメージキャラクター
 
@@ -563,8 +563,9 @@ auにおいては[キャリアショップ](https://ja.wikipedia.org/wiki/キャ
 118. [北海道初のKDDI直営店「au SAPPORO」が6月23日オープン\!](http://news.kddi.com/kddi/corporate/newsrelease/2016/06/09/1852.html) - KDDI 2016年6月9日
 119. [「通信とライフスタイル」が融合したKDDI直営店「au みなとみらい」が10月6日オープン\!](http://news.kddi.com/kddi/corporate/newsrelease/2016/09/27/2052.html) - KDDI 2016年9月27日
 120. [KDDI直営店史上最大規模「au SENDAI」が12月28日12時オープン\!](http://news.kddi.com/kddi/corporate/newsrelease/2016/12/13/2205.html) - KDDI 2016年12月13日
-121. 2013年より[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）子会社。2014年6月1日に[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")と合併しており、後日[ワイモバイル](../Page/ワイモバイル.md "wikilink")に社名変更となり、ブランドも2014年8月1日付を以ってワイモバイルブランドとなる。
-122. [新しいブランドスローガン 〜KDDI ブランドは「Tomorrow, Together」、 au ブランドは「おもしろいほうの未来へ。」に変わります。〜](https://news.kddi.com/kddi/corporate/newsrelease/2019/05/15/pdf/press_20190515a.pdf)
-123.
+121. [au 5Gが体感できるKDDIコンセプトショップ「GINZA 456 Created by KDDI」を9月26日にオープン](https://news.kddi.com/kddi/corporate/newsrelease/2020/09/25/4690.html) - KDDI 2020年9月25日（2020年9月29日閲覧）
+122. 2013年より[ソフトバンクモバイル](https://ja.wikipedia.org/wiki/ソフトバンクモバイル "wikilink")（現・[ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")）子会社。2014年6月1日に[イー・アクセス](https://ja.wikipedia.org/wiki/イー・アクセス "wikilink")と合併しており、後日[ワイモバイル](../Page/ワイモバイル.md "wikilink")に社名変更となり、ブランドも2014年8月1日付を以ってワイモバイルブランドとなる。
+123. [新しいブランドスローガン 〜KDDI ブランドは「Tomorrow, Together」、 au ブランドは「おもしろいほうの未来へ。」に変わります。〜](https://news.kddi.com/kddi/corporate/newsrelease/2019/05/15/pdf/press_20190515a.pdf)
 124.
 125.
+126.

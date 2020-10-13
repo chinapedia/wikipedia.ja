@@ -250,9 +250,9 @@
 
 </div>
 
-  - 2020年9月20日現在
+  - 2020年9月29日現在
 
-★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))      ★  ★      ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Grenada.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bangladesh.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★
+★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))      ★  ★      ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Grenada.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bangladesh.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

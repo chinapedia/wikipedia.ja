@@ -34,6 +34,6 @@
 
   - [S\!ケータイ動画](http://mb.softbank.jp/mb/service/3G/contents/keitai_douga/)
 
-[Category:携帯電話_(ソフトバンク)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ソフトバンク\) "wikilink")
+[Category:携帯電話_(ソフトバンク)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ソフトバンク\) "wikilink") [Category:サービスを終了したビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/Category:サービスを終了したビデオ・オン・デマンド "wikilink")
 
 1.  <http://www.softbank.jp/ybb/info/service/140701-003/>

@@ -125,48 +125,55 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>SAW</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong>BLACKEE</strong></p></td>
 <td></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a>出身。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>Hardtackle 33</strong></p></td>
 <td><p>DJ</p></td>
 <td><p>-</p></td>
 <td></td>
 <td><p>DOGMAは中学校の後輩にあたる[36]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>Hardtackle 66</strong></p></td>
 <td><p>『1号棟107』</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>DJ KOHAKU</strong></p></td>
 <td><p>『1号棟107』</p></td>
 <td><p>MUTAは実弟。</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>DJ O-KI</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>DJ TAKUMI</strong></p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>太華</strong></p></td>
 <td><p><a href="../Page/ヒューマンビートボックス.md" title="wikilink">ヒューマンビートボックス</a></p></td>
 <td><p>「暴言」</p></td>

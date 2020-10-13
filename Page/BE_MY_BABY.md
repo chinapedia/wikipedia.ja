@@ -37,7 +37,7 @@
 
 ## カバー
 
-  - 布袋寅泰 - アルバム『ALL TIME SUPER BEST』（2005年）
+  - 布袋寅泰 - アルバム『[ALL TIME SUPER BEST](../Page/ALL_TIME_SUPER_BEST.md "wikilink")』（2005年）
   - [倖田來未](https://ja.wikipedia.org/wiki/倖田來未 "wikilink") - アルバム『[ETERNITY〜Love & Songs〜](https://ja.wikipedia.org/wiki/ETERNITY〜Love_&_Songs〜 "wikilink")』（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）
   - [嘉門達夫](https://ja.wikipedia.org/wiki/嘉門達夫 "wikilink")は「[替え唄メドレー](../Page/替え唄メドレー.md "wikilink")2」（[1991年](../Page/1991年.md "wikilink")）でこの曲のイントロ部分を「今井美樹」と[替え歌](../Page/替え歌.md "wikilink")にして歌っている。偶然であるがCOMPLEXのメンバー布袋寅泰はのちに今井と再婚している。
 

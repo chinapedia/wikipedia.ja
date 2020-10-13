@@ -82,7 +82,7 @@
 
 [Category:スピッツのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:スピッツのベスト・アルバム "wikilink") [Category:1999年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:1999年のベスト・アルバム "wikilink") [Category:ポリドール・レコードのアルバム](https://ja.wikipedia.org/wiki/Category:ポリドール・レコードのアルバム "wikilink") [Category:1999年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1999年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:オリコンミリオンセラー達成アルバム](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成アルバム "wikilink")
 
-1.  [スピッツ、220万枚売り上げたベスト廃盤](http://www.nikkansports.com/ns/entertainment/p-et-tp0-060109-0006.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2006年1月9日。
+1.  [スピッツ、220万枚売り上げたベスト廃盤(文字化けのため、2010年2月8日時点でのアーカイブより引用)](https://web.archive.org/web/20100208210600/http://www.nikkansports.com/ns/entertainment/p-et-tp0-060109-0006.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")、2006年1月9日。
 2.
 3.  [スピッツ、アルバム200万枚突破](http://web.archive.org/web/20010708231023/http://www.sanspo.com/music/top/m0003/top2000030302.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、2000年3月2日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 4.  [年間ランキング2014](http://www.bookoffonline.co.jp/files/special/rank2014.html)、ブックオフオンライン、2014年12月4日。

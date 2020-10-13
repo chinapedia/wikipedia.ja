@@ -95,7 +95,7 @@
 <tr class="odd">
 <td><p><strong>松沢梓</strong><br />
 <small>まつざわ あずさ</small></p></td>
-<td></td>
+<td><p>あずず</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a></p></td>
 <td><p>2005年9月<br />
@@ -106,7 +106,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/我妻三輪子.md" title="wikilink">我妻三輪子</a></strong><br />
 <small>わがつま みわこ</small></p></td>
-<td></td>
+<td><p>みわわ</p></td>
 <td></td>
 <td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
 <td></td>
@@ -126,7 +126,7 @@
 <tr class="even">
 <td><p><strong><a href="../Page/芦田万莉恵.md" title="wikilink">芦田万莉恵</a></strong><br />
 <small>あしだ まりえ</small></p></td>
-<td></td>
+<td><p>まりり</p></td>
 <td></td>
 <td><p><a href="../Page/奈良県.md" title="wikilink">奈良県</a></p></td>
 <td><p>2009年3月27日</p></td>
@@ -154,23 +154,22 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong><a href="../Page/三浦萌.md" title="wikilink">三浦萌</a></strong><br />
+<small>みうら もえ</small></p></td>
+<td><p>もんきち</p></td>
+<td></td>
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p>2010年8月31日</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><strong><a href="../Page/下垣真香.md" title="wikilink">下垣真香</a></strong><br />
 <small>しもがき まどか</small></p></td>
 <td><p>まどまど</p></td>
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td><p>2007年加入</p></td>
-<td><p>2010年8月31日</p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong><a href="../Page/三浦萌.md" title="wikilink">三浦萌</a></strong><br />
-<small>みうら もえ</small></p></td>
-<td><p>もんきち</p></td>
-<td></td>
-<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
-<td><p>2005年9月<br />
-（結成メンバー）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -180,9 +179,9 @@
 <td><p>うみにー</p></td>
 <td></td>
 <td><p><a href="../Page/埼玉県.md" title="wikilink">埼玉県</a></p></td>
-<td><p>2007年加入</p></td>
-<td><p>2016年7月23日</p></td>
-<td><p>カラー：ブルー</p></td>
+<td><p>20016年7月23日</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/吉井香奈恵" title="wikilink">吉井香奈恵</a></strong><br />

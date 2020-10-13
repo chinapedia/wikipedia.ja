@@ -1568,17 +1568,8 @@ VICL-63932</p></td>
 
   - 1998年11月　Fatboy Slim ジャパンツアーのサポートDJを務める
   - 1999年8月　スペイン「Bennicassin Festival」出演（[Blur](https://ja.wikipedia.org/wiki/ブラー "wikilink"), [Chemical Brothers](../Page/ケミカル・ブラザーズ.md "wikilink"), [Massive Attack](../Page/マッシヴ・アタック.md "wikilink"), [Ocean Color Scene](../Page/オーシャン・カラー・シーン.md "wikilink"), JimiTenor, [CarlCraigらと共演](../Page/カール・クレイグ.md "wikilink")）
-
-<!-- end list -->
-
   - 1999年8月　イギリス「Reading and Leeds Festival」出演（Roni Size, Breakbeat Era, Les Rhythmes Digitales, Indian Ropemanらと共演）
-
-<!-- end list -->
-
   - 1999年9-10月　アメリカ「[COACHELLA VALLEY Music and Arts Festival in Palm Springs](https://ja.wikipedia.org/wiki/コーチェラ・フェスティバル "wikilink")」出演（[Beck](../Page/ベック.md "wikilink"),[Underworld](../Page/アンダーワールド.md "wikilink"),[Ben Harper](../Page/ベン・ハーパー.md "wikilink"),[Rage Against The Machine](../Page/レイジ・アゲインスト・ザ・マシーン.md "wikilink"), [Prodigy](../Page/プロディジー.md "wikilink"), Cassius, [Corneliusらと共演](https://ja.wikipedia.org/wiki/小山田圭吾 "wikilink")）
-
-<!-- end list -->
-
   - 2000年10月　Etienne De Crecy,Alex GopherジャパンツアーのサポートDJを務める
   - 2000年10月　フランス(de Chaillot)「colette and minimix」 パーティでDJを務める
   - 2001年3月　アメリカ「Winter Music Conference」出演（Roni Size Reprazent, RichieHawtin, [MJ Cole](https://ja.wikipedia.org/wiki/MJコール "wikilink"), [Q-Bert](../Page/DJキューバート.md "wikilink"), Ron Trent, Ian Pooley, Jazzanovaらと共演）

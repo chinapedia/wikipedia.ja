@@ -198,6 +198,7 @@
   - [晴れ、ときどきファーム\!](https://ja.wikipedia.org/wiki/晴れ、ときどきファーム! "wikilink")
   - [ワイルドライフ](https://ja.wikipedia.org/wiki/ワイルドライフ_\(ドキュメンタリー番組\) "wikilink")
   - [アナザーストーリーズ 運命の分岐点](https://ja.wikipedia.org/wiki/アナザーストーリーズ_運命の分岐点 "wikilink")
+  - [ヒューマニエンス 40億年のたくらみ](https://ja.wikipedia.org/wiki/ヒューマニエンス_40億年のたくらみ "wikilink")
 
 <!-- end list -->
 

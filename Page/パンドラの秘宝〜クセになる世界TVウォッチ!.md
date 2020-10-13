@@ -31,8 +31,8 @@
       - マルチモニター：野上晃如
   - CG：[EDEL JAPAN](http://www.edel-japan.co.jp/index.html)
   - 編集：[オムニバス・ジャパン](../Page/オムニバス・ジャパン.md "wikilink")
-  - EED：鶴岡臣博
-  - MA：竹岡良樹
+      - EED：鶴岡臣博
+      - MA：竹岡良樹
   - 選曲効果：マジカル
   - スーパーバイザー：大野高義（フジテレビ）、[坪田譲治](../Page/坪田譲治_\(フジテレビ\).md "wikilink")（フジテレビ）
   - 編成：[荒井昭博](../Page/荒井昭博.md "wikilink")（フジテレビ）、[浜野貴敏](https://ja.wikipedia.org/wiki/浜野貴敏 "wikilink")（フジテレビ）

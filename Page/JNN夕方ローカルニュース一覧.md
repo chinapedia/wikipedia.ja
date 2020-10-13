@@ -11,7 +11,7 @@
   - しかし『総力報道』が打ち切られ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")に現在放送中の『Nスタ』がスタートした際に番組名を『Nスタ』に合わせた系列局は開始当初で2局（[TBC](../Page/東北放送.md "wikilink")・[BSN](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")）だけだったが、後に[TUY](../Page/テレビユー山形.md "wikilink")\[1\]・[TUF](../Page/テレビユー福島.md "wikilink")\[2\]・[ITV](../Page/あいテレビ.md "wikilink")\[3\]・[NBC](../Page/長崎放送.md "wikilink")\[4\]の4局が追随（ただし、BSNは2016年4月より『[BSN NEWS ゆうなび](https://ja.wikipedia.org/wiki/BSN_NEWS_ゆうなび "wikilink")』として再び独自のタイトルに変更）。それ以外の系列局は独自タイトルを採用している。
   - 地方の老舗局を中心に[長寿番組化している番組もあり](../Page/長寿番組の一覧.md "wikilink")、中でも『[IBCニュースエコー](https://ja.wikipedia.org/wiki/IBCニュースエコー "wikilink")』『[テレポート山陰](../Page/テレポート山陰.md "wikilink")』（中断期間がある番組や冠変更も含めれば『[SBCニュースワイド](../Page/SBCニュースワイド.md "wikilink")』『[RSKイブニングニュース](../Page/RSKイブニングニュース.md "wikilink")』）など、40年以上続いている番組も存在している。
   - キー局であるTBSでは『Nスタ』の全国ネット枠終了後、ローカルニュースを伝えるが、一部コーナーは系列局にネットされる事がある。また、TUYでは開局当初、ローカルワイドニュースを制作できる体制でなかったことから開局から10年程はTBSで制作された関東ローカルパートをそのまま放送した。
-  - 長年15～17時台に情報番組枠、18時にローカルニュース枠と独立させていた局でも、2019年春のMBS・CBCを皮切りに、秋改編でSBS・KUTV、翌年1月にRCC、春改編でUTY・NBCと、それらを統合させ2～3時間のワイド番組に改編させる局が続出している（特にMBS・CBC・RCCは従来の主要出演者や番組内容を残したまま、タイトルだけ改題している）。
+  - 長年15～17時台に情報番組枠、18時にローカルニュース枠と独立させていた局でも、2019年春のMBS・CBCを皮切りに、同年秋にSBS・KUTV、2020年1月にRCC、同年春にUTY・NBC、秋にRKB・tysと、情報番組とローカルニュースを統合させた2～3時間以上のワイド番組に改編させる局が続出している（特にMBS・CBC・RCC・RKBは従来の主要出演者や番組内容を残したまま、タイトルだけ改題している）。
 
 過去に放映されていた番組に関しては、各局の項を参照されたい。
 
@@ -70,10 +70,10 @@
   - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS）
       - 『[ORANGE](https://ja.wikipedia.org/wiki/ORANGE_\(テレビ番組\) "wikilink")』 ■（月 - 金 16:50 - 19:00。ローカルニュースは18:15 - 19:00。特別編成により通常版「ORANGE」が休止となる場合、16:45 - 16:50枠で「[静岡新聞ニュース](../Page/静岡新聞ニュース.md "wikilink")」を放送し、全国ニュース「Nスタ」は16:50 - 19:00まで放送）
       - キャスター：[桑原秀和](https://ja.wikipedia.org/wiki/桑原秀和 "wikilink")、[矢端名結](https://ja.wikipedia.org/wiki/矢端名結 "wikilink")
-      - ニュースキャスター：[内山絵里加](https://ja.wikipedia.org/wiki/内山絵里加 "wikilink")（月・火・水）、[坪内明美](https://ja.wikipedia.org/wiki/坪内明美 "wikilink")（木・金）
+      - ニュースキャスター：[内山絵里加](https://ja.wikipedia.org/wiki/内山絵里加 "wikilink")（月・火・水）、[坪内明美](https://ja.wikipedia.org/wiki/坪内明美 "wikilink")（木）、[水野涼子](../Page/水野涼子.md "wikilink")（金）
       - 天気キャスター：[田中健太郎](https://ja.wikipedia.org/wiki/田中健太郎 "wikilink")（ウェザーマップ所属気象予報士）
       - スポーツキャスター:[岡村久則](https://ja.wikipedia.org/wiki/岡村久則 "wikilink")、[小嶋健太](https://ja.wikipedia.org/wiki/小嶋健太 "wikilink")
-      - フィールドキャスター：[重長智子](../Page/重長智子.md "wikilink")・[水野涼子](../Page/水野涼子.md "wikilink")・[山崎加奈](../Page/山崎加奈.md "wikilink")
+      - フィールドキャスター：[重長智子](../Page/重長智子.md "wikilink")・坪内明美・水野涼子・[山崎加奈](../Page/山崎加奈.md "wikilink")
   - [チューリップテレビ](../Page/チューリップテレビ.md "wikilink")（TUT）
       - 『[N6](https://ja.wikipedia.org/wiki/N6 "wikilink")』■（月 - 金 18:15 - 18:53）
       - キャスター：[西美香](../Page/西美香.md "wikilink")
@@ -85,7 +85,7 @@
       - 『[チャント\!](https://ja.wikipedia.org/wiki/チャント! "wikilink")』■（月 - 金 15:49 - 19:00。ローカルニュース部は15:49 - 17:50と18:15 - 19:00）
       - メインキャスター：[大石邦彦](../Page/大石邦彦.md "wikilink")
       - キャスター：[夏目みな美](../Page/夏目みな美.md "wikilink")・[南部志穂](../Page/南部志穂.md "wikilink")・[柴田阿弥](https://ja.wikipedia.org/wiki/柴田阿弥 "wikilink")・[三浦優奈](https://ja.wikipedia.org/wiki/三浦優奈 "wikilink")
-      - フィールドキャスター：[小川健太](https://ja.wikipedia.org/wiki/小川健太 "wikilink")（報道部記者）・[青木まな](../Page/青木まな.md "wikilink")（報道部記者）・[山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")・[渡辺美香](../Page/渡辺美香.md "wikilink")
+      - フィールドキャスター：[小川健太](https://ja.wikipedia.org/wiki/小川健太 "wikilink")（報道部記者）・[青木まな](../Page/青木まな.md "wikilink")（報道部記者）・[斎藤初音](https://ja.wikipedia.org/wiki/斎藤初音 "wikilink")・[山内彩加](https://ja.wikipedia.org/wiki/山内彩加 "wikilink")・[渡辺美香](../Page/渡辺美香.md "wikilink")
       - スポーツキャスター：[江田亮](https://ja.wikipedia.org/wiki/江田亮 "wikilink")・[高田寛之](../Page/高田寛之.md "wikilink")・[水分貴雅](../Page/水分貴雅.md "wikilink")・[宮部和裕](../Page/宮部和裕.md "wikilink")・[西村俊仁](../Page/西村俊仁.md "wikilink")・[若狭敬一](../Page/若狭敬一.md "wikilink")
       - 天気キャスター：[桜沢信司](../Page/桜沢信司.md "wikilink") （CBC気象予報士）・[太田絢子](https://ja.wikipedia.org/wiki/太田絢子_\(気象予報士\) "wikilink")
 
@@ -116,7 +116,7 @@
       - キャスター：[青山高治](../Page/青山高治.md "wikilink")、[河村綾奈](https://ja.wikipedia.org/wiki/河村綾奈 "wikilink")
       - ニュースキャスター：[小林康秀](../Page/小林康秀.md "wikilink")、[中根夕希](https://ja.wikipedia.org/wiki/中根夕希 "wikilink")
       - 天気キャスター：[岸真弓](https://ja.wikipedia.org/wiki/岸真弓 "wikilink")（気象予報士）・[岩永哲](https://ja.wikipedia.org/wiki/岩永哲 "wikilink")（RCC報道部記者&同局気象予報士）
-      - フィールドキャスター：[田村友里](https://ja.wikipedia.org/wiki/田村友里_\(アナウンサー\) "wikilink")
+      - フィールドキャスター：[田村友里](https://ja.wikipedia.org/wiki/田村友里_\(アナウンサー\) "wikilink")・渕上沙紀
       - スポーツキャスター：[石橋真](../Page/石橋真.md "wikilink")・[一柳信行](../Page/一柳信行.md "wikilink")・[長谷川努](../Page/長谷川努.md "wikilink")・[石田充](../Page/石田充.md "wikilink")・[伊東平](https://ja.wikipedia.org/wiki/伊東平 "wikilink")・[坂上俊次](../Page/坂上俊次.md "wikilink")
       - 『[Eタウン](../Page/Eタウン.md "wikilink")スポーツ』（月1回・土曜16:30 - 17:30）
       - キャスター：坂上俊次・[渕上沙紀](https://ja.wikipedia.org/wiki/渕上沙紀 "wikilink")
@@ -130,8 +130,14 @@
 
   - [テレビ山口](../Page/テレビ山口.md "wikilink")（tys）
       - 『[tysニュースタイム](https://ja.wikipedia.org/wiki/tysニュースタイム "wikilink")』（月 - 金 18:15 - 19:00）
-      - キャスター：[永岡克也](https://ja.wikipedia.org/wiki/永岡克也 "wikilink")、[関谷名加](../Page/関谷名加.md "wikilink")
-      - フィールドキャスター：[香川純也](../Page/香川純也.md "wikilink")（周南支社所属）、[横溝洋一郎](../Page/横溝洋一郎.md "wikilink")
+      - キャスター：[後藤心平](../Page/後藤心平.md "wikilink")、[山根陽美](https://ja.wikipedia.org/wiki/山根陽美 "wikilink")、[永岡克也](https://ja.wikipedia.org/wiki/永岡克也 "wikilink")
+      - フィールドキャスター：[五十川裕明](https://ja.wikipedia.org/wiki/五十川裕明 "wikilink")（周南支社所属）
+      - 『[Mix](https://ja.wikipedia.org/wiki/Mix_\(テレビ山口\) "wikilink")』（月 - 金 16:50 - 19:00）※2020年10月5日より
+      - キャスター：[原千晶](https://ja.wikipedia.org/wiki/原千晶_\(アナウンサー\) "wikilink")、[永岡克也](https://ja.wikipedia.org/wiki/永岡克也 "wikilink")
+      - ニュースキャスター：[木村智美](../Page/木村智美.md "wikilink")
+      - スポーツキャスター：[大田理裟](https://ja.wikipedia.org/wiki/大田理裟 "wikilink")
+      - フィールドキャスター：[山根陽美](https://ja.wikipedia.org/wiki/山根陽美 "wikilink")、[木村那津美](https://ja.wikipedia.org/wiki/木村那津美 "wikilink")
+      - 天気キャスター：[西村裕之](https://ja.wikipedia.org/wiki/西村裕之 "wikilink")（tys気象予報士）
   - [あいテレビ](../Page/あいテレビ.md "wikilink")（itv）
       - 『[Nスタえひめ](https://ja.wikipedia.org/wiki/Nスタえひめ "wikilink")』（月 - 金 18:15 - 18:54）
       - キャスター：[山田祐也](https://ja.wikipedia.org/wiki/山田祐也 "wikilink")、[金野純子](https://ja.wikipedia.org/wiki/金野純子 "wikilink")、[山内可菜子](https://ja.wikipedia.org/wiki/山内可菜子 "wikilink")
@@ -143,18 +149,15 @@
 ## 九州・沖縄
 
   - [RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")（rkb）
-      - 『[今日感ニュース](../Page/今日感テレビ.md "wikilink")』■（月 - 金 18:15 - 19:00\[8\]）
+      - 『[今日感ニュース](../Page/今日感テレビ.md "wikilink")』■（月 - 金 18:15 - 19:00\[8\]）※プロ野球・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")戦中継のある場合はローカルニュースパートは『[今日感テレビ](../Page/今日感テレビ.md "wikilink")』17時台で放送し、18:15からプロ野球中継を放送。
       - キャスター：[池尻和佳子](../Page/池尻和佳子.md "wikilink")、[坂田周大](../Page/坂田周大.md "wikilink")
-      - スポーツキャスター：[井口謙](../Page/井口謙.md "wikilink")・[茅野正昌](../Page/茅野正昌.md "wikilink")・[佐藤巧](https://ja.wikipedia.org/wiki/佐藤巧 "wikilink")・[田中友英](../Page/田中友英.md "wikilink")・[宮脇憲一](https://ja.wikipedia.org/wiki/宮脇憲一 "wikilink")・[三好ジェームス](../Page/三好ジェームス.md "wikilink")・[辻満里奈](https://ja.wikipedia.org/wiki/辻満里奈 "wikilink")
+      - スポーツキャスター：[井口謙](../Page/井口謙.md "wikilink")・[茅野正昌](../Page/茅野正昌.md "wikilink")・[佐藤巧](https://ja.wikipedia.org/wiki/佐藤巧_\(アナウンサー\) "wikilink")・[田中友英](../Page/田中友英.md "wikilink")・[宮脇憲一](https://ja.wikipedia.org/wiki/宮脇憲一 "wikilink")・[三好ジェームス](../Page/三好ジェームス.md "wikilink")・[辻満里奈](https://ja.wikipedia.org/wiki/辻満里奈 "wikilink")
       - 天気キャスター：[龍山康朗](../Page/龍山康朗.md "wikilink")（RKB気象予報士）
-
-<!-- end list -->
-
-  -
-    ※プロ野球・[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")戦中継のある場合はローカルニュースパートは『[今日感テレビ](../Page/今日感テレビ.md "wikilink")』17時台で放送し、18:15からプロ野球中継を放送。
-
-<!-- end list -->
-
+      - 『[タダイマ\!](https://ja.wikipedia.org/wiki/タダイマ! "wikilink")』■（月 - 金 15:40 - 19:00。ローカルニュースは18:15 - 19:00）※2020年9月28日より
+      - キャスター：[田畑竜介](../Page/田畑竜介.md "wikilink")、[池尻和佳子](../Page/池尻和佳子.md "wikilink")
+      - ニュースキャスター：[坂田周大](../Page/坂田周大.md "wikilink")
+      - スポーツキャスター：[三好ジェームス](../Page/三好ジェームス.md "wikilink")
+      - 天気キャスター：[龍山康朗](../Page/龍山康朗.md "wikilink")（RKB気象予報士）
   - [長崎放送](../Page/長崎放送.md "wikilink")（NBC）
       - 『[Pint](../Page/Pint.md "wikilink")』（月 - 金 16:50 - 19:00。ローカルニュースは18:15 - 19:00。祝日は前半部を単発特番へ差し替え・または「Nスタ」を15:49 - 18:15まで臨時にフルネットし、本編を18:15 - 19:00へ枠小する場合あり）
       - キャスター：[大倉聡](../Page/大倉聡.md "wikilink")、[染矢すみれ](https://ja.wikipedia.org/wiki/染矢すみれ "wikilink")
@@ -302,7 +305,7 @@
 3.  2017年9月まで『[キャッチあい](../Page/キャッチあい.md "wikilink")』
 4.  2016年3月まで『[報道センターNBC](../Page/報道センターNBC.md "wikilink")』
 5.  2020年5月4日 - 6日は、新型コロナウイルス感染拡大防止のため18:25までに枠小された。
-6.  [新型コロナウイルス緊急事態宣言発令に伴い](../Page/2019新型コロナウイルス.md "wikilink")、2020年4月13日からは「[おうちにいようよ ちちんぷいぷい&ミント\!](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")」と題し13:55 - 19:00枠を一体化させている（14～17時台に放送したニュース項目も一部動画配信。中断17:50 - 18:15「Nスタ」。祝日は13:55 - 16:50枠を単発特番に差し替え、16:50 - 17:50まで「Nスタ第2部」を臨時ネットし、本編を18:15- 19:00に枠小する場合あり）。
+6.  [新型コロナウイルス緊急事態宣言発令に伴い](../Page/2019新型コロナウイルス.md "wikilink")、2020年4月13日から同年6月26日までは「[おうちにいようよ ちちんぷいぷい&ミント\!](https://ja.wikipedia.org/wiki/ちちんぷいぷい_\(テレビ番組\) "wikilink")」と題し13:55 - 19:00枠を一体化させていた（14～17時台に放送したニュース項目も一部動画配信。中断17:50 - 18:15「Nスタ」）。祝日は13:55 - 16:50枠を単発特番に差し替え、16:50 - 17:50まで「Nスタ第2部」を臨時ネット。もしくは「ちちんぷいぷい」を特別編として17:50まで臨時枠大させ、本編を18:15- 19:00に枠小する場合あり。
 7.  [元フジテレビアナウンサーと同姓同名だが別人](../Page/田中大貴.md "wikilink")。
 8.  13:55 - 15:49枠で編成の本家「今日感テレビ」は新型コロナウイルス陽性が確認された出演者がおり、かつ緊急事態宣言が福岡・佐賀両県を含む全国に発令されていたため、2020年4月6日から5月22日まで休止。当該時間帯はCBCテレビ制作「[ゴゴスマ](https://ja.wikipedia.org/wiki/ゴゴスマ "wikilink")」を臨時ネットしていた(本編は15:40にて飛び降り、16:50まで「今日感Nスタ」を臨時編成して福岡・佐賀両県の新型コロナ関連情報を放送。なおラテ兼用サテスタ「天神きらめき通りスタジオ」は新型コロナウイルス感染拡大防止の観点から現在も無期使用停止中のため、同スタジオを使用する番組は全てRKB本社スタジオからの放送に変更）。
 9.  OBSの社員・役員2名が新型コロナウイルス陽性となったため、2020年4月20日から5月6日までは18:25までに枠小された（参照サイト「[OBS社員・役員の新型コロナウイルス感染対応について](http://www.e-obs.com/)」）。

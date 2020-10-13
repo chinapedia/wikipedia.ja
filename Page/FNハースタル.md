@@ -9,7 +9,7 @@
 
 [Fn-1913.jpg](https://ja.wikipedia.org/wiki/File:Fn-1913.jpg "fig:Fn-1913.jpg") [1889年](../Page/1889年.md "wikilink")に設立されたベルギーの銃器メーカーである。かつては国営だったが、経営悪化に伴い[1991年](../Page/1991年.md "wikilink")からはフランスの防衛グループ企業GIAT（現 [ネクスター](https://ja.wikipedia.org/wiki/ネクスター "wikilink")）傘下、1997年で[コルト社の買収を回避するため](../Page/コルト・ファイヤーアームズ.md "wikilink")、ベルギー[ワロン地域](../Page/ワロン地域.md "wikilink")資金からなる[ハースタルグループの完全子会社になった](https://ja.wikipedia.org/wiki/:en:Herstal_Group "wikilink")。\[1\]
 
-[FN FAL](../Page/FN_FAL.md "wikilink") をはじめとする信頼性の高い銃器を製作することで有名であり、数多くの輸出を行っている。また銃弾の開発も行っており、[5.56mm NATO弾](https://ja.wikipedia.org/wiki/5.56mm_NATO弾 "wikilink")（SS109）や[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")（SS190）などが実用化されている。かつては二輪車等の生産も行っていた。
+[FN FALをはじめとする信頼性の高い銃器を製作することで有名であり](../Page/FN_FAL.md "wikilink")、数多くの輸出を行っている。また銃弾の開発も行っており、[5.56mm NATO弾](https://ja.wikipedia.org/wiki/5.56mm_NATO弾 "wikilink")（SS109）や[5.7x28mm弾](../Page/5.7x28mm弾.md "wikilink")（SS190）などが実用化されている。かつては二輪車等の生産も行っていた。
 
 ## 歴史
 

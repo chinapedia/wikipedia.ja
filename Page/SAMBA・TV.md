@@ -162,7 +162,7 @@
   - 全国中継 21世紀に残したい味
     [サンデーモーニング](../Page/サンデーモーニング.md "wikilink")スペシャル
 
-:\*毎年恒例の年末拡大スペシャルだが、この年は大晦日が日曜日のため枠内で行った。
+:\*毎年恒例の年末拡大スペシャルだが、この年は大晦日が日曜日のため枠内で行った。\[2\]
 
   - スポーツマン夢オークション〜HEROからの贈りもの〜
     [ガキバラオールスターズ](../Page/ガキバラ帝国2000!.md "wikilink") ボクらが挑む今世紀最後のifスペシャル
@@ -204,3 +204,4 @@
 [Category:TBSの特別番組](https://ja.wikipedia.org/wiki/Category:TBSの特別番組 "wikilink") [Category:テレビの超長時間番組](https://ja.wikipedia.org/wiki/Category:テレビの超長時間番組 "wikilink") [Category:かつて存在したTBSの年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したTBSの年末年始特番 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:薬丸裕英](https://ja.wikipedia.org/wiki/Category:薬丸裕英 "wikilink") [Category:モーニング娘。](https://ja.wikipedia.org/wiki/Category:モーニング娘。 "wikilink") [Category:爆笑問題](https://ja.wikipedia.org/wiki/Category:爆笑問題 "wikilink") [Category:関口宏](https://ja.wikipedia.org/wiki/Category:関口宏 "wikilink") [Category:大橋巨泉](https://ja.wikipedia.org/wiki/Category:大橋巨泉 "wikilink") [Category:黒柳徹子](https://ja.wikipedia.org/wiki/Category:黒柳徹子 "wikilink") [Category:サザンオールスターズ](https://ja.wikipedia.org/wiki/Category:サザンオールスターズ "wikilink") [Category:ザ・ベストテン](https://ja.wikipedia.org/wiki/Category:ザ・ベストテン "wikilink")
 
 1.  2006年から現在は『[輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/輝く!日本レコード大賞 "wikilink")』を毎年この日に放送している。
+2.  福留は[裏番組出演のため退席](../Page/いつみても波瀾万丈.md "wikilink")。

@@ -1,7 +1,7 @@
 > この記事は[ANN NEWS\&SPORTS](https://ja.wikipedia.org/wiki/ANN_NEWS\&SPORTS)から翻訳されています。
 
 
-『**ANN NEWS\&SPORTS**』（エイエヌエヌ ニュース・アンド・スポーツ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）系列で毎週[月曜日](../Page/月曜日.md "wikilink")未明（[日曜日](../Page/日曜日.md "wikilink")の[深夜](../Page/深夜.md "wikilink")）に放送されている[ANNの](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。略称は「**N\&S**」。
+『**ANN NEWS\&SPORTS**』（エイエヌエヌ ニュース・アンド・スポーツ）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")（[ANN](../Page/オールニッポン・ニュースネットワーク.md "wikilink")）系列で毎週[月曜日](../Page/月曜日.md "wikilink")未明（[日曜日](../Page/日曜日.md "wikilink")の[深夜](../Page/深夜.md "wikilink")）に放送された[ANNの](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。略称は「**N\&S**」。
 
 日曜未明の土曜版と月曜未明の日曜版で、生い立ちや放送形態が異なるのが大きな特徴である。
 
@@ -61,7 +61,7 @@
 
 2017年4月23日から『[サンデーステーション](https://ja.wikipedia.org/wiki/サンデーステーション "wikilink")』(開始当初は日曜20:54 - 21:54に放送)の開始によりこの時間帯のニュース枠である本番組は同月17日をもって廃枠になり、同月24日以降の『GET SPORTS』からは内包番組が消滅し、全編ローカルセールス枠に降格した（これにあわせ、通常編成時の放送時間も1:10 - 2:40に短縮された）。なお、5月1日から月曜0:40 - 1:10（日曜深夜）には新ドラマ『[サヨナラ、えなりくん](https://ja.wikipedia.org/wiki/サヨナラ、えなりくん "wikilink")』が開始された\[4\]。
 
-#### 第2期（2018年4月 - 現在）
+#### 第2期（2018年4月 - 2020年9月）
 
 2018年4月1日から『サンデーステーション』が16:30 - 18:00に放送時間繰り上げ・拡大するのに伴い、翌2日からは日曜最終版ニュースとして0:40 - 0:55に単独番組扱いで再開された。
 
@@ -69,7 +69,7 @@
 
 2020年4月改編により、2019年11月から、月1回土曜未明（金曜深夜）で放送してきた『[ReAL eSports News](https://ja.wikipedia.org/wiki/ReAL_eSports_News "wikilink")』が、同年4月から、毎週月曜0:45 - 0:59（日曜深夜）枠でのレギュラー放送になることが決定\[5\]。このため、4月6日（5日深夜）からの当番組および日曜最終版のANNニュースは、20分繰り上がった月曜0:25 - 0:40に枠移動。同時に、ニュース担当キャスターが[上山千穂](../Page/上山千穂.md "wikilink")から[矢島悠子](https://ja.wikipedia.org/wiki/矢島悠子 "wikilink")へと交代した。
 
-2020年10月改編で『サンデーステーション』は日曜21時枠に移動するが、本番組の扱いは未定である。
+2020年10月改編で『サンデーステーション』は日曜21時枠に移動することに伴い、本番組は9月28日（27日深夜）をもって終了。
 
 ## 放送時間
 
@@ -87,7 +87,7 @@
 | 2017.4.22 | 2018.3.25    | （放送なし\[7\]）                                                   |
 | 2018.4.2  | 2019.9.30    | （[放送なし](https://ja.wikipedia.org/wiki/サタデーステーション "wikilink")） |
 | 2019.10.7 | 2020.3.30    | 0:45 - 0:59（14分）                                              |
-| 2020.4.6  | 現在           | 0:25 - 0:40（15分）                                              |
+| 2020.4.6  | 2020.9.28    | 0:25 - 0:40（15分）                                              |
 
 「ANN NEWS\&SPORTS」放送時間の変遷
 
@@ -95,7 +95,7 @@
   - 土曜版第1・2期および日曜版第1期は前夜の『[土曜プライム](https://ja.wikipedia.org/wiki/土曜プライム "wikilink")』または『[日曜エンタ](https://ja.wikipedia.org/wiki/日曜エンターテインメント "wikilink")』の延長など不定期で時間が変更の場合もあった。
   - 日曜版第2期は前夜の『[日曜プライム](https://ja.wikipedia.org/wiki/日曜プライム "wikilink")』の延長など不定期で時間が変更の場合もある。
 
-## 現在の出演者
+## 出演者
 
 全員[テレビ朝日アナウンサー](https://ja.wikipedia.org/wiki/テレビ朝日のアナウンサー一覧 "wikilink")。
 
@@ -103,7 +103,7 @@
 
 <!-- end list -->
 
-  - [矢島悠子](https://ja.wikipedia.org/wiki/矢島悠子 "wikilink")（2020年4月6日 - ）
+  - [矢島悠子](https://ja.wikipedia.org/wiki/矢島悠子 "wikilink")（2020年4月6日 - 2020年9月28日）
 
 <!-- end list -->
 
@@ -111,7 +111,7 @@
 
 <!-- end list -->
 
-  - [三上大樹](https://ja.wikipedia.org/wiki/三上大樹 "wikilink")（2018年4月2日 - ）
+  - [三上大樹](https://ja.wikipedia.org/wiki/三上大樹 "wikilink")（2018年4月2日 - 2020年9月28日）
 
 <!-- end list -->
 
@@ -124,7 +124,7 @@
 
 <!-- end list -->
 
-  - [山木翔遥](https://ja.wikipedia.org/wiki/山木翔遥 "wikilink")（2020年4月6日 - ）
+  - [山木翔遥](https://ja.wikipedia.org/wiki/山木翔遥 "wikilink")（2020年4月6日 - 2020年9月28日）
 
 <!-- end list -->
 
@@ -133,7 +133,7 @@
 
 <!-- end list -->
 
-  - [山崎弘喜](https://ja.wikipedia.org/wiki/山崎弘喜 "wikilink")（2020年4月6日 - ）
+  - [山崎弘喜](https://ja.wikipedia.org/wiki/山崎弘喜 "wikilink")（2020年4月6日 - 2020年9月28日）
 
 <!-- end list -->
 
@@ -283,7 +283,7 @@
 </tr>
 <tr class="even">
 <td><p>2020.04.06</p></td>
-<td><p>現在</p></td>
+<td><p>2020.09.28</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/矢島悠子" title="wikilink">矢島悠子</a></p></td>
 <td></td>
 </tr>
@@ -331,7 +331,7 @@
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡朝日テレビ](../Page/静岡朝日テレビ.md "wikilink")（SATV）                  |                                                     |                      |                 |
 | [石川県](https://ja.wikipedia.org/wiki/石川県 "wikilink") | [北陸朝日放送](../Page/北陸朝日放送.md "wikilink")（HAB）                     |                                                     |                      |                 |
 | [中京広域圏](../Page/広域放送.md "wikilink")                 | [メ〜テレ](../Page/名古屋テレビ放送.md "wikilink")（NBN）                     |                                                     |                      |                 |
-| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABC）                   |                                                     |                      |                 |
+| [近畿広域圏](../Page/広域放送.md "wikilink")                 | [朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")（ABC TV）                |                                                     |                      |                 |
 | [広島県](../Page/広島県.md "wikilink")                    | [広島ホームテレビ](../Page/広島ホームテレビ.md "wikilink")（HOME）                |                                                     |                      |                 |
 | [山口県](../Page/山口県.md "wikilink")                    | [山口朝日放送](../Page/山口朝日放送.md "wikilink")（yab）                     |                                                     |                      |                 |
 | [香川県・岡山県](../Page/岡山県・香川県の放送.md "wikilink")         | [瀬戸内海放送](../Page/瀬戸内海放送.md "wikilink")（KSB）                     |                                                     |                      |                 |
@@ -348,7 +348,7 @@
 
 ## 特別編成
 
-編成上の都合により、[平日・土曜日の最終ニュースが休止となる際](../Page/テレビ朝日系列深夜ニュース枠.md "wikilink")、原則として15分以上の放送枠がある場合に放送される。しかし年末年始や15分以上\[13\]の放送枠が確保できない等の理由で休止となる場合は、代替として5 - 10分間の『ANNニュース』が放送される。
+編成上の都合により、[平日・週末の最終ニュースが休止となる際](../Page/テレビ朝日系列深夜ニュース枠.md "wikilink")、原則として15分以上の放送枠がある場合に放送される。しかし年末年始や15分以上\[13\]の放送枠が確保できない等の理由で休止となる場合は、代替として5 - 10分間の『ANNニュース』が放送される。
 
 [年末年始](../Page/年末年始.md "wikilink")は週末の通常版を放送する場合と休止する場合があり、放送する場合は、2012年9月までは土曜版のフォーマットで15 - 20分間程度の短縮版が放送された。基本的にはキャスター陣のうち男女のアナウンサー2人が出演し、ニュース・スポーツニュース・天気予報のすべてを担当していた。
 
@@ -394,7 +394,7 @@
 
 <!-- end list -->
 
-  - 石川一宏（KAZSIN）｢G-ANN｣（2002年4月 - 現在） ※『GET SPORTS』休止時はエンディングでも使用していた
+  - 石川一宏（KAZSIN）｢G-ANN｣（2002年4月 - 2020年9月） ※『GET SPORTS』休止時はエンディングでも使用していた
 
 <!-- end list -->
 
@@ -404,7 +404,7 @@
 
   - GRAND-SLAM Mix「Ameno」（2002年4月 - 2009年4月12日）
   - [Tempei](https://ja.wikipedia.org/wiki/中村天平 "wikilink") & KAZSIN「Ameno〜piano style 500〜」（2009年4月19日 - 2017年4月17日）
-  - David Benoit（[デイヴィッド・ベノワ](../Page/デイヴィッド・ベノワ.md "wikilink")）「Snap\!」（2018年4月2日 - 現在） ※CM前ジングルとしても使用
+  - David Benoit（[デイヴィッド・ベノワ](../Page/デイヴィッド・ベノワ.md "wikilink")）「Snap\!」（2018年4月2日 - 2020年9月28日） ※CM前ジングルとしても使用
 
 <!-- end list -->
 
@@ -426,14 +426,14 @@
   - [ポータル ANNニュース&スポーツ](https://ja.wikipedia.org/wiki/ポータル_ANNニュース&スポーツ "wikilink") - 2012年10月7日から2015年3月29日まで、日曜未明に放送された「土曜版」のニュース。
   - [TOKYO応援宣言](https://ja.wikipedia.org/wiki/TOKYO応援宣言 "wikilink") - 2015年4月5日から2016年12月25日まで、日曜未明に放送された「土曜版」のニュース。番組そのものは2016年1月8日 - 3月26日はローカルセールス枠に降格し、同年4月2日からネットワークセールス枠に復帰。2017年1月より日曜朝へ移動、10月1日より『[サンデーLIVE\!\!](https://ja.wikipedia.org/wiki/サンデーLIVE!! "wikilink")』内の[内包番組となる](https://ja.wikipedia.org/wiki/インサート_\(番組形式\) "wikilink")。
 
-[Category:ANN番組](https://ja.wikipedia.org/wiki/Category:ANN番組 "wikilink") [Category:テレビ朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組 "wikilink") [Category:テレビ朝日のニュース・報道番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のニュース・報道番組 "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2018年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2018年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:南原清隆](https://ja.wikipedia.org/wiki/Category:南原清隆 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:ANN番組](https://ja.wikipedia.org/wiki/Category:ANN番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日のニュース・報道番組の歴史 "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:2018年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2018年のテレビ番組_\(日本\) "wikilink") [Category:テレビ番組のシリーズ](https://ja.wikipedia.org/wiki/Category:テレビ番組のシリーズ "wikilink") [Category:南原清隆](https://ja.wikipedia.org/wiki/Category:南原清隆 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  ただし、[EPG上の表記は](../Page/電子番組ガイド.md "wikilink")「ANNニュース&スポーツ」のままとなっていた。
 2.
 3.  但し、2012年度放送分（正式には4月16日〈15日深夜〉分より。ネットニュース終了後、前夜にテレビ朝日で放送された『[日曜×芸人](https://ja.wikipedia.org/wiki/日曜×芸人 "wikilink")』を時差ネットで放送していた。本来朝日放送以外は同時ネットであるが当該枠では同系列による単発枠が穴埋めとして組まれているためとしている。）より0:56頃まで同時ネット、以降はCM→番組終了→CM→『日曜×芸人』→『[ニチバラ\!](https://ja.wikipedia.org/wiki/ニチバラ! "wikilink")』枠という自局独自の編成となる。
 4.
 5.
-6.  2012年10月7日未明（16日深夜）から2015年3月29日未明（28日深夜）までは『[ポータル ANNニュース&スポーツ](https://ja.wikipedia.org/wiki/ポータル_ANNニュース&スポーツ "wikilink")』を、2015年4月5日未明（4日深夜）から2016年12月25日未明（24日深夜）までは『[TOKYO応援宣言](https://ja.wikipedia.org/wiki/TOKYO応援宣言 "wikilink")』を放送していた。
+6.  2012年10月7日未明（6日深夜）から2015年3月29日未明（28日深夜）までは『[ポータル ANNニュース&スポーツ](https://ja.wikipedia.org/wiki/ポータル_ANNニュース&スポーツ "wikilink")』を、2015年4月5日未明（4日深夜）から2016年12月25日未明（24日深夜）までは『[TOKYO応援宣言](https://ja.wikipedia.org/wiki/TOKYO応援宣言 "wikilink")』を放送していた。
 7.  土曜日は『サタデーステーション』を、日曜日は『サンデーステーション』をそれぞれ放送。
 8.
 9.

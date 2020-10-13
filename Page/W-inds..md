@@ -1,7 +1,7 @@
 > この記事は[W-inds.](https://ja.wikipedia.org/wiki/W-inds.)から翻訳されています。
 
 
-**w-inds.**（ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット、アイドルグループ。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
+**w-inds.**（ウィンズ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男性ダンス＆ボーカルユニット。[ライジングプロダクション](../Page/ライジングプロダクション.md "wikilink")所属。レーベルは[FLIGHT MASTER](../Page/フライトマスター.md "wikilink")。
 
 ## 概要
 
@@ -12,7 +12,8 @@
   - 2004年、初の海外単独公演を[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")で開催する。なお台湾では、3rdアルバム『[w-inds.〜PRIME OF LIFE〜](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』が総合チャートで1位を獲得。日本人男性歌手としては初、女性を含めても[宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")と[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")に次いで史上3組目であった。2006年には宇多田ヒカルと浜崎あゆみを抜き、台湾にてアルバム4作連続首位獲得という外国人アーティスト初の快挙を成し遂げた。
   - 以降も、[中国](../Page/中華人民共和国.md "wikilink")、[香港](https://ja.wikipedia.org/wiki/香港 "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")で原盤リリース、ライブ開催等を行い、各国で様々なアワードを受賞。また、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[シンガポール](https://ja.wikipedia.org/wiki/シンガポール "wikilink")、[ベトナム](https://ja.wikipedia.org/wiki/ベトナム "wikilink")へも国際レベルのイベント参加等を通じて相次いで進出している。2009年11月7日付の[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")紙上のインタビューでは、[橘慶太](../Page/橘慶太.md "wikilink")が「マレーシアやシンガポールでライブをやりたい」と語るなど、より一層のアジア圏進出への熱意を表明し、日本国内だけでなく東アジア圏などの海外を勢力範囲として音楽活動を続けている。
   - 2014年、2004年リリースされたアルバム『[w-inds.PRIME OF LIFE](https://ja.wikipedia.org/wiki/w-inds.PRIME_OF_LIFE "wikilink")』をはじめ2012年までに合計10作品でIFPI香港 Top Sales Music Awardベストセールスリリース日韓部門を受賞した功績により、功労賞が授与された。
-  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha_\(w-inds.のアルバム\) "wikilink")』のジャケットアートにちなみ、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある。例えば、35thシングル「In Love With The Music」のミュージックビデオで各メンバーカラーの衣装を着用している。
+  - グループカラーは青。これまでは2005年にリリースされたアルバム『[ageha](https://ja.wikipedia.org/wiki/ageha_\(w-inds.のアルバム\) "wikilink")』のジャケットアートにちなみ、各メンバーごとにイメージカラー（[涼平](../Page/千葉涼平.md "wikilink")：青、[慶太](../Page/橘慶太.md "wikilink")：黄→2006年より赤、[龍一](../Page/緒方龍一.md "wikilink")：緑）が割り当てられ、公式サインライトの色等に用いられていたが、2009年夏よりグループ統一のイメージカラーとして定められており、ライブでのサインライト使用も青色に制限されている。青色が選ばれたのは当時のマネージャーの発案によるもので、サッカー日本代表のユニフォームカラーに由来し、音楽界の日本代表を目指す意が込められている。なお、メンバーカラーは現在でも衣裳や公式ライブグッズ等に用いられることがある。例えば、35thシングル「[In Love With The Music](https://ja.wikipedia.org/wiki/In_Love_With_The_Music "wikilink")」のミュージックビデオで各メンバーカラーの衣装を着用している。
+  - 2017年の「[We Don't Need to Talk Anymore](https://ja.wikipedia.org/wiki/We_Don't_Need_To_Talk_Anymore "wikilink")」以降、ボーカルの橘慶太によるセルフプロデュースが本格化している。橘は同グループの楽曲の作詞、作曲のみならず、レコーディング、トラックダウンからマスタリングまで関わっている\[1\]\[2\]。
   - 2020年6月1日 - 所属事務所が2020年5月31日付けでメンバーの緒方龍一が[心身症](../Page/心身症.md "wikilink")のため脱退・契約終了を発表。今後は、橘・千葉の2人でグループ活動を継続することを発表した。
 
 ## 主な出演・開催イベント
@@ -326,7 +327,7 @@
 <td><p><a href="../Page/ABO式血液型.md" title="wikilink">O型</a></p></td>
 <td><p>緑</p></td>
 <td><p>ダンス＆コーラス・ラップ</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>をもって脱退。[1]、<br />
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月31日.md" title="wikilink">5月31日</a>をもって脱退。[3]、<br />
 </p></td>
 </tr>
 </tbody>
@@ -1914,17 +1915,17 @@ c/w「Love or Leave」（全盤共通）<br />
 
 #### TBS 日本有線大賞
 
-| \# | 年度（放送回）                                                             | タイトル                                                        | 受賞名   |
-| -- | ------------------------------------------------------------------- | ----------------------------------------------------------- | ----- |
-| 1  | 2001年（[第34回](https://ja.wikipedia.org/wiki/第34回_日本有線大賞 "wikilink")） | [Paradox](https://ja.wikipedia.org/wiki/Paradox "wikilink") | 新人賞   |
-| 2  | 2004年（[第37回](https://ja.wikipedia.org/wiki/第37回_日本有線大賞 "wikilink")） | [四季](../Page/四季.md "wikilink")                              | 有線音楽賞 |
-| 3  | 2006年（[第39回](https://ja.wikipedia.org/wiki/第39回_日本有線大賞 "wikilink")） | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                      | 有線音楽賞 |
+| \# | 年度（放送回）                                                             | タイトル                                                   | 受賞名   |
+| -- | ------------------------------------------------------------------- | ------------------------------------------------------ | ----- |
+| 1  | 2001年（[第34回](https://ja.wikipedia.org/wiki/第34回_日本有線大賞 "wikilink")） | [Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink") | 新人賞   |
+| 2  | 2004年（[第37回](https://ja.wikipedia.org/wiki/第37回_日本有線大賞 "wikilink")） | [四季](../Page/四季.md "wikilink")                         | 有線音楽賞 |
+| 3  | 2006年（[第39回](https://ja.wikipedia.org/wiki/第39回_日本有線大賞 "wikilink")） | [ブギウギ66](../Page/ブギウギ66.md "wikilink")                 | 有線音楽賞 |
 
 #### TBS 日本レコード大賞
 
 | \# | 年度（放送回）                                                              | タイトル                                                                           | 受賞名                     |
 | -- | -------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------- |
-| 1  | 2001年（[第43回](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")） | [Paradox](https://ja.wikipedia.org/wiki/Paradox "wikilink")                    | 新人賞（最優秀新人賞ノミネート）、最優秀新人賞 |
+| 1  | 2001年（[第43回](https://ja.wikipedia.org/wiki/第43回日本レコード大賞 "wikilink")） | [Paradox](../Page/Paradox_\(w-inds.の曲\).md "wikilink")                         | 新人賞（最優秀新人賞ノミネート）、最優秀新人賞 |
 | 2  | 2002年（[第44回](https://ja.wikipedia.org/wiki/第44回日本レコード大賞 "wikilink")） | [Because of you](https://ja.wikipedia.org/wiki/Because_of_you "wikilink")      | 金賞（大賞ノミネート作品）           |
 | 3  | 2003年（[第45回](https://ja.wikipedia.org/wiki/第45回日本レコード大賞 "wikilink")） | [Long Road](../Page/Long_Road.md "wikilink")                                   | 金賞（大賞ノミネート作品）           |
 | 4  | 2005年（[第47回](https://ja.wikipedia.org/wiki/第47回日本レコード大賞 "wikilink")） | [十六夜の月](../Page/十六夜の月.md "wikilink")                                           | 金賞（大賞ノミネート作品）           |
@@ -2305,3 +2306,5 @@ c/w「Love or Leave」（全盤共通）<br />
 [Category:w-inds.](https://ja.wikipedia.org/wiki/Category:w-inds. "wikilink") [Category:ライジングプロダクション](https://ja.wikipedia.org/wiki/Category:ライジングプロダクション "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:バーニングプロダクション系列所属者](https://ja.wikipedia.org/wiki/Category:バーニングプロダクション系列所属者 "wikilink") [Category:日本のポップ・アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・アイドルグループ "wikilink") [Category:日本の男性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の男性アイドルグループ "wikilink") [Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:日本のラジオパーソナリティ](https://ja.wikipedia.org/wiki/Category:日本のラジオパーソナリティ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink")
 
 1.
+2.
+3.

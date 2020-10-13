@@ -11,7 +11,7 @@
 
 [16ビット](../Page/16ビット.md "wikilink")および[32ビット](../Page/32ビット.md "wikilink")の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")[命令セット](../Page/命令セット.md "wikilink")アーキテクチャの[マイクロプロセッサー](https://ja.wikipedia.org/wiki/マイクロプロセッサー "wikilink")によって[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")市場では[事実上の標準](https://ja.wikipedia.org/wiki/事実上の標準 "wikilink")となった[インテル](https://ja.wikipedia.org/wiki/インテル "wikilink")は、[1994年](../Page/1994年.md "wikilink")に独自の[64ビット](../Page/64ビット.md "wikilink")命令セットアーキテクチャである「[IA-64](../Page/IA-64.md "wikilink")」を発表し、従来の[32ビット](../Page/32ビット.md "wikilink")x86アーキテクチャ(x86-32)を「[IA-32](../Page/IA-32.md "wikilink")」と呼ぶようになった。
 
-IA-64は、従来のx86-32との命令セットレベルの互換性という制約を捨てる代わりに、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) と共同開発した[EPICアーキテクチャ](../Page/EPICアーキテクチャ.md "wikilink")を採用し、[コンパイラ](../Page/コンパイラ.md "wikilink")など主にソフトウェアによる[命令レベルの並列性](../Page/命令レベルの並列性.md "wikilink")を発揮することで性能と将来への拡張性を確保する事を目的とした。
+IA-64は、従来のx86-32との命令セットレベルの互換性という制約を捨てる代わりに、[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) と共同開発した[EPICアーキテクチャ](../Page/EPICアーキテクチャ.md "wikilink")を採用し、[コンパイラ](../Page/コンパイラ.md "wikilink")など主に[ソフトウェア](../Page/ソフトウェア.md "wikilink")による[命令レベルの並列性](../Page/命令レベルの並列性.md "wikilink")を発揮することで性能と将来への拡張性を確保する事を目的とした。
 
 インテルはIA-64により、各社の[RISC](../Page/RISC.md "wikilink")プロセッサが占めるハイエンドの64ビット市場に進出し、HPは従来からの[PA-RISC](../Page/PA-RISC.md "wikilink")からの移行を表明した。IA-64は同時に[特許](../Page/特許.md "wikilink")などで保護されたアーキテクチャであるため、[AMD](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink") などの互換プロセッサメーカーの振り切りを狙う目的もあり、将来的にはIA-32(x86)からの移行も掲げられていた。またインテルがメーカー各社に供給する事で、幅広いハードウェアやソフトウェアでサポートと、大量生産による価格競争力の向上により、当時の32ビット市場におけるIA-32に続いて、次世代の64ビット市場で事実上の標準となる事が提唱された。
 

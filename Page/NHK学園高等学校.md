@@ -107,7 +107,7 @@
 
   - [JR](../Page/JR.md "wikilink")[中央線快速](https://ja.wikipedia.org/wiki/中央線快速 "wikilink") [国立駅](https://ja.wikipedia.org/wiki/国立駅 "wikilink")南口から徒歩18分
       - 国立駅南口から[京王バス](https://ja.wikipedia.org/wiki/京王バス "wikilink")・[立川バス](../Page/立川バス.md "wikilink")で[国立高校前バス停下車](https://ja.wikipedia.org/wiki/都立国立高校 "wikilink") 徒歩3分
-  - JR[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink") [谷保駅](https://ja.wikipedia.org/wiki/谷保駅 "wikilink")北口から徒歩8分
+  - JR[南武線](https://ja.wikipedia.org/wiki/南武線 "wikilink") [谷保駅](https://ja.wikipedia.org/wiki/谷保駅 "wikilink")北口から徒歩9分
 
 ## 普通科
 

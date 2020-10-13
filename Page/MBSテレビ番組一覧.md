@@ -120,7 +120,6 @@
 
   - スポーツ情報
       - [GAMBA TV〜青と黒〜](https://ja.wikipedia.org/wiki/GAMBA_TV〜青と黒〜 "wikilink")（火 2:10 - 2:25）
-      - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")（水 23:58 - 翌0:53）
       - [YUBIWAZA](https://ja.wikipedia.org/wiki/YUBIWAZA "wikilink")（金 1:59 - 2:30〈木深夜〉）
   - スポーツ中継
       - [全国高校ラグビー大会](https://ja.wikipedia.org/wiki/全国高等学校ラグビーフットボール大会#テレビ中継 "wikilink")
@@ -162,6 +161,7 @@
       - [カワスポ](https://ja.wikipedia.org/wiki/カワスポ "wikilink")
       - [ごるごる](https://ja.wikipedia.org/wiki/ごるごる "wikilink")
       - [亀ちゃんのWith Tigers](https://ja.wikipedia.org/wiki/亀ちゃんのWith_Tigers "wikilink")
+      - [戦え\!スポーツ内閣](https://ja.wikipedia.org/wiki/戦え!スポーツ内閣 "wikilink")
 
 ### スポーツ関連項目
 
@@ -565,7 +565,6 @@
       - ▲[情熱大陸](../Page/情熱大陸.md "wikilink")（日 23:00 - 23:30） - 秋田テレビでも放送されている。
       - ▲[超絶景\!人生一度は体感したい行った気トラベラー](https://ja.wikipedia.org/wiki/超絶景!人生一度は体感したい行った気トラベラー "wikilink")（特別番組）
   - 関西ローカル
-      - [OFLIFE](https://ja.wikipedia.org/wiki/OFLIFE "wikilink")（水 1:59 - 2:30〈火深夜〉）
       - [NEXT JAPAN〜熱き求道者〜](https://ja.wikipedia.org/wiki/NEXT_JAPAN〜熱き求道者〜 "wikilink")（土 18:50 - 18:56）
       - [湯浅んぽ](https://ja.wikipedia.org/wiki/湯浅んぽ "wikilink")（土 21:54 - 22:00）
       - [京都知新](https://ja.wikipedia.org/wiki/京都知新 "wikilink")（日 6:15 - 6:30）
@@ -616,6 +615,7 @@
       - [親鸞の道](https://ja.wikipedia.org/wiki/親鸞の道 "wikilink")
       - [旅は道ヅレ](https://ja.wikipedia.org/wiki/旅は道ヅレ "wikilink")
       - [美の京都遺産](https://ja.wikipedia.org/wiki/美の京都遺産 "wikilink")
+      - [OFLIFE](https://ja.wikipedia.org/wiki/OFLIFE "wikilink")
 
 ### ドキュメンタリー・紀行関連項目
 
@@ -1014,9 +1014,9 @@
 
 ### 現在放送中の番組
 
-  - ▲[彼女、お借りします](https://ja.wikipedia.org/wiki/彼女、お借りします#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:50（金深夜））
-  - ▲[GETUP\! GETLIVE\! \#げらげら](https://ja.wikipedia.org/wiki/GETUP!_GETLIVE!#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:50 - 1:55（金深夜））
+  - ▲[呪術廻戦](https://ja.wikipedia.org/wiki/呪術廻戦#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
   - ▲[炎炎ノ消防隊 弐ノ章](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
+  - ▲[ハイキュー\!\! TO THE TOP(第2クール)](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
 
 ### 放送終了した番組
 
@@ -1084,7 +1084,6 @@
       - [ハイキュー\!\!](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink") ※HD・字幕&データ放送
           - ハイキュー\!\! セカンドシーズン - 深夜アニメ作品。※HD - UHFアニメ
           - ハイキュー\!\! 烏野高校 VS 白鳥沢学園高校 - 深夜アニメ作品。※HD - UHFアニメ
-          - ハイキュー\!\! TO THE TOP
       - [七つの大罪](https://ja.wikipedia.org/wiki/七つの大罪_\(漫画\)#テレビアニメ "wikilink") ※HD・字幕&データ放送
           - 七つの大罪 聖戦の予兆 ※HD・字幕&データ放送
           - 七つの大罪 戒めの復活
@@ -1224,6 +1223,8 @@
       - [乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…#テレビアニメ "wikilink") - UHFアニメ
       - [ケンガンアシュラ](https://ja.wikipedia.org/wiki/ケンガンアシュラ#Webアニメ "wikilink") - UHFアニメ扱い
       - [アルゴナビス from BanG Dream\!](https://ja.wikipedia.org/wiki/ARGONAVIS_from_BanG_Dream!#テレビアニメ "wikilink")
+      - [彼女、お借りします](https://ja.wikipedia.org/wiki/彼女、お借りします#テレビアニメ "wikilink")
+      - [GETUP\! GETLIVE\! \#げらげら](https://ja.wikipedia.org/wiki/GETUP!_GETLIVE!#テレビアニメ "wikilink")
 
 ### 毎日放送アニメ枠一覧
 
@@ -1297,20 +1298,20 @@
   - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")Ⅱ ジロジロ有吉（水 1:29 - 1:59〈火深夜〉）
   - [霜降りミキXIT](../Page/霜降りミキXIT.md "wikilink")（木 0:59 - 1:59〈水深夜〉）
   - [有田ジェネレーション](https://ja.wikipedia.org/wiki/有田ジェネレーション "wikilink")（金 1:29 - 1:59〈木深夜〉）
-  - [やはり俺の青春ラブコメはまちがっている。完](https://ja.wikipedia.org/wiki/やはり俺の青春ラブコメはまちがっている。#テレビアニメ "wikilink")（金 2:30 - 3:00〈木深夜〉）
   - [中居大輔と夜な夜なラブ子さん](../Page/中居大輔と夜な夜なラブ子さん.md "wikilink")（土 0:20 - 1:20〈金深夜〉）
   - [KAT-TUNの世界一タメになる旅\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅! "wikilink")+（日 1:28 - 2:03〈土深夜〉）
   - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](../Page/熊本放送.md "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
   - [バナナサンド](../Page/バナナサンド.md "wikilink")（日 12:54 - 13:54）
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
+  - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）
 
 ## 系列外の番組
 
-  - [放課後ていぼう日誌](https://ja.wikipedia.org/wiki/放課後ていぼう日誌#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
-  - [A.I.C.O. Incarnation](https://ja.wikipedia.org/wiki/A.I.C.O._Incarnation "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
+  - [憂国のモリアーティ](https://ja.wikipedia.org/wiki/憂国のモリアーティ#テレビアニメ "wikilink")（[アニメ特区](https://ja.wikipedia.org/wiki/アニメシャワー#アニメ特区 "wikilink")、水 2:30 - 3:00〈火深夜〉）
+  - [戦翼のシグルドリーヴァ](../Page/戦翼のシグルドリーヴァ.md "wikilink")（アニメ特区、水 3:00 - 3:30〈火深夜〉）
   - [まえせつ\!](../Page/まえせつ!.md "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
-  - [とある科学の超電磁砲T](https://ja.wikipedia.org/wiki/とある科学の超電磁砲#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
+  - [100万の命の上に俺は立っている](https://ja.wikipedia.org/wiki/100万の命の上に俺は立っている#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
   - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
   - [ド級編隊エグゼロス](https://ja.wikipedia.org/wiki/ド級編隊エグゼロス#テレビアニメ "wikilink")（アニメシャワー、日 3:38 - 4:08〈土深夜〉） 字幕放送 - UHFアニメ
 

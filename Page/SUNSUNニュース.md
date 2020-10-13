@@ -1,7 +1,7 @@
 > この記事は[SUNSUNニュース](https://ja.wikipedia.org/wiki/SUNSUNニュース)から翻訳されています。
 
 
-『**SUNSUNニュース**』（さんさんニュース）は、[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")にて放送されている[ニュース番組の名称である](../Page/報道番組.md "wikilink")。この項では『KSS SUNSUNニュース』と、21時前に放送されるミニニュース枠（現在は『プライムニュース&天気』）について記す。
+『**SUNSUNニュース**』（サンサンニュース）は、[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")にて放送されている[ニュース番組の名称である](../Page/報道番組.md "wikilink")。この項では『KSS SUNSUNニュース』と、21時前に放送されるミニニュース枠（現在は『プライムニュース&天気』）について記す。
 
 ## KSS SUNSUNニュース
 
@@ -57,6 +57,8 @@
 
   - 月曜 - 土曜 20:54 - 20:57
 
+## 脚注
+
 ## 関連項目
 
   - [SUNSUNスーパータイム](../Page/SUNSUNスーパータイム.md "wikilink")
@@ -64,6 +66,9 @@
   - [SUNSUNスーパーニュース](../Page/SUNSUNスーパーニュース.md "wikilink")
   - [SUNSUN みんなのニュース](https://ja.wikipedia.org/wiki/SUNSUN_みんなのニュース "wikilink")
 
-## 脚注
+## 外部リンク
+
+  - [FNNプライムオンライン 高知さんさんテレビ](https://www.fnn.jp/category/news-kss)
+  - [Yahoo\!ニュース 高知さんさんテレビ](https://news.yahoo.co.jp/media/newskss)
 
 [Category:高知さんさんテレビの番組](https://ja.wikipedia.org/wiki/Category:高知さんさんテレビの番組 "wikilink") [Category:中国・四国地方のテレビの帯番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビの帯番組 "wikilink") [Category:中国・四国地方のテレビのミニ番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのミニ番組 "wikilink") [Category:中国・四国地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:中国・四国地方のテレビのニュース・報道番組 "wikilink") [Category:FNNスピーク](https://ja.wikipedia.org/wiki/Category:FNNスピーク "wikilink") [Category:産経テレニュースFNN](https://ja.wikipedia.org/wiki/Category:産経テレニュースFNN "wikilink")

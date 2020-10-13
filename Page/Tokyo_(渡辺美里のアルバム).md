@@ -18,6 +18,8 @@
 
   - （全曲）作詞：[渡辺美里](../Page/渡辺美里.md "wikilink")
 
+## 30th Anniversary Edition
+
 ## 参加ミュージシャン
 
 **[Power -明日の子供-](https://ja.wikipedia.org/wiki/Power_-明日の子供- "wikilink")**
@@ -26,7 +28,7 @@
   - E. Guitar : [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
   - Synclavier Operator : 秋葉淳
   - Synth Operator : [久保浩二](https://ja.wikipedia.org/wiki/久保こーじ "wikilink")
-  - Background Vocals : [Misato](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
+  - Background Vocals : [Misato](../Page/渡辺美里.md "wikilink")
 
 **[サマータイム ブルース](https://ja.wikipedia.org/wiki/サマータイム_ブルース/Boys_kiss_Girls "wikilink")**
 

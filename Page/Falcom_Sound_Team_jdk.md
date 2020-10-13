@@ -39,6 +39,8 @@
   - [萩生田朋克](https://ja.wikipedia.org/wiki/萩生田朋克 "wikilink")
   - [橋本鍾愛](https://ja.wikipedia.org/wiki/橋本鍾愛 "wikilink")
 
+## 脚注
+
 ## 関連項目
 
   - [ファルコムレーベル](../Page/ファルコムレーベル.md "wikilink")

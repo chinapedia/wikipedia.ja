@@ -236,7 +236,7 @@
 <td><p>23</p></td>
 <td><p>2012</p></td>
 <td><p><a href="../Page/ベイルート.md" title="wikilink">ベイルート</a></p></td>
-<td><p><span style="color:#A0A0A0;">No title awarded</span></p></td>
+<td><p>決勝戦は開催されず</p></td>
 <td><p><span style="color:#A0A0A0;">Not held</span></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Mahram_Tehran_BC" title="wikilink">Mahram Tehran</a><br />
  <a href="https://ja.wikipedia.org/wiki/Sporting_Al_Riyadi_Beirut" title="wikilink">Al-Riyadi Beirut</a></p></td>

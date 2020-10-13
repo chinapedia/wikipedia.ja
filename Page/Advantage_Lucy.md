@@ -442,7 +442,7 @@ QIAG-70082</p></td>
 
   - [advantage Lucy](http://www.advantagelucy.com/) - オフィシャルサイト
 
-  - [日々のしるし](http://advantagelucyyy.blogspot.jp/) - advantage Lucyの日記
+  - [日々のしるし](https://advantagelucyyy.blogspot.com/) - advantage Lucyの日記
 
   -
   -

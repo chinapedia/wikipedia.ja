@@ -34,7 +34,7 @@
     趣味は演歌を聴くこと。
     かつては[吉村崇](https://ja.wikipedia.org/wiki/吉村崇 "wikilink")（[平成ノブシコブシ](../Page/平成ノブシコブシ.md "wikilink")）、てつみち（元[フクロトジ](../Page/フクロトジ.md "wikilink")）と一緒に[幡ヶ谷](../Page/幡ヶ谷.md "wikilink")に住んでいた。
     2017年に結婚。妻は[福島県](../Page/福島県.md "wikilink")[いわき市](../Page/いわき市.md "wikilink")にある[スパリゾートハワイアンズ](../Page/スパリゾートハワイアンズ.md "wikilink")の元[フラガール](../Page/フラガール.md "wikilink")。
-    [いかりや長介](../Page/いかりや長介.md "wikilink")の[モノマネ](https://ja.wikipedia.org/wiki/モノマネ "wikilink")が非常に得意。
+    [いかりや長介](../Page/いかりや長介.md "wikilink")の[モノマネ](https://ja.wikipedia.org/wiki/モノマネ "wikilink")が非常に得意。また、[志村けん](../Page/志村けん.md "wikilink")を「僕にとっての神様」としている。
     [痛風](../Page/痛風.md "wikilink")と[腎臓病](https://ja.wikipedia.org/wiki/腎臓病 "wikilink")を患い、2016年に父親から生体[腎移植](../Page/腎移植.md "wikilink")を受けた。
     ライブのエンディングで様々なキャラクターに扮し登場する。そのライブで演じてもいない、なんの脈絡もない人物に扮するため、よくいじられる。
 

@@ -27,7 +27,7 @@
       - 作詞・作曲：今井寿
     <!-- end list -->
       -
-        ギターソロに[ミュージカルのCATの一節が挿入されている](../Page/モーリス・ラヴェル.md "wikilink")。
+        ギターソロに[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ボレロ](../Page/ボレロ.md "wikilink")の一節が挿入されている。
         [アウトロ](../Page/アウトロ.md "wikilink")と2曲目が繋がっている。
         次回作『[Mona Lisa OVERDRIVE](../Page/Mona_Lisa_OVERDRIVE.md "wikilink")』の最後収録のインストゥルメンタル「Continuous」は、この曲を解体し再構築して作られたものである。
         [2012年](../Page/2012年.md "wikilink")に行われたファン投票では[BMG](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")（後の[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）在籍時に発表された、シングルを除く楽曲の中から1位に選ばれた。

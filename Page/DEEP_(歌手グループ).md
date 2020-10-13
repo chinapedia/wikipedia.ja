@@ -545,7 +545,7 @@
 
 2019年2月19日、「DEEP VOCALIST AUDITION」の開催を発表\[27\]。同年4月より始動した1次審査は、約1万2千人が参加した。同年7月22日に赤坂BLITZで最終審査を行い、DEEPと合格者によるプロジェクト「DEEP SQUAD」を発表\[28\]。
 
-**DEEP以外のメンバー**
+### DEEP以外のメンバー
 
   - 宇原雄飛（うはら ゆうひ、[2001年](../Page/2001年.md "wikilink")[3月16日](../Page/3月16日.md "wikilink") - ）
       - [大阪府](../Page/大阪府.md "wikilink")出身。身長178cm\[29\]。
@@ -554,11 +554,12 @@
   - 比嘉涼樹（ひが すずき、[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月14日](../Page/8月14日.md "wikilink") - ）
       - [沖縄県](../Page/沖縄県.md "wikilink")出身。身長175cm\[31\]。
 
-**配信シングル**
+### 配信シングル
 
   - [Get With You](../Page/Get_With_You.md "wikilink")（2020年7月22日）\[32\]
+  - Good Love Your Love（2020年10月30日）
 
-**ライブ**
+### ライブ
 
   - LDH PERFECT YEAR 2020 SPECIAL STAGE 〜MUSIC BOX〜（<s>3月26日、4月5日</s>）新型コロナウイルスによる政府の自粛要請に従い中止\[33\]
 

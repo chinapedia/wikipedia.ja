@@ -154,7 +154,7 @@
 
   - [Fuuri](http://www.fuuri.jp/index.html)
 
-  - [LIBRO(amped music)](http://libro-ampedmusic.blogspot.jp/)
+  - [LIBRO(amped music)](https://libro-ampedmusic.blogspot.com/)
 
   -
   -

@@ -1,7 +1,7 @@
 > この記事は[ファイナルファンタジーVIIの登場人物](https://ja.wikipedia.org/wiki/ファイナルファンタジーVIIの登場人物)から翻訳されています。
 
 
-**ファイナルファンタジーVIIの登場人物**（ファイナルファンタジーセブンのとうじょうじんぶつ）では、『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』とその派生作品群「[COMPILATION of FINAL FANTASY VII](https://ja.wikipedia.org/wiki/COMPILATION_of_FINAL_FANTASY_VII "wikilink")」の登場人物について解説する。
+**ファイナルファンタジーVIIの登場人物**（ファイナルファンタジーセブンのとうじょうじんぶつ）では、『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』とその派生作品群「[COMPILATION of FINAL FANTASY VII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII#COMPILATION_of_FINAL_FANTASY_VII "wikilink")」の登場人物について解説する。
 
 年齢は『ファイナルファンタジーVII』でのもの（「COMPILATION of FINAL FANTASY VII」各作品における年齢はその作品の記事を参照）。
 

@@ -51,6 +51,6 @@
 ## 外部リンク
 
   -
-  - [BATHTUB SHITTER公式マイスペース](http://www.myspace.com/shitterofbathtub)
+  - [BATHTUB SHITTER公式マイスペース](https://myspace.com/shitterofbathtub)
 
 [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:ハードコア・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ハードコア・パンク・バンド "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")

@@ -651,7 +651,7 @@
 
   - [ファイサル・アル＝ダヒル](../Page/ファイサル・アル＝ダヒル.md "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／チェコスロバキア戦 57分
-  - [アル-ブルシ](https://ja.wikipedia.org/wiki/アル-ブルシ "wikilink")
+  - [アブドゥラー・アル＝ブルーシ](https://ja.wikipedia.org/wiki/アブドゥラー・アル＝ブルーシ "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／フランス戦 75分
 
 ### クロアチア
@@ -1119,11 +1119,11 @@
 
 **1得点**
 
-  - エクトール・セラヤ
+  - [エクトール・セラヤ](https://ja.wikipedia.org/wiki/エクトール・セラヤ "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／GL スペイン戦 8分
-  - アントニオ・レイン
+  - [アントニオ・レイン](https://ja.wikipedia.org/wiki/アントニオ・レイン "wikilink")
       - [1982年](../Page/1982_FIFAワールドカップ.md "wikilink")／GL 北アイルランド戦 60分
-  - カルロ・コストリー
+  - [カルロ・コストリー](https://ja.wikipedia.org/wiki/カルロ・コストリー "wikilink")
       - [2014年](../Page/2014_FIFAワールドカップ.md "wikilink")／GL エクアドル戦 31分
 
 ### ルーマニア

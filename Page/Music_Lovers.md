@@ -223,7 +223,7 @@
 | 130 | [4月12日](../Page/4月12日.md "wikilink")                      | 松任谷由実                                                                                      | YOU、マツコ・デラックス                                                                                                                                     |            |
 | 131 | [4月19日](../Page/4月19日.md "wikilink")                      | [湘南乃風](../Page/湘南乃風.md "wikilink")                                                         | [品川祐](https://ja.wikipedia.org/wiki/品川祐 "wikilink")、[成宮寛貴](../Page/成宮寛貴.md "wikilink")                                                            |            |
 | 132 | [4月26日](../Page/4月26日.md "wikilink")                      | [CHEMISTRY](../Page/CHEMISTRY.md "wikilink")                                               | [ブラックマヨネーズ](../Page/ブラックマヨネーズ.md "wikilink")、[マリエ](https://ja.wikipedia.org/wiki/マリエ_\(モデル\) "wikilink")                                          |            |
-| 133 | [5月3日](../Page/5月3日.md "wikilink")                        | [德永英明](https://ja.wikipedia.org/wiki/德永英明 "wikilink")                                      | [ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")                                                          |            |
+| 133 | [5月3日](../Page/5月3日.md "wikilink")                        | [德永英明](../Page/德永英明.md "wikilink")                                                         | [ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")、[NON STYLE](../Page/NON_STYLE.md "wikilink")                                                          |            |
 | 134 | [5月10日](../Page/5月10日.md "wikilink")                      | [加藤ミリヤ](https://ja.wikipedia.org/wiki/加藤ミリヤ "wikilink")、[清水翔太](../Page/清水翔太.md "wikilink") | [押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")、[TKO](../Page/TKO_\(お笑いコンビ\).md "wikilink")、[バナナマン](../Page/バナナマン.md "wikilink")            |            |
 | 135 | [5月17日](../Page/5月17日.md "wikilink")                      | [福山雅治](https://ja.wikipedia.org/wiki/福山雅治 "wikilink")                                      | [新庄剛志](https://ja.wikipedia.org/wiki/新庄剛志 "wikilink")、[加藤晴彦](../Page/加藤晴彦.md "wikilink")                                                          |            |
 | 136 | [5月24日](../Page/5月24日.md "wikilink")                      | 福山雅治                                                                                       | 新庄剛志、加藤晴彦                                                                                                                                         |            |
@@ -289,7 +289,7 @@
 | 179 | [3月28日](../Page/3月28日.md "wikilink")                      |                                                                                 |                                                                                                                                                              | 春の名曲スペシャル      |
 | 180 | [4月4日](../Page/4月4日.md "wikilink")                        | [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")                           | [優香](../Page/優香.md "wikilink")、[いとうあさこ](../Page/いとうあさこ.md "wikilink")                                                                                        |                |
 | 181 | [4月11日](../Page/4月11日.md "wikilink")                      | [KAN](../Page/KAN.md "wikilink")                                                | [つるの剛士](https://ja.wikipedia.org/wiki/つるの剛士 "wikilink")                                                                                                      |                |
-| 182 | [4月18日](../Page/4月18日.md "wikilink")                      | [德永英明](https://ja.wikipedia.org/wiki/德永英明 "wikilink")                           | [哀川翔](../Page/哀川翔.md "wikilink")、[パンクブーブー](../Page/パンクブーブー.md "wikilink")                                                                                    |                |
+| 182 | [4月18日](../Page/4月18日.md "wikilink")                      | [德永英明](../Page/德永英明.md "wikilink")                                              | [哀川翔](../Page/哀川翔.md "wikilink")、[パンクブーブー](../Page/パンクブーブー.md "wikilink")                                                                                    |                |
 | 183 | [4月25日](../Page/4月25日.md "wikilink")                      | [一青窈](https://ja.wikipedia.org/wiki/一青窈 "wikilink")                             | [バナナマン](../Page/バナナマン.md "wikilink")、[光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")                                                                   |                |
 | 184 | [5月2日](../Page/5月2日.md "wikilink")                        | [Hilcrhyme](https://ja.wikipedia.org/wiki/Hilcrhyme "wikilink")                 | [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")、[サンドウィッチマン](../Page/サンドウィッチマン_\(お笑いコンビ\).md "wikilink")                                                |                |
 | 185 | [5月9日](../Page/5月9日.md "wikilink")                        | [スガシカオ](../Page/スガシカオ.md "wikilink")                                            | [森山未來](../Page/森山未來.md "wikilink")                                                                                                                           |                |
@@ -452,7 +452,7 @@
 <tr class="odd">
 <td><p>232</p></td>
 <td><p><a href="../Page/4月17日.md" title="wikilink">4月17日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/德永英明" title="wikilink">德永英明</a></p></td>
+<td><p><a href="../Page/德永英明.md" title="wikilink">德永英明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小林麻耶" title="wikilink">小林麻耶</a>、<a href="../Page/森三中.md" title="wikilink">森三中</a>（<a href="https://ja.wikipedia.org/wiki/大島美幸" title="wikilink">大島美幸</a>、<a href="https://ja.wikipedia.org/wiki/村上知子" title="wikilink">村上知子</a>）</p></td>
 <td></td>
 </tr>
@@ -891,7 +891,7 @@ flumpool</p></td>
 <tr class="odd">
 <td><p>289</p></td>
 <td><p><a href="../Page/5月27日.md" title="wikilink">5月27日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/德永英明" title="wikilink">德永英明</a></p></td>
+<td><p><a href="../Page/德永英明.md" title="wikilink">德永英明</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/冨永愛" title="wikilink">冨永愛</a>、<a href="https://ja.wikipedia.org/wiki/小林麻耶" title="wikilink">小林麻耶</a></p></td>
 <td></td>
 </tr>

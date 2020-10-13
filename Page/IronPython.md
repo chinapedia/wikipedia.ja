@@ -38,15 +38,14 @@ System.Console.WriteLine('{0}, {1}, {2}', 10 * 10, 2 + .3, '"Hello, IronPython"'
 
 ## 関連項目
 
-  - [CPython](https://ja.wikipedia.org/wiki/CPython "wikilink"):オリジナルのPython。Cで書かれていることからCPythonとも呼ばれる。
-  - [Jython](../Page/Jython.md "wikilink"):CPythonを[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")に移植したもの。
+  - [CPython](https://ja.wikipedia.org/wiki/CPython "wikilink") - オリジナルのPython。Cで書かれていることからCPythonとも呼ばれる。
+  - [Jython](../Page/Jython.md "wikilink") - CPythonを[Java仮想マシン](../Page/Java仮想マシン.md "wikilink")に移植したもの。
   - [IronRuby](../Page/IronRuby.md "wikilink")
 
 ## 外部リンク
 
-  - [IronPython公式サイト](http://www.ironpython.net/)
-  - [GitHub IronPython](https://github.com/IronLanguages/)
-
+  -
+  -
 {{.NET}}
 
 [Category:.NET_Framework](https://ja.wikipedia.org/wiki/Category:.NET_Framework "wikilink") [Category:Pythonライブラリ](https://ja.wikipedia.org/wiki/Category:Pythonライブラリ "wikilink") [Category:Pythonの実装](https://ja.wikipedia.org/wiki/Category:Pythonの実装 "wikilink")

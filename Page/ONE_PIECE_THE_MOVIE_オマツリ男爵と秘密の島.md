@@ -109,25 +109,6 @@
   - 作画監督・キャラクターデザイン - [すしお](../Page/すしお.md "wikilink")、[山下高明](../Page/山下高明.md "wikilink")、[久保田誓](../Page/久保田誓.md "wikilink")
   - 監督 - [細田守](../Page/細田守.md "wikilink")
 
-### 原画
-
-  -
-    [安藤正浩](../Page/安藤正浩.md "wikilink") [西田達三](../Page/西田達三.md "wikilink") 君島繁 [伊東伸高](https://ja.wikipedia.org/wiki/伊東伸高 "wikilink") 矢崎優子
-    [濱州英喜](https://ja.wikipedia.org/wiki/濱洲英喜 "wikilink") 木下和栄 [大塚健](../Page/大塚健_\(アニメーター\).md "wikilink") 増永計介 市川慶一
-    伊藤修一 [中村章子](https://ja.wikipedia.org/wiki/中村章子 "wikilink") 向田隆 小松英司 松田宗一郎
-    村谷貴志 坂崎忠 [和田高明](../Page/和田高明.md "wikilink") [加々美高浩](../Page/加々美高浩.md "wikilink") 西位輝実
-    小倉寛之 小松田大全 苫政三 [高橋英樹](https://ja.wikipedia.org/wiki/高橋英樹_\(アニメーター\) "wikilink") 三浦春樹
-    [馬越嘉彦](../Page/馬越嘉彦.md "wikilink") 奥田佳子 馬場充子 駒井一也 [吉田徹](../Page/吉田徹.md "wikilink")
-    杉浦幸次 [橋本敬史](../Page/橋本敬史.md "wikilink") [福田道生](../Page/福田道生.md "wikilink") [芳垣祐介](https://ja.wikipedia.org/wiki/芳垣祐介 "wikilink") 新井浩一
-    [伊藤嘉之](../Page/伊藤嘉之.md "wikilink") [中鶴勝祥](../Page/中鶴勝祥.md "wikilink") 崔ふみひで [白石亜由美](https://ja.wikipedia.org/wiki/劇団イヌカレー "wikilink") [松本憲生](../Page/松本憲生.md "wikilink")
-    加藤裕美 [桑原幹根](../Page/桑原幹根.md "wikilink") [森久司](../Page/森久司.md "wikilink") 楠三十郎 [入好さとる](../Page/入好さとる.md "wikilink")
-    [今石洋之](../Page/今石洋之.md "wikilink") 黒柳賢治 ROSETTE.K 鈴木勤 [渡部圭祐](../Page/渡部圭祐.md "wikilink")
-    佐藤裕子 ミサワユキヒロ 一ノ関敦 [吉成曜](../Page/吉成曜.md "wikilink") 浅野恭司
-    矢崎良美 佐藤陽子 [平川哲生](https://ja.wikipedia.org/wiki/平川哲生 "wikilink") 寺尾洋之 猿渡聖加
-    鈴木奈都子 小松こずえ 青山充 袴田祐二 大内智美
-    [竹田欣弘](../Page/竹田欣弘.md "wikilink") 島貫正弘 [青山浩行](https://ja.wikipedia.org/wiki/青山浩行 "wikilink") 福島伸一郎 中島由喜
-    宮下雄次 真中孝之 森知鶴 [本田雄](../Page/本田雄.md "wikilink")（ノンクレ）
-
 ## 主題歌
 
   - 「[夢見る頃を過ぎても](https://ja.wikipedia.org/wiki/夢見る頃を過ぎても_\(氣志團の曲\) "wikilink")」

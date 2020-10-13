@@ -1,7 +1,7 @@
 > この記事は[BMW・1シリーズ](https://ja.wikipedia.org/wiki/BMW・1シリーズ)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:2018_BMW_118i_SE_Automatic_1.5.jpg "wikilink") **BMW 1シリーズ**（BMW 1 Series, BMW 1er）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[自動車](../Page/自動車.md "wikilink")である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:2019_BMW_118i_SE_1.5_Front.jpg "wikilink") **BMW 1シリーズ**（BMW 1 Series, BMW 1er）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車メーカー・[BMW](../Page/BMW.md "wikilink")が製造・販売している[自動車](../Page/自動車.md "wikilink")である。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 [2020年](../Page/2020年.md "wikilink")モデルとなる3代目は、[MINIや](../Page/ミニ_\(BMW\).md "wikilink")2シリーズツアラー（[F45](https://ja.wikipedia.org/wiki/BMW・2シリーズ#アクティブツアラー（F45） "wikilink")/[F46](https://ja.wikipedia.org/wiki/BMW・2シリーズ#グランツアラー（F46） "wikilink")）で培われた技術を全て活用したFFで開発が進んでいる\[1\]。
 
-## 初代（2004年 -）E87型
+## 初代（2004年 - 2011年）E87型
 
 ### ハッチバック(E87/E81)
 
@@ -141,7 +141,7 @@ M135i M140iに関してはランフラットタイヤではない。
 
 ## 第3世代（2019年 -）F40型
 
-[2019_BMW_118i_1.5_Front.jpg](https://ja.wikipedia.org/wiki/File:2019_BMW_118i_1.5_Front.jpg "fig:2019_BMW_118i_1.5_Front.jpg") [2019_BMW_118i_1.5_Rear.jpg](https://ja.wikipedia.org/wiki/File:2019_BMW_118i_1.5_Rear.jpg "fig:2019_BMW_118i_1.5_Rear.jpg") [2019年](../Page/2019年.md "wikilink")5月27日、[ミュンヘン](../Page/ミュンヘン.md "wikilink")で開催された「BMW Group ＃NEXTGen presentation platform」にて[ワールドプレミア](https://ja.wikipedia.org/wiki/ワールドプレミア "wikilink")。同年9月に日本を含めた複数の市場で発売を開始すると発表された。
+[2019年](../Page/2019年.md "wikilink")5月27日、[ミュンヘン](../Page/ミュンヘン.md "wikilink")で開催された「BMW Group ＃NEXTGen presentation platform」にて[ワールドプレミア](https://ja.wikipedia.org/wiki/ワールドプレミア "wikilink")。同年9月に日本を含めた複数の市場で発売を開始すると発表された。
 
 当代では走りと空間効率を高次元で両立させるため、2代目まで採用されたFRから一転してシリーズ初となる[FFを採用した](../Page/前輪駆動.md "wikilink")。 同時に、プラットフォームはMINIや2シリーズアクティブツアラー/グランツアラー等で採用済の「UKL」をさらに昇華させた新開発の「FAAR」を採用。
 

@@ -15,6 +15,7 @@
   - [少年チャンプル](../Page/少年チャンプル.md "wikilink")（中京テレビ制作・日本テレビ系）※ナレーション
   - [まんとら〜マンガ虎の穴〜](../Page/まんとら〜マンガ虎の穴〜.md "wikilink")（[テレビ神奈川](../Page/テレビ神奈川.md "wikilink")）※ナレーション
   - ハンナ（[ディズニー・チャンネル](../Page/ディズニー・チャンネル.md "wikilink")）※テレビ番組のDJ役
+  - ROX([関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink"))※クイズ出題者
 
 ### ラジオ
 
@@ -29,6 +30,10 @@
   - [TSUTAYA WAVE-C3 TSUTAYAスタイル](https://ja.wikipedia.org/wiki/TSUTAYA_WAVE-C3_TSUTAYAスタイル "wikilink")（TSUTAYA・店内放送）
   - [TSUTAYA WAVE-C3 POWER PUSH](https://ja.wikipedia.org/wiki/TSUTAYA_WAVE-C3_POWER_PUSH "wikilink")（TSUTAYA・店内放送）
   - [TSUTAYA WAVE-C3 ツタ得](https://ja.wikipedia.org/wiki/TSUTAYA_WAVE-C3_ツタ得 "wikilink")（TSUTAYA・店内放送）
+
+### CM
+
+  - [小松未歩](../Page/小松未歩.md "wikilink")「[謎](../Page/謎_\(曲\).md "wikilink")」※ナレーション
 
 ### Podcast
 

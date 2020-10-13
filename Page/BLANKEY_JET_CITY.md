@@ -903,7 +903,7 @@ DVD：2002年5月16日</p></td>
 ### 写真集
 
   - 灰になるまで - [多田由美](../Page/多田由美.md "wikilink")とのジョイントグラビアコミック。[川本満雄](https://ja.wikipedia.org/wiki/川本満雄 "wikilink")（1992年6月） ISBN 4-04-8523473
-  - [Blankey Jet City](https://ja.wikipedia.org/wiki/Blankey_Jet_City "wikilink") - [緒方秀美](https://ja.wikipedia.org/wiki/緒方秀美 "wikilink")写真集（1995年12月）
+  - Blankey Jet City - [緒方秀美](https://ja.wikipedia.org/wiki/緒方秀美 "wikilink")写真集（1995年12月）
 
 ## 未発表曲
 

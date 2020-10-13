@@ -608,6 +608,8 @@ CD+DVD</p></td>
       - JMC、シングル「みそしるママ らいすパパ」に収録
   - 「Kimi wo Shiritai」（2018年1月31日）
       - 千晴、アルバム「始まり」に収録
+  - 「想像の向こう」（2020年10月21日）
+      - [尾崎裕哉](https://ja.wikipedia.org/wiki/尾崎裕哉 "wikilink")、アルバム「Golden Hour」に収録
 
 ### 書籍
 

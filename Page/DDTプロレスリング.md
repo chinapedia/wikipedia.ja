@@ -346,6 +346,7 @@
   - 5月12日、動画配信サービス「DDT UNIVERSE」を「WRESTLE UNIVERSE」に名称変更。\[14\]
   - 7月1日、秋山準がDDTにレンタル移籍。
   - 7月27日、株式会社DDTプロレスリング、ノア・グローバルエンタテインメント株式会社、株式会社DDTフーズの3社経営統合を発表\[15\]。9月より、株式会社CyberFightの運営するブランドとなる\[16\]。
+  - [9月30日](../Page/9月30日.md "wikilink")、レディビアードが契約満了により退団。
 
 ## 他団体との交流
 
@@ -561,9 +562,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
 <a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 <td><p>第67代</p></td>
-<td><p>6</p></td>
-<td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a><br />
-<a href="https://ja.wikipedia.org/wiki/ドリュー・パーカー" title="wikilink">ドリュー・パーカー</a></p></td>
+<td><p>7</p></td>
+<td><p><a href="../Page/坂口征夫.md" title="wikilink">坂口征夫</a><br />
+<a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D6人タッグ王座" title="wikilink">KO-D6人タッグ王座</a></p></td>
@@ -572,7 +573,9 @@
 <a href="../Page/赤井沙希.md" title="wikilink">赤井沙希</a></p></td>
 <td><p>第41代</p></td>
 <td><p>2</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/平田一喜" title="wikilink">平田一喜</a><br />
+<a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
+<a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D10人タッグ王座" title="wikilink">KO-D10人タッグ王座</a></p></td>
@@ -590,14 +593,14 @@
 <td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a></p></td>
 <td><p>第3代</p></td>
 <td><p>1</p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
 <td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
 <td><p>第48代</p></td>
-<td><p>4</p></td>
-<td><p><a href="../Page/アントーニオ本多.md" title="wikilink">アントーニオ本多</a></p></td>
+<td><p>5</p></td>
+<td><p><a href="../Page/高木三四郎.md" title="wikilink">高木三四郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
@@ -643,10 +646,9 @@
 
 ### DAMNATION
 
-  - [佐々木大輔](../Page/佐々木大輔_\(プロレスラー\).md "wikilink")
+  - [遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink")
   - [マッド・ポーリー](https://ja.wikipedia.org/wiki/柴田正人 "wikilink")
   - [高尾蒼馬](https://ja.wikipedia.org/wiki/高尾蒼馬 "wikilink")
-  - [遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")（フリー）
 
 <!-- end list -->
@@ -698,10 +700,10 @@
   - [スーパー・ササダンゴ・マシン](../Page/マッスル坂井.md "wikilink")（[松竹芸能](../Page/松竹芸能.md "wikilink")兼任所属）（限定参戦）
   - [中澤マイケル](../Page/中澤マイケル.md "wikilink")（[AEW兼任所属](https://ja.wikipedia.org/wiki/オール・エリート・レスリング "wikilink")）（限定参戦）
   - [ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")（限定参戦）
+  - [佐々木大輔](../Page/佐々木大輔_\(プロレスラー\).md "wikilink")
   - [星誕期](../Page/星誕期偉真智.md "wikilink")（限定参戦）
   - [松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")
   - [伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")
-  - [レディビアード](https://ja.wikipedia.org/wiki/レディビアード "wikilink")（限定参戦）
   - [ゆに](https://ja.wikipedia.org/wiki/ゆに "wikilink")（限定参戦）
   - [納谷幸男](https://ja.wikipedia.org/wiki/納谷幸男 "wikilink")
   - [ポコたん](https://ja.wikipedia.org/wiki/ポコたん "wikilink")（限定参戦）
@@ -733,6 +735,51 @@
 
 <!-- end list -->
 
+  - OSW
+
+<!-- end list -->
+
+  - [くいしんぼう仮面](../Page/くいしんぼう仮面.md "wikilink")
+
+<!-- end list -->
+
+  - OWE
+
+<!-- end list -->
+
+  - [エル・リンダマン](https://ja.wikipedia.org/wiki/林悠河 "wikilink")
+  - [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")
+  - [T-Hawk](https://ja.wikipedia.org/wiki/小野寺卓也 "wikilink")
+
+<!-- end list -->
+
+  - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
+
+<!-- end list -->
+
+  - [石井慧介](https://ja.wikipedia.org/wiki/石井慧介 "wikilink")
+  - [今成夢人](https://ja.wikipedia.org/wiki/今成夢人 "wikilink")
+  - [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")
+  - [翔太](https://ja.wikipedia.org/wiki/翔太_\(プロレスラー\) "wikilink")
+
+<!-- end list -->
+
+  - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
+
+<!-- end list -->
+
+  - [秋山準](../Page/秋山準.md "wikilink")
+
+<!-- end list -->
+
+  - [DEP](../Page/DEP_\(プロレス\).md "wikilink")
+
+<!-- end list -->
+
+  - 浦博旭
+
+<!-- end list -->
+
   - [パラエストラ](https://ja.wikipedia.org/wiki/パラエストラ "wikilink")東京
 
 <!-- end list -->
@@ -749,40 +796,12 @@
 
 <!-- end list -->
 
-  - OSW
+  - [プロレスリング・チームでら](https://ja.wikipedia.org/wiki/チームでら "wikilink")
 
 <!-- end list -->
 
-  - [くいしんぼう仮面](../Page/くいしんぼう仮面.md "wikilink")
-
-<!-- end list -->
-
-  - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
-
-<!-- end list -->
-
-  - [石井慧介](https://ja.wikipedia.org/wiki/石井慧介 "wikilink")
-  - [今成夢人](https://ja.wikipedia.org/wiki/今成夢人 "wikilink")
-  - [大家健](https://ja.wikipedia.org/wiki/大家健 "wikilink")
-  - [翔太](https://ja.wikipedia.org/wiki/翔太_\(プロレスラー\) "wikilink")
-
-<!-- end list -->
-
-  - OWE
-
-<!-- end list -->
-
-  - [エル・リンダマン](https://ja.wikipedia.org/wiki/林悠河 "wikilink")
-  - [CIMA](https://ja.wikipedia.org/wiki/CIMA_\(プロレスラー\) "wikilink")
-  - [T-Hawk](https://ja.wikipedia.org/wiki/小野寺卓也 "wikilink")
-
-<!-- end list -->
-
-  - [全日本プロレス](../Page/全日本プロレス.md "wikilink")
-
-<!-- end list -->
-
-  - [秋山準](../Page/秋山準.md "wikilink")
+  - [ジ・インテリジェンス・センセーショナル・グランドパッションマスク4号](https://ja.wikipedia.org/wiki/小仲＝ペールワン "wikilink")
+  - [高井憲吾](../Page/高井憲吾.md "wikilink")
 
 <!-- end list -->
 
@@ -797,36 +816,19 @@
 
 <!-- end list -->
 
-  - [マッハ道場](https://ja.wikipedia.org/wiki/マッハ道場 "wikilink")
-
-<!-- end list -->
-
-  - [桜井"マッハ"速人](../Page/桜井速人.md "wikilink")
-
-<!-- end list -->
-
-  - [DEP](../Page/DEP_\(プロレス\).md "wikilink")
-
-<!-- end list -->
-
-  - 浦博旭
-
-<!-- end list -->
-
-  - [プロレスリング・チームでら](https://ja.wikipedia.org/wiki/チームでら "wikilink")
-
-<!-- end list -->
-
-  - [ジ・インテリジェンス・センセーショナル・グランドパッションマスク4号](https://ja.wikipedia.org/wiki/小仲＝ペールワン "wikilink")
-  - [高井憲吾](../Page/高井憲吾.md "wikilink")
-
-<!-- end list -->
-
   - [プロレスリングBASARA](https://ja.wikipedia.org/wiki/プロレスリングBASARA "wikilink")
 
 <!-- end list -->
 
   - [木高イサミ](../Page/木高イサミ.md "wikilink")
+
+<!-- end list -->
+
+  - [マッハ道場](https://ja.wikipedia.org/wiki/マッハ道場 "wikilink")
+
+<!-- end list -->
+
+  - [桜井"マッハ"速人](../Page/桜井速人.md "wikilink")
 
 ### 女子選手
 
@@ -846,6 +848,14 @@
 <!-- end list -->
 
   - [里歩](../Page/里歩.md "wikilink")
+
+<!-- end list -->
+
+  - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
+
+<!-- end list -->
+
+  - [HARUKAZE](https://ja.wikipedia.org/wiki/加藤悠 "wikilink")
 
 <!-- end list -->
 
@@ -871,14 +881,6 @@
 <!-- end list -->
 
   - [山下実優](https://ja.wikipedia.org/wiki/山下実優 "wikilink")
-
-<!-- end list -->
-
-  - [ガンバレ☆プロレス](https://ja.wikipedia.org/wiki/ガンバレ☆プロレス "wikilink")
-
-<!-- end list -->
-
-  - [HARUKAZE](https://ja.wikipedia.org/wiki/加藤悠 "wikilink")
 
 <!-- end list -->
 
@@ -996,6 +998,7 @@
   - [奥田啓介](https://ja.wikipedia.org/wiki/奥田啓介 "wikilink")
   - [梅田公太](https://ja.wikipedia.org/wiki/梅田公太 "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
+  - [レディビアード](https://ja.wikipedia.org/wiki/レディビアード "wikilink")
 
 ## 歴代スタッフ
 

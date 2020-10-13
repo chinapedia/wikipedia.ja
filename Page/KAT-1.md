@@ -39,8 +39,6 @@
   - [TT-10](../Page/TT-10.md "wikilink")
   - [日本製航空機の一覧](../Page/日本製航空機の一覧.md "wikilink")
 
-[de:Kawasaki KAT-1](https://ja.wikipedia.org/wiki/de:Kawasaki_KAT-1 "wikilink") [en:Kawasaki KAT-1](https://ja.wikipedia.org/wiki/en:Kawasaki_KAT-1 "wikilink")
-
 [Category:日本の練習機](https://ja.wikipedia.org/wiki/Category:日本の練習機 "wikilink") [Category:日本の試作機](https://ja.wikipedia.org/wiki/Category:日本の試作機 "wikilink") [Category:川崎重工業製の航空機](https://ja.wikipedia.org/wiki/Category:川崎重工業製の航空機 "wikilink")
 
 1.

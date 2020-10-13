@@ -570,7 +570,7 @@
       - 日和（当時6歳）と河松が逃亡生活を始める\[553\]。
       - [霜月康イエら各郷の大名と民がオロチへの従属を拒み反乱を起こすが](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#トの康 "wikilink")、カイドウに敗れる\[554\]。
       - 傳ジローが狂死郎と名乗るようになる\[555\]。
-      - ヤマトがおでんに憧れるようになる。後におでんの航海日誌を拾う。\[556\]
+      - ヤマトがおでんの処刑を目撃し、彼に憧れるようになる。後に九里でおでんの航海日誌を拾う。\[556\]
   - [ナミ](../Page/ナミ_\(ONE_PIECE\).md "wikilink")\[557\]、[ステリー](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#ステリー "wikilink")、[キュイーン](https://ja.wikipedia.org/wiki/王下七武海#キュイーン "wikilink")、[マンボシ](https://ja.wikipedia.org/wiki/ONE_PIECEの登場人物一覧#マンボシ "wikilink")\[558\]、[シャーロット・マスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・マスカルポーネ "wikilink")\[559\]、[シャーロット・ジョスカルポーネ](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#シャーロット・ジョスカルポーネ "wikilink")\[560\]、[ページワン](https://ja.wikipedia.org/wiki/海賊_\(ONE_PIECE\)#ページワン "wikilink")\[561\]誕生。
 
 **19年前**

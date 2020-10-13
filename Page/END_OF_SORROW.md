@@ -17,7 +17,7 @@
     [SUGIZO](../Page/SUGIZO.md "wikilink")原曲。
 2.  **TWICE**
     [INORAN](../Page/INORAN.md "wikilink")原曲。
-    サビでは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に[ディレイ](https://ja.wikipedia.org/wiki/ディレイ "wikilink")をかけている。
+    サビでは[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")に[ディレイをかけている](../Page/ディレイ_\(音響機器\).md "wikilink")。
 
 ## 収録アルバム
 

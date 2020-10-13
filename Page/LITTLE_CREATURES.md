@@ -51,7 +51,7 @@
 <li>NEED YOUR LOVE</li>
 <li>BLUE SMOKE</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -63,7 +63,7 @@
 <li>RUMMY’S SILLY TALK</li>
 <li>WHAT I SHOULD GET</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -75,7 +75,7 @@
 <li>drift</li>
 <li>a rest</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -120,7 +120,7 @@
 <li>VOICE IN PAIN</li>
 <li>GIANTS ARE DYING(instrumental)</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -134,7 +134,7 @@
 <li>SUBHUMAN</li>
 <li>DAZE</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -206,7 +206,7 @@
 <li>BOTH SIDES OF LIFE</li>
 <li>RIVER RIVER</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
@@ -230,7 +230,7 @@
 <li>foolish king</li>
 <li>little creatures meets future aliens(the rainbohemians mix)</li>
 </ol></td>
-<td><p>ミディ</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
@@ -443,7 +443,7 @@
 |     | 発売日         | タイトル                          | 規格品番          | 備考        |
 | --- | ----------- | ----------------------------- | ------------- | --------- |
 | 1st | 1991年6月21日  | **IS THERE MORE?**            | MDVZ-3002:VHS | ミディ       |
-| 2nd | 1999年2月1日   | **A WORLD OF TOO MUCH SOUND** | SCV-001:VHS   | ミディ       |
+| 2nd | 1999年2月1日   | **A WORLD OF TOO MUCH SOUND** | SCV-001:VHS   |           |
 | 3rd | 2009年07月24日 | **NIGHT PEOPLE REVIEW**       | TTVL-1:DVD    | CHORDIARY |
 
 ### 参加作品

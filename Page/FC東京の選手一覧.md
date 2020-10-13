@@ -184,11 +184,20 @@
 <td></td>
 <td><p>2020年9月 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/明治大学体育会サッカー部" title="wikilink">明治大学在学中</a></p></td>
-<td><p>U-18出身<br />
-特別指定選手</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>29</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岡崎慎" title="wikilink">岡崎慎</a></p></td>
+<td></td>
+<td><p>2017年 - 2019年<br />
+2020年10月 -</p></td>
+<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・オマリ" title="wikilink">ジョアン・オマリ</a></p></td>
 <td></td>
@@ -197,7 +206,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>37</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村帆高" title="wikilink">中村帆高</a></p></td>
 <td></td>
@@ -206,7 +215,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>47</strong></p></td>
 <td><p><a href="../Page/木村誠二.md" title="wikilink">木村誠二</a></p></td>
 <td></td>
@@ -215,7 +224,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>49</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/バングーナガンデ佳史扶" title="wikilink">バングーナガンデ佳史扶</a></p></td>
 <td></td>
@@ -224,7 +233,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/ミッドフィールダー.md" title="wikilink">MF</a></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三田啓貴" title="wikilink">三田啓貴</a></p></td>
@@ -234,7 +243,7 @@
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="../Page/高萩洋次郎.md" title="wikilink">髙萩洋次郎</a></p></td>
 <td></td>
@@ -243,7 +252,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東慶悟" title="wikilink">東慶悟</a> </p></td>
 <td></td>
@@ -252,7 +261,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ" title="wikilink">アダイウトン</a></p></td>
 <td></td>
@@ -261,7 +270,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎幾笑" title="wikilink">宮崎幾笑</a></p></td>
 <td></td>
@@ -270,7 +279,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ" title="wikilink">レアンドロ</a></p></td>
 <td></td>
@@ -279,7 +288,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>28</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田宅哉" title="wikilink">内田宅哉</a></p></td>
 <td></td>
@@ -288,21 +297,12 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>31</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安部柊斗" title="wikilink">安部柊斗</a></p></td>
 <td></td>
 <td><p>2020年 -</p></td>
 <td><p>明治大学</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><strong>35</strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/鈴木喜丈" title="wikilink">鈴木喜丈</a></p></td>
-<td></td>
-<td><p>2017年 -</p></td>
-<td><p>FC東京U-18</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -463,15 +463,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/岡崎慎" title="wikilink">岡崎慎</a></p></td>
-<td></td>
-<td><p>2017年 - 2019年</p></td>
-<td><p><a href="../Page/清水エスパルス.md" title="wikilink">清水エスパルス</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/柳貴博" title="wikilink">柳貴博</a></p></td>
 <td></td>
 <td><p>2016年 - 2018年<br />
@@ -481,13 +472,22 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>MF</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羅相浩" title="wikilink">ナ・サンホ</a></p></td>
 <td></td>
 <td><p>2019年 - 2020年6月</p></td>
 <td><p><a href="../Page/城南FC.md" title="wikilink">城南FC</a></p></td>
 <td><p>2020年6月10日 - 2020年12月31日</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/鈴木喜丈" title="wikilink">鈴木喜丈</a></p></td>
+<td></td>
+<td><p>2017年 - 2020年9月</p></td>
+<td><p><a href="../Page/水戸ホーリーホック.md" title="wikilink">水戸ホーリーホック</a></p></td>
+<td><p>2020年9月23日 - 2021年1月31日</p></td>
+<td><p>FC東京と対戦する公式戦出場不可</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -497,7 +497,7 @@
 <td><p>2019年</p></td>
 <td><p><a href="../Page/松本山雅FC.md" title="wikilink">松本山雅FC</a></p></td>
 <td><p>2020年2月1日 - 2021年1月1日</p></td>
-<td><p>FC東京と対戦する公式戦出場不可</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1374,14 +1374,14 @@
 <td><p>-</p></td>
 <td><p>田川亨介</p></td>
 <td><p>内田宅哉</p></td>
-<td><p>-</p></td>
+<td><p>岡崎慎</p></td>
 </tr>
 <tr class="odd">
 <td><p>2019</p></td>
 <td><p>ユ・インス</p></td>
 <td><p>小川諒也</p></td>
 <td><p>柳貴博</p></td>
-<td><p>岡崎慎</p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -3627,7 +3627,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/武藤嘉紀" title="wikilink">武藤嘉紀</a></p></td>
 <td><p>2014-2015.6</p></td>
 <td></td>
-<td><p><a href="../Page/ニューカッスル・ユナイテッドFC.md" title="wikilink">ニューカッスル・ユナイテッド</a></p></td>
+<td><p><a href="../Page/SDエイバル.md" title="wikilink">SDエイバル</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ラサッド・ハッセン・ヌイウィ" title="wikilink">ラサッド</a></p></td>

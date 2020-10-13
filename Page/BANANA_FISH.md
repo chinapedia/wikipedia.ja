@@ -1,9 +1,9 @@
 > この記事は[BANANA FISH](https://ja.wikipedia.org/wiki/BANANA_FISH)から翻訳されています。
 
 
-『**BANANA FISH**』（バナナフィッシュ）は、[吉田秋生](../Page/吉田秋生.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[別冊少女コミック](../Page/ベツコミ.md "wikilink")』[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")5月号〜[1994年](../Page/1994年.md "wikilink")4月号にて連載された（1994年6月号、8・9月号、1995年1月号にて番外編掲載）。コミックス全19巻、別巻（番外編）コミックス1巻、文庫版全12巻（内番外編1巻）、イラストブック1巻(内短編)、ガイドブック1巻が刊行された。
+『**BANANA FISH**』（バナナフィッシュ）は、[吉田秋生](../Page/吉田秋生.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品。『[別冊少女コミック](../Page/ベツコミ.md "wikilink")』[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")5月号〜[1994年](../Page/1994年.md "wikilink")4月号にて連載された（1994年6月号、8・9月号、1995年1月号にて番外編掲載）。コミックス全19巻、別巻（番外編）コミックス1巻、文庫版全12巻（内番外編1巻）、イラストブック1巻(内短編)、ガイドブック1巻が刊行された。2018年6月時点で、累計発行部数は1200万部を突破している\[1\]。
 
-また、本作を元にしたラジオドラマも制作され、[2005年](../Page/2005年.md "wikilink")と[2009年](../Page/2009年.md "wikilink")には[アクサル](https://ja.wikipedia.org/wiki/アクサル "wikilink")（Axle）により舞台化、2012年には磯村洋祐（劇団EXILE）と竹内寿のW主演で舞台化され、2018年には吉田秋生の40周年記念プロジェクトの一環として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠でアニメ化された\[1\]。
+また、本作を元にしたラジオドラマも制作され、[2005年](../Page/2005年.md "wikilink")と[2009年](../Page/2009年.md "wikilink")には[アクサル](https://ja.wikipedia.org/wiki/アクサル "wikilink")（Axle）により舞台化、2012年には磯村洋祐（劇団EXILE）と竹内寿のW主演で舞台化され、2018年には吉田秋生の40周年記念プロジェクトの一環として[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")の[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠でアニメ化された\[2\]。
 
 絶版になっていたコミックスはアニメ化に伴い、2018年に復刻版BOXが番外編1巻を収録して全20巻（１BOXにつき5巻セットで全4BOX）となって刊行された。
 
@@ -20,7 +20,7 @@
 
 ### Part 1：プロローグ
 
-1973年ベトナム戦争の最中、アメリカ軍兵士**グリフィン・カーレンリース**が突然、同じ分隊の兵士たちに自動小銃を乱射して死傷させる。その場に居合わせた**マックス・ロボ**は彼の足を狙撃し取り押さえる。そのとき、グリフィンは「バナナ・フィッシュ」という謎の言葉\[2\]をつぶやく。
+1973年ベトナム戦争の最中、アメリカ軍兵士**グリフィン・カーレンリース**が突然、同じ分隊の兵士たちに自動小銃を乱射して死傷させる。その場に居合わせた**マックス・ロボ**は彼の足を狙撃し取り押さえる。そのとき、グリフィンは「バナナ・フィッシュ」という謎の言葉\[3\]をつぶやく。
 
 ### Part 2：「BANANA FISH」の謎解き
 
@@ -98,7 +98,7 @@
     本編の最終話から7年後を描いた後日談「光の庭」では[マンハッタン](../Page/マンハッタン.md "wikilink")でカメラマンとして独立。その後を描いた「New York sense」では、26歳で永住権を取得、28歳で個展を開催し成功を収め、人気カメラマンとなっている。また英二の写真は「優しさがある」と評論家達の評価を受けている。定期的に個展を開くなどかなりの売れっ子となっている。
     英二の容姿のモデルは、俳優の[野村宏伸](../Page/野村宏伸.md "wikilink")氏。作者がアニメ映画『ボビーに首ったけ』(1985年)でキャラクターデザインを担当した際、ボビー役の声優を務めた[野村宏伸](../Page/野村宏伸.md "wikilink")氏と雑誌対談したのがきっかけ。『Fly boy,in the sky』(1984年/20巻収録)時点では、英二のモデルは[野村宏伸](../Page/野村宏伸.md "wikilink")氏ではなかった。
   - 伊部 俊一（いべ しゅんいち）
-    声 - [池田成志](../Page/池田成志.md "wikilink")→[松本保典](../Page/松本保典.md "wikilink") / [川田紳司](../Page/川田紳司.md "wikilink")\[3\]
+    声 - [池田成志](../Page/池田成志.md "wikilink")→[松本保典](../Page/松本保典.md "wikilink") / [川田紳司](../Page/川田紳司.md "wikilink")\[4\]
     演 - 山本健史（2005年、2009年版）、[柳憂怜](../Page/柳憂怜.md "wikilink")（2012年版）
     英二と同じく短編「Fly boy,in the sky」で初登場。この時点では美大の3年生であったが、英二をモデルとした[キヤノン A-1の広告写真で認められてその後](../Page/キヤノン_A-1.md "wikilink")、プロのカメラマンとなった。本作にはカメラマンとして登場。マックスとは友人同士。怪我のせいでスランプに陥っていた英二を伴ってニューヨークに取材のため訪れたことから事件に巻き込まれる。英二の兄貴分で、多少過保護な面も見られる。
   - マックス・ロボ（Max Lobo）
@@ -185,7 +185,7 @@
     実家は中華料理店で、姉のマーディアが切り盛りしている。本人の料理の腕は英二によるとまずいらしく、アッシュに至っては「お前の代で店は終わりだ」とからかっていた。
     原作ではごく初期だけ[モヒカン](https://ja.wikipedia.org/wiki/モヒカン "wikilink")頭もあったが、大半が[サングラス](../Page/サングラス.md "wikilink")に[スキンヘッド](../Page/スキンヘッド.md "wikilink")。アニメでは両サイドに剃り込みを入れ真ん中のモヒカン部分を紫に染めている。サングラスをする事が多い。
   - シン・スウ・リン
-    声 - [あづみれいか](../Page/あづみれいか.md "wikilink") / [千葉翔也](https://ja.wikipedia.org/wiki/千葉翔也 "wikilink")\[4\]
+    声 - [あづみれいか](../Page/あづみれいか.md "wikilink") / [千葉翔也](https://ja.wikipedia.org/wiki/千葉翔也 "wikilink")\[5\]
     演 - 梅林亮太（2005年版）、[小野賢章](../Page/小野賢章.md "wikilink")（2009年版）、織田和晃（2012年版）
     ショーター亡き後のチャイニーズ達のボス。あどけない子供のような風貌でありながら優れた才気・指導力を持つと同時に世話好きな性格でもあり、また俊敏で行動力がある。窮地に陥っても強気で明るさを失わない。ショーターが殺された直後はアッシュを激しく憎悪したが、真相を知って以降アッシュ、英二に協力的になる。本編終了後、急激に背が伸びる（身長6フィート3インチ(190.5cm)）。作者が後に発表した作品「[YASHA-夜叉-](../Page/YASHA-夜叉-.md "wikilink")」「[イヴの眠り](../Page/イヴの眠り.md "wikilink")」にも重要人物として登場する。後に「光の庭」に登場した伊部俊一の姪である暁と結婚。
   - ラオ・イェン・タイ
@@ -255,7 +255,7 @@
 
 ## イラストブック
 
-[1994年](../Page/1994年.md "wikilink")9月に発売されたイラスト集「ANGEL EYES―イラストブックBANANA FISH」\[5\]。描きおろしイラストと扉絵コレクション、そして他書籍には未収録のアッシュと英二のケープ・コッドでの夏の日を描いた短編のイラストストーリーが収録された。なおこれは絶版となっていたが、[2018年](../Page/2018年.md "wikilink")8月に復刻版\[6\]が発売された。
+[1994年](../Page/1994年.md "wikilink")9月に発売されたイラスト集「ANGEL EYES―イラストブックBANANA FISH」\[6\]。描きおろしイラストと扉絵コレクション、そして他書籍には未収録のアッシュと英二のケープ・コッドでの夏の日を描いた短編のイラストストーリーが収録された。なおこれは絶版となっていたが、[2018年](../Page/2018年.md "wikilink")8月に復刻版\[7\]が発売された。
 
 ## 別巻「PRIVATE OPINION」（番外編）
 
@@ -292,7 +292,7 @@
   - BANANA FISH マックス・ロボの手記 3巻（1998年8月、ISBN 4877092293）
   - BANANA FISH マックス・ロボの手記 4巻（1998年9月、ISBN 4877092307）
 
-2018年11月に[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")の「キャラブン\!」からアニメ版を完全ノベライズした「BANANA FISH \#1」\[7\]が発売された。
+2018年11月に[小学館文庫](https://ja.wikipedia.org/wiki/小学館文庫 "wikilink")の「キャラブン\!」からアニメ版を完全ノベライズした「BANANA FISH \#1」\[8\]が発売された。
 
 著者：小笠原みく、原作：吉田秋生、 脚本：瀬古浩司、 監修：Project Banana Fish
 
@@ -304,7 +304,7 @@
 
 ### 2005年版
 
-[2005年](../Page/2005年.md "wikilink")11月5日から14日にシアターぷらっつ江坂、11月21日から27日にシアター代官山にて上演\[8\]。脚本・演出は[吉谷光太郎](https://ja.wikipedia.org/wiki/吉谷光太郎 "wikilink")。
+[2005年](../Page/2005年.md "wikilink")11月5日から14日にシアターぷらっつ江坂、11月21日から27日にシアター代官山にて上演\[9\]。脚本・演出は[吉谷光太郎](https://ja.wikipedia.org/wiki/吉谷光太郎 "wikilink")。
 
 **キャスト**
 
@@ -327,7 +327,7 @@
 
 ### 2009年版
 
-[2009年](../Page/2009年.md "wikilink")4月11日・12日に[梅田芸術劇場 シアター・ドラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場#シアター・ドラマシティ "wikilink")、4月18日・19日に[新国立劇場 中劇場にて上演](https://ja.wikipedia.org/wiki/新国立劇場#中劇場_\(Playhouse\) "wikilink")\[9\]。脚本・演出は吉谷光太郎。
+[2009年](../Page/2009年.md "wikilink")4月11日・12日に[梅田芸術劇場 シアター・ドラマシティ](https://ja.wikipedia.org/wiki/梅田芸術劇場#シアター・ドラマシティ "wikilink")、4月18日・19日に[新国立劇場 中劇場にて上演](https://ja.wikipedia.org/wiki/新国立劇場#中劇場_\(Playhouse\) "wikilink")\[10\]。脚本・演出は吉谷光太郎。
 
 **キャスト**
 
@@ -353,7 +353,7 @@
 
 ### 2012年版
 
-[2012年](../Page/2012年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")から[11月4日](../Page/11月4日.md "wikilink")に品川・[六行会](https://ja.wikipedia.org/wiki/六行会 "wikilink")ホールにて上演\[10\]。
+[2012年](../Page/2012年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")から[11月4日](../Page/11月4日.md "wikilink")に品川・[六行会](https://ja.wikipedia.org/wiki/六行会 "wikilink")ホールにて上演\[11\]。
 
 **スタッフ**
 
@@ -385,11 +385,11 @@
   -
 ## 登場人物のモデル
 
-各人物のモデル(キャラクターデザインのモチーフ)として、『オフィシャルガイドブック BANANA FISH REBIRTH』(2003年小学館刊)中において作者自身が「当初アッシュは[ステファン・エドバーグ](../Page/ステファン・エドベリ.md "wikilink")、のちに[リバー・フェニックス](https://ja.wikipedia.org/wiki/リバー・フェニックス "wikilink")へと改変\[11\]。英二は[野村宏伸](../Page/野村宏伸.md "wikilink")、オーサーは[スティングだった](../Page/スティング_\(ミュージシャン\).md "wikilink")」と明かした。
+各人物のモデル(キャラクターデザインのモチーフ)として、『オフィシャルガイドブック BANANA FISH REBIRTH』(2003年小学館刊)中において作者自身が「当初アッシュは[ステファン・エドバーグ](../Page/ステファン・エドベリ.md "wikilink")、のちに[リバー・フェニックス](https://ja.wikipedia.org/wiki/リバー・フェニックス "wikilink")へと改変\[12\]。英二は[野村宏伸](../Page/野村宏伸.md "wikilink")、オーサーは[スティングだった](../Page/スティング_\(ミュージシャン\).md "wikilink")」と明かした。
 
 ## テレビアニメ
 
-2018年7月より12月まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠ほかにて放送された\[12\]\[13\]。全24話（2クール）で放送されており、2015年4月以降の放送体制では初の2クール作品である。
+2018年7月より12月まで[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[ノイタミナ](../Page/ノイタミナ.md "wikilink")枠ほかにて放送された\[13\]\[14\]。全24話（2クール）で放送されており、2015年4月以降の放送体制では初の2クール作品である。
 
 劇中時間が現代（2018年頃）に変更されている。そのためグリフィンやマックスはベトナム戦争ではなく、イラク戦争の帰還兵となっている。スマートフォンなど漫画掲載当時にはなかった物も作中に登場している。但しファッション等に置いては、80年代当時からの大きな変更はなく、[NYの地下鉄や路地裏の落書き等](../Page/ニューヨーク.md "wikilink")、治安の悪さはむしろ当時のままという状態である。
 
@@ -397,38 +397,38 @@
 
 ### スタッフ
 
-  - 原作 - [吉田秋生](../Page/吉田秋生.md "wikilink")\[14\]
-  - 監督 - [内海紘子](https://ja.wikipedia.org/wiki/内海紘子 "wikilink")\[15\]
-  - シリーズ構成・脚本 - [瀬古浩司](https://ja.wikipedia.org/wiki/瀬古浩司 "wikilink")\[16\]
-  - キャラクターデザイン - [林明美](../Page/林明美.md "wikilink")\[17\]
-  - 総作画監督 - 山田歩、鎌田晋平\[18\]
-  - ハードボイルド監修・プロップデザイン - 久木晃嗣\[19\]
-  - 美術監督 - 水谷利春\[20\]
-  - 色彩設計 - 鎌田千賀子\[21\]
+  - 原作 - [吉田秋生](../Page/吉田秋生.md "wikilink")\[15\]
+  - 監督 - [内海紘子](https://ja.wikipedia.org/wiki/内海紘子 "wikilink")\[16\]
+  - シリーズ構成・脚本 - [瀬古浩司](https://ja.wikipedia.org/wiki/瀬古浩司 "wikilink")\[17\]
+  - キャラクターデザイン - [林明美](../Page/林明美.md "wikilink")\[18\]
+  - 総作画監督 - 山田歩、鎌田晋平\[19\]
+  - ハードボイルド監修・プロップデザイン - 久木晃嗣\[20\]
+  - 美術監督 - 水谷利春\[21\]
+  - 色彩設計 - 鎌田千賀子\[22\]
   - CGディレクター - 鷲田知子
-  - 撮影監督 - 淡輪雄介\[22\]
-  - 編集 - 奥田浩史\[23\]
-  - 音楽 - [大沢伸一](../Page/大沢伸一.md "wikilink")\[24\]
+  - 撮影監督 - 淡輪雄介\[23\]
+  - 編集 - 奥田浩史\[24\]
+  - 音楽 - [大沢伸一](../Page/大沢伸一.md "wikilink")\[25\]
   - 音楽制作 - [アニプレックス](../Page/アニプレックス.md "wikilink")
-  - 音響監督 - [山田陽](https://ja.wikipedia.org/wiki/山田陽 "wikilink")\[25\]
+  - 音響監督 - [山田陽](https://ja.wikipedia.org/wiki/山田陽 "wikilink")\[26\]
   - 音楽プロデューサー - 舩橋宗寛
   - チーフプロデューサー - 三宅将典、高瀬透子
   - プロデューサー - 瓜生恭子、岡安由夏
   - アニメーションプロデューサー - 大塚学
-  - アニメーション制作 - [MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")\[26\]
+  - アニメーション制作 - [MAPPA](https://ja.wikipedia.org/wiki/MAPPA "wikilink")\[27\]
   - 制作 - Project BANANA FISH（アニプレックス、[フジテレビジョン](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[小学館](../Page/小学館.md "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、[電通](../Page/電通.md "wikilink")）
 
 ### 主題歌
 
   - オープニングテーマ
 
-:;「found & lost」（第1話 - 第13話）\[27\]
+:;「found & lost」（第1話 - 第13話）\[28\]
 
 :: 作詞・作曲・編曲・歌 - [Survive Said The Prophet](https://ja.wikipedia.org/wiki/Survive_Said_The_Prophet "wikilink")
 
 :: 第1話ではエンディング位置で使用。
 
-:;「[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(BLUE_ENCOUNTの曲\) "wikilink")」\[28\]（第14話 -第24話 ）
+:;「[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(BLUE_ENCOUNTの曲\) "wikilink")」\[29\]（第14話 -第24話 ）
 
   -
 
@@ -437,11 +437,11 @@
 
   - エンディングテーマ
 
-:; 「Prayer X」（第2話 - 第13話）\[29\]
+:; 「Prayer X」（第2話 - 第13話）\[30\]
 
 :: 作詞・作曲 - 常田大希 / 編曲・歌 - [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")
 
-:;「RED」\[30\]（第14話 -第23話 ）
+:;「RED」\[31\]（第14話 -第23話 ）
 
   -
 
@@ -452,11 +452,11 @@
 
 ### 放送局
 
-インターネットでは、[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")にて日本・海外独占配信が決定しており、日本では第1話が2018年7月5日0時に先行配信された後、第2話以降がフジテレビで放送を開始した時刻の1時間後に配信される\[31\]。
+インターネットでは、[Amazonプライム・ビデオ](https://ja.wikipedia.org/wiki/Amazonプライム・ビデオ "wikilink")にて日本・海外独占配信が決定しており、日本では第1話が2018年7月5日0時に先行配信された後、第2話以降がフジテレビで放送を開始した時刻の1時間後に配信される\[32\]。
 
 ### BD / DVD
 
-| 巻    | 発売日\[32\]   | 収録話         | 規格品番         |
+| 巻    | 発売日\[33\]   | 収録話         | 規格品番         |
 | ---- | ----------- | ----------- | ------------ |
 | BD   | DVD         |             |              |
 | BOX1 | 2018年10月24日 | 第1話 - 第6話   | ANZX-14871〜3 |
@@ -475,18 +475,18 @@
   -
 [Category:吉田秋生](https://ja.wikipedia.org/wiki/Category:吉田秋生 "wikilink") [Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:1985年の漫画](https://ja.wikipedia.org/wiki/Category:1985年の漫画 "wikilink") [Category:別冊少女コミック](https://ja.wikipedia.org/wiki/Category:別冊少女コミック "wikilink") [Category:ニューヨーク市を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台とした漫画作品 "wikilink") [Category:推理漫画](https://ja.wikipedia.org/wiki/Category:推理漫画 "wikilink") [Category:犯罪を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材とした漫画作品 "wikilink") [Category:薬物を題材とした作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした作品 "wikilink") [Category:薬物を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:薬物を題材とした漫画作品 "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:2018年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2018年のテレビアニメ "wikilink") [Category:ノイタミナ](https://ja.wikipedia.org/wiki/Category:ノイタミナ "wikilink") [Category:MAPPA](https://ja.wikipedia.org/wiki/Category:MAPPA "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:フラワーコミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:フラワーコミックスのアニメ作品 "wikilink") [Category:ムービックのアニメ作品](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ作品 "wikilink") [Category:電通のアニメ作品](https://ja.wikipedia.org/wiki/Category:電通のアニメ作品 "wikilink") [Category:犯罪を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:犯罪を題材としたアニメ作品 "wikilink") [Category:ニューヨーク市を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:ニューヨーク市を舞台としたアニメ作品 "wikilink") [Category:薬物を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:薬物を題材としたアニメ作品 "wikilink")
 
-1.  [first-ace.com](http://stage.first-ace.com/bananafish/)、[shogakukan.co.jp](http://flowers.shogakukan.co.jp/y_diary/index.html)
-2.  この単語は[J・D・サリンジャー](../Page/J・D・サリンジャー.md "wikilink")の[短編](https://ja.wikipedia.org/wiki/短編 "wikilink")集「[ナイン・ストーリーズ](../Page/ナイン・ストーリーズ.md "wikilink")」に納められた短編"A Perfect Day for Bananafish"（邦題：「[バナナフィッシュにうってつけの日](https://ja.wikipedia.org/wiki/バナナフィッシュにうってつけの日 "wikilink")」「バナナ魚日和」など）に由来すると本作の中で語られている。本作ではバナナフィッシュを「見ると死にたくなる魚」とされている。なお、サリンジャーの短編は、ある青年がバナナを見ると見境無く食べてしまう架空の魚「バナナフィッシュ」についての会話を見知らぬ少女と交わした後、拳銃自殺するという筋書きであり、「見ると死にたくなる」という記述は存在しない。
-3.
+1.
+2.  [first-ace.com](http://stage.first-ace.com/bananafish/)、[shogakukan.co.jp](http://flowers.shogakukan.co.jp/y_diary/index.html)
+3.  この単語は[J・D・サリンジャー](../Page/J・D・サリンジャー.md "wikilink")の[短編](https://ja.wikipedia.org/wiki/短編 "wikilink")集「[ナイン・ストーリーズ](../Page/ナイン・ストーリーズ.md "wikilink")」に納められた短編"A Perfect Day for Bananafish"（邦題：「[バナナフィッシュにうってつけの日](https://ja.wikipedia.org/wiki/バナナフィッシュにうってつけの日 "wikilink")」「バナナ魚日和」など）に由来すると本作の中で語られている。本作ではバナナフィッシュを「見ると死にたくなる魚」とされている。なお、サリンジャーの短編は、ある青年がバナナを見ると見境無く食べてしまう架空の魚「バナナフィッシュ」についての会話を見知らぬ少女と交わした後、拳銃自殺するという筋書きであり、「見ると死にたくなる」という記述は存在しない。
 4.
-5.  \[<http://sol-comics.shogakukan.co.jp/solc_dtl?isbn=4091996914>　小学館コミック『原画集・イラストブック ＡＮＧＥＬ　ＥＹＥＳ』\]
-6.  \[<http://sol-comics.shogakukan.co.jp/solc_dtl?isbn=9784091990570>　小学館コミック『原画集・イラストブック ＡＮＧＥＬ　ＥＹＥＳ 復刻版』\]
-7.  小学館文庫　https://www.shogakukan.co.jp/books/09406584
-8.
+5.
+6.  \[<http://sol-comics.shogakukan.co.jp/solc_dtl?isbn=4091996914>　小学館コミック『原画集・イラストブック ＡＮＧＥＬ　ＥＹＥＳ』\]
+7.  \[<http://sol-comics.shogakukan.co.jp/solc_dtl?isbn=9784091990570>　小学館コミック『原画集・イラストブック ＡＮＧＥＬ　ＥＹＥＳ 復刻版』\]
+8.  小学館文庫　https://www.shogakukan.co.jp/books/09406584
 9.
-10. [吉田秋生「BANANA FISH」再び舞台化、10月より上演](https://natalie.mu/comic/news/76893)
-11. [Daily PLANETS アッシュ・リンクスは、 それでも生き延びるべきだった――](http://ch.nicovideo.jp/wakusei2nd/blomaga/ar621588)
-12.
+10.
+11. [吉田秋生「BANANA FISH」再び舞台化、10月より上演](https://natalie.mu/comic/news/76893)
+12. [Daily PLANETS アッシュ・リンクスは、 それでも生き延びるべきだった――](http://ch.nicovideo.jp/wakusei2nd/blomaga/ar621588)
 13.
 14.
 15.
@@ -507,3 +507,4 @@
 30.
 31.
 32.
+33.

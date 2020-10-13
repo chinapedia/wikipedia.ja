@@ -446,11 +446,18 @@
 <tr class="even">
 <td><p>-</p></td>
 <td><p>空位</p></td>
-<td><p>2020年8月18日 - 現在</p></td>
+<td><p>2020年8月18日 - 2020年9月27日</p></td>
 <td><p>-</p></td>
 <td><p>ジョーンズのライトヘビー級王座返上により空位</p></td>
 </tr>
 <tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="../Page/ヤン・ブラホヴィッチ.md" title="wikilink">ヤン・ブラホヴィッチ</a></p></td>
+<td><p>2020年9日27日 - 現在</p></td>
+<td><p>0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドミニク・レイエス" title="wikilink">ドミニク・レイエス</a>との王座決定戦により獲得</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -589,9 +596,10 @@ UFC 31にて新設。
 <td><p>11</p></td>
 <td><p>イスラエル・アデサンヤ</p></td>
 <td><p>2019年10月6日 - 現在</p></td>
-<td><p>1</p></td>
+<td><p>2</p></td>
 <td><p>正規王者ロバート・ウィテカーとの王座統一戦により獲得<br />
-○ <a href="https://ja.wikipedia.org/wiki/ヨエル・ロメロ" title="wikilink">ヨエル・ロメロ</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>)</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ヨエル・ロメロ" title="wikilink">ヨエル・ロメロ</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>）<br />
+○ <a href="https://ja.wikipedia.org/wiki/パウロ・コスタ" title="wikilink">パウロ・コスタ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_253" title="wikilink">UFC 253</a>）</p></td>
 </tr>
 </tbody>
 </table>
@@ -1171,7 +1179,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="odd">
 <td><p>-</p></td>
 <td><p>空位</p></td>
-<td><p>　　　　 2020年2月29日 - 2020年7月19日</p></td>
+<td><p>2020年2月29日 - 2020年7月19日</p></td>
 <td><p>-</p></td>
 <td><p>セフードのバンタム級王座獲得によるフライ級王座返上により空位</p></td>
 </tr>
@@ -1180,7 +1188,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p><a href="https://ja.wikipedia.org/wiki/デイブソン・フィゲイレード" title="wikilink">デイブソン・フィゲイレード</a></p></td>
 <td><p>2020年7月19日 - 現在</p></td>
 <td><p>0</p></td>
-<td><p>ジョセフ・ベナビデスとの王座戦により獲得</p></td>
+<td><p>ジョセフ・ベナビデスとの王座決定戦により獲得</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1921,6 +1929,6 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 ## 出典・外部リンク
 
   - [公式サイト](http://jp.ufc.com/fighter)
-  - [MMA to Z](http://mmatoz-ufc.blogspot.jp/)
+  - [MMA to Z](https://mmatoz-ufc.blogspot.com/)
 
 [Category:UFC王者](https://ja.wikipedia.org/wiki/Category:UFC王者 "wikilink") [Category:格闘家一覧](https://ja.wikipedia.org/wiki/Category:格闘家一覧 "wikilink") [Category:格闘技関連一覧](https://ja.wikipedia.org/wiki/Category:格闘技関連一覧 "wikilink")

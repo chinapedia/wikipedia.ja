@@ -752,7 +752,6 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 #### レギュラー
 
-  - [天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 、日本テレビ） - レギュラー
   - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink")（[2011年](../Page/2011年.md "wikilink")[4月20日](https://ja.wikipedia.org/wiki/4月20日 "wikilink") - 、日本テレビ） - 第1期は準レギュラーで、[2013年](../Page/2013年.md "wikilink")[4月23日](../Page/4月23日.md "wikilink")の第2期からレギュラー出演。
   - [火曜サプライズ](https://ja.wikipedia.org/wiki/火曜サプライズ "wikilink")（[2012年](../Page/2012年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink") - 、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）
   - [みいつけた\!](https://ja.wikipedia.org/wiki/みいつけた! "wikilink")（[2013年](../Page/2013年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - 、[NHK Eテレ](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")）- オスワル王子の声の出演。2015年3月1日放送分以降は顔出しで、『“サボダイゴさん”』というキャラクターも演じている。
@@ -787,6 +786,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - 誰だって波瀾爆笑 （2019年9月1日、日本テレビ）ゲスト
   - 逃走中 （2020年1月5日、フジテレビ）
   - 一番遠い親戚さん （2020年2月11日、日本テレビ）
+  - [天才\!志村どうぶつ園](../Page/天才!志村どうぶつ園.md "wikilink") （[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink") - 2020年、日本テレビ） - レギュラー
 
 ### ラジオ
 
@@ -848,9 +848,9 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [きかんしゃトーマス 探せ\!\!謎の海賊船と失われた宝物](https://ja.wikipedia.org/wiki/きかんしゃトーマス_探せ!!謎の海賊船と失われた宝物 "wikilink")（2016年） - **ライアン**〈声：[エディ・レッドメイン](https://ja.wikipedia.org/wiki/エディ・レッドメイン "wikilink")〉 役
   - [ミッション:インポッシブル/フォールアウト](https://ja.wikipedia.org/wiki/ミッション:インポッシブル/フォールアウト "wikilink")（2018年） - オーガスト・ウォーカー〈[ヘンリー・カヴィル](https://ja.wikipedia.org/wiki/ヘンリー・カヴィル "wikilink")〉 役\[110\]
 
-### その他
+### ゲーム
 
-  - [みいつけた\!](https://ja.wikipedia.org/wiki/みいつけた! "wikilink")（2013年） - オスワル王子（声）、サボダイゴさん（役）
+  - [D4DJ Groovy Mix](https://ja.wikipedia.org/wiki/D4DJ_Groovy_Mix "wikilink")（2020年） - 三橋空 役\[111\]
 
 ### CM
 
@@ -867,15 +867,15 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ブシロード](../Page/ブシロード.md "wikilink")「[カードファイト\!\! ヴァンガード](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード "wikilink")」（2011年 - ）
   - [アサヒビール](../Page/アサヒビール.md "wikilink")「slat」（[2012年](../Page/2012年.md "wikilink")） - [中山美穂](../Page/中山美穂.md "wikilink")と共演。
   - [GROP](https://ja.wikipedia.org/wiki/GROP "wikilink")（[2014年](../Page/2014年.md "wikilink")9月 - ）※中四国・関西中心
-  - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")「どっちがウィッシュ?長崎VS熊本」（[2015年](../Page/2015年.md "wikilink") - ）\[111\]
+  - [九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")「どっちがウィッシュ?長崎VS熊本」（[2015年](../Page/2015年.md "wikilink") - ）\[112\]
   - [ダイハツ工業](https://ja.wikipedia.org/wiki/ダイハツ工業 "wikilink")「[タント](../Page/ダイハツ・タント.md "wikilink")」（2015年 - ） - [加藤ローサ](https://ja.wikipedia.org/wiki/加藤ローサ "wikilink")と共演。
   - [ほっともっと](../Page/ほっともっと.md "wikilink")「まぐろかつ重」（[2016年](../Page/2016年.md "wikilink")）
-  - [セイバン](../Page/セイバン.md "wikilink")「ランドセル 天使のはね・シリーズ」（2016年）\[112\]
-  - [太田胃散](../Page/太田胃散.md "wikilink")「太田胃散A〈錠剤〉」（2016年）\[113\]
+  - [セイバン](../Page/セイバン.md "wikilink")「ランドセル 天使のはね・シリーズ」（2016年）\[113\]
+  - [太田胃散](../Page/太田胃散.md "wikilink")「太田胃散A〈錠剤〉」（2016年）\[114\]
   - ブシロード「[フューチャーカード バディファイト](https://ja.wikipedia.org/wiki/フューチャーカード_バディファイト "wikilink")」（2016年 - [2018年](../Page/2018年.md "wikilink")）
-  - [ティーバイティー](https://ja.wikipedia.org/wiki/ティーバイティー "wikilink")「買取王子」（2017年 - ）\[114\]
+  - [ティーバイティー](https://ja.wikipedia.org/wiki/ティーバイティー "wikilink")「買取王子」（2017年 - ）\[115\]
   - [第一生命](../Page/第一生命保険.md "wikilink") 「ジャスト」（2018年 - ） - [今田美桜](https://ja.wikipedia.org/wiki/今田美桜 "wikilink")と[ノブ](https://ja.wikipedia.org/wiki/ノブ_\(お笑い芸人\) "wikilink")（[千鳥](../Page/千鳥_\(お笑いコンビ\).md "wikilink")）と共演。
-  - [米久](../Page/米久.md "wikilink")「御殿場高原あらびきポーク」『スーパー篇』『食卓篇』（2019年 - ）\[115\]
+  - [米久](../Page/米久.md "wikilink")「御殿場高原あらびきポーク」『スーパー篇』『食卓篇』（2019年 - ）\[116\]
   - スクウェア・エニックス・ホールディングス「星のドラゴンクエスト」（2019年 - ）
   - マネジメントソリューションズ（MSOL）『PMOってなんなんだ？篇』（2020年 - ）
 
@@ -899,7 +899,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 ### その他活動
 
-  - 島根県PR大使（2013年7月31日 - ）島根は祖父母・母の生まれ育った地である。2014年3月30日、島根のキャラクターしまねっこから感謝状を受ける。\[116\]また、「しまねソング」を作詞・作曲した。（2014年7月）
+  - 島根県PR大使（2013年7月31日 - ）島根は祖父母・母の生まれ育った地である。2014年3月30日、島根のキャラクターしまねっこから感謝状を受ける。\[117\]また、「しまねソング」を作詞・作曲した。（2014年7月）
 
 ## 受賞歴
 
@@ -1052,4 +1052,5 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 113.
 114.
 115.
-116. 山陰中央新報（2014年4月2日）
+116.
+117. 山陰中央新報（2014年4月2日）

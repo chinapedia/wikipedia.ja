@@ -486,7 +486,7 @@
       - 8月7日 [なんばHatch](https://ja.wikipedia.org/wiki/なんばHatch "wikilink")（大阪）
       - 8月10日 Zepp Sapporo（札幌）
   - 10月2日 [Dream Power ジョン・レノン スーパー・ライヴ](../Page/Dream_Power_ジョン・レノン_スーパー・ライヴ.md "wikilink") 2003（[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）
-      - [ビートルズ](../Page/ビートルズ.md "wikilink")の「[テル・ミー・ホワイ](../Page/テル・ミー・ホワイ_\(ビートルズの曲\).md "wikilink")」と「[ガール](../Page/ガール.md "wikilink")」の2曲を演奏のほか全員合唱曲で参加
+      - [ビートルズ](../Page/ビートルズ.md "wikilink")の「[テル・ミー・ホワイ](../Page/テル・ミー・ホワイ_\(ビートルズの曲\).md "wikilink")」と「[ガール](https://ja.wikipedia.org/wiki/ガール_\(ビートルズの曲\) "wikilink")」の2曲を演奏のほか全員合唱曲で参加
 
 #### 2004年
 

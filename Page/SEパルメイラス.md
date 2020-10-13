@@ -299,9 +299,9 @@
 | [2017](https://ja.wikipedia.org/wiki/2017_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 2位  | 38                   | 19 | 6                    | 13 | 61 | 45 | 16   | **63** |
 | [2018](https://ja.wikipedia.org/wiki/2018_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 1位  | 38                   | 23 | 11                   | 4  | 64 | 26 | 38   | **80** |
 | [2019](https://ja.wikipedia.org/wiki/2019_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 3位  | 38                   | 21 | 11                   | 6  | 61 | 32 | 29   | **74** |
-| [2020](https://ja.wikipedia.org/wiki/2020_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 6位  | 9                    | 4  | 5                    | 0  | 13 | 8  | 5    | **17** |
+| [2020](https://ja.wikipedia.org/wiki/2020_カンピオナート・ブラジレイロ・セリエA "wikilink") | [セリエA](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエA "wikilink") | 4位  | 11                   | 4  | 7                    | 0  | 15 | 10 | 5    | **19** |
 
-※2020シーズンは現在開催中につき、9月14日(ラウンド10終了時点)の成績。
+※2020シーズンは現在開催中につき、9月28日(ラウンド12終了時点)の成績。
 
 ## 現所属メンバー
 

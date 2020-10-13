@@ -442,7 +442,7 @@
   - プロデューサー : 尼子大介（ytv）
   - 構成 : [上室尚子](https://ja.wikipedia.org/wiki/上室尚子 "wikilink")
   - ブレーン : [七條奈央](https://ja.wikipedia.org/wiki/七條奈央 "wikilink")
-  - ディレクター : 山本陽（ytv）
+  - ディレクター : [前西和成](https://ja.wikipedia.org/wiki/前西和成 "wikilink")、野瀬慎一、古島裕己、山本陽（ytv）
   - AD : 山中基靖、武本和子、齋籐杏子
   - デスク : 奥田由美（メガバックス）、岩見ゆう子（クリエイティブ30〔以前はザ・ワークス所属していた〕）
   - ビデオ編集 : 浅地裕夫・岳崎勉（ytv）

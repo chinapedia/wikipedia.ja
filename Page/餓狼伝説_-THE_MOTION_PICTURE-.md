@@ -20,7 +20,7 @@
 テリーをはじめ前2作から引き続き登場する者については、[\#キャスト](https://ja.wikipedia.org/wiki/#キャスト "wikilink")の各リンク先を参照。ここでは本作のみに登場するオリジナルキャラクターについて記述する。
 
   - スーリア・ゴーダマス
-    17歳。ゴーダマス一族の末裔で、ラオコーンの双子の妹。兄とは気持ちが通い合わせたり、兄の傷が自分にもついたり（その逆もしかり）と、不思議な力を持ち合わせていた。
+    17歳。ゴーダマス一族の末裔で、ラオコーンの双子の妹。兄とは気持ちが通い合わせたり、兄の傷が自分にもついたり（その逆もしかり）と、不思議な力を持ち合わせていた。 ゴーダマス家の紋章がついたペンダントを着けている。\[2\]
     ある日、兄の心がマルスの闘衣の怨念によって支配されつつある事を感じ、テリーに助けを求める。傷を癒す能力があり、全身に重傷を負ったテリーに寄り添って傷を治した事がある。テリーに恋心を抱いていたので、メタルラオコーンとの最終決戦時に自らの胸を尖った岩辺で突き刺して、メタルラオコーンの隙を作った。テリーの渾身の力によるバーンナックルがメタルラオコーンの闘衣を破壊するが、そのフィードバックダメージに身体が耐え切れず絶命した。
   - ラオコーン・ゴーダマス
     17歳。ゴーダマス一族の末裔。父は考古学者だったが「マルスの闘衣」を発掘した後に仲間に裏切られ殺害される。その仇を討とうとして逆に殺されかけるが「力が欲しい」と願った直後、闘衣を身に纏って犯人を倒す。以来、闘衣の怨念に支配されて、残りの闘衣を探すようになる。必殺技はダーク・ブリッツボールとダーク・カイザーウェーブ（但しこれらの名称は劇中には登場せず、パンフレットによって補足されている）。全ての闘衣を身に纏ってメタルラオコーンに変身する。闘衣をスーパーバーンナックル（劇中でテリーは「バーンナックル\!」と叫んでいた）で破壊されて正気を取り戻し、ゴーダマス精神体に操られたことにショックを受け、打ちひしがれながらも、ゴーダマス精神体からアンディと舞を庇ってスーリアの名前を叫びながら炎の中へと消えていった。
@@ -108,3 +108,4 @@ DVD　（[マーベラスエンターテイメント](https://ja.wikipedia.org/w
 [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1994年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1994年のアニメ映画 "wikilink") [Category:餓狼伝説](https://ja.wikipedia.org/wiki/Category:餓狼伝説 "wikilink") [Category:SNK原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:SNK原作のアニメ作品 "wikilink") [Category:コンピュータゲームを原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを原作とするアニメ映画 "wikilink") [Category:格闘技アニメ](https://ja.wikipedia.org/wiki/Category:格闘技アニメ "wikilink") [Category:松竹のアニメ映画](https://ja.wikipedia.org/wiki/Category:松竹のアニメ映画 "wikilink") [Category:フジテレビ製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:フジテレビ製作のアニメ映画 "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:ADKグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:ADKグループのアニメ作品 "wikilink")
 
 1.  \[<http://db.eiren.org/contents/01050513001.html>　餓狼伝説\]一般社団法人日本映画製作者連盟公式サイト
+2.

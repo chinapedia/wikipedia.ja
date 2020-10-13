@@ -7,7 +7,7 @@
 
 ## 概要
 
-発売額は[S$](../Page/シンガポールドル.md "wikilink")12、[MRT](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット "wikilink")（地下鉄）のTicket Officeなどで購入可能。
+発売額は[S$](../Page/シンガポールドル.md "wikilink")12、特定の[MRT](https://ja.wikipedia.org/wiki/マス・ラピッド・トランジット "wikilink")（地下鉄）のTicket Officeなどで購入可能。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月29日](../Page/12月29日.md "wikilink")より、新世代のez-linkカードの発行が開始された。New ez-link cardあるいは、CEPAS Cardと呼ばれる。
 
@@ -24,6 +24,7 @@
   - 鉄道･･･[SMRT](https://ja.wikipedia.org/wiki/SMRT_Trains "wikilink")・[SBS TransitのMRT](https://ja.wikipedia.org/wiki/SBS_Transit "wikilink")・LRT全線
   - バス･･･SBS Transit・SMRT
   - スーパーマーケット･･･Cold Storage
+  - コンビニ･･･cheers
 
 ## 外部リンク
 

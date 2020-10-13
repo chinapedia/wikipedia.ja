@@ -74,7 +74,7 @@
 <tr class="odd">
 <td><p>ボイス</p>
 <div style="text-align:right;font-weight:normal;font-size:80%;">
-<p>プリセット<br />
+<p><small>プリセット<br />
 インターナル<br />
 カートリッジ</small></p></td>
 <td><p><br />

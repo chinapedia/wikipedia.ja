@@ -1467,7 +1467,7 @@ TOXF-5718</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2012年.md" title="wikilink">2012年</a><a href="../Page/7月25日.md" title="wikilink">7月25日</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイジ" title="wikilink">ハイジ</a>『Summer Vacation + ボーナスMIX "Summer Vacation Mix"CD』</p></td>
+<td><p><a href="../Page/ハイジ.md" title="wikilink">ハイジ</a>『Summer Vacation + ボーナスMIX "Summer Vacation Mix"CD』</p></td>
 <td><p>VDRP-0008</p></td>
 <td><p>19.DANCEHALL 青春ラガ / CORN HEAD &amp; KING-K -Sad Move Riddim-<br />
 20.PARTY EVERYDAY / CORN HEAD -Party Crazy Riddim-</p></td>

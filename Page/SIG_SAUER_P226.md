@@ -165,9 +165,11 @@ P220と同様にマニュアル[セーフティーを持たない代わりに](.
 
 ## P227
 
-[ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")社の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")現地法人SIG SAUER社が設計、製造したP226の派生型。2013年に導入され、2019年に廃止された。
+[Sig_Sauer_P227.jpg](https://ja.wikipedia.org/wiki/File:Sig_Sauer_P227.jpg "fig:Sig_Sauer_P227.jpg") [ザウエル&ゾーン](../Page/ザウエル&ゾーン.md "wikilink")社の[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")現地法人SIG SAUER社が設計、製造したP226の派生型。2013年に導入され、2019年に廃止された。
 
 使用[弾薬](../Page/弾薬.md "wikilink")を[.45ACP弾](../Page/.45ACP弾.md "wikilink")に変更している。.45ACP弾モデルの[P220の](../Page/SIG_SAUER_P220.md "wikilink")[マガジン装弾数が](../Page/弾倉.md "wikilink")8発であるのに対し、P227のマガジン装弾数は10発である。ダブルスタックマガジンを備えるTACOPSは14発装弾可能。
+
+{{-}}
 
 ## P228
 

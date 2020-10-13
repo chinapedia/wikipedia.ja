@@ -52,4 +52,5 @@
 ## 外部リンク
 
   -
+  -
 [Category:京都大学](https://ja.wikipedia.org/wiki/Category:京都大学 "wikilink") [Category:SF関連の組織](https://ja.wikipedia.org/wiki/Category:SF関連の組織 "wikilink") [Category:日本のSF](https://ja.wikipedia.org/wiki/Category:日本のSF "wikilink") [Category:同人サークル](https://ja.wikipedia.org/wiki/Category:同人サークル "wikilink") [Category:ファンダム](https://ja.wikipedia.org/wiki/Category:ファンダム "wikilink")

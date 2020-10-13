@@ -1,7 +1,7 @@
 > この記事は[ASUS](https://ja.wikipedia.org/wiki/ASUS)から翻訳されています。
 
 
-**ASUSTeK Computer Inc.**（エイスーステック・コンピューター・インク）、あるいは**華碩電脳股份有限公司**（かせきでんのうこぶんゆうげんこうし）は、[中華民国](../Page/中華民国.md "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人は**ASUS JAPAN株式会社**。ASUSの正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）
+**ASUSTeK Computer Inc.**（エイスーステック・コンピューター・インク）、あるいは**華碩電脳股份有限公司**（かせきでんのうこぶんゆうげんこうし）は、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")[台北市](../Page/台北市.md "wikilink")に本社を置く[PCおよびPCパーツ](../Page/パーソナルコンピュータ.md "wikilink")、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")、周辺機器製造メーカー。日本法人は**ASUS JAPAN株式会社**。ASUSの正式な読みは、「エイスース」とされている（発音に関する経緯は[下記を参照](https://ja.wikipedia.org/wiki/ASUS#「ASUS」の発音 "wikilink")）
 
 ## 社名と由来
 

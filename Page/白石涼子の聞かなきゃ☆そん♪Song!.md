@@ -39,7 +39,7 @@ __TOC__{{-}}
   - 2005年5月26日 - [unicorn table](https://ja.wikipedia.org/wiki/unicorn_table "wikilink")
   - 2005年8月18日 - [牧野由依](../Page/牧野由依.md "wikilink")
   - 2005年9月1日 - [POM](https://ja.wikipedia.org/wiki/Can/goo "wikilink")
-  - 2005年9月8日 - Pallet
+  - 2005年9月8日 - Pallet（依田恵理子、[阿部玲子](../Page/阿部玲子.md "wikilink")、[三好りえ](../Page/三好りえ.md "wikilink")、[近藤佳奈子](../Page/近藤佳奈子.md "wikilink")）
   - 2005年9月22日 - [TAMAGO](../Page/TAMAGO.md "wikilink")
   - 2005年10月13日 - [野本かりあ](../Page/野本かりあ.md "wikilink")
   - 2005年11月24日 - [小出由華](../Page/小出由華.md "wikilink")、[白川りさ](../Page/白川りさ.md "wikilink")
@@ -55,6 +55,16 @@ __TOC__{{-}}
   - 2007年1月18日 - [村田あゆみ](../Page/村田あゆみ.md "wikilink")
   - 2007年2月1日 - [皆川純子](../Page/皆川純子.md "wikilink")
   - 2007年3月29日 - [福井裕佳梨](../Page/福井裕佳梨.md "wikilink")
+  - 2007年5月10日 - angela
+  - 2007年7月12日 - [福圓美里](../Page/福圓美里.md "wikilink")、[松崎亜希子](../Page/松崎亜希子.md "wikilink")
+  - 2007年8月2日 - [影山ヒロノブ](../Page/影山ヒロノブ.md "wikilink")
+  - 2007年9月6日 - [南かなこ](../Page/南かなこ.md "wikilink")、鹿野優以
+  - 2007年10月11日 - [桃井はるこ](../Page/桃井はるこ.md "wikilink")
+  - 2007年10月25日 - [片岡あづさ](../Page/榎あづさ.md "wikilink")
+  - 2007年12月6日 - angela
+  - 2008年3月13日 - 野中藍
+  - 2009年5月16日 - [ELISA](../Page/ELISA.md "wikilink")
+  - 2009年6月6日 - [桑谷夏子](../Page/桑谷夏子.md "wikilink")
       - *この番組にとって、アニソンとはアニメ主題歌だけでなく、特撮やゲームの曲。また、声優やアニソン歌手のノンタイアップ曲も含む。*
 
 <!-- end list -->

@@ -17,7 +17,7 @@
 ## 総合司会
 
 <table>
-<caption><strong>『THE WEEK』歴代総合司会者</strong></caption>
+<caption><strong>『THE WEEK』歴代総合司会</strong></caption>
 <thead>
 <tr class="header">
 <th><p>期間</p></th>

@@ -137,6 +137,8 @@
 </tbody>
 </table>
 
+## 脚注
+
 ## 外部リンク
 
   - [Windows Messenger の詳細 ‐ 通信のしくみ](http://technet.microsoft.com/ja-jp/library/bb457041.aspx)

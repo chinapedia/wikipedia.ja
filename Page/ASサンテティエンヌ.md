@@ -137,7 +137,7 @@ ASサンテティエンヌのライバルは[オリンピック・リヨン](../
 
 </div>
 
-**[2020年](../Page/2020年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")現在**
+**[2020年](../Page/2020年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")現在**
 
   - [監督](../Page/監督.md "wikilink")
 

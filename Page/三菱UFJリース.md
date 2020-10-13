@@ -1,7 +1,7 @@
 > この記事は[三菱UFJリース](https://ja.wikipedia.org/wiki/三菱UFJリース)から翻訳されています。
 
 
-**三菱UFJリース株式会社**（みつびしユーエフジェイリース、英 Mitsubishi UFJ Lease & Finance Company Limited）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く業界２位の大手総合[リース](../Page/リース.md "wikilink")会社。[三菱グループ](../Page/三菱グループ.md "wikilink")の中核リース会社である。[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部[上場](../Page/上場.md "wikilink")。コーポレートスローガンは「**Value Integrator**」。
+**三菱UFJリース株式会社**（みつびしユーエフジェイリース、英 Mitsubishi UFJ Lease & Finance Company Limited）は、[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に本社を置く業界３位の大手総合[リース](../Page/リース.md "wikilink")会社。[三菱グループ](../Page/三菱グループ.md "wikilink")の中核リース会社である。[東京証券取引所](../Page/東京証券取引所.md "wikilink")市場第一部[上場](../Page/上場.md "wikilink")。コーポレートスローガンは「**Value Integrator**」。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 なお、旧[東京銀行](../Page/東京銀行.md "wikilink")系列の[東銀リース](https://ja.wikipedia.org/wiki/東銀リース "wikilink")は2016年現在もそのまま別会社として存在し業界10位の規模、旧[日本信販](https://ja.wikipedia.org/wiki/日本信販 "wikilink")系の日本ビジネスリース（現：日立キャピタルNBL株式会社）は[日立キャピタル](../Page/日立キャピタル.md "wikilink")により子会社化している。
 
-2016年5月13日、日立キャピタルとの資本業務提携を行うことを合意し、[三菱UFJ フィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")、[三菱東京 UFJ 銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、日立キャピタルとの間で、金融プラットフォーム構築を目的とした業務提携への合意に至ったことを発表した\[4\]。
+2016年5月13日、日立キャピタルとの資本業務提携を行うことを合意し、[三菱UFJ フィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")、[三菱東京 UFJ 銀行](https://ja.wikipedia.org/wiki/三菱東京UFJ銀行 "wikilink")、[日立製作所](../Page/日立製作所.md "wikilink")、日立キャピタルとの間で、金融プラットフォーム構築を目的とした業務提携への合意に至ったことを発表した\[4\]。2020年9月24日、日立キャピタルを吸収合併し、臨時株主総会の決議承認を経て、2021年4月1日に経営統合することを発表した\[5\]。
 
 ## 沿革
 
@@ -41,6 +41,7 @@
   - 2014年11月 - アイルランドのEngine Lease Finance Corporationの全株式及び米ボストンに拠点を置くBeacon Intermodal Leasing, LLCの全出費持分を取得し、連結子会社化。
   - 2016年5月 - [日立キャピタル](../Page/日立キャピタル.md "wikilink")との間で資本業務提携を行うことに合意。
   - 2018年12月-米シカゴ郊外に拠点を置くENGS全株式を取得し、連結子会社化。
+  - 2020年9月 -日立キャピタルを吸収合併し、2021年4月の経営統合を発表。
 
 ## 主な連結子会社
 
@@ -115,3 +116,4 @@
 2.  [三菱広報委員会 - 会員会社紹介](http://www.mitsubishi.com/mpac/j/companies/)
 3.  [メンバー会社一覧 - みどり会](http://www.midorikai.co.jp/member.html)
 4.  [三菱 UFJ リース株式会社及び日立キャピタル株式会社の金融機能強化に向けた 資本業務提携に関するお知らせ](http://www.lf.mufg.jp/investors/library/pressrelease/2016051301.pdf)
+5.   三菱ＵＦＪリース株式会社|url=[https://www.lf.mufg.jp/investors/merger/index.html|website=www.lf.mufg.jp|accessdate=2020-09-25](https://www.lf.mufg.jp/investors/merger/index.html%7Cwebsite=www.lf.mufg.jp%7Caccessdate=2020-09-25)}}

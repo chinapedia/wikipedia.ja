@@ -1,7 +1,7 @@
 > この記事は[STUDIO 4℃](https://ja.wikipedia.org/wiki/STUDIO_4℃)から翻訳されています。
 
 
-**株式会社スタジオよんどしい**は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](../Page/日本動画協会.md "wikilink")正会員。
+**株式会社STUDIO 4℃**（スタジオよんどしい）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")。[日本動画協会](../Page/日本動画協会.md "wikilink")正会員。
 
 [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")、[テレビ](../Page/テレビ.md "wikilink")、[CMやプロモーション映像](../Page/コマーシャルメッセージ.md "wikilink")、ゲーム内ムービー、[映画](../Page/映画.md "wikilink")を制作。[田中栄子](https://ja.wikipedia.org/wiki/田中栄子_\(プロデューサー\) "wikilink")、[アニメーター](../Page/アニメーター.md "wikilink")の[森本晃司が中心となって](../Page/森本晃司_\(アニメーター\).md "wikilink")[1986年](../Page/1986年.md "wikilink")[5月2日](../Page/5月2日.md "wikilink")に設立。[1999年](../Page/1999年.md "wikilink")12月24日、法人として「有限会社スタジオよんどしい」を設立。[2007年](../Page/2007年.md "wikilink")、株式会社に登記変更した。
 

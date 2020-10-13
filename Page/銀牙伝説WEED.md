@@ -1,7 +1,7 @@
 > この記事は[銀牙伝説WEED](https://ja.wikipedia.org/wiki/銀牙伝説WEED)から翻訳されています。
 
 
-『**銀牙伝説WEED**』（ぎんがでんせつウィード）は、[高橋よしひろ](../Page/高橋よしひろ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")』（[日本文芸社](../Page/日本文芸社.md "wikilink")）において、[1999年](../Page/1999年.md "wikilink")より[2009年](../Page/2009年.md "wikilink")7月まで連載された。全60巻。発行数は2000万部を超え\[1\]、1-39巻までの合計発行部数は1500万部を超える\[2\]。『[銀牙 -流れ星 銀-](../Page/銀牙_-流れ星_銀-.md "wikilink")』の[続編](../Page/続編.md "wikilink")である。続編に『[銀牙伝説WEEDオリオン](https://ja.wikipedia.org/wiki/銀牙伝説WEEDオリオン "wikilink")』がある。
+『**銀牙伝説WEED**』（ぎんがでんせつウィード）は、[高橋よしひろ](../Page/高橋よしひろ.md "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")、またそれを原作とした[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。『[週刊漫画ゴラク](../Page/週刊漫画ゴラク.md "wikilink")』（[日本文芸社](../Page/日本文芸社.md "wikilink")）において、[1999年](../Page/1999年.md "wikilink")より[2009年](../Page/2009年.md "wikilink")7月まで連載された。全60巻。2009年11月時点で、累計発行部数は2000万部を突破している\[1\]。『[銀牙 -流れ星 銀-](../Page/銀牙_-流れ星_銀-.md "wikilink")』の[続編](../Page/続編.md "wikilink")である。続編に『[銀牙伝説WEEDオリオン](https://ja.wikipedia.org/wiki/銀牙伝説WEEDオリオン "wikilink")』がある。
 
 ## ストーリー
 
@@ -13,7 +13,7 @@
 
 ### 奥羽軍
 
-  - ウィード / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[3\]
+  - ウィード / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[2\]
     [声](../Page/声優.md "wikilink") - [國立幸](../Page/國立幸.md "wikilink")
     本作の主人公。かつて伝説の巨熊赤カブトを倒した父・銀と母・桜の息子。三人兄弟の末っ子で幸村と誠を兄にもつ。外見は銀とうりふたつで熊狩りに最適な虎毛の[秋田犬](../Page/秋田犬.md "wikilink")。名前の『**ウィード**』とは英語で雑草という意味で、GBが名付けた。一人称は最初は「僕」だったが、狂四郎との会話で初めて「俺」になり（アニメ版では16話から「いかなる理由があっても、命を軽視する者は俺の仲間にはいらない」と発言してから定着した。）、正式に総大将を継いだ辺りから「俺」で定着した。仲間の軍、敵軍問わず他人の命を思いやる優しさを持っており、いかなる状況でもたったひとつの命を軽視する者を憎しむ心を持つ。持ち前の勇気と俊敏な動きで仲間とともに怪物（P4）、悪の権化・法玄を撃破し、戦いの途中で銀との再会を果たす。法玄との決戦直前に哲心から銀の必殺技である絶・天狼抜刀牙を修得する。戦いのセンスは天性のものであり、足の速さは平地でなければロケットさえもしのぐほどである。法玄討伐後に銀から奥羽軍三代目総大将になる座を譲り受けた。その後、将軍との戦いを経て小雪と結ばれる。北海道でのロシア軍との戦いでは総大将としての器を開花させ、各地から一千をも超える仲間を率いてロシア軍を帰順させ、これらの過程でより総大将としての器を磨いた。その後、ハイブリッドと交戦し、ハイブリッドとの戦いでジェロムと崖から転落し、消息を絶ってしまうが、無事に生存しており、仲間達と再会を果たす。
   - GB / [イングリッシュ・セッター](https://ja.wikipedia.org/wiki/イングリッシュ・セッター "wikilink")
@@ -244,7 +244,7 @@
 
 #### 幸村軍
 
-  - 幸村 / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[4\]
+  - 幸村 / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[3\]
     猿と敵対する群のリーダー。実は生き別れたウィードの長兄。かつては素直な性格だったが、弟の誠を猿たちに連れ去られてから性格が変わってしまった。ジェロムを子ども扱いするほどの実力者で、法玄にも従うことはなかった。「絶・天狼抜刀牙」とよく似た「ネック・ザ・キリング」を必殺技としている。将軍に致命の一撃を食らわせるもその代償に命を落とす。容姿は身体が赤褐色で、どちらかと言うと祖父リキ似である。
   - 佐平治
     幸村と誠の育ての親。幼い幸村を庇い、猿達に背骨を砕かれ半身不随になる。幸村の亡骸をこの地で埋葬するよう、銀達に懇願した。
@@ -317,7 +317,7 @@
 
 ### 『ハイブリッド編』
 
-  - 誠（ジョー） / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[5\]
+  - 誠（ジョー） / [秋田犬](../Page/秋田犬.md "wikilink")と[紀州犬](../Page/紀州犬.md "wikilink")の雑種\[4\]
     生き別れたウィードの次兄。外見は銀やウィードに似ている。幼少時は佐平治に兄・幸村と共に育てられていたが猿達に連れ去られ、死んだと思われていた。が、北海道編終了後にウィードと再会。猟犬として新宮社長に飼われており、「チャンプ」と名付けられている。彼自身も「ネック・ザ・キリング」を用いる。幸四郎という名の息子がいる。妻ヒトミと幸四郎を除く3匹の子供をハイブリッドに殺された挙句自身も背中に重傷を負い、仇討ちに燃えている。ウィードとは再会を喜び合い、惜しみない協力をするが、自分を捨てたと思っている父、銀に対しては複雑な感情を抱いている。ウィード同様、大将としての器もあるが、余所者としての節を守る心が強く、奥羽軍に対しては遠慮気味である。最終回近くで銀と対面し、銀の涙を視て全てを許した。兄弟の中で唯一人間に飼われた経験がある。
   - 幸四郎
     誠の息子でただ一匹の生き残り。他の子の分も幸せになってほしいというのが名の由来。ウィードを慕っている。
@@ -432,7 +432,7 @@
   - エンディングテーマ「つきあかり」
     作詞 - 増子直純 / 作曲 - 上原子友康 / 編曲・歌 - 怒髪天
 
-怒髪天にとっては現時点で唯一のアニメタイアップ\[6\]である。オープニング曲はオリジナルおよび公認ベストアルバムには収録されていないが、エンディング曲の「つきあかり」はベストアルバム『[D-N° 18 LIVE MASTERPIECE](https://ja.wikipedia.org/wiki/D-N°_18_LIVE_MASTERPIECE "wikilink")』（[2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")発売）のDisc-2に収録されている。
+怒髪天にとっては現時点で唯一のアニメタイアップ\[5\]である。オープニング曲はオリジナルおよび公認ベストアルバムには収録されていないが、エンディング曲の「つきあかり」はベストアルバム『[D-N° 18 LIVE MASTERPIECE](https://ja.wikipedia.org/wiki/D-N°_18_LIVE_MASTERPIECE "wikilink")』（[2011年](../Page/2011年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")発売）のDisc-2に収録されている。
 
 ### 各話リスト
 
@@ -669,7 +669,7 @@
 | ---------------------------------- | ------------------------------------------------ | ----------------------- | --------------------- | --------------------------------------------------------------------------- | -------- |
 | [日本全域](../Page/全国放送.md "wikilink") | [アニマックス](../Page/アニマックス.md "wikilink")           | 2005年11月3日 - 2006年5月11日 | 木曜 22:30 - 23:00      | [CS放送](https://ja.wikipedia.org/wiki/日本における衛星放送#CS放送 "wikilink")            | リピート放送あり |
 | [静岡県](../Page/静岡県.md "wikilink")   | [テレビ静岡](../Page/テレビ静岡.md "wikilink")             | 2005年11月4日 - 2006年5月26日 | 金曜 26:40 - 27:10      | [フジテレビ系列](../Page/フジネットワーク.md "wikilink")                                   |          |
-| [東京都](../Page/東京都.md "wikilink")   | [東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 2006年1月18日 - 7月5日       | 水曜 18:30 - 19:00\[7\] | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   |          |
+| [東京都](../Page/東京都.md "wikilink")   | [東京MXテレビ](../Page/東京メトロポリタンテレビジョン.md "wikilink") | 2006年1月18日 - 7月5日       | 水曜 18:30 - 19:00\[6\] | [独立UHF局](../Page/全国独立放送協議会.md "wikilink")                                   |          |
 | [秋田県](../Page/秋田県.md "wikilink")   | [秋田朝日放送](../Page/秋田朝日放送.md "wikilink")           | 2006年1月19日 - 7月6日       | 木曜 16:00 - 16:30      | [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink") |          |
 
 秋田県は原作者高橋よしひろの出身地である。
@@ -717,9 +717,8 @@
 [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:1999年の漫画](https://ja.wikipedia.org/wiki/Category:1999年の漫画 "wikilink") [Category:高橋よしひろ](https://ja.wikipedia.org/wiki/Category:高橋よしひろ "wikilink") [Category:漫画ゴラク](https://ja.wikipedia.org/wiki/Category:漫画ゴラク "wikilink") [Category:イヌを主人公にした物語](https://ja.wikipedia.org/wiki/Category:イヌを主人公にした物語 "wikilink") [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:アニマックスのアニメ](https://ja.wikipedia.org/wiki/Category:アニマックスのアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:テイチクエンタテインメントのシングル](https://ja.wikipedia.org/wiki/Category:テイチクエンタテインメントのシングル "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  [『ニチブンコミックス「銀牙伝説WEEDオリオン」紹介ページより』](http://www.nihonbungeisha.co.jp/books/pages/ISBN978-4-537-12523-8.html)（2016年[9月16日](../Page/9月16日.md "wikilink")[閲覧](../Page/閲覧.md "wikilink")）
-2.  [『アマゾン「銀牙伝説WEED DVD-BOX」紹介ページより』](https://www.amazon.co.jp/%E9%8A%80%E7%89%99%E4%BC%9D%E8%AA%ACWEED-DVD-BOX-%E5%A3%B0-%E5%9C%8B%E7%AB%8B%E5%B9%B8/dp/B001AXNZW6/ref=sr_1_1?s=dvd&ie=UTF8&qid=1474115587&sr=1-1&keywords=%E9%8A%80%E7%89%99%E4%BC%9D%E8%AA%ACweed)（2016年9月16日閲覧）
-3.  『銀牙伝説WEED名勝負列伝』には秋田犬と表記されている。
+2.  『銀牙伝説WEED名勝負列伝』には秋田犬と表記されている。
+3.
 4.
-5.
-6.  ヴォーカルの増子直純は『[B-伝説\!バトルビーダマン](https://ja.wikipedia.org/wiki/B-伝説!バトルビーダマン "wikilink")』（[2004年](../Page/2004年.md "wikilink")・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）のオープニングテーマを歌ったことがある。また、[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")の[キヨサク](https://ja.wikipedia.org/wiki/キヨサク "wikilink")と共に『[団地ともお](../Page/団地ともお.md "wikilink")』（[2013年](../Page/2013年.md "wikilink")・[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）のオープニングテーマを歌っている。
-7.  最終2回に限り7月5日（水曜日）19:00 - 20:00（2話連続放送）
+5.  ヴォーカルの増子直純は『[B-伝説\!バトルビーダマン](https://ja.wikipedia.org/wiki/B-伝説!バトルビーダマン "wikilink")』（[2004年](../Page/2004年.md "wikilink")・[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系）のオープニングテーマを歌ったことがある。また、[モンゴル800](https://ja.wikipedia.org/wiki/モンゴル800 "wikilink")の[キヨサク](https://ja.wikipedia.org/wiki/キヨサク "wikilink")と共に『[団地ともお](../Page/団地ともお.md "wikilink")』（[2013年](../Page/2013年.md "wikilink")・[NHK総合](../Page/NHK総合テレビジョン.md "wikilink")）のオープニングテーマを歌っている。
+6.  最終2回に限り7月5日（水曜日）19:00 - 20:00（2話連続放送）

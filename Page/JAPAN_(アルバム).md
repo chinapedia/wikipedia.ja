@@ -224,7 +224,7 @@ TOTT-6355 (CT)</p></td>
 5.
 6.
 7.  [第5回日本ゴールドディスク大賞](http://www.golddisc.jp/award/05/index.html) 1991年3月
-8.  \[ <http://archive.is/6riwB> NHKアーカイブス 「プライム10 音楽達人倶楽部」\] 1991年12月13日放送（2013年5月1日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
+8.  \[ <https://archive.is/6riwB> NHKアーカイブス 「プライム10 音楽達人倶楽部」\] 1991年12月13日放送（2013年5月1日時点の[アーカイブ](https://ja.wikipedia.org/wiki/archive.is "wikilink")）
 9.
 10.
 11.

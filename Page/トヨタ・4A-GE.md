@@ -5,7 +5,7 @@
 
 ## 概要
 
-[1981年](../Page/1981年.md "wikilink")9月に登場したAA63型[カリーナに初めて搭載された](../Page/トヨタ・カリーナ.md "wikilink")。[直列4気筒](../Page/直列4気筒.md "wikilink")1,600ccで前輪駆動、後輪駆動及びミッドシップ用で、[DOHC](../Page/DOHC.md "wikilink")[16バルブもしくは](../Page/マルチバルブ.md "wikilink")20バルブの、自然吸気もしくは[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")つきエンジンである。
+[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")5月に登場した[AE86型](../Page/トヨタ・AE86.md "wikilink")[カローラレビン及び](../Page/トヨタ・カローラレビン.md "wikilink")[スプリンタートレノに初めて搭載された](../Page/トヨタ・スプリンタートレノ.md "wikilink")。[直列4気筒](../Page/直列4気筒.md "wikilink")1,600ccで前輪駆動、後輪駆動及びミッドシップ用で、[DOHC](../Page/DOHC.md "wikilink")[16バルブもしくは](../Page/マルチバルブ.md "wikilink")20バルブの、自然吸気もしくは[スーパーチャージャー](../Page/スーパーチャージャー.md "wikilink")つきエンジンである。
 
 それまでのトヨタ製4気筒スポーツユニットの主力機種であった直列4気筒1,600ccの[2T-G系の後継機種として開発された](../Page/トヨタ・T型エンジン.md "wikilink")。
 

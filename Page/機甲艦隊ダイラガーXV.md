@@ -921,22 +921,22 @@
 
 ## ネット局
 
-  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（キー局）：水曜17：55～18：25
-  - [テレビ大阪](../Page/テレビ大阪.md "wikilink")：水曜17：55～18：25
-  - [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")：土曜7:15～7:45
-  - [北海道文化放送](../Page/北海道文化放送.md "wikilink")：日曜10：30～11：00
-  - [東北放送](../Page/東北放送.md "wikilink")：土曜17:00～17:30
-  - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜17:45～18:15
-  - [テレビ山梨](../Page/テレビ山梨.md "wikilink")：金曜17:20～17:50
-  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：水曜17:00～17:30\[6\]
-  - [信越放送](../Page/信越放送.md "wikilink")：木曜17:25～17:55
-  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：木曜16:50～17:20\[7\]
-  - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：月曜17:00～17:30\[8\]
-  - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")：金曜17:30～18:00
-  - [中国放送](../Page/中国放送.md "wikilink")：火曜17:30～18:00
-  - [テレビ西日本](../Page/テレビ西日本.md "wikilink")：土曜18:00～18:30
-  - [テレビ長崎](../Page/テレビ長崎.md "wikilink")：木曜17:30～18:00
-  - [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")：金曜17:30～18:00
+  - [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")（キー局）：水曜 17：55 - 18：25
+  - [テレビ大阪](../Page/テレビ大阪.md "wikilink")：水曜 17：55 - 18：25
+  - [中部日本放送](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")：土曜 7:15 - 7:45
+  - [北海道文化放送](../Page/北海道文化放送.md "wikilink")：日曜 10：30 - 11：00
+  - [東北放送](../Page/東北放送.md "wikilink")：土曜 17:00 - 17:30
+  - [福島中央テレビ](../Page/福島中央テレビ.md "wikilink")：水曜 17:45 - 18:15
+  - [テレビ山梨](../Page/テレビ山梨.md "wikilink")：金曜 17:20 - 17:50
+  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：水曜 17:00 - 17:30\[6\]
+  - [信越放送](../Page/信越放送.md "wikilink")：木曜 17:25 - 17:55
+  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：木曜 16:50 - 17:20\[7\]
+  - [北陸放送](https://ja.wikipedia.org/wiki/北陸放送 "wikilink")：月曜 17:00 - 17:30（1982年3月22日の初回放送は月曜 17:30 - 18:00）\[8\]
+  - [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")：金曜 17:30 - 18:00
+  - [中国放送](../Page/中国放送.md "wikilink")：火曜 17:30 - 18:00
+  - [テレビ西日本](../Page/テレビ西日本.md "wikilink")：土曜 18:00 - 18:30
+  - [テレビ長崎](../Page/テレビ長崎.md "wikilink")：木曜 17:30 - 18:00
+  - [沖縄テレビ](../Page/沖縄テレビ放送.md "wikilink")：金曜 17:30 - 18:00
 
 ## 再放送
 
@@ -946,7 +946,7 @@
 
 ## ネット配信
 
-2019年10月17日 - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の[バンダイスピリッツ公式チャンネルで配信中](https://ja.wikipedia.org/wiki/BANDAI_SPIRITS "wikilink")。[超合金魂](../Page/超合金_\(玩具\).md "wikilink") GX-88 機甲艦隊ダイラガーXVの発売を記念した配信。配信終了期限は現在未定の模様。（2020年4月30日現在も全話配信中）
+2019年10月17日 - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")の[バンダイスピリッツ公式チャンネルで配信されていた](https://ja.wikipedia.org/wiki/BANDAI_SPIRITS "wikilink")。[超合金魂](../Page/超合金_\(玩具\).md "wikilink") GX-88 機甲艦隊ダイラガーXVの発売を記念した配信。
 
 ## 玩具展開
 
@@ -985,7 +985,7 @@
 5.  ノンクレジット。
 6.  『[富山新聞](../Page/富山新聞.md "wikilink")』1982年4月7日付朝刊テレビ欄
 7.  『富山新聞』1982年10月7日付朝刊テレビ欄
-8.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1982年10月4日付朝刊テレビ欄
+8.  『[北日本新聞](../Page/北日本新聞.md "wikilink")』1982年3月22日付朝刊テレビ欄
 9.  『THE・超合金』より。
 10. 『超合金・ポピニカ大図鑑』（グリーンアロー出版社発売、1997年）
 11. この販売方法は過去に『[電撃戦隊チェンジマン](../Page/電撃戦隊チェンジマン.md "wikilink")』などでも行われている。

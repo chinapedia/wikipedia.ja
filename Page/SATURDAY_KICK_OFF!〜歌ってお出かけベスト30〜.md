@@ -88,7 +88,7 @@
 
 <references />
 
-[Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
+[Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 
 1.  [広島FMも同番組のネットを希望したが](../Page/広島エフエム放送.md "wikilink")、関東及び隣接県のみの[ブロックネット](../Page/ブロックネット.md "wikilink")という性格上、関東に隣接していないという地理的事情もあり断られたといわれている。
 2.  8:00から[JFNC制作の](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")『[さわやかスタジオ](https://ja.wikipedia.org/wiki/さわやかスタジオ "wikilink")』→『[MORNING CUBE〜SATURDAY NETWORK〜](../Page/MORNING_CUBE〜SATURDAY_NETWORK〜.md "wikilink")』をネットしていた。

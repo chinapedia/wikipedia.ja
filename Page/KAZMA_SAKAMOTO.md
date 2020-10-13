@@ -11,7 +11,7 @@
 
 <!-- end list -->
 
-  - 5月3日、[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")[千葉Blue Field大会でKAZMAとして](https://ja.wikipedia.org/wiki/Blue_Field "wikilink")[TAKAみちのく](../Page/TAKAみちのく.md "wikilink")とタッグを組んで対[十島くにお](../Page/十嶋くにお.md "wikilink")&[石坂鉄平](../Page/石坂鉄平.md "wikilink")戦でデビュー。
+  - 5月3日、[KAIENTAI DOJO](../Page/KAIENTAI_DOJO.md "wikilink")[千葉Blue Field大会でKAZMAとして](https://ja.wikipedia.org/wiki/Blue_Field "wikilink")[TAKAみちのく](../Page/TAKAみちのく.md "wikilink")とタッグを組み、対[十島くにお](../Page/十嶋くにお.md "wikilink")&[石坂鉄平](../Page/石坂鉄平.md "wikilink")戦でデビュー。
 
 <!-- end list -->
 
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-  - 10月、同団体に所属する[滝澤大志](../Page/滝澤大志.md "wikilink")と共に[WWE](../Page/WWE.md "wikilink")傘下の[FCWに参戦してリングネームをサカモトに改名](../Page/FCW_\(プロレス\).md "wikilink")。
+  - 10月、同団体に所属する[滝澤大志](../Page/滝澤大志.md "wikilink")と共に[WWE](../Page/WWE.md "wikilink")傘下の[FCWに参戦し](../Page/FCW_\(プロレス\).md "wikilink")、リングネームを**サカモト**に改名。
 
 <!-- end list -->
 
@@ -85,16 +85,23 @@
   - 4月、[テンサイの](../Page/マシュー・ブルーム.md "wikilink")[マネージャー](../Page/マネージャー_\(プロレス\).md "wikilink")（番組内ではテンサイの弟子とされている）として[RAWに登場](../Page/WWE・ロウ.md "wikilink")。ディベロップメント契約から約2ヶ月という異例の早さでの一軍デビューとなった。
   - 8月、テンサイのマネージャーから降ろされ、出番がなくなり[NXTに降格となった](https://ja.wikipedia.org/wiki/NXTレスリング "wikilink")。
 
-### フリー
+<!-- end list -->
 
   - [2013年](../Page/2013年.md "wikilink")
 
 <!-- end list -->
 
   - NXTではジョバーとしての出場が中心となり、5月16日のショーにて[ブライリー・ピアース](https://ja.wikipedia.org/wiki/ブライリー・ピアース "wikilink")と試合したが、[コナー・オブライエン](https://ja.wikipedia.org/wiki/コナー・オブライエン "wikilink")に乱入される。その後、ピアースと組んでのハンディーキャップマッチに挑むが惨敗。5月23日の放送となるNXT王座挑戦者決定戦のバトルロイヤルを最後にWWEから解雇となった。
+
+### フリー
+
+  - [2013年](../Page/2013年.md "wikilink")
+
+<!-- end list -->
+
   - 6月9日、[プロレスリングZERO1](../Page/ZERO1.md "wikilink")[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会に[火祭り参戦をアピールするために登場](../Page/火祭り_\(ZERO1\).md "wikilink")。
-  - 6月14日、リングネームをKAZMA SAKAMOTOに改名。
-  - 7月より開催された火祭りにおいて勝ち点3で予選落ちとなった。
+  - 6月14日、リングネームを**KAZMA SAKAMOTO**に改名。
+  - 7月より開催された火祭りに出場したが、勝ち点3で予選落ちとなった。
   - 火祭り後、古巣であるKAIENTAI DOJOに定期参戦。ZERO1にも継続参戦。
 
 ### WRESTLE-1
@@ -103,7 +110,7 @@
 
 <!-- end list -->
 
-  - 2013年9月21日、[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")にて[河野真幸](https://ja.wikipedia.org/wiki/河野真幸 "wikilink")の相棒として登場。[TAJIRI](../Page/TAJIRI.md "wikilink") & [グレート・ムタというトップレスラータッグを相手にするが敗戦した](https://ja.wikipedia.org/wiki/武藤敬司#グレート・ムタ "wikilink")。
+  - 2013年9月21日、[WRESTLE-1](https://ja.wikipedia.org/wiki/WRESTLE-1 "wikilink")にて[河野真幸](https://ja.wikipedia.org/wiki/河野真幸 "wikilink")の相棒として登場。[TAJIRI](../Page/TAJIRI.md "wikilink")&[グレート・ムタというトップレスラータッグを相手にするが敗戦した](https://ja.wikipedia.org/wiki/武藤敬司#グレート・ムタ "wikilink")。
 
 <!-- end list -->
 
@@ -151,6 +158,8 @@
   - [ダイビングフットスタンプ](https://ja.wikipedia.org/wiki/フット・スタンプ#ダイビング・フット・スタンプ "wikilink")（旧：Harakiri）
     **ハーフパッケージパイルドライバー**
     変形パッケージパイルドライバー。
+
+    2020年現在のフィニッシュホールド。
 
     **リストクラッチ式パッケージパイルドライバー**
 
@@ -205,7 +214,7 @@
 <!-- end list -->
 
   - [オープン・ザ・ツインゲート統一タッグ王座](../Page/オープン・ザ・ツインゲート統一タッグ王座.md "wikilink")（第48代、パートナーは[B×Bハルク](../Page/B×Bハルク.md "wikilink")）
-  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")（第64代、パートナーは[吉田隆司](../Page/吉田隆司.md "wikilink")、[神田裕之](../Page/神田裕之.md "wikilink")）
+  - [オープン・ザ・トライアングルゲート王座](https://ja.wikipedia.org/wiki/オープン・ザ・トライアングルゲート王座 "wikilink")（第64代、パートナーは[吉田隆司](../Page/吉田隆司.md "wikilink")、[神田裕之](../Page/神田裕之.md "wikilink")）（第69代、パートナーは吉田隆司、[ディアマンテ](https://ja.wikipedia.org/wiki/ディアマンテ_\(プロレスラー\) "wikilink")）
 
 <!-- end list -->
 

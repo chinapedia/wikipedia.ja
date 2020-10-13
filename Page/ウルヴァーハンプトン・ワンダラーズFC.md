@@ -383,7 +383,7 @@
 
 ## 現所属メンバー
 
-  - 2019-20シーズン 基本フォーメーション
+  - 2020-21シーズン 基本フォーメーション
 
 <div style="position: relative;">
 
@@ -391,9 +391,9 @@
 
 </div>
 
-  - 2020年9月19日現在
+  - 2020年9月22日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ★    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ★    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -490,6 +490,8 @@
 ### DF
 
   - [ディーン・リチャーズ](https://ja.wikipedia.org/wiki/ディーン・リチャーズ_\(サッカー選手\) "wikilink") 1995-1999
+
+  - [ケヴィン・マスカット](https://ja.wikipedia.org/wiki/ケヴィン・マスカット "wikilink")1997-2002
 
   - [デニス・アーウィン](../Page/デニス・アーウィン.md "wikilink") 2002-2004
 

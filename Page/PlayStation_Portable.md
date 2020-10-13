@@ -1,22 +1,22 @@
 > この記事は[PlayStation Portable](https://ja.wikipedia.org/wiki/PlayStation_Portable)から翻訳されています。
 
 
-**PlayStation Portable**（プレイステーション・ポータブル、略: **PSP**\[1\]）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で[2004年](../Page/2004年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売された[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機\[2\]。発売元はソニー・コンピュータエンタテインメント（略: SCE、現: [ソニー・インタラクティブエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")〈SIE〉）。
+**PlayStation Portable**（プレイステーション・ポータブル、略称: **PSP**\[1\]）は、[ソニー・コンピュータエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・インタラクティブエンタテインメント "wikilink")（略: SCE）\[2\]が[2004年](../Page/2004年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")に発売した[携帯型ゲーム](../Page/携帯型ゲーム.md "wikilink")機\[3\]。
 
-[PlayStationの発売](../Page/PlayStation_\(ゲーム機\).md "wikilink")10周年を記念して発売された（発表当初は「[21世紀](../Page/21世紀.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")」と位置づけられた）\[3\]。[2009年](../Page/2009年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")には、姉妹機である「[PSP go](https://ja.wikipedia.org/wiki/PlayStation_Portable_go "wikilink")」が発売された\[4\]。
+[PlayStation](../Page/PlayStation_\(ゲーム機\).md "wikilink") (PS) の発売10周年を記念して発売された（発表当初は「[21世紀](../Page/21世紀.md "wikilink")の[ウォークマン](../Page/ウォークマン.md "wikilink")」と位置づけられていた）\[4\]。[2009年](../Page/2009年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")には、姉妹機である「[PSP go](https://ja.wikipedia.org/wiki/PlayStation_Portable_go "wikilink")」が発売された\[5\]。
 
 ## 概要
 
-現代の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の原型のような機能群を搭載している。発売日の[2004年](../Page/2004年.md "wikilink")12月当時、携帯ゲーム機は[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")を多少超える程度の性能の[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")が主流で、携帯電話やPDAなどでもマルチメディアが扱えるとは言い難い状況にあった。また、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")も[電子手帳](../Page/電子手帳.md "wikilink")の延長のような製品ばかりであった。ハンドヘルド型端末によるインターネットへのアクセスも殆ど不可能と言って良い時代であった。その世の中で、PSPは一足飛びに[PlayStation 2に近い品質のグラフィックを描画し](../Page/PlayStation_2.md "wikilink")、[マルチメディア](../Page/マルチメディア.md "wikilink")視聴機能や[Wi-Fi](../Page/Wi-Fi.md "wikilink")や[Webブラウザも搭載したため](../Page/ウェブブラウザ.md "wikilink")、ゲーム愛好家以外にもかなりの衝撃を与えた。従って、PSPはマルチメディア端末として唯一無二の立ち位置を確保することに成功した。
+現代の[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")の原型のような機能群を搭載している。発売日の[2004年](../Page/2004年.md "wikilink")12月当時、携帯ゲーム機は[スーパーファミコン](../Page/スーパーファミコン.md "wikilink")を多少超える程度の性能の[ゲームボーイアドバンス](../Page/ゲームボーイアドバンス.md "wikilink")が主流で、携帯電話やPDAなどでもマルチメディアが扱えるとは言い難い状況にあった。また、[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")も[電子手帳](../Page/電子手帳.md "wikilink")の延長のような製品ばかりであった。ハンドヘルド型端末によるインターネットへのアクセスも殆ど不可能と言って良い時代であった。その世の中で、PSPは一足飛びに[PlayStation 2](../Page/PlayStation_2.md "wikilink") (PS2) に近い品質のグラフィックを描画し、[マルチメディア](../Page/マルチメディア.md "wikilink")視聴機能や[Wi-Fi](../Page/Wi-Fi.md "wikilink")や[Webブラウザも搭載したため](../Page/ウェブブラウザ.md "wikilink")、ゲーム愛好家以外にもかなりの衝撃を与えた。従って、PSPはマルチメディア端末として唯一無二の立ち位置を確保することに成功した。
 
-[4.3インチモバイルASV液晶](https://ja.wikipedia.org/wiki/ASV液晶 "wikilink")・[UMD](../Page/ユニバーサル・メディア・ディスク.md "wikilink")・[メモリースティック PRO Duoインターフェースを採用する](../Page/メモリースティック.md "wikilink")\[5\]。[無線LAN](../Page/無線LAN.md "wikilink")や[USBポートでの](../Page/ユニバーサル・シリアル・バス.md "wikilink")[拡張性](../Page/拡張性.md "wikilink")があり、[PlayStation 2と較べても遜色のないグラフィック性能を持つ](../Page/PlayStation_2.md "wikilink")\[6\]。当時の技術的制約からPlayStation 1.5程度の性能に留まるが、ベジェ/Bスプライン(NURBS)曲面をサポートする点では[PlayStation 2を超える描画機能を備えている](../Page/PlayStation_2.md "wikilink")\[7\]。
+[4.3インチモバイルASV液晶](https://ja.wikipedia.org/wiki/ASV液晶 "wikilink")・[UMD](../Page/ユニバーサル・メディア・ディスク.md "wikilink")・[メモリースティック PRO Duoインターフェースを採用する](../Page/メモリースティック.md "wikilink")\[6\]。[無線LAN](../Page/無線LAN.md "wikilink")や[USBポートでの](../Page/ユニバーサル・シリアル・バス.md "wikilink")[拡張性](../Page/拡張性.md "wikilink")があり、PS2と較べても遜色のないグラフィック性能を持つ\[7\]。当時の技術的制約からPlayStation 1.5程度の性能に留まるが、ベジェ/Bスプライン (NURBS) 曲面をサポートする点ではPS2を超える描画機能を備えている\[8\]。
 
 デザインは据置機のPSシリーズと異なり、PSP-1000シリーズは小笠原伸一、PSP-3000シリーズは曽我部卓が担当した。
 
   - ゲーム
     PSP専用UMDによる[ゲーム](../Page/ゲーム.md "wikilink")をプレイすることができる。また、[PlayStation Storeでは](../Page/PlayStation_Store.md "wikilink")[ダウンロード](https://ja.wikipedia.org/wiki/ダウンロード "wikilink")用のゲーム（新作や[ゲームアーカイブス](https://ja.wikipedia.org/wiki/ゲームアーカイブス "wikilink")や[体験版](../Page/体験版.md "wikilink")）が[デジタル配信されている](../Page/ダウンロード販売.md "wikilink")。PSP-2000以降は専用ケーブルを使用してテレビ画面に出力させることもできるようになった。PSP go以降はUMDドライブが廃止され、ダウンロードのみとなった。独自規格のメディアのUMDは片面2層、容量は1.8GB(CDの約3倍)
   - システムソフトウェアアップデート
-    本体ソフトウェアを[インターネット](../Page/インターネット.md "wikilink")やUMDを利用してアップデート（更新）するもの。セキュリティーの強化や機能拡張などの効果がある。アップデート方法はPSP本体から、PS3経由から、パソコン経由からの3つの方法がある。
+    本体ソフトウェアを[インターネット](../Page/インターネット.md "wikilink")やUMDを利用してアップデート（更新）するもの。セキュリティーの強化や機能拡張などの効果がある。アップデート方法はPSP本体から、[PlayStation 3](https://ja.wikipedia.org/wiki/PlayStation_3 "wikilink") (PS3) 経由から、パソコン経由からの3つの方法がある。
   - スリープ機能
     パワースイッチを短く上に入れることで、ゲームをそのままの状態で一時的に中断することができる。スリープ解除時は1 - 2秒ほどで再開できる。スリープモード中は基本的にほとんどバッテリーを消費しない。無操作状態のまま、一定時間が経過したときに、自動でスリープにすることも可能。また、バッテリー残量が少なくなると自動的にスリープに入りバッテリーを節約するようになっているが、その後完全に電池が切れた場合は電源が切れてしまい、次回起動時に時刻設定を求められ、設定後メニューに戻る。
   - ワイヤレスLAN
@@ -129,7 +129,7 @@
           - [クロック](../Page/クロック.md "wikilink")[周波数](../Page/周波数.md "wikilink")：1 - 333 MHz（標準は222MHz）
           - 16 KB 命令キャッシュ / 16 KB データキャッシュ
           - 組込FPU（MIPSは通常、単独では浮動小数計算機能を持たないため）
-          - 組込ベクトル[FPU](../Page/FPU.md "wikilink")、2.6G [FLOPS](../Page/FLOPS.md "wikilink")（333MHz駆動時）\[8\]
+          - 組込ベクトル[FPU](../Page/FPU.md "wikilink")、2.6G [FLOPS](../Page/FLOPS.md "wikilink")（333MHz駆動時）\[9\]
       - グラフィックスコア
           - 256ビットバス
           - [クロック](../Page/クロック.md "wikilink")[周波数](../Page/周波数.md "wikilink")：1 - 166 MHz（標準は111MHz）
@@ -148,9 +148,9 @@
               - ベジェ/Bスプライン(NURBS)曲面
           - レンダリングエンジン機能
               - テクスチャマッピング
-              - ピクセルシェーディング\[9\]
+              - ピクセルシェーディング\[10\]
   - Sony CXD1876 （のちCXD5026）
-      - メディアエンジン CPU(メインのCPUとほぼ同等だがFPUやVFPUを持たず、ゲームプログラムから直接操作ができない)\[10\]
+      - メディアエンジン CPU(メインのCPUとほぼ同等だがFPUやVFPUを持たず、ゲームプログラムから直接操作ができない)\[11\]
           - MIPS R4000 32ビットコア
           - 90nm、セミコンダクタCMOSプロセス
           - 1 - 333 MHz（標準は222 MHz）@ 1.2V
@@ -166,10 +166,10 @@
           - DRAM 2MB @2.6 Gbps
       - 128ビットバス @ 2.6ギガビット/秒
   - [メモリ](../Page/主記憶装置.md "wikilink")
-      - Samsung K5E5658ACM（マルチチップパッケージ）\[11\]
+      - Samsung K5E5658ACM（マルチチップパッケージ）\[12\]
           - メイン[メモリ](../Page/主記憶装置.md "wikilink")：DDRDRAM32MB（うち[カーネル](../Page/カーネル.md "wikilink")が8MBを占有エリアとして確保）
           - [フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")：32MB
-      - [DRAM](https://ja.wikipedia.org/wiki/DRAM "wikilink")：4MB（上記の通りグラフィクスコアに2MB、ビデオデコーダに2MBの固定的な割り当て。当初[eDRAM](https://ja.wikipedia.org/wiki/eDRAM "wikilink")方式であったが2005年末ごろからDRAMを別チップとしてパッケージ内で積層するchip on chip方式に変更された\[12\]。）
+      - [DRAM](https://ja.wikipedia.org/wiki/DRAM "wikilink")：4MB（上記の通りグラフィクスコアに2MB、ビデオデコーダに2MBの固定的な割り当て。当初[eDRAM](https://ja.wikipedia.org/wiki/eDRAM "wikilink")方式であったが2005年末ごろからDRAMを別チップとしてパッケージ内で積層するchip on chip方式に変更された\[13\]。）
   - [ディスプレイ](../Page/ディスプレイ_\(コンピュータ\).md "wikilink")
       - SHARP製4.3インチ ワイドスクリーン[ASV液晶](https://ja.wikipedia.org/wiki/ASV液晶 "wikilink")
       - 画面解像度：480×272 [ピクセル](../Page/ピクセル.md "wikilink") (16：9)
@@ -267,7 +267,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/画像:NEWPSP2000.jpg "wikilink") 2007年9月20日発売。PSP-1000から軽量・薄型化され、テレビ出力（ゲームの映像は[プログレッシブ方式の入力に対応したテレビと](https://ja.wikipedia.org/wiki/走査#インターレース方式とプログレッシブ方式 "wikilink")[D端子](../Page/D端子.md "wikilink")ケーブルまたは[コンポーネントAVケーブルが必要](../Page/コンポーネント端子.md "wikilink")）も可能となった。またメインメモリが拡張され、ゲームのローディング時間も短縮された。その他の変更点としては、無線LANスイッチが本体左側面から上面に移動・赤外線通信ポートの廃止・ディスクカバーのロックスイッチが廃止され手動開閉式となった。
 
-  - CXD2975BGG\[13\]
+  - CXD2975BGG\[14\]
       - [メインメモリ](../Page/主記憶装置.md "wikilink")：64MB（うち32MBはバッファ。これによりソフトによっては読み込み待ち時間の短縮が期待できる）
       - [フラッシュメモリ](../Page/フラッシュメモリ.md "wikilink")：64MB
   - CXD5029
@@ -384,13 +384,13 @@
       - 『[AKB1/48 アイドルと恋したら…](https://ja.wikipedia.org/wiki/AKB1/48_アイドルと恋したら… "wikilink")　Premier Special Pack』（2010年[12月23日](../Page/12月23日.md "wikilink")発売）
       - 『[モンスターハンターポータブル 3rd](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル#モンスターハンター_ポータブル_3rd "wikilink")　新米ハンターズパック』（2011年[2月10日](../Page/2月10日.md "wikilink")発売）
       - 『\[\[ディシディア_デュオデシム_ファイナルファンタジー|DISSIDIA 012\[duodecim\] FINAL FANTASY\]\]　Chaos & Cosmos Limited』（2011年[3月3日](../Page/3月3日.md "wikilink")発売）
-      - 『ワンピース ROMANCE DAWN 冒険の夜明け 麦わらの一味 EDITION』（[2012年](../Page/2012年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")発売）\[14\]
-      - 『[うたの☆プリンスさまっ♪](https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")All Star Prelude Symphony Pack』\[15\]（[2013年](../Page/2013年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売）
+      - 『ワンピース ROMANCE DAWN 冒険の夜明け 麦わらの一味 EDITION』（[2012年](../Page/2012年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")発売）\[15\]
+      - 『[うたの☆プリンスさまっ♪](https://ja.wikipedia.org/wiki/うたの☆プリンスさまっ♪ "wikilink")All Star Prelude Symphony Pack』\[16\]（[2013年](../Page/2013年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink")発売）
       - オリジナルデザインのPSPとソフト「うたの☆プリンスさまっ♪All Star 初回限定 Super Shining Smile BOXと初回特典、オリジナルポーチとクロスが同梱。
 
 #### PSP-E1000シリーズ
 
-[PSP_E1000_illustration.svg](https://ja.wikipedia.org/wiki/File:PSP_E1000_illustration.svg "fig:PSP_E1000_illustration.svg") [Gamescom](https://ja.wikipedia.org/wiki/ゲームズコム "wikilink") 2011で発表された欧州限定販売の廉価機\[16\]。価格は99ユーロ（日本円で約1万900円・当時）。無線LANを廃止し、PSP-1000に近い厚みのある大きさになっているが、従来のUMDがそのまま使用できる。日本では発売されなかった。これに関しては、すでに次世代機の[PlayStation Vitaの発売が決定されていることや](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")などのアドホック通信を用いたソフトがヒットしているなどが要因であると推測されている\[17\]。
+[PSP_E1000_illustration.svg](https://ja.wikipedia.org/wiki/File:PSP_E1000_illustration.svg "fig:PSP_E1000_illustration.svg") [Gamescom](https://ja.wikipedia.org/wiki/ゲームズコム "wikilink") 2011で発表された欧州限定販売の廉価機\[17\]。価格は99ユーロ（日本円で約1万900円・当時）。無線LANを廃止し、PSP-1000に近い厚みのある大きさになっているが、従来のUMDがそのまま使用できる。日本では発売されなかった。これに関しては、すでに次世代機の[PlayStation Vitaの発売が決定されていることや](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")、[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")などのアドホック通信を用いたソフトがヒットしているなどが要因であると推測されている\[18\]。
 
 ### ソフトウェア
 
@@ -1008,7 +1008,7 @@ SCZM-92096</p></td>
 
 **[2009年](../Page/2009年.md "wikilink")**
 
-  - 1月末 - 全世界累計売上台数5,000万台到達\[18\]。
+  - 1月末 - 全世界累計売上台数5,000万台到達\[19\]。
   - [3月5日](../Page/3月5日.md "wikilink") - 新色「バイブラント・ブルー」、「ラディアント・レッド」発売。
   - [3月19日](../Page/3月19日.md "wikilink") - 新色「ブライト・イエロー」、「スピリティッド・グリーン」発売。
   - [6月3日](../Page/6月3日.md "wikilink") - [PlayStation Portable go](https://ja.wikipedia.org/wiki/PlayStation_Portable_go "wikilink") (PSP go) 発表。
@@ -1035,21 +1035,21 @@ SCZM-92096</p></td>
 **[2012年](../Page/2012年.md "wikilink")**
 
   - [4月26日](../Page/4月26日.md "wikilink") - 新色「スカイブルー/マリンブルー」を数量限定で発売。
-  - 9月19日 - カンファレンスイベントで価格改定の発表。翌日の9月20日から通常版が13,800円・バリューパックが14,800円へ引き下げられる\[19\]。
+  - 9月19日 - カンファレンスイベントで価格改定の発表。翌日の9月20日から通常版が13,800円・バリューパックが14,800円へ引き下げられる\[20\]。
   - 10月3日 -「レッド/ブラック」のバリューセットを11月22日に数量限定で再発売することを発表。
 
 **[2014年](../Page/2014年.md "wikilink")**
 
-  - [3月31日](../Page/3月31日.md "wikilink") - PSP-1000シリーズ/PSP-2000シリーズのアフターサービス受付終了\[20\]\[21\]。
-  - [6月3日](../Page/6月3日.md "wikilink") - 6月での日本国内向け出荷の完了を発表し、後継機である[PS Vitaへの乗り換えサポートも始まった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[22\]。
+  - [3月31日](../Page/3月31日.md "wikilink") - PSP-1000シリーズ/PSP-2000シリーズのアフターサービス受付終了\[21\]\[22\]。
+  - [6月3日](../Page/6月3日.md "wikilink") - 6月での日本国内向け出荷の完了を発表し、後継機である[PS Vitaへの乗り換えサポートも始まった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[23\]。
 
 **[2016年](../Page/2016年.md "wikilink")**
 
-  - [3月31日](../Page/3月31日.md "wikilink") - PlayStation StoreでのPSP向けサービスを終了\[23\]。
+  - [3月31日](../Page/3月31日.md "wikilink") - PlayStation StoreでのPSP向けサービスを終了\[24\]。
 
 **[2019年](../Page/2019年.md "wikilink")**
 
-  - [9月30日](../Page/9月30日.md "wikilink") - PSP-3000シリーズのアフターサービス受付終了\[24\]。
+  - [9月30日](../Page/9月30日.md "wikilink") - PSP-3000シリーズのアフターサービス受付終了\[25\]。
 
 ## 歴代キャッチコピー
 
@@ -1072,34 +1072,34 @@ SCZM-92096</p></td>
   - 販売台数
     2005年10月にPSPは全世界累計生産出荷台数1,000万台、2006年3月には同1,700万台、2008年6月に4,100万台（同年7月15日に日本国内累計販売台数1,000万台を達成）、2009年2月13日に5,000万台、2011年1月に6,400万台（うち日本は1,600万台）、2011年6月に7,000万台に到達。
 
-    日本では、下記のように『[モンスターハンター ポータブル](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル "wikilink")』シリーズが大ヒットした2007年頃から売上を伸ばし始め、2010年から2011年にかけて最盛期を迎えた\[25\]。2010年でのメディアクリエイト発表ではDSを若干上回る年間販売最多ハードとされている（ただしエンターブレイン実施の調査では、2010年の売上最多ハードはDSシリーズの売上累計）。
+    日本では、下記のように『[モンスターハンター ポータブル](https://ja.wikipedia.org/wiki/モンスターハンター_ポータブル "wikilink")』シリーズが大ヒットした2007年頃から売上を伸ばし始め、2010年から2011年にかけて最盛期を迎えた\[26\]。2010年でのメディアクリエイト発表ではDSを若干上回る年間販売最多ハードとされている（ただしエンターブレイン実施の調査では、2010年の売上最多ハードはDSシリーズの売上累計）。
 
-    日本で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録したソフトは、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")調べによると、『モンスターハンター ポータブル』（[廉価版](../Page/廉価版.md "wikilink")含む）、『モンスターハンターポータブル 2nd』、400万本以上を記録した『モンスターハンターポータブル 2nd G』（廉価版のみでもミリオンセラーを記録している\[26\]）と『モンスターハンターポータブル 3rd』である。
+    日本で[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")を記録したソフトは、[エンターブレイン](https://ja.wikipedia.org/wiki/エンターブレイン "wikilink")調べによると、『モンスターハンター ポータブル』（[廉価版](../Page/廉価版.md "wikilink")含む）、『モンスターハンターポータブル 2nd』、400万本以上を記録した『モンスターハンターポータブル 2nd G』（廉価版のみでもミリオンセラーを記録している\[27\]）と『モンスターハンターポータブル 3rd』である。
 
-    海外では、ミリオンセラーの登場時期は日本より早くそのタイトル数も多いものの、記録的な大ヒット作は登場しなかった（備考として、海外で2010年3月までに発売された[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")の各作品は評価・売上ともに中堅へとどまっている）。日本から数年遅れる形でニンテンドーDSが大ヒットした、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")など[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")によるアプリケーションの普及が日本以上に大きく第3の競合相手になりつつあるなどの要因が重なり、苦戦を強いられており、2010年までの欧米の携帯型ゲーム機用のソフト市場におけるPSPのシェアは10％ほどしかなかった\[27\]。
+    海外では、ミリオンセラーの登場時期は日本より早くそのタイトル数も多いものの、記録的な大ヒット作は登場しなかった（備考として、海外で2010年3月までに発売された[モンスターハンターシリーズ](https://ja.wikipedia.org/wiki/モンスターハンターシリーズ "wikilink")の各作品は評価・売上ともに中堅へとどまっている）。日本から数年遅れる形でニンテンドーDSが大ヒットした、[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")など[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")によるアプリケーションの普及が日本以上に大きく第3の競合相手になりつつあるなどの要因が重なり、苦戦を強いられており、2010年までの欧米の携帯型ゲーム機用のソフト市場におけるPSPのシェアは10％ほどしかなかった\[28\]。
 
-    そのため、世界市場から見てのPSPは「日本でのみ好調で、他の国では不振だったゲーム機」であり、次世代機[PlayStation Vitaが発表早期から海外市場を意識したメディア展開を行ったのはこの反省を踏まえたものであった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[28\]。PS Vita発売後はPS Vitaが発売された週を除いて同ハードを上回る売り上げで推移していたが\[29\]、PS Vitaが値下げされて以降は逆転し、2013年10月1日現在では週間販売台数5000台前後で推移した。新作ソフトも[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")を中心に発表されていた。
+    そのため、世界市場から見てのPSPは「日本でのみ好調で、他の国では不振だったゲーム機」であり、次世代機[PlayStation Vitaが発表早期から海外市場を意識したメディア展開を行ったのはこの反省を踏まえたものであった](https://ja.wikipedia.org/wiki/PlayStation_Vita "wikilink")\[29\]。PS Vita発売後はPS Vitaが発売された週を除いて同ハードを上回る売り上げで推移していたが\[30\]、PS Vitaが値下げされて以降は逆転し、2013年10月1日現在では週間販売台数5000台前後で推移した。新作ソフトも[乙女ゲーム](../Page/乙女ゲーム.md "wikilink")を中心に発表されていた。
 
   - 日本国外での評価
     2004年5月にアメリカで世界最大と言われたゲーム展示会E3(エレクトロニック・エンターテインメント・エキスポ)で本体のデザインやソフトラインアップが発表された。 米国の雑誌「ポピュラーサイエンス」は、11月15日発売の12月号で、2005年の新製品大賞を発表した。本機がハイテク小物部門にて、東芝の[垂直磁気記録方式](../Page/垂直磁気記録方式.md "wikilink")ハードディスクドライブ(HDD)がコンピューター部門にて、ともに大賞を獲得した。
 
-    Spike TV Videogame Awards 2005においてBEST BREAKTHROUGH TECHNOLOGY賞をPSPが受賞した\[30\]。
+    Spike TV Videogame Awards 2005においてBEST BREAKTHROUGH TECHNOLOGY賞をPSPが受賞した\[31\]。
 
-    Time誌の「Best Inventions 2005」をPSPが受賞した\[31\]。
+    Time誌の「Best Inventions 2005」をPSPが受賞した\[32\]。
 
     Manila Bulletin Onlineにて「THE TOP 15 TECHNEWS GADGETS OF 2005」の第1位を獲得した。
 
   - 現状の制限事項と性能向上、その影響
-    発売当初のPSPでは、可変動作周波数機能により最高でも222MHzまで動作するよう制限されていたが、ファームウェアバージョン3.50からは333MHzでの動作が解禁になった（333MHzで動作させるにはソフトウェアの側でも対応させる必要がある。[God of War: Chains of Olympus](../Page/ゴッド・オブ・ウォー.md "wikilink")（ゴッド・オブ・ウォー 落日の悲愴曲）で、初めて333MHzでの動作が実現した\[32\]）\[33\]。これにより、処理能力がさらに向上し、より画質の高いゲームの開発が期待できるが、その分消費電力も大きくなるため、対応ソフトのプレイ時はバッテリーの持続時間が短くなってしまう弊害もある。
+    発売当初のPSPでは、可変動作周波数機能により最高でも222MHzまで動作するよう制限されていたが、ファームウェアバージョン3.50からは333MHzでの動作が解禁になった（333MHzで動作させるにはソフトウェアの側でも対応させる必要がある。[God of War: Chains of Olympus](../Page/ゴッド・オブ・ウォー.md "wikilink")（ゴッド・オブ・ウォー 落日の悲愴曲）で、初めて333MHzでの動作が実現した\[33\]）\[34\]。これにより、処理能力がさらに向上し、より画質の高いゲームの開発が期待できるが、その分消費電力も大きくなるため、対応ソフトのプレイ時はバッテリーの持続時間が短くなってしまう弊害もある。
 
   - 教育での利用
     [eラーニング](https://ja.wikipedia.org/wiki/eラーニング "wikilink")や[要約筆記](../Page/要約筆記.md "wikilink")などに使われた。英国でもPSPを使った教育が行われた。
 
   - 工場での利用
-    VAIO株式会社でノートパソコンVAIOの製造ラインの生産サイクル管理端末としてPSPを利用している\[34\]。
+    VAIO株式会社でノートパソコンVAIOの製造ラインの生産サイクル管理端末としてPSPを利用している\[35\]。
 
   - スタジアムでの映像の提供
-    サッカーイングランド・プレミアリーグの強豪[アーセナルFC](../Page/アーセナルFC.md "wikilink")のホームスタジアム[エミレーツ・スタジアム](../Page/エミレーツ・スタジアム.md "wikilink")で、公衆無線LANを利用して試合のリプレイをPSPで閲覧するサービスが2010年冬から開始されている。日本でも[Jリーグの](../Page/日本プロサッカーリーグ.md "wikilink")[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")がホームスタジアムの[カシマサッカースタジアムで](../Page/茨城県立カシマサッカースタジアム.md "wikilink")、2010年11月より公衆無線LANを利用した同様のサービスを試験的に開始し、順次本格的に導入する\[35\]。
+    サッカーイングランド・プレミアリーグの強豪[アーセナルFC](../Page/アーセナルFC.md "wikilink")のホームスタジアム[エミレーツ・スタジアム](../Page/エミレーツ・スタジアム.md "wikilink")で、公衆無線LANを利用して試合のリプレイをPSPで閲覧するサービスが2010年冬から開始されている。日本でも[Jリーグの](../Page/日本プロサッカーリーグ.md "wikilink")[鹿島アントラーズ](../Page/鹿島アントラーズ.md "wikilink")がホームスタジアムの[カシマサッカースタジアムで](../Page/茨城県立カシマサッカースタジアム.md "wikilink")、2010年11月より公衆無線LANを利用した同様のサービスを試験的に開始し、順次本格的に導入する\[36\]。
 
   - 携帯型ゲーム機の常識を覆した広告
     それまでの携帯型ゲーム機では光の屈折や反射の関係で液晶画面とゲーム機を別々に撮って合成した広告やCMを使用し「画面はハメコミ合成です。」と注意が書かれていたものがPSPでは「画面はハメコミ合成ではありません。」とそのままの状態で宣伝された。
@@ -1108,21 +1108,21 @@ SCZM-92096</p></td>
 
 :; □ボタンの不良
 
-:: PSP-1000型の発売当初、□ボタンの反応が鈍いことや、凹んだまま戻ってこなくなることがあると指摘された。原因は[バリが十分に取れていなかったためと](../Page/バリ_\(曖昧さ回避\).md "wikilink")、ボタンの位置が検知位置と一致していなかったためと判明。一部の金型に問題があったとして修理対応を行った。一時期、本体のボタン構造については当時のSCE会長[久夛良木健](../Page/久夛良木健.md "wikilink")が「仕様だ」とインタビューで答えたため大きな非難を浴びた\[36\]。
+:: PSP-1000型の発売当初、□ボタンの反応が鈍いことや、凹んだまま戻ってこなくなることがあると指摘された。原因は[バリが十分に取れていなかったためと](../Page/バリ_\(曖昧さ回避\).md "wikilink")、ボタンの位置が検知位置と一致していなかったためと判明。一部の金型に問題があったとして修理対応を行った。一時期、本体のボタン構造については当時のSCE会長[久夛良木健](../Page/久夛良木健.md "wikilink")が「仕様だ」とインタビューで答えたため大きな非難を浴びた\[37\]。
 
 :; 広告問題
 
 :: 2005年11月に[アメリカのニューヨーク](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、シカゴ、アトランタ、フィラデルフィア、ロサンゼルス、マイアミにて本物のストリートアートに見せかけた落書きによる広告を行ったが、住人の不評を買い、更に公共物や私有地の壁などに無断で描かれた場所もあったため、被害住民から苦情が寄せられた。2006年7月、ブラックに続きホワイトがラインナップに加わるにあたって[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")で出された広告のうち、「白人女性が威嚇するように黒人女性の顔をつかむ」という構図の写真が人種差別的であるとアメリカで騒動となり、広告を取り下げた。
 
-:: 2006年12月にアメリカにて匿名を名乗りPSPを賞賛するブログが登場したが、そのブログを調べてみると口コミのマーケティング企業が運営していることが発覚。この行為がアメリカの各種メディアで取り上げられ、騒動となった。その後、ブログは閉鎖された\[37\]。
+:: 2006年12月にアメリカにて匿名を名乗りPSPを賞賛するブログが登場したが、そのブログを調べてみると口コミのマーケティング企業が運営していることが発覚。この行為がアメリカの各種メディアで取り上げられ、騒動となった。その後、ブログは閉鎖された\[38\]。
 
-:: この行為がきっかけとなり、2006年12月にアメリカの連邦取引委員会では、企業が他会社に依頼するなどして、他人が製品を絶賛するようなやらせサイトを行わないように規制する法案が提出されることとなった\[38\]。
+:: この行為がきっかけとなり、2006年12月にアメリカの連邦取引委員会では、企業が他会社に依頼するなどして、他人が製品を絶賛するようなやらせサイトを行わないように規制する法案が提出されることとなった\[39\]。
 
 :; トロイの木馬、自作ソフトの起動、違反・逮捕、それに関連する話題
 
-:: 「PSPでサポート外ソフトウェアを起動させる為のプログラム」と偽称し、PSPに感染する[トロイの木馬](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")（ウイルス名：Trojan.PSPBrickなど）が配布されていることが[シマンテック](../Page/シマンテック.md "wikilink")により報告された\[39\]。これに感染するとPSP本体にある[BIOSを破壊してシステムファイルを削除し](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、起動不可能にしてしまう。SCEはこういった非正規のソフトウェアを使用しないように警告しており、感染した場合、または[CFW（カスタムファームウェア）や自作ソフトが動作しなくなった場合のサポートは行わないと発表している](https://ja.wikipedia.org/wiki/カスタムファームウェア "wikilink")。このウイルスはPSPのバージョンを2.00以上にすれば感染を防ぐことができる。ブラウザ機能や無線LAN経由でユーザの知らないうちにウイルスに感染するといった事例はない。なお、このウイルスは携帯型ゲーム機を対象とした初のコンピューターウイルスである。
+:: 「PSPでサポート外ソフトウェアを起動させる為のプログラム」と偽称し、PSPに感染する[トロイの木馬](../Page/トロイの木馬_\(ソフトウェア\).md "wikilink")（ウイルス名：Trojan.PSPBrickなど）が配布されていることが[シマンテック](../Page/シマンテック.md "wikilink")により報告された\[40\]。これに感染するとPSP本体にある[BIOSを破壊してシステムファイルを削除し](https://ja.wikipedia.org/wiki/Basic_Input/Output_System "wikilink")、起動不可能にしてしまう。SCEはこういった非正規のソフトウェアを使用しないように警告しており、感染した場合、または[CFW（カスタムファームウェア）や自作ソフトが動作しなくなった場合のサポートは行わないと発表している](https://ja.wikipedia.org/wiki/カスタムファームウェア "wikilink")。このウイルスはPSPのバージョンを2.00以上にすれば感染を防ぐことができる。ブラウザ機能や無線LAN経由でユーザの知らないうちにウイルスに感染するといった事例はない。なお、このウイルスは携帯型ゲーム機を対象とした初のコンピューターウイルスである。
 
-:: また、CFW入りPSPを入れて販売していたため、ゲーム機を対象としたことでは初の[商標法](../Page/商標法.md "wikilink")違反（[商標](../Page/商標.md "wikilink")権の直接侵害）\[40\]や[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反（技術的制限解除装置等の販売）での逮捕者も出た。
+:: また、CFW入りPSPを入れて販売していたため、ゲーム機を対象としたことでは初の[商標法](../Page/商標法.md "wikilink")違反（[商標](../Page/商標.md "wikilink")権の直接侵害）\[41\]や[不正競争防止法](../Page/不正競争防止法.md "wikilink")違反（技術的制限解除装置等の販売）での逮捕者も出た。
 
 :: インターネット上の[ファイル共有ソフト](../Page/ファイル共有ソフト.md "wikilink")においてPSPのソフトウェアが大量に出回っていることも問題となっている。先述した改造システムソフトウェアによって[UMDに入っているゲームデータを](../Page/ユニバーサル・メディア・ディスク.md "wikilink")[ISOイメージ](https://ja.wikipedia.org/wiki/ISOイメージ "wikilink")タイプのファイルとして吸い出してアップロードし、それをダウンロードすることで同様の改造を施したPSP本体で起動できるようになるというものであり、特に[BitTorrent](../Page/BitTorrent.md "wikilink")などで大量にこういったファイルが出回っている。このようなファイルはもちろん[著作権法](../Page/著作権法.md "wikilink")に違反するため処罰対象となるが、海外からのアップロードも多く厳格な対処が行えないのが実情である。
 
@@ -1135,9 +1135,13 @@ SCZM-92096</p></td>
   -
 
       -
-        [初音ミク Project DIVA](https://ja.wikipedia.org/wiki/初音ミク_Project_DIVA "wikilink")-2nd いっぱいパック-に同梱されている本体「PSP-3000 XZG」において「ゲームを終了しますか？」といったメッセージが勝手に表示され、プレイしにくくなる現象が報告されている。メーカーのセガは「PSP本体の不具合の可能性がありますので、株式会社ソニー・コンピュータエンタテインメント　インフォメーションセンターへお問合せください」と公式サイト上に掲載している\[41\]。
+        [初音ミク Project DIVA](https://ja.wikipedia.org/wiki/初音ミク_Project_DIVA "wikilink")-2nd いっぱいパック-に同梱されている本体「PSP-3000 XZG」において「ゲームを終了しますか？」といったメッセージが勝手に表示され、プレイしにくくなる現象が報告されている。メーカーのセガは「PSP本体の不具合の可能性がありますので、株式会社ソニー・コンピュータエンタテインメント　インフォメーションセンターへお問合せください」と公式サイト上に掲載している\[42\]。
 
 ## 脚注
+
+### 補足
+
+### 出典
 
 ## 関連項目
 
@@ -1156,43 +1160,44 @@ SCZM-92096</p></td>
 [Category:PlayStation_Portable](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable "wikilink") [Category:PlayStation](https://ja.wikipedia.org/wiki/Category:PlayStation "wikilink") [Category:携帯型ゲーム機](https://ja.wikipedia.org/wiki/Category:携帯型ゲーム機 "wikilink") [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:2000年代の玩具](https://ja.wikipedia.org/wiki/Category:2000年代の玩具 "wikilink") [Category:携帯型プレーヤー](https://ja.wikipedia.org/wiki/Category:携帯型プレーヤー "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
 
 1.
-2.
-3.  [21世紀のウォークマンを目指すSCEのPSP戦略](http://pc.watch.impress.co.jp/docs/2004/0405/kaigai081.htm)、PC Watch（後藤弘茂のWeekly海外ニュース）、 2004年4月5日
-4.
+2.  現社名はソニー・インタラクティブエンタテインメント（略: SIE）。
+3.
+4.  [21世紀のウォークマンを目指すSCEのPSP戦略](http://pc.watch.impress.co.jp/docs/2004/0405/kaigai081.htm)、PC Watch（後藤弘茂のWeekly海外ニュース）、 2004年4月5日
 5.
-6.  [3DゲームファンのためのPSPグラフィックス講座～3Dグラフィックス機能はPS2の同等以上](http://game.watch.impress.co.jp/docs/20040406/psp.htm)、GAME Watch（西川善司、3Dゲームファンのためのグラフィックス講座）、 2004年4月6日
-7.
-8.  [明らかになったPSPのハードウェアスペック](http://pc.watch.impress.co.jp/docs/2003/0730/mobile211.htm)、PC Watch（本田雅一の「週刊モバイル通信」）、 2003年7月30日
-9.
+6.
+7.  [3DゲームファンのためのPSPグラフィックス講座～3Dグラフィックス機能はPS2の同等以上](http://game.watch.impress.co.jp/docs/20040406/psp.htm)、GAME Watch（西川善司、3Dゲームファンのためのグラフィックス講座）、 2004年4月6日
+8.
+9.  [明らかになったPSPのハードウェアスペック](http://pc.watch.impress.co.jp/docs/2003/0730/mobile211.htm)、PC Watch（本田雅一の「週刊モバイル通信」）、 2003年7月30日
 10.
-11. [【新型PSP】分解その2：基板には2つの変更点があった【訂正あり】](http://techon.nikkeibp.co.jp/article/NEWS/20070917/139218/)
-12. [SCEが脱「DRAM混載」　PSPの心臓部に積層技術](http://techon.nikkeibp.co.jp/article/HONSHI/20061004/121920/) 日経エレクトロニクス2006年10月9日号
-13. [【新型PSP】分解その2：基板には2つの変更点があった【訂正あり】](http://techon.nikkeibp.co.jp/article/NEWS/20070917/139218/)
-14. [SCEのプレスリリース](http://www.jp.playstation.com/info/release/nr_20121006_onepiece_edition.html)
-15. [商品サイト](http://www.jp.playstation.com/psp/hardware/pspj30029.html)
-16.
-17. [ソニーが非常に安価な新型PSP「PSP-E1000」を発表 - GIGAZINE](http://gigazine.net/news/20110817_psp_e1000/)
-18. [「プレイステーション・ポータブル」全世界累計売上台数5,000万台達成](http://www.jp.playstation.com/info/release/nr_20090213_psp50m.html), 株式会社ソニー・コンピュータエンタテインメント, 2009年2月13日
-19. [公式トップページ](http://www.jp.playstation.com/psp/hardware/index.html)
-20. [一部機種のアフターサービス受付終了のお知らせ](http://www.jp.playstation.com/info/support/sp_20140228_repair_ps.html)
-21. [PSシリーズサポート終了機種一覧](http://www.jp.playstation.com/support/repair/eor_list.html)
-22.
-23. [PSP®「プレイステーション・ポータブル」向けPlayStation®Storeにおける各種コンテンツの販売終了、およびUMD®Passportサービス終了のお知らせ](http://www.jp.playstation.com/info/support/sp-20151127-psp-psstore-umdpassport.html)
-24. [PSPⓇ（PlayStationⓇPortable）本体および周辺機器のアフターサービス受付終了のお知らせ](https://www.jp.playstation.com/important-notice/2019/20190731/)
-25.
+11.
+12. [【新型PSP】分解その2：基板には2つの変更点があった【訂正あり】](http://techon.nikkeibp.co.jp/article/NEWS/20070917/139218/)
+13. [SCEが脱「DRAM混載」　PSPの心臓部に積層技術](http://techon.nikkeibp.co.jp/article/HONSHI/20061004/121920/) 日経エレクトロニクス2006年10月9日号
+14. [【新型PSP】分解その2：基板には2つの変更点があった【訂正あり】](http://techon.nikkeibp.co.jp/article/NEWS/20070917/139218/)
+15. [SCEのプレスリリース](http://www.jp.playstation.com/info/release/nr_20121006_onepiece_edition.html)
+16. [商品サイト](http://www.jp.playstation.com/psp/hardware/pspj30029.html)
+17.
+18. [ソニーが非常に安価な新型PSP「PSP-E1000」を発表 - GIGAZINE](http://gigazine.net/news/20110817_psp_e1000/)
+19. [「プレイステーション・ポータブル」全世界累計売上台数5,000万台達成](http://www.jp.playstation.com/info/release/nr_20090213_psp50m.html), 株式会社ソニー・コンピュータエンタテインメント, 2009年2月13日
+20. [公式トップページ](http://www.jp.playstation.com/psp/hardware/index.html)
+21. [一部機種のアフターサービス受付終了のお知らせ](http://www.jp.playstation.com/info/support/sp_20140228_repair_ps.html)
+22. [PSシリーズサポート終了機種一覧](http://www.jp.playstation.com/support/repair/eor_list.html)
+23.
+24. [PSP®「プレイステーション・ポータブル」向けPlayStation®Storeにおける各種コンテンツの販売終了、およびUMD®Passportサービス終了のお知らせ](http://www.jp.playstation.com/info/support/sp-20151127-psp-psstore-umdpassport.html)
+25. [PSPⓇ（PlayStationⓇPortable）本体および周辺機器のアフターサービス受付終了のお知らせ](https://www.jp.playstation.com/important-notice/2019/20190731/)
 26.
 27.
 28.
 29.
-30. [Gaming HorizonのSpike TV Videogame Awards 2005記事](http://articles.gaminghorizon.com/media/1132419360.65.html)、GAME BUMP、2005年11月19日
-31. [Time.com Best Inventions 2005 (PSP)](http://www.time.com/time/business/article/0,8599,1129523-3,00.html)、Time.com、2005年11月13日
-32. [ゴッド・オブ・ウォー　公式開発ブログ「ローカライズ奮闘記」 - 発売一週間前のおさらい](http://www.capcom-fc.com/gow/2008/07/post_13.html)より。
-33. [Sony Confirms Full PSP CPU Speed](http://www.shacknews.com/onearticle.x/47564), Shacknews, 2007年6月22日
-34. <http://gigazine.net/news/20150305-vaio-azumino-factory/>
-35. [スタジアムへの新たなスポーツエンタテインメントのソリューションを確立](http://www.sony.co.jp/SonyInfo/News/Press/201011/10-150/)
-36. ["PSP"のボタンを押すと引っかかって元に戻らなくなってしまうのですが？](http://www.jp.playstation.com/support/qa-480.html)、PlayStation.com
-37. （英語）
-38. [野放しだった偽ブログの口コミ広告が、規制の対象に - 米国 AFP BB News - BETA -](http://www.afpbb.com/article/1194113)
-39. [Trojan.PSPBrick - Symantec.com](http://www.symantec.com/region/jp/avcenter/venc/data/jp-trojan.pspbrick.html)、Symantec.com
-40. [PSPにCFWを付けて販売していた男性を商標法違反で逮捕](http://gigazine.net/index.php?/news/comments/20080220_psp_cfw/)
-41. [『初音ミク -Project DIVA- 2nd いっぱいパック』同梱PSP本体をお使いの方へ](http://miku.sega.jp/pjd2/oshirase.html)
+30.
+31. [Gaming HorizonのSpike TV Videogame Awards 2005記事](http://articles.gaminghorizon.com/media/1132419360.65.html)、GAME BUMP、2005年11月19日
+32. [Time.com Best Inventions 2005 (PSP)](http://www.time.com/time/business/article/0,8599,1129523-3,00.html)、Time.com、2005年11月13日
+33. [ゴッド・オブ・ウォー　公式開発ブログ「ローカライズ奮闘記」 - 発売一週間前のおさらい](http://www.capcom-fc.com/gow/2008/07/post_13.html)より。
+34. [Sony Confirms Full PSP CPU Speed](http://www.shacknews.com/onearticle.x/47564), Shacknews, 2007年6月22日
+35. <http://gigazine.net/news/20150305-vaio-azumino-factory/>
+36. [スタジアムへの新たなスポーツエンタテインメントのソリューションを確立](http://www.sony.co.jp/SonyInfo/News/Press/201011/10-150/)
+37. ["PSP"のボタンを押すと引っかかって元に戻らなくなってしまうのですが？](http://www.jp.playstation.com/support/qa-480.html)、PlayStation.com
+38. （英語）
+39. [野放しだった偽ブログの口コミ広告が、規制の対象に - 米国 AFP BB News - BETA -](http://www.afpbb.com/article/1194113)
+40. [Trojan.PSPBrick - Symantec.com](http://www.symantec.com/region/jp/avcenter/venc/data/jp-trojan.pspbrick.html)、Symantec.com
+41. [PSPにCFWを付けて販売していた男性を商標法違反で逮捕](http://gigazine.net/index.php?/news/comments/20080220_psp_cfw/)
+42. [『初音ミク -Project DIVA- 2nd いっぱいパック』同梱PSP本体をお使いの方へ](http://miku.sega.jp/pjd2/oshirase.html)

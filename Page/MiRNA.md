@@ -175,7 +175,7 @@ miRNAとがん化の関わりについて、2002年、米国のG. M. CalinとC. 
 | miRNAの種類 | onco miRNA/tumor suppressor miRNA | がんの種類                                                                                                                                                                                                                        |
 | -------- | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | miR-21   | onco miRNA                        | [乳がん](https://ja.wikipedia.org/wiki/乳がん "wikilink")\[93\]、[子宮頸がん](https://ja.wikipedia.org/wiki/子宮頸がん "wikilink")\[94\]、[肺がん](https://ja.wikipedia.org/wiki/肺がん "wikilink")\[95\]、[大腸がん](../Page/大腸癌.md "wikilink")\[96\] など |
-| miR-34   | tumor suppressor miRNA            | [前立腺がん](../Page/前立腺癌.md "wikilink")\[97\]、肺がん\[98\]、大腸がん\[99\]、[肝臓がん](https://ja.wikipedia.org/wiki/肝臓がん "wikilink")\[100\] など                                                                                               |
+| miR-34   | tumor suppressor miRNA            | [前立腺がん](../Page/前立腺癌.md "wikilink")\[97\]、肺がん\[98\]、大腸がん\[99\]、[肝臓がん](../Page/肝癌.md "wikilink")\[100\] など                                                                                                                    |
 
 代表的なonco miRNAとtumor suppressor miRNAの一例
 

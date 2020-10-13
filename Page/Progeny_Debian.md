@@ -25,7 +25,7 @@ Progeny Debian は、[LSB](../Page/Linux_Standard_Base.md "wikilink") に基づ�
 
 ## 外部リンク
 
-  - [公式サイト Componentized Linux Home アーカイブ](http://web.archive.org/web/20070421032942rn_1/www.componentizedlinux.org/index.php/Main_Page)（英語）
+  - [公式サイト Componentized Linux Home アーカイブ](https://web.archive.org/web/20070421032942rn_1/www.componentizedlinux.org/index.php/Main_Page)（英語）
 
 [en:Progeny Componentized Linux](https://ja.wikipedia.org/wiki/en:Progeny_Componentized_Linux "wikilink")\]
 

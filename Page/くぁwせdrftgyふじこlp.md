@@ -7,15 +7,14 @@
 
 初出は[2ちゃんねる](../Page/2ちゃんねる.md "wikilink")の「キーボードの上から三段目と四段目を二本指で左からダーすると」というスレッドからとされている\[2\]。ネットスラングとして広まったため、『[電車男](../Page/電車男.md "wikilink")』などインターネットや[オタク](https://ja.wikipedia.org/wiki/オタク "wikilink")を題材とした作品、漫画・[ゲーム](../Page/コンピュータゲーム.md "wikilink")・[ライトノベル](../Page/ライトノベル.md "wikilink")内でもたびたび使用され、[2005年](../Page/2005年.md "wikilink")には[はてなキーワード](https://ja.wikipedia.org/wiki/はてなキーワード "wikilink")からの転載という形で『[現代用語の基礎知識](../Page/現代用語の基礎知識.md "wikilink")2006』にも収録された\[3\]。公式の読み方はないが、適当に当てている企業もある\[4\]。
 
-  - 使用された例（読み方はすべて異なるので注意）
+### 使用された例
 
-:\* [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に放送されたテレビアニメ『[俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_\(アニメ\) "wikilink")』には同名のBGMがある\[5\]。
+作品によって読み方は異なるケースもある。
 
-:\* [2012年](../Page/2012年.md "wikilink")に発売された[ゴールデンボンバーのアルバム](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")『[ゴールデン・アルバム](https://ja.wikipedia.org/wiki/ゴールデン・アルバム "wikilink")』の収録曲「デスメンタル」の歌詞\[6\]。
-
-:\* [2016年](../Page/2016年.md "wikilink")に放送されたテレビアニメ『[ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink")』第8話のイナズマックスのセリフ\[7\]。
-
-:\* [2018年](../Page/2018年.md "wikilink")に放送されたテレビアニメ『[ゆるキャン△](https://ja.wikipedia.org/wiki/ゆるキャン△ "wikilink")』第1期第2話の志摩リンと斉藤恵那の[SNSでのセリフ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[8\]。[2020年](../Page/2020年.md "wikilink")に放送された同作の[テレビドラマ版第](https://ja.wikipedia.org/wiki/ゆるキャン△#テレビドラマ "wikilink")2話でも同じセリフが再現された\[9\]。
+  - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")に放送されたテレビアニメ『[俺の妹がこんなに可愛いわけがない](https://ja.wikipedia.org/wiki/俺の妹がこんなに可愛いわけがない_\(アニメ\) "wikilink")』には同名のBGMがある\[5\]。
+  - [2012年](../Page/2012年.md "wikilink")に発売された[ゴールデンボンバーのアルバム](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")『[ゴールデン・アルバム](https://ja.wikipedia.org/wiki/ゴールデン・アルバム "wikilink")』の収録曲「デスメンタル」の歌詞\[6\]。
+  - [2016年](../Page/2016年.md "wikilink")に放送されたテレビアニメ『[ワンパンマン](https://ja.wikipedia.org/wiki/ワンパンマン "wikilink")』第8話のイナズマックスのセリフ\[7\]。
+  - [2018年](../Page/2018年.md "wikilink")に放送されたテレビアニメ『[ゆるキャン△](https://ja.wikipedia.org/wiki/ゆるキャン△ "wikilink")』第1期第2話の志摩リンと斉藤恵那の[SNSでのセリフ](../Page/ソーシャル・ネットワーキング・サービス.md "wikilink")\[8\]。[2020年](../Page/2020年.md "wikilink")に放送された同作の[テレビドラマ版第](https://ja.wikipedia.org/wiki/ゆるキャン△#テレビドラマ "wikilink")2話でも同じセリフが再現された\[9\]。
 
 ## 表記の方法
 

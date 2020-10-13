@@ -34,6 +34,6 @@ L字の縦のラインに当たる部分は、8-27階が『ハービスENTオフ
 
   - [HERBIS ハービス](http://www.herbis.jp/)
 
-[Category:大阪府のショッピングセンター](https://ja.wikipedia.org/wiki/Category:大阪府のショッピングセンター "wikilink") [Category:大阪府の超高層ビル](https://ja.wikipedia.org/wiki/Category:大阪府の超高層ビル "wikilink") [Category:大阪市北区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市北区の建築物 "wikilink") [Category:阪神電気鉄道](https://ja.wikipedia.org/wiki/Category:阪神電気鉄道 "wikilink") [Category:2004年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2004年竣工の日本の建築物 "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink") [Category:梅田](https://ja.wikipedia.org/wiki/Category:梅田 "wikilink")
+[Category:大阪府のショッピングセンター](https://ja.wikipedia.org/wiki/Category:大阪府のショッピングセンター "wikilink") [Category:大阪府の超高層ビル](https://ja.wikipedia.org/wiki/Category:大阪府の超高層ビル "wikilink") [Category:大阪市北区の建築物](https://ja.wikipedia.org/wiki/Category:大阪市北区の建築物 "wikilink") [Category:阪神電気鉄道](https://ja.wikipedia.org/wiki/Category:阪神電気鉄道 "wikilink") [Category:2004年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:2004年竣工の日本の建築物 "wikilink") [Category:高さ100m以上150m未満の超高層ビル](https://ja.wikipedia.org/wiki/Category:高さ100m以上150m未満の超高層ビル "wikilink") [Category:梅田](https://ja.wikipedia.org/wiki/Category:梅田 "wikilink") [Category:建築物の愛称](https://ja.wikipedia.org/wiki/Category:建築物の愛称 "wikilink")
 
 1.  [交通機関](http://www.herbis.jp/access/index.html) - ハービス（2013年12月13日閲覧）

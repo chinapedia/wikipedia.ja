@@ -78,8 +78,6 @@
   - 久保廉
   - 黒田光輝
 
-•草間リチャード敬太
-
 ### け
 
 ### こ
@@ -90,8 +88,8 @@
 
 ### さ
 
-  - 齋藤颯
-  - [作間龍斗](https://ja.wikipedia.org/wiki/作間龍斗 "wikilink")
+\* [作間龍斗](https://ja.wikipedia.org/wiki/作間龍斗 "wikilink")
+
   - 佐久間玲駈
   - 佐々木彪瑠
   - 佐々木大光

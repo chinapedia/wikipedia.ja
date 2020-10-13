@@ -69,7 +69,7 @@
 
   - [大西隆文のTHE NITE](https://musicbird.jp/cfm/timetable/nite/) - 番組紹介ページ
 
-  - [大西貴文のTHE NITEブログ](http://thenite2004.blogspot.jp/) (2014年10月～)
+  - [大西貴文のTHE NITEブログ](https://thenite2004.blogspot.com/) (2014年10月～)
 
   - [大西貴文のTHE NITEブログ](http://blog.livedoor.jp/tkcompany/)（～2014年9月）
 

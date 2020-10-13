@@ -7,7 +7,7 @@
 
 前身番組の「[CAN DO レイソル](../Page/CAN_DO_レイソル.md "wikilink")」が[2005年](../Page/2005年.md "wikilink")、レイソルのJ2降格を機に[2006年](../Page/2006年.md "wikilink")3月をもって放送終了。2006年4月、その後継番組として本番組が誕生した（当時の番組名は「Risingレイソル\!」）。2008年6月からセットが大幅に変わり、それに伴いタイトルロゴも、現在使用されている**Rising Reysol\!**と英文字になった。
 
-ちなみに2009年4月以降の[ジェフ千葉応援番組](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（『[WIN BY ALL\!](https://ja.wikipedia.org/wiki/WIN_BY_ALL! "wikilink")』→『[ジェフ魂12](../Page/ジェフ魂12.md "wikilink")Returns』→『WIN BY ALL\!』）は15分番組なので、レイソルの方が広報活動に力を入れているといえる。\[1\]\[2\]。なお、『WIN BY ALL\!』においても、2016年からイオンがスポンサーに加わっている。
+ちなみに2009年4月以降の[ジェフ千葉応援番組](https://ja.wikipedia.org/wiki/ジェフユナイテッド市原・千葉 "wikilink")（『[WIN BY ALL\!](https://ja.wikipedia.org/wiki/WIN_BY_ALL! "wikilink")』→『[ジェフ魂12](../Page/ジェフ魂12.md "wikilink")Returns』→『WIN BY ALL\!』）は15分番組なので、レイソルの方が広報活動に力を入れているといえる\[1\]\[2\]。なお、『WIN BY ALL\!』においても、2016年からイオンがスポンサーに加わっている。
 
 放送内容としては、先月放送翌日から放送前日までに行われた試合結果・佐藤大による解説を中心としている。他に、選手へのインタビューやお便り紹介などからなる。
 

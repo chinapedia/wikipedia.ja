@@ -56,7 +56,7 @@
   - [Secil Minami](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")：Backing Chorus (\#4,7,10,11)
   - Yujirou：Backing Chorus (\#1)
   - [山本耕史](../Page/山本耕史.md "wikilink")：Backing Chorus (\#6)
-  - [伊藤匠](https://ja.wikipedia.org/wiki/伊藤匠 "wikilink")：Backing Chorus (\#8)
+  - 伊藤匠：Backing Chorus (\#8)
   - [KIing Opal](https://ja.wikipedia.org/wiki/Soul_Crusaders#メンバー "wikilink")：[Rap](../Page/ラップ.md "wikilink") (\#6,8)
   - [大賀好修](../Page/大賀好修.md "wikilink")：[Guitar](../Page/ギター.md "wikilink") (\#1,2,3,7,10,11)
 

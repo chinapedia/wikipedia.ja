@@ -893,6 +893,6 @@ SLP-1006/1007(web限定盤)</p></td>
 
   - [山内憲介ブログ「ケンスペ」](https://sleepyab.exblog.jp/) - 更新終了
 
-[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポストロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポストロック・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink")
+[Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のポストロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポストロック・バンド "wikilink") [Category:ドリーム・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:ドリーム・ポップ・バンド "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:CDショップ大賞受賞者](https://ja.wikipedia.org/wiki/Category:CDショップ大賞受賞者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:北海道出身の人物](https://ja.wikipedia.org/wiki/Category:北海道出身の人物 "wikilink")
 
 1.  「[MUSICA](../Page/MUSICA.md "wikilink")」2009年5月号、有泉智子氏評

@@ -177,49 +177,25 @@
 
 ### HOT'n思い出ベスト3とベスト5
 
-垣花正が選ぶHOT'n思い出ベスト3
-
-1位　**[五木寛之](../Page/五木寛之.md "wikilink")に気に入られて[TBSラジオ](../Page/TBSラジオ.md "wikilink")に出かかる**
-
-2位　**[中島みゆき](../Page/中島みゆき.md "wikilink")から手紙をもらった**
-
-3位　**飲み会で高橋シュウイチ（漢字不明）逆ギレ事件**
-
-お姉さんが選ぶHOT'n思い出ベスト5
-
-1位　**[真珠](../Page/真珠.md "wikilink")の粉**
-
-2位　**指が太いと言われた末に舐められた**
-
-3位　**帰りの[タクシー](../Page/タクシー.md "wikilink")の中でアゴが外れた**
-
-4位　**数々の言い間違い**
-
-5位　**生放送中に[パンスト](https://ja.wikipedia.org/wiki/パンスト "wikilink")を脱いだ**
+  - 垣花正が選ぶHOT'n思い出ベスト3
+      - 1位 / **[五木寛之](../Page/五木寛之.md "wikilink")に気に入られて[TBSラジオ](../Page/TBSラジオ.md "wikilink")に出かかる**
+      - 2位 / **[中島みゆき](../Page/中島みゆき.md "wikilink")から手紙をもらった**
+      - 3位 / **飲み会で高橋シュウイチ（漢字不明）逆ギレ事件**
+  - お姉さんが選ぶHOT'n思い出ベスト5
+      - 1位 / **[真珠](../Page/真珠.md "wikilink")の粉**
+      - 2位 / **指が太いと言われた末に舐められた**
+      - 3位 / **帰りの[タクシー](../Page/タクシー.md "wikilink")の中でアゴが外れた**
+      - 4位 / **数々の言い間違い**
+      - 5位 / **生放送中に[パンスト](https://ja.wikipedia.org/wiki/パンスト "wikilink")を脱いだ**
 
 ### かかった曲
 
-  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink")　『全力少年』
-
-<!-- end list -->
-
-  - [アンダーグラフ](../Page/アンダーグラフ.md "wikilink")　『ツバサ』
-
-<!-- end list -->
-
-  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")　『星になれたら』
-
-<!-- end list -->
-
-  - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")　『To You』
-
-<!-- end list -->
-
-  - [BOØWY](../Page/BOØWY.md "wikilink")　『[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")』
-
-<!-- end list -->
-
-  - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")　『[強く儚い者たち](https://ja.wikipedia.org/wiki/強く儚い者たち "wikilink")』
+  - [スキマスイッチ](../Page/スキマスイッチ.md "wikilink") / 『全力少年』
+  - [アンダーグラフ](../Page/アンダーグラフ.md "wikilink") / 『ツバサ』
+  - [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink") / 『星になれたら』
+  - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink") / 『To You』
+  - [BOØWY](../Page/BOØWY.md "wikilink") / 『[わがままジュリエット](../Page/わがままジュリエット.md "wikilink")』
+  - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink") / 『[強く儚い者たち](https://ja.wikipedia.org/wiki/強く儚い者たち "wikilink")』
 
 ### その他
 

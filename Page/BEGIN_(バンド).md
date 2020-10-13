@@ -352,7 +352,7 @@ BEGINデビュー25周年当日の2015年3月21日に地元石垣島で「BEGIN2
 <td><p>2016年6月1日</p></td>
 <td><p>海の声 〜SPECIAL PACKAGE〜</p></td>
 <td></td>
-<td><p>配信シングル</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>40th</p></td>
@@ -387,14 +387,14 @@ BEGINデビュー25周年当日の2015年3月21日に地元石垣島で「BEGIN2
 <td><p>2018年8月12日</p></td>
 <td><p>バンドを組もうよ</p></td>
 <td></td>
-<td><p>配信シングル</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>45th</p></td>
 <td><p>2018年8月12日</p></td>
 <td><p>飛んで火に入る腹の虫</p></td>
 <td></td>
-<td><p>配信シングル</p></td>
+<td></td>
 </tr>
 </tbody>
 </table>

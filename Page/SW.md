@@ -25,6 +25,7 @@
       - [自動列車停止装置](../Page/自動列車停止装置.md "wikilink")の一種「ATS-SW」。[JR西日本で使用されている](../Page/西日本旅客鉄道.md "wikilink")。
       - 南側発着ターミナル (south wing)。[空港](../Page/空港.md "wikilink")の発着ターミナルの略語。
       - 2代目[トヨタ・MR2](../Page/トヨタ・MR2.md "wikilink")の通称(形式名SW20より)
+      - [西武多摩川線](https://ja.wikipedia.org/wiki/西武多摩川線 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
   - コード
       - [スワヒリ語](https://ja.wikipedia.org/wiki/スワヒリ語 "wikilink")の[ISO 639-1言語コード](../Page/ISO_639.md "wikilink")
       - [ナミビア航空](../Page/ナミビア航空.md "wikilink")の[IATA](../Page/国際航空運送協会.md "wikilink")[航空会社コード](../Page/航空会社コード.md "wikilink")。

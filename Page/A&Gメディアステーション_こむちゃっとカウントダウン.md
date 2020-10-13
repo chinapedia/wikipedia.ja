@@ -153,184 +153,184 @@
 
 ### 2003年
 
-| 日付     | 回       | こむちゃゲスト               | こむちゃーとベスト10　1位獲得曲                                                                   |
-| ------ | ------- | --------------------- | ----------------------------------------------------------------------------------- |
-|        |         |                       |                                                                                     |
-| 曲名     | アーティスト名 | 備考                    |                                                                                     |
-| 1月4日   | 13      |                       | まぼろし                                                                                |
-| 1月11日  | 14      |                       |                                                                                     |
-| 1月18日  | 15      |                       |                                                                                     |
-| 1月25日  | 16      |                       |                                                                                     |
-| 2月1日   | 17      |                       |                                                                                     |
-| 2月8日   | 18      |                       | おめっとサンバ                                                                             |
-| 2月15日  | 19      |                       | 君がいた物語                                                                              |
-| 2月22日  | 20      |                       |                                                                                     |
-| 3月1日   | 21      |                       |                                                                                     |
-| 3月8日   | 22      |                       |                                                                                     |
-| 3月15日  | 23      |                       |                                                                                     |
-| 3月22日  | 24      |                       |                                                                                     |
-| 3月29日  | 25      |                       |                                                                                     |
-| 4月5日   | 26      |                       |                                                                                     |
-| 4月12日  | 27      |                       | [1st Priority](https://ja.wikipedia.org/wiki/1st_Priority "wikilink")               |
-| 4月19日  | 28      |                       | [tune the rainbow](https://ja.wikipedia.org/wiki/tune_the_rainbow "wikilink")       |
-| 4月26日  | 29      |                       |                                                                                     |
-| 5月3日   | 30      |                       |                                                                                     |
-| 5月10日  | 31      |                       | [New Sensation](../Page/New_Sensation.md "wikilink")                                |
-| 5月17日  | 32      |                       |                                                                                     |
-| 5月24日  | 33      |                       |                                                                                     |
-| 5月31日  | 34      |                       | 白夜〜True Light〜                                                                      |
-| 6月7日   | 35      |                       | [明日へのbrilliant road](https://ja.wikipedia.org/wiki/明日へのbrilliant_road "wikilink")   |
-| 6月14日  | 36      |                       |                                                                                     |
-| 6月21日  | 37      |                       |                                                                                     |
-| 6月28日  | 38      |                       |                                                                                     |
-| 7月5日   | 39      |                       |                                                                                     |
-| 7月12日  | 40      |                       | [Lovely Magic](../Page/Lovely_Magic.md "wikilink")                                  |
-| 7月19日  | 41      |                       | 鏡の中                                                                                 |
-| 7月26日  | 42      |                       |                                                                                     |
-| 8月2日   | 43      |                       | [still in the groove](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink") |
-| 8月9日   | 44      |                       |                                                                                     |
-| 8月16日  | 45      |                       | [サクラサクミライコイユメ](../Page/サクラサクミライコイユメ.md "wikilink")                                  |
-| 8月23日  | 46      |                       |                                                                                     |
-| 8月30日  | 47      | 望月久代、金田朋子、こやまきみこ      |                                                                                     |
-| 9月6日   | 48      |                       |                                                                                     |
-| 9月13日  | 49      |                       |                                                                                     |
-| 9月20日  | 50      |                       |                                                                                     |
-| 9月27日  | 51      |                       | [眠れぬ夜につかまえて](../Page/眠れぬ夜につかまえて.md "wikilink")                                      |
-| 10月4日  | 52      |                       |                                                                                     |
-|        |         |                       |                                                                                     |
-| 10月11日 | 53      |                       |                                                                                     |
-| 10月18日 | 54      |                       | [負けないで、負けないで…](../Page/負けないで、負けないで….md "wikilink")                                  |
-| 10月25日 | 55      |                       | [メリッサ](../Page/メリッサ.md "wikilink")                                                  |
-| 11月1日  | 56      |                       |                                                                                     |
-| 11月8日  | 57      |                       |                                                                                     |
-| 11月15日 | 58      |                       |                                                                                     |
-| 11月22日 | 59      |                       | [めぐり逢い](https://ja.wikipedia.org/wiki/めぐり逢い_\(メロキュアの曲\) "wikilink")                 |
-| 11月29日 | 60      |                       | [Precious Memories](https://ja.wikipedia.org/wiki/Precious_Memories "wikilink")     |
-| 12月6日  | 61      |                       |                                                                                     |
-| 12月13日 | 62      |                       | [月蝕グランギニョル](https://ja.wikipedia.org/wiki/月蝕グランギニョル "wikilink")                     |
-| 12月20日 | 63      | 釘宮理恵、望月久代、金田朋子、こやまきみこ |                                                                                     |
-| 12月27日 | 64      |                       |                                                                                     |
+| 日付     | 回       | こむちゃゲスト                                                                                                                                           | こむちゃーとベスト10　1位獲得曲                                                                   |
+| ------ | ------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+|        |         |                                                                                                                                                   |                                                                                     |
+| 曲名     | アーティスト名 | 備考                                                                                                                                                |                                                                                     |
+| 1月4日   | 13      |                                                                                                                                                   | まぼろし                                                                                |
+| 1月11日  | 14      |                                                                                                                                                   |                                                                                     |
+| 1月18日  | 15      |                                                                                                                                                   |                                                                                     |
+| 1月25日  | 16      |                                                                                                                                                   |                                                                                     |
+| 2月1日   | 17      |                                                                                                                                                   |                                                                                     |
+| 2月8日   | 18      |                                                                                                                                                   | おめっとサンバ                                                                             |
+| 2月15日  | 19      |                                                                                                                                                   | 君がいた物語                                                                              |
+| 2月22日  | 20      |                                                                                                                                                   |                                                                                     |
+| 3月1日   | 21      |                                                                                                                                                   |                                                                                     |
+| 3月8日   | 22      |                                                                                                                                                   |                                                                                     |
+| 3月15日  | 23      |                                                                                                                                                   |                                                                                     |
+| 3月22日  | 24      |                                                                                                                                                   |                                                                                     |
+| 3月29日  | 25      |                                                                                                                                                   |                                                                                     |
+| 4月5日   | 26      |                                                                                                                                                   |                                                                                     |
+| 4月12日  | 27      |                                                                                                                                                   | [1st Priority](https://ja.wikipedia.org/wiki/1st_Priority "wikilink")               |
+| 4月19日  | 28      |                                                                                                                                                   | [tune the rainbow](https://ja.wikipedia.org/wiki/tune_the_rainbow "wikilink")       |
+| 4月26日  | 29      |                                                                                                                                                   |                                                                                     |
+| 5月3日   | 30      |                                                                                                                                                   |                                                                                     |
+| 5月10日  | 31      |                                                                                                                                                   | [New Sensation](../Page/New_Sensation.md "wikilink")                                |
+| 5月17日  | 32      |                                                                                                                                                   |                                                                                     |
+| 5月24日  | 33      |                                                                                                                                                   |                                                                                     |
+| 5月31日  | 34      |                                                                                                                                                   | 白夜〜True Light〜                                                                      |
+| 6月7日   | 35      |                                                                                                                                                   | [明日へのbrilliant road](https://ja.wikipedia.org/wiki/明日へのbrilliant_road "wikilink")   |
+| 6月14日  | 36      |                                                                                                                                                   |                                                                                     |
+| 6月21日  | 37      |                                                                                                                                                   |                                                                                     |
+| 6月28日  | 38      |                                                                                                                                                   |                                                                                     |
+| 7月5日   | 39      |                                                                                                                                                   |                                                                                     |
+| 7月12日  | 40      |                                                                                                                                                   | [Lovely Magic](../Page/Lovely_Magic.md "wikilink")                                  |
+| 7月19日  | 41      |                                                                                                                                                   | 鏡の中                                                                                 |
+| 7月26日  | 42      |                                                                                                                                                   |                                                                                     |
+| 8月2日   | 43      |                                                                                                                                                   | [still in the groove](https://ja.wikipedia.org/wiki/still_in_the_groove "wikilink") |
+| 8月9日   | 44      |                                                                                                                                                   |                                                                                     |
+| 8月16日  | 45      | [新谷良子](../Page/新谷良子.md "wikilink")                                                                                                                | [サクラサクミライコイユメ](../Page/サクラサクミライコイユメ.md "wikilink")                                  |
+| 8月23日  | 46      | 田村ゆかり                                                                                                                                             |                                                                                     |
+| 8月30日  | 47      | [望月久代](../Page/望月久代.md "wikilink")、[金田朋子](../Page/金田朋子.md "wikilink")、[こやまきみこ](../Page/こやまきみこ.md "wikilink")、[日向めぐみ](../Page/日向めぐみ.md "wikilink") |                                                                                     |
+| 9月6日   | 48      | なし                                                                                                                                                |                                                                                     |
+| 9月13日  | 49      | yozuca\*                                                                                                                                          |                                                                                     |
+| 9月20日  | 50      | なし                                                                                                                                                |                                                                                     |
+| 9月27日  | 51      | [林原めぐみ](https://ja.wikipedia.org/wiki/林原めぐみ "wikilink")                                                                                           | [眠れぬ夜につかまえて](../Page/眠れぬ夜につかまえて.md "wikilink")                                      |
+| 10月4日  | 52      | なし                                                                                                                                                |                                                                                     |
+|        |         |                                                                                                                                                   |                                                                                     |
+| 10月11日 | 53      | メロキュア                                                                                                                                             |                                                                                     |
+| 10月18日 | 54      | なし                                                                                                                                                | [負けないで、負けないで…](../Page/負けないで、負けないで….md "wikilink")                                  |
+| 10月25日 | 55      | [折笠富美子](../Page/折笠富美子.md "wikilink")、[浅野真澄](../Page/浅野真澄.md "wikilink")                                                                           | [メリッサ](../Page/メリッサ.md "wikilink")                                                  |
+| 11月1日  | 56      | なし                                                                                                                                                |                                                                                     |
+| 11月8日  | 57      | 水樹奈々(公録)、田村ゆかり(番組PR)                                                                                                                              |                                                                                     |
+| 11月15日 | 58      | なし                                                                                                                                                |                                                                                     |
+| 11月22日 | 59      | 宮本駿一(録音)                                                                                                                                          | [めぐり逢い](https://ja.wikipedia.org/wiki/めぐり逢い_\(メロキュアの曲\) "wikilink")                 |
+| 11月29日 | 60      | [森永理科](../Page/森永理科.md "wikilink")                                                                                                                | [Precious Memories](https://ja.wikipedia.org/wiki/Precious_Memories "wikilink")     |
+| 12月6日  | 61      | [tiaraway](https://ja.wikipedia.org/wiki/tiaraway "wikilink")([千葉紗子](../Page/千葉紗子.md "wikilink")、[南里侑香](../Page/南里侑香.md "wikilink"))              |                                                                                     |
+| 12月13日 | 62      | なし                                                                                                                                                | [月蝕グランギニョル](https://ja.wikipedia.org/wiki/月蝕グランギニョル "wikilink")                     |
+| 12月20日 | 63      | [釘宮理恵](https://ja.wikipedia.org/wiki/釘宮理恵 "wikilink")、望月久代、金田朋子、こやまきみこ                                                                            |                                                                                     |
+| 12月27日 | 64      | なし                                                                                                                                                |                                                                                     |
 
 ### 2004年
 
-| 日付     | 回       | こむちゃゲスト                              | こむちゃーとベスト10　1位獲得曲                                                               |
-| ------ | ------- | ------------------------------------ | ------------------------------------------------------------------------------- |
-|        |         |                                      |                                                                                 |
-| 曲名     | アーティスト名 | 備考                                   |                                                                                 |
-| 1月3日   | 65      |                                      | 月蝕グランギニョル                                                                       |
-| 1月10日  | 66      |                                      | [瞳の中の迷宮](https://ja.wikipedia.org/wiki/Dolce_\(嘉陽愛子のアルバム\) "wikilink")          |
-| 1月17日  | 67      |                                      |                                                                                 |
-| 1月24日  | 68      | [DROPS](../Page/DROPS.md "wikilink") |                                                                                 |
-| 1月31日  | 69      |                                      |                                                                                 |
-| 2月7日   | 70      |                                      | [翼はPleasure Line](https://ja.wikipedia.org/wiki/翼はPleasure_Line "wikilink")     |
-| 2月14日  | 71      |                                      |                                                                                 |
-| 2月21日  | 72      |                                      |                                                                                 |
-| 2月28日  | 73      |                                      | [心晴れて 夜も明けて](../Page/心晴れて_夜も明けて.md "wikilink")                                  |
-| 3月6日   | 74      |                                      |                                                                                 |
-| 3月13日  | 75      |                                      |                                                                                 |
-| 3月20日  | 76      |                                      |                                                                                 |
-| 3月27日  | 77      |                                      |                                                                                 |
-| 4月3日   | 78      |                                      |                                                                                 |
-| 4月10日  | 79      |                                      |                                                                                 |
-| 4月17日  | 80      |                                      |                                                                                 |
-| 4月24日  | 81      |                                      |                                                                                 |
-| 5月1日   | 82      |                                      |                                                                                 |
-| 5月8日   | 83      |                                      | [パノラマ-Panorama-](../Page/パノラマ-Panorama-.md "wikilink")                          |
-| 5月15日  | 84      |                                      |                                                                                 |
-| 5月22日  | 85      |                                      |                                                                                 |
-| 5月29日  | 86      |                                      | [センチメンタル](https://ja.wikipedia.org/wiki/センチメンタル_\(CooRieの曲\) "wikilink")        |
-| 6月5日   | 87      |                                      |                                                                                 |
-| 6月12日  | 88      |                                      |                                                                                 |
-| 6月19日  | 89      |                                      |                                                                                 |
-| 6月26日  | 90      |                                      |                                                                                 |
-| 7月3日   | 91      |                                      | [夢見月のアリス](../Page/夢見月のアリス.md "wikilink")                                        |
-| 7月10日  | 92      |                                      |                                                                                 |
-| 7月17日  | 93      |                                      | [fly me to the sky](https://ja.wikipedia.org/wiki/fly_me_to_the_sky "wikilink") |
-| 7月24日  | 94      |                                      | 夢見月のアリス                                                                         |
-| 7月31日  | 95      |                                      | Angelic Symphony                                                                |
-| 8月7日   | 96      |                                      |                                                                                 |
-| 8月14日  | 97      |                                      |                                                                                 |
-| 8月21日  | 98      |                                      |                                                                                 |
-| 8月28日  | 99      |                                      | [Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(angelaの曲\) "wikilink")  |
-| 9月4日   | 100     |                                      |                                                                                 |
-| 9月11日  | 101     |                                      |                                                                                 |
-| 9月18日  | 102     |                                      | Wonderful days                                                                  |
-| 9月25日  | 103     |                                      | Shangri-La                                                                      |
-| 10月2日  | 104     |                                      | Wonderful days                                                                  |
-| 10月9日  | 105     |                                      |                                                                                 |
-|        |         |                                      |                                                                                 |
-| 10月16日 | 106     |                                      |                                                                                 |
-| 10月23日 | 107     |                                      |                                                                                 |
-| 10月30日 | 108     |                                      | [innocent starter](https://ja.wikipedia.org/wiki/innocent_starter "wikilink")   |
-| 11月6日  | 109     |                                      |                                                                                 |
-| 11月13日 | 110     |                                      |                                                                                 |
-| 11月20日 | 111     |                                      |                                                                                 |
-| 11月27日 | 112     |                                      | [スクランブル](../Page/スクランブル_\(堀江由衣_with_UNSCANDALの曲\).md "wikilink")                |
-| 12月4日  | 113     |                                      |                                                                                 |
-| 12月11日 | 114     |                                      |                                                                                 |
-| 12月18日 | 115     |                                      | [Re-sublimity](../Page/Re-sublimity.md "wikilink")                              |
-| 12月25日 | 116     |                                      |                                                                                 |
+| 日付     | 回       | こむちゃゲスト                                                                                                                                | こむちゃーとベスト10　1位獲得曲                                                               |
+| ------ | ------- | -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+|        |         |                                                                                                                                        |                                                                                 |
+| 曲名     | アーティスト名 | 備考                                                                                                                                     |                                                                                 |
+| 1月3日   | 65      | [KOTOKO](https://ja.wikipedia.org/wiki/KOTOKO "wikilink")、[小枝](../Page/小川トモヨ.md "wikilink")、[ICHIKO](../Page/ICHIKO.md "wikilink")(録音) | 月蝕グランギニョル                                                                       |
+| 1月10日  | 66      | なし                                                                                                                                     | [瞳の中の迷宮](https://ja.wikipedia.org/wiki/Dolce_\(嘉陽愛子のアルバム\) "wikilink")          |
+| 1月17日  | 67      | 折笠富美子                                                                                                                                  |                                                                                 |
+| 1月24日  | 68      | [DROPS](../Page/DROPS.md "wikilink")                                                                                                   |                                                                                 |
+| 1月31日  | 69      | [奥井雅美](../Page/奥井雅美.md "wikilink")                                                                                                     |                                                                                 |
+| 2月7日   | 70      | [桑谷夏子](../Page/桑谷夏子.md "wikilink")(飛び入りゲスト)                                                                                            | [翼はPleasure Line](https://ja.wikipedia.org/wiki/翼はPleasure_Line "wikilink")     |
+| 2月14日  | 71      | [諏訪部順一](../Page/諏訪部順一.md "wikilink")                                                                                                   |                                                                                 |
+| 2月21日  | 72      | [広橋涼](../Page/広橋涼.md "wikilink")                                                                                                       |                                                                                 |
+| 2月28日  | 73      | なし                                                                                                                                     | [心晴れて 夜も明けて](../Page/心晴れて_夜も明けて.md "wikilink")                                  |
+| 3月6日   | 74      | メロキュア                                                                                                                                  |                                                                                 |
+| 3月13日  | 75      | なし                                                                                                                                     |                                                                                 |
+| 3月20日  | 76      | 嘉陽愛子                                                                                                                                   |                                                                                 |
+| 3月27日  | 77      | なし                                                                                                                                     |                                                                                 |
+| 4月3日   | 78      | 水樹奈々                                                                                                                                   |                                                                                 |
+| 4月10日  | 79      | [皆川純子](../Page/皆川純子.md "wikilink")                                                                                                     |                                                                                 |
+| 4月17日  | 80      | KOTOKO                                                                                                                                 |                                                                                 |
+| 4月24日  | 81      | 堀江由衣                                                                                                                                   |                                                                                 |
+| 5月1日   | 82      | yozuca\*、[YURIA](../Page/YURIA.md "wikilink")、[佐藤裕美](../Page/佐藤ひろ美.md "wikilink")                                                      |                                                                                 |
+| 5月8日   | 83      | なし                                                                                                                                     | [パノラマ-Panorama-](../Page/パノラマ-Panorama-.md "wikilink")                          |
+| 5月15日  | 84      | can/goo                                                                                                                                |                                                                                 |
+| 5月22日  | 85      | 田村ゆかり                                                                                                                                  |                                                                                 |
+| 5月29日  | 86      | angela                                                                                                                                 | [センチメンタル](https://ja.wikipedia.org/wiki/センチメンタル_\(CooRieの曲\) "wikilink")        |
+| 6月5日   | 87      | なし                                                                                                                                     |                                                                                 |
+| 6月12日  | 88      | なし                                                                                                                                     |                                                                                 |
+| 6月19日  | 89      | rino(CooRie)                                                                                                                           |                                                                                 |
+| 6月26日  | 90      | なし                                                                                                                                     |                                                                                 |
+| 7月3日   | 91      | DROPS、バックドロップ([水島大宙](https://ja.wikipedia.org/wiki/水島大宙 "wikilink")、[岸尾大輔](../Page/岸尾だいすけ.md "wikilink")、追加)                           | [夢見月のアリス](../Page/夢見月のアリス.md "wikilink")                                        |
+| 7月10日  | 92      | なし                                                                                                                                     |                                                                                 |
+| 7月17日  | 93      | [milk rings](https://ja.wikipedia.org/wiki/milk_rings "wikilink")                                                                      | [fly me to the sky](https://ja.wikipedia.org/wiki/fly_me_to_the_sky "wikilink") |
+| 7月24日  | 94      | [新居昭乃](../Page/新居昭乃.md "wikilink")                                                                                                     | 夢見月のアリス                                                                         |
+| 7月31日  | 95      | POM(can/goo)                                                                                                                           | Angelic Symphony                                                                |
+| 8月7日   | 96      | [鳥海浩輔](../Page/鳥海浩輔.md "wikilink")                                                                                                     |                                                                                 |
+| 8月14日  | 97      | なし                                                                                                                                     |                                                                                 |
+| 8月21日  | 98      | milk rings                                                                                                                             |                                                                                 |
+| 8月28日  | 99      | なし                                                                                                                                     | [Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(angelaの曲\) "wikilink")  |
+| 9月4日   | 100     | なし                                                                                                                                     |                                                                                 |
+| 9月11日  | 101     | なし                                                                                                                                     |                                                                                 |
+| 9月18日  | 102     | なし                                                                                                                                     | Wonderful days                                                                  |
+| 9月25日  | 103     | 水樹奈々                                                                                                                                   | Shangri-La                                                                      |
+| 10月2日  | 104     | なし                                                                                                                                     | Wonderful days                                                                  |
+| 10月9日  | 105     | なし                                                                                                                                     |                                                                                 |
+|        |         |                                                                                                                                        |                                                                                 |
+| 10月16日 | 106     | 田村ゆかり                                                                                                                                  |                                                                                 |
+| 10月23日 | 107     | 堀江由衣                                                                                                                                   |                                                                                 |
+| 10月30日 | 108     | ALI PROJECT                                                                                                                            | [innocent starter](https://ja.wikipedia.org/wiki/innocent_starter "wikilink")   |
+| 11月6日  | 109     | angela                                                                                                                                 |                                                                                 |
+| 11月13日 | 110     | KOTOKO                                                                                                                                 |                                                                                 |
+| 11月20日 | 111     | [清水愛](../Page/清水愛.md "wikilink")                                                                                                       |                                                                                 |
+| 11月27日 | 112     | can/goo                                                                                                                                | [スクランブル](../Page/スクランブル_\(堀江由衣_with_UNSCANDALの曲\).md "wikilink")                |
+| 12月4日  | 113     | 佐藤裕美                                                                                                                                   |                                                                                 |
+| 12月11日 | 114     | 栗林みな実                                                                                                                                  |                                                                                 |
+| 12月18日 | 115     | なし                                                                                                                                     | [Re-sublimity](../Page/Re-sublimity.md "wikilink")                              |
+| 12月25日 | 116     | 堀江由衣(電話出演)                                                                                                                             |                                                                                 |
 
 ### 2005年
 
-| 日付     | 回   | こむちゃゲスト                                                                 | こむちゃーとベスト10　1位獲得曲                  |
-| ------ | --- | ----------------------------------------------------------------------- | ---------------------------------- |
-|        |     |                                                                         |                                    |
-| 回      | 曲名  | アーティスト名                                                                 | 備考                                 |
-| 1月1日   | 117 |                                                                         | 117                                |
-| 1月8日   | 118 | 皆川純子                                                                    | 118                                |
-| 1月15日  | 119 |                                                                         | 119                                |
-| 1月22日  | 120 |                                                                         | 120                                |
-| 1月29日  | 121 |                                                                         | 121                                |
-| 2月5日   | 122 |                                                                         | 122                                |
-| 2月12日  | 123 |                                                                         | 123                                |
-| 2月19日  | 124 | 保志総一朗                                                                   | 124                                |
-| 2月26日  | 125 |                                                                         | 125                                |
-| 3月5日   | 126 |                                                                         | 126                                |
-| 3月12日  | 127 |                                                                         | 127                                |
-| 3月19日  | 128 |                                                                         | 128                                |
-| 3月26日  | 129 |                                                                         | 129                                |
-| 4月2日   | 130 | なし                                                                      | 130                                |
-| 4月9日   | 131 | なし                                                                      | 131                                |
-| 4月16日  | 132 | なし                                                                      | 132                                |
-| 4月23日  | 133 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink") | 133                                |
-| 4月30日  | 134 | なし                                                                      | 134                                |
-| 5月7日   | 135 | 坂本真綾                                                                    | 135                                |
-| 5月14日  | 136 | なし                                                                      | 136                                |
-| 5月21日  | 137 | なし                                                                      | 137                                |
-| 5月28日  | 138 | ALI PROJECT([宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink"))    | 138                                |
-| 6月4日   | 139 | KOTOKO                                                                  | 139                                |
-| 6月11日  | 140 | なし(櫻井孝宏バースデースペシャル)                                                      | 140                                |
-| 6月18日  | 141 | なし                                                                      | 141                                |
-| 6月25日  | 142 | なし                                                                      | 142                                |
-| 7月2日   | 143 | [日向めぐみ](../Page/日向めぐみ.md "wikilink")                                    | 143                                |
-| 7月9日   | 144 |                                                                         | 144                                |
-| 7月16日  | 145 | angela                                                                  | 145                                |
-| 7月23日  | 146 | [鈴木純子](../Page/鈴木純子.md "wikilink")アナ\[9\]                               | 146                                |
-| 7月30日  | 147 | なし                                                                      | 147                                |
-| 8月6日   | 148 | なし                                                                      | 148                                |
-| 8月13日  | 149 | AKINO                                                                   | 149                                |
-| 8月20日  | 150 | 栗林みな実                                                                   | 150                                |
-| 8月27日  | 151 | yozuca\*                                                                | 151                                |
-| 9月3日   | 152 | 太田英明アナ\[10\]                                                            | 152                                |
-| 9月10日  | 153 | なし                                                                      | 153                                |
-| 9月17日  | 154 | [FictionJunction YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")    | 154                                |
-| 9月24日  | 155 | [折笠富美子](../Page/折笠富美子.md "wikilink")                                    | 155                                |
-| 10月1日  | 156 | なし                                                                      | 156                                |
-| 10月8日  | 157 | なし                                                                      | 157                                |
-| 10月15日 | 158 | 水樹奈々                                                                    | 158                                |
-|        |     |                                                                         |                                    |
-| 10月22日 | 159 | 田村ゆかり                                                                   | 159                                |
-| 10月29日 | 160 | なし                                                                      | 160                                |
-| 11月5日  | 161 | ALI PROJECT                                                             | 161                                |
-| 11月12日 | 162 |                                                                         | 162                                |
-| 11月19日 | 163 | [新居昭乃](../Page/新居昭乃.md "wikilink")                                      | 163                                |
-| 11月26日 | 164 | なし                                                                      | 164                                |
-| 12月3日  | 165 | なし                                                                      | 165                                |
-| 12月10日 | 166 | なし                                                                      | 166                                |
-| 12月17日 | 167 | angela                                                                  | 167                                |
-| 12月24日 | 168 | なし                                                                      | 168                                |
-| 12月31日 | 休止  | 169                                                                     | [緋色の空](../Page/緋色の空.md "wikilink") |
+| 日付     | 回   | こむちゃゲスト                                                                                                                                                                                                                                      | こむちゃーとベスト10　1位獲得曲                  |
+| ------ | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------- |
+|        |     |                                                                                                                                                                                                                                              |                                    |
+| 回      | 曲名  | アーティスト名                                                                                                                                                                                                                                      | 備考                                 |
+| 1月1日   | 117 | [川田まみ](https://ja.wikipedia.org/wiki/川田まみ "wikilink")、[Sound Horizon](https://ja.wikipedia.org/wiki/Sound_Horizon "wikilink")、[unicorn table](https://ja.wikipedia.org/wiki/unicorn_table "wikilink")、[片霧烈火](../Page/片霧烈火.md "wikilink")(追加) | 117                                |
+| 1月8日   | 118 | 皆川純子                                                                                                                                                                                                                                         | 118                                |
+| 1月15日  | 119 | なし                                                                                                                                                                                                                                           | 119                                |
+| 1月22日  | 120 | tiaraway                                                                                                                                                                                                                                     | 120                                |
+| 1月29日  | 121 | なし                                                                                                                                                                                                                                           | 121                                |
+| 2月5日   | 122 | [有坂美香](../Page/有坂美香.md "wikilink")                                                                                                                                                                                                           | 122                                |
+| 2月12日  | 123 | なし                                                                                                                                                                                                                                           | 123                                |
+| 2月19日  | 124 | 保志総一朗                                                                                                                                                                                                                                        | 124                                |
+| 2月26日  | 125 | [ROUND TABLE featuring Nino](../Page/ROUND_TABLE.md "wikilink")、田村ゆかり                                                                                                                                                                        | 125                                |
+| 3月5日   | 126 | [橋本みゆき](../Page/橋本みゆき.md "wikilink")                                                                                                                                                                                                         | 126                                |
+| 3月12日  | 127 | なし                                                                                                                                                                                                                                           | 127                                |
+| 3月19日  | 128 | なし                                                                                                                                                                                                                                           | 128                                |
+| 3月26日  | 129 | なし                                                                                                                                                                                                                                           | 129                                |
+| 4月2日   | 130 | なし                                                                                                                                                                                                                                           | 130                                |
+| 4月9日   | 131 | なし                                                                                                                                                                                                                                           | 131                                |
+| 4月16日  | 132 | なし                                                                                                                                                                                                                                           | 132                                |
+| 4月23日  | 133 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")                                                                                                                                                                      | 133                                |
+| 4月30日  | 134 | なし                                                                                                                                                                                                                                           | 134                                |
+| 5月7日   | 135 | 坂本真綾                                                                                                                                                                                                                                         | 135                                |
+| 5月14日  | 136 | なし                                                                                                                                                                                                                                           | 136                                |
+| 5月21日  | 137 | なし                                                                                                                                                                                                                                           | 137                                |
+| 5月28日  | 138 | ALI PROJECT([宝野アリカ](https://ja.wikipedia.org/wiki/宝野アリカ "wikilink"))                                                                                                                                                                         | 138                                |
+| 6月4日   | 139 | KOTOKO                                                                                                                                                                                                                                       | 139                                |
+| 6月11日  | 140 | なし(櫻井孝宏バースデースペシャル)                                                                                                                                                                                                                           | 140                                |
+| 6月18日  | 141 | なし                                                                                                                                                                                                                                           | 141                                |
+| 6月25日  | 142 | angela(コメントのみ)                                                                                                                                                                                                                               | 142                                |
+| 7月2日   | 143 | 日向めぐみ                                                                                                                                                                                                                                        | 143                                |
+| 7月9日   | 144 | なし                                                                                                                                                                                                                                           | 144                                |
+| 7月16日  | 145 | angela                                                                                                                                                                                                                                       | 145                                |
+| 7月23日  | 146 | [鈴木純子](../Page/鈴木純子.md "wikilink")アナ\[9\]                                                                                                                                                                                                    | 146                                |
+| 7月30日  | 147 | なし                                                                                                                                                                                                                                           | 147                                |
+| 8月6日   | 148 | なし                                                                                                                                                                                                                                           | 148                                |
+| 8月13日  | 149 | AKINO                                                                                                                                                                                                                                        | 149                                |
+| 8月20日  | 150 | 栗林みな実                                                                                                                                                                                                                                        | 150                                |
+| 8月27日  | 151 | yozuca\*                                                                                                                                                                                                                                     | 151                                |
+| 9月3日   | 152 | 太田英明アナ\[10\]                                                                                                                                                                                                                                 | 152                                |
+| 9月10日  | 153 | なし                                                                                                                                                                                                                                           | 153                                |
+| 9月17日  | 154 | [FictionJunction YUUKA](../Page/FictionJunction_YUUKA.md "wikilink")                                                                                                                                                                         | 154                                |
+| 9月24日  | 155 | 折笠富美子                                                                                                                                                                                                                                        | 155                                |
+| 10月1日  | 156 | なし                                                                                                                                                                                                                                           | 156                                |
+| 10月8日  | 157 | なし                                                                                                                                                                                                                                           | 157                                |
+| 10月15日 | 158 | 水樹奈々                                                                                                                                                                                                                                         | 158                                |
+|        |     |                                                                                                                                                                                                                                              |                                    |
+| 10月22日 | 159 | 田村ゆかり                                                                                                                                                                                                                                        | 159                                |
+| 10月29日 | 160 | ALI PROJECT(宝野アリカ)                                                                                                                                                                                                                           | 160                                |
+| 11月5日  | 161 | なし                                                                                                                                                                                                                                           | 161                                |
+| 11月12日 | 162 | なし                                                                                                                                                                                                                                           | 162                                |
+| 11月19日 | 163 | 新居昭乃                                                                                                                                                                                                                                         | 163                                |
+| 11月26日 | 164 | FictionJunction YUUKA(飛び入りゲスト)                                                                                                                                                                                                               | 164                                |
+| 12月3日  | 165 | なし                                                                                                                                                                                                                                           | 165                                |
+| 12月10日 | 166 | なし                                                                                                                                                                                                                                           | 166                                |
+| 12月17日 | 167 | angela                                                                                                                                                                                                                                       | 167                                |
+| 12月24日 | 168 | なし                                                                                                                                                                                                                                           | 168                                |
+| 12月31日 | 休止  | 169                                                                                                                                                                                                                                          | [緋色の空](../Page/緋色の空.md "wikilink") |
 
 ### 2006年
 
@@ -338,36 +338,36 @@
 | ------ | --- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
 |        |     |                                                                                                                                                       |                   |
 | 回      | 曲名  | アーティスト名                                                                                                                                               | 備考                |
-| 1月7日   | 169 |                                                                                                                                                       | 170               |
-| 1月14日  | 170 |                                                                                                                                                       | 171               |
+| 1月7日   | 169 | なし                                                                                                                                                    | 170               |
+| 1月14日  | 170 | なし                                                                                                                                                    | 171               |
 | 1月21日  | 171 | [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")                                                                                               | 172               |
-| 1月28日  | 172 |                                                                                                                                                       | 173               |
+| 1月28日  | 172 | なし                                                                                                                                                    | 173               |
 | 2月4日   | 173 | [LittleNon](https://ja.wikipedia.org/wiki/LittleNon "wikilink")                                                                                       | 174               |
-| 2月11日  | 174 | 小清水亜美バースデースペシャル([三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink"))                                                                              | 175               |
+| 2月11日  | 174 | 小清水亜美バースデースペシャル([三瓶由布子](https://ja.wikipedia.org/wiki/三瓶由布子 "wikilink")、飛び入りゲスト)                                                                      | 175               |
 | 2月18日  | 175 | [YURIA](../Page/YURIA.md "wikilink")                                                                                                                  | 176               |
 | 2月25日  | 176 | [生天目仁美](../Page/生天目仁美.md "wikilink")                                                                                                                  | 177               |
 | 3月4日   | 177 | [平野綾](../Page/平野綾.md "wikilink")                                                                                                                      | 178               |
-| 3月11日  | 178 | 美郷あき                                                                                                                                                  | 179               |
-| 3月18日  | 179 |                                                                                                                                                       | 180               |
+| 3月11日  | 178 | [美郷あき](../Page/美郷あき.md "wikilink")                                                                                                                    | 179               |
+| 3月18日  | 179 | なし                                                                                                                                                    | 180               |
 | 3月25日  | 180 | 川田まみ                                                                                                                                                  | 181               |
-| 4月1日   | 181 |                                                                                                                                                       | 182               |
+| 4月1日   | 181 | なし                                                                                                                                                    | 182               |
 | 4月8日   | 182 | 田村ゆかり                                                                                                                                                 | 183               |
 | 4月15日  | 183 | [石川智晶](../Page/石川智晶.md "wikilink")                                                                                                                    | 184               |
 | 4月22日  | 184 | [時東ぁみ](../Page/時東ぁみ.md "wikilink")                                                                                                                    | 185               |
 | 4月29日  | 185 | 水樹奈々                                                                                                                                                  | 186               |
 | 5月6日   | 186 | [FictionJunction](../Page/FictionJunction.md "wikilink")(YUUKA)                                                                                       | 187               |
-| 5月13日  | 187 | [乙女番長](../Page/集英学園乙女研究部.md "wikilink")([鈴木達央](../Page/鈴木達央.md "wikilink")、[諏訪部順一](../Page/諏訪部順一.md "wikilink"))                                      | 188               |
+| 5月13日  | 187 | [乙女番長](../Page/集英学園乙女研究部.md "wikilink")([鈴木達央](../Page/鈴木達央.md "wikilink")、諏訪部順一)                                                                     | 188               |
 | 5月20日  | 188 | ALI PROJECT(宝野アリカ)                                                                                                                                    | 189               |
 | 5月27日  | 189 | [eufonius](https://ja.wikipedia.org/wiki/eufonius "wikilink")([riya](https://ja.wikipedia.org/wiki/riya "wikilink")、[菊地創](../Page/菊地創.md "wikilink")) | 190               |
 | 6月3日   | 190 | なし                                                                                                                                                    | 191               |
 | 6月10日  | 191 | なし(櫻井孝宏バースデースペシャル)                                                                                                                                    | 192               |
 | 6月17日  | 192 | 平野綾、茅原実里、後藤邑子                                                                                                                                         | 193               |
-| 6月24日  | 193 | 松来未祐                                                                                                                                                  | 194               |
-| 7月1日   | 194 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")                                                                               | 195               |
+| 6月24日  | 193 | [松来未祐](../Page/松来未祐.md "wikilink")(飛び入りゲスト)                                                                                                           | 194               |
+| 7月1日   | 194 | [savage genius](https://ja.wikipedia.org/wiki/savage_genius "wikilink")、milk rings(飛び入りゲスト)                                                           | 195               |
 | 7月8日   | 195 | なし                                                                                                                                                    | 196               |
 | 7月15日  | 196 | [GRANRODEO](../Page/GRANRODEO.md "wikilink")                                                                                                          | 197               |
 | 7月22日  | 197 | [鷲崎健](../Page/鷲崎健.md "wikilink")、[浅野真澄](../Page/浅野真澄.md "wikilink")(アニスパと合同)                                                                          | 198               |
-| 7月29日  | 198 |                                                                                                                                                       | 199               |
+| 7月29日  | 198 | なし                                                                                                                                                    | 199               |
 | 8月5日   | 199 | [2HEARTS](../Page/2HEARTS.md "wikilink")([森川智之](../Page/森川智之.md "wikilink")、[立木文彦](../Page/立木文彦.md "wikilink"))                                       | 200               |
 | 8月12日  | 200 | (祝200回記念！こむちゃベストヒット100)                                                                                                                               | 201               |
 | 8月19日  | 201 | [大槻ケンヂ](https://ja.wikipedia.org/wiki/大槻ケンヂ "wikilink")                                                                                               | 202               |
@@ -377,141 +377,141 @@
 | 9月16日  | 205 | 鈴木達央                                                                                                                                                  | 206               |
 | 9月23日  | 206 | [Suara](../Page/Suara.md "wikilink")                                                                                                                  | 207               |
 | 9月30日  | 207 | [妖精帝國](../Page/妖精帝國.md "wikilink")(ゆい)                                                                                                                | 208               |
-| 10月7日  | 208 |                                                                                                                                                       | 209               |
+| 10月7日  | 208 | なし                                                                                                                                                    | 209               |
 | 10月14日 | 209 | [樹海](../Page/樹海_\(音楽ユニット\).md "wikilink")([愛未](../Page/Aimmy.md "wikilink")、[出羽良彰](https://ja.wikipedia.org/wiki/出羽良彰 "wikilink"))                    | 210               |
 |        |     |                                                                                                                                                       |                   |
-| 10月21日 | 210 | 高橋直純                                                                                                                                                  | 211               |
+| 10月21日 | 210 | [高橋直純](../Page/高橋直純.md "wikilink")                                                                                                                    | 211               |
 | 10月28日 | 211 | ALI PROJECT(宝野アリカ)                                                                                                                                    | 212               |
-| 11月4日  | 212 |                                                                                                                                                       | 213               |
-| 11月11日 | 213 |                                                                                                                                                       | 214               |
+| 11月4日  | 212 | [MOSAIC.WAV](../Page/MOSAIC.WAV.md "wikilink")                                                                                                        | 213               |
+| 11月11日 | 213 | 水樹奈々                                                                                                                                                  | 214               |
 | 11月18日 | 214 | FictionJunction(YUUKA)                                                                                                                                | 215               |
 | 11月25日 | 215 | KOTOKO                                                                                                                                                | 216               |
-| 12月2日  | 216 | 牧野由依                                                                                                                                                  | 217               |
-| 12月9日  | 217 | 関智一                                                                                                                                                   | 218               |
+| 12月2日  | 216 | [牧野由依](../Page/牧野由依.md "wikilink")                                                                                                                    | 217               |
+| 12月9日  | 217 | [関智一](../Page/関智一.md "wikilink")、[abingdon boys school](https://ja.wikipedia.org/wiki/abingdon_boys_school "wikilink")(コメントのみ)                        | 218               |
 | 12月16日 | 218 | 田村ゆかり                                                                                                                                                 | 219               |
-| 12月23日 | 219 | 松来未祐                                                                                                                                                  | 220               |
+| 12月23日 | 219 | 松来未祐(代理パーソナリティ)                                                                                                                                       | 220               |
 | 12月30日 | 220 | [畑亜貴](../Page/畑亜貴.md "wikilink")                                                                                                                      | 221               |
 
 ### 2007年
 
-| 日付     | 回   | こむちゃゲスト                                                                                                                                | こむちゃーとベスト10　1位獲得曲 |
-| ------ | --- | -------------------------------------------------------------------------------------------------------------------------------------- | ----------------- |
-|        |     |                                                                                                                                        |                   |
-| 回      | 曲名  | アーティスト名                                                                                                                                | 備考                |
-| 1月6日   | 221 |                                                                                                                                        | 222               |
-| 1月13日  | 222 |                                                                                                                                        | 223               |
-| 1月20日  | 223 | [富田麻帆](../Page/富田麻帆.md "wikilink")                                                                                                     | 224               |
-| 1月27日  | 224 |                                                                                                                                        | 225               |
-| 2月3日   | 225 | [松澤由美](../Page/松澤由美.md "wikilink")                                                                                                     | 226               |
-| 2月10日  | 226 | なし(小清水亜美バースデースペシャル)                                                                                                                    | 227               |
-| 2月17日  | 227 | [井上麻里奈](../Page/井上麻里奈.md "wikilink")                                                                                                   | 228               |
-| 2月24日  | 228 | [福山潤](../Page/福山潤.md "wikilink")                                                                                                       | 229               |
-| 3月3日   | 229 | 水樹奈々                                                                                                                                   | 230               |
-| 3月10日  | 230 |                                                                                                                                        | 231               |
-| 3月17日  | 231 |                                                                                                                                        | 232               |
-| 3月24日  | 232 |                                                                                                                                        | 233               |
-| 3月31日  | 233 | ALI PROJECT(宝野アリカ)                                                                                                                     | 234               |
-| 4月7日   | 234 | [Snow\*](https://ja.wikipedia.org/wiki/Snow* "wikilink")(大竹佑季)                                                                         | 235               |
-| 4月14日  | 235 | [FictionJunction](../Page/FictionJunction.md "wikilink")([梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")、YUUKA)                  | 236               |
-| 4月21日  | 236 | 堀江由衣                                                                                                                                   | 237               |
-| 4月28日  | 237 | angela                                                                                                                                 | 238               |
-| 5月5日   | 238 | [宮田幸季](../Page/宮田幸季.md "wikilink")                                                                                                     | 239               |
-| 5月12日  | 239 | 田村ゆかり                                                                                                                                  | 240               |
-| 5月19日  | 240 | 茅原実里                                                                                                                                   | 241               |
-| 5月26日  | 241 |                                                                                                                                        | 242               |
-| 6月2日   | 242 |                                                                                                                                        | 243               |
-| 6月9日   | 243 | [石川智晶](../Page/石川智晶.md "wikilink")                                                                                                     | 244               |
-| 6月16日  | 244 | [桃井はるこ](../Page/桃井はるこ.md "wikilink")                                                                                                   | 245               |
-| 6月23日  | 245 | [平野綾](../Page/平野綾.md "wikilink")                                                                                                       | 246               |
-| 6月30日  | 246 | [橋本みゆき](../Page/橋本みゆき.md "wikilink")                                                                                                   | 247               |
-| 7月7日   | 247 | [小坂りゆ](../Page/小坂りゆ.md "wikilink")                                                                                                     | 248               |
-| 7月14日  | 248 | [谷山紀章](../Page/谷山紀章.md "wikilink")                                                                                                     | 249               |
-| 7月21日  | 249 | [松来未祐](../Page/松来未祐.md "wikilink")                                                                                                     | 250               |
-| 7月28日  | 250 | 平野綾                                                                                                                                    | 251               |
-| 8月4日   | 251 | [織田かおり](../Page/織田かおり.md "wikilink")                                                                                                   | 252               |
-| 8月11日  | 252 | [Pa☆letee](https://ja.wikipedia.org/wiki/Pa☆letee "wikilink")(hitomi、さら)                                                               | 253               |
-| 8月18日  | 253 | [黒薔薇保存会](../Page/黒薔薇保存会.md "wikilink")                                                                                                 | 254               |
-| 8月25日  | 254 | 水樹奈々                                                                                                                                   | 255               |
-| 9月1日   | 255 | 絶望少女達([野中藍](../Page/野中藍.md "wikilink")、井上麻里奈、[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")、[新谷良子](../Page/新谷良子.md "wikilink")) | 256               |
-| 9月8日   | 256 | 鈴村健一                                                                                                                                   | 257               |
-| 9月15日  | 257 | [岩田光央](../Page/岩田光央.md "wikilink")                                                                                                     | 258               |
-| 9月22日  | 258 | [森永理科](../Page/森永理科.md "wikilink")                                                                                                     | 259               |
-| 9月27日  | 259 | [Little Non](../Page/Little_Non.md "wikilink")                                                                                         | 260               |
-| 10月6日  | 260 | [牧野由依](../Page/牧野由依.md "wikilink")                                                                                                     | 261               |
-|        |     |                                                                                                                                        |                   |
-| 10月13日 | 261 |                                                                                                                                        | 262               |
-| 10月20日 | 262 |                                                                                                                                        | 263               |
-| 10月27日 | 263 |                                                                                                                                        | 264               |
-| 11月3日  | 264 |                                                                                                                                        | 265               |
-| 11月10日 | 265 |                                                                                                                                        | 266               |
-| 11月17日 | 266 | 植田佳奈、(水樹奈々、松来未祐)                                                                                                                       | 267               |
-| 11月24日 | 267 | [高橋直純](../Page/高橋直純.md "wikilink")                                                                                                     | 268               |
-| 12月1日  | 268 |                                                                                                                                        | 269               |
-| 12月8日  | 269 | angela                                                                                                                                 | 270               |
-| 12月15日 | 270 | 平野綾                                                                                                                                    | 271               |
-| 12月22日 | 271 | 松来未祐                                                                                                                                   | 272               |
-| 12月29日 | 272 | 黒薔薇保存会                                                                                                                                 | 273               |
+| 日付     | 回   | こむちゃゲスト                                                                                                                                                                        | こむちゃーとベスト10　1位獲得曲 |
+| ------ | --- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------- |
+|        |     |                                                                                                                                                                                |                   |
+| 回      | 曲名  | アーティスト名                                                                                                                                                                        | 備考                |
+| 1月6日   | 221 | なし                                                                                                                                                                             | 222               |
+| 1月13日  | 222 | 茅原実里                                                                                                                                                                           | 223               |
+| 1月20日  | 223 | [富田麻帆](../Page/富田麻帆.md "wikilink")                                                                                                                                             | 224               |
+| 1月27日  | 224 | [岩田光央](../Page/岩田光央.md "wikilink")(飛び入りゲスト)                                                                                                                                    | 225               |
+| 2月3日   | 225 | [松澤由美](../Page/松澤由美.md "wikilink")                                                                                                                                             | 226               |
+| 2月10日  | 226 | [鹿野優以](../Page/鹿野優以.md "wikilink")、[伊月ゆい](../Page/伊月ゆい.md "wikilink")、[宮崎羽衣](../Page/宮崎羽衣.md "wikilink")(小清水亜美バースデースペシャル、コメントのみ)                                               | 227               |
+| 2月17日  | 227 | [井上麻里奈](../Page/井上麻里奈.md "wikilink")                                                                                                                                           | 228               |
+| 2月24日  | 228 | [福山潤](../Page/福山潤.md "wikilink")                                                                                                                                               | 229               |
+| 3月3日   | 229 | 水樹奈々                                                                                                                                                                           | 230               |
+| 3月10日  | 230 | タイナカサチ                                                                                                                                                                         | 231               |
+| 3月17日  | 231 | [福井裕佳梨](../Page/福井裕佳梨.md "wikilink")                                                                                                                                           | 232               |
+| 3月24日  | 232 | 坂本真綾                                                                                                                                                                           | 233               |
+| 3月31日  | 233 | ALI PROJECT(宝野アリカ)                                                                                                                                                             | 234               |
+| 4月7日   | 234 | [Snow\*](https://ja.wikipedia.org/wiki/Snow* "wikilink")(大竹佑季)                                                                                                                 | 235               |
+| 4月14日  | 235 | [FictionJunction](../Page/FictionJunction.md "wikilink")([梶浦由記](https://ja.wikipedia.org/wiki/梶浦由記 "wikilink")、YUUKA)                                                          | 236               |
+| 4月21日  | 236 | 堀江由衣                                                                                                                                                                           | 237               |
+| 4月28日  | 237 | angela                                                                                                                                                                         | 238               |
+| 5月5日   | 238 | [宮田幸季](../Page/宮田幸季.md "wikilink")                                                                                                                                             | 239               |
+| 5月12日  | 239 | [宮野真守](../Page/宮野真守.md "wikilink")                                                                                                                                             | 240               |
+| 5月19日  | 240 | 田村ゆかり                                                                                                                                                                          | 241               |
+| 5月26日  | 241 | 茅原実里                                                                                                                                                                           | 242               |
+| 6月2日   | 242 | 石川智晶                                                                                                                                                                           | 243               |
+| 6月9日   | 243 | [朴璐美](../Page/朴璐美.md "wikilink")、宮野真守(コメントのみ)                                                                                                                                  | 244               |
+| 6月16日  | 244 | [桃井はるこ](../Page/桃井はるこ.md "wikilink")                                                                                                                                           | 245               |
+| 6月23日  | 245 | 平野綾                                                                                                                                                                            | 246               |
+| 6月30日  | 246 | 橋本みゆき                                                                                                                                                                          | 247               |
+| 7月7日   | 247 | [小坂りゆ](../Page/小坂りゆ.md "wikilink")                                                                                                                                             | 248               |
+| 7月14日  | 248 | [谷山紀章](../Page/谷山紀章.md "wikilink")                                                                                                                                             | 249               |
+| 7月21日  | 249 | 松来未祐                                                                                                                                                                           | 250               |
+| 7月28日  | 250 | 平野綾                                                                                                                                                                            | 251               |
+| 8月4日   | 251 | [織田かおり](../Page/織田かおり.md "wikilink")                                                                                                                                           | 252               |
+| 8月11日  | 252 | [Pa☆letee](https://ja.wikipedia.org/wiki/Pa☆letee "wikilink")(hitomi、さら)                                                                                                       | 253               |
+| 8月18日  | 253 | [黒薔薇保存会](../Page/黒薔薇保存会.md "wikilink")                                                                                                                                         | 254               |
+| 8月25日  | 254 | 水樹奈々                                                                                                                                                                           | 255               |
+| 9月1日   | 255 | 絶望少女達([野中藍](../Page/野中藍.md "wikilink")、井上麻里奈、[小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")、新谷良子)、[緒方恵美](../Page/緒方恵美.md "wikilink")、[氷川竜介](../Page/氷川竜介.md "wikilink") | 256               |
+| 9月8日   | 256 | [鈴村健一](../Page/鈴村健一.md "wikilink")                                                                                                                                             | 257               |
+| 9月15日  | 257 | 岩田光央                                                                                                                                                                           | 258               |
+| 9月22日  | 258 | 森永理科                                                                                                                                                                           | 259               |
+| 9月29日  | 259 | Little Non                                                                                                                                                                     | 260               |
+| 10月6日  | 260 | なし                                                                                                                                                                             | 261               |
+|        |     |                                                                                                                                                                                |                   |
+| 10月13日 | 261 | 牧野由依                                                                                                                                                                           | 262               |
+| 10月20日 | 262 | 榊原ゆい                                                                                                                                                                           | 263               |
+| 10月27日 | 263 | savage genius                                                                                                                                                                  | 264               |
+| 11月3日  | 264 | 福井裕佳梨                                                                                                                                                                          | 265               |
+| 11月10日 | 265 | [access](https://ja.wikipedia.org/wiki/access_\(音楽ユニット\) "wikilink")                                                                                                           | 266               |
+| 11月17日 | 266 | 植田佳奈、(水樹奈々、松来未祐　電話出演)公録                                                                                                                                                        | 267               |
+| 11月24日 | 267 | 高橋直純                                                                                                                                                                           | 268               |
+| 12月1日  | 268 | なし                                                                                                                                                                             | 269               |
+| 12月8日  | 269 | angela                                                                                                                                                                         | 270               |
+| 12月15日 | 270 | 平野綾                                                                                                                                                                            | 271               |
+| 12月22日 | 271 | 松来未祐                                                                                                                                                                           | 272               |
+| 12月29日 | 272 | 黒薔薇保存会                                                                                                                                                                         | 273               |
 
 ### 2008年
 
-| 日付     | 回   | こむちゃゲスト                                                                     | こむちゃーとベスト10　1位獲得曲 |
-| ------ | --- | --------------------------------------------------------------------------- | ----------------- |
-|        |     |                                                                             |                   |
-| 回      | 曲名  | アーティスト名                                                                     | 備考                |
-| 1月5日   | 273 | [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")                     | 274               |
-| 1月12日  | 274 | [新居昭乃](../Page/新居昭乃.md "wikilink")                                          | 275               |
-| 1月19日  | 275 | 小野大輔                                                                        | 276               |
-| 1月26日  | 276 |                                                                             | 277               |
-| 2月3日   | 277 |                                                                             | 278               |
-| 2月10日  | 278 |                                                                             | 279               |
-| 2月17日  | 279 |                                                                             | 280               |
-| 2月23日  | 280 |                                                                             | 281               |
-| 3月1日   | 281 | savage genius(ああ)                                                           | 282               |
-| 3月8日   | 282 | 平野綾、加藤英美里、福原香織、遠藤綾                                                          | 283               |
-| 3月15日  | 283 | 牧野由依                                                                        | 284               |
-| 3月22日  | 284 | 古谷徹                                                                         | 285               |
-| 3月29日  | 285 | 小林ゆう                                                                        | 286               |
-| 4月5日   | 286 | [島みやえい子](../Page/島みやえい子.md "wikilink")                                      | 287               |
-| 4月12日  | 287 | [Asriel](../Page/Asriel.md "wikilink")(KOKOMI)                              | 288               |
-| 4月19日  | 288 | 井上喜久子                                                                       | 289               |
-| 4月26日  | 289 | GRANRODEO                                                                   | 290               |
-| 5月3日   | 290 | May'ｎ                                                                       | 291               |
-| 5月10日  | 291 | [ANNA](../Page/サントス・アンナ.md "wikilink")                                      | 292               |
-| 5月17日  | 292 | 新谷良子                                                                        | 293               |
-| 5月24日  | 293 | [吉田旬吾](https://ja.wikipedia.org/wiki/吉田旬吾 "wikilink")                       | 294               |
-| 5月31日  | 294 | 宮野真守                                                                        | 295               |
-| 6月7日   | 295 | [milk rings](https://ja.wikipedia.org/wiki/milk_rings "wikilink")           | 296               |
-| 6月14日  | 296 | なし                                                                          | 297               |
-| 6月21日  | 297 | 広橋涼                                                                         | 298               |
-| 6月28日  | 298 | 中原麻衣                                                                        | 299               |
-| 7月5日   | 299 | 飯塚雅弓                                                                        | 300               |
-| 7月12日  | 300 | 平野綾                                                                         | 301               |
-| 7月19日  | 301 | 喜多村英梨                                                                       | 302               |
-| 7月26日  | 302 | ALI PROJECT(宝野アリカ)                                                          | 303               |
-| 8月2日   | 303 | 白石涼子                                                                        | 304               |
-| 8月9日   | 304 | [Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")(Wakana、Keiko) | 305               |
-| 8月16日  | 305 | 宮田幸季                                                                        | 306               |
-| 8月23日  | 306 | 喜多修平                                                                        | 307               |
-| 8月30日  | 307 | 小西克幸                                                                        | 308               |
-| 9月6日   | 308 | Revo                                                                        | 309               |
-| 9月13日  | 309 | 2HEARTS                                                                     | 310               |
-| 9月20日  | 310 | May'n、中島愛                                                                   | 311               |
-| 9月27日  | 311 | 水樹奈々                                                                        | 312               |
-| 10月4日  | 312 | [及川光博](../Page/及川光博.md "wikilink")                                          | 313               |
-|        |     |                                                                             |                   |
-| 10月11日 | 313 | 鈴村健一                                                                        | 314               |
-| 10月18日 | 314 | savage genius(ああ)                                                           | 315               |
-| 10月25日 | 315 | 堀江由衣                                                                        | 316               |
-| 11月1日  | 316 | 戸松遥                                                                         | 317               |
-| 11月8日  | 317 | 茅原実里                                                                        | 318               |
-| 11月15日 | 318 | angela                                                                      | 319               |
-| 11月22日 | 319 | 榊原ゆい                                                                        | 320               |
-| 11月29日 | 320 | 鷲崎健、石川智晶                                                                    | 321               |
-| 12月6日  | 321 | ALI PROJECT(宝野アリカ)                                                          | 322               |
-| 12月13日 | 322 | 田村ゆかり                                                                       | 323               |
-| 12月20日 | 323 | 明坂聡美                                                                        | 324               |
-| 12月27日 | 324 | 黒薔薇保存会                                                                      | 325               |
-|        |     |                                                                             |                   |
+| 日付     | 回   | こむちゃゲスト                                                                                                      | こむちゃーとベスト10　1位獲得曲 |
+| ------ | --- | ------------------------------------------------------------------------------------------------------------ | ----------------- |
+|        |     |                                                                                                              |                   |
+| 回      | 曲名  | アーティスト名                                                                                                      | 備考                |
+| 1月5日   | 273 | [能登麻美子](https://ja.wikipedia.org/wiki/能登麻美子 "wikilink")                                                      | 274               |
+| 1月12日  | 274 | 新居昭乃                                                                                                         | 275               |
+| 1月19日  | 275 | [小野大輔](../Page/小野大輔.md "wikilink")                                                                           | 276               |
+| 1月26日  | 276 | [コミネリサ](../Page/コミネリサ.md "wikilink")                                                                         | 277               |
+| 2月2日   | 277 | 水樹奈々                                                                                                         | 278               |
+| 2月9日   | 278 | なし                                                                                                           | 279               |
+| 2月16日  | 279 | 鈴村健一                                                                                                         | 280               |
+| 2月23日  | 280 | 桃井はるこ                                                                                                        | 281               |
+| 3月1日   | 281 | savage genius(ああ)                                                                                            | 282               |
+| 3月8日   | 282 | 平野綾、[加藤英美里](../Page/加藤英美里.md "wikilink")、[福原香織](../Page/福原香織.md "wikilink")、[遠藤綾](../Page/遠藤綾.md "wikilink") | 283               |
+| 3月15日  | 283 | 牧野由依                                                                                                         | 284               |
+| 3月22日  | 284 | [古谷徹](../Page/古谷徹.md "wikilink")                                                                             | 285               |
+| 3月29日  | 285 | [小林ゆう](https://ja.wikipedia.org/wiki/小林ゆう "wikilink")                                                        | 286               |
+| 4月5日   | 286 | [島みやえい子](../Page/島みやえい子.md "wikilink")                                                                       | 287               |
+| 4月12日  | 287 | [Asriel](../Page/Asriel.md "wikilink")(KOKOMI)                                                               | 288               |
+| 4月19日  | 288 | [井上喜久子](../Page/井上喜久子.md "wikilink")                                                                         | 289               |
+| 4月26日  | 289 | GRANRODEO                                                                                                    | 290               |
+| 5月3日   | 290 | [May'n](../Page/May'n.md "wikilink")                                                                         | 291               |
+| 5月10日  | 291 | [ANNA](../Page/サントス・アンナ.md "wikilink")                                                                       | 292               |
+| 5月17日  | 292 | 新谷良子                                                                                                         | 293               |
+| 5月24日  | 293 | [吉田旬吾](https://ja.wikipedia.org/wiki/吉田旬吾 "wikilink")                                                        | 294               |
+| 5月31日  | 294 | 宮野真守                                                                                                         | 295               |
+| 6月7日   | 295 | milk rings                                                                                                   | 296               |
+| 6月14日  | 296 | なし                                                                                                           | 297               |
+| 6月21日  | 297 | 広橋涼                                                                                                          | 298               |
+| 6月28日  | 298 | [中原麻衣](https://ja.wikipedia.org/wiki/中原麻衣 "wikilink")                                                        | 299               |
+| 7月5日   | 299 | [飯塚雅弓](../Page/飯塚雅弓.md "wikilink")                                                                           | 300               |
+| 7月12日  | 300 | 平野綾                                                                                                          | 301               |
+| 7月19日  | 301 | [喜多村英梨](../Page/喜多村英梨.md "wikilink")                                                                         | 302               |
+| 7月26日  | 302 | ALI PROJECT(宝野アリカ)                                                                                           | 303               |
+| 8月2日   | 303 | 白石涼子                                                                                                         | 304               |
+| 8月9日   | 304 | [Kalafina](https://ja.wikipedia.org/wiki/Kalafina "wikilink")(Wakana、Keiko)                                  | 305               |
+| 8月16日  | 305 | 宮田幸季                                                                                                         | 306               |
+| 8月23日  | 306 | [喜多修平](../Page/喜多修平.md "wikilink")                                                                           | 307               |
+| 8月30日  | 307 | [小西克幸](../Page/小西克幸.md "wikilink")                                                                           | 308               |
+| 9月6日   | 308 | [Revo](../Page/Revo.md "wikilink")(Sound Horizon)                                                            | 309               |
+| 9月13日  | 309 | 2HEARTS                                                                                                      | 310               |
+| 9月20日  | 310 | May'n、中島愛                                                                                                    | 311               |
+| 9月27日  | 311 | 水樹奈々                                                                                                         | 312               |
+| 10月4日  | 312 | [及川光博](../Page/及川光博.md "wikilink")                                                                           | 313               |
+|        |     |                                                                                                              |                   |
+| 10月11日 | 313 | 鈴村健一                                                                                                         | 314               |
+| 10月18日 | 314 | savage genius(ああ)                                                                                            | 315               |
+| 10月25日 | 315 | 堀江由衣                                                                                                         | 316               |
+| 11月1日  | 316 | [戸松遥](../Page/戸松遥.md "wikilink")                                                                             | 317               |
+| 11月8日  | 317 | 茅原実里                                                                                                         | 318               |
+| 11月15日 | 318 | angela                                                                                                       | 319               |
+| 11月22日 | 319 | [榊原ゆい](https://ja.wikipedia.org/wiki/榊原ゆい "wikilink")                                                        | 320               |
+| 11月29日 | 320 | 鷲崎健、石川智晶                                                                                                     | 321               |
+| 12月6日  | 321 | ALI PROJECT(宝野アリカ)                                                                                           | 322               |
+| 12月13日 | 322 | 田村ゆかり                                                                                                        | 323               |
+| 12月20日 | 323 | [明坂聡美](../Page/明坂聡美.md "wikilink")                                                                           | 324               |
+| 12月27日 | 324 | 黒薔薇保存会                                                                                                       | 325               |
+|        |     |                                                                                                              |                   |
 
 ### 2009年
 
@@ -552,7 +552,7 @@
 <tr class="odd">
 <td><p>1月17日</p></td>
 <td><p>327</p></td>
-<td><p>ELISA</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ELISA_(歌手)" title="wikilink">ELISA</a></p></td>
 <td><p>328</p></td>
 </tr>
 <tr class="even">
@@ -600,13 +600,13 @@
 <tr class="odd">
 <td><p>3月14日</p></td>
 <td><p>335</p></td>
-<td><p>サイキックラバー(<a href="../Page/YOFFY.md" title="wikilink">YOFFY</a>、IMAJO)</p></td>
+<td><p><a href="../Page/サイキックラバー.md" title="wikilink">サイキックラバー</a>(<a href="../Page/YOFFY.md" title="wikilink">YOFFY</a>、IMAJO)</p></td>
 <td><p>336</p></td>
 </tr>
 <tr class="even">
 <td><p>3月21日</p></td>
 <td><p>336</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フェロ☆メン" title="wikilink">フェロ☆メン</a>(<a href="../Page/諏訪部順一.md" title="wikilink">諏訪部順一</a>、<a href="../Page/鳥海浩輔.md" title="wikilink">鳥海浩輔</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フェロ☆メン" title="wikilink">フェロ☆メン</a>(諏訪部順一、鳥海浩輔)</p></td>
 <td><p>337</p></td>
 </tr>
 <tr class="odd">
@@ -618,13 +618,13 @@
 <tr class="even">
 <td><p>4月4日</p></td>
 <td><p>338</p></td>
-<td><p>なし(小清水亜美 卒業スペシャル)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Gackt" title="wikilink">Gackt</a>(小清水亜美 卒業スペシャル　コメントのみ)</p></td>
 <td><p>339</p></td>
 </tr>
 <tr class="odd">
 <td><p>4月11日</p></td>
 <td><p>339</p></td>
-<td><p><a href="../Page/コミネリサ.md" title="wikilink">コミネリサ</a></p></td>
+<td><p>コミネリサ</p></td>
 <td><p>340</p></td>
 </tr>
 <tr class="even">
@@ -727,7 +727,7 @@
 <tr class="even">
 <td><p>8月8日</p></td>
 <td><p>356</p></td>
-<td><p>志方あきこ</p></td>
+<td><p><a href="../Page/志方あきこ.md" title="wikilink">志方あきこ</a></p></td>
 <td><p>357</p></td>
 </tr>
 <tr class="odd">
@@ -757,19 +757,19 @@
 <tr class="odd">
 <td><p>9月12日</p></td>
 <td><p>361</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/angela_(音楽ユニット)" title="wikilink">angela</a></p></td>
+<td><p>angela</p></td>
 <td><p>362</p></td>
 </tr>
 <tr class="even">
 <td><p>9月19日</p></td>
 <td><p>362</p></td>
-<td><p>遠藤正明</p></td>
+<td><p><a href="../Page/遠藤正明.md" title="wikilink">遠藤正明</a></p></td>
 <td><p>363</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月26日</p></td>
 <td><p>363</p></td>
-<td><p>串田アキラ</p></td>
+<td><p><a href="../Page/串田アキラ.md" title="wikilink">串田アキラ</a></p></td>
 <td><p>364</p></td>
 </tr>
 <tr class="even">
@@ -811,7 +811,7 @@
 <tr class="even">
 <td><p>11月7日</p></td>
 <td><p>369</p></td>
-<td><p>Suara</p></td>
+<td><p><a href="../Page/Suara.md" title="wikilink">Suara</a></p></td>
 <td><p>370</p></td>
 </tr>
 <tr class="odd">
@@ -853,7 +853,7 @@
 <tr class="odd">
 <td><p>12月26日</p></td>
 <td><p>376</p></td>
-<td><p>JIMANG</p></td>
+<td><p><a href="../Page/じまんぐ.md" title="wikilink">JIMANG</a></p></td>
 <td><p>377</p></td>
 </tr>
 </tbody>
@@ -886,7 +886,7 @@
 <tr class="odd">
 <td><p>1月2日</p></td>
 <td><p>377</p></td>
-<td><p>吉野裕行、伊藤健太郎</p></td>
+<td><p><a href="../Page/吉野裕行.md" title="wikilink">吉野裕行</a>、<a href="../Page/伊藤健太郎_(声優).md" title="wikilink">伊藤健太郎</a></p></td>
 <td><p>378</p></td>
 </tr>
 <tr class="even">
@@ -898,7 +898,7 @@
 <tr class="odd">
 <td><p>1月16日</p></td>
 <td><p>379</p></td>
-<td><p>Kalafina</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Kalafina" title="wikilink">Kalafina</a></p></td>
 <td><p>380</p></td>
 </tr>
 <tr class="even">
@@ -928,13 +928,13 @@
 <tr class="even">
 <td><p>2月20日</p></td>
 <td><p>384</p></td>
-<td><p><a href="../Page/戸松遥.md" title="wikilink">戸松遥</a></p></td>
+<td><p>戸松遥</p></td>
 <td><p>385</p></td>
 </tr>
 <tr class="odd">
 <td><p>2月27日</p></td>
 <td><p>385</p></td>
-<td><p><a href="../Page/浅野真澄.md" title="wikilink">浅野真澄</a>[12]<br />
+<td><p>浅野真澄(飛び入りゲスト)[12]<br />
 ELISA</p></td>
 <td><p>386</p></td>
 </tr>
@@ -954,7 +954,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>3月20日</p></td>
 <td><p>388</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/川田まみ" title="wikilink">川田まみ</a></p></td>
+<td><p>川田まみ</p></td>
 <td><p>389</p></td>
 </tr>
 <tr class="odd">
@@ -1101,7 +1101,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>9月4日</p></td>
 <td><p>411</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/田村ゆかり" title="wikilink">田村ゆかり</a></p></td>
+<td><p>田村ゆかり</p></td>
 <td><p>412</p></td>
 </tr>
 <tr class="odd">
@@ -1127,7 +1127,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>10月2日</p></td>
 <td><p>415</p></td>
-<td><p><a href="../Page/加藤英美里.md" title="wikilink">加藤英美里</a></p></td>
+<td><p>加藤英美里</p></td>
 <td><p>416</p></td>
 </tr>
 <tr class="odd">
@@ -1145,7 +1145,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>10月16日</p></td>
 <td><p>417</p></td>
-<td><p>飛蘭</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Faylan" title="wikilink">飛蘭</a></p></td>
 <td><p>418</p></td>
 </tr>
 <tr class="even">
@@ -1206,7 +1206,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>12月25日</p></td>
 <td><p>427</p></td>
-<td><p>下田麻美</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/下田麻美" title="wikilink">下田麻美</a></p></td>
 <td><p>428</p></td>
 </tr>
 </tbody>
@@ -1281,7 +1281,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>2月19日</p></td>
 <td><p>435</p></td>
-<td><p>黒崎真音</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/黒崎真音" title="wikilink">黒崎真音</a></p></td>
 <td><p>436</p></td>
 </tr>
 <tr class="odd">
@@ -1442,7 +1442,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>8月20日</p></td>
 <td><p>460</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RO-KYU-BU!" title="wikilink">RO-KYU-BU!</a>(<a href="../Page/花澤香菜.md" title="wikilink">花澤香菜</a>、<a href="https://ja.wikipedia.org/wiki/日笠陽子" title="wikilink">日笠陽子</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RO-KYU-BU!" title="wikilink">RO-KYU-BU!</a>(<a href="../Page/花澤香菜.md" title="wikilink">花澤香菜</a>、日笠陽子)</p></td>
 <td><p>462</p></td>
 </tr>
 <tr class="odd">
@@ -1454,9 +1454,9 @@ ELISA</p></td>
 <tr class="even">
 <td><p>9月3日</p></td>
 <td><p>462</p></td>
-<td><p>松来未祐[16]<br />
+<td><p>松来未祐(飛び入りゲスト)[16]<br />
 <a href="../Page/JAM_Project.md" title="wikilink">JAM Project</a><br />
-(影山ヒロノブ、遠藤正明、きただにひろし、奥井雅美)</p></td>
+(<a href="../Page/影山ヒロノブ.md" title="wikilink">影山ヒロノブ</a>、遠藤正明、<a href="../Page/きただにひろし.md" title="wikilink">きただにひろし</a>、奥井雅美)</p></td>
 <td><p>464</p></td>
 </tr>
 <tr class="odd">
@@ -1639,7 +1639,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>2月25日</p></td>
 <td><p>486</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/テニスの王子様の声優ユニット" title="wikilink">網球男児</a>(<a href="../Page/皆川純子.md" title="wikilink">皆川純子</a>、<a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a>)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テニスの王子様の声優ユニット" title="wikilink">網球男児</a>(皆川純子、<a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a>)</p></td>
 <td><p>489</p></td>
 </tr>
 <tr class="odd">
@@ -1699,7 +1699,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>5月5日</p></td>
 <td><p>496</p></td>
-<td><p><a href="../Page/石川智晶.md" title="wikilink">石川智晶</a></p></td>
+<td><p>石川智晶</p></td>
 <td><p>499</p></td>
 </tr>
 <tr class="odd">
@@ -1723,7 +1723,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>6月2日</p></td>
 <td><p>500</p></td>
-<td><p>angela</p></td>
+<td><p>angela(公録)</p></td>
 <td><p>503</p></td>
 </tr>
 <tr class="odd">
@@ -2132,7 +2132,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>8月3日</p></td>
 <td><p>561</p></td>
-<td><p>LiSA</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/LiSA" title="wikilink">LiSA</a></p></td>
 <td><p>564</p></td>
 </tr>
 <tr class="even">
@@ -2144,7 +2144,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>8月17日</p></td>
 <td><p>563</p></td>
-<td><p>昆夏美</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/昆夏美" title="wikilink">昆夏美</a></p></td>
 <td><p>566</p></td>
 </tr>
 <tr class="even">
@@ -2158,7 +2158,7 @@ ELISA</p></td>
 <td><p>8月31日<br />
 （23:30 - 翌0:00）</p></td>
 <td><p>565</p></td>
-<td><p>佐藤拓也</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤拓也_(声優)" title="wikilink">佐藤拓也</a></p></td>
 <td><p>568</p></td>
 </tr>
 <tr class="even">
@@ -2244,7 +2244,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>11月30日</p></td>
 <td><p>578</p></td>
-<td><p>AiRI</p></td>
+<td><p><a href="../Page/AiRI.md" title="wikilink">AiRI</a></p></td>
 <td><p>581</p></td>
 </tr>
 <tr class="even">
@@ -2268,7 +2268,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>12月28日</p></td>
 <td><p>582</p></td>
-<td><p>高橋広樹</p></td>
+<td><p><a href="../Page/高橋広樹.md" title="wikilink">高橋広樹</a></p></td>
 <td><p>585</p></td>
 </tr>
 </tbody>
@@ -2387,7 +2387,7 @@ ELISA</p></td>
 <td><p>597</p></td>
 <td><p>田中公平<br />
 <a href="../Page/伊藤賢治.md" title="wikilink">伊藤賢治</a><br />
-<a href="https://ja.wikipedia.org/wiki/富永弘明" title="wikilink">富永TOMMY弘明</a></p></td>
+富永TOMMY弘明</p></td>
 <td><p>600</p></td>
 </tr>
 <tr class="even">
@@ -2444,19 +2444,19 @@ ELISA</p></td>
 <tr class="even">
 <td><p>6月14日</p></td>
 <td><p>606</p></td>
-<td><p>小野賢章</p></td>
+<td><p><a href="../Page/小野賢章.md" title="wikilink">小野賢章</a></p></td>
 <td><p>609</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月21日</p></td>
 <td><p>607</p></td>
-<td><p>玉置成実</p></td>
+<td><p><a href="../Page/玉置成実.md" title="wikilink">玉置成実</a></p></td>
 <td><p>610</p></td>
 </tr>
 <tr class="even">
 <td><p>6月28日</p></td>
 <td><p>608</p></td>
-<td><p>ゆいかおり</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ゆいかおり" title="wikilink">ゆいかおり</a></p></td>
 <td><p>611</p></td>
 </tr>
 <tr class="odd">
@@ -2504,7 +2504,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>8月23日</p></td>
 <td><p>616</p></td>
-<td><p>流田プロジェクト</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/流田Project" title="wikilink">流田プロジェクト</a></p></td>
 <td><p>619</p></td>
 </tr>
 <tr class="odd">
@@ -2517,7 +2517,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>9月6日</p></td>
 <td><p>618</p></td>
-<td><p>新田恵海</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新田恵海" title="wikilink">新田恵海</a></p></td>
 <td><p>621</p></td>
 </tr>
 <tr class="odd">
@@ -2701,7 +2701,7 @@ ELISA</p></td>
 <tr class="odd">
 <td><p>2月28日</p></td>
 <td><p>643</p></td>
-<td><p>Pile</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Pile" title="wikilink">Pile</a></p></td>
 <td><p>646</p></td>
 </tr>
 <tr class="even">
@@ -2719,7 +2719,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>3月21日</p></td>
 <td><p>646</p></td>
-<td><p>小倉唯</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小倉唯" title="wikilink">小倉唯</a></p></td>
 <td><p>649</p></td>
 </tr>
 <tr class="odd">
@@ -2804,7 +2804,7 @@ ELISA</p></td>
 <tr class="even">
 <td><p>6月27日</p></td>
 <td><p>660</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/林原めぐみ" title="wikilink">林原めぐみ</a></p></td>
+<td><p>林原めぐみ</p></td>
 <td><p>663</p></td>
 </tr>
 <tr class="odd">
@@ -4635,6 +4635,18 @@ ClariS（録音）</p></td>
 <td><p>931</p></td>
 <td><p>夏川椎菜</p></td>
 <td><p>935</p></td>
+</tr>
+<tr class="even">
+<td><p>9月19日</p></td>
+<td><p>932</p></td>
+<td><p>TRUE</p></td>
+<td><p>936</p></td>
+</tr>
+<tr class="odd">
+<td><p>9月26日</p></td>
+<td><p>933</p></td>
+<td><p>中島愛</p></td>
+<td><p>937</p></td>
 </tr>
 <tr class="even">
 <td></td>

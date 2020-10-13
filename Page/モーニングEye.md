@@ -5,7 +5,7 @@
 
 ## 概要
 
-『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』に移動するため、キャスターを[山本文郎](../Page/山本文郎.md "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
+『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は司会の[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、その森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』のメインキャスターとして異動し、司会を[山本文郎](../Page/山本文郎.md "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
 
 1990年代の制作協力会社は[東京ビデオセンター](../Page/東京ビデオセンター.md "wikilink")・ファーストハンド・東放制作（現在の[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")）。この3社は『[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")』『[関口宏のサンデーモーニング](https://ja.wikipedia.org/wiki/関口宏のサンデーモーニング "wikilink")』も制作協力をしている。[TBSビジョン](../Page/TBSビジョン.md "wikilink")は他の時間帯の（『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』など）映像提供程度で制作には関わっていない。『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』も同じだった。
 

@@ -44,7 +44,7 @@
   - [2013年](../Page/2013年.md "wikilink")
       - [1月13日](../Page/1月13日.md "wikilink") - 東京オートサロンのミニライブでは、頭文字D関連楽曲および本人楽曲ではないにもかかわらず「恋しさと せつなさと 心強さと」を歌唱した。事実上オートサロンの入場料のみで観覧するライブでは最後のライブとなった。
       - [2月27日](../Page/2月27日.md "wikilink") - 最後のベストアルバム『Best moves. ～and move goes on～』をリリース。\[9\]アニメ『頭文字D　Fifth Stage』オープニング・テーマ「Raise Up」、アーケードゲーム『頭文字D　ARCADE STAGE7 AA X(クロス)』オープニング・テーマ「Cross the X」をはじめとする名曲やファン投票により選曲した楽曲、リミックス曲をCD3枚に収録。スペシャルプライス盤付属のDVDには、m.o.v.eの歴史15年の歩みを、見応えのあるドキュメンタリーとして凝縮。期間限定封入特典は、ラストライブ無料招待券抽選コード付属。
-      - [3月16日](../Page/3月16日.md "wikilink") - 東京・赤坂BLITZでラストライブ『m.o.v.e The Last Show ～Champagne Fight～』を開催し解散。15年間の活動に幕を下ろした。\[10\]\[11\]尚、ラストライブのDVDは2013年6月5日に発売。
+      - [3月16日](../Page/3月16日.md "wikilink") - 東京・赤坂BLITZでラストライブ『m.o.v.e The Last Show ～Champagne Fight～』をを行なったが抽選による完全招待制での入場のみとなりファンの不評を買った。
 
 ## メンバー
 
@@ -147,7 +147,7 @@
   - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")。
   - 「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」「[DISCO TIME](../Page/DISCO_TIME.md "wikilink")」「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」の4ヵ月連続リリースシングルは『[頭文字D](../Page/頭文字D.md "wikilink")』とのコラボレーションとして企画され、4曲のPVを組み合わせたショートムービーを制作。アルバム「[GRID](../Page/GRID.md "wikilink")」のDVDには、この作品の完全版が収録されている。
       - 第1弾「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」では、[榛名山](../Page/榛名山.md "wikilink")で撮影。劇中では[ハチロクも登場する](../Page/トヨタ・AE86.md "wikilink")。
-      - 第3弾の「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」では、頭文字Dのスタッフによって制作、メンバー3人が主人公・[藤原拓海](../Page/藤原拓海.md "wikilink")と共演。\[12\]
+      - 第3弾の「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」では、頭文字Dのスタッフによって制作、メンバー3人が主人公・[藤原拓海](../Page/藤原拓海.md "wikilink")と共演。\[10\]
           - motsu（ドライバー）・t-kimura（助手席）・・・赤い[FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")（ナンバー「品川33 む 05-111」）
           - yuri・・・拓海のハチロクの助手席
 
@@ -184,17 +184,17 @@
 | 25th | [2005年](../Page/2005年.md "wikilink")[11月23日](../Page/11月23日.md "wikilink")                    | *' [雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")*'                                                             | AVCT-30112\~3/B | 44位                                                                               |     |
 | 26th | [2005年](../Page/2005年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")                    | ''' [Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink") '''                                                            | AVCT-30114\~5/B | 45位                                                                               |     |
 | 27th | [2007年](../Page/2007年.md "wikilink")[6月20日](../Page/6月20日.md "wikilink")                      | ''' [Systematic Fantasy/Good Day Good Time](https://ja.wikipedia.org/wiki/Systematic_Fantasy/Good_Day_Good_Time "wikilink") ''' | AVCT-30123      |                                                                                   | 52位 |
-| 28th | [2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")                      | *' [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")*'\[13\]                                                                   | AVCT-30124      | 58位                                                                               |     |
+| 28th | [2007年](../Page/2007年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")                      | *' [SPEED MASTER](../Page/SPEED_MASTER.md "wikilink")*'\[11\]                                                                   | AVCT-30124      | 58位                                                                               |     |
 | 29th | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月2日](../Page/7月2日.md "wikilink")     | *' [DIVE INTO STREAM](https://ja.wikipedia.org/wiki/DIVE_INTO_STREAM "wikilink")*'                                              | AVCT-30129      | [Humanizer](https://ja.wikipedia.org/wiki/Humanizer "wikilink")                   | 31位 |
 | 30th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[1月13日](../Page/1月13日.md "wikilink")   | *' [Fate Seeker](https://ja.wikipedia.org/wiki/Fate_Seeker "wikilink")*'                                                        | AVCT-30130      | Dream Again                                                                       | 49位 |
-| 31st | [2011年](../Page/2011年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")                        | *' [oveRtaKerS](https://ja.wikipedia.org/wiki/oveRtaKerS "wikilink")*'\[14\]                                                    | AVCT-30131      | oveRtaKerS SPIRIT                                                                 | 53位 |
+| 31st | [2011年](../Page/2011年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")                        | *' [oveRtaKerS](https://ja.wikipedia.org/wiki/oveRtaKerS "wikilink")*'\[12\]                                                    | AVCT-30131      | oveRtaKerS SPIRIT                                                                 | 53位 |
 
 #### 配信限定
 
-  - FREAKY PLANET (English Version) (2005年9月14日) \[15\]
-  - Raise Up（2012年11月4日）\[16\]
-  - 夕愁想花（2013年2月6日）\[17\]
-  - Outsoar The Rainbow（2014年5月16日）\[18\]
+  - FREAKY PLANET (English Version) (2005年9月14日) \[13\]
+  - Raise Up（2012年11月4日）\[14\]
+  - 夕愁想花（2013年2月6日）\[15\]
+  - Outsoar The Rainbow（2014年5月16日）\[16\]
 
 ### アルバム
 
@@ -232,10 +232,10 @@
 | 枚                                               | 発売日                                                                      | タイトル                                                                                                                    | 規格品番            |
 | ----------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------- | --------------- |
 | 1st                                             | [2002年](../Page/2002年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink") | ''' [move super tune -BEST SELECTIONS-](https://ja.wikipedia.org/wiki/move_super_tune_-BEST_SELECTIONS- "wikilink") ''' | AVCT-10116      |
-| [2004年](../Page/2004年.md "wikilink")1月28日\[19\] | AVAT-91200                                                               |                                                                                                                         |                 |
+| [2004年](../Page/2004年.md "wikilink")1月28日\[17\] | AVAT-91200                                                               |                                                                                                                         |                 |
 | 2nd                                             | [2004年](../Page/2004年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink") | ''' [REWIND〜singles collection+〜](../Page/REWIND〜singles_collection+〜.md "wikilink") '''                                | AVCT-10142      |
 | 3rd                                             | [2007年](../Page/2007年.md "wikilink")[10月3日](../Page/10月3日.md "wikilink") | ''' [10th Anniversary MEGA BEST](../Page/10th_Anniversary_MEGA_BEST.md "wikilink") '''                                  | AVCT-10163/4    |
-| 4th                                             | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   | ''' [m.o.v.e B-SIDE BEST](https://ja.wikipedia.org/wiki/m.o.v.e_B-SIDE_BEST "wikilink") '''\[20\]                       |                 |
+| 4th                                             | [2012年](../Page/2012年.md "wikilink")[2月8日](../Page/2月8日.md "wikilink")   | ''' [m.o.v.e B-SIDE BEST](https://ja.wikipedia.org/wiki/m.o.v.e_B-SIDE_BEST "wikilink") '''\[18\]                       |                 |
 | 5th                                             | [2013年](../Page/2013年.md "wikilink")[2月27日](../Page/2月27日.md "wikilink") | ''' [Best moves. 〜and move goes on〜](https://ja.wikipedia.org/wiki/Best_moves._〜and_move_goes_on〜 "wikilink") '''       | AVCT-10186\~8/B |
 
 #### ライブアルバム
@@ -409,7 +409,7 @@
 ### ラジオ
 
   - THE ROCK'N DREAMERS〜move "Massive Beat"（毎週月曜 24：00-25：00、[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")：1999年1月～2002年6月）
-  - PLANET BEAT（[RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink")：2002年10月～2003年3月）\[21\]
+  - PLANET BEAT（[RADIO BERRY](https://ja.wikipedia.org/wiki/RADIO_BERRY "wikilink")：2002年10月～2003年3月）\[19\]
 
 ## 脚注
 
@@ -447,14 +447,12 @@
 8.
 9.
 10.
-11.
-12.
-13. m.o.v.e feat. 8-BALL名義。8-BALL feat. m.o.v.e名義で同名の異なる楽曲が制作されている。
-14. m.o.v.e feat. RYUICHI KAWAMURA × SUGIZO 名義。
-15. iTunes store限定。
-16. ベストアルバム『Best moves. 〜and move goes on〜 』に収録される新曲として先行配信。
-17.
-18. 解散後に未発表楽曲として配信された。2014年7月11日発売『頭文字D Final Best Collection』（AVCT-10197）に未発表曲Daysと共に収録。
-19. DVD Audioとして発売。
-20. 配信限定。
-21.
+11. m.o.v.e feat. 8-BALL名義。8-BALL feat. m.o.v.e名義で同名の異なる楽曲が制作されている。
+12. m.o.v.e feat. RYUICHI KAWAMURA × SUGIZO 名義。
+13. iTunes store限定。
+14. ベストアルバム『Best moves. 〜and move goes on〜 』に収録される新曲として先行配信。
+15.
+16. 解散後に未発表楽曲として配信された。2014年7月11日発売『頭文字D Final Best Collection』（AVCT-10197）に未発表曲Daysと共に収録。
+17. DVD Audioとして発売。
+18. 配信限定。
+19.

@@ -11,7 +11,7 @@
 
   - アリー・マクビール（全シーズン）
     演：[キャリスタ・フロックハート](../Page/キャリスタ・フロックハート.md "wikilink")、吹替：[若村麻由美](https://ja.wikipedia.org/wiki/若村麻由美 "wikilink")
-    セクハラが原因で弁護士事務所を解雇された女性弁護士。ボストンの街を歩いているところを知人リチャード・フィッシュに声をかけられ、**ケイジ&フィッシュ**に就職する。
+    事務所のセクハラ行為を抗議したことがが原因で弁護士事務所を解雇された女性弁護士\[2\]。ボストンの街を歩いているところを知人リチャード・フィッシュに声をかけられ、**ケイジ&フィッシュ**に就職する。
   - リチャード・フィッシュ（全シーズン）
     演：[グレッグ・ジャーマン](../Page/グレッグ・ジャーマン.md "wikilink")、吹替：[小杉十郎太](../Page/小杉十郎太.md "wikilink")
     ケイジ&フィッシュ法律事務所のシニアパートナー（共同経営者のひとり）。アリーとは大学の同級生。フィッシュ哲学なるものを持ち、女性の「たるみ」に[フェティシズム](../Page/フェティシズム.md "wikilink")を感じる。
@@ -366,3 +366,4 @@
 [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:アメリカ合衆国のテレビドラマ](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のテレビドラマ "wikilink") [Category:弁護士ドラマ](https://ja.wikipedia.org/wiki/Category:弁護士ドラマ "wikilink") [Category:ボストンを舞台としたテレビ番組](https://ja.wikipedia.org/wiki/Category:ボストンを舞台としたテレビ番組 "wikilink") [Category:FOX](https://ja.wikipedia.org/wiki/Category:FOX "wikilink") [Category:Dlifeのテレビ番組](https://ja.wikipedia.org/wiki/Category:Dlifeのテレビ番組 "wikilink") [Category:エミー賞受賞作](https://ja.wikipedia.org/wiki/Category:エミー賞受賞作 "wikilink")
 
 1.  [番組エピソード 『アリー♥myラブ』-NHKアーカイブス](https://www2.nhk.or.jp/archives/search/special/detail/?d=drama025)
+2.  [【法廷ドラマ】『スーツ』『グッド・ワイフ』『アリー・myラブ』『ザ・プラクティス』...タイプ別おすすめはこれだ！ - ライブドアニュース](https://news.livedoor.com/article/detail/18168846/)

@@ -5,9 +5,9 @@
 
 ## メンバー
 
-  - **[LITTLE](../Page/LITTLE.md "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") [AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")
-  - **[KREVA](../Page/KREVA.md "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/O型 "wikilink")) ：MC&トラックメイカー
-  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/A型 "wikilink")）：MC
+  - **[LITTLE](../Page/LITTLE.md "wikilink")**（リトル、[1976年](../Page/1976年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink") [AB型](https://ja.wikipedia.org/wiki/AB型 "wikilink")）：[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")&[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")
+  - **[KREVA](../Page/KREVA.md "wikilink")**（クレバ、1976年[6月18日](../Page/6月18日.md "wikilink") [O型](https://ja.wikipedia.org/wiki/O型 "wikilink")) ：MC&[トラックメイカー](https://ja.wikipedia.org/wiki/トラックメイカー "wikilink")
+  - **[MCU](../Page/MCU_\(ラッパー\).md "wikilink")**（エムシーユー、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") [A型](https://ja.wikipedia.org/wiki/A型 "wikilink")）：MC&[ゲーマー](../Page/ゲーマー.md "wikilink")
 
 ### サポートメンバー
 
@@ -711,6 +711,6 @@ VICL-37422(CD)</p></td>
 7.  [Facebook Yuma Katsumataアカウント](https://m.facebook.com/yuma.katsumata?fref=pb)
 8.  [音楽評論家のページ KICK THE CAN CREW](https://jellyfishsecret.jimdofree.com/2020/01/08/2020-1-8-kick-the-can-crew/)
 9.  [ゆうま(ラッパー)公式Twitterアカウント](https://mobile.twitter.com/yuma_k_0712)
-10. \[<https://www.youtube.com/watch?v=wFKvOPQyVL0> YouTube KICK THE CAN CREW千%」
+10. [YouTube KICK THE CAN CREW「千%」](https://www.youtube.com/watch?v=wFKvOPQyVL0)
 11. [Kick the Can Crew CHART HISTORY](http://www.billboard.com/artist/7849474/kick-the-can-crew/chart) Billboard
 12. [ick the Can CrewのDVD作品](http://www.oricon.co.jp/prof/13824/products/dvd/) オリコン

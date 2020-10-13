@@ -68,6 +68,7 @@
   - [TT型肝炎](https://ja.wikipedia.org/wiki/TT型肝炎 "wikilink")・TTウイルス ()
   - [フローンの気候区分](https://ja.wikipedia.org/wiki/フローンの気候区分 "wikilink")における気候帯のひとつ。熱帯内帯を意味する。
   - [声優](../Page/声優.md "wikilink")の[田中貴子の](https://ja.wikipedia.org/wiki/田中貴子_\(声優\) "wikilink")[愛称](../Page/愛称.md "wikilink")（TT, Tanaka Takako）\[1\]。
+  - [名鉄豊田線](https://ja.wikipedia.org/wiki/名鉄豊田線 "wikilink")の[赤池駅](../Page/赤池駅_\(愛知県\).md "wikilink")～[上豊田駅](../Page/上豊田駅.md "wikilink")間の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
   - TT兄弟 - [チョコレートプラネット](../Page/チョコレートプラネット.md "wikilink")がリズムネタで扮するキャラクター。
   - TT - [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")のロックバンド[Non Stop Rabbitのメンバー](https://ja.wikipedia.org/wiki/Non_Stop_Rabbit "wikilink")[田口達也](https://ja.wikipedia.org/wiki/田口達也 "wikilink")が立ち上げたファッションブランド。
 

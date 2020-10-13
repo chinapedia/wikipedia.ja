@@ -83,7 +83,7 @@
 
   - [久保木清](https://ja.wikipedia.org/wiki/久保木清 "wikilink")（元：[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")） - 外野手→退団
   - [伊藤勲](../Page/伊藤勲_\(野球\).md "wikilink")（元：[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")、[横浜大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - コーチ（2004年～2006年）→退団
-  - [上野貴久](../Page/上野貴久.md "wikilink")（元：読売ジャイアンツ） - 投手（2012年）→退団
+  - 上野貴久（元：読売ジャイアンツ） - 投手（2012年）→退団
 
 ## かつて在籍していた選手・コーチ・監督
 

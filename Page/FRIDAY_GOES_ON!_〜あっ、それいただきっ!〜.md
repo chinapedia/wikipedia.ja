@@ -233,7 +233,7 @@
   - [FRIDAY GOES ON～あっ、それいただきっ！～|斉藤リョーツ|藤井悠|JFN PARK](https://park.gsj.mobi/program/show/27305)
 
   -
-[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組](https://ja.wikipedia.org/wiki/Category:JFNCの番組 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの番組](https://ja.wikipedia.org/wiki/Category:JFNCの番組 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")
 
 1.  [デイリーフライヤー](https://ja.wikipedia.org/wiki/デイリーフライヤー "wikilink")が金曜も放送されるのに伴い、30分縮小。
 2.  [番組表 | ふくしまFM](http://www.fmf.co.jp/pc2/timetable/)（2015年7月24日確認）

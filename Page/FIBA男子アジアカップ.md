@@ -259,7 +259,7 @@
 <tr class="even">
 <td><p>2017</p></td>
 <td><p>(<a href="../Page/ベイルート.md" title="wikilink">ベイルート</a>)</p></td>
-<td><p>'''</p></td>
+<td></td>
 <td><p><strong>79–56</strong></p></td>
 </tr>
 </tbody>

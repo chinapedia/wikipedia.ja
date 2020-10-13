@@ -371,7 +371,7 @@ MSAR-001</small></p></td>
 
   - [公式ウェブサイト](http://www.thearrows.net/)
 
-  - [the ARROWS BLOG](http://thearrowslog.blogspot.jp/)
+  - [the ARROWS BLOG](https://thearrowslog.blogspot.com/)
 
   -
   -

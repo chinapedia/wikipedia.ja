@@ -27,17 +27,17 @@
   - [1993年](../Page/1993年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - [1994年](../Page/1994年.md "wikilink")[9月](../Page/9月.md "wikilink") / [ケン・カワシマ](https://ja.wikipedia.org/wiki/ケン・カワシマ "wikilink")
   - 1994年10月 - [2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") / [小林克也](../Page/小林克也.md "wikilink")
   - 2006年[4月2日](../Page/4月2日.md "wikilink") - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")、[2011年](../Page/2011年.md "wikilink")[1月2日](../Page/1月2日.md "wikilink") - / [鉄平](../Page/鉄平_\(タレント\).md "wikilink")
-      - 2010年[8月29日](../Page/8月29日.md "wikilink") - 2010年[12月26日](../Page/12月26日.md "wikilink")、[2020年](../Page/2020年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink") / [デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")
+      - 2010年[8月29日](../Page/8月29日.md "wikilink") - 2010年[12月26日](../Page/12月26日.md "wikilink")、[2020年](../Page/2020年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")・[9月20日](../Page/9月20日.md "wikilink") / [デイル](https://ja.wikipedia.org/wiki/DALE "wikilink")
 
 初代[ミュージック・ナビゲーターを務めたケン](https://ja.wikipedia.org/wiki/ZIP-FM#ZIP-FM_NAVIGATOR "wikilink")・カワシマは、小林克也の紹介でこの番組を担当。しかし、開局当初の予想を超える高い聴取率を自身の手柄だとして、法外なギャランティーを要求、対して局側は「開局当初は物珍しさで聴取率は高いのが普通」としてそれを拒否。さらにゴネようとした彼の姿勢に辟易した局側は、彼との契約を打ち切った。
 
 この一件に責任を感じた小林は『新しいナビゲーターが見つかる間まで』の期間限定で同番組のナビゲーターになった。ところが、このナビゲーター変更は小林の予想以上の好反響で、局側の意向もあり、10年以上に渡り継続することとなった。
 
-しかし、小林自身が毎週東京と名古屋を行き来しながらそれぞれ長時間に渡る番組を収録することに体力の限界を感じ始め、局に降板を打診。局側も了承し、[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送をもって降板した。翌週からは[MTVジャパン](../Page/MTVジャパン.md "wikilink")で活躍し、同局の新ナビゲーターにもなる鉄平が抜擢された。\[1\]
+しかし、小林自身が毎週東京と名古屋を行き来しながらそれぞれ長時間に渡る番組に挑む\[1\]ことに体力の限界を感じ始め、局に降板を打診。局側も了承し、[2006年](../Page/2006年.md "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink")放送をもって降板した。翌週からは[MTVジャパン](../Page/MTVジャパン.md "wikilink")で活躍し、同局の新ナビゲーターにもなる鉄平が抜擢された。\[2\]
 
 小林時代の数多くの人気コーナー（涙のリクエスト、THE 生年月日、ショートコント〔コバえもん、小林家三平といったキャラを生み出した〕、ミッキーのクイズ、言論の自由など）は終了。特別コーナーとしてはクイズのみが残され、新コーナー追加、及び各曲を流す時間を伸ばしたり、トークやレター紹介を増やした形式になった。現在ではコーナーの多くが鉄平の趣味を反映したものとなっている。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")の放送で鉄平が自らの病気を公表、療養にあたることになり、その間の代役をデイルが務めた。 同年12月26日の放送で鉄平が出演、退院を報告。翌年2011年1月2日から正式に番組復帰した。 [2020年](../Page/2020年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")の放送でも鉄平と共に行動していた仲間が発熱を公表、仲間の療養に見守ることになり、その間はデイルが再度代役を務めることになった。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[8月22日](../Page/8月22日.md "wikilink")の放送で鉄平が自らの病気を公表、療養にあたることになり、その間の代役をデイルが務めた。 同年12月26日の放送で鉄平が出演、退院を報告。翌年2011年1月2日から正式に番組復帰した。 [2020年](../Page/2020年.md "wikilink")[9月13日](../Page/9月13日.md "wikilink")の放送でも鉄平と共に行動していた仲間が発熱を公表、仲間の療養を見守ることとなり、その間はデイルが再度代役を務めることになった。
 
 ## 主なコーナー
 
@@ -58,7 +58,7 @@
 
   -
     番組のラストナンバーで流される曲（毎週、鉄平の独断と偏見で選ばれる）を予想するコーナー。
-    大抵はHOT QUESTION、鉄平がその週に見た映画に関連するような曲が採用される。正解者には「テツノート」がプレゼントされるが、正解率は極めて低い。\[2\]
+    大抵はHOT QUESTION、鉄平がその週に見た映画に関連するような曲が採用される。正解者には「テツノート」がプレゼントされるが、正解率は極めて低い。\[3\]
 
 <!-- end list -->
 
@@ -502,5 +502,6 @@
 
 [Category:1993年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1993年のラジオ番組_\(日本\) "wikilink") [Category:ZIP-FMの番組](https://ja.wikipedia.org/wiki/Category:ZIP-FMの番組 "wikilink") [Category:JFL系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:マクドナルド](https://ja.wikipedia.org/wiki/Category:マクドナルド "wikilink") [Category:名数100](https://ja.wikipedia.org/wiki/Category:名数100 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  ただし、小林は[2011年](../Page/2011年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")の[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")。埼玉県）内で、『引き際が大事なんだよ』と体力の限界だけではないことをミッキーのコーナーで暴露していた。
-2.  2016年6月12日までは、鉄平がプリントされている「テッペン（鉄ペン）」であった。
+1.  このころの小林は生放送を抱えており、金曜日に[埼玉のNACK5で](../Page/エフエムナックファイブ.md "wikilink")『[FUNKY FRIDAY](../Page/ファンキーフライデー.md "wikilink")』で9時間生放送を行い、さらに土曜日の夜には[テレビ朝日](../Page/テレビ朝日.md "wikilink")（愛知では[メ〜テレ（名古屋テレビ放送）](../Page/名古屋テレビ放送.md "wikilink")）で『[SmaSTATION\!\!](../Page/SmaSTATION!!.md "wikilink")』のナレーションも生で対応していた。
+2.  ただし、小林は[2011年](../Page/2011年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")の[ファンキーフライデー](../Page/ファンキーフライデー.md "wikilink")（[NACK5](../Page/エフエムナックファイブ.md "wikilink")。埼玉県）内で、『引き際が大事なんだよ』と体力の限界だけではないことをミッキーのコーナーで暴露していた。
+3.  2016年6月12日までは、鉄平がプリントされている「テッペン（鉄ペン）」であった。

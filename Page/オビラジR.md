@@ -774,14 +774,8 @@
   - [ゲビル](../Page/ゲビル_\(バンド\).md "wikilink")「だから今夜」（[11月6日](../Page/11月6日.md "wikilink") - [12月1日](../Page/12月1日.md "wikilink")）
   - [SPIRAL SPIDERS](../Page/SPIRAL_SPIDERS.md "wikilink")「[間に合っていますんで](https://ja.wikipedia.org/wiki/間に合っていますんで "wikilink")」（[12月4日](../Page/12月4日.md "wikilink") - 12月21日）
   - [Clownfish](../Page/Clownfish.md "wikilink")「夜明け前」（2007年1月8日 - 1月31日）
-
-<!-- end list -->
-
-  -
-    2007年[1月15日](../Page/1月15日.md "wikilink")から3月19日の月曜日は、先述の「オビミュージック」で優秀作品に選ばれた曲が、エンディングテーマとなる。　
-
-<!-- end list -->
-
+      -
+        2007年[1月15日](../Page/1月15日.md "wikilink")から3月19日の月曜日は、先述の「オビミュージック」で優秀作品に選ばれた曲が、エンディングテーマとなる。　
   - [Foxxi misQ](https://ja.wikipedia.org/wiki/Foxxi_misQ "wikilink")「[A-L-I-V-E](../Page/A-L-I-V-E.md "wikilink")」（2007年2月1日 - 2月28日）
   - [UME。](https://ja.wikipedia.org/wiki/UME。 "wikilink")「レッツゴーコン大作戦」(2007年2月19日 - 2007年5月)
   - ミドリ「ドーピング☆ノイズノイズキッス」（2007年4月、月曜日担当のUME。と交代制）
@@ -812,15 +806,13 @@
   - みたらじ味（[築地銀だこ](../Page/築地銀だこ.md "wikilink")とのコラボレーションメニュー）
   - ○合パン（[山崎製パン](../Page/山崎製パン.md "wikilink")とのコラボレーションした合格祈願パン、あんぱん味、カレーパン味、ケーキドナッツノーマル味、ケーキドーナッツココア味の4種類がある）
 
+## 脚注
+
 ## 外部リンク
 
   - [オビラジR](https://www.tbs.co.jp/obirajir/)
   - [オビラジR番組紹介ページ](http://www.tbs.co.jp/program/obiradi.html)
   - [SNSと連動した新情報番組、TBSが10月から放送](http://www.nikkei.co.jp/news/sangyo/20060821AT1D1804Q18082006.html) - 日本経済新聞
-
-## 脚注
-
-<references />
 
 [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの深夜番組の歴史 "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:TBSの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:TBSの情報・ワイドショー番組 "wikilink") [Category:オビガールG](https://ja.wikipedia.org/wiki/Category:オビガールG "wikilink") [Category:2006年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のテレビ番組_\(日本\) "wikilink")
 

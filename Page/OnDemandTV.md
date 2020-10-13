@@ -32,4 +32,4 @@
 
   - [オンデマンドTV](http://www.ondemandtv.co.jp/) （株式会社NTTぷらら）
 
-[Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:NTTグループの歴史](https://ja.wikipedia.org/wiki/Category:NTTグループの歴史 "wikilink")
+[Category:日本のインターネットテレビ局](https://ja.wikipedia.org/wiki/Category:日本のインターネットテレビ局 "wikilink") [Category:サービスを終了したビデオ・オン・デマンド](https://ja.wikipedia.org/wiki/Category:サービスを終了したビデオ・オン・デマンド "wikilink") [Category:渋谷区の企業](https://ja.wikipedia.org/wiki/Category:渋谷区の企業 "wikilink") [Category:NTTグループの歴史](https://ja.wikipedia.org/wiki/Category:NTTグループの歴史 "wikilink")

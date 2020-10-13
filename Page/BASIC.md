@@ -50,9 +50,9 @@
   - [高水準言語](../Page/高水準言語.md "wikilink")である。
   - （[ダートマスBASIC](https://ja.wikipedia.org/wiki/ダートマスBASIC "wikilink")はコンパイルしているが）[インタプリタ](../Page/インタプリタ.md "wikilink")として実装された処理系が多い。
   - 編集環境を兼ねた一種の[シェル](../Page/シェル.md "wikilink")のような[コマンドラインインタプリタ](../Page/コマンドラインインタプリタ.md "wikilink")を持つものも多いが、[LISP](https://ja.wikipedia.org/wiki/LISP "wikilink")の[REPL](https://ja.wikipedia.org/wiki/REPL "wikilink")のように洗練されたものではない。
-  - 古いBASICではすべての行頭に[行番号](../Page/行番号.md "wikilink")を必要とし、GOTO文などの飛び先は行番号で指定する。行番号は、[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")時代に処理系と一体の行指向[テキストエディタ](../Page/テキストエディタ.md "wikilink")で扱うのに便利であった。現在でも[互換性](../Page/互換性.md "wikilink")のために両者を残している処理系もある。
+  - 古いBASICではすべての行頭に[行番号](../Page/行番号.md "wikilink")を必要とし、GOTO文などの飛び先は行番号で指定する(但し、N88-BASICでは飛び先を指定する際、行番号のかわりにラベルを用い GOTO \*LABEL のような指定が可能)。行番号は、[テレタイプ端末](../Page/テレタイプ端末.md "wikilink")時代に処理系と一体の行指向[テキストエディタ](../Page/テキストエディタ.md "wikilink")で扱うのに便利であった。現在でも[互換性](../Page/互換性.md "wikilink")のために両者を残している処理系もある。
   - 本来は、**RUN**などのように、プログラム外から処理系に指示を与えるものは[コマンド](https://ja.wikipedia.org/wiki/コマンド_\(コンピュータ\) "wikilink")（**命令**）、**FOR**などのようにプログラム中のものは**ステートメント**（[文](https://ja.wikipedia.org/wiki/文_\(プログラミング\) "wikilink")）、と、本来は（ダートマスBASICでは）明確な区別があったが、次第に混同されていった。
-  - プログラム中の[予約語](../Page/予約語.md "wikilink")（キーワード）には文の他に関数がある。それらと同じ名前を変数に使うことはできない（Tiny BASIC等では変数は一文字といったものも多い）。
+  - プログラム中の[予約語](../Page/予約語.md "wikilink")（キーワード）には文の他に関数がある。それらと同じ名前を変数に使うことはできない（Tiny BASIC等では変数長は一文字といったものも多い、[N-BASIC](../Page/N-BASIC.md "wikilink")では二文字、N88-BASIC(86)では40文字など、変数長は処理系に依存している）。
   - 文字列変数の内容等を除いて、大文字と小文字を区別しない。入力の時点で全て大文字に変換される処理系もあった。
   - 算術[演算子](../Page/演算子.md "wikilink")以外の[記号](../Page/記号.md "wikilink")は極力使わない。論理演算子は`AND`、`OR`、`XOR`、`NOT`である。[括弧](../Page/括弧.md "wikilink")は[演算の優先順位](https://ja.wikipedia.org/wiki/演算の優先順位 "wikilink")も、[関数の](../Page/サブルーチン.md "wikilink")[引数](../Page/引数.md "wikilink")も、[配列](../Page/配列.md "wikilink")もすべて「`()`」のみを用いる。ブロックも「`{}`」のような括弧ではなく「`FOR`文から`NEXT`文までの間」といった構文により指定する。
   - 代入と比較はどちらも「`=`」である。代入はLET文とするのが本来の形だが（文は全てキーワードから始まる、という規則により）、「`A = 1`」のような、キーワード「LET」を省略した代入の構文が好まれた。

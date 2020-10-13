@@ -65,14 +65,6 @@ SFは現在の世界とは違う作品世界を、社会的、文化的、技術
 
 また、1961年[東宝](../Page/東宝.md "wikilink")の『[モスラ](../Page/モスラ.md "wikilink")』、1965年[大映](../Page/大映.md "wikilink")の『[大怪獣ガメラ](../Page/大怪獣ガメラ.md "wikilink")』、1967年[松竹](../Page/松竹.md "wikilink")の『[宇宙大怪獣ギララ](../Page/宇宙大怪獣ギララ.md "wikilink")』、[日活](../Page/日活.md "wikilink")の『[大巨獣ガッパ](../Page/大巨獣ガッパ.md "wikilink")』と怪獣が次々と生み出された。
 
-### 1970年～
-
-### 1980年～
-
-### 1990年～
-
-### 2000年～
-
 ## ベスト10
 
   - 科学者グループによるベスト10（Our expert panel votes for the top 10 sci-fi films）

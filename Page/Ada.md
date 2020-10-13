@@ -111,7 +111,7 @@ end Program;
 
 民生品ではあまり利用されていないが、信頼性を重視する航空機の制御ソフトウェアに利用されることがある。例としては[ボーイング777](../Page/ボーイング777.md "wikilink")など。
 
-## 脚注
+## 注釈・出典
 
 ## 外部リンク
 
@@ -125,7 +125,7 @@ end Program;
   - [予約語 (Ada)](../Page/予約語_\(Ada\).md "wikilink")
   - [ジェネリックプログラミング](../Page/ジェネリックプログラミング.md "wikilink")
 
-[カテゴリ:プログラミング言語](https://ja.wikipedia.org/wiki/カテゴリ:プログラミング言語 "wikilink") [カテゴリ:並行計算](https://ja.wikipedia.org/wiki/カテゴリ:並行計算 "wikilink") [08652](https://ja.wikipedia.org/wiki/カテゴリ:ISO/IEC標準 "wikilink") [X3009](https://ja.wikipedia.org/wiki/カテゴリ:JIS "wikilink") [カテゴリ:エポニム](https://ja.wikipedia.org/wiki/カテゴリ:エポニム "wikilink")
+[カテゴリ:プログラミング言語](https://ja.wikipedia.org/wiki/カテゴリ:プログラミング言語 "wikilink") [カテゴリ:並行計算](https://ja.wikipedia.org/wiki/カテゴリ:並行計算 "wikilink") [カテゴリ:ISO/IEC標準](https://ja.wikipedia.org/wiki/カテゴリ:ISO/IEC標準 "wikilink") [カテゴリ:JIS](https://ja.wikipedia.org/wiki/カテゴリ:JIS "wikilink") [カテゴリ:エポニム](https://ja.wikipedia.org/wiki/カテゴリ:エポニム "wikilink")
 
 1.  先進的ということは、言い換えれば「こなれていない」ということであり、兵器のようなシステムでは冒険的過ぎると言えなくもない。
 2.  [C. Antony R. Hoare - A.M. Turing Award Laureate](http://amturing.acm.org/award_winners/hoare_4622167.cfm)

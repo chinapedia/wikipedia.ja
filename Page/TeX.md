@@ -29,7 +29,7 @@
 
 ### 読み方
 
-英語の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink") （エックス、）として読むのではなく、[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")風に[無声軟口蓋摩擦音](../Page/無声軟口蓋摩擦音.md "wikilink") （ドイツ語の [ach-laut](../Page/ドイツ語音韻論.md "wikilink") の ）で /tex/ と発音するのが本来である。*book* では、そのように正しく発音するとコンピュータの端末（のCRTディスプレイ）が、呼気でちょっと曇る、と冗談が書かれている。英語においては、多くの方言で音素  が存在せず代わりに  が使われること、 に由来する が  と読むことから  と読まれる。ドイツ語では  が[前舌母音](https://ja.wikipedia.org/wiki/前舌母音 "wikilink")であることから [ich-laut](../Page/ドイツ語音韻論.md "wikilink") の発音になり、 である。日本ではどれもカタカナで表現するのが難しいため「テック」ないし「テフ」と書かれる。「テフ」は冗談を真に受けた、世界的には見られない日本固有の読み方と言える。ドイツ語の  をハ行で表現することもあるので間違いとは言い切れないものの、あえてローマ字で書くなら  であり、日本語の「ファ行のフ」である[無声両唇摩擦音](../Page/無声両唇摩擦音.md "wikilink") （ローマ字で ）ではない\[3\]。
+英語の[アルファベット](https://ja.wikipedia.org/wiki/アルファベット "wikilink") （エックス、）として読むのではなく、[ギリシア語](https://ja.wikipedia.org/wiki/ギリシア語 "wikilink")風に[無声軟口蓋摩擦音](../Page/無声軟口蓋摩擦音.md "wikilink") （ドイツ語の [ach-laut](../Page/ドイツ語音韻論.md "wikilink") の ）で /tex/ と発音するのが本来である。*book* では、そのように正しく発音するとコンピュータの端末（のCRTディスプレイ）が、呼気でちょっと曇る、と冗談が書かれている（CRTディスプレイが曇るという冗談はともかく、その発音が呼気をともなうものであるのは確か）。英語においては、多くの方言で音素  が存在せず代わりに  が使われること、 に由来する が  と読むことから  と読まれる。ドイツ語では  が[前舌母音](https://ja.wikipedia.org/wiki/前舌母音 "wikilink")であることから [ich-laut](../Page/ドイツ語音韻論.md "wikilink") の発音になり、 である。日本ではどれもカタカナで表現するのが難しいため「テック」ないし「テフ」と書かれる。ドイツ語の  をハ行で表現することもあるので間違いとは言い切れないものの、あえてローマ字で書くなら  であり、日本語の「ファ行のフ」である[無声両唇摩擦音](../Page/無声両唇摩擦音.md "wikilink") （ローマ字で ）ではない。*book*の邦訳出版など、日本での普及に大きく関与したアスキーで、編集者だった鈴木嘉平によれば、アスキー社内では「テック」と読んでいたが、先輩編集者によれば（fuで発音する）「テフ」ではないとはっきり書いておかなかったのが原因で、日本には「テフ」が広まってしまった、という\[3\]。
 
 ## 機能
 
@@ -177,7 +177,7 @@ f(a,b)=\int_a^b \frac{1+x}{a+x^2 +x^3} \, dx
 
 1.  2016年10月1日現在のバージョンは 3.14159265 である。
 2.  [2016年](../Page/2016年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")現在のバージョンは 2.7182818 である。
-3.  なお、*book* の翻訳版出版元であるアスキーの編集者だった鈴木嘉平によれば、アスキー社内では「テック」と読んでいたが、先輩編集者によれば（fuで発音する）「テフ」ではないとはっきり書いておかなかったのが原因で、日本には「テフ」が広まってしまった、という (https://www.kahei.org/2014/04/tex.html )。
+3.  [Talpa memorandum: TeXはテック](https://www.kahei.org/2014/04/tex.html)
 4.  [The TeX Catalogue OnLine, Entry for slides, Ctan Edition](http://mirror.ctan.org/help/Catalogue/entries/slides.html)（[Ring Server によるミラーリング](http://www.ring.gr.jp/pub/text/CTAN/help/Catalogue/entries/slides.html)）
 5.  [AMS-LaTeX — American Mathematical Society](http://www.ams.org/tex/amslatex.html)
 6.  [The TeX Catalogue OnLine, Entry for amslatex, Ctan Edition](http://mirror.ctan.org/help/Catalogue/entries/amslatex.html)（[Ring Server によるミラーリング](http://www.ring.gr.jp/pub/text/CTAN/help/Catalogue/entries/amslatex.html)）

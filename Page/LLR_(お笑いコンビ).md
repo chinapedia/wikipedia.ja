@@ -9,13 +9,13 @@
 
 [東京都立武蔵野北高等学校](../Page/東京都立武蔵野北高等学校.md "wikilink")出身\[2\]。
 
-吉本ネタネットワーク（YNN・[あなたの街に住みますプロジェクト](https://ja.wikipedia.org/wiki/あなたの街に住みますプロジェクト "wikilink")）の企画により、東京都住みます芸人として活動中\[3\]。
+2014年に『[THE MANZAI](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")』の認定漫才師に選出された\[3\]。
 
-2014年に『[THE MANZAI](https://ja.wikipedia.org/wiki/THE_MANZAI_\(お笑いのコンテスト\) "wikilink")』の認定漫才師に選出された\[4\]。
-
-なお、コンビ名の由来は2人が[田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")のファンで「ラブ・ラブ・レナポンズ」の頭文字からきている\[5\]。
+なお、コンビ名の由来は2人が[田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")のファンで「ラブ・ラブ・レナポンズ」の頭文字からきている\[4\]。
 
 2016年8月12日に行われたLLR単独ライブ『シャローム〜もう単独ライブはやらないと言いましたが結婚をしたので一区切りつけなきゃいけないと思った訳で・・・。〜』で、らぶらぶれなぽんず＝LLRからLaugh Liberty Revolution（ラフリバティレボリューション）＝LLRに改名することを発表した
+
+吉本ネタネットワーク（YNN・[あなたの街に住みますプロジェクト](https://ja.wikipedia.org/wiki/あなたの街に住みますプロジェクト "wikilink")）の企画により、東京都住みます芸人としても活動していた\[5\]。
 
 出囃子は[B'z](../Page/B'z.md "wikilink")の[IT'S SHOWTIME\!\!](../Page/IT'S_SHOWTIME!!.md "wikilink")。
 

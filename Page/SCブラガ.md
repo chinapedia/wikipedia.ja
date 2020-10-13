@@ -917,9 +917,9 @@
 
 ## 現所属メンバー
 
-  - 2020年2月27日時点
+  - 2020年8月4日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))            ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
 ### ローン移籍
 

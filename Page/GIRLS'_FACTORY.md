@@ -393,7 +393,7 @@ MC：[南明奈](https://ja.wikipedia.org/wiki/南明奈 "wikilink")
 
   - [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")
   - [私立恵比寿中学](https://ja.wikipedia.org/wiki/私立恵比寿中学 "wikilink")
-  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")
+  - [チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
   - [ねごと](https://ja.wikipedia.org/wiki/ねごと "wikilink")
   - [アーバンギャルド](../Page/アーバンギャルド.md "wikilink")
   - [赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")

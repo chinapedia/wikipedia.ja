@@ -3,7 +3,7 @@
 
 **Cyber Nation Network**（サイバー ネーション ネットワーク）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽](../Page/音楽.md "wikilink")ユニット。略称「C.N.N\[1\]」。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")よりデビュー。1年ほどの活動\[2\]を経て活動を休止した。[アニメ](../Page/アニメ.md "wikilink")の主題歌を手がけていた\[3\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[日本コロムビア](../Page/日本コロムビア.md "wikilink")よりデビュー。1年ほどの活動\[2\]を経て活動を休止した。[ビーストウォーズII 超生命体トランスフォーマー等の主題歌を手がけていた](../Page/ビーストウォーズII_超生命体トランスフォーマー.md "wikilink")\[3\]。
 
 ## メンバー
 

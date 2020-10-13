@@ -129,7 +129,7 @@
   - [ジャック豆山](https://ja.wikipedia.org/wiki/ジャック豆山 "wikilink")
   - [小声くん](https://ja.wikipedia.org/wiki/小声くん "wikilink")
   - [ツジモト](https://ja.wikipedia.org/wiki/ツジモト "wikilink")
-  - [今泉](../Page/今泉.md "wikilink")
+  - [今泉](../Page/18KIN.md "wikilink")
 
 ## かつて所属していた主なタレント
 

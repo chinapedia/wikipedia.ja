@@ -5,7 +5,7 @@
 
 ## 略歴
 
-[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母と[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")にルーツをもつ[イタリア系アメリカ人](../Page/イタリア系アメリカ人.md "wikilink")の父をもつハーフである。2歳から6歳まで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[グレンカーボン](https://ja.wikipedia.org/wiki/グレンカーボン "wikilink")に住んでいた。
+[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")の母と[シチリア](https://ja.wikipedia.org/wiki/シチリア "wikilink")にルーツをもつ[イタリア系アメリカ人](../Page/イタリア系アメリカ人.md "wikilink")の父をもつ[混血](../Page/混血.md "wikilink")（ハーフ）である。2歳から6歳まで[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[イリノイ州](../Page/イリノイ州.md "wikilink")[グレンカーボン](https://ja.wikipedia.org/wiki/グレンカーボン "wikilink")に住んでいた。
 
 [スカウトがきっかけで](../Page/スカウト_\(勧誘\).md "wikilink")14歳のときに[モデルデビュー](../Page/モデル_\(職業\).md "wikilink")。『[CUTiE](../Page/CUTiE.md "wikilink")』『[spring](https://ja.wikipedia.org/wiki/spring "wikilink")』『[Zipper](../Page/Zipper.md "wikilink")』などの[ファッション誌](https://ja.wikipedia.org/wiki/ファッション誌 "wikilink")のモデルや[テレビ](../Page/テレビ.md "wikilink")や[ラジオ](../Page/ラジオ.md "wikilink")の[DJ](https://ja.wikipedia.org/wiki/DJ "wikilink")、[VJ](https://ja.wikipedia.org/wiki/VJ "wikilink")としても活躍。2000年代後半からは情報番組のキャスター・司会も務めている。
 
@@ -32,7 +32,7 @@
   - [日本酒](https://ja.wikipedia.org/wiki/日本酒 "wikilink")の[きき酒師](https://ja.wikipedia.org/wiki/きき酒師 "wikilink")の資格を持っている\[18\]。酒好きで酒豪。飲み過ぎて「**酒焼けしている**」と自他共に認めているが、妊娠するために禁酒した。現在は代わりに甘い物や果物を食べている。
   - [横浜DeNAベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")のファンである。
   - 国会で[平和安全法制](https://ja.wikipedia.org/wiki/平和安全法制 "wikilink")の議論が白熱していた2015年7月15日に、ツイッター上で「この時代に『こんな事が有り得るの?』とテレビを見ながら不信感しかないです。この状況を戦争を経験された世代はどう感じるだろう?そんな中、今も雨の中デモを続ける方々は本当にかっこいいと思います。若い世代が立ち上がってる事を誇りに思います。日本、どうなっちゃうんだろう」といった意見を述べた\[19\]。このツイートへのさまざまな意見に対して、SHELLYは再び自らの見解などを述べ続けた\[20\]\[21\]\[22\]\[23\]\[24\]\[25\]。また、シェリーの母が韓国料理である[チャプチェ](../Page/チャプチェ.md "wikilink")を作ることから「外国人男性と結婚したシェリーの母は韓国人だと言われた」とシェリー自身がツイッターで伝えている\[26\]。
-  - 夫は潔癖な部分があり、洋服は決まった洗剤で洗わないと怒り、家具も店員と仲が良くなるほどこだわっている。シェリーが夫のために夕飯を作り、結局仕事で帰ってこれない際に冷凍すると絶対に食べないという。シェリーと同棲する際にシェリーが持って行ったものでゆるされた家具は座りやすい椅子だけだった。
+  - 元夫は潔癖な部分があり、洋服は決まった洗剤で洗わないと怒り、家具も店員と仲が良くなるほどこだわっている。シェリーが夕飯を作り、結局仕事で帰ってこれない際に冷凍すると絶対に食べないという。シェリーと同棲する際にシェリーが持って行ったものでゆるされた家具は座りやすい椅子だけだった。
 
 ## 出演
 
@@ -69,7 +69,7 @@
   - [芸能★BANG\!](https://ja.wikipedia.org/wiki/芸能★BANG+ "wikilink")（日本テレビ、2011年10月17日 - 2012年3月19日）- 司会
   - [芸能★BANG+](https://ja.wikipedia.org/wiki/芸能★BANG+ "wikilink")（日本テレビ、2012年4月10日 - 2012年7月17日）- 司会
   - TOKYO DESIGNERS WEEK.tv（[BS日テレ](../Page/BS日本.md "wikilink")、2012年4月2日 - 2013年3月）- 司会
-  - [リトル・チャロ4 英語で歩くニューヨーク](https://ja.wikipedia.org/wiki/リトル・チャロ4_英語で歩くニューヨーク "wikilink") （[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink")、2013年4月3日 - ）- ナビゲーター
+  - [リトル・チャロ4 英語で歩くニューヨーク](https://ja.wikipedia.org/wiki/リトル・チャロ4_英語で歩くニューヨーク "wikilink") （NHK Eテレ、2013年4月3日 - ）- ナビゲーター
   - [逆向き列車](https://ja.wikipedia.org/wiki/逆向き列車 "wikilink")（テレビ東京、2014年2月3日 - 2月24日） - 司会
   - [ホムカミ〜ニッポン大好き外国人 世界の村に里帰り〜](https://ja.wikipedia.org/wiki/ホムカミ〜ニッポン大好き外国人_世界の村に里帰り〜 "wikilink")（毎日放送、2013年10月13日 - 2014年9月14日） - 進行
   - [さまぁ〜ずの世界のすげぇにツイテッタ〜](https://ja.wikipedia.org/wiki/さまぁ〜ずの世界のすげぇにツイテッタ〜 "wikilink")（[毎日放送](../Page/毎日放送.md "wikilink")、2014年10月12日 - 2015年3月1日） - レギュラーツイテッタ〜

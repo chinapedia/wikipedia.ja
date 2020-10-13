@@ -129,6 +129,7 @@ VBScript、JavaScriptによる[マクロ作成が可能](../Page/マクロ_\(コ
   - [2017年](../Page/2017年.md "wikilink")7月19日：EmEditor Professional v17.0.0公開。
   - [2018年](../Page/2018年.md "wikilink")8月9日：EmEditor Professional v18.0.0公開。
   - [2019年](../Page/2019年.md "wikilink")7月31日：EmEditor Professional v19.0.0公開。
+  - [2020年](../Page/2020年.md "wikilink")7月21日：EmEditor Professional v20.0.0公開。
 
 ## 註釈
 

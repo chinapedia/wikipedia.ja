@@ -101,6 +101,9 @@
 | 2020/08/09        | Try3 from TRY-TONE A Cappella Night                        | 横浜馬車道King’s Bar     |                             |
 | 2020/08/30        | WAVOC presents 災害ボランティア支援 ゴスペラーズ　アカペラコンサート                 | 配信ライブ               | 新森春花・Shin-Imayamaと共にゲスト出演   |
 | 2020/09/24        | TRY-TONE Acappella Night ‘September Special'               | 目黒Blues Alley Japan | 新森春花・Shin-Imayama 出演 生配信もあり |
+| 2020/10/15        | HOTひといきコンサート(Try3 with 松原ヒロ)                               | 成増アクトホール            | 4/14延期分                     |
+| 2020/10/24        | 阿佐ヶ谷ジャズストリート                                               | 細田工務店               | 新森春花・松原ヒロ 出演                |
+| 2020/11/01        | Try3 from TRY-TONE A Cappella Live                         | 横浜馬車道King’s Bar     |                             |
 
 ### 2019年
 

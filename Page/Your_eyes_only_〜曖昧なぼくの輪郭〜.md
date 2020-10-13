@@ -5,7 +5,7 @@
 
 ## 概要
 
-きっかけは、フジテレビ月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』の挿入歌を歌うことが決まっていた某アーティスト（明言されていない）が、何らかの事情で降りることになったからである\[1\]。当初、[HIROは](../Page/五十嵐広行.md "wikilink")[ATSUSHIを](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")[J Soul Brothersのボーカルとして加入させる予定だったが](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")、本人の事情と関係のない部分でATSUSHIが参加出来なくなるという事態が発生する\[2\]。そんな中で、ボーカルを探していた時に[SHUNを見つけ](../Page/清木場俊介.md "wikilink")、ワンでいくか、ツインでいくか悩んだという\[3\]。その時期に、テレビ局と出版社と作曲を担当していた[Face 2 fAKEが後釜を探すために](../Page/Face_2_fAKE.md "wikilink")、既に主題歌とサントラをリリースする事が決まっているavexならスムーズだと判断し、avexに声をかけたのが始まりであった\[4\]。こうして、avexから[J Soul Brothersが抜擢](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")。急遽、ツイン・ヴォーカルで歌うための楽曲が作曲し直され、レコーディングされた\[5\]。
+きっかけは、2001年7月期放送のフジテレビ系月9ドラマ『[できちゃった結婚](../Page/できちゃった結婚_\(テレビドラマ\).md "wikilink")』の挿入歌を担当することが決まっていたアーティストが、何らかの事情で降りることになったからである\[1\]。当初、[HIROは](../Page/五十嵐広行.md "wikilink")[ATSUSHIを](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")[J Soul Brothersのボーカルとして加入させる予定だったが](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")、本人の事情と関係のない部分でATSUSHIが参加出来なくなるという事態が発生する\[2\]。そんな中で、ボーカルを探していた時に[SHUNを見つけ](../Page/清木場俊介.md "wikilink")、ワンでいくか、ツインでいくか悩んだという\[3\]。その時期に、テレビ局と出版社と作曲を担当していた[Face 2 fAKEが後釜を探すために](../Page/Face_2_fAKE.md "wikilink")、既に主題歌とサントラをリリースする事が決まっているavexならスムーズだと判断し、avexに声をかけたのが始まりであった\[4\]。こうして、avexから[J Soul Brothersが抜擢](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink")。急遽、ツイン・ヴォーカルで歌うための楽曲が作曲し直され、レコーディングされた\[5\]。
 
 レコーディング前は、はっきりボーカルも決まっておらず、サントラとしては出すが、CDリリースに至るかどうかは分からない状況だった\[6\]。また、ATSUSHIとSHUNもレコーディングをするといきなり言われたため、レコーディングのノウハウが何も分からない状態だったという\[7\]。しかもお互い初対面。そういう状況の中でぶっつけ本番で、昼から翌朝までレコーディングしたという\[8\]。
 

@@ -1,7 +1,7 @@
 > この記事は[らくらぶR](https://ja.wikipedia.org/wiki/らくらぶR)から翻訳されています。
 
 
-『**らくらぶR**』（らくらぶアール）は、[2003年](../Page/2003年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[KBS京都で毎週](../Page/京都放送.md "wikilink")[日曜](../Page/日曜日.md "wikilink") 22:30 - 23:00に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。『[らくらぶ。](../Page/らくらぶ。.md "wikilink")』内で放送されていた前身番組『**森脇健児のらくらぶ。金曜日**』（2000年10月 - 2002年9月）についても一部後述する。
+『**らくらぶR**』（らくらぶアール）は、[2003年](../Page/2003年.md "wikilink")[7月6日](../Page/7月6日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")まで[KBS京都テレビで毎週](../Page/京都放送.md "wikilink")[日曜](../Page/日曜日.md "wikilink") 22:30 - 23:00に放送されていた[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。『[らくらぶ。](../Page/らくらぶ。.md "wikilink")』内で放送されていた前身番組『**森脇健児のらくらぶ。金曜日**』（2000年10月 - 2002年9月）についても一部後述する。
 
 ## 概要
 

@@ -686,7 +686,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
           - 9.君のために
               -
                 後に自身のミニアルバム「[ONE LIFE](https://ja.wikipedia.org/wiki/ONE_LIFE_\(SEAMOのアルバム\) "wikilink")」でオリジナルのアレンジを加えてセルフカヴァーした。
-3.  [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")
+3.  [チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
       - シングル「[首都移転計画](https://ja.wikipedia.org/wiki/首都移転計画 "wikilink")」（2013年[6月19日](../Page/6月19日.md "wikilink")発売）
           - 1.首都移転計画
       - ミニアルバム「ええじゃないか」（2015年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")発売）
@@ -767,7 +767,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（2006年8月4日）「[ルパン・ザ・ファイヤー](../Page/ルパン・ザ・ファイヤー.md "wikilink")」をパフォーマンス
   - ミュージックステーション（2006年9月1日）「[マタアイマショウ](../Page/マタアイマショウ.md "wikilink")」をパフォーマンス
   - [トップランナー](../Page/トップランナー.md "wikilink")（2006年9月3日）シーモネーター時代の話から、自身の挫折、そして再デビューまでを語った
-  - [COUNT DOWN TV](../Page/COUNT_DOWN_TV.md "wikilink")（2006年10月7日）「マタアイマショウ」をパフォーマンス
+  - COUNT DOWN TV（2006年10月7日）「マタアイマショウ」をパフォーマンス
   - [NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")（2006年12月31日）「ルパン・ザ・ファイヤー」、「マタアイマショウ」をパフォーマンス
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（2008年5月9日）「[MOTHER](../Page/MOTHER_\(SEAMOの曲\).md "wikilink")」をパフォーマンス
   - ミュージックステーション（2008年5月9日）「MOTHER」をパフォーマンス
@@ -793,7 +793,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - 「[杉本清のK-BAR](https://ja.wikipedia.org/wiki/杉本清のK-BAR "wikilink")」（[TOKYO FM](../Page/エフエム東京.md "wikilink")、金曜日19:30 - ）レギュラーではないがサブレギュラー扱いになっている。この番組では「杉本シーモ」と名乗っており、番組ジングルも彼が手がけている。[2006年](../Page/2006年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")の放送では[ドバイワールドカップ](../Page/ドバイワールドカップ.md "wikilink")の取材に出かけた[杉本清](../Page/杉本清.md "wikilink")、6月23日の放送では[ワールドカップ](../Page/ワールドカップ.md "wikilink")の取材に出かけた[藤丸由華](../Page/藤丸由華.md "wikilink")のピンチヒッターでパーソナリティを担当した。8月はほぼ毎週レース予想のメールを送り、[12月23日](../Page/12月23日.md "wikilink")の放送でも[第51回有馬記念](../Page/第51回有馬記念.md "wikilink")の予想メールを送っていた。
   - 「[SEAMOの合格\!天狗ゼミナール](../Page/SEAMOの合格!天狗ゼミナール.md "wikilink")」（[JFNCファイル配信](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - TOKAIRADIO × TSUTAYA LIFESTYLE MUSIC 929（[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")、[2015年](../Page/2015年.md "wikilink")10月 - ）金曜日パーソナリティ\[7\]。
-  - 「JOYFUL」（ZIP-FM、金曜日13:00 - ）ミュージックナビゲーター
+  - 「[JOYFUL](https://ja.wikipedia.org/wiki/JOYFUL_\(ZIP-FMのラジオ番組\) "wikilink")」（ZIP-FM、金曜日13:00 - ）ナビゲーター\[8\]
 
 ## 出演イベント
 
@@ -830,7 +830,7 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")
   - [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink")
   - [鈴木愛理](https://ja.wikipedia.org/wiki/鈴木愛理 "wikilink")
-  - [CHIHIRO (歌手)](../Page/CHIHIRO_\(歌手\).md "wikilink")
+  - [CHIHIRO](../Page/CHIHIRO_\(歌手\).md "wikilink")
   - [nobodyknows+](https://ja.wikipedia.org/wiki/nobodyknows+ "wikilink")
   - [RHYMESTER](../Page/RHYMESTER.md "wikilink")
   - [BRIDGET](https://ja.wikipedia.org/wiki/BRIDGET "wikilink")
@@ -903,6 +903,12 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 
 ## 脚注
 
+  - 注釈
+
+<!-- end list -->
+
+  - 出典
+
 ## 外部リンク
 
   - [SEAMO☆オフィシャルウェブサイト](https://seamo.jp/)
@@ -932,3 +938,4 @@ DVD付初回生産限定盤：&lt;BVCR-19989~90&gt;<br />
 5.
 6.  『[競馬最強の法則](../Page/競馬最強の法則.md "wikilink")』（[KKベストセラーズ](https://ja.wikipedia.org/wiki/KKベストセラーズ "wikilink")）2008年12月号 pp.124 - 125
 7.
+8.  2020年3月まではミュージックナビゲーター。

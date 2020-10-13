@@ -60,7 +60,7 @@
   - [熊谷博之](../Page/熊谷博之.md "wikilink")
   - [青柳嘉代](../Page/青柳嘉代.md "wikilink")
   - [山口則幸](../Page/山口則幸.md "wikilink")（2009年3月まで）
-  - [岩田有未](https://ja.wikipedia.org/wiki/岩田有未 "wikilink")（2009年3月まで）
+  - [岩田有未](../Page/岩田有未.md "wikilink")（2009年3月まで）
   - [大江和美](https://ja.wikipedia.org/wiki/大江和美 "wikilink")（[日本気象協会](../Page/日本気象協会.md "wikilink")）
   - [奥村奈津美](../Page/奥村奈津美.md "wikilink")（2009年4月 - 2011年3月）
   - [竹内真理](../Page/竹内真理.md "wikilink")（2011年4月 - 2012年9月）

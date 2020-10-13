@@ -1,11 +1,11 @@
 > この記事は[しるし \(Mr.Childrenの曲\)](https://ja.wikipedia.org/wiki/しるし_\(Mr.Childrenの曲\))から翻訳されています。
 
 
-「**しるし**」は、日本の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")である。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された。
+「**しるし**」は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[バンド](../Page/バンド_\(音楽\).md "wikilink")・[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の29枚目の[シングル](../Page/シングル.md "wikilink")。[2006年](../Page/2006年.md "wikilink")[11月15日](../Page/11月15日.md "wikilink")に[トイズファクトリー](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")より発売された\[1\]。
 
 ## 概要
 
-前作から約4ヶ月ぶりの発売。15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来14作ぶりに[桜井和寿](../Page/桜井和寿.md "wikilink")がジャケットを飾った（アルバムを含めると9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』以来）。ジャケットの桜井は[胎児](../Page/胎児.md "wikilink")をイメージしており、主題歌である[日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』でも[番組宣伝](../Page/番組宣伝.md "wikilink")や、オープニングなどでこの胎児のイメージが使われていた。アートディレクターは[丹下紘希](../Page/丹下紘希.md "wikilink")。
+通常盤のみの1形態で発売。前作「[箒星](../Page/箒星_\(曲\).md "wikilink")」から約4か月ぶりのシングルとなる。[アートディレクター](../Page/アートディレクター.md "wikilink")は[丹下紘希](../Page/丹下紘希.md "wikilink")で、15thシングル「[終わりなき旅](../Page/終わりなき旅.md "wikilink")」以来14作ぶりに[桜井和寿](../Page/桜井和寿.md "wikilink")がジャケットを飾った（アルバムを含めると9thアルバム『[Q](../Page/Q_\(アルバム\).md "wikilink")』以来）。ジャケットは、人が寝ている時から起き上がって1日を過ごしてまた眠るという動作に人の一生を重ねるというコンセプトになっている\[2\]。
 
 ## チャート成績
 
@@ -19,29 +19,26 @@
 
 ## 収録曲
 
-  - 全作詞・作曲：[桜井和寿](../Page/桜井和寿.md "wikilink") / 編曲：[小林武史](../Page/小林武史.md "wikilink") & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
+  - 全作詞・作曲：[桜井和寿](../Page/桜井和寿.md "wikilink") / 編曲・プロデュース：[小林武史](../Page/小林武史.md "wikilink") & [Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")
 
 <!-- end list -->
 
-1.  **しるし** \[7:10\]
+1.  **しるし** \[7:11\]
       -
-        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』主題歌。
-        演奏時間は7分10秒で、[2020年](../Page/2020年.md "wikilink")に「[君と重ねたモノローグ](https://ja.wikipedia.org/wiki/Birthday/君と重ねたモノローグ "wikilink")」が発売されるまではシングルA面曲で最長の曲だった。
-        桜井はこの曲について「両極の物語の中心にある『愛』とかいうもの、それを実感してもらえたらと願っています。最高のラブソングができました」とコメントしている。
-        歌詞について桜井は、恋愛中の男女のこととも別れてしまったカップルのことともどちらにも解釈できるものにしたと語っている。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には桜井のみ出演している\[1\]。監督は丹下紘希。[CMでは桜井のみのバージョンとメンバー全員が出演しているバージョンが存在する](../Page/コマーシャルメッセージ.md "wikilink")。ちなみにこのミュージック・ビデオは『[SPACE SHOWER Music Video Awards 07](../Page/SPACE_SHOWER_MUSIC_AWARDS.md "wikilink")』で「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」の2つの賞を受賞した。この2つの賞の受賞は『SPACE SHOWER Music Video Awards 04』での「[くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」以来。ミュージック・ビデオは[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売の『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
+        [日本テレビ系ドラマ](../Page/日本テレビ放送網.md "wikilink")『[14才の母](../Page/14才の母.md "wikilink")』主題歌\[3\]。
+        桜井は「愛情が高まった2人の物語なのか、離れ離れになる2人の物語なのか。そのどちらとも受け取れるラブソングです」「最高のラブソングができました」とコメントしている\[4\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には桜井のみ出演している。元々はメンバー全員のほか、エキストラの老人や子供も登場する予定で、実際撮影も行われていた\[5\]。しかし桜井曰く、メッセージが強すぎたので、ただ思いだけが伝わるようにシンプルな映像にしたとのこと\[6\]。監督は[丹下紘希](../Page/丹下紘希.md "wikilink")。[CMでは桜井のみのバージョンとメンバー全員が出演しているバージョンが存在する](../Page/コマーシャルメッセージ.md "wikilink")。このミュージック・ビデオは『[SPACE SHOWER Music Video Awards 07](../Page/SPACE_SHOWER_MUSIC_AWARDS.md "wikilink")』で「BEST VIDEO OF THE YEAR」と「BEST GROUP VIDEO」の2つの賞を受賞した。この2つの賞の受賞は『SPACE SHOWER Music Video Awards 04』での「[くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」以来。ミュージック・ビデオは[2012年](../Page/2012年.md "wikilink")[5月10日](../Page/5月10日.md "wikilink")発売の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』の初回限定盤、[2018年](../Page/2018年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")発売のライブ・ビデオ『[Mr.Children DOME & STADIUM TOUR 2017 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_DOME_&_STADIUM_TOUR_2017_Thanksgiving_25 "wikilink")』に収録されている。
 2.  **ひびき** \[3:13\]
       -
-        桜井によると自転車に乗っているとき、頭に浮かんだらしい。
-        タイトル候補に「クラッカー」や「響き」があったが、最終的に[鈴木英哉](../Page/鈴木英哉.md "wikilink")の一言で「ひびき」に決定した。
-        後にカップリング集アルバム『[B-SIDE](../Page/B-SIDE.md "wikilink")』のプロモーション用に[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が作られ、ミュージック・ビデオには2ndアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』が登場している。監督は[窪田崇](../Page/窪田崇.md "wikilink")。[2014年](../Page/2014年.md "wikilink")に開催されたファンクラブ限定ツアー『Mr.Children FATHER\&MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」では12位に選ばれた\[2\]。
-        制作時に桜井がコーラスを入れたくなって歌っていたところ、小林から「初期のミスチルっぽいね」と言われた\[3\]。
-3.  **くるみ - for the Film - 幸福な食卓** \[5:26\]
+        小林は「初期のMr.Childrenみたいだ」と語っていたという\[7\]。
+        タイトル候補に「**クラッカー**」や「**響き**」があった\[8\]が、最終的に[鈴木英哉](../Page/鈴木英哉.md "wikilink")の意向で「**ひびき**」に決定した\[9\]。
+        後にカップリング集アルバム『[B-SIDE](../Page/B-SIDE.md "wikilink")』のプロモーション用にミュージック・ビデオが作られ、ミュージック・ビデオには2ndアルバム『[Kind of Love](../Page/Kind_of_Love.md "wikilink")』、3rdアルバム『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』が登場している。監督は[窪田崇](../Page/窪田崇.md "wikilink")。[2014年](../Page/2014年.md "wikilink")に開催されたファンクラブ限定ツアー『Mr.Children FATHER & MOTHER 21周年ファンクラブツアー』の直前に行われた「会員が最もライブで聴きたい曲」アンケートでは12位に選ばれた\[10\]。
+3.  **くるみ - for the Film - 幸福な食卓** \[5:27\]
       -
-        [松竹](../Page/松竹.md "wikilink")系映画『[幸福な食卓](../Page/幸福な食卓.md "wikilink")』主題歌。
-        25thシングル「[掌/くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」に収録されている「くるみ」を[2005年](../Page/2005年.md "wikilink")に披露されたライブバージョンを基に録り直した曲で、当初は「[箒星](../Page/箒星_\(曲\).md "wikilink")」のカップリング曲候補であった。
-        原曲よりキーが半音下げられており、最後は[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")せずに終了する。
-        『B-SIDE』のライナーノーツによると、桜井がオリジナルバージョンの歌い方を気に入らなかったため、録り直されたとのこと。
+        [松竹](../Page/松竹.md "wikilink")系映画『[幸福な食卓](../Page/幸福な食卓.md "wikilink")』主題歌\[11\]。
+        25thシングル「[掌/くるみ](https://ja.wikipedia.org/wiki/掌/くるみ "wikilink")」に収録されている「くるみ」を『[MR.CHILDREN DOME TOUR 2005 "I ♥ U"](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_♥_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink")』で披露されたバージョンを基に録り直している\[12\]。原曲よりキーが半音下げられており、最後は[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")せずに終了する。
+        当初は、前シングル「[箒星](../Page/箒星_\(曲\).md "wikilink")」のカップリング曲候補だった\[13\]。
+        桜井は「オリジナルの歌い方には何らかの自意識が感じられて……凄くポップな曲だからこそもうちょっとロック的なエッジを立てた歌い方とか、時代に合ったバランスの取り方を考えながら歌ってたんです。ミスチルを今の世の中にどういうふうに見せていくかって考えた結果なんですけど。でも、それが何かにエクスキューズしてるように感じられて、オリジナルは今の時代や映画に合わないなって思ったんです。だから、もうちょっとシンプルに歌いたかった」と語っている\[14\]。
         [FM802](../Page/FM802.md "wikilink")の特設ホームページで当曲を使った特別映像が公開されていた。
 
 ## テレビ出演
@@ -116,70 +113,35 @@
 
 ## カバー
 
-  - [上野優華](https://ja.wikipedia.org/wiki/上野優華 "wikilink")（2017年9月1日、配信シングル『しるし（カバー）』）※週間[USEN](../Page/USEN.md "wikilink") HIT J-POPランキング（2017年9月8日〜2017年9月14日　※2017年9月20日集計）で1位を獲得する\[4\]
+  - [上野優華](https://ja.wikipedia.org/wiki/上野優華 "wikilink")（2017年9月1日、配信シングル「しるし（カバー）」）※週間[USEN](../Page/USEN.md "wikilink") HIT J-POPランキング（2017年9月8日〜2017年9月14日　※2017年9月20日集計）で1位を獲得\[15\]。
 
 ## ライブ映像作品
 
 **しるし**
 
-<table>
-<thead>
-<tr class="header">
-<th><p>作品名</p></th>
-<th><p>備考</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="../Page/HOME_(Mr.Childrenのアルバム).md" title="wikilink">HOME</a></p></td>
-<td><p>初回限定版のDVDに収録</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/Mr.Children_&quot;HOME&quot;_TOUR_2007.md" title="wikilink">Mr.Children "HOME" TOUR 2007</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_&quot;HOME&quot;_TOUR_2007_-in_the_field-" title="wikilink">Mr.Children "HOME" TOUR 2007 -in the field-</a></p></td>
-<td><p>1番のサビ前まで弾き語りの映像が収録されている</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference" title="wikilink">Mr.Children / Split The Difference</a></p></td>
-<td><p><a href="../Page/ドキュメンタリー.md" title="wikilink">ドキュメンタリー</a><a href="../Page/映画.md" title="wikilink">映画</a>作品</p>
-<p>特典映像</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ap_bank_fes_&#39;10" title="wikilink">ap bank fes '10</a></p></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012" title="wikilink">MR.CHILDREN TOUR POPSAURUS 2012</a></p></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children、ヒカリノアトリエで虹の絵を描く" title="wikilink">Mr.Children、ヒカリノアトリエで虹の絵を描く</a></p></td>
-<td><p>ドキュメンタリー・ビデオ作品</p>
-<p>半音下げて演奏された</p>
-<p>大サビのみ収録されている</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸" title="wikilink">Mr.Children Tour 2018-19 重力と呼吸</a></p></td>
-<td></td>
-</tr>
-</tbody>
-</table>
+| 作品名                                                                                                                               | 備考                          |
+| --------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")                                                                           | 初回限定盤付属のDVDに収録。             |
+| [Mr.Children HOME TOUR 2007](../Page/Mr.Children_"HOME"_TOUR_2007.md "wikilink")                                                  |                             |
+| [Mr.Children HOME TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") | 1番のサビ前まで弾き語りの映像が収録されている。    |
+| [Mr.Children / Split The Difference](https://ja.wikipedia.org/wiki/Mr.Children_/_Split_The_Difference "wikilink")                 | 特典映像。                       |
+| [ap bank fes '10](https://ja.wikipedia.org/wiki/ap_bank_fes_'10 "wikilink")                                                       |                             |
+| [MR.CHILDREN TOUR POPSAURUS 2012](https://ja.wikipedia.org/wiki/MR.CHILDREN_TOUR_POPSAURUS_2012 "wikilink")                       |                             |
+| [Mr.Children、ヒカリノアトリエで虹の絵を描く](https://ja.wikipedia.org/wiki/Mr.Children、ヒカリノアトリエで虹の絵を描く "wikilink")                               | キーを半音下げて演奏された。大サビのみ収録されている。 |
+| [Mr.Children Tour 2018-19 重力と呼吸](https://ja.wikipedia.org/wiki/Mr.Children_Tour_2018-19_重力と呼吸 "wikilink")                         |                             |
 
 **ひびき**
 
-| 作品名                                                                                                                                 | 備考 |
-| ----------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [Mr.Children "HOME" TOUR 2007 -in the field-](https://ja.wikipedia.org/wiki/Mr.Children_"HOME"_TOUR_2007_-in_the_field- "wikilink") |    |
+| 作品名                                       | 備考 |
+| ----------------------------------------- | -- |
+| Mr.Children HOME TOUR 2007 -in the field- |    |
 
 ## 収録アルバム
 
   - 『[HOME](../Page/HOME_\(Mr.Childrenのアルバム\).md "wikilink")』 (\#1)
   - 『[Mr.Children 2005-2010 <macro>](https://ja.wikipedia.org/wiki/Mr.Children_2005-2010_＜macro＞ "wikilink")』 (\#1)
   - 『[Mr.Children 2003-2015 Thanksgiving 25](https://ja.wikipedia.org/wiki/Mr.Children_2003-2015_Thanksgiving_25 "wikilink")』 (\#1)
-  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2,\#3)
+  - 『[B-SIDE](../Page/B-SIDE.md "wikilink")』 (\#2, \#3)
 
 ## 脚注
 
@@ -191,7 +153,18 @@
   -
 [Category:Mr.Childrenの楽曲](https://ja.wikipedia.org/wiki/Category:Mr.Childrenの楽曲 "wikilink") [Category:2006年のシングル](https://ja.wikipedia.org/wiki/Category:2006年のシングル "wikilink") [Category:桜井和寿が制作した楽曲](https://ja.wikipedia.org/wiki/Category:桜井和寿が制作した楽曲 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:2006年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2006年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:2007年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2007年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:日本テレビ水曜ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:日本テレビ水曜ドラマの主題歌 "wikilink") [Category:ロック・バラード](https://ja.wikipedia.org/wiki/Category:ロック・バラード "wikilink") [Category:楽曲_し](https://ja.wikipedia.org/wiki/Category:楽曲_し "wikilink")
 
-1.  撮影の際はエキストラの老人や赤ん坊の登場するシーンも撮られたがカットされ、曲に込められたメッセージを感じてもらいたいという理由で桜井のみの出演に変更された。
-2.  映画「Mr.Children REFLECTION」 劇場公開パンフレット
-3.  TSUTAYA HOTPAPERより
-4.  [上野優華が歌う「しるし」カバーが週間USEN HIT J-POPランキングで配信スタートからわずか2週で第1位を獲得\!](https://ent.smt.docomo.ne.jp/article/469966)、エンタメウィーク、更新日:2017年9月25日。
+1.
+2.  『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』[ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")、2006年12月号、51頁
+3.
+4.
+5.
+6.  『[CDでーた](../Page/CD&DLでーた.md "wikilink")』[角川マガジンズ](../Page/角川マガジンズ.md "wikilink")、2007年4月号、23頁
+7.  『WHAT's IN?』ソニー・マガジンズ、2006年12月号、50頁
+8.  『[別冊カドカワ](https://ja.wikipedia.org/wiki/月刊カドカワ#別冊カドカワ "wikilink") Mr.Children』[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink")、2007年、164頁
+9.  『WHAT's IN?』ソニー・マガジンズ、2006年11月号、30頁
+10. 映画『[Mr.Children REFLECTION](https://ja.wikipedia.org/wiki/Mr.Children_REFLECTION "wikilink")』パンフレット、2015年、30頁
+11.
+12. 『[MUSICA](../Page/MUSICA.md "wikilink")』FACT、2007年6月号、39頁
+13. 『別冊カドカワ Mr.Children』KADOKAWA、2007年、161頁
+14.
+15. 。

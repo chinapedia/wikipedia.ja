@@ -58,6 +58,8 @@
   - トリニティ・ブラッド画集　Fabrica Theologiae(ファブリカ・テオロギア)（[角川書店](../Page/角川書店.md "wikilink")）
   - THORES柴本画集 IL TAPPETO ROSSO（イル・タッペート・ロッソ）（[角川書店](../Page/角川書店.md "wikilink")）
 
+## 脚注
+
 ## 関連項目
 
   - [トリニティ・ブラッド](../Page/トリニティ・ブラッド.md "wikilink")

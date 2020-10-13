@@ -415,7 +415,7 @@
 
 ## 外部リンク
 
-  - [AV男優しみけん](https://note.com/avshimiken) - [note](https://ja.wikipedia.org/wiki/note "wikilink")
+  - [AV男優しみけん](https://note.com/avshimiken) - [note](https://ja.wikipedia.org/wiki/note_\(配信サイト\) "wikilink")
 
   -
   - [【公式】しみけんチャンネル](https://www.youtube.com/channel/UCgjblCwQBAUc7F0YYhRCFVQ) - YouTubeチャンネル

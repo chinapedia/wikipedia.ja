@@ -5,7 +5,7 @@
 
 ## 概要
 
-1949年創設の「**山口県サッカー教員団**」を起源とし、[2006年](../Page/2006年.md "wikilink")にクラブチーム化して発足した。クラブ名称の「レノファ」は、「renovation（維新）」の頭文字「レノ」と「fight（戦う）」や「fine（元気）」の「ファ」を合わせて作られた造語である。「山口県民に愛され、山口県民へ感動・勇気・元気を与える山口県民による真の地元クラブを創造する」ことをチーム理念としている\[2\]。
+1949年創設の「**山口県サッカー教員団**」を起源とし、[2006年](../Page/2006年.md "wikilink")にクラブチーム化して発足した。クラブ名称の「レノファ」は、英語の「renovation（維新）」の頭文字「レノ」と「fight（戦う）」や「fine（元気）」の「ファ」を合わせて作られた造語である。「山口県民に愛され、山口県民へ感動・勇気・元気を与える山口県民による真の地元クラブを創造する」ことをチーム理念としている\[2\]。
 
 運営母体は2006年から2010年までは任意団体「**レノファ山口FC**」、2011年から2013年は「[特定非営利活動法人](../Page/特定非営利活動法人.md "wikilink")**山口アスレチッククラブ**」(YAC)、2014年以降は「[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")**レノファ山口**」である。なおトップチームの運営から離れたYACは[スポーツ振興くじ](../Page/スポーツ振興くじ.md "wikilink") (toto) を活用したサッカー教室を行っている\[3\]。
 
@@ -233,6 +233,8 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
     一方、[甲府からFW](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")[森晃太](https://ja.wikipedia.org/wiki/森晃太 "wikilink")、[栃木からMF](../Page/栃木SC.md "wikilink")[ヘニキ](https://ja.wikipedia.org/wiki/ヘニキ・ルイス・ジ・アンドラージ "wikilink")、[大宮からDF](https://ja.wikipedia.org/wiki/大宮アルディージャ "wikilink")[菊地光将](../Page/菊地光将.md "wikilink")、[ブラジル2部](https://ja.wikipedia.org/wiki/カンピオナート・ブラジレイロ・セリエB "wikilink")・[クリシューマからDF](https://ja.wikipedia.org/wiki/クリシューマEC "wikilink")[サンドロを完全移籍で](../Page/サンドロ・シルバ・デ・ソウザ.md "wikilink")、[G大阪からGK](../Page/ガンバ大阪.md "wikilink")[林瑞輝](https://ja.wikipedia.org/wiki/林瑞輝 "wikilink")、[松本](../Page/松本山雅FC.md "wikilink")（前年は[金沢に期限付き移籍](https://ja.wikipedia.org/wiki/ツエーゲン金沢 "wikilink")）からFW[小松蓮](https://ja.wikipedia.org/wiki/小松蓮 "wikilink")、[ポルトガル1部](https://ja.wikipedia.org/wiki/プリメイラ・リーガ "wikilink")・[ポルティモネンセからFW](https://ja.wikipedia.org/wiki/ポルティモネンセSC "wikilink")[イウリ](../Page/イウリ・リーリオ・フレイタス・デ・カスティーリョ.md "wikilink")、[柏](https://ja.wikipedia.org/wiki/柏レイソル "wikilink")（前年後半は[福岡に期限付き移籍](../Page/アビスパ福岡.md "wikilink")）からFW[村田和哉](https://ja.wikipedia.org/wiki/村田和哉_\(サッカー選手\) "wikilink")、[鳥栖からDF](https://ja.wikipedia.org/wiki/サガン鳥栖 "wikilink")[安在和樹](https://ja.wikipedia.org/wiki/安在和樹 "wikilink")を期限付き移籍で、柏からMF[田中陸](https://ja.wikipedia.org/wiki/田中陸 "wikilink")を育成型期限付き移籍でそれぞれ獲得したほか、[甲府を退団したDF](https://ja.wikipedia.org/wiki/ヴァンフォーレ甲府 "wikilink")[武岡優斗](https://ja.wikipedia.org/wiki/武岡優斗 "wikilink")、・を退団したMF[古賀俊太郎](../Page/古賀俊太郎.md "wikilink")が加入。育成型期限付き加入中のMF[川井歩](https://ja.wikipedia.org/wiki/川井歩 "wikilink")（[広島から](https://ja.wikipedia.org/wiki/サンフレッチェ広島F.C "wikilink")）、MF[高宇洋](https://ja.wikipedia.org/wiki/高宇洋 "wikilink")（G大阪から）の移籍期間を延長。DF[眞鍋旭輝](../Page/眞鍋旭輝.md "wikilink")（[桐蔭横浜大学](https://ja.wikipedia.org/wiki/桐蔭横浜大学サッカー部 "wikilink")）、FW[浮田健誠](https://ja.wikipedia.org/wiki/浮田健誠 "wikilink")（[順天堂大学](https://ja.wikipedia.org/wiki/順天堂大学蹴球部 "wikilink")）、DF[国本玲央](../Page/国本玲央.md "wikilink")（[暁星国際高校](../Page/暁星国際小学校・中学校・高等学校.md "wikilink")）が新加入し、U-18のDF[伊東稜晟](../Page/伊東稜晟.md "wikilink")がクラブ初のトップチーム昇格。
 
+    高いライン設定を保ち、敵陣でサッカーをするという攻撃的サッカーのコンセプトを引き続き志向するも、主力選手がほとんど入れ替わる中で最終ラインの対応が後手に回り、集中力を欠いた「軽い失点」が増加し、第2節から13試合連続複数失点を喫する（前半戦の総失点37はリーグワーストタイ）一方で攻撃面では決定力不足に陥り（前半戦の総得点22点はリーグ14位）、前半戦最後の千葉戦でシーズン初の連勝となり最下位を脱出するのがやっとだった\[52\]\[53\]。
+
 ## チーム成績・歴代監督
 
 ## タイトル
@@ -281,11 +283,11 @@ Jリーグ経験者をあまり補強せず、開幕節・[鳥取戦のスター
 
 ## スタジアム・練習場
 
-ホームスタジアムは[維新みらいふスタジアム](https://ja.wikipedia.org/wiki/維新百年記念公園陸上競技場 "wikilink")（[山口市](../Page/山口市.md "wikilink")）で\[52\]、[セービング陸上競技場](https://ja.wikipedia.org/wiki/下関市営下関陸上競技場 "wikilink")（[下関市](../Page/下関市.md "wikilink")）でもホームゲームを行う。2013年シーズンは[維新百年記念公園ラグビー・サッカー場](https://ja.wikipedia.org/wiki/維新百年記念公園#ラグビー・サッカー場 "wikilink")（収容人員3,850人）を、2012年までは [やまぐちサッカー交流広場](https://ja.wikipedia.org/wiki/やまぐちサッカー交流広場 "wikilink")（山口市[徳地](../Page/徳地町.md "wikilink")）や [山口県立おのだサッカー交流公園](https://ja.wikipedia.org/wiki/山口県立おのだサッカー交流公園 "wikilink")（[山陽小野田市](../Page/山陽小野田市.md "wikilink")）等も使用していた。
+ホームスタジアムは[維新みらいふスタジアム](https://ja.wikipedia.org/wiki/維新百年記念公園陸上競技場 "wikilink")（[山口市](../Page/山口市.md "wikilink")）で\[54\]、[セービング陸上競技場](https://ja.wikipedia.org/wiki/下関市営下関陸上競技場 "wikilink")（[下関市](../Page/下関市.md "wikilink")）でもホームゲームを行う。2013年シーズンは[維新百年記念公園ラグビー・サッカー場](https://ja.wikipedia.org/wiki/維新百年記念公園#ラグビー・サッカー場 "wikilink")（収容人員3,850人）を、2012年までは [やまぐちサッカー交流広場](https://ja.wikipedia.org/wiki/やまぐちサッカー交流広場 "wikilink")（山口市[徳地](../Page/徳地町.md "wikilink")）や [山口県立おのだサッカー交流公園](https://ja.wikipedia.org/wiki/山口県立おのだサッカー交流公園 "wikilink")（[山陽小野田市](../Page/山陽小野田市.md "wikilink")）等も使用していた。
 
-練習場は山口県立おのだサッカー交流公園\[53\]、[山口きらら博記念公園](https://ja.wikipedia.org/wiki/山口きらら博記念公園 "wikilink")（山口市[阿知須](../Page/阿知須町.md "wikilink")）\[54\] であり、下部組織はやまぐちサッカー交流広場や [アディダスフットサルパーク山口](http://www.adidas-futsalpark.jp/)（山口市下小鯖）も使用する。Jリーグ参入後は、天然芝グラウンドのあるおのだサッカー交流公園、山口きらら博記念公園、維新百年記念公園ラグビー・サッカー場、同補助競技場、[山口県セミナーパーク](../Page/山口県セミナーパーク.md "wikilink")（山口市）を使用する機会が増えている。
+練習場は山口県立おのだサッカー交流公園\[55\]、[山口きらら博記念公園](https://ja.wikipedia.org/wiki/山口きらら博記念公園 "wikilink")（山口市[阿知須](../Page/阿知須町.md "wikilink")）\[56\] であり、下部組織はやまぐちサッカー交流広場や [アディダスフットサルパーク山口](http://www.adidas-futsalpark.jp/)（山口市下小鯖）も使用する。Jリーグ参入後は、天然芝グラウンドのあるおのだサッカー交流公園、山口きらら博記念公園、維新百年記念公園ラグビー・サッカー場、同補助競技場、[山口県セミナーパーク](../Page/山口県セミナーパーク.md "wikilink")（山口市）を使用する機会が増えている。
 
-2016年シーズンまでは[J1ライセンスに必要となる](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")「優先利用できる天然芝の練習場」と「クラブハウス」を所持しておらず、ホームスタジアムの維新百年記念公園陸上競技場の収容可能人員も 14,850人とJ1ライセンスの規定値に届いていなかったが、レノファ山口FCでは常用練習場確保に向けて県や山陽小野田市と協議。これに対し、山陽小野田市は2015年10月8日に市内の赤崎運動広場を芝生化して天然芝コート2面を新設し、レノファが優先利用できる練習場に充てることが可能になったことを報告。クラブハウス機能については、同市が指定管理者の一員である山口県立おのだサッカー交流公園の交流施設（管理棟）を充てることを想定していた\[55\]\[56\] が、おのだサッカー交流公園の所有者である[山口県（スポーツ・文化局）が](../Page/山口県庁.md "wikilink")「一企業に対して県有施設を優先的に使用させることは出来ない」と同公園の活用に難色を示しているとの報道\[57\] もあって対応を再検討。2016年6月17日に[村岡嗣政](https://ja.wikipedia.org/wiki/村岡嗣政 "wikilink")山口県知事や[畑原基成](../Page/畑原基成.md "wikilink")山口県議会議長が河村孝社長と会談した際、村岡知事は山陽小野田市がおのだサッカー交流公園内に新たにクラブハウスを整備し、県が公園内の天然芝グラウンド1面をレノファが優先利用できるグラウンドとして提供すること、維新百年記念公園陸上競技場の客席数を増設すること（サイドスタンドの立ち見席増設により15,115人収容を確保）で、レノファのJ1ライセンス基準充足を支援することを表明した\[58\]。これらの施設整備にめどが立ったことから、2016年9月28日発表されたクラブライセンスの審査結果では、J1ライセンスを取得することとなった\[59\]。
+2016年シーズンまでは[J1ライセンスに必要となる](https://ja.wikipedia.org/wiki/Jリーグクラブライセンス制度 "wikilink")「優先利用できる天然芝の練習場」と「クラブハウス」を所持しておらず、ホームスタジアムの維新百年記念公園陸上競技場の収容可能人員も 14,850人とJ1ライセンスの規定値に届いていなかったが、レノファ山口FCでは常用練習場確保に向けて県や山陽小野田市と協議。これに対し、山陽小野田市は2015年10月8日に市内の赤崎運動広場を芝生化して天然芝コート2面を新設し、レノファが優先利用できる練習場に充てることが可能になったことを報告。クラブハウス機能については、同市が指定管理者の一員である山口県立おのだサッカー交流公園の交流施設（管理棟）を充てることを想定していた\[57\]\[58\] が、おのだサッカー交流公園の所有者である[山口県（スポーツ・文化局）が](../Page/山口県庁.md "wikilink")「一企業に対して県有施設を優先的に使用させることは出来ない」と同公園の活用に難色を示しているとの報道\[59\] もあって対応を再検討。2016年6月17日に[村岡嗣政](https://ja.wikipedia.org/wiki/村岡嗣政 "wikilink")山口県知事や[畑原基成](../Page/畑原基成.md "wikilink")山口県議会議長が河村孝社長と会談した際、村岡知事は山陽小野田市がおのだサッカー交流公園内に新たにクラブハウスを整備し、県が公園内の天然芝グラウンド1面をレノファが優先利用できるグラウンドとして提供すること、維新百年記念公園陸上競技場の客席数を増設すること（サイドスタンドの立ち見席増設により15,115人収容を確保）で、レノファのJ1ライセンス基準充足を支援することを表明した\[60\]。これらの施設整備にめどが立ったことから、2016年9月28日発表されたクラブライセンスの審査結果では、J1ライセンスを取得することとなった\[61\]。
 
 ## ユニフォーム
 
@@ -587,45 +589,45 @@ Humore<br />
 
 クラブ設立時には育成組織（アカデミー）を持っていなかったが、2014年に現GMの河村孝が設立した独立系のユース・ジュニアユースクラブである[レオーネ山口](https://ja.wikipedia.org/wiki/レオーネ山口 "wikilink")のU-18チームを移管して、レノファ山口FC U-18となった。[高円宮杯U-18サッカーリーグ山口県ユースリーグに所属](https://ja.wikipedia.org/wiki/高円宮杯_JFA_U-18サッカーリーグ "wikilink")。
 
-2015年にはレオーネ山口と本格的な提携を行い、同クラブが2015年4月1日以降「レノファ山口FCアカデミー」に名称変更して\[60\] レノファ山口FCの下部組織の一つとなった。レオーネ時代から引き続いてU-15（トップ / セカンド）、U-13、U-12（トップ / レオーネ）、プリマヴェーラ（小3-小5クラス）、バンビーノ（小学校低学年）の各チームを有する。サッカー以外には[テニス](../Page/テニス.md "wikilink")・[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の部門を有する。運営はNPO法人レノファ山口スポーツクラブ。
+2015年にはレオーネ山口と本格的な提携を行い、同クラブが2015年4月1日以降「レノファ山口FCアカデミー」に名称変更して\[62\] レノファ山口FCの下部組織の一つとなった。レオーネ時代から引き続いてU-15（トップ / セカンド）、U-13、U-12（トップ / レオーネ）、プリマヴェーラ（小3-小5クラス）、バンビーノ（小学校低学年）の各チームを有する。サッカー以外には[テニス](../Page/テニス.md "wikilink")・[フットサル](https://ja.wikipedia.org/wiki/フットサル "wikilink")の部門を有する。運営はNPO法人レノファ山口スポーツクラブ。
 
-2019年シーズンからU-18監督に[桐蔭学園高校元監督の](https://ja.wikipedia.org/wiki/桐蔭学園高等学校 "wikilink")[山本富士雄](https://ja.wikipedia.org/wiki/山本富士雄 "wikilink")が就任\[61\]。
+2019年シーズンからU-18監督に[桐蔭学園高校元監督の](https://ja.wikipedia.org/wiki/桐蔭学園高等学校 "wikilink")[山本富士雄](https://ja.wikipedia.org/wiki/山本富士雄 "wikilink")が就任\[63\]。
 
 ## レディース
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")に発足したレオーネ山口のレディースチームを前身とする。永らく[県リーグで活動しており](https://ja.wikipedia.org/wiki/山口県女子サッカーリーグ "wikilink")、2012年に[中国女子サッカーリーグ](https://ja.wikipedia.org/wiki/中国女子サッカーリーグ "wikilink")に昇格するも1年で降格。
 
-[2016年](../Page/2016年.md "wikilink")にレディースチームの運営をレノファ山口FCアカデミーからレノファ山口本体に移管し、「レノファ山口FCレディース」として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）への参戦を本格的に目指す方針を明らかにした\[62\]。運営移行後の2016年シーズンは県リーグで優勝、中国女子サッカーリーグチャレンジ戦にも勝利し中国リーグへの再昇格を果たした。
+[2016年](../Page/2016年.md "wikilink")にレディースチームの運営をレノファ山口FCアカデミーからレノファ山口本体に移管し、「レノファ山口FCレディース」として[日本女子サッカーリーグ](../Page/日本女子サッカーリーグ.md "wikilink")（なでしこリーグ）への参戦を本格的に目指す方針を明らかにした\[64\]。運営移行後の2016年シーズンは県リーグで優勝、中国女子サッカーリーグチャレンジ戦にも勝利し中国リーグへの再昇格を果たした。
 
-[2019年](../Page/2019年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、レディースチームは2019年度の中国女子サッカーリーグにて対戦を行わず、不戦敗とすると発表した（事実上の棄権）\[63\]。
+[2019年](../Page/2019年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")、レディースチームは2019年度の中国女子サッカーリーグにて対戦を行わず、不戦敗とすると発表した（事実上の棄権）\[65\]。
 
 ## メディア
 
   - テレビ
 
-:\* [みんなのレノファ](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび#みんなのレノファ "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")『[土曜の目覚めはどき生てれび](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび "wikilink")』内・毎週土曜 7:25頃 -\[64\]、および同局『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』内・毎週月曜 18:30頃 - ）
+:\* [みんなのレノファ](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび#みんなのレノファ "wikilink")（[山口朝日放送](../Page/山口朝日放送.md "wikilink")『[土曜の目覚めはどき生てれび](https://ja.wikipedia.org/wiki/土曜の目覚めはどき生てれび "wikilink")』内・毎週土曜 7:25頃 -\[66\]、および同局『[Jチャンやまぐち](https://ja.wikipedia.org/wiki/Jチャンやまぐち "wikilink")』内・毎週月曜 18:30頃 - ）
 
-:\* 週刊\! レノファTV（[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[65\]
+:\* 週刊\! レノファTV（[山口放送](../Page/山口放送.md "wikilink")『[KRYさわやかモーニング](../Page/KRYさわやかモーニング.md "wikilink")』内・毎週木曜 6:15頃 - 、および同局『[KRYニュースライブ](https://ja.wikipedia.org/wiki/KRYニュースライブ "wikilink")』内・毎週金曜 18:35頃 - ）\[67\]
 
-:\* レノファスクエア（[テレビ山口](../Page/テレビ山口.md "wikilink") 毎週土曜 2:12 - ） - 2016年春まで県内のケーブルテレビで放送。[スタジアムMCの](../Page/スタジアムDJ.md "wikilink")[吉永達哉](https://ja.wikipedia.org/wiki/吉永達哉 "wikilink")が出演と制作をすべて一人で行っている\[66\]。
+:\* レノファスクエア（[テレビ山口](../Page/テレビ山口.md "wikilink") 毎週土曜 2:12 - ） - 2016年春まで県内のケーブルテレビで放送。[スタジアムMCの](../Page/スタジアムDJ.md "wikilink")[吉永達哉](https://ja.wikipedia.org/wiki/吉永達哉 "wikilink")が出演と制作をすべて一人で行っている\[68\]。
 
-:\* レノスマ\!（テレビ山口『[ちぐスマ\!](https://ja.wikipedia.org/wiki/週末ちぐまや家族#ちぐスマ! "wikilink")』内・毎週金曜 16:15頃 - ）\[67\]
+:\* レノスマ\!（テレビ山口『[ちぐスマ\!](https://ja.wikipedia.org/wiki/週末ちぐまや家族#ちぐスマ! "wikilink")』内・毎週金曜 16:15頃 - ）\[69\]
 
   - ラジオ
 
 :\* GO\! GO\! RENOFA（[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")『[Happy Happy FRIDAY](https://ja.wikipedia.org/wiki/Happy_Happy_FRIDAY "wikilink")』内・17:45頃 - ）
 
-:\* ジャンプアップ・レノファ\!（山口放送『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』内・毎週水曜 14:40頃 - \[68\]、および同局『[ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink")』内・毎週金曜 9:05頃 - \[69\]）
+:\* ジャンプアップ・レノファ\!（山口放送『[お昼はZENKAI ラヂオな時間](../Page/お昼はZENKAI_ラヂオな時間.md "wikilink")』内・毎週水曜 14:40頃 - \[70\]、および同局『[ほっとゾーンおはようKRY](../Page/ほっとゾーンおはようKRY.md "wikilink")』内・毎週金曜 9:05頃 - \[71\]）
 
 :\* RIDE ON\! RENOFA（[COME ON\! FM](../Page/コミュニティエフエム下関.md "wikilink")『ゴジラヂ\! 木曜日』内・18:15頃 - ）
 
-:\* まるっとレノファ（[FMサンサンきらら](https://ja.wikipedia.org/wiki/FM山陽小野田 "wikilink") 毎週木曜 15:00 - ）\[70\]
+:\* まるっとレノファ（[FMサンサンきらら](https://ja.wikipedia.org/wiki/FM山陽小野田 "wikilink") 毎週木曜 15:00 - ）\[72\]
 
 ## テーマソング
 
-  - MIKKO「スタートライン～All For Team～」（クラブ公式テーマソング、2015年8月制定\[71\]
+  - MIKKO「スタートライン～All For Team～」（クラブ公式テーマソング、2015年8月制定\[73\]
 
-このほか、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")『Fight for a renovation』\[72\]、[水本諭](https://ja.wikipedia.org/wiki/水本諭 "wikilink")『Orange』、[Unlimited tone](https://ja.wikipedia.org/wiki/Unlimited_tone "wikilink")『RENOFA SOUL』（yab「みんなのレノファ」主題歌）などがクラブ公認の「応援ソング」として試合会場等で用いられている。
+このほか、[jealkb](https://ja.wikipedia.org/wiki/jealkb "wikilink")『Fight for a renovation』\[74\]、[水本諭](https://ja.wikipedia.org/wiki/水本諭 "wikilink")『Orange』、[Unlimited tone](https://ja.wikipedia.org/wiki/Unlimited_tone "wikilink")『RENOFA SOUL』（yab「みんなのレノファ」主題歌）などがクラブ公認の「応援ソング」として試合会場等で用いられている。
 
 ## 脚注
 
@@ -707,9 +709,9 @@ Humore<br />
 57.
 58.
 59.
-60. [レノファ山口FCアカデミーへの名称変更について](http://www.leone-yamaguchi.jp/news/clubnews.php?mod=news_top&act=detail&cate=&mon=&id=2146#_news) - レオーネ山口公式サイト2014年3月10日
+60.
 61.
-62.
+62. [レノファ山口FCアカデミーへの名称変更について](http://www.leone-yamaguchi.jp/news/clubnews.php?mod=news_top&act=detail&cate=&mon=&id=2146#_news) - レオーネ山口公式サイト2014年3月10日
 63.
 64.
 65.
@@ -720,3 +722,5 @@ Humore<br />
 70.
 71.
 72.
+73.
+74.

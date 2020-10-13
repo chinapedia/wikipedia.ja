@@ -35,12 +35,23 @@
 ## その他
 
   - [米国の選抜徴兵登録制度](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、(Selective Service System)の略。
+
   - [日産・ブルーバード](../Page/日産・ブルーバード.md "wikilink")のかつての[人気](https://ja.wikipedia.org/wiki/人気 "wikilink")グレードの1つ、[スーパースポーツセダン](https://ja.wikipedia.org/wiki/スポーツセダン "wikilink") (Super Sports Sedan) の略。「SSS」と書いて「スリーエス」と発音する。
+
   - [日産・シルフィ](../Page/日産・シルフィ.md "wikilink")、[日産・パルサー](../Page/日産・パルサー.md "wikilink")に設定されるグレード「SSS（スリーエス）」。グレード名は上述のブルーバードに由来。
+
   - [地方競馬](../Page/地方競馬.md "wikilink")で行われる「[地方競馬スーパースプリントシリーズ](https://ja.wikipedia.org/wiki/地方競馬スーパースプリントシリーズ "wikilink")」の略。
+
   - [鉄道](../Page/鉄道.md "wikilink")の[分岐器](https://ja.wikipedia.org/wiki/分岐器 "wikilink")である「[シングル・スリップ・スイッチ](https://ja.wikipedia.org/wiki/分岐器#種類 "wikilink")」（Single Slip Switch）の略。
+
   - [後期中等学校](https://ja.wikipedia.org/wiki/後期中等学校 "wikilink")(Senior Secondary School)の略。
+
   - [新数学人集団](https://ja.wikipedia.org/wiki/新数学人集団 "wikilink")(Shin Sugakujin Shudan)の略。
+
   - [相模原中等教育学校](https://ja.wikipedia.org/wiki/相模原中等教育学校 "wikilink")(Sagamihara Secondary School)の略。
+
   - [社台スタリオンステーション](../Page/社台スタリオンステーション.md "wikilink") (Shadai Stallion Station)の略。
+
   - かつて存在した[長谷川町子](../Page/長谷川町子.md "wikilink")ら長谷川三姉妹をモチーフにした[姉妹社](../Page/姉妹社.md "wikilink")のシンボルマーク。
+
+  - (Same-store sales)

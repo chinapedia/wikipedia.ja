@@ -1874,7 +1874,7 @@
 
   - [小野智吉](../Page/小野智吉.md "wikilink")：横浜FCコーチ
 
-  - [三浦淳宏](../Page/三浦淳寛.md "wikilink")：[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")スポーツダイレクター
+  - [三浦淳宏](../Page/三浦淳寛.md "wikilink")：[ヴィッセル神戸](../Page/ヴィッセル神戸.md "wikilink")監督
 
   - [根占真伍](../Page/根占真伍.md "wikilink")
 

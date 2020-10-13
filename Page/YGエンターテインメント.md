@@ -100,6 +100,7 @@ YG familyはYGエンタテインメントに所属しているアーティスト
   - [イム・イェジン](../Page/イム・イェジン.md "wikilink") （임예진）
   - [カル・ソウォン](https://ja.wikipedia.org/wiki/カル・ソウォン "wikilink") （갈소원）
   - [イ・ソンギョン](https://ja.wikipedia.org/wiki/イ・ソンギョン "wikilink") （이성경）
+  - [チョン・ユンソク](https://ja.wikipedia.org/wiki/チョン・ユンソク "wikilink")（정윤석）
 
 ### YG専属プロデューサー
 

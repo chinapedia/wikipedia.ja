@@ -30,22 +30,27 @@
   - [新井](../Page/荒井注.md "wikilink") 透吾（あらい とうご）
     [声](../Page/声優.md "wikilink")：[緑川光](../Page/緑川光.md "wikilink")
     [ベース](../Page/エレクトリックベース.md "wikilink")
+    誕生日 11月27日 / 身長 179cm / 体重 63kg / 血液型 AB型
     遅刻、欠席、早退、門限破り、[不純異性交遊](https://ja.wikipedia.org/wiki/不純異性交遊 "wikilink")の常習犯で、前髪のメッシュにピアスという外見から周囲からは「不良」と呼ばれている問題児だが、成績は優秀で、何だかんだ言いつつも困っている人を放っておけない性格や華やかな雰囲気でその人望は厚い。料理が得意。
   - [加藤](../Page/加藤茶.md "wikilink") 勇祐（かとう ゆうすけ）
     声：[石川英郎](../Page/石川英郎.md "wikilink")
     [ドラムス](https://ja.wikipedia.org/wiki/ドラムス "wikilink")
+    誕生日 8月1日 / 身長 186cm / 体重 77kg / 血液型 O型
     五感が野生動物並みのスポーツ万能少年。視力は右4.5左4.5。頭を使う事が苦手で、考えるよりまず行動するタイプ。バスケットに意欲を注いでおり、バスケ部では部長も務める。何も考えていなさそうで、実は周囲に気を使っている一面もある。
   - [志村](../Page/志村けん.md "wikilink") 未希麿（しむら みきまろ）
     声：[阪口大助](../Page/阪口大助.md "wikilink")
     [キーボード](../Page/キーボード_\(楽器\).md "wikilink")
+    誕生日 10月12日 / 身長 166cm / 体重 52kg / 血液型 O型
     高校生に見えない幼い外見がコンプレックスで、カッコイイ新井に憧れている。勉強も運動も苦手だが、明るく朗らかな性格から誰からも好かれ、校内きっての情報通としても知られる。手先が器用でゲームが得意。
   - [高城](../Page/高木ブー.md "wikilink") 紫門（たかぎ しもん）
     声：[置鮎龍太郎](../Page/置鮎龍太郎.md "wikilink")
     [リードギター](../Page/リードギター.md "wikilink")
+    誕生日 2月5日 / 身長 181cm / 体重 64kg / 血液型 A型
     イギリス人と日本人の[ハーフ](../Page/混血.md "wikilink")。ナルシストで気難しい性格だが、モデルをこなすほどの美しい容貌で優雅な立ち居振る舞いから、女性だけでなく男性からの人気も高い。通常は2人1部屋の学生寮を、転校生だった為1人で使用している。不潔アレルギー。
   - [中本](../Page/仲本工事.md "wikilink") 翔（なかもと しょう）
     声：[林延年](../Page/神奈延年.md "wikilink")
     [サイドギター](https://ja.wikipedia.org/wiki/サイドギター "wikilink")
+    誕生日 7月9日 / 身長 172cm / 体重 52kg / 血液型 B型\[1\]
     頭脳明晰、品行方正で誠龍高校始まって以来の秀才と言われている優等生。人と接する事が苦手で、周囲からは冷たい人間と見られがちだが、ネコ好きの優しい性格。厳格な医者の家庭の一人息子で父親の後を継ぐ事を望まれているが、本人は獣医師になりたいと思っている。
   - 草薙 瑞穂（くさなぎ みずほ）
     声：[草尾毅](../Page/草尾毅.md "wikilink")
@@ -244,3 +249,5 @@
   - [公式サイト](http://www.wonderfarm.co.jp/mfc/)
 
 [Category:ワンダーファーム](https://ja.wikipedia.org/wiki/Category:ワンダーファーム "wikilink") [Category:漫画作品_そ](https://ja.wikipedia.org/wiki/Category:漫画作品_そ "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:1995年の漫画](https://ja.wikipedia.org/wiki/Category:1995年の漫画 "wikilink") [Category:別冊少女コミック](https://ja.wikipedia.org/wiki/Category:別冊少女コミック "wikilink") [Category:1998年の漫画](https://ja.wikipedia.org/wiki/Category:1998年の漫画 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:高等学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした漫画作品 "wikilink") [Category:日本の小説](https://ja.wikipedia.org/wiki/Category:日本の小説 "wikilink") [Category:乙女ゲーム](https://ja.wikipedia.org/wiki/Category:乙女ゲーム "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:高等学校を舞台とした小説](https://ja.wikipedia.org/wiki/Category:高等学校を舞台とした小説 "wikilink") [Category:高等学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたアニメ作品 "wikilink") [Category:高等学校を舞台としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:高等学校を舞台としたコンピュータゲーム "wikilink")
+
+1.

@@ -90,7 +90,7 @@
 <tr class="even">
 <td><p><a href="../Page/フェザー級.md" title="wikilink">フェザー級</a></p></td>
 <td><p>65.8kg以下</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/弥益ドミネーター聡志" title="wikilink">弥益ドミネーター聡志</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/牛久絢太郎" title="wikilink">牛久絢太郎</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/バンタム級.md" title="wikilink">バンタム級</a></p></td>

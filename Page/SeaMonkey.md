@@ -174,6 +174,7 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
   - 2020年2月28日 - **SeaMonkey 2.53.1**リリース。Firefox ESR 60.3及びThunderbird 60.3相当の機能修正が行われたほか、[TLS 1.3が既定で有効となるなどSeaMonkey固有の修正も行われた](https://ja.wikipedia.org/wiki/TLS_1.3 "wikilink")\[13\]。
   - 2020年5月3日 - **SeaMonkey 2.53.2**リリース\[14\]。
   - 2020年7月7日 - **SeaMonkey 2.53.3**リリース\[15\]。
+  - 2020年9月22日 - **SeaMonkey 2.53.4**リリース\[16\]。
 
 ## 脚注
 
@@ -223,3 +224,4 @@ SeaMonkey ProjectではソフトウェアにFirefoxやThunderbirdの持つ機能
 13.
 14.
 15.
+16.

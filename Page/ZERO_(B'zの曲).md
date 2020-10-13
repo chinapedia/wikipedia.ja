@@ -11,7 +11,7 @@ B'zのシングルは4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink"
 
 裏ジャケットでは薔薇と蝶をあしらったロゴが登場した。「B'z」部分は表ジャケットのロゴと共通である。このロゴは6thアルバム『[RUN](../Page/RUN_\(アルバム\).md "wikilink")』の裏ジャケットの他、『[B'z LIVE-GYM Pleasure '92 "TIME"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』及び、『[B'z LIVE-GYM '93 "RUN"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』のステージやメンバーの衣装にも使用された。
 
-発売当時はノンタイアップかつ先行シングルにも関わらず2週連続で1位を獲得し、131万枚のミリオンセラーとなった\[2\]\[3\]。ノンタイアップで初動売上61.5万枚は当時の歴代1位であった（オリコン調べ）。
+発売当時はノンタイアップかつ先行シングルにも関わらず2週連続で1位を獲得し、131万枚のミリオンセラーとなった\[2\]\[3\]。また、ノンタイアップで初動売上61.5万枚は当時の歴代1位であった（オリコン調べ）。
 
 2003年3月26日にリマスタリング、12cm化で再発売された。
 
@@ -25,7 +25,7 @@ B'zのシングルは4thシングル『[BE THERE](../Page/BE_THERE.md "wikilink"
         また、スタッフからは(曲がハードな為)タイアップを付けようと提案されていたが、松本が「勝負したい」というこだわりからシングル表題曲では「[LADY-GO-ROUND](../Page/LADY-GO-ROUND.md "wikilink")」以来のノンタイアップとなり、本作が1位を獲得した際には、「今までで一番嬉しかった」と稲葉と共に述べている\[7\]。
         間奏にはB'zでは珍しくラップが取り入れられている。
         『B'z LIVE-GYM Pleasure '92 "TIME"』で未発表曲として先行演奏されており、[PVも同ツアーの映像で稲葉の口の動きや松本の手の動きなどが曲と連動するように編集されている](../Page/ミュージック・ビデオ.md "wikilink")\[8\]。
-        B'zの[ライブでの演奏回数も多く](../Page/演奏会.md "wikilink")、2003年頃まではほぼ毎回演奏されていた。2015年に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』では、2人の演奏によるスローな[ブルース](../Page/ブルース.md "wikilink")アレンジが披露された。
+        B'zの[ライブでの演奏回数も多く](../Page/LIVE-GYM.md "wikilink")、2003年頃まではほぼ毎回演奏されていた。2015年に行われたツアー『[B'z LIVE-GYM 2015 -EPIC NIGHT-](https://ja.wikipedia.org/wiki/B'z_LIVE-GYM_2015_-EPIC_NIGHT- "wikilink")』では、2人の演奏によるスローな[ブルース](../Page/ブルース.md "wikilink")アレンジが披露された。
 2.  **恋心(KOI-GOKORO)** (3:47)
       -
         表題曲とは異なり非常にポップな曲。

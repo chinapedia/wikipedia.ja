@@ -1,7 +1,7 @@
 > この記事は[Hearts of Iron](https://ja.wikipedia.org/wiki/Hearts_of_Iron)から翻訳されています。
 
 
-**Hearts of Iron**（ハーツ・オブ・アイアン、略称:HoI）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のゲーム会社[パラドックスインタラクティブ](../Page/パラドックスインタラクティブ.md "wikilink")が発売している[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")をテーマとする[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")、[戦略](../Page/戦略.md "wikilink")級[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")のシリーズ。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版および[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、[Linux](../Page/Linux.md "wikilink")版（IVのみ）が存在する。
+**Hearts of Iron**（ハーツ・オブ・アイアン、略称:HoI、[中](../Page/中国語.md "wikilink")：鋼鐵雄心）は、[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")のゲーム会社[パラドックスインタラクティブ](../Page/パラドックスインタラクティブ.md "wikilink")が発売している[第二次世界大戦](https://ja.wikipedia.org/wiki/第二次世界大戦 "wikilink")をテーマとする[歴史シミュレーションゲーム](../Page/歴史シミュレーションゲーム.md "wikilink")、[戦略](../Page/戦略.md "wikilink")級[ウォー・シミュレーションゲーム](../Page/ウォー・シミュレーションゲーム.md "wikilink")のシリーズ。[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")版および[macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")版、[Linux](../Page/Linux.md "wikilink")版（IVのみ）が存在する。
 
 プレイヤーは、第二次世界大戦当時存在していた国（独立勢力）の中から一つを選び、[枢軸](../Page/枢軸国.md "wikilink")・[連合](../Page/連合国_\(第二次世界大戦\).md "wikilink")・[共産の](../Page/社会主義国.md "wikilink")3つの陣営のいずれかに加わるか、自ら新陣営を立ち上げるか、中立を保ちながらのいずれの方法で大戦に生き残っていく事を目的とする。
 

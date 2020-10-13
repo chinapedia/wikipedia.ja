@@ -106,7 +106,7 @@
   - [瘋癲公式HP](http://www.fu-ten.fm/)
   - [瘋癲公式ブログ](http://futenmbs.blog52.fc2.com/)
   - [MONDO GROSSO公式HP](https://www.sonymusic.co.jp/Music/Info/MondoGrosso/)
-  - [B-Bandj 公式Myspaceサイト](http://www.myspace.com/bbandjstr8mc)
+  - [B-Bandj 公式Myspaceサイト](https://myspace.com/bbandjstr8mc)
   - [ABSTRACTION DUBSTRACTION](http://ad.stillkid.net/)
 
 [Category:フランスの歌手](https://ja.wikipedia.org/wiki/Category:フランスの歌手 "wikilink") [Category:フランスのミュージシャン](https://ja.wikipedia.org/wiki/Category:フランスのミュージシャン "wikilink") [Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:カメルーン系フランス人](https://ja.wikipedia.org/wiki/Category:カメルーン系フランス人 "wikilink") [Category:在日フランス人](https://ja.wikipedia.org/wiki/Category:在日フランス人 "wikilink")

@@ -495,8 +495,8 @@ DREAM.18 & GLORY 4終了時。
 43. <http://www.dreamofficial.com/free/news/detail.php?id=1326868595>
 44. 聞き手・堀江ガンツ「苦悩する格闘技界の"[カルロス・ゴーン](../Page/カルロス・ゴーン.md "wikilink")" 佐藤大輔」『kamipro Special 2008 LATE SPRING』エンターブレイン、pp.28-29
 45. [Exclusive: Cesar Gracie Comments On Noons, Whats Next For Diaz](http://www.mmanews.com/news/81060) MMANEWS 2008年8月25日\]
-46. [DREAM again slow to pay fighters, rep says money on the way by John Morgan](http://archive.is/20130427035939/mmajunkie.com/news/13301/dream-again-slow-to-pay-rep-says-money-on-the-way.mma) MMAJUNKIE.COM 2008年11月21日
-47. [Reports of DREAM's fighter payment woes continue to surface by John Morgan](http://archive.is/20120711182758/mmajunkie.com/news/13326/reports-of-dreams-fighter-payment-woes-continue-to-surface.mma) MMAJUNKIES.COM 2008年11月24日
+46. [DREAM again slow to pay fighters, rep says money on the way by John Morgan](https://archive.is/20130427035939/mmajunkie.com/news/13301/dream-again-slow-to-pay-rep-says-money-on-the-way.mma) MMAJUNKIE.COM 2008年11月21日
+47. [Reports of DREAM's fighter payment woes continue to surface by John Morgan](https://archive.is/20120711182758/mmajunkie.com/news/13326/reports-of-dreams-fighter-payment-woes-continue-to-surface.mma) MMAJUNKIES.COM 2008年11月24日
 48. [Ronaldo Jacare By Eduardo Ferreira](http://www.tatame.com/2009/09/26/Ronaldo-Jacare) TATAME 2009年9月26日
 49. [Dream hasn’t paid Bibiano after 5 months By Guilherme Cruz](http://www.tatame.com/2010/08/16/Dream-hasnt-paid-Bibiano-after-5-months) TATAME 2010年8月16日
 50. [Ralek Gracie Says Dream Still Hasn't Paid Him For Fight in May By Ben Fowlkes](http://www.mmafighting.com/2010/10/04/ralek-gracie-says-dream-still-hasnt-paid-him-for-fight-in-may/) MMAFIGHTING.COM 2010年10月4日
@@ -505,7 +505,7 @@ DREAM.18 & GLORY 4終了時。
 53. [JOSH THOMSON SHOOTING FOR OCT. 9 RETURN by Damon Martin](http://web.archive.org/20101010005854/www.mmaweekly.com/absolutenm/templates/dailynews.asp?articleid=12505&zoneid=13) MMAWeekly 2010年9月4日
 54. [Interview Bibiano Fernandes By Guilherme Cruz](http://www.tatame.com/2010/09/09/Bibiano-Fernandes) TATAME 2010年9月9日
 55. [【DREAM】9・25 SRC王者サンドロ参戦はなし、ファイトマネー未払い問題についても回答](http://gbring.com/sokuho/news/2010_09/0905_dream_05.htm) 格闘技ウェブマガジンGBR 2010年9月5日
-56. [Strikeforce's "JZ" Cavalcante unsure about future, concerned about MMA judging by Steven Marrocco](http://archive.is/20120711172129/mmajunkie.com/news/20973/strikeforces-jz-cavalcante-unsure-about-future-concerned-about-mma-judging.mma) MMAJUNKIE.COM 2010年10月11日
+56. [Strikeforce's "JZ" Cavalcante unsure about future, concerned about MMA judging by Steven Marrocco](https://archive.is/20120711172129/mmajunkie.com/news/20973/strikeforces-jz-cavalcante-unsure-about-future-concerned-about-mma-judging.mma) MMAJUNKIE.COM 2010年10月11日
 57. [報酬未払いでバンナ激怒／Ｋ－１](http://www.sanspo.com/fight/news/110708/fgc1107080501000-n1.htm) サンケイスポーツ 2011年7月8日
 58. ["わかりやすく、世界基準に則した形"DREAMオフィシャルルールを発表](http://www.dreamofficial.com/news/detail.php?id=1205211062) DREAM公式サイト 2008年3月11日
 59. [一年に一度のケージイベント\! 六角形ケージのイメージ図も公開\!\! 10・25『DREAM.12』に菊野、弘中、アルバレスが参戦決定\!\!](http://www.dreamofficial.com/free/news/detail.php?id=1254205104) DREAM公式サイト 2009年9月29日

@@ -58,7 +58,7 @@
 ## カバー
 
   - [Eric Martin](../Page/エリック・マーティン.md "wikilink") - 2008年発売のアルバム『Mr. Vocalist』に収録。
-  - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") - 2010年9月29日発売のアルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(アルバム\) "wikilink")』に収録。
+  - [JUJU](https://ja.wikipedia.org/wiki/JUJU "wikilink") - 2010年9月29日発売のアルバム『[Request](https://ja.wikipedia.org/wiki/Request_\(JUJUのアルバム\) "wikilink")』に収録。
   - [URATA NAOYA](../Page/浦田直也.md "wikilink")（[AAAのメンバー](../Page/AAA_\(音楽グループ\).md "wikilink")） - 2013年12月4日発売のアルバム『[UNCHANGED](https://ja.wikipedia.org/wiki/UNCHANGED "wikilink")』に収録。
   - [城南海](https://ja.wikipedia.org/wiki/城南海 "wikilink") - 2015年1月21日発売のカバーアルバム『サクラナガシ』に収録。編曲：[ただすけ](../Page/ただすけ.md "wikilink")。
   - [南條愛乃](../Page/南條愛乃.md "wikilink") - 2016年7月13日発売の2ndアルバム『Nのハコ』でカバー。

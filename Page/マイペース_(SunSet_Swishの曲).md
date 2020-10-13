@@ -28,6 +28,25 @@
         作詞:冨田勇樹　作曲:石田順三　編曲:坂本昌之・SunSet Swish
 3.  マイペース（オリジナル・カラオケ）
 
+## 演奏
+
+**マイペース**
+
+  - SunSet Swish：Backing Vocal
+  - 佐伯大介：Vocal
+  - 石田潤三：Additional Piano
+  - 冨田勇樹、古川望：Guitars
+  - 坂本昌之：Piano, Keyboards, Programming
+  - 青山純：Drums
+  - 松原秀樹：Bass
+
+**砂のオブジェ**
+
+  - 佐伯大介：Vocal
+  - 蔦谷好位置：Programming
+  - 冨田勇樹、山本英武：Guitars
+  - 種子田健：Bass
+
 ## 収録アルバム
 
   - オリジナル

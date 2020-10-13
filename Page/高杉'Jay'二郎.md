@@ -95,7 +95,7 @@
   - [はねるのトびら](../Page/はねるのトびら.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")/[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）スペシャル企画[北陽](../Page/北陽.md "wikilink")[虻川美穂子](../Page/虻川美穂子.md "wikilink")の[ガチンコ](../Page/ガチンコ.md "wikilink")ボクシング対決、世界第5位の[女子ボクシング](../Page/女子ボクシング.md "wikilink")選手[ステファニー・ダブス](https://ja.wikipedia.org/wiki/ステファニー・ダブス "wikilink")の[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")。
   - [つながりファンタジー いつも\!ガリゲル](https://ja.wikipedia.org/wiki/つながりファンタジー_いつも!ガリゲル "wikilink")（[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")）ナレーション
   - [ウッティタウン6丁目](https://ja.wikipedia.org/wiki/ウッティタウン6丁目 "wikilink")（2016年1月 - 2020年3月、[テレビ山梨](../Page/テレビ山梨.md "wikilink")）
-  - [みなみおばちゃんの6丁目ガッチリ金曜日](https://ja.wikipedia.org/wiki/ウッティタウン6丁目#関連番組 "wikilink")（2018年10月 -、テレビ山梨）
+  - [みなみおばちゃんのガッチリ金曜日](https://ja.wikipedia.org/wiki/ウッティタウン6丁目#関連番組 "wikilink")（2018年10月 -、テレビ山梨）
   - [スゴろく](../Page/スゴろく.md "wikilink")（2020年4月 - [テレビ山梨](../Page/テレビ山梨.md "wikilink")）コメンテーター
 
 ### 実況

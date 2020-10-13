@@ -2237,10 +2237,12 @@ feat. ザ紅白スペシャルブラスバンド</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦" title="wikilink">第70回</a></p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MISIA" title="wikilink">MISIA</a>（4） [初]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アイノカタチ_feat.HIDE(GReeeeN)" title="wikilink">アイノカタチメドレー</a>[159]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アイノカタチ_(曲)" title="wikilink">アイノカタチメドレー</a>[159]</p></td>
 </tr>
 </tbody>
 </table>
+
+## 主な記録
 
 ## 備考
 

@@ -24,7 +24,7 @@
 1.  Prologue. **Friends** (1:48)
       -
         [インストゥルメンタル](../Page/器楽曲.md "wikilink")。
-        [ストリングスによる](../Page/弦楽器.md "wikilink")[演奏](../Page/演奏.md "wikilink")。
+        [ストリングスによる演奏](../Page/弦楽器.md "wikilink")。
 2.  SCENE1. **[いつかのメリークリスマス](../Page/いつかのメリークリスマス.md "wikilink")** (5:36)　
       -
         [クリスマス](../Page/クリスマス.md "wikilink")ソング。本作が初出。
@@ -41,7 +41,7 @@
       -
         一転して激しいギターによるイントロから始まる。
         ファンの人気が高く、ベスト・アルバム『[B'z The Best "ULTRA Treasure"](https://ja.wikipedia.org/wiki/B'z_The_Best_"ULTRA_Treasure" "wikilink")』のファン投票で10位にランクインして収録された\[6\]。
-        2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで3位、2017年に行われた同会報の「LIVE-GYMで聴きたいB'zナンバー」のアンケートでも3位に選ばれたが、『[B'z LIVE-GYM'93 "RUN"](https://ja.wikipedia.org/wiki/LIVE-GYM_#1989年-1993年 "wikilink")』以降は演奏されていない。
+        2014年にファンクラブ会報で行われた「まだ自身は聴いたことがないけれど、いつか[LIVE-GYM](../Page/LIVE-GYM.md "wikilink")で聴きたいと夢見ている曲」のアンケートで3位、2017年に行われた同会報の「LIVE-GYMで聴きたいB'zナンバー」のアンケートでも3位に選ばれたが、『B'z LIVE-GYM '93 "RUN"』以降は演奏されていない。
 6.  SCENE4. **SEASONS** (1:14)
       -
         インストゥルメンタル。
@@ -56,15 +56,15 @@
 ## 参加ミュージシャン
 
   - [松本孝弘](../Page/松本孝弘.md "wikilink"):[ギター](../Page/ギター.md "wikilink")、全曲[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")
-  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink") (\#2、3、5、7)
-  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、編曲 (\#4、6、8除く)
+  - [稲葉浩志](https://ja.wikipedia.org/wiki/稲葉浩志 "wikilink"):[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink") (\#2.3.5.7)
+  - [明石昌夫](../Page/明石昌夫.md "wikilink"):[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[マニピュレーター](../Page/マニピュレーター.md "wikilink")、編曲 (\#4.6.8除く)
   - [田中一光](https://ja.wikipedia.org/wiki/田中一光_\(ドラマー\) "wikilink"):[ドラム](../Page/ドラムセット.md "wikilink")
-  - [小野塚晃](../Page/小野塚晃.md "wikilink") ([DIMENSION](../Page/DIMENSION.md "wikilink")):[キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#3、4、7、8)
+  - [小野塚晃](../Page/小野塚晃.md "wikilink") ([DIMENSION](../Page/DIMENSION.md "wikilink")):[キーボード](../Page/キーボード_\(楽器\).md "wikilink") (\#3.4.7.8)
   - 澤野博敬:[トランペット](../Page/トランペット.md "wikilink") (\#7)
   - [野村裕幸](../Page/野村裕幸.md "wikilink"):[トロンボーン](../Page/トロンボーン.md "wikilink") (\#7)
   - 日色Strings:[ストリングス](../Page/弦楽器.md "wikilink") (\#1)
-  - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink"):[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#3、7)
-  - 古川真一:コーラス (\#2、5)
+  - [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink"):[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink") (\#3.7)
+  - 古川真一:コーラス (\#2.5)
 
 ## 脚注
 
@@ -88,4 +88,4 @@
 4.
 5.
 6.
-7.  歌は入っていないが、曲と[コーラスは原曲からそのままインストゥルメンタルへ流用している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、歌っている部分は歌の代わりにギター音が入っている
+7.  歌は入っていないが、曲と[コーラスは原曲からそのままインストゥルメンタルへ流用している](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。また、歌っている部分は歌の代わりにギター音が入っている。

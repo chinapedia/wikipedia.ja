@@ -13,7 +13,7 @@
 
 ## 現在の連載中の作品
 
-※ 2020年7月27日（2020年9月号）現在。作品名五十音順。
+※ 2020年9月26日（2020年11月号）現在。作品名五十音順。
 
   - [アンサー](https://ja.wikipedia.org/wiki/アンサー_\(漫画\) "wikilink")（[Maria](../Page/Maria_\(漫画家\).md "wikilink")）：2020年9月号 -
   - [おそ松さん](https://ja.wikipedia.org/wiki/おそ松さん "wikilink")（原作：[赤塚不二夫](../Page/赤塚不二夫.md "wikilink")、漫画：[シタラマサコ](https://ja.wikipedia.org/wiki/シタラマサコ "wikilink")）：2019年1月号 -
@@ -22,6 +22,7 @@
   - [孤食ロボット](https://ja.wikipedia.org/wiki/孤食ロボット "wikilink")（[岩岡ヒサエ](../Page/岩岡ヒサエ.md "wikilink")）※『[ジャンプ改](https://ja.wikipedia.org/wiki/ジャンプ改 "wikilink")』（集英社）より移籍：2015年1月号 -
   - [これは経費で落ちません！〜経理部の森若さん〜](https://ja.wikipedia.org/wiki/これは経費で落ちません！〜経理部の森若さん〜 "wikilink")（原作：[青木祐子](../Page/青木祐子.md "wikilink")、漫画：[森こさち](https://ja.wikipedia.org/wiki/森こさち "wikilink")）：2018年1月号 -
   - [好いも甘いも](https://ja.wikipedia.org/wiki/好いも甘いも "wikilink")（[小藤まつ](https://ja.wikipedia.org/wiki/小藤まつ "wikilink")）：2019年7月号 -
+  - [200m先の熱](https://ja.wikipedia.org/wiki/200m先の熱 "wikilink")（[桃森ミヨシ](../Page/桃森ミヨシ.md "wikilink")）：2020年11月号 -
   - [ハイヒールをはいた猫 ルブたん](https://ja.wikipedia.org/wiki/ハイヒールをはいた猫_ルブたん "wikilink")（[鳥海りさこ](https://ja.wikipedia.org/wiki/鳥海りさこ "wikilink")）：2016年7月号 -
   - [ハコイリのムスメ](https://ja.wikipedia.org/wiki/ハコイリのムスメ "wikilink")（[池谷理香子](https://ja.wikipedia.org/wiki/池谷理香子 "wikilink")）：2015年5月号 -
   - [初めて恋をした日に読む話](https://ja.wikipedia.org/wiki/初めて恋をした日に読む話 "wikilink")（[持田あき](../Page/持田あき.md "wikilink")）：2016年7月号 -
@@ -34,7 +35,6 @@
   - [まんだん！](https://ja.wikipedia.org/wiki/まんだん！ "wikilink")（[櫻井リヤ](https://ja.wikipedia.org/wiki/櫻井リヤ "wikilink")）：2017年9月号 -
   - [三日月と流れ星](https://ja.wikipedia.org/wiki/三日月と流れ星 "wikilink")（[椎名あゆみ](../Page/椎名あゆみ.md "wikilink")）※2014年9月号読切を経て連載：2015年1月号 -
   - [林檎と蜂蜜walk](../Page/林檎と蜂蜜_\(漫画\).md "wikilink")（[宮川匡代](../Page/宮川匡代.md "wikilink")）：2009年6月号 -
-  - [レポまんが なんかおもしろいことして](https://ja.wikipedia.org/wiki/レポまんが_なんかおもしろいことして "wikilink")（櫻井リヤ）：2019年7月号 -
   - [ローズ ローズィ ローズフル バッド](https://ja.wikipedia.org/wiki/ローズ_ローズィ_ローズフル_バッド "wikilink")（[いくえみ綾](../Page/いくえみ綾.md "wikilink")）：2020年7月号 -
 
 ### 不定期連載
@@ -197,6 +197,7 @@
   - [LIPS](https://ja.wikipedia.org/wiki/LIPS_\(漫画\) "wikilink")（[よねやませつこ](https://ja.wikipedia.org/wiki/よねやませつこ "wikilink")、応援：[阿澄佳奈](https://ja.wikipedia.org/wiki/阿澄佳奈 "wikilink")、シナリオ：[神楽坂淳](https://ja.wikipedia.org/wiki/神楽坂淳 "wikilink")）：2011年3月号 - 11月号
   - [リネンとガーゼ](https://ja.wikipedia.org/wiki/リネンとガーゼ "wikilink")（あいざわ遥）：2007年9月号 - 2012年3月号
   - 林檎の木を植える（志村志保子）：2012年11月号 - 2013年9月号
+  - [レポまんが なんかおもしろいことして](https://ja.wikipedia.org/wiki/レポまんが_なんかおもしろいことして "wikilink")（櫻井リヤ）：2019年7月号 - 2020年5月号
   - [路地裏しっぽ診療所](https://ja.wikipedia.org/wiki/路地裏しっぽ診療所 "wikilink")（斉藤倫）：2013年11月号 - 2018年9月号
 
 ## 姉妹誌他

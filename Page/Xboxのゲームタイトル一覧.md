@@ -63,7 +63,7 @@
 | 9月26日  | [MAXIMUM CHASE](https://ja.wikipedia.org/wiki/MAXIMUM_CHASE "wikilink")                                             | マイクロソフト                                                            | ★  |
 | 10月3日  | WWE RAW                                                                                                             | [角川書店](../Page/角川書店.md "wikilink")                                 | ★  |
 | 10月3日  | [エッグマニア つかんで\!まわして\!どっすんぱず〜る\!](https://ja.wikipedia.org/wiki/エッグマニア_つかんで!まわして!どっすんぱず〜る! "wikilink")                | |[コトブキシステム](../Page/コトブキシステム.md "wikilink")                        | ★  |
-| 10月10日 | [Jockey's Road](https://ja.wikipedia.org/wiki/Jockey's_Road "wikilink")                                             | マイクロソフト                                                            |    |
+| 10月10日 | [JOCKEY'S ROAD](https://ja.wikipedia.org/wiki/JOCKEY'S_ROAD "wikilink")                                             | マイクロソフト                                                            |    |
 | 10月24日 | [クラッシュ・バンディクー4 さくれつ\!魔神パワー](../Page/クラッシュ・バンディクー4_さくれつ!魔神パワー.md "wikilink")                                         | コナミ                                                                | ★  |
 | 11月14日 | [テトリスワールド](../Page/テトリスワールド.md "wikilink")                                                                          | サクセス                                                               | ★  |
 | 11月21日 | [カンタム レッドシフト 超高速空間バトルレース](https://ja.wikipedia.org/wiki/カンタム_レッドシフト_超高速空間バトルレース "wikilink")                         | マイクロソフト                                                            | ★  |

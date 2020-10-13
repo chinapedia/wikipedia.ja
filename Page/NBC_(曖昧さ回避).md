@@ -19,6 +19,7 @@
   - [ナショナル・バルク・キャリア](https://ja.wikipedia.org/wiki/ナショナル・バルク・キャリア "wikilink")（National Bulk Carrier） - 日本の造船業に影響を与えた米国の海運会社。
   - [日本ビジネスコンサルタント](https://ja.wikipedia.org/wiki/日本ビジネスコンサルタント "wikilink")（Nihon Business Consultant） - [日立情報システムズ](../Page/日立情報システムズ.md "wikilink")の旧社名。
   - [NBCカスタマーサービス](https://ja.wikipedia.org/wiki/NBCカスタマーサービス "wikilink") - [三井生命保険](https://ja.wikipedia.org/wiki/三井生命保険 "wikilink")系の同社向け保険事務代行サービス会社。
+  - [カンボジア国立銀行](https://ja.wikipedia.org/wiki/カンボジア国立銀行 "wikilink")（The National Bank of Cambodia） - [カンボジア](../Page/カンボジア.md "wikilink")の[中央銀行](../Page/中央銀行.md "wikilink")。
 
 <!-- end list -->
 
@@ -27,7 +28,7 @@
 <!-- end list -->
 
   - [ナショナル・ブロードキャスティング・カンパニー](../Page/NBC.md "wikilink")（National Broadcasting Company） - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[放送局](../Page/放送局.md "wikilink")。
-  - [長崎放送](../Page/長崎放送.md "wikilink")（Nagasaki Broadcasting Company）[長崎県](../Page/長崎県.md "wikilink")に本社を置く放送事業者。テレビは[TBS系列](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、ラジオは[JRN](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")・[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
+  - [長崎放送](../Page/長崎放送.md "wikilink")（Nagasaki Broadcasting Company）[長崎県](../Page/長崎県.md "wikilink")に本社を置く放送事業者。テレビは[TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")、ラジオは[JRN](../Page/ジャパン・ラジオ・ネットワーク.md "wikilink")・[NRN系列](../Page/全国ラジオネットワーク.md "wikilink")。
       - [NBCラジオ佐賀](../Page/NBCラジオ佐賀.md "wikilink") - 長崎放送のラジオ中継局であり、[佐賀県](../Page/佐賀県.md "wikilink")を放送対象地域とする佐賀放送局の通称。および同局での業務、番組制作を行う企業。長崎放送の子会社。
 
 <!-- end list -->

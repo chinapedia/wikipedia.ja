@@ -632,7 +632,7 @@
   - [IAAF World Cup and Continental Cup Statistic Handbook](http://www.iaaf.org/mm/document/competitions/competition/05/79/40/20100809103225_httppostedfile_split2010_21818.pdf)
   - Mark Butler's top ten moments: [Men](http://www.iaaf.org/WCP10/news/newsid=56584.html), [Women](http://www.iaaf.org/WCP10/news/newsid=56583.html)
 
-[Category:ワールドアスレティックスの大会](https://ja.wikipedia.org/wiki/Category:ワールドアスレティックスの大会 "wikilink")
+[Category:ワールドアスレティックスの大会](https://ja.wikipedia.org/wiki/Category:ワールドアスレティックスの大会 "wikilink") [Category:現存しない陸上競技大会](https://ja.wikipedia.org/wiki/Category:現存しない陸上競技大会 "wikilink")
 
 1.
 2.

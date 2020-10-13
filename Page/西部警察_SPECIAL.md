@@ -122,7 +122,7 @@
 
 <references />
 
-[Category:西部警察](https://ja.wikipedia.org/wiki/Category:西部警察 "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:宮崎県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台としたテレビドラマ "wikilink") [Category:石原プロモーション](https://ja.wikipedia.org/wiki/Category:石原プロモーション "wikilink")
+[Category:西部警察](https://ja.wikipedia.org/wiki/Category:西部警察 "wikilink") [Category:テレビ朝日のスペシャルドラマ](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスペシャルドラマ "wikilink") [Category:2004年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:2004年のテレビドラマ "wikilink") [Category:テロリズムを題材にしたテレビドラマ](https://ja.wikipedia.org/wiki/Category:テロリズムを題材にしたテレビドラマ "wikilink") [Category:宮崎県を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:宮崎県を舞台としたテレビドラマ "wikilink") [Category:石原プロモーション](https://ja.wikipedia.org/wiki/Category:石原プロモーション "wikilink")
 
 1.  テレビ朝日の現行ロゴ使用開始は2003年10月1日から。
 2.  PART-IとPART-II・IIIは一部設定が異なる部分があり、続編として整合性の取れない箇所もある。

@@ -102,6 +102,7 @@
 | 2016–17 | [SC](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink")                | 36                                             | 19                                            |
 | 2017–18 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 38                                             | 18                                            |
 | 2018-19 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 33                                             | 14                                            |
+| 2019-20 | [SP](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアシップ "wikilink")                  | 30                                             | 9                                             |
 
 ## 欧州の成績
 
@@ -245,15 +246,11 @@
 
 ## 現所属メンバー
 
-  - 2019年9月29日現在\[1\]
+  - 2020年10月1日現在\[1\]
 
-<small>1º</small>       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink"))          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))
+      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を示す。
-
-### レンタル移籍選手
-
-**in**
 
 ## 歴代監督
 
@@ -305,7 +302,9 @@
 
   - [ニール・レノン](https://ja.wikipedia.org/wiki/ニール・レノン "wikilink") 2016-2019
 
-  - [ポール・ヘッキンボトム](https://ja.wikipedia.org/wiki/ポール・ヘッキンボトム "wikilink") 2019-
+  - [ポール・ヘッキンボトム](https://ja.wikipedia.org/wiki/ポール・ヘッキンボトム "wikilink") 2019
+
+  - [ジャック・ロス](https://ja.wikipedia.org/wiki/ジャック・ロス "wikilink") 2019-
 
 ## 歴代所属選手
 
@@ -343,7 +342,7 @@
 
   - [クリス・キレン](../Page/クリス・キレン.md "wikilink") 2006-2007
 
-  - [シェフキ・クキ](../Page/シェフキ・クキ.md "wikilink") 2012-
+  - [シェフキ・クキ](../Page/シェフキ・クキ.md "wikilink") 2012-2013
 
 ## 記録
 

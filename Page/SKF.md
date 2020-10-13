@@ -1,7 +1,7 @@
 > この記事は[SKF](https://ja.wikipedia.org/wiki/SKF)から翻訳されています。
 
 
-**SKF**（、）は、世界130カ国で事業を展開する総合機械メーカーであり、[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")生産の世界最大手。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")に本社を置く。日本法人は**日本エスケイエフ株式会社**。ストックホルム証券取引所上場企業（）。
+**SKF**（、）は、世界130カ国で事業を展開する総合機械メーカーであり、[ベアリング](https://ja.wikipedia.org/wiki/ベアリング "wikilink")生産の世界最大手。[スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")・[ヨーテボリ](../Page/ヨーテボリ.md "wikilink")に本社を置く。日本法人は**日本エスケイエフ株式会社**。[ナスダック・ストックホルム](https://ja.wikipedia.org/wiki/ナスダック・ストックホルム "wikilink")上場企業。
 
 ## 沿革
 

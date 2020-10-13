@@ -529,7 +529,7 @@ DEC Professional シリーズは [IBM](../Page/IBM.md "wikilink")の [8088](../P
 
 PDP-11は非常に人気があったため、[鉄のカーテン](../Page/鉄のカーテン.md "wikilink")の向こう側で無許可のクローンが何種類か製造された。一部は[DECのPDP](../Page/ディジタル・イクイップメント・コーポレーション.md "wikilink")-11とピン互換があり、周辺機器や[システムソフトウェア](../Page/システムソフトウェア.md "wikilink")を流用することができた。以下のような機種が知られている:
 
-  - SM-4、SM-1420、SM-1600、[エレクトロニカBKシリーズ](https://ja.wikipedia.org/wiki/エレクトロニカBKシリーズ "wikilink")、[Electronika 60](https://ja.wikipedia.org/wiki/Electronika_60 "wikilink")、Elektronika 85、[DVK](https://ja.wikipedia.org/wiki/DVK "wikilink")、[UKNC](https://ja.wikipedia.org/wiki/UKNC "wikilink")（[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、PDP-11(PDP-11スキイ)とも呼ばれ、DECの米国内の生産台数より多かったと推定されている）
+  - SM-4、SM-1420、SM-1600、[エレクトロニカBKシリーズ](https://ja.wikipedia.org/wiki/エレクトロニカBKシリーズ "wikilink")、[Electronika 60](https://ja.wikipedia.org/wiki/Electronika_60 "wikilink")、[DVK](https://ja.wikipedia.org/wiki/DVK "wikilink")、[UKNC](https://ja.wikipedia.org/wiki/UKNC "wikilink")（[ソビエト連邦](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、PDP-11(PDP-11スキイ)とも呼ばれ、DECの米国内の生産台数より多かったと推定されている）。Elektronika 85、90は、いわゆる[ポケットコンピューター](https://ja.wikipedia.org/wiki/ポケットコンピューター "wikilink")のような極小のフォームファクタで製品化されていた。
   - SM-4、SM-1420、IZOT-1016、および周辺装置（[ブルガリア](../Page/ブルガリア.md "wikilink")）
   - SM-1620、SM-1630（[東ドイツ](../Page/ドイツ民主共和国.md "wikilink")）
   - MERA-60（[ポーランド](../Page/ポーランド.md "wikilink")）

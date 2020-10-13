@@ -5,7 +5,7 @@
 
 ## 概要
 
-「カルチャーやファッションに敏感な女性たちをターゲットに情報を発信し、同世代の女性同士のコミュニティを提供している番組。 放送当時の終盤期は[J-WAVE](../Page/J-WAVE.md "wikilink")の[BOOM TOWNと](../Page/BOOM_TOWN.md "wikilink")[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")の[NACK WITH YOUに聴取率で差をつけられ](../Page/NACK_WITH_YOU.md "wikilink")、苦戦していた。
+「カルチャーやファッションに敏感な女性たち」をターゲットに情報を発信し、同じ世代の女性同士のコミュニティを提供する番組だった。しかし、放送当時の終盤期は、当時放送されていた[J-WAVE](../Page/J-WAVE.md "wikilink")の[BOOM TOWNと](../Page/BOOM_TOWN.md "wikilink")[NACK5](https://ja.wikipedia.org/wiki/NACK5 "wikilink")の[NACK WITH YOUに聴取率で差をつけられ](../Page/NACK_WITH_YOU.md "wikilink")、苦戦を強いられた。
 
 2006年8月15日、[SCHOOL OF LOCK\!の](../Page/SCHOOL_OF_LOCK!.md "wikilink")[やましげ校長](../Page/山崎樹範.md "wikilink")、[やしろ教頭と](../Page/カリカ_\(お笑いコンビ\).md "wikilink")「親子問題」をテーマに話し合った。
 
@@ -54,4 +54,4 @@
   - [Tapestry](http://www.tfm.co.jp/tps/)
   - [TOKYO FMと「香り通信」が『香るラジオ』を実現 ラジオ番組内で“香る音楽”プログラムをプロデュース](http://www.ntt.com/release/2006NEWS/0009/0904.html)
 
-[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:TOKYO_FMのローカル番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMのローカル番組 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink")
+[Category:2006年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2006年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:TOKYO_FMのローカル番組](https://ja.wikipedia.org/wiki/Category:TOKYO_FMのローカル番組 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")

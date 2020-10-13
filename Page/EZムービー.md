@@ -1,7 +1,7 @@
 > この記事は[EZムービー](https://ja.wikipedia.org/wiki/EZムービー)から翻訳されています。
 
 
-**EZムービー**（イージームービー）は、[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の各[au](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[携帯電話](../Page/携帯電話.md "wikilink")（[iida](https://ja.wikipedia.org/wiki/iida "wikilink")ブランド携帯電話を含む）の動画再生機能。
+**EZムービー**（イージームービー）は、[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink")の[auの](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")、CDMA 1X[携帯電話](../Page/携帯電話.md "wikilink")（[iida](https://ja.wikipedia.org/wiki/iida "wikilink")ブランド携帯電話を含む）に内蔵していた動画再生機能。
 
 ## ファイル形式
 
@@ -43,4 +43,4 @@
 
   - [KDDI au: 技術情報 \> EZムービー](http://www.au.kddi.com/ezfactory/tec/spec/ezmovie01.html)
 
-[Category:携帯電話_(au)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(au\) "wikilink")
+[Category:かつて存在したau(携帯電話)のサービス](https://ja.wikipedia.org/wiki/Category:かつて存在したau\(携帯電話\)のサービス "wikilink")

@@ -676,6 +676,13 @@
 <tr class="even">
 <td><p>2019-20</p></td>
 <td><p>SP</p></td>
+<td><p>30</p></td>
+<td><p>12</p></td>
+<td><p>9</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p>SP</p></td>
 <td><p>38</p></td>
 <td></td>
 <td></td>

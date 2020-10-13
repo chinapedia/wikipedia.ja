@@ -136,6 +136,6 @@
   - [秋田書店 - BUD BOY＜番外編＞空心鳥](http://www.akitashoten.co.jp/comics/4253192173)
   - [秋田書店 - BUD BOY＜番外編＞春指南（こいのてほどき）](http://www.akitashoten.co.jp/comics/425319219X)
 
-[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:月刊プリンセス](https://ja.wikipedia.org/wiki/Category:月刊プリンセス "wikilink") [Category:プリンセスGOLD](https://ja.wikipedia.org/wiki/Category:プリンセスGOLD "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:中国神話を題材にした作品](https://ja.wikipedia.org/wiki/Category:中国神話を題材にした作品 "wikilink") [Category:花を題材とした作品](https://ja.wikipedia.org/wiki/Category:花を題材とした作品 "wikilink") [Category:ローカルラジオ局のラジオドラマ](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のラジオドラマ "wikilink")
+[Category:漫画作品_は](https://ja.wikipedia.org/wiki/Category:漫画作品_は "wikilink") [Category:月刊プリンセス](https://ja.wikipedia.org/wiki/Category:月刊プリンセス "wikilink") [Category:プリンセスGOLD](https://ja.wikipedia.org/wiki/Category:プリンセスGOLD "wikilink") [Category:ファンタジー漫画](https://ja.wikipedia.org/wiki/Category:ファンタジー漫画 "wikilink") [Category:中国神話を題材にした作品](https://ja.wikipedia.org/wiki/Category:中国神話を題材にした作品 "wikilink") [Category:花を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:花を題材とした漫画作品 "wikilink") [Category:ローカルラジオ局のラジオドラマ](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局のラジオドラマ "wikilink")
 
 1.  プリンセスコミックス『BUD BOY 番外編 純愛迷走』帯より（2004年8月12日発売）

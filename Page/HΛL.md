@@ -1,7 +1,7 @@
 > この記事は[HΛL](https://ja.wikipedia.org/wiki/HΛL)から翻訳されています。
 
 
-**HΛL**（ハル）は、1996年から活動している日本の[音楽グループ](../Page/バンド_\(音楽\).md "wikilink")、サウンドクリエイターチームである。[梅崎俊春](https://ja.wikipedia.org/wiki/梅崎俊春 "wikilink")個人のソロ活動でもある。
+**HΛL**（ハル）は、1996年から活動している[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")、サウンドクリエイターチームである。現在は梅崎俊春の[ソロプロジェクトでもある](../Page/一人バンド.md "wikilink")。
 
 ## 概要
 

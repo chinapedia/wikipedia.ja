@@ -1442,9 +1442,9 @@ ASモナコFCは[1919年](../Page/1919年.md "wikilink")[8月1日](../Page/8月1
 
 </div>
 
-  - 2020年9月17日現在
+  - 2020年9月29日現在
 
-★  ★ ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★         ★    ★
+★  ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink"))★         ★    ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

@@ -1905,7 +1905,7 @@ M-10「Black Nightmare」で参加。</p></td>
 
 <div class="NavContent" style="text-align: left;font-size:small;">
 
-  - 2016年02月27日 - \[\[Getting Better\] ～20th Anniversary Party Tour～
+  - 2016年02月27日 - [Getting Better](https://ja.wikipedia.org/wiki/Getting_Better "wikilink") ～20th Anniversary Party Tour～
   - 2016年03月26日 - IMAIKE GO NOW 2016
   - 2016年05月08日 - PLAY VOL.32
   - 2016年08月05日 - 夏のビバヤング\!4DAYS

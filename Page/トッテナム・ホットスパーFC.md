@@ -101,7 +101,7 @@
 
 #### 2020-21シーズン
 
-前シーズンのサウサンプトン主将ピエール=エミル・ホイビュルクをはじめ、ジョー・ハートやマット・ドハーティなどを獲得した。
+前シーズンの[サウサンプトン主将](../Page/サウサンプトンFC.md "wikilink")[ピエール=エミール・ホイビュアをはじめ](https://ja.wikipedia.org/wiki/ピエール・エミール・ホイビュルク "wikilink")、[バーンリーから](../Page/バーンリーFC.md "wikilink")[ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink")、[ウルブズから](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink")[マット・ドハーティ](https://ja.wikipedia.org/wiki/マット・ドハーティ "wikilink")などを獲得した。また、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から買い戻しオプション付きの完全移籍で[セルヒオ・レギロン](https://ja.wikipedia.org/wiki/セルヒオ・レギロン "wikilink")を、延長オプション付きの1年間のレンタルで[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")を獲得し、ベイルは7年ぶりに古巣へと復帰することとなった\[16\]\[17\]。
 
 ## ユニフォーム
 
@@ -128,23 +128,23 @@
   - **2006-2010:** Mansion.com Casino & Poker
   - **2010-2013:** [Autonomy](https://ja.wikipedia.org/wiki/HP_オートノミー "wikilink")（リーグ戦）、Investec Bank（ヨーロッパカップ戦）
   - **2013-2014:** ヒューレット・パッカード（リーグ戦、HPがAutonomyを買収したことにより14年ぶりに復帰）、[AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")（ヨーロッパカップ戦）
-  - **2014-:** [AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")\[16\]
+  - **2014-:** [AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")\[18\]
 
 ## ダービーマッチ
 
-同じ北ロンドンに本拠を構えるクラブ同士として[アーセナルとは激しいライバル関係にあり](../Page/アーセナルFC.md "wikilink")、サポーター同士のいがみ合いが強く両者の間には争いごとが絶えない。それをよく象徴するのがかつて同クラブに移籍した[ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink")に対してトッテナムファンが[ユダと呼んだという出来事である](../Page/イスカリオテのユダ.md "wikilink")。両チームの対戦は[ノース・ロンドン・ダービー](../Page/ノース・ロンドン・ダービー.md "wikilink")と呼ばれ、[マンチェスター・ダービー](../Page/マンチェスター・ダービー.md "wikilink")、[マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")と並び、リーグの三大[ダービーの一つに数えられている](../Page/ダービーマッチ.md "wikilink")。同じロンドンを本拠地とする[チェルシーや](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ウェストハム・ユナイテッドとの対戦も](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink")[ロンドン・ダービー](https://ja.wikipedia.org/wiki/ロンドン・ダービー "wikilink")の一つである\[17\]。
+同じ北ロンドンに本拠を構えるクラブ同士として[アーセナルとは激しいライバル関係にあり](../Page/アーセナルFC.md "wikilink")、サポーター同士のいがみ合いが強く両者の間には争いごとが絶えない。それをよく象徴するのがかつて同クラブに移籍した[ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink")に対してトッテナムファンが[ユダと呼んだという出来事である](../Page/イスカリオテのユダ.md "wikilink")。両チームの対戦は[ノース・ロンドン・ダービー](../Page/ノース・ロンドン・ダービー.md "wikilink")と呼ばれ、[マンチェスター・ダービー](../Page/マンチェスター・ダービー.md "wikilink")、[マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")と並び、リーグの三大[ダービーの一つに数えられている](../Page/ダービーマッチ.md "wikilink")。同じロンドンを本拠地とする[チェルシーや](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ウェストハム・ユナイテッドとの対戦も](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink")[ロンドン・ダービー](https://ja.wikipedia.org/wiki/ロンドン・ダービー "wikilink")の一つである\[19\]。
 
 ## サポーター
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:Min_of_Silence_v_Wigan.jpg "wikilink")\]\]
 
-イギリス、主に北ロンドンと[ホーム・カウンティーズ](https://ja.wikipedia.org/wiki/ホーム・カウンティーズ "wikilink")に多くのファンを持つ。1946年から1969年の間に5度、イングランドにおける平均観客動員数で最多となった\[18\]\[19\]。2008-09プレミリーグにおける平均観客動員数は第9位であった\[20\]。世界中にトッテナムのサポーターズクラブが存在し、特にクラブの歴史的なサポーターには[アルフレッド・エイヤー](../Page/アルフレッド・エイヤー.md "wikilink")などがいる\[21\]\[22\]。トッテナムのサポーターは主にロンドン地域内の複数のクラブとライバル関係にあり、最大のライバルは共に北ロンドンを本拠地とする[アーセナルである](../Page/アーセナルFC.md "wikilink")。
+イギリス、主に北ロンドンと[ホーム・カウンティーズ](https://ja.wikipedia.org/wiki/ホーム・カウンティーズ "wikilink")に多くのファンを持つ。1946年から1969年の間に5度、イングランドにおける平均観客動員数で最多となった\[20\]\[21\]。2008-09プレミリーグにおける平均観客動員数は第9位であった\[22\]。世界中にトッテナムのサポーターズクラブが存在し、特にクラブの歴史的なサポーターには[アルフレッド・エイヤー](../Page/アルフレッド・エイヤー.md "wikilink")などがいる\[23\]\[24\]。トッテナムのサポーターは主にロンドン地域内の複数のクラブとライバル関係にあり、最大のライバルは共に北ロンドンを本拠地とする[アーセナルである](../Page/アーセナルFC.md "wikilink")。
 
-トッテナムには他のロンドンの多くのクラブと同様に、多くの[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")サポーターがおり、これがサポーターに対する[反セム主義的な挑発につながっている](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")\[23\]\[24\]。トッテナムサポーターはこれに対抗してユダヤ人も非ユダヤ人も自分達を「イーズ（Yids）」と称する。[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")への侮蔑語である「イード（Yid）」は、スパーズの本拠地周辺がユダヤ人の多く住む地域であることに対し、口汚い相手ファンからの嘲りの言葉として使われ始めたが、やがてスパーズファンはそれを逆手に取って、誇らしげに自称するようになった。自称「イード」の大半はおそらく本当のユダヤ人ではないが、厳密な定義は必要とされず、彼らはドイツ人の[ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")がチームに所属した時も「Chimm-chimminee, chim-chimminee, chim-chim-churoo, Juergen was a German, but now he’s a Jew（ユルゲンはドイツ人だったが、今ではユダヤ人だ）」という[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")を[チム・チム・チェリー](https://ja.wikipedia.org/wiki/チム・チム・チェリー "wikilink")の節で唄った\[25\]。
+トッテナムには他のロンドンの多くのクラブと同様に、多くの[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")サポーターがおり、これがサポーターに対する[反セム主義的な挑発につながっている](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")\[25\]\[26\]。トッテナムサポーターはこれに対抗してユダヤ人も非ユダヤ人も自分達を「イーズ（Yids）」と称する。[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")への侮蔑語である「イード（Yid）」は、スパーズの本拠地周辺がユダヤ人の多く住む地域であることに対し、口汚い相手ファンからの嘲りの言葉として使われ始めたが、やがてスパーズファンはそれを逆手に取って、誇らしげに自称するようになった。自称「イード」の大半はおそらく本当のユダヤ人ではないが、厳密な定義は必要とされず、彼らはドイツ人の[ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")がチームに所属した時も「Chimm-chimminee, chim-chimminee, chim-chim-churoo, Juergen was a German, but now he’s a Jew（ユルゲンはドイツ人だったが、今ではユダヤ人だ）」という[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")を[チム・チム・チェリー](https://ja.wikipedia.org/wiki/チム・チム・チェリー "wikilink")の節で唄った\[27\]。
 
-ユダヤ人団体や反人種差別団体からは「イード」の使用が[人種差別](../Page/人種差別.md "wikilink")を助長していると考えて、スパーズファンに自制を求める声もあるが、スパーズファンは自分たちが使用する「イード」はまったく無害なものだと考えている\[26\]。
+ユダヤ人団体や反人種差別団体からは「イード」の使用が[人種差別](../Page/人種差別.md "wikilink")を助長していると考えて、スパーズファンに自制を求める声もあるが、スパーズファンは自分たちが使用する「イード」はまったく無害なものだと考えている\[28\]。
 
-著名人のファンとしては元プロサッカー選手の父親を持つ[NBA](../Page/NBA.md "wikilink")の[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")、水泳選手の[イアン・ソープ](../Page/イアン・ソープ.md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")の[ジョニー・バックランド](../Page/ジョニー・バックランド.md "wikilink")、[WWE](../Page/WWE.md "wikilink")所属のプロレスラー[フィン・ベイラー](https://ja.wikipedia.org/wiki/フィン・ベイラー "wikilink")等が知られている。また、俳優の[ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")もスタンド観戦する姿を度々中継カメラに捉えられている。『[007 スカイフォール](https://ja.wikipedia.org/wiki/007_スカイフォール "wikilink")』の主題歌でオスカーを受賞した[アデルもスタジアムに足繁く通い](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")、インタビューにも「私は偽物じゃない。本物のファンよ」と発言している\[27\]。
+著名人のファンとしては元プロサッカー選手の父親を持つ[NBA](../Page/NBA.md "wikilink")の[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")、水泳選手の[イアン・ソープ](../Page/イアン・ソープ.md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")の[ジョニー・バックランド](../Page/ジョニー・バックランド.md "wikilink")、[WWE](../Page/WWE.md "wikilink")所属のプロレスラー[フィン・ベイラー](https://ja.wikipedia.org/wiki/フィン・ベイラー "wikilink")等が知られている。また、俳優の[ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")もスタンド観戦する姿を度々中継カメラに捉えられている。『[007 スカイフォール](https://ja.wikipedia.org/wiki/007_スカイフォール "wikilink")』の主題歌でオスカーを受賞した[アデルもスタジアムに足繁く通い](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")、インタビューにも「私は偽物じゃない。本物のファンよ」と発言している\[29\]。
 
 ## タイトル
 
@@ -329,15 +329,17 @@
 13. “[トッテナム、来シーズンのホームゲームは全てウェンブリーで開催へ](https://www.soccer-king.jp/news/world/eng/20170324/566802.html)”サッカーキング、2017年3月24日
 14.
 15.
-16. [AIAとの長期パートナーシップが始まる](http://spurs.sc/news/2014/02/011188.html)spurs japan 2014年2月11日
-17. [Rivalry uncovered\! The results of the largest ever survey into club rivalries](http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf) , The Football Fans Census. Retrieved 30 January 2008
-18.
-19.
-20. [Statistics](http://www.premierleague.com/page/Statistics/0,,12306,00.html)  FA Premier League
-21. *Key thinkers in linguistics and the philosophy of language*, Edinburgh University Press, 2005, By Siobhan Chapman, page 22
-22. [Notable Spurs supporters](http://www.mehstg.com/fans.htm) Retrieved 26 August 2011
-23.
-24.
+16.
+17.
+18. [AIAとの長期パートナーシップが始まる](http://spurs.sc/news/2014/02/011188.html)spurs japan 2014年2月11日
+19. [Rivalry uncovered\! The results of the largest ever survey into club rivalries](http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf) , The Football Fans Census. Retrieved 30 January 2008
+20.
+21.
+22. [Statistics](http://www.premierleague.com/page/Statistics/0,,12306,00.html)  FA Premier League
+23. *Key thinkers in linguistics and the philosophy of language*, Edinburgh University Press, 2005, By Siobhan Chapman, page 22
+24. [Notable Spurs supporters](http://www.mehstg.com/fans.htm) Retrieved 26 August 2011
 25.
 26.
-27. 我が心のクラブを持つセレブリティたち『[Number PLUS](../Page/Sports_Graphic_Number.md "wikilink")』2013年10月1日号
+27.
+28.
+29. 我が心のクラブを持つセレブリティたち『[Number PLUS](../Page/Sports_Graphic_Number.md "wikilink")』2013年10月1日号

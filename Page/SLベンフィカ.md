@@ -2986,9 +2986,9 @@ UEFAチャンピオンズカップ時代も含む
 
 </div>
 
-  - 2020年9月8日時点
+  - 2020年9月29日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink")) ★    ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Angola.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink")) ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

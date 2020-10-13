@@ -186,7 +186,7 @@
   - 企画 - [岡本昭彦](../Page/岡本昭彦.md "wikilink")（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")）
   - 企画・チーフプロデューサー - [武野一起](../Page/武野一起.md "wikilink")（よみうりテレビ）
   - チーフプロデューサー - [田中壽一](https://ja.wikipedia.org/wiki/田中壽一 "wikilink")（よみうりテレビ）
-  - プロデューサー - 前西和成（よみうりテレビ）、伊藤公樹（よしもとクリエイティブ・エージェンシー）
+  - プロデューサー - [前西和成](https://ja.wikipedia.org/wiki/前西和成 "wikilink")（よみうりテレビ）、伊藤公樹（よしもとクリエイティブ・エージェンシー）
   - プロダクションプロデューサー - 西前俊典
   - サウンドデザイン - [志田博英](../Page/志田博英.md "wikilink")
   - 協力 - [バスク](../Page/バスク_\(テレビ技術会社\).md "wikilink")、[ビデオスタッフ](../Page/ビデオスタッフ.md "wikilink")、[フジアール](../Page/フジアール.md "wikilink")、[デジタル・フロンティア](https://ja.wikipedia.org/wiki/デジタル・フロンティア "wikilink")、[砧スタジオ](../Page/東京メディアシティ.md "wikilink")

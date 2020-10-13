@@ -1,7 +1,7 @@
 > この記事は[Yahoo!知恵袋](https://ja.wikipedia.org/wiki/Yahoo!知恵袋)から翻訳されています。
 
 
-**Yahoo\!知恵袋**（ヤフーちえぶくろ）とは、[Yahoo\! JAPANが運営する](../Page/Yahoo!_JAPAN.md "wikilink")、[電子掲示板](../Page/電子掲示板.md "wikilink")上で参加者同士が知識や知恵を教え合う[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")、知識検索サービスである。
+**Yahoo\!知恵袋**（ヤフーちえぶくろ）とは、[Yahoo\! JAPANが運営する](../Page/Yahoo!_JAPAN.md "wikilink")、[電子掲示板](../Page/電子掲示板.md "wikilink")上で参加者同士が知識や知恵を教え合う[ナレッジコミュニティ](../Page/ナレッジコミュニティ.md "wikilink")、知識検索サービスである。Yahoo\! JAPANのトップ画面などでは**知恵袋**とも略称される。
 
 [2004年](../Page/2004年.md "wikilink")4月にベータ版としてサービスが提供され、[2005年](../Page/2005年.md "wikilink")11月に正式版として開始された。[2006年](../Page/2006年.md "wikilink")5月からはモバイル版のサービスを開始し、[携帯電話](../Page/携帯電話.md "wikilink")（フィーチャーフォン）などでも利用できるようになっていたが、携帯電話（iモード、EZweb、Yahoo\!ケータイ）版のサービスが終了した、[2016年](../Page/2016年.md "wikilink")[12月14日](../Page/12月14日.md "wikilink")以降、携帯電話からは利用出来ない\[1\]。
 

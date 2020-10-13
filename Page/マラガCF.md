@@ -1231,7 +1231,7 @@
 
 ## 現所属メンバー
 
-\[12\]         ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+\[12\]    ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 

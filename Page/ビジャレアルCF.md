@@ -1,7 +1,7 @@
 > この記事は[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF)から翻訳されています。
 
 
-**ビジャレアル・クルブ・デ・フトボル**(Villarreal Club de Fútbol) は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エスタディオ・デ・ラ・セラミカ](https://ja.wikipedia.org/wiki/エスタディオ・デ・ラ・セラミカ "wikilink")をホームスタジアムとしている。
+**ビジャレアル・クルブ・デ・フトボル（**[バレンシア語](../Page/バレンシア語.md "wikilink"): Vila-real Club de Futbol, [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")**）**は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エスタディオ・デ・ラ・セラミカ](https://ja.wikipedia.org/wiki/エスタディオ・デ・ラ・セラミカ "wikilink")をホームスタジアムとしている。
 
 ビジャレアルとはスペイン語で「王の町」という意味であり、その名の通りチームのエンブレムには王冠があしらわれている。ただし、この場合の王とは[アラゴン王国](../Page/アラゴン王国.md "wikilink")の王を指し、現在のスペイン王室ではない。そのため王冠のデザインも他のレアルを冠するチームのものとは異なっている\[1\]。しばしば、成功したスモールクラブの例として引き合いに出される\[2\]。
 
@@ -1020,9 +1020,9 @@
 
 </div>
 
-  - 2020年9月11日時点\[47\]
+  - 2020年9月24日時点\[47\]
 
-([副主将](../Page/主将.md "wikilink"))    ★   ★  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Martinique.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
+([副主将](../Page/主将.md "wikilink"))    ★  ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Martinique.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

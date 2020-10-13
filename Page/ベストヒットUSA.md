@@ -62,8 +62,8 @@
   - COUNT DOWN USA :全米のラジオオンエアチャートを紹介。以前は「[ラジオ&レコーズ](../Page/ラジオ&レコーズ.md "wikilink")」のランキングデータを元にしていたが、[2009年](../Page/2009年.md "wikilink")[6月5日](https://ja.wikipedia.org/wiki/6月5日 "wikilink")で廃刊になったため、現在は「[ビルボード](../Page/ビルボード.md "wikilink")」のポップ・チャートを使用している。
   - STAR OF THE WEEK: テレビ版のみ。小林克也とアーティストの[インタビュー](../Page/インタビュー.md "wikilink")が放送される\[59\]。2013年頃からは小林がゲストにイントロクイズを出題することも多い。
   - 大いなる伝説 The Legend：有名アーティストの半生について、イラストを背景に小林がナレーションする。本コーナーで最初に取り上げた[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")と[ビートルズ](../Page/ビートルズ.md "wikilink")についてのストーリーを皮切りに、以降は[マイケル・ジャクソン](https://ja.wikipedia.org/wiki/マイケル・ジャクソン "wikilink")や[マドンナの半生が綴られ](https://ja.wikipedia.org/wiki/マドンナ_\(歌手\) "wikilink")、現在（2013年6月11日現在）は再びビートルズのストーリーを語っている。
-  - TIME MACHINE :いわゆる「今日は何の日」。テレビ版はBS朝日の放送日を元にしている。
-  - REQUEST: テレビ版のみ。視聴者からの[リクエストで懐かしの曲の](../Page/リクエスト番組.md "wikilink")[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が流れる\[60\]。
+  - TIME MACHINE :いわゆる「今日は何の日」。テレビ版はBS朝日の放送日を元にしていたが、2020年8月から内容を変更し、コーナーで流す洋楽の歌詞の日本語訳を小林がイントロダクションの朗読をした後、英語字幕付きで曲が流れる。その際、毎回異なる挿し絵を各界で活躍するクリエイターが担当している。
+  - REQUEST: テレビ版のみ。(2020年現在実施していない)視聴者からの[リクエストで懐かしの曲の](../Page/リクエスト番組.md "wikilink")[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が流れる\[60\]。
 
 ※2020年以降、"COUNT DOWN USA"、"HOT MENU"、"STAR OF THE WEEK"、"TIME MACHINE"以外のコーナーは事実上消滅している。
 
@@ -215,7 +215,7 @@
 
   - [ベストヒットUSA携帯サイト](http://hitusa.tv/) ※携帯からのみアクセス可能
 
-  - [BS朝日・ベストヒットUSA](http://www.bs-asahi.co.jp/usa/)
+  - [BS朝日・ベストヒットUSA](https://www.bs-asahi.co.jp/usa/)
 
   - [テレビ朝日・ベストヒットUSA](https://www.tv-asahi.co.jp/besthitusa/)
 

@@ -400,9 +400,9 @@ FCポルトのライバルは[ベンフィカと](../Page/SLベンフィカ.md "
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★ ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ★    ★ ★ ★
+★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))  ★ ★ ★ ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea-Bissau.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★     ★ ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

@@ -102,9 +102,21 @@ FC2サービスで同一のIDとパスワードが使える。サービス追加
       - 3月 - iOS版FC2カートアプリをリリース\[35\]
       - 9月 - Android版FC2コンテンツマーケットビューアーアプリをリリース\[36\]
       - 12月 - FC2ライブ配信専用アプリ「FCAS」リリース\[37\]
+
+<!-- end list -->
+
   - [2018年](../Page/2018年.md "wikilink")
       - 5月 - FC2動画視聴専用アプリ「FC2動画 Viewer」リリース
       - 10月 - 視聴専用iOSアプリ「FCAS Viewer」リリース\[38\]
+      - 12月 - FC2コンテンツマーケット専用iOSアプリ「FC2コンテンツマーケット 購入動画 Viewer」リリース
+  - [2019年](../Page/2019年.md "wikilink")
+      - 1月 - FC2ブログの「ブロマガ」を「マガブロ」（magablo、magablog）に名称を変更。
+      - 6月 - iOS向けViewerアプリ「FC2 ひまわり動画viewer」をリリース
+      - 7月 - FC2ライブにて「モバイル配信」（スマートフォンブラウザからの配信）機能をリリース
+      - 9月 - iOS向けの動画投稿やマイコンテンツの編集などに特化した専用アプリ「FC2動画 Studio」をリリース
+      - 12月 - FC2ライブにてパノラマ配信（360度配信）機能をリリース
+  - [2020年](../Page/2020年.md "wikilink")
+      - 9月 - [SayMove\!](https://ja.wikipedia.org/wiki/SayMove! "wikilink")および、[ひまわり動画](https://ja.wikipedia.org/wiki/ひまわり動画 "wikilink")をShwe Nandar Co., Ltd. へ譲渡
 
 ## サービスの一覧
 
@@ -120,8 +132,6 @@ FC2サービスで同一のIDとパスワードが使える。サービス追加
 
   - [FC2動画](https://ja.wikipedia.org/wiki/FC2動画 "wikilink")
   - FC2ライブ
-  - [FC2SayMove\!](https://ja.wikipedia.org/wiki/SayMove! "wikilink")
-  - [ひまわり動画](https://ja.wikipedia.org/wiki/ひまわり動画 "wikilink")
   - [FC2ねとらじ](../Page/ねとらじ.md "wikilink")
   - [Veoh](../Page/Veoh.md "wikilink")
 

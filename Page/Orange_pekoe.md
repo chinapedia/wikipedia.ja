@@ -5,20 +5,41 @@
 
 ## メンバー
 
-  - 藤本一馬（[1979年](../Page/1979年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）
-      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。[三田学園中学校・高等学校](../Page/三田学園中学校・高等学校.md "wikilink")卒業。
   - ナガシマトモコ（本名：長島智子 [1979年](../Page/1979年.md "wikilink")[6月2日](../Page/6月2日.md "wikilink") - ）
       - [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身。血液型B型。[ヴォーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[作詞](../Page/作詞.md "wikilink")を担当。[親和女子中学校・高等学校](https://ja.wikipedia.org/wiki/親和女子中学校・高等学校 "wikilink")卒業。
 
+<!-- end list -->
+
+  - 藤本一馬（[1979年](../Page/1979年.md "wikilink")[7月13日](../Page/7月13日.md "wikilink") - ）
+      - [兵庫県](../Page/兵庫県.md "wikilink")[宝塚市](../Page/宝塚市.md "wikilink")出身。[血液型O型](../Page/ABO式血液型.md "wikilink")。[ギター](../Page/ギター.md "wikilink")、[作曲](../Page/作曲.md "wikilink")、[アレンジ](../Page/編曲.md "wikilink")、[プログラミングを担当](../Page/ミュージックシーケンサー.md "wikilink")。[三田学園中学校・高等学校](../Page/三田学園中学校・高等学校.md "wikilink")卒業。
+
 ## 概要
 
-[神戸市](../Page/神戸市.md "wikilink")出身のナガシマトモコ、[宝塚市](../Page/宝塚市.md "wikilink")出身の藤本一馬によるユニット。1998年、[関西学院大学](../Page/関西学院大学.md "wikilink")の軽音楽部で創作活動を開始。2000年からは神戸・大阪など関西のカフェやライブハウスで活動を始め、2001年4月にミニ[アルバム](../Page/アルバム.md "wikilink")『orangepekoe』でインディーズデビュー。[FM802](../Page/FM802.md "wikilink")などでリスナーに支持され人気が拡大。2002年4月、[シングル](../Page/シングル.md "wikilink")『Happy Valley』でBMGファンハウス（後の[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）よりメジャーデビュー。全国FM局32局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")曲に選ばれ広く認知される。1stアルバム「Organic Plastic Music」は30万枚以上を売上げ、[カンバラクニエ](https://ja.wikipedia.org/wiki/カンバラクニエ "wikilink")の手によるジャケットデザインと相乗して話題を呼んだ。
+[神戸市](../Page/神戸市.md "wikilink")出身のナガシマトモコ、[宝塚市](../Page/宝塚市.md "wikilink")出身の藤本一馬によるユニット。
 
-録音・サポートメンバーとしてジャズミュージシャンが多く参加しているが、曲はあくまでポップスでジャズではない。作曲を担当する藤本一馬は、[ビートルズ](../Page/ビートルズ.md "wikilink")や[スティーヴィー・ワンダー](../Page/スティーヴィー・ワンダー.md "wikilink")、[ミルトン・ナシメント](../Page/ミルトン・ナシメント.md "wikilink")などに影響を受けたと語っている。アルバム中には、アコースティックサウンドを活用したり、[ボサノヴァ](../Page/ボサノヴァ.md "wikilink")や[サンバテイストに仕上げた作品も多い](../Page/サンバ_\(ブラジル\).md "wikilink")。特定のジャンルに規定されない、独特のスタイルを取る。
+1998年、[関西学院大学](../Page/関西学院大学.md "wikilink")の軽音楽部で活動を開始。2000年からは神戸・大阪など関西のカフェやクラブ、ライブハウスで活動を始め、2001年4月にミニ[アルバム](../Page/アルバム.md "wikilink")『orangepekoe』でインディーズデビュー。
 
-ナガシマトモコのヴォーカルは中低音域を中心とした伸びやかなもので、落ち着いた女性的な雰囲気を与えている。そのため、作品が使用されるCMは、大人の女性をイメージした製品・サービスであることが多い。
+2002年4月、[シングル](../Page/シングル.md "wikilink")『Happy Valley』でBMGファンハウス（後の[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、現・[アリオラジャパン](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")）よりメジャーデビュー。同曲が史上最多数記録となる全国FM局32局の[ヘヴィー・ローテーション](../Page/ヘヴィー・ローテーション.md "wikilink")曲に選ばれ広く認知される。
 
-2008年10月、orange pekoe結成10周年を記念した9thシングル「Selene」、翌11月には「orange pekoe 10th Anniversary Best Album SUN & MOON」を発表した。
+1stアルバム「Organic Plastic Music」は30万枚以上を売上げ、[カンバラクニエ](https://ja.wikipedia.org/wiki/カンバラクニエ "wikilink")によるイラストのジャケットデザインと相乗して話題を呼んだ。
+
+同アルバムで「日本ゴールドディスク大賞ニュー・アーティスト・オブ・ザ・イヤー」を初め数々の賞を受賞。
+
+ジャズ、ブラジル、ソウルなど様々な音楽を独自に昇華した音楽性で、全ての作詞はナガシマトモコが担当、ほぼ全ての作曲・アレンジは藤本一馬が担当。
+
+プロデュースにおいてもデビュー当時から一貫してナガシマトモコ・藤本一馬によって行われている。
+
+ライブにおいては、歌とギターのデュオ編成、レギュラーバンド編成、また総勢18名によるビッグバンド編成など様々な形態で開催し、アジア各国、ニューヨークでの公演など海外でも活動を展開。
+
+現在まで７枚のオリジナルアルバム、その他ビッグバンドオーケストラとの共演作アルバムやNHKホールでの3rd作ツアーのファイナル公演DVD等多数の作品をリリース。
+
+2016年より拠点をアメリカ（ニューヨーク、ロサンゼルス）へ。2019年帰国し日本での活動を再開。
+
+結成20周年を記念しベストアナログ盤『orange pekoe Best Album SUN & MOON』(Sonny Music)をリリース。
+
+またお互いソロとしても活動し、藤本一馬はギタリストとしてこれまで４枚のソロ名義作品をリリース。国内および海外の様々なアーティストと共演。
+
+ナガシマトモコはソロ・プロジェクト’Nia’の1st アルバム『NIA』(KING RECORDS)をブルックリンにて録音。2014年の国内発売に続き、2015年4月には米国盤、ヨーロッパ盤もリリースされている。
 
 ## ディスコグラフィ
 
@@ -747,6 +768,8 @@ BVCS-21043:通常盤</p></td>
   - [キングレコードのアーティスト・ページ](https://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=44342)
 
   - [ソニーミュージックのアーティスト・ページ](https://www.sonymusic.co.jp/artist/orangepekoe/)
+
+  - [ナガシマトモコ公式サイト](https://www.tomokonagashima.net/)
 
   - [orange pekoe ナガシマトモコブログ](https://ameblo.jp/tomoko-nagashima/)
 

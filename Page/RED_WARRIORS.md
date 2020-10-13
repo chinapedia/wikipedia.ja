@@ -50,64 +50,57 @@
 
 ## 略歴
 
-  - 1985年
-      - 2月8日、レッド・ウォーリアーズ結成。結成当初は「レベッカ♂」というバンド名だった。後に一時期「THE RED WARRIORS」と名乗っていた。
-  - 1986年
-      - 10月10日、1stアルバム『LESSON 1』でデビュー。
-  - 1987年
-      - 6月21日、2ndアルバム『CASINO DRIVE』リリース。
-  - 1988年
-      - 1月7日、初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行う。
-      - 4月1日、3rdアルバム『KING'S』リリース。
-      - 7月23日、[西武球場にてライブを行う](../Page/西武ドーム.md "wikilink")。
-      - 9月10日、ライブアルバム『1988 KING'S ROCK'N'ROLL SHOW -LIVE AT SEIBU STADIUM-』をリリース。
-  - 1989年
-      - 1月16日〜18日、日本武道館で3days公演を行う。
-      - 5月に突如、8月の西武スタジアムでのコンサートを最後に解散することを表明する。
-      - 7月21日、4thアルバム『Swingin' Daze』リリース。
-      - 8月26日、西武球場で2度目のスタジアムライブを成功させる。
-      - 10月30日・31日、日本武道館における「FINAL SESSION」にて解散する。
-  - 1992年
-      - 事務所のライブイベントのため一日だけ再結成する。
-  - 1996年
-      - 7月、一時的な再結成をする。
-      - 11月12日、日本武道館公演を行う。チケットは発売後1時間でソールドアウトした。
-  - 1997年
-      - 3月21日、5thアルバム『FIRE DROPS』リリース。
-  - 1999年
-      - 9月、本格的な再結成をする。
-  - 2000年
-      - 3月16日、ライブアルバム『LIVE DOGS』リリース。
-      - 6月21日、6thアルバム『JUPITER TRIBUS』リリース。
-  - 2001年
-      - 9月5日、セルフカバーアルバム『Re:Works』リリース。
-  - 2002年
-      - 4月24日、7thアルバム『7th』リリース。
-  - 2003年
-      - 三度目の活動休止をする。
-  - 2007年
-      - 活動期間などには拘らない復活をする。
-      - 4月4日、CD\&DVD BOX 『Lesson 20 -RED WARRIORS 20th Anniversary Box-』限定リリース。
-      - 6月17日鶯谷[東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")での[DIAMOND☆YUKAI](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")・ソロライヴに[木暮武彦](../Page/木暮武彦.md "wikilink")が出演、ライヴ終了後、10/20にRed Warriors『ラスト・ライヴ』を行うとユカイの口から発表される。
-      - 10月15日[渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")での[THE EASY WALKERS](https://ja.wikipedia.org/wiki/THE_EASY_WALKERS "wikilink")、[AKIMA & NEOSのライヴにゲスト出演](https://ja.wikipedia.org/wiki/AKIMA_&_NEOS "wikilink")。『ラストライヴ』を撤回、オリンピックのように5年に一度くらいはライヴをしたいとユカイの口から発表され、何度か言ったのちに4年に一度くらいと訂正される。
-      - 10月20日[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、11月3日[nagoya E.L.Lにて一夜限りのライブを行う](https://ja.wikipedia.org/wiki/nagoya_E.L.L "wikilink")。
-      - 12月21日、ライブアルバム『LIVE“LESSON21”』リリース。なお、同発のDVDは選曲が異なる。
-  - 2009年
-      - 3月1日HEAVEN'S ROCK さいたま新都心VJ-3、3月4日大阪なんばHatch、3月5日[nagoya E.L.L](https://ja.wikipedia.org/wiki/nagoya_E.L.L "wikilink")、3月8日[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にてライヴ"Lesson 23 〜 R\&R Carnival"を行う。ライヴの最後、去り際にユカイが『また来年！』と発言する。
-  - 2015年
-      - 9月13日（日）、さいたまスーパーアリーナで開催された『肉ロックフェス 2015』にて一夜限りの復活。初期アルバム３作より全１１曲を演奏する。
-
-<!-- end list -->
-
-  - 2017年
-
-　　・7月15日（土）、大宮ソニックシティ 大ホールにて『RED WARRIORS 30th Anniversary King's Rock'n Roll』を開催。オープニングアクトに氣志團が登壇した。
-
-　　・9月2日（土）、中野サンプラザにて『RED WARRIORS 30th Anniversary King's Rock'n Roll FINAL』を開催。当日は昼の部と夜の部の２ステージが行われた。
-
-・2018年
-
-　　・5月27日（日）、東京国際フォーラム ホールＡにて『King's Rock'n Roll "Very best of Red's"』を開催。人気投票で厳選された上位１０曲を含む全２０曲が演奏された。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")
+    2月8日、レッド・ウォーリアーズ結成。結成当初は「レベッカ♂」というバンド名だった。後に一時期「THE RED WARRIORS」と名乗っていた。
+  - [1986年](../Page/1986年.md "wikilink")
+    10月10日、1stアルバム『[LESSON 1](https://ja.wikipedia.org/wiki/LESSON_1 "wikilink")』でデビュー。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
+    6月21日、2ndアルバム『[CASINO DRIVE](https://ja.wikipedia.org/wiki/CASINO_DRIVE "wikilink")』リリース。
+  - [1988年](../Page/1988年.md "wikilink")
+    1月7日、初の[日本武道館](../Page/日本武道館.md "wikilink")公演を行う。
+    4月1日、3rdアルバム『[KING'S](https://ja.wikipedia.org/wiki/KING'S "wikilink")』リリース。
+    7月23日、[西武球場にてライブを行う](../Page/西武ドーム.md "wikilink")。
+    9月10日、[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")『[1988 KING'S ROCK'N'ROLL SHOW -LIVE AT SEIBU STADIUM-](https://ja.wikipedia.org/wiki/1988_KING'S_ROCK'N'ROLL_SHOW_-LIVE_AT_SEIBU_STADIUM- "wikilink")』をリリース。
+  - [1989年](../Page/1989年.md "wikilink")
+    1月16日 - 18日、日本武道館で3days公演を行う。
+    5月、8月開催の西武スタジアムでのライブを最後に解散することを表明。
+    7月21日、4thアルバム『[Swingin' Daze](https://ja.wikipedia.org/wiki/Swingin'_Daze "wikilink")』リリース。
+    8月26日、西武球場で2度目のスタジアムライブ。
+    10月30日・31日、日本武道館における「FINAL SESSION」にて解散。
+  - [1992年](../Page/1992年.md "wikilink")
+    事務所のライブイベントのため一日だけ再結成。
+  - [1996年](../Page/1996年.md "wikilink")
+    7月、期間限定で再結成。
+    11月12日、日本武道館公演を行う。チケットは発売後1時間でソールドアウト。
+  - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")
+    3月21日、5thアルバム『[FIRE DROPS](https://ja.wikipedia.org/wiki/FIRE_DROPS "wikilink")』リリース。
+  - [1999年](../Page/1999年.md "wikilink")
+    9月、本格的な再結成をする。
+  - [2000年](../Page/2000年.md "wikilink")
+    3月16日、ライブアルバム『[LIVE DOGS](https://ja.wikipedia.org/wiki/LIVE_DOGS "wikilink")』リリース。
+    6月21日、6thアルバム『[JUPITER TRIBUS](https://ja.wikipedia.org/wiki/JUPITER_TRIBUS "wikilink")』リリース。
+  - [2001年](../Page/2001年.md "wikilink")
+    9月5日、セルフカバーアルバム『[Re:Works](https://ja.wikipedia.org/wiki/Re:Works "wikilink")』リリース。
+  - [2002年](../Page/2002年.md "wikilink")
+    4月24日、7thアルバム『[7th](https://ja.wikipedia.org/wiki/7th "wikilink")』リリース。
+  - [2003年](../Page/2003年.md "wikilink")
+    三度目の活動休止をする。
+  - [2007年](../Page/2007年.md "wikilink")
+    活動期間などには拘らない復活をする。
+    4月4日、CD\&DVD BOX 『Lesson 20 -RED WARRIORS 20th Anniversary Box-』限定リリース。
+    6月17日、鶯谷[東京キネマ倶楽部](https://ja.wikipedia.org/wiki/東京キネマ倶楽部 "wikilink")での[DIAMOND☆YUKAI](https://ja.wikipedia.org/wiki/DIAMOND☆YUKAI "wikilink")ソロライブに、[木暮武彦](../Page/木暮武彦.md "wikilink")が出演。ライヴ終了後、10月20日にRed Warriors「ラストライブ」を行うとユカイの口から発表される。
+    10月15日、[渋谷O-WEST](https://ja.wikipedia.org/wiki/渋谷O-WEST "wikilink")での[THE EASY WALKERS](https://ja.wikipedia.org/wiki/THE_EASY_WALKERS "wikilink")・[AKIMA & NEOSのライブにゲスト出演](https://ja.wikipedia.org/wiki/秋間経夫 "wikilink")。「ラストライブ」を撤回、オリンピックのように5年に一度くらいはライブをしたいとユカイの口から発表され、何度か言ったのちに4年に一度くらいと訂正される。
+    10月20日に[Zepp Tokyo](https://ja.wikipedia.org/wiki/Zepp_Tokyo "wikilink")、11月3日にnagoya E.L.Lにてライブ。
+    12月21日、ライブアルバム『LIVE“LESSON21”』リリース。なお、同発のDVDは選曲が異なる。
+  - [2009年](../Page/2009年.md "wikilink")
+    3月1日にHEAVEN'S ROCKさいたま新都心VJ-3、3月4日に大阪[なんばHatch](https://ja.wikipedia.org/wiki/湊町リバープレイス#なんばHatch "wikilink")、3月5日にnagoya E.L.L、3月8日に[SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にてライブ「Lesson 23〜R\&R Carnival」を行う。ライブの最後、去り際にユカイが『また来年！』と発言。
+  - [2015年](../Page/2015年.md "wikilink")
+    9月13日、[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")で開催された「肉ロックフェス 2015」にてライブ。初期アルバム3作より全11曲を演奏する。
+  - [2017年](../Page/2017年.md "wikilink")
+    7月15日、[大宮ソニックシティ](../Page/大宮ソニックシティ.md "wikilink") 大ホールにて「RED WARRIORS 30th Anniversary King's Rock'n Roll」を開催。オープニングアクトに[氣志團](../Page/氣志團.md "wikilink")が出演した。
+    9月2日、[中野サンプラザ](../Page/中野サンプラザ.md "wikilink")にて「RED WARRIORS 30th Anniversary King's Rock'n Roll FINAL」を開催。当日は昼の部と夜の部の2ステージが行われた。
+  - [2018年](../Page/2018年.md "wikilink")
+    5月27日、[東京国際フォーラム](../Page/東京国際フォーラム.md "wikilink") ホールAにて「King's Rock'n Roll "Very best of Red's"」を開催。人気投票の上位10曲を含む全20曲が演奏された。
 
 ## 作品
 

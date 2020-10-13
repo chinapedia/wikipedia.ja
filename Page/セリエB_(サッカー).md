@@ -9,7 +9,7 @@
 
 ## 所属クラブ
 
-2019-20シーズンの所属クラブ
+2020-21シーズンの所属クラブ
 
   - ホームタウン名の前にある画像は、ホームタウンが所在する[州の旗](../Page/イタリアの地方行政区画.md "wikilink")。
 
@@ -34,14 +34,22 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:Bianco_e_Nero_con_Aquila.svg" title="wikilink">20px</a> <strong><a href="../Page/スペツィア・カルチョ.md" title="wikilink">スペツィア・カルチョ</a></strong></p></td>
-<td><p><a href="../Page/1906年.md" title="wikilink">1906年</a></p></td>
-<td><p><a href="../Page/ラ・スペツィア.md" title="wikilink">ラ・スペツィア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・アルベルト・ピッコ" title="wikilink">スタディオ・アルベルト・ピッコ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_Red_HEX-FF0000_H_White_stripe.svg" title="wikilink">20px</a> <strong><a href="../Page/SSDモンツァ1912.md" title="wikilink">ACモンツァ</a></strong></p></td>
+<td><p><a href="../Page/1912年.md" title="wikilink">1912年</a></p></td>
+<td><p><a href="../Page/モンツァ.md" title="wikilink">モンツァ</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:Blu_e_Bianco_(V_sul_petto).svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/ブレシア・カルチョ" title="wikilink">ブレシア・カルチョ</a></strong></p></td>
+<td><p><a href="../Page/1911年.md" title="wikilink">1911年</a></p></td>
+<td><p><a href="../Page/ブレシア.md" title="wikilink">ブレシア</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・マリオ・リガモンティ" title="wikilink">スタディオ・マリオ・リガモンティ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_pentasection_vertical_HEX-BD0020_HEX-CCCCCC.svg" title="wikilink">20px</a> <strong><a href="../Page/USクレモネーゼ.md" title="wikilink">USクレモネーゼ</a></strong></p></td>
 <td><p><a href="../Page/1903年.md" title="wikilink">1903年</a></p></td>
 <td><p><a href="../Page/クレモナ.md" title="wikilink">クレモナ</a></p></td>
@@ -49,11 +57,19 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_Amaranto_Cittadella.png" title="wikilink">20px</a> <strong><a href="../Page/ASチッタデッラ.md" title="wikilink">ASチッタデッラ</a></strong></p></td>
 <td><p><a href="../Page/1973年.md" title="wikilink">1973年</a></p></td>
 <td><p><a href="../Page/チッタデッラ.md" title="wikilink">チッタデッラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・ピエル・チェーザレ・トンボラート" title="wikilink">スタディオ・ピエル・チェーザレ・トンボラート</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_vertical_stripes_Red_HEX-FF0000_White.svg" title="wikilink">20px</a> <strong><a href="../Page/ヴィチェンツァ・カルチョ.md" title="wikilink">LRヴィチェンツァ・ヴィルトゥス</a></strong></p></td>
+<td><p><a href="../Page/1902年.md" title="wikilink">1902年</a></p></td>
+<td><p><a href="../Page/ヴィチェンツァ.md" title="wikilink">ヴィチェンツァ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・ロメオ・メンティ" title="wikilink">スタディオ・ロメオ・メンティ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -77,7 +93,23 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_vertical_Black_Green_HEX-008736.svg" title="wikilink">20px</a> <strong><a href="../Page/ポルデノーネ・カルチョ.md" title="wikilink">ポルデノーネ・カルチョ</a></strong></p></td>
 <td><p><a href="../Page/1920年.md" title="wikilink">1920年</a></p></td>
 <td><p><a href="../Page/ポルデノーネ.md" title="wikilink">ポルデノーネ</a></p></td>
-<td><p><a href="../Page/スタディオ・フリウーリ.md" title="wikilink">ダチア・アレーナ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:Azzurro_e_Bianco_con_colori_di_Ferrara.svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/S.P.A.L." title="wikilink">S.P.A.L.</a></strong></p></td>
+<td><p><a href="../Page/1907年.md" title="wikilink">1907年</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フェラーラ" title="wikilink">フェラーラ</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:Flag_maroon_HEX-7B1C20.svg" title="wikilink">20px</a> <strong><a href="../Page/ACレッジャーナ1919.md" title="wikilink">ACレッジャーナ1919</a></strong></p></td>
+<td><p><a href="../Page/1919年.md" title="wikilink">1919年</a></p></td>
+<td><p><a href="../Page/レッジョ・エミリア.md" title="wikilink">レッジョ・エミリア</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マペイ・スタジアム＝チッタ・デル・トリコローレ" title="wikilink">マペイ・スタジアム</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -94,22 +126,6 @@
 <td><p><a href="../Page/1920年.md" title="wikilink">1920年</a></p></td>
 <td><p><a href="../Page/エンポリ.md" title="wikilink">エンポリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・カルロ・カステラーニ" title="wikilink">スタディオ・カルロ・カステラーニ</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_solid_HEX-8E3145.svg" title="wikilink">20px</a> <strong><a href="../Page/ASリヴォルノ・カルチョ.md" title="wikilink">ASリヴォルノ・カルチョ</a></strong></p></td>
-<td><p><a href="../Page/1915年.md" title="wikilink">1915年</a></p></td>
-<td><p><a href="../Page/リヴォルノ.md" title="wikilink">リヴォルノ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・アルマンド・ピッキ" title="wikilink">スタディオ・アルマンド・ピッキ</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_Rosso_con_grifone_Bianco.png" title="wikilink">20px</a> <strong><a href="../Page/ペルージャ・カルチョ.md" title="wikilink">ACペルージャ・カルチョ</a></strong></p></td>
-<td><p><a href="../Page/1905年.md" title="wikilink">1905年</a></p></td>
-<td><p><a href="../Page/ペルージャ.md" title="wikilink">ペルージャ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・レナト・クーリ" title="wikilink">スタディオ・レナト・クーリ</a></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -138,22 +154,6 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_pentasection_vertical_HEX-DF0728_HEX-FAF428.svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/ベネヴェント・カルチョ" title="wikilink">ベネヴェント・カルチョ</a></strong></p></td>
-<td><p><a href="../Page/1929年.md" title="wikilink">1929年</a></p></td>
-<td><p><a href="../Page/ベネヴェント.md" title="wikilink">ベネヴェント</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_Giallo_e_Blu_Strisce-Flag.svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/SSユーヴェ・スタビア" title="wikilink">SSユーヴェ・スタビア</a></strong></p></td>
-<td><p><a href="../Page/1907年.md" title="wikilink">1907年</a></p></td>
-<td><p><a href="../Page/カステッランマーレ・ディ・スタービア.md" title="wikilink">カステッランマーレ・ディ・スタービア</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・ロメオ・メンティ_(カステッランマーレ・ディ・スタービア)" title="wikilink">スタディオ・ロメオ・メンティ</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/画像:Flag_maroon_HEX-701D2F.svg" title="wikilink">20px</a> <strong><a href="../Page/USサレルニターナ1919.md" title="wikilink">USサレルニターナ1919</a></strong></p></td>
 <td><p><a href="../Page/1919年.md" title="wikilink">1919年</a></p></td>
 <td><p><a href="../Page/サレルノ.md" title="wikilink">サレルノ</a></p></td>
@@ -162,6 +162,14 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_Giallorosso_con_colori_di_Lecce.png" title="wikilink">20px</a> <strong><a href="../Page/USレッチェ.md" title="wikilink">USレッチェ</a></strong></p></td>
+<td><p><a href="../Page/1908年.md" title="wikilink">1908年</a></p></td>
+<td><p><a href="../Page/レッチェ.md" title="wikilink">レッチェ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・ヴィア・デル・マーレ" title="wikilink">スタディオ・ヴィア・デル・マーレ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_vertical_Blue_HEX-120059_Red_HEX-F4001C.svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/コゼンツァ・カルチョ" title="wikilink">コゼンツァ・カルチョ</a></strong></p></td>
 <td><p><a href="../Page/1912年.md" title="wikilink">1912年</a></p></td>
 <td><p><a href="../Page/コゼンツァ.md" title="wikilink">コゼンツァ</a></p></td>
@@ -169,19 +177,11 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_vertical_Blue_HEX-120059_Red_HEX-F4001C.svg" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/FCクロトーネ" title="wikilink">FCクロトーネ</a></strong></p></td>
-<td><p><a href="../Page/1923年.md" title="wikilink">1923年</a></p></td>
-<td><p><a href="../Page/クロトーネ.md" title="wikilink">クロトーネ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・エツィオ・スチーダ" title="wikilink">スタディオ・エツィオ・スチーダ</a></p></td>
-<td></td>
-<td></td>
-</tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ファイル:600px_Granata_Torri_e_Falce.png" title="wikilink">20px</a> <strong><a href="https://ja.wikipedia.org/wiki/トラーパニ・カルチョ" title="wikilink">トラーパニ・カルチョ</a></strong></p></td>
-<td><p><a href="../Page/1905年.md" title="wikilink">1905年</a></p></td>
-<td><p><a href="../Page/トラーパニ.md" title="wikilink">トラーパニ</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/画像:600px_HEX-8C0000_with_White_Italic_letter_R.svg" title="wikilink">20px</a> <strong><a href="../Page/レッジーナ1914.md" title="wikilink">レッジーナ1914</a></strong></p></td>
+<td><p><a href="../Page/1914年.md" title="wikilink">1914年</a></p></td>
+<td><p><a href="../Page/レッジョ・ディ・カラブリア.md" title="wikilink">レッジョ・ディ・カラブリア</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スタディオ・オレステ・グラニッロ" title="wikilink">スタディオ・オレステ・グラニッロ</a></p></td>
 <td></td>
 <td></td>
 </tr>

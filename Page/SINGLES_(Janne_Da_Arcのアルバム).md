@@ -13,7 +13,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[2月21日](../Page/2月21日.md "wikilink")には、2万枚限定生産でスペシャル・プライス盤として、3rdベストアルバム『[SINGLES 2](../Page/SINGLES_2_\(Janne_Da_Arcのアルバム\).md "wikilink")』と共に再発売された。なお、廉価盤のためボーナストラックは未収録となっており、全16曲を1枚に収めている\[3\]。
 
-[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")や[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")などの配信版ではDISC 2の2曲がカットされている。
+[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")や[Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")などの配信版ではDISC 2の2曲がカットされている\[4\]\[5\]。
 
 ## 収録曲
 
@@ -119,3 +119,5 @@
 1.  規格品番の順列上、正式には2枚目のベストアルバムと扱われる。
 2.  「[Vanity](https://ja.wikipedia.org/wiki/Heaven's_Place/Vanity "wikilink")」は[両A面からなる表題曲であるが](https://ja.wikipedia.org/wiki/A面/B面#両A面シングル・両B面シングル "wikilink")、カップリング曲として扱われ『ANOTHER SINGLES』に収録された。
 3.
+4.  [Janne Da Arcの「SINGLES」をApple Musicで](https://music.apple.com/jp/album/singles/843622967)
+5.  [SINGLES - Album by Janne Da Arc｜Spotify](https://open.spotify.com/album/1llYyz34nuRjTQuEPyai0r)

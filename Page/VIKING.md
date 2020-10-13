@@ -3,7 +3,7 @@
 
 『**VIKING**』は、[1947年](../Page/1947年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")22年）10月[神戸で発刊された](../Page/神戸市.md "wikilink")[文芸](https://ja.wikipedia.org/wiki/文芸 "wikilink")[同人誌](../Page/同人誌.md "wikilink")。 創刊同人は[富士正晴](../Page/富士正晴.md "wikilink")・[井口浩](https://ja.wikipedia.org/wiki/井口浩 "wikilink")・[伊東幹治](https://ja.wikipedia.org/wiki/伊東幹治 "wikilink")・[島尾敏雄](../Page/島尾敏雄.md "wikilink")・[林富士馬](../Page/林富士馬.md "wikilink")ら。
 
-特定の主義・方針をかかげず、無思想・無任務をつらぬき、唯一存続することのみを目的とする。 [島尾敏雄](../Page/島尾敏雄.md "wikilink")・[庄野潤三](../Page/庄野潤三.md "wikilink")・[久坂葉子](../Page/久坂葉子.md "wikilink")・[高橋和巳](../Page/高橋和巳.md "wikilink")・[福田紀一](../Page/福田紀一.md "wikilink")・[山田稔](../Page/山田稔_\(小説家\).md "wikilink")・[杉本秀太郎](../Page/杉本秀太郎.md "wikilink")・[津本陽](../Page/津本陽.md "wikilink")・[宇江敏勝](https://ja.wikipedia.org/wiki/宇江敏勝 "wikilink")・[久坂部羊](../Page/久坂部羊.md "wikilink")らを輩出し、2020年9月（838号）現在も継続発行されている。
+特定の主義・方針をかかげず、無思想・無任務をつらぬき、唯一存続することのみを目的とする。 [島尾敏雄](../Page/島尾敏雄.md "wikilink")・[庄野潤三](../Page/庄野潤三.md "wikilink")・[久坂葉子](../Page/久坂葉子.md "wikilink")・[高橋和巳](../Page/高橋和巳.md "wikilink")・[福田紀一](../Page/福田紀一.md "wikilink")・[山田稔](../Page/山田稔_\(小説家\).md "wikilink")・[杉本秀太郎](../Page/杉本秀太郎.md "wikilink")・[津本陽](../Page/津本陽.md "wikilink")・[宇江敏勝](https://ja.wikipedia.org/wiki/宇江敏勝 "wikilink")・[久坂部羊](../Page/久坂部羊.md "wikilink")らを輩出し、2020年10月（838号）現在も継続発行されている。
 
 ## 掲載された主な作品
 
@@ -119,7 +119,7 @@
 
 　　　　　（[『国境（はて）』鳥影社](https://www.amazon.co.jp/%E5%9B%BD%E5%A2%83-%E3%81%AF%E3%81%A6-%E6%9C%9D%E6%AF%94%E5%A5%88-%E6%95%A6/dp/4862651917)、2009年（平成21年）所収）
 
-[永井芙佐子](https://mainichi.jp/articles/20181016/ddl/k28/040/296000c)「金の鈴」上・下＜[VIKING799号](http://viking1947.sakura.ne.jp/backnumber/701-800/0799.html)～[800号](http://viking1947.sakura.ne.jp/backnumber/701-800/0800.html)（2017年7月～8月）＞（神戸エルマール文学賞受賞）
+[永井芙佐子](https://mainichi.jp/articles/20181016/ddl/k28/040/296000c)「金の鈴」上・下＜[VIKING799号](http://viking1947.sakura.ne.jp/backnumber/701-800/0799.html)～[800号](http://viking1947.sakura.ne.jp/backnumber/701-800/0800.html)（2017年7月～8月）＞（[神戸エルマール文学賞受賞](https://mainichi.jp/articles/20181016/ddl/k28/040/296000c)）
 
 ## 『文學界』同人雑誌評にとりあげられた作品一覧
 

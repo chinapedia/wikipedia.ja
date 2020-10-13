@@ -168,7 +168,7 @@
   - 8月11日 [チキチキマシン猛レース 〜In Space〜](../Page/チキチキマシン猛レース.md "wikilink")2（フューチャーパイレーツ）
   - 8月11日 [ピラミッドイントゥルーダ](https://ja.wikipedia.org/wiki/ピラミッドイントゥルーダ "wikilink")（[タイトー](https://ja.wikipedia.org/wiki/タイトー "wikilink")）
   - 8月25日 [コープス・キラー](https://ja.wikipedia.org/wiki/コープス・キラー "wikilink")（[アクレイムジャパン](https://ja.wikipedia.org/wiki/アクレイムジャパン "wikilink")）
-  - 8月25日 [サブリーム・ウォリアー](https://ja.wikipedia.org/wiki/サブリーム・ウォリアー "wikilink")（アクレイムジャパン）
+  - 8月25日 [サプリーム・ウォリアー](https://ja.wikipedia.org/wiki/サプリーム・ウォリアー "wikilink")（アクレイムジャパン）
   - 9月1日 [バーチャルソー](https://ja.wikipedia.org/wiki/バーチャルソー "wikilink")（[イマジニア](../Page/イマジニア.md "wikilink")）
   - 9月8日 [アローン・イン・ザ・ダーク2](https://ja.wikipedia.org/wiki/アローン・イン・ザ・ダーク2 "wikilink")（エレクトロニック・アーツ・ビクター）
   - 9月14日 [AI将棋](../Page/AI将棋.md "wikilink")（タイトー）

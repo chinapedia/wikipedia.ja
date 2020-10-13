@@ -306,7 +306,7 @@ MISSION 3〜5はDVDには収録されていない。そのためDVDではMISSION
 
 ### 4ne4ne団
 
-イメージはタイムボカンシリーズの「悪玉トリオ」から、ネーミングは[レインボーマン](https://ja.wikipedia.org/wiki/レインボーマン "wikilink")の「死ね死ね団」から。
+イメージはタイムボカンシリーズの「悪玉トリオ」から、ネーミングは[レインボーマン](../Page/レインボーマン.md "wikilink")の「死ね死ね団」から。
 
   - マリコ様：[宮下今日子](../Page/宮下今日子.md "wikilink")
   - ソンソン：[古本新之輔](https://ja.wikipedia.org/wiki/古本新之輔 "wikilink")

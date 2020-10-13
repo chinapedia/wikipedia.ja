@@ -1,38 +1,107 @@
 > この記事は[Smart Game Format](https://ja.wikipedia.org/wiki/Smart_Game_Format)から翻訳されています。
 
 
-**Smart Game Format**（**SGF**）は[ボードゲーム](../Page/ボードゲーム.md "wikilink")の[棋譜](../Page/棋譜.md "wikilink")保存に使われるコンピュータ[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")である。
+（）は[ボードゲーム](../Page/ボードゲーム.md "wikilink")の[棋譜](../Page/棋譜.md "wikilink")保存に使われるコンピュータ[ファイルフォーマット](../Page/ファイルフォーマット.md "wikilink")であり、で提供されている\[1\]。1987年に第1版（FF\[1\]）が提案され、1999年の第4版（FF\[4\]）が最新版である。SGFフォーマットが最も一般に普及しているゲームは囲碁であるが、複数のボードゲームに対応している。
 
-SGFは、Smart Go Board の作者としても知られる Anders Kierulf によって1987年に提案された\[1\]。その後改良が加えられ、現在一般的に使われているのは1990年代に作られた第4版(FF\[4\])である。
+## 沿革
 
-SGFフォーマットが最も一般に普及しているゲームは囲碁であるが、複数のボードゲームに対応している。SGFが対応している主要なボードゲームには以下のものがある。
+SGFは、の作者としても知られるAnders Kierulfにより1987年に提案された\[2\]。このときはコンピュータ囲碁における標準としての提案だったが、広く受け入れられなかったため、1990年に発表された自身の[博士論文](https://ja.wikipedia.org/wiki/博士論文 "wikilink")で用のファイルフォーマットとして仕様書を付録に入れた\[3\]\[4\]。この1987年/1990年版が第1版（FF\[1\]）であり、FF\[1\]では対応するボードゲームが[囲碁](../Page/囲碁.md "wikilink")、[リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")、[チェス](../Page/チェス.md "wikilink")、[ナイン・メンズ・モリス](https://ja.wikipedia.org/wiki/ナイン・メンズ・モリス "wikilink")の4種類だった\[5\]。
 
-  - [囲碁](../Page/囲碁.md "wikilink")
-  - [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")
-  - [チェス](../Page/チェス.md "wikilink") - [Portable Game Notation形式が一般的](../Page/Portable_Game_Notation.md "wikilink")。
-  - [連珠](../Page/連珠.md "wikilink")
-  - [将棋](../Page/将棋.md "wikilink")
-  - Lines of Action
-  - [バックギャモン](../Page/バックギャモン.md "wikilink")
-  - Hex
-  - The Game of the Amazons
-  - Octi
-  - Gess
+1993年にマルティン・ミュラー（）がSGFの仕様を整理して第3版（FF\[3\]）を発表し\[6\]、対応するゲームがFF\[1\]で対応していた4種類に[五目並べ](../Page/五目並べ.md "wikilink")、[連珠](../Page/連珠.md "wikilink")、[シャンチー](../Page/シャンチー.md "wikilink")、[将棋](../Page/将棋.md "wikilink")を加えた7種類（仕様では五目並べと連珠が同一として扱われている）\[7\]。その後、1997年にアルノ・ホロシ（）が第3版から新機能を追加した第4版（FF\[4\]）を発表した\[8\]。
 
-SGFはゲーム情報の保存に[木構造表現を使用するが](../Page/木構造_\(データ構造\).md "wikilink")、この木構造では単純な変化を追加することができる。なお、SGFでは可搬性の向上を理由に、[バイナリ](../Page/バイナリ.md "wikilink")[データ](../Page/データ.md "wikilink")の代わりに[テキスト](../Page/テキスト.md "wikilink")ベースのデータ形式を採用している。
+1999年に第5版（FF\[5\]）制定に向けた議論が開始されたが、正式発表には至っていない\[9\]。また、2002年に[XML](https://ja.wikipedia.org/wiki/XML "wikilink")を採用するXGFフォーマット（）が提案されたが\[10\]、やはり広く採用されていない。
+
+## 対応ボードゲーム
+
+SGFファイルのGMプロパティはゲーム種類を示しており、FF\[4\]では1から40までの40種が定義されている\[11\]。
+
+SGFが対応している主要なボードゲームには以下のものがある。
+
+| GMプロパティ | ボードゲーム                                                              | 注釈                                                                            |
+| ------- | ------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
+| 1       | [囲碁](../Page/囲碁.md "wikilink")                                      |                                                                               |
+| 2       | [リバーシ](../Page/オセロ_\(ボードゲーム\).md "wikilink")                        |                                                                               |
+| 3       | [チェス](../Page/チェス.md "wikilink")                                    | [Portable Game Notation形式が一般的](../Page/Portable_Game_Notation.md "wikilink")。 |
+| 4       | [五目並べ](../Page/五目並べ.md "wikilink")、[連珠](../Page/連珠.md "wikilink")   | 五目並べと連珠は同一扱い                                                                  |
+| 5       | [ナイン・メンズ・モリス](https://ja.wikipedia.org/wiki/ナイン・メンズ・モリス "wikilink") |                                                                               |
+| 6       | [バックギャモン](../Page/バックギャモン.md "wikilink")                            |                                                                               |
+| 7       | [シャンチー](../Page/シャンチー.md "wikilink")                                |                                                                               |
+| 8       | [将棋](../Page/将棋.md "wikilink")                                      |                                                                               |
+| 11      | [ヘックス](../Page/ヘックス_\(ボードゲーム\).md "wikilink")                       |                                                                               |
+| 12      | [闘獣棋](https://ja.wikipedia.org/wiki/闘獣棋 "wikilink")                 |                                                                               |
+| 17      | [タントリックス](https://ja.wikipedia.org/wiki/タントリックス "wikilink")         |                                                                               |
+| 21      | [ツイクスト](https://ja.wikipedia.org/wiki/ツイクスト "wikilink")             |                                                                               |
+
+SGFが対応している主要なボードゲーム\[12\]
+
+## 仕様
+
+### データ形式
+
+SGFは[テキスト](../Page/テキスト.md "wikilink")ベースのデータ形式を採用し、ゲーム情報の保存に[木構造表現を使用するが](../Page/木構造_\(データ構造\).md "wikilink")、この木構造では単純な変化を追加することができる\[13\]。この木構造では[セミコロン](../Page/セミコロン.md "wikilink")（`;`）で親ノードと子ノードを区切り、半角丸括弧（`(`と`)`）で兄弟ノードのグループを表記する\[14\]。また、ノードには`プロパティ名[プロパティ値]`という形でプロパティが指定される\[15\]。
+
+### プロパティ
+
+プロパティ名は大文字アルファベットでのみ定義されており、ノードにおける指定では順不同で指定できる\[16\]。プロパティは根（SGFバージョン(FF)、ゲーム種類(GM)など根ノードでのみ指定できる）、ゲーム情報（黒番と白番のプレイヤー名(PB, PW)、[コミ](../Page/コミ.md "wikilink")(KM)など一局ごとの情報）、セットアップ（最初から置かれている黒石と白石(AB, AW)など、最初の局面を示す情報）、着手（黒番の着手(B)、白番の着手(W)など）、その他（コメント(C)、[悪手](https://ja.wikipedia.org/wiki/悪手 "wikilink")(BM)など）に大別される\[17\]\[18\]。
+
+| プロパティ名 | 種類      | プロパティ値の例     | 説明                                                                          |
+| ------ | ------- | ------------ | --------------------------------------------------------------------------- |
+| FF     | 根プロパティ  | 4            | SGFのバージョン                                                                   |
+| GM     | 根プロパティ  | 1            | ゲームの種類（[\#対応ボードゲーム](https://ja.wikipedia.org/wiki/#対応ボードゲーム "wikilink")を参照） |
+| CA     | 根プロパティ  | UTF-8        | 文字セット                                                                       |
+| AP     | 根プロパティ  | CGoban:1.6.2 | アプリケーション名とバージョン                                                             |
+| SZ     | 根プロパティ  | 19、9:10      | ゲームボードのサイズ                                                                  |
+| DT     | ゲーム情報   | 2020-09-21   | 対局日付                                                                        |
+| EV     | ゲーム情報   | ABCトーナメント    | 大会名                                                                         |
+| HA     | ゲーム情報   | 2            | [置き石の数](../Page/置き碁.md "wikilink")（囲碁専用プロパティ）                               |
+| KM     | ゲーム情報   | 5.5          | [コミ](../Page/コミ.md "wikilink")（囲碁専用プロパティ）                                   |
+| PB     | ゲーム情報   | 田中           | 黒番のプレイヤー名                                                                   |
+| PW     | ゲーム情報   | 佐藤           | 白番のプレイヤー名                                                                   |
+| RE     | ゲーム情報   | W+0.5        | 対局結果                                                                        |
+| RU     | ゲーム情報   | Japanese     | 適用ルール                                                                       |
+| TM     | ゲーム情報   | 3600         | 持ち時間                                                                        |
+| AB     | セットアップ  | cc           | 最初から置かれている黒石                                                                |
+| AW     | セットアップ  | dd           | 最初から置かれている白石                                                                |
+| PL     | セットアップ  | W            | 手番                                                                          |
+| B      | 着手プロパティ | cc           | 黒番の着手                                                                       |
+| W      | 着手プロパティ | dd           | 白番の着手                                                                       |
+| BM     | 着手プロパティ |              | [悪手](https://ja.wikipedia.org/wiki/悪手 "wikilink")                           |
+| IT     | 着手プロパティ |              | [妙手](https://ja.wikipedia.org/wiki/妙手 "wikilink")                           |
+| TE     | 着手プロパティ |              | [手筋](../Page/手筋_\(囲碁\).md "wikilink")                                       |
+| C      | その他     | これはコメントです。   | コメント                                                                        |
+
+主要なプロパティ\[19\]
+
+## 脚注
 
 ## 関連項目
 
   - [棋譜](../Page/棋譜.md "wikilink")
 
-## 脚注
-
 ## 外部リンク
 
+  - [公式サイト](https://www.red-bean.com/sgf/)
   - [棋譜再生・編集ソフト　Kiin Editor](https://www.nihonkiin.or.jp/teach/kiin_editor/) - [日本棋院](../Page/日本棋院.md "wikilink")
+  - [Smart Game Format](https://senseis.xmp.net/?SGFFile) -
 
-  -
-  -
 [Category:コンピュータ囲碁](https://ja.wikipedia.org/wiki/Category:コンピュータ囲碁 "wikilink") [Category:コンピュータ将棋](https://ja.wikipedia.org/wiki/Category:コンピュータ将棋 "wikilink") [Category:コンピュータチェス](https://ja.wikipedia.org/wiki/Category:コンピュータチェス "wikilink") [Category:ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ファイルフォーマット "wikilink")
 
 1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+13.
+14.
+15.
+16.
+17.
+18.
+19.

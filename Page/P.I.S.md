@@ -63,7 +63,7 @@
       - [植田真由美](https://ja.wikipedia.org/wiki/植田真由美 "wikilink")
       - [小松洋子](https://ja.wikipedia.org/wiki/小松洋子 "wikilink")
       - [治村有美](https://ja.wikipedia.org/wiki/治村有美 "wikilink")
-      - ［［ちゃらんぽらん］］
+      - [ちゃらんぽらん](../Page/ちゃらんぽらん.md "wikilink")
 
 ## 脚注
 

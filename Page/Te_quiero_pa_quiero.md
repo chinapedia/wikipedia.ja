@@ -37,7 +37,7 @@
   - [はつらつトゥデイ](https://ja.wikipedia.org/wiki/はつらつトゥデイ "wikilink")
   - [FMいきいきワイド〜リズムにのって〜](https://ja.wikipedia.org/wiki/FMいきいきワイド〜リズムにのって〜 "wikilink")
 
-[Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink")
+[Category:1998年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1998年のラジオ番組_\(日本\) "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組‎ "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink")
 
 1.
 2.

@@ -24,6 +24,7 @@
   - 1993年結成。グループ名は[キミドリ](https://ja.wikipedia.org/wiki/キミドリ "wikilink")のKURO-OVIが命名。
   - 1995年 デビューEP『SHAKKATTACK』をNATURAL FOUNDATIONより発売\[3\]。
   - 1996年4月24日 [cutting edgeから](https://ja.wikipedia.org/wiki/cutting_edge "wikilink")「[手のひらを太陽に](https://ja.wikipedia.org/wiki/手のひらを太陽に "wikilink")」のカバーでメジャーデビュー\[4\]。同年には[BUDDHA BRANDと](../Page/BUDDHA_BRAND.md "wikilink")**大神**を結成し[さんピンCAMP](../Page/さんピンCAMP.md "wikilink")に参加する。
+  - 1996年9月 原宿にHIPHOP居酒屋「龍宮」を開店。 [NIGHT CAMP CLICK](https://ja.wikipedia.org/wiki/NIGHT_CAMP_CLICK "wikilink")、フォトグラファーの[TAKASHI OSATO等を輩出した](https://ja.wikipedia.org/wiki/TAKASHI_OSATO "wikilink")。
   - 1997年 1stアルバム『HERO THE S.Z.』を発売。
   - 1999年 2ndアルバム『JOURNEY OF FORESIGHT』を発売。
   - 2000年2月から MCの2人はアパレルブランド「SWAGGER」を運営。

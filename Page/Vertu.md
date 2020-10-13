@@ -7,7 +7,7 @@
 
 時計業界での[ロレックス](../Page/ロレックス.md "wikilink")や[IWC](../Page/インターナショナル・ウォッチ・カンパニー.md "wikilink")、[パテック・フィリップ](../Page/パテック・フィリップ.md "wikilink")等以上の存在感を持つ携帯電話、とのコンセプトのもとに、[2002年](../Page/2002年.md "wikilink")に富裕層向けの高級携帯電話ブランドとして展開を開始し、現在[ヨーロッパ](../Page/ヨーロッパ.md "wikilink")や[アジア](../Page/アジア.md "wikilink")、[中東](../Page/中東.md "wikilink")、[アメリカ等の諸国で展開している](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
-職人の手作りによる[本革や](../Page/皮革.md "wikilink")[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")などの[宝石](../Page/宝石.md "wikilink")、[プラチナ](https://ja.wikipedia.org/wiki/プラチナ "wikilink")・[金](../Page/金.md "wikilink")などをちりばめた[デザイン](../Page/デザイン.md "wikilink")の、本物志向を追求した\[2\]数十万円から数百万円の価格で販売される電話機と、質の高い[コンシェルジュサービスの提供をしている](../Page/コンシエルジュ.md "wikilink")。
+職人の手作りによる[本革や](../Page/皮革.md "wikilink")[ダイヤモンド](../Page/ダイヤモンド.md "wikilink")などの[宝石](../Page/宝石.md "wikilink")、[プラチナ](https://ja.wikipedia.org/wiki/プラチナ "wikilink")・[金](../Page/金.md "wikilink")などをちりばめた[デザイン](../Page/デザイン.md "wikilink")の、本物志向を追求した\[2\]数十万円から数百万円の価格で販売される電話機と、質の高い[コンシェルジュ](../Page/コンシェルジュ.md "wikilink")サービスの提供をしている。
 
 Vertuの携帯電話端末には必ず**コンシェルジュボタン**があり、利用者はボタンを押すだけでユーザー専用のコンシェルジュに電話をかけ、様々なサービスや情報を受けることができる。
 

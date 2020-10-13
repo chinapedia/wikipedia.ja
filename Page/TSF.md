@@ -100,8 +100,25 @@
 
   - [仮性半陰陽](https://ja.wikipedia.org/wiki/半陰陽 "wikilink")
       - 性器の外見が男性に近い物だったために男性として育てられたが、[第二次性徴](../Page/第二次性徴.md "wikilink")を迎えて女性であることが判明するもの。またはその逆。
+
+<!-- end list -->
+
+  -
+
+      -
+        『[二分割幽霊綺譚](https://ja.wikipedia.org/wiki/二分割幽霊綺譚 "wikilink")』、『[革命の日](../Page/革命の日.md "wikilink")』などが当てはまる。
+
+<!-- end list -->
+
   - 病気
       - 男性(女性)の肉体を女性化(男性化)・女体化(男体化)する伝染病、およびその効果を持つウイルス、細菌。
+
+<!-- end list -->
+
+  -
+
+      -
+        『[にょたいか俺\!](https://ja.wikipedia.org/wiki/にょたいか俺! "wikilink")』などが当てはまる。
 
 ## TSFと似た作品のジャンル
 
@@ -180,14 +197,15 @@
 | あく | [AKUMAで少女](../Page/AKUMAで少女.md "wikilink")                                                              | 2007年 | 日本   | 入れ替わり | 小説   |                                                         |
 | あす | [アスカはいぶりっど](https://ja.wikipedia.org/wiki/アスカはいぶりっど "wikilink")                                         | 2009年 | 日本   | 変身    | コミック |                                                         |
 | あに | [ANIMAL X](https://ja.wikipedia.org/wiki/ANIMAL_X "wikilink")                                           |       | 日本   |       |      |                                                         |
-| あめ | [あめのちはれ](https://ja.wikipedia.org/wiki/あめのちはれ "wikilink")                                               |       | 日本   | 変身    | コミック |                                                         |
+| あめ | [あめのちはれ](https://ja.wikipedia.org/wiki/あめのちはれ "wikilink")                                               | 2008年 | 日本   | 変身    | コミック |                                                         |
 | いち | [一年生になっちゃったら](../Page/一年生になっちゃったら.md "wikilink")                                                        | 2007年 | 日本   | 手術    | コミック |                                                         |
-| えす | [エスプガルーダ](../Page/エスプガルーダ.md "wikilink")                                                                |       | 日本   |       |      |                                                         |
-| えす | [エスプガルーダII](https://ja.wikipedia.org/wiki/エスプガルーダII "wikilink")                                         |       | 日本   |       |      |                                                         |
-| えん | [えんとらんす\!](https://ja.wikipedia.org/wiki/えんとらんす! "wikilink")                                            |       | 日本   |       |      |                                                         |
+| えす | [エスプガルーダ](../Page/エスプガルーダ.md "wikilink")                                                                |       | 日本   |       | ゲーム  |                                                         |
+| えす | [エスプガルーダII](https://ja.wikipedia.org/wiki/エスプガルーダII "wikilink")                                         |       | 日本   |       | ゲーム  |                                                         |
+| えん | [えんとらんす\!](https://ja.wikipedia.org/wiki/えんとらんす! "wikilink")                                            | 2010年 | 日本   | 変身    | コミック |                                                         |
 | おか | [おかわりナポリタン](https://ja.wikipedia.org/wiki/おかわりナポリタン "wikilink")                                         |       | 日本   |       |      |                                                         |
-| おじ | [おじゃまユーレイくん](../Page/おじゃまユーレイくん.md "wikilink")                                                          |       | 日本   |       |      |                                                         |
+| おじ | [おじゃまユーレイくん](../Page/おじゃまユーレイくん.md "wikilink")                                                          |       | 日本   |       | コミック |                                                         |
 | おれ | [おれがあいつであいつがおれで](../Page/おれがあいつであいつがおれで.md "wikilink")                                                  |       | 日本   | 入れ替わり | 小説   | 『[転校生](../Page/転校生_\(映画\).md "wikilink")』原案             |
+| おれ | [オレが私になるまで](https://ja.wikipedia.org/wiki/オレが私になるまで "wikilink")                                         | 2019年 | 日本   | 病気    | コミック |                                                         |
 | おれ | [俺、ツインテールになります。](https://ja.wikipedia.org/wiki/俺、ツインテールになります。 "wikilink")                               |       | 日本   | 変身    | 小説   |                                                         |
 | おれ | [俺とヒーローと魔法少女](https://ja.wikipedia.org/wiki/俺とヒーローと魔法少女 "wikilink")                                     |       | 日本   |       |      |                                                         |
 | おれ | [おれ、夕子](../Page/おれ、夕子.md "wikilink")                                                                    |       | 日本   | 憑依    | コミック |                                                         |
@@ -195,14 +213,18 @@
 | かく | [革命の日](../Page/革命の日.md "wikilink")                                                                      |       | 日本   | 仮性半陰陽 | コミック |                                                         |
 | かし | [かしまし 〜ガール・ミーツ・ガール〜](../Page/かしまし_〜ガール・ミーツ・ガール〜.md "wikilink")                                          |       | 日本   | 変身    | アニメ  |                                                         |
 | がち | [ガチャガチャ](../Page/ガチャガチャ.md "wikilink")                                                                  |       | 日本   |       |      |                                                         |
+| かれ | [彼は彼女に変わるので](https://ja.wikipedia.org/wiki/彼は彼女に変わるので "wikilink")                                       | 2018年 | 日本   | 変身    | コミック |                                                         |
 | きみ | [君の名は。](https://ja.wikipedia.org/wiki/君の名は。 "wikilink")                                                 | 2016年 | 日本   | 入れ替わり | アニメ  |                                                         |
 | きは | [キはキノコのキ](https://ja.wikipedia.org/wiki/山本直樹#森山塔名義 "wikilink")                                          |       | 日本   |       |      |                                                         |
-| きょ | [境界のないセカイ](https://ja.wikipedia.org/wiki/境界のないセカイ "wikilink")                                           |       | 日本   |       |      | （全年齢作品）&『境目のない世界』（その元になったアダルト作品。コミックス『性転換教室』として刊行）      |
+| きょ | [境界のないセカイ](https://ja.wikipedia.org/wiki/境界のないセカイ "wikilink")                                           | 2014年 | 日本   |       |      | （全年齢作品）&『境目のない世界』（その元になったアダルト作品。コミックス『性転換教室』として刊行）      |
+| くう | [空也IN不思議の園](https://ja.wikipedia.org/wiki/空也IN不思議の園 "wikilink")                                         |       | 日本   |       |      |                                                         |
+| くさ | [日下部くんanother～入れかわり♂♀ライフ～](https://ja.wikipedia.org/wiki/日下部くんanother～入れかわり♂♀ライフ～ "wikilink")           |       | 日本   | 入れ替わり | コミック |                                                         |
 | けん | [けんぷファー](../Page/けんぷファー.md "wikilink")                                                                  |       | 日本   | 変身    | 小説   |                                                         |
 | こう | [攻殻機動隊 STAND ALONE COMPLEX](../Page/攻殻機動隊_STAND_ALONE_COMPLEX.md "wikilink")                            |       | 日本   |       |      |                                                         |
 | ここ | [ココロコネクト](https://ja.wikipedia.org/wiki/ココロコネクト "wikilink")                                             |       | 日本   | 入れ替わり | 小説   |                                                         |
-|    | [空也IN不思議の園](https://ja.wikipedia.org/wiki/空也IN不思議の園 "wikilink")                                         |       | 日本   |       |      |                                                         |
+| こし | [個人差あります](https://ja.wikipedia.org/wiki/個人差あります "wikilink")                                             | 2019年 | 日本   | 変身    | コミック |                                                         |
 | しし | [思春期ビターチェンジ](https://ja.wikipedia.org/wiki/思春期ビターチェンジ "wikilink")                                       | 2012年 | 日本   | 入れ替わり | コミック |                                                         |
+| しゆ | [純とかおる](https://ja.wikipedia.org/wiki/純とかおる "wikilink")                                                 | 2012年 | 日本   | 変身    | コミック |                                                         |
 | しん | [シンデレラボーイ](../Page/シンデレラボーイ_\(漫画\).md "wikilink")                                                       |       | 日本   |       |      |                                                         |
 | すー | [すーぱー・アスパラガス](https://ja.wikipedia.org/wiki/すーぱー・アスパラガス "wikilink")                                     |       | 日本   |       |      |                                                         |
 | せい | [成城紅茶館の事情](https://ja.wikipedia.org/wiki/成城紅茶館の事情 "wikilink")                                           |       | 日本   |       |      |                                                         |
@@ -216,13 +238,15 @@
 | つき | [月の子](https://ja.wikipedia.org/wiki/月の子 "wikilink")                                                     |       | 日本   |       |      |                                                         |
 | でい | [デイジー♥Magic](https://ja.wikipedia.org/wiki/デイジー♥Magic "wikilink")                                       |       | 日本   |       |      |                                                         |
 | てん | [転校生](../Page/転校生_\(映画\).md "wikilink")                                                                 |       | 日本   |       |      |                                                         |
-| てん | [転生少女図鑑](https://ja.wikipedia.org/wiki/転生少女図鑑 "wikilink")                                               |       | 日本   |       |      |                                                         |
 | てん | [天使な小生意気](../Page/天使な小生意気.md "wikilink")                                                                |       | 日本   | 変身    | コミック |                                                         |
-| どう | [どう男女\!?](https://ja.wikipedia.org/wiki/どう男女!? "wikilink")                                              |       | 日本   |       |      |                                                         |
+| てん | [転生少女図鑑](https://ja.wikipedia.org/wiki/転生少女図鑑 "wikilink")                                               |       | 日本   | いろいろ  | コミック |                                                         |
+| てん | [転性パンデみっく](https://ja.wikipedia.org/wiki/転性パンデみっく "wikilink")                                           |       | 日本   | 変身    | コミック |                                                         |
+| どう | [どう男女\!?](https://ja.wikipedia.org/wiki/どう男女!? "wikilink")                                              |       | 日本   | 入れ替わり | コミック |                                                         |
 | ない | [ないしょのつぼみ（6期）](https://ja.wikipedia.org/wiki/ないしょのつぼみ#6期 "wikilink")                                    |       | 日本   |       |      |                                                         |
-| にょ | [女体化ヤンキー学園★〜オレのハジメテ、狙われてます。〜](https://ja.wikipedia.org/wiki/女体化ヤンキー学園★〜オレのハジメテ、狙われてます。〜 "wikilink")     |       | 日本   |       |      |                                                         |
-| のぞ | [のぞむのぞみ](https://ja.wikipedia.org/wiki/のぞむのぞみ "wikilink")                                               |       | 日本   |       |      |                                                         |
+| にょ | [女体化ヤンキー学園★〜オレのハジメテ、狙われてます。〜](https://ja.wikipedia.org/wiki/女体化ヤンキー学園★〜オレのハジメテ、狙われてます。〜 "wikilink")     |       | 日本   | 変身    | コミック |                                                         |
+| のぞ | [のぞむのぞみ](https://ja.wikipedia.org/wiki/のぞむのぞみ "wikilink")                                               |       | 日本   | 変身    | コミック |                                                         |
 | ばっ | [Back Street Girls](https://ja.wikipedia.org/wiki/Back_Street_Girls "wikilink")                         |       | 日本   | 手術    | コミック |                                                         |
+| ひな | [ヒナちゃんチェンジ](https://ja.wikipedia.org/wiki/ヒナちゃんチェンジ "wikilink")                                         |       | 日本   | 入れ替わり | コミック |                                                         |
 | ひめ | [姫ちゃんのリボン](../Page/姫ちゃんのリボン.md "wikilink")                                                              |       | 日本   |       |      |                                                         |
 | ひろ | [ヒロインくん](https://ja.wikipedia.org/wiki/ヒロインくん "wikilink")                                               |       | 日本   |       |      |                                                         |
 | ふし | [ふしぎ遊戯 玄武開伝](../Page/ふしぎ遊戯_玄武開伝.md "wikilink")                                                          |       | 日本   |       |      |                                                         |

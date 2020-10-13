@@ -1,7 +1,7 @@
 > この記事は[TOKONA-X](https://ja.wikipedia.org/wiki/TOKONA-X)から翻訳されています。
 
 
-**TOKONA-X**（トコナ・エックス、本名：古川 竜一、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。通称、T-X。
+**TOKONA-X**（トコナ・エックス、本名：古川 竜一、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[10月20日](../Page/10月20日.md "wikilink") - [2004年](../Page/2004年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")）は、[日本のヒップホップ](../Page/日本のヒップホップ.md "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。通称、T-X。名前の由来は、人生の大半を育った[常滑市](../Page/常滑市.md "wikilink")から来ており、常滑→TOKONAME→TOKONAメ→TOKONA-Xとなっている。
 
 ## 来歴
 

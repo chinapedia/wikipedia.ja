@@ -82,7 +82,7 @@
 
 ## 外部リンク
 
-  - [PRIME ANGLE](http://web.archive.org/web/20020204051039/http://www.j-wave.co.jp/original/primeangle/contents.htm) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年2月4日時点の番組公式サイト
-  - [PRIME ANGLE](http://web.archive.org/web/20050331060834/http://www.j-wave.co.jp/original/prime/) - Internet Archiveにより保存されている2005年3月31日時点の番組公式サイト
+  - [PRIME ANGLE](https://web.archive.org/web/20020204051039/http://www.j-wave.co.jp/original/primeangle/contents.htm) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年2月4日時点の番組公式サイト
+  - [PRIME ANGLE](https://web.archive.org/web/20050331060834/http://www.j-wave.co.jp/original/prime/) - Internet Archiveにより保存されている2005年3月31日時点の番組公式サイト
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")

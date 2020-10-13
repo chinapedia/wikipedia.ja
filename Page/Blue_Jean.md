@@ -1,7 +1,7 @@
 > この記事は[Blue Jean](https://ja.wikipedia.org/wiki/Blue_Jean)から翻訳されています。
 
 
-『**Blue Jean**』（ブルー ジーン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に発売した[シングル](../Page/シングル.md "wikilink")。
+『**Blue Jean**』（ブルー ジーン）は、日本の[ロックバンド](https://ja.wikipedia.org/wiki/ロックバンド "wikilink")、[GLAY](../Page/GLAY.md "wikilink")が[2004年](../Page/2004年.md "wikilink")[8月4日](../Page/8月4日.md "wikilink")に発売した31枚目の[シングル](../Page/シングル.md "wikilink")。
 
 ## 解説
 
@@ -54,4 +54,4 @@
 
   - [GLAY DISCOGRAPHY 『Blue Jean』](https://www.glay.co.jp/discography/detail.php?category=1&id=33)
 
-[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink")
+[Category:GLAYの楽曲](https://ja.wikipedia.org/wiki/Category:GLAYの楽曲 "wikilink") [Category:TAKUROが制作した楽曲](https://ja.wikipedia.org/wiki/Category:TAKUROが制作した楽曲 "wikilink") [Category:2004年のシングル](https://ja.wikipedia.org/wiki/Category:2004年のシングル "wikilink") [Category:2004年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:2004年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:楽曲_ふ](https://ja.wikipedia.org/wiki/Category:楽曲_ふ "wikilink") [Category:色を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:色を題材とした楽曲 "wikilink") [Category:EMIミュージック・ジャパンのシングル](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのシングル "wikilink")

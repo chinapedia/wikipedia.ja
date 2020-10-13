@@ -268,6 +268,7 @@ ELA-3</p></td>
   - [人工衛星](https://ja.wikipedia.org/wiki/人工衛星 "wikilink") - [静止衛星](../Page/静止衛星.md "wikilink") - [通信衛星](../Page/通信衛星.md "wikilink") - [スカパーJSATの関連衛星一覧](https://ja.wikipedia.org/wiki/スカパーJSAT#関連衛星一覧 "wikilink")
   - [衛星放送](../Page/衛星放送.md "wikilink") - [受託放送事業者](../Page/受託放送事業者.md "wikilink") - [有料放送管理事業者](../Page/有料放送管理事業者.md "wikilink")
   - [インマルサット](../Page/インマルサット.md "wikilink")
+  - [ディレクTV](../Page/ディレクTV.md "wikilink")
 
 ## 外部リンク
 

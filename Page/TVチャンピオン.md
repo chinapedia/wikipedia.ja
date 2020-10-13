@@ -274,6 +274,10 @@
   - カレー王選手権（[金子載](https://ja.wikipedia.org/wiki/Theかれー王 "wikilink")）
   - 寿司職人選手権（[川澄健](https://ja.wikipedia.org/wiki/川澄健 "wikilink")・[菊池一男](https://ja.wikipedia.org/wiki/菊池一男 "wikilink")ほか多数の寿司職人）
   - バーテンダー王選手権（[会津俊昭](https://ja.wikipedia.org/wiki/会津俊昭 "wikilink")）
+  - 　ジャグラー王選手権
+
+（[Mr.アパッチ](../Page/Mr.アパッチ.md "wikilink")、[矢部亮](../Page/矢部亮.md "wikilink")）
+
   - 木のおもちゃ職人選手権（[遠藤裕](https://ja.wikipedia.org/wiki/遠藤裕 "wikilink")）
   - フィギュア王選手権([寒河江弘](https://ja.wikipedia.org/wiki/寒河江弘 "wikilink"))
   - パチプロ王選手権（[広瀬元也](https://ja.wikipedia.org/wiki/広瀬元也 "wikilink")・[大崎一万発](https://ja.wikipedia.org/wiki/大崎一万発 "wikilink")）
@@ -335,9 +339,8 @@
 <!-- end list -->
 
   - 歴代エンディングテーマ
-    1993年4月から2002年3月まで本編エンディングの王者の椅子に座るシーンで使用。同年4月以降は本編でのエンディングテーマ自体が廃止され、別の曲（スタジオオープニング・チャンピオンのスタジオ登場時にも使用）が使われていた。ただし、同時ネット局のみ流される本編終了後の告知部分でエンディングテーマは残されていた。
 
-<!-- end list -->
+1993年4月から2002年3月まで本編エンディングの王者の椅子に座るシーンで使用。同年4月以降は本編でのエンディングテーマ自体が廃止され、別の曲（スタジオオープニング・チャンピオンのスタジオ登場時にも使用）が使われていた。ただし、同時ネット局のみ流される本編終了後の告知部分でエンディングテーマは残されていた。
 
   - 虹を見たかい / [安藤治彦](../Page/安藤治彦.md "wikilink")
   - そこにいないあなた / [下村成二郎](../Page/下村成二郎.md "wikilink")
@@ -360,7 +363,7 @@
   - それでも地球はまわる / [神山剛](https://ja.wikipedia.org/wiki/神山剛 "wikilink")
   - DRUNKER / [Rose of Rose](https://ja.wikipedia.org/wiki/Rose_of_Rose "wikilink")
   - もう一度今を選ぶかな? / [Temiyan](https://ja.wikipedia.org/wiki/Temiyan "wikilink")
-  - ブランコ / [吉田直樹](https://ja.wikipedia.org/wiki/吉田直樹 "wikilink")
+  - ブランコ / [吉田直樹](https://ja.wikipedia.org/wiki/吉田直樹_\(歌手\) "wikilink")
   - ガーベラ / [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
   - 君の名を呼んだ / [陣内大蔵](../Page/陣内大蔵.md "wikilink")
   - Slow down / [永井龍雲](../Page/永井龍雲.md "wikilink")
@@ -369,17 +372,18 @@
   - 諦めさえしなければ / [堀内孝雄](../Page/堀内孝雄.md "wikilink")
   - Keep on... / [GaGaalinG](https://ja.wikipedia.org/wiki/GaGaalinG "wikilink")
 
-**競技内で使われたBGM**
+<!-- end list -->
 
-ラウンドタイトルのアタックBGM
+  - 競技内で使われたBGM
 
-  - アイヤ・ハラホロ/[谷啓](../Page/谷啓.md "wikilink")(1992年～1995年、競技VTRのスタートおよびCMへのアイキャッチ音として使用。)
-  - [電脳警察サイバーコップ](../Page/電脳警察サイバーコップ.md "wikilink") アイキャッチ/[新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")(1992年〜2002年、[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")での番組宣伝でも使用された。)
+<!-- end list -->
 
-チャンピオン決定時に流れたBGM
-
-  - Can't Stop the Classics, Pt. 2/Louis Clark (『Hooked on Classics』に収録。原曲は[リヒャルト・ワーグナー](../Page/リヒャルト・ワーグナー.md "wikilink")の[ニュルンベルクのマイスタージンガー第](../Page/リヒャルト・ワーグナー.md "wikilink")1幕への前奏曲、[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ボレロ](../Page/ボレロ_\(ラヴェル\).md "wikilink")。)
-  - [エアフォース・ワン (映画)](../Page/エアフォース・ワン_\(映画\).md "wikilink") メインテーマ/[ジェリー・ゴールドスミス](../Page/ジェリー・ゴールドスミス.md "wikilink")
+  - ラウンドタイトルのアタックBGM
+      - アイヤ・ハラホロ / [谷啓](../Page/谷啓.md "wikilink")(1992年 - 1995年、競技VTRのスタートおよびCMへのアイキャッチ音として使用。)
+      - [電脳警察サイバーコップ](../Page/電脳警察サイバーコップ.md "wikilink") アイキャッチ / [新田一郎](../Page/新田一郎_\(ミュージシャン\).md "wikilink")(1992年 - 2002年、[クロスプログラム](https://ja.wikipedia.org/wiki/クロスプログラム "wikilink")での番組宣伝でも使用された。)
+  - チャンピオン決定時に流れたBGM
+      - Can't Stop the Classics, Pt. 2 / Louis Clark (『Hooked on Classics』に収録。原曲は[リヒャルト・ワーグナー](../Page/リヒャルト・ワーグナー.md "wikilink")の[ニュルンベルクのマイスタージンガー第](../Page/リヒャルト・ワーグナー.md "wikilink")1幕への前奏曲、[モーリス・ラヴェル](../Page/モーリス・ラヴェル.md "wikilink")の[ボレロ](../Page/ボレロ_\(ラヴェル\).md "wikilink")。)
+      - [エアフォース・ワン (映画)](../Page/エアフォース・ワン_\(映画\).md "wikilink") メインテーマ / [ジェリー・ゴールドスミス](../Page/ジェリー・ゴールドスミス.md "wikilink")
 
 ## スタッフ
 

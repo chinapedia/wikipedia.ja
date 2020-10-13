@@ -549,8 +549,6 @@
 </tbody>
 </table>
 
-<noinclude>
-
 ### ユニフォームスポンサー
 
 <table>

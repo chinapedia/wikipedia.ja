@@ -120,9 +120,9 @@
   - 撮影：河江祐輔
   - 演出補：北川学
   - 記録：河野ひでみ、津島由起江
-  - 編成：[金井卓也](https://ja.wikipedia.org/wiki/金井卓也 "wikilink")
+  - 編成：金井卓也
   - 企画：[石原隆](../Page/石原隆.md "wikilink")
-  - プロデュース：[関口静夫](https://ja.wikipedia.org/wiki/関口静夫 "wikilink")、[土屋健](../Page/土屋健.md "wikilink")
+  - プロデュース：関口静夫、[土屋健](../Page/土屋健.md "wikilink")
   - 映像演出：[河野圭太](../Page/河野圭太.md "wikilink")
   - 制作協力：[共同テレビ](../Page/共同テレビジョン.md "wikilink")
   - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")

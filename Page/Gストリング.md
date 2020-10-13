@@ -21,6 +21,7 @@
 
 ## 関連項目
 
+  - [パンティー](../Page/パンティー.md "wikilink")
   - [Tバック](../Page/Tバック.md "wikilink")
   - [Tフロント](https://ja.wikipedia.org/wiki/Tフロント "wikilink")
   - [Cストリング](https://ja.wikipedia.org/wiki/Cストリング "wikilink")

@@ -25,7 +25,7 @@ ASMDという用途から、発射直後の誘導は[AN/SLQ-32](https://ja.wikip
 
 ### システム
 
-[RIM-116_Rolling_Airframe_Missile_Launcher_3.jpg](https://ja.wikipedia.org/wiki/File:RIM-116_Rolling_Airframe_Missile_Launcher_3.jpg "fig:RIM-116_Rolling_Airframe_Missile_Launcher_3.jpg") ミサイル本体は、スティンガーと同様に、[繊維強化プラスチック](../Page/繊維強化プラスチック.md "wikilink")製の[キャニスター](https://ja.wikipedia.org/wiki/キャニスター "wikilink")（, GMRP）内に密閉された状態で工場から出荷される。このキャニスターは気密であり、ミサイルを海水等による腐食から守っており、メンテナンスフリーを実現している。
+ミサイル本体は、スティンガーと同様に、[繊維強化プラスチック](../Page/繊維強化プラスチック.md "wikilink")製の[キャニスター](https://ja.wikipedia.org/wiki/キャニスター "wikilink")（, GMRP）内に密閉された状態で工場から出荷される。このキャニスターは気密であり、ミサイルを海水等による腐食から守っており、メンテナンスフリーを実現している。
 
 発射機としては、開発初期には24連装のEX-144が用いられていたが、後に21連装のEX-31が開発された。これはMk.31 GMWS（）として制式化されており、制御盤等とともにMk.49 GMLS（Guided Missile Launching System）を構成する\[3\]。キャニスターと同様、これらの発射機のランチャー・ケーシングはFRP製であり、電波を透過することから、発射前にPRH誘導システムによって目標を捕捉することができる。なおEX-31の台座（）部分はファランクスCIWSのものが流用されている。
 
@@ -35,7 +35,7 @@ ASMDという用途から、発射直後の誘導は[AN/SLQ-32](https://ja.wikip
 
 RAMは、[揚陸艦](../Page/揚陸艦.md "wikilink")や[航空母艦](../Page/航空母艦.md "wikilink")などの大型艦船に搭載されつつある新開発の戦闘システムである[艦艇自衛システム](https://ja.wikipedia.org/wiki/艦艇自衛システム "wikilink")（SSDS）に連接されて、その主要な防空[火力として期待されている](https://ja.wikipedia.org/wiki/火力_\(軍事\) "wikilink")。また[沿海域戦闘艦](../Page/沿海域戦闘艦.md "wikilink")でも、[フリーダム級がMk](https://ja.wikipedia.org/wiki/フリーダム級沿海域戦闘艦 "wikilink").49 GMLS、[インディペンデンス級がMk](https://ja.wikipedia.org/wiki/インディペンデンス級沿海域戦闘艦 "wikilink").15 Mod.31 SeaRAMを搭載している。
 
-<File:RIM-116> Loading.jpg|Mk.44 GMRPを装填中のMk.49 GMLS <File:F260> Braunschweig, aft RAM launcher - 02.jpg|GMRP内部の施条 <File:JMSDF> DDH-183 SeaRam.JPG|SeaRAM <File:JMSDF> DDH-183 SeaRam InfraredrayCamera and ESMsensor2.JPG|SeaRAMのIRセンサーとRFセンサー
+<File:RIM-116> Rolling Airframe Missile Launcher 3.jpg|Mk.49 GMLSの21連装発射機 <File:RIM-116> Loading.jpg|Mk.44 GMRPを装填中のMk.49 GMLS <File:F260> Braunschweig, aft RAM launcher - 02.jpg|GMRP内部の施条 <File:JMSDF> DDH-183 SeaRam.JPG|SeaRAM <File:JMSDF> DDH-183 SeaRam InfraredrayCamera and ESMsensor2.JPG|SeaRAMのIRセンサーとRFセンサー
 
 ### 諸元表
 

@@ -76,7 +76,7 @@
 
 1.  [日経BP](../Page/日経BP.md "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年4月号180P-181Pより。
 2.  「[ぴあ](../Page/ぴあ.md "wikilink")」2001年5月7日号「Interview Kiss Destination 小室哲哉激白\!\! 『次の10年へ向けた出発点なんだ』」130Pより。
-3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年3月号85Pより。
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年3月号「Special Feature TRUE KiSS DESTiNATiON」85Pより。
 4.  「TRUE kiss destination『Girls, be ambitious\!』」プロモーション盤のライナーノーツより。
 5.  ただし、リズムはそれまで通り[スウィングするようにした](https://ja.wikipedia.org/wiki/スウィング_\(音楽\) "wikilink")。
 6.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1999年2月5日号「小室哲哉が新ユニット結成\! TRUE KiSS DESTiNATiON」40Pより。

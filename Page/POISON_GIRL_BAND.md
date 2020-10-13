@@ -5,11 +5,11 @@
 
 ## メンバー
 
-**[阿部 智則](../Page/阿部智則.md "wikilink")**（あべ とものり [1979年](../Page/1979年.md "wikilink")[8月29日](../Page/8月29日.md "wikilink") - ）
+**[阿部 智則](../Page/阿部智則.md "wikilink")**（あべ とものり、 -）
 
 ボケ（便乗ツッコミ）担当、立ち位置は向かって左。身長167cm 体重63kg、A型。[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")出身。[宮城県石巻工業高等学校](../Page/宮城県石巻工業高等学校.md "wikilink")卒業。[土木科](../Page/土木科.md "wikilink")に在籍し、毎日あちこちを掘っていた。『[映話](https://ja.wikipedia.org/wiki/よしもと映画研究部 "wikilink")』のレギュラーメンバー、動物好き。[秋山竜次](../Page/秋山竜次.md "wikilink")（[ロバート](../Page/ロバート_\(お笑いトリオ\).md "wikilink")）とプル友。
 
-**[吉田 大吾](../Page/吉田大吾.md "wikilink")**（よしだ だいご [1979年](../Page/1979年.md "wikilink")[4月4日](../Page/4月4日.md "wikilink") - ）
+**[吉田 大吾](../Page/吉田大吾.md "wikilink")**（よしだ だいご、 -）
 
 ツッコミ（便乗ボケ）・ネタ作り担当、立ち位置は向かって右。身長182cm、体重63kg O型。趣味は散歩・株。特技は単独行動。[ローリング・ストーンズ](../Page/ローリング・ストーンズ.md "wikilink")の大ファン。[東京都](../Page/東京都.md "wikilink")[杉並区](https://ja.wikipedia.org/wiki/杉並区 "wikilink")[荻窪出身](../Page/荻窪_\(杉並区\).md "wikilink")。[東京都立豊多摩高等学校](../Page/東京都立豊多摩高等学校.md "wikilink")卒業。小・中学校は[せんだみつお](../Page/せんだみつお.md "wikilink")、高校は[宮崎駿](../Page/宮崎駿.md "wikilink")の後輩。阿部と同じく『映話』のレギュラーメンバー。東京大吾組の主催者。2012年4月から2014年10月までの2年半、[TOKYO FMのラジオ番組](../Page/エフエム東京.md "wikilink")『[SCHOOL OF LOCK\!](../Page/SCHOOL_OF_LOCK!.md "wikilink")』にて「よしだ教頭」として[メインパーソナリティを務めていた](../Page/ラジオパーソナリティ.md "wikilink")。
 
@@ -144,10 +144,10 @@
 
 ## 外部リンク
 
-  -
-  -
   - [POISON GIRL BAND プロフィール｜吉本興業株式会社](https://profile.yoshimoto.co.jp/talent/detail?id=232)
 
+  -
+  -
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink")
 
 1.

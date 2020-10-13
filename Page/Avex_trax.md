@@ -58,7 +58,7 @@
       - [サ上と中江](https://ja.wikipedia.org/wiki/サ上と中江 "wikilink") (2015年)
       - 志田サマー新井サマー (2016年)
   - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") (2011年〜)（rhythm zoneより移籍）\[5\]
-  - [ときめき♡宣伝部](https://ja.wikipedia.org/wiki/ときめき宣伝部 "wikilink")（2018年〜）（[ユニバーサルシグマから移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
+  - [ときめき♡宣伝部](https://ja.wikipedia.org/wiki/超ときめき♡宣伝部 "wikilink")（2018年〜）（[ユニバーサルシグマから移籍](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink") (1998年〜)
   - [林部智史](https://ja.wikipedia.org/wiki/林部智史 "wikilink") (2016年〜)
   - [ピコ太郎](https://ja.wikipedia.org/wiki/ピコ太郎 "wikilink") (2016年〜)

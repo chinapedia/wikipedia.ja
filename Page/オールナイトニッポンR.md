@@ -11,13 +11,13 @@
 
 この番組の目的として、1998年4月から2003年9月までは、1974年6月から1998年3月末まで続いていた「オールナイトニッポン（第2部）」からの流れから、おおむね若手パーソナリティの育成を目的にしていた。
 
-1999年3月29日、『[LF+R](../Page/LF+R.md "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年3月をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")[9月](../Page/9月.md "wikilink")には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](../Page/特別番組.md "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](../Page/キー局.md "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
+1999年3月29日、『[LF+R](../Page/LF+R.md "wikilink")』編成がスタートしてからはローマ字表記の『**allnightnippon-r**』へと変更された。しかし、ネット局によっては、直前の『[@llnightnippon.com](../Page/@llnightnippon.com.md "wikilink")』につられてか『@llnightnippon-r』と誤記された放送局もあった。その後、『LF+R』終了後の2003年4月改編をもって『オールナイトニッポンR』と番組名が変更されたが、[2003年](../Page/2003年.md "wikilink")10月改編には「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」の開始に伴い、月曜 - 木曜の放送は一時、終了した。その為、2003年10月から「週替わり」として[金曜日](../Page/金曜日.md "wikilink")と[土曜日](../Page/土曜日.md "wikilink")（土曜日は2004年3月までの前番組は「[オールナイトニッポンレコード](../Page/オールナイトニッポンレコード.md "wikilink")」）のみが残り、その後も中断期間をはさみながら放送されていたため、いわば、かつての2部の[特別番組](../Page/特別番組.md "wikilink")的な要素を持っている。なお、[2006年](../Page/2006年.md "wikilink")4月からは金曜日の週替わりはなくなり、7月から土曜日も週替わりではなくなっていたが、2006年10月から土曜日の週替わりが復活するとともに、放送時間が120分に放送枠が拡大した。ただし、ニッポン放送は[キー局](../Page/キー局.md "wikilink")でありながら、放送時間は従来と同じ90分となっていた。
 
 なお、2003年3月31日-2004年3月28日の期間のオールナイトニッポン公式サイトである***www.allnightnippon.com***では「オールナイトニッポンR ***スペシャルナイト***」と表記されていたが 、2004年度以降の公式サイトでは「オールナイトニッポンR」だけの表記になっていた。
 
 [2009年](../Page/2009年.md "wikilink")1月に土曜日に『[角田龍平のオールナイトニッポンR](https://ja.wikipedia.org/wiki/角田龍平のオールナイトニッポンR "wikilink")』が毎週放送されるようになり、土曜日の週替わり枠はなくなった。そして、[2009年](../Page/2009年.md "wikilink")4月改編により『[くり万太郎のオールナイトニッポンR](https://ja.wikipedia.org/wiki/くり万太郎のオールナイトニッポンR "wikilink")』が開始に伴い、平日の『オールナイトニッポンR』というタイトルが復活した。その後、2009年10月で『くり万太郎のオールナイトニッポンR』の金曜日の放送が終了したため、金曜日が週替わり枠となって復活した。また、土曜日は2009年いっぱいで角田龍平のオールナイトニッポンRが終了し、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")1月 から3月までオールナイトニッポンのレギュラー（火曜日1部）争奪バトルを開催し（1月2日のパンクブーブーは対象外）\[1\]、実質的に角田龍平のオールナイトニッポンR開始前のお笑い芸人の月1回担当制と変わりがなくなっていた。2010年4月からはJ-POP歌手\[2\]の月1回担当に変更され、5週目がある場合のみ週替わりパーソナリティを起用する体制となった。
 
-2012年4月から、2003年9月までのこの番組の放送趣旨目的と同じくする「[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")」の開始により、平日の放送は2012年3月30日をもって終了した。ただし、土曜日は週替わり枠（毎月第3週のみ[スフィアで固定](https://ja.wikipedia.org/wiki/スフィアのオールナイトニッポンR "wikilink")）として、タイトルも「オールナイトニッポンR」で継続した\[3\]\[4\]。2012年4月以降はミュージシャンを中心に、さまざまなジャンルから注目の人やグループが土曜日に週替わりで登場していた\[5\]。ただし、スフィアも2017年3月をもってレギュラー放送を終了（不定期放送へ移行）となったため、第3週目を含めた全週が週替わりメンバーとなった。そして、2018年4月1日（3月31日深夜）をもって、1998年4月から20年間続いてきた『オールナイトニッポンR』としての放送を終了し（最後のパーソナリティは三波美夕紀。）、4月8日（4月7日深夜）からは『[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")』に放送枠が吸収され、『[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")』は週6日の放送に切り替わった。
+2012年4月から、2003年9月までのこの番組の放送趣旨目的と同じくする「[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")」の開始により、平日の放送は2012年3月30日をもって終了した。ただし、土曜日は週替わり枠（毎月第3週のみ[スフィアで固定](https://ja.wikipedia.org/wiki/スフィアのオールナイトニッポンR "wikilink")）として、タイトルも「オールナイトニッポンR」で継続した\[3\]\[4\]。2012年4月以降はミュージシャンを中心に、さまざまなジャンルから注目の人やグループが土曜日に週替わりで登場していた\[5\]。ただし、スフィアも2017年3月をもってレギュラー放送を終了（不定期放送へ移行）となったため、第3週目を含めた全週が週替わりメンバーとなった。そして、2018年4月1日（3月31日深夜）をもって、1998年4月から20年間続いてきた『オールナイトニッポンR』としての放送を終了し（最後のパーソナリティは三波美夕紀。）、4月8日（4月7日深夜）からは『[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")』に放送枠が統合され、『[オールナイトニッポン0(ZERO)](https://ja.wikipedia.org/wiki/オールナイトニッポン0\(ZERO\) "wikilink")』は週6日の放送に切り替わった。
 
 なお、2012年10月14日27:00 - 29:00 JSTに、関東ローカルだが「ROLLYと谷山浩子のオールナイトニッポンR」として日曜日（月曜日未明）の放送が特例として実施された\[6\]。
 
@@ -51,6 +51,8 @@
 ※2003年10月 - 2009年3月は「[オールナイトニッポンエバーグリーン](../Page/オールナイトニッポンエバーグリーン.md "wikilink")」、2009年4月 - 2012年3月は「[くり万太郎のオールナイトニッポンR](https://ja.wikipedia.org/wiki/くり万太郎のオールナイトニッポンR "wikilink")」を参照。
 
 ### 金曜日
+
+※2009年4月 - 10月に金曜日にも放送された「くり万太郎のオールナイトニッポンR」も含む。
 
 <table>
 <thead>
@@ -1435,7 +1437,7 @@ ONLY ONE</a></p></th>
 | 4月       | 6日 | [THE ポッシボー](https://ja.wikipedia.org/wiki/THE_ポッシボー "wikilink")\[90\]              | 13日 | [高橋優](https://ja.wikipedia.org/wiki/高橋優のオールナイトニッポンシリーズ "wikilink")\[91\]      | 27日 | [Twin Cross](https://ja.wikipedia.org/wiki/Twin_Cross "wikilink")\[92\]        |
 | 5月       | 4日 | ラブレターズ\[93\]                                                                       | 11日 | [モグライダー](https://ja.wikipedia.org/wiki/モグライダー "wikilink")\[94\]\[95\]         | 25日 | [Rihwa](https://ja.wikipedia.org/wiki/Rihwa "wikilink")\[96\]                  |
 | 6月       | 1日 | [入江コネクション](../Page/入江慎也.md "wikilink")                                             | 8日  | [D☆DATE](https://ja.wikipedia.org/wiki/D☆DATE "wikilink")                     | 22日 | [back number](https://ja.wikipedia.org/wiki/back_number "wikilink")\[97\]      |
-| 7月       | 6日 | AKB48グループ研究生\[98\] \[99\]                                                          | 13日 | [チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")                 | 27日 | [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")                    |
+| 7月       | 6日 | AKB48グループ研究生\[98\] \[99\]                                                          | 13日 | [チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")              | 27日 | [クリープハイプ](https://ja.wikipedia.org/wiki/クリープハイプ "wikilink")                    |
 | 8月       | 3日 | [水沢アリー](https://ja.wikipedia.org/wiki/水沢アリー "wikilink")\[100\]                     | 10日 | ラブレターズ\[101\]                                                                 | 24日 | [LIFriends](https://ja.wikipedia.org/wiki/LIFriends "wikilink")\[102\]         |
 | 9月       | 7日 | [くり万太郎](https://ja.wikipedia.org/wiki/くり万太郎のオールナイトニッポンR "wikilink")\[103\]         | 14日 | [うしろシティ](https://ja.wikipedia.org/wiki/うしろシティ "wikilink")\[104\]              | 28日 | お笑い有楽城                                                                         |
 | 10月      | 5日 | [忘れらんねえよ](https://ja.wikipedia.org/wiki/忘れらんねえよ "wikilink")\[105\]                 | 12日 | [May J.](https://ja.wikipedia.org/wiki/May_J. "wikilink")\[106\]              | 26日 | [パンサー](https://ja.wikipedia.org/wiki/パンサー_\(お笑い\) "wikilink")                  |
@@ -1548,7 +1550,7 @@ ONLY ONE</a></p></th>
 <tr class="even">
 <td><p>12月</p></td>
 <td><p>6日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チームしゃちほこ" title="wikilink">チームしゃちほこ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TEAM_SHACHI" title="wikilink">チームしゃちほこ</a></p></td>
 <td><p>13日</p></td>
 <td><p><a href="../Page/レイザーラモン.md" title="wikilink">レイザーラモン</a></p></td>
 <td><p>27日</p></td>
@@ -1623,7 +1625,7 @@ ONLY ONE</a></p></th>
 <td><p>2日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/シシド・カフカのオールナイトニッポン0(ZERO)" title="wikilink">シシド・カフカ</a></p></td>
 <td><p>9日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/チームしゃちほこ" title="wikilink">チームしゃちほこ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/TEAM_SHACHI" title="wikilink">チームしゃちほこ</a></p></td>
 <td><p>23日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Saku_(女性歌手)" title="wikilink">Saku</a></p></td>
 <td><p>30日</p></td>

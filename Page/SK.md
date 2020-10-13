@@ -24,7 +24,7 @@
   - スロップシンク - [流し台](../Page/流し台.md "wikilink")の一種
   - [SK (ピープル・ムーバー)](https://ja.wikipedia.org/wiki/SK_\(ピープル・ムーバー\) "wikilink") - [フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")共和国・スーレ社製の[新交通システム](../Page/新交通システム.md "wikilink")
   - [仙台市交通局](../Page/仙台市交通局.md "wikilink")が発行する[IC乗車カード](https://ja.wikipedia.org/wiki/IC乗車カード "wikilink")である、[icsca](https://ja.wikipedia.org/wiki/icsca "wikilink")の裏面に記載された17桁の英数字の刻印の上2文字のアルファベット。
-  - [西武国分寺線](https://ja.wikipedia.org/wiki/西武国分寺線 "wikilink")の[路線記号](../Page/駅ナンバリング.md "wikilink")。
+  - [西武国分寺線](https://ja.wikipedia.org/wiki/西武国分寺線 "wikilink")及び[西武園線の](https://ja.wikipedia.org/wiki/西武西武園線 "wikilink")[路線記号](../Page/駅ナンバリング.md "wikilink")。
 
 ## Sk
 

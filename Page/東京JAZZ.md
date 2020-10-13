@@ -119,7 +119,7 @@
 
   - [インコグニート](../Page/インコグニート.md "wikilink")
 
-  - [ジョイス](../Page/ジョイス.md "wikilink") with special guest [ロベルト・メネスカル](https://ja.wikipedia.org/wiki/ロベルト・メネスカル "wikilink")
+  - [ジョイス](../Page/ジョイス.md "wikilink") with special guest [ホベルト・メネスカル](https://ja.wikipedia.org/wiki/ホベルト・メネスカル "wikilink")
 
   - [デイヴ・コーズ](../Page/デイヴ・コーズ.md "wikilink")
 

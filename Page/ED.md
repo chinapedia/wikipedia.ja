@@ -21,6 +21,7 @@
   - ロシアの[フライトシミュレーション](../Page/フライトシミュレーション.md "wikilink")開発企業[Eagle Dynamicsの略称](https://ja.wikipedia.org/wiki/Eagle_Dynamics "wikilink")。
   - [エンデューロレース](../Page/エンデューロレース.md "wikilink")(Enduro race)
   - D種[接地](../Page/接地.md "wikilink")、第3種接地とも呼ぶ。
+  - [ED (ゲーム会社)](https://ja.wikipedia.org/wiki/ED_\(ゲーム会社\) "wikilink") - [カネコ](../Page/カネコ.md "wikilink")の別名義（エレクトロデザイン）。麻雀ゲームなどを開発する際に使用された。
 
 **Ed**
 

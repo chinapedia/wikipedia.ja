@@ -5,7 +5,11 @@
 
 ## 概要
 
-長年続いた『[全国歌謡ベストテン](../Page/全国歌謡ベストテン.md "wikilink")』を前身とし、1997年10月に放送を開始したが、文化放送の「[FRIDAY SUPER COUNTDOWN 50](https://ja.wikipedia.org/wiki/FRIDAY_SUPER_COUNTDOWN_50 "wikilink")」の内容・パーソナリティー等の変更に伴い、2006年3月に終了。8年半の放送に幕。2006年4月からは『[J-Hits COUNTDOWN](../Page/J-Hits_COUNTDOWN.md "wikilink")』にタイトルを改題して[2016年](../Page/2016年.md "wikilink")3月まで放送された。
+[1962年](../Page/1962年.md "wikilink")（昭和37年）スタートの長寿番組『[全国歌謡ベストテン](../Page/全国歌謡ベストテン.md "wikilink")』が、時代の変化についていけなくなり[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）10月改編限りで打ち切られることになった。本番組はその後継として企画されるとともに、同じ文化放送で関東ローカル向けに放送されていた『[FRIDAY SUPER COUNTDOWN 50](../Page/スパカン!.md "wikilink")』の全国ネット向けダイジェスト版という意味合いも込められた。
+
+『全国歌謡』では番組宛や火曜会加盟局への[電話](../Page/電話.md "wikilink")や[ハガキによるリクエスト](https://ja.wikipedia.org/wiki/郵便はがき "wikilink")、[シングルレコード](https://ja.wikipedia.org/wiki/シングルレコード "wikilink")（CD）売上、選定委員会の順位の4要素を元にランキングを決定したが、当番組は前週金曜日放送の『FRIDAY SUPER COUNTDOWN 50』で決められたランキングの上位10曲をそのまま紹介する形式とした。ただし『SCD50』の前身の『[決定\!全日本歌謡選抜](../Page/決定!全日本歌謡選抜.md "wikilink")』よりも前から続いていた『全国歌謡』の伝統を引き継ぐため、新たに「火曜会加盟局総合ランキング」が作られ、『SCD50』のランキング作成で参考にされた。
+
+『SCD50』の内容変更、パーソナリティ交代に伴い、[2006年](../Page/2006年.md "wikilink")（平成18年）4月改編限りで終了。後継番組の『[J-Hits COUNTDOWN](../Page/J-Hits_COUNTDOWN.md "wikilink")』には文化放送は参加せず、『SCD50』のランキングも使われなくなり、『全国歌謡』時代のような独自ランキング編成に戻された。
 
 ## パーソナリティ
 

@@ -23,6 +23,7 @@
   - [fragile (宇都宮隆のアルバム)](https://ja.wikipedia.org/wiki/fragile_\(宇都宮隆のアルバム\) "wikilink") - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発表された[宇都宮隆](https://ja.wikipedia.org/wiki/宇都宮隆 "wikilink")のアルバム。
   - [The Fragile（ザ・フラジャイル）](https://ja.wikipedia.org/wiki/ザ・フラジャイル "wikilink") - [1999年](../Page/1999年.md "wikilink")に発表された[Nine Inch Nailsのアルバム](../Page/ナイン・インチ・ネイルズ.md "wikilink")。
   - Fragile（フラジャイル） - [2002年](../Page/2002年.md "wikilink")に発表された[畠山美由紀](../Page/畠山美由紀.md "wikilink")のアルバム。
+  - [FRAGILE (LAMP IN TERRENのアルバム)](https://ja.wikipedia.org/wiki/FRAGILE_\(LAMP_IN_TERRENのアルバム\) "wikilink")
 
 ### 名前
 

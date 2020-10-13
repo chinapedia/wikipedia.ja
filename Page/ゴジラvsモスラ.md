@@ -19,29 +19,29 @@
 
 前作に引き続き土橋竜三が登場した他、三枝未希も登場するが、他の登場作品に比べて出番は少ない。また自衛隊の各幕僚長らも前作に引き続き黒部進らが演じている。
 
-オープニングの嵐のシーンは一部『[モスラ対ゴジラ](../Page/モスラ対ゴジラ.md "wikilink")』の映像を流用している。このオープニングの特撮の撮影日（7月2日）に、[ティム・バートン](../Page/ティム・バートン.md "wikilink")が特撮の川北組を表敬訪問している\[1\]。
+オープニングの嵐のシーンは一部『[モスラ対ゴジラ](../Page/モスラ対ゴジラ.md "wikilink")』の映像を流用している。このオープニングの特撮の撮影日（7月2日）に、[ティム・バートン](../Page/ティム・バートン.md "wikilink")が特撮の川北組を表敬訪問している。
 
-バトラが眠っている氷塊が溶けるシーンに『[ノストラダムスの大予言](../Page/ノストラダムスの大予言_\(映画\).md "wikilink")』の映像の一カットが使われている\[2\]。
+バトラが眠っている氷塊が溶けるシーンに『[ノストラダムスの大予言](../Page/ノストラダムスの大予言_\(映画\).md "wikilink")』の映像の一カットが使われている\[1\]。
 
 アメリカでは長い間『モスラ対ゴジラ』が“*Godzilla vs. Mothra*”のタイトルだったため、差別化を図るため本作のタイトルは“*Godzilla and Mothra: The Battle for Earth*”となった。
 
 作曲家の[本多俊之](../Page/本多俊之.md "wikilink")が自衛隊員役で特別出演している。大河原孝夫によると、本多が[伊福部昭](../Page/伊福部昭.md "wikilink")とゴジラ映画の大ファンだったことから依頼されてのことだという。
 
-ラストのモスラ着陸シーンの舞台は大黒埠頭、横浜スタジアムなど検討されたが、脚本では[羽田空港になった](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。結局許可が下りず、[立川飛行場](../Page/立川飛行場.md "wikilink")（[立川駐屯地](../Page/立川駐屯地.md "wikilink")）で撮影は行われた\[3\]。インファント島のロケは[奄美大島](../Page/奄美大島.md "wikilink")で行われ、地主の好意で地滑りのカットなどが撮影できたという。吊り橋のカットは、[福島県](../Page/福島県.md "wikilink")の[飯坂で撮影された](https://ja.wikipedia.org/wiki/飯坂町_\(福島市\) "wikilink")。
+ラストのモスラ着陸シーンの舞台は大黒埠頭、横浜スタジアムなど検討されたが、脚本では[羽田空港になった](https://ja.wikipedia.org/wiki/東京国際空港 "wikilink")。結局許可が下りず、[立川飛行場](../Page/立川飛行場.md "wikilink")（[立川駐屯地](../Page/立川駐屯地.md "wikilink")）で撮影は行われた。インファント島のロケは[奄美大島](../Page/奄美大島.md "wikilink")で行われ、地主の好意で地滑りのカットなどが撮影できたという。吊り橋のカットは、[福島県](../Page/福島県.md "wikilink")の[飯坂で撮影された](https://ja.wikipedia.org/wiki/飯坂町_\(福島市\) "wikilink")。
 
 オープニングの隕石、ゴジラのシミュレーション画像の[CG製作は](../Page/コンピュータグラフィックス.md "wikilink")[ナムコ社による](https://ja.wikipedia.org/wiki/バンダイナムコゲームス "wikilink")。ナムコとのタイアップにより、[ナムコ・ワンダーエッグ](../Page/ナムコ・ワンダーエッグ.md "wikilink")にて『[モスラ](../Page/モスラ.md "wikilink")』の公開日である7月30日にエキストラを一般公募しての撮影が行われた。
 
 ### 製作経緯
 
-当初の企画案は『[モスラVSバガン](https://ja.wikipedia.org/wiki/モスラVSバガン "wikilink")』というモスラが主役の映画だった。この企画は1990年を公開予定とし、[大森一樹](../Page/大森一樹.md "wikilink")によって脚本が準備された。しかし『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』の評判を見て、次企画はゴジラ主役の映画『[vsキングギドラ](../Page/ゴジラvsキングギドラ.md "wikilink")』となり、その次回作として『ゴジラVSギガモス』 \[4\]や先の『モスラVSバガン』を原案に、敵怪獣をバガンからゴジラに変更し、『ゴジラvsモスラ』に落ち着いた。『ギガモス』が制作されなかったのは、登場予定だったメカニコングが権利関係が東宝と[RKO](../Page/RKO.md "wikilink")との間で曖昧であったためこれを明確にしようという意図もあったが、RKO側から製作した場合トラブルが生じる可能性があるとの回答が出されたためである。
+当初の企画案は『[モスラVSバガン](https://ja.wikipedia.org/wiki/モスラVSバガン "wikilink")』というモスラが主役の映画だった。この企画は1990年を公開予定とし、[大森一樹](../Page/大森一樹.md "wikilink")によって脚本が準備された。しかし『[ゴジラvsビオランテ](https://ja.wikipedia.org/wiki/ゴジラvsビオランテ "wikilink")』の評判を見て、次企画はゴジラ主役の映画『[vsキングギドラ](../Page/ゴジラvsキングギドラ.md "wikilink")』となり、その次回作として『ゴジラVSギガモス』 \[2\]や先の『モスラVSバガン』を原案に、敵怪獣をバガンからゴジラに変更し、『ゴジラvsモスラ』に落ち着いた。『ギガモス』が制作されなかったのは、登場予定だったメカニコングが権利関係が東宝と[RKO](../Page/RKO.md "wikilink")との間で曖昧であったためこれを明確にしようという意図もあったが、RKO側から製作した場合トラブルが生じる可能性があるとの回答が出されたためである。
 
 ### 特撮
 
 東宝特撮作品としては初めて[ハイビジョン](../Page/ハイビジョン.md "wikilink")合成を採用しており、コスモスの登場場面などに使用された。
 
-ラストのみなとみらい21のセットは3,000個以上の電飾を使用し、製作費8000万円、製作日数1ヶ月をかけて製作された\[5\]。ランドマークタワーのミニチュアは高さ6メートルにおよぶ。ランドマークタワーの位置がずれていたり、[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")がある新港地区が設置されていないなど現実とは異なる部分がある。
+ラストのみなとみらい21のセットは3,000個以上の電飾を使用し、製作費8000万円、製作日数1ヶ月をかけて製作された。ランドマークタワーのミニチュアは高さ6メートルにおよぶ。ランドマークタワーの位置がずれていたり、[横浜赤レンガ倉庫](../Page/横浜赤レンガ倉庫.md "wikilink")がある新港地区が設置されていないなど現実とは異なる部分がある。
 
-国会議事堂での羽化は1961年の『[モスラ](../Page/モスラ.md "wikilink")』の初期案を復活させたものである\[6\]。成虫の羽化シーンには[CG画像も製作されたが](../Page/コンピュータグラフィックス.md "wikilink")、これは未使用となった。
+国会議事堂での羽化は1961年の『[モスラ](../Page/モスラ.md "wikilink")』の初期案を復活させたものである\[3\]。成虫の羽化シーンには[CG画像も製作されたが](../Page/コンピュータグラフィックス.md "wikilink")、これは未使用となった。
 
 フィリピン沖のゴジラとモスラ幼虫、バトラ幼虫の戦いは東宝スタジオに設置されている特撮用大プールを使用している。また、海中での決戦シーンは通称「疑似海底」と呼ばれるスタジオの海底セットを使用している。
 
@@ -174,9 +174,12 @@
   - 三枝未希：[小高恵美](../Page/小高恵美.md "wikilink")
   - 手塚みどり：[米澤史織](../Page/米澤史織.md "wikilink")
   - 土橋竜三：[小林昭二](../Page/小林昭二.md "wikilink")
-  - 航空幕僚長（高岡冬樹）：[黒部進](../Page/黒部進.md "wikilink")
-  - 陸上幕僚長（志村武雄\[7\]）：[荻原賢三](https://ja.wikipedia.org/wiki/荻原賢三 "wikilink")
-  - 海上幕僚長（平田大輔\[8\]）：[辰馬伸](https://ja.wikipedia.org/wiki/辰馬伸 "wikilink")
+  - 航空幕僚長（高岡冬樹
+
+）：[黒部進](../Page/黒部進.md "wikilink")
+
+  - 陸上幕僚長（志村武雄）：[荻原賢三](https://ja.wikipedia.org/wiki/荻原賢三 "wikilink")
+  - 海上幕僚長（平田大輔）：[辰馬伸](https://ja.wikipedia.org/wiki/辰馬伸 "wikilink")
   - 戦車隊隊長：[渡辺哲](../Page/渡辺哲.md "wikilink")
   - コスモス：[今村恵子](../Page/今村恵子.md "wikilink")、[大沢さやか](../Page/大沢さやか.md "wikilink")
   - ディクソン（クローン生物研究所）：[ジェームズ・ヌージェント](https://ja.wikipedia.org/wiki/ジェームズ・ヌージェント "wikilink")
@@ -191,7 +194,7 @@
 
 ※クレジット表記なし
 
-  - 陸上自衛隊・戦車副官：[本多俊之](../Page/本多俊之.md "wikilink")\[9\]
+  - 陸上自衛隊・戦車副官：[本多俊之](../Page/本多俊之.md "wikilink")\[4\]
 
 ## スタッフ
 
@@ -249,7 +252,7 @@
       - 2005年4月22日発売の「GODZILLA FINAL BOX」に収録されている。
       - 2008年5月23日発売のトールケース版「ゴジラ DVDコレクションV」に収録されており、単品版も同時発売。
       - 2014年5月14日には「ゴジラ60周年記念版」として期間限定の廉価版が発売。
-      - 2016年6月15日、＜東宝DVD名作セレクション＞版発売。
+      - 2016年6月15日、東宝DVD名作セレクション版発売。
   - [Blu-rayディスクは](../Page/Blu-ray_Disc.md "wikilink")2010年1月22日発売。
 
 ## コミカライズ
@@ -260,8 +263,8 @@
 ## 関連グッズ
 
   - 組立式SDゴジラ
-    ゴジラシリーズの歴代怪獣をディフォルメした組立式ミニフィギュア。全15種に各4色のカラーバリエーションが存在する\[10\]。
-    入場者プレゼントとして配布されたほか、バンダイの[ガシャポン](../Page/ガシャポン.md "wikilink")商品としても販売された\[11\]。
+    ゴジラシリーズの歴代怪獣をディフォルメした組立式ミニフィギュア。全15種に各4色のカラーバリエーションが存在する。
+    入場者プレゼントとして配布されたほか、バンダイの[ガシャポン](../Page/ガシャポン.md "wikilink")商品としても販売された。
 
 ## 主な受賞歴
 
@@ -313,14 +316,7 @@
   -
 [Category:大河原孝夫の監督映画](https://ja.wikipedia.org/wiki/Category:大河原孝夫の監督映画 "wikilink") [Category:伊福部昭の作曲映画](https://ja.wikipedia.org/wiki/Category:伊福部昭の作曲映画 "wikilink") [Category:ゴジラシリーズの映画作品](https://ja.wikipedia.org/wiki/Category:ゴジラシリーズの映画作品 "wikilink") [Category:モスラ](https://ja.wikipedia.org/wiki/Category:モスラ "wikilink") [Category:1992年の映画](https://ja.wikipedia.org/wiki/Category:1992年の映画 "wikilink") [Category:1990年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1990年代の特撮作品 "wikilink") [Category:東京を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした映画作品 "wikilink") [Category:名古屋市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:名古屋市を舞台とした映画作品 "wikilink") [Category:横浜市を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:横浜市を舞台とした映画作品 "wikilink") [Category:インドネシアを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:インドネシアを舞台とした映画作品 "wikilink") [Category:タイを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:タイを舞台とした映画作品 "wikilink") [Category:フィリピンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:フィリピンを舞台とした映画作品 "wikilink") [Category:成田国際空港を舞台にした作品](https://ja.wikipedia.org/wiki/Category:成田国際空港を舞台にした作品 "wikilink") [Category:自衛隊映画](https://ja.wikipedia.org/wiki/Category:自衛隊映画 "wikilink") [Category:隕石を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:隕石を題材とした映画作品 "wikilink")
 
-1.  劇場パンフレットより。
-2.   「平成ゴジラバーニング・コラム」。
-3.  1作目の『[モスラ](../Page/モスラ.md "wikilink")』と同じ場所である。
-4.   「幻の平成ゴジラストーリー」。
-5.
-6.
-7.
-8.
-9.  『50th ANNIVERSARY GODZILLA SOUNDTRACK PERFECT COLLECTION BOX4』「ゴジラVSモスラ」ブックレットP.23。
-10.  「Memories of ゴジラVSモスラ」。
-11.
+1.
+2.
+3.
+4.  『50th ANNIVERSARY GODZILLA SOUNDTRACK PERFECT COLLECTION BOX4』「ゴジラVSモスラ」ブックレットP.23。

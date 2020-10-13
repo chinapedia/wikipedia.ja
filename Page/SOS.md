@@ -410,7 +410,7 @@ Phillips with a laugh changed the signal to "S.O.S."</p></td>
 
 [de:Morsecode\#SOS](https://ja.wikipedia.org/wiki/de:Morsecode#SOS "wikilink")
 
-[Category:無線](https://ja.wikipedia.org/wiki/Category:無線 "wikilink") [Category:船](https://ja.wikipedia.org/wiki/Category:船 "wikilink") [Category:海上保安庁](https://ja.wikipedia.org/wiki/Category:海上保安庁 "wikilink") [Category:海難救助](https://ja.wikipedia.org/wiki/Category:海難救助 "wikilink") [Category:サバイバルスキル](https://ja.wikipedia.org/wiki/Category:サバイバルスキル "wikilink")
+[Category:緊急通信](https://ja.wikipedia.org/wiki/Category:緊急通信 "wikilink")
 
 1.  "Regelung der Funkentelegraphie im Deutschen Reich"　*Elektrotechnische Zeitschrift*　1905年4月27日号　Julius Springer　413-414ページ
 2.  J.W. Alcrn　*Radiotelegraph and Radiotelephone Codes*　Prowords and Abbreviations　1997　42ページ

@@ -28,7 +28,7 @@
   - ラグビーのボーナスポイント（[bonus points](https://ja.wikipedia.org/wiki/w:Rugby_union_bonus_points_system "wikilink")）の略。4トライ以上で1点、7点差以内での敗戦で1点が勝ち点に加算される。
   - ボール支配率（[ball possession](https://ja.wikipedia.org/wiki/w:Ball_possession "wikilink")）の略。[パーセント](../Page/パーセント.md "wikilink")で表す。
   - ゲームで獲得されるポイントの単位。「Battle Point」の略で作品によっては[通貨](../Page/通貨.md "wikilink")として使われることもある。
-  - ビジネスパートナー（business partner）の略。
+  - ビジネスパートナー（business partner）の略。[正社員](../Page/正社員.md "wikilink")では無い採用者(契約社員、パートなど）。
 
 ### 固有名詞
 

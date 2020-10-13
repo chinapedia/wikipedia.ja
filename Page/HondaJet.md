@@ -605,7 +605,7 @@ HondaJetで採用されている主翼上面エンジン配置が航空機の新
   - [Hondaホームページ](https://www.honda.co.jp/) - [HondaJet](http://www.honda.co.jp/jet/)
   - [丸紅エアロスペース](https://www.marubeni-aerospace.co.jp/) - [HondaJet](https://www.marubeni-aerospace.co.jp/products/hondajet/)
   - [航空用エンジンのページ](http://world.honda.com/AircraftEngines/) Honda Worldwideサイト内 - 日本語ページよりも情報が豊富。プレスリリースに加えて動画や写真がある
-  - [航空の現代](http://www2g.biglobe.ne.jp/~aviation/index.html) HondaJet関連情報ページ [1](http://www2g.biglobe.ne.jp/~aviation/honda.html) -
+  - [航空の現代](http://www2g.biglobe.ne.jp/~aviation/index.html) HondaJet関連情報ページ -
   - [GE Honda Aero Engines](http://www.gehonda.com/index.html)
   - [EAA AirVenture Oshkosh](http://www.airventure.org/)
 

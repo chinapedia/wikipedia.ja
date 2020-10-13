@@ -113,7 +113,7 @@ RELAX NG の妥当性検証器 (バリデータ) の[実装](../Page/実装.md "
   - [スキマトロン](../Page/スキマトロン.md "wikilink")
   - [W3C](../Page/World_Wide_Web_Consortium.md "wikilink") [XML Schema](https://ja.wikipedia.org/wiki/XML_Schema "wikilink")
 
-## 脚注
+## 注釈・出典
 
 <references/>
 

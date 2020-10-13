@@ -55,10 +55,16 @@ Vol.1は第2回雑誌大賞にて、「雑誌新人賞」を受賞\[6\]。11月1
 ## 外部リンク
 
   - [WIRED.jp](http://wired.jp/) 日本語版のウェブサイト
+
   - [Wired.com](http://www.wired.com/) US版のウェブサイト
+
   - [Wired.co.uk](http://www.wired.co.uk/) UK版のウェブサイト
+
   - [Wired.it](http://www.wired.it/) イタリア版のウェブサイト
 
+  -
+  -
+  -
 [Category:パソコン雑誌](https://ja.wikipedia.org/wiki/Category:パソコン雑誌 "wikilink") [Category:アメリカ合衆国の科学技術雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の科学技術雑誌 "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink")
 
 1.

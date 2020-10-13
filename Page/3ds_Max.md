@@ -27,6 +27,37 @@
 
 また、以前は[Macintosh](../Page/Macintosh.md "wikilink")の[Boot Campを使用した](../Page/Boot_Camp.md "wikilink")[Windows](https://ja.wikipedia.org/wiki/Windows "wikilink")での動作もサポートされていたが、2017年3月以降はサポート対象外となっている\[3\]。
 
+## バージョン
+
+  - 3D Studio Prototype (1988年)
+  - 3D Studio DOS (1990年)
+  - 3D Studio DOS 2 (1992年)
+  - 3D Studio DOS 3 (1993年)
+  - 3D Studio DOS 4 (1994年)
+  - 3D Studio MAX 1.0 (1996年)
+  - 3D Studio MAX R2 (1997年)
+  - 3D Studio MAX R3 (1999年)
+  - Discreet 3ds max 4 (2000年)
+  - Discreet 3ds max 5 (2002年)
+  - Discreet 3ds max 6 (2003年)
+  - Discreet 3ds max 7 (2004年)
+  - Autodesk 3ds Max 8 (2005年)
+  - Autodesk 3ds Max 9 (2006年)
+  - Autodesk 3ds Max 2008 (2007年)
+  - Autodesk 3ds Max 2009 (2008年)
+  - Autodesk 3ds Max 2010 (2009年)
+  - Autodesk 3ds Max 2011 (2010年)
+  - Autodesk 3ds Max 2012 (2011年)
+  - Autodesk 3ds Max 2013 (2012年)
+  - Autodesk 3ds Max 2014 (2013年)
+  - Autodesk 3ds Max 2015 (2014年)
+  - Autodesk 3ds Max 2016 (2015年)
+  - Autodesk 3ds Max 2017 (2016年)
+  - Autodesk 3ds Max 2018 (2017年)
+  - Autodesk 3ds Max 2019 (2018年)
+  - Autodesk 3ds Max 2020 (2019年)
+  - Autodesk 3ds Max 2021 (2020年)
+
 ## 関連項目
 
   - [ダンシング・ベイビー](https://ja.wikipedia.org/wiki/ダンシング・ベイビー "wikilink")

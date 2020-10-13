@@ -61,6 +61,7 @@
   - [東京急行電鉄](https://ja.wikipedia.org/wiki/東京急行電鉄 "wikilink")の[パスネット](https://ja.wikipedia.org/wiki/パスネット "wikilink")表記。
   - [NHK松江放送局](../Page/NHK松江放送局.md "wikilink") の[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink")
   - 第二次世界大戦のポーランドの豆戦車の形式名 ⇒ **[TK (戦車)](../Page/TK_\(戦車\).md "wikilink")**
+  - [名鉄豊川線](https://ja.wikipedia.org/wiki/名鉄豊川線 "wikilink")の[八幡駅](../Page/八幡駅_\(愛知県\).md "wikilink")～[豊川稲荷駅](../Page/豊川稲荷駅.md "wikilink")間の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
 
 ## 関連項目
 

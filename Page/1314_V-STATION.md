@@ -26,7 +26,7 @@
 
 ## 現在放送中の番組
 
-2020年4月現在。時間表記は午前5時を基点とした。
+2020年9月28日現在。時間表記は午前5時を基点とした。
 他局などが制作の場合は**太字**で表記し、制作社名を併記した。★印は文化放送制作
 
 「一般番組」はフィラー放送（OBCミュージック・アベニュー、など）を含む。
@@ -52,7 +52,7 @@
 </tr>
 <tr class="even">
 <td><p>22:30</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ここいば!" title="wikilink">ここいば!</a></p></td>
+<td><p><a href="../Page/飯田里穂.md" title="wikilink">飯田里穂</a>主義</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -84,14 +84,14 @@
 </tr>
 <tr class="even">
 <td><p>0:00</p></td>
-<td><p><a href="../Page/飯田里穂.md" title="wikilink">飯田里穂</a>主義</p></td>
+<td><p>（5:00まで放送休止）</p></td>
 <td><p>★<strong><a href="https://ja.wikipedia.org/wiki/東映公認_鈴村健一・神谷浩史の仮面ラジレンジャー" title="wikilink">東映公認 鈴村健一・神谷浩史の仮面ラジレンジャー</a></strong></p></td>
 <td><p>一般番組</p></td>
 <td><p>アニソン★ナイトフィーバー</p></td>
 </tr>
 <tr class="odd">
 <td><p>0:30</p></td>
-<td><p>★<strong><a href="https://ja.wikipedia.org/wiki/ボルテージ_(企業)#ラジオ" title="wikilink">柿原徹也・畠中祐 ボクらが君を幸せにするラジオ</a></strong></p></td>
+<td></td>
 <td><p>一般番組</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/増田俊樹・村上喜紀のオーシャンスピリット" title="wikilink">増田俊樹・村上喜紀のオーシャンスピリット</a></p></td>
 <td></td>

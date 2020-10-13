@@ -1,7 +1,7 @@
 > この記事は[PATA](https://ja.wikipedia.org/wiki/PATA)から翻訳されています。
 
 
-**PATA**（パタ、本名：**石塚 智昭**（いしづか ともあき）、[1965年](../Page/1965年.md "wikilink")（昭和40年）[11月4日](../Page/11月4日.md "wikilink") - ）は、日本の[ギタリスト](../Page/ギタリスト.md "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[X JAPANのメンバー](../Page/X_JAPAN.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。愛称は「石塚（大）先生」。
+**PATA**（パタ、本名：**石塚 智昭**（いしづか ともあき）、[1965年](../Page/1965年.md "wikilink")（昭和40年）[11月4日](../Page/11月4日.md "wikilink") - ）は、日本の[ギタリスト](../Page/ギタリスト.md "wikilink")。[ロックバンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")、[X JAPANのメンバー](../Page/X_JAPAN.md "wikilink")。[千葉県](../Page/千葉県.md "wikilink")[千葉市](../Page/千葉市.md "wikilink")出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。愛称は「石塚（大）先生」。PATAという名前の由来は、漫画「[パタリロ！](../Page/パタリロ!.md "wikilink")」の主人公である「[パタリロ・ド・マリネール8世](../Page/パタリロ・ド・マリネール8世.md "wikilink")」から。同単行本の44巻にPATA本人が登場している。
 
 ## 来歴
 

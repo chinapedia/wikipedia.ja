@@ -1,7 +1,7 @@
 > この記事は[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE)から翻訳されています。
 
 
-**NON STYLE**（ノン・スタイル）は、[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")と[井上裕介による](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")に結成。出囃子は[KEMURIの](https://ja.wikipedia.org/wiki/kemuri "wikilink")『Prayer』。 [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")第9代目チャンピオン。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")王者。
+**NON STYLE**（ノン・スタイル）は、[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")と[井上裕介による](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")にコンビ結成。出囃子は[KEMURIの](https://ja.wikipedia.org/wiki/kemuri "wikilink")『Prayer』。 [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")第9代目チャンピオン。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")王者。
 
 ## メンバー
 
@@ -240,7 +240,7 @@
 
 :\* [BS吉テレ](https://ja.wikipedia.org/wiki/BS吉テレ "wikilink")（[BS日テレ](../Page/BS日本.md "wikilink")）火曜日 0:30-1:00（2013年4月2日 - 2014年3月26日）
 
-:\* [おはスタ](../Page/おはスタ.md "wikilink")（テレビ東京、2014年4月7日 - 2015年4月3日）
+:\* [おはスタ](../Page/おはスタ.md "wikilink")（テレビ東京、2014年4月7日 - 2015年4月3日、2020年9月21日\[44\]）
 
 :\* [NHK俳句](../Page/NHK俳句.md "wikilink")「俳句さく咲く！」（[NHK Eテレ](../Page/NHK教育テレビジョン.md "wikilink") 第4日曜　6:35-7:00　2013年3月 - 2017年3月）
 
@@ -323,7 +323,7 @@
 
   -
 
-      - [メンズリゼ](https://ja.wikipedia.org/wiki/メンズリゼ "wikilink") 「NON STYLE 裸一貫篇」「狼男篇」「今はオトコも脱毛する時代篇」「NON STYLE 炎上篇」「リゼウォーク篇」「NON STYLEは宣伝隊長篇」\[44\]。
+      - [メンズリゼ](https://ja.wikipedia.org/wiki/メンズリゼ "wikilink") 「NON STYLE 裸一貫篇」「狼男篇」「今はオトコも脱毛する時代篇」「NON STYLE 炎上篇」「リゼウォーク篇」「NON STYLEは宣伝隊長篇」\[45\]。
       - 武田塾
 
 ## 書籍
@@ -369,10 +369,6 @@
 ## 単独ライブ
 
 <div class="NavFrame">
-
-<div class="NavHead">
-
-過去の単独ライブ一覧
 
 </div>
 
@@ -479,7 +475,7 @@
           - 8月13日 - [大阪国際交流センター](../Page/大阪国際交流センター.md "wikilink")大ホール/大阪
           - 9月24日 - [福岡国際会議場](../Page/福岡国際会議場.md "wikilink")/福岡
           - 10月22日 - [東京ドームシティホール](https://ja.wikipedia.org/wiki/東京ドームシティホール "wikilink")/東京
-  - 2017年\[45\]
+  - 2017年\[46\]
       - **「NON STYLE LIVE～漫才行脚～」**
           - 8月19日 - 広島市南区民文化センター/広島
           - 9月3日 - 鳥栖市民文化会館・大ホール/佐賀
@@ -487,7 +483,7 @@
           - 10月7日 - 秋田児童会館子ども劇場（けやきシアター）/秋田
           - 11月4日 - 帯広市民文化ホール/帯広
           - 11月12日 - メルパルクホール/大阪
-  - 2018年\[46\]
+  - 2018年\[47\]
       - **「NON STYLE LIVE 2018『38』（サンパチ）」**
           - 8月14日 - 梅田芸術劇場/大阪
           - 8月19日 - 電力ホール/仙台
@@ -508,6 +504,8 @@
           - 9月21日 - 倉敷市民会館/岡山
           - 9月27日 - けんしん郡山文化センター/福島
           - 10月1日 - 東京ドームシティホール/東京
+  - 2020年
+      - 11月6日 - **「NON STYLE LIVE 2020 〜ツアーで会場押さえていたから新ネタ5本とトークでもやりましょか〜」**(東京ドームシティホール/東京)
 
 </div>
 
@@ -580,6 +578,7 @@
 41.
 42.
 43.
-44.
+44. 「[明日をつくろう](../Page/明日をつくろう.md "wikilink")」の合唱企画に参加のためVTR出演。
 45.
 46.
+47.

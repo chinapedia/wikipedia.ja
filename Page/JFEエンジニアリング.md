@@ -63,42 +63,43 @@
 
 [thumbが建てられた](https://ja.wikipedia.org/wiki/ファイル:JFE_Holdings,_Inc._\(headquarters\).jpg "wikilink")。\]\]
 
-  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - **日本鋼管株式会社**（にっぽんこうかん）設立。本社は[川崎市](../Page/川崎市.md "wikilink")。[浅野財閥](../Page/浅野財閥.md "wikilink")。本社横浜市、資本金200万円、社長白石元次郎＜ref＞日本鋼管株式会社三十年史＜/ref＞。
-  - [1913年](../Page/1913年.md "wikilink")（[大正](../Page/大正.md "wikilink")2年）4月 - 営業開始。
-  - [1919年](../Page/1919年.md "wikilink")（大正8年）11月 - 電気製鉄株式会社を合併、富山電気製鉄所発足。
-  - [1933年](../Page/1933年.md "wikilink")（昭和8年）12月 - 第二鋼管株式会社を合併。
-  - [1935年](../Page/1935年.md "wikilink")（昭和10年）6月 - 昭和鋼管株式会社を合併。
-  - [1935年](../Page/1935年.md "wikilink")（昭和10年）7月 - 川崎コークス株式会社を合併。
-  - [1935年](../Page/1935年.md "wikilink")（昭和10年）10月 - 新潟電気製鉄所発足。
-  - [1937年](../Page/1937年.md "wikilink")（昭和12年）12月 - 第三鋼管株式会社を合併。
-  - [1938年](../Page/1938年.md "wikilink")（昭和13年）6月 - ドイツより導入したトーマス転炉の操業を開始。
-  - [1940年](../Page/1940年.md "wikilink")（昭和15年）10月 - 同じ浅野系の兄弟会社、[鶴見製鉄造船株式会社を合併](../Page/浅野造船所.md "wikilink")、鶴見造船所発足。これにより重工部門を有し、事業の多角化を図る。
-  - [1944年](../Page/1944年.md "wikilink")（昭和19年）7月 - 川崎窯業株式会社を合併。
-  - [1946年](../Page/1946年.md "wikilink")（昭和21年）4月 - 川崎製鉄所操業開始。
-  - [1947年](../Page/1947年.md "wikilink")（昭和22年）6月 - 鶴見製鉄所操業開始。
-  - [1949年](../Page/1949年.md "wikilink")（昭和24年）4月 - 鋼管鉱業株式会社（現・[JFEミネラル](../Page/JFEミネラル.md "wikilink")）を設立。
-  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[5月16日](../Page/5月16日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")・[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")に株式上場。
-  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[6月2日](../Page/6月2日.md "wikilink") - 東海運輸株式会社（現・[JFE物流](https://ja.wikipedia.org/wiki/JFE物流 "wikilink")）を設立。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年）2月 - 水江製鉄所発足。
-  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[8月1日](../Page/8月1日.md "wikilink") - 日本鋼管工事株式会社（現・[JFE工建](https://ja.wikipedia.org/wiki/JFE工建 "wikilink")）を設立。[横浜ヨット](https://ja.wikipedia.org/wiki/横浜ヨット "wikilink")を子会社化。
-  - [1960年](../Page/1960年.md "wikilink")（昭和35年）11月 - 日本鋼管ライトスチール株式会社（現・[JFE建材](https://ja.wikipedia.org/wiki/JFE建材 "wikilink")）を設立。
-  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）12月 - 日本鋼管不動産株式会社を設立。
-  - [1965年](../Page/1965年.md "wikilink")（昭和40年）2月 - 福山製鉄所発足。
-  - [1966年](../Page/1966年.md "wikilink")（昭和41年）1月 -　[日本ブラストマシン](https://ja.wikipedia.org/wiki/日本ブラストマシン "wikilink")株式会社（現・[JFEプラントエンジ](../Page/JFEプラントエンジ.md "wikilink")）に資本参加。　
-  - [1967年](../Page/1967年.md "wikilink")（昭和42年）6月2日 - 津造船所建設を運輸省に申請（日本最初の50万GT級ドック）。
-  - [1968年](../Page/1968年.md "wikilink")（昭和43年）4月 - 川崎製鉄所・鶴見製鉄所・水江製鉄所を統合し京浜製鉄所発足。
-  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）1月 - 津造船所発足。
-  - [1974年](../Page/1974年.md "wikilink")（昭和49年） - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に、日本鋼管本社ビル竣工（2007年に解体され、現在は[三井住友銀行本店ビルディング](https://ja.wikipedia.org/wiki/三井住友銀行本店ビルディング "wikilink")）。
-  - [1976年](../Page/1976年.md "wikilink")（昭和51年）11月、京浜製鉄所の[埋め立て地](https://ja.wikipedia.org/wiki/埋め立て地 "wikilink")・[扇島](https://ja.wikipedia.org/wiki/扇島 "wikilink")に第1[高炉](https://ja.wikipedia.org/wiki/高炉 "wikilink")が火入れされて、新製鉄施設群がスタート。
+  - [1912年](../Page/1912年.md "wikilink")（[明治](../Page/明治.md "wikilink")45年）[6月8日](../Page/6月8日.md "wikilink") - **日本鋼管株式会社**（にっぽんこうかん）設立。本社[川崎市](../Page/川崎市.md "wikilink")
+  - [1913年](../Page/1913年.md "wikilink")（[大正](../Page/大正.md "wikilink")2年) 4月 - 営業開始
+  - [1916年](../Page/1916年.md "wikilink") ([大正](../Page/大正.md "wikilink")5年) 4月 - 横浜造船所を設立（後に浅野造船所に改称）
+  - [1919年](../Page/1919年.md "wikilink")（大正8年）11月 - 電気製鉄株式会社を合併、富山電気製鉄所発足
+  - [1933年](../Page/1933年.md "wikilink")（昭和8年）12月 - 第二鋼管株式会社を合併
+  - [1935年](../Page/1935年.md "wikilink")（昭和10年）6月 - 昭和鋼管株式会社を合併
+  - [1935年](../Page/1935年.md "wikilink")（昭和10年）7月 - 川崎コークス株式会社を合併
+  - [1935年](../Page/1935年.md "wikilink")（昭和10年）10月 - 新潟電気製鉄所発足
+  - [1937年](../Page/1937年.md "wikilink")（昭和12年）12月 - 第三鋼管株式会社を合併
+  - [1938年](../Page/1938年.md "wikilink")（昭和13年）6月 - ドイツより導入したトーマス転炉の操業を開始
+  - [1940年](../Page/1940年.md "wikilink")（昭和15年）10月 - 同じ浅野系の兄弟会社、[鶴見製鉄造船株式会社を合併](../Page/浅野造船所.md "wikilink")、鶴見造船所発足。これにより重工部門を有し、事業の多角化を図る
+  - [1944年](../Page/1944年.md "wikilink")（昭和19年）7月 - 川崎窯業株式会社を合併
+  - [1946年](../Page/1946年.md "wikilink")（昭和21年）4月 - 川崎製鉄所操業開始
+  - [1947年](../Page/1947年.md "wikilink")（昭和22年）6月 - 鶴見製鉄所操業開始
+  - [1949年](../Page/1949年.md "wikilink")（昭和24年）4月 - 鋼管鉱業株式会社（現・[JFEミネラル](../Page/JFEミネラル.md "wikilink")）を設立
+  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[5月16日](../Page/5月16日.md "wikilink") - [東京証券取引所](../Page/東京証券取引所.md "wikilink")・[大阪証券取引所](https://ja.wikipedia.org/wiki/大阪証券取引所 "wikilink")に株式上場
+  - [1949年](../Page/1949年.md "wikilink")（昭和24年）[6月2日](../Page/6月2日.md "wikilink") - 東海運輸株式会社（現・[JFE物流](https://ja.wikipedia.org/wiki/JFE物流 "wikilink")）を設立
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年）2月 - 水江製鉄所発足
+  - [1959年](../Page/1959年.md "wikilink")（昭和34年）[8月1日](../Page/8月1日.md "wikilink") - 日本鋼管工事株式会社（現・[JFE工建](https://ja.wikipedia.org/wiki/JFE工建 "wikilink")）を設立。[横浜ヨット](https://ja.wikipedia.org/wiki/横浜ヨット "wikilink")を子会社化
+  - [1960年](../Page/1960年.md "wikilink")（昭和35年）11月 - 日本鋼管ライトスチール株式会社（現・[JFE建材](https://ja.wikipedia.org/wiki/JFE建材 "wikilink")）を設立
+  - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年）12月 - 日本鋼管不動産株式会社を設立
+  - [1965年](../Page/1965年.md "wikilink")（昭和40年）2月 - 福山製鉄所発足
+  - [1966年](../Page/1966年.md "wikilink")（昭和41年）1月 -　[日本ブラストマシン](https://ja.wikipedia.org/wiki/日本ブラストマシン "wikilink")株式会社（現・[JFEプラントエンジ](../Page/JFEプラントエンジ.md "wikilink")）に資本参加
+  - [1967年](../Page/1967年.md "wikilink")（昭和42年）6月2日 - 津造船所建設を運輸省に申請（日本最初の50万GT級ドック）
+  - [1968年](../Page/1968年.md "wikilink")（昭和43年）4月 - 川崎製鉄所・鶴見製鉄所・水江製鉄所を統合し京浜製鉄所発足
+  - [1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")（昭和44年）1月 - 津造船所発足
+  - [1974年](../Page/1974年.md "wikilink")（昭和49年） - [東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[丸の内](../Page/丸の内.md "wikilink")に、日本鋼管本社ビル竣工（2007年に解体され、現在は[三井住友銀行本店ビルディング](https://ja.wikipedia.org/wiki/三井住友銀行本店ビルディング "wikilink")）
+  - [1976年](../Page/1976年.md "wikilink")（昭和51年）11月、京浜製鉄所の[埋め立て地](https://ja.wikipedia.org/wiki/埋め立て地 "wikilink")・[扇島](https://ja.wikipedia.org/wiki/扇島 "wikilink")に第1[高炉](https://ja.wikipedia.org/wiki/高炉 "wikilink")が火入れされて、新製鉄施設群がスタート
   - [1988年](../Page/1988年.md "wikilink")（昭和63年）6月8日 - 呼称社名を「NKK」に変更。（登記社名は変わらなかった）
   - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年）3月 - 富士ディーゼル社のメンテナンス事業を継承。
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - LSI設計事業、電子デバイス事業を[富士通](../Page/富士通.md "wikilink")に譲渡し撤退。
-  - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月31日](../Page/12月31日.md "wikilink") - 日本鋼管不動産を吸収合併。
-  - [2001年](../Page/2001年.md "wikilink")（平成13年）[4月1日](../Page/4月1日.md "wikilink") - 日本鋼管・[住友重機械工業](../Page/住友重機械工業.md "wikilink")・[日立造船](../Page/日立造船.md "wikilink")の製鉄プラント部門を統合し、[スチールプランテック](../Page/スチールプランテック.md "wikilink")株式会社を設立。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）1月 - 米国子会社[ナショナル・スチール](https://ja.wikipedia.org/wiki/ナショナル・スチール "wikilink")を、米国[USスチール](../Page/USスチール.md "wikilink")に売却。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）[9月19日](../Page/9月19日.md "wikilink") - 上場廃止。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [株式移転](../Page/株式移転.md "wikilink")により、[川崎製鉄と共同で](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")を設立。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）[10月1日](../Page/10月1日.md "wikilink") - 日本鋼管・[日立造船](../Page/日立造船.md "wikilink")の造船部門を統合し[ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink")株式会社を設立、鶴見事業所・津製作所の造船部門を同社に譲渡。
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - LSI設計事業、電子デバイス事業を[富士通](../Page/富士通.md "wikilink")に譲渡し撤退
+  - [2000年](../Page/2000年.md "wikilink")（平成12年）[12月31日](../Page/12月31日.md "wikilink") - 日本鋼管不動産を吸収合併
+  - [2001年](../Page/2001年.md "wikilink")（平成13年）[4月1日](../Page/4月1日.md "wikilink") - 日本鋼管・[住友重機械工業](../Page/住友重機械工業.md "wikilink")・[日立造船](../Page/日立造船.md "wikilink")の製鉄プラント部門を統合し、[スチールプランテック](../Page/スチールプランテック.md "wikilink")株式会社を設立
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）1月 - 米国子会社[ナショナル・スチール](https://ja.wikipedia.org/wiki/ナショナル・スチール "wikilink")を、米国[USスチール](../Page/USスチール.md "wikilink")に売却
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）[9月19日](../Page/9月19日.md "wikilink") - 上場廃止
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink") - [株式移転](../Page/株式移転.md "wikilink")により、[川崎製鉄と共同で](https://ja.wikipedia.org/wiki/JFEスチール "wikilink")[JFEホールディングス](../Page/JFEホールディングス.md "wikilink")を設立
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）[10月1日](../Page/10月1日.md "wikilink") - 日本鋼管・[日立造船](../Page/日立造船.md "wikilink")の造船部門を統合し[ユニバーサル造船](../Page/ユニバーサル造船.md "wikilink")株式会社を設立、鶴見事業所・津製作所の造船部門を同社に譲渡
 
 ### JFEエンジニアリング発足後
 

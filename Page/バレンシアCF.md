@@ -1,7 +1,7 @@
 > この記事は[バレンシアCF](https://ja.wikipedia.org/wiki/バレンシアCF)から翻訳されています。
 
 
-**バレンシア・クルブ・デ・フトボル**（**Valencia Club de Fútbol** (,  )\[1\]）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシアに本拠地を置く](../Page/バレンシア_\(スペイン\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
+**バレンシア・クルブ・デ・フトボル**（[スペイン語](https://ja.wikipedia.org/wiki/スペイン語 "wikilink"): Valencia Club de Fútbol, 、[バレンシア語](../Page/バレンシア語.md "wikilink"): València Club de Futbol, \[1\]）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシアに本拠地を置く](../Page/バレンシア_\(スペイン\).md "wikilink")[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチームである。[ラ・リーガに所属している](../Page/プリメーラ・ディビシオン.md "wikilink")。
 
 ## 概要
 
@@ -308,7 +308,7 @@
 
 </div>
 
-\[25\]    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ★  ★   ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))
+\[25\]    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cape_Verde.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Belgium.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ★  ★   ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_United_States.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

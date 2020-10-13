@@ -530,7 +530,7 @@
   - [EARTH DEFENSE FORCE: IRON RAIN](https://ja.wikipedia.org/wiki/EARTH_DEFENSE_FORCE:_IRON_RAIN "wikilink")
     2019年4月11日発売の[PlayStation 4用ソフト](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")。開発は[ユークス](../Page/ユークス.md "wikilink")。ストーリーや世界観のつながりはなく、敵は「アグレッサー」と呼ばれている。なお、ゲームエンジンに[Unreal Engineを使用している](../Page/Unreal_Engine.md "wikilink")。また、シリーズ初のゲーム内通貨を採用。
   - ま～るい地球が四角くなった\!? デジボク地球防衛軍 EARTH DEFENSE：WORLD BROTHERS
-    2020年6月23日に発表された[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch用ソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。2020年発売予定。
+    2020年6月23日に発表された[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch用ソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。2020年12月24日発売予定。
   - 地球防衛軍6
     2020年6月23日に発表されたCSタイトル。2021年発売予定。
 

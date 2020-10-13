@@ -867,6 +867,8 @@
 
   - [トゥガイ・ケリモギュ](https://ja.wikipedia.org/wiki/トゥガイ・ケリモギュ "wikilink") 2000-2001
 
+  - [ケヴィン・マスカット](https://ja.wikipedia.org/wiki/ケヴィン・マスカット "wikilink") 2002-2003
+
   - [ヘニング・ベルグ](../Page/ヘニング・ベルグ.md "wikilink") 2003-2004
 
   - [フランク・デ・ブール](../Page/フランク・デ・ブール.md "wikilink") 2003-2004

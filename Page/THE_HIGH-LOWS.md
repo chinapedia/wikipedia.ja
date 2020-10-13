@@ -519,8 +519,7 @@
 </tr>
 <tr class="even">
 <td><p>1997年</p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/フジロックフェスティバル#1997.E5.B9.B4" title="wikilink">FUJI ROCK FESTIVAL '97</a></em></strong><br />
-</p></td>
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/フジロックフェスティバル#1997.E5.B9.B4" title="wikilink">FUJI ROCK FESTIVAL '97</a></em></strong></p></td>
 <td><p>7/26(土) 富士天神山スキー場</p></td>
 </tr>
 <tr class="odd">
@@ -874,8 +873,7 @@
 </tr>
 <tr class="even">
 <td><p>2002年</p></td>
-<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/フジロックフェスティバル#2002.E5.B9.B4" title="wikilink">FUJI ROCK FESTIVAL '02</a></em></strong><br />
-</p></td>
+<td><p><strong><em><a href="https://ja.wikipedia.org/wiki/フジロックフェスティバル#2002.E5.B9.B4" title="wikilink">FUJI ROCK FESTIVAL '02</a></em></strong></p></td>
 <td><p>7/28(日)</p></td>
 </tr>
 <tr class="odd">
@@ -1049,38 +1047,32 @@
 </tr>
 <tr class="even">
 <td><p>2005年</p></td>
-<td><p><strong><em>SETSTOCK'05</em></strong><br />
-</p></td>
+<td><p><strong><em>SETSTOCK'05</em></strong></p></td>
 <td><p>7/23(土) 国営備北丘陵公園</p></td>
 </tr>
 <tr class="odd">
-<td><p><strong><em>FM802 MEET THE WORLD BEAT 2005</em></strong><br />
-</p></td>
+<td><p><strong><em>FM802 MEET THE WORLD BEAT 2005</em></strong></p></td>
 <td><p>7/24(日) 万博記念公園 もみじ川芝生広場</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em>FUJI ROCK FESTIVAL '05</em></strong><br />
-</p></td>
+<td><p><strong><em>FUJI ROCK FESTIVAL '05</em></strong></p></td>
 <td><p>7/29(金) GREEN STAGE at 苗場スキー場</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p><strong><em>RISING SUN ROCK FESTIVAL 2005 in EZO</em></strong><br />
-</p></td>
+<td><p><strong><em>RISING SUN ROCK FESTIVAL 2005 in EZO</em></strong></p></td>
 <td><p>8/20(土) SUN STAGE at 石狩湾新港樽川ふ頭横野外特設ステージ</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p><strong><em>RADIO BERRY ベリテンライブ2005</em></strong><br />
-</p></td>
+<td><p><strong><em>RADIO BERRY ベリテンライブ2005</em></strong></p></td>
 <td><p>9/18(日) 宇都宮市農林公園ろまんちっく村 さわやか広場野外特設ステージ</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>'''''中大炎上</p></td>
-<td><p>～↑THE HIGH-LOWS↓ LIVE 2005～'''''<br />
-</p></td>
+<td><p>～↑THE HIGH-LOWS↓ LIVE 2005～'''''</p></td>
 <td><p>11/5(土) 中央大学多摩キャンパス</p></td>
 </tr>
 </tbody>

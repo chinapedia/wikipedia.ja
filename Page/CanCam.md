@@ -17,7 +17,7 @@
 
 ## 部数
 
-[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")、[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")の3名が誌面の代表を担っていた頃、2006年には発行80万部に達したこともあった\[8\]。[日本雑誌協会](https://ja.wikipedia.org/wiki/日本雑誌協会 "wikilink")の調査によれば、2008年4月〜6月期の部数がおよそ55万部\[9\]。[日本ABC協会](../Page/日本ABC協会.md "wikilink")の調査によれば、同年下半期の販売部数が34万6466部\[10\]。2010年上半期（1月〜6月）の実売部数が21万2000部で、同年下半期（7月〜12月）の実売部数が19万3000部、2011年上半期が14万8000部となっている\[11\]。
+[蛯原友里](https://ja.wikipedia.org/wiki/蛯原友里 "wikilink")、[山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")、[押切もえ](https://ja.wikipedia.org/wiki/押切もえ "wikilink")の3名が誌面の代表を担っていた頃、2006年には発行80万部に達したこともあった\[8\]。[日本雑誌協会](https://ja.wikipedia.org/wiki/日本雑誌協会 "wikilink")の調査によれば、2008年4月〜6月期の部数がおよそ55万部\[9\]。[日本ABC協会](../Page/日本ABC協会.md "wikilink")の調査によれば、同年下半期の販売部数が34万6466部\[10\]。2010年上半期（1月〜6月）の実売部数が21万2000部で、同年下半期（7月〜12月）の実売部数が19万3000部、2011年上半期が14万8000部となっている\[11\]。
 
 ## 専属モデル
 

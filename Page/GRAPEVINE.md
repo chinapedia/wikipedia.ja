@@ -291,7 +291,7 @@
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/その未来/アダバナ" title="wikilink">その未来/アダバナ</a></strong></p></td>
 <td><p>22位</p></td>
 <td><p>PCCA.70118</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/deracine_(アルバム)" title="wikilink">déraciné</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/déraciné_(GRAPEVINEのアルバム)" title="wikilink">déraciné</a></p></td>
 </tr>
 <tr class="even">
 <td><p>18th</p></td>
@@ -459,7 +459,7 @@ VICL-37275（通常盤）</p></td>
 
 #### オリジナルアルバム
 
-  - 『[退屈の花](https://ja.wikipedia.org/wiki/退屈の花 "wikilink")』から『[déraciné](https://ja.wikipedia.org/wiki/deracine_\(アルバム\) "wikilink")』までのアルバムは、『[From a smalltown](../Page/From_a_smalltown.md "wikilink")』発売時に低価格・限定盤として再発売された。
+  - 『[退屈の花](https://ja.wikipedia.org/wiki/退屈の花 "wikilink")』から『[déraciné](https://ja.wikipedia.org/wiki/déraciné_\(GRAPEVINEのアルバム\) "wikilink")』までのアルバムは、『[From a smalltown](../Page/From_a_smalltown.md "wikilink")』発売時に低価格・限定盤として再発売された。
 
 <table>
 <thead>
@@ -534,7 +534,7 @@ PCJA.00051（アナログ盤）</p></td>
 <td><p>7th</p></td>
 <td><p><a href="../Page/2005年.md" title="wikilink">2005年</a><a href="../Page/8月24日.md" title="wikilink">8月24日</a><br />
 <a href="../Page/2007年.md" title="wikilink">2007年</a><a href="../Page/3月7日.md" title="wikilink">3月7日</a>（再発盤）</p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/deracine_(アルバム)" title="wikilink">déraciné</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/déraciné_(GRAPEVINEのアルバム)" title="wikilink">déraciné</a></strong></p></td>
 <td><p>19位</p></td>
 <td><p>CD</p></td>
 <td><p>PCCA.02167</p></td>

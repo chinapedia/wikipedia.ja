@@ -1,15 +1,15 @@
 > この記事は[B.B.WAVES](https://ja.wikipedia.org/wiki/B.B.WAVES)から翻訳されています。
 
 
-**B.B.WAVES**（ビービーウェイブス）は、[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")のオーディションで選抜された「[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")」を中心としたデビュー予備軍グループ。名称は「Beautiful Beat Waves」の略で、「美しいビートの波が沖縄から世界 へ」というコンセプト\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")当時の所属事務所は[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。
+**B.B.WAVES**（ビービーウェイブス）は、[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")のオーディションで選抜された「[山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")」を中心としたデビュー予備軍グループ。名称は「Beautiful Beat Waves」の略で、「美しいビートの波が沖縄から世界 へ」というコンセプト\[1\]。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")当時の所属事務所は[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")。
 
 ## 概要
 
-[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")や[日本武道館](../Page/日本武道館.md "wikilink")コンサート、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](../Page/ククレカレー.md "wikilink")」のCMなどで活躍していた。**B.B.WAVES**をモデルにした漫画「はじけて！B.B.！」にては[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")や**B.B.WAVES**のメンバーが実名で登場。
+[サンリオピューロランド](../Page/サンリオピューロランド.md "wikilink")や[日本武道館](../Page/日本武道館.md "wikilink")コンサート、[ハウス食品](../Page/ハウス食品.md "wikilink")「[ククレカレー](../Page/ククレカレー.md "wikilink")」のCMなどで活躍していた。**B.B.WAVES**をモデルにした漫画「はじけて！B.B.！」にては山田優や**B.B.WAVES**のメンバーが実名で登場。
 
 ## オリジナルメンバー
 
-  - [山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")
+  - [山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")
   - [石川愛理](../Page/石川愛理.md "wikilink")
   - [幸地優美](https://ja.wikipedia.org/wiki/幸地優美 "wikilink")
   - [新城美幸](https://ja.wikipedia.org/wiki/新城美幸 "wikilink")
@@ -62,7 +62,7 @@
 
 ## 関連項目
 
-  - [山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")
+  - [山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")
   - [沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")
 
 [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:10人組以上の音楽グループ](https://ja.wikipedia.org/wiki/Category:10人組以上の音楽グループ "wikilink")

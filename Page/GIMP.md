@@ -118,10 +118,14 @@ GIMP をベースにしたいくつかの派生バージョンやカスタマイ
 
 ### 公式
 
-  - [GIMP](https://www.gimp.org/)
+  -
+
   - [GIMP Help](https://docs.gimp.org/)
+
   - [GIMP Plug-In Registry](https://www.gimp.org/registry/)
+
   - [GIMP Developer Resources](https://developer.gimp.org/)
+
   - [Gimp and OpenOffice Draw](http://wiki.gimp.org/gimp/OpenOfficeConvertion)
 
 ### GIMP コミュニティー

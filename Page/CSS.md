@@ -29,4 +29,7 @@
 ## 商品名
 
   - [Content Services Switch](https://ja.wikipedia.org/wiki/Content_Services_Switch "wikilink") - [シスコシステムズ](../Page/シスコシステムズ.md "wikilink")社が販売する情報ネットワークサーバ用負荷分散装置の商品名。
+
   - [Counter-Strike: Source](../Page/カウンターストライク.md "wikilink") - [ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink")のひとつ。
+
+  - (comparable store sales)

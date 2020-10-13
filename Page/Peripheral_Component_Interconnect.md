@@ -118,7 +118,7 @@ PCIバスはワークステーションやサーバ、オフィスコンピュ�
   -
 ## 外部リンク
 
-  - [PCI-SIG](http://www.pcisig.com/)
+  - [PCI-SIG](https://pcisig.com/)
 
 [Category:コンピュータバス](https://ja.wikipedia.org/wiki/Category:コンピュータバス "wikilink") [Category:長大な項目名](https://ja.wikipedia.org/wiki/Category:長大な項目名 "wikilink")
 

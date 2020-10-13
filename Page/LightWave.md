@@ -23,40 +23,34 @@
 
   - バージョン6（1999年）
     ボーンウェイト、UVマップ、[モーフマップ](../Page/モーフィング.md "wikilink")、頂点カラー、[メタボール](../Page/メタボール.md "wikilink")、スケルゴン\[6\]、スケマティックビュー、アニメーションチャンネルの独立\[7\]、複数アイテム同時アニメーション制御、[ラジオシティ](../Page/ラジオシティ.md "wikilink")レンダリング、サブパッチのレンダリング
-
   - バージョン7（2001年）
     対称編集モード、サスカッチライト\[8\]、影の色の変更、中心点回転機能\[9\]、モーションパスの直接編集、スプレッドシート\[10\]、モーションミキサー\[11\]、操作座標系の切り替え\[12\]、パーティクルFX
-
   - バージョン8（2004年）
     テクスチャワイヤー表示、複数カメラを切り替えてのレンダリング、IKブースター\[13\]、[OpenGL](../Page/OpenGL.md "wikilink")表示強化\[14\]\[15\]、ドープトラック\[16\]、クロスシミュレーター、ソフトボディシミュレーター、剛体力学演算
-
   - バージョン9（2006年）
     エッジ編集機能、キャットマル・クラーク サブディビジョン\[17\]、ノード方式のマテリアル設定機能（ノードエディタ）、平行カメラ、UV投影カメラ、ファー編集（FiberFX）、IK/FKブレンディング、位置とスケールのIKコントロール、ジョイントボーン、ファイルのドラッグ＆ドロップ対応[1](http://www_test.dstorm.co.jp/products/lw9/feature/newfeature.html)[2](http://www_test.dstorm.co.jp/products/lw9/feature/general/compare.html)
-
   - バージョン10（2010年）
     ビューポートプレビューレンダリング (VPR)、3Dマウスである3Dconnexion製品ラインナップのサポート、Autodesk社ジオメトリキャッシュ用MDDのサポート
-
   - バージョン11（2012年）
     インスタンス\[18\]、フロッキング（群集システム）、フラクチャー（粉砕）、[Bullet](https://ja.wikipedia.org/wiki/Bullet "wikilink")（剛体、柔体）物理演算、仮想スタジオツール、GoZサポート\[19\]、レンダーバッファの拡張、VPRの拡張（セルエッジ対応等）、[Python](../Page/Python.md "wikilink")スクリプト、FiberFXの拡張（ソリッド・ボリュームモード追加等）、ソフトウェアライセンス\[20\]、Adobe After Effectsのサポート、Genoma\[21\]、ローリングシャッター効果、輪郭線のノード編集、UVアンラップ、「メッシュの配置」ツール\[22\]
-
   - バージョン11.6（2013年）
     カラー[3Dプリント対応](../Page/3Dプリンター.md "wikilink")、レイキャストノード、スプラインコントロール、[CgFXシェーダー](../Page/Cg_\(プログラミング言語\).md "wikilink")、新カラーピッカー[3](http://www.dstorm.co.jp/dsproducts/lw11/lw116_detail/)
-
   - バージョン2015（2014年末）
     [Bullet](https://ja.wikipedia.org/wiki/Bullet "wikilink")物理シミュレーションに以下のコンストレイントを追加（ポイント、ヒンジ、スライダ、コーンツイスト、スプリング、6軸自由度）、重点サンプリング機能、パースペクティブとのマッチング、GENOMA2、交差エッジとパッチ境界のレンダリング、エッジバッファ出力、ダイナミックペアレント[4](http://www.dstorm.co.jp/dsproducts/lw2015/newfeatures_detail.html)
-
   - バージョン2018（2018年）
-    統合メッシュシステム実装、OpenGLビューポート表示の強化＆高速化、レンダラー刷新、サーフェス設定刷新、ノイズリダクションフィルター、PBRシェーダー、新セルシェーダー＆エッジレンダリング＆サブリメイションセルシェーダー、ノードモディファイヤスタック、物理ベースのヴォリューメトリックエンジン、OpenVDB対応、改善されたFiberFXインテグレーション、UDIM対応、IESライトの改善、VRカメラ、モデラーのレイアウトビューオプション、仮想プリミティブパラメトリックシェイプ、パフォーマンスの最適化
-
+    統合メッシュシステム実装、OpenGLビューポート表示の強化＆高速化、レンダラー刷新、サーフェス設定刷新、ノイズリダクションフィルター、PBRシェーダー、新セルシェーダー＆エッジレンダリング＆サブリメイションセルシェーダー、ノードモディファイヤスタック、物理ベースのヴォリューメトリックエンジン、疎ボクセルライブラリの対応、改善されたFiberFXインテグレーション、UDIM対応、IESライトの改善、VRカメラ、モデラーのレイアウトビューオプション、仮想プリミティブパラメトリックシェイプ、パフォーマンスの最適化
   - バージョン2019（2019年）
+    [Unreal Engineとのリアルタイムブリッジ追加](../Page/Unreal_Engine.md "wikilink")、FBXインポータ/エクスポータの改善、Corrective Morphのスカルプトを行うMetamorphicプラグインの統合、OpenVDBボリュームの作成・編集対応、スムージンググループ対応、ラウンドエッジシェーダー追加、NVIDIA GPU向けのOptiXデノイザー追加、無制限Undo対応、高解像度ディスプレイ対応の強化\[23\]
+  - バージョン2020（2020年）
+    レンダリングアルゴリズムの改善、ランダムウォーク表面下散乱対応、物理的ヘアシェーダー対応、Partioライブラリの統合による様々なパーティクル形式への対応\[24\]
 
 ## 他3DCGソフトとの比較
 
-LightWave 2018でレンダラーが書き直され物理ベースのレンダリングシステムが搭載された\[23\]もののGPUレンダリング未対応となっており、GPUレンダリングにはOtoy製のOctaneRenderが必要となる。[非写実的レンダリング](https://ja.wikipedia.org/wiki/非写実的レンダリング "wikilink")では交差エッジに対応したエッジレンダリングを備えているほか、[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")のCel Integratorを持っている。
+LightWave 2018でレンダラーが書き直され物理ベースのレンダリングシステムが搭載された\[25\]もののGPUレンダリング未対応となっており、GPUレンダリングにはOtoy製のOctaneRenderが必要となる。[非写実的レンダリング](https://ja.wikipedia.org/wiki/非写実的レンダリング "wikilink")では交差エッジに対応したエッジレンダリングを備えているほか、[トゥーンレンダリング](../Page/トゥーンレンダリング.md "wikilink")のCel Integratorを持っている。
 
 3Dペイントに対応しておらず、3DペイントにはSubstance Painterなどの外部の3Dペイントソフトが必要となる。
 
-また、ケージ変形、スカルプトを標準で備えておらず、それらには3rd Powers製のプラグインが必要となる。本体にそれらのプラグインを同梱したLightWave + 3rd Powers Full Plugin Suiteが販売されている\[24\]。
+また、ケージ変形、スカルプトを標準で備えておらず、それらには3rd Powers製のプラグインが必要となる。本体にそれらのプラグインを同梱したLightWave + 3rd Powers Full Plugin Suiteが販売されている\[26\]。
 
 群集シミュレーションでは、Ver11.0にてフロッキング（群集）シミュレーターが実装され、動物、魚、昆虫などの群れ、更には飛行機や宇宙船の集団といった、通常複雑かつ膨大なデータ量を必要とするシーンを簡単に作成することができるようになった。Ver11.5からは簡単なAIが実装された。
 
@@ -70,11 +64,11 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
 
 また、一般のCコンパイラ等で構築するプラグインの他にも、[インタプリタ](../Page/インタプリタ.md "wikilink")として3DCGソフトウェアで標準的に使われている[Python](../Page/Python.md "wikilink")スクリプトを備えている。
 
-なお、独自のスクリプト言語であるLScriptも搭載されているが、LightWave 2020で非推奨となった\[25\]。LScriptは元々[POV-Ray](../Page/POV-Ray.md "wikilink")レンダラーのアニメーションのために開発されたものの統合されず\[26\]、LightWaveがPCに移植される際に[AmigaOS](../Page/AmigaOS.md "wikilink")の標準スクリプト言語の代わりとして転用され、その後、長年搭載され続けてきた\[27\]。
+なお、独自のスクリプト言語であるLScriptも搭載されているが、LightWave 2020で非推奨となった\[27\]。LScriptは元々[POV-Ray](../Page/POV-Ray.md "wikilink")レンダラーのアニメーションのために開発されたものの統合されず\[28\]、LightWaveがPCに移植される際に[AmigaOS](../Page/AmigaOS.md "wikilink")の標準スクリプト言語の代わりとして転用され、その後、長年搭載され続けてきた\[29\]。
 
 ## 代表的なプラグイン
 
-  - OD Tool Set：Origami Digital開発の雑多なツール集。Substance Painterと連携するための「LW to Substance Painter」及び「PBR Importer」が含まれている\[28\]。
+  - OD Tool Set：Origami Digital開発の雑多なツール集。Substance Painterと連携するための「LW to Substance Painter」及び「PBR Importer」が含まれている\[30\]。
   - YSプラグイン - キャラクターアニメーション支援のためのYS:CharacterKitを含む。サンライズプラグインの実質的後継。
   - RHiggit - リギング及びアニメーションのためのツール集。
   - LWCAD - モデリングプラグイン。
@@ -84,19 +78,19 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
 
 ### 過去のプラグイン
 
-  - Particle Storm - Dynamic Realities製のパーティクルプラグイン。LightWave 5.5にLite版が搭載されていた\[29\]\[30\]。なお、LightWave 6.5以降は独自のParticle Fx機能が搭載されている\[31\]。
+  - Particle Storm - Dynamic Realities製のパーティクルプラグイン。LightWave 5.5にLite版が搭載されていた\[31\]\[32\]。なお、LightWave 6.5以降は独自のParticle Fx機能が搭載されている\[33\]。
 
   - QemLOSS2 - ポリゴン削減プラグイン。Reduce Polys+としてLightWaveに標準搭載されるようになった。
 
-  - Motion Designer - 軟体力学シミュレーションプラグイン。Newtekが買収し、LightWave 6以降に標準搭載されるようになった\[32\]。
+  - Motion Designer - 軟体力学シミュレーションプラグイン。Newtekが買収し、LightWave 6以降に標準搭載されるようになった\[34\]。
 
-  - BESM shader - Eric Soulvie製のセルシェーダープラグイン。LightWave 7以降に標準搭載されるようになった\[33\]。LightWave 2018でCel Integratorに置き換えられた\[34\]。
+  - BESM shader - Eric Soulvie製のセルシェーダープラグイン。LightWave 7以降に標準搭載されるようになった\[35\]。LightWave 2018でCel Integratorに置き換えられた\[36\]。
 
-  - FX Break - 剛体力学シミュレーションプラグイン\[35\]。開発者がNewtekに加わり、Hard FXとしてLightWave \[8\]以降に標準搭載されるようになった。
+  - FX Break - 剛体力学シミュレーションプラグイン\[37\]。開発者がNewtekに加わり、Hard FXとしてLightWave \[8\]以降に標準搭載されるようになった。
 
   - FX Motiondrive & FX Distortion - クロス/軟体力学シミュレーションプラグイン。開発者がNewtekに加わり、Cloth FX及びSoft FXとしてLightWave \[8\]以降に標準搭載されるようになった。
 
-  - FiberFactory - 髪/[毛プラグイン](../Page/毛_\(動物\).md "wikilink")。Newtekが買収し、FiberFXとしてLightWave 9.5以降に搭載されるようになった\[36\]。
+  - FiberFactory - 髪/[毛プラグイン](../Page/毛_\(動物\).md "wikilink")。Newtekが買収し、FiberFXとしてLightWave 9.5以降に搭載されるようになった\[38\]。
 
   - Sasquatch - 髪/[毛プラグイン](../Page/毛_\(動物\).md "wikilink")。かつてFiberFactoryと競合していた。
 
@@ -110,7 +104,7 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
 
   - IFW Textures/IFW Nodal Textures - プロシージャルシェーダー集。
 
-  - Liquid Pack - 流体シミュレーションプラグイン集。なお、LightWaveバージョン2019以降はOpenVDBベースの流体シミュレーション機能がLightWave本体に搭載されている\[37\]。
+  - Liquid Pack - 流体シミュレーションプラグイン集。なお、LightWaveバージョン2019以降はOpenVDBベースの流体シミュレーション機能がLightWave本体に搭載されている\[39\]。
 
 ## 関連ソフトウェア
 
@@ -176,18 +170,20 @@ LightWave 2018でレンダラーが書き直され物理ベースのレンダリ
 20. 非ドングルアクティベート
 21. モデラーにて、様々なリギングのプリセットが同梱された、他システムとの高い互換性を誇る新しいリグシステム
 22. 「メッシュの配置」ツールは、背景レイヤーにあるオブジェクトを、前景レイヤーのメッシュへとスナッピングをきかせながらインタラクティブに追加する。この「メッシュ配置」ツールを利用することで、動物にトゲを加える、ロボットの腕にボルトを配置する、などといったメッシュサーフェイス上に他のオブジェクトを正確に追加することが可能になる。
-23. [Lightwave 2018 released with a new PBR rendering system and more](http://cgpress.org/archives/lightwave-2018-released-with-a-pbr-rendering-system-and-more.html) CGPress 2017年12月13日
-24. [LightWave 3D Group Offers Powerful Creativity Bundle for 3D Modeling, Animation, and Rendering](http://www.prweb.com/releases/2015/08/prweb12895558.htm) PRWeb 2015年8月10日
-25.
-26.
-27. [Development Update: LScript in LightWave 3D Deprecated](https://blog.lightwave3d.com/2020/05/development-update-lscript-in-lightwave-3d-depreciated/) NewTek 2020年5月26日
-28. [Origami Digital Tools Purchase & Information](http://www.origamidigital.com/odtoolsOrder.html) Origami Digital
-29. [LightWave 3D shines](https://web.archive.org/web/19990219100632/http://macweek.zdnet.com/1220/rv_lightwave.html) Mac Publishing 1998年5月25日
-30. [Products: Particles Storm](https://web.archive.org/web/19971222001355/http://dynamic-realities.com/ps_info.htm) Dynamic Realities
-31. [NewTek Releases LightWave 6.5](http://www.gamasutra.com/view/news/91148/NewTek_Releases_LightWave_65.php) Gamasutra 2000年12月15日
-32. [Cloth Simulation for LightWave 6](http://www.digitalpostproduction.com/Htm/Articles/News/2000/June/ClothSimulationforLightWave6.htm) Digital Post Production 2000年6月21日
-33. [LightWave 7.0b](http://www.digitalanimators.com/2001/11_nov/features/lightwave7review25.htm) DMN 2001年11月11日
-34. [Cel](https://docs.lightwave3d.com/display/LW2018/Cel) NewTek
-35. [剛体力学シミュレーションプラグイン「FX Break」を発表](http://www.dstorm.co.jp/news/2002/20020912_37.html) D-STORM 2002年9月12日
-36. [Q\&A With NewTek's Jay Roth](http://wayback.archive.org/web/20080928002327/http://www.3dworldmag.com/page/3dworld?entry=q_a_with_newtek_s) 3D World 2008年3月23日
-37. [LightWave 2019 - OpenVDB](https://docs.lightwave3d.com/lw2019/reference/simulation/openvdb) Newtek
+23. [NewTek ships LightWave 2019](http://www.cgchannel.com/2019/01/newtek-ships-lightwave-2019/) CG Channel 2019年1月23日
+24. [NewTek ships LightWave 2020](http://www.cgchannel.com/2020/04/newtek-ships-lightwave-2020/) CG Channel 2020年4月24日
+25. [Lightwave 2018 released with a new PBR rendering system and more](http://cgpress.org/archives/lightwave-2018-released-with-a-pbr-rendering-system-and-more.html) CGPress 2017年12月13日
+26. [LightWave 3D Group Offers Powerful Creativity Bundle for 3D Modeling, Animation, and Rendering](http://www.prweb.com/releases/2015/08/prweb12895558.htm) PRWeb 2015年8月10日
+27.
+28.
+29. [Development Update: LScript in LightWave 3D Deprecated](https://blog.lightwave3d.com/2020/05/development-update-lscript-in-lightwave-3d-depreciated/) NewTek 2020年5月26日
+30. [Origami Digital Tools Purchase & Information](http://www.origamidigital.com/odtoolsOrder.html) Origami Digital
+31. [LightWave 3D shines](https://web.archive.org/web/19990219100632/http://macweek.zdnet.com/1220/rv_lightwave.html) Mac Publishing 1998年5月25日
+32. [Products: Particles Storm](https://web.archive.org/web/19971222001355/http://dynamic-realities.com/ps_info.htm) Dynamic Realities
+33. [NewTek Releases LightWave 6.5](http://www.gamasutra.com/view/news/91148/NewTek_Releases_LightWave_65.php) Gamasutra 2000年12月15日
+34. [Cloth Simulation for LightWave 6](http://www.digitalpostproduction.com/Htm/Articles/News/2000/June/ClothSimulationforLightWave6.htm) Digital Post Production 2000年6月21日
+35. [LightWave 7.0b](http://www.digitalanimators.com/2001/11_nov/features/lightwave7review25.htm) DMN 2001年11月11日
+36. [Cel](https://docs.lightwave3d.com/display/LW2018/Cel) NewTek
+37. [剛体力学シミュレーションプラグイン「FX Break」を発表](http://www.dstorm.co.jp/news/2002/20020912_37.html) D-STORM 2002年9月12日
+38. [Q\&A With NewTek's Jay Roth](http://wayback.archive.org/web/20080928002327/http://www.3dworldmag.com/page/3dworld?entry=q_a_with_newtek_s) 3D World 2008年3月23日
+39. [LightWave 2019 - OpenVDB](https://docs.lightwave3d.com/lw2019/reference/simulation/openvdb) Newtek

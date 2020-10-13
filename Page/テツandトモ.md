@@ -229,6 +229,7 @@
   - [ワラッチャオ\!](https://ja.wikipedia.org/wiki/ワラッチャオ! "wikilink")（NHK BSプレミアム）あるある名人会
   - みんなの県民SONG！～大分うた旅情編～（2018年、[歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")）
   - [虎ノ門市場](https://ja.wikipedia.org/wiki/虎ノ門市場 "wikilink")（テレビ東京）
+  - ちちんぷいぷい（毎日放送、2020年9月25日）
 
 ### テレビドラマ
 

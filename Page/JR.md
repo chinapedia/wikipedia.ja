@@ -1,7 +1,7 @@
 > この記事は[JR](https://ja.wikipedia.org/wiki/JR)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:JR_logo_JRgroup.svg "wikilink")  **JR**（ジェイアール、\[1\]）は、**[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）**の[分割民営化により発足した](../Page/国鉄分割民営化.md "wikilink")、**[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）・[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）・[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）・[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）・[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）・[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）**、以上の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")を中心とした企業群の総称である。また、企業群における個別の会社に対する略称・[通称](../Page/通称.md "wikilink")（例：「JR東日本」）としても用いられる。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:JR_logo_JRgroup.svg "wikilink") **JR**（ジェイアール、\[1\]）は、**[日本国有鉄道](../Page/日本国有鉄道.md "wikilink")（国鉄）**の[分割民営化により発足した](../Page/国鉄分割民営化.md "wikilink")、**[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）・[東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")（JR東日本）・[東海旅客鉄道](../Page/東海旅客鉄道.md "wikilink")（JR東海）・[西日本旅客鉄道](../Page/西日本旅客鉄道.md "wikilink")（JR西日本）・[四国旅客鉄道](../Page/四国旅客鉄道.md "wikilink")（JR四国）・[九州旅客鉄道](../Page/九州旅客鉄道.md "wikilink")（JR九州）・[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）**、以上の[鉄道事業者](https://ja.wikipedia.org/wiki/鉄道事業者 "wikilink")を中心とした企業群の総称である。また、企業群における個別の会社に対する略称・[通称](../Page/通称.md "wikilink")（例：「JR東日本」）としても用いられる。
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）[4月1日](../Page/4月1日.md "wikilink")に、国鉄から地域または分野別に事業を継承した12（その後、合併等によって数は変化している）の法人で構成されている。
 

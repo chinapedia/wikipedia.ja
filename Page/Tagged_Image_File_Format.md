@@ -51,7 +51,7 @@ TIFFフォーマットには、[ファクシミリ](https://ja.wikipedia.org/wik
 
 ## 外部リンク
 
-  - [TIFF仕様書など](http://partners.adobe.com/public/developer/tiff/index.html)
+  - [TIFF仕様書など](https://www.adobe.io/open/standards/TIFF.html)（Adobe）
   - [Broadband Watch--BBっとWORDS 「TIFFの特徴」](http://bb.watch.impress.co.jp/cda/bbword/15780.html)
 
 [Category:ラスターグラフィックス・ファイルフォーマット](https://ja.wikipedia.org/wiki/Category:ラスターグラフィックス・ファイルフォーマット "wikilink") [Category:メタデータ](https://ja.wikipedia.org/wiki/Category:メタデータ "wikilink")

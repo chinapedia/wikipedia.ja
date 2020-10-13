@@ -459,7 +459,7 @@ MIDI検定開始から11年間、1級試験は実施されず2級実技試験が
   - 2016年7月 - MIDI 1.0規格書、RP、CAが無償公開される\[5\]。
   - [2019年](../Page/2019年.md "wikilink")1月18日 - MIDI 1.0の策定完了から38年目となる[2019年](../Page/2019年.md "wikilink")に、次世代となるMIDI 2.0の策定開始を発表した\[6\]。
 
-## 脚注
+## 注釈・脚注
 
 ## 参考文献
 
@@ -476,10 +476,10 @@ MIDI検定開始から11年間、1級試験は実施されず2級実技試験が
 
 ## 外部リンク
 
-  - [社団法人音楽電子事業協会](http://www.amei.or.jp/)
+  - [社団法人音楽電子事業協会](http://www.amei.or.jp)
       - [MIDI1.0規格書](http://amei.or.jp/midistandardcommittee/MIDIspcj.html)
       - [RP/CA](http://amei.or.jp/midistandardcommittee/RP&CAj.html)
-  - [MIDI Manufacturers Association](https://www.midi.org/)
+  - [MIDI Manufacturers Association](https://www.midi.org)
 
 [Category:MIDI](https://ja.wikipedia.org/wiki/Category:MIDI "wikilink") [Category:JIS](https://ja.wikipedia.org/wiki/Category:JIS "wikilink") [Category:日本の発明](https://ja.wikipedia.org/wiki/Category:日本の発明 "wikilink")
 

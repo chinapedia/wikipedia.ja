@@ -1,15 +1,15 @@
 > この記事は[UFJ銀行](https://ja.wikipedia.org/wiki/UFJ銀行)から翻訳されています。
 
 
-[Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG](https://ja.wikipedia.org/wiki/File:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG "fig:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG")東京ビル（後:三菱東京UFJ銀行大手町ビル、2012年解体）\]\] **UFJ銀行**（ユーエフジェイぎんこう、）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[メガバンク](../Page/メガバンク.md "wikilink")。[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の傘下であり、UFJグループの流れを持つ[都市銀行](../Page/都市銀行.md "wikilink")である。
+[Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG](https://ja.wikipedia.org/wiki/File:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG "fig:Bank_of_Tokyo-Mitsubishi_UFJ_Otemachi_Building_2012-01-26.JPG")東京ビル（後:三菱東京UFJ銀行大手町ビル、2012年解体）\]\] **UFJ銀行**（ユーエフジェイぎんこう、）は、かつて存在した[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[メガバンク](../Page/メガバンク.md "wikilink")。[三菱UFJフィナンシャル・グループ](../Page/三菱UFJフィナンシャル・グループ.md "wikilink")の傘下であり、[UFJグループ](../Page/UFJグループ.md "wikilink")の流れを持つ[都市銀行](../Page/都市銀行.md "wikilink")である。
 
-[2002年](../Page/2002年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")傘下の[三和銀行](../Page/三和銀行.md "wikilink")（[大阪市](../Page/大阪市.md "wikilink")）と、同じく傘下の[東海銀行](../Page/東海銀行.md "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")）が[合併して誕生した](../Page/合併_\(企業\).md "wikilink")。
+[2002年](../Page/2002年.md "wikilink")[1月15日](../Page/1月15日.md "wikilink")に、[株式会社](https://ja.wikipedia.org/wiki/株式会社 "wikilink")[UFJホールディングス](../Page/UFJホールディングス.md "wikilink")（UFJHD）傘下の[三和銀行](../Page/三和銀行.md "wikilink")（[大阪市](../Page/大阪市.md "wikilink")）と、同じく傘下の[東海銀行](../Page/東海銀行.md "wikilink")（[名古屋市](../Page/名古屋市.md "wikilink")）が[合併して誕生した](../Page/合併_\(企業\).md "wikilink")。しかし収益力は高かったものの[金融再生プログラム](../Page/金融再生プログラム.md "wikilink")に基づく巨額の[不良債権](../Page/不良債権.md "wikilink")処理に奔走することになり経営が悪化した上、旧三和・旧東海間での熾烈な派閥抗争や[金融庁](../Page/金融庁.md "wikilink")特別検査による経営陣退陣（後検査妨害で一部が逮捕）など経営面でも混乱を極めることとなる。
 
-その後、[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")に三菱UFJフィナンシャルグループ（2005年に発足）傘下の[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")に吸収合併され、**三菱東京UFJ銀行**（現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）となっている。UFJ銀行は発足から、わずか約4年弱（3年11か月15日）で姿を消した。
+最終的に[三菱東京フィナンシャル・グループ](../Page/三菱東京フィナンシャル・グループ.md "wikilink")（MTFG）に親会社のUFJHD共々救済されることとなり、最終的に[2006年](../Page/2006年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")、三菱UFJフィナンシャル・グループ（2005年にMTFGとUFJHDが合併し発足）傘下の[東京三菱銀行](../Page/東京三菱銀行.md "wikilink")に吸収合併され、**三菱東京UFJ銀行**（現：[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")）となり消滅、発足からわずか約4年弱（3年11か月15日）で姿を消した。
 
-## 概要
+## 概説
 
-[History_of_MUFG_Bank.jpg](https://ja.wikipedia.org/wiki/File:History_of_MUFG_Bank.jpg "fig:History_of_MUFG_Bank.jpg") 本店は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区にあった](../Page/中区_\(名古屋市\).md "wikilink")（旧：東海銀行本店）。実質的な本社機能は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")大手町の UFJ東京ビル（現：三菱UFJ銀行大手町ビル）に設置された東京本部（旧：三和銀行東京本部）であった<ref group="注釈">
+[History_of_MUFG_Bank.jpg](https://ja.wikipedia.org/wiki/File:History_of_MUFG_Bank.jpg "fig:History_of_MUFG_Bank.jpg") 本店は[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[中区にあった](../Page/中区_\(名古屋市\).md "wikilink")（旧：東海銀行本店）が、実質的な本社機能は[東京都](../Page/東京都.md "wikilink")[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")大手町のUFJ東京ビル（現：三菱UFJ銀行大手町ビル）に設置された東京本部（旧：三和銀行東京本部）であった<ref group="注釈">
 
   - 三和・東海時代には本店の営業窓口においても「本店営業部」と呼称したが、合併にあたり登記上本店を名古屋にあった元々の東海銀行本店としつつ、本社機能は事実上は三和銀行東京本部（サンワ東京ビル、後の三菱東京UFJ銀行大手町ビル）に置いたため、本店営業部と称する営業店を設けなかった。
       - 三和の「本店営業部」「本店公務部」は、「大阪営業部」「大阪公務部」へ、東海の「本店営業部」「本店公務部」は、「名古屋営業部」「東海公務部」へと、それぞれ合併時に改称された。いずれも三菱東京UFJ銀行の店舗として承継している。
@@ -126,7 +126,7 @@
 
 ## 引当と経営統合の妥当性
 
-東京三菱との経営統合から1年後、三菱UFJフィナンシャル・グループ が2006年11月21日発表した2006年9月中間決算では、UFJグループ が過去に積んだ[貸倒引当金](../Page/貸倒引当金.md "wikilink")戻入益などが過去の累計で1兆円を超えた。前述の金融庁の指導により旧:UFJが2004年度から一気に不良債権として処理を進めた大口債務者の一つが、この中間期に正常債権となり、多額の繰戻益につながったためである。その内訳は、2005年度上期で約4000億円、同年下期にも、UFJの経営悪化で「評価性引当金」として簿外に計上していた[繰延税金資産](../Page/繰延税金資産.md "wikilink")を、5000億円近く資本として繰入れた。2005年通期だけでUFJからの戻益は9000億円規模となり、2006年上期分を合わせて1兆円を超えたことになる。
+東京三菱との経営統合から1年後、三菱UFJフィナンシャル・グループ が2006年11月21日発表した2006年9月中間決算では、UFJグループが過去に積んだ[貸倒引当金](../Page/貸倒引当金.md "wikilink")戻入益などが過去の累計で1兆円を超えた。前述の金融庁の指導により旧UFJが2004年度から一気に不良債権として処理を進めた大口債務者の一つが、この中間期に正常債権となり、多額の繰戻益につながったためである。その内訳は、2005年度上期で約4000億円、同年下期にも、UFJの経営悪化で「評価性引当金」として簿外に計上していた[繰延税金資産](../Page/繰延税金資産.md "wikilink")を、5000億円近く資本として繰入れた。2005年通期だけでUFJからの戻益は9000億円規模となり、2006年上期分を合わせて1兆円を超えたことになる。
 
 これは三菱東京がUFJ救済のため出資した7000億円を大きく上回るだけでなく、UFJにとって「統合に突き進んだ過去の経営判断が正しかったのか」という疑問を想起させかねず（2006/11/21付[日経金融新聞](../Page/日経金融新聞.md "wikilink")）、さらに、過去の金融庁検査が妥当であったかの疑問を提起させた。もっとも、戻益の過半を占める繰延税金資産の計上は、経済環境の好転もさることながら、経営統合により収益性が増したために可能であったとの見方もあり、一概には言えない。
 
@@ -345,8 +345,8 @@
 
   - [三菱UFJ銀行貨幣資料館](../Page/三菱UFJ銀行貨幣資料館.md "wikilink")
   - [ゆうちょ銀行](../Page/ゆうちょ銀行.md "wikilink") - システム統合後の旧:UFJ銀行の基幹システムを引きとる。
-  - [金融腐蝕列島](../Page/金融腐蝕列島.md "wikilink") - [高杉良](../Page/高杉良.md "wikilink")の[経済小説](https://ja.wikipedia.org/wiki/経済小説 "wikilink")。完結編である「消失 金融腐蝕列島・完結編」で、協立銀行と東亜銀行が合併してJFG（Japan Financial Group）銀行となり、その後の派閥争いや金融庁検査を経て、最後は東都光陵銀行に救済合併され「東都光陵JFG銀行」が成立する。協立は三和、東亜は東海、東都光陵は東京三菱がそれぞれモデルである。JFGはいわずともかなUFJがモデルであり、旧三和側行員が旧東海側行員を冷遇する部分などを再現している。
-  - 小説 金融庁 - [江上剛](../Page/江上剛.md "wikilink")の[小説](../Page/小説.md "wikilink")。五輪銀行と大東銀行が合併して発足した大東五輪銀行の不良債権処理のために金融庁の特別検査が行われ、遂には大東京四菱銀行に吸収合併されるという物語。五輪は三和、大東は東海、大東京四菱は東京三菱がモデルである。旧:五輪銀行と旧:大東銀行の派閥争い、それに端を発する内部告発、また合併で業績不振だった国内最大手スーパーのメインバンクとなる設定などが再現されている。
+  - [金融腐蝕列島](../Page/金融腐蝕列島.md "wikilink") - [高杉良](../Page/高杉良.md "wikilink")の[経済小説](https://ja.wikipedia.org/wiki/経済小説 "wikilink")。完結編である「消失 金融腐蝕列島・完結編」で、協立銀行と東亜銀行が合併してJFG（Japan Financial Group）銀行となり、その後の派閥争いや金融庁検査を経て、最後は東都光陵銀行に救済合併され「東都光陵JFG銀行」が成立する。協立は三和、東亜は東海、東都光陵は東京三菱がそれぞれモデルである。JFGはいわずともかなUFJがモデルであり、旧三和側行員が「緑化作戦（劇中では「グリーン化作戦」）」と称して旧東海側行員を冷遇する部分などを再現している。
+  - 小説 金融庁 - [江上剛](../Page/江上剛.md "wikilink")の[小説](../Page/小説.md "wikilink")。五輪銀行と大東銀行が合併して発足した大東五輪銀行の不良債権処理のために金融庁の特別検査が行われ、遂には大東京四菱銀行に吸収合併されるという物語。五輪は三和、大東は東海、大東京四菱は東京三菱がモデルである。旧五輪銀行と旧大東銀行の派閥争いやそれに端を発する内部告発、また合併で業績不振だった国内最大手スーパーのメインバンクとなる設定などが再現されている。
 
 ## 外部リンク
 

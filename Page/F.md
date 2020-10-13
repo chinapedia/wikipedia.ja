@@ -45,7 +45,7 @@
 ### 学術的な記号・単位
 
   - [フッ素](../Page/フッ素.md "wikilink")の元素記号。
-  - [十五を意味する数字](../Page/15.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")など、[十六進法](../Page/十六進法.md "wikilink")以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十五（[十進法](../Page/十進法.md "wikilink")の**15**）を一桁で表すために用いられる。
+  - [十五を意味する数字](../Page/15.md "wikilink")。[二十進法](../Page/二十進法.md "wikilink")など、[十六進法](../Page/十六進法.md "wikilink")以上<small>（参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink")）</small>において十五（[十進法](../Page/十進法.md "wikilink")の**15**）を一桁で表すために用いられる。
   - [温度計](../Page/温度計.md "wikilink")で、[華氏](../Page/華氏.md "wikilink")（[ファーレンハイト](../Page/ファーレンハイト.md "wikilink")、華倫海）。「{{°F}}」のように用いる。
   - [SI組立単位](../Page/SI組立単位.md "wikilink")における[静電容量](../Page/静電容量.md "wikilink")の単位名[ファラド](../Page/ファラド.md "wikilink") (**F**arad)。
   - [SI接頭辞](../Page/SI接頭辞.md "wikilink")、[フェムト](https://ja.wikipedia.org/wiki/フェムト "wikilink")(10<sup>−15</sup>)。(**f**emto)（小文字を用いる）

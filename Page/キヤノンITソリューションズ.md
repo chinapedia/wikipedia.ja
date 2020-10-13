@@ -1,7 +1,7 @@
 > この記事は[キヤノンITソリューションズ](https://ja.wikipedia.org/wiki/キヤノンITソリューションズ)から翻訳されています。
 
 
-**キヤノンITソリューションズ株式会社**（キヤノンアイティーソリューションズ、*Canon IT Solutions Inc.*）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")グループの[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。キヤノンシステムソリューションズ株式会社と株式会社アルゴ21が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月1日](../Page/4月1日.md "wikilink")に合併して誕生した。[東京](../Page/東京.md "wikilink")のほか、[新川崎](../Page/川崎市.md "wikilink")・[西東京](../Page/西東京市.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[刈谷](../Page/刈谷市.md "wikilink")・[宇都宮に事業所を持つ](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")。[2009年](../Page/2009年.md "wikilink")（平成21年）に中国ソリューション事業推進室を設置、2014年にタイのIT会社を傘下に加えるなど、海外事業の強化に乗り出している。2017年7月に[キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社と経営統合した。
+**キヤノンITソリューションズ株式会社**（キヤノンアイティーソリューションズ、*Canon IT Solutions Inc.*）は、[キヤノン](https://ja.wikipedia.org/wiki/キヤノン "wikilink")グループ最大の[システムインテグレーター](../Page/システムインテグレーター.md "wikilink")。キヤノンシステムソリューションズ株式会社と株式会社アルゴ21が[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")（[平成](../Page/平成.md "wikilink")20年）[4月1日](../Page/4月1日.md "wikilink")に合併して誕生した。[東京](../Page/東京.md "wikilink")のほか、[小杉](../Page/川崎市.md "wikilink")・[西東京](../Page/西東京市.md "wikilink")・[大阪](../Page/大阪.md "wikilink")・[名古屋](../Page/名古屋市.md "wikilink")・[刈谷](../Page/刈谷市.md "wikilink")・[宇都宮に事業所を持つ](https://ja.wikipedia.org/wiki/宇都宮市 "wikilink")。[2009年](../Page/2009年.md "wikilink")（平成21年）に中国ソリューション事業推進室を設置、2014年にタイのIT会社を傘下に加えるなど、海外事業の強化に乗り出している。2017年7月に[キヤノンソフトウェア](../Page/キヤノンソフトウェア.md "wikilink")株式会社と経営統合した。
 2019年9月に本社を港区のキヤノンSタワーに移転。東京23区における拠点としては、他に天王洲事業所、三田事業所がある。キヤノングループにおけるIT分野の中核を担う企業の位置づけである。\[1\] \[2\]
 [メディア](../Page/メディア.md "wikilink")でさえも誤認識\[3\] \[4\] することがあるが、キヤノンITソリューションズ株式会社は、[キヤノンマーケティングジャパン](../Page/キヤノンマーケティングジャパン.md "wikilink")の発行済株式100％の[子会社](../Page/子会社.md "wikilink")であり、[キヤノン株式会社](https://ja.wikipedia.org/wiki/キヤノン株式会社 "wikilink")の孫会社である。
 
@@ -33,16 +33,15 @@
 
 ### ソリューション事業
 
-  - [ERP](https://ja.wikipedia.org/wiki/ERP "wikilink")／[CRM](../Page/顧客関係管理.md "wikilink")：[SAP](https://ja.wikipedia.org/wiki/SAP "wikilink")、[mcframe](https://ja.wikipedia.org/wiki/mcframe "wikilink")、Siebel、[salesforce](https://ja.wikipedia.org/wiki/salesforce "wikilink")、および子会社のSSJが開発する[SuperStream](https://ja.wikipedia.org/wiki/SuperStream "wikilink")を中心に、システム構築を行っている。また、[ビジネスインテリジェンス](../Page/ビジネスインテリジェンス.md "wikilink")／[企業パフォーマンス管理](https://ja.wikipedia.org/wiki/企業パフォーマンス管理 "wikilink")のシステム構築も行っている。
-  - [EDI](../Page/電子データ交換.md "wikilink")：各種規格に準拠したソフトウエアを自社開発している。
+  - [ERP](https://ja.wikipedia.org/wiki/ERP "wikilink")／[CRM](../Page/顧客関係管理.md "wikilink")：[mcframe](https://ja.wikipedia.org/wiki/mcframe "wikilink")、[salesforce](https://ja.wikipedia.org/wiki/salesforce "wikilink")、および子会社のスーパーストリームが開発する[SuperStream](https://ja.wikipedia.org/wiki/SuperStream "wikilink")などを活用したシステム構築や、[ビジネスインテリジェンス](../Page/ビジネスインテリジェンス.md "wikilink")／[企業パフォーマンス管理](https://ja.wikipedia.org/wiki/企業パフォーマンス管理 "wikilink")のシステム構築も手掛けている。
+  - [EDI](../Page/電子データ交換.md "wikilink")：各種規格に準拠した様々なソフトウエアを自社開発している。
   - マイグレーション：[メインフレーム](../Page/メインフレーム.md "wikilink")環境を中心とした[マイグレーションを行っている](https://ja.wikipedia.org/wiki/レガシーマイグレーション "wikilink")。
   - 環境：[グリーン調達支援システムや](../Page/グリーン購入.md "wikilink")[MFCA分析システムを開発](../Page/環境会計.md "wikilink")・販売している。
-  - 知的財産：特許情報管理システムを核に、契約管理やライセンス管理などの関連するソリューションもあわせて販売している。
   - モバイルシステム：[キヤノン電子](../Page/キヤノン電子.md "wikilink")製の[ハンディターミナル](https://ja.wikipedia.org/wiki/ハンディターミナル "wikilink")を用い、製造・金融・流通などの各業種向けシステムを開発・販売している。
 
 ### 研究開発
 
-[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")開発技術、開発基盤（[クラウドなど](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）、[オープンソース](../Page/オープンソース.md "wikilink")ソフトウエア、映像認識（[パターン認識](../Page/パターン認識.md "wikilink")など）、[自然言語処理](../Page/自然言語処理.md "wikilink")の研究を行う。また、[オペレーションズリサーチ](https://ja.wikipedia.org/wiki/オペレーションズリサーチ "wikilink")（Operations Research）を用いたシステム開発・コンサルティングを行う数理技術部門を持ち、同技術を活用したソリューションパッケージも開発している。
+[オブジェクト指向](../Page/オブジェクト指向.md "wikilink")開発技術、開発基盤（[クラウドなど](https://ja.wikipedia.org/wiki/クラウドコンピューティング "wikilink")）、[オープンソース](../Page/オープンソース.md "wikilink")ソフトウエア、映像認識（[パターン認識](../Page/パターン認識.md "wikilink")など）、[自然言語処理](../Page/自然言語処理.md "wikilink")の研究を行う。また、[オペレーションズリサーチ](https://ja.wikipedia.org/wiki/オペレーションズリサーチ "wikilink")（Operations Research）を用いたシステム開発・コンサルティングを行う国内屈指の数理技術部門を持ち、同技術を活用したソリューションパッケージも開発している。
 
 ## 主な自社開発製品
 
@@ -301,7 +300,6 @@
   - 佳能信息系統（上海）有限公司（日系企業やグループ企業向け中心のSIおよびコンサルティング、キヤノン製品に係わるソフト開発・販売）
   - Canon IT Solutions （Thailand） Co., Ltd. （タイ、ベトナムのグループ企業の事業統括）
   - Material Automation（Thailand）Co., Ltd. （ITハードウエアからソフトウエアに関わる提案、販売、サービスの提供）
-  - ASAHI-M.A.T. Co., Ltd. （タイ国内におけるCAD/CAM/CAEの販売、サポート）
   - MAT Vietnam Company Limited （ITハードウエアからソフトウエアに関わる提案、販売、サービスの提供）
 
 ### その他の関連企業

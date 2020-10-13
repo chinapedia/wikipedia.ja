@@ -1,7 +1,7 @@
 > この記事は[Ya-Ya-yah](https://ja.wikipedia.org/wiki/Ya-Ya-yah)から翻訳されています。
 
 
-**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は、ビートルズの曲「[A Hard Day's Night](../Page/ア・ハード・デイズ・ナイト_\(曲\).md "wikilink")」（旧日本語題：ビートルズがやって来るヤァ\!ヤァ\!ヤァ\!）にちなんでつけられた\[1\]\[2\]。
+**Ya-Ya-yah**（ヤーヤーヤー）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内 [男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。グループ名は[ビートルズ](../Page/ビートルズ.md "wikilink")の曲『[A Hard Day's Night](../Page/ア・ハード・デイズ・ナイト_\(曲\).md "wikilink")』（旧邦題『ビートルズがやって来る ヤァ！ヤァ！ヤァ！』）が由来\[1\]\[2\]。
 
 ## メンバー
 

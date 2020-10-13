@@ -60,7 +60,7 @@
 
   - [B言語](../Page/B言語.md "wikilink")（[プログラミング言語](../Page/プログラミング言語.md "wikilink")の一種）
 
-  - [十一を意味する数字](../Page/11.md "wikilink")。[十二進法](../Page/十二進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、底が[十を超える](../Page/10.md "wikilink")[N進法において](https://ja.wikipedia.org/wiki/位取り記数法 "wikilink")、十一（[十進法](../Page/十進法.md "wikilink")の**11**）を一[桁](https://ja.wikipedia.org/wiki/桁 "wikilink")で表すために用いられる。ただし、[8](https://ja.wikipedia.org/wiki/8 "wikilink") と紛らわしいために使用しない（特に十二進法で B を使用しない場合、十一を [E](https://ja.wikipedia.org/wiki/E "wikilink") と表記して、十を [T](../Page/T.md "wikilink") または [X](../Page/X.md "wikilink") と表記する）例もある。
+  - [十一を意味する数字](../Page/11.md "wikilink")。[十六進法](../Page/十六進法.md "wikilink")や[二十進法](../Page/二十進法.md "wikilink")など、十二進法以上<small>(参照: [位取り記数法\#Nが十を超過](https://ja.wikipedia.org/wiki/位取り記数法#Nが十を超過 "wikilink"))</small>において十一（十進法の**11**）を一桁で表すために用いられる。ただし、[8](https://ja.wikipedia.org/wiki/8 "wikilink") と紛らわしいために使用しない（特に十二進法で B を使用しない場合、十一を [E](https://ja.wikipedia.org/wiki/E "wikilink") と表記して、十を [T](../Page/T.md "wikilink") または [X](../Page/X.md "wikilink") と表記する）例もある。
 
   - [ABO式血液型](../Page/ABO式血液型.md "wikilink")の一つ。B型。
 

@@ -50,6 +50,7 @@
         解散後は、「竹内朋康 & The Laidbacks」、「[THE NEW BEADS](https://ja.wikipedia.org/wiki/THE_NEW_BEADS "wikilink")」、「[Dezille Brothers](https://ja.wikipedia.org/wiki/Dezille_Brothers "wikilink")」、「[Fiasco3](https://ja.wikipedia.org/wiki/Fiasco3 "wikilink")」など結成、参加。
         またサポートミュージシャンとして、[ENDLICHERI☆ENDLICHERI](https://ja.wikipedia.org/wiki/堂本剛#244_ENDLI-x_\(ENDLICHERI☆ENDLICHERI\) "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[DABO](../Page/DABO.md "wikilink")、[井手麻理子](https://ja.wikipedia.org/wiki/井手麻理子 "wikilink")、[忌野清志郎](../Page/忌野清志郎.md "wikilink")、[浜崎貴司](../Page/浜崎貴司.md "wikilink")、[ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink")のレコーディング参加。
         解散から数日後、一般女性と結婚披露宴を行う。余興にて、1ヶ月もしないうちにスピード再結成を果たしている\[1\]。
+        TOMOHIKOと沢田で「スーハーバタードッグ」を結成しライブを行っている。
   - [池田貴史](../Page/レキシ.md "wikilink")（いけだ たかふみ、[1974年](../Page/1974年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - 福井県出身）[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[コーラス](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")担当。
     [いとうせいこう](../Page/いとうせいこう.md "wikilink")から「面白いミュージシャン3人衆の1人」と言わしめ、いとうの推薦で参加した「[しりとり竜王戦歌人戦](https://ja.wikipedia.org/wiki/虎の門#しりとり竜王戦 "wikilink")」では初出場ながらも決勝に進出した。
     バンドの活動休止後、[2004年](../Page/2004年.md "wikilink")に[中村一義](../Page/中村一義.md "wikilink")らと共にバンド"[100s](../Page/100s.md "wikilink")"を結成。
@@ -67,7 +68,7 @@
     活動休止後、[高野寛](../Page/高野寛.md "wikilink")、[ナタリーワイズ](https://ja.wikipedia.org/wiki/ナタリーワイズ "wikilink")のツアー、[ENDLICHERI☆ENDLICHERI](https://ja.wikipedia.org/wiki/ENDLICHERI☆ENDLICHERI "wikilink")のレコーディングに参加。
     ファンキーなメンバーとは違い、普段から無口。ラストライブDVDのメンバーによる副音声でも、ほとんど喋っていない。
       -
-        現在は、地元の福井へ帰郷している。
+        現在は都内を離れ、仕事の傍らライブ活動を行っている。
 
 ### 元メンバー
 

@@ -604,28 +604,6 @@ TECI-1411</p></td>
   - ガガガSPデモ其の二「君は思い出」（作詞・作曲：桑原康伸）
   - ガガガSPデモ其の三「これこそが」（作詞・作曲：コザック前田）
 
-## ミュージックビデオ
-
-|                                                              |                                                                                                                                                                     |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                       | **曲名**                                                                                                                                                              |
-| [麻田弦](https://ja.wikipedia.org/wiki/麻田弦 "wikilink")          | 「[卒業 -俺様天才偉業集 ver.-](https://www.youtube.com/watch?v=t8S8b33YPmU)」                                                                                                  |
-| [板屋宏幸](https://ja.wikipedia.org/wiki/板屋宏幸 "wikilink")        | 「国道二号線」「卒業」                                                                                                                                                         |
-| [小林達行](https://ja.wikipedia.org/wiki/小林達行 "wikilink")        | 「[続･京子ちゃん](https://www.youtube.com/watch?v=JjfrurJCGDg)」                                                                                                            |
-| [榊原秀樹](https://ja.wikipedia.org/wiki/榊原秀樹 "wikilink")        | 「つなひき帝国」「[野球少年の詩](https://www.youtube.com/watch?v=yFbgjZytUP0)」                                                                                                     |
-| [スミス](https://ja.wikipedia.org/wiki/スミス_\(映像作家\) "wikilink") | 「祭りの準備」「晩秋」「忘れられない日々」                                                                                                                                               |
-| [高崎周子](https://ja.wikipedia.org/wiki/高崎周子 "wikilink")        | 「満月の夕」                                                                                                                                                              |
-| [野口正人](https://ja.wikipedia.org/wiki/野口正人 "wikilink")        | 「[京子ちゃん](https://www.youtube.com/watch?v=xLa-JsvpJ_g)」                                                                                                              |
-| 日置健太郎                                                        | 「[こんちきしょうめ](https://www.youtube.com/watch?v=CoYSODgc91M)」「[時代はまわる](https://www.youtube.com/watch?v=NxAxpD9I4rw)」「[友よ](https://www.youtube.com/watch?v=ATzvW-OKJHI)」 |
-| [福岡久佳](https://ja.wikipedia.org/wiki/福岡久佳 "wikilink")        | 「金もうけのために生まれたんじゃないぜ」                                                                                                                                                |
-| [三輪たける](https://ja.wikipedia.org/wiki/三輪たける "wikilink")      | 「[線香花火](https://www.youtube.com/watch?v=mgE29j67Gqc)」                                                                                                               |
-| [向殿健二](https://ja.wikipedia.org/wiki/向殿健二 "wikilink")        | 「[八月の出来事](https://www.youtube.com/watch?v=HLnsEO_GTYc)」                                                                                                             |
-| [山口眞人](https://ja.wikipedia.org/wiki/山口眞人 "wikilink")        | 「はじめて君としゃべった」                                                                                                                                                       |
-| [吉澤正悟](../Page/吉澤正悟.md "wikilink")                           | 「[神戸駅](https://www.youtube.com/watch?v=qsir3YbEp4c)」「人間なのさ」「夢のような日々」                                                                                                |
-| [渡辺伸次](https://ja.wikipedia.org/wiki/渡辺伸次 "wikilink")        | 「[デッドライジング](https://www.youtube.com/watch?v=hGNG2wuCNCg)」                                                                                                           |
-| [渡辺直](https://ja.wikipedia.org/wiki/渡辺直 "wikilink")          | 「[赤秋 -せきしゅう-](https://www.youtube.com/watch?v=QxvLS-PAs4U)」                                                                                                         |
-|                                                              |                                                                                                                                                                     |
-
 ## 主なライブ
 
 ### ワンマンライブ・主催イベント

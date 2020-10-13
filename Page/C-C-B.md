@@ -415,8 +415,7 @@
 
 <!-- end list -->
 
-  - [米川英之オフィシャルサイト『Buddy Net』](http://hwm7.gyao.ne.jp/h-yonekawa/)
-
+  -
   -
 <!-- end list -->
 

@@ -477,7 +477,7 @@
 
 <!-- end list -->
 
-  - **[チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")**
+  - **[チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")**
       - 「[OEOEO](https://ja.wikipedia.org/wiki/愛の地球祭 "wikilink")」（編曲）
       - 「[大好きっ\!](https://ja.wikipedia.org/wiki/いいくらし "wikilink")」（編曲）
 

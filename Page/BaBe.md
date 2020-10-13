@@ -447,10 +447,8 @@
 ### その他
 
   - BaBe - Night Tempo presents ザ・昭和グルーヴ（2020年2月14日、デジタルリリース）
-
-:\# Give Me Up (Night Tempo Showa Groove Mix)
-
-:\# I Don't Know (Night Tempo Showa Groove Mix)
+    1.  Give Me Up (Night Tempo Showa Groove Mix)
+    2.  I Don't Know (Night Tempo Showa Groove Mix)
 
 ## 映像作品
 

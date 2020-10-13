@@ -108,7 +108,7 @@
 ## テーマ曲
 
   - ～2016年12月:アラン・ホークショウ「Dave Allen At Large（Irish Gnome）」
-  - 2017年1月～:[クール・アンド・ザ・ギャング](../Page/クール・アンド・ザ・ギャング.md "wikilink")「Chocolate Buttermilk」
+  - 2017年1月～:[オーサカ=モノレール](../Page/オーサカ=モノレール.md "wikilink")「Chocolate Buttermilk」（[クール・アンド・ザ・ギャング](../Page/クール・アンド・ザ・ギャング.md "wikilink")のカバー）
 
 ## 脚注
 

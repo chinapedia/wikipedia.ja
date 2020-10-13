@@ -47,7 +47,7 @@
 ## スタッフ
 
   - ナレーション：[三浦隆志](../Page/三浦隆志.md "wikilink")（ytvアナウンサー）
-  - 演出 : 前西和成
+  - 演出 : [前西和成](https://ja.wikipedia.org/wiki/前西和成 "wikilink")
   - プロデューサー : [妹尾和己](https://ja.wikipedia.org/wiki/妹尾和己 "wikilink") / 幸田敏哉
   - 制作協力 : [田辺音楽出版](../Page/田辺エージェンシー.md "wikilink")、[オフィスりぷる](../Page/オフィスりぷる.md "wikilink")
   - 制作著作 : 読売テレビ

@@ -76,7 +76,7 @@
 
 ### 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[3月20日](../Page/3月20日.md "wikilink")現在\[4\]
+  - [2020年](../Page/2020年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")現在\[4\]
 
 <!-- end list -->
 

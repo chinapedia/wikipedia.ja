@@ -306,12 +306,9 @@ SLPS-00341</p></td>
 
 ## 外部リンク
 
-  - [KLOV スパルタンX](http://www.klov.com/game_detail.php?game_id=9695)
-
-  - [KLOV Kung Fu](http://www.klov.com/game_detail.php?game_id=8360)
-
-  - [KLOV Kung-Fu Master](http://www.klov.com/game_detail.php?game_id=8361)
-
+  -
+  -
+  -
   -
 [Category:1984年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:1984年のアーケードゲーム "wikilink") [Category:1984年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1984年のコンピュータゲーム "wikilink") [Category:1985年のファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:1985年のファミリーコンピュータ用ソフト "wikilink") [Category:Apple_II用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Apple_II用ゲームソフト "wikilink") [Category:Amstrad_CPC用ゲームソフト](https://ja.wikipedia.org/wiki/Category:Amstrad_CPC用ゲームソフト "wikilink") [Category:Atari_2600用ソフト](https://ja.wikipedia.org/wiki/Category:Atari_2600用ソフト "wikilink") [Category:Atari_7800用ソフト](https://ja.wikipedia.org/wiki/Category:Atari_7800用ソフト "wikilink") [Category:ZX_Spectrum用ゲームソフト](https://ja.wikipedia.org/wiki/Category:ZX_Spectrum用ゲームソフト "wikilink") [Category:アイレムのゲームソフト](https://ja.wikipedia.org/wiki/Category:アイレムのゲームソフト "wikilink") [Category:映画のキャラクターゲーム](https://ja.wikipedia.org/wiki/Category:映画のキャラクターゲーム "wikilink") [Category:ゲームボーイ用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームボーイ用ソフト "wikilink") [Category:コモドール64用ゲームソフト](https://ja.wikipedia.org/wiki/Category:コモドール64用ゲームソフト "wikilink") [Category:中国武術を題材とした作品](https://ja.wikipedia.org/wiki/Category:中国武術を題材とした作品 "wikilink") [Category:データイーストのゲームソフト](https://ja.wikipedia.org/wiki/Category:データイーストのゲームソフト "wikilink") [Category:日本で開発されたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:日本で開発されたコンピュータゲーム "wikilink") [Category:任天堂のゲームソフト](https://ja.wikipedia.org/wiki/Category:任天堂のゲームソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:横スクロールアクションゲーム](https://ja.wikipedia.org/wiki/Category:横スクロールアクションゲーム "wikilink") [Category:ファミリーコンピュータ用ソフト](https://ja.wikipedia.org/wiki/Category:ファミリーコンピュータ用ソフト "wikilink")
 

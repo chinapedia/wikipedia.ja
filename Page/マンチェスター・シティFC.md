@@ -288,9 +288,9 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[8月18日](../Page/8月18日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在
 
-  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))        ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ☆  ☆
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))         ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -334,9 +334,9 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [スチュアート・テイラー](https://ja.wikipedia.org/wiki/スチュアート・テイラー "wikilink") 2009-2012
 
-<!-- end list -->
-
   - [ヒュレプ・マールトン](https://ja.wikipedia.org/wiki/ヒュレプ・マールトン "wikilink") 2010.4-2010.5
+
+<!-- end list -->
 
   - [コステル・パンティリモン](https://ja.wikipedia.org/wiki/コステル・パンティリモン "wikilink") 2011-2014
 
@@ -352,7 +352,13 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [エデルソン・モラレス](https://ja.wikipedia.org/wiki/エデルソン・モラレス "wikilink") 2017-
 
+  - [ザック・ステッフェン](https://ja.wikipedia.org/wiki/ザック・ステッフェン "wikilink") 2019-
+
 ### DF
+
+  - [ミシェル・フォンク](https://ja.wikipedia.org/wiki/ミシェル・フォンク "wikilink") 1992-1995
+
+  - [孫継海](../Page/孫継海.md "wikilink") 2002-2008
 
   - [ミヒャエル・タルナト](../Page/ミヒャエル・タルナト.md "wikilink") 2003-2004
 
@@ -404,7 +410,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ダニーロ](https://ja.wikipedia.org/wiki/ダニーロ・ルイス・ダ・シウバ "wikilink") 2017-2019
 
-  - [ニコラス・オタメンディ](https://ja.wikipedia.org/wiki/ニコラス・オタメンディ "wikilink") 2015-
+  - [ニコラス・オタメンディ](https://ja.wikipedia.org/wiki/ニコラス・オタメンディ "wikilink") 2015-2020
 
   - [トシン・アダラビオヨ](https://ja.wikipedia.org/wiki/トシン・アダラビオヨ "wikilink") 2016-
 
@@ -416,6 +422,8 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [アイメリク・ラポルテ](https://ja.wikipedia.org/wiki/アイメリク・ラポルテ "wikilink") 2018.1-
 
+  - [エリック・ガルシア](https://ja.wikipedia.org/wiki/エリック・ガルシア "wikilink") 2018-
+
   - [フィリップ・サンドレル](https://ja.wikipedia.org/wiki/フィリップ・サンドレル "wikilink") 2018-
 
   - [アンヘリーニョ](https://ja.wikipedia.org/wiki/ホセ・アンヘル・エスモリス・タセンデ "wikilink") 2014-2018,2019-
@@ -423,6 +431,8 @@ CLではグループステージでアタランタ、シャフタール・ドネ
   - [ジョアン・カンセロ](https://ja.wikipedia.org/wiki/ジョアン・カンセロ "wikilink") 2019-
 
   - [ナタン・アケ](https://ja.wikipedia.org/wiki/ナタン・アケ "wikilink") 2020-
+
+  - [ルベン・ディアス](https://ja.wikipedia.org/wiki/ルベン・ディアス "wikilink") 2020-
 
 ### MF
 
@@ -484,15 +494,13 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ダビド・シルバ](../Page/ダビド・シルバ.md "wikilink") 2010-2020
 
-  - [フェルナンジーニョ](https://ja.wikipedia.org/wiki/フェルナンド・ルイス・ローザ "wikilink") 2013-
+  - [アレイクス・ガルシア](https://ja.wikipedia.org/wiki/アレイクス・ガルシア "wikilink") 2015-2020
 
-  - [アレイクス・ガルシア](https://ja.wikipedia.org/wiki/アレイクス・ガルシア "wikilink") 2015-
+  - [フェルナンジーニョ](https://ja.wikipedia.org/wiki/フェルナンド・ルイス・ローザ "wikilink") 2013-
 
   - [パトリック・ロバーツ](https://ja.wikipedia.org/wiki/パトリック・ロバーツ "wikilink") 2015-
 
   - [ケヴィン・デ・ブライネ](https://ja.wikipedia.org/wiki/ケヴィン・デ・ブライネ "wikilink") 2015-
-
-  - [アレイクス・ガルシア](https://ja.wikipedia.org/wiki/アレイクス・ガルシア "wikilink") 2016-
 
   - [イルカイ・ギュンドアン](https://ja.wikipedia.org/wiki/イルカイ・ギュンドアン "wikilink") 2016-
 

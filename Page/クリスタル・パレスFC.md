@@ -86,9 +86,9 @@
 
 </div>
 
-  - 2020年9月10日現在\[2\]
+  - 2020年9月22日現在\[2\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curaçao.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cyprus.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Curaçao.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cyprus.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -331,6 +331,8 @@
     [ナイジェル・マーティン](../Page/ナイジェル・マーティン.md "wikilink") 1989-1996
 
     [カルロ・ナッシュ](https://ja.wikipedia.org/wiki/カルロ・ナッシュ "wikilink") 1996-1998
+
+    [ケヴィン・マスカット](https://ja.wikipedia.org/wiki/ケヴィン・マスカット "wikilink") 1996-1997
 
     [セドリック・カラッソ](https://ja.wikipedia.org/wiki/セドリック・カラッソ "wikilink") 2001-2002
 

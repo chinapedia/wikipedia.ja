@@ -205,6 +205,7 @@
 
   -
   -
+  -
   - [Yahoo\!ニュース TNCテレビ西日本](https://news.yahoo.co.jp/media/tncv) - 動画配信あり
 
   - [gooニュース テレビ西日本](https://news.goo.ne.jp/publisher/tvnc/) - 動画配信なし

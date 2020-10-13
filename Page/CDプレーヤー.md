@@ -21,7 +21,7 @@ CDプレーヤーの年間出荷台数は[2001年](../Page/2001年.md "wikilink"
 
 ## 種類
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:MATRIC_CD-Player_PCD-2006.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Radio_cd_cassette_player.jpg "wikilink") [Vintagedenon.jpg](https://ja.wikipedia.org/wiki/File:Vintagedenon.jpg "fig:Vintagedenon.jpg")のひとつのユニットとして用いられるもの。[DENON](https://ja.wikipedia.org/wiki/DENON "wikilink")の1980年代の製品の筺体を開けた状態で、内部の部品の構成やその大きさが分かる写真。左下がCDドライブで、トレイが手前に飛び出た状態。右半分が[回路](https://ja.wikipedia.org/wiki/回路 "wikilink")の[基板](../Page/基板.md "wikilink")。左上は家庭用電源から降圧した電流を得るための[トランス](../Page/トランス.md "wikilink")。\]\]
+[thumb](https://ja.wikipedia.org/wiki/ファイル:MATRIC_CD-Player_PCD-2006.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Radio_cd_cassette_player.jpg "wikilink") [Vintagedenon.jpg](https://ja.wikipedia.org/wiki/File:Vintagedenon.jpg "fig:Vintagedenon.jpg")のひとつのユニットとして用いられるもの。[DENON](https://ja.wikipedia.org/wiki/DENON "wikilink")の1980年代の製品の筺体を開けた状態で、内部の部品の構成やその大きさが分かる写真。左下がCDドライブで、トレイが手前に飛び出た状態。右半分が[回路](https://ja.wikipedia.org/wiki/回路 "wikilink")の[基板](../Page/基板.md "wikilink")。左上は家庭用電源から降圧した電流を得るための[トランス](../Page/変圧器.md "wikilink")。\]\]
 
 ### 携帯型
 

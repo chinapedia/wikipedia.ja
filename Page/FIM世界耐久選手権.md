@@ -144,6 +144,11 @@
 <td><p>TEAM SRC KAWASAKI FRANCE</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/川崎重工業モーターサイクル&amp;エンジンカンパニー" title="wikilink">カワサキ</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2019-2020</p></td>
+<td><p>Suzuki Endurance Racing Team</p></td>
+<td><p>スズキ</p></td>
+</tr>
 </tbody>
 </table>
 

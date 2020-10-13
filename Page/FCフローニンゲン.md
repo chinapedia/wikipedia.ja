@@ -434,7 +434,7 @@ PlotData=
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")現在\[2\]
+  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在\[2\]
 
 
 

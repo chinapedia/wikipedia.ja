@@ -132,7 +132,7 @@
   -
   - [NAOTOな音](http://www.mbs1179.com/naoto/)（MBSラジオでの出演番組の公式サイト）
 
-[Category:日本のヴァイオリニスト](https://ja.wikipedia.org/wiki/Category:日本のヴァイオリニスト "wikilink") [Category:コンサートマスター](https://ja.wikipedia.org/wiki/Category:コンサートマスター "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のヴァイオリニスト](https://ja.wikipedia.org/wiki/Category:日本のヴァイオリニスト "wikilink") [Category:コンサートマスター](https://ja.wikipedia.org/wiki/Category:コンサートマスター "wikilink") [Category:大阪府出身の人物](https://ja.wikipedia.org/wiki/Category:大阪府出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:東京芸術大学出身の人物](https://ja.wikipedia.org/wiki/Category:東京芸術大学出身の人物 "wikilink")
 
 1.
 2.  [NAOTO 公式サイト掲載 Biographyより](https://ja.wikipedia.org/wiki/#blusofa "wikilink")

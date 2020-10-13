@@ -53,7 +53,7 @@
 10.
 11.
 12.
-13. [pya\! アンケート結果です　(2006-09-29)](http://web.archive.org/web/20061101214115/http://pya.cc/pyaimg/pimg.php?imgid=33171)
+13. [pya\! アンケート結果です　(2006-09-29)](https://web.archive.org/web/20061101214115/http://pya.cc/pyaimg/pimg.php?imgid=33171)
 14. [床下の奴ら　庭付き・ネコ付き・一戸建て｜撮る｜書籍｜雷鳥社 Raichosha](http://raichosha.sakura.ne.jp//book/photo/ph32.html) ISBN 978-4844135272
 15. [無料：元祖ネタ系サイト『pya\!』のiPhoneアプリ登場！「pya\!ネタアプリ」 iStation](http://iphones.cx/news/pyaiphonepya)
 16. <http://www.dreamnews.jp/press/0000061712/>

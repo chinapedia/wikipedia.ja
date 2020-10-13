@@ -96,7 +96,7 @@ Image:CosmopolitanMagazineMarch1894.jpg Image:Cosmopolitan-FC-November-1917.jpg
   - [ハンガリア版*Cosmopolitan*](http://www.cosmopolitan.hu)
   - [リトアニア版 "Cosmopolitan"](http://www.cosmopolitan.lt)
 
-[Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:集英社の雑誌](https://ja.wikipedia.org/wiki/Category:集英社の雑誌 "wikilink") [Category:19世紀の雑誌](https://ja.wikipedia.org/wiki/Category:19世紀の雑誌 "wikilink")
+[Category:アメリカ合衆国の雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の雑誌 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:集英社の雑誌](https://ja.wikipedia.org/wiki/Category:集英社の雑誌 "wikilink") [Category:19世紀の雑誌](https://ja.wikipedia.org/wiki/Category:19世紀の雑誌 "wikilink") [Category:1886年刊行開始の刊行物](https://ja.wikipedia.org/wiki/Category:1886年刊行開始の刊行物 "wikilink")
 
 1.  ["Men's magazines: an A to Z"](http://www.magforum.com/mens/mensmagazinesatoz2.htm), Magforum.com, accessed November 6, 2006
 2.  \[<http://observer.com/2012/06/hearst-daughter-joins-christian-campaign-to-cover-up-cosmopolitan/>　"Hearst Daughter Joins Christian Campaign to Cover Up Cosmopolitan" Observer 2012年6月12日\]

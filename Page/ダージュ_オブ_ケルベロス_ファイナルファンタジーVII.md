@@ -9,7 +9,7 @@
 
 ## 概要
 
-『[ファイナルファンタジーVII アドベントチルドレン](../Page/ファイナルファンタジーVII_アドベントチルドレン.md "wikilink")』（以下、『FFVII AC』）、『[ビフォア クライシス ファイナルファンタジーVII](../Page/ビフォア_クライシス_ファイナルファンタジーVII.md "wikilink")）（以下、『BC FFVII』）、『[クライシス コア ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII "wikilink")』（以下、『CC FVII』）と同じ『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』（以下、『FFVII』）の外伝的作品"[COMPILATION of FINAL FANTASY VII](https://ja.wikipedia.org/wiki/COMPILATION_of_FINAL_FANTASY_VII "wikilink")"と総称されるものの1つである。
+『[ファイナルファンタジーVII アドベントチルドレン](../Page/ファイナルファンタジーVII_アドベントチルドレン.md "wikilink")』（以下、『FFVII AC』）、『[ビフォア クライシス ファイナルファンタジーVII](../Page/ビフォア_クライシス_ファイナルファンタジーVII.md "wikilink")）（以下、『BC FFVII』）、『[クライシス コア ファイナルファンタジーVII](https://ja.wikipedia.org/wiki/クライシス_コア_ファイナルファンタジーVII "wikilink")』（以下、『CC FVII』）と同じ『[ファイナルファンタジーVII](../Page/ファイナルファンタジーVII.md "wikilink")』（以下、『FFVII』）の外伝的作品"[COMPILATION of FINAL FANTASY VII](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII#COMPILATION_of_FINAL_FANTASY_VII "wikilink")"と総称されるものの1つである。
 
 『FFVII』とは違い、ジャンルは[ファーストパーソン・シューティングゲーム](../Page/ファーストパーソン・シューティングゲーム.md "wikilink") (FPS) である。ただし、限りなく[サードパーソン・シューティングゲーム](../Page/サードパーソン・シューティングゲーム.md "wikilink")に近い。
 
@@ -49,7 +49,7 @@
 
 ## 登場人物
 
-[COMPILATION of FINAL FANTASY VIIを通しての登場人物の説明は](https://ja.wikipedia.org/wiki/COMPILATION_of_FINAL_FANTASY_VII "wikilink")、[ファイナルファンタジーVIIの登場人物](../Page/ファイナルファンタジーVIIの登場人物.md "wikilink")を参照。
+[COMPILATION of FINAL FANTASY VIIを通しての登場人物の説明は](https://ja.wikipedia.org/wiki/ファイナルファンタジーVII#COMPILATION_of_FINAL_FANTASY_VII "wikilink")、[ファイナルファンタジーVIIの登場人物](../Page/ファイナルファンタジーVIIの登場人物.md "wikilink")を参照。
 
 ### プレイヤーキャラクター
 

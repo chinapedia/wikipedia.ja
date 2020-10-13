@@ -880,7 +880,7 @@
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[8月14日](../Page/8月14日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")現在
 
 (主将)
 

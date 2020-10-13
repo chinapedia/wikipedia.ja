@@ -1,7 +1,7 @@
 > この記事は[NSGグループ](https://ja.wikipedia.org/wiki/NSGグループ)から翻訳されています。
 
 
-**NSGグループ**（NSG＝Niigata Sogo Gakuin）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に拠点を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、**NSGホールディングス**を持株会社とする学校法人等のグループである。
+**NSGグループ**（NSG＝New Sustainable Growth）は、[新潟県](../Page/新潟県.md "wikilink")[新潟市](https://ja.wikipedia.org/wiki/新潟市 "wikilink")[中央区に拠点を置く](https://ja.wikipedia.org/wiki/中央区_\(新潟市\) "wikilink")、**NSGホールディングス**を持株会社とする学校法人等のグループである。
 
 ## 概要
 
@@ -13,7 +13,7 @@ NSGの支援法人を含めたグループ全体の売り上げは1,000億円を
 
 その後、[新潟県](../Page/新潟県.md "wikilink")・[福島県](../Page/福島県.md "wikilink")内で各種の専門学校を創設するとともに、1981年に愛宕商事を、1986年に国際総合計画、1990年に株式会社アイ・シー・オーを創業するなど、不動産管理、教育備品販売、各種代理店業、建設業、飲食業、広告代理業にも事業を拡大する。さらに、1990年代には、医療法人愛広会を設立するなど、医療機関（[新潟リハビリテーション病院](https://ja.wikipedia.org/wiki/新潟リハビリテーション病院 "wikilink")、[新潟脳外科病院](https://ja.wikipedia.org/wiki/新潟脳外科病院 "wikilink")など）、介護施設の経営にも参画する。
 
-2001年に[学校法人新潟総合学園](https://ja.wikipedia.org/wiki/学校法人新潟総合学園 "wikilink")を設立し、[新潟医療福祉大学](../Page/新潟医療福祉大学.md "wikilink")を開学する。新潟医療福祉大学が看護・医療・リハビリテーション・栄養・スポーツ・福祉の計6学部13学科1研究科5専攻からなる総合大学に成長する一方、2006年には[事業創造大学院大学](https://ja.wikipedia.org/wiki/事業創造大学院大学 "wikilink")、2018年には[新潟食料農業大学](https://ja.wikipedia.org/wiki/新潟食料農業大学 "wikilink")を開学するなど、成長を続けている。2014年の時点でグループ法人の在籍学生・生徒数は2万人を超えている\[2\]。
+2001年に[学校法人新潟総合学園](https://ja.wikipedia.org/wiki/学校法人新潟総合学園 "wikilink")を設立し、[新潟医療福祉大学](../Page/新潟医療福祉大学.md "wikilink")を開学する。新潟医療福祉大学が看護・医療・リハビリテーション・栄養・スポーツ・福祉の計6学部13学科1研究科5専攻からなる総合大学に成長する一方、2006年には[事業創造大学院大学](https://ja.wikipedia.org/wiki/事業創造大学院大学 "wikilink")、2018年には[新潟食料農業大学](https://ja.wikipedia.org/wiki/新潟食料農業大学 "wikilink")、2020年には[開志専門職大学](../Page/開志専門職大学.md "wikilink")を開学するなど、成長を続けている。2014年の時点でグループ法人の在籍学生・生徒数は2万人を超えている\[2\]。
 
 さらに、グループの社是である「事業創造による地域の活性化」を目指し、IT・ソフトウエア、アウトソージング・起業支援などにも事業展開するとともに、2010年代からは、新潟の老舗の事業継承、再生事業にも取り組むようになっており、酒蔵（創業1767年の[今代司酒造](https://ja.wikipedia.org/wiki/今代司酒造 "wikilink")）や味噌蔵（創業1905年の[峰村商店](https://ja.wikipedia.org/wiki/峰村商店 "wikilink")や[越後味噌醸造](https://ja.wikipedia.org/wiki/越後味噌醸造 "wikilink")）、食品加工会社（創業1893年の[小川屋](https://ja.wikipedia.org/wiki/小川屋 "wikilink")）、地ビール（[新潟ビール醸造](https://ja.wikipedia.org/wiki/新潟ビール醸造 "wikilink")）や老舗ホテル（[イタリア軒](https://ja.wikipedia.org/wiki/イタリア軒 "wikilink")）などで実績を上げている\[3\]。
 

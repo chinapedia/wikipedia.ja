@@ -11,17 +11,17 @@ Microsoft FrontPage 2003の後継としてデザインツール群「[Expression
 
 なおビジネス等では[Microsoft SharePoint Designerの使用が推奨されている](https://ja.wikipedia.org/wiki/Microsoft_SharePoint_Designer "wikilink")。SharePoint Designer自体は[Microsoft Officeファミリーの一環として設定されている](../Page/Microsoft_Office.md "wikilink")。
 
-[2012年](../Page/2012年.md "wikilink")に開発が終了した。
+2012年に開発が終了した。
 
 最終版のExpression Web 4 SP2は無償化され、2012年12月20日以降は同社サイトからダウンロードできる\[1\]。
 
 ## バージョン
 
-  - Expression Web - [2007年](../Page/2007年.md "wikilink")7月13日発売
-  - Expression Web 2 - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")7月18日発売
-  - Expression Web 3 - [2009年](../Page/2009年.md "wikilink")11月6日発売
-  - Expression Web 4 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月3日発売
-      - Expression Web 4 SP2(無料版) - [2012年](../Page/2012年.md "wikilink")12月20日公開
+  - Expression Web - 2007年7月13日発売
+  - Expression Web 2 - 2008年7月18日発売
+  - Expression Web 3 - 2009年11月6日発売
+  - Expression Web 4 - 2010年9月3日発売
+      - Expression Web 4 SP2(無料版) - 2012年12月20日公開
 
 ## 関連項目
 
@@ -41,7 +41,8 @@ Microsoft FrontPage 2003の後継としてデザインツール群「[Expression
 
 ## 外部リンク
 
-  - [Microsoft Expression 公式サイト](http://www.microsoft.com/japan/products/expression/)
+  - [Microsoft Expression 製品情報](http://www.microsoft.com/japan/products/expression/products/studio_overview.aspx)
+  - [Microsoft Expression](http://www.microsoft.com/japan/products/expression/)（公式サイト）
 
 [Category:マイクロソフトのソフトウェア](https://ja.wikipedia.org/wiki/Category:マイクロソフトのソフトウェア "wikilink") [Category:Webオーサリングソフト](https://ja.wikipedia.org/wiki/Category:Webオーサリングソフト "wikilink") [Category:2007年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2007年のソフトウェア "wikilink")
 

@@ -7,13 +7,13 @@
 
 ## 概要
 
-日産ディーゼルの開発した「FLENDS」は、尿素SCRと[高圧燃料噴射を組み合わせたものである](https://ja.wikipedia.org/wiki/噴射ポンプ "wikilink")。[ディーゼル自動車](../Page/ディーゼル自動車.md "wikilink")の[排気ガス](../Page/排気ガス.md "wikilink")に含まれる窒素酸化物（NO<sub>x</sub>）と[粒子状物質](../Page/粒子状物質.md "wikilink")（PM）は、燃焼温度を下げると NOx が減る代わりに PM が増え、逆に燃焼温度を上げると PM が減る代わりに NOx が増える[トレードオフ](../Page/トレードオフ.md "wikilink")の関係にあるが、「FLENDS」は燃焼温度を上げてPMを低減し、それによって増加したNO<sub>x</sub>を尿素SCRで除去するという仕組みである\[4\]。
+日産ディーゼル（当時）の開発した「FLENDS」は、尿素SCRと[高圧燃料噴射を組み合わせたものである](https://ja.wikipedia.org/wiki/噴射ポンプ "wikilink")。[ディーゼル自動車](../Page/ディーゼル自動車.md "wikilink")の[排気ガス](../Page/排気ガス.md "wikilink")に含まれる窒素酸化物（NO<sub>x</sub>）と[粒子状物質](../Page/粒子状物質.md "wikilink")（PM）は、燃焼温度を下げると NOx が減る代わりに PM が増え、逆に燃焼温度を上げると PM が減る代わりに NOx が増える[トレードオフ](../Page/トレードオフ.md "wikilink")の関係にあるが、「FLENDS」は燃焼温度を上げてPMを低減し、それによって増加したNO<sub>x</sub>を尿素SCRで除去するという仕組みである\[4\]。
 
 「FLENDS」は、SCR触媒や尿素水添加装置、[解凍](https://ja.wikipedia.org/wiki/解凍 "wikilink")保温装置付きの尿素水[タンク](../Page/タンク.md "wikilink")や[配管](../Page/配管.md "wikilink")、尿素水の品質・水位[センサー](https://ja.wikipedia.org/wiki/センサー "wikilink")など、構成部品にも世界初の技術が多数使用されたもので、その技術力が高く評価され、2005年に[自動車技術会](https://ja.wikipedia.org/wiki/自動車技術会 "wikilink")技術開発賞を受賞した\[5\]。
 
 当時、世界一厳しいと言われた[平成17年排出ガス規制を](../Page/平成17年排出ガス規制_\(ディーゼル車\).md "wikilink")、1年近く前倒しして適合したことで話題を集めた。「世界No.1クリーンディーゼル　このバスの排気は世界一キレイです」と書かれたステッカーを、バス事業者によっては車体に掲出していることもある。
 
-日産ディーゼルの「FLENDS」開発を受け、日本国内でも[大型車](../Page/大型自動車.md "wikilink")[メーカー各社が尿素SCRシステムを導入した](../Page/自動車産業.md "wikilink")。国内で生産される大型車に関しては、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までに全てのメーカーが尿素SCRと[ディーゼル微粒子捕集フィルター](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")（DPF）との併用式を採用しており、排出ガス浄化システムのトレンドとなった（「FLENDS」の供給を受けた[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")を除いた各社は平成17年排出ガス規制をDPFのみでクリアしたがそれは先述のトレードオフの関係を逆にした、燃焼温度を下げてNOxを減らしそれによって増えたPMをDPFで除去する方式であった。）。併用式にすることであえて燃焼温度を調整することなく温度に応じて排出された物質をそれぞれの装置で処理することが可能になった。
+日産ディーゼルの「FLENDS」開発を受け、日本国内でも[大型車](../Page/大型自動車.md "wikilink")[メーカー各社が尿素SCRシステムを導入した](../Page/自動車産業.md "wikilink")。国内で生産される大型車に関しては、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")までに全てのメーカーが尿素SCRと[ディーゼル微粒子捕集フィルター](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")（DPF）との併用式を採用しており、排出ガス浄化システムのトレンドとなった（「FLENDS」を開発した日産ディーゼルおよびそれの供給を受けた[三菱ふそうトラック・バス](../Page/三菱ふそうトラック・バス.md "wikilink")を除いた各社（[いすゞ自動車](../Page/いすゞ自動車.md "wikilink")・[日野自動車](../Page/日野自動車.md "wikilink")）は平成17年排出ガス規制をDPFのみでクリアしたがそれは先述のトレードオフの関係を逆にした、燃焼温度を下げてNOxを減らしそれによって増えたPMをDPFで除去する方式であった。）。併用式にすることであえて燃焼温度を調整することなく温度に応じて排出された物質をそれぞれの装置で処理することが可能になった。
 
 また[欧州の自動車メーカーでも同様に](../Page/ヨーロッパ.md "wikilink")、トラック・バスなどの大型[商用車](../Page/商用車.md "wikilink")で採用されており、ディーゼル[乗用車](../Page/乗用車.md "wikilink")向けにも[ドイツ車](../Page/ドイツ車.md "wikilink")を中心に採用が進んでいる。
 
@@ -45,7 +45,7 @@
 
   - コモンレール式燃料噴射システム - 噴射前の燃料を各気筒共通の蓄圧器（コモンレール）で高圧に保ち、噴射燃料の高圧細微化によってPMを抑制し、噴射時期・噴射回数・噴射量を[ECUで制御することでNOxの発生を抑えるシステム](../Page/エンジンコントロールユニット.md "wikilink")。
   - 高精度クールドEGR - 排出ガスの一部を燃焼室に再循環させるシステム。
-  - AdBlue（アドブルー）- [ドイツ自動車工業会](https://ja.wikipedia.org/wiki/ドイツ自動車工業会 "wikilink")の登録商標。尿素SCRシステム専用の高品位尿素水。尿素32.5%の[水溶液](../Page/水溶液.md "wikilink")である。[日産化学工業](https://ja.wikipedia.org/wiki/日産化学工業 "wikilink")、[日本化成](../Page/日本化成.md "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[新日本化成](https://ja.wikipedia.org/wiki/新日本化成 "wikilink")などの[化学メーカー](https://ja.wikipedia.org/wiki/化学メーカー "wikilink")が製造する。トラックステーション、日本国内の大型トラックを扱うディーラー（全社）、AdBlue販売元拠点や大型トラック対応スタンドで補充が可能である。
+  - [AdBlue](https://ja.wikipedia.org/wiki/AdBlue "wikilink")（アドブルー）- [ドイツ自動車工業会](https://ja.wikipedia.org/wiki/ドイツ自動車工業会 "wikilink")の登録商標。尿素SCRシステム専用の高品位尿素水。尿素32.5%の[水溶液](../Page/水溶液.md "wikilink")である。[日産化学工業](https://ja.wikipedia.org/wiki/日産化学工業 "wikilink")、[日本化成](../Page/日本化成.md "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[新日本化成](https://ja.wikipedia.org/wiki/新日本化成 "wikilink")などの[化学メーカー](https://ja.wikipedia.org/wiki/化学メーカー "wikilink")が製造する。トラックステーション、日本国内の大型トラックを扱うディーラー（全社）、AdBlue販売元拠点や大型トラック対応スタンドで補充が可能である。運用する事業者の拠点に（ほとんどの場合燃料（[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")）に隣接する形で）専用の計量器を設置したり、拠点の工場内に[ドラム缶](../Page/ドラム缶.md "wikilink")や[バッグインボックス](https://ja.wikipedia.org/wiki/バッグインボックス "wikilink")の形で常備することもある。また枯渇対策の応急用に車載できる小型パウチもある。
 
 ### 歴史
 
@@ -83,7 +83,7 @@
     同2010年7月、「AIR LOOP」が大型バスの[セレガと](../Page/日野・セレガ.md "wikilink")、セレガとの統合モデルである[いすゞ・ガーラ](../Page/いすゞ・ガーラ.md "wikilink")（いずれも12m車のみ）にも搭載された。
     [2011年](../Page/2011年.md "wikilink")、「AIR LOOP」を[セレガハイブリッドに搭載し](../Page/日野・セレガ.md "wikilink")、ポスト新長期規制に適合\[10\]。
     2017年7月、尿素SCRとDPRを併用したシステムが、中型バスの[メルファと](../Page/日野・メルファ.md "wikilink")、メルファとの統合モデルである[いすゞ・ガーラミオ](../Page/いすゞ・ガーラミオ.md "wikilink")にも搭載された。また同年12月には、小型バスの[ポンチョにも同様のシステムが搭載された](../Page/日野・ポンチョ.md "wikilink")。
-    2019年7月、マイクロバスのOEM車種である[リエッセⅡにも尿素SCRとDPRを併用したシステムが搭載された](../Page/日野・リエッセ.md "wikilink")。自社製の[コースターにも搭載されている](../Page/トヨタ・コースター.md "wikilink")。
+    2019年7月、マイクロバスでトヨタ自動車からのOEM車種である[リエッセIIにも尿素SCRとDPRを併用したシステムが搭載された](../Page/日野・リエッセ.md "wikilink")（なお同車種のエンジンは日野自動車製である）。
 
 <!-- end list -->
 
@@ -93,12 +93,21 @@
     2010年5月、DPF触媒と尿素SCRの併用式によるシステムを導入し、大型トラックの[ギガ](../Page/いすゞ・ギガ.md "wikilink")、中型トラックの[フォワードのマイナーチェンジ時に搭載](../Page/いすゞ・フォワード.md "wikilink")（フォワードは一部車種のみ）。これにより、日本国内の大型商用車メーカーが全て尿素SCRシステムの導入を完了したことになる。
     同2010年8月、大型バスの[エルガと](../Page/いすゞ・エルガ.md "wikilink")、エルガとの統合モデルである[日野・ブルーリボンIIにもギガ](https://ja.wikipedia.org/wiki/日野・ブルーリボン#ブルーリボンII "wikilink")・フォワードと同じシステムが搭載された。
     2017年8月、中型バスの[エルガミオと](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、エルガミオとの統合モデルである[日野・レインボー](../Page/日野・レインボー.md "wikilink")にも搭載された。
+    2018年3月、小型トラックの[エルフにも搭載された](../Page/いすゞ・エルフ.md "wikilink")。
 
 <!-- end list -->
 
-  - 乗用車
-    [マツダ](../Page/マツダ.md "wikilink")は、2009年後半から欧州市場で発売される[CX-7のディーゼル仕様に](../Page/マツダ・CX-7.md "wikilink")、尿素SCRシステムを搭載した\[11\]。しかし、独自技術によりこのシステムを不要としたクリーンディーゼル「[SKYACTIV-D](https://ja.wikipedia.org/wiki/マツダ・SKYACTIV-D "wikilink")」（[2012年](../Page/2012年.md "wikilink")発売の[CX-5から搭載](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")）を開発したため、以降はOEM供給（[ハイエース](../Page/トヨタ・ハイエース.md "wikilink") / [レジアスエース](../Page/トヨタ・レジアスエース.md "wikilink")→[ボンゴブローニイバンなど](../Page/マツダ・ボンゴ.md "wikilink")）を受ける車両などに限られている。
-    [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")は、2015年に登場した[GD型エンジンに](https://ja.wikipedia.org/wiki/トヨタ・GDエンジン "wikilink")、尿素SCRシステムを導入している。
+  - [マツダ](../Page/マツダ.md "wikilink")
+    [マツダ](../Page/マツダ.md "wikilink")は、2009年後半から欧州市場で発売される[CX-7のディーゼル仕様に](../Page/マツダ・CX-7.md "wikilink")、尿素SCRシステムを搭載した\[11\]。しかし、独自技術によりこのシステムを不要としたクリーンディーゼル「[SKYACTIV-D](https://ja.wikipedia.org/wiki/マツダ・SKYACTIV-D "wikilink")」（[2012年](../Page/2012年.md "wikilink")発売の[CX-5から搭載](https://ja.wikipedia.org/wiki/マツダ・CX-5 "wikilink")）を開発したため、以降はOEM供給（[ハイエース](../Page/トヨタ・ハイエース.md "wikilink") / [レジアスエース](../Page/トヨタ・レジアスエース.md "wikilink")→[ボンゴブローニイバン](../Page/マツダ・ボンゴ.md "wikilink")、エルフ→[タイタンなど](../Page/マツダ・タイタン.md "wikilink")）を受ける車両などに限られている。
+
+<!-- end list -->
+
+  - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")
+    [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")は、2015年に登場した[GD型エンジンに](https://ja.wikipedia.org/wiki/トヨタ・GDエンジン "wikilink")、尿素SCRシステムを導入している（前述のハイエース / レジアスエース等に搭載）。2019年には日野自動車製エンジンを搭載した[コースターにも搭載され](../Page/トヨタ・コースター.md "wikilink")、エンジンの供給元である日野自動車にも同車種を供給している。
+
+<!-- end list -->
+
+  - [本田技研工業](../Page/本田技研工業.md "wikilink")
 
 ### 外国メーカー
 
@@ -111,30 +120,34 @@
 
 <!-- end list -->
 
-  - [ヒュンダイ](../Page/現代自動車.md "wikilink")
-    日本に輸出される大型バス・[ユニバースの](https://ja.wikipedia.org/wiki/ヒュンダイ・ユニバース "wikilink")2011年モデルより、DPF＋SCRの併用式を採用することで[ポスト新長期規制](https://ja.wikipedia.org/wiki/ポスト新長期規制 "wikilink")をクリアしている。
+  - [グループPSA](../Page/グループPSA.md "wikilink")
+    [プジョー](../Page/プジョー.md "wikilink")・[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")・[DS Automobilesは](https://ja.wikipedia.org/wiki/DSオートモビルズ "wikilink")、2013年9月から「BlueHDi」の名称で展開\[12\]。日本国内では2016年7月にプジョー・シトロエン・DS Automobilesの各ブランドで\[13\]\[14\]発売を開始した。
 
 <!-- end list -->
 
-  - その他
-    [プジョー](../Page/プジョー.md "wikilink")・[シトロエン](https://ja.wikipedia.org/wiki/シトロエン "wikilink")・[DS Automobilesは](https://ja.wikipedia.org/wiki/DS_Automobiles "wikilink")、2013年9月から「BlueHDi」の名称で展開\[12\]。日本国内では2016年7月にプジョー・シトロエン・DS Automobilesの各ブランドで\[13\]\[14\]発売を開始した。
+  - [フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")
     [フォルクスワーゲン](https://ja.wikipedia.org/wiki/フォルクスワーゲン "wikilink")は2015年、排ガス規制の不正ソフトウェアを指摘されたため、今後は全てのディーゼル車種に尿素SCRシステムを取り付けることを表明した\[15\]
+
+<!-- end list -->
+
+  - [ヒュンダイ](../Page/現代自動車.md "wikilink")
+    日本に輸出される大型バス・[ユニバースの](https://ja.wikipedia.org/wiki/ヒュンダイ・ユニバース "wikilink")2011年モデルより、DPF＋SCRの併用式を採用することで[ポスト新長期規制](https://ja.wikipedia.org/wiki/ポスト新長期規制 "wikilink")をクリアしている。
 
 ## 長所と短所
 
 ### 長所
 
-  - このシステム自体による[燃費](../Page/燃費.md "wikilink")の悪化要因が少ない。排ガス対策に[NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")を利用する方式の場合は、NOx吸蔵還元触媒の再生のために追加の燃料噴射（ポスト噴射と呼ばれる）を行うため、燃費の悪化や[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")による[エンジンオイル](../Page/エンジンオイル.md "wikilink")の希釈（潤滑・清浄性能の低下）が問題になるが、尿素SCRシステムだけの場合は、そのような問題は発生しない。
+  - このシステム自体による[燃費](../Page/燃費.md "wikilink")の悪化要因が少ない。排ガス対策に[NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")や[ディーゼル微粒子捕集フィルター](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")（DPF）を利用する方式の場合は、元触媒やフィルターの再生のために追加の燃料噴射（直接DPFに噴射する排気管内噴射、あるいはエンジンで燃焼行程後にシリンダー内に噴射するポスト噴射があるが、後者は実質的には[アフターファイアー](https://ja.wikipedia.org/wiki/アフターファイアー "wikilink")に等しい）を行うため、燃費の悪化やポスト噴射方式の場合は[軽油](https://ja.wikipedia.org/wiki/軽油 "wikilink")による[エンジンオイル](../Page/エンジンオイル.md "wikilink")の希釈（潤滑・清浄性能の低下）が問題になるが、尿素SCRシステムだけの場合は、そのような問題は発生しない。
   - 燃費の悪化要因が少ないため、燃料コストと尿素水のコストを合算しても、従来型車と比較してランニングコストの上昇はほとんどないか同等である。
-  - [NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")と比較して、排気温度が低い状態からでも浄化能力があり、[耐久性](https://ja.wikipedia.org/wiki/耐久性 "wikilink")も高い。
+  - [NOx吸蔵還元触媒](../Page/NOx吸蔵還元触媒.md "wikilink")や[ディーゼル微粒子捕集フィルター](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")（DPF）と比較して、排気温度が低い状態からでも浄化能力があり、[耐久性](https://ja.wikipedia.org/wiki/耐久性 "wikilink")も高い。
   - [白金](../Page/白金.md "wikilink")などの[貴金属](../Page/貴金属.md "wikilink")を使わなくてすむため、尿素SCR単体なら低コスト化が図れる。複合式であれば、浄化能力をそれぞれの単体式よりも向上できる。
 
 ### 短所
 
   - 実走行において規制値を大幅に超えるNO<sub>x</sub>を排出することがある\[16\]。
-  - 尿素水タンクおよび噴射システムに加え、システムの前後段に酸化触媒を装着する必要があり、重量増により積載量が減少する。
+  - 尿素水タンクおよび噴射システムに加え、システムの前後段に酸化触媒を装着する必要があり、重量増により積載量が減少する（バスなどの乗用用途であればほぼ問題にならないがトラック等の貨物用途の場合は積載量の減少は輸送効率の悪化に直結する）。
   - 尿素と排ガスの燃焼生成物によりインジェクター（噴射ノズル）詰まりを起こすことがあるため、定期的に清掃が必要となる。
-  - アンモニアが排出される危険があるので、排気漏洩防止装置の取り付けが必要。
+  - アンモニアが排出される危険があるので、排気漏洩防止装置の取り付けが必要。またそれでも構造上排気臭にある程度はアンモニア臭が混ざってしまう。
   - メーカー指定以外の尿素水を入れた場合、NO<sub>x</sub>浄化率の低下、フィルターの目詰まり、尿素水が凍結した際にウォーニングランプが点灯するなどのトラブルが発生することがある\[17\]。
   - 尿素水切れを起こすとエンジンの再始動ができなくなる\[18\]。
   - 乗用車に使用する場合は大型車と違い、尿素噴射に圧縮空気が使えない、また小型乗用車では尿素タンクや追加される触媒の取り付けスペースの確保が困難である。

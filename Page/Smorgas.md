@@ -787,7 +787,7 @@ AUCL-100</p></td>
 
   - [アイニ Official - eq-records.](http://www.eq-records.com/ainee/)
 
-  - [smorgas blog](http://smorgas-official.blogspot.jp/)
+  - [smorgas blog](https://smorgas-official.blogspot.com/)
 
   -
   -   -

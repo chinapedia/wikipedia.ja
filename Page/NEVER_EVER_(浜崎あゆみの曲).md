@@ -9,6 +9,8 @@
 
 初登場1位、累計売上75.7万枚。
 
+この曲の歌番組でのプロモーションでは浜崎が毎回、迷彩柄の衣装を着用していたことで、若い女性を中心に迷彩柄のワンピースやTシャツなどがブームとなった。
+
 同月末に初のベストアルバム『[A BEST](../Page/A_BEST.md "wikilink")』を発売しているが、本作と前作「[evolution](../Page/Evolution_\(浜崎あゆみの曲\).md "wikilink")」は収録されていない。
 
 [JT](https://ja.wikipedia.org/wiki/JT "wikilink")「[桃の天然水](../Page/桃の天然水.md "wikilink")」以来、1年半ぶりに飲料水CM（[キリンビバレッジ](../Page/キリンビバレッジ.md "wikilink")「[サプリ](../Page/サプリ_\(飲料\).md "wikilink")」）に起用され本人出演のタイアップ曲となった。

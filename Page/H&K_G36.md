@@ -110,6 +110,7 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
     [テロリストがC](https://ja.wikipedia.org/wiki/テロリズム "wikilink")-More ドットサイトとフラッシュライトを装着したG36Cを使用する。
 
   - 『[第9地区](https://ja.wikipedia.org/wiki/第9地区 "wikilink")』
+    『[大脱出](https://ja.wikipedia.org/wiki/大脱出 "wikilink")』
     『[沈黙の報復](https://ja.wikipedia.org/wiki/沈黙の報復 "wikilink")』
     [スティーブン・セガール](https://ja.wikipedia.org/wiki/スティーブン・セガール "wikilink")演じる主人公が最終決戦時に使用。
 
@@ -131,7 +132,8 @@ G36C（および一部のG36K）は、標準では光学照準器を装備しな
       -
         アリス救出チームの1人、ルーサー・ウェストがEO Tech社製ホロサイトとフォアグリップを装着したG36Cを使用する。レシーバー部分が銀色に塗装されている。
 
-  - 『[プライミーバル](https://ja.wikipedia.org/wiki/プライミーバル "wikilink")』
+  - 『[バリスティック](https://ja.wikipedia.org/wiki/バリスティック "wikilink")』
+    『[プライミーバル](https://ja.wikipedia.org/wiki/プライミーバル "wikilink")』
     [亀裂調査センター(ARC)の警備隊員が](https://ja.wikipedia.org/wiki/プライミーバル#用語 "wikilink")、ダットサイトとフラッシュライトを装着したG36Cを使用。[時空の亀裂を通って現代にやって来る](https://ja.wikipedia.org/wiki/プライミーバル#用語 "wikilink")、危険な古代生物や未来生物に対して使用する。また、登場人物の一人、ベッカー大尉は[AG36を装着している](https://ja.wikipedia.org/wiki/H&K_AG36 "wikilink")。
 
   - 『[マイアミ・バイス (映画)](../Page/マイアミ・バイス_\(映画\).md "wikilink")』

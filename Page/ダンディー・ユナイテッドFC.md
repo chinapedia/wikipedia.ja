@@ -9,8 +9,13 @@
 
 ### 国内タイトル
 
-  - **[リーグ](https://ja.wikipedia.org/wiki/スコティッシュ・プレミアリーグ "wikilink"):1回**
-      - 1982-1983
+  - **[スコティッシュ・フットボールリーグ](https://ja.wikipedia.org/wiki/スコティッシュ・フットボールリーグ "wikilink"):1回**
+      - 1982-83
+
+<!-- end list -->
+
+  - **[スコティッシュ・チャンピオンシップ](https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ "wikilink"):1回**
+      - 2019-20
 
 <!-- end list -->
 
@@ -552,6 +557,20 @@
 <td><p>36</p></td>
 <td><p>18</p></td>
 </tr>
+<tr class="even">
+<td><p>2018-19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
+<td><p>2位</p></td>
+<td><p>36</p></td>
+<td><p>19</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/スコティッシュ・チャンピオンシップ" title="wikilink">チャンピオンシップ</a></p></td>
+<td><p>1位</p></td>
+<td><p>28</p></td>
+<td><p>18</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -565,9 +584,13 @@
 
 </div>
 
-  - [2017年](../Page/2017年.md "wikilink")[8月31日](../Page/8月31日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")現在\[5\]
 
-括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+[12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")                        括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
+
+  - [監督](../Page/監督.md "wikilink")
+
+    [ミッキー・メロン](https://ja.wikipedia.org/wiki/ミッキー・メロン "wikilink")
 
 ### ローン移籍
 
@@ -576,12 +599,6 @@
 <!-- end list -->
 
   - out
-
-<!-- end list -->
-
-  - [監督](../Page/監督.md "wikilink")
-
-    [レイ・マキノン](https://ja.wikipedia.org/wiki/レイ・マキノン "wikilink")
 
 ## 歴代監督
 
@@ -655,7 +672,13 @@
 
   - [ミクス・パーテライネン](https://ja.wikipedia.org/wiki/ミクス・パーテライネン "wikilink") 2015-2016
 
-  - [レイ・マキノン](https://ja.wikipedia.org/wiki/レイ・マキノン "wikilink") 2016-
+  - [レイ・マキノン](https://ja.wikipedia.org/wiki/レイ・マキノン "wikilink") 2016-2017
+
+  - [チャバ・ラスロ](https://ja.wikipedia.org/wiki/チャバ・ラスロ "wikilink") 2017-2018
+
+  - [ロビー・ニルソン](https://ja.wikipedia.org/wiki/ロビー・ニルソン "wikilink") 2018-2020
+
+  - [ミッキー・メロン](https://ja.wikipedia.org/wiki/ミッキー・メロン "wikilink") 2020-
 
 ## 歴代所属選手
 
@@ -711,3 +734,4 @@
 2.
 3.
 4.
+5.

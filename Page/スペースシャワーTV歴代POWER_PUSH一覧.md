@@ -780,7 +780,7 @@ POWER PUSHは[1993年](../Page/1993年.md "wikilink")[7月](https://ja.wikipedia
 | 3月  | SELFISH feat.CLEO SOL                                                                         | LITTLE SIMZ                                                          |
 | 4月  | BURY A FRIEND                                                                                 | [BILLIE EILISH](https://ja.wikipedia.org/wiki/ビリー・アイリッシュ "wikilink") |
 | 5月  | TALK                                                                                          | [KHALID](https://ja.wikipedia.org/wiki/カリード "wikilink")              |
-| 6月  | JUICE                                                                                         | LIZZO                                                                |
+| 6月  | JUICE                                                                                         | [LIZZO](https://ja.wikipedia.org/wiki/リゾ_\(歌手\) "wikilink")          |
 | 7月  | Old Town Road feat. Billy Ray Cyrus                                                           | [Lil Nas X](https://ja.wikipedia.org/wiki/Lil_Nas_X "wikilink")      |
 | 8月  | Tenderness                                                                                    | [JAY SOM](https://ja.wikipedia.org/wiki/JAY_SOM "wikilink")          |
 | 9月  | DON'T CALL ME UP                                                                              | [MABEL](https://ja.wikipedia.org/wiki/メイベル "wikilink")               |

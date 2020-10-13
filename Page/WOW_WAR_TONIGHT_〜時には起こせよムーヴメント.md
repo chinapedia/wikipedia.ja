@@ -89,22 +89,22 @@
 3.
 4.
 5.  [小学館](../Page/小学館.md "wikilink")刊「DENiM」1995年7月号78P-79Pより。
-6.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1996年6月24日号16P-17Pより。
+6.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1996年6月24日号「400万枚の男、小室哲哉に迫る\!\!」16P-17Pより。
 7.  [小学館](../Page/小学館.md "wikilink")刊『[女性セブン](../Page/女性セブン.md "wikilink")』1996年8月22・29日合併号61Pより。
 8.
 9.  [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1996年11月25日号「ダウンタウンの理由（わけ）。 第30回 売れ続けるということ」pp.46-48より。
-10. [文藝春秋](../Page/文藝春秋.md "wikilink")刊「[週刊文春](../Page/週刊文春.md "wikilink")」1995年4月27日号60P-61Pより。
+10. [文藝春秋](../Page/文藝春秋.md "wikilink")刊「[週刊文春](../Page/週刊文春.md "wikilink")」1995年4月27日号「阿川佐和子のこの人に会いたい 96回目 小室哲哉『浜ちゃんの曲が今までで一番心配でした』」60P-61Pより。
 11. [光文社](../Page/光文社.md "wikilink")刊「読め\!」文庫版[浜田雅功](../Page/浜田雅功.md "wikilink")著13P-20P,29P-30Pより。
 12.
-13. [飛鳥新社](../Page/飛鳥新社.md "wikilink")刊 『プロデューサーは次を作る』：[中谷彰宏](../Page/中谷彰宏.md "wikilink")・[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")著85P,123Pより。
+13. [飛鳥新社](../Page/飛鳥新社.md "wikilink")刊『プロデューサーは次を作る』[中谷彰宏](../Page/中谷彰宏.md "wikilink")・[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")著85P,123Pより。
 14.
 15. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1995年3月13日号36Pより。
-16. 講談社刊『Views』1995年6月号58Pより。
+16. 講談社刊『Views』1995年6月号「小室哲哉の『ミラクル』全角度研究」58Pより。
 17.
 18.
 19. オリコン・エンタテインメント刊「オリコン・ウィーク The Ichiban」1995年3月20日号「今週のザ・1番人間 小室哲哉」3Pより。
 20.
-21. 「[読売新聞](../Page/読売新聞.md "wikilink")」1995年6月26日夕刊7Pより。
+21. 「[読売新聞](../Page/読売新聞.md "wikilink")」1995年6月26日夕刊「テクノと結びついた新サウンドが流行」7Pより。
 22.
 23.
 24. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1995年8月号31P-35Pより。
@@ -116,11 +116,11 @@
 30. フジテレビ「[ビートたけしの私が嫉妬したスゴい人](https://ja.wikipedia.org/wiki/ビートたけしの私が嫉妬したスゴい人 "wikilink")」 [2018年1月3日放送](https://datazoo.jp/tv/ビートたけしの私が嫉妬したスゴい人/1126793/2) TVでた蔵
 31.
 32. 小室も「浜ちゃんはその時点での素の部分をパフォーマンスで表現できる人だと思う。でも、この所それさえパターン化してしまったんじゃないかと思っていた。そこでこの歌詞を提供することによって浜ちゃん自身の素の部分が出せたんじゃないでしょうか」と話している。
-33. [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1995年10月9日号17Pより。
+33. [集英社](../Page/集英社.md "wikilink")刊「[Bart](https://ja.wikipedia.org/wiki/BART_\(雑誌\) "wikilink")」1995年10月9日号「BEHIND the MASK 小室哲哉 坂本龍一 対談」17Pより。
 34. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1996年9月号「BRAND NEW CD 100」196Pより。
 35. [講談社](../Page/講談社.md "wikilink")刊『[週刊現代](../Page/週刊現代.md "wikilink")』1996年7月27日号174Pより。
 36. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1998年1月号51Pより。
-37. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1998年10月号58P-59Pより。
+37. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")」1998年10月号「甲斐よしひろ オトナによるオトナのためのロックが生まれる」58P-59Pより。
 38. [講談社](../Page/講談社.md "wikilink")刊『ニッポンの音楽』[佐々木敦](https://ja.wikipedia.org/wiki/佐々木敦 "wikilink")著220P-221Pより。
 39.
 40.
@@ -129,7 +129,7 @@
 43.
 44.
 45. [神山典士](../Page/神山典士.md "wikilink")『小室哲哉 深層の美意識』[講談社](../Page/講談社.md "wikilink")、1996年、221-222頁。ISBN 4-06-208076-1。
-46. [講談社](../Page/講談社.md "wikilink")刊『[Views](https://ja.wikipedia.org/wiki/Views "wikilink")』1995年10月号66Pより。
+46. [講談社](../Page/講談社.md "wikilink")刊『[Views](https://ja.wikipedia.org/wiki/Views "wikilink")』1995年10月号「小室哲哉からtrf、ヴェルファーレまで avex traxが創り出す洗脳文化」66Pより。
 47. 「ニッポンの音楽」 - ISBN 4062882965
 48. 『小室哲哉 深層の美意識』235-237頁。
 49. [Jungle Hits Japan Kodwo Eshun, i-D, September 1995](https://www.rocksbackpages.com/Library/Article/jungle-hits-japan) - 2017年4月5日閲覧。

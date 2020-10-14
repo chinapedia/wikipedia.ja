@@ -7,7 +7,7 @@
 
 ### 放送地域
 
-主に[福井県](../Page/福井県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やフルネット局が無い地域向けに日本テレビの](../Page/日本テレビ放送網.md "wikilink")[同時放送](../Page/サイマル放送.md "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（2011年3月閉局）・[ディレクTV](../Page/ディレクTV.md "wikilink")の東京情報チャンネル（[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")、1998年～2000年9月）・初期の[BS JAPAN](../Page/BSテレビ東京.md "wikilink")、衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）、ネット配信の[NHKプラス](../Page/NHKプラス.md "wikilink")\[1\]・[AbemaNews](https://ja.wikipedia.org/wiki/AbemaNews "wikilink")\[2\]・東京メトロポリタンテレビジョン（TOKYO MX）の[エムキャス](https://ja.wikipedia.org/wiki/エムキャス "wikilink")のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
+主に[福井県](../Page/福井県.md "wikilink")・[大分県](../Page/大分県.md "wikilink")・[宮崎県](../Page/宮崎県.md "wikilink")・[沖縄県](../Page/沖縄県.md "wikilink")・地上波放送の受信が困難な難視聴地域など [日本テレビの系列局やフルネット局が無い地域向けに日本テレビの](../Page/日本テレビ放送網.md "wikilink")[同時放送](../Page/サイマル放送.md "wikilink")(一部、[読売テレビ制作番組を含む](../Page/讀賣テレビ放送.md "wikilink")）がされ、平日は7:00からの「[ズームイン\!\!朝\!](../Page/ズームイン!!朝!.md "wikilink")」、土・日曜日は11:30からの「[NNNニュースダッシュ](../Page/NNNニュースダッシュ.md "wikilink")」から始まり、全曜日が23時頃の「[NNNきょうの出来事](https://ja.wikipedia.org/wiki/NNNきょうの出来事 "wikilink")」までの放送だった。土・日曜日は13時頃から17時頃まで放送休止していた。放送形態としては[NHK衛星第2テレビジョン](../Page/NHK衛星第2テレビジョン.md "wikilink")（2011年3月閉局）・[ディレクTV](../Page/ディレクTV.md "wikilink")の東京情報チャンネル（[東京メトロポリタンテレビジョン](../Page/東京メトロポリタンテレビジョン.md "wikilink")、1998年～2000年9月）・初期の[BS JAPAN](../Page/BSテレビ東京.md "wikilink")、衛星によるセーフティネットでの地上デジタル放送再送信（地デジ難視対策衛星放送）、ネット配信の[NHKプラス](../Page/NHKプラス.md "wikilink")\[1\]・[日テレ系ライブ配信](https://ja.wikipedia.org/wiki/日テレ系ライブ配信 "wikilink")\[2\]・[AbemaNews](https://ja.wikipedia.org/wiki/AbemaNews "wikilink")\[3\]・東京メトロポリタンテレビジョン（TOKYO MX）の[エムキャス](https://ja.wikipedia.org/wiki/エムキャス "wikilink")のような難視聴解消を目的としたもの、2018年9月まで地上波・BSの2波(かつてはCSでも行っていた)で完全[サイマル放送](../Page/サイマル放送.md "wikilink")を行っていた[放送大学に近い](../Page/放送大学学園.md "wikilink")。
 
 ### 番組
 
@@ -23,7 +23,7 @@
 
 2000年12月に、[BSデジタル放送の](../Page/衛星放送.md "wikilink")[BS日テレが始まることや](../Page/BS日本.md "wikilink")、日本テレビが中心となったCSデジタル放送[プラット・ワン](../Page/プラット・ワン.md "wikilink")が設立されることなどから、2000年9月末に放送終了となった。
 
-その後、110度CSデジタル放送の委託事業者として「[シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")」が設立され、「CS★日テレ」「NNN24(現：[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink"))」の放送を事実上継承した。
+その後、110度CSデジタル放送の委託事業者として「[シーエス日本](https://ja.wikipedia.org/wiki/シーエス日本 "wikilink")」が設立され、「CS★日テレ」「NNN24(現・[日テレNEWS24](https://ja.wikipedia.org/wiki/日テレNEWS24 "wikilink"))」の放送を事実上継承した\[4\]。
 
 ## 放送出来なかった番組
 
@@ -108,5 +108,7 @@
 
 [Category:かつて存在したスカパー\!のテレビチャンネル](https://ja.wikipedia.org/wiki/Category:かつて存在したスカパー!のテレビチャンネル "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink")
 
-1.  南関東向けの番組を配信
-2.  一部のニュース番組を[遅れネット](../Page/遅れネット.md "wikilink")で配信、かつては[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")で行われていた。
+1.  [南関東](../Page/南関東.md "wikilink")（[埼玉県](../Page/埼玉県.md "wikilink")・[千葉県](../Page/千葉県.md "wikilink")・[東京都](../Page/東京都.md "wikilink")・[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")）向けの番組を配信。
+2.  19時台-24時台（土曜日と日曜日は23時台まで）に放送される一部の番組のみ。
+3.  一部のニュース番組を[遅れネット](../Page/遅れネット.md "wikilink")で配信、かつてはCS放送の[朝日ニュースター](../Page/朝日ニュースター.md "wikilink")にて行われていた。
+4.  その後、2002年3月に「G+ SPORTS & NEWS（現・[日テレジータス](../Page/日テレジータス.md "wikilink")）」も開局。2013年2月に日テレNEWS24の衛星基幹放送事業者を[SCサテライト放送](../Page/SCサテライト放送.md "wikilink")に移管している。

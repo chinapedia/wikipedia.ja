@@ -1,11 +1,11 @@
 > この記事は[X \(漫画\)](https://ja.wikipedia.org/wiki/X_\(漫画\))から翻訳されています。
 
 
-『**X**』（**エックス**）は、[CLAMP](../Page/CLAMP.md "wikilink")による漫画作品、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")作品である。
+『**X**』（**エックス**）は、[CLAMP](../Page/CLAMP.md "wikilink")による漫画作品、およびそれを原作とした[アニメ](../Page/アニメ.md "wikilink")作品である。漫画版は[1992年](../Page/1992年.md "wikilink")に『[月刊ASUKA](../Page/月刊Asuka.md "wikilink")』誌にて掲載開始。不定期に連載の中断・再開があり、[2019年](../Page/2019年.md "wikilink")現時点においては休載中。単行本の累計発行部数は1200万部を突破している\[1\]。
 
 ## 概要
 
-漫画版は[1992年](../Page/1992年.md "wikilink")に『[月刊ASUKA](../Page/月刊Asuka.md "wikilink")』誌にて掲載開始。不定期に連載の中断・再開があり、[2019年](../Page/2019年.md "wikilink")現時点においては休載中。『[東京BABYLON](../Page/東京BABYLON.md "wikilink")』や『[破軍星戦記](https://ja.wikipedia.org/wiki/破軍星戦記 "wikilink")』、『[CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")』など、作者が過去に描いた登場人物がこの劇中にも出演している（＝[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")）。[スター・システム型のエンタテインメント作品でもある](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")。
+『[東京BABYLON](../Page/東京BABYLON.md "wikilink")』や『[破軍星戦記](https://ja.wikipedia.org/wiki/破軍星戦記 "wikilink")』、『[CLAMP学園探偵団](../Page/CLAMP学園探偵団.md "wikilink")』など、作者が過去に描いた登場人物がこの劇中にも出演している（＝[クロスオーバー作品](../Page/クロスオーバー作品.md "wikilink")）。[スター・システム型のエンタテインメント作品でもある](https://ja.wikipedia.org/wiki/スター・システム_\(小説・アニメ・漫画\) "wikilink")。
 
 ラジオ番組『ミッド☆ナイト あすかチャンネル』（[TBSラジオ](../Page/TBSラジオ.md "wikilink")ファンタジーワールド枠）内で漫画版のキャラクターストーリーを基にしたラジオドラマも制作・放送された。
 
@@ -196,7 +196,7 @@
 
 ## 漫画版
 
-第1巻が1992年8月17日に発行され、第18巻まで発行されている（2002年9月17日現在）。月刊Newtype10月号増刊「CLAMP Newtype〈PLATINUM〉」 に「18.5巻」として、コミックス未収録パートが掲載された（2006年9月25日発売）。単行本の累積発行部数は1200万部を突破している。
+第1巻が1992年8月17日に発行され、第18巻まで発行されている（2002年9月17日現在）。月刊Newtype10月号増刊「CLAMP Newtype〈PLATINUM〉」 に「18.5巻」として、コミックス未収録パートが掲載された（2006年9月25日発売）。
 
   - あすかコミックス
 
@@ -504,3 +504,5 @@
 
   -
 [Category:漫画作品_え](https://ja.wikipedia.org/wiki/Category:漫画作品_え "wikilink") [Category:CLAMPの作品](https://ja.wikipedia.org/wiki/Category:CLAMPの作品 "wikilink") [Category:CLAMP原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:CLAMP原作のアニメ作品 "wikilink") [Category:月刊Asukaの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊Asukaの漫画作品 "wikilink") [Category:1992年の漫画](https://ja.wikipedia.org/wiki/Category:1992年の漫画 "wikilink") [Category:漫画のクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:漫画のクロスオーバー作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:タロットを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:タロットを題材とした漫画作品 "wikilink") [Category:アニメ作品_え](https://ja.wikipedia.org/wiki/Category:アニメ作品_え "wikilink") [Category:日本のアニメ映画](https://ja.wikipedia.org/wiki/Category:日本のアニメ映画 "wikilink") [Category:1996年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1996年のアニメ映画 "wikilink") [Category:りんたろうの監督映画](https://ja.wikipedia.org/wiki/Category:りんたろうの監督映画 "wikilink") [Category:漫画を原作とするアニメ映画](https://ja.wikipedia.org/wiki/Category:漫画を原作とするアニメ映画 "wikilink") [Category:東京を舞台としたアニメ映画](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ映画 "wikilink") [Category:2001年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2001年のテレビアニメ "wikilink") [Category:WOWOWアニメ](https://ja.wikipedia.org/wiki/Category:WOWOWアニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:角川コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:角川コミックスのアニメ作品 "wikilink") [Category:セガグループのアニメ作品](https://ja.wikipedia.org/wiki/Category:セガグループのアニメ作品 "wikilink") [Category:バンダイビジュアルのアニメ作品](https://ja.wikipedia.org/wiki/Category:バンダイビジュアルのアニメ作品 "wikilink") [Category:ビクターエンタテインメントのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアニメ作品 "wikilink") [Category:ムービックのアニメ映画](https://ja.wikipedia.org/wiki/Category:ムービックのアニメ映画 "wikilink") [Category:キャラアニのアニメ作品](https://ja.wikipedia.org/wiki/Category:キャラアニのアニメ作品 "wikilink") [Category:ディーライツのアニメ作品](https://ja.wikipedia.org/wiki/Category:ディーライツのアニメ作品 "wikilink") [Category:東京を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:東京を舞台としたアニメ作品 "wikilink") [Category:タロットを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:タロットを題材としたアニメ作品 "wikilink") [Category:世界の終末が描かれた作品](https://ja.wikipedia.org/wiki/Category:世界の終末が描かれた作品 "wikilink") [Category:TBSラジオのドラマ](https://ja.wikipedia.org/wiki/Category:TBSラジオのドラマ "wikilink") [Category:未完の漫画作品](https://ja.wikipedia.org/wiki/Category:未完の漫画作品 "wikilink")
+
+1.

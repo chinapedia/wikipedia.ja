@@ -9,15 +9,15 @@
 
   - [蒼き雷霆ガンヴォルト ストライカーパック](https://ja.wikipedia.org/wiki/蒼き雷霆_ガンヴォルト_爪 "wikilink")（コンテンツアイコン：「暴力、犯罪」）
   - アトミクロップス
-  - [イース・オリジン](../Page/イース・オリジン.md "wikilink")　スペシャルエディション
-  - [いけにえと雪のセツナ](https://ja.wikipedia.org/wiki/いけにえと雪のセツナ "wikilink")（コンテンツアイコン：「犯罪」
-  - [インディヴィジブル　闇を祓う魂たち](../Page/インディヴィジブル_闇を祓う魂たち.md "wikilink")
+  - [イース・オリジン スペシャルエディション](../Page/イース・オリジン.md "wikilink")
+  - [いけにえと雪のセツナ](https://ja.wikipedia.org/wiki/いけにえと雪のセツナ "wikilink")（コンテンツアイコン：「犯罪」）
+  - [インディヴィジブル　闇を祓う魂たち](../Page/インディヴィジブル_闇を祓う魂たち.md "wikilink")（コンテンツアイコン：「???」）
   - [ウルトラストリートファイターII ザ・ファイナルチャレンジャーズ](https://ja.wikipedia.org/wiki/ウルトラストリートファイターII_ザ・ファイナルチャレンジャーズ "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
-  - [エアミッションズ：ハインド](https://ja.wikipedia.org/wiki/エアミッションズ：ハインド "wikilink")
+  - [エアミッションズ：ハインド](https://ja.wikipedia.org/wiki/エアミッションズ：ハインド "wikilink")（コンテンツアイコン：「???」）
   - [金色のコルダ オクターヴ](../Page/金色のコルダ.md "wikilink")（コンテンツアイコン：「恋愛」）
-  - [ケイデンス・オフ・ハイラル：クリプト・オブ・ネクロダンサー　Feat.ゼルダの伝説](https://ja.wikipedia.org/wiki/ケイデンス・オブ・ハイラル:_クリプト・オブ・ネクロダンサー_feat._ゼルダの伝説 "wikilink")
+  - [ケイデンス・オブ・ハイラル: クリプト・オブ・ネクロダンサー feat. ゼルダの伝説](https://ja.wikipedia.org/wiki/ケイデンス・オブ・ハイラル:_クリプト・オブ・ネクロダンサー_feat._ゼルダの伝説 "wikilink")（コンテンツアイコン：「犯罪」）
   - [幻影異聞録♯FE Encore](https://ja.wikipedia.org/wiki/幻影異聞録♯FE "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [シャドーバース　チャンピオンズバトル](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")
+  - [シャドウバース チャンピオンズバトル](https://ja.wikipedia.org/wiki/Shadowverse "wikilink")（コンテンツアイコン：「???」）
   - [シャンティ ヒーロー アルティメット・エディション](https://ja.wikipedia.org/wiki/シャンティ "wikilink"):ハーフ・ジーニー（コンテンツアイコン：「セクシャル、暴力、犯罪」）
   - [真・三國無双7 Empires](https://ja.wikipedia.org/wiki/真・三國無双7#真・三國無双7_Empires "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
   - [スーパーマリオ オデッセイ](https://ja.wikipedia.org/wiki/スーパーマリオ_オデッセイ "wikilink")（コンテンツアイコン：「暴力、犯罪」）
@@ -27,10 +27,10 @@
       - [ゼルダの伝説 ブレス オブ ザ ワイルド](https://ja.wikipedia.org/wiki/ゼルダの伝説_ブレス_オブ_ザ_ワイルド "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪」）
       - [ゼルダの伝説 夢をみる島](https://ja.wikipedia.org/wiki/ゼルダの伝説_夢をみる島 "wikilink")（コンテンツアイコン：「犯罪」）
       - [ゼルダ無双 ハイラルオールスターズ DX](https://ja.wikipedia.org/wiki/ゼルダ無双 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）
-  - WWE 2K　バトルグラウンド（コンテンツアイコン：「セクシャル、暴力」）
+  - WWE 2K バトルグラウンド（コンテンツアイコン：「セクシャル、暴力」）
   - [テイルズ オブ ヴェスペリア REMASTER](https://ja.wikipedia.org/wiki/テイルズ_オブ_ヴェスペリア "wikilink")（コンテンツアイコン：「セクシャル、暴力、犯罪、言葉・その他」）
   - [東京2020オリンピック The Official Video Game](https://ja.wikipedia.org/wiki/東京2020オリンピック_The_Official_Video_Game "wikilink")（コンテンツアイコン：「セクシャル」）
-  - [智代アフター～It\`s a wonderful　life～　CS　エディション](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")（コンテンツアイコン：「セクシャル、恋愛」）
+  - [智代アフター 〜It's a Wonderful Life〜 CS Edition](../Page/智代アフター_〜It's_a_Wonderful_Life〜.md "wikilink")（コンテンツアイコン：「セクシャル、恋愛」）
   - ドラゴンクエストヒーローズI・II for Nintendo Switch（コンテンツアイコン：「セクシャル、暴力」）
   - [CaveStory+](../Page/洞窟物語.md "wikilink")（コンテンツアイコン：「暴力」）
   - [ドラゴンボール ゼノバース2 for Nintendo Switch](https://ja.wikipedia.org/wiki/ドラゴンボール_ゼノバース2 "wikilink")（コンテンツアイコン：「セクシャル、暴力」）

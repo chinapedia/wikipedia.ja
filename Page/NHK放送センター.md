@@ -112,7 +112,7 @@ NHK放送センターで一番目立つ建物。1972年に竣工。完成後に[
 <!-- end list -->
 
   -
-    『[NHKマイあさラジオ](https://ja.wikipedia.org/wiki/NHKマイあさラジオ "wikilink")』、『[すっぴん\!](https://ja.wikipedia.org/wiki/すっぴん! "wikilink")』、『[午後のまりやーじゅ](https://ja.wikipedia.org/wiki/午後のまりやーじゅ "wikilink")』、『[先読み\!夕方ニュース](../Page/先読み!夕方ニュース.md "wikilink")』、『[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")』、『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』、『[文芸選評](../Page/文芸選評.md "wikilink")』、『[ちきゅうラジオ](../Page/ちきゅうラジオ.md "wikilink")』、『[歌の日曜散歩](../Page/歌の日曜散歩.md "wikilink")』、『[らじらー](https://ja.wikipedia.org/wiki/らじらー "wikilink")』（土曜21-22時台）
+    『[マイあさ！](https://ja.wikipedia.org/wiki/マイあさ! "wikilink")』、『[らじるラボ](../Page/らじるラボ.md "wikilink")』、『[武内陶子のごごカフェ](../Page/武内陶子のごごカフェ.md "wikilink")』、『[Nらじ](https://ja.wikipedia.org/wiki/Nらじ "wikilink")』、『[NHKきょうのニュース](../Page/NHKきょうのニュース.md "wikilink")』、『[NHKジャーナル](../Page/NHKジャーナル.md "wikilink")』、『[文芸選評](../Page/文芸選評.md "wikilink")』、『[ちきゅうラジオ](../Page/ちきゅうラジオ.md "wikilink")』、『[子ども科学電話相談](../Page/子ども科学電話相談.md "wikilink")』、『[らじらー](https://ja.wikipedia.org/wiki/らじらー "wikilink")』（土曜21-22時台）
 
 <!-- end list -->
 

@@ -7,7 +7,7 @@
 
 1931年6月、同月開局の[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")で放送される[教育番組](../Page/教育番組.md "wikilink")用の[テキスト](../Page/テキスト.md "wikilink")を出版するために設立された。NHKの演奏所移転に合わせて、愛宕山→内幸町→渋谷と本社移転を変遷している。現在では、NHKで放送される番組を補完するテキストや書籍を多数扱うほか、『[NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")』『[NHK出版新書](https://ja.wikipedia.org/wiki/NHK出版新書 "wikilink")』シリーズをはじめ、オリジナルの一般書・教養書・実用書を数多く刊行している。
 
-タイムリーな翻訳書にも定評があり、世界的にもベストセラーとなった哲学を扱った『[ソフィーの世界](../Page/ソフィーの世界.md "wikilink")』、発売前に全ページを無料（FREE）でネット公開して話題となった『FREE』、『THINK SIMPLE』、『ゼロ・トゥ・ワン』などのビジネス書、『脳を鍛えるには運動しかない！』、『BORN TO RUN 走るために生まれた』、[リサ・ランドール](../Page/リサ・ランドール.md "wikilink")『ワープする宇宙～5次元時空の謎を解く』、『[モリー先生との火曜日](https://ja.wikipedia.org/wiki/モリー先生との火曜日 "wikilink")』など、科学・教養・ノンフィクション等幅広い分野にわたるタイトルを刊行している。
+タイムリーな翻訳書にも定評があり、世界的にもベストセラーとなった哲学を扱った『[ソフィーの世界](../Page/ソフィーの世界.md "wikilink")』、発売前に全ページを無料（FREE）でネット公開して話題となった『FREE』、[ピーター・ティール](https://ja.wikipedia.org/wiki/ピーター・ティール "wikilink")『ゼロ・トゥ・ワン』などのビジネス書、『脳を鍛えるには運動しかない！』、『BORN TO RUN 走るために生まれた』、[リサ・ランドール](../Page/リサ・ランドール.md "wikilink")『ワープする宇宙～5次元時空の謎を解く』、『[モリー先生との火曜日](https://ja.wikipedia.org/wiki/モリー先生との火曜日 "wikilink")』、[スティーヴン・ホーキング](../Page/スティーヴン・ホーキング.md "wikilink")『ビッグ・クエスチョン』など、科学・教養・ノンフィクション等幅広い分野にわたるタイトルを刊行している。
 
 文芸書も、[大河ドラマ](../Page/大河ドラマ.md "wikilink")や[連続テレビ小説](../Page/連続テレビ小説.md "wikilink")など、ドラマのノベライズ小説を中心に、オリジナルの現代・時代小説を刊行しており、1995年には、[梁石日](../Page/梁石日.md "wikilink")『[夜を賭けて](https://ja.wikipedia.org/wiki/夜を賭けて "wikilink")』が第113回[直木賞](https://ja.wikipedia.org/wiki/直木賞 "wikilink")候補となったほか、近年では[阿部智里](https://ja.wikipedia.org/wiki/阿部智里 "wikilink")『発現』、[伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")『クジラアタマの王様』などを刊行している。
 
@@ -121,18 +121,17 @@
   - [NHK大河ドラマガイド](../Page/大河ドラマ.md "wikilink")
   - NHKドラマ・ガイド [連続テレビ小説](../Page/連続テレビ小説.md "wikilink")
   - 『命のビザを繫いだ男 ～小辻節三とユダヤ難民』（[山田純大](../Page/山田純大.md "wikilink")著）
-  - 『ITビジネスの原理』（[尾原和啓](https://ja.wikipedia.org/wiki/尾原和啓 "wikilink")著）
+  - 『ネットビジネス進化論』（[尾原和啓](https://ja.wikipedia.org/wiki/尾原和啓 "wikilink")著）
   - 『〈インターネット〉の次に来るもの 未来を決める12の法則』（[ケヴィン・ケリー](https://ja.wikipedia.org/wiki/ケヴィン・ケリー "wikilink")著・[服部桂](https://ja.wikipedia.org/wiki/服部桂 "wikilink")訳）
   - 『天、共に在り～アフガニスタン三十年の闘い』（[中村哲著](../Page/中村哲_\(医師\).md "wikilink")）
-  - 『NHK日本語発音アクセント新辞典（[NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")編）
+  - 『時間は存在しない』（[カルロ・ロヴェッリ](https://ja.wikipedia.org/wiki/カルロ・ロヴェッリ "wikilink")著）
+  - 『NHK日本語発音アクセント新辞典』（[NHK放送文化研究所](../Page/NHK放送文化研究所.md "wikilink")編）
   - NHK年鑑（毎年秋に発行。この1年の放送界全体の動きを記録するもの）
-  - [プロフェッショナル 仕事の流儀](../Page/プロフェッショナル_仕事の流儀.md "wikilink")
-  - [プロジェクトX〜挑戦者たち〜](../Page/プロジェクトX〜挑戦者たち〜.md "wikilink")
-  - [冬のソナタ](../Page/冬のソナタ.md "wikilink")（小説版）
   - [すごい科学で守ります\!](../Page/すごい科学で守ります!.md "wikilink")シリーズ（[長谷川裕一](../Page/長谷川裕一.md "wikilink")著）
   - [NHK出版新書](https://ja.wikipedia.org/wiki/NHK出版新書 "wikilink")（社名変更に伴い2011年に[生活人新書](https://ja.wikipedia.org/wiki/生活人新書 "wikilink")から名称変更）
   - [NHKブックス](https://ja.wikipedia.org/wiki/NHKブックス "wikilink")
   - NHK「[100分de名著](https://ja.wikipedia.org/wiki/100分de名著 "wikilink")」ブックス
+  - NHK出版　学びのきほん
   - [通信制高等学校](https://ja.wikipedia.org/wiki/通信制高等学校 "wikilink")向けの学習書（補助教材）も発行。
 
 その他、料理・園芸・健康・語学・趣味分野の実用書籍・ムックも多い。
@@ -261,6 +260,7 @@
   - 2017年:『 ゲノム編集の衝撃 －「神の領域」に迫るテクノロジー』（NHK「ゲノム編集」取材班）が2017年[科学ジャーナリスト賞](https://ja.wikipedia.org/wiki/科学ジャーナリスト賞 "wikilink")を受賞。\[43\]
   - [2018年](../Page/2018年.md "wikilink"):テキスト『NHKコンピューター講座』資料一式が2017年度[情報処理技術遺産](https://ja.wikipedia.org/wiki/情報処理技術遺産 "wikilink")に認定。\[44\]
   - [2019年](../Page/2019年.md "wikilink"):NHKブックス『「古今和歌集」の創造力』（鈴木宏子著）が第7回[古代歴史文化賞](https://ja.wikipedia.org/wiki/古代歴史文化賞 "wikilink")大賞を受賞。\[45\]
+  - 2019年:『ぼくのばしょなのに』（[刀根里衣](https://ja.wikipedia.org/wiki/刀根里衣 "wikilink")著）が第29回[けんぶち絵本の里大賞](https://ja.wikipedia.org/wiki/けんぶち絵本の里大賞 "wikilink")アルパカ賞を受賞。\[46\]
 
 ### 2020年代
 
@@ -327,3 +327,4 @@
 43. [科学ジャーナリスト賞2017](https://jastj.jp/jastj_prize/prize2017/)日本科学技術ジャーナリスト会議
 44. [情報処理技術遺産 2017年度 NHKコンピューター講座資料一式](http://museum.ipsj.or.jp/heritage/nhk.html)情報処理学会 コンピュータ博物館
 45. [古代歴史文化賞 大賞に「『古今和歌集』の創造力」](https://www3.nhk.or.jp/news/html/20191106/k10012166501000.html)NHK NEWS WEB
+46. \[<http://ehon-yakata.com/第29回-けんぶち絵本の里大賞-結果発表>！！！！/ 第29回 けんぶち絵本の里大賞 結果発表！！！！\]剣淵町絵本の館

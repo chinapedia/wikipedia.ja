@@ -7,7 +7,7 @@
 
 1892年にホームスタジアムの[アンフィールド](../Page/アンフィールド.md "wikilink")とライバルクラブの[エヴァートンFC](../Page/エヴァートンFC.md "wikilink")との関係から創設された。
 
-1960年代半ばから80年代にかけて、3連覇（1981-82、1982-83、1983-84シーズン）達成を含む[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")優勝13回、[UEFAチャンピオンズカップ](../Page/UEFAチャンピオンズリーグ.md "wikilink")（現在のUEFAチャンピオンズリーグ）優勝6回など、40以上のタイトルを獲得したイングランドの古豪。特にイングランドだけでなく欧州の舞台でも活躍した1970年代以降の約20年間については、“黄金期” と称される一方で、[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")、[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")という2つの暗い悲劇を経験した（[後述](https://ja.wikipedia.org/wiki/#歴史 "wikilink")）。
+1960年代半ばから80年代にかけて、3連覇（1981-82、1982-83、1983-84シーズン）達成を含む[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")優勝13回、[UEFAチャンピオンズカップ](../Page/UEFAチャンピオンズリーグ.md "wikilink")（現在のUEFAチャンピオンズリーグ）優勝6回など、40以上のタイトルを獲得した。特にイングランドだけでなく欧州の舞台でも活躍した1970年代以降の約20年間については、“黄金期” と称される一方で、[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")、[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")という2つの暗い悲劇を経験した（[後述](https://ja.wikipedia.org/wiki/#歴史 "wikilink")）。
 
 2005年に[イスタンブールの奇跡と呼ばれる勝利で](../Page/UEFAチャンピオンズリーグ_2004-05_決勝.md "wikilink")[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")を下し、通算5回目となる[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")（旧[UEFAチャンピオンズカップを含む](../Page/UEFAチャンピオンズリーグ.md "wikilink")）制覇を果たす。これによって[イングランド](../Page/イングランド.md "wikilink")で唯一の[ビッグ・イヤーの永久保持が認められた](../Page/ヨーロピアン・チャンピオン・クラブズ・カップ.md "wikilink")。
 
@@ -147,6 +147,10 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 連覇を目指したチャンピオンズリーグでは決勝トーナメント・ラウンド16で[アトレティコ・マドリード](https://ja.wikipedia.org/wiki/アトレティコ・マドリード "wikilink")と対戦。敵地での1stレグをアトレティコの堅守を崩しきれずに0-1で落とすと、2ndレグでは90分を終えて1-0、2戦合計1-1となり延長戦に突入。一時はフィルミーノのゴールで勝ち越したが、ミスから失点すると、その後もカウンターから失点を重ねて2-3で敗れ、2戦合計2-4で敗退した。本拠地アンフィールドでの無敗記録も42でストップした。 [リーグカップは準々決勝の日程が前述のクラブワールドカップでトップチームがカタール遠征中に開催されたため](https://ja.wikipedia.org/wiki/EFLカップ2019-2020 "wikilink")、[アストン・ヴィラにユースチームのメンバーで挑むこととなり敗れた](../Page/アストン・ヴィラFC.md "wikilink")。[FAカップは](https://ja.wikipedia.org/wiki/FAカップ2019-2020 "wikilink")4回戦再試合で今度は今季初めてプレミアリーグで設定されたウィンターブレイクと日程が被り、またもユースチームのメンバーで試合を挑み、なんとか勝ち進むことができたが、続く5回戦にてチェルシーに敗れた。
 
+  - 2020-21シーズン
+
+ディフェンディングチャンピオンとして挑むシーズンは、[アダム・ララーナ](https://ja.wikipedia.org/wiki/アダム・ララーナ "wikilink")（[ブライトン](../Page/ブライトン・アンド・ホーヴ・アルビオンFC.md "wikilink")）\[124\]、[ナサニエル・クライン](https://ja.wikipedia.org/wiki/ナサニエル・クライン "wikilink")\[125\]の2名を契約満了、そして[デヤン・ロヴレン](https://ja.wikipedia.org/wiki/デヤン・ロヴレン "wikilink")（[ゼニト](../Page/FCゼニト・サンクトペテルブルク.md "wikilink")）\[126\]の[ユルゲン・クロップ](https://ja.wikipedia.org/wiki/ユルゲン・クロップ "wikilink")の監督就任前からチームを支えた3名を放出すると、[オリンピアコスから](https://ja.wikipedia.org/wiki/オリンピアコスFC "wikilink")[コスタス・ツィミカス](../Page/コスタス・ツィミカス.md "wikilink")\[127\]、[バイエルン・ミュンヘン](https://ja.wikipedia.org/wiki/バイエルン・ミュンヘン "wikilink")から[ティアゴ・アルカンタラ](https://ja.wikipedia.org/wiki/ティアゴ・アルカンタラ・ド・ナシメント "wikilink")\[128\]、[ウルヴァーハンプトンから](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink")[ディオゴ・ジョッタ](https://ja.wikipedia.org/wiki/ディオゴ・ジョッタ "wikilink")\[129\]を獲得し、戦力の刷新を図った。
+
 ## 成績
 
 ## タイトル
@@ -180,7 +184,7 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 <!-- end list -->
 
-  - **[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")\[124\]：6回** [Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")
+  - **[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")\[130\]：6回** [Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")[Coppacampioni.png](https://ja.wikipedia.org/wiki/File:Coppacampioni.png "fig:Coppacampioni.png")
       - 1976-77, 1977-78, 1980-81, 1983-84, 2004-05, 2018-19
 
 <!-- end list -->
@@ -199,25 +203,25 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 [マンチェスター・ユナイテッドとは昔からライバル関係にあり](../Page/マンチェスター・ユナイテッドFC.md "wikilink")、両者は[ノースウェスト・ダービー](https://ja.wikipedia.org/wiki/ノースウェスト・ダービー "wikilink")（あるいはイングランド・ダービー、ナショナル・ダービー）と呼ばれる[伝統の一戦](../Page/伝統の一戦.md "wikilink")を通じて毎回白熱した試合を繰り広げる。イングランドサッカーを引っ張るチーム同士の対戦であるため、サポーターは試合前から歌を歌い、士気を高めている。選手同士もこの試合に関してはとても熱く、過去には[リオ・ファーディナンド](https://ja.wikipedia.org/wiki/リオ・ファーディナンド "wikilink")と[ピーター・クラウチ](../Page/ピーター・クラウチ.md "wikilink")の乱闘寸前劇や、[ガリー・ネヴィル](https://ja.wikipedia.org/wiki/ガリー・ネヴィル "wikilink")のリヴァプールファンへの挑発などが見られた。また、リヴァプール出身でライバルのエヴァートンからマンチェスター・ユナイテッドへ移籍した[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")へのブーイングなども見られ、好ゲームが多い。
 
-2004年に[ラファエル・ベニテス](../Page/ラファエル・ベニテス.md "wikilink")が監督に就任して以来、リーグ戦でマンチェスター・ユナイテッドに勝利を挙げたことがなかったが\[125\]、2008-09シーズンの第4節でホームで逆転勝利を挙げると\[126\]、アウェイでも快勝した。
+2004年に[ラファエル・ベニテス](../Page/ラファエル・ベニテス.md "wikilink")が監督に就任して以来、リーグ戦でマンチェスター・ユナイテッドに勝利を挙げたことがなかったが\[131\]、2008-09シーズンの第4節でホームで逆転勝利を挙げると\[132\]、アウェイでも快勝した。
 
 ## エンブレム
 
-リヴァプールの[エンブレム](../Page/エンブレム.md "wikilink")には、[アンフィールド](../Page/アンフィールド.md "wikilink")のシャンクリー・ゲートの門飾りや、サポーターのアンセムともなっている "You'll never walk alone" の文字、リヴァプール市の象徴ともなっている鳥「ライヴァー・バード（Liver Bird）」などが用いられている\[127\]\[128\]。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shankly_Gates.jpg "wikilink") ライヴァー・バードの左右にある炎は、サッカー史に残る惨事と言われる[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")への追悼の意を表している。片方の炎は[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")への追悼の意を表していると誤認識されることがある\[129\]が、実際は異なる。ライヴァー・バードはリヴァプール市内の[ピア・ヘッド](https://ja.wikipedia.org/wiki/ピア・ヘッド "wikilink")に位置する[ロイヤル・リヴァー・ビルディング](https://ja.wikipedia.org/wiki/ロイヤル・リヴァー・ビルディング "wikilink")の二つの時計台上部にある鳥をモチーフにしている。ライヴァー・バードはリヴァプールの船乗り達の守り神である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Royal_Liver_Building_above_Dale_Street_-_Liverpool_-_2005-06-27.jpg "wikilink")
+リヴァプールの[エンブレム](../Page/エンブレム.md "wikilink")には、[アンフィールド](../Page/アンフィールド.md "wikilink")のシャンクリー・ゲートの門飾りや、サポーターのアンセムともなっている "You'll never walk alone" の文字、リヴァプール市の象徴ともなっている鳥「ライヴァー・バード（Liver Bird）」などが用いられている\[133\]\[134\]。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shankly_Gates.jpg "wikilink") ライヴァー・バードの左右にある炎は、サッカー史に残る惨事と言われる[ヒルズボロの悲劇](../Page/ヒルズボロの悲劇.md "wikilink")への追悼の意を表している。片方の炎は[ヘイゼルの悲劇](../Page/ヘイゼルの悲劇.md "wikilink")への追悼の意を表していると誤認識されることがある\[135\]が、実際は異なる。ライヴァー・バードはリヴァプール市内の[ピア・ヘッド](https://ja.wikipedia.org/wiki/ピア・ヘッド "wikilink")に位置する[ロイヤル・リヴァー・ビルディング](https://ja.wikipedia.org/wiki/ロイヤル・リヴァー・ビルディング "wikilink")の二つの時計台上部にある鳥をモチーフにしている。ライヴァー・バードはリヴァプールの船乗り達の守り神である。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Royal_Liver_Building_above_Dale_Street_-_Liverpool_-_2005-06-27.jpg "wikilink")
 
 ## スタジアム
 
-[thumbのグラウンド](https://ja.wikipedia.org/wiki/ファイル:View_of_inside_Anfield_Stadium_from_Anfield_Road_Stand.jpg "wikilink")\]\] リヴァプールは[アンフィールド](../Page/アンフィールド.md "wikilink")と呼ばれるホームスタジアムを持つ。アンフィールドは[アーチボルド・リーチ](https://ja.wikipedia.org/wiki/アーチボルド・リーチ "wikilink")（Archibald Leitch）という建築技師によって設計され\[130\]、前述の通り、元々は地元のライバルである[エヴァートンのホームスタジアムであった](../Page/エヴァートンFC.md "wikilink")。
+[thumbのグラウンド](https://ja.wikipedia.org/wiki/ファイル:View_of_inside_Anfield_Stadium_from_Anfield_Road_Stand.jpg "wikilink")\]\] リヴァプールは[アンフィールド](../Page/アンフィールド.md "wikilink")と呼ばれるホームスタジアムを持つ。アンフィールドは[アーチボルド・リーチ](https://ja.wikipedia.org/wiki/アーチボルド・リーチ "wikilink")（Archibald Leitch）という建築技師によって設計され\[136\]、前述の通り、元々は地元のライバルである[エヴァートンのホームスタジアムであった](../Page/エヴァートンFC.md "wikilink")。
 
-リヴァプールのトレーニンググラウンドは、リヴァプールの[ウエスト・ダービー](https://ja.wikipedia.org/wiki/ウエスト・ダービー "wikilink")と呼ばれる地区に建つ[メルウッド](https://ja.wikipedia.org/wiki/メルウッド "wikilink")である\[131\]。メルウッドは1950年代からウエスト・ダービーに建つが、同じリヴァプールの[カービー](../Page/カービー.md "wikilink")に建つリヴァプールの[アカデミー](../Page/アカデミー.md "wikilink")とは異なる。
+リヴァプールのトレーニンググラウンドは、リヴァプールの[ウエスト・ダービー](https://ja.wikipedia.org/wiki/ウエスト・ダービー "wikilink")と呼ばれる地区に建つ[メルウッド](https://ja.wikipedia.org/wiki/メルウッド "wikilink")である\[137\]。メルウッドは1950年代からウエスト・ダービーに建つが、同じリヴァプールの[カービー](../Page/カービー.md "wikilink")に建つリヴァプールの[アカデミー](../Page/アカデミー.md "wikilink")とは異なる。
 
 ## サポーター
 
-リヴァプールは多くのサポーターを持つ。サポーターは[アンフィールド](../Page/アンフィールド.md "wikilink")の "Kop" と呼ばれるスタンドで応援することから、自身を**コップ**（Kopites）と呼ぶ。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Amicizia.jpg "wikilink") サポーターは、試合開始前や試合終了直前に「[You'll Never Walk Alone](../Page/ユール・ネヴァー・ウォーク・アローン.md "wikilink")」（君は決して一人ではない。チームに関わる者、サポーターの我々は決して一人ではない。共に歩もう）という曲を歌う。この曲は元々[リチャード・ロジャースと](../Page/リチャード・ロジャース_\(作曲家\).md "wikilink")[オスカー・ハマースタイン2世](https://ja.wikipedia.org/wiki/オスカー・ハマースタイン2世 "wikilink")がミュージカル『[回転木馬](../Page/回転木馬_\(ミュージカル\).md "wikilink")』のために書いた曲であるが、1960年代初頭に「[マージービート](../Page/リバプールサウンド.md "wikilink")」と呼ばれた一連のポップ音楽の系譜に連なるバンドである[ジェリー&ザ・ペースメーカーズが録音したものが](https://ja.wikipedia.org/wiki/ジェリー&ザ・ペースメイカーズ "wikilink")、イギリスのヒットチャート1位を獲得した。その頃リヴァプールFCのスタジアムアンフィールドでは毎週DJがその週のヒットチャートソングを流していた。そのひとつとして「You’ll Never Walk Alone」が流れサポーターが歌っていたのだが、同曲はヒットチャートから姿を消してからもその名残でスタジアムで歌われ続けた。その後もサポーターからは毎試合流して欲しいと強いリクエストありアンセムとして定着するに至っている\[132\]。
+リヴァプールは多くのサポーターを持つ。サポーターは[アンフィールド](../Page/アンフィールド.md "wikilink")の "Kop" と呼ばれるスタンドで応援することから、自身を**コップ**（Kopites）と呼ぶ。 [thumb](https://ja.wikipedia.org/wiki/ファイル:Amicizia.jpg "wikilink") サポーターは、試合開始前や試合終了直前に「[You'll Never Walk Alone](../Page/ユール・ネヴァー・ウォーク・アローン.md "wikilink")」（君は決して一人ではない。チームに関わる者、サポーターの我々は決して一人ではない。共に歩もう）という曲を歌う。この曲は元々[リチャード・ロジャースと](../Page/リチャード・ロジャース_\(作曲家\).md "wikilink")[オスカー・ハマースタイン2世](https://ja.wikipedia.org/wiki/オスカー・ハマースタイン2世 "wikilink")がミュージカル『[回転木馬](../Page/回転木馬_\(ミュージカル\).md "wikilink")』のために書いた曲であるが、1960年代初頭に「[マージービート](../Page/リバプールサウンド.md "wikilink")」と呼ばれた一連のポップ音楽の系譜に連なるバンドである[ジェリー&ザ・ペースメーカーズが録音したものが](https://ja.wikipedia.org/wiki/ジェリー&ザ・ペースメイカーズ "wikilink")、イギリスのヒットチャート1位を獲得した。その頃リヴァプールFCのスタジアムアンフィールドでは毎週DJがその週のヒットチャートソングを流していた。そのひとつとして「You’ll Never Walk Alone」が流れサポーターが歌っていたのだが、同曲はヒットチャートから姿を消してからもその名残でスタジアムで歌われ続けた。その後もサポーターからは毎試合流して欲しいと強いリクエストありアンセムとして定着するに至っている\[138\]。
 
 この曲は、[セルティック](../Page/セルティックFC.md "wikilink")、[アイルランド代表](../Page/サッカーアイルランド共和国代表.md "wikilink")、[イプスウィッチ・タウン](../Page/イプスウィッチ・タウンFC.md "wikilink")、[SKラピード・ウィーン](../Page/SKラピード・ウィーン.md "wikilink")、[フェイエノールト](../Page/フェイエノールト.md "wikilink")、[アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")、[ベンフィカ](../Page/SLベンフィカ.md "wikilink")、[ドルトムント](../Page/ボルシア・ドルトムント.md "wikilink")、[FC東京](https://ja.wikipedia.org/wiki/FC東京 "wikilink")などのサポーターにも歌われるようになった。また、2011年に発生した[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")の直後に行われたリヴァプールの試合では、被災地である日本に向けて、「You'll Never Walk Alone」とスローガンを掲げて歌いメッセージが送られた。
 
-著名人のサポーターには、[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーのうち、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")、[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")の3人(なお、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")はエヴァートンファンである)、[ダニエル・クレイグ](../Page/ダニエル・クレイグ.md "wikilink")(映画俳優、6代目[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")役)、[キャロライン・ウォズニアッキ](../Page/キャロライン・ウォズニアッキ.md "wikilink")(テニス選手)、[ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")(格闘家)、[ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")(女優)、アダム・ウッドイヤット(俳優)、[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")(女優)、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")(俳優)、[クライヴ・オーウェン](../Page/クライヴ・オーウェン.md "wikilink")(俳優)、[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")(ラッパー／音楽プロデューサー)、[ゲイリー・バーロウ](../Page/ゲイリー・バーロウ.md "wikilink")(歌手)、ジョン・ビショップ(コメディアン)、[キム・キャトラル](../Page/キム・キャトラル.md "wikilink")(女優)、[ラナ・デル・レイ](https://ja.wikipedia.org/wiki/ラナ・デル・レイ "wikilink")(歌手)、[レブロン・ジェームズ](../Page/レブロン・ジェームズ.md "wikilink")(バスケットボール選手)、[リーアム・ニーソン](../Page/リーアム・ニーソン.md "wikilink")(俳優)、[メラニー・チズム](https://ja.wikipedia.org/wiki/メラニー・チズム "wikilink")(歌手)、[マイク・マイヤーズ](../Page/マイク・マイヤーズ.md "wikilink")(俳優)、レベッカ・ファーガソン(歌手)、[スティーヴン・グレアム](https://ja.wikipedia.org/wiki/スティーヴン・グレアム "wikilink")(俳優)\[133\]、[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")ボーカルの河西洋介などがいる\[134\]。
+著名人のサポーターには、[ビートルズ](../Page/ビートルズ.md "wikilink")のメンバーのうち、[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")、[ジョージ・ハリスン](../Page/ジョージ・ハリスン.md "wikilink")、[リンゴ・スター](../Page/リンゴ・スター.md "wikilink")の3人(なお、[ポール・マッカートニー](../Page/ポール・マッカートニー.md "wikilink")はエヴァートンファンである)、[ダニエル・クレイグ](../Page/ダニエル・クレイグ.md "wikilink")(映画俳優、6代目[ジェームズ・ボンド](https://ja.wikipedia.org/wiki/ジェームズ・ボンド "wikilink")役)、[キャロライン・ウォズニアッキ](../Page/キャロライン・ウォズニアッキ.md "wikilink")(テニス選手)、[ダレン・ティル](https://ja.wikipedia.org/wiki/ダレン・ティル "wikilink")(格闘家)、[ミリー・ボビー・ブラウン](https://ja.wikipedia.org/wiki/ミリー・ボビー・ブラウン "wikilink")(女優)、アダム・ウッドイヤット(俳優)、[アンジェリーナ・ジョリー](../Page/アンジェリーナ・ジョリー.md "wikilink")(女優)、[ブラッド・ピット](../Page/ブラッド・ピット.md "wikilink")(俳優)、[クライヴ・オーウェン](../Page/クライヴ・オーウェン.md "wikilink")(俳優)、[ドクター・ドレー](../Page/ドクター・ドレー.md "wikilink")(ラッパー／音楽プロデューサー)、[ゲイリー・バーロウ](../Page/ゲイリー・バーロウ.md "wikilink")(歌手)、ジョン・ビショップ(コメディアン)、[キム・キャトラル](../Page/キム・キャトラル.md "wikilink")(女優)、[ラナ・デル・レイ](https://ja.wikipedia.org/wiki/ラナ・デル・レイ "wikilink")(歌手)、[レブロン・ジェームズ](../Page/レブロン・ジェームズ.md "wikilink")(バスケットボール選手)、[リーアム・ニーソン](../Page/リーアム・ニーソン.md "wikilink")(俳優)、[メラニー・チズム](https://ja.wikipedia.org/wiki/メラニー・チズム "wikilink")(歌手)、[マイク・マイヤーズ](../Page/マイク・マイヤーズ.md "wikilink")(俳優)、レベッカ・ファーガソン(歌手)、[スティーヴン・グレアム](https://ja.wikipedia.org/wiki/スティーヴン・グレアム "wikilink")(俳優)\[139\]、[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")ボーカルの河西洋介などがいる\[140\]。
 
 ## スポンサー
 
@@ -282,9 +286,9 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 </div>
 
-  - 2020年9月19日現在\[135\]
+  - 2020年9月28日現在\[141\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))  ([副主将](../Page/主将.md "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ☆       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kenya.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))     ☆  ☆  ☆  ☆   ☆
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))  ([副主将](../Page/主将.md "wikilink")) ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Gambia.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ☆      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kosovo.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Albania.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Kenya.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))     ☆  ☆  ☆  ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -304,7 +308,7 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 ### 出場試合数
 
-*公式戦に限る\[136\]\[137\]*
+*公式戦に限る\[142\]\[143\]*
 
 <table>
 <thead>
@@ -312,10 +316,10 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 <th><p>#</p></th>
 <th><p>名前</p></th>
 <th><p>期間</p></th>
-<th><p><a href="../Page/プレミアリーグ.md" title="wikilink">リーグ</a>[138]</p></th>
+<th><p><a href="../Page/プレミアリーグ.md" title="wikilink">リーグ</a>[144]</p></th>
 <th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
 <th><p><a href="../Page/EFLカップ.md" title="wikilink">リーグカップ</a></p></th>
-<th><p>その他[139]</p></th>
+<th><p>その他[145]</p></th>
 <th><p>合計</p></th>
 </tr>
 </thead>
@@ -436,7 +440,7 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 
 ### 得点
 
-*公式戦に限る*\[140\]\[141\]
+*公式戦に限る*\[146\]\[147\]
 
 <table>
 <thead>
@@ -444,10 +448,10 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 <th><p>#</p></th>
 <th><p>名前</p></th>
 <th><p>期間</p></th>
-<th><p>リーグ[142]</p></th>
+<th><p>リーグ[148]</p></th>
 <th><p><a href="../Page/FAカップ.md" title="wikilink">FAカップ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/フットボールリーグカップ" title="wikilink">リーグカップ</a></p></th>
-<th><p>その他[143]</p></th>
+<th><p>その他[149]</p></th>
 <th><p>合計</p></th>
 </tr>
 </thead>
@@ -753,26 +757,32 @@ FAコミュニティ・シールドのマンチェスター・シティ戦は1-1
 121.  Goal.com|url=[https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/liverpool-premierleague-record-20200626/1gljzq7j19rx01k0a4ftv5myoz|website=www.goal.com|accessdate=2020-06-27](https://www.goal.com/jp/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9/liverpool-premierleague-record-20200626/1gljzq7j19rx01k0a4ftv5myoz%7Cwebsite=www.goal.com%7Caccessdate=2020-06-27)}}
 122.
 123.
-124. 前身の[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")も含む
-125. [Goal.com - イングランド - キャラガー：「ただの勝ち点３じゃない」](http://jp.goal.com/jp/Articolo.aspx?ContenutoId=863063) (2008年9月14日),2009年2月1日閲覧
-126. [Goal.com - イングランド - ベニテス監督：「後半は最高のチームだった」](http://jp.goal.com/jp/articolo.aspx?contenutoid=862412) (2008年9月14日),2008年9月15日閲覧
-127. <http://upload.wikimedia.org/wikipedia/en/b/b2/Liverpool_FC_logo.png>
+124.
+125.
+126.
+127.
+128.
+129.
+130. 前身の[UEFAチャンピオンズカップ](https://ja.wikipedia.org/wiki/UEFAチャンピオンズカップ "wikilink")も含む
+131. [Goal.com - イングランド - キャラガー：「ただの勝ち点３じゃない」](http://jp.goal.com/jp/Articolo.aspx?ContenutoId=863063) (2008年9月14日),2009年2月1日閲覧
+132. [Goal.com - イングランド - ベニテス監督：「後半は最高のチームだった」](http://jp.goal.com/jp/articolo.aspx?contenutoid=862412) (2008年9月14日),2008年9月15日閲覧
+133. <http://upload.wikimedia.org/wikipedia/en/b/b2/Liverpool_FC_logo.png>
      リヴァプールFCのエンブレム,2008年8月26日閲覧
-128. [リバプール・フットボール・クラブについて〜歴史、エンブレム、ライバル関係〜](http://lfclab.jp/club/1597)
-129. [【豊福 晋の欧州蹴球日記】ヘイゼルの悲劇と20年後の対戦](http://www.ocn.ne.jp/sports/soccer/tpx/sc_0303.html)(2005年3月22日),2008年9月9日閲覧
-130. Inglis (2005)
-131. <http://www.liverweb.org.uk/melwood.htm> Liverweb,2008年10月7日閲覧
-132.
-133. [あのセレブはどこのサポーター？ 英紙選定各プレミアクラブの著名人ファン一覧](http://www.soccer-king.jp/news/world/eng/20150406/299463.html)soccerking 2015年4月6日
-134. ある時イングランド代表の試合を観ていて、スティーブン・ジェラードって選手がかっこいいなと思って。調べたら、ビートルズが生まれた街のクラブ・リバプールに所属していることが判明してそれからファンになりました。『SWITCH』VOL.35NO.2FEB.2017p.20より引用
-135.
-136. [LFC Records](http://www.liverpoolfc.tv/lfc_story/records/)  Liverpoolfc.tv,2008年9月13日閲覧
-     <http://www.lfchistory.net/stats.asp> LFChistory.net,2008年9月13日閲覧
-137. \[[http://www.lfchistory.net/\]LFChistory.net,2014年4月25日閲覧](http://www.lfchistory.net/%5DLFChistory.net,2014年4月25日閲覧)
-138. [Football Alliance](https://ja.wikipedia.org/wiki/:en:Football_Alliance "wikilink")、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")を含む
-139. [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")、[コミュニティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")、[インターコンチネンタルカップを含む](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")
-140.
+134. [リバプール・フットボール・クラブについて〜歴史、エンブレム、ライバル関係〜](http://lfclab.jp/club/1597)
+135. [【豊福 晋の欧州蹴球日記】ヘイゼルの悲劇と20年後の対戦](http://www.ocn.ne.jp/sports/soccer/tpx/sc_0303.html)(2005年3月22日),2008年9月9日閲覧
+136. Inglis (2005)
+137. <http://www.liverweb.org.uk/melwood.htm> Liverweb,2008年10月7日閲覧
+138.
+139. [あのセレブはどこのサポーター？ 英紙選定各プレミアクラブの著名人ファン一覧](http://www.soccer-king.jp/news/world/eng/20150406/299463.html)soccerking 2015年4月6日
+140. ある時イングランド代表の試合を観ていて、スティーブン・ジェラードって選手がかっこいいなと思って。調べたら、ビートルズが生まれた街のクラブ・リバプールに所属していることが判明してそれからファンになりました。『SWITCH』VOL.35NO.2FEB.2017p.20より引用
 141.
+142. [LFC Records](http://www.liverpoolfc.tv/lfc_story/records/)  Liverpoolfc.tv,2008年9月13日閲覧
+     <http://www.lfchistory.net/stats.asp> LFChistory.net,2008年9月13日閲覧
+143. \[[http://www.lfchistory.net/\]LFChistory.net,2014年4月25日閲覧](http://www.lfchistory.net/%5DLFChistory.net,2014年4月25日閲覧)
+144. [Football Alliance](https://ja.wikipedia.org/wiki/:en:Football_Alliance "wikilink")、[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")、[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")を含む
+145. [UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")、[UEFAカップ](https://ja.wikipedia.org/wiki/UEFAカップ "wikilink")、[UEFAカップウィナーズカップ](../Page/UEFAカップウィナーズカップ.md "wikilink")、[UEFAスーパーカップ](../Page/UEFAスーパーカップ.md "wikilink")、[コミュニティーシールド](https://ja.wikipedia.org/wiki/コミュニティーシールド "wikilink")、[インターコンチネンタルカップを含む](../Page/インターコンチネンタルカップ_\(サッカー\).md "wikilink")
+146.
+147.
      LFChistory.net,2008年9月12日閲覧
-142.
-143.
+148.
+149.

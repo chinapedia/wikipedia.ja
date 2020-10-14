@@ -1590,7 +1590,7 @@ Q符号を制定したのは[英国](https://ja.wikipedia.org/wiki/英国 "wikil
 
 <!-- end list -->
 
-  - QST
+  - [QST](https://ja.wikipedia.org/wiki/QST "wikilink")
 
 <!-- end list -->
 

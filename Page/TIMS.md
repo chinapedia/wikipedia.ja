@@ -162,6 +162,7 @@ TIMSの次世代システムとしては、列車内伝送系の国際規格ECN(
   - [鉄道車両のモニタ装置](../Page/鉄道車両のモニタ装置.md "wikilink")
   - [DICS](../Page/DICS.md "wikilink")
   - [INTEROS](https://ja.wikipedia.org/wiki/INTEROS "wikilink")
+  - [グラスコクピット](https://ja.wikipedia.org/wiki/グラスコクピット "wikilink")
 
 ## 外部リンク
 

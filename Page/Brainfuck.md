@@ -1,7 +1,7 @@
 > この記事は[Brainfuck](https://ja.wikipedia.org/wiki/Brainfuck)から翻訳されています。
 
 
-**Brainfuck**（ブレインファック）は[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")のひとつ。なお名称に[卑語](../Page/卑語.md "wikilink")が含まれるため、**Brainf\*ck**などと表記されることがある。
+**Brainfuck**（ブレインファック）は[難解プログラミング言語](https://ja.wikipedia.org/wiki/難解プログラミング言語 "wikilink")のひとつ。なお名称に[卑語](../Page/卑語.md "wikilink")が含まれるため、**Brainf\*ck** または **Brainf\*\*k**などと表記されることがある。
 
 ## 概要
 

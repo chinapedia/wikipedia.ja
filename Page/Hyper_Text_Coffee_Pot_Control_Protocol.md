@@ -3,7 +3,7 @@
 
 [Htcpcp_teapot.jpg](https://ja.wikipedia.org/wiki/File:Htcpcp_teapot.jpg "fig:Htcpcp_teapot.jpg") [HTCPCP_Pot.jpg](https://ja.wikipedia.org/wiki/File:HTCPCP_Pot.jpg "fig:HTCPCP_Pot.jpg")にくっつけた形でのHTCPCP-TEAの実装\]\] **Hyper Text Coffee Pot Control Protocol**（ハイパー・テキスト・コーヒーポット・コントロール・プロトコル、**HTCPCP**、**ハイパーテキスト・コーヒーポット制御プロトコル**）とは[HTTPの拡張で](../Page/Hypertext_Transfer_Protocol.md "wikilink")[コーヒーポットの制御](../Page/コーヒーメーカー.md "wikilink")、監視、診断を行うための[通信プロトコル](../Page/通信プロトコル.md "wikilink")である。[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")に発行された[RFCの](../Page/Request_for_Comments.md "wikilink")で規定されている\[1\]が、これは[エイプリルフール](https://ja.wikipedia.org/wiki/エイプリルフール "wikilink")恒例の[ジョークRFC](https://ja.wikipedia.org/wiki/ジョークRFC "wikilink")として公開されたものである\[2\]。
 
-[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")には、[紅茶](../Page/紅茶.md "wikilink")向けに拡張した**HTCPP-TEA**(Hyper Text Coffee Pot Control Protocol for Tea Efflux Appliances)がとして公開された\[3\]が、これもエイプリルフールのジョークRFCである。
+[2014年](../Page/2014年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")には、[紅茶](../Page/紅茶.md "wikilink")向けに拡張した**HTCPCP-TEA**(Hyper Text Coffee Pot Control Protocol for Tea Efflux Appliances)がとして公開された\[3\]が、これもエイプリルフールのジョークRFCである。
 
 ## 概要
 

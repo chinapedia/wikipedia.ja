@@ -1,13 +1,13 @@
 > この記事は[InterFM](https://ja.wikipedia.org/wiki/InterFM)から翻訳されています。
 
 
-**株式会社InterFM897**（インター・エフエム・はちきゅうなな、）は、[関東広域圏内の外国語放送実施地域](../Page/広域放送.md "wikilink")（[東京都区部](../Page/東京都区部.md "wikilink")、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")、[千葉市](../Page/千葉市.md "wikilink")、[横浜市](../Page/横浜市.md "wikilink")、[川崎市](../Page/川崎市.md "wikilink")、[成田国際空港](../Page/成田国際空港.md "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）の[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
+}}    **株式会社InterFM897**（インター・エフエム・はちきゅうなな、）は、[関東広域圏内の外国語放送実施地域](../Page/広域放送.md "wikilink")（[東京都区部](../Page/東京都区部.md "wikilink")、[さいたま市](https://ja.wikipedia.org/wiki/さいたま市 "wikilink")、[千葉市](../Page/千葉市.md "wikilink")、[横浜市](../Page/横浜市.md "wikilink")、[川崎市](../Page/川崎市.md "wikilink")、[成田国際空港](../Page/成田国際空港.md "wikilink")）を[放送対象地域](../Page/放送対象地域.md "wikilink")とする[超短波放送](../Page/超短波放送.md "wikilink")（FM放送）の[特定地上基幹放送事業者](https://ja.wikipedia.org/wiki/特定地上基幹放送事業者 "wikilink")である。
 
 [外国語放送](../Page/外国語放送.md "wikilink")の全国ネットワークである「メガロポリス・レディオ・ネットワーク（愛称：[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")（メガネット）」の[キー局](../Page/キー局.md "wikilink")。また[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）の特別加盟局である\[1\]。
 
-旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/識別信号#識別信号 "wikilink")-FM。
+旧商号は**エフエムインターウェーブ株式会社**（FM Inter-Wave Inc.）。[キャッチコピー](../Page/キャッチコピー.md "wikilink")は「**The Real Music Station**」。[コールサインはJODW](https://ja.wikipedia.org/wiki/日本の放送局所の呼出符号#JO＊W "wikilink")-FM\]\]。
 
-本記事では、主に法人としての株式会社InterFM897、および関東広域圏の[放送局](../Page/放送局.md "wikilink")としての「**InterFM897**」（インター・エフエム・はちきゅうなな）について記述する。[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）[4月1日](../Page/4月1日.md "wikilink")開局し、[2016年](../Page/2016年.md "wikilink")（平成28年）11月まで同社で運営していた[中京広域圏の放送局としての](../Page/広域放送.md "wikilink")[「InterFM NAGOYA」→「**Radio NEO**」については当該記事を参照](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")。
+本記事では、主に法人としての株式会社InterFM897、および関東広域圏の[放送局](../Page/放送局.md "wikilink")としての「**InterFM897**」（インター・エフエム・はちきゅうなな）について記述する。[2014年](../Page/2014年.md "wikilink")（[平成](../Page/平成.md "wikilink")26年）[4月1日](../Page/4月1日.md "wikilink")開局し、[2016年](../Page/2016年.md "wikilink")（平成28年）11月まで同社で運営していた[中京広域圏の放送局としての](../Page/広域放送.md "wikilink")「InterFM NAGOYA」→「**[Radio NEO](https://ja.wikipedia.org/wiki/Radio_NEO "wikilink")**」については当該記事を参照。
 
 ## 概要
 
@@ -17,11 +17,11 @@
 
 局舎を港区芝浦の「ジャパンタイムズ・ニフコビル」に置き、愛称は「InterFM」、コンセプトを「Tokyo's No.1 Music Station」と、平常時は[音楽](../Page/音楽.md "wikilink")中心の[放送局](../Page/放送局.md "wikilink")と定めた。しかし、開局以降、首都圏での聴取率調査は万年最下位と振るわない。さらに、バブル経済崩壊による長期不況の中での開局であったため、売り上げが思い通りに上げられなかった。関東では最後に開局したラジオ局である事、東京タワーの送信アンテナの位置が低い為に[広域放送](../Page/広域放送.md "wikilink")でありながら他局に比べて受信範囲が狭い、と不利な要素を持つ。開局から10年目に当たる[2006年](../Page/2006年.md "wikilink")（平成18年）辺りから、機器の更新やスタジオ移転を行い、音質が改善されている。
 
-不況の影響が続き、経営が好転しない中、2006年（平成18年）にニフコ並びにジャパンタイムズが[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の関連会社である[テレビ東京ブロードバンド](https://ja.wikipedia.org/wiki/テレビ東京ブロードバンド "wikilink")に[株式](../Page/株式.md "wikilink")を売却、[筆頭株主となり代わりにニフコ](../Page/株主.md "wikilink")・ジャパンタイムズは経営から撤退する。2006年（平成18年）から徐々に「ジャパンタイムズ・ニフコビル」からテレビ東京に程近い港区虎ノ門に機能を移転。[2009年](../Page/2009年.md "wikilink")（平成21年）2月には、テレビ東京ブロードバンドがニフコから残る持株すべてを譲受、連結子会社化していたが、同年3月には保有する全株式をテレビ東京に譲渡、InterFMはテレビ東京の連結子会社となった\[2\]。さらに同年6月にはテレビ東京が[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")、[エフエム東京](../Page/エフエム東京.md "wikilink")など、残りの株主からも保有する全株式を追加取得すると共に、InterFMが行う[第三者割当増資にも応じる事を発表](../Page/募集株式.md "wikilink")\[3\]。同年7月にテレビ東京が株式の追加取得と第三者割当増資に成功し、テレビ東京の完全子会社になった事を発表\[4\]。同年[9月14日](../Page/9月14日.md "wikilink")、[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")7階に本社機能を移転した。
+不況の影響が続き、経営が好転しない中、2006年（平成18年）にニフコ並びにジャパンタイムズが[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")の関連会社である[テレビ東京ブロードバンド](https://ja.wikipedia.org/wiki/テレビ東京ブロードバンド "wikilink")に[株式](../Page/株式.md "wikilink")を売却、[筆頭株主となり代わりにニフコ](../Page/株主.md "wikilink")・ジャパンタイムズは経営から撤退する。2006年（平成18年）から徐々に「ジャパンタイムズ・ニフコビル」からテレビ東京に程近い港区虎ノ門に機能を移転。[2009年](../Page/2009年.md "wikilink")（平成21年）2月には、テレビ東京ブロードバンドがニフコから残る持株すべてを譲受、連結子会社化していたが、同年3月には保有する全株式をテレビ東京に譲渡、InterFMはテレビ東京の連結子会社となった\[2\]。さらに同年6月にはテレビ東京が[大和証券グループ本社](../Page/大和証券グループ本社.md "wikilink")、[エフエム東京](../Page/エフエム東京.md "wikilink")など、残りの株主からも保有する全株式を追加取得すると共に、InterFMが行う[第三者割当増資](../Page/第三者割当増資.md "wikilink")にも応じる事を発表\[3\]。同年7月にテレビ東京が株式の追加取得と第三者割当増資に成功し、テレビ東京の完全子会社になった事を発表\[4\]。同年[9月14日](../Page/9月14日.md "wikilink")、[テレビ東京天王洲スタジオ](../Page/テレビ東京天王洲スタジオ.md "wikilink")7階に本社機能を移転した。
 
 [2012年](../Page/2012年.md "wikilink")（平成24年）[6月20日](../Page/6月20日.md "wikilink")に当時の完全親会社であったテレビ東京が、テレビ放送事業への経営資源集中を目的に株式の90%を譲渡し、InterFMは[木下工務店](https://ja.wikipedia.org/wiki/木下工務店 "wikilink")完全子会社のキノシタ・マネージメントの子会社になった\[5\]\[6\]。後に[2013年](../Page/2013年.md "wikilink")（平成25年）[10月25日](../Page/10月25日.md "wikilink")の総務省の公表により、木下ホールディングス（現[木下グループ](https://ja.wikipedia.org/wiki/木下グループ "wikilink")）が全株式を追加取得し、完全子会社化していることが判明している\[7\]。
 
-[2020年](../Page/2020年.md "wikilink")（令和2年）[9月1日](../Page/9月1日.md "wikilink")、エフエム東京の関連会社で[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）への番組供給を行う制作会社、[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）が木下グループの保有する発行済み全株式を取得したと発表した。これによりInterFMはJFNCの完全子会社となり、あわせてJFNC代表取締役社長の飯塚基弘がInterFMの代表取締役会長に就任、またInterFMはJFNの特別加盟局となった事も発表された\[8\]。
+[2020年](../Page/2020年.md "wikilink")（令和2年）[9月1日](../Page/9月1日.md "wikilink")、エフエム東京の関連会社で[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）への番組供給を行う制作会社、[ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（JFNC）が木下グループの保有する発行済み全株式を取得したと発表した。これによりInterFMはJFNCの完全子会社となり、あわせてJFNC[代表取締役](../Page/代表取締役.md "wikilink")[社長](../Page/社長.md "wikilink")の[飯塚基弘](https://ja.wikipedia.org/wiki/飯塚基弘 "wikilink")がInterFMの代表取締役[会長](../Page/会長.md "wikilink")に就任、またInterFMはJFNの特別加盟局となった事も発表された\[8\]。
 
 ### 外国語放送局として
 
@@ -55,7 +55,7 @@
 
 ### 周波数の変更
 
-[2015年](../Page/2015年.md "wikilink")（平成27年）6月30日、周波数を開局当初から使用していた76.1MHzから89.7MHz\[15\]\[16\]に変更。10月31日までは76.1MHzとの並列放送を実施し11月1日より正式に89.7MHzに一本化した\[17\]。これは、ビル・マンションの高層化や家電製品の影響による「都市型難聴取対策」と、[2011年](../Page/2011年.md "wikilink")（平成23年）のアナログテレビ放送終了により、これまでアナログテレビVHF1ch～3ch\[18\]の影響により、電波干渉（混信）の観点から「ガードバンド」とされた86.0MHz～90.0MHzの領域の使用解禁が認められたことを受けて、従来より送信塔の位置を高くし、かつ周波数を変更して受信改善に努めることを目的としている\[19\]。
+[2015年](../Page/2015年.md "wikilink")（平成27年）6月30日、[周波数](../Page/周波数.md "wikilink")を開局当初から使用していた76.1[MHzから](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")89.7MHz\[15\]\[16\]に変更。10月31日までは76.1MHzとの並列放送を実施し11月1日より正式に89.7MHzに1本化した\[17\]。これは、ビル・マンションの高層化や家電製品の影響による「都市型難聴取対策」と、[2011年](../Page/2011年.md "wikilink")（平成23年）のアナログテレビ放送終了により、これまでアナログテレビ[VHF](../Page/超短波.md "wikilink")1[ch](../Page/チャンネル_\(テレビ放送\).md "wikilink")～3ch\[18\]の影響により、電波干渉（混信）の観点から「ガードバンド」とされた86.0MHz～90.0MHzの領域の使用解禁が認められたことを受けて、従来より送信塔の位置を高くし、かつ周波数を変更して受信改善に努めることを目的としている\[19\]。
 
 旧周波数（76.1MHz）は、北関東地域の県域局やコミュニティFM局の混信問題が起きていた\[20\]。また、日本と外国ではFMの周波数割当が異なり\[21\]、持ち込まれたラジオ受信機では受信できないという問題もあった\[22\]。
 
@@ -65,7 +65,7 @@
 
 [InterFM_Nagoya_Branch_20131209.JPG](https://ja.wikipedia.org/wiki/File:InterFM_Nagoya_Branch_20131209.JPG "fig:InterFM_Nagoya_Branch_20131209.JPG") 2012年（平成24年）[10月30日](../Page/10月30日.md "wikilink")、名古屋エリアに2014年（平成26年）春に[MegaNet](https://ja.wikipedia.org/wiki/MegaNet "wikilink")の新局を立ち上げる構想を発表した。MegaNet（外国語放送局の全国ネット）の活性化を狙うとしている\[27\]。
 
-2013年（平成25年）[8月6日](../Page/8月6日.md "wikilink")に[総務省](../Page/総務省.md "wikilink")はInterFMが免許を申請したことを公表\[28\]、[10月25日](../Page/10月25日.md "wikilink")には11月1日付で予備免許を与える予定であることを発表\[29\]、11月1日付で総務大臣から無線局予備免許通知書の交付を公表した。呼出名称は**エフエムインターウェーブなごや**、ステーション名は**InterFM NAGOYA**\[30\]\[31\]、コールサインは**JOCW-FM**で、周波数は**79.5MHz**、出力は**5kW**（[ERP](https://ja.wikipedia.org/wiki/実効放射電力 "wikilink") 18kW）で、周波数は既に閉局した同一目的の放送局[RADIO-i](../Page/愛知国際放送.md "wikilink")（愛知国際放送）と同じである。送信所は[名古屋市](../Page/名古屋市.md "wikilink")[昭和区](../Page/昭和区.md "wikilink")\[32\]。また演奏所は同じ市内の[瑞穂区](../Page/瑞穂区.md "wikilink")に設置された同社の名古屋支社に置かれる。放送区域は愛知県[名古屋市](../Page/名古屋市.md "wikilink")・[瀬戸市](../Page/瀬戸市.md "wikilink")・[常滑市](../Page/常滑市.md "wikilink")・[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")・[岡崎市](../Page/岡崎市.md "wikilink")・[豊橋市](../Page/豊橋市.md "wikilink")を含む[中京圏](../Page/中京圏.md "wikilink")地域\[33\]\[34\]となっており、RADIO-iでは放送区域であった[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")は含まれていない。放送形態は東京本局との同時放送と名古屋支局独自放送の混成を予定している。
+2013年（平成25年）[8月6日](../Page/8月6日.md "wikilink")に[総務省](../Page/総務省.md "wikilink")はInterFMが免許を申請したことを公表\[28\]、[10月25日](../Page/10月25日.md "wikilink")には11月1日付で[予備免許](../Page/予備免許.md "wikilink")を与える予定であることを発表\[29\]、11月1日付で総務大臣から無線局予備免許通知書の交付を公表した。呼出名称は**エフエムインターウェーブなごや**、ステーション名は**InterFM NAGOYA**\[30\]\[31\]、コールサインは**JOCW-FM**で、周波数は**79.5MHz**、[空中線電力](../Page/空中線電力.md "wikilink")は**5[k](../Page/キロ.md "wikilink")[W](../Page/ワット.md "wikilink")**（[実効輻射電力](https://ja.wikipedia.org/wiki/実効輻射電力 "wikilink") 18kW）で、周波数は既に閉局した同一目的の放送局[RADIO-i](../Page/愛知国際放送.md "wikilink")（愛知国際放送）と同じである。送信所は[名古屋市](../Page/名古屋市.md "wikilink")[昭和区](../Page/昭和区.md "wikilink")\[32\]。また演奏所は同じ市内の[瑞穂区](../Page/瑞穂区.md "wikilink")に設置された同社の名古屋支社に置かれる。放送区域は愛知県[名古屋市](../Page/名古屋市.md "wikilink")・[瀬戸市](../Page/瀬戸市.md "wikilink")・[常滑市](../Page/常滑市.md "wikilink")・[豊田市](https://ja.wikipedia.org/wiki/豊田市 "wikilink")・[岡崎市](../Page/岡崎市.md "wikilink")・[豊橋市](../Page/豊橋市.md "wikilink")を含む[中京圏](../Page/中京圏.md "wikilink")地域\[33\]\[34\]となっており、RADIO-iでは放送区域であった[浜松市](https://ja.wikipedia.org/wiki/浜松市 "wikilink")は含まれていない。放送形態は東京本局との同時放送と名古屋支局独自放送の混成を予定している。
 
 [試験放送](../Page/試験放送.md "wikilink")は[3月3日](../Page/3月3日.md "wikilink")より電波発射を開始され、[3月20日](../Page/3月20日.md "wikilink")に総務省から名古屋地区における外国語超短波放送の免許が付与されたことに伴い[サービス放送](../Page/サービス放送.md "wikilink")を翌3月21日7時に開始。[4月1日](../Page/4月1日.md "wikilink")7時に開局。なお、現時点で東三河地区（豊橋）などの送信所設置については発表されていないが、「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink").jp」への対応については、2015年7月30日から愛知県・岐阜県・三重県を配信対象地域として開始するとともに、「radiko.jpプレミアム（エリアフリー聴取）」で日本全国に有料配信されている\[35\]。
 
@@ -167,7 +167,7 @@
 ## 沿革
 
   - [1996年](../Page/1996年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") - 民放FMでは全国47番目、東京で3番目に開局。放送周波数は76.1MHzであった\[41\]。
-  - [2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ニフコ保有の普通株式約38%、ジャパンタイムズの保有株全てをテレビ東京ブロードバンドに譲渡、テレビ東京ブロードバンドの持分法適用関連会社となる。
+  - [2006年](../Page/2006年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - ニフコ保有の普通株式約38[%](../Page/パーセント.md "wikilink")、ジャパンタイムズの保有株全てをテレビ東京ブロードバンドに譲渡、テレビ東京ブロードバンドの持分法適用関連会社となる。
   - [2009年](../Page/2009年.md "wikilink")
       - [2月18日](../Page/2月18日.md "wikilink") - ニフコ保有の普通株式・優先株式全てをテレビ東京ブロードバンドに譲渡。優先株式を普通株式に転換し、テレビ東京ブロードバンドの連結子会社となる。
       - [3月18日](../Page/3月18日.md "wikilink") - テレビ東京ブロードバンドが保有する全株式をテレビ東京に譲渡、テレビ東京の連結子会社となる。
@@ -208,13 +208,15 @@
 
 ## 放送局データ
 
+  - 出典\[59\]
+
 <table>
 <thead>
 <tr class="header">
-<th><p>親局</p></th>
-<th><p>周波数</p></th>
-<th><p>空中線電力</p></th>
-<th><p>ERP</p></th>
+<th><p><a href="../Page/親局.md" title="wikilink">親局</a></p></th>
+<th><p><a href="../Page/周波数.md" title="wikilink">周波数</a></p></th>
+<th><p><a href="../Page/空中線電力.md" title="wikilink">空中線電力</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/実効輻射電力" title="wikilink">実効輻射電力</a></p></th>
 <th><p>送信所概要<br />
 （技術情報）</p></th>
 <th><p>備考</p></th>
@@ -222,28 +224,28 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/東京タワー" title="wikilink">東京</a></p></td>
-<td><p>89.7MHz[59]</p></td>
-<td><p>10kW</p></td>
-<td><p>13kW[60][61]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/東京タワー" title="wikilink">東京</a>[60]</p></td>
+<td><p>89.7<a href="https://ja.wikipedia.org/wiki/メガヘルツ" title="wikilink">MHz</a>[61]</p></td>
+<td><p>10<a href="../Page/キロ.md" title="wikilink">k</a><a href="../Page/ワット.md" title="wikilink">W</a></p></td>
+<td><p>13kW[62]</p></td>
 <td><ul>
 <li>送信柱 - 日本電波塔（東京タワー）。<br />
-旧送信空中線は地上高165mに位置していた<br />
-（新周波数での地上高は2015年11月現在不明。以下基本データも同様）。</li>
+旧送信空中線は地上高165<a href="../Page/メートル.md" title="wikilink">mに位置していた</a><br />
+（新周波数での地上高は{{#time:Y年Md日H時i分|+9 hours}}現在不明。以下基本データも同様）。</li>
 <li>送信空中線 - 2L双ループ1段4面（施工<a href="https://ja.wikipedia.org/wiki/古河電工" title="wikilink">古河電工</a>）。</li>
 <li>放送機 - FBN-15K055SS（<a href="../Page/日本電気.md" title="wikilink">NEC</a>）×2、5kWを2台並列合成して10kW。</li>
 <li>東京タワーまでの中継回線 - ビル障害により、演奏所から見通せないため、<br />
 電波ルートは設置出来ず。<br />
-そのため<a href="../Page/光ケーブル.md" title="wikilink">光ケーブル</a>による<a href="https://ja.wikipedia.org/wiki/NTT東日本" title="wikilink">NTT東日本</a>256kbpsデジタル回線と、<br />
+そのため<a href="../Page/光ケーブル.md" title="wikilink">光ケーブル</a>による<a href="https://ja.wikipedia.org/wiki/NTT東日本" title="wikilink">NTT東日本</a>256k<a href="../Page/ビット毎秒.md" title="wikilink">bpsデジタル回線と</a>、<br />
 <a href="../Page/KDDI.md" title="wikilink">KDDI</a>（旧<a href="../Page/パワードコム.md" title="wikilink">パワードコム</a>）384kbpsにて番組伝送。<br />
 コーデックはAPT社製を使用。</li>
-<li>高圧受配電 - 3300V、200Vと100V、75kVA、2回線受電（精電舎）。</li>
+<li>高圧受配電 - 3300<a href="../Page/ボルト.md" title="wikilink">V</a>、200Vと100V、75k<a href="https://ja.wikipedia.org/wiki/ボルトアンペア" title="wikilink">VA</a>、2回線受電（精電舎）。</li>
 <li>非常用電源 - 自家発電装置1000kVA。</li>
 </ul></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>中継局</p></td>
+<td><p><a href="../Page/中継局.md" title="wikilink">中継局</a></p></td>
 <td><p>周波数</p></td>
 <td><p>空中線電力</p></td>
 <td><p>実効輻射電力</p></td>
@@ -258,8 +260,8 @@
 <td><p>3.7kW</p></td>
 <td><ul>
 <li>送信柱 - 150m四角鉄塔（<a href="../Page/鶴見区_(横浜市).md" title="wikilink">鶴見区三ツ池公園</a>、<a href="../Page/テレビ神奈川.md" title="wikilink">tvk送信鉄塔</a>）。</li>
-<li>送信空中線 - 2L双ループ4段2面、RADIO BEERY宇都宮親局妨害阻止目的の<br />
-キャンセリングアンテナは、5エレメント<a href="../Page/八木・宇田アンテナ.md" title="wikilink">八木・宇田アンテナ</a>、2段<a href="../Page/スタック_(曖昧さ回避).md" title="wikilink">スタック</a>1面。</li>
+<li>送信空中線 - 2L双ループ4段2面、<a href="https://ja.wikipedia.org/wiki/エフエム栃木" title="wikilink">RADIO BEERY</a><a href="https://ja.wikipedia.org/wiki/羽黒山_(栃木県)#放送送信施設" title="wikilink">宇都宮親局妨害阻止目的の</a><br />
+キャンセリングアンテナは、5<a href="https://ja.wikipedia.org/wiki/エレメント" title="wikilink">エレメント</a><a href="../Page/八木・宇田アンテナ.md" title="wikilink">八木・宇田アンテナ</a>、2段<a href="../Page/スタック_(曖昧さ回避).md" title="wikilink">スタック</a>1面。</li>
 <li>送信機 - RV-33TSAT（<a href="../Page/東芝.md" title="wikilink">東芝</a>）。</li>
 <li>中継回線 - 親局を、5エレメント八木・宇田アンテナ2段1面にてエア受け。</li>
 <li>送信局舎 - 鉄筋コンクリート1階7m×5m（tvkと共有）。</li>
@@ -270,14 +272,14 @@
 </tbody>
 </table>
 
-  - 放送時間 - 5:00を1日の基点とした24時間放送。なお、毎週日曜の深夜 - 月曜未明に関しては2:00 - 5:00を休止時間としているが、放送終了時（2:00）のクロージングアナウンス（60"）のあと[停波](../Page/停波.md "wikilink")（場合によっては試験電波の発射）。その後4:50から再び電波を発射する。4:58.40からはオープニングアナウンス（60"）。4:59.40からは時報。『Mother Earth Radio』（日曜深夜=月曜未明 2:00 - 3:00）がスタートする前までは、2:00にクロージングがあった。『AKATUKI-J9』（日曜深夜=月曜未明 2:00 - 4:00）のあった時は、毎週日曜深夜=月曜未明 4:00 - 5:00の間に放送終了後、試験電波を発射。ない時は2:00 - 5:00の間、放送機器のメンテナンスのため休止。
+  - 放送時間 - 5:00を1日の基点とした24時間放送。なお、毎週日曜の深夜 - 月曜未明に関しては2:00 - 5:00を休止時間としているが、放送終了時（2:00）のクロージングアナウンス（60"）のあと[停波](../Page/停波.md "wikilink")（場合によっては試験電波の発射）。その後4:50から再び電波を発射する。4:58.40からはオープニングアナウンス（60"）。4:59.40からは時報。『Mother Earth Radio』（日曜深夜=月曜未明 2:00 - 3:00）がスタートする前までは、2:00にクロージングがあった。『AKATSUKI-J9』（日曜深夜=月曜未明 2:00 - 4:00）のあった時は、毎週日曜深夜=月曜未明 4:00 - 5:00の間に放送終了後、試験電波を発射。ない時は2:00 - 5:00の間、放送機器のメンテナンスのため休止。
   - [東京タワー](https://ja.wikipedia.org/wiki/東京タワー "wikilink")から[TOKYO FMと同一出力で送信しているが](../Page/エフエム東京.md "wikilink")、後発局であることと放送対象地域の違いにより送信[アンテナ](../Page/アンテナ.md "wikilink")の高さがTOKYO FMより低い上、ERPもTOKYO FMの約10分の1である。そのため東京タワー単独では受信範囲が狭く、放送対象地域の横浜市に中継局を設置している。
 
 ## 主な番組
 
-### Weekday
+{{\#time:Y年Md日H時i分|+9 hours}}現在。
 
-2020年9月現在。
+### Weekday
 
   - \[O\]印はJFN・他局・他社制作番組。
   - \[T\]印は時報挿入番組。
@@ -315,15 +317,19 @@
 </tr>
 <tr class="odd">
 <td><p>7</p></td>
-<td><p>7:00 [T] <strong><a href="https://ja.wikipedia.org/wiki/THE_GUY_PERRYMAN_SHOW" title="wikilink">THE GUY PERRYMAN SHOW</a></strong> - <a href="https://ja.wikipedia.org/wiki/ガイ・ペリマン" title="wikilink">Guy Perryman</a>、<a href="https://ja.wikipedia.org/wiki/渡辺麻耶" title="wikilink">渡辺麻耶</a>（8～11時台のみ）<br />
+<td><p>7:00 <strong><a href="https://ja.wikipedia.org/wiki/THE_GUY_PERRYMAN_SHOW" title="wikilink">THE GUY PERRYMAN SHOW</a></strong> - <a href="https://ja.wikipedia.org/wiki/ガイ・ペリマン" title="wikilink">Guy Perryman</a>、<a href="https://ja.wikipedia.org/wiki/渡辺麻耶" title="wikilink">渡辺麻耶</a>（8～10時台のみ）<br />
+▽8:30 - 8:45 HOKTO presents TOKYO NEW SUNRISE（木）<br />
 ▽8:52 - 9:00 New Fire</p></td>
 <td><p>- 石倉ノア<br />
-▽10:00 Causette.Joli presents Radio Beauté（第２月曜）<br />
+▽9:30 - 9:45 牛乳石鹸 presents #STAY_OFURO - 石倉ノア<br />
+▽10:00 Causette.Joli presents Radio Beauté（第2月曜）<br />
 ▽10:44 [O] サッチの太鼓判！健康ショッピング - 有阪幸代、<a href="../Page/佐藤健一_(ラジオパーソナリティー).md" title="wikilink">佐藤健一</a>（月）<br />
 ▽10:44 [O] BUY NOW - <a href="../Page/竹内都子.md" title="wikilink">竹内都子</a>、<a href="https://ja.wikipedia.org/wiki/ねづっち" title="wikilink">ねづっち</a>（火）<br />
 ▽10:44 [O] 今旬！いいもの百貨店 - 竹矢宣子（水）</p></td>
-<td></td>
-<td></td>
+<td><p>7:00 [T] <strong>THE GUY PERRYMAN SHOW</strong> - Guy Perryman<br />
+▽8:52 - 9:00 New Fire</p></td>
+<td><p>- 石倉ノア<br />
+▽9:30 - 9:45 牛乳石鹸 presents #STAY_OFURO</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -353,16 +359,18 @@
 <tr class="odd">
 <td><p>11</p></td>
 <td><p>11:00 <strong>Brunch Mixtape</strong><br />
+▽10/19 - 11/13 ザ・コールマンズ TO・MO・SO RADIO！ - MC RYU</p></td>
+<td><p>11:00 <strong>Brunch Mixtape</strong><br />
 ▽12:51 New Fire</p></td>
 <td><p>- 石倉ノア</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>12</p></td>
-<td></td>
-<td></td>
+<td><p>12:00 <strong>BRUNCH MIXTAPE Produced By BEAMS RECORDS</strong><br />
+▽12:51 New Fire</p></td>
+<td><p>- 石倉ノア</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -396,7 +404,6 @@
 <td><p>16</p></td>
 <td><p>16:00 <strong><a href="https://ja.wikipedia.org/wiki/The_Dave_Fromm_Show" title="wikilink">The Dave Fromm Show</a></strong> - <a href="https://ja.wikipedia.org/wiki/DAVE_FROMM" title="wikilink">Dave Fromm</a>、<a href="https://ja.wikipedia.org/wiki/ジョー横溝" title="wikilink">ジョー横溝</a>（月）、古川タロヲ（火）<br />
 ▽16:30 嘉衛門 presents The Road~Take The One Less Traveled~（金）<br />
-▽17:40 - 17:56 BEAMS TOKYO CULTURE STORY - 土井地博（<a href="https://ja.wikipedia.org/wiki/BEAMS" title="wikilink">BEAMS</a>）<br />
 ▽17:56 - 18:00 MINATO VOICE<br />
 ▽18:36 - 18:51 HANAE JAPAN presentsFlower's YELL - 藤川靖彦（金）<br />
 ▽18:51 New Fire</p></td>
@@ -431,7 +438,7 @@
 </tr>
 <tr class="even">
 <td><p>20</p></td>
-<td><p>20:00 <strong>SONIC RADIO</strong> - <a href="https://ja.wikipedia.org/wiki/シャウラ_(モデル)" title="wikilink">Shaula</a></p></td>
+<td><p>20:00 <strong>InterFM897 Hotpicks Playlist</strong></p></td>
 <td><p>20:00 <strong>Mint Juice Radio</strong></p></td>
 <td><p>20:00 <strong>100byRADIO -ARTIST NEEDS-</strong></p></td>
 <td><p>20:00 <strong>TOKYO MUSIC SHOW</strong></p></td>
@@ -447,7 +454,7 @@
 </tr>
 <tr class="even">
 <td><p>21</p></td>
-<td><p>21:00 <strong>Kenrocks Nite - Ver.2</strong></p></td>
+<td><p>21:00 <strong>Kenrocks Nite - Ver.2 - <a href="../Page/大貫憲章.md" title="wikilink">大貫憲章</a>、MARTIN-KINOO、はせはじむ</strong></p></td>
 <td><p>21:00 <strong>Party Radio Japan</strong></p></td>
 <td><p>21:00 <strong>Love On Music</strong></p></td>
 <td><p>21:00 <strong>Tokyo Moon</strong></p></td>
@@ -458,12 +465,12 @@
 <td><p>22:00 <strong>rock field 897</strong></p></td>
 <td><p>22:00 <strong>アソビラヂヲ</strong></p></td>
 <td><p>22:00 <strong>SPEEDSTAR MUSIC presents「あしたは木曜日」</strong></p></td>
-<td><p>22:00 <strong>佐藤満春のジャマしないラジオ</strong></p></td>
+<td><p>22:00 <strong><a href="../Page/佐藤満春のジャマしないラジオ.md" title="wikilink">佐藤満春のジャマしないラジオ</a></strong></p></td>
 <td><p>22:00 <strong>JOHNNIE WALKER presents WALKER'S CLUB H</strong></p></td>
 </tr>
 <tr class="even">
 <td><p>22:30 <strong>Human Nature Gift</strong></p></td>
-<td><p>22:30 <strong>TOKYO SCENE avec RJHH</strong></p></td>
+<td><p>22:30 <strong>Tokyo Scene X FRENCH CONNECTION</strong> - ロルーア絵美子</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -473,16 +480,16 @@
 <td><p>23</p></td>
 <td><p>23:00 <strong>DIALOGUE＋ONLINE</strong></p></td>
 <td><p>23:00 <strong>ラックライフ PON の週刊ぽんすぽん！ season 2</strong></p></td>
-<td><p>23:00 <strong>岸本鮎佳＆渋江譲二「艶っぽい夜」</strong></p></td>
-<td><p>23:00 <strong>SLICE OF SEKAI</strong></p></td>
+<td><p>23:00 <strong>T.B.A.</strong></p></td>
+<td><p>23:00 <strong>T.B.A.</strong></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>0</p></td>
-<td><p>0:00 <strong>KAWAII MUSIC presents とびきり！Buzz Music</strong></p></td>
+<td><p>0:00 <strong>KAWAII MUSIC presents とびきり!Buzz Music</strong></p></td>
 <td><p>0:00 <strong>Midnight Slider</strong></p></td>
-<td><p>24:00 <strong>George's Melting Pot</strong> - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
-<td></td>
+<td><p>0:00 <strong>岸本鮎佳＆渋江譲二「艶っぽい夜」</strong> - <a href="https://ja.wikipedia.org/wiki/岸本鮎佳" title="wikilink">岸本鮎佳</a>、<a href="../Page/渋江譲二.md" title="wikilink">渋江譲二</a></p></td>
+<td><p>0:00 <strong>GLIM SPANKY RADIO Midnight Nation</strong> - <a href="https://ja.wikipedia.org/wiki/GLIM_SPANKY" title="wikilink">GLIM SPANKY</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -497,13 +504,13 @@
 <td><p>1</p></td>
 <td><p>1:00 <strong>VTuber music DJ's #VMDJ</strong></p></td>
 <td><p>1:00 <strong>Music Travelers' Session</strong></p></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>1:00 <strong>SLICE OF SEKAI</strong> - <a href="https://ja.wikipedia.org/wiki/cadode" title="wikilink">cadode</a></p></td>
+<td><p>1:00 '''[[Ready_Steady_George</p></td>
+<td><p>#George's_Melting_Pot|George's Melting Pot]]''' - <a href="../Page/ジョージ・ウィリアムズ_(タレント).md" title="wikilink">George Williams</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1:30 <strong>二宮愛の「もっと身近にMUSICAL」</strong></p></td>
-<td></td>
+<td><p>1:30 <strong>koboreのHEBEREKE RADIO</strong> - 佐藤赳、田中そら（<a href="https://ja.wikipedia.org/wiki/kobore" title="wikilink">kobore</a>）</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -512,20 +519,28 @@
 <tr class="even">
 <td><p>2</p></td>
 <td><p>2:00 <strong>たかぴぃのクリエイターズ ミッドナイト</strong></p></td>
-<td><p>2:00 <strong>THE GOOD MIXER</strong>（水・木・金）</p></td>
-<td></td>
+<td><p>2:00 <strong>THE GOOD MIXER</strong></p></td>
+<td><p>2:00 <strong>Music Travelers' Session</strong> - EIKO+ERIKO</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>3</p></td>
-<td><p>3:00 <strong>THE GOOD MIXER</strong>（月・火）</p></td>
+<td><p>2:30 <strong>二宮愛の「もっと身近にMUSICAL」</strong> - <a href="https://ja.wikipedia.org/wiki/二宮愛" title="wikilink">二宮愛</a></p></td>
+<td></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+<td><p>3:00 <strong>THE GOOD MIXER</strong></p></td>
+<td><p>3:00 <strong>THE GOOD MIXER</strong></p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>4</p></td>
 <td></td>
 <td></td>
@@ -533,7 +548,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -545,8 +560,6 @@
 </table>
 
 ### Weekend
-
-2020年9月現在。
 
 <table>
 <thead>
@@ -617,7 +630,7 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>14:30 <strong>Weekend Mixtape</strong></p></td>
+<td><p>14:30 <strong>BEAMS TOKYO CULTURE STORY</strong> - 土井地博（<a href="https://ja.wikipedia.org/wiki/BEAMS" title="wikilink">BEAMS</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -692,21 +705,26 @@
 <td><p>1:00 <strong><a href="https://ja.wikipedia.org/wiki/Daisy_Holiday" title="wikilink">Daisy Holiday!</a></strong> - <a href="../Page/細野晴臣.md" title="wikilink">細野晴臣</a></p></td>
 </tr>
 <tr class="even">
-<td><p>1:30 <em>Technical Maintenance</em></p></td>
+<td><p>rowspan="5" style="background:#ccc;"5|1:30 <em>Technical Maintenance</em></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>2</p></td>
-<td><p>2:00 <strong>THE GOOD MIXER</strong></p></td>
+<td><p>2:00 <strong>Your Liner Notes</strong> - MOPPY（CAFFEIN BOMB）</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>3</p></td>
+<td><p>2:30 <strong>THE GOOD MIXER</strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>3</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>4</p></td>
 <td></td>
 <td></td>
@@ -918,7 +936,7 @@
 
 ## 外部リンク
 
-  - [InterFM897](https://www.interfm.co.jp/index.php)
+  - [InterFM897](https://www.interfm.co.jp/) - インターFM897\[89.7MHz TOKYO\]
 
   -
   -
@@ -984,6 +1002,7 @@
 56.
 57.
 58.
-59. 2015年10月31日までは76.1MHzであった。
-60. [総務省 電波利用ホームページ 無線局免許状等情報](http://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01)
-61. 2015年10月31日までは11.5kWであった。
+59.
+60. [インターFM897親局送信所・無線局免許状](https://www.tele.soumu.go.jp/musen/SearchServlet?pageID=4&IT=A&DFCD=0000036896&DD=1&styleNumber=01) - 総務省
+61. 2015年10月31日までは76.1MHzであった。
+62. 2015年10月31日までは11.5kWであった。

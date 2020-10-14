@@ -123,21 +123,21 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p>1998.03.30</p></td>
-<td><p>1999.03.31</p></td>
+<td><p>1998.3.30</p></td>
+<td><p>1999.3.31</p></td>
 <td><p><a href="../Page/宮川俊二.md" title="wikilink">宮川俊二</a><br />
 <a href="../Page/八木亜希子.md" title="wikilink">八木亜希子</a></p></td>
 </tr>
 <tr class="even">
-<td><p>1999.04.01</p></td>
-<td><p>1999.07.02</p></td>
+<td><p>1999.4.1</p></td>
+<td><p>1999.7.2</p></td>
 <td><p><a href="../Page/黒岩祐治.md" title="wikilink">黒岩祐治</a><sup>1</sup><br />
 八木亜希子<br />
 <a href="../Page/野島卓.md" title="wikilink">野島卓</a><sup>1</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>1999.07.05</p></td>
-<td><p>2000.03.31</p></td>
+<td><p>1999.7.5</p></td>
+<td><p>2000.3.31</p></td>
 <td><p><a href="../Page/大林宏_(アナウンサー).md" title="wikilink">大林宏</a><sup>2</sup></p></td>
 </tr>
 <tr class="even">
@@ -156,80 +156,80 @@
 <td><p>木・金</p></td>
 </tr>
 <tr class="odd">
-<td><p>2000.04.03</p></td>
-<td><p>2000.09.29</p></td>
+<td><p>2000.4.3</p></td>
+<td><p>2000.9.29</p></td>
 <td><p><a href="../Page/安藤優子.md" title="wikilink">安藤優子</a><sup>3</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2000.10.02</p></td>
-<td><p>2001.07.31</p></td>
+<td><p>2000.10.2</p></td>
+<td><p>2001.7.31</p></td>
 <td><p>須田哲夫</p></td>
 </tr>
 <tr class="odd">
-<td><p>2001.08.01</p></td>
-<td><p>2007.06.29</p></td>
+<td><p>2001.8.1</p></td>
+<td><p>2007.6.29</p></td>
 <td><p><a href="../Page/西山喜久恵.md" title="wikilink">西山喜久恵</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2007.07.02</p></td>
-<td><p>2007.09.28</p></td>
+<td><p>2007.7.2</p></td>
+<td><p>2007.9.28</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉田恵_(アナウンサー)" title="wikilink">吉田恵</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2007.10.01</p></td>
-<td><p>2008.09.26</p></td>
+<td><p>2007.10.1</p></td>
+<td><p>2008.9.26</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/長野翼" title="wikilink">長野翼</a><sup>5</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2008.09.29</p></td>
-<td><p>2009.07.03</p></td>
+<td><p>2008.9.29</p></td>
+<td><p>2009.7.3</p></td>
 <td><p>須田哲夫</p></td>
 </tr>
 <tr class="odd">
-<td><p>2009.07.06</p></td>
-<td><p>2009.09.30</p></td>
+<td><p>2009.7.6</p></td>
+<td><p>2009.9.30</p></td>
 <td><p><a href="../Page/田淵裕章.md" title="wikilink">田淵裕章</a><sup>5</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2009.10.01</p></td>
-<td><p>2010.03.26</p></td>
+<td><p>2009.10.1</p></td>
+<td><p>2010.3.26</p></td>
 <td><p><a href="../Page/境鶴丸.md" title="wikilink">境鶴丸</a><sup>6</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2010.03.29</p></td>
-<td><p>2010.06.25</p></td>
+<td><p>2010.3.29</p></td>
+<td><p>2010.6.25</p></td>
 <td><p>木村太郎</p></td>
 </tr>
 <tr class="even">
-<td><p>2010.06.28</p></td>
-<td><p>2011.03.25</p></td>
+<td><p>2010.6.28</p></td>
+<td><p>2011.3.25</p></td>
 <td><p><a href="../Page/山本周.md" title="wikilink">山本周</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2011.03.28</p></td>
-<td><p>2012.09.28</p></td>
+<td><p>2011.3.28</p></td>
+<td><p>2012.9.28</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/大島由香里" title="wikilink">大島由香里</a><sup>5・7</sup><br />
 <a href="https://ja.wikipedia.org/wiki/椿原慶子" title="wikilink">椿原慶子</a><sup>5・7</sup></p></td>
 </tr>
 <tr class="even">
-<td><p>2012.10.01</p></td>
-<td><p>2013.03.29</p></td>
+<td><p>2012.10.1</p></td>
+<td><p>2013.3.29</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石本沙織" title="wikilink">石本沙織</a><sup>7</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2013.04.01</p></td>
-<td><p>2014.03.28</p></td>
+<td><p>2013.4.1</p></td>
+<td><p>2014.3.28</p></td>
 <td><p>境鶴丸<br />
 <a href="https://ja.wikipedia.org/wiki/榎並大二郎" title="wikilink">榎並大二郎</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2014.03.31</p></td>
-<td><p>2014.09.26</p></td>
+<td><p>2014.3.31</p></td>
+<td><p>2014.9.26</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/椿原慶子" title="wikilink">椿原慶子</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>2014.09.29</p></td>
-<td><p>2015.03.27</p></td>
+<td><p>2014.9.29</p></td>
+<td><p>2015.3.27</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/椿原慶子" title="wikilink">椿原慶子</a><br />
 <a href="https://ja.wikipedia.org/wiki/生野陽子" title="wikilink">生野陽子</a></p></td>
 </tr>
@@ -240,7 +240,7 @@
 <li><sup>1</sup>　18時台のみ出演（黒岩は1999年5月3日以降）。</li>
 <li><sup>2</sup>　17時台のみ出演。</li>
 <li><sup>3</sup>　2013年4月1日から9月27日まで16時台には出演せず、17時台以降の出演。</li>
-<li><sup>4</sup>　FNN枠のみ出演。</li>
+<li><sup>4</sup>　FNN枠のみ出演。この間は須田・木佐がFNN枠に出演しなかった。</li>
 <li><sup>5</sup>　フィールドキャスターを兼務（長野は2008年3月28日まで）。</li>
 <li><sup>6</sup>　週末版を兼務。</li>
 <li><sup>7</sup>　同日<a href="https://ja.wikipedia.org/wiki/フジテレビ系列午後のスポットニュース枠" title="wikilink">午後のスポットニュースを兼務</a>（大島・椿原は2012年4月2日から）。</li>
@@ -280,59 +280,59 @@
 <td><p>木・金</p></td>
 </tr>
 <tr class="even">
-<td><p>1998.03.30</p></td>
-<td><p>1998.09.30</p></td>
+<td><p>1998.3.30</p></td>
+<td><p>1998.9.30</p></td>
 <td><p><a href="../Page/松岡修造.md" title="wikilink">松岡修造</a><sup>1・2</sup><br />
 <a href="../Page/八木沼純子.md" title="wikilink">八木沼純子</a><sup>1</sup><br />
 <a href="../Page/福原直英.md" title="wikilink">福原直英</a>○</p></td>
 <td><p>（不在）</p></td>
 </tr>
 <tr class="odd">
-<td><p>1998.10.01</p></td>
-<td><p>1999.03.05</p></td>
+<td><p>1998.10.1</p></td>
+<td><p>1999.3.5</p></td>
 <td><p>八木沼純子<br />
 福原直英○</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1999.03.08</p></td>
-<td><p>1999.03.31</p></td>
+<td><p>1999.3.8</p></td>
+<td><p>1999.3.31</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/佐藤里佳" title="wikilink">佐藤里佳</a>○</p></td>
 <td><p><a href="../Page/島田彩夏.md" title="wikilink">島田彩夏</a>○<sup>3</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>1999.04.01</p></td>
-<td><p>1999.09.03</p></td>
+<td><p>1999.4.1</p></td>
+<td><p>1999.9.3</p></td>
 <td><p><a href="../Page/西岡孝洋.md" title="wikilink">西岡孝洋</a>○</p></td>
 <td><p>佐藤里佳○</p></td>
 </tr>
 <tr class="even">
-<td><p>1999.09.06</p></td>
-<td><p>2000.03.31</p></td>
+<td><p>1999.9.6</p></td>
+<td><p>2000.3.31</p></td>
 <td><p>松尾紀子○</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2000.04.03</p></td>
-<td><p>2001.03.30</p></td>
+<td><p>2000.4.3</p></td>
+<td><p>2001.3.30</p></td>
 <td><p><a href="../Page/荻原次晴.md" title="wikilink">荻原次晴</a></p></td>
 <td><p><a href="../Page/菊間千乃.md" title="wikilink">菊間千乃</a>○</p></td>
 </tr>
 <tr class="even">
-<td><p>2001.04.02</p></td>
-<td><p>2002.03.29</p></td>
+<td><p>2001.4.2</p></td>
+<td><p>2002.3.29</p></td>
 <td><p>荻原次晴</p></td>
 <td><p><a href="../Page/舞の海秀平.md" title="wikilink">舞の海</a><sup>5</sup></p></td>
 </tr>
 <tr class="odd">
-<td><p>2002.04.01</p></td>
-<td><p>2004.03.26</p></td>
+<td><p>2002.4.1</p></td>
+<td><p>2004.3.26</p></td>
 <td><p><a href="../Page/永島昭浩.md" title="wikilink">永島昭浩</a></p></td>
 <td><p>荻原次晴</p></td>
 </tr>
 <tr class="even">
-<td><p>2004.03.29</p></td>
-<td><p>2011.03.25</p></td>
+<td><p>2004.3.29</p></td>
+<td><p>2011.3.25</p></td>
 <td><p>永島昭浩<sup>5</sup></p></td>
 <td></td>
 </tr>
@@ -349,8 +349,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2011.03.28</p></td>
-<td><p>2012.09.28</p></td>
+<td><p>2011.3.28</p></td>
+<td><p>2012.9.28</p></td>
 <td><p>舞の海<br />
 <a href="../Page/梅津弥英子.md" title="wikilink">梅津弥英子</a>○</p></td>
 <td><p>梅津弥英子○<br />
@@ -369,26 +369,26 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2012.10.01</p></td>
+<td><p>2012.10.1</p></td>
 <td><p>2012.12.24</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/松村未央" title="wikilink">松村未央</a>○</p></td>
 <td><p>榎並大二郎○</p></td>
 </tr>
 <tr class="odd">
-<td><p>2013.01.07</p></td>
-<td><p>2013.03.29</p></td>
+<td><p>2013.1.7</p></td>
+<td><p>2013.3.29</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/久代萌美" title="wikilink">久代萌美</a>○</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2013.04.01</p></td>
-<td><p>2013.09.27</p></td>
+<td><p>2013.4.1</p></td>
+<td><p>2013.9.27</p></td>
 <td><p>松村未央○</p></td>
 <td><p>久代萌美○</p></td>
 </tr>
 <tr class="odd">
-<td><p>2013.09.30</p></td>
-<td><p>2014.09.26</p></td>
+<td><p>2013.9.30</p></td>
+<td><p>2014.9.26</p></td>
 <td><p>松村未央○<sup>8</sup></p></td>
 <td></td>
 </tr>
@@ -401,8 +401,8 @@
 ネットNAVI</p></td>
 </tr>
 <tr class="odd">
-<td><p>2014.09.29</p></td>
-<td><p>2015.03.27</p></td>
+<td><p>2014.9.29</p></td>
+<td><p>2015.3.27</p></td>
 <td><p>榎並大二郎○</p></td>
 <td><p><a href="../Page/やくみつる.md" title="wikilink">やくみつる</a><br />
 <a href="https://ja.wikipedia.org/wiki/福井慶仁" title="wikilink">福井慶仁</a>○</p></td>

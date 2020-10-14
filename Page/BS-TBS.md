@@ -362,7 +362,6 @@
 | [美しい日本に出会う旅](https://ja.wikipedia.org/wiki/美しい日本に出会う旅 "wikilink")            | 水曜 21:00 - 21:54     |                                                 |
 | [彩〜日本遺産〜](https://ja.wikipedia.org/wiki/彩〜日本遺産〜 "wikilink")                  | 水曜 21:54 - 22:00     | ナレーション交代<ref>{{cite web|title= 上白石萌音、番組ナレーション卒業 |
 | 新・地球絶景紀行                                                                     | 木曜 22:00 - 22:54     |                                                 |
-| 大人の週末旅行〜にっぽん探訪〜                                                              | 木曜 20:54 - 21:00     |                                                 |
 | [世界の窓](https://ja.wikipedia.org/wiki/世界の窓 "wikilink")                        | 金曜 22:54 - 23:00     |                                                 |
 | 日本列島！ハテナの旅                                                                   | 年数回 18:30 - 19:30    |                                                 |
 | [勇壮\!博多山笠](https://ja.wikipedia.org/wiki/博多祇園山笠#テレビ放送 "wikilink")            | 7月15日 4:20 - 5:55    | RKB毎日放送制作                                       |
@@ -422,14 +421,14 @@
 
 ### 教養
 
-| 番組名                                                                                   | 放送日時                | 備考              |
-| ------------------------------------------------------------------------------------- | ------------------- | --------------- |
-| 宇賀なつみの そこ教えて！                                                                         | 日曜 12:30 - 13:00    | 2020年4月5日スタート   |
-| [にっぽん\!歴史鑑定](https://ja.wikipedia.org/wiki/にっぽん!歴史鑑定 "wikilink")                      | 月曜 22:00 - 22:54    |                 |
-| [関口宏のもう一度\!近現代史](https://ja.wikipedia.org/wiki/関口宏のもう一度!近現代史 "wikilink")              | 土曜 12:00 - 12:54    | 2019年10月12日スタート |
-| あなたの知らないイタリアへ                                                                         | 月2回土曜 17:00 - 17:30 |                 |
-| [Together〜だれにも言えないこと〜](https://ja.wikipedia.org/wiki/Together〜だれにも言えないこと〜 "wikilink") | 第1土曜 23:00 - 24:00  |                 |
-| ヒポクラテスの誓い                                                                             | 年4回                 |                 |
+| 番組名                                                                                   | 放送日時                | 備考                                                                                                                                                                                        |
+| ------------------------------------------------------------------------------------- | ------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 宇賀なつみの そこ教えて！                                                                         | 日曜 12:30 - 13:00    | 2020年4月5日スタート [政府広報番組](https://ja.wikipedia.org/wiki/政府広報番組 "wikilink") 2020年9月27日でBS-TBSでの放送を終了。2020年10月より、[BS朝日](https://ja.wikipedia.org/wiki/BS朝日 "wikilink")にて金曜 18:00 - 18:30へ放送予定。 |
+| [にっぽん\!歴史鑑定](https://ja.wikipedia.org/wiki/にっぽん!歴史鑑定 "wikilink")                      | 月曜 22:00 - 22:54    |                                                                                                                                                                                           |
+| [関口宏のもう一度\!近現代史](https://ja.wikipedia.org/wiki/関口宏のもう一度!近現代史 "wikilink")              | 土曜 12:00 - 12:54    | 2019年10月12日スタート                                                                                                                                                                           |
+| あなたの知らないイタリアへ                                                                         | 月2回土曜 17:00 - 17:30 |                                                                                                                                                                                           |
+| [Together〜だれにも言えないこと〜](https://ja.wikipedia.org/wiki/Together〜だれにも言えないこと〜 "wikilink") | 第1土曜 23:00 - 24:00  |                                                                                                                                                                                           |
+| ヒポクラテスの誓い                                                                             | 年4回                 |                                                                                                                                                                                           |
 
 ### スポーツ
 
@@ -443,21 +442,26 @@
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>ゴルフ3キングダム 女子No.1チーム決定戦</p></td>
+<td><p>日曜 22:00 - 22:54</p></td>
+<td><p>2020年10月11日スタート予定</p></td>
+</tr>
+<tr class="even">
 <td><p>アスリート夢共演</p></td>
 <td><p>第1・2土曜 11:00 - 11:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/裸のアスリート" title="wikilink">裸のアスリート</a>II</p></td>
 <td><p>第3・4・5土曜 11:00 - 11:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/勝ち抜き!女子ゴルフ大戦" title="wikilink">勝ち抜き!女子ゴルフ大戦</a></p></td>
 <td><p>土曜 13:00 - 13:30</p></td>
-<td><p>2019年10月12日スタート 2020年3月28日までは土曜 13:30 - 14:00で放送していた。</p></td>
+<td><p>2019年10月12日スタート[27]。 2020年10月は日曜 12:30 - 13:00で放送予定。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/S☆1_BASEBALL" title="wikilink">S☆1 BASEBALL</a></p></td>
 <td><p>18:00 - 20:54<br />
 （ナイトゲーム） 巨人戦のみ最大1時間延長</p>
@@ -466,25 +470,25 @@
 14:00 - 16:54<br />
 （デーゲーム）<br />
 巨人戦のみ最大1時間延長</p></td>
-<td><p><a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜DeNAベイスターズ</a>主催試合を中心に<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日ドラゴンズ</a>（<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCテレビ</a>・TBSテレビ制作著作）･<a href="../Page/阪神タイガース.md" title="wikilink">阪神タイガース</a>（<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送制作著作またはTigers</a>-ai・TBSテレビ制作著作）･<a href="../Page/広島東洋カープ.md" title="wikilink">広島東洋カープ</a>（<a href="../Page/中国放送.md" title="wikilink">中国放送</a>・TBSテレビ制作著作）対<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">読売ジャイアンツ</a>戦を生中継[27]またはトップ&amp;リレー中継[28]で放送。 その他パ･リーグ主催ゲーム（各球団からの映像配信や、必要に応じて地元系列局の協力も受けてTBSテレビが制作）･<a href="../Page/フレッシュオールスターゲーム.md" title="wikilink">フレッシュオールスターゲーム</a>（2014年 - 。テレビ朝日系列局またはTBS系列局の技術協力でBS-TBS・日本野球機構制作）も放送。</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/選抜女子駅伝北九州大会" title="wikilink">選抜女子駅伝北九州大会</a></p></td>
-<td><p>毎年1月第3日曜</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a>制作で2020年から<a href="../Page/裏送り.md" title="wikilink">裏送り</a>の生放送[29]。</p></td>
+<td><p><a href="../Page/横浜DeNAベイスターズ.md" title="wikilink">横浜DeNAベイスターズ</a>主催試合を中心に<a href="../Page/中日ドラゴンズ.md" title="wikilink">中日ドラゴンズ</a>（<a href="https://ja.wikipedia.org/wiki/CBCテレビ" title="wikilink">CBCテレビ</a>・TBSテレビ制作著作）･<a href="../Page/阪神タイガース.md" title="wikilink">阪神タイガース</a>（<a href="https://ja.wikipedia.org/wiki/MBSテレビ" title="wikilink">毎日放送制作著作またはTigers</a>-ai・TBSテレビ制作著作）･<a href="../Page/広島東洋カープ.md" title="wikilink">広島東洋カープ</a>（<a href="../Page/中国放送.md" title="wikilink">中国放送</a>・TBSテレビ制作著作）対<a href="https://ja.wikipedia.org/wiki/読売ジャイアンツ" title="wikilink">読売ジャイアンツ</a>戦を生中継[28]またはトップ&amp;リレー中継[29]で放送。 その他パ･リーグ主催ゲーム（各球団からの映像配信や、必要に応じて地元系列局の協力も受けてTBSテレビが制作）･<a href="../Page/フレッシュオールスターゲーム.md" title="wikilink">フレッシュオールスターゲーム</a>（2014年 - 。テレビ朝日系列局またはTBS系列局の技術協力でBS-TBS・日本野球機構制作）も放送。</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/選抜女子駅伝北九州大会" title="wikilink">選抜女子駅伝北九州大会</a></p></td>
+<td><p>毎年1月第3日曜</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/RKB毎日放送" title="wikilink">RKB毎日放送</a>制作で2020年から<a href="../Page/裏送り.md" title="wikilink">裏送り</a>の生放送[30]。</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マスターズゴルフトーナメント" title="wikilink">マスターズゴルフ</a></p></td>
 <td><p>毎年4月</p></td>
 <td><p>地上波とは別のアナウンサーが実況を担当。TBSチャンネルでも放送</p>
 <p>2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスによる影響で開催を同年秋に延期</a>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/全日本実業団対抗女子駅伝競走大会.md" title="wikilink">全日本実業団女子駅伝</a></p></td>
 <td><p>毎年11月</p></td>
 <td><p>開催日夜に時差放送。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/世界陸上選手権" title="wikilink">世界陸上</a></p></td>
 <td><p>奇数年8 - 9月</p></td>
 <td><p>地上波中継の時差放送。<a href="https://ja.wikipedia.org/wiki/2007年世界陸上選手権" title="wikilink">2007年大阪大会は自社制作を行い</a>、一部の競技は地上波とは別の解説・実況で放送された。<br />
@@ -528,7 +532,7 @@
 <tr class="odd">
 <td><p><a href="../Page/サウンド・イン&quot;S&quot;.md" title="wikilink">Sound Inn“S”</a></p></td>
 <td><p>第3土曜 18:30 - 19:00</p></td>
-<td><p>2020年1月18日から2020年4月18日までの間は、毎週放送されていた（第3土曜のみ新作、他の週は再放送）</p></td>
+<td><p>2020年1月18日から2020年4月18日までの間は、毎週放送されていた（第3土曜のみ新作、他の週は再放送） 第2・第4土曜に再放送あり</p></td>
 </tr>
 <tr class="even">
 <td><p>うた恋！音楽会</p></td>
@@ -655,11 +659,11 @@
 
 ### アニメ
 
-かつてBS-i時代は現在の[BS11](../Page/日本BS放送.md "wikilink")『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠\[30\]のように、CM明けのロゴアニメーションの表示が一部作品を除いて実施されていた。また、当局独占放送のアニメ作品も幾つか存在した。2007年以降は特別番組を断続的に放送している。
+かつてBS-i時代は現在の[BS11](../Page/日本BS放送.md "wikilink")『[ANIME+](https://ja.wikipedia.org/wiki/アニメ+ "wikilink")』枠\[31\]のように、CM明けのロゴアニメーションの表示が一部作品を除いて実施されていた。また、当局独占放送のアニメ作品も幾つか存在した。2007年以降は特別番組を断続的に放送している。
 
-現在では土曜日の1時台（日曜深夜）はTBS製作の[深夜アニメ](../Page/深夜アニメ.md "wikilink")の大半をネット受け\[31\]している（2012年4月期から2013年1月期まで一部を除いて当局が製作協力として参加）。
+現在では土曜日の1時台（日曜深夜）はTBS製作の[深夜アニメ](../Page/深夜アニメ.md "wikilink")の大半をネット受け\[32\]している（2012年4月期から2013年1月期まで一部を除いて当局が製作協力として参加）。
 
-更に金曜日の2時台（土曜深夜）は毎日放送製作深夜アニメも2012年開始作品（『[妖狐×僕SS](https://ja.wikipedia.org/wiki/妖狐×僕SS "wikilink")』）より当局でレギュラーネット\[32\]を開始。
+更に金曜日の2時台（土曜深夜）は毎日放送製作深夜アニメも2012年開始作品（『[妖狐×僕SS](https://ja.wikipedia.org/wiki/妖狐×僕SS "wikilink")』）より当局でレギュラーネット\[33\]を開始。
 
 なお、BS-TBSホームページ内の「アニメ」のページでは2016年1月期以降、TBS製作の作品と海外アニメの作品のみが掲載され、毎日放送製作の作品は掲載されていない。
 
@@ -735,7 +739,7 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
   - [Good Life](https://ja.wikipedia.org/wiki/Good_Life "wikilink")
   - [教えて・からだのミカタ](https://ja.wikipedia.org/wiki/教えて・からだのミカタ "wikilink")
   - [本と出会う](https://ja.wikipedia.org/wiki/本と出会う "wikilink")（TBSニュースバードでも放送）
-  - [Turning Point〜賢者の選択〜](https://ja.wikipedia.org/wiki/賢者の選択 "wikilink")\[33\]
+  - [Turning Point〜賢者の選択〜](https://ja.wikipedia.org/wiki/賢者の選択 "wikilink")\[34\]
   - [政策討論 われらの時代](https://ja.wikipedia.org/wiki/政策討論_われらの時代 "wikilink")
   - [世界人](https://ja.wikipedia.org/wiki/世界人 "wikilink")
   - [non-no TV](https://ja.wikipedia.org/wiki/non-no_TV "wikilink")
@@ -923,7 +927,7 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
 
   - 地上波と連動放送の特別番組
 
-:\*『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』特別編（CBC製作・MBS製作委員会参加\[34\]）：2013年10月5日
+:\*『[Angel Beats\!](https://ja.wikipedia.org/wiki/Angel_Beats! "wikilink")』特別編（CBC製作・MBS製作委員会参加\[35\]）：2013年10月5日
 
 :\*『[Aチャンネル](https://ja.wikipedia.org/wiki/Aチャンネル "wikilink")』[OVA](../Page/OVA.md "wikilink")第1話（MBS製作）：2014年9月20日
 
@@ -934,7 +938,7 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
 
   - 地上波でも放送された作品（朝昼帯）
 
-:\* [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")\[35\]
+:\* [ちっちゃな雪使いシュガー](../Page/ちっちゃな雪使いシュガー.md "wikilink")\[36\]
 
 :\* [アキハバラ電脳組](../Page/アキハバラ電脳組.md "wikilink")
 
@@ -942,21 +946,21 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
 
 :\* [ラブ★コン](../Page/ラブ★コン.md "wikilink")（[TUYでも放送](../Page/テレビユー山形.md "wikilink")）
 
-:\* [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（MBS製作\[36\]）
+:\* [コードギアス 反逆のルルーシュ](../Page/コードギアス_反逆のルルーシュ.md "wikilink")（MBS製作\[37\]）
 
 :\* [新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")制作）
 
-:\* [機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink") ファーストシーズン（MBS製作\[37\]）
+:\* [機動戦士ガンダム00](https://ja.wikipedia.org/wiki/機動戦士ガンダム00 "wikilink") ファーストシーズン（MBS製作\[38\]）
 
-:\* [SDガンダムフォース サイコー\!\!\! セレクション](../Page/SDガンダムフォース.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作\[38\]）
+:\* [SDガンダムフォース サイコー\!\!\! セレクション](../Page/SDガンダムフォース.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")製作\[39\]）
 
-:\* コードギアス 反逆のルルーシュR2（MBS製作\[39\]）
+:\* コードギアス 反逆のルルーシュR2（MBS製作\[40\]）
 
-:\* 機動戦士ガンダム00 セカンドシーズン（MBS製作\[40\]）
+:\* 機動戦士ガンダム00 セカンドシーズン（MBS製作\[41\]）
 
-:\* [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")（MBS製作\[41\]）
+:\* [機動戦士ガンダムSEED](../Page/機動戦士ガンダムSEED.md "wikilink")（MBS製作\[42\]）
 
-:\* [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")（MBS製作\[42\]）
+:\* [機動戦士ガンダムSEED DESTINY](../Page/機動戦士ガンダムSEED_DESTINY.md "wikilink")（MBS製作\[43\]）
 
 :\* [まんが世界昔ばなし](../Page/まんが世界昔ばなし.md "wikilink")（再放送）
 
@@ -989,16 +993,16 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
 
 ## 放送事故
 
-  - 2014年5月20日、「侍プロ野球2014・[東北楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")×[横浜DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")」を[楽天Koboスタジアム宮城から生中継中の](../Page/宮城球場.md "wikilink")20時過ぎ〜20:30頃まで一部地域で映像が流れず、実況音声のみが放送される事態や中継映像は放送されているものの映像が不鮮明になるなどの事態が発生した。後に、中継内やBS-TBSのホームページ上で不体裁について謝罪し、原因は調査中であるとしていたが、後日送出設備機器の一部に不具合が発生したことに因るものとして再度ホームページ上で謝罪した\[43\]\[44\]。
+  - 2014年5月20日、「侍プロ野球2014・[東北楽天](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")×[横浜DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")」を[楽天Koboスタジアム宮城から生中継中の](../Page/宮城球場.md "wikilink")20時過ぎ〜20:30頃まで一部地域で映像が流れず、実況音声のみが放送される事態や中継映像は放送されているものの映像が不鮮明になるなどの事態が発生した。後に、中継内やBS-TBSのホームページ上で不体裁について謝罪し、原因は調査中であるとしていたが、後日送出設備機器の一部に不具合が発生したことに因るものとして再度ホームページ上で謝罪した\[44\]\[45\]。
 
 ## その他の特記事項
 
-  - 公式[サイトには](../Page/ウェブサイト.md "wikilink")、2006年度までBSデジタル局では唯一（当時）[掲示板を設けていた](../Page/電子掲示板.md "wikilink")。番組に関する意見やリクエストなどを書き込むことができた\[45\]。
+  - 公式[サイトには](../Page/ウェブサイト.md "wikilink")、2006年度までBSデジタル局では唯一（当時）[掲示板を設けていた](../Page/電子掲示板.md "wikilink")。番組に関する意見やリクエストなどを書き込むことができた\[46\]。
   - [毎日新聞](https://ja.wikipedia.org/wiki/毎日新聞 "wikilink")朝刊の第2テレビ・ラジオ欄では、当チャンネルで放映される番組が毎日1本紹介されている。また、夕刊（東京版など）では最終面のテレビ欄に[NHK BS1](../Page/NHK_BS1.md "wikilink")・[BSプレミアムと並んで番組表を掲載している](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")。
   - 「BS-i」時代は、「アイ」と「チュータ」という[マスコット](../Page/マスコット.md "wikilink")キャラクターが存在していたほか、『i-SPORTS』などのいくつかの番組でも独自の[キャラクター](../Page/キャラクター.md "wikilink")が登場していた（「アイ」と「チュータ」は、正式には英語の[発音記号](../Page/発音記号.md "wikilink")で表記される）。
   - [テレビマスターのシステムは](../Page/主調整室.md "wikilink")、基幹部が[NEC製で](../Page/日本電気.md "wikilink")、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")・[東芝](../Page/東芝.md "wikilink")の機器を組み合わせたものとなっている（雑誌『放送技術』より。巻号未詳）。
       - マスター更新により、画質が著しく改善された。
-  - 2014年4月1日から同年9月30日までの半年間、同局のイメージキャンペーンアイドルとして[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループとして存在していた[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（2017年6月30日解散）が起用された\[46\]\[47\]。
+  - 2014年4月1日から同年9月30日までの半年間、同局のイメージキャンペーンアイドルとして[ハロー\!プロジェクト](../Page/ハロー!プロジェクト.md "wikilink")の女性[アイドル](https://ja.wikipedia.org/wiki/アイドル "wikilink")グループとして存在していた[℃-ute](https://ja.wikipedia.org/wiki/℃-ute "wikilink")（2017年6月30日解散）が起用された\[47\]\[48\]。
 
 ## 脚注
 
@@ -1037,24 +1041,25 @@ TBSテレビ製作『アニメリコ』第2部、地上波局より2日遅れ</p
 24.
 25. 2009年[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")から[4月1日](../Page/4月1日.md "wikilink")までと、同年[10月2日](../Page/10月2日.md "wikilink")から[10月27日](../Page/10月27日.md "wikilink")は休止していた。
 26. [2013年](../Page/2013年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")までは上半期は月曜 7:00 - 8:00、火曜 - 金曜 7:00 - 7:30（後半7:30 - 8:00は「[CBSイブニングニュース](../Page/CBSイブニングニュース.md "wikilink")」）、下半期は月曜 - 金曜 7:00 - 8:00であった
-27. DeNA戦は[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")2、中日・広島戦はTBSチャンネル1でも同時放送（阪神戦は[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で[Tigers-ai](../Page/Tigers-ai.md "wikilink")制作分を放送）。DeNA・中日戦は2010年、広島戦は2011年以降は地上波とは別制作で放送。実況・解説は、中日戦はCBCテレビが地上波とは別に、広島戦はTBSテレビ側で各々用意する。阪神戦は地上波が他系列局での放送時はTigers-aiからの映像提供によりTBSテレビが実況・解説を用意して放送。毎日放送で関西ローカルでの録画中継放送時は毎日放送からの裏送りで放送。
-28. 2017年までのナイター開催は、トップ中継のみ別制作（DeNA戦はTBSチャンネル2、中日・広島戦はTBSチャンネル1と同時放送、TBSチャンネルではこのメンバーで全編を放送、阪神戦はTBSテレビのアナウンサーと解説者が地上波中継開始までオフチューブ実況）で、リレー中継は地上波中継と同じメンバーが担当する形式だったが、2016年以降のデーゲーム開催は原則としてリレー中継（13:00または13:30試合開始時はトップ&リレー）のみ実施し、DeNA・阪神戦(毎日放送のみ16時以降も中継かつ関西ローカルと同時放送。17:30以降は裏送り)は地上波中継と同じメンバーが担当。中日戦はCBCテレビ、広島戦は中国放送は16時以降も各々中継するが、地上波同時放送とせず、TBSチャンネル1との同時放送となる。
-29. 地上波は2019年まで関西以西のブロックネット、2020年からRKB毎日放送と[テレビ高知](../Page/テレビ高知.md "wikilink")の2局ネットで録画放送。
-30. 2018年10月現在では、本局での毎日放送（MBS）製作『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』枠（以前はTBS製作『アニメリコ』枠でも）で競合が発生している。『アニメイズム』枠の移動により、2020年春改編で競合は解消される。
-31. 2018年10月現在ではTBSから2日遅れ（かつては9日遅れの時期もあった）。
-32. 2018年10月現在では地上波レギュラーネット各局より1日遅れ（2015年3月までは毎日放送より2日遅れ）。2020年4月より地上波レギュラーネット各局と同日放送に移行。
-33. [サンテレビ](../Page/サンテレビジョン.md "wikilink")・[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")でも放送。
-34. 本放送は[BS11で放送](../Page/日本BS放送.md "wikilink")。
-35. 1話のみ、各地の系列局でも放送された。
-36. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](../Page/長崎放送.md "wikilink")16局で放送。
-37. 『[土6](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")』枠の最終作品。のちにリピート放送を実施。
-38. レギュラー放送版は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送済み。
-39. 『[日5](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")』枠の第1回作品。
-40. 『日5』枠の第2回作品。のちにリピート放送を実施。
-41. 『土6』枠の第1回作品。
-42. 『土6』枠の第3回作品。
-43. \[<https://www.bs-tbs.co.jp/news/5202014.html>　5/20「侍プロ野球2014」映像・音声の不具合について\] BS-TBS 2014年5月20日配信
-44. [2](https://www.bs-tbs.co.jp/news/5202014_1.html「侍プロ野球2014」映像・音声の不具合について②) BS-TBS 2014年5月22日配信
-45. 2007年12月開局の[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）でも、番組ホームページでメッセージを受け付け、公開している。
-46. [お知らせ 2014.03.04](https://www.bs-tbs.co.jp/news/2014bs-tbs.html) - BS-TBS 2014年3月4日。
-47. [℃-ute、BS-TBSキャンペーンアイドル就任で新番組開始](https://natalie.mu/music/news/111301) - 最新音楽ニュース ナタリー　2014年3月5日。
+27. 2020年3月28日までは土曜 13:30 - 14:00で放送していた。
+28. DeNA戦は[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")2、中日・広島戦はTBSチャンネル1でも同時放送（阪神戦は[GAORA](https://ja.wikipedia.org/wiki/GAORA "wikilink")で[Tigers-ai](../Page/Tigers-ai.md "wikilink")制作分を放送）。DeNA・中日戦は2010年、広島戦は2011年以降は地上波とは別制作で放送。実況・解説は、中日戦はCBCテレビが地上波とは別に、広島戦はTBSテレビ側で各々用意する。阪神戦は地上波が他系列局での放送時はTigers-aiからの映像提供によりTBSテレビが実況・解説を用意して放送。毎日放送で関西ローカルでの録画中継放送時は毎日放送からの裏送りで放送。
+29. 2017年までのナイター開催は、トップ中継のみ別制作（DeNA戦はTBSチャンネル2、中日・広島戦はTBSチャンネル1と同時放送、TBSチャンネルではこのメンバーで全編を放送、阪神戦はTBSテレビのアナウンサーと解説者が地上波中継開始までオフチューブ実況）で、リレー中継は地上波中継と同じメンバーが担当する形式だったが、2016年以降のデーゲーム開催は原則としてリレー中継（13:00または13:30試合開始時はトップ&リレー）のみ実施し、DeNA・阪神戦(毎日放送のみ16時以降も中継かつ関西ローカルと同時放送。17:30以降は裏送り)は地上波中継と同じメンバーが担当。中日戦はCBCテレビ、広島戦は中国放送は16時以降も各々中継するが、地上波同時放送とせず、TBSチャンネル1との同時放送となる。
+30. 地上波は2019年まで関西以西のブロックネット、2020年からRKB毎日放送と[テレビ高知](../Page/テレビ高知.md "wikilink")の2局ネットで録画放送。
+31. 2018年10月現在では、本局での毎日放送（MBS）製作『[アニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")』枠（以前はTBS製作『アニメリコ』枠でも）で競合が発生している。『アニメイズム』枠の移動により、2020年春改編で競合は解消される。
+32. 2018年10月現在ではTBSから2日遅れ（かつては9日遅れの時期もあった）。
+33. 2018年10月現在では地上波レギュラーネット各局より1日遅れ（2015年3月までは毎日放送より2日遅れ）。2020年4月より地上波レギュラーネット各局と同日放送に移行。
+34. [サンテレビ](../Page/サンテレビジョン.md "wikilink")・[日経CNBC](https://ja.wikipedia.org/wiki/日経CNBC "wikilink")でも放送。
+35. 本放送は[BS11で放送](../Page/日本BS放送.md "wikilink")。
+36. 1話のみ、各地の系列局でも放送された。
+37. 地上波では[深夜帯系列10局ネット](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")。本放送終了後[BSS](https://ja.wikipedia.org/wiki/山陰放送 "wikilink")・[NBC以外の残りTBS系列局](../Page/長崎放送.md "wikilink")16局で放送。
+38. 『[土6](../Page/毎日放送制作土曜夕方6時枠のアニメ.md "wikilink")』枠の最終作品。のちにリピート放送を実施。
+39. レギュラー放送版は[BSジャパン](https://ja.wikipedia.org/wiki/BSジャパン "wikilink")で放送済み。
+40. 『[日5](../Page/毎日放送制作日曜夕方5時枠のアニメ.md "wikilink")』枠の第1回作品。
+41. 『日5』枠の第2回作品。のちにリピート放送を実施。
+42. 『土6』枠の第1回作品。
+43. 『土6』枠の第3回作品。
+44. \[<https://www.bs-tbs.co.jp/news/5202014.html>　5/20「侍プロ野球2014」映像・音声の不具合について\] BS-TBS 2014年5月20日配信
+45. [2](https://www.bs-tbs.co.jp/news/5202014_1.html「侍プロ野球2014」映像・音声の不具合について②) BS-TBS 2014年5月22日配信
+46. 2007年12月開局の[日本BS放送](../Page/日本BS放送.md "wikilink")（BS11）でも、番組ホームページでメッセージを受け付け、公開している。
+47. [お知らせ 2014.03.04](https://www.bs-tbs.co.jp/news/2014bs-tbs.html) - BS-TBS 2014年3月4日。
+48. [℃-ute、BS-TBSキャンペーンアイドル就任で新番組開始](https://natalie.mu/music/news/111301) - 最新音楽ニュース ナタリー　2014年3月5日。

@@ -24,7 +24,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")
     チームカラーを従来の紺から赤へ、ユニフォームも赤へ変更。成績は前年を上回る6位となった。シーズン後に塩沢が[松本山雅FC](../Page/松本山雅FC.md "wikilink")へ移籍した。
   - [2012年](../Page/2012年.md "wikilink")
-    [カターレ富山](../Page/カターレ富山.md "wikilink")より[江添建次郎](../Page/江添建次郎.md "wikilink")、[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")より[池田達哉](../Page/池田達哉.md "wikilink")、[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")より[下畠翔吾](https://ja.wikipedia.org/wiki/下畠翔吾 "wikilink")などDFを中心に補強。第4節から第10節まで7試合連続無失点記録のJFLリーグ新記録を達成した\[9\]。
+    [カターレ富山](../Page/カターレ富山.md "wikilink")より[江添建次郎](../Page/江添建次郎.md "wikilink")、[大分トリニータ](https://ja.wikipedia.org/wiki/大分トリニータ "wikilink")より[池田達哉](../Page/池田達哉.md "wikilink")、[京都サンガF.C.](../Page/京都サンガF.C..md "wikilink")より[下畠翔吾](https://ja.wikipedia.org/wiki/下畠翔吾 "wikilink")などDFを中心に補強。第4節から第10節まで7試合連続無失点記録のJFLリーグ新記録を達成した\[9\]。新卒入団としては、[近畿大学](https://ja.wikipedia.org/wiki/近畿大学 "wikilink")から[藤本憲明](https://ja.wikipedia.org/wiki/藤本憲明 "wikilink")が新加入している。
   - [2013年](../Page/2013年.md "wikilink")
     第27節から最終の第34節までチーム新記録のリーグ戦8連勝で終え、最高タイの6位でシーズンを終えた。
   - [2014年](../Page/2014年.md "wikilink")

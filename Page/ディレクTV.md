@@ -1,7 +1,7 @@
 > この記事は[ディレクTV](https://ja.wikipedia.org/wiki/ディレクTV)から翻訳されています。
 
 
-**ディレクTV**（、ディレクティービー）は、主に北中南米地域においてサービスを行っている[衛星放送](../Page/衛星放送.md "wikilink")サービス。[AT\&T](../Page/AT&T.md "wikilink")の一部門であるが運営している。
+**ディレクTV**（、ディレクティービー）は、主に北中南米地域においてサービスを行っている[衛星放送](../Page/衛星放送.md "wikilink")サービス。[AT\&T](../Page/AT&T.md "wikilink")の一部門であるが運営している。20世紀末に日本に進出したが短期間で撤退している（[後述](https://ja.wikipedia.org/wiki/#日本での展開と撤退 "wikilink")）。
 
 ## 概要
 

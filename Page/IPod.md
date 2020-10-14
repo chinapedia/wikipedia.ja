@@ -415,7 +415,7 @@ U2と同様に広告等のタイアップに今まで応じたことが無かっ
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ポール・マッカートニー.md" title="wikilink">ポール・マッカートニー</a></p></td>
-<td></td>
+<td><p>{{読み仮名|[[ダンス・トゥナイト|</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -479,7 +479,7 @@ U2と同様に広告等のタイアップに今まで応じたことが無かっ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ザ・ビートルズ" title="wikilink">ザ・ビートルズ</a></p></td>
+<td><p><a href="../Page/ビートルズ.md" title="wikilink">ザ・ビートルズ</a></p></td>
 <td></td>
 <td></td>
 </tr>

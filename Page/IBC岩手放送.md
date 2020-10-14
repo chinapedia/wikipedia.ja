@@ -1257,7 +1257,7 @@
   - [仮面ライダーシリーズ](https://ja.wikipedia.org/wiki/仮面ライダーシリーズ "wikilink")☆（毎日放送制作、腸捻転解消後も引き続きネット。平成・令和シリーズはIATで放送）
       - [仮面ライダー](../Page/仮面ライダー.md "wikilink")→[仮面ライダーV3](../Page/仮面ライダーV3.md "wikilink")→[仮面ライダーX](../Page/仮面ライダーX.md "wikilink")→[仮面ライダーアマゾン](../Page/仮面ライダーアマゾン.md "wikilink")
   - [新日鉄アワー](../Page/新日本製鐵.md "wikilink")・[生きものばんざい](../Page/生きものばんざい.md "wikilink")（毎日放送制作、腸捻転解消後も引き続きネット）
-  - [レインボーマン](https://ja.wikipedia.org/wiki/レインボーマン "wikilink")→[ダイヤモンド・アイ](../Page/ダイヤモンド・アイ.md "wikilink")
+  - [レインボーマン](../Page/レインボーマン.md "wikilink")→[ダイヤモンド・アイ](../Page/ダイヤモンド・アイ.md "wikilink")
   - [空手バカ一代](../Page/空手バカ一代.md "wikilink")
   - [遠山の金さん](../Page/遠山の金さん.md "wikilink")捕物帳（TVIから移行）
   - [賞金稼ぎ](https://ja.wikipedia.org/wiki/賞金稼ぎ_\(テレビドラマ\) "wikilink")

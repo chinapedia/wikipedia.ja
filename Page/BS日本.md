@@ -391,60 +391,66 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ゴルフ.md" title="wikilink">ゴルフ</a></p></td>
+<td><p>白金台女子ゴルフ部 東西対抗戦</p></td>
+<td><p>日曜 18:30 - 19:00</p></td>
+<td><p>2020年10月4日スタート予定。</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゴルフサバイバル" title="wikilink">ゴルフサバイバル</a></p></td>
 <td><p>金曜 21:00 - 22:00 【アンコール】土曜 8:00 - 9:00</p></td>
 <td><p>最終金曜 18:00 - 21:00に当月分の一挙放送を放送する場合もある。</p></td>
-</tr>
-<tr class="odd">
-<td><p>ゴルフの翼NEXT</p></td>
-<td><p>土曜 17:30 - 18:00</p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
+<td><p>ゴルフの翼NEXT</p></td>
+<td><p>土曜 17:30 - 18:00</p></td>
+<td><p>2020年10月3日より「ゴルフの翼NEXT AGE」より改題し番組リニューアル。</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ワールドレディスチャンピオンシップサロンパスカップ" title="wikilink">ワールドレディスチャンピオンシップ サロンパスカップ</a></p></td>
 <td><p>毎年5月第1or2金曜 - 日曜</p></td>
 <td><p>2019年までは金曜深夜と土曜 - 日曜の午前と深夜でダイジェストで放送していた。 2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルス感染拡大の影響で大会自体が中止の為</a>、2019年の最終日を5月8日 19:30 - 20:54に再放送した。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/モータースポーツ" title="wikilink">モータースポーツ</a></p></td>
 <td><p>速報！MotoGP</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フォーミュラE" title="wikilink">フォーミュラE</a></p></td>
 <td><p>ダイジェスト放送</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FIM世界耐久選手権.md" title="wikilink">FIM世界耐久選手権</a></p></td>
 <td><p>ダイジェスト放送<br />
 （2019年の<a href="https://ja.wikipedia.org/wiki/ル・マン24時間耐久ロードレース" title="wikilink">ル・マン24時間</a>（一部）・<a href="../Page/鈴鹿8時間耐久ロードレース.md" title="wikilink">鈴鹿8耐は生中継</a>）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/世界ラリー選手権.md" title="wikilink">世界ラリー選手権</a></p></td>
 <td><p>ダイジェスト放送</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ロードレース世界選手権.md" title="wikilink">ロードレース世界選手権</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>その他</p></td>
 <td><p>ストロングポイント</p></td>
 <td><p>日曜 17:30 - 18:00</p></td>
-<td></td>
+<td><p>2020年10月4日より「ストロングポイントX」より改題し番組リニューアル。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ボウリング革命_P★League.md" title="wikilink">ボウリング革命 P★League</a></p></td>
 <td><p>土曜 23:00 - 23:30</p></td>
 <td><p>制作協力 - ワイズメンコミュニケーションズ、オフィスて・ら</p></td>
@@ -624,77 +630,61 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>照英・秋丸美帆の最強!釣りバカ対決</p></td>
-<td></td>
-<td><p>木曜 21:00 - 22:00</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/虹のかけ橋" title="wikilink">虹のかけ橋</a></p></td>
-<td><p>木曜 23:00 - 23:30</p></td>
-<td><p>2020年7月16日スタート</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/全国一斉生クイズバトル_Q-フェス!" title="wikilink">全国一斉生クイズバトル Q-フェス!</a></p></td>
 <td><p>第3金曜 23:00 - 24:00</p></td>
 <td><p>2020年5月29日スタート[12] 2020年10月から第3土曜 22:00 - 22:54へ放送枠変更予定。</p></td>
 </tr>
 <tr class="even">
-<td><p>てぇてぇTV</p></td>
-<td><p>金曜 23:30 - 24:00</p></td>
-<td><p>2019年10月18日スタート<br />
-2019年4月26日から9月27日までは、「月いちのてぇてぇTV」として最終金曜23:00 - 23:55に放送。</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/めざせ!プログラミングスター_〜プロスタ★キッズ大集合〜" title="wikilink">今こそ知りたい！めざせ！プログラミングスター</a></p></td>
 <td><p>土曜 10:30 - 11:00</p></td>
 <td><p>2019年4月6日スタート</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>とびだせ!ぐーちょきぱーてぃー</p></td>
 <td><p>土曜 10:15 - 10:30</p></td>
 <td><p>2020年3月28日までは土曜 11:00 - 11:15で放送していた。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/チルテレ" title="wikilink">チルテレ</a></p></td>
 <td><p>土曜 17:00 - 17:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/おぎやはぎの愛車遍歴_NO_CAR,_NO_LIFE!" title="wikilink">おぎやはぎの愛車遍歴 NO CAR, NO LIFE!</a></p></td>
 <td><p>土曜 21:00 - 21:54</p></td>
 <td><p>制作協力 - 東阪企画</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/バカリズムの大人のたしなみズム" title="wikilink">バカリズムの大人のたしなみズム</a></p></td>
 <td><p>土曜 22:00 - 22:54</p></td>
 <td><p>2020年10月から木曜 21:00 - 22:00へ放送枠変更予定。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/コーポレートファイル" title="wikilink">コーポレートファイル</a></p></td>
 <td><p>土曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ももクロと行く!" title="wikilink">ももクロと行く!</a></p></td>
 <td><p>土曜 23:30 - 24:00</p></td>
 <td><p>2019年10月4日スタート 2020年3月27日までは金曜 23:30 - 24:00で放送していた。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/旬感レシピ_〜最高の贈りもの〜" title="wikilink">旬感レシピ 〜最高の贈りもの〜</a></p></td>
 <td><p>日曜 18:00 - 18:30</p></td>
 <td><p>2019年1月20日スタート</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>汐留TV!-こちら、汐テレ★さきどり女子部-</p></td>
 <td><p>日曜 22:54 - 23:00</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>笑イザップ</p></td>
 <td><p>不定期</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>中国語で満喫!日本HOLIDAY</p></td>
 <td><p>不定期</p></td>
 <td></td>
@@ -936,6 +926,7 @@
   - [プレミアムスウィッチ](https://ja.wikipedia.org/wiki/プレミアムスウィッチ "wikilink")
   - [夢の通り道](../Page/夢の通り道.md "wikilink")※
   - [ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")※
+  - [虹のかけ橋](https://ja.wikipedia.org/wiki/虹のかけ橋 "wikilink")
 
 <!-- end list -->
 
@@ -1099,9 +1090,11 @@
   - [アイキャラ](https://ja.wikipedia.org/wiki/アイキャラ "wikilink")
   - [夢眠ねむのまどろみのれん酒](https://ja.wikipedia.org/wiki/夢眠ねむのまどろみのれん酒 "wikilink")
   - [のばん組](https://ja.wikipedia.org/wiki/のばん組 "wikilink")
+      - てぇてぇTV
   - [古川未鈴と古畑奈和のいにしえ乙女酒](https://ja.wikipedia.org/wiki/古川未鈴と古畑奈和のいにしえ乙女酒 "wikilink")
   - 木曜のシネマ★イブ
   - 照英・児島玲子の最強\!釣りバカ対決\!\!
+      - 照英・秋丸美帆の最強\!釣りバカ対決\!\!
   - [古畑前田のえにし酒](https://ja.wikipedia.org/wiki/古畑前田のえにし酒 "wikilink")
   - [Artist](https://ja.wikipedia.org/wiki/Artist "wikilink")
 

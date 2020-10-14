@@ -322,12 +322,13 @@
 ## ネット局
 
   -
-    2020年4月現在
+    2020年10月現在
 
 | 放送対象地域                                              | 放送局                                                        | 系列                                              | 放送日時                 | ネット状況   |
 | --------------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------- | -------------------- | ------- |
 | [関東広域圏](../Page/広域放送.md "wikilink")                 | [TBSテレビ](../Page/TBSテレビ.md "wikilink")（TBS）                | [TBS系列](../Page/ジャパン・ニュース・ネットワーク.md "wikilink") | 月曜 0:50 - 1:20（日曜深夜） | **制作局** |
-| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                    | 同時ネット                                           |                      |         |
+| [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink") | [北海道放送](../Page/北海道放送.md "wikilink")（HBC）                  | 同時ネット                                           |                      |         |
+| [宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink") | [東北放送](../Page/東北放送.md "wikilink")（TBC）                    |                                                 |                      |         |
 | [山梨県](../Page/山梨県.md "wikilink")                    | [テレビ山梨](../Page/テレビ山梨.md "wikilink")（UTY）                  |                                                 |                      |         |
 | [長野県](../Page/長野県.md "wikilink")                    | [信越放送](../Page/信越放送.md "wikilink")（SBC）                    |                                                 |                      |         |
 | [静岡県](../Page/静岡県.md "wikilink")                    | [静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")（SBS） |                                                 |                      |         |

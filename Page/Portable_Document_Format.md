@@ -804,15 +804,9 @@ PDFは画面で見るには、[ユーザビリティ](../Page/ユーザビリテ
     [Scalable Vector Graphics](../Page/Scalable_Vector_Graphics.md "wikilink") (SVG):各種図形を表すファイル形式であるSVGは、PDFと同じく文書のレイアウトを保持したまま表示・印刷する用途に利用できる。現状では、SVGが普及していないが、IE(8以前)を除いて、ほとんどのブラウザで利用できる。そうした中で、XSL FormatterはXML文書からPDFと同等のレイアウト結果をSVGで出力できる。
     [XML Paper Specification](../Page/XML_Paper_Specification.md "wikilink") (XPS):[マイクロソフト](../Page/マイクロソフト.md "wikilink")が策定し、[Windows VistaやMicrosoft](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink") Officeで採用される印刷用のプラットフォーム。PDFとよく似た機能をもち、「PDFキラー」を標榜していたが、Microsoft OfficeでPDFを直接書き出せるようになったこと、Windows 10では標準でPDFを表示できるようになったこと、他のOSやサードパーティー製ソフトの少なさから、主流となりえなかった。
 
-## 脚注
+## 注釈
 
-<https://sohbet.page> Bedava sohbet odalari
-
-### 注釈
-
-### 出典
-
-<http://www.sohbet.ltd> sohbet odaları mobil sohbet siteleri
+## 出典
 
 ## 外部リンク
 
@@ -820,7 +814,6 @@ PDFは画面で見るには、[ユーザビリティ](../Page/ユーザビリテ
   - 過去の仕様書アーカイブ [Adobe PDF Reference Archives](https://www.adobe.com/devnet/pdf/pdf_reference_archive.html) - Adobe Developer Connection
   - [Adobe PDFとは？](https://acrobat.adobe.com/jp/ja/acrobat/about-adobe-pdf.html) - [アドビシステムズ](../Page/アドビシステムズ.md "wikilink")
   - [Adobe Sign、電子サイン、旧EchoSign](https://acrobat.adobe.com/jp/ja/sign.html)（PDF署名） -
-  - <http://www.sohbet.link> Mobil sohbet siteleri bedava sohbet chat.
 
 [Category:PDF](https://ja.wikipedia.org/wiki/Category:PDF "wikilink") [Category:アドビシステムズ](https://ja.wikipedia.org/wiki/Category:アドビシステムズ "wikilink") [Category:オープンフォーマット](https://ja.wikipedia.org/wiki/Category:オープンフォーマット "wikilink") [Category:ベクターグラフィックス](https://ja.wikipedia.org/wiki/Category:ベクターグラフィックス "wikilink") [Category:ページ記述言語](https://ja.wikipedia.org/wiki/Category:ページ記述言語 "wikilink") [Category:電子書籍](https://ja.wikipedia.org/wiki/Category:電子書籍 "wikilink") [Category:DTP](https://ja.wikipedia.org/wiki/Category:DTP "wikilink") [Category:文書作成](https://ja.wikipedia.org/wiki/Category:文書作成 "wikilink") [Category:ISO標準](https://ja.wikipedia.org/wiki/Category:ISO標準 "wikilink")
 

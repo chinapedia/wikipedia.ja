@@ -84,7 +84,7 @@
   - [バルタン星人](../Page/バルタン星人.md "wikilink")二代目、[テンペラー星人](https://ja.wikipedia.org/wiki/テンペラー星人 "wikilink") - [広瀬正志](../Page/広瀬正志.md "wikilink")
   - [ピグモン](../Page/ピグモン.md "wikilink") - [栗葉子](../Page/栗葉子.md "wikilink")
   - [カネゴン](../Page/カネゴン.md "wikilink")、M1号 - [白川澄子](../Page/白川澄子.md "wikilink")
-  - アナウンサー - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー）
+  - アナウンサー - [古舘伊知郎](../Page/古舘伊知郎.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")アナウンサー〈当時〉）
   - ナレーター - [矢島正明](../Page/矢島正明.md "wikilink")
 
 ## スタッフ
@@ -101,7 +101,7 @@
 ## 主題歌
 
   - 「ウルトラマンゾフィー」
-    作詞 - [谷のぼる](../Page/円谷皐.md "wikilink")、作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - 近藤光子、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
+    作詞 - [谷のぼる](../Page/円谷皐.md "wikilink") / 作曲・編曲 - [菊池俊輔](../Page/菊池俊輔.md "wikilink") / 歌 - 近藤光子、[コロムビアゆりかご会](../Page/音羽ゆりかご会.md "wikilink")
   - 「ウルトラマン物語」
     作詞 - 谷のぼる / 作曲・編曲 - 冬木透 / 歌 - [水木一郎](../Page/水木一郎.md "wikilink")、コロムビアゆりかご会
 
@@ -113,7 +113,7 @@
 
 ## 関連項目
 
-  - [ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")
+  - [ハヌマーンと11人のウルトラマン](https://ja.wikipedia.org/wiki/ウルトラ6兄弟VS怪獣軍団#ハヌマーンと11人のウルトラマン "wikilink")
 
 ## 外部リンク
 

@@ -9,7 +9,7 @@ NTSCとは規格を策定した**National Television System Committee**（全米
 
 ## 歴史的経緯
 
-1927年、[フィロ・ファーンズワース](../Page/フィロ・ファーンズワース.md "wikilink")が、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で全電子式テレビジョンの公開実験を行った。その後1933年、アイコノスコープが開発され、さらに感度を向上させてスタジオ撮影も可能とした1938年のオルシコン開発といった、改良された各種[撮像管](../Page/撮像管.md "wikilink")の開発などの要素技術の発展を受けて、[1930年代](../Page/1930年代.md "wikilink")末頃には研究室内での実験段階をクリアして、[商業放送](https://ja.wikipedia.org/wiki/商業放送 "wikilink")が可能なレベルへと到達した。しかしその時点において、各社各様のさまざまな仕様が乱立する気配を見せはじめていた。
+1927年、[フィロ・ファーンズワース](../Page/フィロ・ファーンズワース.md "wikilink")が、[サンフランシスコ](../Page/サンフランシスコ.md "wikilink")で全電子式テレビジョンの公開実験を行った。その後1933年、アイコノスコープが開発され、さらに感度を向上させてスタジオ撮影も可能とした1938年のオルシコン開発といった、改良された各種[撮像管](../Page/撮像管.md "wikilink")の開発などの要素技術の発展を受けて、[1930年代](../Page/1930年代.md "wikilink")末頃には研究室内での実験段階をクリアして、[商業放送](https://ja.wikipedia.org/wiki/商業放送 "wikilink")が可能な水準へと到達した。しかしその時点において、各社各様のさまざまな仕様が乱立する気配を見せはじめていた。
 
 そこで1940年、Radio Manufacturers Association（RMA、後の[Electronic Industries Alliance（EIA）](https://ja.wikipedia.org/wiki/電子工業会 "wikilink")）によって、National Television System Committee（NTSC）が組織された。
 

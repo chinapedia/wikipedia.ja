@@ -1,11 +1,9 @@
 > この記事は[BALDRHEAD](https://ja.wikipedia.org/wiki/BALDRHEAD)から翻訳されています。
 
 
-『**BALDRHEAD〜武装金融外伝〜**』（バルドヘッド ぶそうきんゆうがいでん）は、[1999年](../Page/1999年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[戯画から発売されたオリジナル](../Page/戯画_\(ブランド\).md "wikilink")
+『**BALDRHEAD〜武装金融外伝〜**』（バルドヘッド ぶそうきんゆうがいでん）は、[1999年](../Page/1999年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[戯画から発売された](../Page/戯画_\(ブランド\).md "wikilink")[18禁](../Page/アダルトゲーム.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")、および本作を含むバルドシリーズのアダルトゲームを製作したチーム名。詳細は**[TEAM BALDRHEAD](https://ja.wikipedia.org/wiki/#TEAM_BALDRHEAD "wikilink")**の項を参照。
 
-ロボット[18禁](../Page/アダルトゲーム.md "wikilink")[アクションゲーム](../Page/アクションゲーム.md "wikilink")、および本作を含むバルドシリーズのアダルトゲームを製作したチーム名。詳細は**[TEAM BALDRHEAD](https://ja.wikipedia.org/wiki/#TEAM_BALDRHEAD "wikilink")**の項を参照。
-
-[ノベルADVが氾濫する中](../Page/ビジュアルノベル.md "wikilink")、見下型オリジナルロボット２Dアクションゲームとして製作された。
+[ノベルADVが氾濫する中](../Page/ビジュアルノベル.md "wikilink")、見下型2Dロボットアクションゲームとして製作された。
 
 ## ストーリー
 

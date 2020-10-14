@@ -1,7 +1,7 @@
 > この記事は[やべっちFC〜日本サッカー応援宣言〜](https://ja.wikipedia.org/wiki/やべっちFC〜日本サッカー応援宣言〜)から翻訳されています。
 
 
-『**やべっちF.C. 〜日本サッカー応援宣言〜**』（やべっちエフ・シー にほんサッカーおうえんせんげん）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列にて](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[生放送](../Page/生放送.md "wikilink")されている[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")（[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）。[矢部浩之](../Page/矢部浩之.md "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。
+『**やべっちF.C. 〜日本サッカー応援宣言〜**』（やべっちエフ・シー にほんサッカーおうえんせんげん）は、[テレビ朝日](../Page/テレビ朝日.md "wikilink")[系列にて](../Page/オールニッポン・ニュースネットワーク.md "wikilink")[2002年](../Page/2002年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")から[2020年](../Page/2020年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")まで[生放送](../Page/生放送.md "wikilink")された[スポーツ番組](https://ja.wikipedia.org/wiki/スポーツ番組 "wikilink")（[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")）。[矢部浩之](../Page/矢部浩之.md "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")。全875回。
 
 [2006年](../Page/2006年.md "wikilink")3月までは日曜23:30 - 翌0:00の30分番組だったが、同年4月から日曜23:30 - 翌0:15の45分に拡大された。しかし、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月4日](../Page/4月4日.md "wikilink")以後は放送時間が日曜23:55 - 翌0:30の35分に縮小され、2011年[10月17日](../Page/10月17日.md "wikilink")（16日深夜）からは『[日曜洋画劇場](../Page/日曜洋画劇場.md "wikilink")』の放送時間拡大に伴い、放送時間が15分繰り下げられ、月曜0:10 - 0:45（日曜深夜）での放送となった（後述）。[2019年](../Page/2019年.md "wikilink")[2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink")深夜放送分で、通算の放送回数が800回に到達した。
 
@@ -53,18 +53,22 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
 
 しかし、日刊スポーツが報じた終了時期である2020年8月までに番組の存続に関する発表はされず、同月の最終放送日である8月30日の放送後には公式Twitterが『来週の放送もお楽しみに\!』といった内容のツイートを投稿しており、9月以降も番組は継続している。
 
-その後、9月11日に同月27日放送分を持って、番組の終了が決定\[19\]。10月4日から後継番組に情報バラエティ『[ゆる系忍者隊 ニンスマン](https://ja.wikipedia.org/wiki/ゆる系忍者隊_ニンスマン "wikilink")』（23:55 - 翌0:25）を開始予定\[20\]。
+### 番組の終焉
+
+9月11日に同月27日放送分を持って、番組の終了が決定\[19\]。18年6ヶ月の歴史に幕が閉じる。
+
+10月4日から後継番組に情報バラエティ『[ゆる系忍者隊 ニンスマン](https://ja.wikipedia.org/wiki/ゆる系忍者隊_ニンスマン "wikilink")』（23:55 - 翌0:25）を開始予定\[20\]。ただし全編ローカルセールス枠であるため、一部の地域は別番組となる。
 
 ### 放送時間の変遷
 
-| 期間          | 放送曜日           | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
-| ----------- | -------------- | ----------------------------------------- |
-| 2002年4月7日   | 2006年3月26日     | 日曜日                                       |
-| 2006年4月2日   | 2010年3月28日     | 23:30 - 翌0:15（45分）                        |
-| 2010年4月4日   | 2011年10月9日     | 23:55 - 翌0:30（35分）                        |
-| 2011年10月17日 | 2017年4月17日     | 月曜日（日曜日深夜）                                |
-| 2017年4月24日  | 2020年3月30日     | 0:05 - 0:40（35分）                          |
-| 2020年4月5日   | 2020年9月27日（予定） | 日曜日                                       |
+| 期間          | 放送曜日       | 放送時間（[日本時間](../Page/日本標準時.md "wikilink")） |
+| ----------- | ---------- | ----------------------------------------- |
+| 2002年4月7日   | 2006年3月26日 | 日曜日                                       |
+| 2006年4月2日   | 2010年3月28日 | 23:30 - 翌0:15（45分）                        |
+| 2010年4月4日   | 2011年10月9日 | 23:55 - 翌0:30（35分）                        |
+| 2011年10月17日 | 2017年4月17日 | 月曜日（日曜日深夜）                                |
+| 2017年4月24日  | 2020年3月30日 | 0:05 - 0:40（35分）                          |
+| 2020年4月5日   | 2020年9月27日 | 日曜日                                       |
 
 ## 出演者
 
@@ -162,7 +166,7 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
 <td></td>
 </tr>
 <tr class="even">
-<td><p>2018年10月8日 - 2020年9月27日（予定）</p></td>
+<td><p>2018年10月8日 - 2020年9月27日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/寺川俊平" title="wikilink">寺川俊平</a><sup>6</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三谷紬" title="wikilink">三谷紬</a><sup>6</sup></p></td>
 <td></td>
@@ -543,7 +547,7 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
 </tr>
 <tr class="even">
 <td><p><a href="../Page/広域放送.md" title="wikilink">近畿広域圏</a></p></td>
-<td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>（ABC）[24]</p></td>
+<td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送テレビ</a>（ABC TV）[24]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -639,7 +643,7 @@ Jリーグの全日程終了から「[Jリーグアウォーズ](https://ja.wiki
   - [テレ朝サッカー](http://www.tv-asahi.co.jp/soccer/)
 
   -
-[Category:テレビ朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組 "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:矢部浩之](https://ja.wikipedia.org/wiki/Category:矢部浩之 "wikilink") [Category:テレビ朝日の年末年始特番](https://ja.wikipedia.org/wiki/Category:テレビ朝日の年末年始特番 "wikilink")
+[Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:テレビ朝日のスポーツ番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日のスポーツ番組 "wikilink") [Category:テレビのサッカー番組_(日本)](https://ja.wikipedia.org/wiki/Category:テレビのサッカー番組_\(日本\) "wikilink") [Category:2002年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のテレビ番組_\(日本\) "wikilink") [Category:矢部浩之](https://ja.wikipedia.org/wiki/Category:矢部浩之 "wikilink") [Category:テレビ朝日の年末年始特番](https://ja.wikipedia.org/wiki/Category:テレビ朝日の年末年始特番 "wikilink")
 
 1.  [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[11月14日](../Page/11月14日.md "wikilink")の放送では、矢部と前田がドイツ訪問で不在だったため、竹内がメインMCとして番組を進行した。
 2.  [まんたんウェブ：＜テレビ朝日＞日曜午後11時に「日曜ナイトドラマ」 「トリック」生んだ金曜日に続く新枠](http://mainichi.jp/enta/mantan/news/20100305mog00m200057000c.html)

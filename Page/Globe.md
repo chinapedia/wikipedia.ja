@@ -5,7 +5,7 @@
 
 デビューアルバム「[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")」は400万枚を売り上げた。ダブルミリオンを記録した「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」をはじめ「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」など多数のメガヒットシングルがある。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")や[華原朋美](../Page/華原朋美.md "wikilink")、[TRF](../Page/TRF.md "wikilink")らとともに[小室ファミリー](../Page/小室ファミリー.md "wikilink")の一時代を築き上げた。
 
-現在、globeとしてはマーク・パンサーのみが活動\[1\]を続けている。
+現在、globeとしてはマーク・パンサーのみが活動\[1\] を続けている。
 
 ## メンバー
 
@@ -34,7 +34,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月9日](../Page/8月9日.md "wikilink")1stシングル「Feel Like dance」（[オリコン](../Page/オリコン.md "wikilink")初登場3位）でデビュー、いきなり95万枚の大ヒットに。続く2枚目の「[Joy to the love (globe)](../Page/Joy_to_the_love_\(globe\).md "wikilink")」で早くも[オリコン](../Page/オリコン.md "wikilink")初登場1位を記録し、3枚目の「SWEET PAIN」（[オリコン](../Page/オリコン.md "wikilink")初登場2位）も90万枚を突破し、デビュー間もなくして[ミリオンセラー](../Page/ミリオンセラー.md "wikilink")寸前となるヒット作を連発。知名度が爆発的に上昇するに至って、globeはテレビや音楽番組への出演を解禁。同時に、「Feel Like dance」のPVをglobeの歌唱映像に変更するなど、次第に露出度を増やしていくことになった。
 
-[1996年](../Page/1996年.md "wikilink")、[JR東日本](https://ja.wikipedia.org/wiki/JR東日本 "wikilink")のCMソングに起用された[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
+[1996年](../Page/1996年.md "wikilink")、[JR東日本のCMソングに起用された](../Page/東日本旅客鉄道.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")発売の4thシングル「[DEPARTURES](../Page/DEPARTURES.md "wikilink")」は売上230万枚の大ヒットとなる。同曲は[オリコン年間シングルチャート](../Page/オリコンチャート.md "wikilink")2位、[プラネット](https://ja.wikipedia.org/wiki/プラネット "wikilink")と[CDTVの年間シングルチャート](../Page/COUNT_DOWN_TV.md "wikilink")1位を記録した。さらにデビューから僅か7ヶ月にして[3月31日](../Page/3月31日.md "wikilink")発売の1stアルバム『[globe](https://ja.wikipedia.org/wiki/globe_\(アルバム\) "wikilink")』は売上400万枚以上のヒットとなった（翌年4月、出荷枚数455万枚の当時の日本記録を達成）。このアルバムは、同年の[第38回日本レコード大賞](https://ja.wikipedia.org/wiki/第38回日本レコード大賞 "wikilink")アルバム賞に選ばれた。その後、[GLAY](../Page/GLAY.md "wikilink")と[B'z](../Page/B'z.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")がこの記録を後を追うように更新するが、当時のavex依田会長は「オリジナルで超えてみろ」と発言したとされる。[8月28日](../Page/8月28日.md "wikilink")発売シングル「[Is this love](../Page/Is_this_love.md "wikilink")」のPVはアメリカ・[アリゾナ州](https://ja.wikipedia.org/wiki/アリゾナ州 "wikilink")で撮影され、当時としては総額1億円という破格の撮影費が投じられた。 9月『Private Tour house of globe』。ロードムービー撮影という名目のglobe初のツアーを敢行。「Is this love」のCD購入者から抽選で招待してコンサートが行われた。10月には「DEPARTURES」に続くJR東海のCMソングとして「[Can't Stop Fallin' in Love](../Page/Can't_Stop_Fallin'_in_Love.md "wikilink")」をリリースし130万枚のミリオンセラーを記録。同曲で年末の[NHK紅白歌合戦](../Page/NHK紅白歌合戦.md "wikilink")に初出場を果たした。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[1月](https://ja.wikipedia.org/wiki/1月 "wikilink")発売の「[FACE](../Page/FACE_\(globeの曲\).md "wikilink")」も130枚を突破する自身3枚目のミリオンセラーとなり、[3月12日](../Page/3月12日.md "wikilink")には2ndアルバム『[FACES PLACES](../Page/FACES_PLACES_\(アルバム\).md "wikilink")』を発売。その後、前代未聞の[大阪](../Page/大阪ドーム.md "wikilink")、[福岡](../Page/福岡ドーム.md "wikilink")、[名古屋](../Page/ナゴヤドーム.md "wikilink")、[東京](../Page/東京ドーム.md "wikilink")4大ドームツアー「globe＠4_domes」を敢行。5月には、初の日本国外でのツアー「TK PAN-PACIFIC TOUR '97 IN TAIPEI」開催。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[TRF](../Page/TRF.md "wikilink")とともに台湾・[台北](https://ja.wikipedia.org/wiki/台北 "wikilink")を訪れ、テレビ出演やライブを行った。
 
@@ -84,7 +84,7 @@ globeが特定のメンバーをフィーチャーするときはglobe featuring
 
 6月16日、小室のブログの記事において、globeが活動再開を宣言。8月31日、a-nationにシークレットアーティストとして出演し、停滞していた活動を約2年ぶりに再開させた形となった。
 
-11月4日、小室哲哉が5億円詐欺事件により逮捕。エイベックスは2008年11月～2009年1月までに発売が予定されていたシングル3枚（1枚は未定）\[7\]\[8\]の発売中止ならびにglobeの全曲の配信を停止することを発表。これによりglobeは活動不能の状態となった。
+11月4日、小室哲哉が5億円詐欺事件により逮捕。エイベックスは2008年11月～2009年1月までに発売が予定されていたシングル3枚（1枚は未定）\[7\]\[8\] の発売中止ならびにglobeの全曲の配信を停止することを発表。これによりglobeは活動不能の状態となった。
 
 [2009年](../Page/2009年.md "wikilink")8月22日、a-nationにシークレットアーティストとして登場し、音楽活動に復帰した。その中で、小室哲哉は観客に向かって頭を下げ続け謝罪の挨拶をした\[9\]。その模様は期間限定でエイベックスの携帯電話向け動画サイト[Bee TVで配信された](https://ja.wikipedia.org/wiki/Bee_TV "wikilink")。また、この日よりglobeの楽曲配信を再開した\[10\]。
 
@@ -881,5 +881,5 @@ CD</p></td>
 20. レンタル盤の規格品番
 21. レンタル盤のみ。エイベックスは2004年10月より販売用CDにおいては導入の弾力化を行っていたが、レンタル盤においては2006年12月までCCCDを採用し続けていた。
 22. 通信販売、催事会場での販売など販路が限定されている商品。
-23. 通信販売、催事会場での販売など販路が限定されている商品。
+23.
 24. globeが主導になって制作したものではないため規格品番はavex traxの番号が振られている。

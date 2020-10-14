@@ -1,7 +1,7 @@
 > この記事は[BATTLE TALK RADIO アクセス](https://ja.wikipedia.org/wiki/BATTLE_TALK_RADIO_アクセス)から翻訳されています。
 
 
-**BATTLE TALK RADIO アクセス**（バトルトークラジオ アクセス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月〜[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションとして放送していた](../Page/キー局.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
+**BATTLE TALK RADIO アクセス**（バトルトークラジオ アクセス）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")10月 - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")4月まで[TBSラジオ](../Page/TBSラジオ.md "wikilink")を[キーステーションとして放送していた](../Page/キー局.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")。
 
 ## 概要
 
@@ -25,10 +25,10 @@
 
 ## 放送時間
 
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")初回から1999年3月まで：月曜〜金曜 22:00-23:30。
-  - [1999年](../Page/1999年.md "wikilink")4月より2009年3月まで：月曜〜金曜 22:00-23:40。
-  - [2009年](../Page/2009年.md "wikilink")4月より2009年9月まで：月曜〜金曜 22:00-24:00。
-  - 2009年10月より最終回[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで：月曜〜金曜 22:00-23:55。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月5日](../Page/10月5日.md "wikilink")初回から1999年3月まで：月曜 - 金曜 22:00 - 23:30
+  - [1999年](../Page/1999年.md "wikilink")4月より2009年3月まで：月曜 - 金曜 22:00 - 23:40
+  - [2009年](../Page/2009年.md "wikilink")4月より2009年9月まで：月曜 - 金曜 22:00 - 24:00
+  - 2009年10月より最終回[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[4月2日](../Page/4月2日.md "wikilink")まで：月曜 - 金曜 22:00 - 23:55
 
 TBSラジオ以外のネット局は、23時27分30秒までの放送（「バトルトーク」の途中でネット終了（2009年4月より））。その後、ナビゲーターによる宛先の案内（録音）が流される。TBSラジオではこのあと「交通情報」が放送され、バトルトークが続く。
 

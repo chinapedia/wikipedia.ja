@@ -371,6 +371,7 @@
   -
   -
   -
+  -
 [Category:NBCユニバーサル・エンターテイメントジャパン](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・エンターテイメントジャパン "wikilink") [Category:日本の音楽・映像ソフト会社](https://ja.wikipedia.org/wiki/Category:日本の音楽・映像ソフト会社 "wikilink") [Category:日本のアニメメーカー](https://ja.wikipedia.org/wiki/Category:日本のアニメメーカー "wikilink") [Category:アニメソング・レーベル](https://ja.wikipedia.org/wiki/Category:アニメソング・レーベル "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:ユニバーサル・スタジオ](https://ja.wikipedia.org/wiki/Category:ユニバーサル・スタジオ "wikilink") [Category:パイオニアの歴史](https://ja.wikipedia.org/wiki/Category:パイオニアの歴史 "wikilink") [Category:電通の歴史](https://ja.wikipedia.org/wiki/Category:電通の歴史 "wikilink") [Category:合同会社](https://ja.wikipedia.org/wiki/Category:合同会社 "wikilink") [Category:1981年設立の企業](https://ja.wikipedia.org/wiki/Category:1981年設立の企業 "wikilink")
 
 1.  その後、同社の家庭用AV事業は機能子会社の「パイオニアホームエレクトロニクス株式会社」への移管を経て、[2015年](../Page/2015年.md "wikilink")3月より「[オンキヨー](../Page/オンキヨー.md "wikilink")株式会社」の機能子会社の「[オンキヨー&パイオニア](https://ja.wikipedia.org/wiki/オンキヨー&パイオニア "wikilink")株式会社」に再び移管された。

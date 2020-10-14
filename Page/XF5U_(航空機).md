@@ -48,6 +48,16 @@ XF5Uは"フライング・[パンケーキ](../Page/ホットケーキ.md "wikil
 | 爆装                                                    | 1,000/500lbs爆弾×2、合計2,000lbs (907kg)                                                                                                                                          |
 |                                                       |                                                                                                                                                                              |
 
+## 現存する機体
+
+製造された2機は両方とも廃棄され現存するものはないが、軍への提出前に試作されたV-173は1機が現存している。また、1機のV-173レプリカも制作された。
+
+| 型名    | 番号    | 機体写真                                                                                                                                                                                                                                                                                                         | 所在地         | 所有者                                                                                                                   | 公開状況 | 状態   | 備考                                                              |
+| ----- | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------- | --------------------------------------------------------------------------------------------------------------------- | ---- | ---- | --------------------------------------------------------------- |
+| V-173 | 02978 | [Frontiers_of_Flight_Museum_December_2015_107_(Vought_V-173_"Flying_Pancake").jpg](https://ja.wikipedia.org/wiki/File:Frontiers_of_Flight_Museum_December_2015_107_\(Vought_V-173_"Flying_Pancake"\).jpg "fig:Frontiers_of_Flight_Museum_December_2015_107_(Vought_V-173_\"Flying_Pancake\").jpg") | アメリカ テキサス州  | [飛行最先端博物館](https://ja.wikipedia.org/wiki/:en:Frontiers_of_Flight_Museum "wikilink")[1](https://www.flightmuseum.com/) | 公開   | 静態展示 | [2](https://www.flightmuseum.com/aircraft/chance-vought-v-173/) |
+| レプリカ  | 02978 | [V-173_Futuroscope_(3).JPG](https://ja.wikipedia.org/wiki/File:V-173_Futuroscope_\(3\).JPG "fig:V-173_Futuroscope_(3).JPG")                                                                                                                                                                                | フランス ヴィエンヌ県 | [フューチュロスコープ公園](https://ja.wikipedia.org/wiki/:en:Futuroscope "wikilink")[3](https://www.futuroscope.com/en/)          | 公開   | 静態展示 |                                                                 |
+|       |       |                                                                                                                                                                                                                                                                                                              |             |                                                                                                                       |      |      |                                                                 |
+
 ## 登場作品
 
 ### 小説

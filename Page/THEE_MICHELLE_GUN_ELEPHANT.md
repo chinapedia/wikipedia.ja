@@ -13,62 +13,94 @@
 
 ## メンバー
 
-[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")については、チバ→クハラとなっていた\[1\]。
-
-  - **[チバユウスケ](../Page/チバユウスケ.md "wikilink")**：[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        結成当初から在籍。楽曲によっては[ギター](../Page/ギター.md "wikilink")や[タンブリン](https://ja.wikipedia.org/wiki/タンブリン "wikilink")、[マラカス](../Page/マラカス.md "wikilink")、[ハーモニカ](../Page/ハーモニカ.md "wikilink")などの楽器も使用する。また、THEE MICHELLE GUN ELEPHANTの全楽曲の[作詞](../Page/作詞.md "wikilink")も務める。解散後は**[ROSSO](../Page/ROSSO.md "wikilink")**等で活動後、[2006年](../Page/2006年.md "wikilink")よりクハラと共に**[The Birthday](../Page/The_Birthday.md "wikilink")**を結成し活動中。
-
-<!-- end list -->
-
-  - **[クハラカズユキ](../Page/クハラカズユキ.md "wikilink")**：[ドラムス](../Page/ドラムセット.md "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        結成直後に加入。THEE MICHELLE GUN ELEPHANTのリーダー。解散後、**うつみようこ\&YOKOLOCO BAND**や、**M.J.Q**などのメンバーとして活動し、2006年からチバと共に**[The Birthday](../Page/The_Birthday.md "wikilink")**を結成し活動中。
-
-<!-- end list -->
-
-  - **[ウエノコウジ](../Page/ウエノコウジ.md "wikilink")**：[ベース](../Page/ベース_\(弦楽器\).md "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        結成直後に加入。解散後は主に**[the HIATUS](https://ja.wikipedia.org/wiki/the_HIATUS "wikilink")**、**[Radio Caroline](../Page/Radio_Caroline.md "wikilink")**のメンバーとして活動。また**武藤昭平 with ウエノコウジ**としての活動や、サポートミュージシャンとしても活動している。
-
-<!-- end list -->
-
-  - **[アベフトシ](../Page/アベフトシ.md "wikilink")**：[ギター](../Page/ギター.md "wikilink")
-
-<!-- end list -->
-
-  -
-
-      -
-        [1994年](../Page/1994年.md "wikilink")加入\[2\]。解散後は、**[KOOLOGI](../Page/KOOLOGI.md "wikilink")**に参加するも脱退。その後**CARRIE**を結成するが数本のライブで解散。その後、故郷・広島に帰り塗装工として生計を立てていたが、[吉川晃司](../Page/吉川晃司.md "wikilink")の要請により、吉川晃司のステージのギターを務めた\[3\]。2009年7月22日未明、急性硬膜外血腫により急逝。
-
-### 旧メンバー
-
-  - **シガケイイチ**：ギター
-
-<!-- end list -->
-
-  -
-
-      -
-        [1968年](../Page/1968年.md "wikilink")[4月19日](../Page/4月19日.md "wikilink")生まれ。[熊本県](https://ja.wikipedia.org/wiki/熊本県 "wikilink")出身。脱退後は**THE WATTER**のギター担当として活動している。
-
-上記の他にも、結成時に在籍し、直後に脱退した旧メンバーが2名挙げられるが、氏名が公表されていない。なお、シガケイイチはアルバム『MAXIMUM\! MAXIMUM\!\! MAXIMUM\!\!\!』に氏名が掲載されている。
+<table>
+<thead>
+<tr class="header">
+<th><p>氏名</p></th>
+<th><p>パート</p></th>
+<th><p>生年月日・出身地</p></th>
+<th><p>在籍期間</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>最終メンバー</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/チバユウスケ.md" title="wikilink">チバ ユウスケ</a></strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ボーカル" title="wikilink">Vo.</a> / <a href="../Page/ギター.md" title="wikilink">Gt.</a></p></td>
+<td><p><br />
+<a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/藤沢市.md" title="wikilink">藤沢市</a></p></td>
+<td><p>結成 - <a href="../Page/2003年.md" title="wikilink">2003年</a>10月</p></td>
+<td><ul>
+<li>楽曲によっては<a href="https://ja.wikipedia.org/wiki/ハンドマイク" title="wikilink">ハンドマイク</a>で歌ったり、<a href="../Page/タンバリン.md" title="wikilink">タンバリン</a>や<a href="../Page/ハーモニカ.md" title="wikilink">ハーモニカ</a>等も使用</li>
+<li>TMGE解散後は<a href="../Page/ROSSO.md" title="wikilink">ROSSO</a>、<a href="../Page/The_Birthday.md" title="wikilink">The Birthday等で活動</a></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/アベフトシ.md" title="wikilink">アベ フトシ</a></strong></p></td>
+<td><p>Gt.</p></td>
+<td><p><a href="../Page/1966年.md" title="wikilink">1966年</a><a href="../Page/12月16日.md" title="wikilink">12月16日</a><br />
+<a href="../Page/広島県.md" title="wikilink">広島県</a><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a></p></td>
+<td><p><a href="../Page/1994年.md" title="wikilink">1994年</a>6月 - 2003年10月</p></td>
+<td><ul>
+<li>解散後は幾つかのバンドで活動した後、広島で塗装工として生活していた</li>
+<li><a href="../Page/2009年.md" title="wikilink">2009年</a><a href="../Page/7月22日.md" title="wikilink">7月22日</a>没（享年42）</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/ウエノコウジ.md" title="wikilink">ウエノ コウジ</a></strong></p></td>
+<td><p><a href="../Page/エレクトリックベース.md" title="wikilink">Ba.</a></p></td>
+<td><p><br />
+<a href="../Page/広島県.md" title="wikilink">広島県</a><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1990年" title="wikilink">1990年</a>12月？ - 2003年10月</p></td>
+<td><ul>
+<li>解散後は<a href="../Page/Radio_Caroline.md" title="wikilink">Radio Caroline</a>、<a href="https://ja.wikipedia.org/wiki/the_HIATUS" title="wikilink">the HIATUS等に所属</a></li>
+<li>TMGE在籍中からサポートミュージシャンとしての活動も行っている</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/クハラカズユキ.md" title="wikilink">クハラ カズユキ</a></strong></p></td>
+<td><p><a href="../Page/ドラムセット.md" title="wikilink">Dr.</a></p></td>
+<td><p><br />
+<a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a><a href="https://ja.wikipedia.org/wiki/北見市" title="wikilink">北見市</a></p></td>
+<td><p>1990年11月 - 2003年10月</p></td>
+<td><ul>
+<li>バンドリーダー</li>
+<li>解散後はチバと共にThe Birthdayに所属、サポート活動も行っている</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>元メンバー</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>シガ ケイイチ</strong></p></td>
+<td><p>Gt.</p></td>
+<td><p><br />
+<a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
+<td><p>？</p></td>
+<td><ul>
+<li>脱退後は<a href="https://ja.wikipedia.org/wiki/THE_WATTER" title="wikilink">THE WATTERにてギタリストとして活動</a></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## バンドの特徴
 
@@ -88,7 +120,7 @@
 
 ### ルックス
 
-細身の[モッズ](../Page/モッズ.md "wikilink")[スーツ](https://ja.wikipedia.org/wiki/スーツ "wikilink")を衣装とし、[ライブにおいてはほぼ欠かさず着用している](../Page/演奏会.md "wikilink")。スーツは都内にある「洋服の並木」という[洋品店](https://ja.wikipedia.org/wiki/洋品店 "wikilink")でオーダーメイドされたものを着用していた\[4\]。テレビ等のインタビューでは、革ジャンや黒を基調とした服装も多かった。ライブの終盤等では暑さもあり、背広を脱いだワイシャツ姿やTシャツ姿で演奏することも多い。
+細身の[モッズ](../Page/モッズ.md "wikilink")[スーツ](https://ja.wikipedia.org/wiki/スーツ "wikilink")を衣装とし、[ライブにおいてはほぼ欠かさず着用している](../Page/演奏会.md "wikilink")。スーツは都内にある「洋服の並木」という[洋品店](https://ja.wikipedia.org/wiki/洋品店 "wikilink")でオーダーメイドされたものを着用していた\[1\]。テレビ等のインタビューでは、革ジャンや黒を基調とした服装も多かった。ライブの終盤等では暑さもあり、背広を脱いだワイシャツ姿やTシャツ姿で演奏することも多い。
 
 『[カサノバ・スネイク](https://ja.wikipedia.org/wiki/カサノバ・スネイク "wikilink")』から『[ロデオ・タンデム・ビート・スペクター](../Page/ロデオ・タンデム・ビート・スペクター.md "wikilink")』をリリースするまで、チバが髪型をオールバックにしてメディアに登場することがあり、その姿はアルバムのジャケット等で確認することが出来る。DVD『GOD JAZZ TIME』に収録されたWORLD RODEO TANDEM BEAT SPECTER TOURでは、ギヤ・ブルーズ期までの髪型へ戻っている。
 
@@ -98,15 +130,15 @@
 
 [明治学院大学](../Page/明治学院大学.md "wikilink")のバンドサークル「ソング・ライツ」内にて結成される。結成時のメンバーは現行メンバーとほとんど異なっており、一致するのはチバのみである。クハラとウエノは学内にあった「世界民族音楽研究会」という別のバンドサークルに所属していた。
 
-[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")11月、明治学院大学の学園祭「白金祭」で行われたライブを観覧していたクハラがチバに「おまえの後ろで叩かせてほしい」と申し出たため、当時のドラムス担当をクビにした上で\[5\]メンバーに加入することとなった。その後、ベース担当のメンバーが脱退し、親交の深かった\[6\]ウエノが後任のベーシストに選ばれた。当時ウエノは広告代理店への就職が内定していたが、これを辞退して音楽の道を選んだ。
+[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")11月、明治学院大学の学園祭「白金祭」で行われたライブを観覧していたクハラがチバに「おまえの後ろで叩かせてほしい」と申し出たため、当時のドラムス担当をクビにした上で\[2\]メンバーに加入することとなった。その後、ベース担当のメンバーが脱退し、親交の深かった\[3\]ウエノが後任のベーシストに選ばれた。当時ウエノは広告代理店への就職が内定していたが、これを辞退して音楽の道を選んだ。
 
-[1991年](../Page/1991年.md "wikilink")4月3日、[下北沢屋根裏にて初](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")公演\[7\]。以後、下北沢や渋谷のライブハウスを中心に本格的な活動を開始。多くの資料は、この1991年をバンドの結成年としている。同年11月3日、[相模女子大学](../Page/相模女子大学.md "wikilink")の学園祭で初の野外ライブを行う。[1992年](../Page/1992年.md "wikilink")8月23日、「NTTテレフォンフェスティバル」というイベントに参加。
+[1991年](../Page/1991年.md "wikilink")4月3日、[下北沢屋根裏にて初](https://ja.wikipedia.org/wiki/屋根裏_\(ライブハウス\) "wikilink")[ライブハウス](../Page/ライブハウス.md "wikilink")公演\[4\]。以後、下北沢や渋谷のライブハウスを中心に本格的な活動を開始。多くの資料は、この1991年をバンドの結成年としている。同年11月3日、[相模女子大学](../Page/相模女子大学.md "wikilink")の学園祭で初の野外ライブを行う。[1992年](../Page/1992年.md "wikilink")8月23日、「NTTテレフォンフェスティバル」というイベントに参加。
 
 ### インディーズ時代
 
 [1993年](../Page/1993年.md "wikilink")に[UKプロジェクト](../Page/UKプロジェクト.md "wikilink")に所属する。同年11月25日、初音源となるライブアルバム『MAXIMUM\! MAXIMUM\!\! MAXIMUM\!\!\!』を同レーベルからリリース。ライブを重ねるごとに徐々に動員を増やしていく中、シガがメンバーから脱退、一時は解散の危機を迎えた。以後しばらく3人編成のままライヴ活動を継続した。
 
-[1994年](../Page/1994年.md "wikilink")1月24日、メンバーが敬愛する[ドクター・フィールグッド](../Page/ドクター・フィールグッド.md "wikilink")の元ギタリストである[ウィルコ・ジョンソン](../Page/ウィルコ・ジョンソン.md "wikilink")の[渋谷クラブクアトロでのライブにて](../Page/CLUB_QUATTRO.md "wikilink")、オープニング・アクトを務める\[8\]。
+[1994年](../Page/1994年.md "wikilink")1月24日、メンバーが敬愛する[ドクター・フィールグッド](../Page/ドクター・フィールグッド.md "wikilink")の元ギタリストである[ウィルコ・ジョンソン](../Page/ウィルコ・ジョンソン.md "wikilink")の[渋谷クラブクアトロでのライブにて](../Page/CLUB_QUATTRO.md "wikilink")、オープニング・アクトを務める\[5\]。
 
 しかし、その年の春にクハラが就職のため帰郷。6月に知人の仲介によりアベが加入。この時期のクハラは週末に北海道から上京し、在京メンバーと合流してライブに出演していた。
 
@@ -116,7 +148,7 @@
 
 [1996年](../Page/1996年.md "wikilink")2月1日、[日本コロムビア](../Page/日本コロムビア.md "wikilink")内のレーベルである[トライアド](https://ja.wikipedia.org/wiki/トライアド "wikilink")より[シングル](../Page/シングル.md "wikilink")「[世界の終わり](https://ja.wikipedia.org/wiki/世界の終わり_\(thee_michelle_gun_elephantの曲\) "wikilink")」にて[メジャー・デビュー](../Page/メジャー・デビュー_\(音楽家\).md "wikilink")。1か月後の3月1日にメジャー初のアルバム『[cult grass stars](https://ja.wikipedia.org/wiki/cult_grass_stars "wikilink")』をリリースした。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月21日](../Page/10月21日.md "wikilink")、シングル「[バードメン](https://ja.wikipedia.org/wiki/バードメン "wikilink")」をリリース。「[ぷらちなロンドンブーツ](../Page/ぷらちなロンドンブーツ.md "wikilink")」のオープニングテーマにも起用されヒットする。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月には[東京](../Page/東京.md "wikilink")・[豊洲](../Page/豊洲.md "wikilink")で行われた[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")に出演。激しい[モッシュ](../Page/モッシュ.md "wikilink")が巻き起こり安全のために何度か演奏が中断されるほどに白熱したライヴを披露した\[9\]。同年11月に4thアルバム『[ギヤ・ブルーズ](../Page/ギヤ・ブルーズ.md "wikilink")』をリリース。直後、ホール・アリーナクラスでありながらオールスタンディング仕様で行われたツアー『WORLD PSYCHO BLUES TOUR』を実施。このツアーのファイナルの会場は[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")が選ばれ、横浜アリーナとしては前代未聞のオール・スタンディング・ライブを開催。チケットは即完売となり、観客の動員人数は延べ1万5000人であるとされている。当日観客席にいた[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")社長の[渋谷陽一](../Page/渋谷陽一.md "wikilink")はこの光景を見て「音楽評論家を始めて30年、いつか日本にもこういう日が来るのではと夢見てきたが、本当に来た、と思わず涙ぐみそうになった」と心情を表した\[10\]。
+[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")8月には[東京](../Page/東京.md "wikilink")・[豊洲](../Page/豊洲.md "wikilink")で行われた[フジ・ロック・フェスティバル](https://ja.wikipedia.org/wiki/フジ・ロック・フェスティバル "wikilink")に出演。激しい[モッシュ](../Page/モッシュ.md "wikilink")が巻き起こり安全のために何度か演奏が中断されるほどに白熱したライヴを披露した\[6\]。同年11月に4thアルバム『[ギヤ・ブルーズ](../Page/ギヤ・ブルーズ.md "wikilink")』をリリース。直後、ホール・アリーナクラスでありながらオールスタンディング仕様で行われたツアー『WORLD PSYCHO BLUES TOUR』を実施。このツアーのファイナルの会場は[横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")が選ばれ、横浜アリーナとしては前代未聞のオール・スタンディング・ライブを開催。チケットは即完売となり、観客の動員人数は延べ1万5000人であるとされている。当日観客席にいた[ロッキング・オン](../Page/ロッキング・オン.md "wikilink")社長の[渋谷陽一](../Page/渋谷陽一.md "wikilink")はこの光景を見て「音楽評論家を始めて30年、いつか日本にもこういう日が来るのではと夢見てきたが、本当に来た、と思わず涙ぐみそうになった」と心情を表した\[7\]。
 
 [1999年](../Page/1999年.md "wikilink")、ツアーを終えたバンドは国内のみならずイギリスやアメリカも廻る『WORLD GEAR BLUES TOUR』を実施。その間にも[RISING SUN ROCK FESTIVALおよび各種イベントに参加し精力的なライブ活動を展開した](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink")。[2000年](../Page/2000年.md "wikilink")にはシングル『[GT400](https://ja.wikipedia.org/wiki/GT400 "wikilink")』、アルバム『[カサノバ・スネイク](https://ja.wikipedia.org/wiki/カサノバ・スネイク "wikilink")』のリリースを経て、ヨーロッパを廻る『TMGE EUROPE TOUR 2000』を実施。帰国後『WORLD CASANOVA SNAKE TOUR』を開催したが、ファンがペットボトルをステージ上に投げ入れるなどの妨害でにライブが中断するという逆境に数ヶ月間見舞われた。しかしツアー終了後の『[FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink")』では、二日目のグリーンステージのトリを飾る。その後、シングル『[ベイビー・スターダスト](https://ja.wikipedia.org/wiki/ベイビー・スターダスト "wikilink")』をリリース。
 
@@ -126,13 +158,13 @@
 
 2002年7月1日付で[ユニバーサルミュージック内のレーベルである](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")[ユニバーサルシグマに移籍し活動再開](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#ユニバーサルシグマ "wikilink")。フェス等に出演後、9月6日から「Where is Susie? TOUR」がスタート。12月25日、トライアドからのベストアルバム『[THEE MICHELLE GUN ELEPHANT GRATEFUL TRIAD YEARS](https://ja.wikipedia.org/wiki/THEE_MICHELLE_GUN_ELEPHANT_GRATEFUL_TRIAD_YEARS "wikilink")』をリリース。同日、[ユニバーサルミュージック移籍後初のシングル](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")『[太陽をつかんでしまった](https://ja.wikipedia.org/wiki/太陽をつかんでしまった "wikilink")』をリリース。
 
-[2003年](../Page/2003年.md "wikilink")、7thアルバム『[SABRINA HEAVEN](../Page/SABRINA_HEAVEN.md "wikilink")』と8thアルバム『[SABRINA NO HEAVEN](../Page/SABRINA_NO_HEAVEN.md "wikilink")』を連続リリースし、4月からは『WILD WILD SABRINA HEAVEN TOUR』を実施。『SABRINA NO HEAVEN』はリリース前であったが、収録曲はツアーで演奏された。[6月27日](../Page/6月27日.md "wikilink")、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に初出演し、『SABRINA NO HEAVEN』収録曲の「デッドマンズ・ギャラクシー・デイズ」を演奏。その際の別のゲスト、[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")が生放送中に出演を放棄するというハプニングが発生。既に演奏を終えていたTHEE MICHELLE GUN ELEPHANTが埋め合わせとして急遽「ミッドナイト・クラクション・ベイビー」を番組の最後に追加で演奏した\[11\]。しかし人気絶頂と思われた矢先の同年8月31日、ファンクラブ会員へ向けた封書で解散を通知。翌9月1日には自身の公式ウェブサイトにて正式に発表される。発表後の9月5日、ミュージックステーションに再び出演し「エレクトリック・サーカス」を演奏したが、これが最後のテレビ出演となった。
+[2003年](../Page/2003年.md "wikilink")、7thアルバム『[SABRINA HEAVEN](../Page/SABRINA_HEAVEN.md "wikilink")』と8thアルバム『[SABRINA NO HEAVEN](../Page/SABRINA_NO_HEAVEN.md "wikilink")』を連続リリースし、4月からは『WILD WILD SABRINA HEAVEN TOUR』を実施。『SABRINA NO HEAVEN』はリリース前であったが、収録曲はツアーで演奏された。[6月27日](../Page/6月27日.md "wikilink")、[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")に初出演し、『SABRINA NO HEAVEN』収録曲の「デッドマンズ・ギャラクシー・デイズ」を演奏。その際の別のゲスト、[t.A.T.u.](https://ja.wikipedia.org/wiki/t.A.T.u. "wikilink")が生放送中に出演を放棄するというハプニングが発生。既に演奏を終えていたTHEE MICHELLE GUN ELEPHANTが埋め合わせとして急遽「ミッドナイト・クラクション・ベイビー」を番組の最後に追加で演奏した\[8\]。しかし人気絶頂と思われた矢先の同年8月31日、ファンクラブ会員へ向けた封書で解散を通知。翌9月1日には自身の公式ウェブサイトにて正式に発表される。発表後の9月5日、ミュージックステーションに再び出演し「エレクトリック・サーカス」を演奏したが、これが最後のテレビ出演となった。
 
-ラストツアー『LAST HEAVEN TOUR』の最終日である[10月11日](../Page/10月11日.md "wikilink")、15thシングル「[エレクトリック・サーカス](https://ja.wikipedia.org/wiki/エレクトリック・サーカス "wikilink")」の発表と同時に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で約37000人を動員したライブをもって、バンドはその活動に幕を下ろした\[12\]。
+ラストツアー『LAST HEAVEN TOUR』の最終日である[10月11日](../Page/10月11日.md "wikilink")、15thシングル「[エレクトリック・サーカス](https://ja.wikipedia.org/wiki/エレクトリック・サーカス "wikilink")」の発表と同時に[幕張メッセ](../Page/幕張メッセ.md "wikilink")で約37000人を動員したライブをもって、バンドはその活動に幕を下ろした\[9\]。
 
 ### 解散後の動き
 
-解散後は各々が様々なバンド・ユニットにて活動を継続していたが、[2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")にアベが[急性硬膜外血腫](../Page/急性硬膜外血腫.md "wikilink")のため急死。これを受け2009年末から2010年初頭にかけて、アベフトシ追悼プロジェクト「FOREVER MICHELLE -Final works of rockin' blues-」が始動。ベストアルバム、DVD-BOXの発売に加え、ラストライブを編集した映画公開、ラストツアーでのステージショットの上映が行われた\[13\]。
+解散後は各々が様々なバンド・ユニットにて活動を継続していたが、[2009年](../Page/2009年.md "wikilink")[7月22日](../Page/7月22日.md "wikilink")にアベが[急性硬膜外血腫](../Page/急性硬膜外血腫.md "wikilink")のため急死。これを受け2009年末から2010年初頭にかけて、アベフトシ追悼プロジェクト「FOREVER MICHELLE -Final works of rockin' blues-」が始動。ベストアルバム、DVD-BOXの発売に加え、ラストライブを編集した映画公開、ラストツアーでのステージショットの上映が行われた\[10\]。
 
 [2013年](../Page/2013年.md "wikilink")[9月25日](../Page/9月25日.md "wikilink")、10年前の同日に行われた解散ツアー・京都磔磔でのライヴ映像を完全収録したDVD＆Blu-ray「BURNING MOTORS GO LAST HEAVEN Ⅱ LAST HEAVEN TOUR 2003.09.25 at Kyoto TAKUTAKU」をリリース。映像は再編集、音源は再トラックダウンが施されている。また、このリリースに合わせて発売日当日には京都磔磔でスクリーン・ライヴ「磔磔再見」が行われた。
 
@@ -142,7 +174,7 @@
 
 ### バンド名
 
-チバの友人（結成当時のベーシスト）が、[ダムド](../Page/ダムド.md "wikilink")のアルバム『[マシンガン・エチケット](https://ja.wikipedia.org/wiki/マシンガン・エチケット "wikilink")（）』の筆記体で記述されたアルバムタイトルを読み違えたものを、そのまま採用したことが由来\[14\]。「THEE」はイギリスのバンド、ヘッドコーツ（*[Thee Headcoats](https://ja.wikipedia.org/wiki/:en:Thee_Headcoats "wikilink")*）から拝借したもの。「THEE」については曖昧であり、「ジ」と発音したりしなかったり、「ジ」が表記されていたりされていなかったり、「ザ・ミッシェル・ガン・エレファント」と間違われたり、メンバー自身も「ザ・ミッシェル・ガン・エレファント」と名乗ることもあった（1998年の[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")など）。また、アルバム『[ギヤ・ブルーズ](../Page/ギヤ・ブルーズ.md "wikilink")』以前は小文字表記の『thee michelle gun elephant』をグループ名として使用していた\[15\]。
+チバの友人（結成当時のベーシスト）が、[ダムド](../Page/ダムド.md "wikilink")のアルバム『[マシンガン・エチケット](https://ja.wikipedia.org/wiki/マシンガン・エチケット "wikilink")（）』の筆記体で記述されたアルバムタイトルを読み違えたものを、そのまま採用したことが由来\[11\]。「THEE」はイギリスのバンド、ヘッドコーツ（*[Thee Headcoats](https://ja.wikipedia.org/wiki/:en:Thee_Headcoats "wikilink")*）から拝借したもの。「THEE」については曖昧であり、「ジ」と発音したりしなかったり、「ジ」が表記されていたりされていなかったり、「ザ・ミッシェル・ガン・エレファント」と間違われたり、メンバー自身も「ザ・ミッシェル・ガン・エレファント」と名乗ることもあった（1998年の[フジロックフェスティバル](https://ja.wikipedia.org/wiki/フジロックフェスティバル "wikilink")など）。また、アルバム『[ギヤ・ブルーズ](../Page/ギヤ・ブルーズ.md "wikilink")』以前は小文字表記の『thee michelle gun elephant』をグループ名として使用していた\[12\]。
 
 ### ファンクラブ
 
@@ -635,29 +667,29 @@ M-12「400円の一人旅」</p></td>
 
 ## 影響を与えたミュージシャン等
 
-  - [ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")[後藤正文](../Page/後藤正文.md "wikilink")は、バンド結成以前から多大な影響を受けたバンドであると語っており\[16\]、バンド名も、THEE MICHELLE GUN ELEPHANTを模倣して英単語を3つ並べたものを名付けたことに由来する\[17\]。
-  - [9mm Parabellum Bulletも同様の経緯による命名が施された](../Page/9mm_Parabellum_Bullet.md "wikilink")\[18\]。
+  - [ASIAN KUNG-FU GENERATIONの](../Page/ASIAN_KUNG-FU_GENERATION.md "wikilink")[後藤正文](../Page/後藤正文.md "wikilink")は、バンド結成以前から多大な影響を受けたバンドであると語っており\[13\]、バンド名も、THEE MICHELLE GUN ELEPHANTを模倣して英単語を3つ並べたものを名付けたことに由来する\[14\]。
+  - [9mm Parabellum Bulletも同様の経緯による命名が施された](../Page/9mm_Parabellum_Bullet.md "wikilink")\[15\]。
   - [KENZI & THE TRIPSの](https://ja.wikipedia.org/wiki/KENZI_&_THE_TRIPS "wikilink")[KENZI](https://ja.wikipedia.org/wiki/KENZI "wikilink")は以前から楽曲を愛聴しており、アルバム『THE COVER』にて「世界の終わり」をカバーした。
-  - [the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")は、自分がもし中高校生だったらコピーバンドを組むほどの大ファンになっていたであろうと語った\[19\]。
+  - [the pillowsの](https://ja.wikipedia.org/wiki/the_pillows "wikilink")[山中さわお](../Page/山中さわお.md "wikilink")は、自分がもし中高校生だったらコピーバンドを組むほどの大ファンになっていたであろうと語った\[16\]。
 
 ### その他
 
-  - 大木伸夫（[ACIDMAN](../Page/ACIDMAN.md "wikilink")）\[20\]
-  - 小高芳太朗（[LUNKHEAD](../Page/LUNKHEAD.md "wikilink")）\[21\]
-  - 新屋行裕（[かりゆし58](../Page/かりゆし58.md "wikilink")）\[22\]
-  - 菅原卓郎（[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")）\[23\]
-  - [田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）\[24\]
+  - 大木伸夫（[ACIDMAN](../Page/ACIDMAN.md "wikilink")）\[17\]
+  - 小高芳太朗（[LUNKHEAD](../Page/LUNKHEAD.md "wikilink")）\[18\]
+  - 新屋行裕（[かりゆし58](../Page/かりゆし58.md "wikilink")）\[19\]
+  - 菅原卓郎（[9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")）\[20\]
+  - [田村淳](../Page/田村淳.md "wikilink")（[ロンドンブーツ1号2号](../Page/ロンドンブーツ1号2号.md "wikilink")）\[21\]
   - [常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink")（[King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")）<ref>
 
 \[[https://www.wwdjapan.com/articles/788075\]WWD](https://www.wwdjapan.com/articles/788075%5DWWD) JAPANのインタビューより2019年2月5日</ref>
 
-  - ホリエアツシ、ナカヤマシンペイ （[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")）\[25\]
-  - [マキシマムザ亮君](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")\[26\]
-  - 湯浅将平（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）\[27\]
+  - ホリエアツシ、ナカヤマシンペイ （[ストレイテナー](https://ja.wikipedia.org/wiki/ストレイテナー "wikilink")）\[22\]
+  - [マキシマムザ亮君](https://ja.wikipedia.org/wiki/マキシマムザホルモン "wikilink")\[23\]
+  - 湯浅将平（[Base Ball Bear](../Page/Base_Ball_Bear.md "wikilink")）\[24\]
   - YONCE（[Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")）
   - ワタナベサトシ（[Jake stone garage](https://ja.wikipedia.org/wiki/Jake_stone_garage "wikilink")）
-  - [石井亮輔](https://ja.wikipedia.org/wiki/石井亮輔 "wikilink")（[作詞家](../Page/作詞家.md "wikilink")・[作曲家](../Page/作曲家.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")）\[28\]
-  - [渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")\[29\]
+  - [石井亮輔](https://ja.wikipedia.org/wiki/石井亮輔 "wikilink")（[作詞家](../Page/作詞家.md "wikilink")・[作曲家](../Page/作曲家.md "wikilink")・[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")）\[25\]
+  - [渡辺麻友](https://ja.wikipedia.org/wiki/渡辺麻友 "wikilink")\[26\]
 
 ## 出演
 
@@ -719,33 +751,30 @@ M-12「400円の一人旅」</p></td>
 
 [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ガレージロック・バンド](https://ja.wikipedia.org/wiki/Category:ガレージロック・バンド "wikilink") [Category:パブロック・バンド](https://ja.wikipedia.org/wiki/Category:パブロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:ブルースロック・バンド](https://ja.wikipedia.org/wiki/Category:ブルースロック・バンド "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:2003年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2003年に解散した音楽グループ "wikilink")
 
-1.  1997年5月6日放送「[ミュージックスクエア (NHK-FM)](../Page/ミュージックスクエア_\(NHK-FM\).md "wikilink")」ゲスト出演時におけるウエノの発言より。
+1.
 2.
-3.  「愚 日本一心」吉川晃司（角川マガジンズ）
+3.
 4.
 5.
 6.
 7.
-8.
-9.
-10.
     [横浜アリーナ](https://ja.wikipedia.org/wiki/横浜アリーナ "wikilink")ライブの模様はライブビデオ[『WORLD PSYCHO BLUES』にて鑑賞することが可能である](https://ja.wikipedia.org/wiki/#VHS・DVD "wikilink")。
-11. [「出たくねえ」t.A.T.u.がボイコットした伝説のMステ](http://www.excite.co.jp/News/net_clm/20150723/E1436513475540.html)エキサイト 90sチョベリー（2015年7月23日）2017年2月19日閲覧
+8.  [「出たくねえ」t.A.T.u.がボイコットした伝説のMステ](http://www.excite.co.jp/News/net_clm/20150723/E1436513475540.html)エキサイト 90sチョベリー（2015年7月23日）2017年2月19日閲覧
+9.
+10. [プロジェクト特設サイト](http://www.thee.asia/)
+11.
 12.
-13. [プロジェクト特設サイト](http://www.thee.asia/)
+13. \[[http://www.sonymusic.co.jp/Music/Info/AKG/diary/index.html\]2009年9月2日付の日記より](http://www.sonymusic.co.jp/Music/Info/AKG/diary/index.html%5D2009年9月2日付の日記より)
 14.
 15.
-16. \[[http://www.sonymusic.co.jp/Music/Info/AKG/diary/index.html\]2009年9月2日付の日記より](http://www.sonymusic.co.jp/Music/Info/AKG/diary/index.html%5D2009年9月2日付の日記より)
-17.
-18.
-19.
-20. \[[http://musicshelf.jp/playlist/632738\]MUSICSHEL](http://musicshelf.jp/playlist/632738%5DMUSICSHEL) Relaxing, and Reminding
-21. \[[http://blog.livedoor.jp/lunkhead_nikki/archives/51520404.html\]ランクヘッドBLOG](http://blog.livedoor.jp/lunkhead_nikki/archives/51520404.html%5DランクヘッドBLOG) 2010年10月25日
-22. \[[http://www.ldandk.com/kariyushi58/?page_id=50\]公式サイトのプロフィール欄より](http://www.ldandk.com/kariyushi58/?page_id=50%5D公式サイトのプロフィール欄より)
-23. \[[http://9mm.jugem.jp/?eid=499\]9mm](http://9mm.jugem.jp/?eid=499%5D9mm) Parabellum Bulletブログ 2009年7月22日
-24. [特集 コンドルズ × jealkb 勝山康晴×田村淳インタビュー&プレイリスト](http://musicshelf.jp/?mode=static&html=special_h14/page3) musicshelf
-25. [1](http://www.straightener.net/index.php) 公式サイトの「DIARY」より 2003年10月14日
+16.
+17. \[[http://musicshelf.jp/playlist/632738\]MUSICSHEL](http://musicshelf.jp/playlist/632738%5DMUSICSHEL) Relaxing, and Reminding
+18. \[[http://blog.livedoor.jp/lunkhead_nikki/archives/51520404.html\]ランクヘッドBLOG](http://blog.livedoor.jp/lunkhead_nikki/archives/51520404.html%5DランクヘッドBLOG) 2010年10月25日
+19. \[[http://www.ldandk.com/kariyushi58/?page_id=50\]公式サイトのプロフィール欄より](http://www.ldandk.com/kariyushi58/?page_id=50%5D公式サイトのプロフィール欄より)
+20. \[[http://9mm.jugem.jp/?eid=499\]9mm](http://9mm.jugem.jp/?eid=499%5D9mm) Parabellum Bulletブログ 2009年7月22日
+21. [特集 コンドルズ × jealkb 勝山康晴×田村淳インタビュー&プレイリスト](http://musicshelf.jp/?mode=static&html=special_h14/page3) musicshelf
+22. [1](http://www.straightener.net/index.php) 公式サイトの「DIARY」より 2003年10月14日
+23.
+24.
+25.
 26.
-27.
-28.
-29.

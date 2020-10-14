@@ -111,6 +111,8 @@
 
   - [My Merry May 初回限定版 プレイステーション オフィシャルサイト](https://www.jp.playstation.com/software/title/slps25192.html)
 
+  - [My Merry May 阿保剛KID作品集シリーズ作品紹介](http://5pb.jp/records/sp/kid/FPBD0575/)
+
   - [Q'tron](http://www.qtron.jp/index.html)
 
   - [ARCHIBOLD](http://sound.jp/archibold/)

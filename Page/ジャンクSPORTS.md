@@ -21,7 +21,7 @@
 
 [2007年](../Page/2007年.md "wikilink")[2月4日](../Page/2月4日.md "wikilink")の放送は、21:00からの『[発掘\!あるある大事典](../Page/発掘!あるある大事典.md "wikilink")II』がデータ捏造問題で[打ち切られたため](../Page/打ち切り.md "wikilink")、『ジャンクSPORTS』は[19:58 - 21:50の枠で放送し](../Page/算木.md "wikilink")、後半部分は過去の未公開VTRなどで補填した。
 
-2007年[12月31日](../Page/12月31日.md "wikilink")の18:30 - 21:00は『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』の裏番組として『**ジャンクSPORTS 2007大晦日スペシャル・浜田のハダカ祭り\!\!**』が放送され、[浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")と[西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink")がビーチバレー対決第4戦を、「平成教育ジャンクSPORTS学院」と題して『[熱血\!平成教育学院](../Page/熱血!平成教育学院.md "wikilink")』のセットを流用したパロディを浜田が学院長、内田が助手、石垣は生徒、[長島一茂](https://ja.wikipedia.org/wiki/長島一茂 "wikilink")、[古閑美保](../Page/古閑美保.md "wikilink")、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")らが、[内藤大助](../Page/内藤大助.md "wikilink")はボクシング対決、をそれぞれ行った。
+2007年[12月31日](../Page/12月31日.md "wikilink")の18:30 - 21:00は『[第58回NHK紅白歌合戦](../Page/第58回NHK紅白歌合戦.md "wikilink")』の裏番組として『**ジャンクSPORTS 2007大晦日スペシャル・浜田のハダカ祭り\!\!**』が放送され、[浅尾美和](https://ja.wikipedia.org/wiki/浅尾美和 "wikilink")と[西堀健実](https://ja.wikipedia.org/wiki/西堀健実 "wikilink")がビーチバレー対決第4戦を、「平成教育ジャンクSPORTS学院」と題して『[熱血\!平成教育学院](../Page/熱血!平成教育学院.md "wikilink")』のセットを流用したパロディを浜田が学院長、内田が助手、石垣は生徒、[長島一茂](https://ja.wikipedia.org/wiki/長島一茂 "wikilink")、[古閑美保](../Page/古閑美保.md "wikilink")、[土田晃之](https://ja.wikipedia.org/wiki/土田晃之 "wikilink")、[本田朋子](https://ja.wikipedia.org/wiki/本田朋子 "wikilink")らが、[内藤大助](../Page/内藤大助.md "wikilink")はボクシング対決、をそれぞれ行った。視聴率は第一部が二桁、第二部は8.5%となった。
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")に、MCの石垣が暴行容疑で逮捕されて芸能活動を自粛するため、既に収録済みの3週分は編集でカットして放送、その3ヶ月間は浜田・内田の2人体制となった\[2\]。放送では浜田のバストショットの多用、内田はあまり映さず映す際には画面の両端に帯を入れる、合成で後ろのセットを石垣に被せるなどの編集が行われた。しかしながらわずかに肩や顔が見切れてしまっているシーンもあった。
 
@@ -896,7 +896,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - TK：星美香
   - 音響効果：大平拓也【毎週】、温水義成【週替り】/星裕介
   - CG：上床隼人
-  - リサーチ：亀田貴誠、志土地俊/近藤雄亮
+  - リサーチ：亀田貴誠、志土地俊【週替り】/近藤雄亮
   - 美術制作：三竹寛典・双川正文（フジテレビ）
   - 美術デザイン：[鈴木賢太](https://ja.wikipedia.org/wiki/鈴木賢太 "wikilink")（フジテレビ）
   - アートコーディネーター：内山高太郎
@@ -910,7 +910,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - メイク：Office MAKISE、[山田かつら](https://ja.wikipedia.org/wiki/山田かつら "wikilink")
   - スタイリスト：利光英治郎
   - 技術協力：[ニユーテレス](../Page/ニユーテレス.md "wikilink")、[fmt](https://ja.wikipedia.org/wiki/フジ・メディア・テクノロジー "wikilink")、[共テレ](../Page/共同テレビジョン.md "wikilink")、サンフォニックス、[IMAGICA Lab.](../Page/IMAGICA_Lab..md "wikilink")、[4-Legs](../Page/4-Legs.md "wikilink")
-  - 制作協力：吉本興業、b-DASH、[NEXTEP](../Page/ネクステップ.md "wikilink")、BEE BRAIN、[ABCリブラ](../Page/ABCリブラ.md "wikilink")、共テレ、オラフズ【毎週】
+  - 制作協力：吉本興業、b-DASH、[NEXTEP](../Page/ネクステップ.md "wikilink")、BEE BRAIN、[ABCリブラ](../Page/ABCリブラ.md "wikilink")、共テレ、オラフズ
   - 広報：神崎素子（フジテレビ）
   - データ放送：岩崎祐也（フジテレビ）
   - デスク：藤田冴子
@@ -918,7 +918,7 @@ MCFANと呼ばれる装置に血液をセット。スタートの合図と共に
   - AP：大賀ゆかり、土橋覚、早川美沙（b-DASH）、鶴見明香里、古井絵里子（daInaRI、以前はAD）、高橋寿菜（b-DASH）【週替り】
   - FD：小林海斗
   - AD：塩見奏葉（ABCリブラ）、長野百里（フジテレビ）、桑田悠司（b-DASH）、葛島若菜（オラフズ）、渡辺亜美、前田智徳、江口広海【週替り】/佐々木華愛、岩田信歩、植野池尋
-  - ディレクター：前田匡寛、寺下洋平（daInaRI）、中村拓馬（ABCリブラ）、池田靖・吉田悠太・山嵜哲矢・前場智也（BEE BRAIN）、双津大地郎・中西正太（[シオプロ](https://ja.wikipedia.org/wiki/シオプロ "wikilink")）、山本紗智子、西尾友里（b-DASH）、阪口悠樹、小野澤拓（オラフズ）、舟津大雄（NEXTEP）、新垣博章、高橋行広（NEXTEP）、金城和彦・宮原和音（b-DASH）【週替り】、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")・米田唯一・間島陸（フジテレビ、間島→以前はFD）【毎週】/、鴛海剛、上松直也、牛久英雄（NEXTEP）、大塚隆史・野村緑（共テレ）
+  - ディレクター：前田匡寛、寺下洋平（daInaRI）、中村拓馬（ABCリブラ）、池田靖・吉田悠太・山嵜哲矢・前場智也（BEE BRAIN）、双津大地郎・中西正太（[シオプロ](https://ja.wikipedia.org/wiki/シオプロ "wikilink")）、山本紗智子、西尾友里（b-DASH）、阪口悠樹、小野澤拓（オラフズ）、舟津大雄（NEXTEP）、新垣博章、高橋行広（NEXTEP）、金城和彦・宮原和音（b-DASH）【週替り】、[宮木正悟](https://ja.wikipedia.org/wiki/宮木正悟 "wikilink")・米田唯一・間島陸（フジテレビ、間島→以前はFD）【毎週】/鴛海剛、上松直也、牛久英雄（NEXTEP）、大塚隆史・野村緑（共テレ）
   - 演出：高橋正尚（フジテレビ、以前はディレクター）【毎週】、堀正義（ABCリブラ）、石武士（BEE BRAIN）、中田三浩（b-DASH）、但木洋光（オラフズ）、石川陽（NEXTEP）、松田裕士（のれそれ丸）【週替り】/川本良樹（共テレ）
   - キャスティングプロデューサー：金井由紀子（フジテレビ）、村田聡子（[passion](https://ja.wikipedia.org/wiki/パッション_\(テレビ制作会社\) "wikilink")）
   - プロデューサー：滝澤美衣奈・橋本英司（フジテレビ、橋本→以前は編成）、神田信二・肥後篤人（吉本興業）、[林敏博](https://ja.wikipedia.org/wiki/林敏博 "wikilink")（b-DASH）【毎週】、竹島和彦・脇中滋代・[岸岡孝治](https://ja.wikipedia.org/wiki/岸岡孝治 "wikilink")（ABCリブラ）、菅野貴志（BEE BRAIN）、鈴木美帆（b-DASH）、松本あゆみ（オラフズ）、白石綾子（NEXTEP）、永田浩子（b-DASH）【週替り】/池端強（共テレ）、[井口毅](../Page/井口毅.md "wikilink")（ABCリブラ）

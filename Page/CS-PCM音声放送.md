@@ -37,6 +37,6 @@
 
 ## 脚注
 
-[Category:日本の衛星ラジオ放送](https://ja.wikipedia.org/wiki/Category:日本の衛星ラジオ放送 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:TOKYO_FMの歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの歴史 "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink") [Category:中部日本放送の歴史](https://ja.wikipedia.org/wiki/Category:中部日本放送の歴史 "wikilink")
+[Category:日本の衛星ラジオ放送](https://ja.wikipedia.org/wiki/Category:日本の衛星ラジオ放送 "wikilink") [Category:デジタルラジオ](https://ja.wikipedia.org/wiki/Category:デジタルラジオ "wikilink") [Category:日本テレビの歴史](https://ja.wikipedia.org/wiki/Category:日本テレビの歴史 "wikilink") [Category:TBSの歴史](https://ja.wikipedia.org/wiki/Category:TBSの歴史 "wikilink") [Category:TOKYO_FMの歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの歴史 "wikilink") [Category:KADOKAWAの歴史](https://ja.wikipedia.org/wiki/Category:KADOKAWAの歴史 "wikilink")
 
 1.  [PCM放送サービス終了のお知らせ](http://www.musicbird.jp/20100802.html)「株式会社ミュージックバード」2010年8月

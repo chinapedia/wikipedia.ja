@@ -28,7 +28,6 @@
   - 変更依頼（[Change Request](https://ja.wikipedia.org/wiki/:en:Change_request "wikilink")）
   - 変更[要件](https://ja.wikipedia.org/wiki/要件 "wikilink")（Change Requirement）
   - [決算](../Page/決算.md "wikilink")時の[為替レート](../Page/為替レート.md "wikilink") (Current Rate)
-  - [キャリッジ・リターン](https://ja.wikipedia.org/wiki/キャリッジ・リターン "wikilink") (Carriage Return)
 
 ### 地名
 

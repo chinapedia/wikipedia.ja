@@ -833,8 +833,6 @@ AVCD-17579</p></td>
 
   - [Dream 公式ブログ - GREE](http://gree.jp/dream_g)（2011年 - 2013年）
 
-  - [Dream | mixiページ](http://page.mixi.jp/view_page.pl?page_id=969)（2011年 - 2013年）
-
   - （2012年 - 2018年）
 
 [Category:Dream](https://ja.wikipedia.org/wiki/Category:Dream "wikilink") [Category:日本のポップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のポップ・グループ "wikilink") [Category:日本のガール・グループ](https://ja.wikipedia.org/wiki/Category:日本のガール・グループ "wikilink") [Category:LDH所属のアーティスト・歌手](https://ja.wikipedia.org/wiki/Category:LDH所属のアーティスト・歌手 "wikilink") [Category:エイベックスのアイドル](https://ja.wikipedia.org/wiki/Category:エイベックスのアイドル "wikilink") [Category:2000年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に結成した音楽グループ "wikilink") [Category:2017年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2017年に解散した音楽グループ "wikilink")

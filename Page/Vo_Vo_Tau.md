@@ -38,7 +38,7 @@
 
 ### シングル
 
-1.  [裸 〜Nude〜](https://ja.wikipedia.org/wiki/裸_〜Nude〜 "wikilink")（[2004年](../Page/2004年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink")）
+1.  [裸 〜Nude〜](https://ja.wikipedia.org/wiki/裸_〜Nude〜 "wikilink")（[2004年](../Page/2004年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")）
 2.  Can u Stay（[2004年](../Page/2004年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")）
 3.  Song for you（[2004年](../Page/2004年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")）
 4.  希望の橋（[2005年](../Page/2005年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")）

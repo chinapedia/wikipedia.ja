@@ -1,9 +1,9 @@
 > この記事は[PHP研究所](https://ja.wikipedia.org/wiki/PHP研究所)から翻訳されています。
 
 
-**株式会社PHP研究所**（ピーエイチピーけんきゅうしょ、）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の創業者である[松下幸之助](../Page/松下幸之助.md "wikilink")によって創設され、出版事業を主体に行っている[出版社](../Page/出版社.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")、[政策](../Page/政策.md "wikilink")[シンクタンク](../Page/シンクタンク.md "wikilink")を標榜する株式会社[PHP総合研究所](../Page/PHP総合研究所.md "wikilink")を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")した\[1\]。
+**株式会社PHP研究所**（ピーエイチピーけんきゅうしょ、）は、[パナソニック](https://ja.wikipedia.org/wiki/パナソニック "wikilink")の創業者である[松下幸之助](../Page/松下幸之助.md "wikilink")によって創設され、出版事業を主体に行っている[出版社](../Page/出版社.md "wikilink")。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月1日](../Page/10月1日.md "wikilink")、[政策](../Page/政策.md "wikilink")[シンクタンク](../Page/シンクタンク.md "wikilink")を標榜する株式会社[PHP総合研究所](../Page/PHP総合研究所.md "wikilink")を[吸収合併](https://ja.wikipedia.org/wiki/吸収合併 "wikilink")した\[1\]。登記上の本店は**京都本部**で、住所は[京都市](../Page/京都市.md "wikilink")[南区西九条北ノ内町](../Page/南区_\(京都市\).md "wikilink")11（）。
 
-[東京本部は](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[豊洲](../Page/豊洲.md "wikilink")五丁目6番52号（）、京都本部（登記上の本店）の住所は[京都市](../Page/京都市.md "wikilink")[南区西九条北ノ内町](../Page/南区_\(京都市\).md "wikilink")11（）。
+東京の本部は[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[豊洲](../Page/豊洲.md "wikilink")五丁目6番52号（）。
 
 ## 概要
 

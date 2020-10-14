@@ -171,7 +171,7 @@
 
   - [Purple software](http://www.purplesoftware.jp/)
 
-  - [Purple software delight](http://web.archive.org/web/20130701041951/http://purple-delight.jp/top.php) - 閉鎖。（2013年7月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [Purple software delight](https://web.archive.org/web/20130701041951/http://purple-delight.jp/top.php) - 閉鎖。（2013年7月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
   -
 
@@ -204,4 +204,4 @@
 21. [TECH GIAN](../Page/TECH_GIAN.md "wikilink")（2013年12月号） pp.16-19.
 22. TECH GIAN（2014年12月号） pp.62-69.
 23. [DENGEKI HIME](../Page/DENGEKI_HIME.md "wikilink") 2014年12月号 p.52-57.
-24. [PrimaryStep 公式HP](http://web.archive.org/web/20130629173437/http://purple-delight.jp/primary/)（2013年6月29日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+24. [PrimaryStep 公式HP](https://web.archive.org/web/20130629173437/http://purple-delight.jp/primary/)（2013年6月29日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）

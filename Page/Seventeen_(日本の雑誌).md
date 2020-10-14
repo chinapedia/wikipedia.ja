@@ -85,16 +85,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/横田真悠" title="wikilink">横田真悠</a></p></td>
-<td><p>よこた まゆう</p></td>
-<td><p>1999年6月30日(歳)</p></td>
-<td><p>2014年10月号</p></td>
-<td><p>14</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エイジアクロス" title="wikilink">エイジアクロス</a></p></td>
-<td><p>ミスST2014</p></td>
-<td><p><small>ミスST2013最終候補者</small></p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マーシュ彩" title="wikilink">マーシュ彩</a></p></td>
 <td><p>まーしゅ あや</p></td>
 <td><p>2000年9月29日(歳)</p></td>
@@ -104,17 +94,17 @@
 <td><p>ミスST2015</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/坂井仁香" title="wikilink">坂井仁香</a></p></td>
 <td><p>さかい ひとか</p></td>
 <td><p>2001年7月25日(歳)</p></td>
 <td><p>0</p></td>
 <td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
-<td><p><small><a href="https://ja.wikipedia.org/wiki/ときめき♡宣伝部" title="wikilink">超ときめき♡宣伝部のメンバー</a></small></p></td>
+<td><p><small><a href="https://ja.wikipedia.org/wiki/超ときめき♡宣伝部" title="wikilink">超ときめき♡宣伝部</a>のメンバー</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/紺野彩夏" title="wikilink">紺野彩夏</a></p></td>
 <td><p>こんの あやか</p></td>
 <td><p>1999年6月24日(歳)</p></td>
@@ -124,7 +114,7 @@
 <td><p>プロダクション組</p></td>
 <td><p><small>ミスST2014最終候補者</small></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/八木莉可子" title="wikilink">八木莉可子</a></p></td>
 <td><p>やぎ りかこ</p></td>
 <td><p>2001年7月7日(歳)</p></td>
@@ -134,7 +124,7 @@
 <td><p>ミスST2016</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/田鍋梨々花" title="wikilink">田鍋梨々花</a></p></td>
 <td><p>たなべ りりか</p></td>
 <td><p>2003年12月24日(歳)</p></td>
@@ -144,7 +134,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/久間田琳加" title="wikilink">久間田琳加</a></p></td>
 <td><p>くまだ りんか</p></td>
 <td><p>2001年2月23日(歳)</p></td>
@@ -154,7 +144,7 @@
 <td><p>プロダクション組</p></td>
 <td><p><small>『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』（専属）より移籍</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/久保史緒里" title="wikilink">久保史緒里</a></p></td>
 <td><p>くぼ しおり</p></td>
 <td><p>2001年7月14日(歳)</p></td>
@@ -164,7 +154,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/箭内夢菜" title="wikilink">箭内夢菜</a></p></td>
 <td><p>やない ゆめな</p></td>
 <td><p>2000年6月21日(歳)</p></td>
@@ -174,7 +164,7 @@
 <td><p>ミスST2017</p></td>
 <td><p><small> ミスST2016最終候補者</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/宮野陽名" title="wikilink">宮野陽名</a></p></td>
 <td><p>みやの ひな</p></td>
 <td><p>2003年8月29日(歳)</p></td>
@@ -184,7 +174,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡本莉音" title="wikilink">岡本莉音</a></p></td>
 <td><p>おかもと りおん</p></td>
 <td><p>2001年5月12日(歳)</p></td>
@@ -192,9 +182,9 @@
 <td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイジアプロモーション" title="wikilink">エイジアプロモーション</a></p></td>
 <td><p>プロダクション組</p></td>
-<td><p><small> ミスST2017最終候補者</small></p></td>
+<td><p><small>ミスST2017最終候補者</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>成田愛純</p></td>
 <td><p>なりた あすみ</p></td>
 <td><p>2002年7月13日(歳)</p></td>
@@ -204,7 +194,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/小坂菜緒" title="wikilink">小坂菜緒</a></p></td>
 <td><p>こさか なお</p></td>
 <td><p>2002年9月7日(歳)</p></td>
@@ -214,7 +204,7 @@
 <td><p><small><a href="https://ja.wikipedia.org/wiki/日向坂46" title="wikilink">日向坂46</a>のメンバー（2期生）</small></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/清原果耶" title="wikilink">清原果耶</a></p></td>
 <td><p>きよはら かや</p></td>
 <td><p>2002年1月30日(歳)</p></td>
@@ -224,7 +214,7 @@
 <td><p><small>『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』（専属） より移籍</small></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/出口夏希" title="wikilink">出口夏希</a></p></td>
 <td><p>でぐち なつき</p></td>
 <td><p>2001年10月4日(歳)</p></td>
@@ -234,27 +224,27 @@
 <td><p>ミスST2018</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/山本彩加" title="wikilink">山本彩加</a></p></td>
 <td><p>やまもと あやか</p></td>
 <td><p>2002年8月6日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Showtitle" title="wikilink">Showtitle</a></p></td>
 <td><p><small><a href="https://ja.wikipedia.org/wiki/NMB48" title="wikilink">NMB48</a>チームBIIのメンバー（5期生）</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/永瀬莉子" title="wikilink">永瀬莉子</a></p></td>
 <td><p>ながせ りこ</p></td>
 <td><p>2002年8月13日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p><a href="../Page/ソニー・ミュージックアーティスツ.md" title="wikilink">ソニーミュージックアーティスツ</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/桜田ひより" title="wikilink">桜田ひより</a></p></td>
 <td><p>さくらだ ひより</p></td>
 <td><p>2002年12月19日(歳)</p></td>
@@ -264,27 +254,27 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/高橋アリス.md" title="wikilink">高橋アリス</a></p></td>
 <td><p>たかはし ありす</p></td>
 <td><p>2003年11月21日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイベックス・マネジメント" title="wikilink">エイベックス・マネジメント</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/大友樹乃" title="wikilink">大友樹乃</a></p></td>
 <td><p>おおとも じゅの</p></td>
 <td><p>2004年7月4日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p>style="text-align:left |<a href="../Page/アービング_(芸能プロダクション).md" title="wikilink">アービング</a></p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/秋田汐梨" title="wikilink">秋田汐梨</a></p></td>
 <td><p>あきた しおり</p></td>
 <td><p>2003年3月19日(歳)</p></td>
@@ -294,7 +284,7 @@
 <td><p>プロダクション組</p></td>
 <td><p><small> 『<a href="https://ja.wikipedia.org/wiki/ニコラ_(雑誌)" title="wikilink">ニコラ</a>』 （専属） より移籍</small></p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/雑賀サクラ.md" title="wikilink">雑賀サクラ</a></p></td>
 <td><p>さいが さくら</p></td>
 <td><p>2005年3月31日(歳)</p></td>
@@ -304,17 +294,17 @@
 <td><p>ミスST2019</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/田中杏奈" title="wikilink">田中杏奈</a></p></td>
 <td><p>たなか あんな</p></td>
 <td><p>2005年11月17日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エイジアプロモーション" title="wikilink">エイジアプロモーション</a></p></td>
 <td><p><small>元『<a href="../Page/ニコ☆プチ.md" title="wikilink">ニコ☆プチ</a>』専属</small></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ブリッジマン遊七.md" title="wikilink">ブリッジマン遊七</a></p></td>
 <td><p>ぶりっじまん ゆな</p></td>
 <td><p>2005年12月5日(歳)</p></td>
@@ -324,13 +314,44 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/瀬戸琴楓.md" title="wikilink">瀬戸琴楓</a></p></td>
 <td><p>せと ことか</p></td>
 <td><p>2005年12月22日(歳)</p></td>
-<td><p>０</p></td>
+<td><p>0</p></td>
 <td><p><a href="../Page/セントラルジャパン.md" title="wikilink">セントラルジャパン</a></p></td>
 <td><p><small>元『<a href="../Page/ニコ☆プチ.md" title="wikilink">ニコ☆プチ</a>』専属</small></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>藤村木音</p></td>
+<td><p>ふじむら きのん</p></td>
+<td><p>2005年4月8日(歳)</p></td>
+<td><p>2020年11月号</p></td>
+<td><p>0</p></td>
+<td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
+<td><p>ミスST2020</p></td>
+<td><p><small>元『<a href="../Page/ニコ☆プチ.md" title="wikilink">ニコ☆プチ</a>』専属</small></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/入江美沙希" title="wikilink">入江美沙希</a></p></td>
+<td><p>いりえ みさき</p></td>
+<td><p>2006年7月19日(歳)</p></td>
+<td><p>0</p></td>
+<td><p><a href="../Page/スターダストプロモーション.md" title="wikilink">スターダストプロモーション</a></p></td>
+<td><p><small>元『<a href="../Page/ニコ☆プチ.md" title="wikilink">ニコ☆プチ</a>』専属<br />
+ブレイクタイムガールズのメンバー</small></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>秋本レイラニ</p></td>
+<td><p>あきもと れいらに</p></td>
+<td><p>2007年2月5日(歳)</p></td>
+<td><p>0</p></td>
+<td><p><a href="../Page/サンミュージックプロダクション.md" title="wikilink">サンミュージックプロダクション</a></p></td>
+<td><p><small>ミスST2019最終候補者</small></p></td>
 <td></td>
 <td></td>
 </tr>
@@ -784,6 +805,10 @@
   - [佐々木莉佳子](https://ja.wikipedia.org/wiki/佐々木莉佳子 "wikilink")(在籍49か月)
   - [松岡花佳](https://ja.wikipedia.org/wiki/松岡花佳 "wikilink") (ミスセブンティーン2015。在籍55か月)
   - [木内舞留](https://ja.wikipedia.org/wiki/木内舞留 "wikilink")（ミスセブンティーン2016。在籍40か月）
+
+**（11月号卒業）**
+
+  - [横田真悠](https://ja.wikipedia.org/wiki/横田真悠 "wikilink")（ミスセブンティーン2014。表紙16回。在籍か月）
 
 </div>
 

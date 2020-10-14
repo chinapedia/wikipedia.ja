@@ -760,7 +760,7 @@
         CD大作戦で「真夜中にかかってきたら怖いいたずら電話」のネタに多用された。「変なこども」が歌っているということになっていた。
   - 「[長嶋茂雄](../Page/長嶋茂雄.md "wikilink")のウィスパーカード」
       -
-        現役時代の長嶋茂雄の[ソノシート](../Page/ソノシート.md "wikilink")の番組での呼び名。長嶋がCM出演した[明治製菓](../Page/明治製菓.md "wikilink")「明治ナッツキャラメル」の懸賞品（[1960年](../Page/1960年.md "wikilink")「**長嶋茂雄の声がきけるブロマイド**」として制作、抽選で20,000名にプレゼントされた）で、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[民謡](../Page/民謡.md "wikilink")「峠のわが家」のBGMで長嶋が「僕、[ジャイアンツの長嶋です](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。君、お元気?」と語りかけていた。ソノシートの内容は、長嶋の[立教大学](../Page/立教大学.md "wikilink")時代の思い出や[金田正一](../Page/金田正一.md "wikilink")（当時[国鉄スワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）との戦いで[三振](https://ja.wikipedia.org/wiki/三振 "wikilink")をとられたことなどを語っていた。
+        現役時代の長嶋茂雄の[ソノシート](../Page/ソノシート.md "wikilink")の番組での呼び名。長嶋がCM出演した[明治製菓](../Page/明治製菓.md "wikilink")「明治ナッツキャラメル」の懸賞品（[1960年](../Page/1960年.md "wikilink")「**長嶋茂雄の声がきけるブロマイド**」として制作、抽選で20,000名にプレゼントされた）で、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[民謡](../Page/民謡.md "wikilink")「峠のわが家」のBGMで長嶋が「僕、[ジャイアンツの長嶋です](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")。君、お元気?」と語りかけていた。ソノシートの内容は、長嶋の[立教大学](../Page/立教大学.md "wikilink")時代の思い出や[金田正一](../Page/金田正一.md "wikilink")（当時[国鉄スワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")）との戦いで[三振](../Page/三振.md "wikilink")をとられたことなどを語っていた。
   - [J-WALK](../Page/THE_JAYWALK.md "wikilink")「[何も言えなくて…夏](https://ja.wikipedia.org/wiki/何も言えなくて…夏 "wikilink")」
       -
         この歌を聴いた関根が「いつまで過去引きずってんだよ\!めそめそしてんじゃねえよ\!」と激怒し「めそめそ男の未練歌」と名づけた。歌い始めると節の終わりに「めそめそ」と歌い、J-WALK自体も「めそめそ男達」と名づけた。

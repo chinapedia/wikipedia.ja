@@ -1,13 +1,13 @@
 > この記事は[CGS単位系](https://ja.wikipedia.org/wiki/CGS単位系)から翻訳されています。
 
 
-**CGS単位系**（シージーエスたんいけい）は、[長さ](../Page/長さ.md "wikilink")の単位としての[センチメートル](../Page/センチメートル.md "wikilink") (centimetre)、[質量](../Page/質量.md "wikilink")の単位としての[グラム](../Page/グラム.md "wikilink") (gram)、[時間](../Page/時間.md "wikilink")の単位としての[秒](../Page/秒.md "wikilink")を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[メートル法](../Page/メートル法.md "wikilink")系の[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。"CGS" は基本単位の頭文字をつなげたものである。[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")の単位は3つの基本単位からの組み立てにより定義されるが、[電磁気の単位](https://ja.wikipedia.org/wiki/電磁気の単位 "wikilink")については複数の組み立て方がある\[1\]\[2\]\[3\]。
+**CGS単位系**（シージーエスたんいけい）は、[長さ](../Page/長さ.md "wikilink")の単位としての[センチメートル](../Page/センチメートル.md "wikilink") (centimetre)、[質量](../Page/質量.md "wikilink")の単位としての[グラム](../Page/グラム.md "wikilink") (gram)、[時間](../Page/時間.md "wikilink")の単位としての[秒](../Page/秒.md "wikilink")（second）を[基本単位](https://ja.wikipedia.org/wiki/基本単位 "wikilink")とする、[一貫性のある](https://ja.wikipedia.org/wiki/一貫性_\(単位系\) "wikilink")[メートル法](../Page/メートル法.md "wikilink")系の[単位系](https://ja.wikipedia.org/wiki/単位系 "wikilink")である。"CGS" は基本単位の頭文字をつなげたものである。[力学](https://ja.wikipedia.org/wiki/力学 "wikilink")の単位は3つの基本単位からの組み立てにより定義されるが、[電磁気の単位](https://ja.wikipedia.org/wiki/電磁気の単位 "wikilink")については複数の組み立て方がある\[1\]\[2\]\[3\]。
 
 CGS単位系は、[メートル](../Page/メートル.md "wikilink")、[キログラム](https://ja.wikipedia.org/wiki/キログラム "wikilink")、秒を基本単位とする[MKS単位系](../Page/MKS単位系.md "wikilink")、およびそれを拡張した[国際単位系](https://ja.wikipedia.org/wiki/国際単位系 "wikilink")(SI)に置き換えられた。[科学](../Page/科学.md "wikilink")・[工学](../Page/工学.md "wikilink")の多くの分野ではSIのみが使用されているが、特定の分野ではCGS単位系の単位が残っている。
 
 力学にのみ関わる単位（長さ、質量、[力](../Page/力_\(物理学\).md "wikilink")、[エネルギー](https://ja.wikipedia.org/wiki/エネルギー "wikilink")、[圧力](../Page/圧力.md "wikilink")など）ではCGS単位系とSIの違いは単純で、特定の変換係数を乗除するだけで変換できる。変換係数は  および  であることに由来する[10の累乗数である](https://ja.wikipedia.org/wiki/10の冪 "wikilink")。例えば、CGS単位系の力の単位は  と定義される[ダイン](../Page/ダイン.md "wikilink")であるため、SIの力の単位である[ニュートン](../Page/ニュートン_\(単位\).md "wikilink") () は100,000ダインに等しい。
 
-一方、電磁気の単位（[電荷](../Page/電荷.md "wikilink")、[電界](https://ja.wikipedia.org/wiki/電界 "wikilink")、[磁界](https://ja.wikipedia.org/wiki/磁界 "wikilink")、[電圧](../Page/電圧.md "wikilink")など）のCGS単位系とSIとの変換は単純ではない。電磁気学の物理法則（[マクスウェルの方程式](../Page/マクスウェルの方程式.md "wikilink")など）は、使用する単位系に応じて変える必要がある。これは、力学の単位の場合のような、SIの電磁単位とCGSの電磁単位の間に1対1の対応がないためである。さらに、CGS単位系の中でも、ガウス単位系、電磁単位系、静電単位系、ローレンツ＝ヘビサイド単位系など、様々な電磁気の単位の単位系が存在する。これらの中で、今日最も一般的なのはガウス単位系であり、よく使用される「CGS単位」は特にCGSガウス単位系を指す。
+一方、電磁気の単位（[電荷](../Page/電荷.md "wikilink")、[電界](https://ja.wikipedia.org/wiki/電界 "wikilink")、[磁界](https://ja.wikipedia.org/wiki/磁界 "wikilink")、[電圧](../Page/電圧.md "wikilink")など）のCGS単位系とSIとの変換は単純ではない。電磁気学の物理法則（[マクスウェルの方程式](../Page/マクスウェルの方程式.md "wikilink")など）は、使用する単位系に応じて変える必要がある。これは、力学の単位の場合のような、SIの電磁単位とCGSの電磁単位の間に1対1の対応がないためである。さらに、CGS単位系の中でも、ガウス単位系、電磁単位系、静電単位系、ローレンツ＝ヘビサイド単位系など、様々な[電磁気量の単位系が存在する](https://ja.wikipedia.org/wiki/電磁気量の単位系#各々の単位系 "wikilink")。これらの中で、今日最も一般的なのはガウス単位系であり、よく使用される「CGS単位」は特にCGSガウス単位系を指す。
 
 ## 歴史
 

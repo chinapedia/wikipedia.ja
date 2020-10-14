@@ -3,7 +3,7 @@
 
 **y'z factory**（**ワイズファクトリー**）は、日本の女性3人組ヴォーカル・ダンス・ユニット。
 
-[山田優](https://ja.wikipedia.org/wiki/山田優 "wikilink")、[屋宜由佳](https://ja.wikipedia.org/wiki/屋宜由佳 "wikilink")、伊敷優香の[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")出身の3人で同スクールのデビュー予備軍[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")の派生ユニットとして結成された。[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")デビュー。レコード会社・[日本コロムビア](../Page/日本コロムビア.md "wikilink")所属。[プロデュースは](../Page/プロデューサー.md "wikilink")[水島康貴](../Page/水島康貴.md "wikilink")、[Gajin](../Page/Gajin.md "wikilink")、[作詞](../Page/作詞.md "wikilink")は[牧野アンナ](../Page/牧野アンナ.md "wikilink")、[振付師](../Page/振付師.md "wikilink")は[新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")。
+[山田優](https://ja.wikipedia.org/wiki/山田優_\(モデル\) "wikilink")、[屋宜由佳](https://ja.wikipedia.org/wiki/屋宜由佳 "wikilink")、伊敷優香の[沖縄アクターズスクール](../Page/沖縄アクターズスクール.md "wikilink")出身の3人で同スクールのデビュー予備軍[B.B.WAVES](../Page/B.B.WAVES.md "wikilink")の派生ユニットとして結成された。[1999年](../Page/1999年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")デビュー。レコード会社・[日本コロムビア](../Page/日本コロムビア.md "wikilink")所属。[プロデュースは](../Page/プロデューサー.md "wikilink")[水島康貴](../Page/水島康貴.md "wikilink")、[Gajin](../Page/Gajin.md "wikilink")、[作詞](../Page/作詞.md "wikilink")は[牧野アンナ](../Page/牧野アンナ.md "wikilink")、[振付師](../Page/振付師.md "wikilink")は[新垣寿子](https://ja.wikipedia.org/wiki/新垣寿子 "wikilink")。
 
 ユニット名の「y'z」は、3人共「Y」をイニシャルに持つことから。[2002年](../Page/2002年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")に解散後、山田優はソロ活動[モデル](../Page/モデル_\(職業\).md "wikilink")・[女優にシフト](../Page/俳優.md "wikilink")（[2006年](../Page/2006年.md "wikilink")「[アキハバラ@DEEP](../Page/アキハバラ@DEEP.md "wikilink")」のテーマソング「REAL YOU」でソロ歌手デビュー）。
 

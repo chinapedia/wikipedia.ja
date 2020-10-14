@@ -5,14 +5,14 @@
 
 ## メンバー
 
-  - **吉村 秀樹**（**よしむら ひでき**、[1967年](../Page/1967年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")） - ボーカル、ギター、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[留萌市](../Page/留萌市.md "wikilink")出身、B型。2013年5月27日、急性心不全のため逝去\[2\]。。
-  - **射守矢 雄**（**いもりや たけし**、 - ） - ベース、北海道留萌市出身、O型。現在は射守矢雄と平松学（[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")）として活動。
-  - **小松 正宏**（**こまつ まさひろ**、 - ） - ドラムス、北海道留萌市出身、O型。FOE、SOSITE、[Crypt City](http://cryptcity.tumblr.com/)に参加。
-  - **[田渕 ひさ子](../Page/田渕ひさ子.md "wikilink")**（**たぶち ひさこ**、 - ） - ギター、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、O型。toddle、LAMAに参加。
+  - **吉村 秀樹**（**よしむら ひでき**、[1967年](../Page/1967年.md "wikilink")[1月20日](../Page/1月20日.md "wikilink") - [2013年](../Page/2013年.md "wikilink")[5月27日](../Page/5月27日.md "wikilink")） - [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[留萌市](../Page/留萌市.md "wikilink")出身、B型。2013年5月27日、[急性心不全](https://ja.wikipedia.org/wiki/急性心不全 "wikilink")のため逝去\[2\]。。
+  - **射守矢 雄**（**いもりや たけし**、 - ） - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")、北海道留萌市出身、O型。現在は射守矢雄と平松学（[fOUL](https://ja.wikipedia.org/wiki/fOUL "wikilink")）として活動。
+  - **小松 正宏**（**こまつ まさひろ**、 - ） - [ドラムス](../Page/ドラムセット.md "wikilink")、北海道留萌市出身、O型。FOE（[會田茂一](../Page/會田茂一.md "wikilink")のソロプロジェクト）、SOSITE、[Crypt City](http://cryptcity.tumblr.com/)に参加。
+  - **[田渕 ひさ子](../Page/田渕ひさ子.md "wikilink")**（**たぶち ひさこ**、 - ） - ギター、[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")出身、O型。[toddle](https://ja.wikipedia.org/wiki/toddle "wikilink")、[LAMA](https://ja.wikipedia.org/wiki/LAMA "wikilink")に参加。
 
 ### 旧メンバー
 
-  - 佐野 紀代己 （さの きよみ）- ドラムス
+  - **佐野 紀代己**（さの きよみ）- ドラムス
 
 ## 概要・来歴
 

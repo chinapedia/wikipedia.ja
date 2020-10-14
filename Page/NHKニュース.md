@@ -95,7 +95,7 @@ NHKが取材する映像素材は原則としてすべて[ハイビジョン](..
 
 ### 全波一斉放送
 
-また原則として、最大[震度](../Page/気象庁震度階級.md "wikilink")6弱以上の地震が発生した場合、または[津波警報](../Page/津波警報.md "wikilink")が発表された場合\[23\]は、[東京](../Page/東京.md "wikilink")[渋谷](../Page/渋谷.md "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")にある「ニュースセンター」[制御卓で送出](../Page/コンソール.md "wikilink")「開始」[ボタンを押すことにより](https://ja.wikipedia.org/wiki/押しボタン "wikilink")、NHKの送信している国内放送および国際放送NHKワールド（NHKワールド・プレミアム、NHKワールド・ラジオ日本）で全ての通常放送を強制中断し（[NHK Eテレと](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")は別の番組を放送している場合がほとんどであるため）、全波一斉に放送する**「九波全中」**\[24\]\[25\]を行う。
+また原則として、最大[震度](../Page/気象庁震度階級.md "wikilink")6弱以上の地震が発生した場合、または[津波警報](../Page/津波警報.md "wikilink")及び[津波注意報](../Page/津波注意報.md "wikilink")が発表された場合\[23\]は、[東京](../Page/東京.md "wikilink")[渋谷](../Page/渋谷.md "wikilink")の[NHK放送センター](../Page/NHK放送センター.md "wikilink")にある「ニュースセンター」[制御卓で送出](../Page/コンソール.md "wikilink")「開始」[ボタンを押すことにより](https://ja.wikipedia.org/wiki/押しボタン "wikilink")、NHKの送信している国内放送および国際放送NHKワールド（NHKワールド・プレミアム、NHKワールド・ラジオ日本）で全ての通常放送を強制中断し（[NHK Eテレと](https://ja.wikipedia.org/wiki/NHK_Eテレ "wikilink")[NHKラジオ第2放送](../Page/NHKラジオ第2放送.md "wikilink")、[NHK-FM](https://ja.wikipedia.org/wiki/NHK-FM "wikilink")は別の番組を放送している場合がほとんどであるため）、全波一斉に放送する**「九波全中」**\[24\]\[25\]を行う。
 
 NHKの番組伝送制御システム上、ローカル放送が行われている時間でも東京から「QF信号」という番組切り替えのための制御信号を出すことで、全国の放送局の放送を東京発のニュースに切り替えることができる\[26\]。これをQF運用と呼び、運用の実施中はローカル放送ができない\[27\]。
 

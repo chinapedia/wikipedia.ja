@@ -55,6 +55,7 @@
   - [スルッとKANSAI](../Page/スルッとKANSAI.md "wikilink")における、[京都市交通局](../Page/京都市交通局.md "wikilink")の符号。
   - [日本の海外渡航用ナンバープレートにおける](../Page/国際ナンバー.md "wikilink")「[高](https://ja.wikipedia.org/wiki/高知運輸支局 "wikilink")」。
   - [カラチ・カントンメント駅](https://ja.wikipedia.org/wiki/カラチ・カントンメント駅 "wikilink")の駅コード。
+  - [名鉄河和線](https://ja.wikipedia.org/wiki/名鉄河和線 "wikilink")及び[名鉄知多新線](https://ja.wikipedia.org/wiki/名鉄知多新線 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
 
 ## フィクション
 

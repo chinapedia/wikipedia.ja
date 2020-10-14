@@ -9,7 +9,7 @@
 
 ## 概要
 
-[ラガーディア空港](../Page/ラガーディア空港.md "wikilink")、[ニューアーク・リバティー国際空港](../Page/ニューアーク・リバティー国際空港.md "wikilink")とともにニューヨーク都市圏を代表する空港で、その管理・運営・[警備](../Page/警備.md "wikilink")はすべて同地域の地域開発公団である[ニューヨーク・ニュージャージー港湾公社](https://ja.wikipedia.org/wiki/ニューヨーク・ニュージャージー港湾公社 "wikilink")が行っている。
+[ニューヨーク/ラガーディア](../Page/ラガーディア空港.md "wikilink")、[ニューアークとともにニューヨーク都市圏を代表する空港で](../Page/ニューアーク・リバティー国際空港.md "wikilink")、その管理・運営・[警備](../Page/警備.md "wikilink")はすべて同地域の地域開発公団である[ニューヨーク・ニュージャージー港湾公社](https://ja.wikipedia.org/wiki/ニューヨーク・ニュージャージー港湾公社 "wikilink")が行っている。その位置関係は[ニューヨーク市域の空港一覧](https://ja.wikipedia.org/wiki/ニューヨーク市域の空港一覧 "wikilink")を参照。
 
 [JFK_Plane_Queue.jpg](https://ja.wikipedia.org/wiki/File:JFK_Plane_Queue.jpg "fig:JFK_Plane_Queue.jpg") [巨大都市ニューヨークの空の玄関口であるケネディ国際空港は](https://ja.wikipedia.org/wiki/メガシティ "wikilink")、アメリカを代表する国際空港のひとつとしても位置付けられ、50を超える国々から100社近い航空会社の定期便が就航、1日の国際便の離着陸は400件に達する。しかも国内線の離着陸はその2倍近くもあり、[朝](../Page/朝.md "wikilink")や[夕方](https://ja.wikipedia.org/wiki/夕方 "wikilink")の繁忙期には数十機の出発待ちが発生するなど、世界でも有数の繁忙空港となっている。
 

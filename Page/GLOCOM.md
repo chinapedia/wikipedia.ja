@@ -112,7 +112,7 @@
 
   - [ised](http://www.glocom.jp/) - 2004年～2005年にかけて開催された研究会。
 
-  - [そらキッチン（SOcial LAb KITCHEN）](http://solakitchen-glocom.blogspot.jp/) - 2011年から活動している社会イノベーションプロジェクト。
+  - [そらキッチン（SOcial LAb KITCHEN）](https://solakitchen-glocom.blogspot.com/) - 2011年から活動している社会イノベーションプロジェクト。
 
   - [GLOCOM Platform](http://www.glocom.org/) - 海外への日本の議論の情報発信をしているサイト。
 

@@ -212,12 +212,12 @@
   - 演出 - [河野圭太](../Page/河野圭太.md "wikilink")、[西谷弘](../Page/西谷弘.md "wikilink")
   - 制作 - [フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、[共同テレビ](../Page/共同テレビジョン.md "wikilink")
 
-## 受賞歴
+## 受賞
 
   - 第23回[ザテレビジョンドラマアカデミー賞](https://ja.wikipedia.org/wiki/ザテレビジョンドラマアカデミー賞 "wikilink")
-      - **ザテレビジョン特別賞**
+      - ザテレビジョン特別賞
 
-## 各話リスト
+## 放送日程
 
 ### 連続ドラマ
 

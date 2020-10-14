@@ -22,6 +22,7 @@
   - [米国債](../Page/米国債.md "wikilink")。Treasury Bond。アメリカ合衆国財務省債。
   - [構成要件](../Page/構成要件.md "wikilink")。**T**at**b**estand（ドイツ語）。
   - [信託銀行](../Page/信託銀行.md "wikilink")（**T**rust and **B**ankingまたは**T**rust **B**ank）
+  - [名鉄津島線](https://ja.wikipedia.org/wiki/名鉄津島線 "wikilink")及び[名鉄尾西線](https://ja.wikipedia.org/wiki/名鉄尾西線 "wikilink")[津島駅](../Page/津島駅.md "wikilink")～[弥富駅](../Page/弥富駅.md "wikilink")間の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
 
 ## 固有名詞
 

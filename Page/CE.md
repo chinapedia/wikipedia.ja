@@ -31,9 +31,9 @@
 
   - [Tex](https://ja.wikipedia.org/wiki/Tex "wikilink")のceコマンド。[化学式](../Page/化学式.md "wikilink")を書くためのmhchemパッケージによる。
 
-**<chem>**
+**<ce>**
 
-  - Wikipediaで化学式を書くための古い開始コード。これまで\<chem\>と書かれていたが現在は<chem>と書かれる。[m:Help:数式の表示](https://ja.wikipedia.org/wiki/m:Help:数式の表示 "wikilink")参照のこと。
+  - Wikipediaで化学式を書くための古い開始コード。これまで\<ce\>と書かれていたが現在は<chem>と書かれる。[m:Help:数式の表示](https://ja.wikipedia.org/wiki/m:Help:数式の表示 "wikilink")参照のこと。
 
 ## 関連項目
 

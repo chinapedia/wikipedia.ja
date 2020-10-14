@@ -17,6 +17,7 @@ __NOTOC__ **TH**, **Th**, **th**
   - [チロシンヒドロキシラーゼ](https://ja.wikipedia.org/wiki/チロシンヒドロキシラーゼ "wikilink") () - 酵素
   - [甲状腺ホルモン](../Page/甲状腺ホルモン.md "wikilink") ()
   - [トランスマイル航空](https://ja.wikipedia.org/wiki/トランスマイル航空 "wikilink") () の[IATA航空会社コード](https://ja.wikipedia.org/wiki/IATA航空会社コード "wikilink")
+  - [名鉄竹鼻線](https://ja.wikipedia.org/wiki/名鉄竹鼻線 "wikilink")及び[名鉄羽島線](https://ja.wikipedia.org/wiki/名鉄羽島線 "wikilink")の駅ナンバリング。
 
 ## Th
 

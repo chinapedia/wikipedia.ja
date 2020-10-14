@@ -14,7 +14,10 @@
   - 固有名称
       - [ノースダコタ州](../Page/ノースダコタ州.md "wikilink") () - アメリカ合衆国の州
       - [NDソフトスタジアム山形（山形県総合運動公園）](../Page/山形県総合運動公園.md "wikilink") - [Jリーグ](../Page/日本プロサッカーリーグ.md "wikilink")・[モンテディオ山形](https://ja.wikipedia.org/wiki/モンテディオ山形 "wikilink")のホームスタジアム。エヌ・デーソフトウェアの命名権取得による。
-      - 政党
+
+<!-- end list -->
+
+  -   - 政党
           - [新民主主義党](../Page/新民主主義党.md "wikilink") () - [ギリシャ](../Page/ギリシャ.md "wikilink")の政党
           - [国家民主党](https://ja.wikipedia.org/wiki/国家民主党_\(スウェーデン\) "wikilink") () - [スウェーデン](https://ja.wikipedia.org/wiki/スウェーデン "wikilink")の政党
       - 企業
@@ -23,7 +26,7 @@
       - 製品・サービス
           - [ナンバーディスプレイ](../Page/ナンバーディスプレイ.md "wikilink") () - NTTの発信者電話番号表示サービス
           - [トヨタ・NDエンジン](../Page/トヨタ・NDエンジン.md "wikilink")
-          - [日本車輌製造](../Page/日本車輌製造.md "wikilink")製の[台車の形式に冠される記号](../Page/鉄道車両の台車.md "wikilink")（例：ND-708）
+          - [日本車輌製造](../Page/日本車輌製造.md "wikilink")製の[台車の形式に冠される記号](../Page/鉄道車両の台車.md "wikilink") (例: ND-708)
           - [NEWDAYS](https://ja.wikipedia.org/wiki/NEWDAYS "wikilink") - [JR東日本グループ](https://ja.wikipedia.org/wiki/JR東日本グループ "wikilink")のコンビニエンスストア
           - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink") - 日産ディーゼルの貨物自動車。
           - ネクストダッシュ () - ゲーム『[機動戦士ガンダム ガンダムVS.ガンダム NEXT](https://ja.wikipedia.org/wiki/機動戦士ガンダム_ガンダムVS.ガンダム_NEXT "wikilink")』の操作システム
@@ -49,4 +52,4 @@
 
 <!-- end list -->
 
-1.  「ＮＤ（不検出）」の考え方[1](http://monitoring.tokyo-eiken.go.jp/nd.html)
+1.  「ND（不検出）」の考え方[1](http://monitoring.tokyo-eiken.go.jp/nd.html)

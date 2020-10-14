@@ -1,7 +1,7 @@
 > この記事は[JR貨物EH500形電気機関車](https://ja.wikipedia.org/wiki/JR貨物EH500形電気機関車)から翻訳されています。
 
 
-**EH500形電気機関車**（イーエイチ500かたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")（平成9年）から製造する三電源方式[交流直流両用](../Page/交直流電車.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。
+**EH500形電気機関車**（イーエイチ500かたでんききかんしゃ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）が[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から製造する三電源方式[交流直流両用](../Page/交直流電車.md "wikilink")[電気機関車](../Page/電気機関車.md "wikilink")である。
 
 公式な[愛称](../Page/愛称.md "wikilink")は[EF210形の](../Page/JR貨物EF210形電気機関車.md "wikilink")「ECO-POWER [桃太郎](../Page/桃太郎.md "wikilink")」と対をなす形で「**ECO-POWER [金太郎](../Page/金太郎.md "wikilink")**」とされており、車体にロゴマークが描かれるが、こちらはマサカリを構えた金太郎のイラストまで入れられている。「キンタ」「金太郎」とも呼ばれる。
 
@@ -11,7 +11,7 @@
 
 従来、[首都圏](../Page/首都圏_\(日本\).md "wikilink") - [函館](https://ja.wikipedia.org/wiki/函館駅 "wikilink")・[五稜郭間は](https://ja.wikipedia.org/wiki/五稜郭駅 "wikilink") 直流機 - 交流機（重連または単機）- 青函用交流機（重連）と機関車の付け替えがあり、到達時間にロスが生じていた。これを解消してJR貨物の保有機関車数を削減する目的とともに、[東北地方](https://ja.wikipedia.org/wiki/東北地方 "wikilink")の[ED75形電気機関車や](../Page/国鉄ED75形電気機関車.md "wikilink")、[津軽海峡線の](https://ja.wikipedia.org/wiki/海峡線 "wikilink")[ED79形電気機関車老朽取替え用として開発](../Page/国鉄ED79形電気機関車.md "wikilink")・製造された。その後、2016年3月の北海道新幹線延伸に伴い青函トンネルが新幹線対応の交流25,000Vに昇圧されたことから、同区間を[EH800形に譲り運転区間は青森までに縮小された](https://ja.wikipedia.org/wiki/JR貨物EH800形電気機関車 "wikilink")。
 
-新世代の交直流電気機関車をめぐっては、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[川崎重工業](../Page/川崎重工業.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")が[EF500形電気機関車](../Page/JR貨物EF500形電気機関車.md "wikilink")、[1992年](../Page/1992年.md "wikilink")に[日立製作所](../Page/日立製作所.md "wikilink")が[ED500形電気機関車を提案して試験を行ったが](../Page/JR貨物ED500形電気機関車.md "wikilink")、JR貨物の要求と合致せず、[東芝](../Page/東芝.md "wikilink")が当機で受注を獲得した。以後、東芝は当機を大量生産しただけでなく、当機をベースに[EH200形直流電気機関車](../Page/JR貨物EH200形電気機関車.md "wikilink")・[EH800形交流電気機関車を開発した](https://ja.wikipedia.org/wiki/JR貨物EH800形電気機関車 "wikilink")。一方、川崎・三菱グループは[EF510形交直流電気機関車を開発するが](../Page/JR貨物EF510形電気機関車.md "wikilink")、日立は電気機関車事業自体から撤退してゆくこととなった。
+新世代の交直流電気機関車をめぐっては、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")に[川崎重工業](../Page/川崎重工業.md "wikilink")・[三菱電機](../Page/三菱電機.md "wikilink")が[EF500形電気機関車](../Page/JR貨物EF500形電気機関車.md "wikilink")、[1992年](../Page/1992年.md "wikilink")に[日立製作所](../Page/日立製作所.md "wikilink")が[ED500形電気機関車を提案して試験を行ったが](../Page/JR貨物ED500形電気機関車.md "wikilink")、JR貨物の要求と合致せず、[東芝](../Page/東芝.md "wikilink")が当機で受注を獲得した。以後、東芝は当機を大量生産しただけでなく、当機をベースに[EH200形直流電気機関車](../Page/JR貨物EH200形電気機関車.md "wikilink")・[EH800形交流電気機関車を開発した](https://ja.wikipedia.org/wiki/JR貨物EH800形電気機関車 "wikilink")。一方、川崎・[三菱グループ](../Page/三菱グループ.md "wikilink")は[EF510形交直流電気機関車を開発するが](../Page/JR貨物EF510形電気機関車.md "wikilink")、日立は電気機関車事業自体から撤退してゆくこととなった。
 
 ## 構造
 

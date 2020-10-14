@@ -287,7 +287,7 @@
 
   - [1月](https://ja.wikipedia.org/wiki/1月 "wikilink") - [韓国で日本語音楽が全面解禁になる](../Page/大韓民国.md "wikilink")2004年1月1日、[ソウルにてスペシャルカウントダウンライブに日本人アーティストとして初出演](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
   - [7月](https://ja.wikipedia.org/wiki/7月 "wikilink") - [夏景色](../Page/夏景色.md "wikilink")を発売。出荷枚数は約20万枚。
-  - [11月17日](../Page/11月17日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink") - ツアー「Boomerang St.」開催。カバー曲中心のセットリストでライブハウスを回った。
+  - [11月17日](../Page/11月17日.md "wikilink") - [12月23日](../Page/12月23日.md "wikilink") - ツアー「Boomerang St.」開催。[カバー](../Page/カバー.md "wikilink")曲中心のセットリストでライブハウスを回った。
 
 <!-- end list -->
 
@@ -494,7 +494,7 @@
 
 ### 楽曲作品
 
-以下の表は「楽曲作品」における全項目の曲数を表す<span style="text-decoration:underline;">（2018年7月29日現在）</span>。複数の作品に収録されている楽曲の場合は、初収録された作品のみで数えており、ライブ中にて演奏された楽曲の再収録版は数に含めない。また、他のアーティストの楽曲をTUBEが[カバー](../Page/カバー.md "wikilink")した場合、便宜上それらをオリジナル曲として数える。
+以下の表は「楽曲作品」における全項目の曲数を表す<span style="text-decoration:underline;">（2018年7月29日現在）</span>。複数の作品に収録されている楽曲の場合は、初収録された作品のみで数えており、ライブ中にて演奏された楽曲の再収録版は数に含めない。また、他のアーティストの楽曲をTUBEがカバーした場合、便宜上それらをオリジナル曲として数える。
 
 <table>
 <thead>
@@ -1371,11 +1371,11 @@
 
 | リリース順 | リリース日                                                                                       | タイトル                                                                                                          | 備考                                                                                                                                                                                                                                                                 |
 | ----- | ------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1st   | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink") | **[60 CANDLES](../Page/60_CANDLES.md "wikilink")**                                                            | [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。1曲のみ[カバー](../Page/カバー.md "wikilink")している。                                                                                                                   |
+| 1st   | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[4月23日](../Page/4月23日.md "wikilink") | **[60 CANDLES](../Page/60_CANDLES.md "wikilink")**                                                            | [加山雄三](https://ja.wikipedia.org/wiki/加山雄三 "wikilink")の[トリビュート・アルバム](../Page/トリビュート・アルバム.md "wikilink")。1曲のみカバーしている。                                                                                                                                                |
 | 2nd   | [2001年](../Page/2001年.md "wikilink")[10月24日](../Page/10月24日.md "wikilink")                  | **PROJECT 2002 The Monsters**                                                                                 | [オムニバス・アルバム](https://ja.wikipedia.org/wiki/オムニバス・アルバム "wikilink")。TUBEのシングル35作目「[初恋](https://ja.wikipedia.org/wiki/初恋_\(TUBEの曲\) "wikilink")」のB面と、リミックス曲である「Dreams of Asia」の合計2曲が収録されている。また、「Dreams of Asia」は一部の作品において名称のみ変更されている。                                 |
 | 3rd   | [2002年](../Page/2002年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink")                    | **[2002 FIFA WORLD CUP OFFICIAL ALBUM 〜SONG OF KOREA/JAPAN〜](../Page/2002_FIFA_ワールドカップ公式アルバム.md "wikilink")** | オムニバス・アルバム。国内盤と海外盤では収録曲が異なる。前者は「I will follow」でオリジナル曲、後者は「Smile〜For Tomorrow's Friends〜」でリミックス曲と合計2曲が収録されている。                                                                                                                                                      |
 | 4th   | [2004年](../Page/2004年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")                    | **めざましSongs**                                                                                                 | オムニバス・アルバム。TUBEのシングル39作目「[青いメロディー](https://ja.wikipedia.org/wiki/青いメロディー "wikilink")」のA面と、TUBEのシングル40作目「[Let's go to the sea 〜OASIS〜](https://ja.wikipedia.org/wiki/Let's_go_to_the_sea_〜OASIS〜 "wikilink")」のA面の2曲と、リミックス曲である「月と太陽 (Guitar Version)」の合計3曲が収録されている。 |
-| 5th   | [2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")                      | **Duet**                                                                                                      | [ケニー・G](../Page/ケニー・G.md "wikilink")の[デュエット](../Page/デュエット.md "wikilink")による[カバー・アルバム](https://ja.wikipedia.org/wiki/カバー・アルバム "wikilink")。日本盤のみリミックス曲である「プロポーズ (Duet with TUBE)」の1曲が収録されている。                                                                       |
+| 5th   | [2005年](../Page/2005年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")                      | **Duet**                                                                                                      | [ケニー・G](../Page/ケニー・G.md "wikilink")の[デュエット](../Page/デュエット.md "wikilink")によるカバーアルバム。日本盤のみリミックス曲である「プロポーズ (Duet with TUBE)」の1曲が収録されている。                                                                                                                             |
 | 6th   | [2005年](../Page/2005年.md "wikilink")[6月15日](../Page/6月15日.md "wikilink")                    | **[Oh\!サマー](https://ja.wikipedia.org/wiki/Oh!サマー "wikilink")**                                                | [NO PLANのシングル](../Page/NO_PLAN.md "wikilink")。オリジナル曲は1曲とその楽曲のカラオケ版を含めた合計2曲が収録されている。また、演奏や作曲などを担当しているが、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")のみ担当していない。                                                                                              |
 
 ### 映像作品
@@ -2606,7 +2606,7 @@ RIDE ON SUMMER</strong></p></td>
   -
   -
   -
-[Category:TUBE](https://ja.wikipedia.org/wiki/Category:TUBE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink")
+[Category:TUBE](https://ja.wikipedia.org/wiki/Category:TUBE "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ケイダッシュ系列所属者](https://ja.wikipedia.org/wiki/Category:ケイダッシュ系列所属者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックアソシエイテッドレコーズのアーティスト "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:1985年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1985年に結成した音楽グループ "wikilink") [Category:4人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:4人組の音楽グループ "wikilink")
 
 1.  2015年7月24日放送[TUBEのオールナイトニッポンGOLDより](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")
 2.  BEST of TUBEstブックレット、及び「LIVE AROUND SPECIAL 2014 TIME TRAVEL 29」パンフレットより。

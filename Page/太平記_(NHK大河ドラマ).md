@@ -777,7 +777,7 @@
 <td><p>6月23日</p></td>
 <td><p>足利尊氏</p></td>
 <td><p>竹林淳</p></td>
-<td></td>
+<td><p>奈良県・<a href="https://ja.wikipedia.org/wiki/平群町" title="wikilink">平群町</a></p></td>
 <td><p>22.3%</p></td>
 <td></td>
 </tr>

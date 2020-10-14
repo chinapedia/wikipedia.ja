@@ -911,11 +911,13 @@
 <span style="font-size:90%">[2000年](../Page/2000年.md "wikilink")頃まで発売</span> |<span style="font-size:90%">BS-1 - BS-15ch
 **11.7 - 12.0[GHz](../Page/ギガヘルツ.md "wikilink")**</span>||<span style="font-size:90%">BS-IF（アナログ）
 **1,035 - 1,332[MHz](https://ja.wikipedia.org/wiki/メガヘルツ "wikilink")**</span> |- \!BS・東経110度CS
-<span style="font-size:90%">（右[旋円偏波](../Page/偏光.md "wikilink")）</span>アンテナ
-<span style="font-size:90%">現行品</span> |<span style="font-size:90%">BS-1 - BS-23ch
+<span style="font-size:90%">（右[旋円偏波](../Page/偏光.md "wikilink")）</span>アンテナ |<span style="font-size:90%">BS-1 - BS-23ch
 ND2 - ND24ch
 **11.7 - 12.75GHz**</span>||<span style="font-size:90%">BS-IF（デジタル）・CS-IF
-**1,032 - 2,072MHz**</span> |}
+**1,032 - 2,072MHz**</span> |- \!4K8K衛星放送対応アンテナ |<span style="font-size:90%">BS-1 - BS-23ch
+ND1 - ND24ch
+**11.7 - 12.75GHz**</span>||<span style="font-size:90%">BS-IF（デジタル）・CS-IF
+**1,032 - 3,224MHz**</span> |}
 
   - 旧BSアンテナで受信する場合
     スカパー\!（旧・e2）放送開始より前に販売されたBSアンテナの場合、コンバーターの（[CS-IF](https://ja.wikipedia.org/wiki/日本における衛星放送#BS-IF/CS-IF（周波数変換） "wikilink")）帯域が不足し受信できないことがあり、その場合はアンテナの交換が必要となることが多い（右表を参照）。運営するスカパーJSATでは、「[QVC](../Page/QVC.md "wikilink")（キュー・ヴィー・シー）」（Ch.161）\[34\]\[35\]が受信できることを確認してから加入申込みをするよう呼びかけている。

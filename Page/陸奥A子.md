@@ -17,6 +17,8 @@
 
 ペンネームの「陸奥」は[太宰治](../Page/太宰治.md "wikilink")のファンであったからの命名だと、『りぼん』誌上での[沢田研二](../Page/沢田研二.md "wikilink")との対談（1978年1月号）で語っていたことがある。
 
+自身の[Twitter](../Page/Twitter.md "wikilink")で[埼玉西武ライオンズ](https://ja.wikipedia.org/wiki/埼玉西武ライオンズ "wikilink")のファンであることを公言している。
+
 ## 作品リスト
 
 ※ 短編集を含め刊行順に記載

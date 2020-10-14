@@ -360,12 +360,6 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <td><p>月曜 - 金曜 20:00 - 21:55</p></td>
 <td><p>フジテレビ報道局制作</p></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース" title="wikilink">プライムニュース SUPER</a></p></td>
-<td><p>土曜 22:00 - 22:55</p></td>
-<td><p>フジテレビ報道局制作</p>
-<p>2020年3月28日までは土曜 21:00 - 21:55で放送していた。</p></td>
-</tr>
 </tbody>
 </table>
 
@@ -396,17 +390,11 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 </tr>
 <tr class="odd">
 <td><p>ドラマ</p></td>
-<td><p>CODE1515</p></td>
-<td><p>日曜 24:00 - 24:30</p></td>
-<td><p>2020年5月10日スタート</p></td>
-</tr>
-<tr class="even">
 <td><p>〈BSフジサスペンス劇場〉</p></td>
 <td><p>月曜 - 金曜 12:00 - 13:58</p></td>
 <td><p>地上波フジテレビで放送された2時間ドラマを放送。 スポーツ中継などにより放送休止の場合もあり</p></td>
-<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>〈午後の名作ドラマ劇場〉</p></td>
 <td><p>月曜 - 金曜 17:00 - 19:00</p></td>
 <td><p>地上波フジテレビで放送された2時間ドラマを放送していたが、 不定期で地上波フジテレビで放送された1時間ドラマを2話連続放送する場合もある。</p>
@@ -414,20 +402,20 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <p>2020年10月5日より月曜 - 金曜 16:00 - 18:00へ放送時間変更予定。</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>〈『このミス』大賞ドラマシリーズ〉<a href="https://ja.wikipedia.org/wiki/連続殺人鬼カエル男" title="wikilink">連続殺人鬼カエル男</a></p></td>
 <td><p>土曜 24:30 - 25:00</p></td>
 <td><p>2020年9月19日スタート</p>
 <p>地上波ではカンテレで放送されていた。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/時代劇.md" title="wikilink">時代劇</a></p></td>
 <td><p>〈時代劇名作選〉<a href="../Page/斬り捨て御免!.md" title="wikilink">斬り捨て御免！第2シリーズ</a></p></td>
 <td><p>月曜 - 金曜 8:55 - 10:00</p></td>
-<td></td>
+<td><p>2020年10月5日より月曜 - 金曜 9:00 - 10:00へ放送時間変更予定。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>〈時代劇〉</p></td>
 <td><p>月曜 - 金曜 19:05 - 20:00</p></td>
 <td><p>曜日毎に下記シリーズを順に放送。</p>
@@ -439,16 +427,16 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <p>2020年10月5日より月曜 - 金曜 18:05 - 19:00へ放送時間変更予定。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>海外ドラマ</p></td>
-<td><p>〈韓ドラ〉<a href="https://ja.wikipedia.org/wiki/星から来たあなた" title="wikilink">星から来たあなた</a></p></td>
+<td><p>〈韓ドラ〉とにかくアツく掃除しろ！〜恋した彼は潔癖王子！？〜</p></td>
 <td><p>月曜 - 金曜 10:00 - 10:57</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>〈韓ドラ〉恋のパスワード</p></td>
 <td><p>月曜 - 金曜 14:59 - 16:00</p></td>
-<td></td>
+<td><p>2020年10月5日よりこの時間帯の韓ドラは月曜 - 金曜 8:00 - 9:00へ放送時間変更予定。</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -471,14 +459,16 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BSフジ競馬中継#BSスーパーKEIBA" title="wikilink">BSスーパーKEIBA</a></p></td>
 <td><p>日曜 15:00 - 16:00</p></td>
 <td><p>2019年までは一部重賞競走施行日のみ放送。2020年よりレギュラー放送に昇格。<br />
-中継映像は、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はフジテレビ制作映像を使用するが、 札幌・函館・福島・新潟（何れも第3場開催のみ）及び京都・阪神の関西主場、中京・小倉の夏季開催（7-9月）及び第3場開催時は原則としてグリーンチャンネルと同じJRA公式映像を使用する。</p></td>
+中継映像は、東京・中山の関東主場、福島・新潟の夏季開催（7-9月）はフジテレビ制作映像を使用するが、<br />
+札幌・函館・福島・新潟（何れも第3場開催のみ）及び京都・阪神の関西主場、中京・小倉の夏季開催（7-9月）及び第3場開催時は原則としてグリーンチャンネルと同じJRA公式映像を使用する。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ボートレース" title="wikilink">ボートレース</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACEライブ_〜勝利へのターン〜" title="wikilink">BOAT RACEプレミア ハートビートボート</a></p></td>
 <td><p>日曜 16:00 - 16:56</p></td>
-<td><p>BOAT RACE 提供 <a href="../Page/島崎和歌子.md" title="wikilink">島崎和歌子</a>・<a href="../Page/堂前英男.md" title="wikilink">堂前英男</a>司会／秋山基裕 ナビゲーター兼解説</p>
-<p>2020年4月5日より「BOAT RACEライブ 〜勝利へのターン〜」より改題し番組リニューアル。</p></td>
+<td><p>BOAT RACE 提供<br />
+<a href="../Page/島崎和歌子.md" title="wikilink">島崎和歌子</a>・<a href="../Page/堂前英男.md" title="wikilink">堂前英男</a>司会／秋山基裕 ナビゲーター兼解説<br />
+2020年4月5日より「BOAT RACEライブ 〜勝利へのターン〜」より改題し番組リニューアル。</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/BOAT_RACEライブ_〜勝利へのターン〜" title="wikilink">BOAT RACEプレミア</a></p></td>
@@ -529,55 +519,60 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <tr class="odd">
 <td><p><a href="../Page/ゴルフ.md" title="wikilink">ゴルフ</a></p></td>
 <td><p>激芯ゴルフ〜93期生への道〜</p></td>
-<td><p>月曜 23:00 - 23:30 【再】日曜 9:00 - 9:30</p></td>
-<td><p>2020年3月30日スタート 2020年10月より土曜 22:00 - 22:30、再放送:月曜 24:30 - 25:00へ放送時間変更予定。</p></td>
+<td><p>月曜 23:00 - 23:30<br />
+【再】日曜 9:00 - 9:30</p></td>
+<td><p>2020年3月30日スタート<br />
+2020年10月より土曜 22:00 - 22:30、再放送:月曜 24:30 - 25:00へ放送時間変更予定。</p></td>
 </tr>
 <tr class="even">
 <td><p>attest ～WEEKLY GOLF NEWS～</p></td>
 <td><p>月曜 23:30 - 23:55</p></td>
-<td><p>2020年4月6日スタート</p></td>
+<td><p>2020年4月6日スタート<br />
+2020年10月より月曜 24:00 - 24:30へ放送時間変更予定。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>ゴルフチャレンジアスリート</p></td>
-<td><p>土曜 9:30 - 10:01</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p><a href="../Page/フジサンケイクラシック.md" title="wikilink">フジサンケイクラシック</a></p></td>
 <td><p>毎年<a href="../Page/9月.md" title="wikilink">9月</a></p></td>
 <td><p>フジテレビ系列で中継される大会の模様を全て録画放送。<br />
 また地上波と同時放送、さらに地上波・CS放送とのリレー形式で放送を行う場合もある。</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/フジサンケイレディスクラシック.md" title="wikilink">フジサンケイレディスクラシック</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/4月" title="wikilink">4月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宮里藍_サントリーレディスオープンゴルフトーナメント.md" title="wikilink">宮里藍 サントリーレディスオープンゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/6月.md" title="wikilink">6月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/NEC軽井沢72ゴルフトーナメント.md" title="wikilink">NEC軽井沢72ゴルフトーナメント</a></p></td>
 <td><p>毎年<a href="../Page/8月.md" title="wikilink">8月</a></p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/アクサレディスゴルフトーナメント.md" title="wikilink">アクサレディスゴルフトーナメント in MIYAZAKI</a></p></td>
 <td><p>毎年<a href="https://ja.wikipedia.org/wiki/3月" title="wikilink">3月</a>（2013年より）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="../Page/北海道Meijiカップ.md" title="wikilink">北海道Meijiカップ</a></p></td>
+<tr class="even">
+<td><p><a href="../Page/北海道Meijiカップ.md" title="wikilink">北海道Meijiカップ</a><br />
+（北海道文化放送制作）</p></td>
 <td><p>毎年8月（2018年より）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/東海クラシック.md" title="wikilink">デサントレディース東海クラシック</a><br />
+（東海テレビ制作）</p></td>
+<td><p>毎年9月（2019年より）</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -597,7 +592,8 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <tr class="even">
 <td><p><a href="../Page/延岡西日本マラソン.md" title="wikilink">延岡西日本マラソン</a></p></td>
 <td><p>2月第2日曜</p></td>
-<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、 2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
+<td><p><a href="../Page/テレビ宮崎.md" title="wikilink">テレビ宮崎</a>制作。2012年から放送開始。2012年・2013年は地上波と同時放送だったが、<br />
+2014年以降は23:00 - 翌0:30のダイジェスト放送となった。</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -684,7 +680,7 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <td><p>毎年<a href="../Page/7月17日.md" title="wikilink">7月17日</a><br />
 8:30 - 10:55</p></td>
 <td><p>KBS京都制作<br />
-2008年までは<a href="../Page/関西テレビ☆京都チャンネル.md" title="wikilink">関西テレビ☆京都チャンネル</a>との共同制作。 2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウィルスの影響で染拡大防止等の影響で祇園祭の山鉾巡行と神輿渡御</a>、関連行事や神事の中止や縮小の為、「祇園祭スペシャル 知ってるようで知らない祇園祭物語」を収録にて放送。</p></td>
+2008年までは<a href="../Page/関西テレビ☆京都チャンネル.md" title="wikilink">関西テレビ☆京都チャンネル</a>との共同制作。 2020年は<a href="../Page/2019新型コロナウイルス.md" title="wikilink">新型コロナウイルスの影響で染拡大防止等の影響で祇園祭の山鉾巡行と神輿渡御</a>、関連行事や神事の中止や縮小の為、「祇園祭スペシャル 知ってるようで知らない祇園祭物語」を収録にて放送。</p></td>
 </tr>
 <tr class="even">
 <td><p>祇園祭山鉾巡行・後祭</p></td>
@@ -723,19 +719,29 @@ BSフジ4Kは月曜・日曜のみ放送[13]</p></td>
 <td><p>以前は不定期で放送していたが、2019年7月21日より月1回でレギュラー放送開始。</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/タイプライターズ〜物書きの世界〜" title="wikilink">タイプライターズ～物書きの世界～</a></p></td>
+<td><p>最終日曜 17:00 - 17:55</p></td>
+<td><p>2020年9月25日までは最終金曜 23:00 - 23:55で放送していた。</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/ドリフ大爆笑.md" title="wikilink">ドリフ大爆笑</a></p></td>
 <td><p>日曜 20:00 - 20:55</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/東北魂TV" title="wikilink">東北魂TV</a></p></td>
 <td><p>日曜 23:00 - 23:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ブラマヨ弾話室_〜ニッポン、どうかしてるぜ!〜" title="wikilink">ブラマヨ弾話室 〜ニッポン、どうかしてるぜ!〜</a></p></td>
 <td><p>日曜 23:30 - 24:00</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>日本一ふつうで美味しい植野食堂 by dancyu</p></td>
+<td><p>月曜 - 金曜 19:00 - 19:30 【再】月曜 - 金曜 7:30 - 8:00</p></td>
+<td><p>2020年10月5日スタート</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/クイズ!脳ベルSHOW" title="wikilink">クイズ!脳ベルSHOW</a></p></td>
@@ -761,7 +767,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ビニールハウス_〜恋愛促成栽培〜" title="wikilink">ビニールハウス 〜恋愛促成栽培〜</a></p></td>
 <td><p>水曜 23:30 - 23:55</p></td>
-<td><p>2019年4月3日スタート</p></td>
+<td><p>2019年4月3日スタート 2020年10月より「恋愛マルシェ」に改題し番組リニューアル、日曜 22:30 - 23:00へ放送時間変更予定。</p></td>
 </tr>
 <tr class="odd">
 <td><p>橋本マナミの東京はいすぺ女子図鑑</p></td>
@@ -779,27 +785,17 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <td><p>2020年10月より第3木曜 24:00 - 24:25へ放送時間変更予定。</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/タイプライターズ〜物書きの世界〜" title="wikilink">タイプライターズ～物書きの世界～</a></p></td>
-<td><p>最終金曜 23:00 - 23:55</p></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p><ジャパコンProject>二次元領域拡大通信</p></td>
 <td><p>第1金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><ジャパコンProject>ギルドフレンズ～世界へ？本気です！～</p></td>
 <td><p>第3金曜 24:00 - 24:30</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/人生は三百六十五歩のマーチ" title="wikilink">人生は三百六十五歩のマーチ</a></p></td>
-<td><p>土曜 16:00 - 17:25</p></td>
-<td><p>※隔週新作</p></td>
-</tr>
 <tr class="even">
-<td><p>&lt;土曜+1&gt;リモスタ！</p></td>
+<td><p>&lt;土曜+1&gt;次課・長州の力旅</p></td>
 <td><p>土曜 18:00 - 18:55</p></td>
 <td><p>土曜+1枠は月毎に番組が変わり、一部番組除き基本全2～3回の番組構成となる。（残りの週は再放送） 2020年3月28日までは土曜 22:00 - 22:55で放送していた。</p></td>
 </tr>
@@ -906,7 +902,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <tr class="odd">
 <td><p>コミックBAR Renta!</p></td>
 <td><p>月曜 23:55 - 24:00</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アニメギルド" title="wikilink">アニメギルド</a>枠</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アニメギルド" title="wikilink">アニメギルド</a>枠 2020年10月7日より水曜 25:00 - 25:05へ放送時間変更予定。</p></td>
 </tr>
 <tr class="even">
 <td><p>ブレイク前夜～次世代の芸術家たち～</p></td>
@@ -937,8 +933,8 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
 <tr class="odd">
 <td><p>保科有里「夢に向かって」</p></td>
 <td><p>木曜 23:55 - 24:00<br />
-【再】土曜 4:55 - 5:00</p></td>
-<td></td>
+【再】土曜 4:55 - 5:00、隔週日曜 16:56 - 17:00</p></td>
+<td><p>2020年10月より木曜 24:25 - 24:30へ放送時間変更予定。</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/フューチャーランナーズ〜17の未来〜" title="wikilink">フューチャーランナーズ〜17の未来〜</a></p></td>
@@ -968,6 +964,7 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - フジテレビ[スーパーニュース特集](../Page/FNNスーパーニュース.md "wikilink")
   - [PRIME NEWS Weekend](https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース "wikilink")
   - BSフジ×ウェザーニュース〜ソライブ・モーニング〜（ウェザーニューズ制作。同社SOLiVE24の『[SOLiVE モーニング](https://ja.wikipedia.org/wiki/SOLiVE_モーニング "wikilink")』（6:00-6:30）のサイマル放送）
+  - [プライムニュース SUPER](https://ja.wikipedia.org/wiki/BSフジLIVE_プライムニュース "wikilink")
 
 ### 映画・ドラマ（過去）
 
@@ -1064,7 +1061,8 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
       - [火の女神ジョンイ](https://ja.wikipedia.org/wiki/火の女神ジョンイ "wikilink") ※字幕付き日本語吹替
       - [冬のソナタ](../Page/冬のソナタ.md "wikilink")　※新編集版、字幕付き日本語吹替
       - [王と妃](https://ja.wikipedia.org/wiki/王と妃 "wikilink")
-      - [ライアーゲーム](https://ja.wikipedia.org/wiki/ライアーゲーム "wikilink")など
+      - [ライアーゲーム](https://ja.wikipedia.org/wiki/ライアーゲーム "wikilink")
+      - [星から来たあなた](https://ja.wikipedia.org/wiki/星から来たあなた "wikilink")
 
 ### スポーツ（過去）
 
@@ -1368,7 +1366,8 @@ BSフジでも再放送を行っていたが、2020年1月3日をもって一旦
   - [テリー伊藤の今夜も傾奇流](https://ja.wikipedia.org/wiki/テリー伊藤の今夜も傾奇流 "wikilink")\!
   - 荒野行動女子部 〜初代女子戦隊集結〜
       - 荒野女子部Season2 ～ただいま交戦中～
-
+  - [人生は三百六十五歩のマーチ](https://ja.wikipedia.org/wiki/人生は三百六十五歩のマーチ "wikilink")
+  -
 ### 開局10周年記念番組
 
   - 日本遺産物語〜世界遺産の伝承を解明〜

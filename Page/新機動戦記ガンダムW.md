@@ -1,7 +1,7 @@
 > この記事は[新機動戦記ガンダムW](https://ja.wikipedia.org/wiki/新機動戦記ガンダムW)から翻訳されています。
 
 
-『**新機動戦記ガンダムW**』（しんきどうせんきガンダムウイング、英題: ）は、『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[4月7日](../Page/4月7日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")（平成8年）[3月29日](../Page/3月29日.md "wikilink")まで全49話が[テレビ朝日系列で毎週金曜日](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")17時00分 - 17時30分にて放送された。略称は「**GW**」。[米国では最初に放送されたガンダムシリーズ作品である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
+『**新機動戦記ガンダムW**』（しんきどうせんきガンダムウイング、英題: ）は、『[ガンダムシリーズ](../Page/ガンダムシリーズ一覧.md "wikilink")』[サンライズ制作の](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年）[4月7日](../Page/4月7日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")（平成8年）[3月29日](../Page/3月29日.md "wikilink")まで全49話が[テレビ朝日系列で毎週金曜日](../Page/オールニッポン・ニュースネットワーク.md "wikilink")17時00分 - 17時30分にて放送された。略称は「**GW**」。[米国では最初に放送されたガンダムシリーズ作品である](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")。
 
 ## 概要
 
@@ -657,7 +657,7 @@ A.C.195年、[地球圏統一連合の支配に反目する一部のコロニー
 <tr class="odd">
 <td><p><a href="../Page/広域放送.md" title="wikilink">関東広域圏</a></p></td>
 <td><p><a href="../Page/テレビ朝日.md" title="wikilink">テレビ朝日</a>★</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/All-nippon_News_Network" title="wikilink">テレビ朝日系列</a></p></td>
+<td><p><a href="../Page/オールニッポン・ニュースネットワーク.md" title="wikilink">テレビ朝日系列</a></p></td>
 <td><p>金曜 17:00 - 17:30</p></td>
 <td><p><strong>制作局</strong></p></td>
 </tr>
@@ -812,7 +812,7 @@ A.C.195年、[地球圏統一連合の支配に反目する一部のコロニー
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/チューリップテレビ.md" title="wikilink">チューリップテレビ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/Japan_News_Network" title="wikilink">TBS系列</a></p></td>
+<td><p><a href="../Page/ジャパン・ニュース・ネットワーク.md" title="wikilink">TBS系列</a></p></td>
 <td></td>
 <td></td>
 </tr>

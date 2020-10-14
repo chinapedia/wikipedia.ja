@@ -1,7 +1,7 @@
 > この記事は[TOEFL](https://ja.wikipedia.org/wiki/TOEFL)から翻訳されています。
 
 
-[TOEFL_Logo.svg](https://ja.wikipedia.org/wiki/File:TOEFL_Logo.svg "fig:TOEFL_Logo.svg") **TOEFL**（ = 外国語としての[英語](../Page/英語.md "wikilink")のテスト、**トーフル**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[NPO](../Page/NPO.md "wikilink")である[教育試験サービス](https://ja.wikipedia.org/wiki/教育試験サービス "wikilink") （Educational Testing Service; ETS）が主催している[外国語](../Page/外国語.md "wikilink")としての英語のテスト。その名称の通り非[英語圏](../Page/英語圏.md "wikilink")の出身者のみを対象としており、英語圏の[高等教育](../Page/高等教育.md "wikilink")機関が入学希望者の外国語としての英語力を判定する際に用いる。
+[TOEFL_Logo.svg](https://ja.wikipedia.org/wiki/File:TOEFL_Logo.svg "fig:TOEFL_Logo.svg") **TOEFL**（ = 外国語としての[英語](../Page/英語.md "wikilink")のテスト、**トーフル**）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[NPO](../Page/NPO.md "wikilink")である[教育試験サービス](https://ja.wikipedia.org/wiki/教育試験サービス "wikilink") （Educational Testing Service; ETS）が主催している[外国語](../Page/外国語.md "wikilink")としての英語のテストで、同団体の登録商標（日本においては第1409962号ほか）である。その名称の通り非[英語圏](../Page/英語圏.md "wikilink")の出身者のみを対象としており、英語圏の[高等教育](../Page/高等教育.md "wikilink")機関が入学希望者の外国語としての英語力を判定する際に用いる。
 
 英語圏の[大学](../Page/大学.md "wikilink")へ留学・研究を希望する者を主な対象とした英語能力を測定するテストであり、英語による高等教育に適う能力の判定が目的である。[1964年](../Page/1964年.md "wikilink")から実施されており、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では[CIEE](../Page/国際教育交換協議会.md "wikilink") Japan（一般社団法人 CIEE国際教育交換協議会）が窓口となっている。結果は、0－120点のスコアとして判定され、満点は**120点**である。
 

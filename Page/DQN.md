@@ -1,7 +1,7 @@
 > この記事は[DQN](https://ja.wikipedia.org/wiki/DQN)から翻訳されています。
 
 
-**DQN**（ドキュン）とは、[日本語](../Page/日本語.md "wikilink")の文脈で使われる[インターネットスラング](../Page/インターネットスラング.md "wikilink")・[蔑称の一つである](https://ja.wikipedia.org/wiki/侮蔑#蔑称 "wikilink")。読み方は「ドキュン」である。
+**DQN**（ドキュン）とは、[日本語](../Page/日本語.md "wikilink")の文脈で使われる[インターネットスラング](../Page/インターネットスラング.md "wikilink")・[蔑称の一つである](https://ja.wikipedia.org/wiki/侮蔑#蔑称 "wikilink")。読み方は「ドキュン」である。「ドキュソ」と書かれることもある。
 
 ## 概要
 

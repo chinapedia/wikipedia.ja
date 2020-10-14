@@ -34,10 +34,11 @@
   - [輝星星表](https://ja.wikipedia.org/wiki/輝星星表 "wikilink") （Bright star catalogue）。[恒星](../Page/恒星.md "wikilink")カタログの一つ。
   - [バイオシミラー](https://ja.wikipedia.org/wiki/バイオ医薬品#バイオシミラー "wikilink")（Biosimilar） - バイオ医薬品の一つで、後続薬品であるバイオシミラー。
   - [バーラト・ステージ](https://ja.wikipedia.org/wiki/排気ガス規制#インド "wikilink") - [インド](../Page/インド.md "wikilink")国内で適用される[排気ガス規制](https://ja.wikipedia.org/wiki/排気ガス規制 "wikilink")の段階、バラート・ステージの略。
+  - [名鉄尾西線](https://ja.wikipedia.org/wiki/名鉄尾西線 "wikilink")[町方駅](../Page/町方駅.md "wikilink")～[玉ノ井駅](../Page/玉ノ井駅.md "wikilink")間（[名鉄一宮駅](../Page/名鉄一宮駅.md "wikilink")を除く）の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
 
 ## Bs
 
-  - [オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink") ()。[パ・リーグの](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[プロ野球団](../Page/日本プロ野球.md "wikilink")。
+  - [オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink") （）。[パ・リーグの](https://ja.wikipedia.org/wiki/パシフィック・リーグ "wikilink")[プロ野球団](../Page/日本プロ野球.md "wikilink")。ただし[2019年](../Page/2019年.md "wikilink")からは英字略称および帽子やヘルメットのロゴマークは「**B**」に改められている。
 
 ## bs
 

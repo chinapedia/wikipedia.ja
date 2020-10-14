@@ -1463,7 +1463,7 @@ http (1996年)</p></td>
 
 ### ライブ・ツアー
 
-  - 中止になった公演は取消線、振替公演は<span style="color:#0000FF">青色</span>、追加公演は<span style="color:#FF0000">赤色</span>で表記
+  - 中止になった公演は取消線、振替公演は<span style="color:#008000">緑色</span>、追加公演は<span style="color:#FF0000">赤色</span>で表記
 
 <table>
 <thead>
@@ -2457,7 +2457,7 @@ http (1996年)</p></td>
 </dd>
 <dd><span style="color:#FF0000">05／19　港 インクスティック鈴江ファクトリー</span>
 </dd>
-<dd><span style="color:#0000FF">07／14　心斎橋 CLUB QUATTRO</span>
+<dd><span style="color:#008000">07／14　心斎橋 CLUB QUATTRO</span>
 </dd>
 </dl>
 </div>
@@ -2575,11 +2575,11 @@ http (1996年)</p></td>
 </dd>
 <dd>03／14　心斎橋 CLUB QUATTRO
 </dd>
-<dd>03／15　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO#CLUB_QUATTRO" title="wikilink">CLUB QUATTRO#名古屋CLUB QUATTRO#CLUB QUATTRO</a>
+<dd>03／15　名古屋 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#名古屋CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
 </dd>
 <dd>03／23　博多 <a href="https://ja.wikipedia.org/wiki/天神ビブレ" title="wikilink">ビブレホール</a>
 </dd>
-<dd>04／04　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO#渋谷CLUB QUATTRO</a>
+<dd>04／04　渋谷 <a href="https://ja.wikipedia.org/wiki/CLUB_QUATTRO#渋谷CLUB_QUATTRO" title="wikilink">CLUB QUATTRO</a>
 </dd>
 <dd>04／05　渋谷 CLUB QUATTRO
 </dd>
@@ -2821,7 +2821,7 @@ http (1996年)</p></td>
 </dd>
 <dd>11／17　江東 Zepp Tokyo
 </dd>
-<dd><span style="color:#FF0000">10／14　豊洲 PIT</span>
+<dd><span style="color:#FF0000">01／14　豊洲 PIT</span>
 </dd>
 </dl>
 </div>

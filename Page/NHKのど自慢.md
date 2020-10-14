@@ -264,14 +264,14 @@
     観覧希望者も往復はがきに住所・氏名・電話番号を記入して開催地のNHK放送局、市役所・町村役場、開催するホールなどに郵送する。そして抽選の上、入場整理券（抽選の合否結果）が応募者宛に返送されてくる\[79\]。
 
   - 予選会
-    書類選考により約250組の予選出場者が選ばれ\[80\]、各放送局から通知される。予選出場者は、[収録](../Page/収録.md "wikilink")（放送）日の前日（土曜日）に本番と同じ会場で行われる非公開 の予選会\[81\] に出場し、本番同様に一組ずつ生バンド\[82\] をバックにステージ上で歌を披露する。なお、予選会は、本選と違い、会場によるが入場整理券を持っていない人でも自由に観覧できる（ただし、満席の場合は、観覧席への入場を制限される場合がある）。動画の撮影は禁止されている。
+    書類選考により約250組の予選出場者が選ばれ\[80\]、各放送局から通知される。予選出場者は、[収録](../Page/収録.md "wikilink")（放送）日の前日（土曜日）に本番と同じ会場で行われる非公開 の予選会\[81\] に出場し、本番同様に一組ずつ生バンド\[82\] をバックにステージ上で歌を披露する。なお、予選会は、本選と違い、会場によるが入場整理券を持っていない人でも自由に観覧できる（ただし、満席の場合は、観覧席への入場を制限される場合がある）。動画撮影は禁止だが、ロビーで録画映像が流れる。
 
     全員の歌唱が終わると、歌唱力と出演者のエピソード\[83\] などを加味して本番の出場者20組が決まる\[84\]\[85\]。なお、出演順は、曲目や年齢のバランスを考慮して決められる\[86\]。原則として予選会と同じ衣装で出演する。
 
   - 本番
     本番当日の流れは、基本的に以下のとおり。
 
-      - 放送開始前のリハーサル（8:00）
+      - 放送開始前のリハーサル（8:30）
           -
             出場者に続いて、ゲストも行うがこの際は出場者もその模様を間近に観られる。また昼食も用意される。
       - 観客着席完了（11:45）
@@ -714,7 +714,7 @@ NHKのど自慢では、1998年（[平成](../Page/平成.md "wikilink")10年）
 
 過去最高齢出場者は、2012年8月12日のいわき大会において「白虎隊」を歌った当時102歳の男性である（特別賞を得た）。
 
-各大会の本選出場者は2日間に渡る時間で絆が強まり、その後も同窓会を開くなど交流を続けるケースが多い。
+各大会の本選出場者は予選通過から2日間に渡って一緒になるため絆が強まり、その後も同窓会を開くなど交流を続けるケースが多い。
 
 会場では「NHKのど自慢」の記念品も販売される（NHK放送センター内でも購入可）。また、予選会参加者には記念バッヂが贈呈される。
 
@@ -759,7 +759,7 @@ NHKのど自慢では、1998年（[平成](../Page/平成.md "wikilink")10年）
 
 （参考文献 ：日本放送協会・総合放送文化研究所「放送学研究 別冊2 午後の時間帯」74 - 85頁 1981年）
 
-[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHKラジオ第1の音楽番組](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の音楽番組 "wikilink") [Category:視聴者参加型音楽番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型音楽番組 "wikilink") [Category:1970年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1970年のテレビ番組_\(日本\) "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink")
+[Category:NHK総合テレビジョンの音楽番組](https://ja.wikipedia.org/wiki/Category:NHK総合テレビジョンの音楽番組 "wikilink") [Category:NHKラジオ第1の音楽番組](https://ja.wikipedia.org/wiki/Category:NHKラジオ第1の音楽番組 "wikilink") [Category:視聴者参加型音楽番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型音楽番組 "wikilink") [Category:1970年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1970年のテレビ番組_\(日本\) "wikilink") [Category:香取慎吾](https://ja.wikipedia.org/wiki/Category:香取慎吾 "wikilink") [Category:SMAP](https://ja.wikipedia.org/wiki/Category:SMAP "wikilink") [Category:1946年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1946年のラジオ番組_\(日本\) "wikilink")
 
 1.  学生から[会社員](https://ja.wikipedia.org/wiki/会社員 "wikilink")、教育関係者、[公務員](../Page/公務員.md "wikilink")、[看護師](https://ja.wikipedia.org/wiki/看護師 "wikilink")、[農家](../Page/農家.md "wikilink")、[定年](../Page/定年.md "wikilink")後の[高齢者](../Page/高齢者.md "wikilink")（80 - 90歳代の出場者もおり、中には100歳以上という超高齢者の出場もある）など。
 2.  総合テレビでは[字幕放送](https://ja.wikipedia.org/wiki/字幕放送 "wikilink")を実施。

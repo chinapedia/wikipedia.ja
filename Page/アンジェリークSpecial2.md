@@ -7,7 +7,7 @@
 
 主人公を第1作のアンジェリーク・リモージュからアンジェリーク・コレットに変更した[アンジェリークシリーズ](../Page/アンジェリークシリーズ.md "wikilink")2作目。 ゲームモードはイージー・ハードの2つから、主人公の性格は温和・元気・勝気の3つから選べる。 この作品以降のアンジェリーク・コレットの性格は温和ベースだが元気・勝気の面もある。
 
-シリーズ全体を通して**アンジェリーク**という名前のキャラクターは3名存在する。 そのため本作の主人公は区別のため**コレット**（苗字から）または**栗アン**、**茶アン**、**茶髪アンジェ**（髪の色が栗色であるため）などと呼ばれることがある。
+シリーズ全体を通して**アンジェリーク**という名前のキャラクターは3名存在する。 そのため本作の主人公は区別のため**コレット**（苗字から）または**栗アン**、**茶アン**、**茶髪アンジェ**\[1\]（髪の色が栗色であるため）などと呼ばれることがある。
 
 ## 歴史
 
@@ -16,7 +16,7 @@
   - アンジェリークSpecial2
     1997年4月4日発売。[セガサターン](../Page/セガサターン.md "wikilink")、Windows用ソフト。光栄（現[コーエー](../Page/コーエー.md "wikilink")）より発売。
   - アンジェリークSpecial2
-    1997年4月11日発売。[プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。光栄（現[コーエー](../Page/コーエー.md "wikilink")）より発売。
+    1997年4月11日発売\[2\]。[プレイステーション用ソフト](../Page/PlayStation_\(ゲーム機\).md "wikilink")。光栄（現[コーエー](../Page/コーエー.md "wikilink")）より発売。
 
 ## ストーリー
 
@@ -114,8 +114,15 @@
   - 協力者コレクション6 エルンスト(異次元飛行～α to ω～/QUESTION)
   - オスカー(All night? All right\!～夜を始めよう～/君はひとりじゃない)
 
+## 脚注
+
+<references />
+
 ## 外部リンク
 
-  - [ネオロマンスオフィシャルサイト:アンジェリーク](http://www.gamecity.ne.jp/neoromance/angelique/)
+  - [アンジェリークSpecial2オフィシャルサイト](https://www.gamecity.ne.jp/products/products/ee/Rlangs2.htm)
 
 [Category:ネオロマンスシリーズ](https://ja.wikipedia.org/wiki/Category:ネオロマンスシリーズ "wikilink") [Category:PC-FX用ソフト](https://ja.wikipedia.org/wiki/Category:PC-FX用ソフト "wikilink") [Category:セガサターン用ソフト](https://ja.wikipedia.org/wiki/Category:セガサターン用ソフト "wikilink") [Category:PlayStation用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation用ソフト "wikilink") [Category:1996年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1996年のコンピュータゲーム "wikilink") [Category:乙女ゲーム](https://ja.wikipedia.org/wiki/Category:乙女ゲーム "wikilink")
+
+1.
+2.   ソフトウェアカタログ {{\!}} プレイステーション® オフィシャルサイト|url=[https://www.jp.playstation.com/software/title/slps00805.html|website=www.jp.playstation.com|accessdate=2020-09-22](https://www.jp.playstation.com/software/title/slps00805.html%7Cwebsite=www.jp.playstation.com%7Caccessdate=2020-09-22)}}

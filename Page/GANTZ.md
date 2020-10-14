@@ -5,7 +5,7 @@
 
 ## 概要
 
-奥浩哉の代表作。[2004年](../Page/2004年.md "wikilink")に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化、[2011年](../Page/2011年.md "wikilink")に[実写](../Page/実写.md "wikilink")映画化、[2016年](../Page/2016年.md "wikilink")にフル3DCGアニメーション映画化\[2\]、[2018年](../Page/2018年.md "wikilink")1月には舞台化され上演された\[3\]。累計発行部数は2016年9月時点で2100万部以上\[4\]。
+奥浩哉の代表作。[2004年](../Page/2004年.md "wikilink")に[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")化、[2011年](../Page/2011年.md "wikilink")に[実写](../Page/実写.md "wikilink")映画化、[2016年](../Page/2016年.md "wikilink")にフル3DCGアニメーション映画化\[2\]、[2018年](../Page/2018年.md "wikilink")1月には舞台化され上演された\[3\]。2017年11月時点で、累計発行部数は2100万部を突破している\[4\]。
 
 作者が高校時代から暖めていた、『[必殺仕事人](../Page/必殺仕事人_\(1979年のテレビドラマ\).md "wikilink")』に[SFテイストを加えた](https://ja.wikipedia.org/wiki/サイエンス・フィクション "wikilink")「夜にみんなで集まって殺しに行く」物語\[5\]を描いた[青年漫画](../Page/青年漫画.md "wikilink")。[石森章太郎原作のTV番組](../Page/石ノ森章太郎.md "wikilink")『[がんばれ\!\!ロボコン](../Page/がんばれ!!ロボコン.md "wikilink")』の[ガンツ先生](../Page/ガンツ先生.md "wikilink")がGANTZの名称の由来であり、ガンツの採点シーンもガンツ先生がロボコン達の行動を採点するシチュエーションのパロディである\[6\]。
 

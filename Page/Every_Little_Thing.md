@@ -1,13 +1,13 @@
 > この記事は[Every Little Thing](https://ja.wikipedia.org/wiki/Every_Little_Thing)から翻訳されています。
 
 
-**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。ヒット曲に「[Time goes by](../Page/Time_goes_by.md "wikilink")」「[fragile](https://ja.wikipedia.org/wiki/Fragile/JIRENMA "wikilink")」など多数。
+**Every Little Thing**（エヴリ・リトル・シング、略称：**ELT**）は、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1996年](../Page/1996年.md "wikilink")8月7日にデビュー。[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")所属。主なヒット曲に「[Time goes by](../Page/Time_goes_by.md "wikilink")」「[fragile](https://ja.wikipedia.org/wiki/Fragile/JIRENMA "wikilink")」などがある。
 
 表記の仕方に関しては作品によって異なる事もあり、**EVERY LITTLE THING**（[Graceful Worldなど](../Page/Graceful_World.md "wikilink")）、**every little thing**（[恋文/good nightなど](https://ja.wikipedia.org/wiki/恋文/good_night "wikilink")）、**エヴリ リトル シング**（[また あしたなど](../Page/また_あした.md "wikilink")）とする場合もある。
 
 ## 概要・沿革
 
-[1995年に元アイドルであったヴォーカルの持田香織が](../Page/1996年.md "wikilink")[TRF](../Page/TRF.md "wikilink")に憧れて所属するエイベックスの扉を叩き、プロデューサーの修行中だった五十嵐充と出会う。持田の声質に惹かれた五十嵐は早速ヴォーカルレッスンを始め、社内評判も良くこの2人のユニットでのデビュー話がトントン拍子で進むことになる。しかし、イメージするユーロビート系のサウンドにはアクセントが足りないと思った五十嵐はギターの必要性を訴え、五十嵐の大学バンド仲間であった伊藤一朗を誘い、当時の専務であったエイベックスの現・会長である[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")の提案により、3人体制によるELTが誕生。
+[1995年に元アイドルであったヴォーカルの持田香織が母親と共に](../Page/1996年.md "wikilink")「[TRF](../Page/TRF.md "wikilink")になりたい」と所属する[エイベックスの扉を叩く](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")。当時エイベックス専務だった[松浦勝人](https://ja.wikipedia.org/wiki/松浦勝人 "wikilink")は持田の歌声を[ZARD](../Page/ZARD.md "wikilink")のように感じたことから、『友&愛』上大岡店の元店長であり当時スタジオの電話番をしていた[五十嵐充](../Page/五十嵐充.md "wikilink")に曲を作らせ、毎週日曜日に収録してデモテープを送らせた。ヒットメーカーの[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")や[織田哲郎](../Page/織田哲郎.md "wikilink")には採用してもらえなかったが、これはいけると感じた松浦自身がプロデュースを決める。持田の声質に惹かれた五十嵐は早速ヴォーカルレッスンを始め、社内評判も良くこの2人のユニットでのデビュー話がトントン拍子で進むことになる。しかし、イメージするユーロビート系のサウンドにはアクセントが足りないと思った五十嵐はギターの必要性を訴え、五十嵐の大学バンド仲間であった[伊藤一朗](../Page/伊藤一朗.md "wikilink")を誘い、3人体制によるELTが誕生する。
 
 [1996年](../Page/1996年.md "wikilink")[8月](../Page/8月.md "wikilink")にヴォーカル・作詞担当の[持田香織](https://ja.wikipedia.org/wiki/持田香織 "wikilink")、[ギター](../Page/ギター.md "wikilink")・作曲・編曲担当の[伊藤一朗](../Page/伊藤一朗.md "wikilink")、[リーダー](https://ja.wikipedia.org/wiki/リーダー "wikilink")・サウンドプロデュース・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")・作詞・作曲・編曲担当の[五十嵐充](../Page/五十嵐充.md "wikilink")の**3人体制**で、1stシングル「[Feel My Heart](../Page/Feel_My_Heart.md "wikilink")」で[avex trax](https://ja.wikipedia.org/wiki/avex_trax "wikilink")（[エイベックス・ディー・ディー](../Page/エイベックス・エンタテインメント.md "wikilink")）からCDデビュー。同シングルは[オリコン最高位](../Page/オリコンチャート.md "wikilink")24位、約10万枚を記録。90年代[ビーイング](../Page/ビーイング.md "wikilink")で圧倒的人気を博した[ZARD](../Page/ZARD.md "wikilink")や当時のavexを牽引する[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")率いる[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの大成功手法を取り入れ、人気に火がつく。
 
@@ -15,7 +15,7 @@
 
 翌[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")には2月に発売した8thシングル「[Time goes by](../Page/Time_goes_by.md "wikilink")」がシングルで初めてミリオンヒットし、4月に発売した2ndアルバム『[Time to Destination](../Page/Time_to_Destination.md "wikilink")』が352万枚というELT最大のヒットを記録した\[1\]。 五十嵐の楽曲の世界観や[シンセサイザー](../Page/シンセサイザー.md "wikilink")を駆使したサウンドと持田の愛らしいルックスと歌声、ファッションが10代・20代を中心に支持を受けるようになり、1990年代後半を代表するグループに成長していった。
 
-翌[1999年](../Page/1999年.md "wikilink")3月発売の初のベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』がダブルミリオン(225万枚)を記録するも、リーダーの五十嵐のプロデュースのための十分な時間を確保したいという思いで、本作リリース後はリリースやツアーのない期間を過ごした。
+翌[1999年](../Page/1999年.md "wikilink")3月発売の初のベストアルバム『[Every Best Single +3](../Page/Every_Best_Single_+3.md "wikilink")』がダブルミリオン(225万枚)を記録するも、リーダーの五十嵐のプロデュースのための十分な時間を確保したいという思いで、本作リリース後はリリースやツアーのない期間を過ごした。持田はこの期間を「五十嵐さんの回復待ち」と表現した。
 
 翌[2000年](../Page/2000年.md "wikilink")1月に13thシングル「[Pray/Get Into A Groove](https://ja.wikipedia.org/wiki/Pray/Get_Into_A_Groove "wikilink")」、2月に14thシングル「[sure](https://ja.wikipedia.org/wiki/sure_\(Every_Little_Thingの曲\) "wikilink")」と3月に3rdアルバム『[eternity](https://ja.wikipedia.org/wiki/eternity_\(Every_Little_Thingのアルバム\) "wikilink")』のリリース後、3月をもって五十嵐がプロデュース活動に専念するために脱退し、4月から持田と伊藤の2人になる。「五十嵐はフロントメンバーから脱退し、サウンドプロデューサーになる」と発表されたことから、テレビやライブ出演はせずに楽曲提供を続けるものと思われたが、6月にシングルカットされた15thシングル「[Rescue me (Single Mix)](https://ja.wikipedia.org/wiki/Rescue_me/Smile_Again "wikilink")」で携わっただけで、ELTの楽曲に直接的に五十嵐の関与はなくなる。10月には五十嵐脱退後の初の新曲16thシングル「[愛のカケラ](../Page/愛のカケラ_\(Every_Little_Thingの曲\).md "wikilink")」をリリースし正式に**2人体制での活動**がスタートする。
 
@@ -23,7 +23,7 @@
 
 [2009年](../Page/2009年.md "wikilink")9月発売の36thシングル「[DREAM GOES ON](https://ja.wikipedia.org/wiki/DREAM_GOES_ON "wikilink")」で脱退以来9年ぶりとなる五十嵐が楽曲を提供、同年11月発売の37thシングル「[冷たい雨](https://ja.wikipedia.org/wiki/冷たい雨_\(Every_Little_Thingの曲\) "wikilink")」、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")2月発売の10thアルバム『[CHANGE](https://ja.wikipedia.org/wiki/CHANGE_\(Every_Little_Thingのアルバム\) "wikilink")』でも上記3作品以外の収録曲で五十嵐が作詞・作曲・編曲を担当した。
 
-2016年8月7日にデビュー20周年を迎え、同日には代々木第二体育館で記念コンサートを行った。それ以降、ユニットとしては目立った活動(半年に数回の新譜リリース配信のみ)はなく、それぞれソロ活動として拠点を置いている。また、2016年以降もライブ出演はしており、2019年8月28日には単独ライブとしてEvery Little Thing 23rd Anniversary Concertを行った。
+2016年8月7日にデビュー20周年を迎え、同日には[代々木第二体育館で記念コンサートを行った](../Page/国立代々木競技場.md "wikilink")。それ以降、ユニットとしては目立った活動(半年に数回の新譜リリース配信のみ)はなく、それぞれソロ活動として拠点を置いている。また、2016年以降もライブ出演はしており、2019年8月28日には単独ライブとしてEvery Little Thing 23rd Anniversary Concertを行った。2020年冬のファンクラブイベントより、ファンクラブ限定でメンバーの持田、伊藤と放送作家の川上とも子によるラジオコンテンツ「かみあわせ」を開始しており、定期的な配信をしている。
 
 ## 楽曲制作
 
@@ -76,7 +76,7 @@
 
 :\* 工藤録矢（2001-2002カウントダウンライブのみ）
 
-:\* 山田サトシ（2003年-2005年夏前まで）
+:\* 山田サトシ（2003年-2005年春頃まで）
 
 :\* 福本カツジ
 
@@ -106,9 +106,9 @@
 
 :\* 山口鷹（2001年秋 - 2012年「a-nation」頃まで）
 
-:\* 松川恒二（2012年冬 - 2014年「a-nation」頃まで）
+:\* 松川恒二（2012年冬 - 2014年「a-nation」頃まで、2020年冬）
 
-:\* 望月敬史（2015年夏 - 単発ライブ 等不定期の出演）
+:\* 望月敬史（2015年夏 - 単発ライブ、髭白健不参加時等不定期の出演）
 
 ## 作品
 

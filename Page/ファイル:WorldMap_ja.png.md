@@ -23,5 +23,3 @@
       - <span style="color:#E7BDBD; size:4">**■**</span> (\#E7BDBD)
       - <span style="color:#BDEFBD; size:4">**■**</span> (\#BDEFBD)
       - <span style="color:#EFDEBD; size:4">**■**</span> (\#EFDEBD)
-
-## Now commons

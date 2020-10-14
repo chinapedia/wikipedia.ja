@@ -88,6 +88,8 @@
 
 :\* 山下桃子（努の娘） - [松本梨菜](../Page/松本梨菜.md "wikilink")
 
+:\*山下巌 ‐ [谷津勲](../Page/谷津勲.md "wikilink")
+
   -
 
   - 坂野家
@@ -130,8 +132,6 @@
 
 :\* 川畑夏美（剛洋の同級生） - [大畑稚菜](https://ja.wikipedia.org/wiki/大畑稚菜 "wikilink")（第1期）
 
-:\* 山下巌 - [谷津勲](../Page/谷津勲.md "wikilink")（第1期）
-
 :\* 山下茂 - [松田史朗](https://ja.wikipedia.org/wiki/松田史朗 "wikilink")（第1期）
 
 :\* 元木渡（漁師） - [山西惇](../Page/山西惇.md "wikilink")
@@ -148,7 +148,7 @@
 
 :\* 剛洋の叔父 - [妹尾正文](https://ja.wikipedia.org/wiki/妹尾正文 "wikilink")（第2期）
 
-:\* 原和子 - [増子倭文江](../Page/増子倭文江.md "wikilink")（第2期）
+:\* 原和子（剛洋の叔母） - [増子倭文江](../Page/増子倭文江.md "wikilink")（第2期）
 
 :\* 原沢咲（五島の元同僚・昭英大学附属病院産婦人科医） - [石田ゆり子](../Page/石田ゆり子.md "wikilink")（第1期）
 
@@ -180,7 +180,7 @@
 
 :\* 坂野和枝（孝の母） - [田畑ゆり](https://ja.wikipedia.org/wiki/田畑ゆり "wikilink")
 
-:\* 高村 - [中根徹](../Page/中根徹.md "wikilink")
+:\* 高村（自衛隊病院 職員） - [中根徹](../Page/中根徹.md "wikilink")
 
   -
 

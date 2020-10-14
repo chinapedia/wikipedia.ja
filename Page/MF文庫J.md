@@ -195,8 +195,8 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/イコノクラスト!" title="wikilink">イコノクラスト!</a></p></td>
 <td><p><a href="../Page/榊一郎.md" title="wikilink">榊一郎</a></p></td>
-<td><p><a href="../Page/OKAMA.md" title="wikilink">OKAMA</a><small>（1・2巻）</small><br />
-<a href="https://ja.wikipedia.org/wiki/kyo_(イラストレーター)" title="wikilink">kyo</a><small>（3巻以降、1・2巻新装版）</small></p></td>
+<td><p><a href="../Page/OKAMA.md" title="wikilink">OKAMA</a>（1 - 2巻）<br />
+<a href="https://ja.wikipedia.org/wiki/kyo_(イラストレーター)" title="wikilink">kyo</a>（3巻以降、1 - 2巻新装版）</p></td>
 <td><p>全10巻</p></td>
 </tr>
 <tr class="even">
@@ -633,7 +633,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/可愛ければ変態でも好きになってくれますか?" title="wikilink">可愛ければ変態でも好きになってくれますか?</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/花間燈" title="wikilink">花間燈</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/sune" title="wikilink">sune</a></p></td>
-<td><p>既刊10巻</p></td>
+<td><p>既刊12巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/巌窟王_(テレビアニメ).md" title="wikilink">巌窟王</a></p></td>
@@ -1271,7 +1271,7 @@ SS3巻</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/聖剣学院の魔剣使い" title="wikilink">聖剣学院の魔剣使い</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/志瑞祐" title="wikilink">志瑞祐</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠坂あさぎ" title="wikilink">遠坂あさぎ</a></p></td>
-<td><p>既刊4巻</p></td>
+<td><p>既刊5巻</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/聖剣の刀鍛冶" title="wikilink">聖剣の{{読み仮名</a></p></td>
@@ -2337,7 +2337,8 @@ SS3巻</p></td>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/魔弾の王と戦姫" title="wikilink">魔弾の王と{{読み仮名</a></p></td>
 <td><p><a href="../Page/川口士.md" title="wikilink">川口士</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/よし☆ヲ" title="wikilink">よし☆ヲ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/よし☆ヲ" title="wikilink">よし☆ヲ</a>（第1巻 - 第8巻）<br />
+<a href="https://ja.wikipedia.org/wiki/片桐雛太" title="wikilink">片桐雛太</a>（9巻以降）</p></td>
 <td><p>全18巻</p></td>
 </tr>
 <tr class="odd">
@@ -2520,62 +2521,68 @@ SS3巻</p></td>
 </thead>
 <tbody>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/やがて僕は大軍師と呼ばれるらしい" title="wikilink">やがて僕は大軍師と呼ばれるらしい</a></p></td>
+<td><p><a href="../Page/芝村裕吏.md" title="wikilink">芝村裕吏</a></p></td>
+<td><p>片桐雛太</p></td>
+<td><p>既刊3巻</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/やってきたよ、ドルイドさん!" title="wikilink">やってきたよ、ドルイドさん!</a></p></td>
 <td><p>志瑞祐</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/絶叫_(イラストレーター)" title="wikilink">絶叫</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/悠久展望台のカイ" title="wikilink">悠久展望台のカイ</a></p></td>
 <td><p>早矢塚かつや</p></td>
 <td><p><a href="../Page/ヤス_(イラストレーター).md" title="wikilink">ヤス</a></p></td>
 <td><p>単巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/勇者王ガオガイガーFINAL.md" title="wikilink">勇者王ガオガイガーFINAL</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/竹田裕一郎" title="wikilink">竹田裕一郎</a><br />
 <small>原作：<a href="../Page/矢立肇.md" title="wikilink">矢立肇</a></small></p></td>
 <td><p>木村貴宏 他</p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/円盤皇女ワるきゅーレ.md" title="wikilink">円盤皇女（ゆーふぉーぷりんせす）ワるきゅーレ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/雑賀匡" title="wikilink">雑賀匡</a><br />
 <small>原作：<a href="../Page/介錯_(漫画家).md" title="wikilink">介錯</a></small></p></td>
 <td><p><a href="../Page/藤井まき.md" title="wikilink">藤井まき</a>他</p></td>
 <td><p>全4巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ようこそ実力至上主義の教室へ" title="wikilink">ようこそ実力至上主義の教室へ</a></p></td>
 <td><p>衣笠彰梧</p></td>
 <td><p>トモセシュンサク</p></td>
 <td><p>全14巻（内、4.5巻、7.5巻、11.5巻含む（短編集））</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ようこそ実力至上主義の教室へ" title="wikilink">ようこそ実力至上主義の教室へ 2年生編</a></p></td>
 <td><p>既刊2巻</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/葉緑宇宙艦テラリウム" title="wikilink">葉緑宇宙艦テラリウム</a></p></td>
 <td><p>夏緑</p></td>
 <td><p>OKAMA</p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/Yの紋章師" title="wikilink">Y（ヨグ）の紋章師</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/越智文比古" title="wikilink">越智文比古</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カグユヅ" title="wikilink">カグユヅ</a></p></td>
 <td><p>全3巻</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/四人の魔女とエメラルドのキス" title="wikilink">四人の魔女とエメラルドのキス</a></p></td>
 <td><p>石川ユウヤ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/みついまな" title="wikilink">みついまな</a></p></td>
 <td><p>全2巻</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/鎧の姫君たち" title="wikilink">鎧の姫君たち</a></p></td>
 <td><p>葉村哲</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/羽鳥ぴよこ" title="wikilink">羽鳥ぴよこ</a></p></td>
@@ -2666,7 +2673,7 @@ SS3巻</p></td>
 <td><p><a href="../Page/大塚真一郎.md" title="wikilink">大塚真一郎</a>（第1巻 - 第22巻、短編集1 - 2）<br />
 <a href="https://ja.wikipedia.org/wiki/楓月誠" title="wikilink">楓月誠</a>（短編集3）<br />
 <a href="https://ja.wikipedia.org/wiki/イセ川ヤスタカ" title="wikilink">イセ川ヤスタカ</a>（短編集4 - 6）</p></td>
-<td><p>既刊23巻<br />
+<td><p>既刊24巻<br />
 短編集6巻</p></td>
 </tr>
 <tr class="odd">
@@ -2781,7 +2788,7 @@ SS3巻</p></td>
 
 [2017年](../Page/2017年.md "wikilink")は再び秋葉原に復帰し、内容もほぼ2016年以前に近い形になったが、会場は[ベルサール秋葉原](https://ja.wikipedia.org/wiki/ベルサール秋葉原 "wikilink")で開催は9月10日であった。なお、10月は[電撃文庫](../Page/電撃文庫.md "wikilink")と[ファンタジア文庫](https://ja.wikipedia.org/wiki/ファンタジア文庫 "wikilink")のイベントが同じ場所で行われたため、KADOKAWAのラノベイベントが2ヶ月連続で続くことになった。
 
-[2018年](../Page/2018年.md "wikilink")と[2019年](../Page/2019年.md "wikilink")は、7月最後の日曜日に同場所で開催された。[2020年](../Page/2020年.md "wikilink")はKADOKAWAの他レーベルと合同で「KADOKAWA ライトノベルEXPO2020」が[ところざわサクラタウン](https://ja.wikipedia.org/wiki/ところざわサクラタウン "wikilink")で開催予定となっている。
+[2018年](../Page/2018年.md "wikilink")と[2019年](../Page/2019年.md "wikilink")は、7月最後の日曜日に同場所で開催された。MFとしての単独イベントは2019年を最後に事実上休止し、[2021年](../Page/2021年.md "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")にKADOKAWAの他レーベルと合同で「KADOKAWA ライトノベルEXPO2020」が[ところざわサクラタウン](https://ja.wikipedia.org/wiki/ところざわサクラタウン "wikilink")で開催予定となっている\[7\]。
 
 ## 脚注
 
@@ -2809,3 +2816,4 @@ SS3巻</p></td>
 4.  [MFJアペンドラインフェア！2014](http://www.bc.mediafactory.jp/bunkoj/appendline2014/)
 5.
 6.  読み方は[リンク先の](https://ja.wikipedia.org/wiki/勇者王ガオガイガー#各話リスト#補足編 "wikilink")"**''各話リスト\#補足編\#Number.38.2**''"を参照の事。元々**GGGフランス支部**を主舞台とした物語であり、主登場キャラクタの殆どが[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")に関係する。
+7.  [KADOKAWA ライトノベルEXPO2020 キミラノ](https://kimirano.jp/special/lnexpo/)

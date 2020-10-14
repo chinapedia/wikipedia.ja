@@ -9,11 +9,11 @@
 
 日産ディーゼルは[1973年](../Page/1973年.md "wikilink")の[4R82型製造終了後以降](https://ja.wikipedia.org/wiki/日産ディーゼル・R/RA "wikilink")、9m大型バスを製造していなかったが、同社製バスを多く使う[関東バス](../Page/関東バス.md "wikilink")からの要請で、[1986年](../Page/1986年.md "wikilink")に再び路線バスの製造を再開した。しかしながら、どの車種をとっても生産台数が少なく、近年では発注があってから[国土交通省](../Page/国土交通省.md "wikilink")の型式認定を受ける場合もある。[新長期規制に完全に適合した](../Page/平成17年排出ガス規制_\(ディーゼル車\).md "wikilink")[2007年](../Page/2007年.md "wikilink")9月以降は発売されていない。
 
-一方の9m観光バスは路線と同じシャーシーのRP系で、[1991年](../Page/1991年.md "wikilink")に参入している。こちらも生産台数が少なく、[2005年](../Page/2005年.md "wikilink")に生産中止となった。その後観光RP系の後継として2008年より2010年まで三菱ふそうからのOEM供給でAM系が発売されていた。
+一方の9m観光バスは路線と同じシャーシーのRP系で、[1991年](../Page/1991年.md "wikilink")に参入している。こちらも生産台数が少なく、[2005年](../Page/2005年.md "wikilink")に生産中止となった。その後観光RP系の後継として、2008年より2010年まで三菱ふそうからのOEM供給でAM系が発売されていた。
 
 車体は[富士重工業で架装されていたが](../Page/スバルカスタマイズ工房.md "wikilink")、2003年の同社の撤退に伴いそれ以後は[西日本車体工業](../Page/西日本車体工業.md "wikilink")で架装され、最終的には[三菱ふそうバス製造](../Page/三菱ふそうバス製造.md "wikilink")で架装されていた。([\#車体](https://ja.wikipedia.org/wiki/#車体 "wikilink")を参照)
 
-なお、9m**大型**バスであるが、日産ディーゼルは中型バスとして扱っている（ただし、エンジンに関しては長尺車のJPと同じエンジンを搭載している）。
+9m**大型**バスであるが、日産ディーゼルでは中型バスとして扱っていた。エンジンは中型長尺車のJPと同じエンジンを搭載する。
 
 ## 沿革
 
@@ -95,19 +95,25 @@
 
 ## ユーザー
 
-[KC-RP250FBN-Izuhakone-2926.jpg](https://ja.wikipedia.org/wiki/File:KC-RP250FBN-Izuhakone-2926.jpg "fig:KC-RP250FBN-Izuhakone-2926.jpg") 過去、9m大型路線バスはいすゞが強く、それ以外のメーカーのシェアは低かった。そのため路線用車両としてRP系を導入したユーザーは極めて少なく、ごく一部に限られる。KL-適用車の導入先は[北海道中央バス](../Page/北海道中央バス.md "wikilink")・[江ノ電バス](../Page/江ノ電バス.md "wikilink")など。 2005年途中からいすゞが排ガス規制未対応のために撤退したものの、これらのユーザーは中型の[エルガミオにシフトしたので](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、納入先は依然として少数である。PK-適用車は[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")・江ノ電バス・北海道中央バスに導入されている。
+[KC-RP250FBN-Izuhakone-2926.jpg](https://ja.wikipedia.org/wiki/File:KC-RP250FBN-Izuhakone-2926.jpg "fig:KC-RP250FBN-Izuhakone-2926.jpg") 過去、9m大型路線バスはいすゞが強く、それ以外のメーカーのシェアは低かった。
 
-観光RP系・AM系は各地の日産ディーゼルユーザーに導入されているが、[2000年](../Page/2000年.md "wikilink")以前の西工製車体は[西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（分離子会社を含む）や[大阪空港交通](../Page/大阪空港交通.md "wikilink")、[近江鉄道](../Page/近江鉄道.md "wikilink")、[伊豆箱根鉄道](../Page/伊豆箱根鉄道.md "wikilink")など一部に限られる。
+そのため路線用車両としてRP系を導入したユーザーは極めて少なく、ごく一部に限られる。KL-適用車の導入先は[北海道中央バス](../Page/北海道中央バス.md "wikilink")・[江ノ電バス](../Page/江ノ電バス.md "wikilink")など。
+
+2005年途中からいすゞが排ガス規制未対応のために撤退したものの、これらのユーザーは中型の[エルガミオにシフトしたため](https://ja.wikipedia.org/wiki/いすゞ・エルガミオ "wikilink")、納入先は依然として少数である。PK-適用車は江ノ電バス・北海道中央バス・[京浜急行バス](https://ja.wikipedia.org/wiki/京浜急行バス "wikilink")に導入されている。
+
+観光RP系・AM系は、各地の日産ディーゼルユーザーに導入されているが、[2000年](../Page/2000年.md "wikilink")以前の西工製車体は[西日本鉄道](https://ja.wikipedia.org/wiki/西日本鉄道 "wikilink")（分離子会社を含む）や[大阪空港交通](../Page/大阪空港交通.md "wikilink")、[近江鉄道](../Page/近江鉄道.md "wikilink")、[伊豆箱根鉄道](../Page/伊豆箱根鉄道.md "wikilink")など一部に限られる。 {{-}}
 
 ## 関連項目
 
   - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）
+      - [日産ディーゼル・スペースアロー](../Page/日産ディーゼル・スペースアロー.md "wikilink")
+      - [日産ディーゼル・スペースランナーA](../Page/日産ディーゼル・スペースランナーA.md "wikilink")
+      - [日産ディーゼル・スペースランナーJP](../Page/日産ディーゼル・スペースランナーJP.md "wikilink") - 中型長尺車
+      - [日産ディーゼル・スペースランナーRM](../Page/日産ディーゼル・スペースランナーRM.md "wikilink") - 中型車
   - [スバルカスタマイズ工房](../Page/スバルカスタマイズ工房.md "wikilink")
   - [西日本車体工業](../Page/西日本車体工業.md "wikilink")
   - [三菱ふそうバス製造](../Page/三菱ふそうバス製造.md "wikilink")
-  - [日産ディーゼル・スペースランナーJP](../Page/日産ディーゼル・スペースランナーJP.md "wikilink")
-  - [日産ディーゼル・スペースランナーRM](../Page/日産ディーゼル・スペースランナーRM.md "wikilink")
-  - [日産ディーゼル・スペースアロー](../Page/日産ディーゼル・スペースアロー.md "wikilink")
-  - [いすゞ・エルガLT](../Page/いすゞ・エルガLT.md "wikilink")
+  - [三菱ふそう・エアロスターMM](../Page/三菱ふそう・エアロスターMM.md "wikilink") - 大型短尺車
+  - [いすゞ・エルガLT](../Page/いすゞ・エルガLT.md "wikilink") - 大型短尺車
 
 [Category:UDトラックスの車種](https://ja.wikipedia.org/wiki/Category:UDトラックスの車種 "wikilink") [Category:バス車両](https://ja.wikipedia.org/wiki/Category:バス車両 "wikilink")

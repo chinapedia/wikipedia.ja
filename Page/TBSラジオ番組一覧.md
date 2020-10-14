@@ -250,7 +250,9 @@
 腸から始まる健康ライフ</a><br />
 <a href="../Page/中澤有美子.md" title="wikilink">中澤有美子</a></p></td>
 <td><p>50 <a href="../Page/何かが始まる音がする.md" title="wikilink">何かが始まる音がする</a></p></td>
-<td><p>50 マコくんのベリハピラジオ2</p></td>
+<td><p>50 <a href="https://ja.wikipedia.org/wiki/JRA" title="wikilink">JRA</a> presents<br />
+ケイバのアナ場<br />
+<a href="../Page/清原正博.md" title="wikilink">清原正博</a>、週替わりパートナー</p></td>
 <td><p>50 IQbuds BOOST presents<br />
 <a href="https://ja.wikipedia.org/wiki/純烈#ラジオ番組" title="wikilink">純烈の10分ください!</a></p></td>
 <td><p>50 <a href="../Page/講談社.md" title="wikilink">講談社</a> presents<br />

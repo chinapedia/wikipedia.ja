@@ -59,7 +59,7 @@
 
 ### 結成〜地球デビュー
 
-1982年12月末、[早稲田大学](../Page/早稲田大学.md "wikilink")にて、ダミアン浜田地獄皇太子殿下を中心に結成された（当初のバンド名は、『は、は、は、は、浜田さんバンド』）。 オリジナル構成員は、ダミアン浜田地獄皇太子殿下（リーダー、ギター）、デーモン小暮閣下（ボーカル）、[エース清水長官](../Page/ACE_\(ミュージシャン\).md "wikilink")（ドラム）、[ゾッド星島](../Page/ゾッド星島.md "wikilink")親分（ベース）である。のちに魔女RYO子嬢がキーボーディストとして参加（第二期まで在籍したが、1ヶ月程度で脱退）。この時期が第一期聖飢魔IIとされる。
+1982年12月末、[早稲田大学](../Page/早稲田大学.md "wikilink")にて、ダミアン浜田地獄皇太子殿下を中心に結成された（当初のバンド名は、『は、は、は、は、浜田さんバンド』）。 オリジナル構成員は、ダミアン浜田地獄皇太子殿下（リーダー、ギター）、デーモン閣下（ボーカル）、[エース清水長官](../Page/ACE_\(ミュージシャン\).md "wikilink")（ドラム）、[ゾッド星島](../Page/ゾッド星島.md "wikilink")親分（ベース）である。のちに魔女RYO子嬢がキーボーディストとして参加（第二期まで在籍したが、1ヶ月程度で脱退）。この時期が第一期聖飢魔IIとされる。
 
 1983年9月 - 10月にかけて、第一次[悪魔事異動が行われ](https://ja.wikipedia.org/wiki/聖飢魔II#悪魔用語 "wikilink")、エース長官は一度脱退し、二代目ドラマーとしてジード飯島大将が参加、第二期聖飢魔IIとなる（1983年9月 - 1985年3月まで）。1984年3月、結成1周年を記念して行われる予定だったミサは、ダミアン殿下の突然の帰獄のため急遽『聖飢魔II解散ミサ』となった。しかし解散が決まる前に応募していたコンテストに勝ち進んでいたことを理由に、何とか存続している状態が続くことになった。残されたデーモン閣下・ゾッド星島親分・ジード大将は、後の構成員Sgt.ルーク篁III世参謀とともに紫馬肥という新たなるバンドの活動を始めていたが、その直後にダミアン殿下が1年の猶予で復帰したことにより、解散は撤回された。その後、ダミアン殿下からデーモン閣下に統帥権の移行・即ちリーダーの交代が漸次行われた。
 
@@ -75,7 +75,7 @@
 
 和尚加入翌月の7月27日、デーモン閣下が[岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[蒜山高原](../Page/蒜山高原.md "wikilink")での野外ライブ「['86サマーミュージックフェスティバル](https://i-maniwa.com/area/yuyu/info/info_detail/index/1594.html)」中、ステージ上の屋根から飛び降りた際に左脚を骨折。いくつものミサ、テレビ出演が延期や中止となった。閣下は鳥取県米子市の病院に担ぎ込まれ脚の手術（閣下は「改造手術」と呼んでいた）を受けた。この時閣下は悪魔の姿のまま病院に担ぎ込まれ、当時閣下を知らない一般人が多かったこともあって病院は騒然となったという。
 
-そんな中、第3大教典『[地獄より愛をこめて](../Page/地獄より愛をこめて.md "wikilink")』の制作がスタートする。前2作は聖飢魔II創始者であるダミアン浜田殿下作曲によるデビュー前の遺産を中心に収録されていたが、この教典の楽曲のほとんどはジェイル代官による作曲である。ジェイルは本作におけるコンポーザーとしての成果をステップとし、自らの原点であるハードなロックンロールでの全世界デビューを実現すべく1987年1月に聖飢魔IIを脱退。スケジュールが過密になっていく中で、作曲のための時間が取れないことを危惧していたジェイルだったが、レコード会社の人間から「いいじゃない、今ウケてんだから」と言われたことや、取材に関しても音楽のこととは無関係な取材ばかり受けること\[23\]、従来のヘヴィメタルファンから色物扱いされ続けたことも含め精神的ストレスが溜まってしまったことで脱退を考えるようになったという\[24\]。その後1995年、1999年の『ザ・サタン・オール・スターズ』、2005年ミサにゲスト参加している。
+そんな中、第3大教典『[地獄より愛をこめて](../Page/地獄より愛をこめて.md "wikilink")』の制作がスタートする。前2作は聖飢魔II創始者であるダミアン浜田殿下作曲によるデビュー前の遺産を中心に収録されていたが、この教典の楽曲のほとんどはジェイル代官による作曲である。ジェイルは本作におけるコンポーザーとしての成果をステップとし、自らの原点であるハードなロックンロールでの全世界デビューを実現すべく1987年1月に聖飢魔IIを脱退。スケジュールが過密になっていく中で、作曲のための時間が取れないことを危惧していたジェイルだったが、レコード会社の人間から「いいじゃない、今ウケてんだから」と言われたことや、取材に関しても音楽のこととは無関係な取材ばかり受けること\[23\]、従来のヘヴィメタルファンから色物扱いされ続けたことも含め精神的ストレスが溜まってしまったことで脱退を考えるようになったという\[24\]。その後1995年と1999年の『ザ・サタン・オール・スターズ』、2005年以降の期間限定再集結聖飢魔IIの活動に参加している。
 
 1987年2月、デビュー前のギタリストオーディションでは、ジェイル代官とどちらを採用するか悩んだとされる、紫馬肥（むらさきうまごやし）のギタリスト・[Sgt. ルーク篁III世参謀が加入](../Page/ルーク篁.md "wikilink")。この悪魔事異動により聖飢魔IIは第6期を迎え、以後解散まで悪魔事異動は行われなかった。第6期聖飢魔IIの活動は[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")の小教典「[EL・DO・RA・DO](https://ja.wikipedia.org/wiki/EL・DO・RA・DO "wikilink")」からスタートした。この曲は最後の最後まで聖飢魔IIの大黒柱的楽曲として機能していた。11月に発布した大教典『[BIG TIME CHANGES](../Page/BIG_TIME_CHANGES.md "wikilink")』では、ルーク参謀の加入によるバンドの変化が如実に現れていた。エース長官とルーク参謀を中心に各構成員が作曲をするようになり、「ヘヴィメタル」とはジャンル分けし難い幅の広い音楽性を持つロックバンドとなっていった。
 
@@ -89,7 +89,7 @@
 
 ### 原点回帰〜サタン・オール・スターズ
 
-この時期、聖飢魔IIの活動の合間を縫って全員がソロ活動を行い、それぞれCDも発表している（これらの活動に関しては[デーモン小暮閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[ACE](../Page/ACE_\(ミュージシャン\).md "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[RXを参照](../Page/RX_\(バンド\).md "wikilink")）。[1992年](../Page/1992年.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")ビデオ『[HUMANE SOCIETY 〜人類愛に満ちた社会〜](https://ja.wikipedia.org/wiki/HUMANE_SOCIETY_〜人類愛に満ちた社会〜 "wikilink")』とそのテーマ曲「[正義のために](https://ja.wikipedia.org/wiki/正義のために "wikilink")」を発布。また、悪魔的な世界観に回帰し、12曲中10曲で人が死ぬ大教典『[恐怖のレストラン](../Page/恐怖のレストラン.md "wikilink")』を発布。「殺人教典」とも呼ばれ、あまりにも過激な内容のため、[NHKから出演禁止処分を受けてしまう](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。ただし、これはアルバムの内容上、折り込み済みだったらしい。同年夏には[ブラバム](https://ja.wikipedia.org/wiki/ブラバム "wikilink")[F1チームのスポンサーになった](../Page/フォーミュラ1.md "wikilink")。これは同年途中より、同チームのドライバーに、閣下と同じ名前の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人ドライバーの[デーモン・ヒルが起用されたことが縁でスポンサーになったものである](../Page/デイモン・ヒル.md "wikilink")。しかし援助も空しく、ブラバムは資金難のため年度途中で撤退。マシンの開発資金も乏しく、予選突破も困難な体制で、閣下の絵が描かれたマシンが決勝レースを走ったのはわずか2レースだった。なお、**デーモン**・ヒルはその後[ウィリアムズ・ルノーに移籍し](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[1996年](../Page/1996年.md "wikilink")には見事、F1世界征服（チャンピオン）を果たした。ただし、ヒルのファースト・ネームのスペルはDamon（デイモンが近い）であり、悪魔を意味する閣下のDemon（ディーモンが近い）とは実際には意味も発音も異なる。両者とも日本語発音ではデーモンに変換されてしまう日本ならではのコラボレーションといえる。 1993年には『ロックオペラ ハムレット』に出演。そのエンディングでは出演者一同、聖飢魔IIの「[世界一のくちづけを](https://ja.wikipedia.org/wiki/世界一のくちづけを "wikilink")」を演奏した。さらに、デーモン閣下のCM（[フジカラー](../Page/富士フイルム.md "wikilink")[写ルンです](../Page/写ルンです.md "wikilink")や[ローソン](../Page/ローソン.md "wikilink")など）も好評を博した。[1994年](../Page/1994年.md "wikilink")夏、ロンドンの[アビー・ロード・スタジオ](../Page/アビー・ロード・スタジオ.md "wikilink")でレコーディングされた大教典『[PONK\!\!](../Page/PONK!!.md "wikilink")』を発布。プロデュースにはルーク参謀も加わっている。[ポルカ](../Page/ポルカ.md "wikilink")や[フォークソング](../Page/フォークソング.md "wikilink")など、それまでの聖飢魔IIにはない楽曲が収録されていた。このアルバム制作当時はディレクターの交代、デーモン閣下のスキャンダル報道\[25\]など、バンドとしては非常に混沌とした時期だった。ソニーからのオリジナルアルバムのリリースは今作が最後となった。 1995年には地球デビュー10周年記念として、過去の構成員であるダミアン浜田殿下、ジード飯島大将、ゾッド星島親分、ジェイル大橋代官が復活しミサツアー『[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")』が行われた。この模様は活動絵巻教典『オール悪魔総進撃\! THE SATAN ALL STARS』に収録されている。また、この頃に公式ウェブサイトを立ち上げており、デーモン閣下によると、日本で最初に公式ウェブサイトを立ち上げたアーティストが聖飢魔IIだという。
+この時期、聖飢魔IIの活動の合間を縫って全員がソロ活動を行い、それぞれCDも発表している（これらの活動に関しては[デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、[ACE](../Page/ACE_\(ミュージシャン\).md "wikilink")、[ルーク篁](../Page/ルーク篁.md "wikilink")、[RXを参照](../Page/RX_\(バンド\).md "wikilink")）。[1992年](../Page/1992年.md "wikilink")、[アニメ](../Page/アニメ.md "wikilink")ビデオ『[HUMANE SOCIETY 〜人類愛に満ちた社会〜](https://ja.wikipedia.org/wiki/HUMANE_SOCIETY_〜人類愛に満ちた社会〜 "wikilink")』とそのテーマ曲「[正義のために](https://ja.wikipedia.org/wiki/正義のために "wikilink")」を発布。また、悪魔的な世界観に回帰し、12曲中10曲で人が死ぬ大教典『[恐怖のレストラン](../Page/恐怖のレストラン.md "wikilink")』を発布。「殺人教典」とも呼ばれ、あまりにも過激な内容のため、[NHKから出演禁止処分を受けてしまう](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")。ただし、これはアルバムの内容上、折り込み済みだったらしい。同年夏には[ブラバム](https://ja.wikipedia.org/wiki/ブラバム "wikilink")[F1チームのスポンサーになった](../Page/フォーミュラ1.md "wikilink")。これは同年途中より、同チームのドライバーに、閣下と同じ名前の[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")人ドライバーの[デーモン・ヒルが起用されたことが縁でスポンサーになったものである](../Page/デイモン・ヒル.md "wikilink")。しかし援助も空しく、ブラバムは資金難のため年度途中で撤退。マシンの開発資金も乏しく、予選突破も困難な体制で、閣下の絵が描かれたマシンが決勝レースを走ったのはわずか2レースだった。なお、**デーモン**・ヒルはその後[ウィリアムズ・ルノーに移籍し](https://ja.wikipedia.org/wiki/ウィリアムズF1 "wikilink")[1996年](../Page/1996年.md "wikilink")には見事、F1世界征服（チャンピオン）を果たした。ただし、ヒルのファースト・ネームのスペルはDamon（デイモンが近い）であり、悪魔を意味する閣下のDemon（ディーモンが近い）とは実際には意味も発音も異なる。両者とも日本語発音ではデーモンに変換されてしまう日本ならではのコラボレーションといえる。 1993年には『ロックオペラ ハムレット』に出演。そのエンディングでは出演者一同、聖飢魔IIの「[世界一のくちづけを](https://ja.wikipedia.org/wiki/世界一のくちづけを "wikilink")」を演奏した。さらに、デーモン閣下のCM（[フジカラー](../Page/富士フイルム.md "wikilink")[写ルンです](../Page/写ルンです.md "wikilink")や[ローソン](../Page/ローソン.md "wikilink")など）も好評を博した。[1994年](../Page/1994年.md "wikilink")夏、ロンドンの[アビー・ロード・スタジオ](../Page/アビー・ロード・スタジオ.md "wikilink")でレコーディングされた大教典『[PONK\!\!](../Page/PONK!!.md "wikilink")』を発布。プロデュースにはルーク参謀も加わっている。[ポルカ](../Page/ポルカ.md "wikilink")や[フォークソング](../Page/フォークソング.md "wikilink")など、それまでの聖飢魔IIにはない楽曲が収録されていた。このアルバム制作当時はディレクターの交代、デーモン閣下のスキャンダル報道\[25\]など、バンドとしては非常に混沌とした時期だった。ソニーからのオリジナルアルバムのリリースは今作が最後となった。 1995年には地球デビュー10周年記念として、過去の構成員であるダミアン浜田殿下、ジード飯島大将、ゾッド星島親分、ジェイル大橋代官が復活しミサツアー『[THE SATAN ALL STARS](../Page/THE_SATAN_ALL_STARS.md "wikilink")』が行われた。この模様は活動絵巻教典『オール悪魔総進撃\! THE SATAN ALL STARS』に収録されている。また、この頃に公式ウェブサイトを立ち上げており、デーモン閣下によると、日本で最初に公式ウェブサイトを立ち上げたアーティストが聖飢魔IIだという。
 
 ### BMGへの移籍
 
@@ -141,7 +141,7 @@
 
 魔暦21年([2019年](../Page/2019年.md "wikilink"))[12月31日](../Page/12月31日.md "wikilink")にZepp Tokyoにて行われた「聖飢魔II 地球征服20周年記念 伝説の解散大黒ミサ3days『THE ULTIMATE BLACK MASS』ヴィデオ黒ミサ」内で、魔暦22年([2020年](../Page/2020年.md "wikilink"))、地球デビュー35周年を記念して再集結することが発表された\[30\]。
 
-当初はホール・ツアーとアリーナ・ツアー含む全国15の大黒ミサ公演を予定していたが、[COVID-19の影響によりヴィデオ黒ミサ](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")＆生トークツアー『特別給付悪魔』に変更された\[31\]\[32\]。なお、魔暦23(2021)年の公演開催については協議中。
+当初はホール・ツアーとアリーナ・ツアー含む全国15の大黒ミサ公演を予定していたが、[COVID-19の影響によりヴィデオ黒ミサ](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")＆生トークツアー『特別給付悪魔』に変更された\[31\]\[32\]。
 
 ## 影響
 
@@ -180,7 +180,7 @@
 <!-- end list -->
 
   - [Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、リーダー（「段取り専務」と記載されたことも）、悪魔教教祖・元地獄副大魔王
-      - デーモン小暮、デーモン小暮閣下、デーモン[閣下](../Page/閣下.md "wikilink")、小暮伝衛門、\!（exclamation）として活動
+      - デーモン[閣下](../Page/閣下.md "wikilink")、小暮伝衛門、\!（exclamation）として活動
 
 <!-- end list -->
 
@@ -296,10 +296,10 @@
 <!-- end list -->
 
   - ギター 1984年4月
-      - [デーモン小暮閣下によれば](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")、「世を忍ぶ仮の[高校時代の](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[同級生](../Page/同級生.md "wikilink")の小林くん」とのこと。
+      - [デーモン閣下](https://ja.wikipedia.org/wiki/デーモン閣下 "wikilink")によれば、「世を忍ぶ仮の[高校時代の](https://ja.wikipedia.org/wiki/高等学校 "wikilink")[同級生](../Page/同級生.md "wikilink")の小林くん」とのこと。
       - サポート構成員ではなく、正式構成員だが、聖飢魔IIのミサで演奏した事は後にも先にも一度きりである。
       - 名前の由来は往年の[プロレスラー](../Page/プロレスラー.md "wikilink")、[アントニオ猪木](../Page/アントニオ猪木.md "wikilink")と[ジャイアント馬場](../Page/ジャイアント馬場.md "wikilink")と自らの苗字を組み合わせたもの。声がジャイアント馬場に似ている。容姿は[ネイティブアメリカン](https://ja.wikipedia.org/wiki/ネイティブアメリカン "wikilink")で、話し方はデーモン閣下寄りの話し方だった。
-      - 現在は[世を忍ぶ仮の姿で某メーカーで仕事をしている](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")。本人曰く、「デーモン小暮閣下に最初にハードロックを歌わせた。」という自称「素晴らしい功績」を持っているが、実際に演奏したことは世を忍ぶ仮の高校時代で1回しかない。
+      - 現在は[世を忍ぶ仮の姿で某メーカーで仕事をしている](../Page/聖飢魔IIの悪魔用語一覧.md "wikilink")。本人曰く、「デーモン閣下に最初にハードロックを歌わせた。」という自称「素晴らしい功績」を持っているが、実際に演奏したことは世を忍ぶ仮の高校時代で1回しかない。
       - 『[THE ULTIMATE BLACK MASS](../Page/THE_ULTIMATE_BLACK_MASS.md "wikilink")』の二日目に行われた『THE SATAN ALL STARS' DAY』では、世を忍ぶ仮の就職先での仕事が忙しく、ビデオレターでの出演となったが、デーモン閣下のMCで「（ミサを）見に来ているらしい」ことが明らかになった。
 
 <!-- end list -->
@@ -341,7 +341,7 @@
 <td><p>第1期</p></td>
 <td><p>1982年12月<br />
 - 1983年9月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>ダミアン浜田殿下</p></td>
 <td><p>ゾッド星島親分</p></td>
 <td><p>エース清水長官</p></td>
@@ -351,7 +351,7 @@
 <td><p>第2期</p></td>
 <td><p>1983年9月<br />
 - 1985年3月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>ダミアン浜田殿下<br />
 エース清水長官 または ジャントニオ・ババヤシ</p></td>
 <td><p>ゾッド星島親分</p></td>
@@ -362,7 +362,7 @@
 <td><p>第3期</p></td>
 <td><p>1985年<br />
 3月 - 6月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>エース清水長官<br />
 ガンダーラ・サンゲリア・チグリス・ユーフラテス金子</p></td>
 <td><p>ゾッド星島親分</p></td>
@@ -373,7 +373,7 @@
 <td><p>第4期</p></td>
 <td><p>1985年6月<br />
 - 1986年6月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>エース清水長官、ジェイル大橋代官</p></td>
 <td><p>ゾッド星島親分</p></td>
 <td><p>ライデン湯沢殿下</p></td>
@@ -383,7 +383,7 @@
 <td><p>第5期</p></td>
 <td><p>1986年6月<br />
 - 1987年2月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>エース清水長官、ジェイル大橋代官</p></td>
 <td><p>ゼノン石川和尚</p></td>
 <td><p>ライデン湯沢殿下</p></td>
@@ -393,7 +393,7 @@
 <td><p>第6期</p></td>
 <td><p>1987年2月<br />
   - 1999年12月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>エース清水長官、Sgt. ルーク篁III世参謀</p></td>
 <td><p>ゼノン石川和尚</p></td>
 <td><p>ライデン湯沢殿下</p></td>
@@ -405,7 +405,7 @@
 再結成</p></td>
 <td><p>2005年<br />
 11月 - 12月</p></td>
-<td><p>デーモン小暮閣下</p></td>
+<td><p>デーモン閣下</p></td>
 <td><p>エース清水長官、Sgt. ルーク篁III世参謀<br />
 ジェイル大橋代官<sup>[1]</sup></p></td>
 <td><p>ゼノン石川和尚<br />
@@ -523,7 +523,7 @@
 
   - \[<http://www.powerplay.co.jp/>　POWER PLAY MUSIC\]
 
-[Category:聖飢魔II](https://ja.wikipedia.org/wiki/Category:聖飢魔II "wikilink") [Category:デーモン閣下](https://ja.wikipedia.org/wiki/Category:デーモン閣下 "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:冗談宗教](https://ja.wikipedia.org/wiki/Category:冗談宗教 "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:1999年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に解散した音楽グループ "wikilink") [Category:2005年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に再結成した音楽グループ "wikilink") [Category:2010年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に再結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2015年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に再結成した音楽グループ "wikilink")
+[Category:聖飢魔II](https://ja.wikipedia.org/wiki/Category:聖飢魔II "wikilink") [Category:デーモン閣下](https://ja.wikipedia.org/wiki/Category:デーモン閣下 "wikilink") [Category:日本のヘヴィメタル・バンド](https://ja.wikipedia.org/wiki/Category:日本のヘヴィメタル・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:6人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:6人組の音楽グループ "wikilink") [Category:NHK紅白歌合戦出演者](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦出演者 "wikilink") [Category:ソニー・ミュージックレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックレコーズのアーティスト "wikilink") [Category:キューンミュージックのアーティスト](https://ja.wikipedia.org/wiki/Category:キューンミュージックのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:冗談宗教](https://ja.wikipedia.org/wiki/Category:冗談宗教 "wikilink") [Category:1982年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1982年に結成した音楽グループ "wikilink") [Category:1999年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1999年に解散した音楽グループ "wikilink") [Category:2005年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2005年に再結成した音楽グループ "wikilink") [Category:2010年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に再結成した音楽グループ "wikilink") [Category:2011年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2011年に再結成した音楽グループ "wikilink") [Category:2015年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2015年に再結成した音楽グループ "wikilink") [Category:2020年に再結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2020年に再結成した音楽グループ "wikilink")
 
 1.  25周年の再集結時に「聖飢魔XXV」（せいきまとぅえんてぃーふぁいぶ）の異名がデーモン閣下により与えられた。この名称は映像作品『URA VIDEO 3 -BACK STAGE OF SEIKIMA XXV-』で使用された。
 2.  [ノストラダムスの大予言](../Page/ノストラダムスの大予言.md "wikilink")参照

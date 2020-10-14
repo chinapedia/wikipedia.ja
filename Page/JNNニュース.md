@@ -17,6 +17,8 @@
 
 [2009年](../Page/2009年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink")から[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月28日](../Page/3月28日.md "wikilink")まで、『[総力報道\!THE NEWS](https://ja.wikipedia.org/wiki/総力報道!THE_NEWS "wikilink")』の放送に合わせて、平日昼と週末朝・昼の『JNN NEWS』がTBSローカルニュースの『[TBS NEWS](../Page/TBSニュース.md "wikilink")』とタイトルを統合し、『[THE NEWS](https://ja.wikipedia.org/wiki/THE_NEWS_\(TBS・JNN\) "wikilink")』に改題。週末最終の『JNN NEWS』は[スポーツニュース](https://ja.wikipedia.org/wiki/スポーツニュース "wikilink")番組『[S☆1](https://ja.wikipedia.org/wiki/S☆1 "wikilink")』と統合されて「JNN S☆1 NEWS」(ただし番組内の呼称は「S☆1 JNN NEWS」）となり、単独番組としての『JNN NEWS』は一旦姿を消す。ただし、『[みのもんたの朝ズバッ\!](https://ja.wikipedia.org/wiki/朝ズバッ! "wikilink")』（以下、朝ズバッ\!）、『[情報7days ニュースキャスター](https://ja.wikipedia.org/wiki/新・情報7DAYS_ニュースキャスター "wikilink")』が口頭で「JNN NEWS」と呼称する慣習は残り、コーナー名として存続。2010年[3月29日](../Page/3月29日.md "wikilink")から旧『JNN NEWS』、旧『TBS NEWS』が元のタイトルに戻り、単独番組として復活した。同日の『はなまるマーケット』内の「はなまるニュース」までは「THE NEWS」のフォーマットを使い、新しいフォーマットでの放送は『ひるおび\!』内「JNN NEWS」から。また、「S☆1 JNN NEWS」も「JNN NEWS」に改称された。
 
+『[Nスタ](https://ja.wikipedia.org/wiki/Nスタ "wikilink")』放送開始から2017年9月までは『THE NEWS』からの流れでVTR中のテロップ・書体が『JNN NEWS』『TBS NEWS』と共用となっていた。
+
 2015年9月28日からは編成上の音声がステレオに変更された。しかし当初はスタジオ音声はBGMや効果音も含めてモノラル音源の状態だったが、2017年10月2日からフルステレオ放送になった。
 
 2017年10月2日からJNNのニュースサイトは、『TBS NEWS』ブランドに統一され、『JNN NEWS』の新しいロゴが登場したが、JNN公式ロゴは存続し、JNN公式ロゴはリニューアル前のものを引き続き使用している\[1\]。このリニューアルに合わせて朝・昼の定時枠とNスタ・news23では右下にJNN公式ロゴの透かしが入るようになった。
@@ -122,7 +124,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝ニュース枠" title="wikilink">朝</a></p></td>
-<td><p><a href="../Page/藤森祥平.md" title="wikilink">藤森祥平</a></p></td>
+<td><p>（放送なし）</p></td>
 <td><p><a href="../Page/駒田健吾.md" title="wikilink">駒田健吾</a><br />
 <a href="https://ja.wikipedia.org/wiki/田村真子" title="wikilink">田村真子</a><br />
 【<a href="https://ja.wikipedia.org/wiki/増田雅昭" title="wikilink">増田雅昭</a><sup>1</sup>】</p></td>
@@ -134,16 +136,6 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/篠原梨菜" title="wikilink">篠原梨菜</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/宇賀神メグ" title="wikilink">宇賀神メグ</a></p></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>午前<sup>2</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/若林有子" title="wikilink">若林有子</a></p></td>
 <td><p>（放送なし）</p></td>
@@ -153,7 +145,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/TBSテレビ系列昼ニュース枠" title="wikilink">昼</a></p></td>
 <td><p><a href="../Page/蓮見孝之.md" title="wikilink">蓮見孝之</a></p></td>
 <td><p><a href="../Page/伊藤隆太.md" title="wikilink">伊藤隆太</a></p></td>
@@ -165,7 +157,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/出水麻衣" title="wikilink">出水麻衣</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/山形純菜" title="wikilink">山形純菜</a><sup>9</sup></p></td>
 <td></td>
@@ -175,17 +167,17 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>【<a href="../Page/森朗.md" title="wikilink">森朗</a>】</p></td>
 <td><p>【<a href="https://ja.wikipedia.org/wiki/久保井朝美" title="wikilink">久保井朝美</a>】</p></td>
 <td><p>【村木祐輔】</p></td>
-<td><p>【<a href="https://ja.wikipedia.org/wiki/國本未華" title="wikilink">國本未華</a>】</p></td>
+<td><p>【<a href="https://ja.wikipedia.org/wiki/國本未華" title="wikilink">國本未華</a><sup>4</sup>】</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>午後</p></td>
 <td><p>出水麻衣<sup>5</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/近藤夏子_(アナウンサー)" title="wikilink">近藤夏子</a><sup>5</sup></p></td>
@@ -195,7 +187,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>夜</p></td>
 <td><p>（放送なし）</p></td>
 <td><p><a href="../Page/安住紳一郎.md" title="wikilink">安住紳一郎</a><sup>6</sup></p></td>
@@ -205,7 +197,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/TBSテレビ系列深夜ニュース枠.md" title="wikilink">最終版</a></p></td>
 <td><p><a href="../Page/向井政生.md" title="wikilink">向井政生</a><sup>7</sup></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宇内梨沙" title="wikilink">宇内梨沙</a><sup>8</sup></p></td>
@@ -215,7 +207,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><ul>
 <li>平日朝・土曜朝の担当者は<a href="https://ja.wikipedia.org/wiki/TBSテレビ系列朝の情報番組枠" title="wikilink">朝の情報番組キャスターを兼務</a>。</li>
 <li><sup>1</sup> 『<a href="https://ja.wikipedia.org/wiki/まるっと!サタデー" title="wikilink">まるっと!サタデー</a>』・『<a href="https://ja.wikipedia.org/wiki/あさチャン!" title="wikilink">あさチャン!</a>』を兼務。</li>

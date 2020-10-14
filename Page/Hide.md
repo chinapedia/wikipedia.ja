@@ -43,7 +43,7 @@ Xでの活動と並行して1993年1月21日に[LUNA SEAの](../Page/LUNA_SEA.md
 
 ## hideの死
 
-### 晩年 死去
+### 晩年
 
 1998年5月1日、hideはSpread Beaverのメンバーと共に[フジテレビ音楽番組](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[ロケットパンチ\!](https://ja.wikipedia.org/wiki/ロケットパンチ!_MUSIC_DELIVERY "wikilink")」の収録を行う（その際に披露した曲は「[ROCKET DIVE](../Page/ROCKET_DIVE.md "wikilink")、[ピンクスパイダー](https://ja.wikipedia.org/wiki/ピンクスパイダー "wikilink")、[ever free](https://ja.wikipedia.org/wiki/ever_free "wikilink")、[DOUBT'97](../Page/ROCKET_DIVE.md "wikilink")」）。これが生前最後に収録した番組となった。その打ち上げ後、日付をまたいで更に飲み、泥酔したhideはマネージャーの弟・裕士が運転する車で自宅マンションまで送られた。
 

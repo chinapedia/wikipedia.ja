@@ -427,7 +427,7 @@ PKG-AP35UK
 
 [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月27日](../Page/5月27日.md "wikilink")、[平成21年排出ガス規制](../Page/平成22年排出ガス規制.md "wikilink")（ポスト新長期規制）及び重量車燃費基準適合車として発売。平成17年排出ガス規制（新長期規制）基準値に対して、[窒素酸化物](../Page/窒素酸化物.md "wikilink")（NOx）の65%低減、[粒子状物質](https://ja.wikipedia.org/wiki/ディーゼル排気微粒子 "wikilink")（PM）の63%低減を達成している。
 
-エンジンが三菱ふそう製[6M60に変更され排気量が減少](../Page/三菱ふそう・6M系エンジン.md "wikilink")（9.2L→7.5L）、[可変ノズルベーン式ターボを採用](../Page/可変ノズルターボ.md "wikilink")。排ガス浄化機構は[尿素SCR](https://ja.wikipedia.org/wiki/尿素SCR "wikilink")触媒に加え再生制御式PM低減装置を組み合わせている。
+エンジンが三菱ふそう製[6M60に変更され排気量が減少](../Page/三菱ふそう・6M系エンジン.md "wikilink")（9.2L→7.5L）、[可変ノズルベーン式ターボを採用](../Page/可変ノズルターボ.md "wikilink")。排ガス浄化機構は[尿素SCR](https://ja.wikipedia.org/wiki/尿素SCR "wikilink")触媒に加え[再生制御式PM低減装置を組み合わせている](../Page/ディーゼル微粒子捕集フィルター.md "wikilink")。
 
 トランスミッションは5速MTが廃止され、6速ATのみとなった。UDトラックス製大型バスのATでは従来[ZF製が採用されてきたが](../Page/ZFフリードリヒスハーフェン.md "wikilink")、当モデルでは[アリソン製が採用された](../Page/アリソン・トランスミッション.md "wikilink")。
 

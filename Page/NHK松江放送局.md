@@ -31,6 +31,16 @@
 
 <!-- end list -->
 
+  - 03\* - NHK総合\*・松江（1,2）
+  - 631 - NHK携帯G・松江
+  - 放送事業者 - NHK総合・松江
+
+<!-- end list -->
+
+  - 送信所・中継局
+
+<!-- end list -->
+
   - [松江](../Page/松江・米子_テレビ・FM放送所.md "wikilink") 21ch 出力：1kW（澄水山）
   - 浜田 35ch 出力：100W（[大麻山](https://ja.wikipedia.org/wiki/大麻山_\(島根県\) "wikilink")）
   - [大田](https://ja.wikipedia.org/wiki/大田中継局 "wikilink") 24ch 出力：10W
@@ -53,6 +63,16 @@
 #### デジタル
 
   - コールサイン：JOTB-DTV [リモコンキーID](../Page/リモコンキーID.md "wikilink")：2
+
+<!-- end list -->
+
+  - 02\* - NHKEテレ松江（1,2,3）
+  - 621 - NHK携帯2
+  - 放送事業者 - NHKEテレ松江
+
+<!-- end list -->
+
+  - 送信所・中継局
 
 <!-- end list -->
 

@@ -1,7 +1,7 @@
 > この記事は[学校法人NHK学園](https://ja.wikipedia.org/wiki/学校法人NHK学園)から翻訳されています。
 
 
-**学校法人NHK学園**（がっこうほうじんえぬえいちけいがくえん）は、[特殊法人](../Page/特殊法人.md "wikilink")である[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）によって、[1962年](../Page/1962年.md "wikilink")（昭和37年）に創設された[学校法人](../Page/学校法人.md "wikilink")。
+**学校法人NHK学園**（がっこうほうじんえぬえいちけいがくえん）は、[特殊法人](../Page/特殊法人.md "wikilink")である[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）によって、[1962年](../Page/1962年.md "wikilink")（昭和37年）10月に設立された[学校法人](../Page/学校法人.md "wikilink")。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 学園の事業は、主に次の通り分類されている。
 
-  - [通信制高等学校](https://ja.wikipedia.org/wiki/高等学校#通信制の課程 "wikilink")（詳しくは[NHK学園高等学校](../Page/NHK学園高等学校.md "wikilink")を参照）
+  - [通信制高等学校](../Page/高等学校通信教育.md "wikilink")（詳しくは[NHK学園高等学校](../Page/NHK学園高等学校.md "wikilink")を参照）
   - 通信制福祉教育（[社会福祉士](../Page/社会福祉士.md "wikilink")養成課程）
   - 生涯学習通信講座（[俳句](../Page/俳句.md "wikilink")、[書道](https://ja.wikipedia.org/wiki/書道 "wikilink")、[絵手紙](../Page/絵手紙.md "wikilink")、[囲碁](../Page/囲碁.md "wikilink")、[写真](../Page/写真.md "wikilink")などの通信講座）
 
@@ -30,7 +30,7 @@
   - 1997年（平成9年） - 日本放送協会学園のシンボルマークを制定。
   - 2001年（平成13年） - 社会福祉士養成課程を設置。
   - 2012年（平成24年） - 創立50周年記念式を挙行。
-  - 2018年（平成30年） -学校法人NHK学園に改名。\[1\]
+  - 2018年（平成30年） -**学校法人NHK学園**に改称。\[1\]
 
 ## 脚注
 

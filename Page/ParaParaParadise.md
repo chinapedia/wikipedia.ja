@@ -54,6 +54,6 @@
 
 ## 外部リンク
 
-  - [シリーズ公式サイト](http://web.archive.org/web/20110811013029/http://www.konami.jp/am/para/) - 閉鎖。（2011年8月11日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [シリーズ公式サイト](https://web.archive.org/web/20110811013029/http://www.konami.jp/am/para/) - 閉鎖。（2011年8月11日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:ダンスゲーム](https://ja.wikipedia.org/wiki/Category:ダンスゲーム "wikilink") [Category:2000年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2000年のアーケードゲーム "wikilink") [Category:BEMANIシリーズ](https://ja.wikipedia.org/wiki/Category:BEMANIシリーズ "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink")

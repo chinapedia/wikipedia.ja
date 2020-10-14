@@ -411,7 +411,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/2020_UEFAスーパーカップ" title="wikilink">2020</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></strong>（CL）</p></td>
-<td></td>
+<td><p><strong>2 - 1</strong> <a href="../Page/延長戦.md" title="wikilink">aet</a></p></td>
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a>(EL)</p></td>
 <td><p><a href="../Page/プスカシュ・アレーナ.md" title="wikilink">プスカシュ・アレーナ</a>（<a href="../Page/ブダペスト.md" title="wikilink">ブダペスト</a>）</p></td>
 </tr>
@@ -478,7 +478,7 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
 <td><p><strong>5</strong></p></td>
-<td><p><strong>4</strong></p></td>
+<td><p>4</p></td>
 <td><p>1992,1997,2009,2011,2015</p></td>
 <td><p>1979,1982,1989,2006</p></td>
 </tr>
@@ -511,67 +511,67 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></p></td>
+<td><p>2</p></td>
+<td><p>3</p></td>
+<td><p>2013,2020</p></td>
+<td><p>1975,1976,2001</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
 <td><p>2</p></td>
 <td><p>1</p></td>
 <td><p>1973,1995</p></td>
 <td><p>1987</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>1976,1978</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>1980,2004</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
 <td><p>2</p></td>
 <td><p>0</p></td>
 <td><p>1984,1996</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 <td><p>1</p></td>
-<td><p><strong>4</strong></p></td>
+<td><p><strong>5</strong></p></td>
 <td><p>2006</p></td>
-<td><p>2007,2014,2015,2016</p></td>
+<td><p>2007,2014,2015,2016,2020</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1987</p></td>
 <td><p>2003,2004,2011</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッド</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1991</p></td>
 <td><p>1999,2008,2017</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/チェルシーFC" title="wikilink">チェルシー</a></p></td>
 <td><p>1</p></td>
 <td><p>3</p></td>
 <td><p>1998</p></td>
 <td><p>2012,2013,2019</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></p></td>
-<td><p>1</p></td>
-<td><p>3</p></td>
-<td><p>2013</p></td>
-<td><p>1975,1976,2001</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
@@ -753,7 +753,7 @@
 <tr class="odd">
 <td><p><a href="../Page/スペインサッカー連盟.md" title="wikilink">スペイン</a></p></td>
 <td><p><strong>15</strong></p></td>
-<td><p><strong>12</strong></p></td>
+<td><p><strong>13</strong></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/イタリアサッカー連盟.md" title="wikilink">イタリア</a></p></td>
@@ -771,14 +771,14 @@
 <td><p>0</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ドイツサッカー連盟" title="wikilink">ドイツ</a></p></td>
+<td><p>2</p></td>
+<td><p>7</p></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/オランダサッカー協会" title="wikilink">オランダ</a></p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ドイツサッカー連盟" title="wikilink">ドイツ</a></p></td>
-<td><p>1</p></td>
-<td><p>7</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/ポルトガルサッカー連盟.md" title="wikilink">ポルトガル</a></p></td>
@@ -838,7 +838,7 @@
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/UEFAチャンピオンズリーグ.md" title="wikilink">UEFAチャンピオンズカップ/UEFAチャンピオンズリーグ優勝クラブ</a></p></td>
-<td><p><strong>24</strong></p></td>
+<td><p><strong>25</strong></p></td>
 <td><p><strong>20</strong></p></td>
 </tr>
 <tr class="even">
@@ -849,7 +849,7 @@
 <tr class="odd">
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAカップ/UEFAヨーロッパリーグ優勝クラブ</a></p></td>
 <td><p>8</p></td>
-<td><p>12</p></td>
+<td><p>13</p></td>
 </tr>
 </tbody>
 </table>
@@ -858,9 +858,11 @@
 
 ## 脚注
 
-### 注釈
+  - 注釈
 
-### 出典
+<!-- end list -->
+
+  - 出典
 
 ## 関連項目
 

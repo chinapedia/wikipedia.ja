@@ -92,7 +92,8 @@
 2.  **通りゃんせ** (4:21)
     （作詞・作曲:桑田佳祐 / 編曲:サザンオールスターズ）
       -
-        ハードロック調の楽曲。歌詞には[一・二・三の鳥居](../Page/若宮大路.md "wikilink")、[七里](../Page/七里ヶ浜.md "wikilink")、[化粧坂](../Page/化粧坂.md "wikilink")（けわいざか）など[鎌倉](../Page/鎌倉市.md "wikilink")・[若宮大路](../Page/若宮大路.md "wikilink")の名所が数多く登場する。
+        ハードロック調の楽曲。歌詞には[一・二・三の鳥居](../Page/若宮大路.md "wikilink")、[七里](../Page/七里ヶ浜.md "wikilink")、[化粧坂](../Page/化粧坂.md "wikilink")（けわいざか）など[鎌倉](../Page/鎌倉市.md "wikilink")・[若宮大路](../Page/若宮大路.md "wikilink")の名所と「[桜](https://ja.wikipedia.org/wiki/桜 "wikilink")」「<ruby><rb>[花菖蒲](https://ja.wikipedia.org/wiki/花菖蒲 "wikilink")</rb><rp></rp><rt>あやめ</rt><rp></rp></ruby>」「[蓮花](../Page/ハス.md "wikilink")」「[蝉しぐれ](https://ja.wikipedia.org/wiki/蝉時雨 "wikilink")」「[萩](../Page/ハギ.md "wikilink")」「[もみじ](../Page/紅葉.md "wikilink")」「[小雪](https://ja.wikipedia.org/wiki/雪#小雪 "wikilink")」といった全ての日本の[四季](../Page/四季.md "wikilink")を想起させるフレーズが数多く登場している\[63\]\[64\]。
+        イントロ、間奏、エンディングに使用される[経典](../Page/経典.md "wikilink")のようなコーラスは桑田と原によるもの\[65\]。
 
 ## 参加ミュージシャン
 
@@ -131,7 +132,7 @@
 
   - [2001年](../Page/2001年.md "wikilink")（平成13年）、[ビッグ・マウンテン](../Page/ビッグ・マウンテン.md "wikilink")は「TSUNAMI 〜A WAVE OF LOVE」という曲名で[英語](../Page/英語.md "wikilink")でカバーした（アルバム『Cool Breeze』に収録）。
   - [2002年](../Page/2002年.md "wikilink")（平成14年）、[AJI](../Page/AJI.md "wikilink")がミニアルバム『As Juvenile Innocence』でカバー。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年）、[有里知花](https://ja.wikipedia.org/wiki/有里知花 "wikilink")がアルバム『Treasure The World』でカバー。サザンの[松田弘](../Page/松田弘.md "wikilink")が音楽を担当した映画『[マナに抱かれて](https://ja.wikipedia.org/wiki/マナに抱かれて "wikilink")』の主題歌で、サウンドトラックにも収録\[63\]。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）、[有里知花](https://ja.wikipedia.org/wiki/有里知花 "wikilink")がアルバム『Treasure The World』でカバー。サザンの[松田弘](../Page/松田弘.md "wikilink")が音楽を担当した映画『[マナに抱かれて](https://ja.wikipedia.org/wiki/マナに抱かれて "wikilink")』の主題歌で、サウンドトラックにも収録\[66\]。
   - [蘇永康](https://ja.wikipedia.org/wiki/ウィリアム・ソー "wikilink")（ウィリアム・ソー）が「她愛了我好久」という曲名で[北京語](../Page/北京語.md "wikilink")でカバーした（アルバム「蘇情時間」に収録）。また[広東語](../Page/広東語.md "wikilink")で「其實我很擔心」という曲名でカバーした。
   - [韓国ではV](../Page/大韓民国.md "wikilink").Oneが「そうみたいだよ()」という曲を発売したが、「TSUNAMI」に酷似していることが指摘されると正式に「TSUNAMI」のカバーであると発表した。当初は覆面歌手だったためこのような経緯になった。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）、サザンメンバーとも交流のある[Skoop On Somebodyのボーカル](../Page/Skoop_On_Somebody.md "wikilink")・[武田雅治](https://ja.wikipedia.org/wiki/武田雅治 "wikilink")が[2000年代](../Page/2000年代.md "wikilink")以降の楽曲を選定し、[カバー](../Page/カバー.md "wikilink")したアルバム『[恋歌〜THE LATEST J-LOVE BALLAD HITS COLLECTION〜](https://ja.wikipedia.org/wiki/恋歌〜THE_LATEST_J-LOVE_BALLAD_HITS_COLLECTION〜 "wikilink")』の1曲として採用している。アレンジは南国風に改められている。
@@ -147,7 +148,7 @@
   - [未来日記 (ウンナンのホントコ\!)](../Page/未来日記_\(ウンナンのホントコ!\).md "wikilink")
   - [ウンナンのホントコ\!](../Page/ウンナンのホントコ!.md "wikilink")
   - [TSUNAMIのジョニー](https://ja.wikipedia.org/wiki/イミテイション・ゴールド〜金爆の名曲二番搾り〜#収録曲 "wikilink")
-      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。タイトルは本曲と桑田のソロシングル「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」を合わせたものになっている\[64\]。
+      - [ゴールデンボンバーの楽曲](https://ja.wikipedia.org/wiki/ゴールデンボンバー_\(バンド\) "wikilink")。タイトルは本曲と桑田のソロシングル「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」を合わせたものになっている\[67\]。
   - [2000年の音楽](../Page/2000年の音楽.md "wikilink")
   - [オリコンチャート\#オリコンシングルの売上枚数ベスト20](https://ja.wikipedia.org/wiki/オリコンチャート#オリコンシングルの売上枚数ベスト20 "wikilink")
 
@@ -227,5 +228,8 @@
 60. [1位はSMAP「世界に一つだけの花」、MステSP“世界に誇るニッポンの歌”](http://music-book.jp/music/news/news/93641) ミュージックジェイピー 2015年9月20日閲覧
 61. [サザンの人気ナンバーランキング、全世代で「TSUNAMI」が1位](http://www.oricon.co.jp/news/54776/full/) オリコン 2008年5月22日配信、2016年3月20日閲覧
 62.
-63.
-64. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。
+63. [SASダイヤリー](http://web.archive.org/web/20050329180753/http://www.jvcmusic.co.jp/sas/diary/nov99_1.html)サザンオールスターズラボラトリー 1999年11月（[Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")）
+64. [サザンオールスターズ - 通りゃんせ](https://southernallstars.jp/mob/titl/tracShw.php?site=SASJP&ima=4054&aff=ROBO009&cd=I115800201) SOUTHERN ALL STARS OFFICIAL SITE
+65.
+66.
+67. [祝紅白\! ゴールデンボンバーの楽しみ方](http://bylines.news.yahoo.co.jp/fukuryu/20121230-00022890/) Yahoo\!ニュース 2016年8月20日閲覧。

@@ -82,11 +82,9 @@
 
 ## ゲーム版
 
-[2002年](../Page/2002年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。小説には出てこないキャラクターを主人公に据えており、画面には一切登場させない。キャラクター原画は[篁龍士](https://ja.wikipedia.org/wiki/篁龍士 "wikilink")。
+[2002年](../Page/2002年.md "wikilink")[3月28日](../Page/3月28日.md "wikilink")に[KIDより発売された](../Page/KID_\(ゲームブランド\).md "wikilink")[プレイステーション用](../Page/PlayStation_\(ゲーム機\).md "wikilink")[アドベンチャーゲーム](../Page/アドベンチャーゲーム.md "wikilink")。小説には出てこないキャラクターを主人公に据えており、画面には一切登場させない。キャラクター原画は[篁龍士](https://ja.wikipedia.org/wiki/篁龍士 "wikilink")。 ゲームの基本的なシナリオは小説版と大きく変わるところはなく、選択肢を選んで分岐を楽しむタイプ。プレイヤーとしては小説版の筋に従った行動を選んでいけば、ほぼ自動的にベストエンドにたどり着けることになる。
 
-### シナリオ
-
-ゲームの基本的なシナリオは小説版と大きく変わるところはなく、選択肢を選んで分岐を楽しむタイプ。プレイヤーとしては小説版の筋に従った行動を選んでいけば、ほぼ自動的にベストエンドにたどり着けることになる。
+また、ゲーム版の音楽は[阿保剛](../Page/阿保剛.md "wikilink")が担当しており、阿保は自分の好きな「少しリズミカルで暗い」曲でまとめたと2020年の座談会の中で振り返っている\[5\]。
 
 ### キャスト（ゲーム）
 
@@ -102,7 +100,7 @@
 
 ## テレビドラマ
 
-[2014年](../Page/2014年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")から[12月23日](../Page/12月23日.md "wikilink")まで毎週火曜日21:00 - 21:54に、[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")と[綾野剛](../Page/綾野剛.md "wikilink")のダブル主演で、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜21時枠](../Page/フジテレビ火曜9時枠の連続ドラマ.md "wikilink")」で放送された\[5\]。[S\&Mシリーズ](../Page/S&Mシリーズ.md "wikilink")より5作品を原則として2話完結の形で放送された。これまでに10回以上映像化のオファーがあり、森はそのいずれにも無条件で許可していたが、実現はしなかった\[6\]。
+[2014年](../Page/2014年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")から[12月23日](../Page/12月23日.md "wikilink")まで毎週火曜日21:00 - 21:54に、[武井咲](https://ja.wikipedia.org/wiki/武井咲 "wikilink")と[綾野剛](../Page/綾野剛.md "wikilink")のダブル主演で、[フジテレビ系の](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")「[火曜21時枠](../Page/フジテレビ火曜9時枠の連続ドラマ.md "wikilink")」で放送された\[6\]。[S\&Mシリーズ](../Page/S&Mシリーズ.md "wikilink")より5作品を原則として2話完結の形で放送された。これまでに10回以上映像化のオファーがあり、森はそのいずれにも無条件で許可していたが、実現はしなかった\[7\]。
 
 ### キャスト（ドラマ）
 
@@ -128,7 +126,7 @@
 
   - 真賀田研究所
 
-:\* [真賀田 四季](../Page/真賀田四季.md "wikilink")（工学博士） - [早見あかり](https://ja.wikipedia.org/wiki/早見あかり "wikilink")\[7\]
+:\* [真賀田 四季](../Page/真賀田四季.md "wikilink")（工学博士） - [早見あかり](https://ja.wikipedia.org/wiki/早見あかり "wikilink")\[8\]
 
   -
 
@@ -275,7 +273,7 @@
   - 脚本 - [黒岩勉](https://ja.wikipedia.org/wiki/黒岩勉 "wikilink")、[小山正太](https://ja.wikipedia.org/wiki/小山正太 "wikilink")
   - 音楽 - [川井憲次](../Page/川井憲次.md "wikilink")
   - 演出 - 城宝秀則、[小椋久雄](../Page/小椋久雄.md "wikilink")、[小林義則](../Page/小林義則.md "wikilink")
-  - 主題歌 - [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")「[デジタルモグラ](https://ja.wikipedia.org/wiki/魅力がすごいよ "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / [unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")）\[8\]
+  - 主題歌 - [ゲスの極み乙女。](https://ja.wikipedia.org/wiki/ゲスの極み乙女。 "wikilink")「[デジタルモグラ](https://ja.wikipedia.org/wiki/魅力がすごいよ "wikilink")」（[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / [unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")）\[9\]
   - 演出補 - [村谷嘉則](../Page/村谷嘉則.md "wikilink")、淵上正人
   - タイトルバック - 衛藤一郎
   - スタントコーディネート - [釼持誠](../Page/釼持誠.md "wikilink")
@@ -298,7 +296,7 @@
 <th><p>原作</p></th>
 <th><p>脚本</p></th>
 <th><p>演出</p></th>
-<th><p>視聴率[9]</p></th>
+<th><p>視聴率[10]</p></th>
 </tr>
 </thead>
 <tbody>
@@ -424,9 +422,9 @@
 
 ## テレビアニメ
 
-『**すべてがFになる THE PERFECT INSIDER**』（すべてがエフになる ザ・パーフェクト・インサイダー）のタイトルで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」枠にて2015年10月から12月まで放送された。全11話。本作と『[四季](https://ja.wikipedia.org/wiki/真賀田四季#『四季』シリーズ "wikilink")』シリーズ全4作品を原作として制作される\[10\]。放送に先駆けて5月28日発売の『[ARIA](https://ja.wikipedia.org/wiki/ARIA_\(雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）7月号からコミカライズの連載が、『[ITAN](https://ja.wikipedia.org/wiki/ITAN "wikilink")』26号から「四季」が連載された\[11\]。
+『**すべてがFになる THE PERFECT INSIDER**』（すべてがエフになる ザ・パーフェクト・インサイダー）のタイトルで、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・「[ノイタミナ](../Page/ノイタミナ.md "wikilink")」枠にて2015年10月から12月まで放送された。全11話。本作と『[四季](https://ja.wikipedia.org/wiki/真賀田四季#『四季』シリーズ "wikilink")』シリーズ全4作品を原作として制作される\[11\]。放送に先駆けて5月28日発売の『[ARIA](https://ja.wikipedia.org/wiki/ARIA_\(雑誌\) "wikilink")』（[講談社](../Page/講談社.md "wikilink")）7月号からコミカライズの連載が、『[ITAN](https://ja.wikipedia.org/wiki/ITAN "wikilink")』26号から「四季」が連載された\[12\]。
 
-オープニング映像は[ロトスコープ](../Page/ロトスコープ.md "wikilink")による映像表現が用いられ、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")や[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")などのMVを手掛けた関和亮が担当する\[12\]。エンディング映像はプログラミングを用いてグラフィックを生成する[ジェネレイティブ・アートが用いられ](../Page/ジェネレーティブアート.md "wikilink")、映像作家の橋本麦が担当する\[13\]。森の考えていたイメージとは異なっていたが、フジテレビ担当の推薦によりキャラクター原案として[浅野いにお](../Page/浅野いにお.md "wikilink")を起用している\[14\]。
+オープニング映像は[ロトスコープ](../Page/ロトスコープ.md "wikilink")による映像表現が用いられ、[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")や[サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")などのMVを手掛けた関和亮が担当する\[13\]。エンディング映像はプログラミングを用いてグラフィックを生成する[ジェネレイティブ・アートが用いられ](../Page/ジェネレーティブアート.md "wikilink")、映像作家の橋本麦が担当する\[14\]。森の考えていたイメージとは異なっていたが、フジテレビ担当の推薦によりキャラクター原案として[浅野いにお](../Page/浅野いにお.md "wikilink")を起用している\[15\]。
 
 ### キャスト（アニメ）
 
@@ -592,7 +590,7 @@
 
 ### 放送局
 
-新潟総合テレビ、テレビ西日本、鹿児島テレビでは第四章を放送予定していた日の前夜の「[プロ野球日本シリーズ](https://ja.wikipedia.org/wiki/2015年の日本シリーズ "wikilink")・第5戦」の中継が大幅延長したため、翌週に第四章・第五章が2話連続放送された\[15\]。
+新潟総合テレビ、テレビ西日本、鹿児島テレビでは第四章を放送予定していた日の前夜の「[プロ野球日本シリーズ](https://ja.wikipedia.org/wiki/2015年の日本シリーズ "wikilink")・第5戦」の中継が大幅延長したため、翌週に第四章・第五章が2話連続放送された\[16\]。
 
 ### BD / DVD
 
@@ -603,7 +601,7 @@
 
 ### オーディオドラマ
 
-『**四季**』のタイトルで10月9日より[dアニメストアにて配信された](https://ja.wikipedia.org/wiki/ドコモ・アニメストア "wikilink")\[16\]。全6話構成であり、アニメの脚本を務める雨宮まみが脚本を担当する\[17\]。
+『**四季**』のタイトルで10月9日より[dアニメストアにて配信された](https://ja.wikipedia.org/wiki/ドコモ・アニメストア "wikilink")\[17\]。全6話構成であり、アニメの脚本を務める雨宮まみが脚本を担当する\[18\]。
 
 **キャスト**
 
@@ -639,9 +637,9 @@
 
 :\* 森博嗣（原作）・[霜月かいり](../Page/霜月かいり.md "wikilink")（作画） 『すべてがFになる-THE PERFECT INSIDER-』 [講談社](../Page/講談社.md "wikilink")〈KCx ARIA〉、全2巻
 
-:\*\# 2015年10月7日発売\[18\]、ISBN 978-4-06-380804-9
+:\*\# 2015年10月7日発売\[19\]、ISBN 978-4-06-380804-9
 
-:\*\# 2016年3月7日発売\[19\]、ISBN 978-4-06-380829-2
+:\*\# 2016年3月7日発売\[20\]、ISBN 978-4-06-380829-2
 
 ## 脚注
 
@@ -679,11 +677,11 @@
 3.  0からカウントした場合、数は1小さくなる。
 4.  テレビアニメでは国立那古野大学。
 5.
-6.  森博嗣 ドラマ化に当たってのメッセージ「連続ドラマ化記念『すべてがFになる』の世界」『[IN★POCKET](../Page/IN★POCKET.md "wikilink")』2014年11月号 [講談社](../Page/講談社.md "wikilink") p.169
-7.
+6.
+7.  森博嗣 ドラマ化に当たってのメッセージ「連続ドラマ化記念『すべてがFになる』の世界」『[IN★POCKET](../Page/IN★POCKET.md "wikilink")』2014年11月号 [講談社](../Page/講談社.md "wikilink") p.169
 8.
-9.  [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html) 、[スポニチアネックス](https://ja.wikipedia.org/wiki/スポニチアネックス "wikilink")、2014年12月27日閲覧。
-10.
+9.
+10. [すべてがFになる](http://www.sponichi.co.jp/entertainment/yomimono/drama/2014/10_12/F/index.html) 、[スポニチアネックス](https://ja.wikipedia.org/wiki/スポニチアネックス "wikilink")、2014年12月27日閲覧。
 11.
 12.
 13.
@@ -693,3 +691,4 @@
 17.
 18.
 19.
+20.

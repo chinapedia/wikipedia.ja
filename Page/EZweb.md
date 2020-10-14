@@ -1,11 +1,11 @@
 > この記事は[EZweb](https://ja.wikipedia.org/wiki/EZweb)から翻訳されています。
 
 
-**EZweb**（イージーウェブ）は、[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の携帯電話ブランド[auが提供している](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[携帯電話IP接続サービス](../Page/携帯電話IP接続サービス.md "wikilink")の名称である。
+**EZweb**（イージーウェブ）は、[KDDI](../Page/KDDI.md "wikilink")・[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")の携帯電話ブランド[auが](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")[フィーチャーフォン](https://ja.wikipedia.org/wiki/フィーチャーフォン "wikilink")向けに提供している[携帯電話IP接続サービス](../Page/携帯電話IP接続サービス.md "wikilink")の名称である。
 
-利用の折には、[EZ WINコースのオプション契約が必要](https://ja.wikipedia.org/wiki/EZ_WINコース "wikilink")。またKDDIの携帯電話ブランド・[ツーカー](../Page/ツーカー.md "wikilink")もかつて提供していた。KDDIの登録商標である。
+KDDIの登録商標であり、KDDIの携帯電話ブランド・[ツーカー](../Page/ツーカー.md "wikilink")でもかつて提供されていた。
 
-[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")では[IS NETコース](https://ja.wikipedia.org/wiki/ISシリーズ "wikilink")（4G LTE端末の場合は、[LTE NETコース](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")）を利用し、EZwebとは区別される。
+利用の際、[EZ WINコースのオプション契約が必要](https://ja.wikipedia.org/wiki/EZ_WINコース "wikilink")。[スマートフォン](https://ja.wikipedia.org/wiki/スマートフォン "wikilink")では[IS NETコース](https://ja.wikipedia.org/wiki/ISシリーズ "wikilink")（4G LTE端末の場合は、[LTE NETコース](https://ja.wikipedia.org/wiki/au_4G_LTE "wikilink")）の利用となり、EZwebとは区別される。
 
 ## 概要
 

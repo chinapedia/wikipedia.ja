@@ -1,9 +1,9 @@
 > この記事は[ファイル:Japan map.png](https://ja.wikipedia.org/wiki/ファイル:Japan_map.png)から翻訳されています。
 
 
-全国市町村地図 テスト版
+## 概要
 
-全国市町村境界図 200KB（2014改訂）
+全国市町村境界図
 
   -
     色数は16色、形式は.png
@@ -15,7 +15,7 @@
     [データ配布許諾の経緯、編集著作権者](https://web.archive.org/web/20190330155659/http://www.geocities.co.jp/SiliconValley/2345/index_j.html): [Virtual Office MAP figures](https://web.archive.org/web/20190330155659/http://www.geocities.co.jp/SiliconValley/2345/index_j.html)
     データ提供者: [Virtual Office MAP figures](https://web.archive.org/web/20190330155659/http://www.geocities.co.jp/SiliconValley/2345/index_j.html)
 
-データ取得及び編集方法:
+## データ取得及び編集方法
 
 1.  ブラウザで画像が表示したら画像上で右クリックしてメニューの中から「画像を保存」を選択。
 2.  .png形式を扱うことのできる[GIMP](../Page/GIMP.md "wikilink")、[Jtrim](https://ja.wikipedia.org/wiki/Jtrim "wikilink")等の画像編集ソフトを用いてデータを開き加工する。
@@ -24,3 +24,7 @@
 5.  .jpg形式で保存すると色に[にじみ](https://ja.wikipedia.org/wiki/にじみ "wikilink")が表われて鮮明な表示は期待できない。
 6.  画像の縮小は、**かならず**[増色](https://ja.wikipedia.org/wiki/増色 "wikilink")を行なった上で縮小作業をすること。作業終了後は適当な色数に[減色](https://ja.wikipedia.org/wiki/減色 "wikilink")する手順を踏むこと。
 7.  手順を誤ると[ドット落ち](../Page/ドット落ち.md "wikilink")のある低品質の画像になる。
+
+## ライセンス
+
+[Category:Japan_map](https://ja.wikipedia.org/wiki/Category:Japan_map "wikilink")

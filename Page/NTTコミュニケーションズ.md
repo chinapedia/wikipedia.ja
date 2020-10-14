@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/ファイル:Shiodome_Building2.JPG "wikilink")\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Communications_\(headquarters\).jpg "wikilink")）\]\] [thumb](https://ja.wikipedia.org/wiki/ファイル:NTTCOMootemachi.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Fujisawa.JPG "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:NTT_Com_Karagasaki.JPG "wikilink")
 
-**エヌ・ティ・ティ・コミュニケーションズ株式会社**（NTTコミュニケーションズ、）は、世界最大規模の通信事業者のひとつである[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）の長距離・国際通信事業を担う完全子会社（直接の親会社は[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")のNTT株式会社）であり、[NTTグループ](../Page/NTTグループ.md "wikilink")の主要企業の一つである。
+**エヌ・ティ・ティ・コミュニケーションズ株式会社**（NTTコミュニケーションズ、）は、世界最大規模の通信事業者のひとつである[日本電信電話](../Page/日本電信電話.md "wikilink")（NTT）の長距離・国際通信事業を担う完全子会社（直接の親会社は[中間持株会社](https://ja.wikipedia.org/wiki/中間持株会社 "wikilink")のNTT株式会社、英：NTT, Inc.\[1\]）であり、[NTTグループ](../Page/NTTグループ.md "wikilink")の主要企業の一つである。
 
 世界40カ国／地域以上、110都市以上の拠点に約22,000名のスタッフを配し、クラウド、ネットワーク、セキュリティ、コンサルティングを提供を通し、顧客企業のグローバルビジネスをサポートしている。
 
@@ -11,11 +11,11 @@
 
 ## 概要
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[NTT法（日本電信電話株式会社法）改正によるNTT再編として](https://ja.wikipedia.org/wiki/日本電信電話株式会社等に関する法律 "wikilink")、旧来の[日本電信電話 (NTT)](../Page/日本電信電話.md "wikilink")株式会社 から分割された4社のうちの1社。新しい[NTT](../Page/日本電信電話.md "wikilink")（[持株会社](../Page/持株会社.md "wikilink")）の戦略子会社として、[1999年](../Page/1999年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")営業を開始。[都道府県](../Page/都道府県.md "wikilink")を越えて行なわれる長距離通信事業、[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")などの特殊付加電話サービス事業、[インターネット・サービス・プロバイダ事業](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink") ([OCN](../Page/OCN.md "wikilink")) をNTTから受け継ぐとともに、国際通信事業に新規参入した\[1\]。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")の[NTT法（日本電信電話株式会社法）改正によるNTT再編として](https://ja.wikipedia.org/wiki/日本電信電話株式会社等に関する法律 "wikilink")、旧来の[日本電信電話 (NTT)](../Page/日本電信電話.md "wikilink")株式会社 から分割された4社のうちの1社。新しい[NTT](../Page/日本電信電話.md "wikilink")（[持株会社](../Page/持株会社.md "wikilink")）の戦略子会社として、[1999年](../Page/1999年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink")営業を開始。[都道府県](../Page/都道府県.md "wikilink")を越えて行なわれる長距離通信事業、[フリーダイヤル](../Page/フリーダイヤル.md "wikilink")などの特殊付加電話サービス事業、[インターネット・サービス・プロバイダ事業](https://ja.wikipedia.org/wiki/インターネットサービスプロバイダ "wikilink") ([OCN](../Page/OCN.md "wikilink")) をNTTから受け継ぐとともに、国際通信事業に新規参入した\[2\]。
 
-NTTコミュニケーションズは、[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社（[持株会社](../Page/持株会社.md "wikilink")）の完全子会社ながら、NTTからの分割にあたっては、[NTT法（日本電信電話株式会社等に関する法律）は適用されない](https://ja.wikipedia.org/wiki/日本電信電話株式会社等に関する法律 "wikilink")（言い換えれば[特殊会社](../Page/特殊会社.md "wikilink")ではない）純粋民間会社となった\[2\]。
+NTTコミュニケーションズは、[日本電信電話](../Page/日本電信電話.md "wikilink")株式会社（[持株会社](../Page/持株会社.md "wikilink")）の完全子会社ながら、NTTからの分割にあたっては、[NTT法（日本電信電話株式会社等に関する法律）は適用されない](https://ja.wikipedia.org/wiki/日本電信電話株式会社等に関する法律 "wikilink")（言い換えれば[特殊会社](../Page/特殊会社.md "wikilink")ではない）純粋民間会社となった\[3\]。
 
-NTTコムと同時にNTTから分割された[東日本電信電話](../Page/東日本電信電話.md "wikilink")株式会社（NTT東日本）・[西日本電信電話](../Page/西日本電信電話.md "wikilink")株式会社（NTT西日本）の東西電話会社は、特殊会社としてある程度は縛られるものの、地域会社として従来からの多くの個人・企業の顧客を引き継ぐかたちで設立されたが、NTTコムは自由な民間会社ながら経営基盤が弱く、新規に顧客を開拓する必要が強く求められ、また場合によっては地域会社である東西NTTとの競合も予想された。このような状況から、新会社NTTコムの[ロゴマークは](../Page/ロゴタイプ.md "wikilink")、[NTTグループ](../Page/NTTグループ.md "wikilink")の『ダイナミックループ』を採用しなかった。コーポレートマークは、世界の情報流通市場への挑戦者・新しいグローバルな会社をイメージし、「21世紀に向かって力強く弓を引く」「世界を繋ぐ架け橋」などの意味を持たせて、『シャイニング・アーク (Shining Arc) 』と名付けられた\[3\]。NTTコム発足にあたっての一連のブランディングは、[ランドーアソシエイツ](../Page/ランドーアソシエイツ.md "wikilink")の手によるもの。
+NTTコムと同時にNTTから分割された[東日本電信電話](../Page/東日本電信電話.md "wikilink")株式会社（NTT東日本）・[西日本電信電話](../Page/西日本電信電話.md "wikilink")株式会社（NTT西日本）の東西電話会社は、特殊会社としてある程度は縛られるものの、地域会社として従来からの多くの個人・企業の顧客を引き継ぐかたちで設立されたが、NTTコムは自由な民間会社ながら経営基盤が弱く、新規に顧客を開拓する必要が強く求められ、また場合によっては地域会社である東西NTTとの競合も予想された。このような状況から、新会社NTTコムの[ロゴマークは](../Page/ロゴタイプ.md "wikilink")、[NTTグループ](../Page/NTTグループ.md "wikilink")の『ダイナミックループ』を採用しなかった。コーポレートマークは、世界の情報流通市場への挑戦者・新しいグローバルな会社をイメージし、「21世紀に向かって力強く弓を引く」「世界を繋ぐ架け橋」などの意味を持たせて、『シャイニング・アーク (Shining Arc) 』と名付けられた\[4\]。NTTコム発足にあたっての一連のブランディングは、[ランドーアソシエイツ](../Page/ランドーアソシエイツ.md "wikilink")の手によるもの。
 
 NTTコムは現在でも、NTTが全額出資するNTTの完全子会社である。また、[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")は、新たにNTTコムの子会社となってからも、ダイナミックループを引き続き使用している。NTTコムと同様にダイナミックループを使用しない[NTTグループ](../Page/NTTグループ.md "wikilink")会社としては、[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・[NTTデータ](../Page/NTTデータ.md "wikilink")・[NTTコムウェア](../Page/NTTコムウェア.md "wikilink")・[NTT都市開発](../Page/NTT都市開発.md "wikilink")・NTTエレクトロニクステクノ、NELクリスタル等がある。
 
@@ -33,10 +33,10 @@ HPドメインは、発足当初は**ntt-c.co.jp**を利用していたが、NTT
   - [2006年](../Page/2006年.md "wikilink")（平成18年）[8月1日](../Page/8月1日.md "wikilink") - [株式会社ぷららネットワークス](https://ja.wikipedia.org/wiki/ぷららネットワークス "wikilink")（現:NTTぷらら）の株式をNTT東日本からNTTコムに移管し、「[goo](https://ja.wikipedia.org/wiki/goo "wikilink")」を運営している[NTTレゾナント](../Page/NTTレゾナント.md "wikilink")株式会社の株式をNTTからNTTコムに移管。
   - [2012年](../Page/2012年.md "wikilink")（平成24年）7月 - 2012年7月請求分(6月利用分)より、[NTTファイナンス](../Page/NTTファイナンス.md "wikilink")が料金収納業務を開始。これに伴い、[NTTグループ](../Page/NTTグループ.md "wikilink")（[NTT東日本や](../Page/東日本電信電話.md "wikilink")[NTT西日本および](../Page/西日本電信電話.md "wikilink")[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")）料金との支払を一本化可能となった（**おまとめ請求**、要申込）。
   - [2019年](../Page/2019年.md "wikilink")（平成31年、[令和](https://ja.wikipedia.org/wiki/令和 "wikilink")元年）
-      - 1月4日 - 本社を東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町二丁目の大手町プレイスに移転](../Page/大手町_\(千代田区\).md "wikilink")\[4\]。
-      - 7月1日 - と、NTTコミュニケーションズの海外部門などを統合し、発足。NTTリミテッドはディメンションデータの顧客基盤のあるロンドンに本社を置き、CEOにはディメンションデータのCEOが就任\[5\]。ディメンションデータがスポンサーをしていたサイクリングチームであるチーム・ディメンションデータも2020年からは[NTTプロ・サイクリング](https://ja.wikipedia.org/wiki/NTTプロ・サイクリング "wikilink")として活動する。
+      - 1月4日 - 本社を東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[大手町二丁目の大手町プレイスに移転](../Page/大手町_\(千代田区\).md "wikilink")\[5\]。
+      - 7月1日 - と、NTTコミュニケーションズの海外部門などを統合し、発足。NTTリミテッドはディメンションデータの顧客基盤のあるロンドンに本社を置き、CEOにはディメンションデータのCEOが就任\[6\]。ディメンションデータがスポンサーをしていたサイクリングチームであるチーム・ディメンションデータも2020年からは[NTTプロ・サイクリング](https://ja.wikipedia.org/wiki/NTTプロ・サイクリング "wikilink")として活動する。
   - [2020年](../Page/2020年.md "wikilink")（令和2年）
-      - 5月28日 - 不正アクセスに伴う、情報流出を公表\[6\]。
+      - 5月28日 - 不正アクセスに伴う、情報流出を公表\[7\]。
 
 ## 事業・サービス
 
@@ -163,11 +163,11 @@ HPドメインは、発足当初は**ntt-c.co.jp**を利用していたが、NTT
 
 ## グローバル拠点
 
-全世界43カ国/地域124都市に拠点を設置している。\[7\]
+全世界43カ国/地域124都市に拠点を設置している。\[8\]
 
 ## サービス提供エリア
 
-世界196カ国/地域でサービスを提供している。\[8\]
+世界196カ国/地域でサービスを提供している。\[9\]
 
 ## グループ会社
 
@@ -185,7 +185,6 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
       - [NTTコム オンライン・マーケティング・ソリューション](https://ja.wikipedia.org/wiki/NTTコム_オンライン・マーケティング・ソリューション "wikilink")（株）
       - [（株）エヌ・ティ・ティピー・シーコミュニケーションズ](https://ja.wikipedia.org/wiki/NTTPCコミュニケーションズ "wikilink")
       - [エヌ・ティ・ティ・ビズリンク（株）](../Page/NTTビズリンク.md "wikilink")
-      - [（株）NTTぷらら](../Page/ぷらら.md "wikilink")
       - [エヌ・ティ・ティ・レゾナント（株）](../Page/NTTレゾナント.md "wikilink")
       - [エヌ・ティ・ティ・ワールドエンジニアリングマリン](https://ja.wikipedia.org/wiki/NTTワールドエンジニアリングマリン "wikilink")（株）
       - [(株) クロスリスティング](https://www.xlisting.co.jp/index.html)
@@ -270,7 +269,7 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
 ### テーマパーク
 
   - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink") [ピーターパン空の旅](../Page/ピーターパン空の旅.md "wikilink")（2011年4月1日より）
-  - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink") [ジャスミンのフライングカーペット](https://ja.wikipedia.org/wiki/ジャスミンのフライングカーペット "wikilink")（2011年[7月18日](../Page/7月18日.md "wikilink")オープン当初より\[9\]）
+  - [東京ディズニーシー](../Page/東京ディズニーシー.md "wikilink") [ジャスミンのフライングカーペット](https://ja.wikipedia.org/wiki/ジャスミンのフライングカーペット "wikilink")（2011年[7月18日](../Page/7月18日.md "wikilink")オープン当初より\[10\]）
 
 ## 脚注
 
@@ -293,12 +292,13 @@ NTTコミュニケーションズと[Dimension Dataとを合わせた](https://j
   -
 [Category:NTTコミュニケーションズ](https://ja.wikipedia.org/wiki/Category:NTTコミュニケーションズ "wikilink") [Category:災害対策基本法指定公共機関](https://ja.wikipedia.org/wiki/Category:災害対策基本法指定公共機関 "wikilink") [Category:仮想移動体通信事業者](https://ja.wikipedia.org/wiki/Category:仮想移動体通信事業者 "wikilink") [Category:携帯電話_(PHS)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(PHS\) "wikilink") [Category:ドメインのリセラー](https://ja.wikipedia.org/wiki/Category:ドメインのリセラー "wikilink") [Category:ウェブホスティング](https://ja.wikipedia.org/wiki/Category:ウェブホスティング "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:1999年設立の企業](https://ja.wikipedia.org/wiki/Category:1999年設立の企業 "wikilink")
 
-1.  国際電話事業については、再編以前からエヌ・ティ・ティ国際ネットワーク株式会社によって国際電話事業の準備がされており、同社によって参入予定があったが、グループ再編後に当社によって吸収合併され、結果、当社によってサービス提供開始した経緯がある。
-2.  NTT法が適用されない民間会社ではあるが、「国が資本金を出資したものが更に出資しているもの」として、[会計検査院](../Page/会計検査院.md "wikilink")の選択的検査対象となっている。[国が資本金を出資したものが更に出資しているものの会計](http://www.jbaudit.go.jp/jbaudit/target/05.html)
-3.  [ニュースリリース 平成11年6月29日 （別紙4）](http://www.ntt.com/release/1999news/news/news99/9906/0629d.html)
-4.  [企業情報に関するお知らせ - 本社移転のお知らせ 2019年1月4日](https://www.ntt.com/about-us/information/info_20190104.html)
-5.  [【記者のひとこと】海外で「NTTコミュニケーションズ」の社名がなくなります](https://www.bcnretail.com/market/detail/20190516_118405.html) - BCN
-6.
-7.  [グローバル拠点](http://www.ntt.com/aboutus/world/)
-8.  [Arcstar Universal One グローバル（海外VPN提供地域）](http://www.ntt.com/vpn/global/data/area.html)
-9.   - オリエンタルランド ニュースリリース 2011年1月17日
+1.
+2.  国際電話事業については、再編以前からエヌ・ティ・ティ国際ネットワーク株式会社によって国際電話事業の準備がされており、同社によって参入予定があったが、グループ再編後に当社によって吸収合併され、結果、当社によってサービス提供開始した経緯がある。
+3.  NTT法が適用されない民間会社ではあるが、「国が資本金を出資したものが更に出資しているもの」として、[会計検査院](../Page/会計検査院.md "wikilink")の選択的検査対象となっている。[国が資本金を出資したものが更に出資しているものの会計](http://www.jbaudit.go.jp/jbaudit/target/05.html)
+4.  [ニュースリリース 平成11年6月29日 （別紙4）](http://www.ntt.com/release/1999news/news/news99/9906/0629d.html)
+5.  [企業情報に関するお知らせ - 本社移転のお知らせ 2019年1月4日](https://www.ntt.com/about-us/information/info_20190104.html)
+6.  [【記者のひとこと】海外で「NTTコミュニケーションズ」の社名がなくなります](https://www.bcnretail.com/market/detail/20190516_118405.html) - BCN
+7.
+8.  [グローバル拠点](http://www.ntt.com/aboutus/world/)
+9.  [Arcstar Universal One グローバル（海外VPN提供地域）](http://www.ntt.com/vpn/global/data/area.html)
+10.  - オリエンタルランド ニュースリリース 2011年1月17日

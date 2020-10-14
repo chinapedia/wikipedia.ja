@@ -7,15 +7,15 @@
 
 ユヴェントスはラテン語で「若者」や「青春」を意味する**ユウェントゥス** (juventus/iuventus) に由来する。略称で、**ユーヴェ** (Juve) とも呼ばれる。愛称は、エンブレムやユニフォームの配色から**ビアンコネーロ**（[イタリア語](../Page/イタリア語.md "wikilink")で白と黒）、**ビアンコネーリ**（複数形）や、**ラ・ヴェッキア・シニョーラ**（老貴婦人）などがある。サポーターは、**ユヴェンティーノ**（単数形）や、**ユヴェンティーニ**（複数形）と呼ばれている。
 
-白と黒の縦縞がクラブカラーだが、これは[ノッツ・カウンティの同じユニフォームが由来となっている](../Page/ノッツ・カウンティFC.md "wikilink")。それまでは、ピンクのユニフォームを使用していた(その後も、一時期は、アウェイユニフォームがピンクの時期があった)。エンブレムの真ん中にいるのは馬ではなく牛。これはホームの[トリノ](../Page/トリノ.md "wikilink")市の紋章にも描かれていて、トリノの語源がタウリーニ（牛の人々）であることが由来である。
+白と黒の縦縞がクラブカラーだが、これは[ノッツ・カウンティの同じユニフォームが由来となっている](../Page/ノッツ・カウンティFC.md "wikilink")\[1\]。それまでは、ピンクのユニフォームを使用していた(その後も、一時期は、アウェイユニフォームがピンクの時期があった)。エンブレムの真ん中にいるのは馬ではなく牛。これはホームの[トリノ](../Page/トリノ.md "wikilink")市の紋章にも描かれていて、トリノの語源がタウリーニ（牛の人々）であることが由来である。
 
-セリエAにおいて最も成功したクラブの一つである。セリエAでは「三階建て」構造と呼ばれる、「ユヴェントス」、「ACミラン」、「インテル」のビッグ3の一角を占め、[スクデット獲得回数はセリエA最多の](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)#スクデット "wikilink")32回で、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテルナツィオナーレ・ミラノ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（共にスクデット獲得18回）と並んでイタリアのみならず、世界でも指折りのビッグクラブの一つである。1996年から1998年には3年連続で[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝に進出。過去9度決勝に進むもうち7度は準優勝に終わっている。欧州の主要リーグでは、国内リーグの優勝回数が最も多いクラブがUEFAチャンピオンズリーグの優勝回数も最多である場合が多いが、[セリエAと](../Page/セリエA_\(サッカー\).md "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に関しては例外である。
+セリエAにおいて最も成功したクラブの一つである。セリエAでは「三階建て」構造と呼ばれる、「ユヴェントス」、「ACミラン」、「インテル」のビッグ3の一角を占め、[スクデット獲得回数はセリエA最多の](https://ja.wikipedia.org/wiki/セリエA_\(サッカー\)#スクデット "wikilink")36回で、[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")、[インテルナツィオナーレ・ミラノ](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")（共にスクデット獲得18回）と並んでイタリアのみならず、世界でも指折りのビッグクラブの一つである。1996年から1998年には3年連続で[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")決勝に進出。過去9度決勝に進むもうち7度は準優勝に終わっている。欧州の主要リーグでは、国内リーグの優勝回数が最も多いクラブがUEFAチャンピオンズリーグの優勝回数も最多である場合が多いが、[セリエAと](../Page/セリエA_\(サッカー\).md "wikilink")[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")に関しては例外である。
 
 2005-06シーズン時点までは、1929年のセリエA開幕以来一度も[セリエB](../Page/セリエB_\(サッカー\).md "wikilink")（[イタリア](../Page/イタリア.md "wikilink")2部リーグ）に降格したことがない2チームのうちの1つであった。現在も降格経験がない[インテルとの対戦は](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[イタリアダービー](../Page/イタリアダービー.md "wikilink")と呼ばれ国内外の注目を集め、[ミラノダービー](https://ja.wikipedia.org/wiki/ミラノダービー "wikilink")や[ローマダービーと並び](https://ja.wikipedia.org/wiki/デルビー・デッラ・カピターレ "wikilink")、イタリアを代表するビッグマッチの一つである。[トリノFC](../Page/トリノFC.md "wikilink")との対戦は[トリノ・ダービーと呼ばれる](https://ja.wikipedia.org/wiki/デルビー・デッラ・モーレ "wikilink")。しかし「[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")」によるペナルティを受け、2006年にクラブ史上初めてセリエBへ降格した。
 
 ホームタウンという概念が確立しているヨーロッパには珍しく、全国的な人気を持つクラブである。
 
-[2014年](../Page/2014年.md "wikilink")1月、世界最大の[会計事務所である](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2012-13シーズンのクラブ収入は2億7240万ユーロであり、世界9位、イタリアでは1位である\[1\]。2011-12シーズンには9季ぶり28度目のスクデットを獲得し、それ以来現在までセリエA前人未到の9連覇を達成している。
+[2014年](../Page/2014年.md "wikilink")1月、世界最大の[会計事務所である](https://ja.wikipedia.org/wiki/4大会計事務所 "wikilink")『[デロイト](../Page/デロイト_トウシュ_トーマツ.md "wikilink")』が公表した[デロイト・フットボール・マネー・リーグ](https://ja.wikipedia.org/wiki/デロイト・フットボール・マネー・リーグ "wikilink")によると、2012-13シーズンのクラブ収入は2億7240万ユーロであり、世界9位、イタリアでは1位である\[2\]。2011-12シーズンには9季ぶり28度目のスクデットを獲得し、それ以来現在までセリエA前人未到の9連覇を達成している。
 
 ## 歴史
 
@@ -70,7 +70,7 @@
 
 ### 不正による2つのスクデット剥奪と史上初の降格
 
-[Gianluigi_Buffon_(31815848711).jpg](https://ja.wikipedia.org/wiki/File:Gianluigi_Buffon_\(31815848711\).jpg "fig:Gianluigi_Buffon_(31815848711).jpg") 約3年間のブランクを経て、再び[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")が監督に就任すると、てこ入れとして[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")と[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")というこれまでの主力を放出する一方で、[ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")、[パベル・ネドベド](../Page/パベル・ネドベド.md "wikilink")、[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")、[リリアン・テュラム](../Page/リリアン・テュラム.md "wikilink")らを獲得した。その結果、2001-02及び2002-03シーズンのセリエA連覇を果たす。また、2002-03シーズンにはUEFAチャンピオンズリーグ決勝に駒を進めたが、PK戦の末[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に敗れる。2003-04シーズンは68ゴールのローマに続く67ゴールであったにも関わらず、[パオロ・モンテーロ](../Page/パオロ・モンテーロ.md "wikilink")の衰えや[ニコラ・レグロッターリエ](../Page/ニコラ・レグロッターリエ.md "wikilink")ら最終ラインのミスに加え、ダービッツが契約延長を拒否したことで事実上の懲罰的な処置として出場機会の減少に繋がり最終的には[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")へ放出。その関係で素早い潰しで炎上を防ぐ中盤のフィルター役がいなくなり最終ラインが早い段階で相手の攻撃に晒される悪循環に陥った為\[2\]、連覇を果たした前シーズンより引き分けが3つ少ないだけ（前シーズンの21勝9分け4敗から21勝6分け7敗）でありながらセリエAで優勝したミランに13ポイント差の3位に終わった事の責任を取り、[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")監督が辞任。フロントは新監督に[ファビオ・カペッロ](../Page/ファビオ・カペッロ.md "wikilink")を指名した。
+[Gianluigi_Buffon_(31815848711).jpg](https://ja.wikipedia.org/wiki/File:Gianluigi_Buffon_\(31815848711\).jpg "fig:Gianluigi_Buffon_(31815848711).jpg") 約3年間のブランクを経て、再び[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")が監督に就任すると、てこ入れとして[ジネディーヌ・ジダン](../Page/ジネディーヌ・ジダン.md "wikilink")と[フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")というこれまでの主力を放出する一方で、[ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")、[パベル・ネドベド](../Page/パベル・ネドベド.md "wikilink")、[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")、[リリアン・テュラム](../Page/リリアン・テュラム.md "wikilink")らを獲得した。その結果、2001-02及び2002-03シーズンのセリエA連覇を果たす。また、2002-03シーズンにはUEFAチャンピオンズリーグ決勝に駒を進めたが、PK戦の末[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")に敗れる。2003-04シーズンは68ゴールのローマに続く67ゴールであったにも関わらず、[パオロ・モンテーロ](../Page/パオロ・モンテーロ.md "wikilink")の衰えや[ニコラ・レグロッターリエ](../Page/ニコラ・レグロッターリエ.md "wikilink")ら最終ラインのミスに加え、ダービッツが契約延長を拒否したことで事実上の懲罰的な処置として出場機会の減少に繋がり最終的には[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")へ放出。その関係で素早い潰しで炎上を防ぐ中盤のフィルター役がいなくなり最終ラインが早い段階で相手の攻撃に晒される悪循環に陥った為\[3\]、連覇を果たした前シーズンより引き分けが3つ少ないだけ（前シーズンの21勝9分け4敗から21勝6分け7敗）でありながらセリエAで優勝したミランに13ポイント差の3位に終わった事の責任を取り、[マルチェロ・リッピ](../Page/マルチェロ・リッピ.md "wikilink")監督が辞任。フロントは新監督に[ファビオ・カペッロ](../Page/ファビオ・カペッロ.md "wikilink")を指名した。
 
 [エメルソンや](../Page/エメルソン・フェレイラ・ダ・ローザ.md "wikilink")[ファビオ・カンナヴァーロ](https://ja.wikipedia.org/wiki/ファビオ・カンナヴァーロ "wikilink")、[ズラタン・イブラヒモビッチ](https://ja.wikipedia.org/wiki/ズラタン・イブラヒモビッチ "wikilink")といった新戦力を補強し、カペッロ監督の下、ユヴェントスは2004-05及び2005-06シーズンを連覇する。しかし、2006年夏にルチアーノ・モッジGMらによる審判への買収・脅迫行為が発覚（[カルチョ・スキャンダル](../Page/カルチョ・スキャンダル.md "wikilink")も参照）クラブは2004-05及び2005-06シーズンのスクデット剥奪に加え、史上初のセリエB降格処分を受けた。
 
@@ -108,11 +108,11 @@
 
 2016-17シーズン前にはポグバを当時サッカー界史上最高額の移籍金である1億500万ユーロで[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に売却し、モラタを古巣であるレアル・マドリードに買戻しされた一方、[ダニエウ・アウベス](https://ja.wikipedia.org/wiki/ダニエウ・アウベス "wikilink")をフリー、[メディ・ベナティア](https://ja.wikipedia.org/wiki/メディ・ベナティア "wikilink")をレンタルで獲得し、移籍市場閉鎖直前にクアドラードをレンタルの形で再獲得。さらにナポリから昨シーズンの得点王である[ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")をセリエA史上最高額の9000万ユーロで、[ASローマ](../Page/ASローマ.md "wikilink")から[ミラレム・ピャニッチ](https://ja.wikipedia.org/wiki/ミラレム・ピャニッチ "wikilink")を3200万ユーロで獲得。また夏には[マルコ・ピアツァ](https://ja.wikipedia.org/wiki/マルコ・ピアツァ "wikilink")を、冬にはリカルド・オルソリーニ、[マッティア・カルダーラを獲得した](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")。2017年5月21日、セリエA史上初となるリーグ6連覇を達成。コッパ・イタリアでは準決勝でナポリとの第2戦を落としただけで決勝に勝ち進み、2017年5月17日のラツィオ戦で2-0の勝利。史上初となるコッパ・イタリア3連覇と3年連続の国内2冠を達成した。しかし最重要課題だった[UEFAチャンピオンズリーグ 2016-17 決勝ではスペイン王者でもあるレアル](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17_決勝 "wikilink")・マドリードとの対戦になった。1-4で大敗しCL決勝では5連敗、通算7度目の準優勝となった。
 
-2017-18シーズンは4-1で下した昨シーズン2月のパレルモ戦でアッレグリと激しく口論し、アッレグリ監督との対立していたボヌッチを[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")へ、ダニエウ・アウベスを契約解除でのフリー移籍で[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")へと放出した。一方、[バイエルン・ミュンヘンから](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[ドウグラス・コスタ](https://ja.wikipedia.org/wiki/ドウグラス・コスタ "wikilink")を、[シャルケ04](../Page/シャルケ04.md "wikilink")から[ベネディクト・ヘーベデスを買取OP付きのレンタルで獲得し](https://ja.wikipedia.org/wiki/ベネディクト・ヘーヴェデス "wikilink")、ボヌッチとの紳士協定で[マッティア・デ・シリオ](https://ja.wikipedia.org/wiki/マッティア・デ・シリオ "wikilink")をミランから\[3\]、[ヴォイチェフ・シュチェスニー](https://ja.wikipedia.org/wiki/ヴォイチェフ・シュチェスニー "wikilink")を[アーセナルFC](../Page/アーセナルFC.md "wikilink")から、さらに[パリ・サンジェルマンから](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")[ブレーズ・マテュイディ](https://ja.wikipedia.org/wiki/ブレーズ・マテュイディ "wikilink")を完全移籍で獲得。さらに[ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")の再来と言われている[フェデリコ・ベルナルデスキ](https://ja.wikipedia.org/wiki/フェデリコ・ベルナルデスキ "wikilink")を[ACFフィオレンティーナ](../Page/ACFフィオレンティーナ.md "wikilink")から獲得した\[4\]。コッパ・イタリア4連覇、4年連続国内二冠を達成した。[チャンピオンズリーグではグループリーグで](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink")[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の後塵を拝してグループ2位通過となる。ラウンド16では[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")と対戦。1stレグを2-2の同点で終え、[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")に乗り込んでの2ndレグで先制を許し、勝ち抜けには後半だけで最低2得点必要な状況まで追い込まれたが、イグアインとディバラの連続得点により2-1で逆転勝利した。準々決勝では前回決勝で敗れ、目の前で連覇を許した[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")との対戦になった。2戦合計3-4で敗退となった。2017-18シーズン閉幕前の2018年5月17日、キャプテンの[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")が退団を発表\[5\]。後継キャプテンは[ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink")になった。
+2017-18シーズンは4-1で下した昨シーズン2月のパレルモ戦でアッレグリと激しく口論し、アッレグリ監督との対立していたボヌッチを[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")へ、ダニエウ・アウベスを契約解除でのフリー移籍で[パリ・サンジェルマン](https://ja.wikipedia.org/wiki/パリ・サンジェルマン "wikilink")へと放出した。一方、[バイエルン・ミュンヘンから](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")[ドウグラス・コスタ](https://ja.wikipedia.org/wiki/ドウグラス・コスタ "wikilink")を、[シャルケ04](../Page/シャルケ04.md "wikilink")から[ベネディクト・ヘーベデスを買取OP付きのレンタルで獲得し](https://ja.wikipedia.org/wiki/ベネディクト・ヘーヴェデス "wikilink")、ボヌッチとの紳士協定で[マッティア・デ・シリオ](https://ja.wikipedia.org/wiki/マッティア・デ・シリオ "wikilink")をミランから\[4\]、[ヴォイチェフ・シュチェスニー](https://ja.wikipedia.org/wiki/ヴォイチェフ・シュチェスニー "wikilink")を[アーセナルFC](../Page/アーセナルFC.md "wikilink")から、さらに[パリ・サンジェルマンから](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")[ブレーズ・マテュイディ](https://ja.wikipedia.org/wiki/ブレーズ・マテュイディ "wikilink")を完全移籍で獲得。さらに[ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")の再来と言われている[フェデリコ・ベルナルデスキ](https://ja.wikipedia.org/wiki/フェデリコ・ベルナルデスキ "wikilink")を[ACFフィオレンティーナ](../Page/ACFフィオレンティーナ.md "wikilink")から獲得した\[5\]。コッパ・イタリア4連覇、4年連続国内二冠を達成した。[チャンピオンズリーグではグループリーグで](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18 "wikilink")[FCバルセロナ](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")の後塵を拝してグループ2位通過となる。ラウンド16では[トッテナム・ホットスパーFC](../Page/トッテナム・ホットスパーFC.md "wikilink")と対戦。1stレグを2-2の同点で終え、[ウェンブリー・スタジアム](../Page/ウェンブリー・スタジアム.md "wikilink")に乗り込んでの2ndレグで先制を許し、勝ち抜けには後半だけで最低2得点必要な状況まで追い込まれたが、イグアインとディバラの連続得点により2-1で逆転勝利した。準々決勝では前回決勝で敗れ、目の前で連覇を許した[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")との対戦になった。2戦合計3-4で敗退となった。2017-18シーズン閉幕前の2018年5月17日、キャプテンの[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")が退団を発表\[6\]。後継キャプテンは[ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink")になった。
 
 2018-19シーズン開幕前に、[ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink")をはじめ、[ステファン・リヒトシュタイナー](https://ja.wikipedia.org/wiki/ステファン・リヒトシュタイナー "wikilink")、[クワドォー・アサモア](https://ja.wikipedia.org/wiki/クワドォー・アサモア "wikilink")、さらに[クラウディオ・マルキジオ](https://ja.wikipedia.org/wiki/クラウディオ・マルキジオ "wikilink")、[ゴンサロ・イグアイン](../Page/ゴンサロ・イグアイン.md "wikilink")といったユヴェントスのセリエA7連覇に貢献してきた選手が退団。一方、補強では7月11日に1億ユーロで2017年のバロンドーラーである[クリスティアーノ・ロナウド](../Page/クリスティアーノ・ロナウド.md "wikilink")を[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から獲得し、世界を驚かせた。さらに、[マッティア・カルダーラとの実質トレードの形で](https://ja.wikipedia.org/wiki/マッティア・カルダラ "wikilink")[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")から[レオナルド・ボヌッチ](https://ja.wikipedia.org/wiki/レオナルド・ボヌッチ "wikilink")を出戻りの形で獲得。その他に[ジョアン・カンセロ](https://ja.wikipedia.org/wiki/ジョアン・カンセロ "wikilink")や[マッティア・ペリン](https://ja.wikipedia.org/wiki/マッティア・ペリン "wikilink")、[エムレ・ジャン](https://ja.wikipedia.org/wiki/エムレ・ジャン "wikilink")を獲得。リーグ戦では、開幕8連勝を記録し、第28節のジェノア戦で敗れるまで無敗を維持した。第33節のフィオレンティーナ戦に勝利し、セリエA優勝を決め、8連覇を達成した。[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19 "wikilink")、マンチェスター・ユナイテッド、バレンシア、ヤング・ボーイズと同組となったグループリーグを首位で突破した。決勝トーナメント・ラウンド16のアトレティコ・マドリード戦では、アウェーでの1stレグを0-2で落としたが、ホームでの2ndレグでロナウドがハットトリックを達成し3-0で勝利し、逆転で突破を果たした。しかし、アヤックスとの準々決勝は2戦合計2-3で敗退した。コッパ・イタリアは準々決勝でアタランタに敗れて5連覇を逃した。シーズン終了後、アッレグリ監督が退任した。
 
-2019-20シーズン開幕前に、前チェルシー監督の[マウリツィオ・サッリ](https://ja.wikipedia.org/wiki/マウリツィオ・サッリ "wikilink")が監督に就任した。夏の移籍市場では、クラブのレジェンドとも言えるブッフォンが[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から電撃復帰した他、[アーロン・ラムジー](../Page/アーロン・ラムジー.md "wikilink")、[アドリアン・ラビオ](https://ja.wikipedia.org/wiki/アドリアン・ラビオ "wikilink")をいずれもフリーで獲得。また昨シーズンCLベスト4進出と大躍進した[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[マタイス・デ・リフト](https://ja.wikipedia.org/wiki/マタイス・デ・リフト "wikilink")を、[サッスオーロからも](../Page/USサッスオーロ・カルチョ.md "wikilink")[メリフ・デミラル](https://ja.wikipedia.org/wiki/メリフ・デミラル "wikilink")を獲得してDF陣の若返りに成功。さらにジョアン・カンセロとのトレードでマンチェスター・シティから[ダニーロを獲得した他](https://ja.wikipedia.org/wiki/ダニーロ・ルイス・ダ・シウバ "wikilink")、買取オプションが行使されなかったゴンザロ・イグアインも復帰した。ところが、イタリアで猛威を振るう[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の世界的大流行はセリエAでも直撃し、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")が感染したことを発表。活動中止を余儀なくされた。セリエAでは優勝を果たし、9連覇を達成したものの、コッパ・イタリアでは、決勝でナポリに敗れて準優勝となり、[UEFAチャンピオンズリーグでも決勝トーナメントには進出したが](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink")、ラウンド16でオリンピック・リヨンに敗れて敗退した\[6\]。シーズン終了後、サッリ監督を解任した\[7\]。
+2019-20シーズン開幕前に、前チェルシー監督の[マウリツィオ・サッリ](https://ja.wikipedia.org/wiki/マウリツィオ・サッリ "wikilink")が監督に就任した。夏の移籍市場では、クラブのレジェンドとも言えるブッフォンが[パリ・サンジェルマンFC](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")から電撃復帰した他、[アーロン・ラムジー](../Page/アーロン・ラムジー.md "wikilink")、[アドリアン・ラビオ](https://ja.wikipedia.org/wiki/アドリアン・ラビオ "wikilink")をいずれもフリーで獲得。また昨シーズンCLベスト4進出と大躍進した[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[マタイス・デ・リフト](https://ja.wikipedia.org/wiki/マタイス・デ・リフト "wikilink")を、[サッスオーロからも](../Page/USサッスオーロ・カルチョ.md "wikilink")[メリフ・デミラル](https://ja.wikipedia.org/wiki/メリフ・デミラル "wikilink")を獲得してDF陣の若返りに成功。さらにジョアン・カンセロとのトレードでマンチェスター・シティから[ダニーロを獲得した他](https://ja.wikipedia.org/wiki/ダニーロ・ルイス・ダ・シウバ "wikilink")、買取オプションが行使されなかったゴンザロ・イグアインも復帰した。ところが、イタリアで猛威を振るう[COVID-19](https://ja.wikipedia.org/wiki/COVID-19 "wikilink")の世界的大流行はセリエAでも直撃し、[ダニエレ・ルガーニ](https://ja.wikipedia.org/wiki/ダニエレ・ルガーニ "wikilink")が感染したことを発表。活動中止を余儀なくされた。セリエAでは優勝を果たし、9連覇を達成したものの、コッパ・イタリアでは、決勝でナポリに敗れて準優勝となり、[UEFAチャンピオンズリーグでも決勝トーナメントには進出したが](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink")、ラウンド16でオリンピック・リヨンに敗れて敗退した\[7\]。シーズン終了後、サッリ監督を解任した\[8\]。
 
 ## タイトル
 
@@ -648,7 +648,7 @@
 <td><p>67</p></td>
 <td><p>27</p></td>
 <td><p>86</p></td>
-<td><p><del>1位</del>[8]</p></td>
+<td><p><del>1位</del>[9]</p></td>
 <td><p>ベスト16</p></td>
 <td><p>ベスト8</p></td>
 <td></td>
@@ -664,7 +664,7 @@
 <td><p>71</p></td>
 <td><p>24</p></td>
 <td><p>0</p></td>
-<td><p><del>1位</del>→20位[9]</p></td>
+<td><p><del>1位</del>→20位[10]</p></td>
 <td><p>準々決勝敗退</p></td>
 <td><p>ベスト8</p></td>
 <td></td>
@@ -917,7 +917,7 @@
 
 ## 現所属メンバー
 
-  - ユヴェントス 2019-20シーズン 基本フォーメーション
+  - ユヴェントス 2020-21シーズン 開幕フォーメーション
 
 <div style="position: relative;">
 
@@ -925,9 +925,9 @@
 
 </div>
 
-  - 2020年9月18日現在
+  - 2020年9月22日現在
 
-   ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))   ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink")) ★ ★ ★   ★ ★  ([副将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))
+   ★ ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))   ★  ([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([15px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Poland.svg "wikilink")) ★ ★  ★  ★ ★ ([副将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -953,29 +953,190 @@
 
 ### 出場試合数
 
-| 位  | 名前                                                                    | 出場試合数 | 期間                   |
-| -- | --------------------------------------------------------------------- | ----- | -------------------- |
-| 1  | [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink")                | 705   | 1993-2012            |
-| 2  | [ジャンルイジ・ブッフォン](../Page/ジャンルイジ・ブッフォン.md "wikilink") (\#)               | 655   | 2001-2018, 2019-     |
-| 3  | [ガエターノ・シレア](../Page/ガエターノ・シレア.md "wikilink")                          | 552   | 1974-1988            |
-| 4  | [ジュゼッペ・フリーノ](https://ja.wikipedia.org/wiki/ジュゼッペ・フリーノ "wikilink")     | 528   | 1965-1966, 1969-1984 |
-| 5  | [ロベルト・ベッテガ](../Page/ロベルト・ベッテガ.md "wikilink")                          | 482   | 1966-1969, 1970-1983 |
-| 6  | [ディノ・ゾフ](../Page/ディノ・ゾフ.md "wikilink")                                | 476   | 1972-1983            |
-| 7  | [ジャンピエロ・ボニペルティ](../Page/ジャンピエロ・ボニペルティ.md "wikilink")                  | 459   | 1946-1961            |
-| 8  | [サンドロ・サルヴァドーレ](https://ja.wikipedia.org/wiki/サンドロ・サルヴァドーレ "wikilink") | 450   | 1962-1974            |
-| 9  | [フランコ・カウジオ](../Page/フランコ・カウジオ.md "wikilink")                          | 447   | 1970-1981            |
-| 10 | [ジョルジョ・キエッリーニ](../Page/ジョルジョ・キエッリーニ.md "wikilink") (\#)               | 441   | 2005-                |
-|    |                                                                       |       |                      |
+<table>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><table>
+<thead>
+<tr class="header">
+<th><p>位</p></th>
+<th><p>名前</p></th>
+<th><p>試合数</p></th>
+<th><p>期間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p><a href="../Page/アレッサンドロ・デル・ピエロ.md" title="wikilink">アレッサンドロ・デル・ピエロ</a></p></td>
+<td><p>705</p></td>
+<td><p>1993-2012</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p><a href="../Page/ジャンルイジ・ブッフォン.md" title="wikilink">ジャンルイジ・ブッフォン</a> (#)</p></td>
+<td><p>671</p></td>
+<td><p>2001-2018, 2019-</p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p><a href="../Page/ガエターノ・シレア.md" title="wikilink">ガエターノ・シレア</a></p></td>
+<td><p>552</p></td>
+<td><p>1974-1988</p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジュゼッペ・フリーノ" title="wikilink">ジュゼッペ・フリーノ</a></p></td>
+<td><p>528</p></td>
+<td><p>1965-1966, 1969-1984</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p><a href="../Page/ジョルジョ・キエッリーニ.md" title="wikilink">ジョルジョ・キエッリーニ</a> (#)</p></td>
+<td><p>510</p></td>
+<td><p>2005-</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p><a href="../Page/ロベルト・ベッテガ.md" title="wikilink">ロベルト・ベッテガ</a></p></td>
+<td><p>482</p></td>
+<td><p>1966-1969, 1970-1983</p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p><a href="../Page/ディノ・ゾフ.md" title="wikilink">ディノ・ゾフ</a></p></td>
+<td><p>476</p></td>
+<td><p>1972-1983</p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p><a href="../Page/ジャンピエロ・ボニペルティ.md" title="wikilink">ジャンピエロ・ボニペルティ</a></p></td>
+<td><p>459</p></td>
+<td><p>1946-1961</p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サンドロ・サルヴァドーレ" title="wikilink">サンドロ・サルヴァドーレ</a></p></td>
+<td><p>450</p></td>
+<td><p>1962-1974</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p><a href="../Page/フランコ・カウジオ.md" title="wikilink">フランコ・カウジオ</a></p></td>
+<td><p>447</p></td>
+<td><p>1970-1981</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+<td></td>
+<td><table>
+<thead>
+<tr class="header">
+<th><p>位</p></th>
+<th><p>名前</p></th>
+<th><p>試合数</p></th>
+<th><p>期間</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p><a href="../Page/アントニオ・カブリーニ.md" title="wikilink">アントニオ・カブリーニ</a></p></td>
+<td><p>440</p></td>
+<td><p>1976-1989</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p><a href="../Page/アントネッロ・クックレドゥ.md" title="wikilink">アントネッロ・クックレドゥ</a></p></td>
+<td><p>434</p></td>
+<td><p>1969-1981</p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p><a href="../Page/アントニオ・コンテ.md" title="wikilink">アントニオ・コンテ</a></p></td>
+<td><p>419</p></td>
+<td><p>1991-2004</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p><a href="../Page/クラウディオ・ジェンティーレ.md" title="wikilink">クラウディオ・ジェンティーレ</a></p></td>
+<td><p>415</p></td>
+<td><p>1973-1984</p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョバンニ・ヴァーリエン" title="wikilink">ジョバンニ・ヴァーリエン</a></p></td>
+<td><p>411</p></td>
+<td><p>1929-1947</p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レオナルド・ボヌッチ" title="wikilink">レオナルド・ボヌッチ</a> (#)</p></td>
+<td><p>407</p></td>
+<td><p>2010-2017, 2018-</p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p><a href="../Page/アレッシオ・タッキナルディ.md" title="wikilink">アレッシオ・タッキナルディ</a></p></td>
+<td><p>404</p></td>
+<td><p>1994-2007</p></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マリオ・ヴァーリエン" title="wikilink">マリオ・ヴァーリエン</a></p></td>
+<td><p>402</p></td>
+<td><p>1927-1942</p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラウディオ・マルキジオ" title="wikilink">クラウディオ・マルキジオ</a></p></td>
+<td><p>389</p></td>
+<td><p>2005-2018</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/テオバルド・デペトリーニ" title="wikilink">テオバルド・デペトリーニ</a></p></td>
+<td><p>388</p></td>
+<td><p>1933-1949</p></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table></td>
+</tr>
+</tbody>
+</table>
 
 ### 得点
 
-| 位 | 名前                                                     | 得点数 | 期間                   |
-| - | ------------------------------------------------------ | --- | -------------------- |
-| 1 | [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink") | 290 | 1993-2012            |
-| 2 | [ジャンピエロ・ボニペルティ](../Page/ジャンピエロ・ボニペルティ.md "wikilink")   | 179 | 1946-1961            |
-| 3 | [ロベルト・ベッテガ](../Page/ロベルト・ベッテガ.md "wikilink")           | 178 | 1966-1969, 1970-1983 |
-| 4 | [ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")           | 171 | 2000-2009            |
-| 5 | [オマール・シヴォリ](../Page/オマール・シボリ.md "wikilink")            | 167 | 1957-1965            |
+| 位  | 名前                                                                    | 期間                   | 合計  | 国内リーグ | 国内カップ | 欧州カップ | その他 |
+| -- | --------------------------------------------------------------------- | -------------------- | --- | ----- | ----- | ----- | --- |
+| 1  | [アレッサンドロ・デル・ピエロ](../Page/アレッサンドロ・デル・ピエロ.md "wikilink")                | 1993-2012            | 290 | 208   | 25    | 50    | 7   |
+| 2  | [ジャンピエロ・ボニペルティ](../Page/ジャンピエロ・ボニペルティ.md "wikilink")                  | 1946-1961            | 179 | 178   | 1     | 0     | 0   |
+| 3  | [ロベルト・ベッテガ](../Page/ロベルト・ベッテガ.md "wikilink")                          | 1966-1969, 1970-1983 | 178 | 129   | 22    | 27    | 0   |
+| 4  | [ダヴィド・トレゼゲ](../Page/ダヴィド・トレゼゲ.md "wikilink")                          | 2000-2009            | 171 | 138   | 2     | 30    | 1   |
+| 5  | [オマール・シヴォリ](../Page/オマール・シボリ.md "wikilink")                           | 1957-1965            | 167 | 135   | 24    | 8     | 0   |
+| 6  | [フェリス・ボレル](https://ja.wikipedia.org/wiki/フェリス・ボレル "wikilink")         | 1932-1941, 1942-1946 | 158 | 138   | 9     | 0     | 11  |
+| 7  | [ピエトロ・アナスタージ](https://ja.wikipedia.org/wiki/ピエトロ・アナスタージ "wikilink")   | 1968-1976            | 130 | 78    | 30    | 22    | 0   |
+| 8  | [ヨン・ハンセン](https://ja.wikipedia.org/wiki/ヨン・ハンセン "wikilink")           | 1948-1954            | 124 | 124   | 0     | 0     | 0   |
+| 9  | [ロベルト・バッジョ](../Page/ロベルト・バッジョ.md "wikilink")                          | 1990-1995            | 115 | 78    | 14    | 22    | 1   |
+| 10 | [フェデリコ・ムネラーティ](https://ja.wikipedia.org/wiki/フェデリコ・ムネラーティ "wikilink") | 1922-1933            | 113 | 110   | 0     | 1     | 2   |
+| 11 | [ジョン・チャールズ](../Page/ジョン・チャールズ.md "wikilink")                          | 1957-1962            | 105 | 93    | 12    | 0     | 0   |
+| 12 | [ミシェル・プラティニ](../Page/ミシェル・プラティニ.md "wikilink")                        | 1982-1987            | 104 | 68    | 16    | 19    | 1   |
+| 13 | [グリエルモ・ガベット](https://ja.wikipedia.org/wiki/グリエルモ・ガベット "wikilink")     | 1934-1941            | 102 | 85    | 12    | 0     | 5   |
+| 14 | [パウロ・ディバラ](https://ja.wikipedia.org/wiki/パウロ・ディバラ "wikilink") (\#)    | 2015-                | 95  | 68    | 9     | 14    | 4   |
+| 15 | [フィリッポ・インザーギ](../Page/フィリッポ・インザーギ.md "wikilink")                      | 1997-2001            | 89  | 57    | 2     | 20    | 10  |
 
 (\#) は現役選手であることを示す。
 
@@ -1163,12 +1324,13 @@
   -
 [Category:ユヴェントスFC](https://ja.wikipedia.org/wiki/Category:ユヴェントスFC "wikilink") [Category:イタリアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:イタリアのサッカークラブ "wikilink") [Category:イタリア証券取引所上場企業](https://ja.wikipedia.org/wiki/Category:イタリア証券取引所上場企業 "wikilink") [Category:トリノのスポーツ](https://ja.wikipedia.org/wiki/Category:トリノのスポーツ "wikilink") [Category:1897年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1897年設立のスポーツチーム "wikilink")
 
-1.  [Deloitte Football Money League 2014](http://www.deloitte.com/assets/Dcom-UnitedKingdom/Local%20Assets/Documents/Industries/Sports%20Business%20Group/uk-deloitte-sbg-dfml-2014.pdf) (2014年1月に国際監査法人『デロイト』が公表した2012-2013シーズンの欧州サッカーのクラブ収入ランキング)
-2.  日本スポーツ企画出版社 2003-2004 EUROPE SOCCER TODAY 完結編10、11頁
-3.
-4.  [バッジョの再来\!?　英雄の軌跡をたどるベルナルデスキ、約52億円でユーヴェ移籍合意](https://www.theworldmagazine.jp/20170722/01world/italy/172494) the WORLD (2017年7月22日)
-5.  <http://www.skysports.com/football/news/11095/11375820/gianluigi-buffon-to-leave-juventus-after-17-years-at-the-club>
-6.
+1.
+2.  [Deloitte Football Money League 2014](http://www.deloitte.com/assets/Dcom-UnitedKingdom/Local%20Assets/Documents/Industries/Sports%20Business%20Group/uk-deloitte-sbg-dfml-2014.pdf) (2014年1月に国際監査法人『デロイト』が公表した2012-2013シーズンの欧州サッカーのクラブ収入ランキング)
+3.  日本スポーツ企画出版社 2003-2004 EUROPE SOCCER TODAY 完結編10、11頁
+4.
+5.  [バッジョの再来\!?　英雄の軌跡をたどるベルナルデスキ、約52億円でユーヴェ移籍合意](https://www.theworldmagazine.jp/20170722/01world/italy/172494) the WORLD (2017年7月22日)
+6.  <http://www.skysports.com/football/news/11095/11375820/gianluigi-buffon-to-leave-juventus-after-17-years-at-the-club>
 7.
-8.  カルチョ・スキャンダルによって優勝を剥奪された。
-9.  カルチョ・スキャンダルによって優勝を剥奪され、セリエB降格処分となった。
+8.
+9.  カルチョ・スキャンダルによって優勝を剥奪された。
+10. カルチョ・スキャンダルによって優勝を剥奪され、セリエB降格処分となった。

@@ -272,7 +272,7 @@
 ### バラエティ番組
 
   - [BoA Beat It BoA's World](../Page/BoA_Beat_It_BoA's_World.md "wikilink")（[JFN](../Page/全国FM放送協議会.md "wikilink")）：2007年3月終了
-  - [AX MUSIC FILE](https://ja.wikipedia.org/wiki/AX_MUSIC_FILE "wikilink") （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）司会：2002年9月レギュラー終了
+  - AX MUSIC FILE （[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）司会：2002年9月レギュラー終了
 
 ### ドラマ
 

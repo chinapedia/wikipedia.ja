@@ -5,7 +5,7 @@
 
 ## 概要
 
-週刊少年漫画雑誌『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")16号から[2002年](../Page/2002年.md "wikilink")20号にかけて連載された。単行本は小学館：少年サンデーコミックススペシャルより全22巻（発行部数1,500万部）、少年サンデーコミックスワイド版より全12巻。
+週刊少年漫画雑誌『[週刊少年サンデー](https://ja.wikipedia.org/wiki/週刊少年サンデー "wikilink")』（[小学館](../Page/小学館.md "wikilink")）に[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")16号から[2002年](../Page/2002年.md "wikilink")20号にかけて連載された。単行本は小学館：少年サンデーコミックススペシャルより全22巻、少年サンデーコミックスワイド版より全12巻。2012年10月時点で、累計発行部数は1500万部を突破している\[1\]。
 
 「事故」や「事件」に巻き込まれて失った身体の一部に、[ナノマシン](../Page/ナノマシン.md "wikilink")の集合体を移植され、それにより世界規模の陰謀に巻き込まれて行く少年たちの物語である。物語のモチーフとして、『[不思議の国のアリス](../Page/不思議の国のアリス.md "wikilink")』や『[鏡の国のアリス](../Page/鏡の国のアリス.md "wikilink")』などの[ルイス・キャロル](../Page/ルイス・キャロル.md "wikilink")作品が用いられている。
 
@@ -816,3 +816,5 @@
   - [ゲーム紹介ページ](http://www.bandaigames.channel.or.jp/list/arms/)（バンダイナムコゲームス内）
 
 [Category:ARMS](https://ja.wikipedia.org/wiki/Category:ARMS "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:1997年の漫画](https://ja.wikipedia.org/wiki/Category:1997年の漫画 "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:SF漫画作品](https://ja.wikipedia.org/wiki/Category:SF漫画作品 "wikilink") [Category:地球外生命体を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:地球外生命体を題材とした漫画作品 "wikilink") [Category:超能力を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした漫画作品 "wikilink") [Category:不思議の国のアリスを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:不思議の国のアリスを題材とした漫画作品 "wikilink") [Category:秘密結社を題材とした作品](https://ja.wikipedia.org/wiki/Category:秘密結社を題材とした作品 "wikilink") [Category:クローンを題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:クローンを題材としたフィクション作品 "wikilink") [Category:テクノスリラー漫画](https://ja.wikipedia.org/wiki/Category:テクノスリラー漫画 "wikilink") [Category:七月鏡一](https://ja.wikipedia.org/wiki/Category:七月鏡一 "wikilink") [Category:2002年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2002年のコンピュータゲーム "wikilink") [Category:バンダイのゲームソフト](https://ja.wikipedia.org/wiki/Category:バンダイのゲームソフト "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:GREE](https://ja.wikipedia.org/wiki/Category:GREE "wikilink")
+
+1.

@@ -131,7 +131,7 @@ EU4の拡張パック第一弾。[2014年](../Page/2014年.md "wikilink")[1月14
 
 #### Europa Universalis IV: Wealth of Nations
 
-EU4の拡張パック第二弾。2014年[5月29日](../Page/5月29日.md "wikilink")発売。[貿易](../Page/貿易.md "wikilink")に焦点を当てた拡張であり、[私掠船](../Page/私掠船.md "wikilink")の追加や、[東インド会社](https://ja.wikipedia.org/wiki/東インド会社 "wikilink")をイメージした貿易会社のシステムが追加されている。
+EU4の拡張パック第二弾。2014年[5月29日](../Page/5月29日.md "wikilink")発売。[貿易](../Page/貿易.md "wikilink")に焦点を当てた拡張であり、[私掠船](../Page/私掠船.md "wikilink")の追加や、[東インド会社](../Page/東インド会社.md "wikilink")をイメージした貿易会社のシステムが追加されている。
 
 #### Europa Universalis IV: Res Publica
 

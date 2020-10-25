@@ -157,7 +157,7 @@
 
 ## 外部リンク
 
-  - [テラ戦士Ψ（サイ）BOY](https://www.allcinema.net/cinema/86141) （[映画データベース - alllcinema](http://www.allcinema.net/prog/index2.php)内）
+  - [テラ戦士Ψ（サイ）BOY](https://www.allcinema.net/cinema/86141) （[映画データベース - alllcinema](https://www.allcinema.net/)内）
 
 [Category:1985年の映画](https://ja.wikipedia.org/wiki/Category:1985年の映画 "wikilink") [Category:日本のSF映画作品](https://ja.wikipedia.org/wiki/Category:日本のSF映画作品 "wikilink") [Category:超能力を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:超能力を題材とした映画作品 "wikilink") [Category:日本テレビ製作の映画](https://ja.wikipedia.org/wiki/Category:日本テレビ製作の映画 "wikilink") [Category:東映配給の映画](https://ja.wikipedia.org/wiki/Category:東映配給の映画 "wikilink")
 

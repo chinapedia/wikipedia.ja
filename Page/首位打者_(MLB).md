@@ -141,6 +141,9 @@
 | [2017年](../Page/2017年.md "wikilink")                    | [チャーリー・ブラックモン](https://ja.wikipedia.org/wiki/チャーリー・ブラックモン "wikilink")    | COL                                                             |
 | [2018年](../Page/2018年.md "wikilink")                    | [クリスチャン・イエリッチ](https://ja.wikipedia.org/wiki/クリスチャン・イエリッチ "wikilink")    | MIL                                                             |
 | [2019年](../Page/2019年.md "wikilink")                    | クリスチャン・イエリッチ                                                             | MIL                                                             |
+| [2020年](../Page/2020年.md "wikilink")                    | [フアン・ソト](https://ja.wikipedia.org/wiki/フアン・ソト_\(野球\) "wikilink")         | WSH                                                             |
+
+  - 2020年は60試合の短縮シーズン
 
 ## メジャー記録
 

@@ -70,7 +70,7 @@
       - ベース - 高水健司
       - エレクトリック・ギター - [北島健二](../Page/北島健二.md "wikilink")、矢島賢
       - アコースティック・ギター - 谷康一
-      - キーボード - 富樫春生、[倉田信雄](../Page/倉田信雄.md "wikilink")
+      - キーボード - [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")、[倉田信雄](../Page/倉田信雄.md "wikilink")
       - パーカッション - 鳴島英治
       - ストリングス - 多アンサンブル
       - バックヴォーカル - [イブ](https://ja.wikipedia.org/wiki/EVE_\(歌手グループ\) "wikilink")

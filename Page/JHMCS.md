@@ -63,6 +63,6 @@ JHMCS開発のための契約は1996年12月に署名され、プログラムは
 16. [Features & Benefits](http://jhmcsii.com/features-and-benefits/)
 17. [JHMCS II Product Launch at the Paris Air Show](http://ir.elbitsystems.com/mobile.view?c=61849&v=203&d=1&id=1829685)
 18.
-19. [보잉, 사일런트 이글에 차세대 헬멧 장착 조준 시스템 (JHMCS) 통합](http://archive.is/GBdCF)
+19. [보잉, 사일런트 이글에 차세대 헬멧 장착 조준 시스템 (JHMCS) 통합](https://archive.is/GBdCF)
 20. [Boeing integrates Joint Helmet Mounted Cueing System into F-15SE](http://www.flightglobal.com/news/articles/boeing-integrates-joint-helmet-mounted-cueing-system-into-374904/)
 21. [Elbit Systems of America to Integrate JHMCS II on AC-130W](http://www.prnewswire.com/news-releases/elbit-systems-of-america-to-integrate-jhmcs-ii-on-ac-130w-504266471.html)

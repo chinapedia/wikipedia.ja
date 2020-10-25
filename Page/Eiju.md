@@ -1,7 +1,7 @@
 > この記事は[Eiju](https://ja.wikipedia.org/wiki/Eiju)から翻訳されています。
 
 
-**eiju**（えいじゅ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で活動する[ソロ](../Page/ソロ.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[アーティストである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
+**eiju**（えいじゅ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で幅広く活動する[ソロ](../Page/ソロ.md "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[アーティストである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")。
 
 ROCKを軸にソロで、音楽活動をマルチに展開。POPアーティストをはじめプロ野球、スポーツ選手等に登場曲を提供している。ジャンルに捕われない独自のスタイルで幅広く活動をしている。 アーティスト活動でもマルチな活動をしている。デジタル導入やアナログとの融合など新しいニュアンスを取り入れたeiju の独自の世界を追求。 自作曲全曲全て自身で作詞、作曲し演奏している。 手関節TFCC損傷（三角線維軟骨複合体)を痛め一時活動を休止するもリハビリにより活動を再開。 他アーティストのユニットに参加、作詞、作曲プロデュースを手掛ける。自身のユニット「[Candy](https://ja.wikipedia.org/wiki/Candy_\(バンドユニット\) "wikilink")」を結成している。
 

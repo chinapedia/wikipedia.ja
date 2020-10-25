@@ -3,7 +3,7 @@
 
 **Geode**（ジオード）は、[AMDの](https://ja.wikipedia.org/wiki/アドバンスト・マイクロ・デバイセズ "wikilink")[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")アーキテクチャの[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")。
 
-主に[組み込みシステム](../Page/組み込みシステム.md "wikilink")市場向けをターゲットとしている。名称の「geode」は、英語で鉱物（主にメノウ）に空いた隙間や空洞、およびそれを含む[晶洞](https://ja.wikipedia.org/wiki/晶洞 "wikilink")石を意味する。
+主に[組み込みシステム](../Page/組み込みシステム.md "wikilink")市場向けをターゲットとしている。名称の「geode」は、英語で[鉱物](../Page/鉱物.md "wikilink")（主に[メノウ](../Page/メノウ.md "wikilink")）に空いた隙間や空洞、およびそれを含む[晶洞](https://ja.wikipedia.org/wiki/晶洞 "wikilink")石を意味する。
 
 [ナショナル セミコンダクターが](../Page/ナショナル_セミコンダクター.md "wikilink")[1999年](../Page/1999年.md "wikilink")にリリース\[1\]したのが始まりで、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")にナショナル セミコンダクターが買収した[サイリックス](../Page/サイリックス.md "wikilink")の[MediaGX](../Page/MediaGX.md "wikilink")を受け継いで開発されたものである。[2003年](../Page/2003年.md "wikilink")[8月](../Page/8月.md "wikilink")にナショナル セミコンダクターの組み込み型のマイクロプロセッサの事業をAMDが買収した。その際に従来のMediaGX由来の製品の他、AMDの[Athlon](../Page/Athlon.md "wikilink")(K7アーキテクチャ)ベースの製品もGeodeブランドで販売されている。
 

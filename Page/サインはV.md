@@ -92,7 +92,10 @@
   - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[6\]
   - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[7\]
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")：日曜 19:30 - 20:00
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")：日曜 19:30 - 20:00
+  - [山口放送](../Page/山口放送.md "wikilink")：水曜 19:00 - 19:30\[8\]
+  - [南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")：水曜 19:00 - 19:30\[9\]
+  - [高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")：水曜 19:00 - 19:30\[10\]
 
 ### 映画化
 
@@ -161,14 +164,14 @@
 ### 放送局（坂口良子版）
 
   - TBS：日曜 19:30 - 20:00
-  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[8\]
-  - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30\[9\]
-  - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[10\]
-  - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[11\]
-  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[12\]
-  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：土曜 19:00 - 19:30（1974年に放送）\[13\]
+  - [岩手放送](../Page/IBC岩手放送.md "wikilink")：日曜 19:30 - 20:00\[11\]
+  - [山形放送](../Page/山形放送.md "wikilink")：火曜 18:00 - 18:30\[12\]
+  - [東北放送](../Page/東北放送.md "wikilink")：日曜 19:30 - 20:00\[13\]
+  - [福島テレビ](../Page/福島テレビ.md "wikilink")：日曜 19:30 - 20:00\[14\]
+  - [新潟放送](https://ja.wikipedia.org/wiki/新潟放送 "wikilink")：日曜 19:30 - 20:00\[15\]
+  - [富山テレビ](../Page/富山テレビ放送.md "wikilink")：土曜 19:00 - 19:30（1974年に放送）\[16\]
   - [朝日放送](../Page/朝日放送テレビ.md "wikilink")
-  - [山陽放送](https://ja.wikipedia.org/wiki/山陽放送 "wikilink")：日曜 19:30 - 20:00
+  - [山陽放送](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")：日曜 19:30 - 20:00
 
 ## 主題歌
 
@@ -184,7 +187,7 @@
   - 1973年版 オープニング主題歌
       - 「サインはV」（作詞：岩谷時子、作曲：三沢郷、編曲：[青木望](../Page/青木望.md "wikilink")）
           - 歌：坂口良子
-          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](../Page/大杉久美子.md "wikilink")によるカヴァー版も存在する\[14\]。
+          - [日本コロムビア](../Page/日本コロムビア.md "wikilink")から発売。[大杉久美子](../Page/大杉久美子.md "wikilink")によるカヴァー版も存在する\[17\]。
   - 1973年版挿入歌
       - 「美しき仲間たち」（作詞：[かわいひろし](https://ja.wikipedia.org/wiki/かわいひろし "wikilink")、作曲：三沢郷、編曲：青木望）
           - 歌：坂口良子
@@ -209,16 +212,19 @@
 [Category:漫画作品_さ](https://ja.wikipedia.org/wiki/Category:漫画作品_さ "wikilink") [Category:少女フレンド](https://ja.wikipedia.org/wiki/Category:少女フレンド "wikilink") [Category:バレーボール漫画](https://ja.wikipedia.org/wiki/Category:バレーボール漫画 "wikilink") [Category:女子バレーボールを題材とした作品](https://ja.wikipedia.org/wiki/Category:女子バレーボールを題材とした作品 "wikilink") [Category:東京を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:東京を舞台とした漫画作品 "wikilink") [Category:荒川区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:荒川区を舞台とした作品 "wikilink") [Category:1969年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1969年のテレビドラマ "wikilink") [Category:不二家の時間](https://ja.wikipedia.org/wiki/Category:不二家の時間 "wikilink") [Category:TBSのテレビドラマの歴史](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマの歴史 "wikilink") [Category:東宝製作のテレビ作品](https://ja.wikipedia.org/wiki/Category:東宝製作のテレビ作品 "wikilink") [Category:鎌田敏夫脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:鎌田敏夫脚本のテレビドラマ "wikilink") [Category:漫画を原作とするテレビドラマ](https://ja.wikipedia.org/wiki/Category:漫画を原作とするテレビドラマ "wikilink") [Category:スポーツドラマ](https://ja.wikipedia.org/wiki/Category:スポーツドラマ "wikilink") [Category:1973年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1973年のテレビドラマ "wikilink") [Category:荒川区を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:荒川区を舞台としたテレビドラマ "wikilink") [Category:1970年の映画](https://ja.wikipedia.org/wiki/Category:1970年の映画 "wikilink") [Category:日本のドラマ映画](https://ja.wikipedia.org/wiki/Category:日本のドラマ映画 "wikilink") [Category:日本のスポーツ映画](https://ja.wikipedia.org/wiki/Category:日本のスポーツ映画 "wikilink") [Category:日本のテレビドラマの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビドラマの劇場版 "wikilink") [Category:漫画を原作とする映画作品](https://ja.wikipedia.org/wiki/Category:漫画を原作とする映画作品 "wikilink") [Category:バレーボール映画](https://ja.wikipedia.org/wiki/Category:バレーボール映画 "wikilink") [Category:楽曲_さ](https://ja.wikipedia.org/wiki/Category:楽曲_さ "wikilink") [Category:岩谷時子が制作した楽曲](https://ja.wikipedia.org/wiki/Category:岩谷時子が制作した楽曲 "wikilink") [Category:1969年のシングル](https://ja.wikipedia.org/wiki/Category:1969年のシングル "wikilink") [Category:ビクターエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントの楽曲 "wikilink") [Category:1973年のシングル](https://ja.wikipedia.org/wiki/Category:1973年のシングル "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:TBSのテレビドラマ主題歌](https://ja.wikipedia.org/wiki/Category:TBSのテレビドラマ主題歌 "wikilink")
 
 1.  『福島民報』1973年10月14日付朝刊8面、本作広告。
-2.  『河北新報』1970年2月11日付朝刊、テレビ欄。
+2.  『[河北新報](../Page/河北新報.md "wikilink")』1970年2月11日付朝刊、テレビ欄。
 3.
 4.
-5.  『福島民報』1969年10月5日 - 1970年8月16日付朝刊、テレビ欄。
+5.  『[福島民報](../Page/福島民報.md "wikilink")』1969年10月5日 - 1970年8月16日付朝刊、テレビ欄。
 6.
 7.
-8.  『河北新報』1973年12月2日 - 12月30日付朝刊、テレビ欄。
-9.  『河北新報』1974年3月5日 - 3月26日付朝刊、テレビ欄。
-10. 『福島民報』1973年10月14日 - 1974年3月31日付朝刊、テレビ欄。
-11.
-12.
-13. 『北國新聞』1974年8月3日付朝刊、テレビ欄。
-14. [大杉久美子 40周年記念CD-BOX『燦(きらめき)のとき やさしさの歌』発売記念 大杉久美子スペシャル・インタビュー 第3回](http://columbia.jp/artist-info/kumiko/interview03.html)より。
+8.  『[愛媛新聞](../Page/愛媛新聞.md "wikilink")』1969年12月17日付朝刊、テレビ欄。
+9.
+10.
+11. 『河北新報』1973年12月2日 - 12月30日付朝刊、テレビ欄。
+12. 『河北新報』1974年3月5日 - 3月26日付朝刊、テレビ欄。
+13. 『福島民報』1973年10月14日 - 1974年3月31日付朝刊、テレビ欄。
+14.
+15.
+16. 『北國新聞』1974年8月3日付朝刊、テレビ欄。
+17. [大杉久美子 40周年記念CD-BOX『燦(きらめき)のとき やさしさの歌』発売記念 大杉久美子スペシャル・インタビュー 第3回](http://columbia.jp/artist-info/kumiko/interview03.html)より。

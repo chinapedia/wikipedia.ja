@@ -17,8 +17,6 @@
 
 [日本](https://ja.wikipedia.org/wiki/日本 "wikilink")では、[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")『[ワンナイR\&R](https://ja.wikipedia.org/wiki/ワンナイR&R "wikilink")』から登場した[ガレッジセール](../Page/ガレッジセール.md "wikilink")の[ゴリ扮するキャラクター](../Page/ゴリ_\(お笑い芸人\).md "wikilink")・[松浦ゴリエ](../Page/松浦ゴリエ.md "wikilink")の実質的なテーマ曲となり、[2004年](../Page/2004年.md "wikilink")には[日本語](../Page/日本語.md "wikilink")詞で正式に[カバー](../Page/カバー.md "wikilink")した形で[シングル](../Page/シングル.md "wikilink")リリースされた。以降の項ではこの作品について記述する。
 
-また、同番組内で出演者の[宮迫博之](https://ja.wikipedia.org/wiki/宮迫博之 "wikilink")や[山口智充](../Page/山口智充.md "wikilink")にも[ネタ](https://ja.wikipedia.org/wiki/ネタ "wikilink")にされているが、[ディズニー](https://ja.wikipedia.org/wiki/ディズニー "wikilink")の[ミッキーマウス](../Page/ミッキーマウス.md "wikilink")との関連は最初からない。
-
 ## Mickey (2004年)
 
 {{Infobox Single | Name = Mickey | Type = [シングル](../Page/シングル.md "wikilink") | Artist = [Gorie](../Page/松浦ゴリエ.md "wikilink") with [Jasmine](../Page/ジャスミン茉莉花.md "wikilink") & [Joann](../Page/ジョアン_\(タレント\).md "wikilink") | | A-side = Mickey (Hawaii version) | B-side = おしゃべり辞典 | Released = [2004年](../Page/2004年.md "wikilink")[9月8日](../Page/9月8日.md "wikilink") | Recorded = | Genre = [J-POP](../Page/J-POP.md "wikilink") | Length = 16分27秒 | Label = [GORIE LABEL](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink") | | Producer = | Reviews = | Chart position =\*週間1位（2週連続、[オリコン](../Page/オリコンチャート.md "wikilink")）
@@ -35,7 +33,7 @@
 
 歌唱には日本で活動している[外国人タレント](../Page/外国人タレント.md "wikilink")、ジャスミン・アレン（現・[ジャスミン茉莉花](../Page/ジャスミン茉莉花.md "wikilink")）とジョアン・ヤマザキ（[ジョアン・山崎](../Page/ジョアン_\(タレント\).md "wikilink")）が参加。クレジット上の名義は**Gorie with Jasumine & Joann**とGorie（[ゴリ](../Page/ゴリ_\(お笑い芸人\).md "wikilink")）がメインであるが、楽曲の大部分はジャスミンとジョアンのパートによるものであり、ゴリの歌唱は肝心の[サビ](../Page/サビ.md "wikilink")でも1コーラスしかない。これは以降発売される2枚以降のシングルでは更に歌唱が削られており（次作「Pecori  Night」及び「恋のPecori  lesson」では一言叫ぶだけである）皮肉にも本作が最もゴリの歌唱が多い作品である。サビ部分の[レコーディング](https://ja.wikipedia.org/wiki/レコーディング "wikilink")はされており、本人もやる気は十分にあったが、歌唱力の難と、楽曲の印象を下げないためという半ば“大人の事情”で大幅に歌唱部分が削られたというのが実際のところである、とゴリは語っている。
 
-初回盤は“ゴリエ箱”と題した特製の箱型ケースでのセットで、価格は2,625円（[消費税](../Page/消費税.md "wikilink")込）とシングル作品としては高額。特典として特製パンツと「ゴリエと行くハワイ旅行」応募ハガキが付いていた。これはくずが先に発売した“くず箱”にあやかったもの（こちらも同様に高額であった）。通常盤は[CDと初回盤にも付属していた](../Page/コンパクトディスク.md "wikilink")[DVDの](../Page/DVD-Video.md "wikilink")2枚組仕様で1,500円（消費税込）、CDのみのバージョンは発売されていない。DVDは同曲の[PVを収録したものだが](../Page/ミュージック・ビデオ.md "wikilink")、『ワンナイR\&R』内以外ではPVの放送を原則許可しなかった（そのため、音楽チャートを扱う番組ではジャケット写真を回転させたり、オリジナルの画像を張り合わせた映像を代わりに流すことで対応した）。また、音楽番組にも出演しなかった。
+初回盤は“ゴリエ箱”と題した特製の箱型ケースでのセットで、価格は2,625円（[消費税](../Page/消費税.md "wikilink")込）と2004年時点の日本におけるシングル作品としては高額。特典として特製パンツと「ゴリエと行くハワイ旅行」応募ハガキが付いていた。これはくずが先に発売した“くず箱”にあやかったもの（こちらも同様に高額であった）。通常盤は[CDと初回盤にも付属していた](../Page/コンパクトディスク.md "wikilink")[DVDの](../Page/DVD-Video.md "wikilink")2枚組仕様で1,500円（消費税込）、CDのみのバージョンは発売されていない。DVDは同曲の[PVを収録したものだが](../Page/ミュージック・ビデオ.md "wikilink")、『ワンナイR\&R』内以外ではPVの放送を原則許可しなかった（そのため、音楽チャートを扱う番組ではジャケット写真を回転させたり、オリジナルの画像を張り合わせた映像を代わりに流すことで対応した）。また、音楽番組にも出演しなかった。
 
 シングルは発売1週目の初動売上だけで10万枚以上を売り上げ、くず同様オリコンシングルチャート1位を獲得。2週目も1位、3週目は2位となるが、この時点で累計売上が「全てが僕の力になる\!」を上回った。通算4週連続TOP5入り、5週目で6位に落ちるも6週目で再び4位に浮上し、最終的には同年のオリコン年間シングルチャートで10位（くずは41位）にチャートインする大ヒットとなった。
 

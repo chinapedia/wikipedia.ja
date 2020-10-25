@@ -23,7 +23,7 @@
 
 ## 選手としての特徴
 
-[スリークォーター](../Page/スリークォーター.md "wikilink")またははやや[サイドスロー](../Page/サイドスロー.md "wikilink")気味から、[ツーシームと](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[スライダーを中心に投げ分ける](../Page/スライダー_\(球種\).md "wikilink")。[与四球がやや多いものの](../Page/四球.md "wikilink")、[奪三振率も高い](https://ja.wikipedia.org/wiki/三振 "wikilink")。
+[スリークォーター](../Page/スリークォーター.md "wikilink")またははやや[サイドスロー](../Page/サイドスロー.md "wikilink")気味から、[ツーシームと](https://ja.wikipedia.org/wiki/速球#ツーシーム・ファストボール "wikilink")[スライダーを中心に投げ分ける](../Page/スライダー_\(球種\).md "wikilink")。[与四球がやや多いものの](../Page/四球.md "wikilink")、[奪三振率も高い](../Page/三振.md "wikilink")。
 
 左投手でもあり、左打者には滅法強い。[クローザーに抜擢される以前は左打者に対するリリーフとして起用されていた](../Page/リリーフ.md "wikilink")。
 

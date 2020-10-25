@@ -55,4 +55,4 @@ MOFは国際標準規格となっている:
   - [Object Management Group](http://www.omg.org)
   - [OMG's MetaObject Facility](http://www.omg.org/mof/)
 
-[Category:ソフトウェア工学](https://ja.wikipedia.org/wiki/Category:ソフトウェア工学 "wikilink") [Category:仕様記述言語](https://ja.wikipedia.org/wiki/Category:仕様記述言語 "wikilink") [Category:データモデリング](https://ja.wikipedia.org/wiki/Category:データモデリング "wikilink") [Category:統一モデリング言語](https://ja.wikipedia.org/wiki/Category:統一モデリング言語 "wikilink") [Category:ISO標準](https://ja.wikipedia.org/wiki/Category:ISO標準 "wikilink")
+[Category:ソフトウェア工学](https://ja.wikipedia.org/wiki/Category:ソフトウェア工学 "wikilink") [Category:仕様記述言語](https://ja.wikipedia.org/wiki/Category:仕様記述言語 "wikilink") [Category:データモデリング](https://ja.wikipedia.org/wiki/Category:データモデリング "wikilink") [Category:統一モデリング言語](https://ja.wikipedia.org/wiki/Category:統一モデリング言語 "wikilink") [Category:ISO/IEC標準](https://ja.wikipedia.org/wiki/Category:ISO/IEC標準 "wikilink")

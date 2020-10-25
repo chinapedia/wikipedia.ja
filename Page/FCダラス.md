@@ -205,19 +205,21 @@
 
 ## 歴代監督
 
-  - Dave Dir 1996-2000
+  - [デーブ・ディル](https://ja.wikipedia.org/wiki/デーブ・ディル "wikilink") 1996-2000
 
   - [マイク・ジェフリーズ](https://ja.wikipedia.org/wiki/マイク・ジェフリーズ "wikilink") 2001-2003
 
-  - [コリン・クラーク](https://ja.wikipedia.org/wiki/コリン・クラーク "wikilink") 2003-2006
+  - [コリン・クラーク](https://ja.wikipedia.org/wiki/コリン・クラーク_\(1962年生まれのサッカー選手\) "wikilink") 2003-2006
 
   - [スティーブ・モロー](https://ja.wikipedia.org/wiki/スティーブ・モロー "wikilink") 2006-2008
 
-  - Marco Ferruzzi 2008
+  - [マルコ・フェルッツィ](https://ja.wikipedia.org/wiki/マルコ・フェルッツィ "wikilink") 2008
 
-  - Schellas Hyndman 2008-2013
+  - [シェラス・ヒンドマン](https://ja.wikipedia.org/wiki/シェラス・ヒンドマン "wikilink") 2008-2013
 
-  - [オスカル・パレハ](https://ja.wikipedia.org/wiki/オスカル・パレハ "wikilink") 2014-
+  - [オスカル・パレハ](https://ja.wikipedia.org/wiki/オスカル・パレハ "wikilink") 2014-2018
+
+  - [ルチ・ゴンザレス](https://ja.wikipedia.org/wiki/ルチ・ゴンザレス "wikilink") 2018-
 
 ## 歴代所属選手
 

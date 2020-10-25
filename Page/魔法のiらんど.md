@@ -1,7 +1,7 @@
 > この記事は[魔法のiらんど](https://ja.wikipedia.org/wiki/魔法のiらんど)から翻訳されています。
 
 
-**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（AMW）の社内ブランド及び同社が運営している小説投稿サイト。システム開発は[はてなが担当している](../Page/はてな_\(企業\).md "wikilink")。過去には小説投稿以外のサービスも提供していた。
+**魔法のiらんど**（まほうのあいらんど）は、[KADOKAWA](https://ja.wikipedia.org/wiki/KADOKAWA "wikilink") [アスキー・メディアワークス](../Page/アスキー・メディアワークス.md "wikilink")（AMW）の社内ブランド及び同社が運営している[小説投稿サイト](https://ja.wikipedia.org/wiki/小説投稿サイト "wikilink")。システム開発は[はてなが担当している](../Page/はてな_\(企業\).md "wikilink")。過去には小説投稿以外のサービスも提供していた。
 
 ## 沿革
 
@@ -57,7 +57,7 @@
 
 ## 出版
 
-[ケータイ小説](../Page/ケータイ小説.md "wikilink")の草分けとしても知られる。その昔、紙の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")としても、100万部を越すヒット作を出したこともあった。書籍化された作品は、「魔法のiらんど」内の「魔法のiらんどNOVEL」で引き続き公開されている。
+[ケータイ小説](../Page/ケータイ小説.md "wikilink")の草分けとしても知られる。以前は、紙媒体の[書籍](https://ja.wikipedia.org/wiki/書籍 "wikilink")としても100万部を越すヒット作を出したこともあった。書籍化された作品は、「魔法のiらんど」内の「魔法のiらんどNOVEL」で引き続き公開されている。
 
 [メディアワークス](../Page/メディアワークス.md "wikilink")も『[魔法のiらんど文庫](../Page/魔法のiらんど文庫.md "wikilink")』を2007年に刊行し、同社発の作品を紙の書籍として刊行していた出版社の1つであった。同年に魔法のiらんど大賞を創設している。
 

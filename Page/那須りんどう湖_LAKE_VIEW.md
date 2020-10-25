@@ -1,7 +1,7 @@
 > この記事は[那須りんどう湖 LAKE VIEW](https://ja.wikipedia.org/wiki/那須りんどう湖_LAKE_VIEW)から翻訳されています。
 
 
-那須高原 りんどう湖ファミリー牧場（なすこうげんりんどうこふぁみりーぼくじょう、Nasukougen Rindouko family bokujo）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[那須郡](../Page/那須郡.md "wikilink")[那須町](../Page/那須町.md "wikilink")にある[観光牧場](https://ja.wikipedia.org/wiki/観光牧場 "wikilink")と[遊園地](../Page/遊園地.md "wikilink")の要素を合わせ持った[テーマパーク](../Page/テーマパーク.md "wikilink")である。
+那須高原 りんどう湖ファミリー牧場（なすこうげんりんどうこファミリーぼくじょう、Nasukougen Rindouko family bokujo）は、[栃木県](https://ja.wikipedia.org/wiki/栃木県 "wikilink")[那須郡](../Page/那須郡.md "wikilink")[那須町](../Page/那須町.md "wikilink")にある[観光牧場](https://ja.wikipedia.org/wiki/観光牧場 "wikilink")と[遊園地](../Page/遊園地.md "wikilink")の要素を合わせ持った[テーマパーク](../Page/テーマパーク.md "wikilink")である。
 
 ## 概要
 

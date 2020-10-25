@@ -1895,7 +1895,7 @@
 <td><p><a href="../Page/橋本一.md" title="wikilink">橋本一</a><br />
 <a href="https://ja.wikipedia.org/wiki/谷口正晃" title="wikilink">谷口正晃</a></p></td>
 <td><p><a href="../Page/大石哲也.md" title="wikilink">大石哲也</a></p></td>
-<td><p>上川隆也、<a href="https://ja.wikipedia.org/wiki/加藤シゲアキ" title="wikilink">加藤シゲアキ</a></p></td>
+<td><p>上川隆也、<a href="https://ja.wikipedia.org/wiki/加藤シゲアキ" title="wikilink">加藤シゲアキ</a>、<a href="https://ja.wikipedia.org/wiki/岡田結実" title="wikilink">岡田結実</a></p></td>
 <td><p>中山七里</p></td>
 <td></td>
 </tr>

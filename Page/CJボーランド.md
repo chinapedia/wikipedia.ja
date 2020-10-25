@@ -81,6 +81,6 @@
 ## 外部リンク
 
   - [公式サイト](http://www.cjbolland.com/)
-  - [Myspace](http://www.myspace.com/cjbolland)
+  - [Myspace](https://myspace.com/cjbolland)
 
 [Category:イギリスのミュージシャン](https://ja.wikipedia.org/wiki/Category:イギリスのミュージシャン "wikilink") [Category:テクノミュージシャン](https://ja.wikipedia.org/wiki/Category:テクノミュージシャン "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

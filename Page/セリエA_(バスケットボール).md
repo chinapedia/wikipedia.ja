@@ -403,13 +403,13 @@
 </tr>
 <tr class="odd">
 <td><p>2006-07</p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/メンズ・サーナ・バスケット" title="wikilink">モンテパッシ・シエナ</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/メンズ・サーナ・バスケット" title="wikilink">モンテパッシ・シエナ</a></strong></p></td>
 <td><p><a href="../Page/ヴィルトゥス・ボローニャ.md" title="wikilink">ヴィディヴィチ・ボローニャ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Simone_Pianigiani" title="wikilink">Simone Pianigiani</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
-<td><p>'''<a href="https://ja.wikipedia.org/wiki/メンズ・サーナ・バスケット" title="wikilink">モンテパッシ・シエナ</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/メンズ・サーナ・バスケット" title="wikilink">モンテパッシ・シエナ</a></strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィルトゥス・ローマ" title="wikilink">ロトマティカ・ローマ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/Simone_Pianigiani" title="wikilink">Simone Pianigiani</a></p></td>
 </tr>
@@ -430,103 +430,120 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピア・ミラノ" title="wikilink">オリンピア・ミラノ</a></p></td>
 <td><center>
-<p><strong>26</strong></p></td>
+<p><strong>26</strong></p>
+</center></td>
 <td><p>1935-36, 1936-37, 1937-38, 1938-39, 1949-50, 1950-51, 1951-52, 1952-53, 1953-54, 1956-57, 1957-58, 1958-59, 1959-60, 1961-62, 1962-63, 1964-65, 1965-66, 1966-67, 1971-72, 1981-82, 1984-85, 1985-86, 1986-87, 1988-89, 1995-96, 2013-14</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ヴィルトゥス・ボローニャ.md" title="wikilink">ヴィルトゥス・パラカネストロ・ボローニャ</a></p></td>
 <td><center>
-<p><strong>15</strong></p></td>
+<p><strong>15</strong></p>
+</center></td>
 <td><p>1945-46, 1946-47, 1947-48, 1948-49, 1954-55, 1955-56, 1975-76, 1978-79, 1979-80, 1983-84, 1992-93, 1993-94, 1994-95, 1997-98, 2000-01</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/パラカネストロ・ヴァレーゼ" title="wikilink">ヴァレーゼ</a></p></td>
 <td><center>
-<p><strong>10</strong></p></td>
+<p><strong>10</strong></p>
+</center></td>
 <td><p>1960-61, 1963-64, 1968-69, 1969-70, 1970-71, 1972-73, 1973-74, 1976-77, 1977-78, 1998-99</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/メンズ・サーナ・バスケット" title="wikilink">メンズ・サーナ</a></p></td>
 <td><center>
-<p><strong>8</strong></p></td>
+<p><strong>8</strong></p>
+</center></td>
 <td><p>2003-04, 2006-07, 2007-08, 2008-09, 2009-10, 2010-11, 2011-12, 2012-13</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アッシ・ソシエタ・スポルティバ・ミラノ" title="wikilink">アッシ・ミラノ</a></p></td>
 <td><center>
-<p><strong>6</strong></p></td>
+<p><strong>6</strong></p>
+</center></td>
 <td><p>1921, 1922, 1924, 1925, 1926, 1927</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソシエタ・ジンナスティカ・トリエスティーナ" title="wikilink">ジンナスティカ・トリエスティーナ</a></p></td>
 <td><center>
-<p><strong>5</strong></p></td>
+<p><strong>5</strong></p>
+</center></td>
 <td><p>1930, 1932, 1934, 1939-40, 1940-41</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/パラカネストロ・トレヴィーゾ.md" title="wikilink">パラカネストロ・トレヴィーゾ</a></p></td>
 <td><center>
-<p><strong>5</strong></p></td>
+<p><strong>5</strong></p>
+</center></td>
 <td><p>1991-92, 1996-97, 2001-02, 2002-03, 2005-06</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソシエタ・ジンナスティカ・ローマ" title="wikilink">ジンナスティカ・ローマ</a></p></td>
 <td><center>
-<p><strong>4</strong></p></td>
+<p><strong>4</strong></p>
+</center></td>
 <td><p>1928, 1931, 1933, 1935</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/パラカネストロ・カントゥ" title="wikilink">パラカネストロ・カントゥ</a></p></td>
 <td><center>
-<p><strong>3</strong></p></td>
+<p><strong>3</strong></p>
+</center></td>
 <td><p>1967-68, 1974-75, 1980-81</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ライヤー・ヴェネツィア・メストレ" title="wikilink">ライヤー・ヴェネツィア</a></p></td>
 <td><center>
-<p><strong>2</strong></p></td>
+<p><strong>2</strong></p>
+</center></td>
 <td><p>1941-42, 1942-43</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ヴィクトリア・リベルタス・ペーザロ" title="wikilink">VLペーザロ</a></p></td>
 <td><center>
-<p><strong>2</strong></p></td>
+<p><strong>2</strong></p>
+</center></td>
 <td><p>1987-88, 1989-90</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/フォルティトゥード・ボローニャ.md" title="wikilink">フォルティトゥード・パラカネストロ・ボローニャ</a></p></td>
 <td><center>
-<p><strong>2</strong></p></td>
+<p><strong>2</strong></p>
+</center></td>
 <td><p>1999-2000, 2004-05</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソシエタ・ディ・エドゥカツィオーネ・フィシカ・コスタンツァ・ディ・ミラノ" title="wikilink">コスタンツァ・ミラノ</a></p></td>
 <td><center>
-<p><strong>1</strong></p></td>
+<p><strong>1</strong></p>
+</center></td>
 <td><p>1920</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラン・パラカネストロ" title="wikilink">インテル・ミラノ</a></p></td>
 <td><center>
-<p><strong>1</strong></p></td>
+<p><strong>1</strong></p>
+</center></td>
 <td><p>1923</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/パラカネストロ・ヴィルトゥス・ローマ" title="wikilink">パラカネストロ・ローマ</a></p></td>
 <td><center>
-<p><strong>1</strong></p></td>
+<p><strong>1</strong></p>
+</center></td>
 <td><p>1982-83</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ユーヴェカゼルタ・バスケット" title="wikilink">ユーヴェカゼルタ</a></p></td>
 <td><center>
-<p><strong>1</strong></p></td>
+<p><strong>1</strong></p>
+</center></td>
 <td><p>1990-91</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディナモ・バスケット・サッサリ" title="wikilink">ディナモ・サッサリ</a></p></td>
 <td><center>
-<p><strong>1</strong></p></td>
+<p><strong>1</strong></p>
+</center></td>
 <td><p>2014-15</p></td>
 </tr>
 </tbody>

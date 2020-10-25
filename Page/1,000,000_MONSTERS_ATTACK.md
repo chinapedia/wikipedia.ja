@@ -22,7 +22,7 @@
 
 ## エピソード
 
-  - ラッパーの[R-指定は](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")、ラジオで1,000,000 MONSTERS ATTACKを聴いたのがきっかけにHIPHOPを聴くようになったと語っている\[2\]。
+  - ラッパーの[R-指定は](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")、1,000,000 MONSTERS ATTACKを聴いたのがきっかけにラップを聴くようになったと語っている\[2\]。
 
 ## 収録アルバム
 

@@ -51,7 +51,7 @@
   - [笑っていいとも\!](https://ja.wikipedia.org/wiki/笑っていいとも! "wikilink")（フジテレビ系）
   - [くるくるドカン〜新しい波を探して〜](../Page/くるくるドカン〜新しい波を探して〜.md "wikilink")（フジテレビ系）
   - [お笑いDynamite\!](../Page/お笑いDynamite!.md "wikilink")（TBS、2007年12月28日） キャッチコピーは「アゴものまね師」
-  - [ゴールドラッシュ2008〜今年こそブレイクしたい芸人が開く 新しきイロモネアの夜明け\!\!](https://ja.wikipedia.org/wiki/ザ・イロモネア "wikilink")（TBS、2008年1月3日）
+  - [ゴールドラッシュ2008〜今年こそブレイクしたい芸人が開く 新しきイロモネアの夜明け\!\!](../Page/ザ・イロモネア.md "wikilink")（TBS、2008年1月3日）
   - [2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")（TBS、2008年3月11日、アゴものまねを披露＆父親の話。）
   - [九州青春銀行](../Page/九州青春銀行.md "wikilink")（[RKBテレビ](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")、2008年7月23・30日）スタジオゲスト
   - [タモリのボキャブラ天国 大復活祭スペシャル](https://ja.wikipedia.org/wiki/タモリのボキャブラ天国 "wikilink")（フジテレビ、2008年9月28日） キャッチコピーは「孤高のアゴ真似職人」

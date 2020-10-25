@@ -624,6 +624,34 @@ VICL-64397:通常盤</p></td>
 <td><p>オリコン最高9位、登場回数5回</p></td>
 </tr>
 <tr class="odd">
+<td><p>7th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/5月13日.md" title="wikilink">5月13日</a></p></td>
+<td><p>WAVE</p></td>
+<td><p>VICL-65363:初回限定盤<br />
+VICL-65364:通常盤</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全11曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Puzzle</li>
+<li>TRIANGLE</li>
+<li>WAVE</li>
+<li>Courage</li>
+<li>SERI &amp; RYOTA 1</li>
+<li>Wind</li>
+<li>Good song</li>
+<li>Quiz</li>
+<li>JAM</li>
+<li>SERI &amp; RYOTA 2</li>
+<li>Beautiful Orange
+</div>
+</div></li>
+</ol></td>
+<td></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

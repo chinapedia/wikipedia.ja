@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 元はとある村の富豪の息子で、[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄がいる。しかし村には男の双子を不吉とする[迷信](../Page/迷信.md "wikilink")があったため、両親に女の子として育てられる。そのため[少女然とした風貌や言動が身に付いてしまった](https://ja.wikipedia.org/wiki/ロリショタ "wikilink")。
+  - 元はとある村の富豪の息子で、[双子](https://ja.wikipedia.org/wiki/双子 "wikilink")の兄がいる。しかし村には男の双子を不吉とする[迷信](../Page/迷信.md "wikilink")があったため、両親に女の子として育てられる。そのため[少女然とした風貌や言動が身に付いてしまった](../Page/ロリショタ.md "wikilink")。
   - [一人称](../Page/一人称.md "wikilink")は「ウチ」（ウにアクセントが付く）。[性格](../Page/性格.md "wikilink")は明るく楽しいことが大好きで、やや[天然ボケ](../Page/天然ボケ.md "wikilink")。武器はYOYO（[ヨーヨー](../Page/ヨーヨー.md "wikilink")）。
   - 金色の髪にエメラルドグリーンの瞳をした[童顔](https://ja.wikipedia.org/wiki/童顔 "wikilink")。髪は短いが、サイドの髪は少し長い。小柄で華奢な体つきをしており、格好は一見すると[シスターのような帽子に](https://ja.wikipedia.org/wiki/修道女 "wikilink")、白を基調とした[ミニスカート](../Page/ミニスカート.md "wikilink")の[ワンピース](../Page/ワンピース.md "wikilink")を着用し、丈が短い[スパッツ](../Page/スパッツ.md "wikilink")を穿いている。更に腰部には大きな[手錠](../Page/手錠.md "wikilink")らしきものが付いている。ゲーム中はよく女性と間違われるが、[ジョニー](../Page/ジョニー_\(GUILTY_GEAR\).md "wikilink")、[紗夢](../Page/蔵土縁紗夢.md "wikilink")、[ロボカイ](../Page/ロボカイ.md "wikilink")は男性と見抜いている（ジョニーは最初間違えたが、最終的には見抜いた）。
   - 終戦管理局から本来取り上げられることはないが、危険度S++クラスのギア・[ディズィー](../Page/ディズィー.md "wikilink")を追っているということで危険度が設定されている（ただし最低の「Dクラス」）。

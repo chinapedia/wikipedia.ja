@@ -271,7 +271,7 @@ baseよしもととしては、11年の歴史を刻んできたが、[2010年](h
   - [満](https://ja.wikipedia.org/wiki/満 "wikilink")（溝上は元「エグザミア」の福田善計と藤原直樹、元ピン芸人の安富郁矢、元[デモしかし](https://ja.wikipedia.org/wiki/デモしかし "wikilink")の高山和也と共に「[超新塾](../Page/超新塾.md "wikilink")」を結成。諸岡は「[トーキョーハイライト](https://ja.wikipedia.org/wiki/トーキョーハイライト "wikilink")」を立ち上げ）
   - [みのなが](../Page/みのなが.md "wikilink")
   - [シェイクダウン](https://ja.wikipedia.org/wiki/シェイクダウン_\(お笑い\) "wikilink")（[後藤秀樹](../Page/後藤秀樹.md "wikilink")と[お～い\!久馬](https://ja.wikipedia.org/wiki/お～い!久馬 "wikilink")（「[ザ・プラン9](../Page/ザ・プラン9.md "wikilink")」）の組んでいたコンビ）
-  - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")（[土肥ポン太](../Page/土肥ポン太.md "wikilink")が組んでいたコンビ）
+  - [スキヤキ](../Page/スキヤキ_\(お笑いコンビ\).md "wikilink")（[土肥ポン太](../Page/土肥ポン太.md "wikilink")が組んでいたコンビ）
   - [シンドバット](https://ja.wikipedia.org/wiki/シンドバット_\(お笑い\) "wikilink")（元「ザ・プラン9」の[鈴木つかさ](../Page/鈴木つかさ.md "wikilink")が組んでいたコンビ）
   - [ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")（[吉本新喜劇](../Page/吉本新喜劇.md "wikilink")座長の[小籔千豊](../Page/小籔千豊.md "wikilink")が組んでいたコンビ）
   - [大脇里村ゼミナール](../Page/大脇里村ゼミナール.md "wikilink")（大脇はピン芸人として活動後、「[あしゅら](https://ja.wikipedia.org/wiki/あしゅら_\(お笑い\) "wikilink")」を結成したが解散。現在はピン芸人「グイグイ大脇」として活動）

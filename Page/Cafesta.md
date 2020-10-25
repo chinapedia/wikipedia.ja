@@ -11,7 +11,7 @@
   - 2004年1月19日、ゲームサービスをβとして提供開始。
   - 2004年6月1日、[佐世保小6女児同級生殺害事件](https://ja.wikipedia.org/wiki/佐世保小6女児同級生殺害事件 "wikilink")発生。実名が上がることは報道ではなかったものの、映像、発言内容から、同サイト内で発生した事が判明している。
   - 2004年6月3日、ゲームサービスの正式リリース。
-  - 2004年8月1日付でCafesta事業を会社分割し、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[Daum](https://ja.wikipedia.org/wiki/ダウム "wikilink") Communications Corp.と[株式会社パワードコムが設立した合弁会社](../Page/パワードコム.md "wikilink")「TAON」にCafesta事業を譲渡。TAONの出資比率はDaumが65%、パワードコムが35%。
+  - 2004年8月1日付でCafesta事業を会社分割し、[韓国](https://ja.wikipedia.org/wiki/韓国 "wikilink")の[Daum](../Page/ダウム.md "wikilink") Communications Corp.と[株式会社パワードコムが設立した合弁会社](../Page/パワードコム.md "wikilink")「TAON」にCafesta事業を譲渡。TAONの出資比率はDaumが65%、パワードコムが35%。
   - 2004年12月9日、サイト全体のリニューアルを行う。
   - 2005年3月23日、カフェスタゲームのサービス終了。
   - 2005年12月14日、株式会社サミーネットワークスと提携し、MyHPでBGMを流すサービスを開始する。配信されるデータは着信メロディーをwma形式で録音された物をストリーミングにより配信する形で行われた。
@@ -165,7 +165,7 @@ Cafestaの会員になると、「*MyHP*」という会員用の簡易[ホーム
 
   - [パワードコム](../Page/パワードコム.md "wikilink")
   - [ガイアックス](../Page/ガイアックス.md "wikilink")
-  - [ダウム](https://ja.wikipedia.org/wiki/ダウム "wikilink")
+  - [ダウム](../Page/ダウム.md "wikilink")
   - [ライコスジャパン](https://ja.wikipedia.org/wiki/ライコスジャパン "wikilink")
   - [MCJ](../Page/MCJ.md "wikilink")
   - [桜井くみ子](https://ja.wikipedia.org/wiki/桜井くみ子 "wikilink") - アバター販売用の特設ではなく一時期公式なblogを開設していた。

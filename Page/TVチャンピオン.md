@@ -363,7 +363,7 @@
   - それでも地球はまわる / [神山剛](https://ja.wikipedia.org/wiki/神山剛 "wikilink")
   - DRUNKER / [Rose of Rose](https://ja.wikipedia.org/wiki/Rose_of_Rose "wikilink")
   - もう一度今を選ぶかな? / [Temiyan](https://ja.wikipedia.org/wiki/Temiyan "wikilink")
-  - ブランコ / [吉田直樹](https://ja.wikipedia.org/wiki/吉田直樹_\(歌手\) "wikilink")
+  - ブランコ / [吉田直樹](../Page/吉田直樹_\(歌手\).md "wikilink")
   - ガーベラ / [松本梨香](https://ja.wikipedia.org/wiki/松本梨香 "wikilink")
   - 君の名を呼んだ / [陣内大蔵](../Page/陣内大蔵.md "wikilink")
   - Slow down / [永井龍雲](../Page/永井龍雲.md "wikilink")

@@ -563,7 +563,7 @@
   - [雪村いづみ](../Page/雪村いづみ.md "wikilink") (1958年〜?)
   - [U-DOU\&PLATY](../Page/U-DOU&PLATY.md "wikilink")（2006年〜[2007年](../Page/2007年.md "wikilink")に[RIDDIM ZONEに移籍](https://ja.wikipedia.org/wiki/rhythm_zone "wikilink")）
   - [United](https://ja.wikipedia.org/wiki/United "wikilink") (1995年〜1998年)
-  - [吉田直樹](https://ja.wikipedia.org/wiki/吉田直樹_\(歌手\) "wikilink") (2002年〜2004年)
+  - [吉田直樹](../Page/吉田直樹_\(歌手\).md "wikilink") (2002年〜2004年)
   - [吉田凜音](https://ja.wikipedia.org/wiki/吉田凜音 "wikilink") (2014年〜2015年)
   - [吉永小百合](../Page/吉永小百合.md "wikilink") (1962年〜?)
   - [ROUND TABLE featuring Nino](https://ja.wikipedia.org/wiki/ROUND_TABLE_featuring_Nino "wikilink") (2008年〜2012年)

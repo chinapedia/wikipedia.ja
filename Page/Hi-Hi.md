@@ -127,7 +127,7 @@
   - [オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")（NHK総合）戦績0勝1敗 261KB
       - 2010年度（0勝1敗）
       - オンバト最終章 チャンピオン大会直前 15年間ありがとうスペシャル（2014年3月15日）
-  - [ザ・イロモネア](https://ja.wikipedia.org/wiki/ザ・イロモネア "wikilink")（[TBS系](../Page/TBSテレビ.md "wikilink")） ゴールドラッシュ・1週目敗退
+  - [ザ・イロモネア](../Page/ザ・イロモネア.md "wikilink")（[TBS系](../Page/TBSテレビ.md "wikilink")） ゴールドラッシュ・1週目敗退
   - 東京金歯（[BSフジ](../Page/BSフジ.md "wikilink")）
   - 聖美少女学院（[エンタ\!371](https://ja.wikipedia.org/wiki/エンタ!371 "wikilink")）
   - [真王伝説](https://ja.wikipedia.org/wiki/真王伝説 "wikilink")（[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")）

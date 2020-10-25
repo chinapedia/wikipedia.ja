@@ -22,7 +22,7 @@
 <!-- end list -->
 
   - [\~交響楽団](../Page/オーケストラ.md "wikilink") ()- 音楽雑誌などで「LSO」「*ロンドンso*.」（いずれも[ロンドン交響楽団](../Page/ロンドン交響楽団.md "wikilink")の意）のように使われる。
-  - [奪三振](https://ja.wikipedia.org/wiki/三振 "wikilink") ()。
+  - [奪三振](../Page/三振.md "wikilink") ()。
   - [スタンドオフ](https://ja.wikipedia.org/wiki/スタンドオフ "wikilink") () - [ラグビー](../Page/ラグビー.md "wikilink")の[ポジション](https://ja.wikipedia.org/wiki/ラグビーのポジション#概要 "wikilink"); 10番。国際的には「フライハーフ」("Fly Half"; FH)と呼ばれる。
   - [ストックオプション](../Page/ストックオプション.md "wikilink") (stock option)
   - [南方振動](https://ja.wikipedia.org/wiki/南方振動 "wikilink") (southern oscillation)

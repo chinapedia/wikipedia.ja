@@ -43,7 +43,7 @@
   - [ハリガネロック](../Page/ハリガネロック.md "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
   - [ますだおかだ](../Page/ますだおかだ.md "wikilink")
-  - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink") - コンビを解散して土肥のピンでの出演もあり
+  - [スキヤキ](../Page/スキヤキ_\(お笑いコンビ\).md "wikilink") - コンビを解散して土肥のピンでの出演もあり
   - [2丁拳銃](../Page/2丁拳銃.md "wikilink")
   - [ロザン](../Page/ロザン.md "wikilink")
   - [なかやまきんに君](../Page/なかやまきんに君.md "wikilink")

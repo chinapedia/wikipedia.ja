@@ -140,7 +140,7 @@
 
 ### CD
 
-  - 「僕らのうた」1996年／[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（[おはよう。](../Page/おはよう。.md "wikilink")、COWCOW、シンドバット、[スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")、[ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")、[ブラザース](../Page/ブラザース.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")「[フルーツ大統領](../Page/フルーツ大統領.md "wikilink")」としての作品）
+  - 「僕らのうた」1996年／[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（[おはよう。](../Page/おはよう。.md "wikilink")、COWCOW、シンドバット、[スキヤキ](../Page/スキヤキ_\(お笑いコンビ\).md "wikilink")、[ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")、[ブラザース](../Page/ブラザース.md "wikilink")の[ユニット](../Page/ユニット.md "wikilink")「[フルーツ大統領](../Page/フルーツ大統領.md "wikilink")」としての作品）
   - 「[コムロきどり](../Page/コムロきどり.md "wikilink")」2007年／[R and C](https://ja.wikipedia.org/wiki/よしもとアール・アンド・シー "wikilink")（9曲目「[青春デストロイ](https://ja.wikipedia.org/wiki/青春デストロイ "wikilink")」）※[アルバム](../Page/アルバム.md "wikilink")
 
 ### 書籍

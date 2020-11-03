@@ -70,7 +70,7 @@ MCである千原兄弟も時折参加者側に回ってみたり、ユニット
   - [プリン姫](https://ja.wikipedia.org/wiki/プリン姫 "wikilink")
   - [COWCOW](../Page/COWCOW.md "wikilink")
   - [ビリジアン](../Page/ビリジアン_\(お笑いコンビ\).md "wikilink")
-  - [スキヤキ](https://ja.wikipedia.org/wiki/スキヤキ_\(お笑いコンビ\) "wikilink")
+  - [スキヤキ](../Page/スキヤキ_\(お笑いコンビ\).md "wikilink")
   - [次長課長](https://ja.wikipedia.org/wiki/次長課長 "wikilink")
   - [シャンプーハット](https://ja.wikipedia.org/wiki/シャンプーハット_\(お笑いコンビ\) "wikilink")
   - [後藤・天満](../Page/エレキグラム.md "wikilink")

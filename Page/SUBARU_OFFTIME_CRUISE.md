@@ -23,9 +23,11 @@
   - [伊藤由希子](../Page/伊藤由希子.md "wikilink")
   - 森川さくら
 
+## 関連項目
+
+  - [SUBARU Wonderful Journey 〜土曜日のエウレカ〜](https://ja.wikipedia.org/wiki/SUBARU_Wonderful_Journey_〜土曜日のエウレカ〜 "wikilink") - 2020年10月から放送されるSUBARU一社提供番組。
+
 ## 外部リンク
 
-  - [SUBARU OFFTIME CRUISE](http://www.tfm.co.jp/offtime/)
-  - [富士重工業](http://www.subaru.co.jp/)
-
-[Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:SUBARU](https://ja.wikipedia.org/wiki/Category:SUBARU "wikilink")
+  -
+[Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:SUBARU一社提供番組](https://ja.wikipedia.org/wiki/Category:SUBARU一社提供番組 "wikilink")

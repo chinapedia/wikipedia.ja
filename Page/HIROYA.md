@@ -121,13 +121,15 @@
   - [HIROYA オフィシャルブログ](https://ameblo.jp/kickboxer-hiroya/)
 
   -
-  - [TRY HARDジム](http://www.tryhardgym.com/)
+  - [TRY HARDジム](http://www.tryhardgym.com/)　
 
   - [RIZIN 選手データ](http://jp.rizinff.com/_tags/HIROYA)
 
-  - [K-1 選手データ](http://www.k-1wg.com/-65kg)
+  - [K-1 選手データ](http://www.k-1wg.com/-65kg)　
 
   - [イーファイト 選手データ](http://efight.jp/playermeikan-20121030_5693)
+
+  - [HIROYA 公式プロフィール](https://samuraing.com/member/hiroya/) - サムライ・マネジメント
 
 [Category:日本のキックボクサー](https://ja.wikipedia.org/wiki/Category:日本のキックボクサー "wikilink") [Category:K-1に参戦した選手](https://ja.wikipedia.org/wiki/Category:K-1に参戦した選手 "wikilink") [Category:日本の男性YouTuber](https://ja.wikipedia.org/wiki/Category:日本の男性YouTuber "wikilink") [Category:神奈川県出身の人物](https://ja.wikipedia.org/wiki/Category:神奈川県出身の人物 "wikilink") [Category:1992年生](https://ja.wikipedia.org/wiki/Category:1992年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

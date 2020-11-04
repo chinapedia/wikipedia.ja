@@ -14,16 +14,16 @@
   - **KUNIAKI**（[7月8日](https://ja.wikipedia.org/wiki/7月8日 "wikilink") - ）ベース･ボーカル
   - **HIRAI**（[9月18日](../Page/9月18日.md "wikilink") - ）ドラム
   - **RyuTARO**（[2月11日](../Page/2月11日.md "wikilink") - ）トロンボーン･ボーカル
-  - **KAZUYA**　テナーサックス･ボーカル
+  - **KAZUYA** テナーサックス･ボーカル
   - **HIROKI**（[5月9日](../Page/5月9日.md "wikilink") - ）ドラム
 
 ### 元メンバー
 
-  - **HIRAI**　ドラム　2005年脱退
-  - **HIRO**　ドラム　2007年脱退
-  - **RyuTARO**　トロンボーン･ボーカル　2009年脱退
-  - **KAZUYA**　テナーサックス･ボーカル　2010年脱退
-  - **ZAxBU**　トランペット･ボーカル　2011年脱退
+  - **HIRAI** ドラム 2005年脱退
+  - **HIRO** ドラム 2007年脱退
+  - **RyuTARO** トロンボーン･ボーカル 2009年脱退
+  - **KAZUYA** テナーサックス･ボーカル 2010年脱退
+  - **ZAxBU** トランペット･ボーカル 2011年脱退
   - **NAOKI** ギター･ボーカル 2013年脱退
   - **KUNIAKI** ベース･ボーカル 2013年脱退
   - **TAMI** トランペット 2015年脱退
@@ -92,7 +92,7 @@
         **6月21日**
           -
             Wild Seven Recordsから1st Maxi Single『From now』発売。
-            テレビ朝日系『極楽とんぼのとび蹴りゴッデス』のテ－マ曲になる。
+            テレビ朝日系『極楽とんぼのとび蹴りゴッデス』のテーマ曲になる。
         **10月25日**
           -
             同レーベルから、2nd Maxi Single『CODE-C Toy's』発売。
@@ -123,11 +123,11 @@
         **9月11日**
           -
             全国の様々なバンドとの『カップリングツアー』スタート。
-            MUSHA x KUSHA・SMASH RAID・ゆーこときカズ・マッスルドッキング・THC TANK・コンコンジャンプ　計6バンドとカップリング。
+            MUSHA x KUSHA・SMASH RAID・ゆーこときカズ・マッスルドッキング・THC TANK・コンコンジャンプ 計6バンドとカップリング。
 
 <!-- end list -->
 
-  - **2002年**　
+  - **2002年**
 
 <!-- end list -->
 
@@ -491,9 +491,9 @@
             ・1月17日（土）愛媛 松山 SALON KITTY
             ・1月18日（日）福岡 久留米 GEILS
             ・1月24日（土）東京 恵比寿 club aim
-            　FULL MONTY Last 2Days Event「The Last Supper - oneman」
+            FULL MONTY Last 2Days Event「The Last Supper - oneman」
             ・1月25日（日）東京 恵比寿 club aim
-            　FULL MONTY Last 2Days Event「The Last Supper - event」
+            FULL MONTY Last 2Days Event「The Last Supper - event」
             以上のライブを最後に解散。
             久留米でのイベントや、恵比寿でのワンマン、イベントには初期メンバーなども登場し、FULL MONTYの最後を締めくくった。
         **4月11日**
@@ -504,17 +504,17 @@
             ZAxBUの追悼イベント「ZAxBU R.I.P Memorial Event」にてFULL MONTYが追悼イベント限りで復活。
             Vo.gt : KEiTARO、Gt.vo : NAOKI、Dr : HIRAI、Tb.vo : RyuTAROに加え、BaにマッスルドッキングのKENTA、T Saxにcubetoneの矢野 佑樹、TpにONE TIME BRASS BANDやvideobrotherなどのTp:チャンケンと言うメンバー編成で追悼ライブを遂行する。
             ・11月20日(金) 東京 下北沢 CLUB Que
-            　ZAxBU R.I.P Memorial Event in Shimokitazawa
-            　出演 / THE COLTS, FULL MONTY,
+            ZAxBU R.I.P Memorial Event in Shimokitazawa
+            出演 / THE COLTS, FULL MONTY,
             ・11月21日(土) 東京 恵比寿 club aim
-            　ZAxBU R.I.P Memorial Event in Ebisu
-            　出演 / THE BREMEN$, The CHAPLIN$, TEAM VERYS, CULT OF PERSONALITY, SHACHI, UNSCANDAL, FULL MONTY,
+            ZAxBU R.I.P Memorial Event in Ebisu
+            出演 / THE BREMEN$, The CHAPLIN$, TEAM VERYS, CULT OF PERSONALITY, SHACHI, UNSCANDAL, FULL MONTY,
             ・11月22日(日) 福岡 小倉 WOW
-            　ZAxBU R.I.P Memorial Event in Kokura
-            　出演 / ゆーこときカズ, ガンジンルー, KIDS ART, The トリコロール, 511, 1Pint treato The Kilkenny, KEiTARO & RYO, DJ マムシブラザーズ,(KEiTAROがRYOとのアコースティック出演となり、FULL MONTYの出演はありません。)
+            ZAxBU R.I.P Memorial Event in Kokura
+            出演 / ゆーこときカズ, ガンジンルー, KIDS ART, The トリコロール, 511, 1Pint treato The Kilkenny, KEiTARO & RYO, DJ マムシブラザーズ,(KEiTAROがRYOとのアコースティック出演となり、FULL MONTYの出演はありません。)
             ・11月23日(月・祝) 福岡 久留米 GEILS
-            　ZAxBU R.I.P Memorial Event in Kurume
-            　出演 / KOZZY IWAKAWA & TOMMY KANDA (THE COLTS\&The Mackshow), マッスルドッキング, THE DOMINO, SUGAR HILL, DISCRUNCH, FULL MONTY, DJ マムシブラザーズ, DJ $HIN¥A,
+            ZAxBU R.I.P Memorial Event in Kurume
+            出演 / KOZZY IWAKAWA & TOMMY KANDA (THE COLTS\&The Mackshow), マッスルドッキング, THE DOMINO, SUGAR HILL, DISCRUNCH, FULL MONTY, DJ マムシブラザーズ, DJ $HIN¥A,
             ZAxBUが生前に、東日本大震災の影響で叶う事の無かったTHE COLTSとの2マンを当時開催予定だった下北沢 CLUB Queで、そしてZAxBUがFULL MONTYとして最後にあがったステージ恵比寿 club aimで再び、またZAxBUに縁のあったバンドが各地から集まり、地元福岡・久留米でも追悼イベントを開催。
             追悼イベント開催中にフリーダウンロード音源『All by myself、Alright、Are you ready』の3曲を配信。
             以後、またFULL MONTYは活動を休止、解散する。
@@ -546,9 +546,9 @@
             肺ガンで闘病中の新宿ACB店長を支援するプロジェクト「ONE FOR PiNE」のチャリティーイベント『ONE FOR PiNE』と、亡きオリジナルメンバーを偲ぶ『ZAxBU三回忌追悼イベント』の2日間のみ、FULL MONTYが約1年半ぶりに復活。
             Vo.gt : KEiTARO、Gt.vo : NAOKI、Ba.vo : KUNIAKI、Dr : HIRAI、Tb : RyuTARO、T Sax : YANO、Tp : ChanKengと言うメンバー編成で、チャリティーイベントと追悼ライブを遂行する。
             ・4月8日(土) 東京 新宿 ACB
-            　出演 / FULL MONTY, Jr.MONSTER, THE リマインズ, THE MEANS, GREST, LOSTBOY, SPLASH, SPREAD, PINES,
+            出演 / FULL MONTY, Jr.MONSTER, THE リマインズ, THE MEANS, GREST, LOSTBOY, SPLASH, SPREAD, PINES,
             ・4月9日(日) 東京 池袋 KINGSX TOKYO
-            　出演 / FULL MONTY, Nutty Western's, エスキモーズ, MUSHAxKUSHA, シビレルレコーズ (スズーキ＆kozzz fromUNSCANDAL), The トリコロール, TEAM VERYS, マッスルドッキング, noTOKYO, PET, DJ 4, THE RODEOS,
+            出演 / FULL MONTY, Nutty Western's, エスキモーズ, MUSHAxKUSHA, シビレルレコーズ (スズーキ＆kozzz fromUNSCANDAL), The トリコロール, TEAM VERYS, マッスルドッキング, noTOKYO, PET, DJ 4, THE RODEOS,
 
 <!-- end list -->
 

@@ -1,9 +1,11 @@
 > この記事は[AKIRA \(女性アーティスト\)](https://ja.wikipedia.org/wiki/AKIRA_\(女性アーティスト\))から翻訳されています。
 
 
-**AKIRA**（あきら、1978年-）は、女性アーティスト。1999年に行われた伊能ウォークの[テーマソング](https://ja.wikipedia.org/wiki/テーマソング "wikilink")などを歌った。
+**AKIRA**（あきら、1978年 - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の元[歌手](../Page/歌手.md "wikilink")。
 
-## プロフィール
+## 経歴・人物
+
+  - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に行われた全国歌謡選手権でグランプリを受賞。3年後の[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に[脚本家](../Page/脚本家.md "wikilink")・[鎌田敏夫](../Page/鎌田敏夫.md "wikilink")が作詞した「My Debut Song」で歌手デビュー。翌[1999年](../Page/1999年.md "wikilink")に2ndシングルをリリースするも、以降表立った活動は見られない。
 
 ## 音楽
 
@@ -68,7 +70,7 @@
 <tr class="odd">
 <td><p>02</p></td>
 <td><p>Let's go on a journey</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/山口純子" title="wikilink">山口純子</a></p></td>
+<td><p>山口純子</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小川博史" title="wikilink">小川博史</a></p></td>
 <td><p><a href="../Page/中村哲_(作曲家).md" title="wikilink">中村哲</a></p></td>
 <td></td>
@@ -100,6 +102,6 @@
 
 ### ラジオ番組
 
-  - [カンケ](https://ja.wikipedia.org/wiki/カンケ "wikilink")の[DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")（1997年10月-1999年3月）
+  - [カンケ](https://ja.wikipedia.org/wiki/カンケ "wikilink")の[DEEPER STREET](../Page/DEEPER_STREET.md "wikilink")（1997年10月 - 1999年3月）
 
 [Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:1978年生](https://ja.wikipedia.org/wiki/Category:1978年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

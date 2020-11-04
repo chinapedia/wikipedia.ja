@@ -205,6 +205,8 @@
 
   - [プレーキ](https://ja.wikipedia.org/wiki/プレーキ "wikilink") 2009.11-2010.9
 
+  - [ニック・ダソビッチ](https://ja.wikipedia.org/wiki/ニック・ダソビッチ "wikilink") 2010.9-2011.1
+
   - [アーロン・ヴィンター](../Page/アーロン・ヴィンター.md "wikilink") 2011.1-2012.6
 
   - [ポール・マリナー](https://ja.wikipedia.org/wiki/ポール・マリナー "wikilink") 2012.7-2013.1

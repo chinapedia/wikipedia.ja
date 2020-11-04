@@ -223,7 +223,7 @@
 </tr>
 <tr class="even">
 <td><p>1988-89</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スティーヴ・ニコル" title="wikilink">スティーヴ・ニコル</a></p></td>
+<td><p><a href="../Page/スティーブ・ニコル.md" title="wikilink">スティーブ・ニコル</a></p></td>
 <td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
 </tr>
 <tr class="odd">

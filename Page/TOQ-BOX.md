@@ -56,7 +56,7 @@
 
 AO237号車の除籍を皮切りに、2013年2月までに他のTOQ-BOX車もすべて解除され、東急バスからTOQ-BOX車はから消滅。事実上、TOQ-BOXの歴史に幕を閉じた。
 
-AO237号車は除籍後、元\[\[東急グループの\[\[宗谷バス|東急グループの[宗谷バス](../Page/宗谷バス.md "wikilink")に移籍し、TOQ-BOXロゴはないがラッピング装飾は残されていた。
+AO237号車は除籍後、元[東急グループ](https://ja.wikipedia.org/wiki/東急グループ "wikilink")の[宗谷バス](../Page/宗谷バス.md "wikilink")に移籍し、TOQ-BOXロゴはないがラッピング装飾は残されていた。
 
 **[東急バス](https://ja.wikipedia.org/wiki/東急バス "wikilink")[目黒営業所](https://ja.wikipedia.org/wiki/東急バス目黒営業所 "wikilink")**
 

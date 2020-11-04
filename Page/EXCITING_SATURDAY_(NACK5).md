@@ -2,6 +2,9 @@
 
 
 **EXCITING SATURDAY**（エキサイティング サタデー）は[NACK5の](../Page/エフエムナックファイブ.md "wikilink")[番組](../Page/ラジオ番組.md "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")に開局以来続いていた[サタデー・オン・ザ・ウエーの終了をうけスタート](https://ja.wikipedia.org/wiki/SATURDAY_ON_THE_WAY_\(NACK5\) "wikilink")。[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")の[堀江ゆかり](../Page/堀江ゆかり.md "wikilink")が[パーソナリティを務める](../Page/ラジオパーソナリティ.md "wikilink")。
+
+## 概要
+
 この番組は約5時間の長時間番組で（スタート当初は8:00 - 11:00の3時間）、[音楽](../Page/音楽.md "wikilink")、[映画](../Page/映画.md "wikilink")、お出かけなど多彩な情報が満載の番組である。また、番組内には豪華な顔ぶれがパーソナリティを務めるミニ番組もある。リスナーからのメッセージとリクエストを募集している（メッセージテーマはOPで発表される）。 2012年9月29日終了。
 
 ## 放送時間
@@ -167,7 +170,7 @@
 
 <!-- end list -->
 
-  - 嵐・JUN STYLE（10:20 - 10:50 [松本潤](../Page/松本潤.md "wikilink")　[嵐](../Page/嵐_\(グループ\).md "wikilink")）
+  - [嵐・JUN STYLE](https://ja.wikipedia.org/wiki/嵐・JUN_STYLE "wikilink")（10:20 - 10:50 [松本潤](../Page/松本潤.md "wikilink")　[嵐](../Page/嵐_\(グループ\).md "wikilink")）
 
 <!-- end list -->
 
@@ -188,5 +191,9 @@
   - 震災後の2011年3月12日、19日の放送は、メッセージテーマを設けず、フリーテーマでメッセージを募集した。
   - 番組開始から、10年間1度も変更されていなかったが、番組開始11年目突入となる2011年4月よりリニューアルし、OPとEDのBGMが変わった。
   - 2012年9月22日のEDで、9月29日の放送が最終回になることが発表された。
+
+## 外部リンク
+
+  - [NACK5公式サイト](http://www.nack5.co.jp/)
 
 [Category:NACK5の番組](https://ja.wikipedia.org/wiki/Category:NACK5の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")

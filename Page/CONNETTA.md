@@ -21,7 +21,7 @@
 
 | title1 = 青空とWater | note1 = | writer1 = | lyrics1 = [カジヒデキ](../Page/カジヒデキ.md "wikilink") | music1 = カジヒデキ | extra1 = カジヒデキ | length1 = 4:18
 
-| title2 = [Alright\!](../Page/Alright!.md "wikilink") | note2 = | writer2 = | lyrics2 = 鈴木亜美 | music2 = [渡辺和紀](../Page/渡辺和紀.md "wikilink") | extra2 = [HΛL](../Page/HΛL.md "wikilink") | length2 = 5:22
+| title2 = [Alright\!](../Page/Alright!_\(鈴木亜美の曲\).md "wikilink") | note2 = | writer2 = | lyrics2 = 鈴木亜美 | music2 = [渡辺和紀](../Page/渡辺和紀.md "wikilink") | extra2 = [HΛL](../Page/HΛL.md "wikilink") | length2 = 5:22
 
 | title3 = \[\[Peaceお届け\!\!|Peaceお届け\!\!
 

@@ -42,7 +42,7 @@
 
   - [EMI Music Japan INTL. / Ak'SenT（アクセント）特集](http://www.toshiba-emi.co.jp/intl/special/0606aksent/) - 東芝EMIによる公式サイト
 
-  - [MySpace.com - AKSENT](http://www.myspace.com/aksent)
+  - [MySpace.com - AKSENT](https://myspace.com/aksent)
 
   -
 [Category:アフリカ系アメリカ人のミュージシャン](https://ja.wikipedia.org/wiki/Category:アフリカ系アメリカ人のミュージシャン "wikilink") [Category:アメリカ合衆国のラッパー](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のラッパー "wikilink") [Category:ロサンゼルス出身の人物](https://ja.wikipedia.org/wiki/Category:ロサンゼルス出身の人物 "wikilink") [Category:1987年生](https://ja.wikipedia.org/wiki/Category:1987年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

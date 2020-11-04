@@ -884,7 +884,7 @@ DSP版Windows 10 Pro（もしくはWindows 8.x Pro）の場合もOEM版と同様
 
 ### Windows XP からの乗り換え
 
-マイクロソフト社は2014年4月9日にWindows XPのサポートを終了した。このためにマイクロソフトおよびその日本法人の[日本マイクロソフト](https://ja.wikipedia.org/wiki/日本マイクロソフト "wikilink")は[Windows 8.1](https://ja.wikipedia.org/wiki/Windows_8.1 "wikilink")(当時、ただし2015年7月29日以降はWindows 10)への乗り換えを推奨しているが、現場から扱いづらいとの声が多数漏れており(詳細は[Windows 8の項を参照](https://ja.wikipedia.org/wiki/Windows_8 "wikilink"))、その結果この7に乗り換える法人顧客が2014年に入って増加している。米国の調査会社 Net Applicationsによると、2019年8月時点で[Windows XPのシェア率は](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")1.57％であるが、ほぼ確実に乗り換え先はWindows 10である。
+マイクロソフト社は2014年4月9日にWindows XPのサポートを終了した。このためにマイクロソフトおよびその日本法人の[日本マイクロソフト](https://ja.wikipedia.org/wiki/日本マイクロソフト "wikilink")は[Windows 8.1](https://ja.wikipedia.org/wiki/Windows_8.1 "wikilink")（当時、ただし2015年7月29日以降はWindows 10）への乗り換えを推奨しているが、現場から扱いづらいとの声が多数漏れており（詳細は[Windows 8の項を参照](https://ja.wikipedia.org/wiki/Windows_8 "wikilink")）、その結果この7に乗り換える法人顧客が2014年に入って増加している。米国の調査会社 Net Applicationsによると、2019年8月時点で[Windows XPのシェア率は](https://ja.wikipedia.org/wiki/Windows_XP "wikilink")1.57%であるが、ほぼ確実に乗り換え先はWindows 10である。
 
 ## 脚注
 

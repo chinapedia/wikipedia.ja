@@ -1,7 +1,7 @@
 > この記事は[Reaktor](https://ja.wikipedia.org/wiki/Reaktor)から翻訳されています。
 
 
-**Reaktor**（リアクター）は、[独](https://ja.wikipedia.org/wiki/ドイツ "wikilink")[ネイティヴ インストゥルメンツ社が開発した](../Page/Native_Instruments.md "wikilink")、グラフィカルな[統合開発環境](../Page/統合開発環境.md "wikilink")（[ビジュアルプログラミング言語](../Page/ビジュアルプログラミング言語.md "wikilink")）で、[音響合成](https://ja.wikipedia.org/wiki/音響合成 "wikilink")、[音響効果](https://ja.wikipedia.org/wiki/音響効果 "wikilink")、[数式処理](https://ja.wikipedia.org/wiki/数式処理 "wikilink")などを、あらかじめ用意された[モジュール](../Page/モジュール.md "wikilink")を組み合わせることによって、視覚的に構成できる[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。
+**Reaktor**（リアクター）は、[独](https://ja.wikipedia.org/wiki/ドイツ "wikilink")[ネイティヴ インストゥルメンツ社が開発している](../Page/Native_Instruments.md "wikilink")、主として音の生成や、[音響合成](https://ja.wikipedia.org/wiki/音響合成 "wikilink")・[音響効果](https://ja.wikipedia.org/wiki/音響効果 "wikilink")といったフィルタなどを、グラフィカルな統合環境で[モジュール](../Page/モジュール.md "wikilink")を組み合わせるなどしてビジュアルに構成できる[ソフトウェア](../Page/ソフトウェア.md "wikilink")である。これらの処理は信号処理であり、ある種の[数式処理](https://ja.wikipedia.org/wiki/数式処理 "wikilink")系であるともいえる。
 
 ## 概要
 

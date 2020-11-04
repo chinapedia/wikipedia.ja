@@ -9,7 +9,7 @@
 
 身長：158cm
 
-趣味：[ガーデニング](../Page/ガーデニング.md "wikilink")・[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")
+趣味：[ガーデニング](../Page/ガーデニング.md "wikilink")・[ヨガ](https://ja.wikipedia.org/wiki/ヨガ "wikilink")・[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink")
 
 ## 作品
 

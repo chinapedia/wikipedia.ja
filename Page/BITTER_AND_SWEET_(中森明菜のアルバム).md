@@ -37,7 +37,7 @@
 
   - 「[飾りじゃないのよ涙は](../Page/飾りじゃないのよ涙は.md "wikilink") 」
       - キーボード - 矢島真紀子
-      - シンセサイザー - 富樫春生
+      - シンセサイザー - [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")
       - ベース - 長岡道夫
       - ドラムス - 滝本季延
       - ギター - [矢島賢](../Page/矢島賢.md "wikilink")、[芳野藤丸](../Page/芳野藤丸.md "wikilink")
@@ -88,7 +88,7 @@
       - キーボード - 井上鑑
       - ベース - 渡辺守朗
       - ドラムス - [神保彰](../Page/神保彰.md "wikilink")
-      - ギター - 土方隆行
+      - ギター - [土方隆行](https://ja.wikipedia.org/wiki/土方隆行 "wikilink")
       - サックス - [土岐英史](../Page/土岐英史.md "wikilink")
       - L.パーカッション - 浜口茂外也
   - 「SO LONG」

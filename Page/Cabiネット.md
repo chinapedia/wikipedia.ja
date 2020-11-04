@@ -49,7 +49,7 @@
 
 `-->`
 
-[Category:日本の雑誌](https://ja.wikipedia.org/wiki/Category:日本の雑誌 "wikilink") [Category:機関誌](https://ja.wikipedia.org/wiki/Category:機関誌 "wikilink") [Category:日本の政治雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の政治雑誌_\(休廃刊\) "wikilink") [Category:内閣府の歴史](https://ja.wikipedia.org/wiki/Category:内閣府の歴史 "wikilink")
+[Category:機関誌](https://ja.wikipedia.org/wiki/Category:機関誌 "wikilink") [Category:日本の政治雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の政治雑誌_\(休廃刊\) "wikilink") [Category:内閣府の歴史](https://ja.wikipedia.org/wiki/Category:内閣府の歴史 "wikilink") [Category:2002年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2002年創刊の雑誌 "wikilink") [Category:2010年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2010年休廃刊の雑誌 "wikilink")
 
 1.
 2.

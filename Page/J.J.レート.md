@@ -3,7 +3,7 @@
 
 **J.J.レート**（*J.J. Lehto* 、[1966年](../Page/1966年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink") - ）は、フィンランドの元[F1ドライバー](../Page/フォーミュラ1.md "wikilink")。[1988年](../Page/1988年.md "wikilink")の[イギリスF3チャンピオン](https://ja.wikipedia.org/wiki/イギリス・フォーミュラ3選手権 "wikilink")。[ル・マン24時間レース](../Page/ル・マン24時間レース.md "wikilink")を2度制している。
 
-本名は**ユルキ・ユハニ・ヤルヴィレヘト**（*Jyrki Juhani Järvilehto* ）で、ヨーロッパ圏では発音が難しいものだったため、[ケケ・ロズベルグ](../Page/ケケ・ロズベルグ.md "wikilink")が「覚えやすいように」との理由で「JJ」を名乗るよう指示した\[1\]というエピソードがある。また、これは愛称でもある。
+本名は**ユルキ・ユハニ・ヤルヴィレヘト**（*Jyrki Juhani Järvilehto* ）で、ヨーロッパ圏では発音が難しいものだったため、同郷の[ケケ・ロズベルグ](../Page/ケケ・ロズベルグ.md "wikilink")が「覚えやすいように」との理由で「JJ」を名乗るよう指示した\[1\]というエピソードがあるが、これは愛称でもある。
 
 ## プロフィール
 
@@ -1347,7 +1347,7 @@ F1を離れた[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") - [199
 
 [Category:フィンランドのF1ドライバー](https://ja.wikipedia.org/wiki/Category:フィンランドのF1ドライバー "wikilink") [Category:ザウバーのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ザウバーのF1ドライバー "wikilink") [Category:ベネトンのF1ドライバー](https://ja.wikipedia.org/wiki/Category:ベネトンのF1ドライバー "wikilink") [Category:国際F3000選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際F3000選手権のドライバー "wikilink") [Category:イギリスF3選手権のドライバー](https://ja.wikipedia.org/wiki/Category:イギリスF3選手権のドライバー "wikilink") [Category:マカオグランプリのドライバー](https://ja.wikipedia.org/wiki/Category:マカオグランプリのドライバー "wikilink") [Category:チャンプカーのドライバー](https://ja.wikipedia.org/wiki/Category:チャンプカーのドライバー "wikilink") [Category:ドイツツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:ドイツツーリングカー選手権のドライバー "wikilink") [Category:国際ツーリングカー選手権のドライバー](https://ja.wikipedia.org/wiki/Category:国際ツーリングカー選手権のドライバー "wikilink") [Category:エスポー出身の人物](https://ja.wikipedia.org/wiki/Category:エスポー出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:ル・マン24時間勝者](https://ja.wikipedia.org/wiki/Category:ル・マン24時間勝者 "wikilink") [Category:セブリング12時間勝者](https://ja.wikipedia.org/wiki/Category:セブリング12時間勝者 "wikilink") [Category:鈴鹿1000km勝者](https://ja.wikipedia.org/wiki/Category:鈴鹿1000km勝者 "wikilink")
 
-1.  発音の難しい本名をJ.Jと短くさせプロへの道へと進ませてくれたのがケケ・ロズベルグでした　[F1グランプリ特集](https://ja.wikipedia.org/wiki/F1グランプリ特集 "wikilink") vol.042 1992年12月号 95頁、ファインダー越しの情景(21)可能性を秘めた雪解けを待つ北欧の少年 [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink")
+1.  発音の難しい本名をJ.Jと短くさせプロへの道へと進ませてくれたのもケケだった。　[F1グランプリ特集](https://ja.wikipedia.org/wiki/F1グランプリ特集 "wikilink") vol.042 1992年12月号 95頁、ファインダー越しの情景(21)可能性を秘めた雪解けを待つ北欧の少年 [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink")
 2.  新世代ドライバーインタビュー J.J.レート 自分にできる事は天命を待つだけ　[F1速報](../Page/F1速報.md "wikilink") 第5巻第3号 1994テスト情報号 52-53頁 [ニューズ出版](../Page/ニューズ出版.md "wikilink")
 3.  暗躍する成功請負人・パーソナルマネージャーの「嘘」と「実」/ケケ・ロズベルグインタビュー　F1グランプリ特集 1993年7月号 63頁 [ソニーマガジンズ](https://ja.wikipedia.org/wiki/ソニーマガジンズ "wikilink")
 4.

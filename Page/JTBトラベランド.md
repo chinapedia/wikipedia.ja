@@ -39,5 +39,5 @@ JTBトラベランドは[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilin
 
 [Category:かつて存在した日本の旅行会社](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の旅行会社 "wikilink") [Category:かつて存在した東京都の企業](https://ja.wikipedia.org/wiki/Category:かつて存在した東京都の企業 "wikilink") [Category:JTBグループ](https://ja.wikipedia.org/wiki/Category:JTBグループ "wikilink")
 
-1.  [JTB、トラベランド店舗を地域各社に再編－首都圏法人営業、国内仕入関連も](http://www.travelvision.jp/modules/news1/article.php?storyid=46381) トラベルビジョン：2010年10月5日（2011年4月21日閲覧）
-2.  [合併広告](https://www.jtbcorp.jp/jp/company/publicnotice/pdf/public_anouncement2017.pdf) 株式会社JTB：公式サイトより（2018年4月23日閲覧）
+1.
+2.

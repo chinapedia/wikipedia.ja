@@ -55,6 +55,8 @@
 
 ### 1ZR-FBE
 
+1ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
+
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i
   - [排気量](../Page/排気量.md "wikilink"):1.598 L
   - 内径×行程:80.5×78.5
@@ -68,8 +70,6 @@
 #### 主な搭載車種
 
   - [カローラアルティス](../Page/トヨタ・カローラ.md "wikilink")（タイ仕様車）
-
-1ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
 
 ### 2ZR-FE
 
@@ -109,6 +109,8 @@
   - [ヴィッツGRMN](../Page/トヨタ・ヴィッツ.md "wikilink")（3代目・2018年春 - ）
 
 ### 2ZR-FAE
+
+2ZR-FEエンジンをベースに[バルブマチック](https://ja.wikipedia.org/wiki/バルブマチック "wikilink")(バルブリフト量を変化させ[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikilink")バルブの役割を果たす機構)を搭載したエンジンである。吸気抵抗を減少させることができるため、最大で1割程度の燃費向上と出力向上を図っている。ただし本来のスロットルバルブは残されており、運転条件によってはバルブマチックと協調制御を行うほか、バルブマチックの故障時にはバックアップとして働く。第2世代ではカム作用角変更、圧縮比アップ、補機ベルト張力のメンテナンスフリー化などにより、燃費を向上させている（下記3ZR-FAEも同様）。
 
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i バルブマチック
   - 排気量:1.797 L
@@ -160,9 +162,11 @@
   - [光岡・ガリュー type2-04](../Page/光岡・ガリュー.md "wikilink")2-04/ガリュークラシック/ミツオカリムジン（2010年5月 - 2012年5月）※認定中古車除く
   - [光岡・ヌエラ](../Page/光岡・ヌエラ.md "wikilink")（2代目・2010年5月 - 2012年5月）※認定中古車除く
 
-2ZR-FEエンジンをベースに[バルブマチック](https://ja.wikipedia.org/wiki/バルブマチック "wikilink")(バルブリフト量を変化させ[スロットル](https://ja.wikipedia.org/wiki/スロットル "wikilink")バルブの役割を果たす機構)を搭載したエンジンである。吸気抵抗を減少させることができるため、最大で1割程度の燃費向上と出力向上を図っている。ただし本来のスロットルバルブは残されており、運転条件によってはバルブマチックと協調制御を行うほか、バルブマチックの故障時にはバックアップとして働く。第2世代ではカム作用角変更、圧縮比アップ、補機ベルト張力のメンテナンスフリー化などにより、燃費を向上させている（下記3ZR-FAEも同様）。
-
 ### 2ZR-FBE
+
+2ZR-FEエンジンをベースに、プリウス特有のTHSの運転条件に特化させたエンジンである。[吸気バルブの遅閉じによるミラーサイクルを採用している](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")。そのため[吸気カムの作用角は](https://ja.wikipedia.org/wiki/バルブタイミング#4ストロークエンジンのバルブタイミング "wikilink")2ZR-FEの246°に対して2ZR-FXEは270°と広く、吸気バルブの閉弁タイミングは2ZR-FEの下死点後10° - 65°に対して2ZR-FXEでは61° - 102°と遅くなっている。そのほか水冷式外部[EGRを導入することで全負荷領域にて](../Page/排気再循環.md "wikilink")[理論空燃比による運転を達成している](../Page/空燃比.md "wikilink")（中国など一部地域の仕様では不採用）。外部[EGRが導入されているため](../Page/排気再循環.md "wikilink")、内部EGR制御に有効な排気側VVT-iは省かれており、吸気側のみのVVT-iとなる。
+
+また、補器類のうち[ウォーターポンプ](https://ja.wikipedia.org/wiki/ウォーターポンプ "wikilink")と[エアコン用](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")[コンプレッサが電動化されているため](../Page/圧縮機.md "wikilink")、それらを駆動するための補機用ベルトが存在しないが、他機種と同様に[クランクシャフト](../Page/クランクシャフト.md "wikilink")端にベルト用のプーリー（[クランクプーリー](https://ja.wikipedia.org/wiki/クランクプーリー "wikilink")）は備えられている。これは動部品が他機種と共通であるため、振動特性のマッチングに不可欠な部品であることによる。
 
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i
   - 排気量:1.797 L
@@ -180,9 +184,9 @@
   - [カローラアルティス](../Page/トヨタ・カローラ.md "wikilink")（タイ仕様車）
   - [C-HR](https://ja.wikipedia.org/wiki/トヨタ・C-HR "wikilink")（タイ仕様車）
 
-2ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
-
 ### 2ZR-FXE
+
+2ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
 
   - タイプ:直列4気筒 DOHC 16バルブ VVT-i [ミラーサイクル](../Page/ミラーサイクル.md "wikilink")
   - 排気量:1.797 L
@@ -206,10 +210,6 @@
   - [カローラセダンハイブリッド](../Page/トヨタ・カローラ.md "wikilink")（2019年9月 - ）※日本仕様での場合
   - [カローラツーリングハイブリッド](https://ja.wikipedia.org/wiki/トヨタ・カローラツーリング "wikilink")（2019年9月 - ）
 
-2ZR-FEエンジンをベースに、プリウス特有のTHSの運転条件に特化させたエンジンである。[吸気バルブの遅閉じによるミラーサイクルを採用している](https://ja.wikipedia.org/wiki/ポペットバルブ "wikilink")。そのため[吸気カムの作用角は](https://ja.wikipedia.org/wiki/バルブタイミング#4ストロークエンジンのバルブタイミング "wikilink")2ZR-FEの246°に対して2ZR-FXEは270°と広く、吸気バルブの閉弁タイミングは2ZR-FEの下死点後10° - 65°に対して2ZR-FXEでは61° - 102°と遅くなっている。そのほか水冷式外部[EGRを導入することで全負荷領域にて](../Page/排気再循環.md "wikilink")[理論空燃比による運転を達成している](../Page/空燃比.md "wikilink")（中国など一部地域の仕様では不採用）。外部[EGRが導入されているため](../Page/排気再循環.md "wikilink")、内部EGR制御に有効な排気側VVT-iは省かれており、吸気側のみのVVT-iとなる。
-
-また、補器類のうち[ウォーターポンプ](https://ja.wikipedia.org/wiki/ウォーターポンプ "wikilink")と[エアコン用](https://ja.wikipedia.org/wiki/カーエアコン "wikilink")[コンプレッサが電動化されているため](../Page/圧縮機.md "wikilink")、それらを駆動するための補機用ベルトが存在しないが、他機種と同様に[クランクシャフト](../Page/クランクシャフト.md "wikilink")端にベルト用のプーリー（[クランクプーリー](https://ja.wikipedia.org/wiki/クランクプーリー "wikilink")）は備えられている。これは動部品が他機種と共通であるため、振動特性のマッチングに不可欠な部品であることによる。
-
 ### 3ZR-FE
 
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i
@@ -228,7 +228,7 @@
 
 ### 3ZR-FAE
 
-[thumb](https://ja.wikipedia.org/wiki/画像:3ZR-FAE.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/画像:3ZR-FAE.jpg "wikilink") 3ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
 
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i バルブマチック
   - 排気量:1.986 L
@@ -270,9 +270,9 @@
 
   - [カローラ](../Page/トヨタ・カローラ.md "wikilink")（ブラジル仕様車、2010年 - ）
 
-3ZR-FEの[フレックス燃料版](https://ja.wikipedia.org/wiki/フレックス燃料車 "wikilink")。
-
 ### 4ZR-FE
+
+スペック上、1ZR-FEと同じであるが、中国生産品のため型式が区別されている。
 
   - タイプ:直列4気筒 DOHC 16バルブ DualVVT-i
   - 排気量:1.598 L
@@ -288,9 +288,9 @@
   - [カローラEX](../Page/トヨタ・カローラ.md "wikilink")（中国仕様車）
   - [ヴィッツ](../Page/トヨタ・ヴィッツ.md "wikilink")（中国仕様車）
 
-スペック上、1ZR-FEと同じであるが、中国生産品のため型式が区別されている。
-
 ### 5ZR-FXE
+
+スペック上、2ZR-FXEと同じであるが、中国生産品のため型式が区別されている。
 
   - タイプ:直列4気筒 DOHC 16バルブ VVT-i [ミラーサイクル](../Page/ミラーサイクル.md "wikilink")
   - 排気量:1.797 L
@@ -305,8 +305,6 @@
 
   - [プリウス](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")（中国仕様車）
   - [レクサス・CT](https://ja.wikipedia.org/wiki/レクサス・CT "wikilink")200h（中国仕様車）
-
-スペック上、2ZR-FXEと同じであるが、中国生産品のため型式が区別されている。
 
 ## 脚注
 

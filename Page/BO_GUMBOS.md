@@ -176,7 +176,7 @@
   - [Dr.kyOn Official Information Blog](http://dr-kyon-info.jugem.jp/)
   - [Dr.kyOn facebook](https://ja-jp.facebook.com/DrkyOn-Information-145140809540092/)
   - [Dr.kyOn Twitter](https://twitter.com/grisgrisoffice)
-  - [Dr.TOSH? Myspace](http://www.myspace.com/drtosh)
+  - [Dr.TOSH? Myspace](https://myspace.com/drtosh)
   - [岡地曙裕 Official Site](http://www.madamguitar.com/top/live-okachi.html)
   - [Dr.Tosh? オフィシャルサイト](https://nagaitoshimitsu.com/)
 

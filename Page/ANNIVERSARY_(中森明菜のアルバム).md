@@ -41,7 +41,7 @@
       - エレクトリック・ベース - 富倉安生
       - エレクトリック・ギター - [矢島賢](../Page/矢島賢.md "wikilink")
       - フォーク・ギター - 谷康一
-      - キーボード - 富樫春生、[森村献](https://ja.wikipedia.org/wiki/森村献 "wikilink")
+      - キーボード - [富樫春生](https://ja.wikipedia.org/wiki/富樫春生 "wikilink")、[森村献](https://ja.wikipedia.org/wiki/森村献 "wikilink")
       - パーカッション - [斎藤ノブ](https://ja.wikipedia.org/wiki/斎藤ノブ "wikilink")
       - ストリングス - 多弦楽グループ
       - ハープ - 山川恵子

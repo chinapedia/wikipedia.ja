@@ -820,7 +820,7 @@ MJでは通常のレギュラー版以外にも、年数本程度で趣向を凝
 
   - MC：Perfume、吉田一貴
   - AKB被災地訪問・出演：[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")（[川栄李奈](https://ja.wikipedia.org/wiki/川栄李奈 "wikilink")（当時）、[岩佐美咲](https://ja.wikipedia.org/wiki/岩佐美咲 "wikilink")、[大場美奈](https://ja.wikipedia.org/wiki/大場美奈 "wikilink")、[菊地あやか](../Page/菊地あやか.md "wikilink")、[田野優花](https://ja.wikipedia.org/wiki/田野優花 "wikilink")、[北原里英](../Page/北原里英.md "wikilink")）\[63\]
-  - 注目アーティスト紹介企画&ライブ・出演：[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[JAY'ED](../Page/JAY'ED.md "wikilink")、[チームしゃちほこ](https://ja.wikipedia.org/wiki/チームしゃちほこ "wikilink")、[横山ルリカ](../Page/横山ルリカ.md "wikilink")、[在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink")、[BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink")、[赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")、[FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")
+  - 注目アーティスト紹介企画&ライブ・出演：[福原美穂](https://ja.wikipedia.org/wiki/福原美穂 "wikilink")、[JAY'ED](../Page/JAY'ED.md "wikilink")、[チームしゃちほこ](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")、[横山ルリカ](../Page/横山ルリカ.md "wikilink")、[在日ファンク](https://ja.wikipedia.org/wiki/在日ファンク "wikilink")、[BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink")、[赤い公園](https://ja.wikipedia.org/wiki/赤い公園 "wikilink")、[FTISLAND](https://ja.wikipedia.org/wiki/FTISLAND "wikilink")
 
 ### ラジオ放送
 

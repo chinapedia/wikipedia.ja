@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作「[Lovers Again](../Page/Lovers_Again.md "wikilink")」から1ヶ月ぶりのシングル。3ヶ月連続シングルリリースの第3弾\[1\]。5thアルバム『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』の先行シングル。「CD+DVD」「CDのみ」の2形態で発売。完全限定生産で発売\[2\]。
+  - 前作「[Lovers Again](../Page/Lovers_Again.md "wikilink")」から1ヶ月ぶりのシングル。3ヶ月連続リリースの第3弾\[1\]。5thアルバム『[EXILE EVOLUTION](../Page/EXILE_EVOLUTION.md "wikilink")』の先行シングル。「CD+DVD」「CDのみ」の2形態で発売。完全限定生産で発売\[2\]。
   - オリコン週間シングルランキングでは20thシングル「[YES\!](../Page/YES!_\(EXILEの曲\).md "wikilink")」以来通算4作目の首位獲得となった\[3\]。また、[黒沢明とロス・プリモス](https://ja.wikipedia.org/wiki/黒沢明とロス・プリモス "wikilink")のシングル「[ラブユー東京](../Page/ラブユー東京.md "wikilink")」から数えてオリコン史上**1000曲目**の首位獲得曲となった\[4\]。同年2月27日には、オリコン本社で贈呈式が行われた\[5\]。
   - 2008年12月22日から、リーダーの[HIROの母校である](../Page/五十嵐広行.md "wikilink")[横浜市立金沢高等学校](https://ja.wikipedia.org/wiki/横浜市立金沢高等学校 "wikilink")の最寄り駅[京浜急行電鉄](../Page/京浜急行電鉄.md "wikilink")[金沢八景駅](../Page/金沢八景駅.md "wikilink")において、[接近メロディ](https://ja.wikipedia.org/wiki/接近メロディ "wikilink")として使用されている\[6\]。編曲は[塩塚博](https://ja.wikipedia.org/wiki/塩塚博 "wikilink")が手掛けた\[7\]。
   - 2010年3月2日放送[フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")4夜連続放送オムニバスドラマ『[卒うた](https://ja.wikipedia.org/wiki/卒うた "wikilink")』の「第2夜 道」は同曲がテーマとなっていた。

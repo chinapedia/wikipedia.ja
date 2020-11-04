@@ -40,7 +40,7 @@ Epic Gamesは、[ゲームエンジン](../Page/ゲームエンジン.md "wikili
   - [2019年](../Page/2019年.md "wikilink") - [BattleBreakersを](https://ja.wikipedia.org/wiki/BattleBreakers_（ゲーム） "wikilink")[iOS](https://ja.wikipedia.org/wiki/IOS_\(アップル\) "wikilink")、[Android](../Page/Android_\(オペレーティングシステム\).md "wikilink")、[PC](../Page/PC.md "wikilink")向けにリリース。
   - [2020年](../Page/2020年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - Unreal Engine 5(アンリアルエンジン5)が[PlayStation 5のプレイ映像で発表](https://ja.wikipedia.org/wiki/PlayStation_5 "wikilink")。
   - [2020年](../Page/2002年.md "wikilink") - Unreal Engine 5(アンリアルエンジン5)が公開。
-  - [2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink") - [App Store](../Page/App_Store.md "wikilink")、[Google PlayからFortniteが削除](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。削除を受けEpic Gamesは[Appleと](../Page/アップル_\(企業\).md "wikilink")[Google](../Page/Google.md "wikilink")を[訴訟](../Page/訴訟.md "wikilink")。詳しくは[AppleとGoogleへの訴訟](https://ja.wikipedia.org/wiki/Epic_Games#AppleとGoogleへの訴訟 "wikilink")\[6\]\[7\]
+  - [2020年](../Page/2020年.md "wikilink")[8月](../Page/8月.md "wikilink") - [App Store](../Page/App_Store.md "wikilink")、[Google PlayからFortniteが削除](https://ja.wikipedia.org/wiki/Google_Play "wikilink")。削除を受けEpic Gamesは[Appleと](../Page/アップル_\(企業\).md "wikilink")[Google](../Page/Google.md "wikilink")を[訴訟する](https://ja.wikipedia.org/wiki/Epic_Games対アップル訴訟 "wikilink")。\[6\]\[7\]
 
 ## 製品・サービス
 

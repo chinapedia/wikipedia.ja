@@ -1696,7 +1696,7 @@ It's showtime!</p></td>
 <td><p>大村<br />
 （ナイターレース）</p></td>
 <td><p>10/20~25</p></td>
-<td></td>
+<td><p>威風堂々、伝統の舞台へ。</p></td>
 </tr>
 <tr class="odd">
 <td><p>7</p></td>

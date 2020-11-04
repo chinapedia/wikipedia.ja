@@ -52,7 +52,7 @@
 
 ## 外部リンク
 
-  - [東アジアEPA構想について｜経済産業省（国会図書館アーカイブ）](http://warp.ndl.go.jp/info:ndljp/pid/243519/www.meti.go.jp/policy/trade_policy/epa/html2/1-souron0.html)
+  - [東アジアEPA構想について｜経済産業省（国会図書館アーカイブ）](https://warp.ndl.go.jp/info:ndljp/pid/243519/www.meti.go.jp/policy/trade_policy/epa/html2/1-souron0.html)
 
 [Category:日本の国際関係](https://ja.wikipedia.org/wiki/Category:日本の国際関係 "wikilink") [Category:経済連携協定](https://ja.wikipedia.org/wiki/Category:経済連携協定 "wikilink") [Category:東南アジア諸国連合](https://ja.wikipedia.org/wiki/Category:東南アジア諸国連合 "wikilink") [Category:インドの国際関係](https://ja.wikipedia.org/wiki/Category:インドの国際関係 "wikilink") [Category:オーストラリアの国際関係](https://ja.wikipedia.org/wiki/Category:オーストラリアの国際関係 "wikilink") [Category:ニュージーランドの国際関係](https://ja.wikipedia.org/wiki/Category:ニュージーランドの国際関係 "wikilink")
 

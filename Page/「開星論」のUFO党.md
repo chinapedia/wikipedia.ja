@@ -7,6 +7,8 @@
 
 2016年の政治資金収支報告書の追加 </ref>『やはりE.T.はいた\!-コズミック・ウォーターゲート事件の全貌』の著者の一人・森脇十九男を[党首](../Page/党首.md "wikilink")に据え、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の同著上梓から[参議院議員通常選挙](../Page/参議院議員通常選挙.md "wikilink")への立候補活動を本格化した。
 
+[UFO](https://ja.wikipedia.org/wiki/UFO "wikilink")は「ユーフォー」ではなく「ゆうほう」と読む。
+
 ## 沿革
 
 [1982年](../Page/1982年.md "wikilink")[5月13日](../Page/5月13日.md "wikilink") **UFO党**設立届出（政治資金規正法上の区分は政治団体）。[9月8日](../Page/9月8日.md "wikilink")[自治省](../Page/自治省.md "wikilink")告示。翌[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")の[第13回参議院議員通常選挙](https://ja.wikipedia.org/wiki/第13回参議院議員通常選挙 "wikilink")への公認候補者擁立、[確認団体](../Page/確認団体.md "wikilink")化を目論んでの結党と思われるが、準備期間不足で実現せず。以降、「21世紀をめざす若き政党 UFO党」のキャッチコピーを用いた広告をUFO専門誌などで展開し、有権者に対する浸透を図る。

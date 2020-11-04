@@ -7,7 +7,7 @@
 
 [2001年](../Page/2001年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink")より毎週土曜日午前10時～午後4時 のデイタイムの枠で放送。番組では主に最新の音楽チャート、トレンド、車、バイク情報などを紹介。もちろんゲストコーナーもあり、多彩である。
 
-番組[DJは](../Page/ディスクジョッキー.md "wikilink")、開始当初より、前番組「[LET'S SWING SATURDAY](https://ja.wikipedia.org/wiki/LET'S_SWING_SATURDAY "wikilink")」より[あいざわ元気](https://ja.wikipedia.org/wiki/あいざわ元気 "wikilink")、そして日曜日の「[SUPER FREAK SUNDAY](../Page/SUPER_FREAK_SUNDAY.md "wikilink")」末期を担当していた[井坂綾](../Page/井坂綾.md "wikilink")のコンビが一貫担当してきた。
+番組[DJは](../Page/ディスクジョッキー.md "wikilink")、開始当初より、前番組「[LET'S SWING SATURDAY](https://ja.wikipedia.org/wiki/LET'S_SWING_SATURDAY "wikilink")」より[あいざわ元気](../Page/あいざわ元気.md "wikilink")、そして日曜日の「[SUPER FREAK SUNDAY](../Page/SUPER_FREAK_SUNDAY.md "wikilink")」末期を担当していた[井坂綾](../Page/井坂綾.md "wikilink")のコンビが一貫担当してきた。
 
 [2007年](../Page/2007年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の放送をもってあいざわ元気が降板し、男性DJが[丸山周](https://ja.wikipedia.org/wiki/丸山周 "wikilink")に交代。トークもあいざわ時代からやや一変した形となる。さらに2008年4月には女性DJも井坂綾から[阿部ひろ](https://ja.wikipedia.org/wiki/阿部ひろ "wikilink")に交代する。
 
@@ -27,7 +27,7 @@
 
 <!-- end list -->
 
-  - [あいざわ元気](https://ja.wikipedia.org/wiki/あいざわ元気 "wikilink") - 2001年4月7日～2007年3月31日
+  - [あいざわ元気](../Page/あいざわ元気.md "wikilink") - 2001年4月7日～2007年3月31日
   - [丸山周](https://ja.wikipedia.org/wiki/丸山周 "wikilink") - 2007年4月7日～2010年3月27日
 
 <!-- end list -->

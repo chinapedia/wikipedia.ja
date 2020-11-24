@@ -9,6 +9,7 @@
       - [ゴールキック (ラグビー)](https://ja.wikipedia.org/wiki/ゴールキック_\(ラグビー\) "wikilink") - [ラグビー](../Page/ラグビー.md "wikilink")のルールのひとつ。
       - [ペナルティーキック (プロレス技)](https://ja.wikipedia.org/wiki/ペナルティーキック_\(プロレス技\) "wikilink") - [プロレス技](../Page/プロレス技.md "wikilink")のひとつ。[サッカーボール・キック](https://ja.wikipedia.org/wiki/サッカーボール・キック "wikilink")の派生技。
   - [プレースキッカー](https://ja.wikipedia.org/wiki/プレースキッカー "wikilink") - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")において、[フィールドゴール](https://ja.wikipedia.org/wiki/フィールドゴール "wikilink")を蹴るポジション。
+  - [パルクール](../Page/パルクール.md "wikilink")の略。
   - [ポスト・ケインズ派経済学](https://ja.wikipedia.org/wiki/ポスト・ケインズ派経済学 "wikilink")（Post-Keynesian economics）- [主流派ケインズ経済学に対抗するために](https://ja.wikipedia.org/wiki/ニューケインジアン "wikilink")[1970年代](../Page/1970年代.md "wikilink")以降に生まれた経済学派の総称。[マルクス主義](../Page/マルクス主義.md "wikilink")や[制度主義の一種である](../Page/制度派経済学.md "wikilink")。
   - [PK (機関銃)](../Page/PK_\(機関銃\).md "wikilink") - [ロシア連邦軍](../Page/ロシア連邦軍.md "wikilink")で開発されたカラシニコフ機関銃。
   - [PK (小説)](https://ja.wikipedia.org/wiki/PK_\(小説\) "wikilink") - [伊坂幸太郎](https://ja.wikipedia.org/wiki/伊坂幸太郎 "wikilink")による日本の[小説](../Page/小説.md "wikilink")作品。

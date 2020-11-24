@@ -8,7 +8,7 @@
 ## 用途
 
   - 対応する[ターミナルアダプタ](../Page/ターミナルアダプタ.md "wikilink")で番号情報を利用して特定の内線に着信させる。
-  - [音声通話](https://ja.wikipedia.org/wiki/音声通話 "wikilink")と[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")を別番号としファクシミリのみ直接応答させる。
+  - [音声通話と](../Page/電話.md "wikilink")[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")を別番号としファクシミリのみ直接応答させる。
 
 `Phone (0XX-YYY-AAAA) --|    |`
 `Phone (0XX-YYY-BBBB) --| TA |-- INSネット64加入者線`

@@ -185,7 +185,7 @@
 
   - [「SoltyRei」 OfficialSite](http://www.solty.net/)
   - [Supporters community site BEWE](http://bewe.sc/)
-  - [斎藤桃子の「ソルティ成長日記」](http://blog.excite.co.jp/soltyrei)
+  - [斎藤桃子の「ソルティ成長日記」](https://blog.excite.co.jp/soltyrei)
   - [ソルティレイ公式ブログ](http://www.solty.net/blog/)（青木たちスタッフが更新しているが情報はあまり早くない）
   - [ますみんのへや](http://www.masumin.net/)
 

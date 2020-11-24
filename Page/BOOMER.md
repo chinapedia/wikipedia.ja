@@ -81,11 +81,11 @@
   - ぬるパチ（[パチンコ・パチスロTV\!](../Page/パチンコ★パチスロTV!.md "wikilink")）
   - [双子探偵](../Page/双子探偵.md "wikilink")（終盤のトークコーナーに出演）
   - [そろそろ にちようチャップリン](https://ja.wikipedia.org/wiki/にちようチャップリン "wikilink")（テレビ東京、2019年1月26日）
-  - [爆笑問題のシンパイ賞\!\!](https://ja.wikipedia.org/wiki/爆笑問題のシンパイ賞!! "wikilink")（テレビ朝日、2019年10月4日 - ）
+  - [爆笑問題のシンパイ賞\!\!](https://ja.wikipedia.org/wiki/爆笑問題&霜降り明星のシンパイ賞!! "wikilink")（テレビ朝日、2019年10月4日 - ）
 
 ### ラジオ
 
-  - [爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")（[TBSラジオ](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")） - 年1回ほどゲスト出演。伊勢の謎掛けと、河田の超常現象話がお決まり。
+  - [爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")（[TBSラジオ](../Page/TBSラジオ.md "wikilink")） - 年1回ほどゲスト出演。伊勢の謎掛けと、河田の超常現象話がお決まり。
   - [爆笑問題の日曜サンデー](../Page/爆笑問題の日曜サンデー.md "wikilink")（TBSラジオ）
   - BOOMERのjungle paradise（[FM Fuji](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")）
   - ロッキンヘブンBOOMERのスリーナイトスペシャル（[ラジオたんぱ](../Page/日経ラジオ社.md "wikilink")）

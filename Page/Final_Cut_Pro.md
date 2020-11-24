@@ -22,7 +22,7 @@ Final Cut Pro Xは、2011年4月12日に発表された\[5\]。
 ## 優位点
 
   - 前述の拡張性によって、廉価かつコンパクトなシステム（MacBook Pro本体のみなど）で大筋の編集（旧来のオフライン編集に相当）を行い、仕上げを高価なシステム（Mac Pro+ビデオインターフェースカード+RAIDディスクシステムなど）に移行して行う（オンライン編集に相当）などの流れが非常に容易である。この場合まったく同じソフトウェアを用いることになるので、オフライン段階で効果などを付けた場合でも、そのままオンラインに反映させることができる。
-  - [Final Cut ServerとXsanシステムの組み合わせにより](../Page/Final_Cut_Server.md "wikilink")、FCPで編集した映像を複数のデスクトップ等から同時作業出来る。
+  - かつて存在した[Final Cut Server](../Page/Final_Cut_Server.md "wikilink") とXsanシステムの組み合わせにより、FCPで編集した映像を複数のデスクトップ等から同時作業出来た。
   - [テロップ](../Page/テロップ.md "wikilink")を装飾し、自由な位置に配置しアニメーションを加えることができる。
 
 ## Final Cut Pro X
@@ -71,6 +71,8 @@ Final Cut Pro Xは2011年6月21日からMac App Storeでダウンロード可能
       - 10.4.7 - 2019年10月8日リリース。[Metalベースプロセッシングエンジンへ刷新し処理速度向上](https://ja.wikipedia.org/wiki/Metal_\(API\) "wikilink")、[Mac Pro (2019)やAfterburner](https://ja.wikipedia.org/wiki/Mac_Pro#Mac_Pro（2019） "wikilink") Cardへの対応・最適化でパフォーマンス向上\[16\]
       - 10.4.8 - 2019年12月10日リリース。
       - 10.4.9 - 2020年8月25日リリース。編集ワークフローの強化\[17\]
+      - 10.4.10 - 2020年9月24日リリース。
+  - 2020年11月12日、**Final Cut Pro**と名称を元に戻した10.5リリース 。[Apple M1とNeural](https://ja.wikipedia.org/wiki/Apple_M1 "wikilink") Engineに対応し、パフォーマンスと効率が向上\[18\]
 
 ## Final Cut Proの画面（Final Cut Pro 7まで）
 
@@ -109,3 +111,4 @@ Final Cut Pro Xは2011年6月21日からMac App Storeでダウンロード可能
 15.
 16.
 17.
+18.

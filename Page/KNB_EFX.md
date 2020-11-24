@@ -56,7 +56,7 @@
 
   - [エイリアン2](../Page/エイリアン2.md "wikilink")
   - クリープス
-  - フロム・ビヨンド
+  - [フロム・ビヨンド](https://ja.wikipedia.org/wiki/フロム・ビヨンド "wikilink")
 
 <!-- end list -->
 

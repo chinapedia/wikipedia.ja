@@ -1,7 +1,7 @@
 > この記事は[FIFAワールドカップ](https://ja.wikipedia.org/wiki/FIFAワールドカップ)から翻訳されています。
 
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Passarella_world_cup.jpg "wikilink") **FIFAワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、男子[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")。サッカーの大会の世界最高峰と位置付けられ、全世界の総視聴者数が35億人を超え\[1\] [テレビ](../Page/テレビ.md "wikilink")視聴者数や経済効果は[オリンピックを凌ぐ世界最大の](../Page/近代オリンピック.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")イベント\[2\]。大抵は年度を付加して“FIFAワールドカップ \[開催国\] \[年度\]”（英: FIFA WORLD CUP \[country\] \[year\]）などのように呼称される。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Passarella_world_cup.jpg "wikilink") **ワールドカップ**（）は、[国際サッカー連盟](../Page/国際サッカー連盟.md "wikilink")（FIFA）が主催する、男子[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の[世界選手権大会](../Page/世界選手権大会.md "wikilink")。サッカーの大会の世界最高峰と位置付けられ、全世界の総視聴者数が35億人を超え\[1\] [テレビ](../Page/テレビ.md "wikilink")視聴者数や経済効果は[オリンピックを凌ぐ世界最大の](../Page/近代オリンピック.md "wikilink")[スポーツ](../Page/スポーツ.md "wikilink")イベント\[2\]。大抵は年度を付加して“FIFAワールドカップ \[開催国\] \[年度\]”（英: FIFA WORLD CUP \[country\] \[year\]）などのように呼称される。
 
 [女子の世界選手権大会については](../Page/女子サッカー.md "wikilink")[FIFA女子ワールドカップ](../Page/FIFA女子ワールドカップ.md "wikilink")を、[クラブチーム](../Page/クラブチーム.md "wikilink")の世界選手権大会については[FIFAクラブワールドカップ](../Page/FIFAクラブワールドカップ.md "wikilink")を参照。
 
@@ -45,7 +45,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 
 :\*ワールドカップ招致手引書発表
 
-::2017年11月7日、2026 FIFAワールドカップ招致手引書(現時点で最新のＷ杯招致手引書)\[23\]をFIFAが発表し、開催立候補国の[コンプライアンス](https://ja.wikipedia.org/wiki/コンプライアンス "wikilink")や施設面、人権への配慮、コストや収益などを評価すること、そして、評価の比重は、スタジアムが35%、交通が13%、チケット収入、商業収入、コストが各10%などとした\[24\]。ワールドカップ招致活動の明確な禁止事項を定め、買収工作や不適切な贈答品やW杯招致に向けたサッカー振興プロジェクト及び親善試合開催などを禁じた\[25\]\[26\]。[2002年日韓大会を除けば](../Page/2002_FIFAワールドカップ.md "wikilink")、禁じてきた複数の国によるワールドカップ共同開催を許可した。これまでのワールドカップ同様、「政府協力保証(日本では[閣議決定](../Page/閣議_\(日本\).md "wikilink"))」が必要である\[27\]\[28\]\[29\]\[30\]。
+::2017年11月7日、2026 FIFAワールドカップ招致手引書(現時点で最新のＷ杯招致手引書)\[23\] をFIFAが発表し、開催立候補国の[コンプライアンス](https://ja.wikipedia.org/wiki/コンプライアンス "wikilink")や施設面、人権への配慮、コストや収益などを評価すること、そして、評価の比重は、スタジアムが35%、交通が13%、チケット収入、商業収入、コストが各10%などとした\[24\]。ワールドカップ招致活動の明確な禁止事項を定め、買収工作や不適切な贈答品やW杯招致に向けたサッカー振興プロジェクト及び親善試合開催などを禁じた\[25\]\[26\]。[2002年日韓大会を除けば](../Page/2002_FIFAワールドカップ.md "wikilink")、禁じてきた複数の国によるワールドカップ共同開催を許可した。これまでのワールドカップ同様、「政府協力保証(日本では[閣議決定](../Page/閣議_\(日本\).md "wikilink"))」が必要である\[27\]\[28\]\[29\]\[30\]。
 
 :\*立候補国受付
 
@@ -53,18 +53,18 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 
 :\*開催提案書（Bit Book）提出
 
-::2018年3月16日の開催提案書（Bit Book）提出締切日までに両候補の開催提案書が提出された。3カ国共催提案書\[32\]とモロッコ単独開催提案書\[33\]を、2026W杯開催提案書評価タスクフォース（以下、評価タスクフォース\[34\]）が、両候補共に受け付けた。
+::2018年3月16日の開催提案書（Bit Book）提出締切日までに両候補の開催提案書が提出された。3カ国共催提案書\[32\] とモロッコ単独開催提案書\[33\] を、2026W杯開催提案書評価タスクフォース（以下、評価タスクフォース\[34\]）が、両候補共に受け付けた。
 
 :\*評価タスクフォース現地視察及び評価レポート発表
 
-::2018年4月に、評価タスクフォースが両候補を視察し、施設とインフラ整備等を調査した。5月にモロッコは不備な点があるとして再視察された。評価タスクフォースは、5月30日、両候補の事業計画のヒアリング及び質疑応答、31日に両候補のワールドカップ招致委員会のプレゼンを受けた後、評価基準\[35\]の下、評価手順\[36\]に則り、2026 FIFAワールドカップ立候補国評価レポート(以下、評価レポート)を作成し、6月1日に公表した\[37\]。評価レポートで、両候補とも合格とされたが、「3カ国共催」が圧倒的高評価だった。なお、評価レポート発表時点で、競技開催のための最低限の技術的要件に不合格の場合は、FIFA事務局(FIFA general secretariat)が、その候補を除外していた\[38\]。
+::2018年4月に、評価タスクフォースが両候補を視察し、施設とインフラ整備等を調査した。5月にモロッコは不備な点があるとして再視察された。評価タスクフォースは、5月30日、両候補の事業計画のヒアリング及び質疑応答、31日に両候補のワールドカップ招致委員会のプレゼンを受けた後、評価基準\[35\] の下、評価手順\[36\] に則り、2026 FIFAワールドカップ立候補国評価レポート(以下、評価レポート)を作成し、6月1日に公表した\[37\]。評価レポートで、両候補とも合格とされたが、「3カ国共催」が圧倒的高評価だった。なお、評価レポート発表時点で、競技開催のための最低限の技術的要件に不合格の場合は、FIFA事務局(FIFA general secretariat)が、その候補を除外していた\[38\]。
 
 :\*ワールドカップ開催国投票
 
   -
 
       -
-        [2018年](../Page/2018年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")、第68回FIFAモスクワ総会で投票は両候補のプレゼン後に、電子投票で行われ、立候補国4か国と欠席した3協会([グアム](https://ja.wikipedia.org/wiki/グアムサッカー協会 "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")、[アメリカ領ヴァージン諸島](https://ja.wikipedia.org/wiki/アメリカ領ヴァージン諸島サッカー連盟 "wikilink"))、棄権した3協会([キューバ](../Page/キューバ.md "wikilink")、[スロベニア](https://ja.wikipedia.org/wiki/スロベニアサッカー協会 "wikilink")、[スペイン](../Page/スペインサッカー連盟.md "wikilink"))、資格停止の[ガーナ](../Page/ガーナ.md "wikilink")の計11協会を除く200協会が投票し\[39\]、「3カ国共催」に134票(有効投票数の67％)、「モロッコ単独開催」に65票(33％)、「該当国なしで招致活動やり直し」に1票([イラン](https://ja.wikipedia.org/wiki/イラン・イスラム共和国サッカー連盟 "wikilink"))で、3カ国共催(カナダ・メキシコ・アメリカ)が決定した\[40\]。投票の内訳(どの協会がどこに投票したか)も同日、FIFA公式HPで公開された\[41\]。2017年1月10日のFIFA評議会(旧FIFA理事会)で正式決定していた2026年ワールドカップ本大会48カ国出場\[42\]も、確認された\[43\]。
+        [2018年](../Page/2018年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink")、第68回FIFAモスクワ総会で投票は両候補のプレゼン後に、電子投票で行われ、立候補国4か国と欠席した3協会([グアム](https://ja.wikipedia.org/wiki/グアムサッカー協会 "wikilink")、[プエルトリコ](../Page/プエルトリコ.md "wikilink")、[アメリカ領ヴァージン諸島](https://ja.wikipedia.org/wiki/アメリカ領ヴァージン諸島サッカー連盟 "wikilink"))、棄権した3協会([キューバ](../Page/キューバ.md "wikilink")、[スロベニア](https://ja.wikipedia.org/wiki/スロベニアサッカー協会 "wikilink")、[スペイン](../Page/スペインサッカー連盟.md "wikilink"))、資格停止の[ガーナ](../Page/ガーナ.md "wikilink")の計11協会を除く200協会が投票し\[39\]、「3カ国共催」に134票(有効投票数の67％)、「モロッコ単独開催」に65票(33％)、「該当国なしで招致活動やり直し」に1票([イラン](https://ja.wikipedia.org/wiki/イラン・イスラム共和国サッカー連盟 "wikilink"))で、3カ国共催(カナダ・メキシコ・アメリカ)が決定した\[40\]。投票の内訳(どの協会がどこに投票したか)も同日、FIFA公式HPで公開された\[41\]。2017年1月10日のFIFA評議会(旧FIFA理事会)で正式決定していた2026年ワールドカップ本大会48カ国出場\[42\] も、確認された\[43\]。
 
 ### 立候補条件の推移
 
@@ -92,7 +92,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 
 予選は、本大会前に各地区ごとに1〜2年間かけて行われ、地区によっては1次、2次、最終予選の段階に分けられる。最終的には「プレーオフ」や「大陸間プレーオフ」が行われ、全ての出場国が決まる。現在のルールでは、本大会に進めるのは32か国（[1978年までは](../Page/1978_FIFAワールドカップ.md "wikilink")[1930年と](../Page/1930_FIFAワールドカップ.md "wikilink")[1950年を除き](../Page/1950_FIFAワールドカップ.md "wikilink")16か国、[1982年から](../Page/1982_FIFAワールドカップ.md "wikilink")[1994年までは](../Page/1994_FIFAワールドカップ.md "wikilink")24か国で、32か国になったのは[1998年からである](../Page/1998_FIFAワールドカップ.md "wikilink")）。全出場国が決まってから、開催国で各グループリーグの[抽選](https://ja.wikipedia.org/wiki/抽選 "wikilink")会が行われる。
 
-世界を6地区に分け[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式で行う（地区によっては参加国の中から1か国集中型の「[セントラル方式](../Page/セントラル方式.md "wikilink")」や2か国を特定する「ダブルセントラル方式」を取り入れる場合もある）。アジア地区の予選は、[1994年アメリカ大会・アジア最終予選で](https://ja.wikipedia.org/wiki/1994_FIFAワールドカップ・アジア予選 "wikilink")[ドーハ](../Page/ドーハ.md "wikilink")でのセントラル方式でのリーグ戦が実施され、また[1998年フランス大会・アジア予選の第](../Page/1998_FIFAワールドカップ・アジア予選.md "wikilink")3代表決定戦が[ジョホールバル](../Page/ジョホールバル.md "wikilink")でセントラル方式での1戦のみで実施されたが、その後開催地の調整が難しくなったためホーム・アンド・アウェー方式に変更された。
+世界を6地区に分け[ホーム・アンド・アウェー](../Page/ホーム・アンド・アウェー.md "wikilink")方式で行う（地区によっては参加国の中から1か国集中型の「[集中開催](https://ja.wikipedia.org/wiki/集中開催 "wikilink")方式」や2か国を特定する「ダブルセントラル方式」を取り入れる場合もある）。アジア地区の予選は、[1994年アメリカ大会・アジア最終予選で](https://ja.wikipedia.org/wiki/1994_FIFAワールドカップ・アジア予選 "wikilink")[ドーハ](../Page/ドーハ.md "wikilink")でのセントラル方式でのリーグ戦が実施され、また[1998年フランス大会・アジア予選の第](../Page/1998_FIFAワールドカップ・アジア予選.md "wikilink")3代表決定戦が[ジョホールバル](../Page/ジョホールバル.md "wikilink")でセントラル方式での1戦のみで実施されたが、その後開催地の調整が難しくなったためホーム・アンド・アウェー方式に変更された。
 
 6地区それぞれに出場枠が定められ、過去の実績で各地区の出場枠が増減される。中には「大陸間プレーオフ」と通称される試合でいわゆる「0.5枠」を争う地区もある（例：アジアの出場枠を2.5、北中米カリブ海の出場枠を2.5とすると、両地域の予選上位2チームが自動的に本大会に進出、両地域の3位チーム同士がホーム・アンド・アウェー方式による「大陸間プレーオフ」で対戦し、その勝者が本大会出場権を獲得するシステム）。48カ国出場になる[2026年カナダ・メキシコ・アメリカ大会大陸予選から](https://ja.wikipedia.org/wiki/2026_FIFAワールドカップ "wikilink")、「大陸間プレーオフ」は、欧州以外の5大陸連盟から各1チームずつ、開催国所属大陸連盟からさらに1チームを加えた計6チームで2枠を争う。[2026年カナダ・メキシコ・アメリカ大会大陸予選は](https://ja.wikipedia.org/wiki/2026_FIFAワールドカップ "wikilink")、アフリカ、アジア、オセアニア、南米から各1代表、北中米カリブ海から2代表計6代表の大陸間プレーオフとなる\[50\]。
 
@@ -2284,7 +2284,7 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 
 [Category:FIFAワールドカップ](https://ja.wikipedia.org/wiki/Category:FIFAワールドカップ "wikilink") [Category:FIFAサッカー大会](https://ja.wikipedia.org/wiki/Category:FIFAサッカー大会 "wikilink") [Category:ナショナルチームによる国際サッカー大会](https://ja.wikipedia.org/wiki/Category:ナショナルチームによる国際サッカー大会 "wikilink") [Category:世界選手権](https://ja.wikipedia.org/wiki/Category:世界選手権 "wikilink") [Category:1930年開始のイベント](https://ja.wikipedia.org/wiki/Category:1930年開始のイベント "wikilink")
 
-1.  [サッカー＝ロシアＷ杯の総視聴者数、過去最高の35億人超](https://jp.reuters.com/article/worldcuprussia-audience-idJPKCN1OL01H)ロイター 2018年12月22日
+1.  [サッカー＝ロシアＷ杯の総視聴者数、過去最高の35億人超](https://jp.reuters.com/article/worldcuprussia-audience-idJPKCN1OL01H) ロイター 2018年12月22日
 2.
 3.  [2014 FIFAワールドカップ statistical kit-FIFA公式HP、2014年5月20日](https://web.archive.org/web/20180704121653/https://resources.fifa.com/mm/document/fifafacts/mencompwc/51/97/64/2014fwc_kit_off_the_pitch_neutral.pdf)
 4.  週刊サッカーマガジンNO.1256 2009年9月15日号
@@ -2293,8 +2293,8 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 7.
 8.
 9.
-10. [南アW杯、優勝賞金26億4000万円-サンスポ](http://megalodon.jp/2010-0315-0725-07/www.sanspo.com/soccer/news/091205/scc0912051054005-n1.htm)
-11.
+10.
+11. [南アW杯、優勝賞金26億4000万円-サンスポ](https://megalodon.jp/2010-0315-0725-07/www.sanspo.com/soccer/news/091205/scc0912051054005-n1.htm)
 12. [FIFA 本大会出場選手の所属クラブに補償金-AFPBB国際News](http://www.afpbb.com/article/sports/soccer/soccer-others/2670955/4992200)
 13.
 14.
@@ -2320,8 +2320,8 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 34. [FIFA Council approves key organisational elements of the FIFA World Cup™](http://static.fifa.com/about-fifa/news/y=2017/m=10/news=fifa-council-approves-key-organisational-elements-of-the-fifa-world-cu-2917722.html)-FIFA公式HP、2017年10月27日
 35.
 36. [2026年W杯評価手順概要-FIFA公式HP](http://resources.fifa.com/image/upload/overview-of-scoring-system-for-the-technical-evaluation-of-2026-fifa-world-cup-b.pdf?cloudid=eg1fnzj6q9ik5gmggkwi)
-37. [2026 FIFA World Cup Bid Evaluation Report](http://resources.fifa.com/image/upload/2026-fifa-world-cup-bid-evaluation-report.pdf?cloudid=yx76lnat3oingsmnlvzf)FIFA公式HP、2018年6月1日、同年6月3日閲覧
-38. [FIFA Council discusses vision for the future of football](https://www.fifa.com/about-fifa/news/y=2016/m=10/news=fifa-council-discusses-vision-for-the-future-of-football-2843681.html?intcmp=fifacom_hp_module_news_top)FIFA公式HP、2016年10月14日、2018年7月8日閲覧
+37. [2026 FIFA World Cup Bid Evaluation Report](http://resources.fifa.com/image/upload/2026-fifa-world-cup-bid-evaluation-report.pdf?cloudid=yx76lnat3oingsmnlvzf) FIFA公式HP、2018年6月1日、同年6月3日閲覧
+38. [FIFA Council discusses vision for the future of football](https://www.fifa.com/about-fifa/news/y=2016/m=10/news=fifa-council-discusses-vision-for-the-future-of-football-2843681.html?intcmp=fifacom_hp_module_news_top) FIFA公式HP、2016年10月14日、2018年7月8日閲覧
 39. [Voting results(2026 FIFAワールドカップ開催国投票結果)-国際サッカー連盟公式HP2018年6月13日](https://resources.fifa.com/image/upload/voting-results-for-the-2026-fifa-world-cup.pdf?cloudid=vpnl19m2xr8zk50mnor3)
 40. [Canada, Mexico and USA selected as hosts of the 2026 FIFA World Cup™-国際サッカー連盟公式HP2018年6月13日](https://www.fifa.com/about-fifa/news/y=2018/m=6/news=canada-mexico-and-usa-selected-as-hosts-of-the-2026-fifa-world-cuptm.html)
 41.
@@ -2331,15 +2331,15 @@ FIFAワールドカップの開催国は、初期から[1974年大会](../Page/1
 45.
 46. 『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月11日](../Page/5月11日.md "wikilink") [【サッカーW杯招致】2022年大会招致に一本化、大阪の新スタジアムなど13会場で 2010.5.11 20:23](http://sankei.jp.msn.com/sports/soccer/100511/scr1005112024016-n1.htm)
 47.
-48. [ブラジル大会へテコ入れ W杯組織委にFIFA理事会が全面参加-スポニチ2012年3月29日](http://megalodon.jp/2012-0510-0955-52/www.sponichi.co.jp/soccer/news/2012/03/29/kiji/K20120329002931600.html)
-49. [FIFA Council prepares Congress, takes key decisions for the future of the FIFA World Cup™](https://www.fifa.com/about-fifa/news/y=2017/m=5/news=fifa-council-prepares-congress-takes-key-decisions-for-the-future-of-t-2883353.html)FIFA公式HP、2017年5月9日
-50. [2026年W杯、各大陸の出場枠が決定…現行のプレーオフ制度の見直しも](https://www.soccer-king.jp/news/world/wc/20170510/585644.html)サッカーキング、2017年5月10日
+48. [ブラジル大会へテコ入れ W杯組織委にFIFA理事会が全面参加-スポニチ2012年3月29日](https://megalodon.jp/2012-0510-0955-52/www.sponichi.co.jp/soccer/news/2012/03/29/kiji/K20120329002931600.html)
+49. [FIFA Council prepares Congress, takes key decisions for the future of the FIFA World Cup™](https://www.fifa.com/about-fifa/news/y=2017/m=5/news=fifa-council-prepares-congress-takes-key-decisions-for-the-future-of-t-2883353.html) FIFA公式HP、2017年5月9日
+50. [2026年W杯、各大陸の出場枠が決定…現行のプレーオフ制度の見直しも](https://www.soccer-king.jp/news/world/wc/20170510/585644.html) サッカーキング、2017年5月10日
 51. 1950年大会には公式の決勝戦はなかった。優勝は4チームによる決勝リーグにより決定された。しかしながら、各々2試合を終えた時点で優勝の可能性が残るブラジル（勝ち点4）とウルグアイ（勝ち点3）が最終戦で対戦するために、この試合が事実上の決勝戦として扱われる。結果はウルグアイが2対1でブラジルに勝利し、ウルグアイが優勝した。 最終順位: 優勝: ウルグアイ（勝ち点5）、準優勝: ブラジル（勝ち点4）、3位: スウェーデン（勝ち点2）、4位: スペイン（勝ち点1）
-52. 1950年大会には公式の決勝戦はなかった。優勝は4チームによる決勝リーグにより決定された。しかしながら、各々2試合を終えた時点で優勝の可能性が残るブラジル（勝ち点4）とウルグアイ（勝ち点3）が最終戦で対戦するために、この試合が事実上の決勝戦として扱われる。結果はウルグアイが2対1でブラジルに勝利し、ウルグアイが優勝した。 最終順位: 優勝: ウルグアイ（勝ち点5）、準優勝: ブラジル（勝ち点4）、3位: スウェーデン（勝ち点2）、4位: スペイン（勝ち点1）
+52.
 53.
 54. [No.274　AFC抗議の退席に和解の道を1999年7月14日-大住良之公式HP](https://web.archive.org/web/20180309020002/http://www.soccertalk.jp/content/1999/07/no274.html)
-55. [岡ちゃんに新ノルマ“W杯16強”](http://megalodon.jp/2010-0506-2047-27/www.daily.co.jp/soccer/2009/07/01/0002077195.shtml)
+55. [岡ちゃんに新ノルマ“W杯16強”](https://megalodon.jp/2010-0506-2047-27/www.daily.co.jp/soccer/2009/07/01/0002077195.shtml)
 56.
-57. [2018年、22年W杯の各大陸出場枠が決定…アジアは「4.5」を維持](https://www.soccer-king.jp/news/world/wc/20150531/317680.html)サッカーキング、2015年5月31日
+57. [2018年、22年W杯の各大陸出場枠が決定…アジアは「4.5」を維持](https://www.soccer-king.jp/news/world/wc/20150531/317680.html) サッカーキング、2015年5月31日
 58.
 59.

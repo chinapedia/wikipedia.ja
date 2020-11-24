@@ -1,7 +1,7 @@
 > この記事は[L.A.ロー 七人の弁護士](https://ja.wikipedia.org/wiki/L.A.ロー_七人の弁護士)から翻訳されています。
 
 
-**L.A.ロー 七人の弁護士**（エルエーロー しちにんのべんごし、*L.A. Law*）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。[1986年](../Page/1986年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")に渡って放映された。[ロス暴動](https://ja.wikipedia.org/wiki/ロス暴動 "wikilink")を取り扱うなど、1980年代後半から1990年代前半にかけてのアメリカ社会の映し鏡ともいえるドラマである。
+は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[テレビドラマ](../Page/テレビドラマ.md "wikilink")である。[1986年](../Page/1986年.md "wikilink")から[1994年](../Page/1994年.md "wikilink")に渡って放映された。[ロス暴動](https://ja.wikipedia.org/wiki/ロス暴動 "wikilink")を取り扱うなど、1980年代後半から1990年代前半にかけてのアメリカ社会の映し鏡ともいえるドラマである。
 
 ## 概要
 

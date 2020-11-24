@@ -7,7 +7,7 @@
 
 ## 概要
 
-[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に『**[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")**』の番組名で放送を開始した、[岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川エリアの内容を中心に報道するローカルニュース番組である](../Page/香川県.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")改編でタイトルの冠を「山陽TV」から「RSK」へ改題した。後述の2011年に番組開始40周年記念特番「40歳のイブニングニュース」を放送しており、山陽放送は『イブニングニュース』をひとつの[長寿番組としている](../Page/長寿番組の一覧.md "wikilink")。
+[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")に『**[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")**』の番組名で放送を開始した、[岡山](https://ja.wikipedia.org/wiki/岡山県 "wikilink")・[香川エリアの内容を中心に伝えるローカルニュース番組である](../Page/香川県.md "wikilink")。[2005年](../Page/2005年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")改編でタイトルの冠を「山陽TV」から「RSK」へ改題した。後述の2011年に番組開始40周年記念特番「40歳のイブニングニュース」を放送しており、山陽放送は『イブニングニュース』をひとつの[長寿番組としている](../Page/長寿番組の一覧.md "wikilink")。
 
 山陽放送が[地上デジタルテレビ放送の](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")[サイマル放送](../Page/サイマル放送.md "wikilink")での[試験放送](../Page/試験放送.md "wikilink")を開始した2006年10月16日以降は、[ハイビジョン](../Page/ハイビジョン.md "wikilink")放送となっている。
 
@@ -84,7 +84,7 @@
 </tr>
 <tr class="even">
 <td><p>2019.9.30</p></td>
-<td><p>2020.3.27</p></td>
+<td><p>2020.3.28</p></td>
 <td><p>18:15 - 19:00（45分）</p></td>
 <td></td>
 </tr>

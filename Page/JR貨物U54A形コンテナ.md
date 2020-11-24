@@ -3,6 +3,8 @@
 
 **JR貨物U54A形コンテナ**（JRかもつU54Aがたコンテナ）は、[日本貨物鉄道](../Page/日本貨物鉄道.md "wikilink")（JR貨物）輸送用として籍を編入している30[ft](../Page/フィート.md "wikilink")・31ft[私有コンテナ](https://ja.wikipedia.org/wiki/私有コンテナ "wikilink")（[有蓋コンテナ](https://ja.wikipedia.org/wiki/有蓋コンテナ "wikilink")）である。製造は[東急車輛製造](https://ja.wikipedia.org/wiki/東急車輛製造 "wikilink")（以下東急、現・[総合車両製作所](https://ja.wikipedia.org/wiki/総合車両製作所 "wikilink")）の大阪製作所（後に和歌山に移転）及び和歌山製作所（現・和歌山事業所）と[中国国際海運集装箱](https://ja.wikipedia.org/wiki/中国国際海運集装箱 "wikilink")（以下CIMC）。
 
+形式の**数字部位 「 54 」**は、コンテナの容積を元に決定される。この**コンテナ容積54[㎥](../Page/立方メートル.md "wikilink")**の算出は、厳密には端数四捨五入計算の為に、内容積53.5 - 54.4㎥の間に属するコンテナが対象となる。 また形式末尾の**アルファベット一桁部位 「 A 」**は、コンテナの使用用途（主たる目的）が*' 「 普通品の輸送 」*'を表す記号として付与されている。
+
 ## 番台毎の概要
 
 ### 30000番台

@@ -12,7 +12,7 @@
 <!-- end list -->
 
   - [渡哲也](https://ja.wikipedia.org/wiki/渡哲也 "wikilink")
-  - [舘ひろし](../Page/舘ひろし.md "wikilink")（第30話まで。別の役で第109話より復帰）
+  - [舘ひろし](../Page/舘ひろし.md "wikilink")（第1話～30話・第109話から）
   - [寺尾聰](../Page/寺尾聰.md "wikilink")（第123話まで）
   - [藤岡重慶](../Page/藤岡重慶.md "wikilink")
   - [苅谷俊介](../Page/苅谷俊介.md "wikilink")
@@ -221,7 +221,7 @@
 <td><p>燃えつきた獣たち</p></td>
 <td><p>永原秀一</p></td>
 <td><p>12月23日</p></td>
-<td><p><a href="../Page/あき竹城.md" title="wikilink">あき竹城</a>、<a href="../Page/井上博一.md" title="wikilink">井上博一</a>、<a href="../Page/大下哲矢.md" title="wikilink">大下哲矢</a>、大辻慎吾、草薙良一、姿鐡太郎、<a href="https://ja.wikipedia.org/wiki/島英司" title="wikilink">島英司</a>、<a href="../Page/新山真弓.md" title="wikilink">新山真弓</a>、<a href="https://ja.wikipedia.org/wiki/深町眞紀子" title="wikilink">深町眞紀子</a>、<a href="https://ja.wikipedia.org/wiki/寺西優希子" title="wikilink">寺西優希子</a>、<a href="https://ja.wikipedia.org/wiki/佐藤惠子" title="wikilink">佐藤惠子</a>、<a href="https://ja.wikipedia.org/wiki/小林悦子" title="wikilink">小林悦子</a></p></td>
+<td><p><a href="../Page/あき竹城.md" title="wikilink">あき竹城</a>、<a href="../Page/井上博一.md" title="wikilink">井上博一</a>、<a href="../Page/大下哲矢.md" title="wikilink">大下哲矢</a>、大辻慎吾、草薙良一、姿鐡太郎、<a href="https://ja.wikipedia.org/wiki/島英司" title="wikilink">島英司</a>、<a href="../Page/新山真弓.md" title="wikilink">新山真弓</a>、<a href="https://ja.wikipedia.org/wiki/深町眞紀子" title="wikilink">深町眞紀子</a>、<a href="https://ja.wikipedia.org/wiki/寺西優希子" title="wikilink">寺西優希子</a>、<a href="https://ja.wikipedia.org/wiki/佐藤惠子" title="wikilink">佐藤惠子</a>、<a href="https://ja.wikipedia.org/wiki/小林悦子_(女優)" title="wikilink">小林悦子</a></p></td>
 <td><p>14.6%</p></td>
 <td></td>
 <td></td>
@@ -1332,7 +1332,7 @@
 <td><p>あの歌をもう一度</p></td>
 <td><p>大野武雄</p></td>
 <td><p>2月21日</p></td>
-<td><p><a href="../Page/芦川誠.md" title="wikilink">芦川誠</a>、八名信夫、河合絃司、森下明、不知火艶、庄司三郎、二家本辰巳、三重街恒二、<a href="../Page/南美希子.md" title="wikilink">南美希子</a>、浜口竜哉、<a href="https://ja.wikipedia.org/wiki/鳥居光一" title="wikilink">鳥居光一</a>、龍駿介、星野晃、岡田勝、青木勇次、<a href="https://ja.wikipedia.org/wiki/浜田知江" title="wikilink">浜田知江</a></p></td>
+<td><p>豊島ひとみ、<a href="../Page/芦川誠.md" title="wikilink">芦川誠</a>、八名信夫、森下明、不知火艶、河合絃司、浜口竜哉、庄司三郎、三重街恒二、二家本辰巳、<a href="https://ja.wikipedia.org/wiki/鳥居光一" title="wikilink">鳥居光一</a>、龍駿介、星野晃、岡田勝、<a href="https://ja.wikipedia.org/wiki/青木勇次" title="wikilink">青木勇</a>、<a href="https://ja.wikipedia.org/wiki/浜田知子" title="wikilink">浜田知子</a>、<a href="../Page/南美希子.md" title="wikilink">南美希子</a>(ノンクレジット)</p></td>
 <td><p>19.5%</p></td>
 <td></td>
 <td></td>

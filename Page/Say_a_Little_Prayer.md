@@ -18,7 +18,7 @@
 ## メンバー
 
   - [田口理恵](https://ja.wikipedia.org/wiki/田口りえ "wikilink")（たぐち りえ、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月14日](../Page/12月14日.md "wikilink") - ） [茨城県](../Page/茨城県.md "wikilink")出身
-  - [片桐華子](https://ja.wikipedia.org/wiki/片桐華子 "wikilink")（かたぎり はなこ、[1979年](../Page/1979年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - ） [京都府](../Page/京都府.md "wikilink")出身
+  - 片桐華子（かたぎり はなこ、[1979年](../Page/1979年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink") - ） [京都府](../Page/京都府.md "wikilink")出身
   - [大櫛江里加](../Page/大櫛エリカ.md "wikilink")（おおくし えりか、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[9月25日](../Page/9月25日.md "wikilink") - ） [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")出身
 
 ## ディスコグラフィー

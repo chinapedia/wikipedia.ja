@@ -126,12 +126,15 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
   - [2020年](../Page/2020年.md "wikilink")
       - [4月29日](../Page/4月29日.md "wikilink")、結成25周年プロジェクトが始動開始\[13\]と同時に、ベストアルバム発売の決定が発表され\[14\]、プロジェクトの[公式Twitter](https://twitter.com/TWO_MIX25th)も同日に開設された。
+      - [10月23日](../Page/10月23日.md "wikilink")、翌年の[1月20日](../Page/1月20日.md "wikilink")にベスト・アルバム発売の決定が発表され\[15\]、[ベスト・アルバムの特設サイト](https://cnt.kingrecords.co.jp/two-mix25th/)も同時に公開、TWO-MIXの全楽曲の中から5曲まで投票できる『[TWO-MIX楽曲総選挙](https://cnt.kingrecords.co.jp/two-mix25th/vote/)』も[11月12日](../Page/11月12日.md "wikilink")まで開催されている。
+  - [2021年](../Page/2021年.md "wikilink")
+      - [1月20日](../Page/1月20日.md "wikilink")、TWO-MIX自身初となる[オールタイムベストアルバムが発売予定](https://ja.wikipedia.org/wiki/オールタイム・ベスト "wikilink")。
 
 ## 記録・受賞など
 
   - 受賞歴
 
-:\* 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞\[15\]
+:\* 第10回[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink") ベスト5ニュー・アーティスト賞\[16\]
 
   - 記録
 
@@ -154,7 +157,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW<br />
-<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a>[16]</p></td>
+<a href="../Page/スターチャイルド.md" title="wikilink">スターチャイルド</a>[17]</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -271,7 +274,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 <td></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a></p></td>
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a> / WEA Japan</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -321,7 +324,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 <tr class="odd">
 <td><p>17th</p></td>
 <td><p><a href="../Page/2000年.md" title="wikilink">2000年</a><a href="../Page/3月8日.md" title="wikilink">3月8日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/NAKED_DANCE" title="wikilink">NAKED DANCE</a></strong> [17]</p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/NAKED_DANCE" title="wikilink">NAKED DANCE</a></strong> [18]</p></td>
 <td><p>DE.SHOW</p></td>
 <td><p>!</p></td>
 <td><p>WPC7-10042</p></td>
@@ -427,28 +430,28 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 #### オリジナル・アルバム
 
-|                                                          | 発売日                                                                                           | タイトル                                                                          | 規格           | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
-| -------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ | ---------------------------------- | --- |
-| [キングレコード](../Page/キングレコード.md "wikilink") / KMW           |                                                                                               |                                                                               |              |                                    |     |
-| 1st                                                      | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")   | **[BPM 132](https://ja.wikipedia.org/wiki/BPM_132 "wikilink")**               | 12cmCD       | KICS-502                           | 16位 |
-| 2nd                                                      | [1996年](../Page/1996年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")                      | **[BPM 143](https://ja.wikipedia.org/wiki/BPM_143 "wikilink")**               | KICS-523     | 5位                                 |     |
-| 3rd                                                      | [1996年](../Page/1996年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                    | **[BPM 150MAX](https://ja.wikipedia.org/wiki/BPM_150MAX "wikilink")**         | KICS-595     | 2位                                 |     |
-| 4th                                                      | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") | **[FANTASTIX](https://ja.wikipedia.org/wiki/FANTASTIX "wikilink")**           | KICS-649     | 11位                                |     |
-| 5th                                                      | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")   | **[DREAM TACTIX](https://ja.wikipedia.org/wiki/DREAM_TACTIX "wikilink")**     | KICS-692     | 10位                                |     |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                                               |                                                                               |              |                                    |     |
-| 6th                                                      | [1999年](../Page/1999年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")                    | **[RHYTHM FORMULA](https://ja.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")** | 12cmCD       | WPC7-10036/7                       | 18位 |
-| 7th                                                      | [2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")                    | **[0G](https://ja.wikipedia.org/wiki/0G "wikilink")**                         | 12cmCD(HDCD) | WPC7-10117                         | 24位 |
+|                                                                      | 発売日                                                                                           | タイトル                                                                          | 規格           | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
+| -------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ------------ | ---------------------------------- | --- |
+| [キングレコード](../Page/キングレコード.md "wikilink") / KMW                       |                                                                                               |                                                                               |              |                                    |     |
+| 1st                                                                  | [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[8月23日](../Page/8月23日.md "wikilink")   | **[BPM 132](https://ja.wikipedia.org/wiki/BPM_132 "wikilink")**               | 12cmCD       | KICS-502                           | 16位 |
+| 2nd                                                                  | [1996年](../Page/1996年.md "wikilink")[1月24日](../Page/1月24日.md "wikilink")                      | **[BPM 143](https://ja.wikipedia.org/wiki/BPM_143 "wikilink")**               | KICS-523     | 5位                                 |     |
+| 3rd                                                                  | [1996年](../Page/1996年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                    | **[BPM 150MAX](https://ja.wikipedia.org/wiki/BPM_150MAX "wikilink")**         | KICS-595     | 2位                                 |     |
+| 4th                                                                  | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月22日](../Page/12月22日.md "wikilink") | **[FANTASTIX](https://ja.wikipedia.org/wiki/FANTASTIX "wikilink")**           | KICS-649     | 11位                                |     |
+| 5th                                                                  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[9月23日](../Page/9月23日.md "wikilink")   | **[DREAM TACTIX](https://ja.wikipedia.org/wiki/DREAM_TACTIX "wikilink")**     | KICS-692     | 10位                                |     |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / WEA Japan |                                                                                               |                                                                               |              |                                    |     |
+| 6th                                                                  | [1999年](../Page/1999年.md "wikilink")[11月25日](../Page/11月25日.md "wikilink")                    | **[RHYTHM FORMULA](https://ja.wikipedia.org/wiki/RHYTHM_FORMULA "wikilink")** | 12cmCD       | WPC7-10036/7                       | 18位 |
+| 7th                                                                  | [2001年](../Page/2001年.md "wikilink")[10月11日](../Page/10月11日.md "wikilink")                    | **[0G](https://ja.wikipedia.org/wiki/0G "wikilink")**                         | 12cmCD(HDCD) | WPC7-10117                         | 24位 |
 
 #### リミックス・アルバム
 
-|                                                          | 発売日                                                                                                            | タイトル                                                                            | 規格                                                  | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
-| -------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------- | --- |
-| [キングレコード](../Page/キングレコード.md "wikilink") / KMW           |                                                                                                                |                                                                                 |                                                     |                                    |     |
-| 1st                                                      | [1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                                       | **[TWO→(RE)MIX](https://ja.wikipedia.org/wiki/TWO→\(RE\)MIX "wikilink")**       | 12cmCD                                              | KICS-532                           | 15位 |
-| 2nd                                                      | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | **[BPM "DANCE∞"](https://ja.wikipedia.org/wiki/BPM_"DANCE∞" "wikilink")**       | KICS-612                                            | 11位                                |     |
-| [LP](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")  | KIJS-002                                                                                                       |                                                                                 |                                                     |                                    |     |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                                                                |                                                                                 |                                                     |                                    |     |
-| 3rd                                                      | [2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                                     | **[BPM "DANCE∞" II](https://ja.wikipedia.org/wiki/BPM_"DANCE∞"_II "wikilink")** | 12cmCD(HDCD)+[CD-ROM](../Page/CD-ROM.md "wikilink") | WPC7-10126/7                       | 85位 |
+|                                                                      | 発売日                                                                                                            | タイトル                                                                            | 規格                                                  | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
+| -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | --------------------------------------------------- | ---------------------------------- | --- |
+| [キングレコード](../Page/キングレコード.md "wikilink") / KMW                       |                                                                                                                |                                                                                 |                                                     |                                    |     |
+| 1st                                                                  | [1996年](../Page/1996年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink")                                       | **[TWO→(RE)MIX](https://ja.wikipedia.org/wiki/TWO→\(RE\)MIX "wikilink")**       | 12cmCD                                              | KICS-532                           | 15位 |
+| 2nd                                                                  | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月26日](https://ja.wikipedia.org/wiki/3月26日 "wikilink") | **[BPM "DANCE∞"](https://ja.wikipedia.org/wiki/BPM_"DANCE∞" "wikilink")**       | KICS-612                                            | 11位                                |     |
+| [LP](https://ja.wikipedia.org/wiki/レコード#LP盤 "wikilink")              | KIJS-002                                                                                                       |                                                                                 |                                                     |                                    |     |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / WEA Japan |                                                                                                                |                                                                                 |                                                     |                                    |     |
+| 3rd                                                                  | [2001年](../Page/2001年.md "wikilink")[11月21日](../Page/11月21日.md "wikilink")                                     | **[BPM "DANCE∞" II](https://ja.wikipedia.org/wiki/BPM_"DANCE∞"_II "wikilink")** | 12cmCD(HDCD)+[CD-ROM](../Page/CD-ROM.md "wikilink") | WPC7-10126/7                       | 85位 |
 
 #### ミニ・アルバム
 
@@ -459,14 +462,86 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 #### ベスト・アルバム
 
-|                                                          | 発売日                                                                                         | タイトル                                                                                      | 規格            | [規格品番](../Page/規格品番.md "wikilink") | 順位   |
-| -------------------------------------------------------- | ------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- | ------------- | ---------------------------------- | ---- |
-| [キングレコード](../Page/キングレコード.md "wikilink") / KMW           |                                                                                             |                                                                                           |               |                                    |      |
-| 1st                                                      | [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月13日](../Page/3月13日.md "wikilink") | **[BPM "BEST FILES"](https://ja.wikipedia.org/wiki/BPM_"BEST_FILES" "wikilink")**         | 12cmCD+CD-ROM | KICS-611                           | 6位   |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                                             |                                                                                           |               |                                    |      |
-| 2nd                                                      | [2002年](../Page/2002年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")                    | **[7TH ANNIVERSARY BEST](https://ja.wikipedia.org/wiki/7TH_ANNIVERSARY_BEST "wikilink")** | 12cmCD        | WPC7-10136                         | 58位  |
-| キングレコード                                                  |                                                                                             |                                                                                           |               |                                    |      |
-| 3rd                                                      | [2011年](../Page/2011年.md "wikilink")[6月8日](../Page/6月8日.md "wikilink")                      | **[TWO-MIX パーフェクト・ベスト](https://ja.wikipedia.org/wiki/TWO-MIX_パーフェクト・ベスト "wikilink")**     | 12cmCD        | KICS-1655                          | 103位 |
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格</p></th>
+<th><p><a href="../Page/規格品番.md" title="wikilink">規格品番</a></p></th>
+<th><p>順位</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/キングレコード.md" title="wikilink">キングレコード</a> / KMW</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1st</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a><a href="../Page/3月13日.md" title="wikilink">3月13日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/BPM_&quot;BEST_FILES&quot;" title="wikilink">BPM "BEST FILES"</a></strong></p></td>
+<td><p>12cmCD+CD-ROM</p></td>
+<td><p>KICS-611</p></td>
+<td><p>6位</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ワーナーミュージック・ジャパン.md" title="wikilink">ワーナーミュージック・ジャパン</a> / WEA Japan</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2nd</p></td>
+<td><p><a href="../Page/2002年.md" title="wikilink">2002年</a><a href="../Page/4月24日.md" title="wikilink">4月24日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/7TH_ANNIVERSARY_BEST" title="wikilink">7TH ANNIVERSARY BEST</a></strong></p></td>
+<td><p>12cmCD</p></td>
+<td><p>WPC7-10136</p></td>
+<td><p>58位</p></td>
+</tr>
+<tr class="odd">
+<td><p>キングレコード</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>3rd</p></td>
+<td><p><a href="../Page/2011年.md" title="wikilink">2011年</a><a href="../Page/6月8日.md" title="wikilink">6月8日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/TWO-MIX_パーフェクト・ベスト" title="wikilink">TWO-MIX パーフェクト・ベスト</a></strong></p></td>
+<td><p>12cmCD</p></td>
+<td><p>KICS-1655</p></td>
+<td><p>103位</p></td>
+</tr>
+<tr class="odd">
+<td><p>4th</p></td>
+<td><p><a href="../Page/2021年.md" title="wikilink">2021年</a><a href="../Page/1月20日.md" title="wikilink">1月20日</a>予定</p></td>
+<td><p><strong>TWO-MIX 25th Anniversary ALL TIME BEST(仮)</strong></p></td>
+<td><p>12cmCD+<a href="../Page/Blu-ray_Disc.md" title="wikilink">Blu-ray</a></p></td>
+<td><p>KICS-93911/3<br />
+(初回限定盤)</p></td>
+<td><p>TBA</p></td>
+</tr>
+<tr class="even">
+<td><p>12cmCD</p></td>
+<td><p>KICS-3911/2<br />
+(通常盤)</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 #### 非公認ベスト・アルバム
 
@@ -478,38 +553,38 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 #### セルフカバー・アルバム
 
-|                                                          | 発売日                                                                                                              | タイトル                                                                      | 規格            | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ---------------------------------- | --- |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                                                                  |                                                                           |               |                                    |     |
-| 1st                                                      | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[Baroque Best](https://ja.wikipedia.org/wiki/Baroque_Best "wikilink")** | 12cmCD        | WPC7-8550                          | 19位 |
-| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                                           | **[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")** \[18\]  | WPC7-10049/50 | 16位                                |     |
+|                                                                      | 発売日                                                                                                              | タイトル                                                                      | 規格            | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
+| -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ------------- | ---------------------------------- | --- |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / WEA Japan |                                                                                                                  |                                                                           |               |                                    |     |
+| 1st                                                                  | [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[11月26日](https://ja.wikipedia.org/wiki/11月26日 "wikilink") | **[Baroque Best](https://ja.wikipedia.org/wiki/Baroque_Best "wikilink")** | 12cmCD        | WPC7-8550                          | 19位 |
+| 2nd                                                                  | [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                                           | **[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")** \[19\]  | WPC7-10049/50 | 16位                                |     |
 
 #### コンピレーション・アルバム
 
-|                                                              | 発売日                                                                                                          | タイトル                                           | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 順位 |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | ------ | ---------------------------------- | -- |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")     |                                                                                                              |                                                |        |                                    |    |
-| 1st                                                          | [2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")                                     | **DANCE INFINITY vol.1 supervised by TWO∞MIX** | 12cmCD | WPC7-10045                         |    |
-| [ShiinaTactix-Music](http://www.shiinatactix.com/index.html) |                                                                                                              |                                                |        |                                    |    |
-| 2nd                                                          | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **BPM151Tactix** \[19\]                        | 12cmCD | STM-0001                           |    |
+|                                                                      | 発売日                                                                                                          | タイトル                                           | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 順位 |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ | ---------------------------------------------- | ------ | ---------------------------------- | -- |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / WEA Japan |                                                                                                              |                                                |        |                                    |    |
+| 1st                                                                  | [2000年](../Page/2000年.md "wikilink")[5月17日](../Page/5月17日.md "wikilink")                                     | **DANCE INFINITY vol.1 supervised by TWO∞MIX** | 12cmCD | WPC7-10045                         |    |
+| [ShiinaTactix-Music](http://www.shiinatactix.com/index.html)         |                                                                                                              |                                                |        |                                    |    |
+| 2nd                                                                  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月7日](https://ja.wikipedia.org/wiki/7月7日 "wikilink") | **BPM151Tactix** \[20\]                        | 12cmCD | STM-0001                           |    |
 
 #### CD BOX
 
-|                                                          | 発売日                                                                        | タイトル                                                                                                                        | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 順位   |
-| -------------------------------------------------------- | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------- | ---- |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                            |                                                                                                                             |        |                                    |      |
-| 1st                                                      | [2002年](../Page/2002年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") | **[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")** | 12cmCD | WPC7-10161/4                       | 163位 |
+|                                                                    | 発売日                                                                        | タイトル                                                                                                                        | 規格     | [規格品番](../Page/規格品番.md "wikilink") | 順位   |
+| ------------------------------------------------------------------ | -------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- | ------ | ---------------------------------- | ---- |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / Organon |                                                                            |                                                                                                                             |        |                                    |      |
+| 1st                                                                | [2002年](../Page/2002年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") | **[TWO-MIX COLLECTION BOX 〜Categorhythm〜](https://ja.wikipedia.org/wiki/TWO-MIX_COLLECTION_BOX_〜Categorhythm〜 "wikilink")** | 12cmCD | WPC7-10161/4                       | 163位 |
 
 ### 映像作品
 
-|                                                          | 発売日                                                                      | タイトル                                                                                    | 規格                                      | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
-| -------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------- | --- |
-| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") |                                                                          |                                                                                         |                                         |                                    |     |
-| 1st                                                      | [1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") | **[VISION FORMULA](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")**           | [VHS](../Page/VHS.md "wikilink")+12cmCD | WPC7-10032                         | 18位 |
-| 2nd                                                      | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **NAKED DANCE** \[20\]                                                                  | VHS                                     | WPV7-90002                         | \-  |
-| 3rd                                                      | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **[VISION FORMULA 2000-DVD-](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")** | [DVD](../Page/DVD.md "wikilink")        | WPB7-90001                         |     |
-| [キングレコード](../Page/キングレコード.md "wikilink")                 |                                                                          |                                                                                         |                                         |                                    |     |
-| 4th                                                      | [2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")   | **WHITE REFLECTION THE MOVIE**                                                          | DVD                                     | KIBM-25                            | \-  |
+|                                                                      | 発売日                                                                      | タイトル                                                                                    | 規格                                      | [規格品番](../Page/規格品番.md "wikilink") | 順位  |
+| -------------------------------------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | --------------------------------------- | ---------------------------------- | --- |
+| [ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink") / WEA Japan |                                                                          |                                                                                         |                                         |                                    |     |
+| 1st                                                                  | [1999年](../Page/1999年.md "wikilink")[9月22日](../Page/9月22日.md "wikilink") | **[VISION FORMULA](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")**           | [VHS](../Page/VHS.md "wikilink")+12cmCD | WPC7-10032                         | 18位 |
+| 2nd                                                                  | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **NAKED DANCE** \[21\]                                                                  | VHS                                     | WPV7-90002                         | \-  |
+| 3rd                                                                  | [2000年](../Page/2000年.md "wikilink")[3月23日](../Page/3月23日.md "wikilink") | **[VISION FORMULA 2000-DVD-](https://ja.wikipedia.org/wiki/VISION_FORMULA "wikilink")** | [DVD](../Page/DVD.md "wikilink")        | WPB7-90001                         |     |
+| [キングレコード](../Page/キングレコード.md "wikilink")                             |                                                                          |                                                                                         |                                         |                                    |     |
+| 4th                                                                  | [2001年](../Page/2001年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")   | **WHITE REFLECTION THE MOVIE**                                                          | DVD                                     | KIBM-25                            | \-  |
 
 ### カヴァー楽曲
 
@@ -584,7 +659,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                      | カップリング                    | 形態        | 製造番号      | 順位  |
 | -------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------------------- | --------- | --------- | --- |
-| ジェネオンエンタテインメント\[21\] / J・A・W・S Records |                                                                          |                                                                                           |                           |           |           |     |
+| ジェネオンエンタテインメント\[22\] / J・A・W・S Records |                                                                          |                                                                                           |                           |           |           |     |
 | 1st                                    | [2007年](../Page/2007年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")   | **[時空を超えて](https://ja.wikipedia.org/wiki/時空を超えて "wikilink")**                             | Pocket Rocket Revisited   | 12cmCD    | GNCA-7908 | 39位 |
 | 2nd                                    | [2007年](../Page/2007年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink") | **[A Runner at Daybreak](https://ja.wikipedia.org/wiki/A_Runner_at_Daybreak "wikilink")** | 時空を超えて The Second Chapter | GNCA-7909 | 133位      |     |
 | Étranger                               |                                                                          |                                                                                           |                           |           |           |     |
@@ -595,7 +670,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                      | 形態        | 製造番号      | 順位   |
 | -------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | --------- | --------- | ---- |
-| ジェネオンエンタテインメント\[22\] / J・A・W・S Records |                                                                          |                                                                                           |           |           |      |
+| ジェネオンエンタテインメント\[23\] / J・A・W・S Records |                                                                          |                                                                                           |           |           |      |
 | 1st                                    | [2005年](../Page/2005年.md "wikilink")[7月27日](../Page/7月27日.md "wikilink") | **[dELTa ONE](https://ja.wikipedia.org/wiki/dELTa_ONE "wikilink")**                       | 12cmCD    | GNCA-7016 | 185位 |
 | 2nd                                    | [2006年](../Page/2006年.md "wikilink")[6月21日](../Page/6月21日.md "wikilink") | **[dELTa TWO -UNIVERSE-](https://ja.wikipedia.org/wiki/dELTa_TWO_-UNIVERSE- "wikilink")** | GNCA-7017 | 197位      |      |
 
@@ -603,7 +678,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 |                                        | 発売日                                                                      | タイトル                                                                                                                        | 形態     | 製造番号      | 順位 |
 | -------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------- | ------ | --------- | -- |
-| ジェネオンエンタテインメント\[23\] / J・A・W・S Records |                                                                          |                                                                                                                             |        |           |    |
+| ジェネオンエンタテインメント\[24\] / J・A・W・S Records |                                                                          |                                                                                                                             |        |           |    |
 | 1st                                    | [2007年](../Page/2007年.md "wikilink")[7月25日](../Page/7月25日.md "wikilink") | **[KISSDUM -ENGAGE planet- オリジナルサウンドトラック](https://ja.wikipedia.org/wiki/KISSDUM_-ENGAGE_planet-_オリジナルサウンドトラック "wikilink")** | 12cmCD | GNCA-7051 | 圏外 |
 
 ### タイアップ一覧
@@ -628,7 +703,7 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 | [1999年](../Page/1999年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")                    | Kiss                                                  | シングル「[Kiss](https://ja.wikipedia.org/wiki/Kiss_\(高山美瑠_with_TWO-MIXの曲\) "wikilink")」 | 高山みなみ                                                                                                    | アルバム『RHYTHM FORMULA』                 | 15thシングル「[MAXIMUM WAVE](https://ja.wikipedia.org/wiki/MAXIMUM_WAVE "wikilink")」と同時発売。 |         |                                                                    |                                                                              |
 | [1999年](../Page/1999年.md "wikilink")[11月10日](../Page/11月10日.md "wikilink")                  | RHYTHMIC YOUTH                                        | シングル「[RHYTHMIC YOUTH](https://ja.wikipedia.org/wiki/RHYTHMIC_YOUTH "wikilink")」     |                                                                                                          |                                      |                                                                                       |         |                                                                    |                                                                              |
 | [2000年](../Page/2000年.md "wikilink")[2月23日](https://ja.wikipedia.org/wiki/2月23日 "wikilink") | [M★TWO-MinaMiru-](../Page/高山美瑠.md "wikilink")         | 37℃〜微熱戦記〜                                                                           | シングル「[37℃〜微熱戦記〜](https://ja.wikipedia.org/wiki/37℃〜微熱戦記〜 "wikilink")」                                    |                                      |                                                                                       |         |                                                                    |                                                                              |
-| [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                      | [ゾベッカ](../Page/怪人ゾナー.md "wikilink")                   | STANCE OF RESISTANCE                                                                | シングル「[象南波羅 〜ゾナパラ〜 WHY\!パラパラ・リミックス](https://ja.wikipedia.org/wiki/象南波羅_〜ゾナパラ〜_WHY!パラパラ・リミックス "wikilink")」 | [渡部チェル](../Page/渡部チェル.md "wikilink") | アルバム『[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")』\[24\]             |         |                                                                    |                                                                              |
+| [2000年](../Page/2000年.md "wikilink")[8月9日](../Page/8月9日.md "wikilink")                      | [ゾベッカ](../Page/怪人ゾナー.md "wikilink")                   | STANCE OF RESISTANCE                                                                | シングル「[象南波羅 〜ゾナパラ〜 WHY\!パラパラ・リミックス](https://ja.wikipedia.org/wiki/象南波羅_〜ゾナパラ〜_WHY!パラパラ・リミックス "wikilink")」 | [渡部チェル](../Page/渡部チェル.md "wikilink") | アルバム『[BPM CUBE](https://ja.wikipedia.org/wiki/BPM_CUBE "wikilink")』\[25\]             |         |                                                                    |                                                                              |
 
 ## プロデュース
 
@@ -679,14 +754,33 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 
 ## 外部リンク
 
-  - [キングレコードによる公式ページ](https://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=10070)
+  - 所属レーベル
 
-  - [ワーナーミュージック・ジャパンによる公式ページ](https://wmg.jp/two_mix/)
+<!-- end list -->
+
+  - [キングレコード](https://www.kingrecords.co.jp/cs/artist/artist.aspx?artist=10070)
+
+  - [ワーナーミュージック・ジャパンジ](https://wmg.jp/two_mix/)
 
   - \- 現所属レーベル
 
-  - [ShiinaTactix-Musicオフィシャルブログ](https://ameblo.jp/shiinatactix/)
+<!-- end list -->
 
+  - ブログ
+
+<!-- end list -->
+
+  - （2008年5月27日 - ）
+
+<!-- end list -->
+
+  - TWO-MIX 25周年記念プロジェクト関連
+
+<!-- end list -->
+
+  - [特設サイト](https://cnt.kingrecords.co.jp/two-mix25th/)
+
+  -
   -
 [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink") [Category:キングレコードのアーティスト](https://ja.wikipedia.org/wiki/Category:キングレコードのアーティスト "wikilink") [Category:ワーナーミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ワーナーミュージック・ジャパンのアーティスト "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1995年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1995年に結成した音楽グループ "wikilink")
 
@@ -706,11 +800,12 @@ CDジャケットやライナーノーツでも、本人達の写真は加工さ
 14.
 15.
 16.
-17. TWO∞MIX（トゥーミックス・インフィニティ）名義
-18.
-19. ShiinaTactix-[Sana.K名義](../Page/小林沙苗.md "wikilink")
-20.
+17.
+18. TWO∞MIX（トゥーミックス・インフィニティ）名義
+19.
+20. ShiinaTactix-[Sana.K名義](../Page/小林沙苗.md "wikilink")
 21.
 22.
 23.
 24.
+25.

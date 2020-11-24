@@ -61,7 +61,11 @@
   - [愛知万博](https://ja.wikipedia.org/wiki/愛知万博 "wikilink")
   - [豊嶋稔](https://ja.wikipedia.org/wiki/豊嶋稔 "wikilink")の日本の旅路 (2004年シリーズ48回）
 
-時間外は音楽を「Music Mix」として放送。
+　　時間外は音楽を「Music Mix」として放送。
+
+  - ラジオたんぱ（現：ラジオNIKKEI）とのコラボ番組を1978年と1979年の11月23日に実施し、日本国内で放送された。
+
+　　番組は「初公開！ハワイラジオ局徹底衛星生中継」であった。その際には特別ベリカードも発行された。
 
 ## 関連項目
 
@@ -74,7 +78,7 @@
 
 ## 外部リンク
 
-  - [Radio KZOO HAWAII AM1210](http://kzoohawaii.com/) - KZOO公式サイト（日本語、2017年10月21日閲覧）
+  - [Radio KZOO HAWAII AM1210](http://kzoohawaii.com/) - KZOO公式サイト（日本語、2017年10月21日閲覧）（2020年10月現在、このサイト内のリンクからストリーミングを聴取可能）
 
   -
   -

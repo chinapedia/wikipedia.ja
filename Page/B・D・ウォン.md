@@ -93,10 +93,10 @@
 </tr>
 <tr class="even">
 <td><p>1994</p></td>
-<td><p>サイレントナイト/こんな人質もうこりごり<br />
+<td><p><a href="https://ja.wikipedia.org/wiki/サイレントナイト/こんな人質もうこりごり" title="wikilink">サイレントナイト/こんな人質もうこりごり</a><br />
 <em>The Ref</em></p></td>
 <td><p>ウォン博士</p></td>
-<td></td>
+<td><p>クレジットなし</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/メン・オブ・ウォー" title="wikilink">メン・オブ・ウォー</a><br />

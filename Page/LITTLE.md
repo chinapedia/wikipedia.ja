@@ -5,9 +5,9 @@
 
 ## 来歴
 
-[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")から[ヒップホップ](../Page/ヒップホップ.md "wikilink")の道に。ソロ[MCとして](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")[DJ SHUHOと活動していた](../Page/DJ_SHUHO.md "wikilink")。[ZINGI](../Page/ZINGI.md "wikilink")のFAMILYだった経歴があり、[童子-T](../Page/童子-T.md "wikilink")らのことを兄貴として慕っている。かつて童子-Tと同じくユニバーサルミュージック所属だった。その後[FUNKY GRAMMAR UNITに加入](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。
+[レゲエ](https://ja.wikipedia.org/wiki/レゲエ "wikilink")から[ヒップホップ](../Page/ヒップホップ.md "wikilink")の道に。ソロ[MCとして](../Page/MC_\(ヒップホップ\).md "wikilink")[DJ SHUHOと活動していた](../Page/DJ_SHUHO.md "wikilink")。[ZINGI](../Page/ZINGI.md "wikilink")のFAMILYだった経歴があり、[童子-T](../Page/童子-T.md "wikilink")らのことを兄貴として慕っている。かつて童子-Tと同じくユニバーサルミュージック所属だった。その後[FUNKY GRAMMAR UNITに加入](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。
 
-[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から活動を開始した[KICK THE CAN CREWでは](../Page/KICK_THE_CAN_CREW.md "wikilink")、[MCとリーダーを担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。グループでの活動以外にソロ活動として、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にミニアルバム『いいの』、[2001年](../Page/2001年.md "wikilink")には『[Mr.COMPACT](../Page/Mr.COMPACT.md "wikilink")』をリリース、キックではあまり見せない一面を見せた。
+[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")から活動を開始した[KICK THE CAN CREWでは](../Page/KICK_THE_CAN_CREW.md "wikilink")、[MCとリーダーを担当](../Page/MC_\(ヒップホップ\).md "wikilink")。グループでの活動以外にソロ活動として、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にミニアルバム『いいの』、[2001年](../Page/2001年.md "wikilink")には『[Mr.COMPACT](../Page/Mr.COMPACT.md "wikilink")』をリリース、キックではあまり見せない一面を見せた。
 
 [2004年](../Page/2004年.md "wikilink")[6月](../Page/6月.md "wikilink")のキック活動休止後、[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に[DJ FUMIYA](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")（[RIP SLYME](../Page/RIP_SLYME.md "wikilink")）プロデュースによるシングル『I SING, I SAY』をリリースし本格的なソロ活動を開始。2ndソロアルバム『[LIFE](../Page/LIFE_\(LITTLEのアルバム\).md "wikilink")』では童子-T及びZINGIとの共演を果たす。
 
@@ -23,7 +23,7 @@
 
 2019年4月、エフエム福岡にて「[LITTLE miyake KAZRUのmusic miston](https://fmfukuoka.co.jp/lmk/index.html)」が始まる。毎週木曜日20:25-20:55 OA。
 
-2019年、[押韻](../Page/押韻.md "wikilink")文化の普及を目指し、[細川貴英](https://ja.wikipedia.org/wiki/細川貴英 "wikilink")とともに[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル「愛韻TV」を開始。
+2019年、[押韻](../Page/押韻.md "wikilink")文化の普及を目指し、[細川貴英](https://ja.wikipedia.org/wiki/細川貴英 "wikilink")とともに[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")チャンネル「愛韻TV」を開始。[晋平太](https://ja.wikipedia.org/wiki/晋平太 "wikilink")や [Creepy Nutsの](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")[R-指定](https://ja.wikipedia.org/wiki/R-指定_\(ラッパー\) "wikilink")、[KEN THE 390など](../Page/KEN_THE_390.md "wikilink") HIPHOP界を代表する著名ラッパーが 毎回 出演している
 
 ## ディスコグラフィ
 
@@ -37,7 +37,7 @@
     2.  レスキュー('BLUESBREAKER MIX' featuring SHIGEO from [スケボーキング](../Page/スケボーキング.md "wikilink")）
     3.  DOG FOOD
     <!-- end list -->
-      - [八王子少年～春よ、来い～](https://ja.wikipedia.org/wiki/八王子少年～春よ、来い～ "wikilink")feat.RYOJI　fromケツメイシ(2020年3月1日)
+      - [八王子少年〜春よ、来い〜](https://ja.wikipedia.org/wiki/八王子少年〜春よ、来い〜 "wikilink") feat.RYOJI　fromケツメイシ(2020年3月1日)
 
 (2020年3月1日)配信シングル
 
@@ -56,10 +56,7 @@
 
   - [I SING, I SAY](https://ja.wikipedia.org/wiki/I_SING,_I_SAY "wikilink") （2004年[7月21日](../Page/7月21日.md "wikilink")）
   - [聖者が街にやってくる](https://ja.wikipedia.org/wiki/聖者が街にやってくる_\(LITTLEの曲\) "wikilink") （2004年[11月24日](../Page/11月24日.md "wikilink")）
-  - [はつ恋の 〜What's Going On〜](https://ja.wikipedia.org/wiki/はつ恋の_〜What's_Going_On〜 "wikilink") feat. [トータス松本](../Page/トータス松本.md "wikilink") （[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
-      -
-        『はつ恋の 〜What's Going On〜 feat. トータス松本』は[EAST ENDの](../Page/EAST_END.md "wikilink")[ROCK-Tee](../Page/ROCK-Tee.md "wikilink")プロデュース。
-        [ウルフルズ](../Page/ウルフルズ.md "wikilink")の[トータス松本](../Page/トータス松本.md "wikilink")が参加。
+  - [はつ恋の 〜What's Going On〜](https://ja.wikipedia.org/wiki/はつ恋の_〜What's_Going_On〜 "wikilink") feat. [トータス松本](../Page/トータス松本.md "wikilink") from ウルフルズ（[2005年](../Page/2005年.md "wikilink")[5月18日](../Page/5月18日.md "wikilink")）
   - [ワンマンショウ](../Page/ワンマンショウ.md "wikilink")（[2007年](../Page/2007年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")）
   - [夢のせい](../Page/夢のせい.md "wikilink")（2007年[10月10日](../Page/10月10日.md "wikilink")）
 

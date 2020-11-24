@@ -110,9 +110,9 @@
 
 <!-- end list -->
 
-  - [シノプシス](../Page/シノプシス.md "wikilink")　（売上高：1535.6百万米ドル） - 2011年、Extreme DA及びを買収し、2012年、SpringSoftを買収し、2015年、Atrentaを買収した。
-  - [ケイデンス・デザイン・システムズ](../Page/ケイデンス・デザイン・システムズ.md "wikilink")　（売上高：1149.8百万米ドル） - 2010年、Denali Softwareを買収し、2011年、Azuroを買収した。
-  - [メンター・グラフィックス](../Page/メンター・グラフィックス.md "wikilink")　（売上高：1014.6百万米ドル）- 2013年、Oasys Design SystemsのEDA「RealTime」を買収し、2015年、Tanner EDAを買収した。2017年、[シーメンス](../Page/シーメンス.md "wikilink")により買収された。同年、訴訟により破産したATopTechの資産を買収した\[2\]ほか、親会社のシーメンスがSolido Design Automationを買収した。2018年、シーメンスがAustemper Design Systemsの買収を発表した。
+  - [シノプシス](../Page/シノプシス.md "wikilink")　（売上高：1535.6百万米ドル） - 2011年、Extreme DA及びを買収し、2012年、SpringSoftを買収し、2015年、Atrentaを買収し、2020年、INVECAS及びTerrain EDAを買収した。
+  - [ケイデンス・デザイン・システムズ](../Page/ケイデンス・デザイン・システムズ.md "wikilink")　（売上高：1149.8百万米ドル） - 2010年、Denali Softwareを買収し、2011年、Azuroを買収し、2020年、AWR Corporation及びIntegrand Softwareを買収した。
+  - [メンター・グラフィックス](../Page/メンター・グラフィックス.md "wikilink")　（売上高：1014.6百万米ドル）- 2013年、Oasys Design SystemsのEDA「RealTime」を買収し、2015年、Tanner EDAを買収した。2017年、[シーメンス](../Page/シーメンス.md "wikilink")により買収された。同年、訴訟により破産したATopTechの資産を買収した\[2\]ほか、親会社のシーメンスがSolido Design Automationを買収した。2018年、シーメンスがAustemper Design Systemsを買収し、2020年、UltraSoC及びAvatar Integrated Systems (ATopTechから分離された会社\[3\]) を買収した。
 
 売上はFY2011
 
@@ -124,7 +124,7 @@
 
   - [キーサイト・テクノロジー](https://ja.wikipedia.org/wiki/キーサイト・テクノロジー "wikilink")
 
-  - [シルバコ](../Page/シルバコ.md "wikilink") - 2018年、NanGateを買収。
+  - [シルバコ](../Page/シルバコ.md "wikilink") - 2018年、NanGateを買収し、2020年、Coupling Wave Solutionsの資産を買収した。
 
   - [ジーダット](https://ja.wikipedia.org/wiki/ジーダット "wikilink")
 
@@ -193,3 +193,4 @@ EDAツールの新製品の発表の場として年1回 （通称[DAC](https://j
 
 1.  [ボード設計用EDAの「CADVANCE」、図研がYDCから取得](http://techon.nikkeibp.co.jp/article/NEWS/20150601/421052/) 日経BP 2015年6月1日
 2.  [Company Overview of ATopTech, Inc.](https://www.bloomberg.com/research/stocks/private/snapshot.asp?privcapId=28677093) Bloomberg
+3.  [「新しい名前で出ています」、米アバターが7nmチップ設計でアピール p.2](https://xtech.nikkei.com/atcl/nxt/event/18/00034/00009/?P=2) 日経 2018年10月29日

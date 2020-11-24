@@ -67,6 +67,8 @@ Disk BASIC はディスクI/Oが可能で、場合によっては強力なソー
 
 また標準搭載のBASIC以外に、プログラム・ツールとしてタンディはマクロ・アセンブラ、マシン語エディタ（TBUG）などを販売していた。
 
+スクリーンエディタ機能を持つ [N-BASIC](../Page/N-BASIC.md "wikilink"), F-BASICなど後年に出てきたBASICと異なり、TRS-80では、BASICのプログラム編集にラインエディタが使用された。特定の行番号の特定の文字を変更したい場合は、該当の行番号を持つ行を表示した後、スペースキー押下によってカーソルを右方向に移動させ、該当の文字に到達したところで大文字のCを入力し、新しい文字を入力することで文字の置換が行われた。
+
 ### アプリケーションソフトウェア
 
 TRS-80には無料でブラックジャックとバックギャモンが同梱されていた。また、ラジオシャックから給与計算、家計簿、教育ソフトなどがカセットで発売された。[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")や[ギャラクシアン](../Page/ギャラクシアン.md "wikilink")といったアーケードゲームを無許可で移植し販売する個人プログラマや企業が多数存在した。アドベンチャーゲームの[ゾーク](../Page/ゾーク.md "wikilink")などは、他のホームコンピュータから移植された。TRS-80発祥のゲームも *Cosmic Fighter*、*Defence Command* など多数存在する。*[Dancing Demon](http://www.dnull.com/demon/)* はゲームというよりも実験的なエンターテインメントソフトである。
@@ -202,7 +204,7 @@ Model 16 の後継が Model 16B で、さらに Tandy 6000 HD が登場した。
 
   - [8bit-micro.com - TRS-80 Support Group and Online Magazine](http://www.8bit-micro.com)
 
-  - [Radio Shack Model I and II catalog RSC-3](http://web.archive.org/web/20081228104218/http://www.robert.to/reports/trs80rsc3.html)
+  - [Radio Shack Model I and II catalog RSC-3](https://web.archive.org/web/20081228104218/http://www.robert.to/reports/trs80rsc3.html)
 
   - [trs-80.com : Ira Goldklang's TRS-80 Revived Site](http://www.trs-80.com/)
 

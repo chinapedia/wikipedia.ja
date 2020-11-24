@@ -25,7 +25,6 @@
   - [ガラクタ・ファミリア](https://ja.wikipedia.org/wiki/ガラクタ・ファミリア "wikilink")（[小牧街](https://ja.wikipedia.org/wiki/小牧街 "wikilink")）
   - [彼に依頼にしてはいけません](https://ja.wikipedia.org/wiki/彼に依頼にしてはいけません "wikilink")（[雪広うたこ](https://ja.wikipedia.org/wiki/雪広うたこ "wikilink")）
   - [騎士団長 島耕作](https://ja.wikipedia.org/wiki/課長島耕作#騎士団長_島耕作 "wikilink")（[宮本福助](../Page/宮本福助.md "wikilink")、原案：[弘兼憲史](../Page/弘兼憲史.md "wikilink")、協力：[別府マコト](https://ja.wikipedia.org/wiki/別府マコト "wikilink")）
-  - [コーセルテルの竜術士〜子竜物語〜](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
   - [最遊記RELOAD BLAST](https://ja.wikipedia.org/wiki/最遊記シリーズ "wikilink")（[峰倉かずや](../Page/峰倉かずや.md "wikilink")）
   - [少年進化論](../Page/少年進化論.md "wikilink")†（[くさなぎ俊祈](../Page/くさなぎ俊祈.md "wikilink")）
   - [先生もネット世代](https://ja.wikipedia.org/wiki/先生もネット世代 "wikilink")（[那多ここね](https://ja.wikipedia.org/wiki/那多ここね "wikilink")）
@@ -100,6 +99,7 @@
   - [Gemeinschaft](../Page/Gemeinschaft.md "wikilink")（[佐伯弥四郎](https://ja.wikipedia.org/wiki/佐伯弥四郎 "wikilink")）
   - [荒野に煙るは死の香り](https://ja.wikipedia.org/wiki/荒野に煙るは死の香り "wikilink")（[ザキコ](https://ja.wikipedia.org/wiki/ザキコ "wikilink")、原作：[牧野圭祐](https://ja.wikipedia.org/wiki/牧野圭祐 "wikilink")）
   - [コーセルテルの竜術士物語](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
+  - [コーセルテルの竜術士〜子竜物語〜](../Page/コーセルテルの竜術士物語.md "wikilink")（[石動あゆま](../Page/石動あゆま.md "wikilink")）
 
 ### さ行
 
@@ -243,5 +243,5 @@
 
 [Category:日本の漫画雑誌](https://ja.wikipedia.org/wiki/Category:日本の漫画雑誌 "wikilink") [Category:一迅社の漫画雑誌](https://ja.wikipedia.org/wiki/Category:一迅社の漫画雑誌 "wikilink") [Category:月刊漫画雑誌](https://ja.wikipedia.org/wiki/Category:月刊漫画雑誌 "wikilink") [Category:女性漫画雑誌](https://ja.wikipedia.org/wiki/Category:女性漫画雑誌 "wikilink") [Category:コミックZERO-SUM](https://ja.wikipedia.org/wiki/Category:コミックZERO-SUM "wikilink") [Category:2002年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2002年創刊の雑誌 "wikilink") [Category:刊行中の漫画雑誌](https://ja.wikipedia.org/wiki/Category:刊行中の漫画雑誌 "wikilink")
 
-1.  [コミックナタリー - \[Power Push](https://web.archive.org/web/20100701164249/http://natalie.mu/comic/pp/zerosum/) 月刊コミックZERO-SUM\]（2010年7月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）2012年6月27日閲覧
+1.  [コミックナタリー - \[Power Push\] 月刊コミックZERO-SUM](https://web.archive.org/web/20100701164249/http://natalie.mu/comic/pp/zerosum/)（2010年7月1日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）2012年6月27日閲覧
 2.  一部の作品は本誌に出張することもあった。

@@ -5,7 +5,7 @@
 
 ## 概要
 
-この作品の特徴を一言でいうと、**血と臓器にまみれたシュールでグロテスクな[ギャグ](../Page/ギャグ.md "wikilink")アニメ**というようなものになる。主要な登場人物のほとんどに[声優](../Page/声優.md "wikilink")があてられているが、明確なセリフはほとんどなく、きちんと聞き取れるものは「Hello」や「Come on」などの簡単なものが多い。それ以外は笑い声や断末魔、[鼻音](../Page/鼻音.md "wikilink")などの効果音的なものが多い。一見すると、かわいらしい動物達が登場するコミカルなアニメだが、最後には多くの物語で登場キャラクターのほぼ全員が凄惨な死に方をして終わる。また死なずに大怪我をするだけで終わったり、キャラクターが息を吹き返す話､誰も傷つかない話も僅かに存在している。
+この作品の特徴を一言でいうと、**血と臓器にまみれたシュールでグロテスクな[ギャグアニメ](../Page/ギャグアニメ.md "wikilink")**というようなものになる。主要な登場人物のほとんどに[声優](../Page/声優.md "wikilink")があてられているが、明確なセリフはほとんどなく、きちんと聞き取れるものは「Hello」や「Come on」などの簡単なものが多い。それ以外は笑い声や断末魔、[鼻音](../Page/鼻音.md "wikilink")などの効果音的なものが多い。一見すると、かわいらしい動物達が登場するコミカルなアニメだが、最後には多くの物語で登場キャラクターのほぼ全員が凄惨な死に方をして終わる。また死なずに大怪我をするだけで終わったり、キャラクターが息を吹き返す話､誰も傷つかない話も僅かに存在している。
 
 主な死亡原因はキャラクター自身または他キャラクターのミスから起きる事故が多いが、中にはオカルトチックな話も存在する。加えて大きな特徴として他のMondo Mediaが制作するアニメーションと異なり、銃がほとんど登場しない(Kennによれば「Too easy(簡単過ぎる)」とのこと)。 一話ごとに完結する形式のため、別の話に怪我や死が持ち越されることはなく、いくら死んでも別の話では何事もなかったかのように復活し、また新たな惨劇が繰り広げられる。また、この作品では登場回数が多ければ多いキャラクターほど死亡率が高い傾向にあるが､例外のキャラクターも存在する(ランピー､フリッピーなど)。死のボーダーラインは曖昧であり、棒が腹部に刺さっただけで死ぬ場合もあれば、首がもげたり内臓をえぐり取られたりしても短時間だが生きている場合がある｡映像だけを見るならばかなり残酷であるが、その唐突な残酷なシーンそのものがギャグになっている(現実世界ではありえないような原因で死ぬなど)。加えて、ストーリーには「棒を持って走り回ると危険」「悪い事をすれば罰が当たる」などの[寓話](../Page/寓話.md "wikilink")的要素も含まれている。
 
@@ -21,7 +21,7 @@
 
 ### 主要キャラクター
 
-ミスター・ピクルス以外は全て[擬人化](../Page/擬人化.md "wikilink")された[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")であり、生きている[人間](../Page/人間.md "wikilink")は登場しない（人骨が見られる話や、人が[ピクトグラム](../Page/ピクトグラム.md "wikilink")として登場する話が存在している）。キャラクターの外見の特徴として、出っ歯で鼻は[ハート](../Page/ハート.md "wikilink")型、目は白目に[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")の形のような黒目がついていることが挙げられるが、特徴に合わないキャラクターも数名存在する（スニッフルズ、ランピーなど）。服を着ているものとそうでないものがいるが、どちらも両腰あたりにポケットがある。臓器は人間に近い形・配置になっている。キャラクターの性格に変化が生じることはあまりないが、身分や職業などについては、話によって異なる場合が多い。また、ほとんどのキャラクターの体は、非常に耐久力がなく、手を窓に挟んだだけで切ってしまったりする。また、全てのキャラクターが（トラブルを起こして間接的に死なせたことを含め）、他のキャラクターを最低でも一度は殺害したことがある。
+ミスター・ピクルス以外は全て[擬人化](../Page/擬人化.md "wikilink")された[哺乳類](https://ja.wikipedia.org/wiki/哺乳類 "wikilink")であり、生きている[人間](../Page/人間.md "wikilink")は登場しない（人骨が見られる話や、人が[ピクトグラム](../Page/ピクトグラム.md "wikilink")として登場する話が存在している）。キャラクターの外見の特徴として、出っ歯で鼻は[ハート型](https://ja.wikipedia.org/wiki/ハート_\(シンボル\) "wikilink")、目は白目に[パックマン](https://ja.wikipedia.org/wiki/パックマン "wikilink")の形のような黒目がついていることが挙げられるが、特徴に合わないキャラクターも数名存在する（スニッフルズ、ランピーなど）。服を着ているものとそうでないものがいるが、どちらも両腰あたりにポケットがある。臓器は人間に近い形・配置になっている。キャラクターの性格に変化が生じることはあまりないが、身分や職業などについては、話によって異なる場合が多い。また、ほとんどのキャラクターの体は、非常に耐久力がなく、手を窓に挟んだだけで切ってしまったりする。また、全てのキャラクターが（トラブルを起こして間接的に死なせたことを含め）、他のキャラクターを最低でも一度は殺害したことがある。
 
 初期のエピソードでは、お茶会や公園で遊ぶなどといった、子供がするような遊びをしていることが多かった。しかし時が経つとともにMondo Mediaの作品に対する概念や観念は変わり、作品によって子供であったり大人であったりするようになった。この概念の変化によって変わっていくストーリーに影響されなかったのは、登場回数の少ないスプレンディドやクロ・マーモット、常に大人と子供というペアのポップとカブなどである。
 
@@ -29,13 +29,13 @@
 
 また、Happy Tree Friends誕生10周年を記念して、新キャラクター追加の選挙を\[[http://happytreefriends.atomfilms.com/\]にて2010年3月1日から3月31日（米国時間）まで1カ月間実施していた。その結果、Lammy（ラミー）とMr](http://happytreefriends.atomfilms.com/%5Dにて2010年3月1日から3月31日（米国時間）まで1カ月間実施していた。その結果、Lammy（ラミー）とMr). Pickles（ミスター・ピクルス）が新キャラクターとなった。
 
-[Happy Tree Friends Wiki（英語）](http://happytreefriends.wikia.com/wiki/)ではそれぞれのキャラクターの死亡回数、殺害回数が明記されている。
+[Happy Tree Friends Wiki（英語）ではそれぞれのキャラクターの死亡回数](https://ja.wikipedia.org/wiki/:en:Happy_Tree_Friends "wikilink")、殺害回数が明記されている。
 
   - カドルス（Cuddles）
     声 - Kenn Navarro
     [黄色](../Page/黄色.md "wikilink")い[ウサギ](../Page/ウサギ.md "wikilink")。頭頂部に前髪のような毛があり、それと同じ形の尾を持つ。大きい耳は感情に合わせて状態を変化させる。いつもピンク色のウサギの[スリッパ](../Page/スリッパ.md "wikilink")を履いており、泳いでいる時でも脱ぐことは無い（What Are You Wading For）。
     このアニメの[主人公](../Page/主人公.md "wikilink")だが、登場回数が最も多いというわけではない（登場回数3位）。性格は明朗活発だが危機意識がなく無鉄砲で、フレイキーなどをハプニングに巻き込むこともある 。基本的に子供役であり、他のキャラクターと遊んでいる話が多いがたまに車を運転していたり会社勤めをしているシーンもある。ギグルスと恋人同士のように描かれているストーリーがいくつかあるが、その多くは「The Carpal Tunnel Of Love」のような外伝、もしくは「I Nub You」のような脇役としての登場であり、ギグルスとの恋愛関係を軸にしたストーリーは存在しない。また、彼がギグルス以外のキャラクターをデートに誘った話はない。
-    登場回数が多い故に全キャラの中で死亡回数はトップであり、彼が生き残るストーリーは少ない。死に方も[飛行機](../Page/飛行機.md "wikilink")の[エンジン](../Page/エンジン.md "wikilink")に吸い込まれるなど凄惨。生き残る話でも、汚物が捨てられた飲み物を飲んでしまったり、ナッティに車を盗まれたりと酷い目にあって終わる。[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")で遊んでいる最中に[光過敏性発作](../Page/光過敏性発作.md "wikilink")らしき症状を起こしたこともある。シーズン3以降はあまり主役になれていなかったが「Camp Pokeneyeout」では久々に主役となった。
+    登場回数が多い故に全キャラの中で死亡回数はトップであり、彼が生き残るストーリーは少ない。死に方も[飛行機のエンジンに吸い込まれるなど凄惨](../Page/航空用エンジン.md "wikilink")。生き残る話でも、汚物が捨てられた飲み物を飲んでしまったり、ナッティに車を盗まれたりと酷い目にあって終わる。[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")で遊んでいる最中に[光過敏性発作](../Page/光過敏性発作.md "wikilink")らしき症状を起こしたこともある。シーズン3以降はあまり主役になれていなかったが「Camp Pokeneyeout」では久々に主役となった。
     名前の由来は、「抱きしめる」という意味の単語の"cuddle"から。
 
 <!-- end list -->
@@ -276,7 +276,7 @@
 ### 擬人化されていないキャラクター
 
   - [アリ](https://ja.wikipedia.org/wiki/アリ "wikilink")
-    声 - Kenn Navarro, Warren Graff, Ken Pontac
+    声 - Kenn Navarro, Warren Graff,
     登場するときは必ずスニッフルズを殺害する**半分擬人化している**アリの家族。母、息子、娘、赤子の4人組。｢アー、アー」としかしゃべらない。父は死亡している （DVD「First Blood」でKenn Navaroが戦死したと語っている。4匹の巣には[兵隊](https://ja.wikipedia.org/wiki/兵隊 "wikilink")服を着た父の写真がある）。登場回数こそかなり少ないが、基本的に主要キャラクターとはスニッフルズにしか関わらないためこの4匹は殺されたことは一度もないが祖先と思われるアリはスニッフルズの祖先に食べられた。人間以上の頭脳の持ち主で、多種の近代兵器を常備しスニッフルズを様々な拷問で苦しめてとどめを刺す。スニッフルズが動けない状況に置いても殺そうとする。赤子アリだけはスニッフルズに食べられるなど、ひどい目にあうこともあるが、他のアリが必ずスニッフルズを殺害する。
   - [牛](https://ja.wikipedia.org/wiki/ウシ "wikilink")
     何度か登場するが、どういう訳かゲッソリと痩せているシーンが多い。特に危害を加えることはないが、死んだことはある。
@@ -358,7 +358,7 @@
 
 ### 始まり
 
-ある日、[Mondo Mediaで](https://ja.wikipedia.org/wiki/Mondo_Media "wikilink")[Rhode Montijoが小さなスクラップ用紙に描いたウサギ](https://ja.wikipedia.org/wiki/:en:Rhode_Montijo "wikilink")（後にカドルスとなる）が始まりとされている。彼は自分の描いたウサギを気に入り、その後、今のカドルスに少し似た、黄色いウサギをポスター用紙に描いた。そして一番下に「Resistance is futile」（抵抗は役に立たず）と書いた。彼は他の人に自分のアイデアを見せるため、建物の壁中にそのポスター用紙を貼った。スタッフやクルーの人たちはこのアイデアを受け入れた\[7\]。[1999年](../Page/1999年.md "wikilink")、Mondo Mediaはこのウサギを使って何らかのショートムービーを作るチャンスを与えた。担当に当たったのはAubrey Ankrum、 Rhode MontijoとKenn Navarroの3人だった。彼らは「Banjo Frenzy」という名前のムービーを作り上げた。このムービーは[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")が[バンジョー](../Page/バンジョー.md "wikilink")を演奏している途中に[弦](https://ja.wikipedia.org/wiki/弦 "wikilink")が切れ、それを見ていた三人の動物たち（後のカドルス、ギグルス、トゥーシー）がそれを嘲笑ったことに腹が立ち、殺害してしまうという内容のものであった。そしてさらにムービーが作られるようになったため、Mondo Mediaはこれらのシリーズに**Happy Tree Friends**という名前を付けたのであった。
+ある日、[Mondo Mediaで](https://ja.wikipedia.org/wiki/Mondo_Media "wikilink")[Rhode Montijoが小さなスクラップ用紙に描いたウサギ](https://ja.wikipedia.org/wiki/:en:Rhode_Montijo "wikilink")（後にカドルスとなる）が始まりとされている。彼は自分の描いたウサギを気に入り、その後、今のカドルスに少し似た、黄色いウサギをポスター用紙に描いた。そして一番下に「Resistance is futile」（抵抗は役に立たず）と書いた。彼は他の人に自分のアイデアを見せるため、建物の壁中にそのポスター用紙を貼った。スタッフやクルーの人たちはこのアイデアを受け入れた\[7\]。[1999年](../Page/1999年.md "wikilink")、Mondo Mediaはこのウサギを使って何らかのショートムービーを作るチャンスを与えた。担当に当たったのはAubrey Ankrum、 Rhode MontijoとKenn Navarroの3人だった。彼らは「Banjo Frenzy」という名前のムービーを作り上げた。このムービーは[恐竜](https://ja.wikipedia.org/wiki/恐竜 "wikilink")が[バンジョー](../Page/バンジョー.md "wikilink")を演奏している途中に[弦が切れ](../Page/弦_\(楽器\).md "wikilink")、それを見ていた三人の動物たち（後のカドルス、ギグルス、トゥーシー）がそれを嘲笑ったことに腹が立ち、殺害してしまうという内容のものであった。そしてさらにムービーが作られるようになったため、Mondo Mediaはこれらのシリーズに**Happy Tree Friends**という名前を付けたのであった。
 
 ### 成功
 
@@ -375,7 +375,7 @@ Happy Tree Friendsの成功に感動させられたMondo Mediaは、[DVD](../Pag
   -
     カドルス、ギグルス、ランピー、トゥーシー、ナッティー、ザ・モール、(ハンディの顔が描かれたトラックも登場している)そしてバンドメンバーをモデルにしたクマ（4人）が登場。最終的には全員死亡した。
 
-[2014年](../Page/2014年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、HTFとコラボした[Kirby Krackleの楽曲](https://ja.wikipedia.org/wiki/:en:Kirby_Krackle "wikilink")「Unlucky」のPVが公開された。内容は、Happy Tree Friendsの映像をバックに曲の歌詞が流れるというもの。
+[2014年](../Page/2014年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、HTFとコラボしたの楽曲「Unlucky」のPVが公開された。内容は、Happy Tree Friendsの映像をバックに曲の歌詞が流れるというもの。
 
 ## エピソード一覧
 
@@ -406,7 +406,7 @@ Happy Tree Friendsの成功に感動させられたMondo Mediaは、[DVD](../Pag
 
 そのほかの国では、MTVでTV版が放送されている。
 
-TVバージョンでは[Amazon.com](../Page/Amazon.com.md "wikilink")で発売しており（なお、リージョンコードの関係で**日本国内用のDVDプレーヤーでは再生できない。**リージョン1のプレーヤーでなら再生可能）、HMVで扱っている[DVD](../Page/DVD.md "wikilink")は[FLASH](https://ja.wikipedia.org/wiki/FLASH "wikilink")版で廃盤となっているが、日本では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")に[たのみこむ](../Page/たのみこむ.md "wikilink")でも国内版のDVDが発売された（現在は販売終了している）。
+TVバージョンでは[Amazon.com](../Page/Amazon.com.md "wikilink")で発売しており（なお、リージョンコードの関係で**日本国内用のDVDプレーヤーでは再生できない。**リージョン1のプレーヤーでなら再生可能）、HMVで扱っている[DVD](../Page/DVD.md "wikilink")はFLASH版で廃盤となっているが、日本では[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[11月](../Page/11月.md "wikilink")に[たのみこむ](../Page/たのみこむ.md "wikilink")でも国内版のDVDが発売された（現在は販売終了している）。
 
 TVシリーズは日本では[宝島社](../Page/宝島社.md "wikilink")のDVDブック『Happy tree friends ～みんな大流血★編～』（2012年12月刊行）と『Happy tree friends ～いつも大パニック☆編～』（2014年7月刊行）に収録される形で発売。収録順は話数順とは異なる。
 
@@ -447,7 +447,7 @@ Mondo Mediaの公式サイトにあるフラッシュゲームも、iOSなどで
   - W.A.R Journal （ウォー・ジャーナル）
     フリッピーのベトナム戦争でのストーリー。この話からフリッピーは元来はどのような性格だったのか、彼がなぜ[戦闘神経症を患っているのかがよくわかる](https://ja.wikipedia.org/wiki/心的外傷後ストレス障害#戦闘ストレス反応 "wikilink")。
   - Splendid's SSSSSuper Squad （スプレンディズ・スープリマリー・センセーショナル・スタッペンダズリー・スペクタキュラー・スーパー・スクアッド）
-    [スーパーマン](../Page/スーパーマン.md "wikilink")のパロディ。スプレンディドが主人公で、2次元[刑務所](../Page/刑務所.md "wikilink")に拘置されていたスプレンディドと全く反対の[思想](../Page/思想.md "wikilink")を持つ、すなわち悪である「Splendont (スプレンドント) 」と闘う話。スプレンディドは彼と[和平](https://ja.wikipedia.org/wiki/和平 "wikilink")を組もうとしたが彼はそれを承諾せず、それが争いを誘発してしまった。非略名は*Splendid's Supremely Sensational Stupendously Spectacular Super Squad*である。Supremely、Sensational、Stupendously、Spectacularは全て「壮大、素晴らしい」という意味である。
+    [スーパーマン](../Page/スーパーマン.md "wikilink")のパロディ。スプレンディドが主人公で、2次元[刑務所](../Page/刑務所.md "wikilink")に拘置されていたスプレンディドと全く反対の[思想](../Page/思想.md "wikilink")を持つ、すなわち悪である「Splendont (スプレンドント) 」と闘う話。スプレンディドは彼と[和平を組もうとしたが彼はそれを承諾せず](../Page/和解.md "wikilink")、それが争いを誘発してしまった。非略名は*Splendid's Supremely Sensational Stupendously Spectacular Super Squad*である。Supremely、Sensational、Stupendously、Spectacularは全て「壮大、素晴らしい」という意味である。
   - Buddhist Monkey （ブディスト・モンキー）
     [Buddhist Monkeyを参照](https://ja.wikipedia.org/wiki/Happy_Tree_Friends#その他のキャラクター "wikilink") (ページ内リンク) 。
 
@@ -528,7 +528,7 @@ Mondo Mediaの公式サイトにあるフラッシュゲームも、iOSなどで
   -
 [Category:1999年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1999年のテレビアニメ "wikilink")
 
-[Category:Happy_Tree_Friends](https://ja.wikipedia.org/wiki/Category:Happy_Tree_Friends "wikilink") [Category:Mondo_Media](https://ja.wikipedia.org/wiki/Category:Mondo_Media "wikilink") [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:1990年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1990年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink") [Category:FLASHアニメーション](https://ja.wikipedia.org/wiki/Category:FLASHアニメーション "wikilink") [Category:ギャグアニメ](https://ja.wikipedia.org/wiki/Category:ギャグアニメ "wikilink")
+[Category:Happy_Tree_Friends](https://ja.wikipedia.org/wiki/Category:Happy_Tree_Friends "wikilink") [Category:Mondo_Media](https://ja.wikipedia.org/wiki/Category:Mondo_Media "wikilink") [Category:1990年代のアメリカ合衆国のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1990年代のアメリカ合衆国のテレビアニメ "wikilink") [Category:FLASHアニメーション](https://ja.wikipedia.org/wiki/Category:FLASHアニメーション "wikilink") [Category:ブラック・コメディ](https://ja.wikipedia.org/wiki/Category:ブラック・コメディ "wikilink")
 
 1.  [可愛く見えてじつは残虐！　衝撃アニメのゲーム化『Happy Tree Friends: False Alarm』インプレッション【海外ゲーム温故知新】](http://www.famitsu.com/news/201205/01014090.html)ファミ通
 2.  [池袋で「ハッピーツリーフレンズ展」－「グロかわいい」世界観展開](http://ikebukuro.keizai.biz/headline/786/)池袋経済新聞

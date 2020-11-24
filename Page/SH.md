@@ -1,7 +1,7 @@
 > この記事は[SH](https://ja.wikipedia.org/wiki/SH)から翻訳されています。
 
 
-__NOTOC__ **SH**, **Sh**, **sh**
+**SH**, **Sh**, **sh**
 
 ## SH
 
@@ -39,5 +39,5 @@ __NOTOC__ **SH**, **Sh**, **sh**
 
 ## 関連項目
 
-  - [SHで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/SH "wikilink")
-  - [Shで始まる記事の一覧](https://ja.wikipedia.org/wiki/特別:Prefixindex/Sh "wikilink")
+  -
+  -

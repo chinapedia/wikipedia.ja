@@ -1,7 +1,7 @@
 > この記事は[SINGLES Vol.3 \(1988〜1996\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.3_\(1988〜1996\))から翻訳されています。
 
 
-『**SINGLES Vol.3 (1988〜1996)**』（シングルス・ボリューム・スリー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
+『**SINGLES Vol.3 (1988〜1996)**』（シングルス・ボリューム・スリー）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。また、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
 
@@ -21,7 +21,7 @@
 2.  **STAY DREAM ('88 TOKYO DOME Live Version)** ※
       -
         （作詞・作曲：長渕 剛／編曲：[中西康晴](../Page/中西康晴.md "wikilink")）
-3.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")** （[東映](../Page/東映.md "wikilink")映画『オルゴール』テーマソング）
+3.  **[激愛](https://ja.wikipedia.org/wiki/激愛_\(長渕剛の曲\) "wikilink")** （[東映](../Page/東映.md "wikilink")映画『オルゴール』テーマソング）
       -
         （作詞・作曲：長渕 剛／編曲：瀬尾一三）
 4.  **あんたとあたいは数え唄 ('88 TOKYO DOME Live Version)** ※

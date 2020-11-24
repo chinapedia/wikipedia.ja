@@ -1,7 +1,7 @@
 > この記事は[THEわれめDEポン](https://ja.wikipedia.org/wiki/THEわれめDEポン)から翻訳されています。
 
 
-『**THEわれめDEポン**』（ザ・われめ・デ・ポン）は、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[麻雀](../Page/麻雀.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。現在の正式名称は『**芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル**』（げいのうかいマージャンさいきょういけっていせん ザ・われめ・デ・ポン なまスペシャル）である。通称「**われポン**」。
+『THEわれめDEポン』（ザ・われめ・デ・ポン）は、[フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[麻雀](../Page/麻雀.md "wikilink")[バラエティ番組](https://ja.wikipedia.org/wiki/バラエティ番組 "wikilink")である。現在の正式名称は『芸能界麻雀最強位決定戦 THEわれめDEポン 生スペシャル』（げいのうかいマージャンさいきょういけっていせん ザ・われめ・デ・ポン なまスペシャル）である。通称「**われポン**」。
 
 [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[12月30日](../Page/12月30日.md "wikilink")から[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月2日](../Page/1月2日.md "wikilink")までは地上波[フジテレビで放送されていた](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")。中断期間をはさみ、[2011年](../Page/2011年.md "wikilink")[8月26日](../Page/8月26日.md "wikilink")以降は[CS放送](../Page/日本における衛星放送.md "wikilink")[フジテレビONE](https://ja.wikipedia.org/wiki/フジテレビONE "wikilink")で放送されている。
 
@@ -13,7 +13,7 @@
 
 2008年1月2日に放送された第65弾を最後に放送されておらず、事実上地上波での放送は打ち切りとなり、公式ホームページ上ではしばらくの間「放送終了」のアナウンスがされていた。その3年半余りの中断期間を経て、2011年8月26日にCS放送のフジテレビONEで復活放送（生放送・第66弾）された。それ以降はフジテレビONEで、原則として毎月最終土曜の0:00 - 6:00に生放送が行われている（7月分は休止、12月分は30日に放送）。 また、2011年9月以降は地上波放送回のうち、肖像権等の権利処理がクリアされた回のみ再放送が順次行われている。[2015年](../Page/2015年.md "wikilink")[4月10日](../Page/4月10日.md "wikilink")の放送回は番組開始20周年を記念し、対局の前半を[ニコニコ生放送](https://ja.wikipedia.org/wiki/ニコニコ生放送 "wikilink")で無料配信、後半を7年ぶりに地上波で放映した。
 
-またCS放送での放送開始後、8月の土曜日（どの週になるかは不定）19時から「**24時間頂上決戦生スペシャル　牌は地球を救う**」と題し、「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」（本放送と再放送）の時間帯を除く実質22時間のマラソン対局を生中継する。
+またCS放送での放送開始後、8月の土曜日（どの週になるかは不定）19時から「24時間頂上決戦生スペシャル　牌は地球を救う」と題し、「[プロ野球ニュース](../Page/プロ野球ニュース.md "wikilink")」（本放送と再放送）の時間帯を除く実質22時間のマラソン対局を生中継する。
 
 その他、2015年に[麻雀最強戦](https://ja.wikipedia.org/wiki/麻雀最強戦 "wikilink")とのコラボとして「麻雀地上最強位決定戦 THE 最強 DE ポン」、2017年には同じフジテレビONEで放送中の[極雀](https://ja.wikipedia.org/wiki/極雀 "wikilink")とのコラボとして「～地上最強位決定戦～THE極雀DEポン」（通称：極ポン）も行われた。
 
@@ -119,7 +119,7 @@
   - その後順位の1位・2位・7位・8位をAブロック、3位・4位・5位・6位をBブロックに分け、それぞれのブロックで[プレーオフ](../Page/プレーオフ.md "wikilink")をさらに3ゲーム行い、このゲームを含めたトータルポイントの上位4人が決勝ラウンド進出となる
   - 決勝ラウンドでは予選のポイントは[リセット](../Page/リセット.md "wikilink")され、決勝ラウンドのみの成績で競う
   - 一方予選敗退となった下位4人は通称『やさぐれ卓』にて5～8位の順位決定戦を行うが、場所がフジテレビ内のリハーサル室の一角、カメラは固定カメラ一台、中継は決勝ラウンドの休憩中に挟む程度と半ば[罰ゲーム](../Page/罰ゲーム.md "wikilink")状態となっている
-  - なお、やさぐれ卓は余興的な意味合いのため、最終成績は公式サイトにて順位だけ紹介する程度という散々な扱いである([ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")曰く余りの辛さに[風間杜夫](../Page/風間杜夫.md "wikilink")が[ギャラ](https://ja.wikipedia.org/wiki/ギャラ "wikilink")いらないから帰してくれと嘆いていたという)
+  - なお、やさぐれ卓は余興的な意味合いのため、最終成績は公式サイトにて順位だけ紹介する程度という散々な扱いである([ガダルカナル・タカ](../Page/ガダルカナル・タカ.md "wikilink")曰く余りの辛さに[風間杜夫](../Page/風間杜夫.md "wikilink")が[ギャラ](https://ja.wikipedia.org/wiki/ギャラ "wikilink")はいらないから帰してくれと嘆いていたという)
 
 ## 他メディア展開
 
@@ -289,16 +289,15 @@
 
 ## 優勝回数
 
-※第111（2017年6月）＋24時間生スペシャル(2017年)終了現在（24時間生スペシャルまでの出場回数）
-
-  - 13回 - [萩原聖人](../Page/萩原聖人.md "wikilink")（36回）
-  - 8回 - [風間杜夫](../Page/風間杜夫.md "wikilink")（20回）、[坂上忍](../Page/坂上忍.md "wikilink")（31回）
-  - 7回 - [清水アキラ](../Page/清水アキラ.md "wikilink")（18回）
-  - 6回 - [堺正章](../Page/堺正章.md "wikilink")（24回）、[加賀まりこ](../Page/加賀まりこ.md "wikilink")（28回）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（13回）
-  - 5回 - [蛭子能収](../Page/蛭子能収.md "wikilink")（20回）
-  - 4回 - [秋元康](../Page/秋元康.md "wikilink")（23回）、[川合俊一](../Page/川合俊一.md "wikilink")（17回）、[中野浩一](../Page/中野浩一.md "wikilink")（7回）、[見栄晴](../Page/見栄晴.md "wikilink")（14回）
-  - 3回 - [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")（16回）、[田中裕二](https://ja.wikipedia.org/wiki/田中裕二 "wikilink")（7回）、[小沢一敬](../Page/小沢一敬.md "wikilink")（4回）、[ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")（5回）
-  - 2回 - [落合博満](../Page/落合博満.md "wikilink")（2回）、[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")（6回）
+  - 14回 - [萩原聖人](../Page/萩原聖人.md "wikilink")（45回）
+  - 9回 - [清水アキラ](../Page/清水アキラ.md "wikilink")（22回）
+  - 8回 - [風間杜夫](../Page/風間杜夫.md "wikilink")（22回）、[坂上忍](../Page/坂上忍.md "wikilink")（32回）、[児嶋一哉](https://ja.wikipedia.org/wiki/児嶋一哉 "wikilink")（18回）
+  - 7回 - [加賀まりこ](../Page/加賀まりこ.md "wikilink")（33回）
+  - 6回 - [堺正章](../Page/堺正章.md "wikilink")（29回）
+  - 5回 - [蛭子能収](../Page/蛭子能収.md "wikilink")（20回）、[ビートきよし](https://ja.wikipedia.org/wiki/ビートきよし "wikilink")（9回）、[中野浩一](../Page/中野浩一.md "wikilink")（9回）
+  - 4回 - [秋元康](../Page/秋元康.md "wikilink")（23回）、[川合俊一](../Page/川合俊一.md "wikilink")（17回）、[見栄晴](../Page/見栄晴.md "wikilink")（19回）、 [小柳ルミ子](../Page/小柳ルミ子.md "wikilink")（20回）
+  - 3回 - [田中裕二](https://ja.wikipedia.org/wiki/田中裕二 "wikilink")（7回）、[小沢一敬](../Page/小沢一敬.md "wikilink")（4回）、[金子昇](../Page/金子昇.md "wikilink")（5回）、[大村朋宏](../Page/大村朋宏.md "wikilink")（17回）
+  - 2回 - [落合博満](../Page/落合博満.md "wikilink")（2回）、[山本圭一](https://ja.wikipedia.org/wiki/山本圭一 "wikilink")（6回）、[岡田紗佳](https://ja.wikipedia.org/wiki/岡田紗佳 "wikilink")（6回）
 
 \[7\]\[8\]\[9\]
 

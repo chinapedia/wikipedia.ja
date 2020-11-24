@@ -344,7 +344,9 @@ VOICES THAT CARE[1]のカバー。</p></td>
 ### 会場限定CD
 
 いずれも、TRIUMPHから発売されており、ライブ会場限定で販売されている。
-ただし、ファンクラブ「Hip Bird Club」会員のみ、ファンクラブ運営の通信販売にて入手が可能である。
+
+  -
+    ただし、ファンクラブ「Hip Bird Club」会員のみ、ファンクラブ運営の通信販売にて入手が可能である。
 
 |      | 発売日                                                                        | タイトル                                                                                                              | 規格品番      | 備考                                              |
 | ---- | -------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | --------- | ----------------------------------------------- |
@@ -359,7 +361,7 @@ VOICES THAT CARE[1]のカバー。</p></td>
 | 9th  | 2012年[9月16日](../Page/9月16日.md "wikilink")                                  | [Do You Remember...?](https://ja.wikipedia.org/wiki/Do_You_Remember...? "wikilink")                               | TRBD-0009 |                                                 |
 | 10th | 2012年[10月19日](../Page/10月19日.md "wikilink")                                | Another PART of ME                                                                                                | TRBD-0010 |                                                 |
 | 11th | 2012年[11月16日](https://ja.wikipedia.org/wiki/11月16日 "wikilink")             | [Colorful](https://ja.wikipedia.org/wiki/Colorful_\(KATSUMIのアルバム\) "wikilink")                                    | TRBD-0011 |                                                 |
-| 12th | 2012年[12月12日](../Page/12月12日.md "wikilink")                                | [Catch me if you can](https://ja.wikipedia.org/wiki/Catch_me_if_you_can "wikilink")                               | TRBD-0012 |                                                 |
+| 12th | 2012年[12月12日](../Page/12月12日.md "wikilink")                                | [Catch me if you can](https://ja.wikipedia.org/wiki/Catch_me_if_you_can_\(KATSUMIのアルバム\) "wikilink")              | TRBD-0012 |                                                 |
 | 13th | 2012年[12月22日](../Page/12月22日.md "wikilink")                                | Catch me if you can plus                                                                                          | TRBD-0013 |                                                 |
 | 14th | [2013年](../Page/2013年.md "wikilink")[3月9日](../Page/3月9日.md "wikilink")     | [Sweet Box](https://ja.wikipedia.org/wiki/Sweet_Box_\(KATSUMIのアルバム\) "wikilink")                                  | TRBD-0014 |                                                 |
 | 15th | 2013年[4月13日](../Page/4月13日.md "wikilink")                                  | [Bloom](https://ja.wikipedia.org/wiki/Bloom_\(KATSUMIのアルバム\) "wikilink")                                          | TRBD-0015 |                                                 |

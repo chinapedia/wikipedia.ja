@@ -32,7 +32,6 @@
 ## 他
 
   - レニングラードに移住した際、同行させた秘書のレジーナは、のちに[ボビー・フィッシャー](../Page/ボビー・フィッシャー.md "wikilink")（チェス世界王者）の母となる。
-  - [ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の[政治家](../Page/政治家.md "wikilink")[ヘルマン・ミュラー](../Page/ヘルマン・ミュラー.md "wikilink")、[スイス](../Page/スイス.md "wikilink")の[化学者](https://ja.wikipedia.org/wiki/化学者 "wikilink")（[DDT](../Page/DDT.md "wikilink")開発者）[パウル（・ヘルマン）・ミュラー](https://ja.wikipedia.org/wiki/パウル・ミュラー "wikilink")（[Paul Hermann Müller](https://ja.wikipedia.org/wiki/:de:Paul_Hermann_Müller "wikilink")）とは別人である。
   - マラーのX線による人為突然変異を知った昆虫学者の[エドワード・ニップリング](https://ja.wikipedia.org/wiki/エドワード・ニップリング "wikilink")（[Edward F. Knipling](https://ja.wikipedia.org/wiki/:w:Edward_F._Knipling "wikilink")）は、X線により害虫を不妊化させ、野外に放すことで根絶させる[不妊虫放飼](../Page/不妊虫放飼.md "wikilink")法を開発した。
 
 ## 脚注

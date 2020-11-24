@@ -67,6 +67,7 @@
   - [Classroom☆Crisis](https://ja.wikipedia.org/wiki/Classroom☆Crisis "wikilink") - 2015年に放送されたオリジナルテレビアニメ作品。及び、それを原作とした小説・漫画作品。
   - [クリッターカントリー](../Page/クリッターカントリー.md "wikilink") (Critter Country) - [東京ディズニーランド](https://ja.wikipedia.org/wiki/東京ディズニーランド "wikilink")のテーマランド
   - [カナディアン・クラブ](https://ja.wikipedia.org/wiki/ハイラム・ウォーカー "wikilink") (Canadian Club) - [カナディアン・ウイスキー](../Page/カナディアン・ウイスキー.md "wikilink")のブランドのひとつ。
+  - [CC (歌手)](https://ja.wikipedia.org/wiki/CC_\(歌手\) "wikilink")
 
 ### フィクションの略語・略称
 
@@ -82,7 +83,7 @@
       - [.cc](../Page/.cc.md "wikilink") - ココス諸島の[国別コードトップレベルドメイン](../Page/国別コードトップレベルドメイン.md "wikilink") (ccTLD)
   - [NHK旭川放送局](../Page/NHK旭川放送局.md "wikilink")第2放送、[教育テレビ（Eテレ）の](https://ja.wikipedia.org/wiki/NHK教育テレビ "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JOCC)
   - **CC** - [アメリカ海軍](../Page/アメリカ海軍.md "wikilink")における[巡洋戦艦](../Page/巡洋戦艦.md "wikilink")の艦種記号
-  - [身延線](https://ja.wikipedia.org/wiki/身延線 "wikilink")の路線記号
+  - [鉄道](../Page/鉄道.md "wikilink")の[サインシステム](../Page/サインシステム.md "wikilink")において、[JR](https://ja.wikipedia.org/wiki/JR東海 "wikilink")[身延線](https://ja.wikipedia.org/wiki/身延線 "wikilink") (**C**entral) の[路線記号](https://ja.wikipedia.org/wiki/路線記号 "wikilink")として用いられる。
 
 ## その他
 

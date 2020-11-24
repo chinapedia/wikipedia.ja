@@ -13,7 +13,7 @@
   - [1935年](../Page/1935年.md "wikilink")（昭和10年）- 極東フィルム研究所が**株式会社極東現像所**として独立。
   - [1942年](../Page/1942年.md "wikilink")（昭和17年）- **株式会社東洋現像所**に社名変更。
   - [1986年](../Page/1986年.md "wikilink")（昭和61年）- **株式会社IMAGICA（初代）**に社名変更。
-  - [2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）-　株式会社IMAGICA大阪映像センターを分社化し、**株式会社IMAGICAウェスト**を設立
+  - [2000年](../Page/2000年.md "wikilink")（[平成](../Page/平成.md "wikilink")12年）- 株式会社IMAGICA大阪映像センターを分社化し、**株式会社IMAGICAウェスト**を設立
   - [2002年](../Page/2002年.md "wikilink")（平成14年）- 株式会社IMAGICA（初代）から映像事業を新設分割し、株式会社IMAGICA（2代目）を設立。株式会社IMAGICA（初代）は株式会社エフ・イー・エルに商号変更。
   - [2006年](../Page/2006年.md "wikilink")（平成18年）- 株式会社IMAGICA（2代目）から映像事業を株式会社IMAGICA企画に吸収分割し、株式会社IMAGICA（3代目）に商号変更。株式会社IMAGICA（2代目）は持株会社となり株式会社イマジカホールディングスに商号変更\[1\]。コンテンツ事業・デジタル放送事業・映像システム事業をグループ会社に承継し、株式会社IMAGICAは映像技術サービスを核とした事業会社へ移行した。
   - [2018年](../Page/2018年.md "wikilink")（平成30年）- 株式会社IMAGICA（3代目）を存続会社として、株式会社[IMAGICAウェスト](../Page/IMAGICAウェスト.md "wikilink")と株式会社[IMAGICAイメージワークス](https://ja.wikipedia.org/wiki/IMAGICAイメージワークス "wikilink")を吸収合併した上で商号を株式会社IMAGICA Lab.へ変更\[2\]\[3\]。
@@ -612,6 +612,7 @@
   - [FNSスーパースペシャル1億人のテレビ夢列島'91](https://ja.wikipedia.org/wiki/FNSスーパースペシャルテレビ夢列島#第5回（1991年）FNSスーパースペシャル1億2000万人のテレビ夢列島'91 "wikilink")（フジテレビ　1991年7月）
   - 明石家サンタの史上最大のプレゼントショー "今はもう秋"編（フジテレビ　1991年10月）
   - 明石家サンタの史上最大のプレゼントショー（フジテレビ　1991年12月）
+  - [FNS大感謝祭](../Page/FNS大感謝祭.md "wikilink")（フジテレビ 1991年12月-1993年12月・全3回）
   - [FNSの日スーパースペシャル1億2000万人の平成教育テレビ](https://ja.wikipedia.org/wiki/平成教育テレビ#第6回（1992年）FNSスーパースペシャル1億2000万人の平成教育テレビ "wikilink")（フジテレビ　1992年7月）
   - [FNS大サービスバラエティー1億2450万人の平成教育テレビ](https://ja.wikipedia.org/wiki/平成教育テレビ#第7回（1993年）FNS大サービスバラエティー1億2450万人の平成教育テレビ "wikilink")（フジテレビ　1993年7月）
   - 明石家サンタの3日遅れのクリスマスプレゼントショー（フジテレビ　1993年12月）
@@ -950,7 +951,7 @@
   - **[いただきハイジャンプ](https://ja.wikipedia.org/wiki/いただきハイジャンプ "wikilink")**（フジテレビ　2015年7月-）
   - [山Pのkiss英語](https://ja.wikipedia.org/wiki/山Pのkiss英語 "wikilink")（フジテレビ　2015年7月-12月）
   - [キスマイ魔ジック](https://ja.wikipedia.org/wiki/キスマイ魔ジック "wikilink")（テレビ朝日　2015年10月-2016年3月）
-  - **[欅って、書けない?](https://ja.wikipedia.org/wiki/欅って、書けない? "wikilink")**（テレビ東京、ソニーミュージック、電通、ケイマックス　2015年10月-）
+  - [欅って、書けない?](https://ja.wikipedia.org/wiki/欅って、書けない? "wikilink")（テレビ東京、ソニーミュージック、電通、ケイマックス　2015年10月-2020年10月）
   - [志村の時間](https://ja.wikipedia.org/wiki/志村の時間 "wikilink")（フジテレビ、イザワオフィス、エクシーズ　2015年10月-2017年3月）
   - [指原カイワイズ](https://ja.wikipedia.org/wiki/指原カイワイズ "wikilink")（フジテレビ、ユーフィールド　2015年10月-2016年9月）
   - **[さまぁ〜ずの神ギ問](https://ja.wikipedia.org/wiki/さまぁ〜ずの神ギ問 "wikilink")**（フジテレビ　2015年10月-）
@@ -975,6 +976,7 @@
   - [この指と〜まれ\!](https://ja.wikipedia.org/wiki/この指と〜まれ! "wikilink")（フジテレビ、FCC　2017年5月-9月）
   - **[ジャニーズJr.dex](https://ja.wikipedia.org/wiki/ジャニーズJr.dex "wikilink")**（フジテレビ　2017年10月-）
   - **[AI-TV](https://ja.wikipedia.org/wiki/AI-TV "wikilink")**（フジテレビ　2017年10月-）
+  - **[そこ曲がったら、櫻坂?](https://ja.wikipedia.org/wiki/そこ曲がったら、櫻坂? "wikilink")**（テレビ東京、ソニーミュージック、電通、ケイマックス　2020年10月-）
 
 <!-- end list -->
 

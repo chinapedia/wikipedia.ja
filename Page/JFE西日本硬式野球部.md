@@ -43,6 +43,7 @@
   - [岡本秀寛](../Page/岡本秀寛.md "wikilink")（投手） - 大学生・社会人ドラフト4位で[東京ヤクルトスワローズ](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")に入団
   - [内村賢介](../Page/内村賢介.md "wikilink")（内野手） - 退団後、[BCリーグの](../Page/ベースボール・チャレンジ・リーグ.md "wikilink")[石川ミリオンスターズ](../Page/石川ミリオンスターズ.md "wikilink")を経て、2007年育成選手ドラフト1位で[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")に入団
   - [河野竜生](https://ja.wikipedia.org/wiki/河野竜生 "wikilink")（投手） - ドラフト1位で北海道日本ハムファイターズに入団
+  - [三好大倫](https://ja.wikipedia.org/wiki/三好大倫 "wikilink")（外野手） - ドラフト6位で[中日ドラゴンズ](../Page/中日ドラゴンズ.md "wikilink")に指名
 
 ## 元プロ野球選手の競技者登録
 

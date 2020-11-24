@@ -41,13 +41,13 @@
 
 1990年2月17日、近藤の誕生日でもある日に、二階堂が入籍。相手は、二階堂が高校時代から7年に渡って交際してきた1歳年上の男性。
 
-1990年2月18日付の『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』の芸能欄にて、二階堂が妊娠4ヶ月で入籍したことにより、同年3月一杯でBaBeが解散することが報じられた。翌19日付の『[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")』や、同2月発売の雑誌『[週刊明星](../Page/週刊明星.md "wikilink")』（1990年3月8日号）でも追報。
+1990年2月18日付の『[スポーツニッポン](../Page/スポーツニッポン.md "wikilink")』の芸能欄にて、二階堂が妊娠4ヶ月で入籍したことにより、同年3月一杯でBaBeが解散することが報じられた。翌19日付の『[東京中日スポーツ](../Page/東京中日スポーツ.md "wikilink")』や、同2月発売の雑誌『[週刊明星](../Page/週刊明星.md "wikilink")』（1990年3月8日号）でも追報。2人は当初「BaBeはどちらかが結婚する時が解散する時」としていたという。
 
 1990年3月、二階堂が挙式。この模様は、『スポーツニッポン』（3月25日付）、『週刊明星』（4月12日号）、『女性セブン』にて報じられた。
 
 公式の解散イベントが何も無かったため、残されたファンたちが多数集い、「**さよならBaBe・ファンの集い**」が開催された（1990年3月11日・25日：東京、31日：大阪、4月1日：名古屋）。内容は、BaBeのビデオ鑑賞、BaBeへのメッセージの寄せ書き、カラオケ大会、グッズ交換会など。
 
-1990年8月に二階堂が第一子を出産。その後も子供をもうけ、計3人の子供を育てた。一方、近藤はしばらく[ソロ](../Page/ソロ.md "wikilink")で活動。[斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")のプロデュースやラジオ出演、関西ローカルのテレビ出演などをしていたが、やがて近藤も結婚を機に芸能活動を引退した。
+BaBe解散後、1990年8月に二階堂が第一子を出産。その後も子供をもうけ、計3人の子供を育てた。一方、近藤はしばらく[ソロ](../Page/ソロ.md "wikilink")で活動。[斉藤満喜子](https://ja.wikipedia.org/wiki/斉藤満喜子 "wikilink")のプロデュースやラジオ出演、関西ローカルのテレビ出演などをしていたが、やがて近藤も結婚を機に芸能活動を引退した。
 
 ## エピソード
 
@@ -538,7 +538,7 @@
 <td><p><a href="../Page/ザ・ベストテン.md" title="wikilink">ザ・ベストテン</a></p></td>
 <td><p><a href="../Page/TBSテレビ.md" title="wikilink">TBS</a></p></td>
 <td><p>Give Me Up</p></td>
-<td><p>「今週のスポットライト」に出演。</p></td>
+<td><p>「今週のスポットライト」コーナーに出演。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987.03.13 (金)[36]</p></td>
@@ -583,11 +583,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1987.05.21 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<td><p>1987.05.21 (木)[43]</p></td>
+<td><p>ザ・ベストテン[44]</p></td>
 <td><p>TBS</p></td>
-<td><p>I Don't Know![43]</p></td>
-<td><p>第7位[44]。</p></td>
+<td><p>I Don't Know![45]</p></td>
+<td><p>第7位[46]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>1987.05.25 (月)</p></td>
@@ -597,17 +597,17 @@
 <td><p>「話題曲コーナー」に出演。</p></td>
 </tr>
 <tr class="even">
-<td><p>1987.05.28 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<td><p>1987.05.28 (木)[47]</p></td>
+<td><p>ザ・ベストテン[48]</p></td>
 <td><p>TBS</p></td>
-<td><p>I Don't Know![45]</p></td>
-<td><p>第4位[46]。</p></td>
+<td><p>I Don't Know![49]</p></td>
+<td><p>第4位[50]。</p></td>
 </tr>
 <tr class="odd">
-<td><p>1987.05.29 (金)[47]</p></td>
-<td><p>ミュージックステーション[48]</p></td>
+<td><p>1987.05.29 (金)[51]</p></td>
+<td><p>ミュージックステーション[52]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>I Don't Know![49]</p></td>
+<td><p>I Don't Know![53]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -618,8 +618,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1987.05.31 (日)[50][51]</p></td>
-<td><p>ヤングスタジオ101[52][53]</p></td>
+<td><p>1987.05.31 (日)[54][55]</p></td>
+<td><p>ヤングスタジオ101[56][57]</p></td>
 <td><p>NHK総合・NHK衛星第1</p></td>
 <td><p>I Don't Know!</p></td>
 <td></td>
@@ -632,11 +632,11 @@
 <td><p>第7位。</p></td>
 </tr>
 <tr class="odd">
-<td><p>1987.06.04 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<td><p>1987.06.04 (木)[58]</p></td>
+<td><p>ザ・ベストテン[59]</p></td>
 <td><p>TBS</p></td>
-<td><p>I Don't Know![54]</p></td>
-<td><p>第3位[55]。</p></td>
+<td><p>I Don't Know![60]</p></td>
+<td><p>第3位[61]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987.06.08 (月)</p></td>
@@ -646,11 +646,11 @@
 <td><p>第3位。</p></td>
 </tr>
 <tr class="odd">
-<td><p>1987.06.11 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<td><p>1987.06.11 (木)[62]</p></td>
+<td><p>ザ・ベストテン[63]</p></td>
 <td><p>TBS</p></td>
-<td><p>I Don't Know![56]</p></td>
-<td><p>第5位[57]。</p></td>
+<td><p>I Don't Know![64]</p></td>
+<td><p>第5位[65]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987.06.15 (月)</p></td>
@@ -674,11 +674,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1987.06.18 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<td><p>1987.06.18 (木)[66]</p></td>
+<td><p>ザ・ベストテン[67]</p></td>
 <td><p>TBS</p></td>
-<td><p>I Don't Know![58]</p></td>
-<td><p>第8位[59]。</p></td>
+<td><p>I Don't Know![68]</p></td>
+<td><p>第8位[69]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987.06.26 (木)</p></td>
@@ -702,11 +702,11 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1987.07.05 (日)[60]</p></td>
-<td><p>ヤングスタジオ101[61]</p></td>
+<td><p>1987.07.05 (日)[70]</p></td>
+<td><p>ヤングスタジオ101[71]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>I Don't Know!</p></td>
-<td><p>NHK衛星第2では7月12日(日)放送[62]。</p></td>
+<td><p>NHK衛星第2では7月12日(日)放送[72]。</p></td>
 </tr>
 <tr class="even">
 <td><p>1987.07.19 (日)</p></td>
@@ -723,11 +723,11 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1987.08.02 (日)[63]</p></td>
-<td><p>ヤングスタジオ101[64]</p></td>
+<td><p>1987.08.02 (日)[73]</p></td>
+<td><p>ヤングスタジオ101[74]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>Somebody Loves You</p></td>
-<td><p>NHK衛星第2では8月9日(日)放送[65]。</p></td>
+<td><p>NHK衛星第2では8月9日(日)放送[75]。</p></td>
 </tr>
 <tr class="odd">
 <td><p>1987.08.05 (水)</p></td>
@@ -737,46 +737,60 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1987.08.06 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
-<td><p>TBS</p></td>
-<td><p>Somebody Loves You[66]</p></td>
-<td><p>第7位[67]。</p></td>
-</tr>
-<tr class="odd">
-<td><p>1987.08.07 (金)[68]</p></td>
-<td><p>ミュージックステーション[69]</p></td>
-<td><p>テレビ朝日</p></td>
-<td><p>Somebody Loves You[70]</p></td>
+<td><p>1987.08.06 (木) ①</p></td>
+<td><p><a href="../Page/コミュニケーションカーニバル_夢工場&#39;87.md" title="wikilink">夢工場'87</a></p></td>
+<td><p>フジテレビ</p></td>
+<td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>1987.08.06 (木) ②[76]</p></td>
+<td><p>ザ・ベストテン[77]</p></td>
+<td><p>TBS</p></td>
+<td><p>Somebody Loves You[78]</p></td>
+<td><p>第7位[79]。</p></td>
+</tr>
 <tr class="even">
+<td><p>1987.08.07 (金)[80]</p></td>
+<td><p>ミュージックステーション[81]</p></td>
+<td><p>テレビ朝日</p></td>
+<td><p>Somebody Loves You[82]</p></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1987.08.10 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Somebody Loves You</p></td>
 <td><p>第5位。</p></td>
 </tr>
-<tr class="odd">
-<td><p>1987.08.13 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
-<td><p>TBS</p></td>
-<td><p>Somebody Loves You[71]</p></td>
-<td><p>第6位[72]。</p></td>
-</tr>
 <tr class="even">
+<td><p>1987.08.13 (木)[83]</p></td>
+<td><p>ザ・ベストテン[84]</p></td>
+<td><p>TBS</p></td>
+<td><p>Somebody Loves You[85]</p></td>
+<td><p>第6位[86]。</p></td>
+</tr>
+<tr class="odd">
 <td><p>1987.08.17 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Somebody Loves You</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>1987.08.20 (木)</p></td>
-<td><p>ザ・ベストテン</p></td>
+<tr class="even">
+<td><p>1987.08.20 (木)[87]</p></td>
+<td><p>ザ・ベストテン[88]</p></td>
 <td><p>TBS</p></td>
-<td><p>Somebody Loves You[73]</p></td>
-<td><p>第7位[74]。</p></td>
+<td><p>Somebody Loves You[89]</p></td>
+<td><p>第7位[90]。</p></td>
+</tr>
+<tr class="odd">
+<td><p>1987.08.23 (土)</p></td>
+<td><p><a href="../Page/クイズ・ドレミファドン!.md" title="wikilink">クイズ・ドレミファドン!</a></p></td>
+<td><p>フジテレビ</p></td>
+<td><p>Somebody Loves You</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1987.08.30 (日)</p></td>
@@ -800,6 +814,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>1987.09.20 (日)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KBC新人歌謡音楽祭" title="wikilink">'87KBC新人歌謡音楽祭</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/九州朝日放送" title="wikilink">九州朝日放送</a></p></td>
+<td><p>I Don't Know!</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1987.09.23 (水)</p></td>
 <td><p><a href="../Page/ヤング歌謡大賞・新人グランプリ.md" title="wikilink">ヤング歌謡大賞'87新人グランプリ</a></p></td>
 <td><p><a href="../Page/朝日放送テレビ.md" title="wikilink">朝日放送</a>・<br />
@@ -807,218 +828,225 @@
 <td><p>I Don't Know!</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>1987.09.27 (日)[75]</p></td>
-<td><p>ヤングスタジオ101[76]</p></td>
+<tr class="odd">
+<td><p>1987.09.27 (日)[91]</p></td>
+<td><p>ヤングスタジオ101[92]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>Somebody Loves You</p></td>
-<td><p>NHK衛星第2では10月3日(土)放送[77]。</p></td>
+<td><p>NHK衛星第2では10月3日(土)放送[93]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.10.01 (木)</p></td>
 <td><p>アナウンサーぷっつん物語スペシャル</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p>エンディングで歌唱。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.10.16 (金)</p></td>
 <td><p>全日本歌謡音楽祭</p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>新人奨励賞</strong>。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.10.17 (土)</p></td>
 <td><p>第17回銀座音楽祭</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>最優秀新人賞</strong>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.10.28 (水)</p></td>
 <td><p>夜のヒットスタジオDELUXE</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td><p>競作歌手のサマンサ・ジルズがBaBeの応援として出演。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.10.30 (金)</p></td>
 <td><p>輝け!第18回日本歌謡大賞</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>放送音楽新人賞</strong>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.11.16 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td><p>第10位。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.11.22 (日)</p></td>
 <td><p><a href="../Page/スーパージョッキー.md" title="wikilink">スーパーJOCKEY</a></p></td>
 <td><p>日本テレビ</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.11.22 (日)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/歌え!アイドルどーむ" title="wikilink">歌え!アイドルどーむ</a></p></td>
 <td><p>テレビ東京</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.11.25 (水)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/第29回日本レコード大賞" title="wikilink">第29回速報!日本レコード大賞</a></p></td>
 <td><p>TBS</p></td>
 <td><p>I Don't Know!</p></td>
-<td><p><strong>新人賞</strong>[78]。</p></td>
-</tr>
-<tr class="even">
-<td><p>1987.11.27 (金)[79]</p></td>
-<td><p>ミュージックステーション[80]</p></td>
-<td><p>テレビ朝日</p></td>
-<td><p>Hold Me![81]</p></td>
-<td></td>
+<td><p><strong>新人賞</strong>[94]。</p></td>
 </tr>
 <tr class="odd">
+<td><p>1987.11.27 (金)[95]</p></td>
+<td><p>ミュージックステーション[96]</p></td>
+<td><p>テレビ朝日</p></td>
+<td><p>Hold Me![97]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>1987.12.04 (金)</p></td>
 <td><p>発表</p></td>
 <td><p>第20回日本有線大賞</p></td>
 <td><p>TBS</p></td>
 <td><p>I Don't Know!</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.12.04 (金)</p></td>
 <td><p><a href="../Page/だぅもありがと!.md" title="wikilink">だぅもありがと!</a></p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.12.10 (木)</p></td>
 <td><p>第20回全日本有線放送大賞</p></td>
 <td><p>読売テレビ・日本テレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>新人賞</strong>。</p></td>
 </tr>
-<tr class="even">
-<td><p>1987.12.13 (日)[82]</p></td>
-<td><p>ヤングスタジオ101[83]</p></td>
+<tr class="odd">
+<td><p>1987.12.13 (日)[98]</p></td>
+<td><p>ヤングスタジオ101[99]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>No No Darling!</p></td>
-<td><p>NHK衛星第2では12月26日(土)放送[84]。</p></td>
+<td><p>NHK衛星第2では12月26日(土)放送[100]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987.12.15 (火)</p></td>
 <td><p>FNS歌謡祭'87</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>I Don't Know!</p></td>
 <td><p><strong>最優秀新人賞</strong>。</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1987.12.27 (日)</p></td>
 <td><p>歌謡びんびんハウス</p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.01.03 (日)</p></td>
 <td><p><a href="../Page/美少女学園.md" title="wikilink">美少女学園</a></p></td>
 <td><p>テレビ朝日</p></td>
 <td><p>Hold Me!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.01.17 (日)</p></td>
 <td><p>スーパーJOCKEY</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.01.20 (水)</p></td>
 <td><p>夜のヒットスタジオDELUXE</p></td>
 <td><p>フジテレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.01.22 (金)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DOKI・DOKI・DO!" title="wikilink">DOKI・DOKI・DO!</a></p></td>
 <td><p>日本テレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
-<td><p>1988.01.29 (金)[85]</p></td>
-<td><p>ミュージックステーション[86]</p></td>
+<tr class="even">
+<td><p>1988.01.29 (金)[101]</p></td>
+<td><p>ミュージックステーション[102]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>TONIGHT![87]</p></td>
+<td><p>TONIGHT![103]</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.01.31 (日)</p></td>
 <td><p><a href="../Page/やる気マンマン日曜日.md" title="wikilink">やる気マンマン日曜日</a></p></td>
 <td><p>TBS</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.02.06 (土)</p></td>
 <td><p><a href="../Page/オレたちひょうきん族.md" title="wikilink">オレたちひょうきん族</a></p></td>
 <td><p>フジテレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.02.15 (月)</p></td>
 <td><p>歌のトップテン</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>TONIGHT!</p></td>
 <td><p>第10位。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.02.20 (土)</p></td>
 <td><p>十日町雪まつりホワイトカーニバル'88</p></td>
 <td><p>日本テレビ</p></td>
 <td><p>TONIGHT! / I Don't Know</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988.02.21 (日)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/吉村明宏のアイドルブティック" title="wikilink">吉村明宏のアイドルブティック</a></p></td>
 <td><p>TBS</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.02.21 (日)</p></td>
 <td><p>歌え!アイドルどーむ</p></td>
 <td><p>テレビ東京</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
-<tr class="even">
-<td><p>1988.02.28 (日)[88]</p></td>
-<td><p>ヤングスタジオ101[89]</p></td>
+<tr class="odd">
+<td><p>1988.02.28 (日)[104]</p></td>
+<td><p>ヤングスタジオ101[105]</p></td>
 <td><p>NHK総合</p></td>
 <td><p>Give Me Up</p></td>
-<td><p>NHK衛星第2では3月5日(土)放送[90]。</p></td>
+<td><p>NHK衛星第2では3月5日(土)放送[106]。</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1988.03.05 (土)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サタデーポップ&#39;88" title="wikilink">サタデーポップ'88</a></p></td>
 <td><p>TBS</p></td>
 <td><p>TONIGHT!</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>1988.05.01 (日) ①</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/鶴太郎の危険なテレビ" title="wikilink">鶴太郎の危険なテレビ</a></p></td>
+<td><p>日本テレビ</p></td>
+<td><p>Get a Chance!</p></td>
+<td></td>
+</tr>
 <tr class="even">
-<td><p>1988.05.01 (日)</p></td>
+<td><p>1988.05.01 (日) ②</p></td>
 <td><p>やる気マンマン日曜日</p></td>
 <td><p>TBS</p></td>
 <td><p>Get a Chance!</p></td>
@@ -1046,15 +1074,15 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1988.05.13 (金)[91]</p></td>
-<td><p>ミュージックステーション[92]</p></td>
+<td><p>1988.05.13 (金)[107]</p></td>
+<td><p>ミュージックステーション[108]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>Get a Chance![93]</p></td>
+<td><p>Get a Chance![109]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1988.05.21 (土)[94][95]</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャストポップアップ" title="wikilink">ジャストポップアップ</a>[96][97]</p></td>
+<td><p>1988.05.21 (土)[110][111]</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジャストポップアップ" title="wikilink">ジャストポップアップ</a>[112][113]</p></td>
 <td><p>NHK総合・ NHK衛星第2</p></td>
 <td><p>Love in the first degree</p></td>
 <td></td>
@@ -1137,8 +1165,8 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1988.09.03 (土)[98][99]</p></td>
-<td><p>ジャストポップアップ[100][101]</p></td>
+<td><p>1988.09.03 (土)[114][115]</p></td>
+<td><p>ジャストポップアップ[116][117]</p></td>
 <td><p>NHK総合・NHK衛星第2</p></td>
 <td><p>WAKE UP!</p></td>
 <td></td>
@@ -1151,10 +1179,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1988.09.09 (金)[102]</p></td>
-<td><p>ミュージックステーション[103]</p></td>
+<td><p>1988.09.09 (金)[118]</p></td>
+<td><p>ミュージックステーション[119]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>WAKE UP![104]</p></td>
+<td><p>WAKE UP![120]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1263,10 +1291,10 @@
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>1989.03.24 (金)[105]</p></td>
-<td><p>ミュージックステーション[106]</p></td>
+<td><p>1989.03.24 (金)[121]</p></td>
+<td><p>ミュージックステーション[122]</p></td>
 <td><p>テレビ朝日</p></td>
-<td><p>She has a dream[107]</p></td>
+<td><p>She has a dream[123]</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -1312,9 +1340,9 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1989.11.25 (土) 深夜</p></td>
-<td><p>オールナイトフジ</p></td>
-<td><p>フジテレビ</p></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -1336,7 +1364,7 @@
   - [パオパオチャンネル](../Page/パオパオチャンネル.md "wikilink")（[テレビ朝日](../Page/テレビ朝日.md "wikilink")） - [ウッチャンナンチャン](../Page/ウッチャンナンチャン.md "wikilink")と共に金曜レギュラー。BaBeは番組の途中で降板したが、最終回の1989年9月29日に再び出演した。
   - ビショップ in ナイト Live King（[ABCテレビ](../Page/朝日放送テレビ.md "wikilink")、1990年4月24日 - 1991年） - 解散後、近藤が[原田伸郎](../Page/原田伸郎.md "wikilink")と共に司会を務めた音楽オーディション番組。
   - [なにわ友あれ赤井英和](../Page/なにわ友あれ赤井英和.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 引退後の二階堂がゲスト出演。
-  - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（フジテレビ、2017年7月11日）\[108\] - 引退後の二階堂が実娘と共にゲスト出演\[109\]。近藤も電話でのみ出演\[110\]。
+  - [ノンストップ\!](https://ja.wikipedia.org/wiki/ノンストップ! "wikilink")（フジテレビ、2017年7月11日）\[124\] - 引退後の二階堂が実娘と共にゲスト出演\[125\]。近藤も電話でのみ出演\[126\]。
   - 他多数
 
 ### ラジオ番組
@@ -1411,7 +1439,7 @@
   - 1987年11月21日 - [産業能率短期大学](https://ja.wikipedia.org/wiki/産業能率短期大学 "wikilink")
   - 1987年11月22日 - [電気通信大学](../Page/電気通信大学.md "wikilink")
   - 1987年11月23日 - [駿河台大学](../Page/駿河台大学.md "wikilink")
-  - 1988年 - [三重県立四日市工業高等学校](../Page/三重県立四日市工業高等学校.md "wikilink")（ライブの途中で公演中止。詳細はエピソード欄）
+  - 1988年 - [三重県立四日市工業高等学校](../Page/三重県立四日市工業高等学校.md "wikilink")（ライブの途中で公演中止）
   - 1989年11月3日 - [高岡短期大学](../Page/高岡短期大学.md "wikilink")「第4回 創己祭」（[富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[高岡市](https://ja.wikipedia.org/wiki/高岡市 "wikilink")）
 
 ### イベント
@@ -1493,67 +1521,83 @@
 44.
 45.
 46.
-47. [「出演者ラインアップ - 1987.05.29.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0033/index.html)、2019年6月26日閲覧。
+47.
 48.
 49.
-50. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103213834/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-107200000000000000000000)。
-51. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103213942/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-582D-7300000000000000000000)。
+50.
+51. [「出演者ラインアップ - 1987.05.29.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0033/index.html)、2019年6月26日閲覧。
 52.
 53.
-54.
-55.
-56. [山田 2012](https://ja.wikipedia.org/wiki/#yamada "wikilink"), p.34。
+54. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103213834/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-107200000000000000000000)。
+55. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103213942/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-582D-7300000000000000000000)。
+56.
 57.
 58.
 59.
-60. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103214042/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-07-2600000000000000000000)。
+60.
 61.
-62. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103214937/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58695700000000000000000000)。
-63. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215050/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5700-6B00000000000000000000)。
+62. [山田 2012](https://ja.wikipedia.org/wiki/#yamada "wikilink"), p.34。
+63.
 64.
-65. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215149/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-586F1800000000000000000000)。
-66. [山田 2012](https://ja.wikipedia.org/wiki/#yamada "wikilink"), p.346。
+65.
+66.
 67.
-68. [「出演者ラインアップ - 1987.08.07.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0042/index.html)、2019年6月26日閲覧。
+68.
 69.
-70.
+70. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103214042/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-07-2600000000000000000000)。
 71.
-72.
-73.
+72. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103214937/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58695700000000000000000000)。
+73. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215050/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5700-6B00000000000000000000)。
 74.
-75. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215249/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-570D-4C00000000000000000000)。
-76.
-77. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215349/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5879-5300000000000000000000)。
+75. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215149/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-586F1800000000000000000000)。
+76. [山田 2012](https://ja.wikipedia.org/wiki/#yamada "wikilink"), p.346。
+77.
 78.
-79. [「出演者ラインアップ - 1987.11.27.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0055/index.html)、2019年6月26日閲覧。
-80.
+79.
+80. [「出演者ラインアップ - 1987.08.07.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0042/index.html)、2019年6月26日閲覧。
 81.
-82. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215507/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5720-2100000000000000000000)。
+82.
 83.
-84. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215608/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-756500000000000000000000)。
-85. [「出演者ラインアップ - 1988.01.29.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0063/index.html)、2019年6月26日閲覧。
+84.
+85.
 86.
 87.
-88. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215711/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57-27-3100000000000000000000)。
+88.
 89.
-90. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215824/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57532D00000000000000000000)。
-91. [「出演者ラインアップ - 1988.05.13.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0076/index.html)　2019年6月26日閲覧。
+90.
+91. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215249/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-570D-4C00000000000000000000)。
 92.
-93.
-94. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215928/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57-15-1200000000000000000000)。
-95. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220025/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57612400000000000000000000)。
+93. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215349/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5879-5300000000000000000000)。
+94.
+95. [「出演者ラインアップ - 1987.11.27.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0055/index.html)、2019年6月26日閲覧。
 96.
 97.
-98. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220752/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-56031000000000000000000000)。
-99. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220856/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5774-6200000000000000000000)。
-100.
-101.
-102. [「出演者ラインアップ - 1988.09.09.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0092/index.html)、2019年6月26日閲覧。
+98. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215507/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5720-2100000000000000000000)。
+99.
+100. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215608/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-58-756500000000000000000000)。
+101. [「出演者ラインアップ - 1988.01.29.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0063/index.html)、2019年6月26日閲覧。
+102.
 103.
-104.
-105. [「出演者ラインアップ - 1989.03.24.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0117/index.html)、2019年6月26日閲覧。
-106.
-107.
+104. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215711/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57-27-3100000000000000000000)。
+105.
+106. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215824/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57532D00000000000000000000)。
+107. [「出演者ラインアップ - 1988.05.13.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0076/index.html)　2019年6月26日閲覧。
 108.
 109.
-110.
+110. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103215928/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57-15-1200000000000000000000)。
+111. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220025/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-57612400000000000000000000)。
+112.
+113.
+114. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220752/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-56031000000000000000000000)。
+115. [「NHKクロニクル - 番組表検索結果詳細」（『NHK ONLINE』）2019年11月3日時点のアーカイブ](https://web.archive.org/web/20191103220856/https://www2.nhk.or.jp/archives/chronicle/pg/page010-01-01.cgi?recId=0001000000000000%400000000000000000000000-5774-6200000000000000000000)。
+116.
+117.
+118. [「出演者ラインアップ - 1988.09.09.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0092/index.html)、2019年6月26日閲覧。
+119.
+120.
+121. [「出演者ラインアップ - 1989.03.24.FRI」（『MUSIC STATION』）](https://www.tv-asahi.co.jp/music/contents/m_lineup/0117/index.html)、2019年6月26日閲覧。
+122.
+123.
+124.
+125.
+126.

@@ -1,9 +1,7 @@
 > この記事は[吸血鬼ハンターD](https://ja.wikipedia.org/wiki/吸血鬼ハンターD)から翻訳されています。
 
 
-[Yoshitaka_Amano_Oct_2006.jpg](https://ja.wikipedia.org/wiki/File:Yoshitaka_Amano_Oct_2006.jpg "fig:Yoshitaka_Amano_Oct_2006.jpg")\]\]
-
-『**吸血鬼ハンター"D"**』（バンパイアハンター・ディー、）は、[菊地秀行](../Page/菊地秀行.md "wikilink")の[小説](../Page/小説.md "wikilink")（[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")刊。かつては[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")刊）。[OVA](../Page/OVA.md "wikilink")化、[アニメ映画化](../Page/アニメーション映画.md "wikilink")、[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")化、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化もされた。また[2000年](../Page/2000年.md "wikilink")公開のアニメ映画『*[Vampire Hunter D: Bloodlust](https://ja.wikipedia.org/wiki/:en:Vampire_Hunter_D:_Bloodlust "wikilink")*』が契機となり現在は海外で翻訳出版もされている。
+[Yoshitaka_Amano_Oct_2006.jpg](https://ja.wikipedia.org/wiki/File:Yoshitaka_Amano_Oct_2006.jpg "fig:Yoshitaka_Amano_Oct_2006.jpg")\]\] 『**吸血鬼ハンター"D"**』（バンパイアハンター・ディー、）は、[菊地秀行](../Page/菊地秀行.md "wikilink")の[小説](../Page/小説.md "wikilink")（[朝日新聞出版](../Page/朝日新聞出版.md "wikilink")刊。かつては[朝日ソノラマ](../Page/朝日ソノラマ.md "wikilink")刊）。[OVA](../Page/OVA.md "wikilink")化、[アニメ映画化](../Page/アニメーション映画.md "wikilink")、[テレビゲーム](https://ja.wikipedia.org/wiki/テレビゲーム "wikilink")化、[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化もされた。また[2000年](../Page/2000年.md "wikilink")公開のアニメ映画『*[Vampire Hunter D: Bloodlust](https://ja.wikipedia.org/wiki/:en:Vampire_Hunter_D:_Bloodlust "wikilink")*』が契機となり現在は海外で翻訳出版もされている。
 
 ## あらすじ
 
@@ -192,7 +190,7 @@
   - 製作協力 - [DR MOVIE](../Page/DR_MOVIE.md "wikilink")
   - オリジナルサウンドトラック - [avex mode](https://ja.wikipedia.org/wiki/avex_mode "wikilink")
   - アニメーション制作 - [マッドハウス](../Page/マッドハウス.md "wikilink")
-  - 製作 - バンパイアハンターD製作委員会（フィルムリンク・インターナショナル、[BMGファンハウス](https://ja.wikipedia.org/wiki/BMGファンハウス "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、グッドヒルヴィジョン、ソフトキャピタル）
+  - 製作 - バンパイアハンターD製作委員会（フィルムリンク・インターナショナル、[BMGファンハウス](https://ja.wikipedia.org/wiki/BMG_JAPAN#BMG_JAPAN（BMGファンハウス） "wikilink")、[ムービック](../Page/ムービック.md "wikilink")、グッドヒルヴィジョン、ソフトキャピタル）
   - 英語版スタッフ
       - ADRディレクター：ジャック・フレッチャー
       - 台本：ジャック・フレッチャー、エレン・ムーア
@@ -243,7 +241,7 @@
 
 ### スタッフ（ゲーム）
 
-  - 原作 - 菊地秀行 (朝日ソノラマ刊)、劇場版アニメーション「VAMPIRE HUNTER D」
+  - 原作 - 菊地秀行（朝日ソノラマ刊）、劇場版アニメーション「VAMPIRE HUNTER D」
   - 劇場用アニメーション監督 - 川尻善昭
   - キャラクターデザイン - 箕輪豊
   - 脚本 - 本田暁、永原めぐみ
@@ -262,7 +260,7 @@
   - プロデューサー - 山本又一朗、岩沢慶明
   - 制作・企画 - フィルムリンク・インターナショナル
   - 制作 - [ソニー・ミュージックエンタテインメント](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[ニッポン放送](../Page/ニッポン放送.md "wikilink")、サブウォーカーズ、ソフトキャピタル
-  - 制作・開発 - [ビクターインタラクティブソフトウェア](https://ja.wikipedia.org/wiki/ビクターインタラクティブソフトウェア "wikilink")
+  - 制作・開発 - [ビクターインタラクティブソフトウェア](../Page/パック・イン・ビデオ.md "wikilink")
 
 ## オーディオドラマ
 

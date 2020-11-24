@@ -447,7 +447,7 @@
 ## 外部リンク
 
   -
-[Category:世界ゴルフ選手権](https://ja.wikipedia.org/wiki/Category:世界ゴルフ選手権 "wikilink") [Category:PGAツアー](https://ja.wikipedia.org/wiki/Category:PGAツアー "wikilink") [Category:ヨーロピアンツアー](https://ja.wikipedia.org/wiki/Category:ヨーロピアンツアー "wikilink") [Category:テキサス州のスポーツ](https://ja.wikipedia.org/wiki/Category:テキサス州のスポーツ "wikilink") [Category:オースティン](https://ja.wikipedia.org/wiki/Category:オースティン "wikilink")
+[Category:世界ゴルフ選手権](https://ja.wikipedia.org/wiki/Category:世界ゴルフ選手権 "wikilink") [Category:PGAツアー](https://ja.wikipedia.org/wiki/Category:PGAツアー "wikilink") [Category:ヨーロピアンツアー](https://ja.wikipedia.org/wiki/Category:ヨーロピアンツアー "wikilink") [Category:1999年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1999年開始のスポーツイベント "wikilink")
 
 1.
 2.

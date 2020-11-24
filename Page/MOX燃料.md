@@ -44,7 +44,7 @@
 ### 本格運転が実施された軽水炉
 
   - [東京電力](https://ja.wikipedia.org/wiki/東京電力 "wikilink")（株）[福島第一原子力発電所](../Page/福島第一原子力発電所.md "wikilink")3号機-2010年10月26日より営業運転\[3\]していたが、2011年3月11日発生の[東北地方太平洋沖地震](https://ja.wikipedia.org/wiki/東北地方太平洋沖地震 "wikilink")に伴い停止。[爆発事故により廃炉決定](https://ja.wikipedia.org/wiki/福島第一原子力発電所事故 "wikilink")。
-  - [九州電力](../Page/九州電力.md "wikilink")（株）[玄海原子力発電所](../Page/玄海原子力発電所.md "wikilink")3号機　国内の軽水炉としては初めて装荷（2009年10月15日）。2010年12月に停止、点検中。
+  - [九州電力](../Page/九州電力.md "wikilink")（株）[玄海原子力発電所](../Page/玄海原子力発電所.md "wikilink")3号機　国内の軽水炉としては初めて装荷（2009年10月15日）。
   - [中部電力](../Page/中部電力.md "wikilink")（株）[浜岡原子力発電所](../Page/浜岡原子力発電所.md "wikilink")4号機（静岡県御前崎市）。
   - [四国電力](https://ja.wikipedia.org/wiki/四国電力 "wikilink")（株）[伊方原子力発電所](https://ja.wikipedia.org/wiki/伊方原子力発電所 "wikilink")3号機（愛媛県伊方町）。国内で2番目（2010年2月12日）に装荷完了。
   - [北海道電力](../Page/北海道電力.md "wikilink")（株）[泊原子力発電所](https://ja.wikipedia.org/wiki/泊原子力発電所 "wikilink")3号機

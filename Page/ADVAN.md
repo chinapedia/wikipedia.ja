@@ -1,7 +1,7 @@
 > この記事は[ADVAN](https://ja.wikipedia.org/wiki/ADVAN)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Yokohama_ADVAN_Tires_WTCC_2006.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsubishi_Laner_Evolution_IX_Gr.N_drive_by_Fumio_Nutahara.JPG "wikilink") **ADVAN**（アドヴァン）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")より[横浜ゴム](../Page/横浜ゴム.md "wikilink")から発売されている[タイヤ](../Page/タイヤ.md "wikilink")および[アルミホイール](../Page/アルミホイール.md "wikilink")の各ブランド名である。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Yokohama_ADVAN_Tires_WTCC_2006.jpg "wikilink") [thumb](https://ja.wikipedia.org/wiki/ファイル:Mitsubishi_Laner_Evolution_IX_Gr.N_drive_by_Fumio_Nutahara.JPG "wikilink") **ADVAN**（アドバン\[1\]）は、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")より[横浜ゴム](../Page/横浜ゴム.md "wikilink")から発売されている[タイヤ](../Page/タイヤ.md "wikilink")および[アルミホイール](../Page/アルミホイール.md "wikilink")の各ブランド名である。
 
 ## 概要
 
@@ -82,6 +82,6 @@
   - [ADVAN](http://www.advan.com/)
   - [ADVAN Motorsports](http://www.advan.com/japanese/motor_sports/)
 
-[en:Advan](https://ja.wikipedia.org/wiki/en:Advan "wikilink")
-
 [Category:タイヤ](https://ja.wikipedia.org/wiki/Category:タイヤ "wikilink") [Category:自動車ホイールメーカー](https://ja.wikipedia.org/wiki/Category:自動車ホイールメーカー "wikilink") [Category:古河グループ](https://ja.wikipedia.org/wiki/Category:古河グループ "wikilink")
+
+1.

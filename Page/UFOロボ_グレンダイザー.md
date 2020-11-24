@@ -1464,7 +1464,7 @@
 39.
 40. 「[「鉄腕アトム」「ドラゴンボール」が「歴史を変えたテレビ番組」に選出\!](http://www.cinematoday.jp/page/N0051578)」シネマトゥデイ、2013年3月28日。
 41. 「[アトム、グレンダイザー、ドラゴンボール、加トケンが『世界のテレビを変えた50作』に選出](http://jp.ibtimes.com/articles/42393/20130403/797868.htm)」IBTimes、2013年4月3日。
-42. [「グレンダイザー」イラクに立つ 23年ぶりの日本館](http://web.archive.org/web/20130101014601/http://www.asahi.com/international/update/1103/TKY201211030357.html)（アーカイブ）
+42. [「グレンダイザー」イラクに立つ 23年ぶりの日本館](https://web.archive.org/web/20130101014601/http://www.asahi.com/international/update/1103/TKY201211030357.html)（アーカイブ）
 43. [坂本卓　「ことばで読み解くイラク」(3) 「グレンダイザー」](http://ronahi.hateblo.jp/entry/2008/05/28/123000)
-44. [「グレンダイザー」イラクに立つ 23年ぶりの日本館（朝日新聞 2012年11月4日付）](http://web.archive.org/web/20130603150920/http://www.asahi.com/international/update/1103/TKY201211030357.html?ref=reca)（アーカイブ）
+44. [「グレンダイザー」イラクに立つ 23年ぶりの日本館（朝日新聞 2012年11月4日付）](https://web.archive.org/web/20130603150920/http://www.asahi.com/international/update/1103/TKY201211030357.html?ref=reca)（アーカイブ）
 45. \[<http://publications.nichibun.ac.jp/ja/item/symp/2007-12-20/pub>　アラブ社会における日本のアニメ・マンガの影響\]保坂修司、国際日本文化研究センター, 2007.12.20.

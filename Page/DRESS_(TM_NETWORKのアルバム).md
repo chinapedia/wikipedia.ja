@@ -112,8 +112,8 @@
 <a href="../Page/カセットテープ.md" title="wikilink">CT</a><br />
 <a href="../Page/コンパクトディスク.md" title="wikilink">CD</a></p></td>
 <td><p>28･3H-5090<br />
-28・6H-5090<br />
-35･8H-5090</p></td>
+28･6H-5090<br />
+32･8H-5090</p></td>
 <td><p>1位</p></td>
 <td></td>
 </tr>

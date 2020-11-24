@@ -355,7 +355,7 @@ BARE-0016[7]。</p></td>
 
 1.  [被災者の姿に動かされ音楽活動を再開！sacraが2度目のメジャーデビュー](http://news.livedoor.com/article/detail/6732759/)
 2.  [応援してくださる皆様、関係者の皆様へ、sacraからの大切なお知らせ](http://sacraweb.jp/#/category/information/) - 2016年5月30日 公式HP INFORMATION
-3.  [【応援してくださる皆様、関係者の皆様へ、sacraからの大切なお知らせ】](http://ameblo.jp/sacrablog/entry-12165727826.html) - 2016年5月30日 Ameba blog
+3.  [【応援してくださる皆様、関係者の皆様へ、sacraからの大切なお知らせ】](https://ameblo.jp/sacrablog/entry-12165727826.html) - 2016年5月30日 Ameba blog
 4.  2007年5月23日に再発売
 5.  2004年5月20日に再発売
 6.  2004年4月1日に再発売

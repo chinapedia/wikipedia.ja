@@ -47,6 +47,6 @@
 ## 外部リンク
 
   - [Honda SWEET MISSON on TFM](http://www.tfm.co.jp/sweet/) - 現在は閉鎖、跡地は[BELISTA presents Sweet My Space](https://ja.wikipedia.org/wiki/BELISTA_presents_Sweet_My_Space "wikilink")→[明治製菓 presents Sweet Love がんばれ i のあるバレンタイン](https://ja.wikipedia.org/wiki/明治製菓_presents_Sweet_Love_がんばれ_i_のあるバレンタイン "wikilink")→[Lawson select Sweet Kitchenのサイトになっている](https://ja.wikipedia.org/wiki/Lawson_select_Sweet_Kitchen "wikilink")。
-  - [Honda SWEET MISSON on Excite](http://blog.excite.co.jp/sweetmission/)
+  - [Honda SWEET MISSON on Excite](https://blog.excite.co.jp/sweetmission/)
 
 [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの帯番組の歴史 "wikilink") [Category:本田技研工業一社提供番組](https://ja.wikipedia.org/wiki/Category:本田技研工業一社提供番組 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink")

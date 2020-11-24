@@ -3,7 +3,7 @@
 
 **EPO**（エポ、本名：**宮川 榮子**（みやがわ えいこ）、旧名および出生名：**佐藤 永子**、[1960年](../Page/1960年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")、[セラピスト](../Page/心理療法.md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。現在、[沖縄県](../Page/沖縄県.md "wikilink")[宜野湾市](../Page/宜野湾市.md "wikilink")在住。
 
-代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](../Page/高見知佳.md "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](../Page/香坂みゆき.md "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。最近では[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")「[Gift ～あなたはマドンナ～](https://ja.wikipedia.org/wiki/Gift_～あなたはマドンナ～ "wikilink")」がある。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った一人であると見なされている。
+代表曲として「[う、ふ、ふ、ふ、](https://ja.wikipedia.org/wiki/う、ふ、ふ、ふ、 "wikilink")」があり、提供曲としては[高見知佳](../Page/高見知佳.md "wikilink")「[くちびるヌード](https://ja.wikipedia.org/wiki/くちびるヌード "wikilink")」、[香坂みゆき](../Page/香坂みゆき.md "wikilink")「[ニュアンスしましょ](https://ja.wikipedia.org/wiki/ニュアンスしましょ "wikilink")」が知られている。最近では[土岐麻子](https://ja.wikipedia.org/wiki/土岐麻子 "wikilink")「[Gift 〜あなたはマドンナ〜](https://ja.wikipedia.org/wiki/Gift_〜あなたはマドンナ〜 "wikilink")」がある。デビュー当時から昭和歌謡とも洋楽とも言い切れない音楽性で活動しており、[J-POP](../Page/J-POP.md "wikilink")黎明期\[1\]を創った一人であると見なされている。
 
 ## 来歴
 
@@ -143,7 +143,7 @@
 
 | \# | 発売日                                                                                           | タイトル                                                                                                            |
 | -- | --------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------- |
-| 1  | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")   | [DOWN TOWN](../Page/DOWN_TOWN.md "wikilink")／クラクション                                                             |
+| 1  | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月21日](../Page/3月21日.md "wikilink")   | [DOWN TOWN](https://ja.wikipedia.org/wiki/DOWN_TOWN_\(EPOの曲\) "wikilink")／クラクション                                |
 | 2  | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[11月21日](../Page/11月21日.md "wikilink") | [Park Ave.1981](https://ja.wikipedia.org/wiki/Park_Ave.1981 "wikilink")／ポップ・ミュージック2nd                           |
 | 3  | [1982年](../Page/1982年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink")                      | [Girl in me](https://ja.wikipedia.org/wiki/Girl_in_me "wikilink") (Single Version)／身代りのバディー                     |
 | 4  | 1982年[10月20日](../Page/10月20日.md "wikilink")                                                   | [土曜の夜はパラダイス](https://ja.wikipedia.org/wiki/土曜の夜はパラダイス "wikilink")／うわさになりたい                                      |
@@ -230,6 +230,7 @@
 | MIDI | [1989年](../Page/1989年.md "wikilink")[12月10日](../Page/12月10日.md "wikilink")                    | [THE BALLADS](https://ja.wikipedia.org/wiki/THE_BALLADS "wikilink")（含新録曲）                                                             |
 | MIDI | [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[11月21日](../Page/11月21日.md "wikilink") | [CM TRACKS](https://ja.wikipedia.org/wiki/CM_TRACKS "wikilink")（含アルバム未収録曲・未発表曲）                                                       |
 | MIDI | [1991年](../Page/1991年.md "wikilink")[11月1日](../Page/11月1日.md "wikilink")                      | [SINGLE TRACKS](https://ja.wikipedia.org/wiki/SINGLE_TRACKS "wikilink")（含アルバム未収録曲）                                                    |
+| MIDI | [1992年](../Page/1992年.md "wikilink")                                                          | [太陽にpump\! Pump\! EPO BEST HITS](https://ja.wikipedia.org/wiki/太陽にpump!_Pump!_EPO_BEST_HITS "wikilink")                               |
 | MIDI | [1992年](../Page/1992年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")                    | [THE BEST 1980-1990](https://ja.wikipedia.org/wiki/THE_BEST_1980-1990 "wikilink")                                                     |
 | EMI  | [1994年](../Page/1994年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")                      | [KAWI 〜唄の谷〜](https://ja.wikipedia.org/wiki/KAWI_〜唄の谷〜 "wikilink")                                                                     |
 | BMG  | [1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")                      | [epocha 1980-1986](https://ja.wikipedia.org/wiki/epocha_1980-1986 "wikilink")（含未発表曲）                                                  |

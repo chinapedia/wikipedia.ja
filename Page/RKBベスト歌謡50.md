@@ -49,4 +49,4 @@
 1.  林はこの番組の降板をもってアナウンサーを引退した。
 2.  このトヨタ自動車・トヨタディーラー（トヨタの販売店）が協賛する「TOYOTA SUNDAY SPECIAL」という冠が付いた番組は[HBCラジオ](../Page/HBCラジオ.md "wikilink")・[文化放送](../Page/文化放送.md "wikilink")・[東海ラジオ](../Page/東海ラジオ放送.md "wikilink")・[ラジオ大阪で放送されていたほぼ同じ趣旨の歌謡曲ランキング番組](../Page/大阪放送.md "wikilink")「[決定\!全日本歌謡選抜](../Page/決定!全日本歌謡選抜.md "wikilink")」との[企画ネット番組](../Page/企画ネット番組.md "wikilink")だった。基本的には[NRNシングルネットであるが](../Page/全国ラジオネットワーク.md "wikilink")、HBCは[JRNとのクロスネット](https://ja.wikipedia.org/wiki/Japan_Radio_Network "wikilink")、RKBは企画ネットで唯一JRN単独加盟だった
 3.  該当週の[TBSラジオ](../Page/TBSラジオ.md "wikilink")制作のネット番組『[スーパーギャング](../Page/スーパーギャング.md "wikilink")』はネットを返上。出典：[朝日新聞西部本社](https://ja.wikipedia.org/wiki/朝日新聞西部本社 "wikilink")[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月14日](../Page/10月14日.md "wikilink")付[夕刊](../Page/夕刊.md "wikilink")[ラ・テ欄](https://ja.wikipedia.org/wiki/番組表 "wikilink")
-4.  林は番組初期の頃のみ、ラジオベストテン情報のRKB担当の回とRKBからの中継の時の追っかけマンとして出演していた。
+4.  林は番組初期の頃のみ、ラジオベストテン情報のRKB担当の回とRKBからの中継の時の追っかけマンとして番組に関わっていた。

@@ -75,8 +75,6 @@
 
 [テレ朝チャンネル](../Page/テレ朝チャンネル.md "wikilink")で再放送されたことがある。
 
-海外でも放送されて海外の[ディズニーXD](https://ja.wikipedia.org/wiki/ディズニーXD "wikilink")でも放送された（英語のタイトル名:ULTRB）。
-
 ### スタッフ
 
   - 原作 - [藤子不二雄<span class="Unicode">Ⓐ</span>](../Page/藤子不二雄A.md "wikilink")

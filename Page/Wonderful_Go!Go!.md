@@ -126,4 +126,4 @@
 
   - [ワンダフル・ゴーゴー　番組公式サイト](http://www2.jfn.co.jp/gogo/)
 
-[Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組‎](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組‎ "wikilink")
+[Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink") [Category:JFNCの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:JFNCの帯番組の歴史 "wikilink") [Category:JFN系ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの情報・ワイドショー番組 "wikilink")

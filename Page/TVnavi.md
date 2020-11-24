@@ -20,9 +20,9 @@
   - 「ナビーロード」
   - 「Thank you ふぉ〜ゆ〜\!\!」 - [ふぉ〜ゆ〜](https://ja.wikipedia.org/wiki/ふぉ〜ゆ〜 "wikilink")
 
-## ドラマ大賞
+## ドラマ・オブ・ザ・イヤー
 
-企画は[2004年](../Page/2004年.md "wikilink")より新設。1年間に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[民放で放送された連続](../Page/民間放送.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の中から読者投票によって選ばれる（[2016年](../Page/2016年.md "wikilink")は休み\[2\]）。
+企画は[2004年](../Page/2004年.md "wikilink")より新設。1年間に[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、[民放で放送された連続](../Page/民間放送.md "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")の中から読者投票によって選ばれる（[2016年](../Page/2016年.md "wikilink")は休み、その後復活せず\[2\]）。
 
 ### 受賞作品
 
@@ -233,7 +233,7 @@
 
   - [月刊TVnavi オフィシャルサイト](http://www.tvnaviweb.jp/)
 
-[Category:テレビ情報誌](https://ja.wikipedia.org/wiki/Category:テレビ情報誌 "wikilink") [Category:産経新聞社の出版物](https://ja.wikipedia.org/wiki/Category:産経新聞社の出版物 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink") [Category:ドラマの賞](https://ja.wikipedia.org/wiki/Category:ドラマの賞 "wikilink")
+[Category:テレビ情報誌](https://ja.wikipedia.org/wiki/Category:テレビ情報誌 "wikilink") [Category:産経新聞社の出版物](https://ja.wikipedia.org/wiki/Category:産経新聞社の出版物 "wikilink") [Category:2003年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年創刊の雑誌 "wikilink")
 
 1.
 2.

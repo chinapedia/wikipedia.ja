@@ -17,7 +17,7 @@
 
 ### フットボールリーグへの参加
 
-[Southampton_FC_League_Performance.svg](https://ja.wikipedia.org/wiki/File:Southampton_FC_League_Performance.svg "fig:Southampton_FC_League_Performance.svg")[8月22日](../Page/8月22日.md "wikilink")閲覧）</ref>\]\] 1920年、新たに創設された[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")3部に参加。翌1921-22シーズン、フットボールリーグ3部は南北に分かれるが、サウス・ディビジョンで優勝してリーグ2部に昇格した。その後、31年間2部に在籍したが、1952-53シーズンを22チーム中21位で終了し、再びリーグ3部に降格した。1959-60シーズンに3部で優勝し、フットボールリーグ2部に復帰すると、1965-66シーズン、シーズン30ゴールを挙げたマーティン・チヴァーズの活躍もあって、2部を2位で終了し、クラブ創設以来初のリーグ1部昇格を果たした。しかし、1973-74シーズン、22チーム中20位となって再びフットボールリーグ2部に降格した。
+[Southampton_FC_League_Performance.svg](https://ja.wikipedia.org/wiki/File:Southampton_FC_League_Performance.svg "fig:Southampton_FC_League_Performance.svg")[8月22日](../Page/8月22日.md "wikilink")閲覧）</ref>\]\] 1920年、新たに創設された[フットボールリーグ](https://ja.wikipedia.org/wiki/フットボールリーグ "wikilink")3部に参加。翌1921-22シーズン、フットボールリーグ3部は南北に分かれるが、サウス・ディビジョンで優勝してリーグ2部に昇格した。その後、31年間2部に在籍したが、1952-53シーズンを22チーム中21位で終了し、再びリーグ3部に降格した。1959-60シーズンに3部で優勝し、フットボールリーグ2部に復帰すると、1965-66シーズン、シーズン30ゴールを挙げた[マーティン・チヴァーズ](https://ja.wikipedia.org/wiki/マーティン・チヴァーズ "wikilink")の活躍もあって、2部を2位で終了し、クラブ創設以来初のリーグ1部昇格を果たした。しかし、1973-74シーズン、22チーム中20位となって再びフットボールリーグ2部に降格した。
 
 ### FAカップ優勝の栄光
 
@@ -131,9 +131,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[8月30日](../Page/8月30日.md "wikilink")現在
+  -
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Antigua_and_Barbuda.svg "wikilink"))   ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Antigua_and_Barbuda.svg "wikilink"))   ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

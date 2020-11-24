@@ -205,8 +205,6 @@
 
   - [クラウス・フィッシャー](../Page/クラウス・フィッシャー.md "wikilink") 1984-1988
 
-  - [金鋳城](../Page/金鋳城.md "wikilink") 1992-1994
-
   - [エリック・ウィナルダ](https://ja.wikipedia.org/wiki/エリック・ウィナルダ "wikilink") 1994-1996
 
   - [ユルドゥライ・バシュテュルク](../Page/ユルドゥライ・バシュテュルク.md "wikilink") 1997-2001
@@ -250,8 +248,6 @@
   - [ズラトコ・デディッチ](https://ja.wikipedia.org/wiki/ズラトコ・デディッチ "wikilink") 2009-2013
 
   - [アンドレアス・ルーテ](https://ja.wikipedia.org/wiki/アンドレアス・ルーテ "wikilink") 2009-2016
-
-  - [鄭大世](../Page/鄭大世.md "wikilink") 2010-2012
 
   - [ミヒャエル・エッサー](https://ja.wikipedia.org/wiki/ミヒャエル・エッサー "wikilink") 2010-2015
 

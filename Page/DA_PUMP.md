@@ -33,6 +33,8 @@
 
 [2006年](../Page/2006年.md "wikilink")9月、プロデューサーに今井大介を迎え入れて24枚目のシングル「[ALRIGHT\!](https://ja.wikipedia.org/wiki/ALRIGHT!_\(DA_PUMPの曲\) "wikilink")」を発売し、3人体制で活動を再開。
 
+また、それと同時にファンクラブ名を「**Kurry Soul**」に改名。
+
 [2007年](../Page/2007年.md "wikilink")、デビュー10周年を迎え、記念コンサート『BUMPIN' PUMPIN' TOUR 2008』の開催が予定されていたが、リハーサル中にISSAが右足を骨折してしまい、4年ぶりのツアー公演が中止となった\[5\]。
 
 ISSAのリハビリ中にグループの今後の活動について議論する事となり、その過程でISSAとKENがパフォーマンス中心のグループに再編成するとして、メンバー全員が後輩を中心に新メンバー募集を開始した。それと同時にYUKINARIもパフォーマンスより、プロデュースに集中していきたいとして、音楽から企画構成など裏方からグループを支えるメンバーとして活動していく事にした。
@@ -595,8 +597,8 @@ CD</p></td>
 </tr>
 <tr class="even">
 <td><p>33</p></td>
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a>（予定）</p></td>
-<td><p><strong>Fantasista～ファンタジスタ～</strong></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/9月30日.md" title="wikilink">9月30日</a></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Fantasista〜ファンタジスタ〜" title="wikilink">Fantasista〜ファンタジスタ〜</a></strong></p></td>
 <td><p>AVCD-98014/B<br />
 AVCD-98015/B<br />
 AVCD-98016/B<br />
@@ -729,44 +731,6 @@ CD</p></td>
 </tr>
 </tbody>
 </table>
-
-### 未発表曲
-
-  - **Summer Girl**
-      - DA PUMP TOUR 1999 〜Higher and Higher\!〜でのみ披露
-  - **SENSE**
-      - ファンクラブイベントなどで披露されていた初のセルフプロデュース作品\[22\]
-  - **One Step March**
-      - DA PUMP LIVE 2009 Thunder Party ♯09の追加公演で披露されたm.c.A.T作詞作曲の曲
-  - **Underwater**
-      - メンバーのDAICHIがインスタグラムでこの曲のミュージック・ビデオがアップロードされた\[23\]
-  - **Thinkin’ about you**
-      - LIVE DA PUMP 2016-2017 RED 〜 live 20th 〜のオープニングでのみ披露された曲。過去のアルバムである[EXPRESSION](https://ja.wikipedia.org/wiki/EXPRESSION_\(DA_PUMPのアルバム\) "wikilink")、[Higher and Higher\!](https://ja.wikipedia.org/wiki/Higher_and_Higher! "wikilink")、[BEAT BALLのイントロが使われていたり](../Page/BEAT_BALL.md "wikilink")、DA PUMPの過去の楽曲である[Feelin' Good -It's PARADISE-](https://ja.wikipedia.org/wiki/Feelin'_Good_-It's_PARADISE- "wikilink")、[ごきげんだぜっ\! 〜Nothing But Something〜](https://ja.wikipedia.org/wiki/ごきげんだぜっ!_〜Nothing_But_Something〜 "wikilink")、[Joyful](https://ja.wikipedia.org/wiki/Joyful "wikilink")、[I wonder...](https://ja.wikipedia.org/wiki/I_wonder... "wikilink")、[New Positionの題名が歌詞に入っていたりなど](https://ja.wikipedia.org/wiki/New_Position "wikilink")、DA PUMPの20年を振り返っている曲である。ライブDVD発売前にISSAのインスタグラムでこの曲を歌った際は、曲名が『LIVE DA PUMP 2016-2017 RED 〜live 20th〜 opening song DPC』となっていた。\[24\]
-
-### その他
-
-  - **But My Love feat. ISSA（DA PUMP）**（2001年3月14日）
-      - [ISSAが参加](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink")。[MAXのアルバム](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")『[EMOTIONAL HISTORY](https://ja.wikipedia.org/wiki/EMOTIONAL_HISTORY "wikilink")』に収録。
-  - **CRAZY feat. KEN（DA PUMP）**（2002年8月7日）
-      - [KENが参加](https://ja.wikipedia.org/wiki/KEN_\(DA_PUMP\) "wikilink")。[hiroのアルバム](../Page/島袋寛子.md "wikilink")『[Naked and True](../Page/Naked_and_True.md "wikilink")』に収録。
-  - **Bomb A Head\! Returns\!**（2003年11月12日）
-      - [m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink") feat. DA PUMPとして参加。
-  - **CHRISTMAS HARMONY**（2007年11月21日）
-      - [ヴィジョンファクトリーのアーティストによるコンピレーションアルバム](../Page/ライジングプロダクション.md "wikilink")。
-      - DA PUMP「Christmas Night（English Version）」
-      - ISSA「白い雪」
-  - **ごきげんだぜっ！〜Nothing But Something〜feat. KEN（DA PUMP）**（2008年4月23日）
-      - KENが参加。[玉置成実](../Page/玉置成実.md "wikilink")のアルバム『[Don't Stay](https://ja.wikipedia.org/wiki/Don't_Stay "wikilink")』に収録。
-  - **阿久悠、作家生活40周年記念**（2008年12月3日）
-      - ヴィジョンファクトリーのアーティストによるコンピレーションアルバム。
-      - ISSA「気絶するほど悩ましい」
-  - **J-POPハリケーン〜DA PUMPだけ60分本気MIX〜**（2011年3月23日）
-      - アルバムアーティスト：MIX-J
-  - **気分は爽快**（2012年7月25日）
-      - KIMIとKAZUMAのユニット「キミカズ」の配信限定曲。
-  - **阿久悠トリビュート・スペシャルソングス〜朝日のように〜**（2017年11月15日）
-      - ライジングプロダクションのアーティストによるコンピレーションアルバム。
-      - ISSA「朝日のように」（新曲）、「気絶するほど悩ましい」
 
 ### 映像作品
 
@@ -934,8 +898,63 @@ AVBD-16851〜2</p></td>
 <td></td>
 <td><p>! FINAL at 日本武道館'''</p></td>
 </tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/12月16日.md" title="wikilink">12月16日</a>（予定）</p></td>
+<td><p><strong>LIVE DA PUMP 2020 Funky Tricky Party FINAL at さいたまスーパーアリーナ</strong></p></td>
+<td><p>AVXD-98049～51/B～C<br />
+AVBD-98045～8/B～C<br />
+AVXD-98054～5<br />
+AVBD-98052～3</p></td>
+<td><p>3BD+2CD<br />
+4DVD+2CD<br />
+2BD<br />
+2DVD</p></td>
+<td><p>アリーナツアー『Funky Tricky Party FINAL』の初日公演である<a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/2月11日.md" title="wikilink">2月11日</a>の<a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a>公演を収録した作品。初回限定盤のみ2019年に開催されたツアー『Funky Tricky Party』の<a href="../Page/アクトシティ浜松.md" title="wikilink">アクトシティ浜松</a>公演から3曲を抜粋して収録されている。[22]</p></td>
+</tr>
 </tbody>
 </table>
+
+### 未発表曲
+
+  - **Summer Girl**
+      - DA PUMP TOUR 1999 〜Higher and Higher\!〜でのみ披露
+  - **SENSE**
+      - ファンクラブイベントなどで披露されていた初のセルフプロデュース作品\[23\]
+  - **One Step March**
+      - DA PUMP LIVE 2009 Thunder Party ♯09の追加公演で披露されたm.c.A.T作詞作曲の曲
+  - **Underwater**
+      - メンバーのDAICHIがインスタグラムでこの曲のミュージック・ビデオがアップロードされた\[24\]
+  - **Thinkin’ about you**
+      - LIVE DA PUMP 2016-2017 RED 〜 live 20th 〜のオープニングでのみ披露された曲。ライブDVD発売前にISSAのインスタグラムでこの曲を歌った際は、曲名が『LIVE DA PUMP 2016-2017 RED 〜live 20th〜 opening song DPC』となっていた。\[25\]
+  - **Can't Stop The Feeling**
+      - 自身の冠番組である『Oh\! 舞 DA PUMP』での企画でのみ披露された、メンバーYORIのソロ楽曲
+      - 作詞はYORIが担当し、楽曲は[w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink")のメンバー[橘慶太](../Page/橘慶太.md "wikilink")が提供した
+
+### その他
+
+  - **But My Love feat. ISSA（DA PUMP）**（2001年3月14日）
+      - [ISSAが参加](https://ja.wikipedia.org/wiki/ISSA_\(歌手\) "wikilink")。[MAXのアルバム](https://ja.wikipedia.org/wiki/MAX_\(音楽グループ\) "wikilink")『[EMOTIONAL HISTORY](https://ja.wikipedia.org/wiki/EMOTIONAL_HISTORY "wikilink")』に収録。
+  - **CRAZY feat. KEN（DA PUMP）**（2002年8月7日）
+      - [KENが参加](https://ja.wikipedia.org/wiki/KEN_\(DA_PUMP\) "wikilink")。[hiroのアルバム](../Page/島袋寛子.md "wikilink")『[Naked and True](../Page/Naked_and_True.md "wikilink")』に収録。
+  - **Bomb A Head\! Returns\!**（2003年11月12日）
+      - [m.c.A・T](https://ja.wikipedia.org/wiki/m.c.A・T "wikilink") feat. DA PUMPとして参加。
+  - **CHRISTMAS HARMONY**（2007年11月21日）
+      - [ヴィジョンファクトリーのアーティストによるコンピレーションアルバム](../Page/ライジングプロダクション.md "wikilink")。
+      - DA PUMP「Christmas Night（English Version）」
+      - ISSA「白い雪」
+  - **ごきげんだぜっ！〜Nothing But Something〜feat. KEN（DA PUMP）**（2008年4月23日）
+      - KENが参加。[玉置成実](../Page/玉置成実.md "wikilink")のアルバム『[Don't Stay](https://ja.wikipedia.org/wiki/Don't_Stay "wikilink")』に収録。
+  - **阿久悠、作家生活40周年記念**（2008年12月3日）
+      - ヴィジョンファクトリーのアーティストによるコンピレーションアルバム。
+      - ISSA「気絶するほど悩ましい」
+  - **J-POPハリケーン〜DA PUMPだけ60分本気MIX〜**（2011年3月23日）
+      - アルバムアーティスト：MIX-J
+  - **気分は爽快**（2012年7月25日）
+      - KIMIとKAZUMAのユニット「キミカズ」の配信限定曲。
+  - **阿久悠トリビュート・スペシャルソングス〜朝日のように〜**（2017年11月15日）
+      - ライジングプロダクションのアーティストによるコンピレーションアルバム。
+      - ISSA「朝日のように」（新曲）、「気絶するほど悩ましい」
 
 ## 主な出演
 
@@ -949,7 +968,7 @@ AVBD-16851〜2</p></td>
 | 4  | [2001年](../Page/2001年.md "wikilink")（平成13年）/[第52回](../Page/第52回NHK紅白歌合戦.md "wikilink")                    | CORAZON                 | 02/27 | [ZONE](../Page/ZONE_\(バンド\).md "wikilink")                                          |                        |
 | 5  | [2002年](../Page/2002年.md "wikilink")（平成14年）/[第53回](../Page/第53回NHK紅白歌合戦.md "wikilink")                    | RAIN OF PAIN            | 08/27 | [Hitomi](https://ja.wikipedia.org/wiki/Hitomi "wikilink")                           |                        |
 | 6  | [2018年](../Page/2018年.md "wikilink")（平成30年）/[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink") | U.S.A.                  | 11/22 | [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")                         | 16年ぶりの出場・**後半トップバッター** |
-| 7  | [2019年](../Page/2019年.md "wikilink")（令和元年）/[第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")  | ONE TEAMメドレー\[25\]      | 11/21 | [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink") | **後半トップバッター (2)**      |
+| 7  | [2019年](../Page/2019年.md "wikilink")（令和元年）/[第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")  | ONE TEAMメドレー\[26\]      | 11/21 | [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink") | **後半トップバッター (2)**      |
 
 ### 映画
 
@@ -961,7 +980,7 @@ AVBD-16851〜2</p></td>
         ISSAが本名「辺土名一茶」として、初主演した映画。『[日本アカデミー賞](../Page/日本アカデミー賞.md "wikilink")』新人俳優賞受賞。DA PUMPのメンバー3人も端役で出演。DA PUMPが主題歌担当。
   - [劇場版 仮面ライダージオウ Over Quartzer](https://ja.wikipedia.org/wiki/劇場版_仮面ライダージオウ_Over_Quartzer "wikilink")
       -
-        7人体制となってから初の全員出演作品\[26\]。同作主題歌も担当。
+        7人体制となってから初の全員出演作品\[27\]。同作主題歌も担当。
 
 ### ドラマ
 
@@ -989,7 +1008,7 @@ AVBD-16851〜2</p></td>
   - 資生堂パンプ！DA PUMP学院
   - [Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink") DA PUMP ON THE RADIO〜sound freak show〜（2000年10月 - 2002年3月）
   - [JUNK](../Page/JUNK.md "wikilink") DA PUMP ON THE RADIO〜sound freak show〜（2002年4月 - 2003年9月）
-  - 渋谷女子企画 (準レギュラー : TOMO) ([Shibuya Cross-FM](https://ja.wikipedia.org/wiki/Shibuya_Cross-FM "wikilink"))\[27\]
+  - 渋谷女子企画 (準レギュラー : TOMO) ([Shibuya Cross-FM](https://ja.wikipedia.org/wiki/Shibuya_Cross-FM "wikilink"))\[28\]
   - サタデーradio 調子 土～yo！！(KIMI、U-YEAH) ([Fm yokyohama 84.7](../Page/横浜エフエム放送.md "wikilink")､ 2020年1月 -)
 
 ### CM
@@ -1010,8 +1029,8 @@ AVBD-16851〜2</p></td>
   - [ホーユー](../Page/ホーユー.md "wikilink") Beauteen（2000年 - 2002年）
   - [明治エッセルスーパーカップ](../Page/明治エッセルスーパーカップ.md "wikilink")（2001年 - 2002年）
   - [LINE](https://ja.wikipedia.org/wiki/LINEモバイル "wikilink") MUSIC（2018年）
-  - [リクルート](../Page/リクルートホールディングス.md "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink")（2018年 - ）\[28\]
-  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")・[Google Pixel](https://ja.wikipedia.org/wiki/Google_Pixel "wikilink")（2018年）\[29\]
+  - [リクルート](../Page/リクルートホールディングス.md "wikilink")・[スーモ](https://ja.wikipedia.org/wiki/スーモ "wikilink")（2018年 - ）\[29\]
+  - [ソフトバンク](https://ja.wikipedia.org/wiki/ソフトバンク "wikilink")・[Google Pixel](https://ja.wikipedia.org/wiki/Google_Pixel "wikilink")（2018年）\[30\]
   - [ABC MART](https://ja.wikipedia.org/wiki/ABC_MART "wikilink") （2018年 - 2019年）
   - [サントリー](../Page/サントリー.md "wikilink") ザ・プレミアム・モルツ ×THE MUSIC DAY 2019～時代～・自撮りするISSA （2019年7月6日）
   - [ガリバー](../Page/IDOM.md "wikilink") （2019年12月 - 2020年1月）
@@ -1043,7 +1062,7 @@ AVBD-16851〜2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/1997年" title="wikilink">1997年</a>11月30日</p></td>
-<td><p>CYCLE SPORTS FANTASY'97[30]</p></td>
+<td><p>CYCLE SPORTS FANTASY'97[31]</p></td>
 <td><ol>
 <li>11月30日 東京ドーム</li>
 </ol></td>
@@ -1414,7 +1433,7 @@ AVBD-16851〜2</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a>10月 - 12月</p></td>
-<td><p>LIVE DA PUMP 2019 Funky Tricky Party[31][32]</p></td>
+<td><p>LIVE DA PUMP 2019 Funky Tricky Party[32][33]</p></td>
 <td><ol>
 <li>10月19日 市原市市民会館 大ホール</li>
 <li>10月22日 愛知芸術劇場 大ホール</li>
@@ -1435,12 +1454,19 @@ AVBD-16851〜2</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>2月 - 3月</p></td>
-<td><p>LIVE DA PUMP 2020 Funky Tricky Party FINAL[33]</p></td>
+<td><p>LIVE DA PUMP 2020 Funky Tricky Party FINAL[34]</p></td>
 <td><ol>
 <li>2月11日 <a href="../Page/さいたまスーパーアリーナ.md" title="wikilink">さいたまスーパーアリーナ</a></li>
-<li>3月8日 <a href="https://ja.wikipedia.org/wiki/愛知県国際展示場" title="wikilink">愛知県国際展示場</a>大ホール（中止）[34]</li>
+<li>3月8日 <a href="https://ja.wikipedia.org/wiki/愛知県国際展示場" title="wikilink">愛知県国際展示場</a>大ホール（中止）[35]</li>
 <li>3月19日 <a href="../Page/大阪城ホール.md" title="wikilink">大阪城ホール</a>（中止）</li>
 <li>3月29日 LIVE DA PUMP 2020 FUNKY TRICKY PARTY もーあしびー <a href="../Page/宜野湾海浜公園.md" title="wikilink">宜野湾海浜公園</a>屋外劇場（中止）</li>
+</ol></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a>11月</p></td>
+<td><p>LIVE DA PUMP 2020 DA NEW GAME[36]</p></td>
+<td><ol>
+<li>11月19日 Zepp Tokyo（オンラインライブ）</li>
 </ol></td>
 </tr>
 </tbody>
@@ -1493,16 +1519,18 @@ AVBD-16851〜2</p></td>
 19. [中居正広、元DA PUMP･YUKINARIのU.S.A.ダンスに「ちょっと重い」](https://news.mynavi.jp/article/20181025-712924/) マイナビニュース 2018年10月25日
 20.
 21. [第16回ゴールドディスク大賞 受賞作品/アーティスト](http://www.golddisc.jp/award/16/index.html) THE GOLD DISC 2018年9月2日閲覧
-22. [THE NEXT EXIT　-DA PUMP JAPAN TOUR 2002 official live report](https://avex.jp/dapump/report/tour_2002/index2.htm) DA PUMPオフィシャルサイト(avex) 2019年3月17日閲覧
-23. [DAICHI Instagram](https://www.instagram.com/p/7F7j8ykw-x/?utm_source=ig_web_copy_link) 2019年3月17日閲覧
-24. [ISSA Instagram](https://www.instagram.com/p/BW5Dk1mABSg/) 2019年6月16日閲覧
-25. 「U.S.A.」（2回目）と「P.A.R.T.Y.～ユニバース・フェスティバル」のメドレー。
-26.
+22. [DA PUMP 公式サイト](https://dapump.jp/news/index.php)
+23. [THE NEXT EXIT　-DA PUMP JAPAN TOUR 2002 official live report](https://avex.jp/dapump/report/tour_2002/index2.htm) DA PUMPオフィシャルサイト(avex) 2019年3月17日閲覧
+24. [DAICHI Instagram](https://www.instagram.com/p/7F7j8ykw-x/?utm_source=ig_web_copy_link) 2019年3月17日閲覧
+25. [ISSA Instagram](https://www.instagram.com/p/BW5Dk1mABSg/) 2019年6月16日閲覧
+26. 「U.S.A.」（2回目）と「P.A.R.T.Y.～ユニバース・フェスティバル」のメドレー。
 27.
 28.
 29.
-30. [CYCLE SPORTS FANTASY'97 in TOKYO DOME](https://avex.jp/dapump/report/dome/dometop.htm) DA PUMPオフィシャルサイト(avex) 2019年3月17日閲覧
-31. [3](https://dapump.jp/news/index.php?page=2) DA PUMPオフィシャルサイト
-32. 当時休養中のYORIを除く、6人での出演
-33. [4](https://dapump.jp/live/tour.php?id=1001460) DA PUMPオフィシャルサイト
-34. [新型コロナウイルスの流行に伴う](../Page/2019新型コロナウイルス.md "wikilink")
+30.
+31. [CYCLE SPORTS FANTASY'97 in TOKYO DOME](https://avex.jp/dapump/report/dome/dometop.htm) DA PUMPオフィシャルサイト(avex) 2019年3月17日閲覧
+32. [3](https://dapump.jp/news/index.php?page=2) DA PUMPオフィシャルサイト
+33. 当時休養中のYORIを除く、6人での出演
+34. [4](https://dapump.jp/live/tour.php?id=1001460) DA PUMPオフィシャルサイト
+35. [新型コロナウイルスの流行に伴う](../Page/2019新型コロナウイルス.md "wikilink")
+36. [5](https://dapump.jp/news/detail.php?id=1086715) DA PUMPオフィシャルサイト

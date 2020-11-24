@@ -54,7 +54,7 @@
 
 [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")[美唄市](../Page/美唄市.md "wikilink")の[専修大学北海道短期大学](../Page/専修大学北海道短期大学.md "wikilink")の同級生として出会い\[8\]、[1996年](../Page/1996年.md "wikilink")1月に結成。トリオ名は、短大の中で[専修大学](../Page/専修大学.md "wikilink")に編入学するコースの名称から取った。
 
-[札幌吉本主催のオーディション番組](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー札幌事務所 "wikilink")「笑わしたるねん」（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）で合格して事務所所属となり、初期は札幌で活動していた。札幌吉本の同期に[アップダウン](../Page/アップダウン.md "wikilink")、[マッサジル](../Page/マッサジル.md "wikilink")がいる。メンバーの専修大学への編入学に伴い、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京吉本](../Page/東京吉本.md "wikilink")に移籍。[カラテカや](../Page/カラテカ_\(お笑いコンビ\).md "wikilink")[ニブンノゴ\!](../Page/ニブンノゴ!.md "wikilink")、[ハローバイバイ](../Page/ハローバイバイ.md "wikilink")などの[東京NSC2期生もほぼ同期で](https://ja.wikipedia.org/wiki/吉本総合芸能学院#東京校 "wikilink")、売れっ子がなかなか出ないことで知られた「泥の97年世代」の一組である。
+[札幌吉本主催のオーディション番組](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー札幌事務所 "wikilink")「笑わしたるねん」（[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")）で合格して事務所所属となり、初期は札幌で活動していた。札幌吉本の同期に[アップダウン](../Page/アップダウン.md "wikilink")、[マッサジル](../Page/マッサジル.md "wikilink")がいる。メンバーの専修大学への編入学に伴い、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に[東京吉本](../Page/東京吉本.md "wikilink")に移籍。[東京NSC1期生とほぼ同期](https://ja.wikipedia.org/wiki/吉本総合芸能学院#東京校 "wikilink")。
 
 [2012年](../Page/2012年.md "wikilink")[11月27日](../Page/11月27日.md "wikilink")に、年内いっぱいで解散することを発表\[9\]。[テレビ朝日](../Page/テレビ朝日.md "wikilink")系芸人トーク番組『[雨上がり決死隊のトーク番組 アメトーーク\!](https://ja.wikipedia.org/wiki/雨上がり決死隊のトーク番組_アメトーーク! "wikilink")』の2012年12月13日放送分「持ち込み企画プレゼン大会（2012冬）」に最初で最後の3人全員での（トリオ芸人としての）出演を果たし、同番組出演を以て解散を表明。「何をやっても結果が出なかった」、「実は全員が仲悪かった」ということを理由としている。また3人の出会いの場となった専修大学北海道短期大学も、この年の年度末をもって閉校となった。
 

@@ -69,7 +69,7 @@
 
 ## 公式サイト
 
-  - [TRUE KiSS DiSC OFFICIAL SITE](http://www.sonymusic.co.jp/Music/Info/TKD/)
+  - [TRUE KiSS DiSC OFFICIAL SITE](https://www.sonymusic.co.jp/Music/Info/TKD/)
   - [Pure Kiss Destination](https://web.archive.org/web/20010815060550/http://www.rojam.com/kd/)
 
 [Category:Kiss_Destination](https://ja.wikipedia.org/wiki/Category:Kiss_Destination "wikilink") [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本のヒップホップ・グループ](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・グループ "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
@@ -83,7 +83,7 @@
 7.
 8.  [文藝春秋](../Page/文藝春秋.md "wikilink")刊 『考えるヒット2』 [近田春夫](../Page/近田春夫.md "wikilink")著 355P-357Pより。
 9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』1999年10月号91Pより。
-10. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1999年7月号164Pより。
+10. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』1999年7月号「TRUE KiSS DESTiNATiON Girls, be ambitious\!」164Pより。
 11.
 12. [日経BP](../Page/日経BP.md "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年11月号39Pより。
 13. [日経BP](../Page/日経BP.md "wikilink")刊『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』2000年2月号より。

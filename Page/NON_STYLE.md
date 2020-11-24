@@ -1,16 +1,16 @@
 > この記事は[NON STYLE](https://ja.wikipedia.org/wiki/NON_STYLE)から翻訳されています。
 
 
-**NON STYLE**（ノン・スタイル）は、[石田明](https://ja.wikipedia.org/wiki/石田明 "wikilink")と[井上裕介による](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")にコンビ結成。出囃子は[KEMURIの](https://ja.wikipedia.org/wiki/kemuri "wikilink")『Prayer』。 [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")第9代目チャンピオン。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")王者。
+**NON STYLE**（ノン・スタイル）は、[石田 明と](https://ja.wikipedia.org/wiki/石田明 "wikilink")[井上 裕介による](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[お笑いコンビ](https://ja.wikipedia.org/wiki/お笑いコンビ "wikilink")。[吉本興業](https://ja.wikipedia.org/wiki/吉本興業 "wikilink")東京本社所属。[2000年](../Page/2000年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink")にコンビ結成。出囃子は[KEMURIの](https://ja.wikipedia.org/wiki/kemuri "wikilink")『Prayer』。 [爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")第9代目チャンピオン。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[M-1グランプリ](../Page/M-1グランプリ.md "wikilink")王者。
 
 ## メンバー
 
-  - [石田 明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（いしだ あきら、 - ）
-    [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")（まれに[ツッコミ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")）・ネタ作り担当。既婚。身長173cm、[大阪府立東淀川高等学校](../Page/大阪府立東淀川高等学校.md "wikilink")卒。
+  - [石田 明](https://ja.wikipedia.org/wiki/石田明 "wikilink")（いしだ あきら　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[2月20日](../Page/2月20日.md "wikilink") - ）（歳）
+    [ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")（まれに[ツッコミ](https://ja.wikipedia.org/wiki/漫才#ボケとツッコミ "wikilink")）・ネタ作成担当。既婚。身長173cm、[大阪府立東淀川高等学校](../Page/大阪府立東淀川高等学校.md "wikilink")卒。
     立ち位置は向かって左。[血液型](../Page/血液型.md "wikilink")は[B型](../Page/ABO式血液型.md "wikilink")。[大阪府](../Page/大阪府.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")出身。全身白の衣装を着用することが多い。ツッコミの井上がナルシストになりきる場面ではツッコミ役になる。
     2016年、劇団間座旗揚げ公演『恋の虫』で脚本を担当し、初めてミュージカルの脚本を手掛ける\[1\]。
     [合唱コンクール](../Page/合唱コンクール.md "wikilink")等で[合唱指揮者](../Page/合唱指揮者.md "wikilink")を任されることもある。
-  - [井上 裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")（いのうえ ゆうすけ、 - ）
+  - [井上 裕介](https://ja.wikipedia.org/wiki/井上裕介_\(お笑い芸人\) "wikilink")（いのうえ ゆうすけ　[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[3月1日](../Page/3月1日.md "wikilink") - ）（歳）
     [ツッコミ](https://ja.wikipedia.org/wiki/ツッコミ "wikilink")（まれに[ボケ](https://ja.wikipedia.org/wiki/ボケ_\(漫才\) "wikilink")）担当。未婚。身長163cm（公称165cm）、[神戸学院大学](../Page/神戸学院大学.md "wikilink")[経済学部](../Page/経済学部.md "wikilink")卒。
     立ち位置は向かって右。血液型は[A型](../Page/ABO式血液型.md "wikilink")。大阪府大阪市出身。[ジャケット](../Page/ジャケット.md "wikilink")の下に[タンクトップ](../Page/タンクトップ.md "wikilink")の衣装を着用することが多かったが、最近ではワイシャツを着ている。[ナルシスト](https://ja.wikipedia.org/wiki/ナルシスト "wikilink")になりきる場面ではボケ役になる。
     個人で[Day of the legend](../Page/Day_of_the_legend.md "wikilink")（ミュージシャン）としても活動。また、期間限定でロックバンド[flumpool](https://ja.wikipedia.org/wiki/flumpool "wikilink")のサポートメンバーとしても活動していた。
@@ -509,8 +509,6 @@
 
 </div>
 
-</div>
-
 ## 脚注
 
 ### 注釈
@@ -524,15 +522,19 @@
   - [R and C Ltd. - NON STYLE -](http://www.randc.jp/artist/nonstyle/)
 
   -
-  -
-  -
-  -
-  -
-  -
-  -
-  -
-  - [井上裕介](https://7gogo.jp/users/0rg5vSwXUMy_) - [755](https://ja.wikipedia.org/wiki/755_\(アプリケーション\) "wikilink")
+  - 石田 明
 
+      -
+      -
+  - 井上 裕介
+
+      -
+      -
+      -
+      -
+      - [井上裕介](https://7gogo.jp/users/0rg5vSwXUMy_) - [755](https://ja.wikipedia.org/wiki/755_\(アプリケーション\) "wikilink")
+
+      -
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:吉本興業](https://ja.wikipedia.org/wiki/Category:吉本興業 "wikilink") [Category:爆笑オンエアバトルチャンピオン大会優勝者](https://ja.wikipedia.org/wiki/Category:爆笑オンエアバトルチャンピオン大会優勝者 "wikilink") [Category:M-1グランプリ優勝者](https://ja.wikipedia.org/wiki/Category:M-1グランプリ優勝者 "wikilink")
 
 1.

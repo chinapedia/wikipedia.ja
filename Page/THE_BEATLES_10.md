@@ -169,7 +169,7 @@
 
 ## ネット局
 
-2020年10月現在。放送時間の早い順から記載。
+2020年11月現在。放送時間の早い順から記載。
 
 <table>
 <thead>
@@ -194,43 +194,49 @@
 <td><p>25時間先行</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a>（TBC）</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北陸放送" title="wikilink">北陸放送</a>（MRO）</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/青森県" title="wikilink">青森県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/青森放送" title="wikilink">青森放送</a>（RAB）</p></td>
 <td><p>毎週日曜 4:00 - 5:00<br />
 （毎週土曜 28:00 - 29:00）</p></td>
 <td><p>15時間先行</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="../Page/福井放送.md" title="wikilink">福井放送</a>（FBC）</p></td>
 <td><p>毎週日曜 10:00 - 11:00</p></td>
 <td><p>9時間先行</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>（KNB）</p></td>
 <td><p>毎週日曜 16:00 - 17:00</p></td>
 <td><p>3時間先行</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ぎふチャンラジオ" title="wikilink">岐阜放送</a>（ぎふチャン）</p></td>
 <td><p>毎週日曜 19:00 - 20:00</p></td>
 <td><p>同時ネット</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/熊本放送.md" title="wikilink">熊本放送</a>（RKK）</p></td>
 <td><p>毎週月曜 22:00 - 23:00</p></td>
 <td><p>27時間遅れ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/静岡放送" title="wikilink">静岡放送</a>（SBS）</p></td>
 <td><p>毎週金曜 21:00 - 22:00</p></td>

@@ -175,7 +175,7 @@
   - [旭硝子財団](../Page/旭硝子財団.md "wikilink")
   - [アリアンツ・アレナ](https://ja.wikipedia.org/wiki/アリアンツ・アレナ "wikilink")（旭硝子製の特殊フィルム[ETFE](https://ja.wikipedia.org/wiki/ETFE "wikilink")が使用されている）
   - [グラスピット](https://ja.wikipedia.org/wiki/グラスピット "wikilink")（[峰竜太](../Page/峰竜太.md "wikilink")がCM出演タレント）
-  - [江頭2:50](../Page/江頭2:50.md "wikilink")（素人時代に同社の船橋工場で勤務していた）
+  - [江頭2:50](../Page/江頭2:50.md "wikilink")（素人時代に同社の船橋工場にてアルバイトで勤務し、のちに江頭の行っていた高効率作業方式が浸透したことはつとに有名。その時の作業姿勢である「取って、入れて、出す」は今日まで江頭の持ちネタでもある）
   - [高橋一生](../Page/高橋一生.md "wikilink")（AGCに社名変更時のCMに出演）
 
 ## 外部リンク

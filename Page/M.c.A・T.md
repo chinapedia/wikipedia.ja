@@ -1105,8 +1105,8 @@ AVCD-23295:通常盤</p></td>
 2.  『[有吉反省会](https://ja.wikipedia.org/wiki/有吉反省会 "wikilink")』([日本テレビ](../Page/日本テレビ放送網.md "wikilink"))2013年5月26日放送分本人談。
 3.  [m.c.A・T『なんて言うんですか、こんな音楽感』第1回〜学生時代の俺っ！](https://33man.jp/article/column42/007089.html)
 4.  平山雄一『弱虫のロック論 -GOOD CRITIC-』[角川書店](../Page/角川書店.md "wikilink")、2013年、pp. 150-153
-5.  [小松壮一郎](http://ameblo.jp/mc-at/entry-10121532051.html) m.c.A・Tオフィシャルブログ、2008年7月30日
-6.  [この曲！\#1 Bomb A Head\!](http://ameblo.jp/mc-at/entry-10551402555.html) m.c.A・Tオフィシャルブログ、2010年6月1日
+5.  [小松壮一郎](https://ameblo.jp/mc-at/entry-10121532051.html) m.c.A・Tオフィシャルブログ、2008年7月30日
+6.  [この曲！\#1 Bomb A Head\!](https://ameblo.jp/mc-at/entry-10551402555.html) m.c.A・Tオフィシャルブログ、2010年6月1日
 7.  『週刊スパ』1995年6月28日号、39ページ
 8.
 9.

@@ -436,7 +436,7 @@
 <tr class="odd">
 <td><p>14</p></td>
 <td><p>ジョン・ジョーンズ</p></td>
-<td><p>2018年12月29日 - 2020年8日18日</p></td>
+<td><p>2018年12月29日 - 2020年8月18日</p></td>
 <td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アレクサンダー・グスタフソン" title="wikilink">アレクサンダー・グスタフソン</a>との王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/アンソニー・スミス_(格闘家)" title="wikilink">アンソニー・スミス</a>（<a href="https://ja.wikipedia.org/wiki/UFC_235" title="wikilink">UFC 235</a>）<br />
@@ -453,7 +453,7 @@
 <tr class="odd">
 <td><p>15</p></td>
 <td><p><a href="../Page/ヤン・ブラホヴィッチ.md" title="wikilink">ヤン・ブラホヴィッチ</a></p></td>
-<td><p>2020年9日27日 - 現在</p></td>
+<td><p>2020年9月27日 - 現在</p></td>
 <td><p>0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ドミニク・レイエス" title="wikilink">ドミニク・レイエス</a>との王座決定戦により獲得</p></td>
 </tr>
@@ -560,7 +560,7 @@ UFC 31にて新設。
 <td><p>2016年6月4日 - 2017年11月4日</p></td>
 <td><p>1</p></td>
 <td><p>ルーク・ロックホールドとの王座戦により獲得<br />
-○ ダン・ヘンダーソン（<a href="https://ja.wikipedia.org/wiki/UFC_204" title="wikilink">UFC 204</a>)</p></td>
+○ ダン・ヘンダーソン（<a href="https://ja.wikipedia.org/wiki/UFC_204" title="wikilink">UFC 204</a>）</p></td>
 </tr>
 <tr class="even">
 <td><p>暫</p></td>
@@ -747,7 +747,7 @@ UFC 31にて旧ライト級から現在の階級区分へ変更。
 <td><p>2016年7月30日 - 2019年3月2日</p></td>
 <td><p>4</p></td>
 <td><p>ロビー・ローラーとの王座戦により獲得<br />
-△ <a href="https://ja.wikipedia.org/wiki/スティーブン・トンプソン_(格闘家)" title="wikilink">スティーブン・トンプソン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_205" title="wikilink">UFC 205</a>)<br />
+△ <a href="https://ja.wikipedia.org/wiki/スティーブン・トンプソン_(格闘家)" title="wikilink">スティーブン・トンプソン</a>（<a href="https://ja.wikipedia.org/wiki/UFC_205" title="wikilink">UFC 205</a>）<br />
 ○ スティーブン・トンプソン（<a href="https://ja.wikipedia.org/wiki/UFC_209" title="wikilink">UFC 209</a>）<br />
 ○ <a href="../Page/デミアン・マイア.md" title="wikilink">デミアン・マイア</a>（<a href="https://ja.wikipedia.org/wiki/UFC_214" title="wikilink">UFC 214</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ダレン・ティル" title="wikilink">ダレン・ティル</a>（<a href="https://ja.wikipedia.org/wiki/UFC_228" title="wikilink">UFC 228</a>）</p></td>
@@ -907,10 +907,11 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ハビブ・ヌルマゴメドフ" title="wikilink">ハビブ・ヌルマゴメドフ</a></p></td>
 <td><p>2018年4月7日 - 現在</p></td>
-<td><p>2</p></td>
+<td><p>3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アル・アイアキンタ" title="wikilink">アル・アイアキンタ</a>との王座決定戦により獲得<br />
 ○ <a href="https://ja.wikipedia.org/wiki/コナー・マクレガー" title="wikilink">コナー・マクレガー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_229" title="wikilink">UFC 229</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/ダスティン・ポイエー" title="wikilink">ダスティン・ポイエー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_242" title="wikilink">UFC 242</a>）：王座統一</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ダスティン・ポイエー" title="wikilink">ダスティン・ポイエー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_242" title="wikilink">UFC 242</a>）：王座統一<br />
+○ <a href="https://ja.wikipedia.org/wiki/ジャスティン・ゲイジー" title="wikilink">ジャスティン・ゲイジー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_254" title="wikilink">UFC 254</a>）：王座統一</p></td>
 </tr>
 <tr class="odd">
 <td><p>暫</p></td>
@@ -923,7 +924,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <tr class="even">
 <td><p>暫</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジャスティン・ゲイジー" title="wikilink">ジャスティン・ゲイジー</a></p></td>
-<td><p>2020年5月9日 - 現在</p></td>
+<td><p>2020年5月9日 - 2020年10月24日</p></td>
 <td><p>0</p></td>
 <td><p>ヌルマゴメドフの長期戦線離脱のため制定<br />
 <a href="https://ja.wikipedia.org/wiki/トニー・ファーガソン" title="wikilink">トニー・ファーガソン</a>との暫定王座決定戦により獲得</p></td>
@@ -1408,7 +1409,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 ○ <a href="https://ja.wikipedia.org/wiki/ジェシカ・ペネ" title="wikilink">ジェシカ・ペネ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_Fight_Night:_Jedrzejczyk_vs._Penne" title="wikilink">UFC Fight Night 69</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ヴァレリー・レターノー" title="wikilink">ヴァレリー・レターノー</a>（<a href="https://ja.wikipedia.org/wiki/UFC_193" title="wikilink">UFC 193</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/クラウディア・ガデーリャ" title="wikilink">クラウディア・ガデーリャ</a>（<a href="https://ja.wikipedia.org/wiki/The_Ultimate_Fighter_23_Finale" title="wikilink">The Ultimate Fighter 23 Finale</a>）<br />
-○ <a href="https://ja.wikipedia.org/wiki/カロリーナ・コバケビッチ" title="wikilink">カロリーナ・コバケビッチ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_205" title="wikilink">UFC 205</a>)<br />
+○ <a href="https://ja.wikipedia.org/wiki/カロリーナ・コバケビッチ" title="wikilink">カロリーナ・コバケビッチ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_205" title="wikilink">UFC 205</a>）<br />
 ○ <a href="https://ja.wikipedia.org/wiki/ジェシカ・アンドラージ" title="wikilink">ジェシカ・アンドラージ</a>（<a href="https://ja.wikipedia.org/wiki/UFC_211" title="wikilink">UFC 211</a>）</p></td>
 </tr>
 <tr class="odd">
@@ -1432,7 +1433,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 <td><p>2019年8月31日 - 現在</p></td>
 <td><p>1</p></td>
 <td><p>ジェシカ・アンドラージとの王座戦により獲得<br />
-○ <a href="https://ja.wikipedia.org/wiki/ヨアナ・イェンジェイチック" title="wikilink">ヨアナ・イェンジェイチック</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>)</p></td>
+○ <a href="https://ja.wikipedia.org/wiki/ヨアナ・イェンジェイチック" title="wikilink">ヨアナ・イェンジェイチック</a>（<a href="../Page/UFC_248.md" title="wikilink">UFC 248</a>）</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -1868,18 +1869,18 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 </thead>
 <tbody>
 <tr class="odd">
+<td><p>14</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ジョーンズ" title="wikilink">ジョン・ジョーンズ</a></p></td>
+<td><p>ライトヘビー級</p></td>
+<td><p>14勝0敗0分 (1NC)</p></td>
+</tr>
+<tr class="even">
 <td><p>13</p></td>
 <td><p><a href="../Page/ジョルジュ・サンピエール.md" title="wikilink">ジョルジュ・サンピエール</a></p></td>
 <td><p>ミドル級<br />
 ウェルター級</p></td>
 <td><p>1勝0敗0分<br />
 12勝2敗0分</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ジョーンズ" title="wikilink">ジョン・ジョーンズ</a></p></td>
-<td><p>ライトヘビー級</p></td>
-<td><p>13勝0敗0分 (1NC)</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>12</p></td>
@@ -1924,7 +1925,7 @@ UFC 31にて旧バンタム級から現在の階級区分へ変更。
 </tbody>
 </table>
 
-暫定王座戦も含む。
+※暫定王座戦も含む。
 
 ## 出典・外部リンク
 

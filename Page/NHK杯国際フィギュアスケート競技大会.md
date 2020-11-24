@@ -49,7 +49,7 @@
 | 2017/2018 | [2017年](../Page/2017年.md "wikilink")11月10日–[11月12日](../Page/11月12日.md "wikilink")                                                    | 大阪府[大阪市](../Page/大阪市.md "wikilink")                                                                    |
 | 2018/2019 | [2018年](../Page/2018年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")–11月11日                                                      | [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")                    |
 | 2019/2020 | [2019年](../Page/2019年.md "wikilink")[11月22日](https://ja.wikipedia.org/wiki/11月22日 "wikilink")–[11月24日](../Page/11月24日.md "wikilink") | 北海道札幌市                                                                                                 |
-| 2020/2021 | [2020年](../Page/2020年.md "wikilink")11月27日–11月29日                                                                                    | 大阪府                                                                                                    |
+| 2020/2021 | [2020年](../Page/2020年.md "wikilink")11月27日–11月29日                                                                                    | [大阪府](../Page/大阪府.md "wikilink")[門真市](../Page/門真市.md "wikilink")                                       |
 
 ## 歴代メダリスト
 
@@ -344,6 +344,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/ケヴィン・エイモズ" title="wikilink">ケヴィン・エイモズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ローマン・サドフスキー" title="wikilink">ローマン・サドフスキー</a></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020年NHK杯国際フィギュアスケート競技大会" title="wikilink">2020</a></p></td>
+<td><p>門真市</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -637,6 +644,13 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/アリョーナ・コストルナヤ" title="wikilink">アリョーナ・コストルナヤ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紀平梨花" title="wikilink">紀平梨花</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アリーナ・ザギトワ" title="wikilink">アリーナ・ザギトワ</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020年NHK杯国際フィギュアスケート競技大会" title="wikilink">2020</a></p></td>
+<td><p>門真市</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -1055,6 +1069,13 @@ and <a href="https://ja.wikipedia.org/wiki/マイケル・マリナロ" title="w
 <td><p><a href="https://ja.wikipedia.org/wiki/アナスタシヤ・ミーシナ" title="wikilink">アナスタシヤ・ミーシナ</a><br />
 and アレクサンドル・ガリャモフ</p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020年NHK杯国際フィギュアスケート競技大会" title="wikilink">2020</a></p></td>
+<td><p>門真市</p></td>
+<td><p>参加者なし</p></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1472,6 +1493,13 @@ and <a href="https://ja.wikipedia.org/wiki/イワン・ブキン" title="wikilin
 <td><p><a href="https://ja.wikipedia.org/wiki/シャルレーヌ・ギニャール" title="wikilink">シャルレーヌ・ギニャール</a><br />
 and <a href="https://ja.wikipedia.org/wiki/マルコ・ファッブリ" title="wikilink">マルコ・ファッブリ</a></p></td>
 </tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/2020年NHK杯国際フィギュアスケート競技大会" title="wikilink">2020</a></p></td>
+<td><p>門真市</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1522,6 +1550,7 @@ and <a href="https://ja.wikipedia.org/wiki/マルコ・ファッブリ" title="w
   - [2017公式結果](http://www.isuresults.com/results/season1718/gpjpn2017/)
   - [2018公式結果](http://www.isuresults.com/results/season1819/gpjpn2018/)
   - [2019公式結果](http://www.isuresults.com/results/season1920/gpjpn2019/)
+  - [2020大会公式サイト](http://nhk-trophy2020.jp/index.html)
   - [NHK杯応援ページ 過去の大会の記録](http://www.theartsroom.com/figure/nhk/old/oldnhk.html)
 
 ## 外部リンク

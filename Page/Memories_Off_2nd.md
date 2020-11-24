@@ -118,7 +118,7 @@
 ### 主題歌
 
   - OP「**明日天気に…**」
-      - 作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - loose@rouse / 歌 - [Remi](../Page/REMI.md "wikilink")
+      - 作詞・作曲 - [志倉千代丸](../Page/志倉千代丸.md "wikilink") / 編曲 - loose@rouse / 歌 - [Remi](https://ja.wikipedia.org/wiki/REMI_\(歌手\) "wikilink")
   - ED「**オルゴールとピアノと**」
       - 作詞・作曲 - 志倉千代丸 / 編曲 - [磯江俊道](../Page/磯江俊道.md "wikilink") / 歌 - [水樹奈々](../Page/水樹奈々.md "wikilink")
   - PSP版OP「**永遠のメモリーズ**」

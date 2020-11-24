@@ -175,7 +175,7 @@ FD</p></td>
 <tr class="even">
 <td><p>14</p></td>
 <td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/6月30日.md" title="wikilink">6月30日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/ピュアソング・ガーデン!" title="wikilink">ピュアソングガーデン!</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ピュアソングガーデン!" title="wikilink">ピュアソングガーデン!</a></strong></p></td>
 <td><p>基井あゆむ、marui、ベコ太郎</p></td>
 <td><p>高嶋栄二、なたけ、紺野アスタ、不動尊</p></td>
 <td></td>
@@ -185,7 +185,7 @@ FD</p></td>
 SP1</p></td>
 <td><p>2017年<a href="../Page/10月27日.md" title="wikilink">10月27日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LoveKami_-Sweet_Stars-" title="wikilink">LoveKami -Sweet Stars-</a></strong><br />
-（-Divinity Stage-）</p></td>
+（原副題：-Divinity Stage-）</p></td>
 <td><p>水野早桜</p></td>
 <td><p>高嶋栄二、なたけ</p></td>
 <td></td>
@@ -194,7 +194,7 @@ SP1</p></td>
 <td><p>9<br />
 SP2</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/LoveKami_-Trouble_Goddess-" title="wikilink">LoveKami -Trouble Goddess-</a></strong><br />
-（–Useless Goddess–）</p></td>
+（原副題：-Useless Goddess-）</p></td>
 <td><p>比野錬火</p></td>
 <td></td>
 <td></td>
@@ -327,7 +327,8 @@ FD</p></td>
 <td><p>なたけ、田中一郎</p></td>
 </tr>
 <tr class="even">
-<td><p>1FD</p></td>
+<td><p>1<br />
+FD</p></td>
 <td><p>2020年<a href="../Page/7月31日.md" title="wikilink">7月31日</a></p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/彼女と俺と恋人と。" title="wikilink">彼女と俺と恋人と。</a>ミニFD</strong></p></td>
 <td><p>marui</p></td>

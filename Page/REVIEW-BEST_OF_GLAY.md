@@ -99,8 +99,8 @@
 11.
 12. 『[産経新聞](https://ja.wikipedia.org/wiki/産経新聞 "wikilink")』1997年10月2日付東京夕刊。
 13. オリコン週間アルバムチャート 1997年10月13日付
-14. [モー娘。ベスト、160万枚突破！歴代4位に](http://web.archive.org/web/20010410104453/http://www.zakzak.co.jp/geino/n-2001_02/g2001020607.html)、ZAKZAK、2001年2月6日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+14. [モー娘。ベスト、160万枚突破！歴代4位に](https://web.archive.org/web/20010410104453/http://www.zakzak.co.jp/geino/n-2001_02/g2001020607.html)、ZAKZAK、2001年2月6日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 15. オリコン週間アルバムチャート 1998年2月16日付
 16.  ※「1998年2月16日 BESTアルバム『REVIEW 〜BEST OF GLAY〜』がオリコンチャート売上得点の、過去最高得点を記録」の項を参照
-17. [宇多田初アルバム500万枚突破\!](http://web.archive.org/web/20010316015041/http://www.sanspo.com/enter/music/m9903/m0331.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、1999年3月30日。（インターネット・アーカイブのキャッシュ）
+17. [宇多田初アルバム500万枚突破\!](https://web.archive.org/web/20010316015041/http://www.sanspo.com/enter/music/m9903/m0331.html)、[SANSPO.COM](../Page/サンケイスポーツ.md "wikilink")、1999年3月30日。（インターネット・アーカイブのキャッシュ）
 18. [第12回日本ゴールドディスク大賞『ロック・アルバム・オブ・ザ・イヤー部門』](http://www.golddisc.jp/award/12/index.html#gd12_03)

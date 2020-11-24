@@ -428,7 +428,7 @@
 
 :: 第1話ではエンディング位置で使用。
 
-:;「[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(BLUE_ENCOUNTの曲\) "wikilink")」\[29\]（第14話 -第24話 ）
+:;「[FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM_\(BLUE_ENCOUNTの曲\) "wikilink")」\[29\]（第14話 -第24話）
 
   -
 
@@ -437,11 +437,11 @@
 
   - エンディングテーマ
 
-:; 「Prayer X」（第2話 - 第13話）\[30\]
+:; 「[Prayer X](../Page/Prayer_X.md "wikilink")」（第2話 - 第13話）\[30\]
 
 :: 作詞・作曲 - 常田大希 / 編曲・歌 - [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")
 
-:;「RED」\[31\]（第14話 -第23話 ）
+:;「RED」\[31\]（第14話 -第23話）
 
   -
 

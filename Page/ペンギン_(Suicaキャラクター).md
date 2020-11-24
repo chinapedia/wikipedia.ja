@@ -200,8 +200,7 @@ JR東日本[埼京線](https://ja.wikipedia.org/wiki/埼京線 "wikilink")各駅
 
 ## 外部リンク
 
-  - [Suicaのペンギングッズご案内サイト](http://www.eki-net.biz/suica-goods/top/CSfTop.jsp)
-  - [テレビCMギャラリー（JR東日本）](http://www.jreast.co.jp/tabidoki/tvcm/index.html)
+  - [Suicaのペンギングッズ　ご案内サイト](https://www.jreast.co.jp/suica/suica_penguin_goods/)
   - [Suicaって何?　イラスト版](https://web.archive.org/web/20050126031737/http://www.jreast.co.jp/suica/about/what/ws01.html)
   - [ドコモのCM（NTT DoCoMo）](http://www.nttdocomo.co.jp/corporate/ad/index.html) （現在CMサンプルは視聴できない）
   - [アドギャラリー（au by KDDI）](http://www.kddi.com/ad/index.html) （現在CMサンプルは視聴できない）

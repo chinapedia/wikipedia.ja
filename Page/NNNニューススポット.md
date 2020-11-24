@@ -361,7 +361,7 @@ NNN系列のスポットニュース枠として45年にわたり放送された
 5.  12:30の『[お昼のワイドショー](../Page/お昼のワイドショー.md "wikilink")』と13:30の『[ごちそうさま](../Page/ごちそうさま_\(テレビ番組\).md "wikilink")』が、それぞれ30分ずつ繰り上がったため設置。なお開いた13:15 - 13:20には10分帯番組『[千夏・英太のハハア\!なるほど](https://ja.wikipedia.org/wiki/千夏・英太のハハア!なるほど "wikilink")』→『[スターアルバム](https://ja.wikipedia.org/wiki/スターアルバム "wikilink")』を設置した。
 6.  13:15の帯番組が15分番組『[おしゃれ](../Page/おしゃれ.md "wikilink")』に代わり、13:45 - 14:00の[北日本放送](../Page/北日本放送.md "wikilink")制作[日昼ドラが廃枠になったため移動](https://ja.wikipedia.org/wiki/北日本放送制作昼の帯ドラマ "wikilink")。
 7.  『[読売新聞ニュース](../Page/読売新聞ニュース.md "wikilink")』が17:00から15:50に枠移動したため放送終了。
-8.  12:00 - 12:55に『[新婚さん\!目方でドン\!](../Page/目方でドーン!.md "wikilink")』が設置されたため、13:10の[ガイド枠](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、13:15の『[TVジョッキー](../Page/TVジョッキー.md "wikilink")日曜大行進』、14:15の『[日曜スペシャル](https://ja.wikipedia.org/wiki/日曜スペシャル_\(日本テレビ\) "wikilink")』、15:45の『[日曜映画劇場](https://ja.wikipedia.org/wiki/日曜映画劇場 "wikilink")』と共に15分繰上げ（『日SP』は移動と同時に『日曜特番』に改題）。
+8.  12:00 - 12:55に『[新婚さん\!目方でドン\!](../Page/目方でドーン!.md "wikilink")』が設置されたため、13:10の[ガイド枠](https://ja.wikipedia.org/wiki/ガイド_\(テレビ放送\) "wikilink")、13:15の『[TVジョッキー](../Page/TVジョッキー.md "wikilink")日曜大行進』、14:15の『[（キリン）日曜スペシャル](https://ja.wikipedia.org/wiki/日曜スペシャル_\(日本テレビ\) "wikilink")』、15:45の『[日曜映画劇場](https://ja.wikipedia.org/wiki/日曜映画劇場 "wikilink")』（第2期）と共に15分繰上げ。
 9.  土曜は原則『サスペンス傑作劇場』の後に固定。
 10. 『サスペンス傑作劇場』の前に『[メレンゲの気持ち](../Page/メレンゲの気持ち.md "wikilink")』が放送開始したため。
 11. 『メレンゲの気持ち』が30分拡大したため。

@@ -11,15 +11,22 @@
 
 ## 会社・商業施設・製品
 
-  - アクアプランネットAQUAPLANNET
-  - [Aqua (コンピュータ)](../Page/Aqua_\(コンピュータ\).md "wikilink") - [Mac OS X v10.0から](../Page/Mac_OS_X_v10.0.md "wikilink")[Mac OS X v10.4にかけての](../Page/Mac_OS_X_v10.4.md "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")の総称。
-  - [アクア木更津](../Page/アクア木更津.md "wikilink")の通称、「AQUA（アクア）」
-  - [アクア広島センター街](../Page/アクア広島センター街.md "wikilink") - [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の商業施設。通称、「AQ'A（アクア）」
-  - [アクア (シカゴ)](https://ja.wikipedia.org/wiki/:en:Aqua_\(skyscraper\) "wikilink") - アメリカ合衆国のシカゴにある超高層ビル。
-  - アクア - [アクアプラス](../Page/アクアプラス.md "wikilink")の旧社名（株式会社アクア）。
-  - [トヨタ・アクア](https://ja.wikipedia.org/wiki/トヨタ・アクア "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の小型[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")。
-  - [NEW STYLE LAUNDRY AQUA](../Page/NEW_STYLE_LAUNDRY_AQUA.md "wikilink") - [三洋電機](../Page/三洋電機.md "wikilink")から発売されていた洗濯乾燥機。
-  - [アクア (企業)](https://ja.wikipedia.org/wiki/アクア_\(企業\) "wikilink") - アクア株式会社。旧・[三洋アクア](../Page/三洋電機.md "wikilink")。[ハイアールが日本で展開する家電ブランド名でもある](https://ja.wikipedia.org/wiki/ハイアール・グループ "wikilink")。
+  - 建造物・施設
+      - [アクア木更津](../Page/アクア木更津.md "wikilink")の通称、「AQUA（アクア）」
+      - [アクア広島センター街](../Page/アクア広島センター街.md "wikilink") - [広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")の商業施設。通称、「AQ'A（アクア）」
+      - [アクア (シカゴ)](https://ja.wikipedia.org/wiki/:en:Aqua_\(skyscraper\) "wikilink") - アメリカ合衆国のシカゴにある超高層ビル。
+  - 企業名
+      - アクアプランネットAQUAPLANNET
+      - アクア - [アクアプラス](../Page/アクアプラス.md "wikilink")の旧社名（株式会社アクア）。
+  - 製品名
+      - [トヨタ・アクア](https://ja.wikipedia.org/wiki/トヨタ・アクア "wikilink") - [トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")の小型[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")。
+      - [Aqua (コンピュータ)](../Page/Aqua_\(コンピュータ\).md "wikilink") - [Mac OS X v10.0から](../Page/Mac_OS_X_v10.0.md "wikilink")[Mac OS X v10.4にかけての](../Page/Mac_OS_X_v10.4.md "wikilink")[グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")の総称。
+  - ホームセンターの[コメリ](../Page/コメリ.md "wikilink")に関すること
+      - 株式会社アクア - [コメリキャピタル](https://ja.wikipedia.org/wiki/コメリキャピタル "wikilink")の旧社名。
+      - アクアカード - コメリキャピタルのチャージ式プリペイドカード。
+  - [三洋電機](../Page/三洋電機.md "wikilink")をルーツとする、[ハイアールの家電製品ブランド](https://ja.wikipedia.org/wiki/ハイアール・グループ "wikilink")。
+      - [NEW STYLE LAUNDRY AQUA](../Page/NEW_STYLE_LAUNDRY_AQUA.md "wikilink") - [三洋電機](../Page/三洋電機.md "wikilink")から発売されていた洗濯乾燥機。
+      - [アクア (企業)](https://ja.wikipedia.org/wiki/アクア_\(企業\) "wikilink") - アクア株式会社。旧・[三洋アクア](../Page/三洋電機.md "wikilink")。[ハイアールが日本で展開する家電ブランド名でもある](https://ja.wikipedia.org/wiki/ハイアール・グループ "wikilink")。
 
 ## 音楽関係
 
@@ -40,7 +47,7 @@
   - AQUA - [天野こずえ](../Page/天野こずえ.md "wikilink")の漫画作品。[ARIA (漫画)\#AQUAを参照](https://ja.wikipedia.org/wiki/ARIA_\(漫画\)#AQUA "wikilink")。作中の架空の惑星については[アクア (ARIA)を参照](../Page/アクア_\(ARIA\).md "wikilink")。
   - [AQUA (ゲーム)](https://ja.wikipedia.org/wiki/AQUA_\(ゲーム\) "wikilink") - ビジュアルノベル制作ブランドSORAHANE-ソラハネ-の作品。
   - [Cafe AQUA](https://ja.wikipedia.org/wiki/Cafe_AQUA "wikilink") - かつて存在したアダルトゲームブランド[RaSeNの初期作品の一つ](https://ja.wikipedia.org/wiki/ネクストン#RaSeN "wikilink")。原画・[浅賀葵](https://ja.wikipedia.org/wiki/浅賀葵 "wikilink")（退社）。メインライター・[有島悠也](https://ja.wikipedia.org/wiki/有島悠也 "wikilink")（サブライター・らいとむ、いずれも退社）。
-  - [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink") - 『[ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!_サンシャイン!! "wikilink")』に登場するアイドルグループ、およびそれを演じる声優による[声優ユニット](../Page/声優ユニット.md "wikilink")。
+  - [Aqours](https://ja.wikipedia.org/wiki/Aqours "wikilink") - 『[ラブライブ\! サンシャイン\!\!](https://ja.wikipedia.org/wiki/ラブライブ!_サンシャイン!! "wikilink")』に登場するアイドルグループ、およびそれを演じる声優による[声優ユニット](../Page/声優ユニット.md "wikilink")。aquaとoursからの造語。
   - [アクア・ジム](https://ja.wikipedia.org/wiki/ジムシリーズのバリエーション#アクア・ジム "wikilink") - [モビルスーツGMの水中用バリエーション機](../Page/ジム_\(ガンダムシリーズ\).md "wikilink")。
   - キュアアクア - アニメ『[Yes\!プリキュア5](../Page/Yes!プリキュア5.md "wikilink")』に登場するキャラクター。詳しくは[Yes\!プリキュア5\#キュアアクア](https://ja.wikipedia.org/wiki/Yes!プリキュア5#キュアアクア "wikilink")を参照。
   - [湊あくあ](../Page/湊あくあ.md "wikilink") - [ホロライブプロダクション](https://ja.wikipedia.org/wiki/ホロライブプロダクション "wikilink")所属の[バーチャルYouTuber](https://ja.wikipedia.org/wiki/バーチャルYouTuber "wikilink")。
@@ -48,8 +55,10 @@
 ## 放送関係
 
   - [めざましテレビ アクア](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink") - 2014年3月31日から2018年3月30日まで放送された[フジテレビの早朝の報道](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・情報番組。
-  - スポーツ選手
-  - [天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[四股名](../Page/四股名.md "wikilink")が[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来する[茨城県](../Page/茨城県.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。
+
+## スポーツ選手
+
+  - [天空海翔馬](https://ja.wikipedia.org/wiki/天空海翔馬 "wikilink")（あくあ　しょうま）：[茨城県](../Page/茨城県.md "wikilink")[東茨城郡](../Page/東茨城郡.md "wikilink")[大洗町](../Page/大洗町.md "wikilink")出身の[大相撲](https://ja.wikipedia.org/wiki/大相撲 "wikilink")[力士](../Page/力士.md "wikilink")。[四股名](../Page/四股名.md "wikilink")は[アクアワールド・大洗](../Page/アクアワールド・大洗.md "wikilink")に由来。
 
 ## 関連項目
 

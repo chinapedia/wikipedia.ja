@@ -1,7 +1,7 @@
 > この記事は[三菱・FTO](https://ja.wikipedia.org/wiki/三菱・FTO)から翻訳されています。
 
 
-**FTO**（エフティーオー）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していた2ドアの[ノッチバッククーペ](https://ja.wikipedia.org/wiki/ノッチバッククーペ "wikilink")（[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")）である。
+**FTO**（エフティーオー）は、[三菱自動車工業](../Page/三菱自動車工業.md "wikilink")が製造・販売していた2ドアの[ノッチバッククーペ](https://ja.wikipedia.org/wiki/ノッチバッククーペ "wikilink")（[スペシャルティカー](../Page/スペシャルティカー.md "wikilink")）である。v6エンジンを搭載した2000㏄のマシンである。
 
 ## 概要
 
@@ -14,6 +14,8 @@
   - FF車ながら旋回性能が高く、また、当時の国産車の中でも比較的高いボディ剛性を確保している。元レーサーで評論家の[桂伸一](https://ja.wikipedia.org/wiki/桂伸一 "wikilink")は「ドリフト競技でFF車部門があれば一番」とコメントしている。これらの理由から[ホンダから](../Page/本田技研工業.md "wikilink")[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")に[インテグラタイプRが発売されるまでは](../Page/ホンダ・インテグラタイプR.md "wikilink")、国産FF車で最速との呼び声も高かった。
   - [2000年](../Page/2000年.md "wikilink")7月 新しく採用される側面衝突安全基準に適合させると採算が取れないとして、[GTOとともに](https://ja.wikipedia.org/wiki/三菱・GTO "wikilink")[生産終了](../Page/ラストオーダー.md "wikilink")\[2\]。以後、在庫のみの対応となる。
   - 2000年9月 販売終了。これにより日本市場における三菱車からGTOと共にスポーツクーペタイプの車種が完全消滅する形となったものの、既存の[ハイパフォーマンスコンパクトスポーツセダンであるランエボこと](https://ja.wikipedia.org/wiki/セダン#スポーツセダン "wikilink")[ランサーエボリューションVI](../Page/三菱・ランサーエボリューション.md "wikilink")（当時）が間接上の代替車種となった。
+  - 中古車の値段もかなり低めで、手に入れやすくなっている。
+  - 1994年の制御装置なので、atでベタ踏みなんかをすると、どこで変速するのか迷ってしまって、変な回転数の上がり方になるという現象が起こる。
 
 ## 生産・販売
 
@@ -155,7 +157,7 @@ Fresh Touring Originationの略。【言語】英語　 「若々しいツーリ
 
   - [FTO](https://www.mitsubishi-motors.com/jp/innovation/history/detail/?id=modal-84) - [三菱自動車のグローバルウェブサイト](http://www.mitsubishi-motors.com/)内のページ
 
-[Category:三菱の車種](https://ja.wikipedia.org/wiki/Category:三菱の車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink") [Category:電気自動車](https://ja.wikipedia.org/wiki/Category:電気自動車 "wikilink")
+[Category:三菱の車種](https://ja.wikipedia.org/wiki/Category:三菱の車種 "wikilink") [Category:クーペ](https://ja.wikipedia.org/wiki/Category:クーペ "wikilink") [Category:スポーツカー](https://ja.wikipedia.org/wiki/Category:スポーツカー "wikilink") [Category:スペシャルティカー](https://ja.wikipedia.org/wiki/Category:スペシャルティカー "wikilink") [Category:三菱自動車の電気自動車](https://ja.wikipedia.org/wiki/Category:三菱自動車の電気自動車 "wikilink")
 
 1.  他には[マツダ・ミレーニア](../Page/マツダ・ミレーニア.md "wikilink")など
 2.

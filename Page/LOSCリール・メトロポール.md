@@ -184,9 +184,148 @@ Baratte、Lechantre、Sommerlynck、1950年に獲得したCor van der Hartなど
 | 2019-20 | リーグ・アン                                     | 28                                               | 15                                                   |
 | 2020-21 | リーグ・アン                                     | 38                                               |                                                      |
 
+## 欧州の成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>シーズン</p></th>
+<th><p>大会</p></th>
+<th><p>ラウンド</p></th>
+<th><p>対戦相手</p></th>
+<th><p>ホーム</p></th>
+<th><p>アウェー</p></th>
+<th><p>合計</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2014-15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2014-15" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>予選3回戦</p></td>
+<td><p><a href="../Page/グラスホッパー・クラブ・チューリッヒ.md" title="wikilink">グラスホッパーズ</a></p></td>
+<td><p>1-1</p></td>
+<td><p>2-0</p></td>
+<td><p>'''3-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>プレーオフ</p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
+<td><p>0-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''0-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループH</p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p>0-3</p></td>
+<td><p>1-1</p></td>
+<td><p>'''4位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
+<td><p>0-0</p></td>
+<td><p>0-3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/FCクラスノダール" title="wikilink">クラスノダール</a></p></td>
+<td><p>1-1</p></td>
+<td><p>1-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016-17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ガバラFK" title="wikilink">ガバラ</a></p></td>
+<td><p>1-1</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2019-20</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループH</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/チェルシーFC" title="wikilink">チェルシー</a></p></td>
+<td><p>1-2</p></td>
+<td><p>1-2</p></td>
+<td><p>'''4位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
+<td><p>0-2</p></td>
+<td><p>0-3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
+<td><p>1-1</p></td>
+<td><p>1-4</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループH</p></td>
+<td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
+<td><p>2-2</p></td>
+<td></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
+<td></td>
+<td><p>4-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ACミラン" title="wikilink">ミラン</a></p></td>
+<td></td>
+<td><p>3-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 現所属メンバー
 
-  - 2019-20シーズン 基本フォーメーション
+  - 2020-21シーズン 基本フォーメーション
 
 <div style="position: relative;">
 

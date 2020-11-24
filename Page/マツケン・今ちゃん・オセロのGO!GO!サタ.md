@@ -5,11 +5,11 @@
 
 ## 概要
 
-本番組では毎週、スタジオに[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")3 - 4名を呼びトークを展開するほか、松平健が自慢の料理の腕を振るう「[マツケンレシピ](https://ja.wikipedia.org/wiki/#マツケンレシピ "wikilink")」をはじめとして各種コーナーが満載だった。
+本番組では毎週、スタジオに[ゲスト](https://ja.wikipedia.org/wiki/ゲスト "wikilink")3 - 4名を呼びトークを展開するほか、松平健が自慢の料理の腕を振るう「[マツケンレシピ](https://ja.wikipedia.org/wiki/#マツケンレシピ "wikilink")」をなどで構成していた。
 
-なお、松平の起用にあたっては、当時[マツケンサンバ](../Page/マツケンサンバ.md "wikilink")の大ヒットで話題だったことから、フジテレビサイドが**番組の[目玉](https://ja.wikipedia.org/wiki/目玉 "wikilink")**として起用を決定したものとみてよいであろう\[1\]。
+なお、松平の起用にあたっては、当時[マツケンサンバ](../Page/マツケンサンバ.md "wikilink")の大ヒットで話題だったことから、フジテレビサイドが**番組の[目玉](https://ja.wikipedia.org/wiki/目玉 "wikilink")**として起用したとみられる\[1\]。
 
-『バニラ気分\!』の内包番組ではあったが、後半の[嵐の番組](../Page/嵐_\(グループ\).md "wikilink")\[2\]とセットではなく本番組自体を『バニラ気分\!』として扱うことが多くなっていた。特に番組末期は「GO\!GO\!サタ」としてでなく単に「バニラ気分\!」として扱われることが多くなっていった。
+『バニラ気分\!』の内包番組ではあったが、後半の[嵐の番組](../Page/嵐_\(グループ\).md "wikilink")\[2\]とセットではなく本番組自体を『バニラ気分\!』として扱うことが多くなっていた。特に番組後期は「GO\!GO\!サタ」としてでなく単に「バニラ気分\!」として扱われることが多くなっていった。
 
 ## 出演者
 
@@ -124,7 +124,8 @@
   - 広報：西本泰子 → 遠藤恵（フジテレビ）
   - ブレーン：[後藤隆一郎](https://ja.wikipedia.org/wiki/後藤隆一郎 "wikilink")
   - AP：横田有良、千葉洋美
-  - ディレクター：岡部剛、丸山太嘉志、高橋健二、川口智久
+  - ディレクター：高橋健二、岡部剛、丸山太嘉志、川口智久
+  - 演出：平林長務、平出淳、高橋健
   - 総合演出：白根伸一
   - プロデューサー：[立松嗣章](../Page/立松嗣章.md "wikilink")（フジテレビ）、服部信男、笹谷隆司
   - 制作協力：[FCC](../Page/フジクリエイティブコーポレーション.md "wikilink")
@@ -142,7 +143,7 @@
 
 [Category:フジテレビのトーク番組](https://ja.wikipedia.org/wiki/Category:フジテレビのトーク番組 "wikilink") [Category:フジテレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビのバラエティ番組の歴史 "wikilink") [Category:フジテレビの料理番組](https://ja.wikipedia.org/wiki/Category:フジテレビの料理番組 "wikilink") [Category:フジクリエイティブコーポレーション](https://ja.wikipedia.org/wiki/Category:フジクリエイティブコーポレーション "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink") [Category:今田耕司](https://ja.wikipedia.org/wiki/Category:今田耕司 "wikilink") [Category:オセロ_(お笑いコンビ)](https://ja.wikipedia.org/wiki/Category:オセロ_\(お笑いコンビ\) "wikilink")
 
-1.  これはかつて[毎日放送](../Page/毎日放送.md "wikilink")が[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の冠番組『[植木等デラックス](../Page/植木等デラックス.md "wikilink")』を開始したときも、植木の「[スーダラ節](../Page/スーダラ節.md "wikilink")」のリバイバルヒットに便乗していたことにも同様のことがいえよう。
+1.  これはかつて[毎日放送が](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")[植木等](https://ja.wikipedia.org/wiki/植木等 "wikilink")の冠番組『[植木等デラックス](../Page/植木等デラックス.md "wikilink")』を開始したときも、植木の「[スーダラ節](../Page/スーダラ節.md "wikilink")」のリバイバルヒットに便乗していたことにも同様のことがいえよう。
 2.  [まごまご嵐](https://ja.wikipedia.org/wiki/まごまご嵐 "wikilink")→[GRA](../Page/GRA_\(テレビ番組\).md "wikilink")→[VS嵐](https://ja.wikipedia.org/wiki/VS嵐 "wikilink")
 3.  松平出演のミュージカル『[ドラキュラ伝説](../Page/ドラキュラ伝説.md "wikilink")〜千年愛〜』のPRを兼ねて出演した。
 4.  松平出演の[土曜時代劇](https://ja.wikipedia.org/wiki/土曜時代劇 "wikilink")『[まっつぐ〜鎌倉河岸捕物控〜](https://ja.wikipedia.org/wiki/まっつぐ〜鎌倉河岸捕物控〜 "wikilink")』の番宣を兼ねてゲスト出演。

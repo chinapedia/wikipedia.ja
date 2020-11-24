@@ -224,7 +224,7 @@
 <td><p>19</p></td>
 <td><p>1999年8月2日<br />
 ～8月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ヤマハリゾートつま恋" title="wikilink">ヤマハリゾートつま恋</a>ロケ<br />
+<td><p><a href="../Page/つま恋リゾート_彩の郷.md" title="wikilink">ヤマハリゾートつま恋ロケ</a><br />
 （<a href="../Page/カート.md" title="wikilink">カート</a>、<a href="https://ja.wikipedia.org/wiki/パターゴルフ" title="wikilink">パターゴルフ</a>対決、<br />
 <a href="../Page/アーチェリー.md" title="wikilink">アーチェリー</a>対決、罰ゲーム）</p></td>
 <td><p>森知子<br />

@@ -408,7 +408,7 @@
   - 2007年4月2日 - 2015年3月27日 『**FTVスーパーニュース**』（平日）
   - 2015年3月30日 - 2018年4月1日 『[FTVみんなのニュース](https://ja.wikipedia.org/wiki/FTVみんなのニュース "wikilink")』（毎日）
   - 2018年4月2日 - 現在『[FTVテレポートプラス](https://ja.wikipedia.org/wiki/FTVテレポートプラス "wikilink")』（月曜日 - 土曜日）
-      - 2018年4月8日 - 現在『プライムニュース イブニング』（日曜日）
+      - 2018年4月8日 - 現在『[プライムニュース イブニング](https://ja.wikipedia.org/wiki/プライムニュース_イブニング "wikilink")』→『FNN Live News it\!』→『[FNN Live News イット\!](https://ja.wikipedia.org/wiki/FNN_Live_News_イット! "wikilink")』（日曜日）
 
 ## 外部リンク
 

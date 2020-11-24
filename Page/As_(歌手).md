@@ -68,4 +68,4 @@
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:東京都出身の人物](https://ja.wikipedia.org/wiki/Category:東京都出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:2011年没](https://ja.wikipedia.org/wiki/Category:2011年没 "wikilink")
 
-1.  [TAMAMIオフィシャルブログ。Thank you all. 2012年1月9日付](http://ameblo.jp/tamamiofficial/entry-11131321933.html)
+1.  [TAMAMIオフィシャルブログ。Thank you all. 2012年1月9日付](https://ameblo.jp/tamamiofficial/entry-11131321933.html)

@@ -1,7 +1,7 @@
 > この記事は[CAN YOU CELEBRATE\?](https://ja.wikipedia.org/wiki/CAN_YOU_CELEBRATE\?)から翻訳されています。
 
 
-『**CAN YOU CELEBRATE?**』（キャン・ユー・セレブレイト?）は、日本の元女性歌手、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の単独名義では9枚目の[シングル](../Page/シングル.md "wikilink")である。[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")が発表したシングルの中では最大の売上を記録していて、[結婚式](../Page/結婚式.md "wikilink")の[定番](https://ja.wikipedia.org/wiki/定番 "wikilink")ソングとなっている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")に[シングル](../Page/シングル.md "wikilink")として発売され、同年[12月25日](../Page/12月25日.md "wikilink")に、[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")から[結婚](../Page/結婚.md "wikilink")記念の祝福盤として、マキシシングルが発売された。また[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")プロデュースシングルの中でも最大の売上を記録していて、日本の大手CDレーベル・[avex traxから発売されたシングルの中でも最大の売上を記録している](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
+『**CAN YOU CELEBRATE?**』（キャン・ユー・セレブレイト?）は、日本の女性歌手[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")の、単独名義では9枚目の[シングル](../Page/シングル.md "wikilink")である。安室が発表したシングルの中では最大の売上を記録していて、[結婚式](../Page/結婚式.md "wikilink")の[定番](https://ja.wikipedia.org/wiki/定番 "wikilink")ソングとなっている。[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月19日](../Page/2月19日.md "wikilink")にシングルとして発売され、同年[12月25日](../Page/12月25日.md "wikilink")に[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")から結婚記念の祝福盤としてマキシシングルが発売された。また小室哲哉プロデュース・シングルの中でも最大の売上を記録していて、日本の大手CDレーベル[avex traxから発売されたシングルの中でも最大の売上を記録している](https://ja.wikipedia.org/wiki/avex_trax "wikilink")。
 
 ## 概要
 
@@ -68,7 +68,7 @@
 4.  **CAN YOU CELEBRATE? (Instrumental)**
 5.  **Dreaming I was dreaming (Instrumental)**
 
-## 収録作品
+## 楽曲の収録作品
 
   - CD
 
@@ -106,7 +106,7 @@
   - ライヴ『**[NAMIE AMURO PLAY TOUR 2007](../Page/NAMIE_AMURO_PLAY_TOUR_2007.md "wikilink")**』（DVD・Blu-ray）
   - ライヴ『**namie amuro 5 Major Domes Tour 2012 〜20th Anniversary Best〜**』（DVD・Blu-ray）
   - PV（ベスト）『**Ballada**』（CD+DVD・CD+Blu-ray）
-      - アルバムの為に再録した音源 (葉加瀬太郎とコラボしたNew Vocal) 合わせ、2種類のPVを収録している。
+      - アルバムのために再録した音源 (葉加瀬太郎とコラボしたNew Vocal) 合わせ、2種類のPVを収録している。
   - ライヴ『**namie amuro LIVE STYLE 2014**』（DVD・Blu-ray）
   - ライヴ『**[namie amuro Final Tour 2018 〜Finally〜](https://ja.wikipedia.org/wiki/namie_amuro_Final_Tour_2018_〜Finally〜 "wikilink")**』（DVD・Blu-ray）
 
@@ -126,7 +126,7 @@
 
 ### 出典
 
-[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:結婚の音楽](https://ja.wikipedia.org/wiki/Category:結婚の音楽 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
+[Category:安室奈美恵の楽曲](https://ja.wikipedia.org/wiki/Category:安室奈美恵の楽曲 "wikilink") [Category:小室哲哉が制作した楽曲](https://ja.wikipedia.org/wiki/Category:小室哲哉が制作した楽曲 "wikilink") [Category:1997年のシングル](https://ja.wikipedia.org/wiki/Category:1997年のシングル "wikilink") [Category:日本レコード大賞受賞曲](https://ja.wikipedia.org/wiki/Category:日本レコード大賞受賞曲 "wikilink") [Category:JASRAC賞金賞受賞曲](https://ja.wikipedia.org/wiki/Category:JASRAC賞金賞受賞曲 "wikilink") [Category:1997年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1997年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:1998年のオリコンシングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1998年のオリコンシングルチャート1位獲得作品 "wikilink") [Category:オリコン月間シングルチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:オリコン月間シングルチャート1位獲得作品 "wikilink") [Category:オリコン年間シングルチャート1位作品](https://ja.wikipedia.org/wiki/Category:オリコン年間シングルチャート1位作品 "wikilink") [Category:オリコンミリオンセラー達成シングル](https://ja.wikipedia.org/wiki/Category:オリコンミリオンセラー達成シングル "wikilink") [Category:NHK紅白歌合戦歌唱楽曲](https://ja.wikipedia.org/wiki/Category:NHK紅白歌合戦歌唱楽曲 "wikilink") [Category:フジテレビ月曜9時枠の連続ドラマの主題歌](https://ja.wikipedia.org/wiki/Category:フジテレビ月曜9時枠の連続ドラマの主題歌 "wikilink") [Category:コマーシャルソング](https://ja.wikipedia.org/wiki/Category:コマーシャルソング "wikilink") [Category:結婚の音楽](https://ja.wikipedia.org/wiki/Category:結婚の音楽 "wikilink") [Category:結婚を題材とした楽曲](https://ja.wikipedia.org/wiki/Category:結婚を題材とした楽曲 "wikilink") [Category:楽曲_き](https://ja.wikipedia.org/wiki/Category:楽曲_き "wikilink")
 
 1.  [角川書店](../Page/角川書店.md "wikilink")刊「[CDでーた](../Page/CD&DLでーた.md "wikilink")」1997年3月5日号18Pより。
 2.  [安室奈美恵ディスコグラフィー](https://web.archive.org/web/20010715041931/www.nikkansports.com/news2/amuro/a-cd.html)、[日刊スポーツ](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink")。（[インターネット・アーカイブ](https://ja.wikipedia.org/wiki/インターネット・アーカイブ "wikilink")のキャッシュ）

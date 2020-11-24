@@ -134,7 +134,7 @@
 
 <!-- end list -->
 
-  - **南潤子**（後の**[南流石](../Page/南流石.md "wikilink")**、[1958年](../Page/1958年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）
+  - **[南流石](../Page/南流石.md "wikilink")**（南潤子、[1958年](../Page/1958年.md "wikilink")[7月9日](../Page/7月9日.md "wikilink") - ）
 
 <!-- end list -->
 
@@ -579,6 +579,7 @@ A面がJAGATARA、B面が吉川洋一郎、Hamza El Din<br />
   - [Jagatara2020](https://www.youtube.com/channel/UCHUt3A6s7pIyXz-O6ETLPUA) - 公式YouTube
   - [じゃがたら](http://www.loft-prj.co.jp/jagatara/) - 公式ウェブサイト
   - [TOKYO SOY SOURCE 2019](https://tokyosoysource2019.weebly.com/)
+  - [インタビュー じゃがたら残党組（OTO＋南 流石＋ソウリ）- お前はお前のロックンロールをやれ！](https://rooftop.cc/interview/030101143130.php) - Rooftop 2003年1月号
   - [interview with OTO - 抵抗と永遠のリズム](http://www.ele-king.net/interviews/001189/) - [ele-king](https://ja.wikipedia.org/wiki/ele-king "wikilink") 2010年11月17日（文：[野田努](../Page/野田努.md "wikilink")）
   - [じゃがたら新世界2015〜Reborn of a ravel song- ＠西麻布「新世界」](http://www.ele-king.net/review/live/004490/) - ele-king 2015年5月23日（文：野田努）
   - [JAGATARAと江戸アケミの音楽は、30年後の腐敗しきった日本でどのように響くのか？](https://rollingstonejapan.com/articles/detail/32791) - [Rolling Stone JAPAN](../Page/ローリング・ストーン.md "wikilink") 2019年12月27日（文：[高橋健太郎](https://ja.wikipedia.org/wiki/高橋健太郎_\(音楽評論家\) "wikilink")）

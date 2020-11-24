@@ -5,7 +5,7 @@
 
 ## 概要
 
-伝統的な[UNIX](../Page/UNIX.md "wikilink")の[コマンドラインベースの操作ではなく](https://ja.wikipedia.org/wiki/コマンドラインインタフェース "wikilink")[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")を提供するのがGNOMEデスクトップ環境の目的であるが、従来のコマンドラインインターフェースとの親和性も重視している。GNOME端末を使用することにより、デスクトップ環境を実行したままコマンドライン[シェル](../Page/シェル.md "wikilink")を利用することができる。GNOME端末は、他のウィンドウと全く同じように[ウィンドウ](../Page/ウィンドウ.md "wikilink")の位置を動かしたり大きさを変えたり、別の仮想デスクトップに移動することができるという利点を持つ。
+伝統的な[UNIX](../Page/UNIX.md "wikilink")の[コマンドラインベースの操作ではなく](https://ja.wikipedia.org/wiki/コマンドラインインタフェース "wikilink")[GUI](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")[デスクトップ](https://ja.wikipedia.org/wiki/デスクトップ "wikilink")を提供するのがGNOMEデスクトップ環境の目的であるが、従来の[コマンドラインインタフェース](https://ja.wikipedia.org/wiki/コマンドラインインタフェース "wikilink")との親和性も重視している。GNOME端末を使用することにより、デスクトップ環境を実行したままコマンドライン[シェル](../Page/シェル.md "wikilink")を利用することができる。GNOME端末は、他の[ウィンドウ](../Page/ウィンドウ.md "wikilink")と全く同じようにウィンドウの位置を動かしたり大きさを変えたり、別の仮想デスクトップに移動することができるという利点を持つ。
 
 ## 特徴
 
@@ -37,7 +37,7 @@ Gnome端末3.8以降では透過背景オプションは削除された。\[7\]
 
 ### マウス操作
 
-GNOME端末は何よりもまずコマンドラインインターフェイスでありほとんどの入力にはキーボードが使われるが、GNOME端末はマウス操作もいくらかサポートしている。GNOME端末はマウススクロールと左右のクリックをとらえることができる。\[8\]目下、マウスの位置を特定するとこはできないが、[aptitude](https://ja.wikipedia.org/wiki/aptitude "wikilink")や[vim](https://ja.wikipedia.org/wiki/vim "wikilink")といったいくつかの端末上のアプリケーションがマウス操作を利用することができる。今のところ、ジェスチャーに基づいたタッチはサポートされていない。
+GNOME端末は何よりもまずコマンドラインインタフェースでありほとんどの入力にはキーボードが使われるが、GNOME端末はマウス操作もいくらかサポートしている。GNOME端末はマウススクロールと左右のクリックをとらえることができる。\[8\]目下、マウスの位置を特定するとこはできないが、[aptitude](https://ja.wikipedia.org/wiki/aptitude "wikilink")や[vim](https://ja.wikipedia.org/wiki/vim "wikilink")といったいくつかの端末上のアプリケーションがマウス操作を利用することができる。今のところ、ジェスチャーに基づいたタッチはサポートされていない。
 
 ### URLの特定
 
@@ -53,7 +53,7 @@ GNOME端末はタブをサポートしている\[10\]ユーザーはいくつも
 
 最近のバージョンでは、ユーザーが全てのグラフィカルなアプリケーションを終了させようとした時、GNOME端末は本当に終了させてよいか確認するダイアログボックスを表示する。\[11\]この機能は（例えばウインドウの閉じるボタンをクリックすることによって）誤って端末ウインドウを閉じるリスクを減らすためにある。もしジョブの実行中にユーザーがウインドウを閉じると、ジョブは終了してしまい、ジョブの終了が事故であるならユーザーはジョブを再スタートさせなければならない。
 
-この機能はユーザーがグラフィカルインターフェイスでアプリケーションを閉じるときのみ存在する。ユーザーがexitシェルコマンドで終了しようとした時、終了の確認はユーザーのシェルの責任となる。GNOME端末の機能ではなく、例えば[tcsh](https://ja.wikipedia.org/wiki/tcsh "wikilink")や[bash](https://ja.wikipedia.org/wiki/bash "wikilink")といったいくつかのシェルは、似たような機能を提供していて、停止されたジョブがあるとき確認してくる。
+この機能はユーザーがグラフィカルインタフェースでアプリケーションを閉じるときのみ存在する。ユーザーがexitシェルコマンドで終了しようとした時、終了の確認はユーザーのシェルの責任となる。GNOME端末の機能ではなく、例えば[tcsh](https://ja.wikipedia.org/wiki/tcsh "wikilink")や[bash](https://ja.wikipedia.org/wiki/bash "wikilink")といったいくつかのシェルは、似たような機能を提供していて、停止されたジョブがあるとき確認してくる。
 
 ## 出典
 
@@ -64,7 +64,7 @@ GNOME端末はタブをサポートしている\[10\]ユーザーはいくつも
 ## 外部リンク
 
   -
-[Category:端末エミュレータ](https://ja.wikipedia.org/wiki/Category:端末エミュレータ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTK+を使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTK+を使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
+[Category:端末エミュレータ](https://ja.wikipedia.org/wiki/Category:端末エミュレータ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTKを使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTKを使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 
 1.
 2.

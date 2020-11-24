@@ -78,7 +78,7 @@ MX 以降、Flash とバージョンを同期したために、バージョン5.
 
 ## 外部リンク
 
-  - [Dreamweaver 製品情報（日本語版）](http://www.adobe.com/jp/products/dreamweaver/)
+  - [Adobe Dreamweaver](https://www.adobe.com/jp/products/dreamweaver.html)
 
 [Category:アドビシステムズのソフトウェア](https://ja.wikipedia.org/wiki/Category:アドビシステムズのソフトウェア "wikilink") [Category:Webオーサリングソフト](https://ja.wikipedia.org/wiki/Category:Webオーサリングソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:グラフィックデザイン](https://ja.wikipedia.org/wiki/Category:グラフィックデザイン "wikilink") [Category:1997年のソフトウェア](https://ja.wikipedia.org/wiki/Category:1997年のソフトウェア "wikilink")
 

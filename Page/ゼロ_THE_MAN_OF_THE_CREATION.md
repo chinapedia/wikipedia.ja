@@ -825,7 +825,7 @@
 （第72巻）
 
   - 447 [マサッチョ](https://ja.wikipedia.org/wiki/マサッチョ "wikilink")の奇跡
-  - 448 [光琳](https://ja.wikipedia.org/wiki/光琳 "wikilink")かるた殺人事件
+  - 448 [光琳かるた殺人事件](../Page/尾形光琳.md "wikilink")
   - 449 [エミリー・カー](../Page/エミリー・カー.md "wikilink")
   - 450 黄金の少女の伝説
   - 451 [虎徹](https://ja.wikipedia.org/wiki/虎徹 "wikilink")

@@ -99,19 +99,21 @@
 
 [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）から[1988年](../Page/1988年.md "wikilink")（昭和63年）にかけて、無限単独でF1用[V8エンジンの製作に入り](../Page/V型8気筒.md "wikilink")、[ティレル・018](https://ja.wikipedia.org/wiki/ティレル・018 "wikilink")や[全日本F3000で使用された](https://ja.wikipedia.org/wiki/全日本F3000選手権 "wikilink")[レイナード](../Page/レイナード.md "wikilink")89D改を使用してのテスト走行を行った\[2\]。しかし、これと前後して後述する無限ホンダ[V10エンジン計画が動き出したため](../Page/V型10気筒.md "wikilink")、結局このときに製作されたV8エンジンは実戦デビューすることはなかった。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Footwork_FA13_Festival_Italia_2018_Brands_Hatch_\(44299951301\).jpg "wikilink") 無限-ホンダ\]\] からまで、ホンダが前年に[ティレル](../Page/ティレル.md "wikilink")へ供給したV10エンジン「RA101E」の開発を無限が引継ぎ、「MF351H」と改称したエンジンを[フットワークへ供給することを発表した](../Page/アロウズ.md "wikilink")。エンジンのブランド名は「無限-ホンダ("MUGEN-HONDA")」。ホンダは1992年限りでF1から撤退したが、その後も完全ではないものの、技術供与やエンジニアの派遣を行なっていた。
+からまで、ホンダが前年に[ティレル](../Page/ティレル.md "wikilink")へ供給したV10エンジン「RA101E」の開発を無限が引継ぎ、「MF351H」と改称したエンジンを[フットワークへ供給することを発表した](../Page/アロウズ.md "wikilink")。エンジンのブランド名は「無限-ホンダ("MUGEN-HONDA")」。ホンダは1992年限りでF1から撤退したが、その後も完全ではないものの、技術供与やエンジニアの派遣を行なっていた。
 
-[Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg](https://ja.wikipedia.org/wiki/File:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_\(32500452896\).jpg "fig:Alessandro_Zanardi_-_Lotus_109_at_the_1994_British_Grand_Prix_(32500452896).jpg") 無限-ホンダ\]\] は[ロータスへ供給を行った](../Page/チーム・ロータス.md "wikilink")。新設計V10エンジンの「MF351HD」を投入した第12戦[イタリアGPで](https://ja.wikipedia.org/wiki/1994年イタリアグランプリ "wikilink")[ジョニー・ハーバート](../Page/ジョニー・ハーバート.md "wikilink")が、予選4位を得る速さを発揮するが、決勝ではスタート直後に[ジョーダンの](../Page/ジョーダン・グランプリ.md "wikilink")[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")に追突されてスピン。赤旗再スタートとなったが、新エンジンがレースカーに搭載された1基しかなく、旧型エンジン (MF351HC) を積んだ[Tカー](https://ja.wikipedia.org/wiki/Tカー "wikilink")（スペアカー）でのピットスタートとなってしまった。結局、この年1度も入賞することはできず、資金難に苦しんだチームはこの年をもって撤退した。
+は[ロータスへ供給を行った](../Page/チーム・ロータス.md "wikilink")。新設計V10エンジンの「MF351HD」を投入した第12戦[イタリアGPで](https://ja.wikipedia.org/wiki/1994年イタリアグランプリ "wikilink")[ジョニー・ハーバート](../Page/ジョニー・ハーバート.md "wikilink")が、予選4位を得る速さを発揮するが、決勝ではスタート直後に[ジョーダンの](../Page/ジョーダン・グランプリ.md "wikilink")[エディ・アーバイン](../Page/エディ・アーバイン.md "wikilink")に追突されてスピン。赤旗再スタートとなったが、新エンジンがレースカーに搭載された1基しかなく、旧型エンジン (MF351HC) を積んだ[Tカー](https://ja.wikipedia.org/wiki/Tカー "wikilink")（スペアカー）でのピットスタートとなってしまった。結局、この年1度も入賞することはできず、資金難に苦しんだチームはこの年をもって撤退した。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Ligier_JS43.jpg "wikilink") 無限-ホンダ\]\] 排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「[MF301H](../Page/無限ホンダ・MF301H.md "wikilink")」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](../Page/プロスト・グランプリ.md "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
+排気量が3,000 ccに縮小されたには、[リジェ](../Page/リジェ.md "wikilink")に新エンジン「[MF301H](../Page/無限ホンダ・MF301H.md "wikilink")」を供給。の[モナコGPでは](https://ja.wikipedia.org/wiki/1996年モナコグランプリ "wikilink")、荒れたウェットレースを[オリビエ・パニス](../Page/オリビエ・パニス.md "wikilink")が制し、無限-ホンダに初勝利をもたらした。しかし、翌にリジェを買収した[プロストはオールフレンチチームを目指していたため](../Page/プロスト・グランプリ.md "wikilink")、当時[プジョー](../Page/プジョー.md "wikilink")エンジンを使用していたジョーダンと交渉の末、エンジンをスワップする形となった。
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Jordan_198_front-left_Donington_Grand_Prix_Collection.jpg "wikilink") 無限-ホンダ\]\] からジョーダンにエンジンを供給することになり、同年の[ベルギーGPで](https://ja.wikipedia.org/wiki/1998年ベルギーグランプリ "wikilink")、元ワールドチャンピオンの[デイモン・ヒル](../Page/デイモン・ヒル.md "wikilink")が勝利し、このシーズンでチームはコンストラクターズランキングで4位となった。翌は[ハインツ＝ハラルド・フレンツェン](../Page/ハインツ＝ハラルド・フレンツェン.md "wikilink")が2勝を挙げ、終盤までドライバーズチャンピオン争いに絡む活躍を見せ、コンストラクターズランキングで3位にまで躍進した。
+からジョーダンにエンジンを供給することになり、同年の[ベルギーGPで](https://ja.wikipedia.org/wiki/1998年ベルギーグランプリ "wikilink")、元ワールドチャンピオンの[デイモン・ヒル](../Page/デイモン・ヒル.md "wikilink")が勝利し、このシーズンでチームはコンストラクターズランキングで4位となった。翌は[ハインツ＝ハラルド・フレンツェン](../Page/ハインツ＝ハラルド・フレンツェン.md "wikilink")が2勝を挙げ、終盤までドライバーズチャンピオン争いに絡む活躍を見せ、コンストラクターズランキングで3位にまで躍進した。
 
 ジョーダンへのエンジン供給はまで続いたが、その年よりホンダがエンジンコンストラクターとして復帰したこと、チーム代表の[エディ・ジョーダン](../Page/エディ・ジョーダン.md "wikilink")が、[B・A・R](../Page/B・A・R.md "wikilink")と同等の[ワークスエンジンをホンダに要求](../Page/ワークス・チーム.md "wikilink")、[2001年からの供給が決まったことで](https://ja.wikipedia.org/wiki/2001年のF1世界選手権 "wikilink")、無限のF1活動は2000年限りで終了した。
 
 なお、F1公式サイトでは"MUGEN HONDA"表記[（2000年コンストラクターズランキング）](https://www.formula1.com/en/results.html/2000/team.html)となっており、テレビ中継時表記は"HONDA"と記載していた。
 
 これらの一連のF1参戦は、当初「（ホンダF1の）第2期で得た経験を、いつかF1に復帰した際にそのプロジェクトに引き継ぐ」ことを目的としてスタートしたが、実際には第3期の活動は無限とは全く関係のないところでスタートし、無限ホンダに関わっていた人間には（ホンダの人間ですら）全く声がかからなかったという\[3\]。背景にはホンダ社内の派閥争いがあったと目されており、実際には2002年頃から無限ホンダの関係者も第3期活動に参加するようになるものの、結果として苦戦を強いられることになった\[4\]。
+
+### 変遷表
 
 <table>
 <thead>
@@ -128,7 +130,7 @@
 <tbody>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/アロウズ.md" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/アロウズ.md" title="wikilink">フットワーク</a>・無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットワーク・FA13" title="wikilink">フットワーク・FA13</a></p></td>
 <td><p>MF351H</p></td>
 <td><p>16</p></td>
@@ -137,7 +139,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/アロウズ.md" title="wikilink">フットワーク</a>-無限ホンダ</p></td>
+<td><p>フットワーク・無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/フットワーク・FA13" title="wikilink">フットワーク・FA13</a>B<br />
 <a href="https://ja.wikipedia.org/wiki/フットワーク・FA14" title="wikilink">フットワーク・FA14</a></p></td>
 <td><p>MF351HB</p></td>
@@ -147,7 +149,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/チーム・ロータス.md" title="wikilink">ロータス</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/チーム・ロータス.md" title="wikilink">チーム・ロータス</a></p></td>
 <td><p><a href="../Page/ロータス・107.md" title="wikilink">ロータス・107</a>C<br />
 <a href="../Page/ロータス・109.md" title="wikilink">ロータス・109</a></p></td>
 <td><p>MF351HC / MF351HD</p></td>
@@ -157,7 +159,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/リジェ.md" title="wikilink">リジェ</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/リジェ.md" title="wikilink">リジェ</a>・<a href="../Page/ジタン.md" title="wikilink">ジタン ブロンド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リジェ・JS41" title="wikilink">リジェ・JS41</a></p></td>
 <td><p>MF301H</p></td>
 <td><p>17</p></td>
@@ -166,7 +168,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/リジェ.md" title="wikilink">リジェ</a>-無限ホンダ</p></td>
+<td><p>リジェ・<a href="../Page/ゴロワーズ.md" title="wikilink">ゴロワーズ ブロンド</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リジェ・JS43" title="wikilink">リジェ・JS43</a></p></td>
 <td><p>MF301HA</p></td>
 <td><p>16</p></td>
@@ -175,7 +177,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/プロスト・グランプリ.md" title="wikilink">プロスト</a>-無限ホンダ</p></td>
+<td><p><a href="../Page/プロスト・グランプリ.md" title="wikilink">プロスト</a>・ゴロワーズ ブロンド</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プロスト・JS45" title="wikilink">プロスト・JS45</a></p></td>
 <td><p>MF301HA / MF301HB</p></td>
 <td><p>17</p></td>
@@ -184,7 +186,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/ジョーダン・グランプリ.md" title="wikilink">ジョーダン</a>-無限ホンダ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ベンソン&amp;ヘッジス" title="wikilink">B&amp;H</a>・<a href="../Page/ジョーダン・グランプリ.md" title="wikilink">ジョーダン</a>・無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーダン・198" title="wikilink">ジョーダン・198</a></p></td>
 <td><p>MF301HC</p></td>
 <td><p>16</p></td>
@@ -193,7 +195,7 @@
 </tr>
 <tr class="even">
 <td></td>
-<td><p><a href="../Page/ジョーダン・グランプリ.md" title="wikilink">ジョーダン</a>-無限ホンダ</p></td>
+<td><p>B&amp;H・ジョーダン・無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーダン・199" title="wikilink">ジョーダン・199</a></p></td>
 <td><p>MF301HD</p></td>
 <td><p>16</p></td>
@@ -202,7 +204,7 @@
 </tr>
 <tr class="odd">
 <td></td>
-<td><p><a href="../Page/ジョーダン・グランプリ.md" title="wikilink">ジョーダン</a>-無限ホンダ</p></td>
+<td><p>B&amp;H・ジョーダン・無限ホンダ</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョーダン・EJ10" title="wikilink">ジョーダン・EJ10</a></p></td>
 <td><p>MF301HE</p></td>
 <td><p>17</p></td>
@@ -211,6 +213,12 @@
 </tr>
 </tbody>
 </table>
+
+### ギャラリー
+
+  - サプライヤー 1992年 - 2000年
+
+<File:Footwork> FA13 Festival Italia 2018 Brands Hatch (44299951301).jpg|[フットワーク・FA13](https://ja.wikipedia.org/wiki/フットワーク・FA13 "wikilink") <File:Derek> Warwick - Footwork FA14 during practice for the 1993 British Grand Prix (32873535493).jpg|[フットワーク・FA14](https://ja.wikipedia.org/wiki/フットワーク・FA14 "wikilink") <File:Alessandro> Zanardi - Lotus 109 at the 1994 British Grand Prix (32500452896).jpg|[ロータス・109](../Page/ロータス・109.md "wikilink") <File:Martin> Brundle - Ligier JS41 at Silverstone, British GP 1995 (49684947437).jpg|[リジェ・JS41](https://ja.wikipedia.org/wiki/リジェ・JS41 "wikilink") <File:Ligier> JS43 front-left Honda Collection Hall.jpg|[リジェ・JS43](https://ja.wikipedia.org/wiki/リジェ・JS43 "wikilink") <File:Prost> Mugen Honda JS45.jpg|[プロスト・JS45](https://ja.wikipedia.org/wiki/プロスト・JS45 "wikilink") <File:Jordan> 198 front-left Donington Grand Prix Collection.jpg|[ジョーダン・198](https://ja.wikipedia.org/wiki/ジョーダン・198 "wikilink") <File:Heinz-Harald> Frentzen 1999 Canada.jpg|[ジョーダン・199](https://ja.wikipedia.org/wiki/ジョーダン・199 "wikilink") <File:Jordan> EJ10 Paddock.jpg|[ジョーダン・EJ10](https://ja.wikipedia.org/wiki/ジョーダン・EJ10 "wikilink")
 
 ## 注釈
 

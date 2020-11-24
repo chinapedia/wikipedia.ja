@@ -53,6 +53,7 @@
   - BUTCHの飲みたいかい・食べたいかい（[μFM](../Page/エフエム鹿児島.md "wikilink")、木曜　17:55〜・[MBCラジオ](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")、土曜17:10〜）
   - [BUTCHと山田優子のキラキラ☆ラジオ](https://ja.wikipedia.org/wiki/BUTCHと山田優子のキラキラ☆ラジオ "wikilink")（FM FUKUOKA、土曜　11:00〜11:30　[JFN系](../Page/全国FM放送協議会.md "wikilink")12局と[fm yokohamaにもネット](../Page/横浜エフエム放送.md "wikilink")）
   - [NTT docomo presents Enjoy\!スマートライフストーリー](https://ja.wikipedia.org/wiki/NTT_docomo_presents_Enjoy!スマートライフストーリー "wikilink")（FM FUKUOKA、月曜　10:55〜11:00　[エフエム山口](https://ja.wikipedia.org/wiki/エフエム山口 "wikilink")を除く[FMQリーグ](../Page/FMQリーグ.md "wikilink")加盟局と[エフエム沖縄](../Page/エフエム沖縄.md "wikilink")の8局ネット）
+  - [GIFT北九州](https://ja.wikipedia.org/wiki/GIFT北九州 "wikilink")（TVQ九州放送、火曜　21:55～22:00、金曜 9:57～10:00　北九州市の広報番組。ナレーターとして出演）
 
 ## 過去の出演番組
 
@@ -76,7 +77,7 @@
 
 ## 外部リンク
 
-  - [FM FUKUOKA内のプロフィール](http://fmfukuoka.co.jp/dj/detail.php?id=2)
+  - [FM FUKUOKA内のプロフィール](http://fmfukuoka.co.jp/dj/detail.php?id=1)
 
 [Category:ラジオ番組のパーソナリティ・DJ](https://ja.wikipedia.org/wiki/Category:ラジオ番組のパーソナリティ・DJ "wikilink") [Category:九州地方のローカルタレント](https://ja.wikipedia.org/wiki/Category:九州地方のローカルタレント "wikilink") [Category:西南学院大学出身の人物](https://ja.wikipedia.org/wiki/Category:西南学院大学出身の人物 "wikilink") [Category:福岡市出身の人物](https://ja.wikipedia.org/wiki/Category:福岡市出身の人物 "wikilink") [Category:1955年生](https://ja.wikipedia.org/wiki/Category:1955年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 

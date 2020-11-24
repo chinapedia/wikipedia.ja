@@ -1,7 +1,7 @@
 > この記事は[長渕剛LIVE\'89](https://ja.wikipedia.org/wiki/長渕剛LIVE\'89)から翻訳されています。
 
 
-『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
+『**長渕剛LIVE'89**』（ながぶちつよし・ライブ・はちじゅうきゅう）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/音楽家 "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。
 
@@ -31,7 +31,7 @@
 5.  **He・la-He・la**
 6.  **[巡恋歌](../Page/巡恋歌.md "wikilink")**
 7.  **シェリー**
-8.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")**
+8.  **[激愛](https://ja.wikipedia.org/wiki/激愛_\(長渕剛の曲\) "wikilink")**
 9.  **[乾杯](../Page/乾杯_\(長渕剛の曲\).md "wikilink")**
       -
         ほぼ聴衆によって歌われている。後にこのライブ・バージョンがベスト・アルバム『[いつかの少年](../Page/いつかの少年.md "wikilink")』（[1994年](../Page/1994年.md "wikilink")）に収録された。

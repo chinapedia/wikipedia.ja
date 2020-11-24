@@ -175,12 +175,14 @@
 4.  「自負と偏見」　[ジェイン・オースティン](../Page/ジェイン・オースティン.md "wikilink") 著／[小山太一](https://ja.wikipedia.org/wiki/小山太一 "wikilink") 訳(新潮文庫)
 5.  「[雨月物語](../Page/雨月物語.md "wikilink")」　[上田秋成](../Page/上田秋成.md "wikilink")
 
-## 高校時代に全国大会で入賞したアナウンサー
+## 高校時代に全国大会で入賞した著名人
 
   - ア-アナウンス部門
     朗-朗読部門
 
 ※氏名は受賞当時の名義。
+
+### アナウンサー
 
 <table>
 <thead>
@@ -592,13 +594,21 @@ FM青森</p></td>
 </tbody>
 </table>
 
+### 声優
+
+  - 内田国俊 51回大会（2004）朗読部門優勝
+  - [山本希望](https://ja.wikipedia.org/wiki/山本希望 "wikilink") 53回大会（2006）アナウンス部門優良賞
+  - [鈴木崚汰](https://ja.wikipedia.org/wiki/鈴木崚汰 "wikilink") 63回大会（2016）朗読部門優勝
+
+### マスコミ
+
   - [西田奈里子](https://ja.wikipedia.org/wiki/西田奈里子 "wikilink")（[NHK金沢放送局](../Page/NHK金沢放送局.md "wikilink")）テレビドラマ部門3位入賞
   - [亀井美希](https://ja.wikipedia.org/wiki/亀井美希 "wikilink")（TBS記者）47回大会（2000）アナウンス部門優秀賞
-  - 内田国俊（[声優](../Page/声優.md "wikilink")）51回大会（2004）朗読部門優勝
   - [白河真梨奈](https://ja.wikipedia.org/wiki/白河真梨奈 "wikilink")（[NHK記者](https://ja.wikipedia.org/wiki/NHK記者 "wikilink")）52回大会（2005）アナウンス部門優勝
-  - [山本希望](https://ja.wikipedia.org/wiki/山本希望 "wikilink")（声優）53回大会（2006）アナウンス部門優良賞
-  - [井上希美](https://ja.wikipedia.org/wiki/井上希美 "wikilink")（[ミュージカル](../Page/ミュージカル.md "wikilink")[俳優](../Page/俳優.md "wikilink")）57回大会（2010）朗読部門優秀賞
-  - [鈴木崚汰](https://ja.wikipedia.org/wiki/鈴木崚汰 "wikilink")（声優）63回大会（2016）朗読部門優勝
+
+### その他
+
+  - [井上希美](https://ja.wikipedia.org/wiki/井上希美 "wikilink")（女優、[ミュージカル](../Page/ミュージカル.md "wikilink")[俳優](../Page/俳優.md "wikilink")）57回大会（2010）朗読部門優秀賞
 
 ## テレビ・ラジオ放送
 

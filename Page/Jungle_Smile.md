@@ -1,9 +1,9 @@
 > この記事は[Jungle Smile](https://ja.wikipedia.org/wiki/Jungle_Smile)から翻訳されています。
 
 
-**Jungle Smile**（ジャングル スマイル）は、高木郁乃と[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")の二人からなる、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。2002年をもって活動休止中であるが、後述のとおり断片的な活動は行われている。
+**Jungle Smile**（ジャングル スマイル）は、高木郁乃と[吉田ゐさお](../Page/吉田ゐさお.md "wikilink")の二人からなる、日本の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。1994年結成。
 
-Jungle Smileというグループ名には、"殺伐とした[ジャングル](../Page/ジャングル.md "wikilink")（のような[都会](https://ja.wikipedia.org/wiki/都会 "wikilink")）でも、いつも[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")でいられますように…"という高木郁乃の想いが込められている。
+ユニット名は、**殺伐とした[ジャングル](../Page/ジャングル.md "wikilink")のような都会でもいつも[笑顔](https://ja.wikipedia.org/wiki/笑顔 "wikilink")でいられる**というヴォーカルの高木の想いから。所属レコード会社は[ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")。レーベルは[スピードスターレコーズ](../Page/SPEEDSTAR_RECORDS.md "wikilink")。
 
 ## 経歴
 
@@ -110,10 +110,21 @@ Jungle Smileというグループ名には、"殺伐とした[ジャングル](.
   - Jungle Smileのほほん喫茶（[JFNC](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")）
   - Jungle Smileちょっとそこまで （[TOKYO FM](../Page/エフエム東京.md "wikilink")）
 
+## 関連性の多いアーティスト
+
+  - [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")
+  - [乙葉](../Page/乙葉.md "wikilink") - 2002年5月22日発売の1stアルバム「OtohaCD Volume1」で「おなじ星」をカヴァーしている。
+  - [欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")
+  - [コアラモード.](https://ja.wikipedia.org/wiki/コアラモード. "wikilink")
+  - [Cocco](https://ja.wikipedia.org/wiki/Cocco "wikilink")
+  - [瀧川ありさ](https://ja.wikipedia.org/wiki/瀧川ありさ "wikilink")
+  - [ミオヤマザキ](https://ja.wikipedia.org/wiki/ミオヤマザキ "wikilink")
+
 ## 外部リンク
 
-  - [ジャンスマニア](http://www.jungle-smile.com/)
-  - [ikunov.net](http://www.ikunov.net/)メンバーの高木いくの本人によるページ
-  - [高木いくのオフィシャル](https://twitter.com/ikunovs)公式ツイッター
+  - [jungle_smile_top](http://www.junglesmile.net//) 公式ホームページ
+  - [ジャングルスマイル](https://twitter.com/js15y) 公式ツイッター
+  - [ikunov.net](http://www.ikunov.net/) メンバーの高木いくの本人によるページ
+  - [高木いくのオフィシャル](https://twitter.com/ikunovs) 公式ツイッター
 
 [Category:日本の音楽ユニット](https://ja.wikipedia.org/wiki/Category:日本の音楽ユニット "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink")

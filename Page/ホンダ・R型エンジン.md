@@ -94,6 +94,9 @@
   - [B型エンジン](../Page/ホンダ・B型エンジン.md "wikilink")
   - [D型エンジン](../Page/ホンダ・D型エンジン.md "wikilink")
   - [K型エンジン](../Page/ホンダ・K型エンジン.md "wikilink")
+  - [L型エンジン](../Page/ホンダ・L型エンジン.md "wikilink")
+      -
+        ハイブリッドシステム用エンジンの「[LFA](https://ja.wikipedia.org/wiki/ホンダ・L型エンジン#LFA "wikilink")」は本形式（R20A）をベースとする。
 
 ## 外部リンク
 

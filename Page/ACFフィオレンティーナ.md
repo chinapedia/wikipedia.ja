@@ -192,9 +192,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ★  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ★  ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -202,7 +202,7 @@
 
 <!-- end list -->
 
-  - [ジュゼッペ・イアキーニ](https://ja.wikipedia.org/wiki/ジュゼッペ・イアキーニ "wikilink")
+  - [チェーザレ・プランデッリ](../Page/チェーザレ・プランデッリ.md "wikilink")
 
 ### ローン移籍
 
@@ -345,14 +345,19 @@
 <tr class="even">
 <td><p><a href="../Page/ヴィンチェンツォ・モンテッラ.md" title="wikilink">ヴィンチェンツォ・モンテッラ</a></p></td>
 <td></td>
-<td><p>2019.4-2019.12</p></td>
+<td><p>2019.4.10-2019.12.21</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジュゼッペ・イアキーニ" title="wikilink">ジュゼッペ・イアキーニ</a></p></td>
 <td></td>
-<td><p>2019.12-</p></td>
+<td><p>2019.12.23-2020.11.9</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="../Page/チェーザレ・プランデッリ.md" title="wikilink">チェーザレ・プランデッリ</a></p></td>
+<td></td>
+<td><p>2020.11.9-</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>

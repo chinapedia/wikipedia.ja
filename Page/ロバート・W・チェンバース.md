@@ -37,4 +37,6 @@
   -
   - [黄の印](http://www.asahi-net.or.jp/~yz8h-td/misc/YellSignJ.html) - 有志による邦訳
 
+  -
+  -
 [Category:アメリカ合衆国の小説家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の小説家 "wikilink") [Category:ブルックリン出身の人物](https://ja.wikipedia.org/wiki/Category:ブルックリン出身の人物 "wikilink") [Category:1865年生](https://ja.wikipedia.org/wiki/Category:1865年生 "wikilink") [Category:1933年没](https://ja.wikipedia.org/wiki/Category:1933年没 "wikilink")

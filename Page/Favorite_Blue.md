@@ -9,7 +9,7 @@
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月5日](../Page/2月5日.md "wikilink")に発売された1stアルバム『DREAM & MEMORIES』、 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[2月18日](../Page/2月18日.md "wikilink")に発売された2ndアルバム『Missing place』では立て続けに[オリコンアルバムウィークリーチャートで](../Page/オリコンチャート.md "wikilink")1位を獲得した\[1\]。
   - [1999年](../Page/1999年.md "wikilink")6月、 初の全国ツアー「LIVE CIRCUIT'99」を開催。 開催地は福岡ドラムロゴス（6/10）、 名古屋クラブクワトロ（6/12）、大阪クラブクワトロ（6/13）、広島ナミキジャンクション（6/15）、東京クラブクワトロ（6/18）の5ヵ所。
   - [2000年](../Page/2000年.md "wikilink")のベストアルバムリリースを最後に活動停止。同年[2月2日](../Page/2月2日.md "wikilink")に発売された『FB BEST～eternal pictures～』は[エイベックスがリリースした最初のDVD](https://ja.wikipedia.org/wiki/エイベックス・グループ "wikilink")-Video作品となった。
-  - 2002年5月に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のホームページでFavorite Blue木村貴志として正式に活動終了を表明。4thアルバム「solitude」の制作終了時に松崎の方からFavorite Blueとしての活動を終わらせたいとの話があったとのこと。
+  - 2002年5月に[m.o.v.e](https://ja.wikipedia.org/wiki/m.o.v.e "wikilink")のホームページでFavorite Blue木村貴志として正式に活動終了を表明。3rdアルバム「solitude」の制作終了時に松崎の方からFavorite Blueとしての活動を終わらせたいとの話があったとのこと。
   - 同じエイベックスでは[Every Little Thingと同期デビューであり](../Page/Every_Little_Thing.md "wikilink")、それぞれのボーカル同士・プレイヤー同士が仲良く、一緒にTVに出演したこともある。
   - 2016年3月現在、[松崎麻矢](../Page/松崎麻矢.md "wikilink")は表立って音楽活動はしていない。[木村貴志は引き続き音楽活動及びプロデューサー業を行っている](https://ja.wikipedia.org/wiki/t-kimura "wikilink")。
 

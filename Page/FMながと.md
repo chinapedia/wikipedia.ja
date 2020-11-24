@@ -99,7 +99,7 @@
 
 ## 外部リンク
 
-  - [FMながと（FM AQUA） 公式サイト](http://www.fmaqua.jp/)（公式サイト。タイムテーブル等）
+  - [FMながと（FM AQUA） 公式サイト](http://www.fmaqua.jp/)（公式サイトだが2015年ごろから"UNDER CONSTRUCTION（工事中）"とだけ表示され、リクエストフォームとツイッター・フェイスブックへのリンクが張られているのみである）
   - [中国地方の放送局のステッカー](http://www.mni.ne.jp/~yan_chan/st%20cyugoku.htm)（FM AQUA発行のステッカーが掲載されている）
   - [FMながと（FM AQUA） 公式Twitter](https://twitter.com/fmaqua878)　
   - [FMながと（FM AQUA） 公式Facebook](https://www.facebook.com/fmaqua)　

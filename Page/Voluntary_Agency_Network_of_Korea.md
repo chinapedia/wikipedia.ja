@@ -150,11 +150,11 @@ VANKは、[2020年](../Page/2020年.md "wikilink")[1月6日](../Page/1月6日.md
 2.  [「VANKという反日組織が…」＝韓国人歌手の入国拒否問題―米国ネット](http://headlines.yahoo.co.jp/hl?a=20141115-00000009-rcdc-cn)
 3.  [「東海」を世界に知らせた韓国のサイバー外交使節団「VANK」（1）](http://japanese.joins.com/article/008/159008.html?servcode=A00&sectcode=A10) 中央日報 2012年9月6日
 4.  ["반크,‘일본 디스카운트’ 운동"](http://www.munhwa.com/news/view.html?no=2005032501030727302002), [文化日報](https://ja.wikipedia.org/wiki/文化日報 "wikilink"), 2005-03-25. 参考日本語訳：[「日本ディスカウント運動」](http://tokelog.jugem.jp/?eid=29)
-5.  ハンギョレ新聞 2013.5.3 사이버 외교사절단 반크가 일본을 아시아의 '왕따'로 만드는 홍보 전략을 펼친다. (サイバー外交使節団バンクが日本をアジアの「いじめ」にする広報戦略を繰り広げる。) [1](http://megalodon.jp/2013-0503-1743-31/news.hankooki.com/lpage/world/201305/h2013050313212422450.htm)
+5.  ハンギョレ新聞 2013.5.3 사이버 외교사절단 반크가 일본을 아시아의 '왕따'로 만드는 홍보 전략을 펼친다. (サイバー外交使節団バンクが日本をアジアの「いじめ」にする広報戦略を繰り広げる。) [1](https://megalodon.jp/2013-0503-1743-31/news.hankooki.com/lpage/world/201305/h2013050313212422450.htm)
 6.  続・慰安婦騒動を考える 2013/05/04 VANKの日本イジメ作戦と若宮啓文 <http://ianfukangaeru.blogspot.jp/2013/05/vank.html>
 7.  [VANK「サイバー独島士官学校」、生徒1万人突破](http://japanese.yonhapnews.co.kr/headline/2009/05/22/0200000000AJP20090522002400882.HTML) 聯合ニュース 2009/05/22
 8.  [韓国・日本強制併合100年12部作HD企画](http://video.chosun.com/site/data/html_dir/2010/07/02/2010070200911.html)'反日感情'刺激するメディア?\]朝鮮日報(韓国語)2010年7月2日
-9.  National VANK School Clubs General Assembly 2013/06/07 <https://vankprkorea.wordpress.com/2013/06/07/past-events/> <http://megalodon.jp/2015-0804-0425-54/https://vankprkorea.wordpress.com:443/2013/06/07/past-events/> より「Lecture by VANK Researcher Ms. Saebom Park PR Strategies for Connecting Dokdo and Japanese Military Sex Slaves “Comfort Women.\] VANK研究員Saebom Park　講演発表
+9.  National VANK School Clubs General Assembly 2013/06/07 <https://vankprkorea.wordpress.com/2013/06/07/past-events/> <https://megalodon.jp/2015-0804-0425-54/https://vankprkorea.wordpress.com:443/2013/06/07/past-events/> より「Lecture by VANK Researcher Ms. Saebom Park PR Strategies for Connecting Dokdo and Japanese Military Sex Slaves “Comfort Women.\] VANK研究員Saebom Park　講演発表
 10. [韓国VANK「世界中の誤った韓国のイメージを正す」](http://japanese.joins.com/article/626/240626.html) 中央日報 2018年4月19日
 11. [VANK支援問題:李大統領、予算配分を直接指示](http://s04.megalodon.jp/2008-1025-1401-21/www.chosunonline.com/article/20081025000028) 2008年10月25日、朝鮮日報（日本語） 閲覧
 12.
@@ -168,7 +168,7 @@ VANKは、[2020年](../Page/2020年.md "wikilink")[1月6日](../Page/1月6日.md
 20. [2](http://kr.news.yahoo.com/service/news/shellview.htm?articleid=2005030513413170601) - 2005年3月5日のYahoo\!ニュース（韓国版）。
 21. [3](http://kr.news.yahoo.com/service/news/shellview.htm?articleid=2005030409393158501) - 2005年3月4日のYahoo\!ニュース（韓国版）。
 22. Google Earth の「日本海」表記を「東海」単独表記に変更しようと提案したのはVANKではなく、Google 韓国グループであった [4](http://groups.google.co.kr/group/Google-Korea-Group/browse_thread/thread/d6791e6313be2183/70b1b63f4b2fa4fb#70b1b63f4b2fa4fb)
-23. 「[](http://web.archive.org/web/20060212111750/http://www.yonhapnews.co.kr/news/20051006/040301000020051006095724K6.html)」。2005年10月6日、聯合ニュース（韓国語）
+23. 「[](https://web.archive.org/web/20060212111750/http://www.yonhapnews.co.kr/news/20051006/040301000020051006095724K6.html)」。2005年10月6日、聯合ニュース（韓国語）
 24. 「[](http://news.naver.com/news/read.php?mode=LSD&office_id=022&article_id=0000147282)」。2006年2月17日、NAVER/世界日報（韓国語）
 25. 「[](http://news.naver.com/news/read.php?mode=LSD&office_id=001&article_id=0001237778)」。2006年3月7日、NAVER/聯合ニュース（韓国語）
 26. 「[IHO ](http://news.mk.co.kr/newsRead.php?sc=31000011&cm=IT+%BB%EA%BE%F7+%C7%F6%C8%B2&year=2007&no=233484)」。2007年5月6日、聯合ニュース（韓国語）。

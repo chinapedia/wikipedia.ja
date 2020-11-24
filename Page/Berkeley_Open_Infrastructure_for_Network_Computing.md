@@ -465,7 +465,7 @@ BOINCクレジットシステムは、クレジットを付与する前に結果
 
 ### World Community Grid
 
-IBM社の支援の下、複数の医療系プロジェクトを展開している。既にいくつかのプロジェクトが完了、もしくはフェーズ2に移行している。[World Community Gridの項も参照のこと](../Page/World_Community_Grid.md "wikilink")。
+IBM社の支援の下、複数の医療系プロジェクトを展開している。既にいくつかのプロジェクトが完了、もしくはフェーズ2に移行している。
 
 [United Devices社のシステムで運用されているプロジェクトであったが](../Page/United_Devices.md "wikilink")、UD社のクライアントのサポートは2008年6月で中止され\[17\]、一方これと平行して2005年11月からBOINCクライアントからも参加できるようになり、現在はBOINCクライアントのみのサポートとなった\[18\]。当初は脇役的な扱いでBOINCからの参加方法も解りづらかったが、[grid.org](../Page/United_Devices_Cancer_Research_Project.md "wikilink") の終了前後から主客が逆転し、ウェブサイトでの参加登録後に現れるクライアントダウンロードページでも BOINCクライアントが上位に表示されるなど、UDクライアントの方が脇へと追いやられているという変遷もあった。
 
@@ -518,10 +518,12 @@ ClimatePrediction.netの[BBC協賛版](../Page/英国放送協会.md "wikilink")
 
 ## 関連項目
 
+  - [:en:BOINC client–server technology](https://ja.wikipedia.org/wiki/:en:BOINC_client–server_technology "wikilink")
   - [分散コンピューティング](../Page/分散コンピューティング.md "wikilink")
   - [cell computing βirth](../Page/Cell_computing.md "wikilink")
-  - [World Community Grid](../Page/World_Community_Grid.md "wikilink")
+  - [Folding@home](../Page/Folding@home.md "wikilink")
   - [Rosetta@home](https://ja.wikipedia.org/wiki/Rosetta@home "wikilink")
+  - [World Community Grid](../Page/World_Community_Grid.md "wikilink")
 
 ## 外部リンク
 

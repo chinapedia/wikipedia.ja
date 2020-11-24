@@ -82,7 +82,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
 ## ソフトウェア
 
   - [Audacity](../Page/Audacity.md "wikilink") - クロスプラットフォームな音声録音・編集プログラム　Wikipedia用音声作成用に[Wikipediaヘルプで推奨](https://ja.wikipedia.org/wiki/Help:音声・動画の作成と利用#音声ファイル "wikilink")
-  - [Songbird](../Page/Songbird.md "wikilink")
+  - [Songbird](https://ja.wikipedia.org/wiki/Songbird_\(ソフトウェア\) "wikilink")
   - [Winamp](https://ja.wikipedia.org/wiki/Winamp "wikilink")
   - [Zoom player](https://ja.wikipedia.org/wiki/Zoom_player "wikilink")
   - [Foobar2000](../Page/Foobar2000.md "wikilink")
@@ -90,6 +90,7 @@ Vorbisは主に[Ogg](../Page/Ogg.md "wikilink")コンテナフォーマットに
   - [Media Player Classic](../Page/Media_Player_Classic.md "wikilink")
   - [MediaFrame](https://ja.wikipedia.org/wiki/MediaFrame "wikilink")\[10\]
   - [MPlayer](../Page/MPlayer.md "wikilink")
+  - [Spotify](https://ja.wikipedia.org/wiki/Spotify "wikilink")
   - [VLC media player](https://ja.wikipedia.org/wiki/VLC_media_player "wikilink")
   - [Xbmc](https://ja.wikipedia.org/wiki/Xbmc "wikilink")
   - [Kaffeine](../Page/Kaffeine.md "wikilink")

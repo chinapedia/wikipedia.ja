@@ -60,7 +60,7 @@
 
 ### 出典
 
-[Category:サンテレビの番組](https://ja.wikipedia.org/wiki/Category:サンテレビの番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組 "wikilink") [Category:ローカルテレビ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の一社提供番組 "wikilink") [Category:JAグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:JAグループ単独提供番組 "wikilink")
+[Category:サンテレビの番組](https://ja.wikipedia.org/wiki/Category:サンテレビの番組 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink") [Category:ローカルテレビ局の一社提供番組](https://ja.wikipedia.org/wiki/Category:ローカルテレビ局の一社提供番組 "wikilink") [Category:JAグループ単独提供番組](https://ja.wikipedia.org/wiki/Category:JAグループ単独提供番組 "wikilink")
 
 1.  \[<https://mobile.twitter.com/mai_enoki/status/711398290110066688?s=19>　サンテレビ　榎木麻衣 Twitter - 2016年3月20日\]
 2.  \[<https://mobile.twitter.com/cuvochan/status/325841468369547264?s=19>　久保亜希子 Twitter - 2013年4月21日\]

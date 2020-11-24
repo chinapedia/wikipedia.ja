@@ -5,18 +5,70 @@
 
 ## メンバー
 
-  - **[RYO-Z](../Page/RYO-Z.md "wikilink")**（リョージ、[1974年](../Page/1974年.md "wikilink")[7月15日](../Page/7月15日.md "wikilink") - ） 本名：成田 亮治（なりた りょうじ）
-      - [東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")出身。AB型。[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。初期メンバーの1人。
-  - **[ILMARI](../Page/ILMARI.md "wikilink")**（イルマリ、[1975年](../Page/1975年.md "wikilink")[6月17日](../Page/6月17日.md "wikilink") - ）
-      - [フィンランド](../Page/フィンランド.md "wikilink")・[ヘルシンキ](../Page/ヘルシンキ.md "wikilink")出生、東京都江東区出身。?型（血液型は不明）。MC。初期メンバーの1人。
-  - **[PES](../Page/PES.md "wikilink")**（ペス、[1976年](../Page/1976年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink") - ） 本名：千葉 正嗣（ちば まさつぐ）。
-      - 東京都[練馬区](https://ja.wikipedia.org/wiki/練馬区 "wikilink")出身。B型。[MC](../Page/MC.md "wikilink")兼トラックメイカー。初期メンバーの1人。
-  - **[DJ FUMIYA](https://ja.wikipedia.org/wiki/DJ_FUMIYA "wikilink")**（フミヤ、[1979年](../Page/1979年.md "wikilink")[3月14日](https://ja.wikipedia.org/wiki/3月14日 "wikilink") - ） 本名：竹内 文也（たけうち ふみや）
-      - 神奈川県藤沢市辻堂出身。A型。DJ兼トラックメイカー。
-  - **[SU](../Page/SU_\(RIP_SLYME\).md "wikilink")**（スー、[1973年](../Page/1973年.md "wikilink")[11月20日](../Page/11月20日.md "wikilink") - ） 本名：大槻 一人（おおつき かずと）
-      - [神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[藤沢市](../Page/藤沢市.md "wikilink")[辻堂](https://ja.wikipedia.org/wiki/辻堂 "wikilink")出身。O型。[MC](../Page/MC.md "wikilink")。
+<table>
+<thead>
+<tr class="header">
+<th><p>名前</p></th>
+<th><p>生年月日</p></th>
+<th><p>血液型</p></th>
+<th><p>出身地</p></th>
+<th><p>パート</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><strong><a href="../Page/RYO-Z.md" title="wikilink">RYO-Z</a></strong></p></td>
+<td></td>
+<td><p>AB型</p></td>
+<td><p>東京都</p></td>
+<td><p><a href="../Page/MC.md" title="wikilink">MC</a></p></td>
+<td><p>リーダー</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="../Page/ILMARI.md" title="wikilink">ILMARI</a></strong></p></td>
+<td></td>
+<td><p>不明</p></td>
+<td><p>東京都</p></td>
+<td><p><a href="../Page/MC.md" title="wikilink">MC</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/PES.md" title="wikilink">PES</a></strong></p></td>
+<td></td>
+<td><p>B型</p></td>
+<td><p>東京都</p></td>
+<td><p><a href="../Page/MC.md" title="wikilink">MC</a></p></td>
+<td><p>トラックメイカー</p></td>
+</tr>
+<tr class="even">
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/DJ_FUMIYA" title="wikilink">DJ FUMIYA</a></strong></p></td>
+<td></td>
+<td><p>A型</p></td>
+<td><p>神奈川県</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/DJ" title="wikilink">DJ</a></p></td>
+<td><p>トラックメイカー</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong><a href="../Page/SU_(RIP_SLYME).md" title="wikilink">SU</a></strong></p></td>
+<td></td>
+<td><p>O型</p></td>
+<td><p>神奈川県</p></td>
+<td><p><a href="../Page/MC.md" title="wikilink">MC</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-### 脱退したメンバー
+### 元メンバー
 
   - DJ SHOJI
   - DJ Shige（シゲ、1974年10月7日 - ）本名：岩崎 成之（いわさき しげゆき）

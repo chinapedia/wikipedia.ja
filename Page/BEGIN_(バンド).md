@@ -63,7 +63,7 @@ BEGINデビュー25周年当日の2015年3月21日に地元石垣島で「BEGIN2
   - 上地、島袋は東京住まいで比嘉のみ沖縄で生活している\[6\] が、そのためアルバム製作時やツアーの時はどちらかが一旦東京か沖縄にいかなければならず、比嘉はそのことを冗談交じりに語ることがある。なお、バンドのアルバム製作は東京での作業が中心であるが、『Ocean Line』は[FM沖縄](https://ja.wikipedia.org/wiki/FM沖縄 "wikilink")の一室を借り切って録音された。
   - 本人たち曰く、知名度の割にはCDの売り上げが少ないそうである。[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")(2009年6月放映分)では、そのことを延々愚痴り、ホストの[明石家さんま](../Page/明石家さんま.md "wikilink")は「CD買ってあげて」と何度か発言した。
   - [東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")による[津波](https://ja.wikipedia.org/wiki/津波 "wikilink")で流され、[2012年](../Page/2012年.md "wikilink")12月に故郷近くの[西表島](../Page/西表島.md "wikilink")で発見された[郵便ポスト](../Page/郵便ポスト.md "wikilink")を元の設置場所である[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[南三陸町](https://ja.wikipedia.org/wiki/南三陸町 "wikilink")[歌津](https://ja.wikipedia.org/wiki/歌津 "wikilink")地区に届けた。このポストがテーマの新曲「歌津さきてけさい」を書き下ろした三人は[2013年](../Page/2013年.md "wikilink")[8月11日](../Page/8月11日.md "wikilink")に「歌津復興夏祭り」で同曲を初披露。
-  - 比嘉の息子の舜太郎は6歳からドラムを始め\[7\]、ミュージシャンとして沖縄本島でバンド「HoRookies」のドラム&ボーカル、石垣島でアコースティックユニット「Selsati」などで活動している\[8\]。
+  - 比嘉の息子の舜太朗は6歳からドラムを始め\[7\]、ミュージシャンとして沖縄本島でバンド「HoRookies」のドラム&ボーカル、石垣島でアコースティックユニット「Selsati」などで活動している\[8\]。
 
 ## ディスコグラフィ
 

@@ -12,7 +12,7 @@
 ## メンバー
 
   - AFROPICS
-    [MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[DJ担当](../Page/ディスクジョッキー.md "wikilink")。
+    [MC](../Page/MC_\(ヒップホップ\).md "wikilink")、[DJ担当](../Page/ディスクジョッキー.md "wikilink")。
   - EIKAIWA DAVE
     MC担当。
   - NOVIGO

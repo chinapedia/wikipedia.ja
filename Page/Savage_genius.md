@@ -13,7 +13,7 @@
 
   -
     神戸にあるギンガムチェックというリハーサルスタジオの掲示板でメンバー募集をする。
-    それを見てああとtakumiは出逢う。
+    それを見て**ああ**と**takumi**は出逢う。
     幾度かのメンバー編成を得て、ボーカル、ギター、ベースの３ピースバンドを結成。
     さらにベースが抜けて2人になり、savage geniusとなる。
 
@@ -29,12 +29,12 @@
 
 **2002年**
 
-  - デビュー後間もなくオールナイトニッポンスーパーのジングルを担当。
+  - デビュー後間もなく[オールナイトニッポンスーパー](https://ja.wikipedia.org/wiki/オールナイトニッポンスーパー "wikilink")のジングルを担当。
   - 2002年3月6日に週替わりアーティストで番組を放送
 
 **2007年**
 
-  - 9月末でプロジェクトの立ち上げメンバーであるリーダー兼ギターのtakumiが脱退し、現在は**ああ**による[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")になっている。
+  - 9月末でプロジェクトの立ち上げメンバーであるリーダー兼ギターのtakumiが脱退し、**ああ**による[ソロプロジェクト](https://ja.wikipedia.org/wiki/ソロプロジェクト "wikilink")となる。
 
 **2010年**
 
@@ -47,19 +47,20 @@
 
 **2016年**
 
-  - 4月24日に行ったライブをもってしばらく単独ライブ休止。\[3\]
+  - 4月24日に行ったライブをもってしばらく単独ライブ休止を発表した。\[3\]
 
 ### メンバー
 
   - ああ
-      - ボーカル / 4月17日生まれ / [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身 / [O型](https://ja.wikipedia.org/wiki/O型 "wikilink") / takumiが[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")を呼ぶのが面倒くさくなり「ああはさ」と言ったことから、いつしかそれが[芸名](../Page/芸名.md "wikilink")になった。
+      - ボーカル / 4月17日生まれ / [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身 / [O型](https://ja.wikipedia.org/wiki/O型 "wikilink")
+      - takumiが[本名](https://ja.wikipedia.org/wiki/本名 "wikilink")を呼ぶのが面倒くさくなり「ああはさ」と言ったことから、いつしかそれが[芸名](../Page/芸名.md "wikilink")になった。
 
 **旧メンバー**
 
   - takumi
       - リーダー兼ギター / 12月6日生まれ / [兵庫県](../Page/兵庫県.md "wikilink")[神戸市](../Page/神戸市.md "wikilink")出身 / [B型](../Page/ABO式血液型.md "wikilink")
-      - ギターだけでなくベース等色んな楽器が出来るので、在籍中は一メンバーとしてでなくプロデュースまでこなしていた
-      - 2011年よりTAKUMI MATSUSHITAとして音楽活動再開
+      - ギターだけでなくベース等色んな楽器が出来るので、在籍中は一メンバーとしてでなくプロデュースまでこなしていた。
+      - 2011年よりTAKUMI MATSUSHITAとして音楽活動再開。
 
 ## 作品
 
@@ -245,7 +246,7 @@
 
 1.  [ああより、いつも温かく支えて下さっているみなさまへ。](http://blog.jvcmusic.co.jp/blog/sg/2010/07/post_1260.html)
 2.  [ひろみっぽい「いろんなお知らせ」](http://satohiromi.exblog.jp/21902628/)
-3.  <http://ameblo.jp/savagegenius/archive1-201603.html>
+3.  <https://ameblo.jp/savagegenius/archive1-201603.html>
 4.  OVA「機動戦士ガンダム MS-IGLOO2 重力戦線」主題歌
 5.  テレビアニメーション「逮捕しちゃうぞ フルスロットル」挿入歌
 6.  savage genius歌唱によるCDが先に発売されている。

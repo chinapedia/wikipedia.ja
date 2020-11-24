@@ -180,7 +180,7 @@
 <li>ホリエアツシ（<a href="https://ja.wikipedia.org/wiki/ストレイテナー" title="wikilink">ストレイテナー</a>）</li>
 <li><a href="https://ja.wikipedia.org/wiki/Nakajin" title="wikilink">Nakajin</a> (<a href="https://ja.wikipedia.org/wiki/SEKAI_NO_OWARI" title="wikilink">SEKAI NO OWARI</a>)</li>
 <li>田中和将（<a href="../Page/GRAPEVINE.md" title="wikilink">GRAPEVINE</a>）</li>
-<li>山内総一郎（<a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a>）</li>
+<li><a href="../Page/山内総一郎.md" title="wikilink">山内総一郎</a>（<a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a>）</li>
 <li>セイジ（<a href="../Page/ギターウルフ.md" title="wikilink">ギターウルフ</a>）</li>
 <li>小野武正 (<a href="https://ja.wikipedia.org/wiki/KEYTALK" title="wikilink">KEYTALK</a>)</li>
 <li>竹安堅一（<a href="../Page/フラワーカンパニーズ.md" title="wikilink">フラワーカンパニーズ</a>）</li>
@@ -190,10 +190,9 @@
 <li><a href="https://ja.wikipedia.org/wiki/椎名林檎" title="wikilink">椎名林檎</a></li>
 <li>氏原ワタル（<a href="https://ja.wikipedia.org/wiki/DOES" title="wikilink">DOES</a>）</li>
 <li><a href="../Page/Keita_The_Newest.md" title="wikilink">Keita The Newest</a></li>
-<li>山内総一郎（<a href="../Page/フジファブリック.md" title="wikilink">フジファブリック</a>）</li>
 <li>YUJI OTA（<a href="../Page/GREAT_ADVENTURE.md" title="wikilink">GREAT ADVENTURE</a>）</li>
 <li>SUGA（<a href="https://ja.wikipedia.org/wiki/dustbox" title="wikilink">dustbox</a>）</li>
-<li>健一（<a href="https://ja.wikipedia.org/wiki/メリー" title="wikilink">メリー</a>）</li>
+<li>健一（<a href="../Page/MERRY.md" title="wikilink">メリー</a>）</li>
 <li><a href="../Page/五十嵐隆.md" title="wikilink">五十嵐隆</a>（<a href="../Page/Syrup_16g.md" title="wikilink">Syrup 16g</a>）</li>
 <li>猪狩翔一（<a href="https://ja.wikipedia.org/wiki/tacica" title="wikilink">tacica</a>）</li>
 <li><a href="../Page/宮藤官九郎.md" title="wikilink">暴動</a>（<a href="../Page/グループ魂.md" title="wikilink">グループ魂</a>）</li>

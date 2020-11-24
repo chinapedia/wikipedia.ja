@@ -1,9 +1,9 @@
 > この記事は[MCU \(ラッパー\)](https://ja.wikipedia.org/wiki/MCU_\(ラッパー\))から翻訳されています。
 
 
-**MCU**（エムシーユー、本名：小泉 雄志（こいずみ ゆうし）、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
+**MCU**（エムシーユー、本名：小泉 雄志（こいずみ ゆうし）、[1973年](../Page/1973年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - ）は、[東京都](../Page/東京都.md "wikilink")[豊島区](https://ja.wikipedia.org/wiki/豊島区 "wikilink")[巣鴨](../Page/巣鴨.md "wikilink")出身の[ヒップホップMC](../Page/MC_\(ヒップホップ\).md "wikilink")、[作詞家](../Page/作詞家.md "wikilink")、[作曲家](../Page/作曲家.md "wikilink")、[俳優](../Page/俳優.md "wikilink")である。
 
-名前の由来は、本名の雄志及び[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のMCAから。[KICK THE CAN CREW及び](../Page/KICK_THE_CAN_CREW.md "wikilink")[マツリルカ](../Page/マツリルカ.md "wikilink")、[SEAL](https://ja.wikipedia.org/wiki/SEAL "wikilink")のMC担当。愛称は「雄志くん」。所属[レコード会社](../Page/レコード会社.md "wikilink")は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、DJとして[TRIBAL FRUITS CAFEの一員](https://ja.wikipedia.org/wiki/TRIBAL_FRUITS_CAFE "wikilink")。かつてはU、MC Uという名で活動していた。現在は[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")と共に[ULのMCとして活動している](https://ja.wikipedia.org/wiki/UL\(hiphopユニット_\) "wikilink")。プロデューサーは同じく[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")である。既婚。
+名前の由来は、本名の雄志及び[ビースティ・ボーイズ](../Page/ビースティ・ボーイズ.md "wikilink")のMCAから。[KICK THE CAN CREW及び](../Page/KICK_THE_CAN_CREW.md "wikilink")[マツリルカ](../Page/マツリルカ.md "wikilink")、[SEAL](https://ja.wikipedia.org/wiki/SEAL "wikilink")のMC担当。愛称は「雄志くん」。所属[レコード会社](../Page/レコード会社.md "wikilink")は[BMG JAPAN](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。[FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")、[神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")、DJとして[TRIBAL FRUITS CAFEの一員](https://ja.wikipedia.org/wiki/TRIBAL_FRUITS_CAFE "wikilink")。かつてはU、MC Uという名で活動していた。現在は[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[LITTLE](../Page/LITTLE.md "wikilink")と共に[ULのMCとして活動している](../Page/UL_\(ヒップホップ\).md "wikilink")。プロデューサーは同じく[KICK THE CAN CREWの](../Page/KICK_THE_CAN_CREW.md "wikilink")[KREVA](../Page/KREVA.md "wikilink")である。既婚。
 
 ## 来歴
 
@@ -17,15 +17,22 @@
 
 [2006年](../Page/2006年.md "wikilink")5月には、初のソロ名義で「MCU in WONDERLAND e.p.」をリリースし、ソロ活動を開始。
 
-映画『2番目の彼女』で俳優デビューの後、『明日の記憶』にも出演し、『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』では、出演だけでなく、木更津キャッツアイ feat.MCU名義でシングル「[シーサイド・ばいばい](../Page/シーサイド・ばいばい.md "wikilink")」をリリースしている。
+映画『2番目の彼女』で俳優デビューの後、『明日の記憶』にも出演し、『[木更津キャッツアイ ワールドシリーズ](../Page/木更津キャッツアイ_ワールドシリーズ.md "wikilink")』では、出演だけでなく、木更津キャッツアイ feat.MCU名義でシングル「[シーサイド・ばいばい](../Page/シーサイド・ばいばい.md "wikilink")」をリリースしている。HOOK（サビ）意外のパートを全てソロで歌い、KICK THE CAN CREWのメンバーとしては唯一（2020年現在）のシングルオリコン1位を獲得した。
 
 [2007年](../Page/2007年.md "wikilink")、[福岡ソフトバンクホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")の[川﨑宗則](../Page/川﨑宗則.md "wikilink")内野手が本拠地[福岡ヤフオク\!ドームのバッターボックスに立つ際に流れるテーマソングに](../Page/福岡ドーム.md "wikilink")「[サヨナラ](../Page/サヨナラ_\(MCUの曲\).md "wikilink")」という楽曲を提供した。また、3月7日のオープン戦（対[横浜ベイスターズ](../Page/横浜DeNAベイスターズ.md "wikilink")）が行われたヤフオクドームで、巣鴨のジャイロボーイと紹介され、背番号52のユニフォームを着て[始球式](../Page/始球式.md "wikilink")を行い、[仁志敏久](../Page/仁志敏久.md "wikilink")内野手に対しジャイローを投球した。6月には2年ぶりとなるアルバム『[A.K.A](../Page/A.K.A.md "wikilink")』を発売し、自身のHPをリニューアルした。9月からMCU TOUR 2007 『A.K.A HipHop Hallelujah』というアルバムツアーを福岡（Drum Be-1）、大阪（[BIGCAT](https://ja.wikipedia.org/wiki/BIGCAT "wikilink")）、東京（[LIQUIDROOM](https://ja.wikipedia.org/wiki/LIQUIDROOM "wikilink")）で行った。
+
+[2009年](../Page/2009年.md "wikilink")には[GLAY](../Page/GLAY.md "wikilink")のTERUとのコラボ、[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には自身初のベストアルバムをリリースするなど　目覚ましい音楽活動を続ける。
+
+[いとうせいこう](../Page/いとうせいこう.md "wikilink")のトリビュートアルバムや[THE BOOMのトリビュートアルバムに参加を果たした](../Page/THE_BOOM.md "wikilink")。
+
+また、ゲーム風な音楽「チップチューン」グループ「ファミリーコンテニュー」での活動を始めた。[2018年](../Page/2018年.md "wikilink")には　人気野球ゲーム「ファミスタ」とのコラボ楽曲を発表し、[2019年](../Page/2019年.md "wikilink")は人気ゲーム「ロックマン」の楽曲に客演、中古のゲームなどを販売している「ハードオフ」の店内BGMおよびシングルをリリースするなど　自身の好きなゲームと深く関わった新しい音楽活動を展開している。[2017年](../Page/2017年.md "wikilink")には念願のゲーム内での声出演(MCU役)をはたしている。
 
 ## 人物・エピソード
 
   - 元々はロック畑の出身で、[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")と邦楽[ロックを好む](../Page/ロック_\(音楽\).md "wikilink")。今は[アシッドハウス](https://ja.wikipedia.org/wiki/アシッドハウス "wikilink")、[テクノ](https://ja.wikipedia.org/wiki/テクノ "wikilink")なども聴く。また[イカ天世代で](../Page/三宅裕司のいかすバンド天国.md "wikilink")、特に[THE BOOMと](../Page/THE_BOOM.md "wikilink")[FLYING KIDSの大ファンとして知られる](../Page/FLYING_KIDS.md "wikilink")。ソロ作品では、FLYING KIDSの[浜崎貴司](../Page/浜崎貴司.md "wikilink")を迎えた。
   - 大のゲーム好きで、デビュー前は[ゲームセンター](../Page/ゲームセンター.md "wikilink")でアルバイトをしていた。自宅にはセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）のゲームソフトのコレクションがある。セガフェス2018を訪れた際も、[セガグループの中途採用募集のパンフレットを見て](https://ja.wikipedia.org/wiki/セガホールディングス "wikilink")、知り合いのセガ社員に中途入社に関して問い合わせていたという\[1\]\[2\]。
   - 料理が得意で、雑誌「[オレンジページ](../Page/オレンジページ.md "wikilink")」で取り上げられたほど。
+  - KICK THE CAN CREWのメンバーとしては 唯一の（2020年現在）シングルオリコン1位を獲得している。
   - [2007年](../Page/2007年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")に34歳となり、バースデーパーティーが行われ、同級生の[DJ TATSUTAと](../Page/DJ_TATSUTA.md "wikilink")[TAICHI MASTER](../Page/TAICHI_MASTER.md "wikilink")、[安田大サーカス](../Page/安田大サーカス.md "wikilink")の[団長](../Page/団長安田.md "wikilink")、[クロちゃんらが参加した](../Page/クロちゃん_\(お笑い芸人\).md "wikilink")。団長から「団長なりきりセット」をプレゼントされ、赤い[褌](https://ja.wikipedia.org/wiki/褌 "wikilink")姿となった。
   - 最も影響を受けたラッパーとして[いとうせいこう](../Page/いとうせいこう.md "wikilink")を挙げている。
   - [ラッパ我リヤ](../Page/ラッパ我リヤ.md "wikilink")のMC Qは、中学校時代の後輩である。後に、自身の楽曲「SUGAMO-B 其の弐」で共演。
@@ -91,6 +98,13 @@
 2.  [A.K.A](../Page/A.K.A.md "wikilink") 2007年6月20日
 3.  [SHU・HA・RI〜STILL LOVE〜](https://ja.wikipedia.org/wiki/SHU・HA・RI〜STILL_LOVE〜 "wikilink") 2009年3月11日
 4.  [BEST OF MCU](../Page/BEST_OF_MCU.md "wikilink") 2010年2月10日
+
+### シングル曲の客演
+
+1.  [175R](../Page/175R.md "wikilink"):[ORANGE](https://ja.wikipedia.org/wiki/ORANGE "wikilink")
+2.  [YELL FROM NIPPON](../Page/YELL_FROM_NIPPON.md "wikilink"):友情のエール
+3.  [木更津キャッツアイ](../Page/木更津キャッツアイ.md "wikilink") feat.MCU:[シーサイド・ばいばい](../Page/シーサイド・ばいばい.md "wikilink")
+4.  [Rocket Queen feat. MCU/Rock Away](https://ja.wikipedia.org/wiki/Rocket_Queen_feat._MCU/Rock_Away "wikilink") : [TEAM SHACHI](https://ja.wikipedia.org/wiki/TEAM_SHACHI "wikilink")
 
 ### 楽曲参加など
 
@@ -174,7 +188,7 @@
   - [MCUオフィシャルブログ - Powered by LINE](https://lineblog.me/kickulmcu/)
   - [MCUの百獣チャンネル - YouTubeチャンネル](https://www.youtube.com/channel/UCDETszjEai7cbEMNgExakAg)
 
-[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本のミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のミュージシャン "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1973年生](https://ja.wikipedia.org/wiki/Category:1973年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [ローリング内沢のセガ先輩のはなし第22回 MCUさんとゲームやセガについて話してきた\!【前編】](https://sega-interactive.co.jp/special/history/columns/c_senpai_22.html)セガ・インタラクティブ
 2.  [ローリング内沢のセガ先輩のはなし第23回 MCUさんとゲームやセガについて話してきた\!【後編】](https://sega-interactive.co.jp/special/history/columns/c_senpai_23.html)セガ・インタラクティブ

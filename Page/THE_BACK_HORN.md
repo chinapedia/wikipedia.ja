@@ -244,7 +244,7 @@ VICL-64440 (通常盤)</p></td>
 <tr class="odd">
 <td><p>12th</p></td>
 <td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/10月23日.md" title="wikilink">10月23日</a></p></td>
-<td><p><strong><a href="https://ja.wikipedia.org/wiki/カルペ・ディエム" title="wikilink">カルペ・ディエム</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/カルペ・ディエム_(THE_BACK_HORNのアルバム)" title="wikilink">カルペ・ディエム</a></strong></p></td>
 <td><p>VIZL-1615(初回限定盤A)<br />
 VIZL-1616(初回限定盤B)<br />
 VICL-65224(通常盤)</p></td>

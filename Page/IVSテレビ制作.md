@@ -7,9 +7,9 @@
 
 [1972年](../Page/1972年.md "wikilink")、当時[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")[プロデューサー](../Page/プロデューサー.md "wikilink")・[ディレクター](../Page/ディレクター.md "wikilink")だった斉藤寿孝（現・取締役名誉会長）が独立し、[11月30日](../Page/11月30日.md "wikilink")[大阪市](../Page/大阪市.md "wikilink")に「IVSテレビ制作」を設立。
 
-[1975年](../Page/1975年.md "wikilink")に東京支社（現・東京本社）を設立後は同年にスタートした「[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")」（読売テレビ）をはじめとして数々の人気テレビ番組を制作している。過去の歴史的な経緯から、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、及び在阪各放送局が制作した番組を中心に数多く携わっている。
+[1975年](../Page/1975年.md "wikilink")に東京支社（現・東京本社）を設立後は同年にスタートした『[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")』（読売テレビ）をはじめとして数々の人気テレビ番組を制作している。過去の歴史的な経緯から、[日本テレビ系](../Page/日本テレビ放送網.md "wikilink")、及び在阪各放送局が制作した番組を中心に数多く携わっている。
 
-[1973年](../Page/1973年.md "wikilink")、後にIVSを支えるディレクターとなる「[テリー伊藤](../Page/テリー伊藤.md "wikilink")」こと伊藤輝夫が入社。わずか2年余りでディレクターに昇格し、その後「[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")」「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」などのヒット作を手掛ける。
+[1973年](../Page/1973年.md "wikilink")、後にIVSを支えるディレクターとなる「[テリー伊藤](../Page/テリー伊藤.md "wikilink")」こと伊藤輝夫が入社。わずか2年余りでディレクターに昇格し、その後『[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")』『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』などのヒット作を手掛ける。
 
 ## 斉藤会長とピアノ
 
@@ -31,16 +31,16 @@
   - [1972年](../Page/1972年.md "wikilink")（昭和47年）[11月30日](../Page/11月30日.md "wikilink") - 大阪にて株式会社IVSを設立。
   - [1973年](../Page/1973年.md "wikilink")（昭和48年） - [テリー伊藤](../Page/テリー伊藤.md "wikilink")が入社。
   - [1975年](../Page/1975年.md "wikilink")（昭和50年） - IVSテレビ制作株式会社に社名変更し、法人登録された。
-  - 1975年（昭和50年）10月 - 初のレギュラー番組作品、[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")「[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")」を放送開始。
-  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）4月 - [日本テレビの](../Page/日本テレビ放送網.md "wikilink")「[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")」を放送開始。
-  - [1986年](../Page/1986年.md "wikilink")（昭和61年）5月 - 「天才\!たけしの元気が出るテレビ」が、第3回ATP賞の優秀賞と人気番組賞を2つずつ受賞された。
-  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月 - [関西テレビの](../Page/関西テレビ放送.md "wikilink")「[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")」を放送開始。
-  - [1991年](../Page/1991年.md "wikilink")（平成3年）4月 - 読売テレビの「[それいけ\!\!ココロジー](../Page/それいけ!!ココロジー.md "wikilink")」を放送開始。
-  - [1992年](../Page/1992年.md "wikilink")（平成4年）4月 - [毎日放送](../Page/毎日放送.md "wikilink")の「[たけし・所のドラキュラが狙ってる](../Page/たけし・所のドラキュラが狙ってる.md "wikilink")」を放送開始。
-  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）4月 - 日本テレビの「[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")」を放送開始。
-  - [2003年](../Page/2003年.md "wikilink")（平成15年）10月 - [TBSの](../Page/TBSテレビ.md "wikilink")「[爆笑問題のバク天\!](../Page/爆笑問題のバク天!.md "wikilink")」を放送開始。
-  - [2005年](../Page/2005年.md "wikilink")（平成17年）4月 - フジテレビの「[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")」をゴールデンに進出。
-  - 2014年（平成26年）1月30日 - インターネット番組、企業向け動画制作に特化した関連会社、株式会社IVS41（フォーワン）を設立\[1\]。
+  - 1975年（昭和50年）10月 - 初のレギュラー番組作品、[読売テレビの](../Page/讀賣テレビ放送.md "wikilink")『[びっくり日本新記録](../Page/びっくり日本新記録.md "wikilink")』を放送開始。
+  - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")（昭和60年）4月 - [日本テレビの](../Page/日本テレビ放送網.md "wikilink")『[天才・たけしの元気が出るテレビ\!\!](../Page/天才・たけしの元気が出るテレビ!!.md "wikilink")』を放送開始。
+  - [1986年](../Page/1986年.md "wikilink")（昭和61年）5月 - 『天才・たけしの元気が出るテレビ\!\!』が、第3回[ATP賞の優秀賞と人気番組賞を](https://ja.wikipedia.org/wiki/全日本テレビ番組製作社連盟#ATP賞テレビグランプリ "wikilink")2つずつ受賞された。
+  - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年）10月 - [関西テレビの](../Page/関西テレビ放送.md "wikilink")『[ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")』を放送開始。
+  - [1991年](../Page/1991年.md "wikilink")（平成3年）4月 - 読売テレビの『[それいけ\!\!ココロジー](../Page/それいけ!!ココロジー.md "wikilink")』を放送開始。
+  - [1992年](../Page/1992年.md "wikilink")（平成4年）4月 - [毎日放送](../Page/毎日放送.md "wikilink")の『[たけし・所のドラキュラが狙ってる](../Page/たけし・所のドラキュラが狙ってる.md "wikilink")』を放送開始。
+  - [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）4月 - 日本テレビの『[ザ\!鉄腕\!DASH\!\!](../Page/ザ!鉄腕!DASH!!.md "wikilink")』を放送開始。
+  - [2003年](../Page/2003年.md "wikilink")（平成15年）10月 - [TBSの](../Page/TBSテレビ.md "wikilink")『[爆笑問題のバク天\!](../Page/爆笑問題のバク天!.md "wikilink")』を放送開始。
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）4月 - [フジテレビの](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[ネプリーグ](https://ja.wikipedia.org/wiki/ネプリーグ "wikilink")』が[ゴールデンタイムに進出](../Page/プライムタイム.md "wikilink")。
+  - 2014年（平成26年）1月30日 - [インターネット番組](https://ja.wikipedia.org/wiki/インターネット番組 "wikilink")、企業向け動画制作に特化した関連会社、株式会社IVS41（フォーワン）を設立\[1\]。
 
 ## 所属スタッフ
 
@@ -362,7 +362,7 @@
 
 <!-- end list -->
 
-  - [冒険JAPAN\! 関ジャニ∞MAP](https://ja.wikipedia.org/wiki/冒険JAPAN!_関ジャニ∞MAP "wikilink")（[ABC](https://ja.wikipedia.org/wiki/ABCテレビ "wikilink")、テレビ朝日系列全国ネット　2010年4月4日 - 2012年3月25日）
+  - [冒険JAPAN\! 関ジャニ∞MAP](https://ja.wikipedia.org/wiki/冒険JAPAN!_関ジャニ∞MAP "wikilink")（[朝日放送](../Page/朝日放送テレビ.md "wikilink")、テレビ朝日系列全国ネット　2010年4月4日 - 2012年3月25日）
   - [バカなフリして聞いてみた](https://ja.wikipedia.org/wiki/バカなフリして聞いてみた "wikilink")（日本テレビ系列全国ネット　2011年4月19日 - 9月13日）
   - [爆笑問題の大変よくできました\!](https://ja.wikipedia.org/wiki/爆笑問題の大変よくできました! "wikilink")（テレビ東京系列全国ネット　2011年4月22日 - 9月9日）
   - [芸能★BANG\!](https://ja.wikipedia.org/wiki/芸能★BANG+ "wikilink")（日本テレビ系列全国ネット　2011年10月17日 - 2012年3月19日）
@@ -395,7 +395,7 @@
   - [芸能人私生活のセンス完全抜き打ち一斉調査\!](https://ja.wikipedia.org/wiki/芸能人私生活のセンス完全抜き打ち一斉調査! "wikilink")（フジテレビ系列全国ネット　2011年10月25日 - 2012年3月6日）
   - [24時間テレビ35 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink") 青春と友情のパワー 高校生ダンス甲子園（日本テレビ系列全国ネット　2012年8月）
   - タカトシの恋愛バラエティ ラブカLoveca〜恋が生まれる運命のカード〜（日本テレビ系列全国ネット　2012年9月25日、プラチナイト枠）
-  - **[世界への挑戦状\!\!行け\!ジャパンプライド](https://ja.wikipedia.org/wiki/世界への挑戦状!!行け!ジャパンプライド "wikilink")**（ABCテレビ、テレビ朝日系列全国ネット　2013年1月2日 - ）
+  - **[世界への挑戦状\!\!行け\!ジャパンプライド](https://ja.wikipedia.org/wiki/世界への挑戦状!!行け!ジャパンプライド "wikilink")**（朝日放送、テレビ朝日系列全国ネット　2013年1月2日 - ）
   - **[ぶっこみジャパニーズ](https://ja.wikipedia.org/wiki/ぶっこみジャパニーズ "wikilink")**（TBS系列全国ネット　2013年10月9日 - ）
   - バンクルワセ（フジテレビ系列全国ネット　2014年1月2日）
   - [24時間テレビ37 「愛は地球を救う」](https://ja.wikipedia.org/wiki/24時間テレビ_「愛は地球を救う」 "wikilink") 青春と友情のキセキ 高校生ダンス甲子園（日本テレビ系列全国ネット　2014年8月31日）
@@ -412,6 +412,26 @@
   - **出川のリアルガチバトル**（TBS系列ほか一部ネット　2018年4月11日 - ）
   - [PRODUCE 101 JAPAN](https://ja.wikipedia.org/wiki/PRODUCE_101_JAPAN "wikilink")（TBS系列全国ネット　2019年9月26日・12月11日）
   - **爆笑問題の天国が地獄**（フジテレビ系列全国ネット　2019年12月27日）
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;">
+
+<div class="NavHead" style="text-align: left;">
+
+2020年代
+
+</div>
+
+<div class="NavContent" style="text-align: left;">
+
+  - レギュラー番組
+
+<!-- end list -->
+
+  - [品評会ばんちょー](https://ja.wikipedia.org/wiki/品評会ばんちょー "wikilink")（[朝日放送テレビ](../Page/朝日放送テレビ.md "wikilink")、2020年11月1日 - ）
 
 </div>
 

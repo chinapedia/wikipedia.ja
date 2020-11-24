@@ -17,7 +17,7 @@
 
 ## 提供中のコンテンツ
 
-2020年3月時点、Windows版の1タイトルが提供されている。[電子メール](../Page/電子メール.md "wikilink")や[チャット](../Page/チャット.md "wikilink")のサービスも提供されている。
+2020年11月時点、Windows版の1タイトルが提供されている。[電子メール](../Page/電子メール.md "wikilink")や[チャット](../Page/チャット.md "wikilink")のサービスも提供されている。
 
   - [ファイナルファンタジーXI](https://ja.wikipedia.org/wiki/ファイナルファンタジーXI "wikilink") (Windows)
     人気シリーズの系譜に組み込まれた日本国産最大級の[MMORPG](../Page/MMORPG.md "wikilink")。

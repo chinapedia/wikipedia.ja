@@ -155,6 +155,6 @@
 ## 外部リンク
 
   - [MAI DIARY 〜from Ruppina〜](http://ruppina.cocolog-nifty.com/)
-  - [Ruppina+ MySpace](http://www.myspace.com/ruppina)
+  - [Ruppina+ MySpace](https://myspace.com/ruppina)
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink")

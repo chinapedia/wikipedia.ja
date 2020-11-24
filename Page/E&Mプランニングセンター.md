@@ -5,7 +5,7 @@
 
 ## 概要・沿革
 
-昭和40年代前半期の東映動画（現・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）作品の大半にクレジットされた大平紀義や、TCJ（現：[エイケン](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")）・[東京ムービー](../Page/東京ムービー.md "wikilink")作品を手掛けた片岡陽三、大平から替わって『[もーれつア太郎](../Page/もーれつア太郎.md "wikilink")』のシリーズ末期にクレジットされた[伊藤道広らによって](https://ja.wikipedia.org/wiki/伊藤道廣 "wikilink")、1972年にE\&Mプランニングセンター（通称「**E\&M**」）が発足する。
+昭和40年代前半期の東映動画（現・[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")）作品の大半にクレジットされた大平紀義や、TCJ（現：[エイケン](../Page/エイケン_\(企業\).md "wikilink")）・[東京ムービー](../Page/東京ムービー.md "wikilink")作品を手掛けた片岡陽三、大平から替わって『[もーれつア太郎](../Page/もーれつア太郎.md "wikilink")』のシリーズ末期にクレジットされた[伊藤道広らによって](https://ja.wikipedia.org/wiki/伊藤道廣 "wikilink")、1972年にE\&Mプランニングセンター（通称「**E\&M**」）が発足する。
 
 担当作品のほとんどはアニメが占めており、特に東映動画・ナック・創映社→[日本サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")・[ぎゃろっぷ](../Page/ぎゃろっぷ.md "wikilink")などのテレビアニメ、[A.P.P.P.](../Page/アナザープッシュピンプランニング.md "wikilink")・[スタジオジブリ](../Page/スタジオジブリ.md "wikilink")の劇場用アニメ、[押井守](../Page/押井守.md "wikilink")・監督による[OVA](../Page/OVA.md "wikilink")及び劇場用アニメ等に関わりが深い。
 
@@ -165,7 +165,7 @@
 ### 小野弘典
 
   - [機動戦士ガンダム 逆襲のシャア](../Page/機動戦士ガンダム_逆襲のシャア.md "wikilink") ※横山正和と共同担当
-  - [紅の豚](../Page/紅の豚.md "wikilink")（効果助手
+  - [紅の豚](../Page/紅の豚.md "wikilink")（効果助手）
   - 劇場版 世紀末救世主伝説 北斗の拳※伊藤道廣と共同担当
   - [こまねこ](https://ja.wikipedia.org/wiki/こまねこ "wikilink")
   - [滝田ゆう落語劇場](https://ja.wikipedia.org/wiki/滝田ゆう落語劇場 "wikilink") ※佐藤一俊と共同担当

@@ -131,7 +131,7 @@
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/浜松市" title="wikilink">浜松市</a></p></td>
 <td><p><a href="../Page/北区_(浜松市).md" title="wikilink">北区</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/三ヶ日バスストップ" title="wikilink">東名三ヶ日</a></p></td>
+<td><p><a href="../Page/三ヶ日バスストップ.md" title="wikilink">東名三ヶ日</a></p></td>
 <td><p>●</p></td>
 <td><p>○</p></td>
 </tr>
@@ -258,6 +258,7 @@
   - 掛川IC・磐田IC・浜松西IC・東名豊川の各乗り場には[パークアンドライド](../Page/パークアンドライド.md "wikilink")に対応した事前予約制の利用者専用駐車場を設置しており、マイカー利用客の利便性を向上している。
   - 年始の[豊川稲荷](../Page/豊川稲荷.md "wikilink")への参拝客などで豊川ICの利用車両の増加が見込まれる時期には東名豊川を通過する場合がある。
   - 2015年7月より発売されている「HAMANAKO RAIL PASS」では本路線の片道分に加え、遠鉄電車・バス・[天竜浜名湖鉄道](../Page/天竜浜名湖鉄道.md "wikilink")の全線、浜名湖遊覧船が3日間乗り放題となる。
+  - セントレア満喫きっぷが大人5000円、子供2500円で発売されている。このきっぷだけでE-wing往復分、空港での食事券、風の湯が割引となる。なお、このきっぷは浜松駅バスターミナル乗車券窓口などで購入できる。
 
 ## 脚注
 

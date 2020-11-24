@@ -75,7 +75,7 @@
   - ブライキング・ボスの妻 - [鶴田真由](../Page/鶴田真由.md "wikilink")
   - ブライキング・ボスの子 - 福島翔大
   - 関口（東鉄也の従軍時代の戦友） - [玉山鉄二](../Page/玉山鉄二.md "wikilink")
-  - 池上（東ミドリの助手） - [りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")
+  - 池上（東ミドリの助手） - [りょう](https://ja.wikipedia.org/wiki/りょう_\(女優\) "wikilink")
   - 老軍人 - [伊藤幸純](https://ja.wikipedia.org/wiki/伊藤幸純 "wikilink")、[山本哲也](https://ja.wikipedia.org/wiki/山本哲也_\(俳優\) "wikilink")、[児玉頼信](../Page/児玉頼信.md "wikilink")、[戸沢佑介](https://ja.wikipedia.org/wiki/戸沢佑介 "wikilink")
   - 東博士の助手 - [戸田昌宏](https://ja.wikipedia.org/wiki/戸田昌宏 "wikilink")、亀石太夏匡、[伊藤淳史](../Page/伊藤淳史.md "wikilink")、水谷ノブ
   - 聴衆 - 坂本宗一郎、[桜井聖](../Page/桜井聖.md "wikilink")

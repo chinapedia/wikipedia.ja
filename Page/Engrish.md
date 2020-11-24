@@ -105,6 +105,8 @@ Engrish の対極の概念に Nihonglish （ニホングリッシュ）がある
 
   - [日本語話者による英語の/r/と/l/の知覚](https://ja.wikipedia.org/wiki/日本語話者による英語の/r/と/l/の知覚 "wikilink")
 
+  - [カタカナ英語](../Page/カタカナ英語.md "wikilink")
+
 ## 外部リンク
 
   - [Engrish.com](https://web.archive.org/web/20131104133457/http://engrish.com/) -  の例が画像で紹介されている

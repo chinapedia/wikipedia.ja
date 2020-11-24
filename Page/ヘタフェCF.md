@@ -289,9 +289,9 @@
 
 </div>
 
-  - 2020年8月31日時点
+  - 2020年10月22日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))       ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))      ★  ★  ★  ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))       ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))      ★  ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))  ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -502,7 +502,7 @@
   - [Azulones.com](http://www.azulones.com/)
   - [Danish fansite](http://www.GetafeCF.dk/)
   - [Getafe at SvenskaFans](http://www.svenskafans.com/spanien/getafe/)
-  - [Scottish fansite](http://getafe-escocia.blogspot.com/)
+  - [Scottish fansite](https://getafe-escocia.blogspot.com/)
   - [Estadios de Espana](http://estadiosdeespana.blogspot.com/2011/08/getafe-coliseum-alfonso-perez.html)
 
 [Category:ヘタフェCF](https://ja.wikipedia.org/wiki/Category:ヘタフェCF "wikilink") [Category:スペインのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スペインのサッカークラブ "wikilink") [Category:マドリード州のスポーツ](https://ja.wikipedia.org/wiki/Category:マドリード州のスポーツ "wikilink")

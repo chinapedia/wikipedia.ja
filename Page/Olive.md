@@ -144,7 +144,7 @@
   -
   - [Olive1982-2003 雑誌『オリーブ』のクリエイティビティ](http://www.kanazawa21.jp/data_list.php?g=45&d=1129) - 金沢21世紀美術館
 
-[Category:日本のファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌_\(休廃刊\) "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:マガジンハウス](https://ja.wikipedia.org/wiki/Category:マガジンハウス "wikilink") [Category:サブカルチャー雑誌](https://ja.wikipedia.org/wiki/Category:サブカルチャー雑誌 "wikilink") [Category:2003年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年休廃刊の雑誌 "wikilink")
+[Category:日本の女性向けファッション雑誌_(休廃刊)](https://ja.wikipedia.org/wiki/Category:日本の女性向けファッション雑誌_\(休廃刊\) "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:マガジンハウス](https://ja.wikipedia.org/wiki/Category:マガジンハウス "wikilink") [Category:サブカルチャー雑誌](https://ja.wikipedia.org/wiki/Category:サブカルチャー雑誌 "wikilink") [Category:2003年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2003年休廃刊の雑誌 "wikilink")
 
 1.  [創刊号を読み解く 第3回 - Olive](https://www.timeout.jp/tokyo/ja/things-to-do/soukangou-3) - [Time Out Tokyo](https://ja.wikipedia.org/wiki/Time_Out_Tokyo "wikilink")、2019年6月10日
 2.  [創刊号を読み解く 第3回 - Olive](https://www.timeout.jp/tokyo/ja/things-to-do/soukangou-3) - [Time Out Tokyo](https://ja.wikipedia.org/wiki/Time_Out_Tokyo "wikilink")、2019年6月10日

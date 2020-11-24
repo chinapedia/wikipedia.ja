@@ -3,13 +3,15 @@
 
 『**JJ**』（ジェイ・ジェイ）は、[光文社](../Page/光文社.md "wikilink")が発売している日本の女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[月刊誌で](https://ja.wikipedia.org/wiki/逐次刊行物#月刊 "wikilink")、毎月23日発売。主な対象読者は[女子大生](../Page/女子大生.md "wikilink")で、「[男好みの](../Page/男性.md "wikilink")[コンサバファッション](../Page/コンサバファッション.md "wikilink")」を中心に扱っていることで知られる\[1\]。
 
+2020年12月23日発売の2021年2月号をもって月刊発行を終了し、以後は不定期で刊行される\[2\]。
+
 ## 概要
 
-[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）、『[女性自身](../Page/女性自身.md "wikilink")』別冊として隔月刊で創刊された。誌名は、「Josei-Jishin」の頭文字を取って「JJ」と決定された。創刊号は6月号。創刊編集長は並河良（のち光文社社長、現会長）。表紙モデルは[ケレン吉川](https://ja.wikipedia.org/wiki/ケレン吉川 "wikilink")、撮影は[篠山紀信](../Page/篠山紀信.md "wikilink")であった。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から『JJ』として月刊化される。誌面でおもに紹介されるファッションは、いわゆるコンサバ系（[コンサバファッション](../Page/コンサバファッション.md "wikilink")）である\[2\]。同誌の成功により、他社も『[CanCam](../Page/CanCam.md "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』『[Ray](../Page/Ray_\(雑誌\).md "wikilink")』などの、[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")から誌内レイアウトまでコンセプトをそっくり真似た女子大生向けファッション誌を続々と創刊させた。のちにこれら4誌は誌面構成の類似性、発売日がすべて同じ23日であることから「[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」と呼ばれるようになる。創刊以降、[バブル景気](../Page/バブル景気.md "wikilink")時期を経て長年の間「赤文字雑誌」の売り上げ部数トップを誇っていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）以降は、一般の読者モデルのほか、自ら会社を経営しファッションブランドを展開する「**おしゃP**」（おしゃれプロデューサー）と呼ばれる人物や、ブログでファッションやライフスタイルなどを公開してモデルとして活動する「**[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")**」を前面に押し出した誌面づくりを行っている。男性が登場する誌面では、兄弟/姉妹誌にあたる男性ファッション誌『[Gainer](../Page/Gainer_\(雑誌\).md "wikilink")』のモデルが主に起用されているが、2012年以降は大幅に減少している。
+[1975年](../Page/1975年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")50年）、『[女性自身](../Page/女性自身.md "wikilink")』別冊として隔月刊で創刊された。誌名は、「Josei-Jishin」の頭文字を取って「JJ」と決定された。創刊号は6月号。創刊編集長は並河良（のち光文社社長、現会長）。表紙モデルは[ケレン吉川](https://ja.wikipedia.org/wiki/ケレン吉川 "wikilink")、撮影は[篠山紀信](../Page/篠山紀信.md "wikilink")であった。[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")から『JJ』として月刊化される。誌面でおもに紹介されるファッションは、いわゆるコンサバ系（[コンサバファッション](../Page/コンサバファッション.md "wikilink")）である\[3\]。同誌の成功により、他社も『[CanCam](../Page/CanCam.md "wikilink")』『[ViVi](../Page/ViVi.md "wikilink")』『[Ray](../Page/Ray_\(雑誌\).md "wikilink")』などの、[ロゴ](../Page/ロゴタイプ.md "wikilink")[デザイン](../Page/デザイン.md "wikilink")から誌内レイアウトまでコンセプトをそっくり真似た女子大生向けファッション誌を続々と創刊させた。のちにこれら4誌は誌面構成の類似性、発売日がすべて同じ23日であることから「[赤文字雑誌](https://ja.wikipedia.org/wiki/赤文字雑誌 "wikilink")」と呼ばれるようになる。創刊以降、[バブル景気](../Page/バブル景気.md "wikilink")時期を経て長年の間「赤文字雑誌」の売り上げ部数トップを誇っていた。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（[平成](../Page/平成.md "wikilink")22年）以降は、一般の読者モデルのほか、自ら会社を経営しファッションブランドを展開する「**おしゃP**」（おしゃれプロデューサー）と呼ばれる人物や、ブログでファッションやライフスタイルなどを公開してモデルとして活動する「**[ブロモ](https://ja.wikipedia.org/wiki/ブロモ "wikilink")**」を前面に押し出した誌面づくりを行っている。男性が登場する誌面では、兄弟/姉妹誌にあたる男性ファッション誌『[Gainer](../Page/Gainer_\(雑誌\).md "wikilink")』のモデルが主に起用されているが、2012年以降は大幅に減少している。
 
 ### 素人モデルの起用
 
-創刊当時、日本のファッション雑誌として先行した『[an・an](https://ja.wikipedia.org/wiki/an・an "wikilink")』『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』は外国人モデルが着た最新のモードの紹介が中心であったが、同誌は素人の女子大生やOLをモデルとして起用。ショップ名や商品名、価格が明記された誌面作りとあわせて、大反響を得た\[3\]。これについて当時の編集長の並河は「先端のファッションは、どうでもいいと思った。あ、あそこにもいる、ここにもいる、と感じたところで拾いあげる。そのタイミングと、拾うエリアが読者にとってのリアリティーだと思った」と述べている\[4\]。なお同誌はモデル個人にスポットを当てた企画以外ではモデルの名前は示されなかったが、近年になって専属モデル名を表示するようになった。
+創刊当時、日本のファッション雑誌として先行した『[an・an](https://ja.wikipedia.org/wiki/an・an "wikilink")』『[non-no](https://ja.wikipedia.org/wiki/non-no "wikilink")』は外国人モデルが着た最新のモードの紹介が中心であったが、同誌は素人の女子大生やOLをモデルとして起用。ショップ名や商品名、価格が明記された誌面作りとあわせて、大反響を得た\[4\]。これについて当時の編集長の並河は「先端のファッションは、どうでもいいと思った。あ、あそこにもいる、ここにもいる、と感じたところで拾いあげる。そのタイミングと、拾うエリアが読者にとってのリアリティーだと思った」と述べている\[5\]。なお同誌はモデル個人にスポットを当てた企画以外ではモデルの名前は示されなかったが、近年になって専属モデル名を表示するようになった。
 
 ### 流行の発信源として
 
@@ -25,8 +27,8 @@
 
   - [藤井夏恋](https://ja.wikipedia.org/wiki/藤井夏恋 "wikilink")（[Happiness](../Page/Happiness_\(グループ\).md "wikilink")、[E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")）
   - [菊川リサ](https://ja.wikipedia.org/wiki/菊川リサ "wikilink")
-  - [樋口日奈](https://ja.wikipedia.org/wiki/樋口日奈 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）\[5\]
-  - [土生瑞穂](https://ja.wikipedia.org/wiki/土生瑞穂 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）\[6\]
+  - [樋口日奈](https://ja.wikipedia.org/wiki/樋口日奈 "wikilink")（[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）\[6\]
+  - [土生瑞穂](https://ja.wikipedia.org/wiki/土生瑞穂 "wikilink")（[櫻坂46](https://ja.wikipedia.org/wiki/櫻坂46 "wikilink")）\[7\]
   - [Niki](https://ja.wikipedia.org/wiki/Niki "wikilink")
   - [ギャビー](https://ja.wikipedia.org/wiki/ギャビー "wikilink")
   - [高本彩花](https://ja.wikipedia.org/wiki/高本彩花 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")）
@@ -818,11 +820,12 @@
   - [JJ★NET](https://jj-jj.net/) - 公式サイト
   - [JJ](https://www.kobunsha.com/shelf/magazine/current?seriesid=102001) - 光文社
 
-[Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1975年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1975年創刊の雑誌 "wikilink") [Category:光文社の雑誌](https://ja.wikipedia.org/wiki/Category:光文社の雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")
+[Category:日本の女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本の女性向けファッション雑誌 "wikilink") [Category:1975年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1975年創刊の雑誌 "wikilink") [Category:光文社の雑誌](https://ja.wikipedia.org/wiki/Category:光文社の雑誌 "wikilink")
 
 1.  仲村のん　『社長、その服装では説得力ゼロです』　新潮新書　2009年9月発行
-2.  三田村蕗子『ブランドビジネス』平凡社新書、2004年、63ページ
-3.  三田村、前掲書、63-64ページ
-4.  『[AERA](../Page/AERA.md "wikilink")』1997年10月20日号
-5.
+2.
+3.  三田村蕗子『ブランドビジネス』平凡社新書、2004年、63ページ
+4.  三田村、前掲書、63-64ページ
+5.  『[AERA](../Page/AERA.md "wikilink")』1997年10月20日号
 6.
+7.

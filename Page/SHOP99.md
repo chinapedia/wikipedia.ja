@@ -44,11 +44,31 @@
   - [1996年](../Page/1996年.md "wikilink")（平成8年）4月 - [スーパーマーケット](../Page/スーパーマーケット.md "wikilink")を運営していた株式会社ベスト内に事業部を発足。東京都立川市若葉町に「99エンオンリーストア」の店名で1号店を開店。
   - [2000年](../Page/2000年.md "wikilink")（平成12年）10月 - 株式会社九九プラスを設立し、株式会社ベストから独立。同月、[フランチャイズ](../Page/フランチャイズ.md "wikilink")展開を開始。
   - [2001年](../Page/2001年.md "wikilink")（平成13年）
+      - 3月 - 総店舗数50店（直営46店、FC4店）達成
       - 1月 - 新[CIを導入](../Page/コーポレートアイデンティティ.md "wikilink")。以降、新店舗における店名を「SHOP99」に統一。
       - 7月 - 株式会社[キョウデン](../Page/キョウデン.md "wikilink")の出資を受け、傘下に入る。
-  - [2002年](../Page/2002年.md "wikilink")（平成14年）6月 - 当時、同じキョウデングループの関西チコマート株式会社を、株式会社[チコマート](../Page/チコマート.md "wikilink")から買収。
+
+<!-- end list -->
+
+  - [2002年](../Page/2002年.md "wikilink")（平成14年）
+      - 新規出店100店舗達成\[9\]
+      - 6月 - 当時、同じキョウデングループの関西チコマート株式会社を、株式会社[チコマート](../Page/チコマート.md "wikilink")から買収。
+
+<!-- end list -->
+
   - [2003年](../Page/2003年.md "wikilink")（平成15年）[4月1日](../Page/4月1日.md "wikilink") - 子会社の関西チコマート株式会社を株式会社九九プラス関西に社名変更。
-  - [2004年](../Page/2004年.md "wikilink")（平成16年）[9月9日](../Page/9月9日.md "wikilink") - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に[上場](../Page/株式公開.md "wikilink")。
+
+<!-- end list -->
+
+  - [2004年](../Page/2004年.md "wikilink")（平成16年）
+      - 2月　新規出店300店舗達成
+      - 8月　新規出店400店舗達成\[10\]
+      - [9月9日](../Page/9月9日.md "wikilink") - [ジャスダック](https://ja.wikipedia.org/wiki/ジャスダック "wikilink")に[上場](../Page/株式公開.md "wikilink")。
+
+<!-- end list -->
+
+  - [2005年](../Page/2005年.md "wikilink")（平成17年）
+      - 1月　新規出店500店舗達成\[11\]
   - [2007年](../Page/2007年.md "wikilink")（平成19年）
       - [2月28日](../Page/2月28日.md "wikilink") - 株式会社[ローソン](../Page/ローソン.md "wikilink")と業務資本提携を発表。
       - [3月16日](../Page/3月16日.md "wikilink") - ローソンが[第三者割当増資](../Page/第三者割当増資.md "wikilink")を引き受け、第2位の大株主（20%）となる。
@@ -70,14 +90,14 @@
       - 6月25日 - ジャスダック取引終了。
       - 6月28日 - ジャスダック上場廃止。
       - [7月1日](../Page/7月1日.md "wikilink") - 株式交換によりローソンの完全子会社となる。
-  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月20日](../Page/7月20日.md "wikilink") - SHOP99が、全店「ローソンストア100」となる\[9\]。
+  - [2011年](../Page/2011年.md "wikilink")（平成23年）[7月20日](../Page/7月20日.md "wikilink") - SHOP99が、全店「ローソンストア100」となる\[12\]。
   - [2014年](../Page/2014年.md "wikilink")（平成26年）2月 - ローソンに吸収合併。株式会社九九プラスは解散。
 
 ## テーマソング
 
 店内[BGM](https://ja.wikipedia.org/wiki/BGM "wikilink")として流されるオリジナル[テーマソングがあった](../Page/コマーシャルソング.md "wikilink")。[作詞](../Page/作詞.md "wikilink")・[作曲](../Page/作曲.md "wikilink")は元親会社の[キョウデン](../Page/キョウデン.md "wikilink")グループ会長の[はしもとひろし](../Page/橋本ひろし.md "wikilink")、[編曲](../Page/編曲.md "wikilink")は[平家徹也](https://ja.wikipedia.org/wiki/平家徹也 "wikilink")、歌は[高橋ひろこ](https://ja.wikipedia.org/wiki/高橋ひろこ "wikilink")。
 
-[2004年](../Page/2004年.md "wikilink")（平成16年）に[CD](https://ja.wikipedia.org/wiki/CD "wikilink")が99円で店頭にて発売された。現在は同社サイトの[アーカイブでダウンロード可能](../Page/インターネットアーカイブ.md "wikilink")\[10\]。ちなみに、お笑い芸人の[増谷キートン](https://ja.wikipedia.org/wiki/増谷キートン "wikilink")がテーマソングとして使用している。
+[2004年](../Page/2004年.md "wikilink")（平成16年）に[CD](https://ja.wikipedia.org/wiki/CD "wikilink")が99円で店頭にて発売された。現在は同社サイトの[アーカイブでダウンロード可能](../Page/インターネットアーカイブ.md "wikilink")\[13\]。ちなみに、お笑い芸人の[増谷キートン](https://ja.wikipedia.org/wiki/増谷キートン "wikilink")がテーマソングとして使用している。
 
 CDが発売される前から「SHOP99テーマソング」が店内に流れていたが、同じ曲でも歌詞の出だし・メロディが一部異なっており、別の人物が歌っていた。
 
@@ -137,9 +157,12 @@ CDが発売される前から「SHOP99テーマソング」が店内に流れて
 2.  2014年3月31日までは105円、2019年9月30日までは108円
 3.  [株式会社ローソンと株式会社九九プラスの業務・資本提携に関するお知らせ](http://www.lawson.co.jp/company/news/012232/) ローソン ニュースリリース 2007年2月28日
 4.  [ローソン、ショップ99と資本・業務提携。低価格ショップの統合も視野](http://www.gamenews.ne.jp/archives/2007/03/99.html) Garbagenews.com 2007年3月01日
-5.  [統一PBブランド「VL」商品発売＆統合目指した試験店展開](http://web.archive.org/web/20080303035141/http://www.shop99.co.jp/whatsnew/backnumber/402.html) SHOP99 新着情報 2008年2月18日（同年3月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+5.  [統一PBブランド「VL」商品発売＆統合目指した試験店展開](https://web.archive.org/web/20080303035141/http://www.shop99.co.jp/whatsnew/backnumber/402.html) SHOP99 新着情報 2008年2月18日（同年3月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 6.
-7.  [SHOP99公式サイト「おしらせ」より](http://web.archive.org/web/20090225210810/http://www.shop99.co.jp/)（2009年2月25日時点のアーカイブ）
+7.  [SHOP99公式サイト「おしらせ」より](https://web.archive.org/web/20090225210810/http://www.shop99.co.jp/)（2009年2月25日時点のアーカイブ）
 8.  [ローソン、九九プラス完全子会社化への株式交換中止 | ビジネスニュース](http://jp.reuters.com/article/businessNews/idJPJAPAN-13802120100209) Reuters
-9.  [「SHOP99」は、「ローソンストア100」に生まれ変わりました！](http://store100.lawson.co.jp/shop99/index.html) ローソンストア100（「ローソンストア100」HOMEへのリンクはリンク切れ）
-10. [SHOP99テーマソング](http://web.archive.org/web/20090926141857/http://www.99plus.co.jp/shop99/fan/song.html)
+9.
+10.
+11.
+12. [「SHOP99」は、「ローソンストア100」に生まれ変わりました！](http://store100.lawson.co.jp/shop99/index.html) ローソンストア100（「ローソンストア100」HOMEへのリンクはリンク切れ）
+13. [SHOP99テーマソング](https://web.archive.org/web/20090926141857/http://www.99plus.co.jp/shop99/fan/song.html)

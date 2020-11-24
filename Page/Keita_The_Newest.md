@@ -73,7 +73,7 @@
 ## 外部リンク
 
   - [オフィシャルサイト](http://keitathenewest.com/)
-  - [MySpace](http://www.myspace.com/keitaspirits)
+  - [MySpace](https://myspace.com/keitaspirits)
   - [オフィシャルブログ](https://ameblo.jp/keitaspirits/)
   - [brainchild's オフィシャルサイト](http://www.brainchild-s.com/)
 

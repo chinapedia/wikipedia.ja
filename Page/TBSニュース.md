@@ -300,7 +300,7 @@
   - 平日：
       - [生島ヒロシのおはよう定食](../Page/生島ヒロシのおはよう定食.md "wikilink")内 5:02△
       - [生島ヒロシのおはよう一直線](https://ja.wikipedia.org/wiki/生島ヒロシのおはよう一直線 "wikilink")内 5:55（ローカル枠、交通情報含む）△
-      - [伊集院光とらじおと](https://ja.wikipedia.org/wiki/伊集院光とらじおと "wikilink")（月 - 木曜日） / [有馬隼人とらじおと山瀬まみと](https://ja.wikipedia.org/wiki/有馬隼人とらじおと山瀬まみと "wikilink")（金曜日）内 10:53\[4\]
+      - [伊集院光とらじおと](https://ja.wikipedia.org/wiki/伊集院光とらじおと "wikilink")（月 - 木曜日） / [金曜ボイスログ](https://ja.wikipedia.org/wiki/金曜ボイスログ "wikilink")（金曜日）内 10:53\[4\]
       - [ジェーン・スー 生活は踊る内](https://ja.wikipedia.org/wiki/ジェーン・スー_生活は踊る "wikilink") 11:49
       - [たまむすび](https://ja.wikipedia.org/wiki/たまむすび "wikilink")内 13:22、14:22\[5\]
       - [ACTION内](https://ja.wikipedia.org/wiki/ACTION_\(TBSラジオ\) "wikilink") 16:20\[6\]

@@ -17,7 +17,7 @@
 
 後に氷室はこのツアーのことを「アルバム1枚分しか自分のソロでの楽曲がなくて、それじゃステージが成立しないから、BOØWYの曲やカバー曲をセットリストに入れなきゃならなかったから\[1\]、その意味ではフラストレーションがあったね。また、BOØWY時代とは違う感じのステージにしたかったから、ダンサーを入れたりして試行錯誤をしていたのが今ステージをビデオで見ると解る。『この時は一生懸命やってるし、それはそれでいいんだけど、今見ると何やってんだろうな』と言う感じ（笑）」と語っている。
 
-この作品で[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")アルバム大賞を獲得。授賞式には本人が出席し、「[ANGEL](https://ja.wikipedia.org/wiki/ANGEL_\(氷室京介の曲\) "wikilink")」・「ALISON」を披露、また受賞の喜びを「このアルバムを作ることができたのは、スタッフ、ファン、そして、あとは俺の実力だと思ってます」とコメントした。これにより氷室は。
+この作品で[第30回日本レコード大賞](https://ja.wikipedia.org/wiki/第30回日本レコード大賞 "wikilink")アルバム大賞を獲得。授賞式には本人が出席し、「[ANGEL](https://ja.wikipedia.org/wiki/ANGEL_\(氷室京介の曲\) "wikilink")」・「ALISON」を披露、また受賞の喜びを「このアルバムを作ることができたのは、スタッフ、ファン、そして、あとは俺の実力だと思ってます」とコメントした。これにより氷室は久々に公の場に姿を現した。
 
 ## 収録曲
 
@@ -47,8 +47,7 @@
         「BOØWY時代に氷室が行っていた楽曲の製作方法をソロで行うとどういう楽曲になるか」というコンセプトで作られた楽曲。
 8.  **TASTE OF MONEY**
       -
-
-        。
+        2003年頃までのライヴでは多く演奏されていた。
 9.  **STRANGER**
       -
         本人曰く、「夢を見ているヤツらに送るのが『DREAMIN'』、ないヤツらに送るのが『STRANGER』」とのこと。
@@ -58,20 +57,19 @@
 
 ## ライブ映像作品
 
-**ANGEL**
-
-  - **[KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS](https://ja.wikipedia.org/wiki/KING_OF_ROCK_SHOW_of_88'S-89'S_TURNING_PROCESS "wikilink")**
+  - ANGEL
 
 <!-- end list -->
 
-  - **[NEO FASCIO TURNING POINT](https://ja.wikipedia.org/wiki/NEO_FASCIO_TURNING_POINT "wikilink")**
+  - [KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS](https://ja.wikipedia.org/wiki/KING_OF_ROCK_SHOW_of_88'S-89'S_TURNING_PROCESS "wikilink")
+  - [NEO FASCIO TURNING POINT](https://ja.wikipedia.org/wiki/NEO_FASCIO_TURNING_POINT "wikilink")
   - Birth of Lovers
   - OVER SOUL MATRIX
   - LIVE AT THE TOKYO DOME SHAKE THE FAKE TOUR
   - The one night stands - tour "Collective Souls" 1998
   - Digital BeatNix Tower
   - 20th ANNIVERSARY TOUR 2008 JUST MOVIN' ON -MORAL〜PRESENT-
-  - L’EGOISTE
+  - L'EGOISTE
   - 20th Anniversary TOUR 2008 JUST MOVIN' ON -MORAL〜PRESENT- Special Live at the BUDOKAN
   - SPECIAL GIGS THE BORDERLESS FROM BOØWY TO HIMURO
   - COUNTDOWN LIVE CROSSOVER 12-13
@@ -81,20 +79,28 @@
   - KYOSUKE HIMURO LAST GIGS
   - KYOSUKE HIMURO THE COMPLETE FILM OF LAST GIGS
 
-**ROXY**
+<!-- end list -->
+
+  - ROXY
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - Birth of Lovers
-  - **[CASE OF HIMURO 15th Anniversary Special LIVE](https://ja.wikipedia.org/wiki/CASE_OF_HIMURO_15th_Anniversary_Special_LIVE "wikilink")**
+  - [CASE OF HIMURO 15th Anniversary Special LIVE](https://ja.wikipedia.org/wiki/CASE_OF_HIMURO_15th_Anniversary_Special_LIVE "wikilink")
   - KYOSUKE HIMURO TOUR 2003 "HIGHER THAN HEAVEN"AT YOYOGI NATIONAL STADIUM
-  - 21st Century Boøwys vs Himuro \~An Attempt to Discover New Truths\~
+  - 21st Century Boøwys vs Himuro 〜An Attempt to Discover New Truths〜
   - SOUL STANDING BY〜
   - KYOSUKE HIMURO COUNTDOWN LIVE CROSSOVER 05-06 1st STAGE/2nd STAGE
   - SPECIAL GIGS THE BORDERLESS FROM BOØWY TO HIMURO
   - KYOSUKE HIMURO LAST GIGS
   - KYOSUKE HIMURO THE COMPLETE FILM OF LAST GIGS
 
-**LOVE & GAME**
+<!-- end list -->
+
+  - LOVE & GAME
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - Birth of Lovers
@@ -105,14 +111,18 @@
   - KYOSUKE HIMURO TOUR 2003 "HIGHER THAN HEAVEN"AT YOYOGI NATIONAL STADIUM
   - KYOSUKE HIMURO TOUR 2007"IN THE MOOD"
   - 20th ANNIVERSARY TOUR 2008 JUST MOVIN' ON -MORAL〜PRESENT-
-  - L’EGOISTE
+  - L'EGOISTE
   - 20th Anniversary TOUR 2008 JUST MOVIN' ON -MORAL〜PRESENT- Special Live at the BUDOKAN
   - KYOSUKE HIMURO COUNTDOWN LIVE CROSSOVER 05-06 1st STAGE/2nd STAGE
   - SPECIAL GIGS THE BORDERLESS FROM BOØWY TO HIMURO
   - KYOSUKE HIMURO 25th Anniversary TOUR GREATEST ANTHOLOGY -NAKED-FINAL DESTINATION DAY-01
   - KYOSUKE HIMURO 25th Anniversary TOUR GREATEST ANTHOLOGY -NAKED-FINAL DESTINATION DAY-02
 
-**DEAR ALGERNON**
+<!-- end list -->
+
+  - DEAR ALGERNON
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - NEO FASCIO TURNING POINT
@@ -123,7 +133,11 @@
   - KYOSUKE HIMURO 25th Anniversary TOUR GREATEST ANTHOLOGY -NAKED-FINAL DESTINATION DAY-01
   - KYOSUKE HIMURO 25th Anniversary TOUR GREATEST ANTHOLOGY -NAKED-FINAL DESTINATION DAY-02
 
-**SEX & CLASH & ROCK'N'ROLL**
+<!-- end list -->
+
+  - SEX & CLASH & ROCK'N'ROLL
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - NEO FASCIO TURNING POINT
@@ -133,23 +147,35 @@
   - Digital BeatNix Tower
   - CASE OF HIMURO 15th Anniversary Special LIVE
   - KYOSUKE HIMURO TOUR 2003 "HIGHER THAN HEAVEN"AT YOYOGI NATIONAL STADIUM
-  - L’EGOISTE
+  - L'EGOISTE
   - KYOSUKE HIMURO LAST GIGS
   - KYOSUKE HIMURO THE COMPLETE FILM OF LAST GIGS
 
-**ALISON**
+<!-- end list -->
+
+  - ALISON
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - NEO FASCIO TURNING POINT
   - LIVE AT THE TOKYO DOME SHAKE THE FAKE TOUR
   - CASE OF HIMURO 15th Anniversary Special LIVE
 
-**SHADOW BOXER**
+<!-- end list -->
+
+  - SHADOW BOXER
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - KYOSUKE HIMURO COUNTDOWN LIVE CROSSOVER 05-06 1st STAGE/2nd STAGE
 
-**TASTE OF MONEY**
+<!-- end list -->
+
+  - TASTE OF MONEY
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - NEO FASCIO TURNING POINT
@@ -160,12 +186,16 @@
   - CASE OF HIMURO 15th Anniversary Special LIVE
   - KYOSUKE HIMURO TOUR 2003 "HIGHER THAN HEAVEN"AT YOYOGI NATIONAL STADIUM
   - SOUL STANDING BY〜
-  - L’EGOISTE
+  - L'EGOISTE
   - KYOSUKE HIMURO COUNTDOWN LIVE CROSSOVER 05-06 1st STAGE/2nd STAGE
   - KYOSUKE HIMURO TOUR2010-11 BORDERLESS 50×50 ROCK’N’ROLL SUICIDE
   - KYOSUKE HIMURO TOUR2010-11 BORDERLESS 50×50 ROCK’N’ROLL SUICIDE at BUDOKAN
 
-**STRANGER**
+<!-- end list -->
+
+  - STRANGER
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
   - LIVE AT THE TOKYO DOME SHAKE THE FAKE TOUR
@@ -173,7 +203,11 @@
   - KYOSUKE HIMURO TOUR 2007"IN THE MOOD"
   - KYOSUKE HIMURO COUNTDOWN LIVE CROSSOVER 05-06 1st STAGE/2nd STAGE
 
-**独りファシズム**
+<!-- end list -->
+
+  - 独りファシズム
+
+<!-- end list -->
 
   - KING OF ROCK SHOW of 88'S-89'S TURNING PROCESS
 

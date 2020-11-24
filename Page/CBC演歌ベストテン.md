@@ -35,4 +35,4 @@
 
   - [CBC演歌ベストテン](http://hicbc.com/radio/enka/)
 
-[Category:CBCラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:演歌](https://ja.wikipedia.org/wiki/Category:演歌 "wikilink")
+[Category:CBCラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:演歌番組](https://ja.wikipedia.org/wiki/Category:演歌番組 "wikilink")

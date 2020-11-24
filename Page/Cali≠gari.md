@@ -697,7 +697,7 @@ DVD 『カメラ オブツカイステ』発売。
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルーフィルム_2nd" title="wikilink">ブルーフィルム 2nd</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/カリガリじゃないじゃない" title="wikilink">カリガリじゃないじゃない</a>(T_T)</p></td>
+<td><p>カリガリじゃないじゃない(T_T)</p></td>
 </tr>
 <tr class="even">
 <td><p>メジャー</p></td>
@@ -715,30 +715,6 @@ DVD 『カメラ オブツカイステ』発売。
 <td><p><a href="https://ja.wikipedia.org/wiki/グッド、バイ。" title="wikilink">グッド、バイ。</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>インディーズ（復活以降）</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/再教育_改訂版" title="wikilink">再教育 改訂版</a></p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/1_(cali≠gariのアルバム)" title="wikilink">1</a></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/2_(cali≠gariのアルバム)" title="wikilink">2</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>3</p></td>
-</tr>
-<tr class="even">
-<td><p>4</p></td>
-</tr>
-<tr class="odd">
-<td><p>14</p></td>
-</tr>
-<tr class="even">
-<td><p>メジャー（復活以降）</p></td>
-</tr>
-<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/カリ≠ガリの世界" title="wikilink">カリ≠ガリの世界</a></p></td>
 </tr>
 <tr class="even">
@@ -748,18 +724,63 @@ DVD 『カメラ オブツカイステ』発売。
 <td><p><a href="https://ja.wikipedia.org/wiki/≠_(cali≠gariのアルバム)" title="wikilink">≠（ジュウイチジャナイ）</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/11_(cali≠gariのアルバム)" title="wikilink">11</a></p></td>
+<td><p>インディーズ</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/12_(cali≠gariのアルバム)" title="wikilink">12</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/再教育_改訂版" title="wikilink">再教育 改訂版</a></p></td>
+</tr>
+<tr class="even">
+<td><p>メジャー</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+</tr>
+<tr class="even">
+<td><p>インディーズ</p></td>
+</tr>
+<tr class="odd">
+<td><p>1</p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+</tr>
+<tr class="odd">
+<td><p>メジャー</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p>インディーズ</p></td>
+</tr>
+<tr class="even">
+<td><p>憧憬、睡蓮と向日葵</p></td>
+</tr>
+<tr class="odd">
+<td><p>メジャー</p></td>
 </tr>
 <tr class="even">
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
-<td><p>この雨に撃たれて</p></td>
+<td><p>インディーズ</p></td>
 </tr>
 <tr class="even">
+<td><p>3</p></td>
+</tr>
+<tr class="odd">
+<td><p>4</p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+</tr>
+<tr class="odd">
+<td><p>メジャー</p></td>
+</tr>
+<tr class="even">
+<td><p>この雨に撃たれて</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 </tr>
 </tbody>

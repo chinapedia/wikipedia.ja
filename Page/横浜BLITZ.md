@@ -5,7 +5,7 @@
 
 ## 概要
 
-東京放送（現：[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂の自社保有地内にて](../Page/赤坂_\(東京都港区\).md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")を運営していたが、[赤坂サカス](../Page/赤坂サカス.md "wikilink")再開発事業により[2003年](../Page/2003年.md "wikilink")に閉鎖となったため、再開発工事期間中の代替施設として開業したのが本施設である。
+東京放送（現：[TBSホールディングス](https://ja.wikipedia.org/wiki/TBSホールディングス "wikilink")）は、[東京都](../Page/東京都.md "wikilink")[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[赤坂の自社保有地内にて](../Page/赤坂_\(東京都港区\).md "wikilink")[赤坂BLITZ](../Page/赤坂BLITZ.md "wikilink")を運営していたが、[赤坂サカス](../Page/赤坂サカス.md "wikilink")再開発事業により[2003年](../Page/2003年.md "wikilink")に閉鎖となったため、再開発工事期間中の代替施設として開業したのが本施設である。
 
 [2004年](../Page/2004年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink")にオープン。[杮落し](https://ja.wikipedia.org/wiki/杮落し "wikilink")は、[PaniCrew](../Page/PaniCrew.md "wikilink")のライブである（ちなみに、オープン直前の[11月7日](../Page/11月7日.md "wikilink")に[木村カエラ](https://ja.wikipedia.org/wiki/木村カエラ "wikilink")CD発売イベントが行われた）。赤坂BLITZ時代に続いて、[アサヒビール](../Page/アサヒビール.md "wikilink")がサポートを行っている。
 

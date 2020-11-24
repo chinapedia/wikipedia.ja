@@ -12,7 +12,7 @@
   - [南こうせつ](https://ja.wikipedia.org/wiki/南こうせつ "wikilink") - 星のみちくさ帰り道（[1979年](../Page/1979年.md "wikilink")10月 - 1980年3月）
   - [山口百恵](../Page/山口百恵.md "wikilink") - 夢のあとさき　（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")4月 - 1980年10月）
   - [郷ひろみ](../Page/郷ひろみ.md "wikilink") - とびきりグッドラック\!　（1980年10月 - 1981年3月）
-  - [松田聖子](../Page/松田聖子.md "wikilink") - 夢で逢えたら　（[1981年](../Page/1981年.md "wikilink")4月 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月）
+  - [松田聖子](../Page/松田聖子.md "wikilink") - 夢で逢えたら　（[1981年](../Page/1981年.md "wikilink")4月 - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")3月）オープニング曲　Only My Love　アルバム『North Wind』（ノース・ウィンド）より　エンディング曲　潮騒　アルバム『SQUALL』（スコール）より
   - [川島なお美](../Page/川島なお美.md "wikilink") - 恋のサウンドグラフィティ　（1983年4月 - [1984年](../Page/1984年.md "wikilink")9月）
   - [菊池桃子](../Page/菊池桃子.md "wikilink") - 桃子と少し夜更かし　（1984年10月 - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")3月）
   - [松本典子](../Page/松本典子.md "wikilink") - ひみつのエアメール　（1985年4月 - [1986年](../Page/1986年.md "wikilink")3月）

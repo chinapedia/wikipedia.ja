@@ -126,7 +126,7 @@ Peer to Peerで通信を行うため、[ルーター](../Page/ルーター.md "w
   -
   - [PeerCastStation 公式サイト](http://www.pecastation.org/)
 
-[Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:インターネットラジオ局](https://ja.wikipedia.org/wiki/Category:インターネットラジオ局 "wikilink")
+[Category:P2P](https://ja.wikipedia.org/wiki/Category:P2P "wikilink") [Category:インターネットラジオ局](https://ja.wikipedia.org/wiki/Category:インターネットラジオ局 "wikilink") [Category:オープンソース](https://ja.wikipedia.org/wiki/Category:オープンソース "wikilink") [Category:クロスプラットフォームのソフトウェア](https://ja.wikipedia.org/wiki/Category:クロスプラットフォームのソフトウェア "wikilink") [Category:Windowsのソフトウェア](https://ja.wikipedia.org/wiki/Category:Windowsのソフトウェア "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink") [Category:Linuxのソフトウェア](https://ja.wikipedia.org/wiki/Category:Linuxのソフトウェア "wikilink")
 
 1.
 2.

@@ -316,6 +316,8 @@ __TOC__{{-}}
 
 :\* 雲州候 - 高橋仁
 
+:\* お新 - 灘陽子
+
 </div>
 
 <div style="float: left; width: 20em;">
@@ -508,7 +510,7 @@ __TOC__{{-}}
 
 :\* お品 - [大塚良重](../Page/大塚良重.md "wikilink")
 
-:\* 丁子屋仙蔵 - [黒部進](../Page/黒部進.md "wikilink")
+:\* 丁字屋仙蔵 - [黒部進](../Page/黒部進.md "wikilink")
 
 :\* 根岸左太夫 - [岩尾正隆](../Page/岩尾正隆.md "wikilink")
 

@@ -634,7 +634,7 @@ Welcome to at Rie TOUR 2013
 
   - [公式ブログ「Rie fuのfuはfunakoshiのfuです」](https://ameblo.jp/riefu-blog/)
 
-  - [旧公式ブログ「りえふぅきのこ」](http://blog.excite.co.jp/riefublog/) （2006年4月～2010年2月）
+  - [旧公式ブログ「りえふぅきのこ」](https://blog.excite.co.jp/riefublog/) （2006年4月～2010年2月）
 
   - （2005年8月～2006年4月）
 

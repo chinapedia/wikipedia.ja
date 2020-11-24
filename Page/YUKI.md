@@ -12,7 +12,7 @@
   - YUKI - [大阪パフォーマンスドール](../Page/大阪パフォーマンスドール.md "wikilink")の[武内由紀子](../Page/武内由紀子.md "wikilink")がソロ活動に際し使用した呼称。
   - YUKI - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")の初代ヴォーカル。
   - ユキ または YUKI - 元[YeLLOW Generationのメンバー](../Page/YeLLOW_Generation.md "wikilink")。
-  - YUKI または 由紀 - 元[Whiteberry](../Page/Whiteberry.md "wikilink")のヴォーカル。
+  - [YUKI](../Page/前田由紀.md "wikilink") または [由紀](../Page/前田由紀.md "wikilink") または [前田由紀](../Page/前田由紀.md "wikilink") または [前田有嬉](../Page/前田由紀.md "wikilink") - 元[Whiteberry](../Page/Whiteberry.md "wikilink")のヴォーカル。
   - YUKI - 元[Λucifer](../Page/Λucifer.md "wikilink")のギター、現[DUSTAR-3](https://ja.wikipedia.org/wiki/DUSTAR-3 "wikilink")のギター&ヴォーカル。男性。本名は[結城雅彦](https://ja.wikipedia.org/wiki/結城雅彦 "wikilink")
   - YUKI または [徐懐鈺](../Page/徐懐鈺.md "wikilink") - [台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")の女性歌手。
   - YUKI - [Versaillesのドラマー](../Page/Versailles_\(バンド\).md "wikilink")。
@@ -51,5 +51,6 @@
 
   - [ユウキ (曖昧さ回避)](https://ja.wikipedia.org/wiki/ユウキ_\(曖昧さ回避\) "wikilink")
   - [ゆき (曖昧さ回避)](https://ja.wikipedia.org/wiki/ゆき_\(曖昧さ回避\) "wikilink")
+  - [雪 (曖昧さ回避)](https://ja.wikipedia.org/wiki/雪_\(曖昧さ回避\) "wikilink")
 
 [Category:日本語の個人名のローマ字表記](https://ja.wikipedia.org/wiki/Category:日本語の個人名のローマ字表記 "wikilink")

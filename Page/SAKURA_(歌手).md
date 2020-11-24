@@ -845,6 +845,7 @@
 
   - [Def Tech](https://ja.wikipedia.org/wiki/Def_Tech "wikilink")「いのり Feat. SAKURA」（2006年7月17日、DVD）
   - [Taiji All Stars](../Page/Taiji_All_Stars.md "wikilink")「Star Navigation feat.SAKURA」（2006年11月29日、シングル「君が笑う方へ feat.bird/Star Navigation feat.SAKURA」収録）（2007年2月21日、アルバム『FEMME FATALE』収録）
+  - 「ロックンロール・ウィドウ」(2004年5月19日、オムニバスアルバム「山口百恵トリビュート Thank You For...」収録)
 
 ### 映像作品
 

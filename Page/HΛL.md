@@ -5,7 +5,7 @@
 
 ## 概要
 
-主に歌手やアーティスト楽曲の作曲、編曲、サウンド・プロデュースを担当する他、アニメ・ゲームの主題歌やBGMなども手掛けるサウンドクリエイターチーム。有限会社ナッツ代表取締役社長の[梅崎俊春](https://ja.wikipedia.org/wiki/梅崎俊春 "wikilink")を中心として\[1\]、メンバーや形態は何度か変わっている。現在は梅崎のソロ名義としても使われている。
+主に歌手やアーティスト楽曲の作曲、編曲、サウンド・プロデュースを担当する他、アニメ・ゲームの主題歌や映画のBGMなども手掛けるサウンドクリエイターチーム。有限会社ナッツ代表取締役社長の[梅崎俊春](https://ja.wikipedia.org/wiki/梅崎俊春 "wikilink")を中心として\[1\]、メンバーや形態は何度か変わっている。現在は梅崎のソロ名義としても使われている。サザンオールスターズや藤井フミヤなど数々の有名人の編曲を手がけ、日本レコード大賞編曲賞を受賞した実績もある。
 
 ## メンバー
 
@@ -103,25 +103,61 @@
 
   - [朝日奈夕子](https://ja.wikipedia.org/wiki/朝日奈夕子 "wikilink")（[鉄炮塚葉子](../Page/鉄炮塚葉子.md "wikilink")）
       - 愛につかまらないで（作曲）\[2\]
+  - [跡部景吾](https://ja.wikipedia.org/wiki/テニスの王子様の登場人物 "wikilink")
+      - JETドライブ（作曲）
+  - [ALvino](../Page/ALvino.md "wikilink")
+      - Close to you（編曲：A.v.nと共作）
+  - [アンルイス](../Page/アン・ルイス.md "wikilink")（シンセサイザー、プログラミング）
+  - [泉谷しげる](../Page/泉谷しげる.md "wikilink")（シンセサイザー、プログラミング）
   - [伊藤由奈](https://ja.wikipedia.org/wiki/伊藤由奈 "wikilink")
       - ENDLESS STORY（編曲）
+      - Truth（編曲）
+  - [今井美樹](../Page/今井美樹.md "wikilink")
+      - PRIDE（シンセサイザー、プログラミング）
+  - [稲村ジェーン](../Page/稲村ジェーン.md "wikilink")（シンセサイザー、プログラミング）
   - いもうと
       - 妹（編曲）
+  - [Wink](../Page/Wink.md "wikilink")
+      - [Sexy Music](https://ja.wikipedia.org/wiki/Sexy_Music "wikilink") （シンセサイザー、プログラミング）
+  - [VIC:CESS](https://ja.wikipedia.org/wiki/VIC:CESS "wikilink")
+      - Brand new world（作曲）
   - [Every Little Thing](../Page/Every_Little_Thing.md "wikilink")
-      - Grip\!（編曲）
+      - [Grip\!](../Page/Grip!.md "wikilink")（編曲）
+      - [Over and Over](../Page/Over_and_Over.md "wikilink")（シンセサイザー、プログラミング）
+      - [今でも…あなたが好きだから](https://ja.wikipedia.org/wiki/今でも…あなたが好きだから "wikilink")（シンセサイザー、プログラミング）
   - [上戸彩](https://ja.wikipedia.org/wiki/上戸彩 "wikilink")
       - MESSAGE（作曲）
       - Steppin' Out（作曲・編曲）
+  - [うしろ髪ひかれ隊](../Page/うしろ髪ひかれ隊.md "wikilink")（シンセサイザー、プログラミング）
+  - [内博貴](../Page/内博貴.md "wikilink")
+      - 3ピース（作曲）
+  - [右手愛美](../Page/右手愛美.md "wikilink")
+      - GO-GO-FIGHTEEN\!（作曲）
+  - [大原さやか](../Page/大原さやか.md "wikilink")
+      - スカーレット（作曲）
+  - [織田裕二](../Page/織田裕二.md "wikilink")（シンセサイザー、プログラミング）
+  - 音妃（シンセサイザー、プログラミング）
+  - [KATSUMI](../Page/KATSUMI.md "wikilink") （シンセサイザー、プログラミング）
+  - [かとうれいこ](../Page/かとうれいこ.md "wikilink")（シンセサイザー、プログラミング）
   - [KΛNΛ](https://ja.wikipedia.org/wiki/KΛNΛ "wikilink")
       - reason（編曲）
+      - SYMPATHY（作曲）
+      - IS THIS LOVE？（作曲）
+      - NO NAME（作曲）
   - [川嶋あい](https://ja.wikipedia.org/wiki/川嶋あい "wikilink")
       - Dear（編曲）
       - 季節の旅人（編曲）
   - 川村知砂
       - Snow\&Loving Paradise（作曲）
+  - [キュアリズム](https://ja.wikipedia.org/wiki/キュアリズム "wikilink")（CV：折笠富美子）
+      - ファンタスティック・メッセージ（作曲）（アニメ「[スイートプリキュア♪](https://ja.wikipedia.org/wiki/スイートプリキュア♪ "wikilink")」）
   - [King\&President](../Page/King&President.md "wikilink")
       - 社長やっちゃったよ（作曲・編曲）
       - 論拠を示せ（作曲・編曲）
+  - [キングコング梶原](../Page/梶原雄太.md "wikilink")
+      - NEW HORISON～戦え！星の戦士たち～（作曲）
+  - [金月真美](../Page/金月真美.md "wikilink")
+      - HERE（作曲）
   - [キンヤ](https://ja.wikipedia.org/wiki/キンヤ "wikilink")
       - [BLAZE](https://ja.wikipedia.org/wiki/BLAZE_\(キンヤの曲\) "wikilink")（編曲）
       - [Refraction](https://ja.wikipedia.org/wiki/BLAZE_\(キンヤの曲\) "wikilink")（作詞・作曲・編曲）
@@ -129,8 +165,16 @@
       - [Season](https://ja.wikipedia.org/wiki/aerial "wikilink")（作曲・編曲）
   - [KinKi Kids](../Page/KinKi_Kids.md "wikilink")
       - フラワー（作詞・作曲）（作曲：音妃と共作）
+      - 罪と罰（作曲）
+      - blue new moon （編曲）
+  - [国武万里](../Page/国武万里.md "wikilink")
+      - [ポケベルが鳴らなくて](https://ja.wikipedia.org/wiki/ポケベルが鳴らなくて_\(曲\) "wikilink")（シンセサイザー、プログラミング）
+  - [工藤静香](../Page/工藤静香.md "wikilink")（シンセサイザー、プログラミング）
+  - KEi
+      - ミライCool\!\!（編曲）
   - ケリー・チャン
       - Transformation（編曲）
+  - [小泉今日子](https://ja.wikipedia.org/wiki/小泉今日子 "wikilink")（シンセサイザー、プログラミング）
   - [後藤沙緒里](../Page/後藤沙緒里.md "wikilink")
       - 君のカケラ（作曲・編曲）
       - キミといる今（作曲・編曲）
@@ -139,8 +183,51 @@
       - [FIGHT OR FLIGHT](https://ja.wikipedia.org/wiki/FIGHT_OR_FLIGHT_\(小林ゆうの曲\) "wikilink")（編曲）
       - Overheat〜変りゆく瞬間〜（作曲・編曲）
       - 真っさらな天使（作曲・編曲）
+      - YOU\&U（作曲）
+      - ミックスジュースDEマックスパワー（作曲）
+      - 赤いチャペル（作曲）
+      - 絶望に咲く花（作曲）
+      - 素直な気持ち（作曲）
+      - 約束（作曲）
+      - ROCK YU\!\!（作曲）
+      - BLACK EYES（作曲）
+      - 紅い月（作曲）
+      - MY FRIEND（作曲）
   - 小坂りゆ
       - Baby's Tears（編曲）
+  - [CoCo](../Page/CoCo_\(アイドルグループ\).md "wikilink")（シンセサイザー、プログラミング）
+  - Cocco（シンセサイザー、プログラミング）
+  - [小林武史](../Page/小林武史.md "wikilink")
+      - テスタ・ロッサ（シンセサイザー、プログラミング）
+  - [近藤真彦](../Page/近藤真彦.md "wikilink")
+      - 心ざんばら（作曲）
+  - [COMPLEX](../Page/COMPLEX.md "wikilink")
+      - [ROMANTIC 1990](../Page/ROMANTIC_1990.md "wikilink")（シンセサイザー、プログラミング）
+
+<!-- end list -->
+
+  - [SiAM\&POPTUNe](https://ja.wikipedia.org/wiki/SiAM&POPTUNe "wikilink")
+      - ラヴカーニバル（楽曲プロデュース）
+      - ミラクル☆→ハッピーチューン（楽曲プロデュース）
+      - Movin’on 未来（楽曲プロデュース）
+      - Step By Step（楽曲プロデュース）
+      - ヒロイン革命（楽曲プロデュース）
+      - 発展上昇MAP（楽曲プロデュース）
+      - ツギ×ハギ メーカー（楽曲プロデュース）
+      - spiral×future=butterfly（楽曲プロデュース）
+      - サンシャイン\!（楽曲プロデュース）
+      - 君色サイダー（楽曲プロデュース）
+      - BELIEVE（楽曲プロデュース）
+      - brisk start（楽曲プロデュース）
+  - [櫻川めぐ](https://ja.wikipedia.org/wiki/櫻川めぐ "wikilink")
+      - REVIVE（作曲）（「[fortissimo EXS//Akkord:nachsten Phase](https://ja.wikipedia.org/wiki/Fortissimo/Akkord:Bsusvier "wikilink")」テーマ曲）
+  - [サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")
+      - みんなのうた（シンセサイザー、プログラミング）
+  - [佐橋佳幸](../Page/佐橋佳幸.md "wikilink")
+      - TRUST ME（シンセサイザー、プログラミング）
+  - [THE STAR CLUB](../Page/THE_STAR_CLUB.md "wikilink")（シンセサイザー、プログラミング）
+  - [THE BOOM](../Page/THE_BOOM.md "wikilink")＆矢野顕子
+      - [釣りに行こう](../Page/釣りに行こう.md "wikilink")（シンセサイザー、プログラミング）
   - [Janne Da Arc](../Page/Janne_Da_Arc.md "wikilink")
       - Mysterious（編曲）
   - [少年隊](../Page/少年隊.md "wikilink")
@@ -158,32 +245,64 @@
       - Thriller in the night（作詞・作曲）
       - Celebration（作詞・作曲）
       - Destiny（作曲）
-  - 須藤あきら
+  - [JILL](../Page/JILL.md "wikilink")（シンセサイザー、プログラミング）
+  - [須藤あきら](https://ja.wikipedia.org/wiki/須藤あきら "wikilink")
       - Blue Confusion（編曲）
   - [鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")
       - To be Free（編曲）
       - Alright\!（編曲）
-  - 辻本夏実 & 小早川美幸
-      - Get a chance（作曲・編曲）
-      - STARTしよう（作曲・編曲）
-      - Way alone（作曲・編曲）
+  - [鈴木聖美](../Page/鈴木聖美.md "wikilink")（シンセサイザー、プログラミング）
+  - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink")（シンセサイザー、プログラミング）
+  - [聖Smiley学園](https://ja.wikipedia.org/wiki/聖Smiley学園 "wikilink") 修学旅行inLA③
+      - Logistics（作曲）
+  - DΛiSY
+      - In My Dream（プロデュース）
+      - いんじゃない！？（プロデュース）
+      - everything（プロデュース）
+      - Power Of The NAIL（プロデュース）
+  - [武田真司](../Page/武田真治.md "wikilink")（シンセサイザー、プログラミング）
+  - [高橋克典](../Page/高橋克典.md "wikilink")（シンセサイザー、プログラミング）
+  - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
+      - あるがまま（作曲・編曲）
+  - [立花理佐](https://ja.wikipedia.org/wiki/立花理香 "wikilink")
+      - [リサの妖精伝説](https://ja.wikipedia.org/wiki/リサの妖精伝説_\(シングル\) "wikilink")（『ビー・バップ・ハイスクール 高校与太郎音頭』主題歌）（シンセサイザー、プログラミング）
   - [タッキー&翼](../Page/タッキー&翼.md "wikilink")
       - To be, or not to be（編曲）
       - カミラ◆タマラ（編曲）
-  - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")
-      - あるがまま（作曲・編曲）
   - [玉置成実](../Page/玉置成実.md "wikilink")
       - Long Way Behind（編曲）
       - Prayer（編曲）
       - Destiny（編曲）
-  - 月森蓮･火原和樹･志水桂一･柚木梓馬･金澤紘人･土浦梁太郎･王崎信武（[金色のコルダ 〜primo passo〜](../Page/金色のコルダ.md "wikilink")）
+  - [月森蓮](https://ja.wikipedia.org/wiki/月森蓮 "wikilink")･火原和樹･志水桂一･柚木梓馬･金澤紘人･土浦梁太郎･王崎信武（[金色のコルダ 〜primo passo〜](../Page/金色のコルダ.md "wikilink")）
       - 君に捧げるHarmony（作曲・編曲）
+  - [辻本夏実](https://ja.wikipedia.org/wiki/辻本夏実 "wikilink")
+      - WAY ALONE（作曲）（アニメ「[逮捕しちゃうぞ](../Page/逮捕しちゃうぞ_\(アニメ\).md "wikilink")」）
+  - 辻本夏実 & 小早川美幸
+      - Get a chance（作曲・編曲）
+      - STARTしよう（作曲・編曲）
+      - Way alone（作曲・編曲）
+  - [TETSU69](../Page/Tetsuya.md "wikilink")（[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink")の[ベーシスト](../Page/ベーシスト.md "wikilink")）
+      - [蜃気楼](../Page/蜃気楼_\(TETSU69の曲\).md "wikilink")（シンセサイザー、プログラミング）
   - [dream](https://ja.wikipedia.org/wiki/Dream_\(歌手グループ\) "wikilink")（3人）
       - w・h・y（編曲）
       - brave（編曲）
       - destine（編曲）
       - SUBPAIN（作曲・編曲）
       - SINCERELY -ever dream-（編曲）
+  - [とんねるず](../Page/とんねるず.md "wikilink")（シンセサイザー、プログラミング）
+  - [ナースエンジェルス](../Page/ナースエンジェルりりかSOS.md "wikilink")
+      - FALLEN ANGELS（作曲）（アニメ「イケメン救護隊 ナースエンジェルス」）
+  - [長嶋はるか](https://ja.wikipedia.org/wiki/長嶋はるか "wikilink")
+      - 虹のラプソディー（作曲）（テレビ東京「[アニソンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")」）
+  - [長渕剛](../Page/長渕剛.md "wikilink") （シンセサイザー、プログラミング）
+  - [中森明菜](https://ja.wikipedia.org/wiki/中森明菜 "wikilink")（シンセサイザー、プログラミング）
+  - [中山忍](https://ja.wikipedia.org/wiki/中山忍 "wikilink")（シンセサイザー、プログラミング）
+  - [HOUND DOG](../Page/HOUND_DOG.md "wikilink")（シンセサイザー、プログラミング）
+  - [長谷川唯](../Page/長谷川唯_\(声優\).md "wikilink")
+      - 夏恋（作曲）
+      - WHAT HAPPEND?（作曲）
+  - [花岡なつみ](https://ja.wikipedia.org/wiki/花岡なつみ "wikilink")
+      - Birthday（編曲）
   - [浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")
       - appears（編曲）
       - immature（編曲）
@@ -232,24 +351,49 @@
       - NEXT LEVEL （編曲）
       - Pieces of SEVEN （作曲・編曲）
       - You were...（編曲）
+  - [ＨΛＬＮＡ](../Page/HΛLNA.md "wikilink")
+      - DO OVER AGAIN（作曲）
+  - [パラレルドリーム](https://ja.wikipedia.org/wiki/パラレルドリーム "wikilink")
+      - TO WISH（作曲、楽曲プロデュース）
+      - Fight Victory（作曲、楽曲プロデュース）
+      - ドライブin信州（作曲、楽曲プロデュース）
+      - I LOVE 長野（編曲、楽曲プロデュース）
+      - ONE SOUL（編曲、楽曲プロデュース）
+      - もっと\!MOTTO\!（編曲、楽曲プロデュース）
+      - プリムラ（編曲、楽曲プロデュース）
+      - ホシノカケラ（編曲、楽曲プロデュース）
+      - 弾丸ドリーマー（編曲、楽曲プロデュース）
+      - ロマンティックスノウ（編曲、楽曲プロデュース）
+      - 祭りんぐ（編曲、楽曲プロデュース）
   - [引田香織](../Page/引田香織.md "wikilink")
       - 笑顔の訳（編曲）
+  - [hitomi](https://ja.wikipedia.org/wiki/hitomi "wikilink") （シンセサイザー、プログラミング）
   - [BeForU](../Page/BeForU.md "wikilink")
       - KI·SE·KI（編曲）
-  - 福井麻利子
+  - [PIERROT](https://ja.wikipedia.org/wiki/PIERROT "wikilink")（シンセサイザー、プログラミング）
+  - [福井麻利子](https://ja.wikipedia.org/wiki/福井麻利子 "wikilink")
       - Love Somebody（作曲・編曲）
       - わかってないね（編曲）
-  - Little Voice
-      - Count down（編曲）
+  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")（シンセサイザー、プログラミング）
+  - 舞台「タンブリング」
+      - GOLD（作曲）
+  - [FAIRCHILD](../Page/FAIRCHILD_\(バンド\).md "wikilink")（シンセサイザー、プログラミング）
+  - [Ｆｌｏｗｅｒ](https://ja.wikipedia.org/wiki/Flower_\(グループ\) "wikilink")
+      - COLOR ME UP\!（作曲）
+  - [布袋寅泰](../Page/布袋寅泰.md "wikilink")
+      - GUITARHYTHM III（シンセサイザー、プログラミング）
   - [BOYSTYLE](../Page/BOYSTYLE.md "wikilink")
       - Promise you（編曲）
       - MIRAI（作曲・編曲）
       - 花咲く丘へ（作曲・編曲）
-  - 松原剛志
-      - ビーダー・フォーエバー（作詞・作曲・編曲）
+  - [槇原敬之](../Page/槇原敬之.md "wikilink")（シンセサイザー、プログラミング）
+  - [松原剛志](https://ja.wikipedia.org/wiki/松原剛志 "wikilink")
+      - ビーダー・フォーエバー（作詞・作曲・編曲）（アニメ「[爆球Hit\! クラッシュビーダマン](../Page/爆球Hit!_クラッシュビーダマン.md "wikilink")」）
+  - [観月ありさ](https://ja.wikipedia.org/wiki/観月ありさ "wikilink")（シンセサイザー、プログラミング）
   - [南さやか](https://ja.wikipedia.org/wiki/南さやか "wikilink")
       - Under the Sky 〜SAYAKA's solo new version〜（編曲）
       - 初恋（編曲）
+  - [三波春夫](../Page/三波春夫.md "wikilink")（シンセサイザー、プログラミング）
   - Misa Joey
       - the way we are in（編曲）
       - That is true（作曲・編曲）
@@ -263,19 +407,27 @@
       - Sunday Sunshine（編曲）
       - Rainbow Shower（編曲）
       - Neverending Story（編曲）
+  - [ヤプーズ](../Page/ヤプーズ.md "wikilink")（シンセサイザー、プログラミング）
+  - [山下久美子](../Page/山下久美子.md "wikilink")（シンセサイザー、プログラミング）
+  - [遊佐未森](../Page/遊佐未森.md "wikilink")（シンセサイザー、プログラミング）
+  - [YURiCa/花たん](https://ja.wikipedia.org/wiki/YURiCa/花たん "wikilink")
+      - TRUE MAGIC（作曲、編曲）（「[D.C.III ～ダ・カーポIII～](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")」オープニングテーマ）
+      - レイニーデイズ（作曲）（「[D.C.III ～ダ・カーポIII～](https://ja.wikipedia.org/wiki/D.C.III_〜ダ・カーポIII〜 "wikilink")」）
+  - [ＲＵＮ＆ＧＵＮ](../Page/RUN&GUN.md "wikilink")
+      - 裸のココロ（作曲）
   - [Lia](../Page/Lia.md "wikilink")
       - 明日に向かって Get Dream\!（作詞・作曲・編曲）
       - Pride -try to fight\!-（作曲・編曲）
+      - APPEAR（作曲）
+  - [Little Voice](../Page/Little_Voice.md "wikilink")
+      - Count down（編曲）
   - [Ruppina](https://ja.wikipedia.org/wiki/Ruppina "wikilink")
       - [violet flow](https://ja.wikipedia.org/wiki/violet_flow "wikilink")（編曲）
       - [TALES](https://ja.wikipedia.org/wiki/Ruppina_\(Ruppina+のアルバム\) "wikilink")（編曲）
       - [SOLITUDE](https://ja.wikipedia.org/wiki/Ruppina_\(Ruppina+のアルバム\) "wikilink")（編曲）
   - [r.o.r/s](https://ja.wikipedia.org/wiki/r.o.r/s "wikilink")
       - Cross pain（編曲）
-  - [ALvino](../Page/ALvino.md "wikilink")
-      - Close to you（編曲：A.v.nと共作）
-  - [VIC:CESS](https://ja.wikipedia.org/wiki/VIC:CESS "wikilink")
-      - Brand new world（作曲）
+  - [和久井映見](../Page/和久井映見.md "wikilink")（シンセサイザー、プログラミング）
 
 ## 主なリミックス作品
 

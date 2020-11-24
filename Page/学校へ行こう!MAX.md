@@ -5,7 +5,12 @@
 
 ## 出演
 
-  - [みのもんた](../Page/みのもんた.md "wikilink")（みのりかわ学園校長）
+### [MC](../Page/司会.md "wikilink")
+
+  - [みのもんた](../Page/みのもんた.md "wikilink")☆（みのりかわ学園校長）
+
+### レギュラー
+
   - [V6](../Page/V6_\(グループ\).md "wikilink")
       - [坂本昌行](../Page/坂本昌行.md "wikilink")
       - [長野博](../Page/長野博.md "wikilink")

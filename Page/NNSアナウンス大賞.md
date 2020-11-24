@@ -171,6 +171,13 @@
 <td><p><a href="../Page/吉川典雄.md" title="wikilink">吉川典雄</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北本隆雄" title="wikilink">北本隆雄</a>（<a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ放送</a>）</p></td>
 </tr>
+<tr class="even">
+<td><p>第41回<br />
+（<a href="../Page/2020年.md" title="wikilink">2020年</a>）[18]</p></td>
+<td><p><a href="../Page/柳瀬洋平.md" title="wikilink">柳瀬洋平</a>（<a href="https://ja.wikipedia.org/wiki/ミヤギテレビ" title="wikilink">ミヤギテレビ</a>）</p></td>
+<td><p><a href="../Page/小林淳子.md" title="wikilink">小林淳子</a>（<a href="../Page/北日本放送.md" title="wikilink">北日本放送</a>）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/岩原大起" title="wikilink">岩原大起</a>（<a href="https://ja.wikipedia.org/wiki/読売テレビ" title="wikilink">読売テレビ</a>）</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -201,3 +208,4 @@
 15. <http://www.ntv.co.jp/info/pressrelease/20170317.html>
 16. <http://www.ntv.co.jp/info/pressrelease/20180316.html>
 17. <http://www.ntv.co.jp/info/pressrelease/20190322.html>
+18. <https://www.ntv.co.jp/info/pressrelease/20201102.html>

@@ -55,7 +55,7 @@ X線の散乱強度は結晶構造因子の絶対値の2乗に比例する。結
 
 X線回折計はX線の発生部、試料室、検出部からなる。
 
-X線の発生部は通常[X線管球](https://ja.wikipedia.org/wiki/X線管球 "wikilink")が使用される。これは[陽極](https://ja.wikipedia.org/wiki/陽極 "wikilink")で発生させた[熱電子](https://ja.wikipedia.org/wiki/熱電子 "wikilink")を対[陰極](https://ja.wikipedia.org/wiki/陰極 "wikilink")の金属に衝突させてX線を発生させるものである。対陰極に使用される金属に応じた[特性X線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")とバックグラウンドとして白色X線が放射される。発生したX線は、単一波長のX線（通常はK<sub>α</sub>線）を取り出すためにフィルターを通す。このフィルターには対陰極に使用する金属より[原子番号](../Page/原子番号.md "wikilink")が1つ小さい金属が使用される。これは主にK<sub>β</sub>線を吸収するので、**β-フィルター**とも呼ばれている。さらにバックグラウンドの白色X線を除くためにグラファイトの単結晶でX線回折させて単一波長のものだけを試料室へ導く。このグラファイトの単結晶は**モノクロメーター**と呼ばれている。
+X線の発生部は通常[X線管球](https://ja.wikipedia.org/wiki/X線管球 "wikilink")が使用される。これは[陰極](https://ja.wikipedia.org/wiki/陰極 "wikilink")で発生させた[熱電子](https://ja.wikipedia.org/wiki/熱電子 "wikilink")を対陰極([陽極](https://ja.wikipedia.org/wiki/陽極 "wikilink"))の金属に衝突させてX線を発生させるものである。対陰極に使用される金属に応じた[特性X線](https://ja.wikipedia.org/wiki/特性X線 "wikilink")とバックグラウンドとして白色X線が放射される。発生したX線は、単一波長のX線（通常はK<sub>α</sub>線）を取り出すためにフィルターを通す。このフィルターには対陰極に使用する金属より[原子番号](../Page/原子番号.md "wikilink")が1つ小さい金属が使用される。これは主にK<sub>β</sub>線を吸収するので、**β-フィルター**とも呼ばれている。さらにバックグラウンドの白色X線を除くためにグラファイトの単結晶でX線回折させて単一波長のものだけを試料室へ導く。このグラファイトの単結晶は**モノクロメーター**と呼ばれている。
 
 この方式では通常は[CuK](../Page/銅.md "wikilink")<sub>α</sub>線（λ=0.15418nm）が用いられることが多い。特に強度の高いX線が必要な場合には[MoK](../Page/モリブデン.md "wikilink")<sub>α</sub>線（λ=0.071073nm）が用いられる。
 

@@ -18,6 +18,4 @@
   - [マグネティックセイル](../Page/マグネティックセイル.md "wikilink")
   - [比推力可変型プラズマ推進機](https://ja.wikipedia.org/wiki/比推力可変型プラズマ推進機 "wikilink")
 
-[de:Magnetoplasmadynamischer Antrieb](https://ja.wikipedia.org/wiki/de:Magnetoplasmadynamischer_Antrieb "wikilink") [en:Magnetoplasmadynamic thruster](https://ja.wikipedia.org/wiki/en:Magnetoplasmadynamic_thruster "wikilink") [fi:MPDT](https://ja.wikipedia.org/wiki/fi:MPDT "wikilink") [fr:Propulseur magnétoplasmadynamique](https://ja.wikipedia.org/wiki/fr:Propulseur_magnétoplasmadynamique "wikilink") [it:Propulsore magnetoplasmadinamico](https://ja.wikipedia.org/wiki/it:Propulsore_magnetoplasmadinamico "wikilink") [zh:磁等离子体动力推力器](https://ja.wikipedia.org/wiki/zh:磁等离子体动力推力器 "wikilink")
-
 [Category:電気推進](https://ja.wikipedia.org/wiki/Category:電気推進 "wikilink") [Category:プラズマ](https://ja.wikipedia.org/wiki/Category:プラズマ "wikilink")

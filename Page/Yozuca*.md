@@ -49,16 +49,17 @@
 
 #### オリジナルアルバム
 
-|     |  | 発売日                                                                                                            | タイトル                                                                             | 規格品番       | 最高位  |
-| --- |  | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | ---- |
-| 1st |  | [2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                                         | **[soleil\*garden](https://ja.wikipedia.org/wiki/soleil*garden "wikilink")**     | LACA-5257  | 61位  |
-| 2nd |  | [2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")                                         | **[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")**             | LACA-5461  | 71位  |
-| 3rd |  | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | **[Ageha](../Page/Ageha_\(yozuca*のアルバム\).md "wikilink")**                        | LACA-5730  | 63位  |
-| 4th |  | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")                    | **[stitch museum](https://ja.wikipedia.org/wiki/stitch_museum "wikilink")**      | LACA-15026 | 85位  |
-| 5th |  | [2012年](../Page/2012年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                                       | **[asterisk music\*](https://ja.wikipedia.org/wiki/asterisk_music* "wikilink")** | LACA-15217 | 94位  |
-| 6th |  | [2015年](../Page/2015年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")                                         | **ミュージックパンチ**                                                                    | LACA-15509 | 145位 |
-| 7th |  | [2017年](../Page/2017年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")                                       | **15年目の女**                                                                       | LACA-15645 | 262位 |
-| 8th |  | 2020年6月24日                                                                                                     | 8M自由形                                                                            |            |      |
+|     | 発売日                                                                                                            | タイトル                                                                             | 規格品番       | 最高位  |
+| --- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ---------- | ---- |
+| 1st | [2004年](../Page/2004年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")                                         | **[soleil\*garden](https://ja.wikipedia.org/wiki/soleil*garden "wikilink")**     | LACA-5257  | 61位  |
+| 2nd | [2006年](../Page/2006年.md "wikilink")[8月2日](../Page/8月2日.md "wikilink")                                         | **[nico.](https://ja.wikipedia.org/wiki/nico._\(アルバム\) "wikilink")**             | LACA-5461  | 71位  |
+| 3rd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | **[Ageha](../Page/Ageha_\(yozuca*のアルバム\).md "wikilink")**                        | LACA-5730  | 63位  |
+| 4th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[5月12日](../Page/5月12日.md "wikilink")                    | **[stitch museum](https://ja.wikipedia.org/wiki/stitch_museum "wikilink")**      | LACA-15026 | 85位  |
+| 5th | [2012年](../Page/2012年.md "wikilink")[7月18日](../Page/7月18日.md "wikilink")                                       | **[asterisk music\*](https://ja.wikipedia.org/wiki/asterisk_music* "wikilink")** | LACA-15217 | 94位  |
+| 6th | [2015年](../Page/2015年.md "wikilink")[9月9日](../Page/9月9日.md "wikilink")                                         | **ミュージックパンチ**                                                                    | LACA-15509 | 145位 |
+| 7th | [2017年](../Page/2017年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")                                       | **15年目の女**                                                                       | LACA-15645 | 262位 |
+| 8th | [2020年](../Page/2020年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")                                       | **8M自由形**                                                                        | LACA-15828 | 268位 |
+|     |                                                                                                                |                                                                                  |            |      |
 
 #### ベストアルバム
 

@@ -69,6 +69,7 @@
   - [岸田一郎](../Page/岸田一郎.md "wikilink")
   - [黒澤翼](../Page/黒澤翼.md "wikilink")
   - [LEON RACING](https://ja.wikipedia.org/wiki/LEON_RACING "wikilink")
+  - [瀧川鯉斗](https://ja.wikipedia.org/wiki/瀧川鯉斗 "wikilink") - [落語家](../Page/落語家.md "wikilink")。LEON本誌には登場しないが、公式サイトではモデルとしてひんぱんに登場する。
 
 ## 外部リンク
 

@@ -69,7 +69,7 @@
 
 :\# [Temiyan](https://ja.wikipedia.org/wiki/Temiyan "wikilink")【曲目：渚のかげろう】
 
-:\# [nil](https://ja.wikipedia.org/wiki/nil "wikilink")（[クイズ\!ヘキサゴン](../Page/クイズ!ヘキサゴン.md "wikilink")のテーマ曲「Heat Beat」）
+:\# [nil](https://ja.wikipedia.org/wiki/nil_\(バンド\) "wikilink")（[クイズ\!ヘキサゴン](../Page/クイズ!ヘキサゴン.md "wikilink")のテーマ曲「Heat Beat」）
 
 :\# [ザ・マスミサイル](../Page/ザ・マスミサイル.md "wikilink")
 

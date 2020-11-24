@@ -7,7 +7,7 @@
 
 [1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に[テレビ朝日](../Page/テレビ朝日.md "wikilink")系列で放送されたアニメ版『[宇宙海賊キャプテンハーロック](../Page/宇宙海賊キャプテンハーロック.md "wikilink")』（原作:[松本零士](../Page/松本零士.md "wikilink")）の続編的位置付けの作品で、前作の敵である[マゾーン](../Page/マゾーン.md "wikilink")との戦いの後についての出来事が描かれている。しかし、一部の設定では細かな違いがある。
 
-監督には前述のアニメ版『宇宙海賊キャプテンハーロック』や同じく松本零士原作の劇場アニメ『[銀河鉄道999](https://ja.wikipedia.org/wiki/銀河鉄道999_\(アニメ\) "wikilink")』でファンの支持を得た[りんたろう](../Page/りんたろう.md "wikilink")があたっている。アニメーション制作は[東映動画から](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")[マッドハウス](../Page/マッドハウス.md "wikilink")に変更。松本零士による原作の漫画作品はないオリジナル作品であり、原作者の松本は、本作をりんたろう版ハーロックだと断っている\[1\]。
+監督には前述のアニメ版『宇宙海賊キャプテンハーロック』や同じく松本零士原作の劇場アニメ『[銀河鉄道999](https://ja.wikipedia.org/wiki/銀河鉄道999_\(アニメ\) "wikilink")』でファンの支持を得た[りんたろう](../Page/りんたろう.md "wikilink")があたっている。アニメーション制作は[東映動画から](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")[マッドハウス](../Page/マッドハウス.md "wikilink")に変更。松本零士による原作の漫画作品ではないオリジナル作品であり、原作者の松本は、本作をりんたろう版ハーロックだと断っている\[1\]。
 
 本来は、[2002年](../Page/2002年.md "wikilink")[6月27日](../Page/6月27日.md "wikilink")からCS放送[AT-Xで先行放送の予定であったが](../Page/アニメシアターX.md "wikilink")、放送直前に敵が地球を攻撃する兵器の一部にダビデの星のデザインが使われていたことに松本からクレームがつき、一時製作を中止。放送も無期延期となったものの、約1年後に製作が再開された。そのため[OVA](../Page/OVA.md "wikilink")としてDVDが販売され、その後テレビ放映されるという特殊な形式をとっている。
 
@@ -420,15 +420,15 @@
 
 ## 外部リンク
 
-  - [SPACE PIRATE CAPTAIN HERLOCK 公式ホームページ](http://www.vap.co.jp/herlock/)
+  - [SPACE PIRATE CAPTAIN HERLOCK 公式ホームページ](https://www.vap.co.jp/herlock/)
 
 [Category:宇宙海賊キャプテンハーロック](https://ja.wikipedia.org/wiki/Category:宇宙海賊キャプテンハーロック "wikilink") [Category:アニメ作品_す](https://ja.wikipedia.org/wiki/Category:アニメ作品_す "wikilink") [Category:2003年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2003年のテレビアニメ "wikilink") [Category:日本テレビの深夜アニメ](https://ja.wikipedia.org/wiki/Category:日本テレビの深夜アニメ "wikilink") [Category:マッドハウス](https://ja.wikipedia.org/wiki/Category:マッドハウス "wikilink") [Category:バップのアニメ作品](https://ja.wikipedia.org/wiki/Category:バップのアニメ作品 "wikilink") [Category:松本零士原作のアニメ作品](https://ja.wikipedia.org/wiki/Category:松本零士原作のアニメ作品 "wikilink") [Category:宇宙海賊を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:宇宙海賊を題材としたアニメ作品 "wikilink")
 
-1.  [公式サイトに寄せられた松本零士の言葉、DVD版の本編冒頭でも表示される。](http://www.vap.co.jp/herlock/world4.html)
+1.  [公式サイトに寄せられた松本零士の言葉、DVD版の本編冒頭でも表示される。](https://www.vap.co.jp/herlock/world4.html)
 2.  ドクターシリアル・西岡著、DVD5巻付属[リーフレット](../Page/リーフレット.md "wikilink")『もう一人の主人公・台羽正』より。
 3.  [蛍石](../Page/蛍石.md "wikilink")の意味。内部の設備や装備はアルカディア号の物を参考にしている。
 4.  本来は死亡と判断された際に即剥奪されるものだが首相を初め保安局員の職務怠慢により管理者権限が残ったままであった。
 5.  正に関しては服従しかねない危うさがあったが、彼に精神攻撃をする前にハーロックと「正体不明の何物か」によって反撃を受けた為に攻撃することはできなかった。
 6.  その際、肉体はハーロックへの恐怖から彼らを拒絶するかの様に煙を上げなから崩壊している
-7.  [一方で事象に対する「恐怖」が失われ、注意が散漫になり楽観的な行動をとってヌーを解放した遠因であるとされている。](http://www.vap.co.jp/herlock/column10.html)
+7.  [一方で事象に対する「恐怖」が失われ、注意が散漫になり楽観的な行動をとってヌーを解放した遠因であるとされている。](https://www.vap.co.jp/herlock/column10.html)
 8.  戦士の銃に装填する為に弾丸状に加工され、その状態から発射された。

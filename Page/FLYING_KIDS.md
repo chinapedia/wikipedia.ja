@@ -336,7 +336,8 @@ Percussion 竹本一匹 / Saxophone 宇賀まり参加。
 <td><p>1996年<a href="../Page/11月25日.md" title="wikilink">11月25日</a></p></td>
 <td><p>21世紀になっても</p></td>
 <td><p>テレビアニメ「<a href="../Page/逮捕しちゃうぞ_(アニメ).md" title="wikilink">逮捕しちゃうぞ</a>」2代目オープニングテーマ。<br />
-後に『<a href="https://ja.wikipedia.org/wiki/天才てれびくん" title="wikilink">天才てれびくん</a>ワイド』のコーナー「<a href="../Page/天才てれびくんシリーズの音楽コーナー.md" title="wikilink">MTK</a>」においてカバーされる。</p></td>
+後に『<a href="https://ja.wikipedia.org/wiki/天才てれびくん" title="wikilink">天才てれびくん</a>ワイド』のコーナー「<a href="../Page/天才てれびくんシリーズの音楽コーナー.md" title="wikilink">MTK</a>」においてカバーされる。<br />
+カップリング曲はNHK教育TV「サイエンスアイ」テーマ・ソング。</p></td>
 <td><p>31</p></td>
 </tr>
 <tr class="even">

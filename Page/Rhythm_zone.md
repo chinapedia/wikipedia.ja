@@ -23,7 +23,6 @@
   - [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")（2011年 - ）
   - [EXILE](https://ja.wikipedia.org/wiki/EXILE "wikilink")（2001年 - ）
       - [ATSUSHI](https://ja.wikipedia.org/wiki/ATSUSHI_\(歌手\) "wikilink")（2011年 - ）
-      - [MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")（2014年 - ）
       - [SHOKICHI](https://ja.wikipedia.org/wiki/SHOKICHI "wikilink")（2014年 - ）
       - [TAKAHIRO](https://ja.wikipedia.org/wiki/TAKAHIRO_\(歌手\) "wikilink")（2013年 - ）
   - [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")（2012年 - ）
@@ -77,6 +76,7 @@
   - [DJ EMMA](https://ja.wikipedia.org/wiki/DJ_EMMA "wikilink") (2006年〜2010年)
   - [DJ KAORI](https://ja.wikipedia.org/wiki/DJ_KAORI "wikilink") (2013年)(『[DJ KAORI EXILE TRIBE MIX](https://ja.wikipedia.org/wiki/DJ_KAORI_EXILE_TRIBE_MIX "wikilink")』のみ)
   - [DJ KAYA](https://ja.wikipedia.org/wiki/DJ_KAYA "wikilink") (2010年)
+  - [DJ MAKIDAI](https://ja.wikipedia.org/wiki/MAKIDAI "wikilink")（2014年）
   - [DOBERMAN INC](https://ja.wikipedia.org/wiki/DOBERMAN_INC "wikilink") (2011年10月現在[Rhythm REPUBLICからリリース](../Page/Rhythm_REPUBLIC.md "wikilink"))
   - [dorlis](https://ja.wikipedia.org/wiki/dorlis "wikilink") (2008年〜2010年)(ビクターエンタテインメントより移籍)
   - [Double Famous](../Page/Double_Famous.md "wikilink") (2008年)

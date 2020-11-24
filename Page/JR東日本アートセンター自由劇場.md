@@ -1,13 +1,15 @@
 > この記事は[JR東日本アートセンター自由劇場](https://ja.wikipedia.org/wiki/JR東日本アートセンター自由劇場)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/ファイル:Ziyuu_2.jpg "wikilink") **自由劇場**（じゆうげきじょう、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, JIYU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇団四季](../Page/劇団四季.md "wikilink")の専用劇場である。[串田和美](../Page/串田和美.md "wikilink")の主宰した自由劇場と関係はない。
+[right](https://ja.wikipedia.org/wiki/ファイル:Ziyuu_2.jpg "wikilink") **自由劇場**（じゆうげきじょう、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, JIYU*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇団四季](../Page/劇団四季.md "wikilink")の専用劇場である。
+
+[俳優](../Page/俳優.md "wikilink")で[演出家](../Page/演出家.md "wikilink")の[串田和美](../Page/串田和美.md "wikilink")が主宰した自由劇場と関係はない。
 
 ## 概要
 
 劇団四季が主に[ストレートプレイ](https://ja.wikipedia.org/wiki/ストレートプレイ "wikilink")を上演するための専用劇場で、劇団四季の創立50周年記念事業として[四季劇場［春］](../Page/JR東日本アートセンター四季劇場［春］.md "wikilink")[［秋］の隣に](../Page/JR東日本アートセンター四季劇場［秋］.md "wikilink")[2003年](../Page/2003年.md "wikilink")（平成15年）11月11日にオープン。[こけら落とし](https://ja.wikipedia.org/wiki/こけら落とし "wikilink")公演は、『[オンディーヌ](https://ja.wikipedia.org/wiki/オンディーヌ "wikilink")』。
 
-客席数は約500席。1階席最後部から舞台まで約15m、2階客席最前列から舞台まで約11mととても近いが、舞台設備は他の四季劇場と同規模である。また、客席の奥行きと舞台の奥行きがほぼ同じである。普段は埋めているが、も作れる。楽屋は2階・3階にある。
+客席数は約500席。1階席最後部から舞台まで約15m、2階客席最前列から舞台まで約11mととても近いが、舞台設備は他の四季劇場と同規模である。また、客席の奥行きと舞台の奥行きがほぼ同じである。普段は埋めているが、も作れる。[楽屋](https://ja.wikipedia.org/wiki/楽屋 "wikilink")は2階・3階にある。
 
 同劇場で初の[ミュージカル](../Page/ミュージカル.md "wikilink")公演は『[コーラスライン](../Page/コーラスライン.md "wikilink")』である。
 

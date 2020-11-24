@@ -1,7 +1,7 @@
 > この記事は[Web \(ウェブブラウザ\)](https://ja.wikipedia.org/wiki/Web_\(ウェブブラウザ\))から翻訳されています。
 
 
-**Web**（ウェブ、旧名**Epiphany** (エピファニー)）は、[レンダリングエンジン](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")に[WebKit](../Page/WebKit.md "wikilink")を使った[GNOME](../Page/GNOME.md "wikilink")の標準[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。シンプルで使いやすいことを念頭に設計されている。[ツールキットに](../Page/ウィジェット・ツールキット.md "wikilink")[GTK+](https://ja.wikipedia.org/wiki/GTK+ "wikilink")3を使いGNOMEとよく統合されている。
+**Web**（ウェブ、旧名**Epiphany** (エピファニー)）は、[レンダリングエンジン](https://ja.wikipedia.org/wiki/レンダリングエンジン "wikilink")に[WebKit](../Page/WebKit.md "wikilink")を使った[GNOME](../Page/GNOME.md "wikilink")の標準[ウェブブラウザ](../Page/ウェブブラウザ.md "wikilink")。シンプルで使いやすいことを念頭に設計されている。[ツールキットに](../Page/ウィジェット・ツールキット.md "wikilink")[GTK](../Page/GTK_\(ツールキット\).md "wikilink")3を使いGNOMEとよく統合されている。
 
 トピック毎に整理する高機能なブックマークを搭載している。一つのページを複数のトピックに関連付けることが可能である。
 
@@ -57,7 +57,7 @@ Epiphanyは当初、Webページの表示に[Mozilla](../Page/Mozilla.md "wikili
   - [Epiphany](http://www.gnome.org/projects/epiphany/)
   - [Epiphany blog](http://blogs.gnome.org/epiphany/)
 
-[Category:Geckoを用いたウェブブラウザ](https://ja.wikipedia.org/wiki/Category:Geckoを用いたウェブブラウザ "wikilink") [Category:WebKitを用いたウェブブラウザ](https://ja.wikipedia.org/wiki/Category:WebKitを用いたウェブブラウザ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTK+を使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTK+を使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:2002年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2002年のソフトウェア "wikilink")
+[Category:Geckoを用いたウェブブラウザ](https://ja.wikipedia.org/wiki/Category:Geckoを用いたウェブブラウザ "wikilink") [Category:WebKitを用いたウェブブラウザ](https://ja.wikipedia.org/wiki/Category:WebKitを用いたウェブブラウザ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTKを使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTKを使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:2002年のソフトウェア](https://ja.wikipedia.org/wiki/Category:2002年のソフトウェア "wikilink")
 
 1.  [Epiphany » Blog Archive » Gecko end-of-life](http://blogs.gnome.org/epiphany/2009/07/01/gecko-end-of-life/)
 2.

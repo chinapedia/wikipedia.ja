@@ -1,7 +1,7 @@
 > この記事は[Non-no](https://ja.wikipedia.org/wiki/Non-no)から翻訳されています。
 
 
-『**non-no**』（ノンノ）は[集英社](../Page/集英社.md "wikilink")が発売している月刊女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）[5月25日](../Page/5月25日.md "wikilink")創刊。毎月20日発売。
+『**non-no**』（ノンノ）は、[集英社](../Page/集英社.md "wikilink")が発売している月刊女性[ファッション雑誌](../Page/ファッション雑誌.md "wikilink")。[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（[昭和](../Page/昭和.md "wikilink")46年）[5月25日](../Page/5月25日.md "wikilink")創刊。毎月20日発売。
 
 ## 概要
 
@@ -28,6 +28,7 @@
   - [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")（2015年8月号 - 表紙11回）
   - [江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")（2018年3月号 -）
   - [岡本夏美](https://ja.wikipedia.org/wiki/岡本夏美 "wikilink")（2019年3月号 - ）
+  - [横田真悠](https://ja.wikipedia.org/wiki/横田真悠 "wikilink")（2020年12月号 - 表紙1回）
 
 **上記以外**
 
@@ -38,7 +39,7 @@
   - [武田玲奈](https://ja.wikipedia.org/wiki/武田玲奈 "wikilink")（2016年6月号 - ）\[2\]
   - [金城茉奈](https://ja.wikipedia.org/wiki/金城茉奈 "wikilink")（2016年6月号 - ）\[3\]
   - [松川菜々花](https://ja.wikipedia.org/wiki/松川菜々花 "wikilink")（2017年6月号 - ）\[4\]
-  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")、2017年6月号 - 表紙5回）\[5\]
+  - [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[櫻坂46](https://ja.wikipedia.org/wiki/櫻坂46 "wikilink")、2017年6月号 - 表紙5回）\[5\]
   - [貴島明日香](https://ja.wikipedia.org/wiki/貴島明日香 "wikilink")（2018年11月号 - ）\[6\]
   - [佐々木美玲](https://ja.wikipedia.org/wiki/佐々木美玲 "wikilink")（[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")、2019年4月号 - ）
   - [堀田真由](https://ja.wikipedia.org/wiki/堀田真由 "wikilink")（2020年3月号 - ）
@@ -47,7 +48,7 @@
 ### かつて活躍したモデル
 
   - [栗原景子](../Page/栗原景子.md "wikilink")
-  - [りょう](https://ja.wikipedia.org/wiki/りょう "wikilink")
+  - [りょう](https://ja.wikipedia.org/wiki/りょう_\(女優\) "wikilink")
   - [はな](../Page/はな_\(タレント\).md "wikilink")
   - [加藤幸子](../Page/加藤幸子_\(モデル\).md "wikilink")
   - [SHIHO（志保）](../Page/SHIHO_\(ファッションモデル\).md "wikilink")
@@ -155,11 +156,17 @@
 
 ## 表紙モデル
 
+2021年
+
+| 号        | 表紙モデル                                 | 表紙登場回数 | 備考       |
+| -------- | ------------------------------------- | ------ | -------- |
+| 2021年1月号 | [嵐](../Page/嵐_\(グループ\).md "wikilink") | ー      | ※専属モデル以外 |
+
 2020年
 
 | 号            | 表紙モデル                                                                                                                                                                                  | 表紙登場回数              | 備考        |
 | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------- | --------- |
-| 2020年1月号     | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号）                                                       | ー                   | ※専属モデル以外  |
+| 2020年1月号     | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")（通常版） / [鈴木ゆうか](https://ja.wikipedia.org/wiki/鈴木ゆうか "wikilink")（増刊号）                                                      | ー                   | ※専属モデル以外  |
 | 2020年2月号     | [嵐](../Page/嵐_\(グループ\).md "wikilink")                                                                                                                                                  | ー                   | ※専属モデル以外  |
 | 2020年3月号     | [馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                                                                                | 4                   |           |
 | 2020年4月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                                                  | 10                  |           |
@@ -169,6 +176,7 @@
 | 2020年9月号     | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")                                                                                                                                  | 11                  |           |
 | 2020年10月号    | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                                                                                                | ー                   | ※専属モデル以外  |
 | 2020年11月号    | [渡邉理佐](https://ja.wikipedia.org/wiki/渡邉理佐 "wikilink")（[欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")）（通常版） / [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")（増刊号） | 5                   |           |
+| 2020年12月号    | [横田真悠](https://ja.wikipedia.org/wiki/横田真悠 "wikilink")（通常版） / [Sexy Zone](https://ja.wikipedia.org/wiki/Sexy_Zone "wikilink")（増刊号）                                                      | ☆初                  |           |
 
 2019年
 
@@ -200,26 +208,26 @@
 | 2018年7月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                                                                                                                             | ★23(最終)      |               |
 | 2018年8月号  | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")、[馬場ふみか](https://ja.wikipedia.org/wiki/馬場ふみか "wikilink")                                                                                                                | 新木(5)、☆馬場(初) |               |
 | 2018年9月号  | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                                                                                                                                        | 6            |               |
-| 2018年10月号 | [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")（通常） / [江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")（増刊号）                                                                                                               | ー            | ※専属モデル以外      |
+| 2018年10月号 | [AAA](../Page/AAA_\(音楽グループ\).md "wikilink")（通常版） / [江野沢愛美](https://ja.wikipedia.org/wiki/江野沢愛美 "wikilink")（増刊号）                                                                                                              | ー            | ※専属モデル以外      |
 | 2018年11月号 | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                                                                                                                                        | 9            |               |
 | 2018年12月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）                                                                                                              | 7            |               |
 
 2017年
 
-| 号         | 表紙モデル                                                                                                           | 表紙登場回数 |
-| --------- | --------------------------------------------------------------------------------------------------------------- | ------ |
-| 2017年1月号  | [鈴木友菜](https://ja.wikipedia.org/wiki/鈴木友菜 "wikilink")                                                           | 2      |
-| 2017年2月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                           | 4      |
-| 2017年3月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                | 18     |
-| 2017年4月号  | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")） | 3      |
-| 2017年5月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                | 19     |
-| 2017年6月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                           | 5      |
-| 2017年7月号  | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                           | 3      |
-| 2017年8月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                | 20     |
-| 2017年9月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                           | 6      |
-| 2017年10月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")） | 4      |
-| 2017年11月号 | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                           | 7      |
-| 2017年12月号 | [本田翼](../Page/本田翼.md "wikilink")                                                                                | 21     |
+| 号         | 表紙モデル                                                                                                              | 表紙登場回数 |
+| --------- | ------------------------------------------------------------------------------------------------------------------ | ------ |
+| 2017年1月号  | [鈴木友菜](https://ja.wikipedia.org/wiki/鈴木友菜 "wikilink")                                                              | 2      |
+| 2017年2月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                              | 4      |
+| 2017年3月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                   | 18     |
+| 2017年4月号  | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）    | 3      |
+| 2017年5月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                   | 19     |
+| 2017年6月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                              | 5      |
+| 2017年7月号  | [新木優子](https://ja.wikipedia.org/wiki/新木優子 "wikilink")                                                              | 3      |
+| 2017年8月号  | [本田翼](../Page/本田翼.md "wikilink")                                                                                   | 20     |
+| 2017年9月号  | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                              | 6      |
+| 2017年10月号 | [西野七瀬](https://ja.wikipedia.org/wiki/西野七瀬 "wikilink")（元[乃木坂46](https://ja.wikipedia.org/wiki/乃木坂46 "wikilink")）    | 4      |
+| 2017年11月号 | [新川優愛](https://ja.wikipedia.org/wiki/新川優愛 "wikilink")                                                              | 7      |
+| 2017年12月号 | [本田翼](../Page/本田翼.md "wikilink") （通常版）/ [TWICE](https://ja.wikipedia.org/wiki/TWICE_\(韓国の音楽グループ\) "wikilink")（増刊号） | 21     |
 
 2016年
 
@@ -406,7 +414,7 @@
 
   -
   -
-[Category:集英社の雑誌](https://ja.wikipedia.org/wiki/Category:集英社の雑誌 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1971年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1971年創刊の雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")
+[Category:集英社の雑誌](https://ja.wikipedia.org/wiki/Category:集英社の雑誌 "wikilink") [Category:日本の女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本の女性向けファッション雑誌 "wikilink") [Category:1971年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1971年創刊の雑誌 "wikilink")
 
 1.
 2.  [武田玲奈、『non-no』専属モデルに「最年少なので、皆さんに食らいつく」](http://www.oricon.co.jp/news/2070196/full/) - 2016年4月19日 オリコン

@@ -38,7 +38,7 @@
 
 <!-- end list -->
 
-  - 8月4日 - 中村達也が申し込み「[イカ天](../Page/三宅裕司のいかすバンド天国.md "wikilink")」に出演。これが彼らのテレビ初出演となった。1週目に「CAT WAS DEAD」を演奏、COLLAGEを下し、25代目イカ天キングとなった。2週目には、「MOTHER」を演奏。この週は有機生命体を5-2で下し、イカ天キングを保持した。そして3週目は、「不良少年のうた」を演奏し、So What\!に7-0で勝利。4週目は、「僕の心を取り戻すために」を演奏し、審査員に好評だったウェザーコックスに7-0で勝利。そして最後の5週目は、「狂った朝日」を演奏、CHICK BEに勝利、5週連続勝ち抜きを果たし、第6代グランドイカ天キングを獲得し東芝EMIと契約。
+  - 8月4日 - 中村達也の提案で「[イカ天](../Page/三宅裕司のいかすバンド天国.md "wikilink")」に出演\[1\]。これが彼らのテレビ初出演となった。1週目に「CAT WAS DEAD」を演奏、COLLAGEを下し、25代目イカ天キングとなった。2週目には、「MOTHER」を演奏。この週は有機生命体を5-2で下し、イカ天キングを保持した。そして3週目は、「不良少年のうた」を演奏し、So What\!に7-0で勝利。4週目は、「僕の心を取り戻すために」を演奏し、審査員に好評だったウェザーコックスに7-0で勝利。そして最後の5週目は、「狂った朝日」を演奏、CHICK BEに勝利、5週連続勝ち抜きを果たし、第6代グランドイカ天キングを獲得し東芝EMIと契約。
 
 <!-- end list -->
 
@@ -50,7 +50,7 @@
 
 <!-- end list -->
 
-  - 4月 - ロンドンでレコーディングされたデビューアルバム『Red Guitar And The Truth』を[東芝EMIからリリース](../Page/EMIミュージック・ジャパン.md "wikilink")。このアルバムは[オリコン初登場](../Page/オリコンチャート.md "wikilink")8位と好セールスを記録したが、プロデューサーであったJEREMY GREENとの意見が合わず、不満の残る仕上がりとなった。当初プロデュースはビル・プライスを予定していたが条件が合わず、プライスのアシスタントだったジェレミーが担当した。
+  - 4月 - ロンドンでレコーディングされたデビューアルバム『Red Guitar And The Truth』を[東芝EMIからリリース](../Page/EMIミュージック・ジャパン.md "wikilink")。このアルバムは[オリコン初登場](../Page/オリコンチャート.md "wikilink")8位と好セールスを記録したが、プロデューサーであったJEREMY GREENとの意見が合わず、不満の残る仕上がりとなった\[2\]。当初プロデュースはビル・プライスを予定していたが条件が合わず、プライスのアシスタントだったジェレミーが担当した。
 
 <!-- end list -->
 
@@ -135,7 +135,7 @@
 
   - 2003年
 
-HMVによるTop 100 Japanese pops ArtistsのNo.73に選ばれる\[1\]。
+HMVによるTop 100 Japanese pops ArtistsのNo.73に選ばれる\[3\]。
 
   - 2008年
 
@@ -161,132 +161,18 @@ HMVによるTop 100 Japanese pops ArtistsのNo.73に選ばれる\[1\]。
 
 浅井と中村は、中村の所属するバンドを浅井が観客として観に行く形で出会い、浅井と照井は名古屋のディスコで出会った。初期から中期にかけては浅井と照井がセッションを行って作曲を進めていくことが多かったため、まれに意見が対立する場合もあったというが、その間で中村達也がバランスをとっていた。解散後は、2002年に照井が所属してたROSSOと中村のLOSALIOSが3バンド合同ツアー「WEEKEND LOVER」を行い、共演を果たしている。浅井と照井はサーフィンをきっかけにPONTIACSを結成。その他にもLOSALIOSや浅井のソロアルバムでメンバーの1人とが共演することはたびたびあったが、3人だけでステージに立ったことはない。プライベートの場では浅井と中村が共演し「ガソリンの揺れ方」を披露したことがある。
 
-### 交友関係
-
-  - [土屋昌巳](../Page/土屋昌巳.md "wikilink")
-
-<!-- end list -->
-
-  -
-    セカンドアルバム「Bang\!」から5枚目のアルバム「SKUNK」までプロデューサーを務めた。
-
-<!-- end list -->
-
-  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")
-
-<!-- end list -->
-
-  -
-    藤井フミヤとBLANKEY JET CITY のメンバーは交流が深い。ミュージックステーションによると良く飲みに行く仲だとのこと。藤井フミヤによると、BJCの3人は酔っ払っても意外とおとなしいらしい。浅井は藤井フミヤに『マリア』という曲を提供している。
-
-<!-- end list -->
-
-  - [THEE MICHELLE GUN ELEPHANT](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")
-
-<!-- end list -->
-
-  -
-    同時期に活動していたこともあり、プライベートでも交流が深い。
-
-### 海外でのライブ
-
-BLANKEY JET CITYは定期的に、ロンドンやロサンゼルス、ニューヨークなどでライブを行っていた。初の海外ライブはロンドンにて1994年10月26日。1曲目は「Rude Boy」。
-
-1.  1994年10月26日、29日：「THE SIX」に収録するため、既存曲のリテイクと新曲のレコーディングのためにロンドンに渡った際に、2度ライブを実施。演奏曲は「Rude Boy」「3104丁目のダンスホールに足を向けろ」「嘆きの白」「Punky Bad Hip」「車泥棒」「D.I.Jのピストル」「鉄の月」「死神のサングラス」「Baby Baby」など。実現はしなかったが、「Dust & The World」の案もあった。
-2.  1995年：「SKUNK」のレコーディングの合間に同じくロンドンでライブを実施。この模様は「Are You Happy?」にて確認できる。演奏曲は「SKUNK」「D.I.Jのピストル」「Dynamite Pussy Cats」など
-
 ### 解散の理由
 
   - 3人共冒険好きなので、新たなる冒険に旅立ちたい。
   - ミュージックステーションで浅井健一が語ったところによると「色々あるんですよ」
   - 関係者によればSkunk以前から解散の危機は度々あったとのこと
 
-### BLANKEY JET CITYに影響を受けた有名人
+## 海外でのライブ
 
-音楽業界のファンも多く、椎名林檎や降谷建志、JUDY AND MARYのTAKUYAなどがファンであることを公言している。
+BLANKEY JET CITYは定期的に、ロンドンやロサンゼルス、ニューヨークなどでライブを行っていた。初の海外ライブはロンドンにて1994年10月26日。1曲目は「Rude Boy」。
 
-  - [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")
-
-<!-- end list -->
-
-  -
-    父親と共にBLANKEY JET CITYの大ファンである。BJCのシングル『左利きのbaby』の"誰とでも寝るようなそんな女の子が好きさ"という歌詞を聞いて、「じゃあそんな女の子になる！」と思った程。
-
-<!-- end list -->
-
-  - [TAKUYA](../Page/TAKUYA.md "wikilink")（[JUDY AND MARY](../Page/JUDY_AND_MARY.md "wikilink")）
-
-<!-- end list -->
-
-  -
-    ミュージックステーションで「日本に数少ない本物のロックバンド」と語った。
-
-<!-- end list -->
-
-  - [Tama](../Page/Tama_\(ベーシスト\).md "wikilink")（元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")）
-
-<!-- end list -->
-
-  -
-    自身のラジオで、自らの音楽のルーツはU2やエクストリーム、BLANKEY JET CITYだと語っている。
-
-<!-- end list -->
-
-  - [大貫亜美](https://ja.wikipedia.org/wiki/大貫亜美 "wikilink")（[PUFFY](../Page/PUFFY.md "wikilink")）
-
-<!-- end list -->
-
-  -
-    学生時代からライブに足を運んでいた。
-
-<!-- end list -->
-
-  - [JIRO](../Page/JIRO.md "wikilink")（[GLAY](../Page/GLAY.md "wikilink")）
-
-<!-- end list -->
-
-  -
-    ブランキーほどの音を体感できるバンドは日本に中々いないと語っている
-
-<!-- end list -->
-
-  -
-
-<!-- end list -->
-
-  - [タモリ](https://ja.wikipedia.org/wiki/タモリ "wikilink")
-      - BLANKEY JET CITYとお酒を飲みに行く夢を見た。
-      - 車で「UAと浅井健一のラジオ」を聞いた時、車を止めて聞き入っていた。
-      - ガッチリ固まっていて、解散しなさそうなバンド。
-      - 笑っていいとも！のコーナーで再結成して欲しいバンドにBLANKEY JET CITYをあげていた。
-
-<!-- end list -->
-
-  - [後藤輝基](../Page/後藤輝基.md "wikilink")（[フットボールアワー](../Page/フットボールアワー.md "wikilink")）
-  - [千原ジュニア](../Page/千原ジュニア.md "wikilink")
-
-<!-- end list -->
-
-  - [永作博美](https://ja.wikipedia.org/wiki/永作博美 "wikilink")
-      - 度々テレビで公言していた。
-
-<!-- end list -->
-
-  - [小峠英二](https://ja.wikipedia.org/wiki/小峠英二 "wikilink") （[バイきんぐ](https://ja.wikipedia.org/wiki/バイきんぐ "wikilink")）
-
-<!-- end list -->
-
-  -
-    ブランキーの影響でアメ車とバイクに乗り始める。アメ車に乗った時に初めてかけた曲はD.I.Jのピストル。
-
-<!-- end list -->
-
-  - [呂布カルマ](https://ja.wikipedia.org/wiki/呂布カルマ "wikilink")
-
-<!-- end list -->
-
-  -
-    名古屋を拠点としたJET CITY PEOPLEというレーベルの一員。ブランキーから多大な影響を受け、歌詞にも度々Jet Cityに関する出来事が表現されている。
+1.  1994年10月26日、29日：「THE SIX」に収録するため、既存曲のリテイクと新曲のレコーディングのためにロンドンに渡った際に、2度ライブを実施。演奏曲は「Rude Boy」「3104丁目のダンスホールに足を向けろ」「嘆きの白」「Punky Bad Hip」「車泥棒」「D.I.Jのピストル」「鉄の月」「死神のサングラス」「Baby Baby」など。実現はしなかったが、「Dust & The World」の案もあった。
+2.  1995年：「SKUNK」のレコーディングの合間に同じくロンドンでライブを実施。この模様は「Are You Happy?」にて確認できる。演奏曲は「SKUNK」「D.I.Jのピストル」「Dynamite Pussy Cats」など
 
 ## ディスコグラフィ
 
@@ -955,6 +841,33 @@ DVD：2002年5月16日</p></td>
   - [東京スカパラダイスオーケストラ](../Page/東京スカパラダイスオーケストラ.md "wikilink") - サポートメンバー
   - [MANNISH BOYS](https://ja.wikipedia.org/wiki/MANNISH_BOYS "wikilink")
 
+## 交友関係
+
+  - [土屋昌巳](../Page/土屋昌巳.md "wikilink")
+
+<!-- end list -->
+
+  -
+    セカンドアルバム「Bang\!」から5枚目のアルバム「SKUNK」までプロデューサーを務めた。
+
+<!-- end list -->
+
+  - [藤井フミヤ](../Page/藤井フミヤ.md "wikilink")
+
+<!-- end list -->
+
+  -
+    藤井フミヤとBLANKEY JET CITY のメンバーは交流が深い。ミュージックステーションによると良く飲みに行く仲だとのこと。藤井フミヤによると、BJCの3人は酔っ払っても意外とおとなしいらしい。浅井は藤井フミヤに『マリア』という曲を提供している。
+
+<!-- end list -->
+
+  - [THEE MICHELLE GUN ELEPHANT](../Page/THEE_MICHELLE_GUN_ELEPHANT.md "wikilink")
+
+<!-- end list -->
+
+  -
+    同時期に活動していたこともあり、プライベートでも交流が深い。
+
 ## 関連項目
 
   - [三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")
@@ -971,4 +884,6 @@ DVD：2002年5月16日</p></td>
 
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のハードロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のハードロック・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:イカ天出身のバンド](https://ja.wikipedia.org/wiki/Category:イカ天出身のバンド "wikilink") [Category:EMIミュージック・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:EMIミュージック・ジャパンのアーティスト "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink") [Category:1990年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1990年に結成した音楽グループ "wikilink") [Category:2000年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2000年に解散した音楽グループ "wikilink")
 
-1.  [Top 100 Japanese pops Artists - No.73｜HMV ONLINE](http://www.hmv.co.jp/news/article/308280037)
+1.  「[浅井健一- Key Person 第9回](http://okmusic.jp/news/404612?page=2)」OKMusic2020年11月20日
+2.  「[“BJC RESPECT”！ 更なる進化をし続ける3人の1991-2000！](http://rooftop.cc/interview/081201180507.php)」Rooftop2008年12月1日
+3.  [Top 100 Japanese pops Artists - No.73｜HMV ONLINE](http://www.hmv.co.jp/news/article/308280037)

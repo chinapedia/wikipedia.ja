@@ -1,7 +1,7 @@
 > この記事は[Bluetooth](https://ja.wikipedia.org/wiki/Bluetooth)から翻訳されています。
 
 
-**Bluetooth**（ブルートゥース、ブルーツース）は、[デジタル機器用の近距離](../Page/情報機器.md "wikilink")[無線通信](../Page/無線通信.md "wikilink")規格の1つである。**Bluetooth Basic Rate/Enhanced Data Rate** (BR/EDR) と **[Bluetooth Low Energy](https://ja.wikipedia.org/wiki/Bluetooth_Low_Energy "wikilink")** (LE) から構成される\[1\]。
+**[Bluetooth](https://ja.wikipedia.org/wiki/:en:Bluetooth "wikilink")**（ブルートゥース、ブルーツース）は、[デジタル機器用の近距離](../Page/情報機器.md "wikilink")[無線通信](../Page/無線通信.md "wikilink")規格の1つである。**Bluetooth Basic Rate/Enhanced Data Rate** (BR/EDR) と **[Bluetooth Low Energy](https://ja.wikipedia.org/wiki/Bluetooth_Low_Energy "wikilink")** (LE) から構成される\[1\]。
 
 ## 概要
 
@@ -385,7 +385,7 @@ BR・EDR・LE</p></td>
 
 ### その他の採用例
 
-[Edifice_ECB-800D-1A.jpg](https://ja.wikipedia.org/wiki/File:Edifice_ECB-800D-1A.jpg "fig:Edifice_ECB-800D-1A.jpg")
+[Edifice_ECB-800D-1A.jpg](https://ja.wikipedia.org/wiki/File:Edifice_ECB-800D-1A.jpg "fig:Edifice_ECB-800D-1A.jpg") [Smartphone_vending_machines_and_smartphones.jpg](https://ja.wikipedia.org/wiki/File:Smartphone_vending_machines_and_smartphones.jpg "fig:Smartphone_vending_machines_and_smartphones.jpg")[自販機](https://ja.wikipedia.org/wiki/自販機 "wikilink")\]\]
 
   - [補聴器](../Page/補聴器.md "wikilink")
   - [デジタルペン](https://ja.wikipedia.org/wiki/デジタルペン "wikilink")（[ノキア](../Page/ノキア.md "wikilink")、[ぺんてる](../Page/ぺんてる.md "wikilink")製など）
@@ -415,6 +415,7 @@ BR・EDR・LE</p></td>
       - [サンスター](../Page/サンスター.md "wikilink")「G・U・M PLAY」 - 歯ブラシのハンドル部に装着するアタッチメント。スマートフォンの専用アプリと連携して、歯磨き動作の記録・管理等を行う。
   - [貨物追跡システム](https://ja.wikipedia.org/wiki/トラッキング "wikilink")
       - [アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[デルタ航空](../Page/デルタ航空.md "wikilink")が、[コンテナ](https://ja.wikipedia.org/wiki/コンテナ "wikilink")追跡の為、大手航空会社として初導入\[45\]。
+  - [自動販売機](../Page/自動販売機.md "wikilink")
 
 ## 問題点
 

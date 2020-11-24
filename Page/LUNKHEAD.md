@@ -889,7 +889,9 @@ DVD「VIDEO CLIPS Vol.2」を付属した2枚組。</p></td>
 
 ## 外部リンク
 
-  - [ランクヘッド LUNKHEAD | OFFICIAL WEBSITE](http://www.lunkhead.jp/) - 公式ウェブサイト
+  - [ランクヘッド LUNKHEAD | OFFICIAL WEBSITE](http://www.lunkhead.site/) - 公式ウェブサイト
+
+  - [LUNKHEAD オフィシャルブログ](https://lineblog.me/lunkhead_official/)
 
   - [ランクヘッドBLOG](http://blog.livedoor.jp/lunkhead_nikki/)
 

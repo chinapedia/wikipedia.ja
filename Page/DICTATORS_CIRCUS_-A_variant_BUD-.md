@@ -16,7 +16,7 @@
 1.  [クリア・スカイ](../Page/クリア・スカイ.md "wikilink")
 2.  [MAD SKY -鋼鉄の救世主-](../Page/MAD_SKY_-鋼鉄の救世主-.md "wikilink")
 3.  [ハルカ・・・](https://ja.wikipedia.org/wiki/ハルカ…/カナタヘ… "wikilink")
-4.  [ラストレター](https://ja.wikipedia.org/wiki/ラストレター "wikilink")
+4.  [ラストレター](../Page/ラストレター_\(Pierrotの曲\).md "wikilink")
 5.  [CREATURE](../Page/-CREATURES-.md "wikilink")
 6.  [AGITATOR](../Page/AGITATOR.md "wikilink")
 7.  [神経がワレル暑い夜](../Page/神経がワレル暑い夜.md "wikilink")

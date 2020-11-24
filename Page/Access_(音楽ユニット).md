@@ -1,7 +1,7 @@
 > この記事は[Access \(音楽ユニット\)](https://ja.wikipedia.org/wiki/Access_\(音楽ユニット\))から翻訳されています。
 
 
-**access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。
+**access**（アクセス）は、キーボーディスト[浅倉大介](../Page/浅倉大介.md "wikilink")とボーカリスト[貴水博之](../Page/貴水博之.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[1992年](../Page/1992年.md "wikilink")にデビュー。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")より活動を休止するが[2002年](../Page/2002年.md "wikilink")に活動再開。所属レーベルは[Sony Music Associated Records](../Page/ソニー・ミュージックアソシエイテッドレコーズ.md "wikilink")。所属事務所は[Darwin](https://ja.wikipedia.org/wiki/ダーウィン_\(芸能事務所\) "wikilink")（浅倉）、[Guan Barl](../Page/ぐあんばーる.md "wikilink")（貴水）。[シンセサイザー](../Page/シンセサイザー.md "wikilink")の打ち込みを多用した[J-POP](../Page/J-POP.md "wikilink")の先駆者である。
 
 ## メンバー
 
@@ -1678,6 +1678,8 @@ double decades + half Special SYNC LIVE 1125/1126</p></td>
 
 ## 外部リンク
 
+  -
+  -
   -
   -
   -

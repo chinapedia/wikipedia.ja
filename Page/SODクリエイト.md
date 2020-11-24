@@ -1,7 +1,7 @@
 > この記事は[SODクリエイト](https://ja.wikipedia.org/wiki/SODクリエイト)から翻訳されています。
 
 
-**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当するソフト・オン・デマンド株式会社と直接的な資本関係は無い。
+**SODクリエイト株式会社**（エスオーディークリエイト、*SOD Create CO.,LTD.*）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の大手[アダルトビデオメーカー](../Page/アダルトビデオメーカー.md "wikilink")である。[ソフト・オン・デマンド](../Page/ソフト・オン・デマンド.md "wikilink")（SOD）グループの企画・制作を担当している。SODグループで流通・販売を担当するソフト・オン・デマンド株式会社と資本関係は無い。
 
 ## 概要
 
@@ -21,7 +21,7 @@
 
 とりわけ2005年10月に発売された「**ソフト・オン・デマンド10周年メモリアルBOX**」 は10枚組20時間収録で2,980円という超破格の価格で、業界の話題をさらった。しかし2007年には[東京スポーツ](../Page/東京スポーツ.md "wikilink")とソフト・オン・デマンドが共催する『[AV OPEN〜あなたが決める\!セルアダルトビデオ日本一決定戦〜](../Page/AV_OPEN〜あなたが決める!セルアダルトビデオ日本一決定戦〜.md "wikilink")』において、SODクリエイトが大規模な不正行為を働き優勝が取り消されるといった、業界の信用を失う行為も明るみに出ている。そのため、翌2008年の北都主催の『[AVグランプリ](https://ja.wikipedia.org/wiki/AVグランプリ "wikilink")』には参加していない。
 
-[2011年](../Page/2011年.md "wikilink")5月に人気AV女優とSOD人気シリーズがコラボする新レーベル「**SOD ACE**」を立ち上げた。[アリスJAPAN](../Page/アリスJAPAN.md "wikilink")や[アイデアポケット](../Page/アイデアポケット.md "wikilink")と、コラボが行われている\[1\]。
+[2011年](../Page/2011年.md "wikilink")5月に人気AV女優とSOD人気シリーズがコラボする新レーベル「**SOD ACE**」を立ち上げた。[アリスJAPAN](../Page/アリスJAPAN.md "wikilink")や[アイデアポケット](../Page/アイデアポケット.md "wikilink")と、コラボが行われている。\[1\]
 
 [2013年](../Page/2013年.md "wikilink")2月27日、公式サイトの閉鎖が発表され、[3月31日](../Page/3月31日.md "wikilink")をもってサイトのサービスはソフト・オン・デマンドHPに統合された。現在はオフィシャルブログなどのSNSを中心に情報を発信している。
 
@@ -32,19 +32,21 @@
 ※販売以外を担当
 
   - SOD(2005.1 - )
-  - SENZ(2005.4 - )
-  - SODstar(2007.5 - )\[3\]
+  - SENZ(2005.4 - ) 企画レーベル。初期はユーザー投稿を基にした企画を実現するレーベルであった。
+  - SODstar(2007.5 - )\[3\] 専属女優レーベル
   - 本物人妻（旦那に内緒でAV体験）(2013.7 - )\[4\]
   - MM号(2014.6 - )
-  - 本職(2015.6 - )
+  - 本職(2015.6 - 2017.5) 職業もの作品レーベル
   - SOD女子社員(2015.6 - )
   - 青春時代(2015.12 - )\[5\]
-  - [GIRL'S CH](https://ja.wikipedia.org/wiki/GIRL'S_CH "wikilink")（女性向けAV）（2015.12-）
-  - 青春時代ぷらす(2016.12 - )
-  - エントリー(2017.5 -)
+  - [GIRL'S CH](https://ja.wikipedia.org/wiki/GIRL'S_CH "wikilink")（2015.12-）女性向けAV。
+  - 青春時代ぷらす(2016.12 - 2017.5.) 学生や学校がテーマ。
+  - エントリー(2017.5 - 2019.3) 素人参加作品。
   - [キミホレ](../Page/キミホレ.md "wikilink")(2017.6 -)\[6\]
-  - Ms.SOD（2019/12/12 -）
-  - エモい女の子。（2020/03/24 -）初の配信先行レーベル\[7\]
+  - Ms.SOD（2019.12 - ）”イイ女の輩出”をテーマにする。
+  - [エモい女の子。](https://ja.wikipedia.org/wiki/エモい女の子。 "wikilink")（2020.3 - ）初の配信先行レーベル\[7\]
+  - 麗-KIREI SOD-（2020.9 - ）30代から40代女性をモデルにする。
+  - 女優のクセがスゴい！！（2020.10 - ）
 
 ### 停止
 
@@ -291,124 +293,118 @@
 </tr>
 <tr class="odd">
 <td><p>☆</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ほしのあすか" title="wikilink">ほしのあすか</a></p></td>
-<td><p>元ミスマ○ジン 芸能人 ほしのあすか AV Debut<br />
-(2010-11-4)</p></td>
-</tr>
-<tr class="even">
-<td><p>☆</p></td>
 <td><p>SARAH</p></td>
 <td><p>SARAH AV Debut(2010-12-7)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011年</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/やまぐちりこ" title="wikilink">やまぐちりこ</a></p></td>
 <td><p>やまぐちりこ 超極小デジタルモザイクDebut</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/栗林里莉" title="wikilink">栗林里莉</a></p></td>
 <td><p>僕のかわいい妹くりりんと毎日中出しH♥ 栗林里莉(2011-1-8)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/前田かおり" title="wikilink">前田かおり</a></p></td>
 <td><p>前田かおり AV Debut<br />
 (2011-2-5)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/やまぐちりく" title="wikilink">やまぐちりく</a></p></td>
 <td><p>あの国民的アイドルの妹 やまぐちりく AV Debut(2011-3-5)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/仁科百華" title="wikilink">仁科百華</a></p></td>
 <td><p>仁科百華 超高級中出しソープ嬢(2011-3-19)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/片桐えりりか" title="wikilink">片桐えりりか</a></p></td>
 <td><p>片桐えりりか AV Debut<br />
 (2011-4-7)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/さとう遥希" title="wikilink">さとう遥希</a></p></td>
 <td><p>さとう遥希 男子の格好をしているオンナのコは好きですか?5(2011-4-21)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/美咲みゆ" title="wikilink">美咲みゆ</a></p></td>
 <td><p>美咲みゆちゃんタオル一枚男湯入ってみませんか?HARD(2011-5-7)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南ともか" title="wikilink">南ともか</a></p></td>
 <td><p>南ともか×マジックミラー号 彼女が通う大学の前にMM号を停めて友達の前で超羞恥SEX(2011-5-7)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/黒木いちか" title="wikilink">黒木いちか</a></p></td>
 <td><p>僕のかわいい妹いっちーと毎日中出しH 黒木いちか(2011-5-7)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/横山美雪" title="wikilink">横山美雪</a></p></td>
 <td><p>横山美雪ちゃんタオル一枚男湯入ってみませんか?HARD(2011-6-4)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="../Page/青山菜々.md" title="wikilink">青山菜々</a></p></td>
 <td><p>ユーザー宅出張「四畳半ソープ」 青山菜々(2011-6-4)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北川瞳" title="wikilink">北川瞳</a></p></td>
 <td><p>全裸家政婦 おっぱい＆おマ○コ丸出しで・・・炊事・洗濯・性欲処理 北川瞳(2011-6-4)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/めぐり_(AV女優)" title="wikilink">めぐり</a></p></td>
 <td><p>めぐりちゃんタオル一枚男湯入ってみませんか?HARD(2011-7-7)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="../Page/かすみりさ.md" title="wikilink">かすみりさ</a></p></td>
 <td><p>マジックミラー号がイク</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神野はづき" title="wikilink">神野はづき</a></p></td>
 <td><p>神野はづき AV Debut!<br />
 (2011-8-20)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/立花さや" title="wikilink">立花さや</a></p></td>
 <td><p>僕のかわいい妹さーやと毎日中出しH♥ 立花さや(2011-9-8)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/柏木のぞみ" title="wikilink">柏木のぞみ</a></p></td>
 <td><p>未成年 柏木のぞみ AV Debut(2011-10-6)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/椎名ゆな" title="wikilink">椎名ゆな</a></p></td>
 <td><p>全裸家政婦 椎名ゆな(2011-11-5)</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>☆</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/RYU_(AV女優)" title="wikilink">RYU</a></p></td>
 <td><p>芸能人RYU AV DEBUT(2011-11-19)</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛原さえ" title="wikilink">愛原さえ</a></p></td>
 <td><p>絶対的美少女・愛原さえ×マジックミラー号 素人参加!ギン勃ちチ○ポ感謝祭(2011-11-19)</p></td>
@@ -839,7 +835,7 @@
 <td><p>現役グラビアアイドル まりか×AV Debut<br />
 (2009-12-5)</p></td>
 <td><p>まりか 濃厚なる性交(2010-5-13)をもってSOD Cinderellaを卒業<br />
-卒業後も度々作品を出している</p></td>
+卒業後も度々作品を出していたが、現在はmarika haseとして国際的なポルノ女優として活躍中。</p></td>
 </tr>
 <tr class="even">
 <td></td>

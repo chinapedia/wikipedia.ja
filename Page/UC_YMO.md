@@ -136,7 +136,7 @@
 
 ## 外部リンク
 
-  - [坂本龍一 UI YMO 究極のインタビュー](http://www.sonymusic.co.jp/Music/Info/ymo/UI/index.html)動画を用いたアルバム紹介サイト
+  - [坂本龍一 UI YMO 究極のインタビュー](https://www.sonymusic.co.jp/Music/Info/ymo/UI/index.html)動画を用いたアルバム紹介サイト
 
 ## 出典
 

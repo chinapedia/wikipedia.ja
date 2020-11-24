@@ -9,7 +9,7 @@
 
 バスパワーで電力を供給できる、世界初の汎用シリアル・バス接続システムで、ひとつのバスから周辺機器を3台まで数珠繋ぎに接続でき、一部のモデルを除きキーボードの電源ボタンでシステムの電源を入れることが可能である。
 
-ADBは1986年に発売されたApple II GSで最初に搭載され、1999年に発売された[Power Macintosh G3 (Blue & White)が最後の搭載機種になった](https://ja.wikipedia.org/wiki/Power_Macintosh#Power_Macintosh_G3_.28Blue_.26_White.29 "wikilink")。PowerBookシリーズでは、[PowerBook G3 (Bronze Keyboard)以降は](https://ja.wikipedia.org/wiki/PowerBook_G3#PowerBook_G3_.28Bronze_Keyboard.29 "wikilink")、外部インターフェースとしては搭載されなかったが、キーボードやタッチパッドを接続する内部インターフェースとして使われていた。[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")や[iBook](https://ja.wikipedia.org/wiki/iBook "wikilink")には搭載されていない。
+ADBは1986年に発売されたApple II GSで最初に搭載され、1999年に発売された[Power Macintosh G3 (Blue & White)が最後の搭載機種になった](https://ja.wikipedia.org/wiki/Power_Macintosh#Power_Macintosh_G3_.28Blue_.26_White.29 "wikilink")。PowerBookシリーズでは、[PowerBook G3 (Bronze Keyboard)以降は](https://ja.wikipedia.org/wiki/PowerBook_G3#PowerBook_G3_.28Bronze_Keyboard.29 "wikilink")、外部インターフェースとしては搭載されなかったが、キーボードやタッチパッドを接続する内部インターフェースとして使われていた。[iMac](https://ja.wikipedia.org/wiki/iMac "wikilink")や[iBook](https://ja.wikipedia.org/wiki/iBook "wikilink")には搭載されていない(ADBの代わりにUSBが搭載されている)。
 
 ## 関連項目
 

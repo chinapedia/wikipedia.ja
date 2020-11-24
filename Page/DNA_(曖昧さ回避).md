@@ -50,4 +50,6 @@
   - [D.N.A. 〜Dark Native Apostle〜](https://ja.wikipedia.org/wiki/D.N.A._〜Dark_Native_Apostle〜 "wikilink") - [ハドソン](../Page/ハドソン.md "wikilink")から発売された[PlayStation 2用のゲームソフト](../Page/PlayStation_2.md "wikilink")。
   - DNA (通信社) - [アルジェリア](../Page/アルジェリア.md "wikilink")の通信社
   - [D.N.A (どうでしょう・なびげーと・あんちゃん)](../Page/水曜どうでしょう.md "wikilink") - かつて放送されていた、[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")の再放送版、[どうでしょうリターンズ](https://ja.wikipedia.org/wiki/どうでしょうリターンズ "wikilink")において、[安田顕](../Page/安田顕.md "wikilink")の肩書き。
-  - DNA - アニメ[メタルファイト ベイブレード ZEROGに登場する架空の組織](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG "wikilink")。詳細は[メタルファイト ベイブレード ZEROG\#作中用語を参照](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG#作中用語 "wikilink")
+  - DNA - アニメ[メタルファイト ベイブレード ZEROGに登場する架空の組織](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG "wikilink")。詳細は[メタルファイト ベイブレード ZEROG\#作中用語を参照](https://ja.wikipedia.org/wiki/メタルファイト_ベイブレード_ZEROG#作中用語 "wikilink")。
+  - [D.N.A./ドクター・モローの島](https://ja.wikipedia.org/wiki/D.N.A./ドクター・モローの島 "wikilink") - 1996年公開のアメリカ映画。
+  - [D.N.A.II](https://ja.wikipedia.org/wiki/D.N.A.II "wikilink") - 1997年公開のアメリカ映画。原題は『DNA』。

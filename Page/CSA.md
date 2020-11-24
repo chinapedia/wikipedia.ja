@@ -29,6 +29,8 @@
 
   - \- カナダのフランス語入力用[キーボード配列](https://ja.wikipedia.org/wiki/キーボード配列 "wikilink")。
 
+  - [コストシェアリング取決め](https://ja.wikipedia.org/wiki/コストシェアリング取決め "wikilink") (cost sharing arrangement)
+
 <!-- end list -->
 
   - 組織名

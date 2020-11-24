@@ -23,6 +23,8 @@
 
 ### 現行
 
+### 2020年代卒業
+
 ### 2010年代卒業
 
 ### 2000年代卒業
@@ -37,7 +39,7 @@
 
 ## バックナンバー
 
-2019年
+  - 2019年
 
 <table>
 <thead>
@@ -123,7 +125,7 @@
 </tbody>
 </table>
 
-2018年
+  - 2018年
 
 <table>
 <thead>
@@ -212,7 +214,7 @@
 </tbody>
 </table>
 
-2017年
+  - 2017年
 
 | 号         | 表紙モデル                                                                                    | 表紙登場回数 | 備考 |
 | --------- | ---------------------------------------------------------------------------------------- | ------ | -- |
@@ -229,7 +231,7 @@
 | 2017年11月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                  | 1      |    |
 | 2017年12月号 | [中条あやみ](https://ja.wikipedia.org/wiki/中条あやみ "wikilink")                                  | 2      |    |
 
-2016年
+  - 2016年
 
 <table>
 <thead>
@@ -332,7 +334,7 @@
 </tbody>
 </table>
 
-2015年
+  - 2015年
 
 <table>
 <thead>
@@ -422,7 +424,7 @@
 </tbody>
 </table>
 
-2014年
+  - 2014年
 
 | 号         | 表紙モデル                                                                                                     | 表紙登場回数     | 備考       |
 | --------- | --------------------------------------------------------------------------------------------------------- | ---------- | -------- |
@@ -439,7 +441,7 @@
 | 2014年11月号 | [山本美月](https://ja.wikipedia.org/wiki/山本美月 "wikilink") [まい](https://ja.wikipedia.org/wiki/Chay "wikilink") | 山本 20 まい 2 |          |
 | 2014年12月号 | [舞川あいく](../Page/舞川あいく.md "wikilink")                                                                      |            | 舞川あいく卒業号 |
 
-2013年
+  - 2013年
 
 <table>
 <thead>
@@ -530,7 +532,7 @@
 </tbody>
 </table>
 
-2012年
+  - 2012年
 
 <table>
 <thead>
@@ -625,7 +627,7 @@
 </tbody>
 </table>
 
-2011年
+  - 2011年
 
 <table>
 <thead>
@@ -715,7 +717,7 @@
 </tbody>
 </table>
 
-2010年
+  - 2010年
 
 | 号         | 表紙モデル                                                   | 表紙登場回数 | 備考 |
 | --------- | ------------------------------------------------------- | ------ | -- |
@@ -750,7 +752,7 @@
 
   -
   -
-[Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink")
+[Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:日本の女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本の女性向けファッション雑誌 "wikilink") [Category:1982年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1982年創刊の雑誌 "wikilink")
 
 1.
 2.

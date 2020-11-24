@@ -1,19 +1,17 @@
 > この記事は[AZアルクマール](https://ja.wikipedia.org/wiki/AZアルクマール)から翻訳されています。
 
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:AZ_Eredivisie_Results_1976-2009.jpg "wikilink")
-
 **アルクマール・ザーンストレーク**（）は、[オランダ](https://ja.wikipedia.org/wiki/オランダ "wikilink")の西部、[北ホラント州](../Page/北ホラント州.md "wikilink")の都市[アルクマール](../Page/アルクマール.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。AZは現地の発音は、カタカナ表記でアーゼットとなる。AZがAlkmaar Zaanstreekの頭文字を並べたもののため、"AZアルクマール"という呼び方は正確には誤り。
 
-## 概要
-
-チームの前身アルクマール54は[1954年](../Page/1954年.md "wikilink")に創立され、[1967年](../Page/1967年.md "wikilink")にFCザーンストレークと合併してアルクマール・ザーンストレーク・コンビナティエとなり、1986年7月に現在のAZとなった。1970年代後半から1980年代にかけて好成績をおさめ、1978年に[KNVBカップ](../Page/KNVBカップ.md "wikilink")初優勝、1980-81シーズンにはリーグ優勝・KNVBカップ優勝の2冠を果たすとともに、[UEFAカップ決勝に進出したが](https://ja.wikipedia.org/wiki/UEFAカップ1980-81 "wikilink")、イングランドの[イプスウィッチ・タウンに](../Page/イプスウィッチ・タウンFC.md "wikilink")2試合合計4-5のスコアで敗れた。また、1987-88シーズンには2部降格を経験した。
-
-その後、2部暮らしが続いたものの、1995-96シーズンに優勝、1部へ復帰した。しかし、翌1996-97シーズンは18位で2部へ逆戻り。1997-98シーズンは再び2部で優勝し、改めて1部復帰となった。21世紀に入ってからはオーナーとなったディルク・スヘリンハのもとで補強資金を増やし、コ・アドリアーンセやルイ・ファン・ハールといった名だたる指導者を迎えてチームを強化したことで、[トゥウェンテなどとともに長く続いた](../Page/FCトゥウェンテ.md "wikilink")3強時代（[PSV](../Page/PSVアイントホーフェン.md "wikilink")・[アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")・[フェイエノールト](../Page/フェイエノールト.md "wikilink")）に風穴を開ける存在として活躍。その後スヘリンハのDSB銀行が突然倒産したことでAZも負債を負い、限られた資金を補強からユース強化に回す方針に転換。2015-2016, 2016-2017シーズンに連続してリヌス・ミヘルス・アワードのプロ・フットボール・ベスト・ユースに続けて選ばれている。
-
-1977-78シーズンに初の欧州カップ戦を戦って以来ホームでの欧州カップ戦にめっぽう強く、[アルクマールデルハウト](https://ja.wikipedia.org/wiki/アルクマールデルハウト "wikilink")では32戦無敗を記録した。[DSBスタディオン](https://ja.wikipedia.org/wiki/DSBスタディオン "wikilink")で行われた2007年12月20日の[UEFAカップ](../Page/UEFAヨーロッパリーグ.md "wikilink")・[エヴァートン戦で敗れたことでその記録は途切れた](../Page/エヴァートンFC.md "wikilink")\[1\]。
-
 ## 歴史
+
+[220px](https://ja.wikipedia.org/wiki/ファイル:AZ_Eredivisie_Results_1976-2009.jpg "wikilink")
+
+### 1960-80年代
+
+AZアルクマールは、[北ホラント州](../Page/北ホラント州.md "wikilink")に拠点を置くプロクラブだったアルクマール'54とアマチュアクラブだったFCザーンストレークの合併により設立された。アルクマール'54は、国内初のプロリーグを創設する際のメンバーとして1954年にプロサッカークラブとして設立された。FCザーンストレークは、KFCとZFCという両クラブの合併計画が失敗に終わった後、KFCがアマチュアクラブとして存続するために設立された。FCザーンストレークは1964年にモレナール兄弟の画期的な経営と戦術の下、着実に力をつけ、プロクラブになる資格を得たことでKFC後を継ぐクラブとして再編された。1967年、アルクマール'54とFCザーンストレークは両社ともに深刻な経営難に陥っており、それを改善すること、そして、当時も国内最強だった[アヤックス](../Page/アヤックス・アムステルダム.md "wikilink")1強を崩すためという目的の下合併した。しかし、1972年、再び経営難になり、成績も低迷。この時救いの手を差し伸べたのは、FCザーンストレークを強豪へと押し上げたモレナール兄弟と当時国内でもトップクラスの利益を生み出していた電化製品会社「ワストラ」だった。これを機に、AZは国内でも好成績を残し始めた。1978年に[KNVBカップ](../Page/KNVBカップ.md "wikilink")初優勝、1980-81シーズンにはリーグ優勝・KNVBカップ優勝の2冠を果たすとともに、[UEFAカップ決勝に進出したが](https://ja.wikipedia.org/wiki/UEFAカップ1980-81 "wikilink")、イングランドの[イプスウィッチ・タウンに](../Page/イプスウィッチ・タウンFC.md "wikilink")2試合合計4-5のスコアで敗れた。
+
+しかし、1980年代に入ると、[ボスマン判決](../Page/ボスマン判決.md "wikilink")や財政悪化、スター選手の退団など次第に実力が低下。1987-88シーズン、ついに[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink")に降格してしまった。その後、2部暮らしが続いたものの、1995-96シーズンに優勝、1部へ復帰した。しかし、翌1996-97シーズンは18位で2部へ逆戻り。1997-98シーズンは再び2部で優勝し、改めて1部復帰となった。
 
 [220pxで優勝し](https://ja.wikipedia.org/wiki/ファイル:Huldiging_AZ_kampioen_2009.jpg "wikilink")、祝杯を挙げる選手達\]\] [220px](https://ja.wikipedia.org/wiki/ファイル:DSB-Stadion.jpg "wikilink")
 
@@ -45,7 +43,7 @@
 
 2012-13シーズン、リーグ戦は期待に沿う結果は残せなかったが、[KNVBカップ](../Page/KNVBカップ.md "wikilink")では決勝で[PSVアイントホーフェン](../Page/PSVアイントホーフェン.md "wikilink")を破って31年ぶりの優勝を飾った。
 
-2019-20シーズン、クラブの監督に新しく[アルネ・スロット](../Page/アルネ・スロット.md "wikilink")を招集し、欧州の舞台で戦う準備を始めた。夏の移籍市場では[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")に移籍した[フース・ティルの代役として](https://ja.wikipedia.org/wiki/:en:Guus_Til "wikilink")[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[ダニ・デ・ウィト](../Page/ダニ・デ・ウィト.md "wikilink")やMF[ヨルディ・クラーシ](https://ja.wikipedia.org/wiki/ヨルディ・クラーシ "wikilink")さらにはクラブ史上初の日本人選手としてDF[菅原由勢](https://ja.wikipedia.org/wiki/菅原由勢 "wikilink")らを獲得した。リーグ戦ではAZユース出身のFW[マイロン・ボアドゥ](https://ja.wikipedia.org/wiki/マイロン・ボアドゥ "wikilink")やMF[トゥーン・コープマイネルス](../Page/トゥーン・コープマイネルス.md "wikilink")、FW[ケルヴィン・ステングス](https://ja.wikipedia.org/wiki/ケルヴィン・ステングス "wikilink")の活躍もあって、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")に次ぐリーグ戦2位でシーズンを終えた。一方、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")らと同組だったのにも関わらず、見事グループステージを突破した。ベスト32の対戦相手は[LASKリンツ](https://ja.wikipedia.org/wiki/LASKリンツ "wikilink")となった。1戦目はホームで1-1の引き分け、アウェイ2戦目は2-0で完敗を喫し、2試合合計3-1で大会を去った。
+2019-20シーズン、クラブの監督に新しく[アルネ・スロット](../Page/アルネ・スロット.md "wikilink")を招集し、欧州の舞台で戦う準備を始めた。夏の移籍市場では[FCスパルタク・モスクワ](../Page/FCスパルタク・モスクワ.md "wikilink")に移籍した[フース・ティルの代役として](https://ja.wikipedia.org/wiki/:en:Guus_Til "wikilink")[アヤックスから](../Page/アヤックス・アムステルダム.md "wikilink")[ダニ・デ・ウィト](../Page/ダニ・デ・ウィト.md "wikilink")やMF[ヨルディ・クラーシ](https://ja.wikipedia.org/wiki/ヨルディ・クラーシ "wikilink")さらにはクラブ史上初の日本人選手としてDF[菅原由勢](https://ja.wikipedia.org/wiki/菅原由勢 "wikilink")らを獲得した。リーグ戦ではAZユース出身のFW[マイロン・ボアドゥ](https://ja.wikipedia.org/wiki/マイロン・ボアドゥ "wikilink")やMF[トゥーン・コープマイネルス](../Page/トゥーン・コープマイネルス.md "wikilink")、FW[ケルヴィン・ステングス](https://ja.wikipedia.org/wiki/ケルヴィン・ステングス "wikilink")の活躍もあって、[アヤックス・アムステルダム](../Page/アヤックス・アムステルダム.md "wikilink")に次ぐリーグ戦2位でシーズンを終えた。一方、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")らと同組だったのにも関わらず、グループステージを突破した。ベスト32の対戦相手は[LASKリンツ](https://ja.wikipedia.org/wiki/LASKリンツ "wikilink")となった。1戦目はホームで1-1の引き分け、アウェイ2戦目は2-0で完敗を喫し、2試合合計3-1で大会を去った。
 
 ## タイトル
 
@@ -64,9 +62,46 @@
   - **[ヨハン・クライフ・スハール](../Page/ヨハン・クライフ・スハール.md "wikilink")：1回**
       - 2009
 
+<!-- end list -->
+
+  - **[エールステ・ディヴィジ](../Page/エールステ・ディヴィジ.md "wikilink") : 2回**
+      - 1995-96, 1997-98
+
 ### 国際タイトル
 
 なし
+
+### 親善大会
+
+  - **[アムステルダム・トーナメント](../Page/アムステルダム・トーナメント.md "wikilink") : 3回**
+      - 1977, 1979, 1982
+
+<!-- end list -->
+
+  - **ブルーフセ・メッテン : 1回**
+      - 1978
+
+<!-- end list -->
+
+  - **[マリティーム・トゥールノーイ](https://ja.wikipedia.org/wiki/マリティーム・トゥールノーイ "wikilink") : 3回**
+      - 1989, 1990, 1997
+
+### その他
+
+  - **リーグフェアプレー賞 : 3回**
+      - 2003-04, 2004-05, 2006-07
+
+<!-- end list -->
+
+  - **[リヌス・ミヘルス・アワード](https://ja.wikipedia.org/wiki/リヌス・ミヘルス・アワード "wikilink") : 2回**
+      - 2014-15, 2015-16
+
+<!-- end list -->
+
+  - **VVCSフェルデンコンペティティエ : 1回**※
+      - 2013
+
+※その年、最もクラブ設備、施設が整っているクラブに贈られる賞。
 
 ## 過去の成績
 
@@ -1028,12 +1063,74 @@ AZはUEFAの大会に通算16回参加しているが、タイトル獲得には
 <td></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループF</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
+<td></td>
+<td><p>1-0</p></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/レアル・ソシエダ" title="wikilink">ソシエダ</a></p></td>
+<td></td>
+<td><p>0-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/HNKリエカ.md" title="wikilink">リエカ</a></p></td>
+<td><p>4-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
+## クラブ記録
+
+### 試合
+
+  - 最多対戦 : [アヤックス](../Page/アヤックス・アムステルダム.md "wikilink") (97回)
+  - 最大点差勝利 : [ヘラクレス・アルメロ](../Page/ヘラクレス・アルメロ.md "wikilink")戦 (AZ 8-0 ヘラクレス、1997-98)
+  - 最大点差敗北 : [フェイエノールト](../Page/フェイエノールト.md "wikilink")戦 (AZ 0-8 フェイエノールト、1986-87)
+
+### 選手
+
+  - 公式戦通算得点
+
+<!-- end list -->
+
+  - 1位 155得点  [キース・キスト](https://ja.wikipedia.org/wiki/キース・キスト "wikilink")
+  - 2位 104得点  [クリステン・ニゴール](https://ja.wikipedia.org/wiki/クリステン・ニゴール_\(サッカー選手\) "wikilink")
+  - 3位 65得点  [バリー・ファン・ハーレン](../Page/バリー・ファン・ハーレン.md "wikilink")
+  - 4位 58得点  [ケネス・ペレス](../Page/ケネス・ペレス.md "wikilink")
+  - 5位 56得点  [ロビン・ネリッセ](https://ja.wikipedia.org/wiki/ロビン・ネリッセ "wikilink")
+
+<!-- end list -->
+
+  - 公式戦通算出場
+
+<!-- end list -->
+
+  - 1位 370試合  [バリー・オプダム](../Page/バリー・オプダム.md "wikilink")
+  - 2位 255試合  [バリー・ファン・ハーレン](../Page/バリー・ファン・ハーレン.md "wikilink")
+  - 3位 226試合  [ミハエル・バスカーモレン](https://ja.wikipedia.org/wiki/ミハエル・バスカーモレン "wikilink")
+  - 4位 225試合  [ケウ・ヤリエンス](../Page/ケウ・ヤリエンス.md "wikilink")
+  - 5位 225試合  [マールテン・マルテンス](https://ja.wikipedia.org/wiki/マールテン・マルテンス "wikilink")
+
 ## 現所属メンバー
 
-**[2020年](../Page/2020年.md "wikilink")[9月11日](../Page/9月11日.md "wikilink")現在**\[2\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))
+**[2020年](../Page/2020年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")現在**\[1\]     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Dominican_Republic.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))    ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink"))
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -1063,87 +1160,77 @@ AZはUEFAの大会に通算16回参加しているが、タイトル獲得には
 
 ## 歴代監督
 
-<table>
-<thead>
-<tr class="header">
-<th><p>氏名</p></th>
-<th><p>国籍</p></th>
-<th><p>期間</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/テオ・フォンク" title="wikilink">テオ・フォンク</a></p></td>
-<td></td>
-<td><p>1995-1997</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/ヴィレム・ファン・ハネヘム.md" title="wikilink">ヴィレム・ファン・ハネヘム</a></p></td>
-<td></td>
-<td><p>1997-1999</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘラルト・ファン・デル・レム" title="wikilink">ヘラルト・ファン・デル・レム</a></p></td>
-<td></td>
-<td><p>1999-2001</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘンク・ファン・ステー" title="wikilink">ヘンク・ファン・ステー</a></p></td>
-<td></td>
-<td><p>2001-2002</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/コー・アドリアーンセ" title="wikilink">コー・アドリアーンセ</a></p></td>
-<td></td>
-<td><p>2002-2005</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/ルイ・ファン・ハール.md" title="wikilink">ルイ・ファン・ハール</a></p></td>
-<td></td>
-<td><p>2005-2009</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/ロナルド・クーマン.md" title="wikilink">ロナルド・クーマン</a></p></td>
-<td></td>
-<td><p>2009</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/ディック・アドフォカート.md" title="wikilink">ディック・アドフォカート</a></p></td>
-<td></td>
-<td><p>2009-2010</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ヘルトヤン・フェルベーク" title="wikilink">ヘルトヤン・フェルベーク</a></p></td>
-<td></td>
-<td><p>2010-2013</p></td>
-</tr>
-<tr class="even">
-<td><p>ディック・アドフォカート</p></td>
-<td></td>
-<td><p>2013-2014</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/マルコ・ファン・バステン.md" title="wikilink">マルコ・ファン・バステン</a></p></td>
-<td></td>
-<td><p>2014</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/アレックス・パストール" title="wikilink">アレックス・パストール</a></p></td>
-<td></td>
-<td><p>2014</p></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョン・ファン・デン・ブロム" title="wikilink">ジョン・ファン・デン・ブロム</a></p></td>
-<td></td>
-<td><p>2014-2019</p></td>
-</tr>
-<tr class="even">
-<td><p><a href="../Page/アルネ・スロット.md" title="wikilink">アルネ・スロット</a></p></td>
-<td></td>
-<td><p>2019-</p></td>
-</tr>
-</tbody>
-</table>
+  - AZ'67時代
+
+<!-- end list -->
+
+  - [レスリー・タルボ](https://ja.wikipedia.org/wiki/レスリー・タルボ "wikilink") 1967-1968
+
+  - [ヴィム・ブロクラント](https://ja.wikipedia.org/wiki/ヴィム・ブロクラント "wikilink") 1968-1969
+
+  - ロベルト・ハインツ 1969-1971
+
+  - [コル・ファン・デル・ハルト](https://ja.wikipedia.org/wiki/コル・ファン・デル・ハルト "wikilink") 1971-1973
+
+  - [ヨープ・ブレント](https://ja.wikipedia.org/wiki/ヨープ・ブレント "wikilink") 1973-1976
+
+  - [ハンス・クラーイ](https://ja.wikipedia.org/wiki/ハンス・クラーイ "wikilink") 1976-1977
+
+  - [ヤン・ノテルマンス](https://ja.wikipedia.org/wiki/ヤン・ノテルマンス "wikilink") 1977
+
+  - [コル・ファン・デル・ハルト](https://ja.wikipedia.org/wiki/コル・ファン・デル・ハルト "wikilink") 1977-1978
+
+  - [ゲオルク・ケスラー](https://ja.wikipedia.org/wiki/ゲオルク・ケスラー "wikilink") 1978-1982
+
+  - [ハンス・アイケンブルーク](https://ja.wikipedia.org/wiki/ハンス・アイケンブルーク "wikilink") 1982-1983
+
+  - [ピート・デ・フィセール](https://ja.wikipedia.org/wiki/ピート・デ・フィセール "wikilink") 1983-1985
+
+  - [フリッツ・スーテクーヴ](https://ja.wikipedia.org/wiki/フリッツ・スーテクーヴ "wikilink") 1985-1986
+
+<!-- end list -->
+
+  - AZ時代
+
+[220px](https://ja.wikipedia.org/wiki/ファイル:Co_Adriaanse.jpg "wikilink") [220px](https://ja.wikipedia.org/wiki/ファイル:Louis-van-gaal4.jpg "wikilink")\]\]
+
+  - [ハン・ベルガー](../Page/ハン・ベルガー.md "wikilink") 1986
+
+  - [ハンス・アイケンブルーク](https://ja.wikipedia.org/wiki/ハンス・アイケンブルーク "wikilink") 1986-1989
+
+  - [ハンス・ファン・ドールネフェルト](https://ja.wikipedia.org/wiki/ハンス・ファン・ドールネフェルト "wikilink") 1989-1990
+
+  - [ヘンク・ヴレムス](https://ja.wikipedia.org/wiki/ヘンク・ヴレムス "wikilink") 1990-1993
+
+  - [ピート・シュライフェルス](https://ja.wikipedia.org/wiki/ピート・シュライフェルス "wikilink") 1993-1995
+
+  - [テオ・フォンク](https://ja.wikipedia.org/wiki/テオ・フォンク "wikilink") 1995-1997
+
+  - [ハンス・デ・コニング](https://ja.wikipedia.org/wiki/ハンス・デ・コニング "wikilink") ＆ [マルティン・ハール](https://ja.wikipedia.org/wiki/マルティン・ハール "wikilink") 1997
+
+  - [ヴィレム・ファン・ハネヘム](../Page/ヴィレム・ファン・ハネヘム.md "wikilink") 1997-1999
+
+  - [ヘラルト・ファン・デル・レム](https://ja.wikipedia.org/wiki/ヘラルト・ファン・デル・レム "wikilink") 1999-2000
+
+  - [ヘンク・ファン・ステー](https://ja.wikipedia.org/wiki/ヘンク・ファン・ステー "wikilink") 2000-2002
+
+  - [コー・アドリアーンセ](https://ja.wikipedia.org/wiki/コー・アドリアーンセ "wikilink") 2002-2005
+
+  - [ルイス・ファン・ハール](https://ja.wikipedia.org/wiki/ルイス・ファン・ハール "wikilink") 2005-2009
+
+  - [ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink") 2009
+
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 2009-2010
+
+  - [ヘルトヤン・フェルベーク](https://ja.wikipedia.org/wiki/ヘルトヤン・フェルベーク "wikilink") 2010-2013
+
+  - [ディック・アドフォカート](../Page/ディック・アドフォカート.md "wikilink") 2013-2014
+
+  - [マルコ・ファン・バステン](../Page/マルコ・ファン・バステン.md "wikilink") 2014
+
+  - [ヨン・ファン・デン・ブロム](https://ja.wikipedia.org/wiki/ジョン・ファン・デン・ブロム "wikilink") 2014-2019
+
+  - [アルネ・スロット](../Page/アルネ・スロット.md "wikilink") 2019-
 
 ## 歴代所属選手
 
@@ -1155,5 +1242,4 @@ AZはUEFAの大会に通算16回参加しているが、タイトル獲得には
 
 [Category:AZアルクマール](https://ja.wikipedia.org/wiki/Category:AZアルクマール "wikilink") [Category:オランダのサッカークラブ](https://ja.wikipedia.org/wiki/Category:オランダのサッカークラブ "wikilink") [Category:北ホラント州のスポーツ](https://ja.wikipedia.org/wiki/Category:北ホラント州のスポーツ "wikilink") [Category:アルクマール](https://ja.wikipedia.org/wiki/Category:アルクマール "wikilink")
 
-1.
-2.  [Spelers](http://www.az.nl/teams/a-selectie/spelers)AZアルクマール公式サイト 2020年2月9日閲覧
+1.  [Spelers](http://www.az.nl/teams/a-selectie/spelers)AZアルクマール公式サイト 2020年2月9日閲覧

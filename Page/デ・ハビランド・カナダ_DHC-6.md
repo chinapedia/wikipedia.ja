@@ -55,13 +55,13 @@
 
 ## 日本におけるDHC-6
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:Air_Hokkaido_DHC-6-300_JA8799.JPG "wikilink") 日本では1973年12月に[南西航空](https://ja.wikipedia.org/wiki/南西航空 "wikilink")（後の[日本トランスオーシャン航空](../Page/日本トランスオーシャン航空.md "wikilink")）、翌年8月には日本近距離航空（後の[エアーニッポン](../Page/エアーニッポン.md "wikilink")）が就航を開始した。2社では計7機が登録され、[航空法](../Page/航空法.md "wikilink")により[YS-11](../Page/YS-11.md "wikilink")の就航が難しくなった路線に就航していた。
+[thumb](https://ja.wikipedia.org/wiki/ファイル:Air_Hokkaido_DHC-6-300_JA8799.JPG "wikilink") 日本では1973年12月に[南西航空](https://ja.wikipedia.org/wiki/南西航空 "wikilink")（後の[日本トランスオーシャン航空](../Page/日本トランスオーシャン航空.md "wikilink")）、翌年8月には日本近距離航空（後の[エアーニッポン](../Page/エアーニッポン.md "wikilink")）が就航を開始した。2社では計7機が登録され、[航空法](../Page/航空法.md "wikilink")により[YS-11](../Page/YS-11.md "wikilink")の就航が難しくなった路線に就航していた。日本近距離航空の3機には、飛行時間を考慮して座席を1つ分潰してトイレを設置している\[2\]。
 
 日本トランスオーシャン航空の機体は1992年11月に[琉球エアーコミューター](../Page/琉球エアーコミューター.md "wikilink")へ移籍され、2002年1月に後継機となる[Q100と交代する形で引退した](https://ja.wikipedia.org/wiki/DHC-8#Q_シリーズへの改良 "wikilink")。
 
 エアーニッポンの機体も1994年7月に[エアー北海道](../Page/エアー北海道.md "wikilink")へ移籍され、2003年からは最後に残った一機（JA8797）が[函館](../Page/函館空港.md "wikilink") ‐ [奥尻線で運航されていたが](../Page/奥尻空港.md "wikilink")、老朽化や[TCAS](https://ja.wikipedia.org/wiki/TCAS "wikilink")設置の義務化（ADKのDHC-6はTCASが設置されていなかった）などにより、[2006年](../Page/2006年.md "wikilink")[3月31日](../Page/3月31日.md "wikilink")の運航を最後に引退し、一旦は日本の空からDHC-6が消えた。
 
-[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[第一航空](https://ja.wikipedia.org/wiki/第一航空 "wikilink")がDHC-6-400を2機を発注し、2015年3月31日にJA201D・JA202Dとして登録された。2015年8月5日より、[那覇](../Page/那覇空港.md "wikilink") - [粟国間の定期便として就航した](../Page/粟国空港.md "wikilink")\[2\] が、2015年8月28日午前8時55分頃、那覇発粟国行きのJA201Dが粟国空港に接地後、滑走路を逸脱しフェンスに衝突。機体を中破し搭乗客11人が負傷する[事故となり](../Page/航空事故.md "wikilink")、路線運休を余儀なくされた。2018年1月にいったん運航を再開したものの、国・沖縄県・粟国村からの補助金が切れるため同年4月より再び運休となった\[3\]。
+[2014年](../Page/2014年.md "wikilink")[2月12日](../Page/2月12日.md "wikilink")に[第一航空](https://ja.wikipedia.org/wiki/第一航空 "wikilink")がDHC-6-400を2機を発注し、2015年3月31日にJA201D・JA202Dとして登録された。2015年8月5日より、[那覇](../Page/那覇空港.md "wikilink") - [粟国間の定期便として就航した](../Page/粟国空港.md "wikilink")\[3\] が、2015年8月28日午前8時55分頃、那覇発粟国行きのJA201Dが粟国空港に接地後、滑走路を逸脱しフェンスに衝突。機体を中破し搭乗客11人が負傷する[事故となり](../Page/航空事故.md "wikilink")、路線運休を余儀なくされた。2018年1月にいったん運航を再開したものの、国・沖縄県・粟国村からの補助金が切れるため同年4月より再び運休となった\[4\]。
 
 ## 脚注
 
@@ -78,5 +78,6 @@
 [Category:カナダの航空機](https://ja.wikipedia.org/wiki/Category:カナダの航空機 "wikilink") [Category:旅客機](https://ja.wikipedia.org/wiki/Category:旅客機 "wikilink")
 
 1.  [メーデー\!:航空機事故の真実と真相](https://ja.wikipedia.org/wiki/メーデー!:航空機事故の真実と真相 "wikilink") 第11シーズン第9話 "Terror In Paradise"
-2.
+2.  青鉛筆『朝日新聞』昭和49年8月10日朝刊、13版、19面
 3.
+4.

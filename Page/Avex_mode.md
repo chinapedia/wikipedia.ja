@@ -73,14 +73,14 @@ avex2代目ロゴ
   - [A・LI・CE](https://ja.wikipedia.org/wiki/A・LI・CE "wikilink")
   - [いちご100%](../Page/いちご100%.md "wikilink")(TV版のみ、OVAは他社の担当（音源も[他社が制作](../Page/ランティス.md "wikilink")・保有）)
   - [頭文字D](../Page/頭文字D.md "wikilink")シリーズ（Final Stageまで）
-  - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉 "wikilink")
+  - [犬夜叉](https://ja.wikipedia.org/wiki/犬夜叉_\(アニメ\) "wikilink")
   - [うえきの法則](../Page/うえきの法則.md "wikilink")
   - [エイトマン](https://ja.wikipedia.org/wiki/エイトマン "wikilink")（DVDメモリアルボックス）
   - [おくさまは女子高生](https://ja.wikipedia.org/wiki/おくさまは女子高生 "wikilink")（ゲーム音源はリリース元（[データム・ポリスター](../Page/データム・ポリスター.md "wikilink")）の音楽部門が制作・保有）
   - [capeta](https://ja.wikipedia.org/wiki/capeta "wikilink")（発売元は[マーベラスエンターテイメント](../Page/マーベラス_\(企業\).md "wikilink")）
   - [北へ。〜Diamond Dust Drops〜](../Page/北へ。〜Diamond_Dust_Drops〜.md "wikilink")（アニメ版、ゲーム音源は[コナミデジタルエンタテインメント](../Page/コナミデジタルエンタテインメント.md "wikilink") マルチメディアユニットが制作・保有）
   - [機動天使エンジェリックレイヤー](../Page/ANGELIC_LAYER.md "wikilink")
-  - [キャプテン](../Page/キャプテン.md "wikilink")（DVDメモリアルボックス）
+  - [キャプテン](https://ja.wikipedia.org/wiki/キャプテン_\(漫画\)#テレビアニメ "wikilink")（DVDメモリアルボックス）
   - [キャプテン翼](../Page/キャプテン翼.md "wikilink")（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")版最新シリーズ）
   - [ギルガメッシュ](../Page/ギルガメッシュ_\(漫画\).md "wikilink")
   - [ゴースト・ハント](../Page/悪霊シリーズ.md "wikilink")（アニメ音源は[マーベラスエンターテイメントが制作](../Page/マーベラス_\(企業\).md "wikilink")・保有）

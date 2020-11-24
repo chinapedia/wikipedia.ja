@@ -11,7 +11,7 @@
 
 ハリウッドをはじめとする映像現場で使われているプロ仕様の[ハイエンド](https://ja.wikipedia.org/wiki/ハイエンド "wikilink")ソフトであり、[映画](../Page/映画.md "wikilink")・[アニメ制作会社](../Page/アニメ制作会社.md "wikilink")・[テレビ番組](../Page/テレビ番組.md "wikilink")・[ゲーム](../Page/ゲーム.md "wikilink")・[CMの制作に使用されている](../Page/コマーシャルメッセージ.md "wikilink")。範囲=シェアで言えば、[VFX](../Page/VFX.md "wikilink")で圧倒的であり、建築ヴィジュアライゼーションでは3ds Maxが多く、[ゲーム](../Page/ゲーム.md "wikilink")では3ds MaxとMayaは50:50だとAutodeskからは言われている。また、日本に限ってなら50%以上のトップのシェアを持っており、残りを[3ds Maxと](../Page/3ds_Max.md "wikilink")[Softimage](../Page/Softimage.md "wikilink")が分け合っている状況である\[1\]。
 
-[PowerAnimatorの後継](https://ja.wikipedia.org/wiki/:en:PowerAnimator "wikilink")、ゲーム開発、キャラクターアニメーションを強く意識した製品である。また、いくつかの[機械系CADのデータ形式にも対応しており](../Page/CAD.md "wikilink")、実際に[自動車](../Page/自動車.md "wikilink")メーカーなどの製造業ではデザイン的な要素の強い部品の設計に使用している。
+[PowerAnimator](https://ja.wikipedia.org/wiki/:en:PowerAnimator "wikilink")（パワーアニメーター）の後継、ゲーム開発、キャラクターアニメーションを強く意識した製品である。また、いくつかの[機械系CADのデータ形式にも対応しており](../Page/CAD.md "wikilink")、実際に[自動車](../Page/自動車.md "wikilink")メーカーなどの製造業ではデザイン的な要素の強い部品の設計に使用している。
 
 2016年1月末をもって、永久ライセンスの販売は終了し、定期的にライセンス料を支払うことで使用が許されるサブスクリプション型のライセンス制度に移行する。オートデスク社の主要ソフト（3ds Max等）もMayaと同様にサブスクリプション型となる。また、3ds Max等とのバンドル製品も2016年7月末で永久ライセンスの販売を終了する。
 

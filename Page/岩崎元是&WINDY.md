@@ -7,10 +7,10 @@
 
 ## メンバー
 
-  - **[岩崎 元是](../Page/岩崎元是.md "wikilink")**（いわさき もとよし、[1962年](../Page/1962年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink")-） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギター](../Page/ギター.md "wikilink")担当。北海道出身。
-  - **稲葉 直弘**（いなば なおひろ、[1962年](../Page/1962年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink")-） [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。千葉県出身。
-  - **関 和則** （せき かずのり、[1965年](../Page/1965年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")-） [ドラム担当](../Page/ドラムセット.md "wikilink")。新潟県出身。
-  - **村中 義仁**（むらなか よしひと、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[4月15日](../Page/4月15日.md "wikilink")-[2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")） [ベースギター担当](../Page/エレクトリックベース.md "wikilink")。千葉県出身。
+  - **[岩崎 元是](../Page/岩崎元是.md "wikilink")**（いわさき もとよし、[1962年](../Page/1962年.md "wikilink")[3月19日](../Page/3月19日.md "wikilink") - ） [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")と[ギター](../Page/ギター.md "wikilink")担当。北海道出身。
+  - **稲葉 直弘**（いなば なおひろ、[1962年](../Page/1962年.md "wikilink")[2月10日](../Page/2月10日.md "wikilink") - ） [キーボード担当](../Page/キーボード_\(楽器\).md "wikilink")。千葉県出身。
+  - **関 和則** （せき かずのり、[1965年](../Page/1965年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink") - ） [ドラム担当](../Page/ドラムセット.md "wikilink")。新潟県出身。
+  - **村中 義仁**（むらなか よしひと、[1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")[4月15日](../Page/4月15日.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")） [ベースギター担当](../Page/エレクトリックベース.md "wikilink")。千葉県出身。
 
 ## ディスコグラフィ
 

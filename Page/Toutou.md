@@ -7,7 +7,7 @@
 
 [2003年](../Page/2003年.md "wikilink")9月から[2004年](../Page/2004年.md "wikilink")3月まで[BS朝日の](../Page/ビーエス朝日.md "wikilink")[テレビ番組](../Page/テレビ番組.md "wikilink")「[15-0](https://ja.wikipedia.org/wiki/15-0 "wikilink")」にレギュラー出演。[フランス語](https://ja.wikipedia.org/wiki/フランス語 "wikilink")で「わんわん」（[犬](https://ja.wikipedia.org/wiki/犬 "wikilink")の[幼児語](../Page/幼児語.md "wikilink")）を意味するグループ名はこの番組で仮につけられたものだったが、その後も変更されることなく正式なものとなった。
 
-[2005年](../Page/2005年.md "wikilink")4月〜9月に、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")で放送のテレビ番組『[ガチャガチャポン\!](../Page/ガチャガチャポン!.md "wikilink")』のエンディング「歌う[星占い](../Page/星座占い.md "wikilink")」のコーナーで、毎週[歌詞](../Page/歌詞.md "wikilink")の異なる歌を披露。同年[7月6日](../Page/7月6日.md "wikilink")に同曲を収録したシングル「星占いの歌」でCDデビュー。なお、各週の放送終了後からは、その週のエンディングで使用されたヴァージョンの「星占いの歌」が[公式HP](http://www.sonymusic.co.jp/Music/Info/toutou/index.html)で試聴可能となっている\[1\]。
+[2005年](../Page/2005年.md "wikilink")4月〜9月に、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")・[BSフジ](../Page/BSフジ.md "wikilink")で放送のテレビ番組『[ガチャガチャポン\!](../Page/ガチャガチャポン!.md "wikilink")』のエンディング「歌う[星占い](../Page/星座占い.md "wikilink")」のコーナーで、毎週[歌詞](../Page/歌詞.md "wikilink")の異なる歌を披露。同年[7月6日](../Page/7月6日.md "wikilink")に同曲を収録したシングル「星占いの歌」でCDデビュー。なお、各週の放送終了後からは、その週のエンディングで使用されたヴァージョンの「星占いの歌」が[公式HP](https://www.sonymusic.co.jp/Music/Info/toutou/index.htmlindex_pc.html)で試聴可能となっている\[1\]。
 
 デビュー当時のキャッチフレーズは「手足ながなが姉妹」「平成の[ピンクレディー](https://ja.wikipedia.org/wiki/ピンクレディー "wikilink")\!?」など。また紗也香は「確信犯的メガネガール」（当時[伊達眼鏡](../Page/伊達眼鏡.md "wikilink")だった）、麻理香は「全く未知数の現代少女」（当時は現役[中学生](https://ja.wikipedia.org/wiki/中学生 "wikilink")）といわれていた。
 
@@ -111,7 +111,7 @@
 
 ## 外部リンク
 
-  - [SME公式 toutou](http://www.sonymusic.co.jp/Music/Info/toutou/index.html)
+  - [SME公式 toutou](https://www.sonymusic.co.jp/Music/Info/toutou/index.htmlindex_pc.html)
   - [toutouのブログ toutou Official Blog](https://ameblo.jp/toutou-toutou)
 
 [Category:日本の女性アイドルグループ](https://ja.wikipedia.org/wiki/Category:日本の女性アイドルグループ "wikilink")

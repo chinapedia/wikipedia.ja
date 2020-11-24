@@ -1,11 +1,11 @@
 > この記事は[オールナイトニッポンDX](https://ja.wikipedia.org/wiki/オールナイトニッポンDX)から翻訳されています。
 
 
-**オールナイトニッポンDX**（**オールナイトニッポンデラックス**）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていたラジオ番組。
+『**オールナイトニッポンDX**』（オールナイトニッポンデラックス）は、[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")から[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[3月](https://ja.wikipedia.org/wiki/3月 "wikilink")まで放送されていたラジオ番組。
 
 ## 概要
 
-同番組は、同局の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』放送開始30周年を記念して、ナイターオフシーズンの半年間限定で放送された番組であり、番組[パーソナリティも](../Page/ラジオパーソナリティ.md "wikilink")1970～80年代に『オールナイトニッポン』のパーソナリティを務めた有名人が担当していた。また番組内でのジングルも、かつて『オールナイトニッポン』で使用されていたもの（そのうち、初期の「ビバ\!ヤング」のフレーズが入ったものと、20周年記念で制作した[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")のジングルは本番組放送にあたりフレーズなどを変えて新規製作されている。）が流されていた。
+本番組は、同局の[深夜放送](../Page/深夜放送.md "wikilink")『[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")』放送開始30周年を記念して、ナイターオフシーズンの半年間限定で放送された番組であり、番組[パーソナリティも](../Page/ラジオパーソナリティ.md "wikilink")1970年代から1980年代に『オールナイトニッポン』のパーソナリティを務めた有名人が担当していた。また番組内でのジングルも、かつて『オールナイトニッポン』で使用されていたもの（そのうち、初期の「ビバ\!ヤング」のフレーズが入ったものと、20周年記念で制作した[角松敏生](https://ja.wikipedia.org/wiki/角松敏生 "wikilink")のジングルは本番組放送にあたりフレーズなどを変えて新規製作されている。）が流されていた。
 
 しかし同時間帯にニッポン放送では、これまでのナイターオフシーズン同様に『[ヨッ\!お疲れさん](../Page/ヨッ!お疲れさん.md "wikilink")』が地方局向けに[裏送り](../Page/裏送り.md "wikilink")で制作されており\[1\]、多くの地方局では『オールナイトニッポンDX』よりも『ヨッ\!お疲れさん』をネットしている局のほうが多かった\[2\]。
 
@@ -115,7 +115,7 @@
 
 <references/>
 
-[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink")
+[Category:オールナイトニッポン](https://ja.wikipedia.org/wiki/Category:オールナイトニッポン "wikilink") [Category:1997年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1997年のラジオ番組_\(日本\) "wikilink") [Category:吉田拓郎](https://ja.wikipedia.org/wiki/Category:吉田拓郎 "wikilink") [Category:松山千春](https://ja.wikipedia.org/wiki/Category:松山千春 "wikilink") [Category:泉谷しげる](https://ja.wikipedia.org/wiki/Category:泉谷しげる "wikilink")
 
 1.  ちなみに、『ヨッ\!お疲れさん』は山本元気（現・[山本剛士](../Page/山本剛士.md "wikilink")）アナウンサーがパーソナリティを務め、“**メオトバンザイ\!**”というサブタイトルもつけられていた。
 2.  ただし、ニッポン放送でも『[うえちゃんのおっかけラジオ ヨッ\!お疲れさん](../Page/うえちゃんのおっかけラジオ_ヨッ!お疲れさん.md "wikilink")』（金曜のみ、『[タモリの週刊ダイナマイク](../Page/タモリの週刊ダイナマイク.md "wikilink")リターンズ』）が、オールナイトニッポンDXの前座番組という形で放送されていた

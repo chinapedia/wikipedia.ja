@@ -1,11 +1,11 @@
 > この記事は[PROBANK](https://ja.wikipedia.org/wiki/PROBANK)から翻訳されています。
 
 
-**PROBANK**（プロバンク）は、[富士通](../Page/富士通.md "wikilink")が開発した[金融機関](../Page/金融機関.md "wikilink")向けの「次世代[勘定系システム](https://ja.wikipedia.org/wiki/勘定系システム "wikilink")」である。「PROBANK」は富士通の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である。
+**PROBANK**（プロバンク、**PRO**gressive **BANK**ing solution：プログレッシブバンキングソリューション）は、[富士通](../Page/富士通.md "wikilink")が開発した[金融機関](../Page/金融機関.md "wikilink")向けの「次世代[勘定系システム](https://ja.wikipedia.org/wiki/勘定系システム "wikilink")」である。「PROBANK」は富士通の[登録商標](https://ja.wikipedia.org/wiki/登録商標 "wikilink")である。
 
 ## 概要
 
-名称は「**PRO**gressive **BANK**ing solution」から。富士通製[メインフレーム](../Page/メインフレーム.md "wikilink")で稼働する。
+富士通製[メインフレーム](../Page/メインフレーム.md "wikilink")で稼働する。
 
 特徴として、24時間365日連続運転機能の標準提供 、既存チャネル（営業店システム、ATM等）やサブシステムとの容易な接続、コスト削減などがある。また、同社は開発・運用を含めた[アウトソーシング](../Page/アウトソーシング.md "wikilink")として提案している。
 

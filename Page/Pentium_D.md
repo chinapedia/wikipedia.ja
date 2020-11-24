@@ -7,7 +7,7 @@
 
 1つのプロセッサの[パッケージに](../Page/パッケージ_\(電子部品\).md "wikilink")2つのCPUダイを実装する、いわゆるデュアルダイにより実現した[デュアルコアのCPUである](../Page/マルチコア.md "wikilink")。
 
-[Pentium 4のCPUコアが流用されているが](../Page/Pentium_4.md "wikilink")、[Pentium Extreme Editionとの差別化を図るため](../Page/Pentium_Extreme_Edition.md "wikilink")「[ハイパースレッディング・テクノロジー](../Page/ハイパースレッディング・テクノロジー.md "wikilink") (HT)」は無効化されている。 [消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")と[発熱の点で](https://ja.wikipedia.org/wiki/熱 "wikilink")[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")で1つのCPUコアでの性能向上が難しくなったことから、2つのCPUダイをワンパッケージに収めることにより熱問題を回避し、同時期に発売された競合他社のデュアルコア・プロセッサ製品へ対抗するという商品化意図がある。
+[Pentium 4のCPUコアが流用されているが](../Page/Pentium_4.md "wikilink")、[Pentium Extreme Editionとの差別化を図るため](../Page/Pentium_Extreme_Edition.md "wikilink")「[ハイパースレッディング・テクノロジー](../Page/ハイパースレッディング・テクノロジー.md "wikilink") (HT)」は無効化されている。 [消費電力](https://ja.wikipedia.org/wiki/消費電力 "wikilink")と[発熱の点で](https://ja.wikipedia.org/wiki/熱 "wikilink")[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")で1つのCPUコアでの性能向上が難しくなったことから、2つのCPUダイをワンパッケージに収めることにより熱問題を回避し、同時期に発売されたAMDのデュアルコア・プロセッサ製品へ対抗するという商品化意図がある。
 
 [2006年](../Page/2006年.md "wikilink")の夏には消費電力と発熱の問題を解消し、さらに性能も十分に高い[Intel Core 2が発売され](../Page/Intel_Core_2.md "wikilink")、[メインストリーム](https://ja.wikipedia.org/wiki/メインストリーム "wikilink")としての役目を終えたが、生産は継続された。しかし[2007年](../Page/2007年.md "wikilink")[12月7日](../Page/12月7日.md "wikilink")をもって需要減のため受注が終了、その後は製造されていない([1](http://pc.watch.impress.co.jp/docs/2007/0810/intel2.htm))。市場からは後継となったCore 2 Duoなどの、デュアルコア化の先鞭を付けたCPUと位置付けられた。
 

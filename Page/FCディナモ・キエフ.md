@@ -33,13 +33,35 @@
 
 ## エピソード
 
-[Death_match_bill.jpg](https://ja.wikipedia.org/wiki/File:Death_match_bill.jpg "fig:Death_match_bill.jpg") [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の侵攻によりキエフはドイツの占領下に入り国内リーグは中断された。ディナモ・キエフの選手達も他の市民同様に強制労働に従事する事となったが、選手達は休憩時間に工場の空地で草サッカーに興じていた。そして、この話を聞いたドイツ側の提案によって、[枢軸国](../Page/枢軸国.md "wikilink")軍側の幾つかのサッカークラブとの対戦が行われる事になった。
+[Death_match_bill.jpg](https://ja.wikipedia.org/wiki/File:Death_match_bill.jpg "fig:Death_match_bill.jpg") **<big>死の試合</big>**
+
+**<big>概要</big>**
+
+当時、占領下の[キエフ](../Page/キエフ.md "wikilink")において、サッカーの試合に負けたドイツ空軍が勝利したウクライナ人選手達を処刑したとするエピソードである。しかし現在では実際に処刑はされておらず、[ソ連がウクライナを支配下に置くため](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、共通の敵を作る目的で流したプロパガンダであるという説が主流である。
+
+2005年には長年の調査が終了。確固たる証拠は見つからず、[ソ連のリーダー交代とともに話の内容が](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")2転、3転と変化するなど、不確実な点が多い。\[1\]
+
+**<big>詳細</big>**
+
+[1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")、[ナチス・ドイツ](../Page/ナチス・ドイツ.md "wikilink")の侵攻によりキエフはドイツの占領下に入り国内リーグは中断された。ディナモ・キエフの選手達も他の市民同様に強制労働に従事する事となったが、選手達は休憩時間に工場の空地で草サッカーに興じていた。そして、この話を聞いたドイツ側の提案によって、[枢軸国](../Page/枢軸国.md "wikilink")軍側の幾つかのサッカークラブとの対戦が行われる事になった。
 
 [1942年](../Page/1942年.md "wikilink")[7月](https://ja.wikipedia.org/wiki/7月 "wikilink")に数試合を戦い、勝利を収めるとキエフ市民の評判を呼んだが、これを快く思わないドイツ軍は[8月](../Page/8月.md "wikilink")に強豪の[ドイツ空軍](../Page/ドイツ空軍.md "wikilink")クラブとの対戦を申し入れた。当時のウクライナはナチス・ドイツの占領下にあり、ウクライナの人々は強制収容所に移送される恐怖や餓えの中暮らしていた。そのような状況の中試合前、ディナモ・キエフの選手はドイツ空軍を破ったら殺すと警告されていた。しかしプライドを捨てる事の出来なかった彼らは5-1で勝利を収めた。面目を潰されたドイツ軍は再試合を申し入れたが5-3でディナモが勝利し2連勝に終わった。
 
 その後、選手達は[ゲシュタポ](../Page/ゲシュタポ.md "wikilink")によって逮捕。[バビ・ヤール](https://ja.wikipedia.org/wiki/バビ・ヤール "wikilink")の[強制収容所](../Page/強制収容所.md "wikilink")へ移送され、多くの選手達が[処刑](https://ja.wikipedia.org/wiki/処刑 "wikilink")された。このエピソードは後に「」（  ザ・デス・マッチ）として広く人々に知られる様になり、1979年の漫画『実録サッカー戦士』（[小林辰禎著](../Page/小林たつよし.md "wikilink")。月刊コロコロコミック1979年11月号掲載。熱血\!\!コロコロ伝説 テーマ別アンソロジー 第2弾 驚愕\!\! トラウマまんが傑作選収録）、1981年に公開された映画「[勝利への脱出](../Page/勝利への脱出.md "wikilink")」のモデルともなった。
 
-ただし、試合が行われたことは事実であるものの、選手が処刑されたというのはソ連の[プロパガンダ](../Page/プロパガンダ.md "wikilink")による作り話との見方もある\[1\]。
+**<big>ソ連によるプロパガンダ</big>**
+
+ただし、試合が行われたことは事実であるものの、選手が処刑されたというのは[ソ連の](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")[プロパガンダ](../Page/プロパガンダ.md "wikilink")による作り話との見方もある\[2\]。
+
+ウクライナ人の間でもこれらの話は長らく真実として信じ込まれてきたが、近年多くの学者やジャーナリストの調査によって、選手が殺害されたという話には信ぴょう性がないという見方が主流になってきた。ナチスの戦争犯罪を追求してきた[ハンブルグの検察局も](../Page/ハンブルク.md "wikilink")、「確固たる証拠を発見することはできなかった」として２００５年に捜査を終了している。
+
+ディナモ・キエフが設立時から警察によって支援を受けていたため（東欧には軍や警察が母体のクラブチームは珍しくない）、ディナモ出身の選手がスパイ容疑などで取り調べや拷問を受けていたケースはあるものの、「ドイツに最後まで抵抗して、八百長に手を染めることはなく死んでいった」という話は[ソ連によるプロパガンダであった可能性が極めて高い](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")。
+
+事実、[ソ連時代にはリーダーの交代とともに](https://ja.wikipedia.org/wiki/ソビエト連邦 "wikilink")、話の内容も変化していた。
+
+俗に「死の試合」と呼ばれてきた１９４２年の２試合について、キエフ国立博物館の歴史学者マリナ・シェフチェンコは２０１２年６月に、ニューヨークタイムズの取材に対して「みな英雄を求めています。[ロビン・フッド](../Page/ロビン・フッド.md "wikilink")のような英雄を」と語り、ソ連が対独・対西側向けに作り出したプロパガンダが結果的にウクライナ人の愛国心を保つ要因になったと語っている。\[3\]
+
+　
 
 ## タイトル
 
@@ -159,6 +181,7 @@
 | [UEL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") | ベスト16                                                |                                                                 |                                                        |
 | 2019-20                                                              | ウクライナ・プレミアリーグ                                        | **2位**                                                          | 32                                                     |
 | [UEL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") | GS敗退                                                 |                                                                 |                                                        |
+| 2020-21                                                              | ウクライナ・プレミアリーグ                                        | **位**                                                           |                                                        |
 
 ## UEFAクラブランキング
 
@@ -312,7 +335,7 @@
 
 </div>
 
-  - 2019年7月1日現在\[2\]\[3\]
+  - 2020年10月6日現在\[4\]\[5\]
 
 <!-- end list -->
 
@@ -483,7 +506,7 @@
 
 ここ数年、ユニフォームのスポンサーはなく、2018年からは[New Balanceがクラブのユニフォームを製造している](../Page/ニューバランス.md "wikilink")。
 
-| 年度\[4\]   | メーカー                                                                          | 胸スポンサー                                                                    |
+| 年度\[6\]   | メーカー                                                                          | 胸スポンサー                                                                    |
 | --------- | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 1975–1987 | [Adidas](../Page/アディダス.md "wikilink")                                         | —                                                                         |
 | 1987      | [Commodore](https://ja.wikipedia.org/wiki/Commodore_International "wikilink") |                                                                           |
@@ -576,6 +599,8 @@
 [Category:FCディナモ・キエフ](https://ja.wikipedia.org/wiki/Category:FCディナモ・キエフ "wikilink") [Category:ウクライナのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ウクライナのサッカークラブ "wikilink") [Category:キエフのスポーツ](https://ja.wikipedia.org/wiki/Category:キエフのスポーツ "wikilink")
 
 1.
-2.  [First team squad – FC Dynamo Kyiv website](http://www.fcdynamo.kiev.ua/en/team/dynamo/players/)
-3.  [Ukrainian Premier League – Team squad](http://www.upl.ua/clubs/view/7)
-4.  [Форма Динамо (Київ) від Юрія Марковича](http://www.xxldynamo.com.ua/)
+2.
+3.
+4.  [First team squad – FC Dynamo Kyiv website](http://www.fcdynamo.kiev.ua/en/team/dynamo/players/)
+5.  [Ukrainian Premier League – Team squad](http://www.upl.ua/clubs/view/7)
+6.  [Форма Динамо (Київ) від Юрія Марковича](http://www.xxldynamo.com.ua/)

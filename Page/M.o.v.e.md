@@ -16,7 +16,10 @@
       - ダラスにて行われたAnimeFESTS\!2003に出演。\[2\]
       - 10月から11月に掛けてライブツアー「DECADANCE PARADE'03」を行う。全8回公演。
   - [2004年](../Page/2004年.md "wikilink")
-      - [8月4日](../Page/8月4日.md "wikilink") - Hip Hopとロックを融合したGhetto Rockナンバー『[GHETTO BLASTER](../Page/GHETTO_BLASTER.md "wikilink")』をリリース。この楽曲を機にメジャーで活動する幾つかのRap Rockグループからプロデュース依頼を受けたり、同年発売されたアルバムDeep Calmでは突如としてゴシック、[インダストリアルメタルサウンドを全面的に投入](https://ja.wikipedia.org/wiki/インダストリアル・メタル "wikilink")、ヘヴィーメタル専門誌等で絶賛される。
+      - [8月4日](../Page/8月4日.md "wikilink") - Hip Hopとロックを融合したGhetto Rockナンバー『[GHETTO BLASTER](../Page/GHETTO_BLASTER.md "wikilink")』をリリース。この楽曲を機にメジャーで活動する幾つかのRap Rockグループからプロデュース依頼を受けたり、同年発売されたアルバムDeep Calmでは突如としてゴシック、[インダストリアルメタルサウンドを全面的に投入](https://ja.wikipedia.org/wiki/インダストリアル・メタル "wikilink")、ヘヴィーメタル専門誌等で絶賛される。<sup>\[*[<span title="この記述には信頼できる情報源の提示が求められています。（y年m月）" style="white-space:nowrap">要出典</span>](https://ja.wikipedia.org/wiki/:ja:Wikipedia:「要出典」をクリックされた方へ "wikilink")*\]</sup>。
+
+<!-- end list -->
+
   - [2005年](../Page/2005年.md "wikilink")
       - アメリカ進出に伴う商標登録上の問題により**move**から**m.o.v.e**にユニット名を変更。ほぼ時期を同じくして、4ヶ月連続リリースを開始。米iTunes Storeでも楽曲販売が開始される。\[3\]
       - 23rdシングル『[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")』が米ソニーが提供するグローバルオンライン・リミックスコンテストのAcid Planetに抜擢される。日本人アーティストとしては初めての参加。\[4\]
@@ -44,7 +47,7 @@
   - [2013年](../Page/2013年.md "wikilink")
       - [1月13日](../Page/1月13日.md "wikilink") - 東京オートサロンのミニライブでは、頭文字D関連楽曲および本人楽曲ではないにもかかわらず「恋しさと せつなさと 心強さと」を歌唱した。事実上オートサロンの入場料のみで観覧するライブでは最後のライブとなった。
       - [2月27日](../Page/2月27日.md "wikilink") - 最後のベストアルバム『Best moves. ～and move goes on～』をリリース。\[9\]アニメ『頭文字D　Fifth Stage』オープニング・テーマ「Raise Up」、アーケードゲーム『頭文字D　ARCADE STAGE7 AA X(クロス)』オープニング・テーマ「Cross the X」をはじめとする名曲やファン投票により選曲した楽曲、リミックス曲をCD3枚に収録。スペシャルプライス盤付属のDVDには、m.o.v.eの歴史15年の歩みを、見応えのあるドキュメンタリーとして凝縮。期間限定封入特典は、ラストライブ無料招待券抽選コード付属。
-      - [3月16日](../Page/3月16日.md "wikilink") - 東京・赤坂BLITZでラストライブ『m.o.v.e The Last Show ～Champagne Fight～』をを行なったが抽選による完全招待制での入場のみとなりファンの不評を買った。
+      - [3月16日](../Page/3月16日.md "wikilink") - 東京・赤坂BLITZでラストライブ『m.o.v.e The Last Show ～Champagne Fight～』を行なったが抽選による完全招待制での入場のみとなりファンの不評を買った。
 
 ## メンバー
 
@@ -141,8 +144,8 @@
 [マツダ](../Page/マツダ.md "wikilink") [FD3S・RX-7](https://ja.wikipedia.org/wiki/マツダ・RX-7#3代目_FD3S型（1991-2002年） "wikilink")
 [フジミ模型](../Page/フジミ模型.md "wikilink")1/24頭文字Dシリーズより改造\]\]
 
-  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしているため](../Page/ドリフト走行.md "wikilink")、車好きのファンが多い。
-  - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。「[BREAK IN2 THE NITE](../Page/BREAK_IN2_THE_NITE.md "wikilink")」、「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」、「The Double Ace」など、作中の背景を踏まえた楽曲も制作されている。アニメの関連楽曲としてRemixも多く制作されている。
+  - アニメ『[頭文字D](../Page/頭文字D.md "wikilink")』の主題歌をFirst StageからFinal Stageまで、ゲーム『[頭文字D ARCADE STAGE](../Page/頭文字D_ARCADE_STAGE.md "wikilink")』でも2以降で、一部の例外を除いて一貫して担当しており、同作品のイメージが色濃いユニットでもある。攻撃的なビートが、[ドリフトのアグレッシブな走行シーンにとてもマッチしている](../Page/ドリフト走行.md "wikilink")。
+  - ゲーム雑誌のインタビューやラジオなどで、メンバーがファンである事を過去に明かしている。[motsu](https://ja.wikipedia.org/wiki/motsu "wikilink")と[t-kimura](https://ja.wikipedia.org/wiki/t-kimura "wikilink")の両名は[サブカルチャー](../Page/サブカルチャー.md "wikilink")に深い事はファンにも周知の事実である。「[DOGFIGHT](../Page/DOGFIGHT.md "wikilink")」をはじめ、タイトル・歌詞に作中の情景を強く意識した楽曲も非常に多い。愛着も深いのか、過去楽曲の歌い直し・Remixも多い。アニメのサントラには、シングルの新録・Remixを提供している（yuriの歌い方自体も大きく変わっている）。
   - 1st Stageでは、主題歌以外にも1stアルバム「[electrock](https://ja.wikipedia.org/wiki/electrock "wikilink")」収録曲のほとんどが劇中で挿入歌として使用されている。
   - 4th Stageのact.20に[ゲスト出演する](https://ja.wikipedia.org/wiki/頭文字Dの登場人物#パープルシャドウ "wikilink")。
   - 「[FREAKY PLANET](../Page/FREAKY_PLANET.md "wikilink")」「[DISCO TIME](../Page/DISCO_TIME.md "wikilink")」「[雷鳴-out of kontrol-](../Page/雷鳴-out_of_kontrol-.md "wikilink")」「[Angel Eyes](../Page/Angel_Eyes_\(m.o.v.eの曲\).md "wikilink")」の4ヵ月連続リリースシングルは『[頭文字D](../Page/頭文字D.md "wikilink")』とのコラボレーションとして企画され、4曲のPVを組み合わせたショートムービーを制作。アルバム「[GRID](../Page/GRID.md "wikilink")」のDVDには、この作品の完全版が収録されている。

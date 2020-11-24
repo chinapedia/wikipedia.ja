@@ -19,7 +19,7 @@
 
 ### KR-1
 
-[KR-1(Green).jpg](https://ja.wikipedia.org/wiki/File:KR-1\(Green\).jpg "fig:KR-1(Green).jpg") [KR-1(RED).jpg](https://ja.wikipedia.org/wiki/File:KR-1\(RED\).jpg "fig:KR-1(RED).jpg")
+[KR-1(Green).jpg](https://ja.wikipedia.org/wiki/File:KR-1\(Green\).jpg "fig:KR-1(Green).jpg")
 
   - 形式 KR250B
   - 全長：2,005 mm
@@ -105,7 +105,7 @@
 
 ### KR-1S / R
 
-[Kawasaki_KR-1S_250.jpg](https://ja.wikipedia.org/wiki/File:Kawasaki_KR-1S_250.jpg "fig:Kawasaki_KR-1S_250.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:KR-1S\(J\).jpg "wikilink") [KR-1S(Blue).jpg](https://ja.wikipedia.org/wiki/File:KR-1S\(Blue\).jpg "fig:KR-1S(Blue).jpg")
+[Kawasaki_KR-1S_250.jpg](https://ja.wikipedia.org/wiki/File:Kawasaki_KR-1S_250.jpg "fig:Kawasaki_KR-1S_250.jpg") [thumb](https://ja.wikipedia.org/wiki/ファイル:KR-1S\(J\).jpg "wikilink")
 
   - 形式 KR250C (C2,C3)
   - 全長：2,005 mm

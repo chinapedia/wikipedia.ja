@@ -3,7 +3,7 @@
 
 [thumb](https://ja.wikipedia.org/wiki/画像:Boowy_logo.png "wikilink") **BOØWY**（ボウイ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。1980年代に活躍。[1981年](../Page/1981年.md "wikilink")結成、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")解散。
 
-メディアなどで稀に「BO**Φ**WY」や「BO**φ**WY」などと誤記されることがある\[1\]\[2\]が、正しいグループ名は、3文字目がギリシャ文字の「[Φ](../Page/Φ.md "wikilink")」（ファイ）ではなく「[Ø](../Page/Ø.md "wikilink")」（[ストローク符号](../Page/ストローク符号.md "wikilink")を付した[O](https://ja.wikipedia.org/wiki/O "wikilink")）である。
+ネットメディアなどではいわゆる文字化け防止のために「BO**Φ**WY」や「BO**φ**WY」などと代用文字で表記されることがある\[1\]\[2\]が、正しいグループ名は、3文字目がギリシャ文字の「[Φ](../Page/Φ.md "wikilink")」（ファイ）ではなく「[Ø](../Page/Ø.md "wikilink")」（[ストローク符号](../Page/ストローク符号.md "wikilink")を付した[O](https://ja.wikipedia.org/wiki/O "wikilink")）である。
 
 ## 概要
 
@@ -488,7 +488,7 @@ PlotData=
 <li>4月12日 <a href="https://ja.wikipedia.org/wiki/法政大学" title="wikilink">法政大学</a>学園祭（中止）、千葉DANCING MOTHERS（中止）</li>
 <li>4月27日 渋谷LIVE INN</li>
 <li>5月3日 <a href="../Page/日比谷野外音楽堂.md" title="wikilink">日比谷野外音楽堂</a>「JAPAN ROCK FESTIVAL '84」</li>
-<li>5月18日 藤沢BOW</li>
+<li>5月18日 青木楽器BOW</li>
 <li>5月27日 流山市民会館</li>
 <li>5月31日 渋谷LIVE INN「BEAT EMOTION I」</li>
 <li>6月24日 <a href="../Page/駒澤大学.md" title="wikilink">駒澤大学</a>Festival</li>

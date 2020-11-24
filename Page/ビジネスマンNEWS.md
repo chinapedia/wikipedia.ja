@@ -17,7 +17,7 @@
 
 ## 放送時間
 
-  - 月曜 - 金曜 6:30 -  （1981.10.1 - 1985.9.27）
+  - 月曜 - 金曜 6:30 - 6:50 （1981.10.1 - 1985.9.27）
   - 月曜 - 金曜 6:20 - 7:00 （1985.9.30 - 1986.3.28）
   - 月曜 - 金曜 6:30 - 7:10 （1986.3.31 - 1987.10.2）
   - 月曜 - 金曜 6:00 - 7:00 （1987.10.5 - 1993.4.2）
@@ -143,7 +143,7 @@
 
 <references />
 
-[Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink")
+[Category:経済を題材としたテレビ番組](https://ja.wikipedia.org/wiki/Category:経済を題材としたテレビ番組 "wikilink")
 
 [Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:1981年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1981年のテレビ番組_\(日本\) "wikilink") [Category:富士通の歴史](https://ja.wikipedia.org/wiki/Category:富士通の歴史 "wikilink")
 

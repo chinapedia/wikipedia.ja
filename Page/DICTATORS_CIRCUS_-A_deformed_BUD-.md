@@ -26,7 +26,7 @@
         メジャー3rdシングルの2曲目。シングルヴァージョンはアルバム初収録。
 4.  Labyrinth 〜鏡には映らない君が〜
       -
-        「[ラストレター](https://ja.wikipedia.org/wiki/ラストレター "wikilink")」カップリング曲。インディーズ時代の楽曲の再録。
+        「[ラストレター](../Page/ラストレター_\(Pierrotの曲\).md "wikilink")」カップリング曲。インディーズ時代の楽曲の再録。
 5.  GENOME CONTROL
       -
         「[-CREATURES-](../Page/-CREATURES-.md "wikilink")」カップリング曲。アルバム初収録。

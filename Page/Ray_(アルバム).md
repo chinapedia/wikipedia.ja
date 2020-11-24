@@ -42,7 +42,7 @@
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->
       -
-        10thシングル。シングル3作同時発売シングルのひとつ。3枚の中では最も売れ、L'Arc〜en〜Ciel史上最大のヒットシングルとなった。
+        10thシングル。シングル3作同時発売シングルのひとつ。3枚の中では最も売れ、バンド史上最大のヒットシングルとなった。
 4.  **Sell my Soul**
       - 作詞・作曲:hyde / 編曲:L'Arc〜en〜Ciel & Hajime Okano
     <!-- end list -->

@@ -30,6 +30,8 @@
 
 #### RB20E
 
+[Nissan_RB20E_engine.jpg](https://ja.wikipedia.org/wiki/File:Nissan_RB20E_engine.jpg "fig:Nissan_RB20E_engine.jpg")
+
   - SOHC 12バルブ 自然吸気型。RB型エンジンシリーズの基礎となったエンジンである。
 
 <!-- end list -->

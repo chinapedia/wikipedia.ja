@@ -24,7 +24,7 @@
       - 10月 初の単独レギュラー番組「[angelaのsparking\!talking\!show\!](https://ja.wikipedia.org/wiki/angelaのsparking!talking!show! "wikilink")」が開始。
   - [2005年](../Page/2005年.md "wikilink")
       - 1月 1stアルバム「ソラノコエ」が「Voice of the sky」のタイトルで全米で発売。全米デビューを果たす。
-      - [3月29日](../Page/3月29日.md "wikilink") [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて、「angela Live in Shibuya-AX～a列車で行こう\! 全曲ライブ\!\!」と称して全曲ライブが行なわれる。 アンコールで昨年発売の「I/O」と「Shangri-La」がキングレコードヒット賞を受賞した事を報告した。\[4\]
+      - [3月29日](../Page/3月29日.md "wikilink") [SHIBUYA-AX](../Page/SHIBUYA-AX.md "wikilink")にて、「angela Live in Shibuya-AX〜a列車で行こう\! 全曲ライブ\!\!」と称して全曲ライブが行なわれる。 アンコールで昨年発売の「I/O」と「Shangri-La」がキングレコードヒット賞を受賞した事を報告した。\[4\]
       - [5月21日](../Page/5月21日.md "wikilink") 公式ファンクラブ「**gelamily**」が発足。
       - 4月にはアメリカ・シアトルでの「[サクラコン](https://ja.wikipedia.org/wiki/サクラコン "wikilink")」、8月にはカナダ・トロントでの「CANADIAN NATIONAL EXPO」といった海外のイベントに出演する。
       - 8月 「I/O」が全米で発売される。
@@ -102,14 +102,14 @@
       - [6月7日](../Page/6月7日.md "wikilink")から[7月25日](../Page/7月25日.md "wikilink")まで海外2都市と国内4都市でライブツアー「angela Live Tour 2015「ONE WAY」」を開催した。
       - atsukoがテレビアニメ「[ミス・モノクローム -The Animation- 2](https://ja.wikipedia.org/wiki/ミス・モノクローム "wikilink")」にて作中のアイドルグループ**キャラメル**のメンバー・あつこ役で出演。同役でシリーズ続編「[ミス・モノクローム -The Animation- 3](https://ja.wikipedia.org/wiki/ミス・モノクローム "wikilink")」にも出演、関連CDにも参加する。
       - [8月29日](../Page/8月29日.md "wikilink") 開催された「Animelo Summer Live 2015 -THE GATE-」2日目に出演。初のトリを務める。
-      - [12月28日](../Page/12月28日.md "wikilink")・[12月29日](../Page/12月29日.md "wikilink")の2日間、東京国際フォーラムホールCにて「ミュージック・ワンダー★大サーカス2015 ～10th Anniversary～」を開催した。\[16\]
+      - [12月28日](../Page/12月28日.md "wikilink")・[12月29日](../Page/12月29日.md "wikilink")の2日間、東京国際フォーラムホールCにて「ミュージック・ワンダー★大サーカス2015 〜10th Anniversary〜」を開催した。\[16\]
   - [2016年](../Page/2016年.md "wikilink")
       - メジャーデビュー13周年記念日でもある[5月21日](../Page/5月21日.md "wikilink")に、山梨県河口湖ステラシアターにて「angelaデビュー13周年記念☆ 拡大版「全部が主題歌ライヴ\!\!」」を開催。
       - [5月6日](../Page/5月6日.md "wikilink") 同年10月より放送開始予定の「[亜人](https://ja.wikipedia.org/wiki/亜人_\(漫画\) "wikilink")」テレビシリーズ第2クールのオープニングテーマ曲を[fripSide](https://ja.wikipedia.org/wiki/fripSide "wikilink")とのコラボレーションで担当すると発表。<ref>angela×fripSideによる夢のコラボレーション決定！！[2](http://king-cr.jp/artist/angela/news/160506.html)
 
 </ref>
 
-  -   - [8月28日](../Page/8月28日.md "wikilink") 「Animelo Summer Live 2016 刻 -TOKI-」最終日に出演。初の全日程を通じての大トリを務め、その際に初の[日本武道館](../Page/日本武道館.md "wikilink")ワンマンライブを2017年3月に開催することを発表。後に、3月4日に開催されることが明らかになる。\[17\]11月27日、公演タイトルが「angelaのミュージック・ワンダー★特大サーカスin武道館～僕等は目指したShangri-La～」に決定。\[18\]
+  -   - [8月28日](../Page/8月28日.md "wikilink") 「Animelo Summer Live 2016 刻 -TOKI-」最終日に出演。初の全日程を通じての大トリを務め、その際に初の[日本武道館](../Page/日本武道館.md "wikilink")ワンマンライブを2017年3月に開催することを発表。後に、3月4日に開催されることが明らかになる。\[17\]11月27日、公演タイトルが「angelaのミュージック・ワンダー★特大サーカスin武道館〜僕等は目指したShangri-La〜」に決定。\[18\]
       - 8月31日 8thアルバム「LOVE & CARNIVAL」をリリース。2016年9月19日付オリコン週間アルバムチャートにて初登場4位を獲得。デビュー13年にして初のオリコンTOP5入りを果たした。
       - 10月 angela Live Tour 2016｢LOVE＆CARNIVAL｣を大阪・東京で開催。
 
@@ -137,7 +137,7 @@
   - [2020年](../Page/2020年.md "wikilink")
 
       - 4月22日 シングル「乙女のルートはひとつじゃない！」を発売 angelaとのタイプアップ作品「[乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった…](https://ja.wikipedia.org/wiki/乙女ゲームの破滅フラグしかない悪役令嬢に転生してしまった… "wikilink")」のオープニングテーマとして書き下ろされた。
-      - また、本作では、11話の挿入曲として、angelaの「君の影、オレンジの空」が使われているが、この曲は、本作の主人公カタリナ・クラエスの前世である女子高校生（通称・野猿）の親友だった少女、佐々木敦子のためにangelaのatsukoさんが、シナリオのあっちゃんとのシーンを読みながら、いろんな「別れ」について考えながら作った曲である。
+      - また、本作では、11話の挿入曲として、angelaの「君の影、オレンジの空」が使われているが、この曲は、本作の主人公カタリナ・クラエスの前世である女子高校生（通称・野猿）の親友だった少女、佐々木敦子のためにangelaのatsukoさんが、シナリオのあっちゃんとのシーンを読みながら、色々な「別れ」について考えながら作った曲である。
 
 ## メンバー
 
@@ -199,40 +199,40 @@
 
 ### シングル
 
-|      | 発売日           | タイトル                                                                                                   | 規格品番       | 最高位        |
-| ---- | ------------- | ------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
-| 通常盤  | 限定盤           |                                                                                                        |            |            |
-|      | 1999年5月26日    | **[memories](https://ja.wikipedia.org/wiki/memories_\(angelaの曲\) "wikilink")**                         | HDDA-10004 |            |
-| 1st  | 2003年5月21日    | **[明日へのbrilliant road](https://ja.wikipedia.org/wiki/明日へのbrilliant_road "wikilink")**                  | KICM-3042  | 15位        |
-| 2nd  | 2003年8月21日    | **[The end of the world](https://ja.wikipedia.org/wiki/The_end_of_the_world_\(angelaの曲\) "wikilink")** | KICM-3045  | 21位        |
-| 3rd  | 2003年12月3日    | **[merry-go-round](https://ja.wikipedia.org/wiki/merry-go-round_\(angelaの曲\) "wikilink")**             | KICM-1089  | 72位        |
-| 4th  | 2004年5月26日    | **[fly me to the sky](https://ja.wikipedia.org/wiki/fly_me_to_the_sky "wikilink")**                    | KICM-3069  | KICM-93069 |
-| 5th  | 2004年6月2日     | **[in your arms](https://ja.wikipedia.org/wiki/in_your_arms "wikilink")**                              | KICM-1106  |            |
-| 6th  | 2004年8月4日     | **[Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(angelaの曲\) "wikilink")**                     | KICM-3075  | 12位        |
-| 7th  | 2005年1月26日    | **[未来とゆう名の答え](https://ja.wikipedia.org/wiki/未来とゆう名の答え "wikilink")**                                    | KICM-3092  | 24位        |
-| 8th  | 2005年8月3日     | **[DEAD SET](https://ja.wikipedia.org/wiki/DEAD_SET "wikilink")**                                      | KICM-3107  | 19位        |
-| 9th  | 2005年9月7日     | **[YOU GET TO BURNING](https://ja.wikipedia.org/wiki/YOU_GET_TO_BURNING#angelaによるカバー "wikilink")**     | KICM-3108  | 18位        |
-| 10th | 2005年12月21日   | **[Peace of mind](https://ja.wikipedia.org/wiki/Peace_of_mind_\(angelaの曲\) "wikilink")**               | KICM-3118  | 16位        |
-| 11th | 2007年5月9日     | **[gravitation](https://ja.wikipedia.org/wiki/Gravitation_\(angelaの曲\) "wikilink")**                   | KICM-1202  | 19位        |
-| 12th | 2008年11月12日   | **[Beautiful fighter](https://ja.wikipedia.org/wiki/Beautiful_fighter "wikilink")**                    | KICM-3176  | KIZM-21/2  |
-| 13th | 2008年12月25日   | **[約束](https://ja.wikipedia.org/wiki/約束_\(angelaの曲\) "wikilink")**                                     | KICM-1258  |            |
-| 14th | 2009年5月13日    | **[Spiral](https://ja.wikipedia.org/wiki/Spiral_\(angelaの曲\) "wikilink")**                             | KICM-3190  | KIZM-29/30 |
-| 15th | 2009年11月18日   | **[オルタナティヴ](https://ja.wikipedia.org/wiki/オルタナティヴ_\(曲\) "wikilink")**                                  | KICM-1292  | KICM-91292 |
-| 16th | 2010年7月28日    | **[蒼い春](https://ja.wikipedia.org/wiki/蒼い春 "wikilink")**                                                | KICM-3212  |            |
-| 17th | 2010年12月22日   | **[蒼穹](https://ja.wikipedia.org/wiki/蒼穹_\(曲\) "wikilink")**                                            | KICM-3222  | 17位        |
-| 18th | 2012年1月25日    | **[THE LIGHTS OF HEROES](https://ja.wikipedia.org/wiki/THE_LIGHTS_OF_HEROES "wikilink")**              |            | KICM-93241 |
-| 19th | 2012年10月24日   | **[KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")**                                            | KICM-93253 | 21位        |
-| 20th | 2013年11月6日    | **[ANGEL／遠くまで](https://ja.wikipedia.org/wiki/ANGEL/遠くまで "wikilink")**                                  | KICM-3269  |            |
-| 21st | 2014年5月21日    | **[シドニア](https://ja.wikipedia.org/wiki/シドニア_\(曲\) "wikilink")**                                        | KICM-3277  | 19位        |
-| 22nd | 2014年7月12日    | **[Different colors](https://ja.wikipedia.org/wiki/Different_colors "wikilink")**                      | KICM-3278  | 22位        |
-| 23rd | 2015年2月11日    | **[イグジスト](https://ja.wikipedia.org/wiki/イグジスト "wikilink")**                                            | KICM-3286  | KICM-93286 |
-| 24th | 2015年4月29日    | **[騎士行進曲](https://ja.wikipedia.org/wiki/騎士行進曲 "wikilink")**                                            | KICM-3289  |            |
-| 25th | 2015年11月11日   | **[DEAD OR ALIVE](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_\(angelaの曲\) "wikilink")**               | KICM-3304  | KICM-93304 |
-| 26th | 2017年7月5日     | **[全力☆Summer\!](https://ja.wikipedia.org/wiki/全力☆Summer! "wikilink")**                                 | KICM-1782  | KICM-91781 |
-| 27th | 2018年7月18日    | **[SURVIVE\!](https://ja.wikipedia.org/wiki/SURVIVE! "wikilink")**                                     | KICM-1854  | KICM-91853 |
-| 28th | 2019年5月22日    | **[THE BEYOND](https://ja.wikipedia.org/wiki/THE_BEYOND "wikilink")**                                  | KICM-1939  | KICM-91939 |
-| 29th | 2020年4月22日    | **[乙女のルートはひとつじゃない\!](https://ja.wikipedia.org/wiki/乙女のルートはひとつじゃない! "wikilink")**                       | KICM-2046  | KICM-92045 |
-| 30th | 2020年11月18日予定 | **叫べ**                                                                                                 | KICM-2051  | KICM-92051 |
+|      | 発売日         | タイトル                                                                                                   | 規格品番       | 最高位        |
+| ---- | ----------- | ------------------------------------------------------------------------------------------------------ | ---------- | ---------- |
+| 通常盤  | 限定盤         |                                                                                                        |            |            |
+|      | 1999年5月26日  | **[memories](https://ja.wikipedia.org/wiki/memories_\(angelaの曲\) "wikilink")**                         | HDDA-10004 |            |
+| 1st  | 2003年5月21日  | **[明日へのbrilliant road](https://ja.wikipedia.org/wiki/明日へのbrilliant_road "wikilink")**                  | KICM-3042  | 15位        |
+| 2nd  | 2003年8月21日  | **[The end of the world](https://ja.wikipedia.org/wiki/The_end_of_the_world_\(angelaの曲\) "wikilink")** | KICM-3045  | 21位        |
+| 3rd  | 2003年12月3日  | **[merry-go-round](https://ja.wikipedia.org/wiki/merry-go-round_\(angelaの曲\) "wikilink")**             | KICM-1089  | 72位        |
+| 4th  | 2004年5月26日  | **[fly me to the sky](https://ja.wikipedia.org/wiki/fly_me_to_the_sky "wikilink")**                    | KICM-3069  | KICM-93069 |
+| 5th  | 2004年6月2日   | **[in your arms](https://ja.wikipedia.org/wiki/in_your_arms "wikilink")**                              | KICM-1106  |            |
+| 6th  | 2004年8月4日   | **[Shangri-La](https://ja.wikipedia.org/wiki/Shangri-La_\(angelaの曲\) "wikilink")**                     | KICM-3075  | 12位        |
+| 7th  | 2005年1月26日  | **[未来とゆう名の答え](https://ja.wikipedia.org/wiki/未来とゆう名の答え "wikilink")**                                    | KICM-3092  | 24位        |
+| 8th  | 2005年8月3日   | **[DEAD SET](https://ja.wikipedia.org/wiki/DEAD_SET "wikilink")**                                      | KICM-3107  | 19位        |
+| 9th  | 2005年9月7日   | **[YOU GET TO BURNING](https://ja.wikipedia.org/wiki/YOU_GET_TO_BURNING#angelaによるカバー "wikilink")**     | KICM-3108  | 18位        |
+| 10th | 2005年12月21日 | **[Peace of mind](https://ja.wikipedia.org/wiki/Peace_of_mind_\(angelaの曲\) "wikilink")**               | KICM-3118  | 16位        |
+| 11th | 2007年5月9日   | **[gravitation](https://ja.wikipedia.org/wiki/Gravitation_\(angelaの曲\) "wikilink")**                   | KICM-1202  | 19位        |
+| 12th | 2008年11月12日 | **[Beautiful fighter](https://ja.wikipedia.org/wiki/Beautiful_fighter "wikilink")**                    | KICM-3176  | KIZM-21/2  |
+| 13th | 2008年12月25日 | **[約束](https://ja.wikipedia.org/wiki/約束_\(angelaの曲\) "wikilink")**                                     | KICM-1258  |            |
+| 14th | 2009年5月13日  | **[Spiral](https://ja.wikipedia.org/wiki/Spiral_\(angelaの曲\) "wikilink")**                             | KICM-3190  | KIZM-29/30 |
+| 15th | 2009年11月18日 | **[オルタナティヴ](https://ja.wikipedia.org/wiki/オルタナティヴ_\(曲\) "wikilink")**                                  | KICM-1292  | KICM-91292 |
+| 16th | 2010年7月28日  | **[蒼い春](https://ja.wikipedia.org/wiki/蒼い春 "wikilink")**                                                | KICM-3212  |            |
+| 17th | 2010年12月22日 | **[蒼穹](https://ja.wikipedia.org/wiki/蒼穹_\(曲\) "wikilink")**                                            | KICM-3222  | 17位        |
+| 18th | 2012年1月25日  | **[THE LIGHTS OF HEROES](https://ja.wikipedia.org/wiki/THE_LIGHTS_OF_HEROES "wikilink")**              |            | KICM-93241 |
+| 19th | 2012年10月24日 | **[KINGS](https://ja.wikipedia.org/wiki/KINGS "wikilink")**                                            | KICM-93253 | 21位        |
+| 20th | 2013年11月6日  | **[ANGEL／遠くまで](https://ja.wikipedia.org/wiki/ANGEL/遠くまで "wikilink")**                                  | KICM-3269  |            |
+| 21st | 2014年5月21日  | **[シドニア](https://ja.wikipedia.org/wiki/シドニア_\(曲\) "wikilink")**                                        | KICM-3277  | 19位        |
+| 22nd | 2014年7月12日  | **[Different colors](https://ja.wikipedia.org/wiki/Different_colors "wikilink")**                      | KICM-3278  | 22位        |
+| 23rd | 2015年2月11日  | **[イグジスト](https://ja.wikipedia.org/wiki/イグジスト "wikilink")**                                            | KICM-3286  | KICM-93286 |
+| 24th | 2015年4月29日  | **[騎士行進曲](https://ja.wikipedia.org/wiki/騎士行進曲 "wikilink")**                                            | KICM-3289  |            |
+| 25th | 2015年11月11日 | **[DEAD OR ALIVE](https://ja.wikipedia.org/wiki/DEAD_OR_ALIVE_\(angelaの曲\) "wikilink")**               | KICM-3304  | KICM-93304 |
+| 26th | 2017年7月5日   | **[全力☆Summer\!](https://ja.wikipedia.org/wiki/全力☆Summer! "wikilink")**                                 | KICM-1782  | KICM-91781 |
+| 27th | 2018年7月18日  | **[SURVIVE\!](https://ja.wikipedia.org/wiki/SURVIVE! "wikilink")**                                     | KICM-1854  | KICM-91853 |
+| 28th | 2019年5月22日  | **[THE BEYOND](https://ja.wikipedia.org/wiki/THE_BEYOND "wikilink")**                                  | KICM-1939  | KICM-91939 |
+| 29th | 2020年4月22日  | **[乙女のルートはひとつじゃない\!](https://ja.wikipedia.org/wiki/乙女のルートはひとつじゃない! "wikilink")**                       | KICM-2046  | KICM-92045 |
+| 30th | 2020年11月18日 | **叫べ**                                                                                                 | KICM-2051  | KICM-92051 |
 
 #### コラボレーション・シングル
 
@@ -337,7 +337,7 @@
 | 4th | 2012年8月1日   | **宝島2 -TREASURE ISLAND II-**                                |               |
 | 5th | 2014年1月29日  | **angela TREASURE Blu-ray BOX**                             | KIXM-90139〜43 |
 | 6th | 2017年8月30日  | **angelaのミュージック・ワンダー★特大サーカス in 日本武道館\~僕等は目指したShangri-La\~** | KIZX-316      |
-| 7th | 2020年6月17日  | **angelaのミュージック・ワンダー★大サーカス 2019 LIVE Blu-ray**              | KIZX-418～9    |
+| 7th | 2020年6月17日  | **angelaのミュージック・ワンダー★大サーカス 2019 LIVE Blu-ray**              | KIZX-418〜9    |
 
 ### タイアップ曲
 
@@ -485,9 +485,9 @@
 
   - [angelaのsparking\!talking\!show\!](https://ja.wikipedia.org/wiki/angelaのsparking!talking!show! "wikilink")
   - [a-GENERATION](https://ja.wikipedia.org/wiki/a-GENERATION "wikilink")（文化放送・放送終了）
-  - 長澤奈央とangelaのオラ\!ラジ～オ\!（文化放送・放送終了）
+  - 長澤奈央とangelaのオラ\!ラジ〜オ\!（文化放送・放送終了）
   - angelaのラジオdeぢぇらすGO\!\!（放送終了）
-  - angelaのキャララジオ～案ずるよりangela（放送終了）
+  - angelaのキャララジオ〜案ずるよりangela（放送終了）
 
 ### テレビ
 
@@ -512,7 +512,7 @@
 
   - 音楽的流行（テレビ東京）
   - [@Tunes.](../Page/@Tunes..md "wikilink")（tvk）
-  - [音流～On Ryu～](../Page/音流〜On_Ryu〜.md "wikilink")（テレビ東京）
+  - [音流〜On Ryu〜](../Page/音流〜On_Ryu〜.md "wikilink")（テレビ東京）
   - [アニソンぷらす](https://ja.wikipedia.org/wiki/アニソンぷらす "wikilink")（テレビ東京）
   - [Anime-TV](../Page/アニメTV.md "wikilink")（tvk 他）
   - [MUSIC JAPAN](../Page/MUSIC_JAPAN.md "wikilink")（[NHK総合](https://ja.wikipedia.org/wiki/NHK総合 "wikilink")）
@@ -528,7 +528,7 @@
   - ジャパコン☆ワンダーランド 特別編 密着 アニメロサマーライブ2015（[BSフジ](../Page/BSフジ.md "wikilink")、2015年10月5日）
   - [プレミアの巣窟](../Page/プレミアの巣窟.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2015年10月19日）
   - [アニゲー☆イレブン\!](https://ja.wikipedia.org/wiki/アニゲー☆イレブン! "wikilink")（BS11）第8回・第68回、第145回、他コメント映像出演
-  - アニメロサマーライブSP～刻を繋ぐLIVE～（[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")、2016年11月18日）
+  - アニメロサマーライブSP〜刻を繋ぐLIVE〜（[BSスカパー\!](https://ja.wikipedia.org/wiki/BSスカパー! "wikilink")、2016年11月18日）
   - [リスアニ\!](https://ja.wikipedia.org/wiki/リスアニ! "wikilink")TV（TOKYO MX 他）コメント映像出演
   - [バナナ♪ゼロミュージック](https://ja.wikipedia.org/wiki/バナナ♪ゼロミュージック "wikilink")（NHK総合、2017年1月28日）/KUMAMIKO DANCING、キン肉マンGo Fight\!（いずれも出演者全員歌唱）
   - [上坂すみれのヤバい○○](https://ja.wikipedia.org/wiki/上坂すみれのヤバい○○ "wikilink")（TOKYO MX 他、2017年5月13日）第6回「ヤバいレコーディング」
@@ -542,7 +542,7 @@
   - [OHA OHA アニキ](https://ja.wikipedia.org/wiki/OHA_OHA_アニキ "wikilink")（テレビ東京、2017年12月7日）
   - [ライブB♪](https://ja.wikipedia.org/wiki/ライブB♪ "wikilink")（[TBS](../Page/TBSテレビ.md "wikilink")、2017年12月19日)
   - [Anison Days](https://ja.wikipedia.org/wiki/Anison_Days "wikilink")（BS11、2017年12月21日）
-  - [Club AT-X](../Page/Club_AT-X.md "wikilink") WSB～ワールド シークレット ベース～（[AT-X](https://ja.wikipedia.org/wiki/AT-X "wikilink")、2018年5月12日（\#383）・26日（\#384））
+  - [Club AT-X](../Page/Club_AT-X.md "wikilink") WSB〜ワールド シークレット ベース〜（[AT-X](https://ja.wikipedia.org/wiki/AT-X "wikilink")、2018年5月12日（\#383）・26日（\#384））
   - [関内デビル](https://ja.wikipedia.org/wiki/関内デビル "wikilink")（tvk、2018年7月11日）
   - [アニ☆ステ](https://ja.wikipedia.org/wiki/アニ☆ステ "wikilink")（J:COMテレビ、2018年7月19日）
   - [Love music](https://ja.wikipedia.org/wiki/Love_music "wikilink")（フジテレビ、2018年7月22日）近況動画OA\\
@@ -621,7 +621,7 @@
 34.
 35.
 36.
-37. 2015年2月に「[おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」に出演した際に「atsukoの自己紹介」として公募で決まった[3](http://ameblo.jp/angela-official/entry-11987939962.html)。
+37. 2015年2月に「[おに魂](../Page/The_Nutty_Radio_Show_おに魂.md "wikilink")」に出演した際に「atsukoの自己紹介」として公募で決まった[3](https://ameblo.jp/angela-official/entry-11987939962.html)。
 38. [angela、“ここにいる”喜びを高らかに叫んだ10回目の「大サーカス」 - 音楽ナタリー](http://natalie.mu/music/news/171550)
 39. 「ガヤのみであり声優デビューではない」との判断でクレジットされなかった [angela](http://king-cr.jp/artist/angela/diary/index.html?page=235) 2016年9月27日 12時54分閲覧
 40. [angela](http://king-cr.jp/artist/angela/diary/index.html?page=267) 2016年9月27日 12時59分 閲覧

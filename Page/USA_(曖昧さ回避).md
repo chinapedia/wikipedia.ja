@@ -8,7 +8,7 @@
   - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")（米国） *United States of America* の略称及び[ISO 3166-1](../Page/ISO_3166-1.md "wikilink")[国名コード](../Page/国名コード.md "wikilink")。
   - [アメリカ陸軍](../Page/アメリカ陸軍.md "wikilink") *United States Army*
 
-## アメリカとは無関係な日本の地名・施設
+## アメリカ合衆国とは無関係な日本の地名・施設
 
   - [大分県](../Page/大分県.md "wikilink")[宇佐市](../Page/宇佐市.md "wikilink")
       - [宇佐駅](../Page/宇佐駅.md "wikilink") - JR九州日豊本線の駅。

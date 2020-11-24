@@ -148,6 +148,7 @@
 <li><a href="../Page/DonDokoDon.md" title="wikilink">DonDokoDon</a></li>
 <li><a href="../Page/永田杏奈.md" title="wikilink">永田杏奈</a></li>
 <li><a href="../Page/中山エミリ.md" title="wikilink">中山エミリ</a></li>
+<li><a href="../Page/錦織健.md" title="wikilink">錦織健</a></li>
 <li><a href="../Page/錦野旦.md" title="wikilink">にしきのあきら</a></li>
 <li><a href="../Page/西田ひかる.md" title="wikilink">西田ひかる</a></li>
 <li><a href="https://ja.wikipedia.org/wiki/ネーネーズ" title="wikilink">ネーネーズ</a></li>
@@ -265,8 +266,8 @@
 ## パロディ
 
   - [日向坂で会いましょう](https://ja.wikipedia.org/wiki/日向坂で会いましょう "wikilink")([テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink"))
-      - 第57回-第60回 - 「見たい\!聞きたい\!話しタイ\! 総集編で尺をヒッパレ」というタイトルで放送。MCの[オードリーが制作会社である](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")[ケイマックス](../Page/ケイマックス.md "wikilink")の社屋内から収録に参加し、[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")のメンバーはリモートでの収録参加となった。メンバーが過去の放送からおすすめしたいシーンをプレゼンし、**「DJ赤スガ」**に扮した[春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")がそのシーンのVTRを放送するか否かを判定した\[4\]。
-      - 第74回,第75回 - 「釣りたい\!魅せたい\!聴かせタイ\! 祝\!日向坂46 1stアルバムヒット祈願\! めでタイ魚を海からヒッパレ」というタイトルで釣りロケの模様を放送。[アマダイ](../Page/アマダイ.md "wikilink")を8匹釣り上げるという企画に日向坂46のメンバーが挑んだ\[5\]。
+      - 第57回-第60回 - **「見たい\!聞きたい\!話しタイ\! 総集編で尺をヒッパレ」**というタイトルで放送。MCの[オードリーが制作会社である](https://ja.wikipedia.org/wiki/オードリー_\(お笑いコンビ\) "wikilink")[ケイマックス](../Page/ケイマックス.md "wikilink")の社屋内から収録に参加し、[日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")のメンバーはリモートでの収録参加となった。メンバーが過去の放送からおすすめしたいシーンをプレゼンし、**「DJ赤スガ」**に扮した[春日俊彰](https://ja.wikipedia.org/wiki/春日俊彰 "wikilink")がそのシーンのVTRを放送するか否かを判定した\[4\]。
+      - 第74回,第75回 - **「釣りたい\!魅せたい\!聴かせタイ\! 祝\!日向坂46 1stアルバムヒット祈願\! めでタイ魚を海からヒッパレ」**というタイトルで釣りロケの模様を放送。[アマダイ](../Page/アマダイ.md "wikilink")を8匹釣り上げるという企画に日向坂46のメンバーが挑んだ\[5\]。
 
 ## 脚注
 

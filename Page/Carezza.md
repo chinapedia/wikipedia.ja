@@ -85,7 +85,7 @@
 
 ## 外部リンク
 
-  - [カレッツァのフットサルブログ](http://blog.excite.co.jp/carezza/)
+  -
   - [avexの公式ページ](http://avexnet.or.jp/carezza/index.html)
 
 [Category:サンズエンタテインメント](https://ja.wikipedia.org/wiki/Category:サンズエンタテインメント "wikilink") [Category:イエローキャブ](https://ja.wikipedia.org/wiki/Category:イエローキャブ "wikilink") [Category:エイベックス・グループのアーティスト](https://ja.wikipedia.org/wiki/Category:エイベックス・グループのアーティスト "wikilink") [Category:芸能人女子フットサルチーム](https://ja.wikipedia.org/wiki/Category:芸能人女子フットサルチーム "wikilink") [Category:兵庫エフエム放送](https://ja.wikipedia.org/wiki/Category:兵庫エフエム放送 "wikilink")

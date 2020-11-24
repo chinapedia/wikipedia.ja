@@ -17,7 +17,7 @@
   - [東京特殊電線](../Page/東京特殊電線.md "wikilink")の[CRTモニタが搭載する](../Page/ブラウン管.md "wikilink")、[地磁気](../Page/地磁気.md "wikilink")自動補正装置。
   - [青森公立大学](../Page/青森公立大学.md "wikilink")
   - 医学・生物学用語としては
-      - [がん抑制遺伝子](../Page/がん抑制遺伝子.md "wikilink")の一種。adenomatous polyposis coli （大腸腺腫性ポリープ）に由来する命名。
+      - [がん抑制遺伝子](../Page/がん抑制遺伝子.md "wikilink")の一種。adenomatous polyposis coli （大腸腺腫性ポリープ）に由来する命名。（→[APC (タンパク質)](https://ja.wikipedia.org/wiki/APC_\(タンパク質\) "wikilink")）
       - [抗原提示細胞](../Page/抗原提示細胞.md "wikilink") (antigen-presenting cell) の略。
       - 解熱鎮痛剤の処方の一種。[アスピリン](https://ja.wikipedia.org/wiki/アスピリン "wikilink") (aspirin) 、[パラセタモール](../Page/アセトアミノフェン.md "wikilink") (paracetamol) 、[カフェイン](../Page/カフェイン.md "wikilink") (caffeine) の合剤。
       - アルゴンプラズマ凝固法 ([Argon plasma coagulation](https://ja.wikipedia.org/wiki/:en:Argon_plasma_coagulation "wikilink"))

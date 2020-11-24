@@ -5,7 +5,7 @@
 [難波章浩](../Page/難波章浩.md "wikilink")（[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")・[ベース](../Page/ベース_\(弦楽器\).md "wikilink")）
 [恒岡章](https://ja.wikipedia.org/wiki/恒岡章 "wikilink")（[ドラムス](../Page/ドラムセット.md "wikilink")・コーラス） | Past_members = 松本敦彦（ボーカル） }} **Hi-STANDARD**（ハイスタンダード）は[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[パンク・ロック](../Page/パンク・ロック.md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")。[PIZZA OF DEATH RECORDS所属](../Page/PIZZA_OF_DEATH_RECORDS.md "wikilink")。略称は**ハイスタ**。
 
-[10-FEET](../Page/10-FEET.md "wikilink")や[MONGOL800](../Page/MONGOL800.md "wikilink")、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")、[04 Limited Sazabys等を始めとした現在のパンクバンドへの影響を与えた](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")。Hi-STANDARD主催の野外フェス[AIR JAMはバンドが野外フェスを主催するきっかけとなり](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")、10-FEETの[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")、SiMの[DEAD POP FESTIVAL](https://ja.wikipedia.org/wiki/DEAD_POP_FESTIVAL "wikilink")、04 Limited Sazabysの[YON FES等に受け継がれている](https://ja.wikipedia.org/wiki/YON_FES "wikilink")。
+[10-FEET](../Page/10-FEET.md "wikilink")や[MONGOL800](../Page/MONGOL800.md "wikilink")、[SiM](https://ja.wikipedia.org/wiki/SiM "wikilink")、[WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")、[04 Limited Sazabys](https://ja.wikipedia.org/wiki/04_Limited_Sazabys "wikilink")、SR622、等を始めとした現在のパンクバンドへの影響を与えた。Hi-STANDARD主催の野外フェス[AIR JAMはバンドが野外フェスを主催するきっかけとなり](https://ja.wikipedia.org/wiki/AIR_JAM "wikilink")、10-FEETの[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")、SiMの[DEAD POP FESTIVAL](https://ja.wikipedia.org/wiki/DEAD_POP_FESTIVAL "wikilink")、04 Limited Sazabysの[YON FES等に受け継がれている](https://ja.wikipedia.org/wiki/YON_FES "wikilink")。
 
 ## メンバー
 
@@ -310,7 +310,7 @@ POD-001</p></td>
 <tbody>
 <tr class="odd">
 <td><p>1992年11月1日</p></td>
-<td><p><strong>SHAKE A MOVE</strong></p></td>
+<td><p>TICKET</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
 <p>全10曲</p>
@@ -320,7 +320,7 @@ POD-001</p></td>
 <li>烏合の衆 / ACROBAT BUNCH</li>
 <li>GEVE ME BACK / COOL ACID SUCKERS</li>
 <li>Here We Go シアターブルックNo.1 / シアターブルック</li>
-<li>'''Selfish Girl / Hi-STANDARD</li>
+<li><strong>Selfish Girl / Hi-STANDARD</strong></li>
 </ol>
 <p># 行くぜ</p></td>
 <td><p>POWERマン / マーヴィン＆COOL FOOL POOL</p>

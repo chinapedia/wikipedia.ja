@@ -666,7 +666,7 @@ Hot Albums</a><br />
 <tr class="even">
 <td><p>10th</p></td>
 <td><p>2017年9月6日</p></td>
-<td><p><strong>ダンサブル</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/ダンサブル_(アルバム)" title="wikilink">ダンサブル</a></strong></p></td>
 <td><p>VICL-64825 (CD)</p></td>
 <td><p>12位</p></td>
 <td><p>8位</p></td>

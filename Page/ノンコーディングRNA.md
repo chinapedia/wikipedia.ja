@@ -1,7 +1,7 @@
 > この記事は[ノンコーディングRNA](https://ja.wikipedia.org/wiki/ノンコーディングRNA)から翻訳されています。
 
 
-**ノンコーディングRNA**（non-coding RNA、**ncRNA**、非コードRNA）は[タンパク質](../Page/タンパク質.md "wikilink")へ[翻訳されずに機能する](../Page/翻訳_\(生物学\).md "wikilink")[RNAの総称であり](../Page/リボ核酸.md "wikilink")、**非翻訳性RNA**（non-translatable RNA）ともいう。ノンコーディングRNAを[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を、ノンコーディングRNA遺伝子あるいは単にRNA遺伝子と呼ぶことがある。
+**ノンコーディングRNA**（non-coding RNA、**ncRNA**、非コードRNA）は[タンパク質](../Page/タンパク質.md "wikilink")へ[翻訳されずに機能する](../Page/翻訳_\(生物学\).md "wikilink")[RNAの総称であり](../Page/リボ核酸.md "wikilink")、**非翻訳性RNA**（non-translatable RNA）。ノンコーディングRNAを[発現](https://ja.wikipedia.org/wiki/発現 "wikilink")する[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")を、ノンコーディング[RNA](https://ja.wikipedia.org/wiki/RNAポリメラーゼ "wikilink")[遺伝子](https://ja.wikipedia.org/wiki/遺伝子 "wikilink")あるいは、単にRNA遺伝子と呼ぶことがある。
 
 ## 概要
 
@@ -11,7 +11,7 @@
 
 最も有名で量も多いノンコーディングRNAは、翻訳過程で機能する転移RNA（[tRNA](https://ja.wikipedia.org/wiki/tRNA "wikilink")）とリボソームRNA（[rRNA](https://ja.wikipedia.org/wiki/rRNA "wikilink")）であるが、それ以外にも、1980年代初期の低分子量核内RNAの発見や、1990年代後期の[マイクロRNAの発見など](https://ja.wikipedia.org/wiki/miRNA "wikilink")、基本的な代謝から個体発生や細胞分化までの実に様々な生命現象に関与するノンコーディングRNAが数多く見出されており、ノンコーディングRNAは以前考えられたよりもはるかに重要な役割を有すると考えられるようになった。
 
-[ヒトゲノム](../Page/ヒトゲノム.md "wikilink")解読とトランスクプトーム解析が明らかにしたことの1つとして、ヒトゲノムのわずか2％しか[タンパク質](../Page/タンパク質.md "wikilink")をコードしておらず、ヒトゲノムの7割以上はタンパク質のコードしないncRNAとして転写されることがあげられる。ncRNAはこれまで[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")、RNAプロセッシング、RNA分解、[翻訳](../Page/翻訳.md "wikilink")などの遺伝子発現の様々な段階に影響を与えることが知られている。
+[ヒトゲノム](../Page/ヒトゲノム.md "wikilink")解読とトランスクプトーム解析が明らかにしたことの1つとして、ヒトゲノムのわずか2％しか[タンパク質](../Page/タンパク質.md "wikilink")をコードしていないことがあげられる。ncRNAはこれまで[転写](https://ja.wikipedia.org/wiki/転写 "wikilink")、RNAプロセッシング、RNA分解、[翻訳](../Page/翻訳.md "wikilink")などの遺伝子発現の様々な段階に影響を与えることが知られている。
 
 ## ノンコーディングRNAの分類
 

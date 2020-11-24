@@ -33,7 +33,7 @@ PCI Express x1をベースとした新たな[PCカード](../Page/PCカード.md
 
 当初は1レーンあたりの物理帯域10 Gbpsを目標としたが技術的困難から8 Gbpsに改め、エンコード方式を128b/130bに変更して転送効率を向上させた\[4\]。PCI Express 3.0は従来の1.1や2.0の機器とも接続互換性を有する。実効データ転送速度は当初目標のPCI Express 2.0比約2倍となり、1レーンあたりの実効データ転送速度は片方向0.9846 GB/sで双方向1.969 GB/sとなった。PCI Express 3.0のポートは規格上最大32レーンまで束ねられ、1ポートの最大の実効データ転送レートは片方向31.51 GB/s、双方向63.02 GB/sである。PCI Express 3.0以降は[\#物理レイヤ](https://ja.wikipedia.org/wiki/#物理レイヤ "wikilink")の帯域を[ギガビット毎秒](../Page/ビット毎秒.md "wikilink") (Gbps) でなくギガトランスファ毎秒 (GT/s) で表記することが多くなった。
 
-インテルは2012年発売の[Ivy Bridg世代のCPUで正式対応](https://ja.wikipedia.org/wiki/Ivy_Bridgeマイクロアーキテクチャ "wikilink")\[5\]。ただしCPUが提供するレーンに限られ、[チップセット](../Page/チップセット.md "wikilink")が提供するレーンが対応したのは2015年発売の[Skylakeに対応した](https://ja.wikipedia.org/wiki/Skylakeマイクロアーキテクチャ "wikilink")100シリーズからとなる。AMDは2014年のKaveri世代で対応\[6\]。ただしこれは[APUであり](https://ja.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit "wikilink")、より高性能なCPUでは2017年の[Ryzen](https://ja.wikipedia.org/wiki/Ryzen "wikilink")にて対応\[7\]。チップセットが提供するレーンは2020年発売のミドルレンジ向けチップセットであるB550が対応。
+インテルは2012年発売の[Ivy Bridge世代のCPUで正式対応](https://ja.wikipedia.org/wiki/Ivy_Bridgeマイクロアーキテクチャ "wikilink")\[5\]。ただしCPUが提供するレーンに限られ、[チップセット](../Page/チップセット.md "wikilink")が提供するレーンが対応したのは2015年発売の[Skylakeに対応した](https://ja.wikipedia.org/wiki/Skylakeマイクロアーキテクチャ "wikilink")100シリーズからとなる。AMDは2014年のKaveri世代で対応\[6\]。ただしこれは[APUであり](https://ja.wikipedia.org/wiki/AMD_Accelerated_Processing_Unit "wikilink")、より高性能なCPUでは2017年の[Ryzen](https://ja.wikipedia.org/wiki/Ryzen "wikilink")にて対応\[7\]。チップセットが提供するレーンは2020年発売のミドルレンジ向けチップセットであるB550が対応。
 
 ### PCI Express 4.0 (Gen4)
 

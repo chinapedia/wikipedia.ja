@@ -198,7 +198,7 @@ JR東日本ホテルズが展開する[シティホテルのブランド](https:
 <td><p>東京都<a href="../Page/国分寺市.md" title="wikilink">国分寺市</a><a href="https://ja.wikipedia.org/wiki/南町_(国分寺市)" title="wikilink">南町</a>3-20-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/国分寺駅" title="wikilink">国分寺駅</a>南口徒歩1分</p></td>
 <td><p>75</p></td>
-<td><p>1996年5月24日</p></td>
+<td><p>1996年5月24日[15]</p></td>
 <td><p>日本ホテル</p></td>
 <td></td>
 </tr>
@@ -246,7 +246,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 <td><p><a href="https://ja.wikipedia.org/wiki/武蔵溝ノ口駅" title="wikilink">武蔵溝ノ口駅</a>南口徒歩1分<br />
 東急<a href="https://ja.wikipedia.org/wiki/溝の口駅" title="wikilink">溝の口駅</a>東口徒歩1分</p></td>
 <td><p>100</p></td>
-<td><p>2000年4月25日[15]</p></td>
+<td><p>2000年4月25日[16]</p></td>
 <td><p>日本ホテル</p></td>
 <td></td>
 </tr>
@@ -275,7 +275,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 <td><p><a href="../Page/長岡駅.md" title="wikilink">長岡駅</a>東口直結</p></td>
 <td><p>122</p></td>
 <td><p>1999年7月21日</p></td>
-<td><p><a href="../Page/トッキー.md" title="wikilink">トッキー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/JR東日本新潟シティクリエイト" title="wikilink">JR東日本新潟シティクリエイト</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -284,7 +284,7 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 <td><p><a href="https://ja.wikipedia.org/wiki/新潟駅" title="wikilink">新潟駅</a>西側連絡通路直結</p></td>
 <td><p>197</p></td>
 <td><p>2013年4月8日</p></td>
-<td><p>トッキー</p></td>
+<td><p>JR東日本新潟シティクリエイト</p></td>
 <td><p>高層階2フロアは「スーペリアフロア」<br />
 1 - 3階に「新潟駅ビル<a href="../Page/CoCoLo.md" title="wikilink">CoCoLo</a>西館」併設</p></td>
 </tr>
@@ -313,10 +313,10 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 
 <!-- end list -->
 
-  - JR東日本ホテルメッツ 秋葉原（東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")1丁目17番地6号/[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")電気街口南口徒歩1分/日本ホテル運営）、2019年10月開業予定\[16\]
-  - JR東日本ホテルメッツ 新木場東京ベイ（東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")1丁目/[新木場駅](https://ja.wikipedia.org/wiki/新木場駅 "wikilink")徒歩2分/日本ホテル運営）、2019年11月開業予定\[17\]
-  - JR東日本ホテルメッツ 横浜（神奈川県横浜市[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")[鶴屋町](https://ja.wikipedia.org/wiki/鶴屋町_\(横浜市\) "wikilink")1丁目66-9他/[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")直結再開発ビル 「[JR横浜鶴屋町ビル](https://ja.wikipedia.org/wiki/JR横浜鶴屋町ビル "wikilink")」内/日本ホテル運営）、[2020年](../Page/2020年.md "wikilink")6月開業予定\[18\]\[19\]
-  - JR東日本ホテルメッツ 横浜桜木町（神奈川県横浜市[中区](../Page/中区_\(横浜市\).md "wikilink")[桜木町](../Page/桜木町_\(横浜市\).md "wikilink")1丁目1-93他/[桜木町駅](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")隣接「[JR桜木町ビル](https://ja.wikipedia.org/wiki/JR桜木町ビル "wikilink")」内/日本ホテル運営）、2020年6月 開業予定\[20\]\[21\]
+  - JR東日本ホテルメッツ 秋葉原（東京都[千代田区](https://ja.wikipedia.org/wiki/千代田区 "wikilink")[外神田](../Page/外神田.md "wikilink")1丁目17番地6号/[秋葉原駅](https://ja.wikipedia.org/wiki/秋葉原駅 "wikilink")電気街口南口徒歩1分/日本ホテル運営）、2019年10月開業予定\[17\]
+  - JR東日本ホテルメッツ 新木場東京ベイ（東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[新木場](../Page/新木場.md "wikilink")1丁目/[新木場駅](https://ja.wikipedia.org/wiki/新木場駅 "wikilink")徒歩2分/日本ホテル運営）、2019年11月開業予定\[18\]
+  - JR東日本ホテルメッツ 横浜（神奈川県横浜市[神奈川区](https://ja.wikipedia.org/wiki/神奈川区 "wikilink")[鶴屋町](https://ja.wikipedia.org/wiki/鶴屋町_\(横浜市\) "wikilink")1丁目66-9他/[横浜駅](https://ja.wikipedia.org/wiki/横浜駅 "wikilink")直結再開発ビル 「[JR横浜鶴屋町ビル](https://ja.wikipedia.org/wiki/JR横浜鶴屋町ビル "wikilink")」内/日本ホテル運営）、[2020年](../Page/2020年.md "wikilink")6月開業予定\[19\]\[20\]
+  - JR東日本ホテルメッツ 横浜桜木町（神奈川県横浜市[中区](../Page/中区_\(横浜市\).md "wikilink")[桜木町](../Page/桜木町_\(横浜市\).md "wikilink")1丁目1-93他/[桜木町駅](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")隣接「[JR桜木町ビル](https://ja.wikipedia.org/wiki/JR桜木町ビル "wikilink")」内/日本ホテル運営）、2020年6月 開業予定\[21\]\[22\]
 
 {{-}}
 
@@ -363,9 +363,10 @@ JR線沿線ではなく、<a href="../Page/西武新宿線.md" title="wikilink">
 13.
 14.
 15.
-16.  - 東日本旅客鉄道株式会社/日本ホテル株式会社 2017年5月9日（同日閲覧）
-17.
-18.  - [東日本旅客鉄道株式会社横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink") 2018年11月22日（2020年1月25日閲覧）
-19.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）
-20.  - 東日本旅客鉄道株式会社横浜支社/日本ホテル株式会社/[株式会社横浜ステーシヨンビル](../Page/横浜ステーシヨンビル.md "wikilink") 2018年9月27日（2018年10月7日閲覧）
-21.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）
+16.
+17.  - 東日本旅客鉄道株式会社/日本ホテル株式会社 2017年5月9日（同日閲覧）
+18.
+19.  - [東日本旅客鉄道株式会社横浜支社](../Page/東日本旅客鉄道横浜支社.md "wikilink") 2018年11月22日（2020年1月25日閲覧）
+20.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）
+21.  - 東日本旅客鉄道株式会社横浜支社/日本ホテル株式会社/[株式会社横浜ステーシヨンビル](../Page/横浜ステーシヨンビル.md "wikilink") 2018年9月27日（2018年10月7日閲覧）
+22.  - 東日本旅客鉄道株式会社横浜支社 2020年1月23日（2020年1月25日閲覧）

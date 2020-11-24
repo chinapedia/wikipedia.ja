@@ -113,7 +113,7 @@
 
 ## 外部リンク
 
-  - [SONY MUSIC ACCESS](http://web.archive.org/web/20081203235121/http://www.tvk-yokohama.com/sma/) - 閉鎖。（2008年12月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [SONY MUSIC ACCESS](https://web.archive.org/web/20081203235121/http://www.tvk-yokohama.com/sma/) - 閉鎖。（2008年12月3日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:1983年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1983年のテレビ番組_\(日本\) "wikilink") [Category:テレビ神奈川の音楽番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の音楽番組 "wikilink") [Category:テレビ神奈川の深夜番組](https://ja.wikipedia.org/wiki/Category:テレビ神奈川の深夜番組 "wikilink") [Category:KBS京都の深夜テレビ番組](https://ja.wikipedia.org/wiki/Category:KBS京都の深夜テレビ番組 "wikilink") [Category:ソニー一社提供番組](https://ja.wikipedia.org/wiki/Category:ソニー一社提供番組 "wikilink")
 

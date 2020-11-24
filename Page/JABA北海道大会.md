@@ -209,7 +209,7 @@
 <td><p>室蘭、苫小牧</p></td>
 <td><p><strong>大昭和製紙北海道</strong></p></td>
 <td><p><strong>3</strong>-2</p></td>
-<td><p><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
+<td><p><a href="../Page/三菱パワー硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -239,7 +239,7 @@
 <tr class="even">
 <td><p>1993年（第39回）</p></td>
 <td><p>円山</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p><strong>9</strong>-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/NTT関東硬式野球部" title="wikilink">NTT関東</a></p></td>
 <td></td>
@@ -265,7 +265,7 @@
 <td><p>円山</p></td>
 <td><p><strong><a href="../Page/三菱ふそう川崎硬式野球部.md" title="wikilink">三菱自動車川崎</a></strong></p></td>
 <td><p><strong>11</strong>-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かずさマジック" title="wikilink">新日鉄君津</a></p></td>
+<td><p><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">新日鉄君津</a></p></td>
 <td><p>決勝は8回コールド</p></td>
 </tr>
 <tr class="even">
@@ -460,7 +460,7 @@
 <td><p>2019年（<a href="https://ja.wikipedia.org/wiki/第45回社会人野球日本選手権大会予選#日本選手権対象大会" title="wikilink">第61回</a>）</p></td>
 <td><p>札幌市円山球場<br />
 <a href="https://ja.wikipedia.org/wiki/岩見沢市野球場" title="wikilink">岩見沢市野球場</a></p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">JX-ENEOS</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">JX-ENEOS</a></strong></p></td>
 <td><p><strong>2</strong>-1</p></td>
 <td><p>トヨタ自動車</p></td>
 <td></td>
@@ -469,8 +469,6 @@
 </table>
 
 ## 脚注
-
-<references/>
 
 ## 関連項目
 

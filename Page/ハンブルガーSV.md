@@ -189,7 +189,7 @@
 
 </div>
 
-  - 2019年8月19日現在\[63\]
+  - 2020年10月4日現在\[63\]
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))       (第3主将)  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))    ★       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ghana.svg "wikilink"))     ()
 
@@ -464,8 +464,6 @@
 
   - [ルート・ファン・ニステルローイ](../Page/ルート・ファン・ニステルローイ.md "wikilink") 2010.1-2011
 
-  - [孫興慜](https://ja.wikipedia.org/wiki/孫興ミン "wikilink") 2010-2013
-
   - [オラ・ジョン](https://ja.wikipedia.org/wiki/オラ・ジョン "wikilink") 2014
 
   - [ピエール＝ミシェル・ラソッガ](https://ja.wikipedia.org/wiki/ピエール＝ミシェル・ラソッガ "wikilink") 2014-2019
@@ -473,8 +471,6 @@
   - [スヴェン・シプロック](https://ja.wikipedia.org/wiki/スヴェン・シプロック "wikilink") 2015-2018
 
   - [ボビー・ウッド](https://ja.wikipedia.org/wiki/ボビー・ウッド "wikilink") 2016-
-
-  - [黄喜燦](https://ja.wikipedia.org/wiki/黄喜燦 "wikilink") 2018-2019
 
 ## その他のスポーツ
 

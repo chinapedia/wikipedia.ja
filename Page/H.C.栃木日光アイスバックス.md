@@ -44,7 +44,8 @@
     [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")（平成22年）チーム名の表記を「**H.C.栃木日光アイスバックス**」に変更。
     [2012年](../Page/2012年.md "wikilink")（平成24年）3月 [アジアリーグ2011-12シーズンにおいてプレイオフ](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー2011-2012 "wikilink")・ファイナルに初めて進出して準優勝。
     [2014年](../Page/2014年.md "wikilink")（平成26年）5月 [NHL](https://ja.wikipedia.org/wiki/NHL "wikilink")・[ニューヨーク・アイランダーズ](https://ja.wikipedia.org/wiki/ニューヨーク・アイランダーズ "wikilink")、および[フィンランドリーガの](https://ja.wikipedia.org/wiki/SMリーガ "wikilink")[イルベスホッケーオイ](https://ja.wikipedia.org/wiki/:fi:Tampereen_Ilves_\(jääkiekko\) "wikilink")（Ilves Hockey-Oy）とホッケーの振興や人材交流などを目的とした業務提携を締結。
-    2014年（平成26年）12月 アイスバックス誕生後初めて[全日本アイスホッケー選手権](https://ja.wikipedia.org/wiki/全日本アイスホッケー選手権 "wikilink")で優勝
+    2014年（平成26年）12月 アイスバックス誕生後初めて[全日本アイスホッケー選手権](https://ja.wikipedia.org/wiki/全日本アイスホッケー選手権 "wikilink")で優勝。
+    2019年（令和元年）12月 [全日本アイスホッケー選手権](https://ja.wikipedia.org/wiki/全日本アイスホッケー選手権 "wikilink")で6回目の優勝。\[1\]
 
 ## 主な成績
 
@@ -191,10 +192,13 @@
 
 ## 関連項目
 
+  - [アジアリーグアイスホッケー](https://ja.wikipedia.org/wiki/アジアリーグアイスホッケー "wikilink")
   - [セルジオ越後](../Page/セルジオ越後.md "wikilink")
   - [えのきどいちろう](https://ja.wikipedia.org/wiki/えのきどいちろう "wikilink")
   - [大杉漣](../Page/大杉漣.md "wikilink")
   - [リリー・フランキー](../Page/リリー・フランキー.md "wikilink")
+
+## 脚注
 
 ## 外部リンク
 
@@ -203,3 +207,5 @@
   -
   -
 [Category:H.C.栃木日光アイスバックス](https://ja.wikipedia.org/wiki/Category:H.C.栃木日光アイスバックス "wikilink") [Category:日本のアイスホッケーチーム](https://ja.wikipedia.org/wiki/Category:日本のアイスホッケーチーム "wikilink") [Category:日本アイスホッケーリーグのチーム](https://ja.wikipedia.org/wiki/Category:日本アイスホッケーリーグのチーム "wikilink") [Category:アジアリーグアイスホッケーのチーム](https://ja.wikipedia.org/wiki/Category:アジアリーグアイスホッケーのチーム "wikilink") [Category:栃木県のスポーツチーム](https://ja.wikipedia.org/wiki/Category:栃木県のスポーツチーム "wikilink") [Category:1999年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1999年設立のスポーツチーム "wikilink")
+
+1.  [第87回全日本アイスホッケー選手権大会（Ａ）](https://www.jihf.or.jp/watching_games/season/detail.php?meet=464)（2020年11月19日閲覧）

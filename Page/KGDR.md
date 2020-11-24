@@ -73,8 +73,6 @@
 
 Amebreakの伊藤雄介は、『[空からの力](https://ja.wikipedia.org/wiki/空からの力 "wikilink")』はアメリカのヒップホップの構造を理解した上でそれを日本語で再解釈し、日本語ラップの表現の幅を拡げた\[22\]日本語ラップ史上最高の1枚と言われているアルバム\[23\]と評している。
 
-特に人物としてK DUB SHINE、ZEEBRA、DJ OASIS三人共人格者として評価される事も多く、[音楽](../Page/音楽.md "wikilink")に対して直向きに[プロ](https://ja.wikipedia.org/wiki/プロ "wikilink")として、[仕事](https://ja.wikipedia.org/wiki/仕事 "wikilink")として、[音楽](../Page/音楽.md "wikilink")業界、特に[ヒップホップ](../Page/ヒップホップ.md "wikilink")を社会の中に根付かそうとする[姿勢](https://ja.wikipedia.org/wiki/姿勢 "wikilink")は[音楽](../Page/音楽.md "wikilink")[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")枠内を超えて尊敬される事がある\[24\]\[25\]\[26\]\[27\]。
-
 ## ディスコグラフィ
 
 ### 12inchシングルレコード
@@ -169,7 +167,3 @@ Amebreakの伊藤雄介は、『[空からの力](https://ja.wikipedia.org/wiki/
 21.
 22. [Amebreak INTERVIEW AKLO(前編) 2012年9月5日](http://amebreak.ameba.jp/interview/2012/09/003194.html)
 23. 伊藤雄介共著『ラップのことば』P-Vine BOOKS刊、2010年4月2日発行（278ページ）
-24. [Facebook Yuma Katsumataアカウント](https://m.facebook.com/yuma.katsumata?fref=pb)
-25. [音楽評論家のページ KICK THE CAN CREW](https://jellyfishsecret.jimdofree.com/2020/01/08/2020-1-8-kick-the-can-crew/)
-26. [ゆうま(ラッパー)公式Twitterアカウント](https://mobile.twitter.com/yuma_k_0712)
-27. [secret公式Twitterアカウント](https://mobile.twitter.com/secret20121118)

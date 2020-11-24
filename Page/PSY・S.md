@@ -27,9 +27,9 @@
   - Woman･S
     [明石家さんま](../Page/明石家さんま.md "wikilink")の冠テレビ番組『[さんまのまんま](https://ja.wikipedia.org/wiki/さんまのまんま "wikilink")』エンディングテーマ曲（1987年）
 
-### Kisses
+<!-- end list -->
 
-  -
+  - [Kisses](https://ja.wikipedia.org/wiki/Kisses "wikilink")
     1990年9月21日発売。『[東京テレメッセージ](../Page/東京テレメッセージ.md "wikilink")』CMソング。14thシングル・6thアルバム『[SIGNAL](https://ja.wikipedia.org/wiki/SIGNAL_\(PSY・Sのアルバム\) "wikilink")』収録
   - [Friends or Lovers](https://ja.wikipedia.org/wiki/Friends_or_Lovers "wikilink")
     1991年2月10日発売。[TBS系TV金曜ドラマ](../Page/TBSテレビ.md "wikilink")『[ママってきれい\!?](https://ja.wikipedia.org/wiki/ママってきれい!? "wikilink")』テーマ・ソング

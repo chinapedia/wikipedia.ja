@@ -9,11 +9,9 @@
 
 その後は[東日本社会人リーグで着実にレベルアップを果たす](https://ja.wikipedia.org/wiki/東日本社会人リーグ_\(ラグビー\) "wikilink")。2002-03年度では東日本社会人リーグ7位の低迷から巻き返して、全国社会人大会ベスト4を経て[日本選手権で優勝し](../Page/日本ラグビーフットボール選手権大会.md "wikilink")、初タイトルを獲得。この年の東日本社会人リーグの7位は、全国社会人大会に出場出来るギリギリの順位であり、同様に全国社会人大会のベスト4も日本選手権に出場出来るギリギリの成績だった。そのような状況からの日本一にマスコミから「**ミラクル7**」と呼ばれた。
 
-2003-04年度スタートの[ジャパンラグビートップリーグ](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")では一歩で優勝を逃したが、上位8チームによるトーナメント戦マイクロソフトカップでトップリーグ1位の[神戸製鋼コベルコスティーラーズ](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")を破り、初代カップチャンピオンに輝く。
+2003-04年度スタートの[ジャパンラグビートップリーグ](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ "wikilink")では初年度は6位で終わるも、上位8チームによるトーナメント戦マイクロソフトカップでトップリーグ1位の[神戸製鋼コベルコスティーラーズ](../Page/神戸製鋼コベルコスティーラーズ.md "wikilink")を破り、初代カップチャンピオンに輝く。
 
-また2004-05年度は、[日本選手権で](https://ja.wikipedia.org/wiki/第42回日本ラグビーフットボール選手権大会 "wikilink")[トヨタ自動車ヴェルブリッツ](../Page/トヨタ自動車ヴェルブリッツ.md "wikilink")との大接戦を制し2年ぶりに日本一のタイトルを奪還した。2005-06年度の[日本選手権でも](https://ja.wikipedia.org/wiki/第43回日本ラグビーフットボール選手権大会 "wikilink")[東芝府中ブレイブルーパスと優勝を分け合い](../Page/東芝ブレイブルーパス.md "wikilink")、連覇を達成した。
-
-しかし2014-15年度の[日本選手権では大学王者の](https://ja.wikipedia.org/wiki/第52回日本ラグビーフットボール選手権大会 "wikilink")[帝京大学に](../Page/帝京大学ラグビー部.md "wikilink")25-31で敗れた\[1\]。
+また2004-05年度は、[日本選手権で](https://ja.wikipedia.org/wiki/第42回日本ラグビーフットボール選手権大会 "wikilink")[トヨタ自動車ヴェルブリッツ](../Page/トヨタ自動車ヴェルブリッツ.md "wikilink")との大接戦を制し2年ぶりに日本一のタイトルを奪還した。2005-06年度の[日本選手権でも](https://ja.wikipedia.org/wiki/第43回日本ラグビーフットボール選手権大会 "wikilink")[東芝府中ブレイブルーパスと優勝を分け合い](../Page/東芝ブレイブルーパス.md "wikilink")、日本選手権連覇を達成した。 2006年度以降トップリーグでのチーム成績は徐々に下降線を辿ったがトップリーグ終了後の日本選手権には2008年度から4季連続で出場した。2011年にはトップリーグのリーグ戦で4位に入り初めてプレーオフトーナメントに進出したがセミファイナルでサントリーに大敗し3位でシーズンを終えた。 また2014-15年度の[日本選手権では大学王者の](https://ja.wikipedia.org/wiki/第52回日本ラグビーフットボール選手権大会 "wikilink")[帝京大学に](../Page/帝京大学ラグビー部.md "wikilink")25-31で敗れた\[1\]。
 
 ## 成績
 
@@ -57,7 +55,7 @@
   - [2016-2017シーズン](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2016-2017 "wikilink")：トップリーグ10位（6勝8敗1分）
   - [2017-2018シーズン](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2017-2018 "wikilink"):トップリーグ8位（リーグ戦・ホワイトカンファレンス 6勝7敗・4位、順位決定トーナメント、1回戦・敗戦、7位決定戦・敗戦）
   - [2018-2019シーズン](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2018-2019 "wikilink") 10位（リーグ戦・レッドカンファレンス 3勝4敗・5位、順位決定トーナメント、9位決定戦・敗戦 トップリーグカップ 10位（プール戦1勝2敗・3位、順位決定トーナメント、9位決定戦・敗戦）
-  - [2019-2020シーズン](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2019-2020 "wikilink") （トップリーグカップ プール戦敗退（プール戦3勝2敗・3位）
+  - [2019-2020シーズン](https://ja.wikipedia.org/wiki/ジャパンラグビートップリーグ2019-2020 "wikilink") トップリーグカップ プール戦敗退（プール戦3勝2敗・3位）、リーグ戦中止（中止時点での成績：6敗）
 
 ### 獲得タイトル
 
@@ -73,7 +71,7 @@
 
 reference: \[3\] **太字**は今年からの新加入選手
 
-  - 主将 [亀井亮依](https://ja.wikipedia.org/wiki/亀井亮依 "wikilink") / [中嶋大希](https://ja.wikipedia.org/wiki/中嶋大希 "wikilink")
+  - 共同主将 [亀井亮依](https://ja.wikipedia.org/wiki/亀井亮依 "wikilink") / [中嶋大希](https://ja.wikipedia.org/wiki/中嶋大希 "wikilink")
 
 <table>
 <thead>
@@ -298,7 +296,7 @@ reference: \[3\] **太字**は今年からの新加入選手
 <td><p><strong><a href="../Page/アレックス・グーディ.md" title="wikilink">アレックス・グーディ</a></strong></p></td>
 <td><p>？</p></td>
 <td><p>21<br />
-(<a href="../Page/ラグビーイングランド代表.md" title="wikilink">英</a>)</p></td>
+(<a href="../Page/ラグビーイングランド代表.md" title="wikilink">ENG</a>)</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -390,6 +388,8 @@ reference: \[3\] **太字**は今年からの新加入選手
 
 ## 在籍した主な選手
 
+（）内は代表キャップ数
+
   - [太田治](../Page/太田治.md "wikilink") (27)
   - [箕内拓郎](../Page/箕内拓郎.md "wikilink") (48)
   - [グレン・マーシュ](../Page/グレン・マーシュ.md "wikilink") (3)
@@ -427,8 +427,8 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [中島イシレリ](https://ja.wikipedia.org/wiki/中島イシレリ "wikilink")
   - [安田知生](https://ja.wikipedia.org/wiki/安田知生 "wikilink")
   - [山下祐史](https://ja.wikipedia.org/wiki/山下祐史 "wikilink")
-  - [ニリ・ラトゥ](../Page/ニリ・ラトゥ.md "wikilink")
-  - [ネマニ・ナドロ](https://ja.wikipedia.org/wiki/ネマニ・ナドロ "wikilink")
+  - [ニリ・ラトゥ](../Page/ニリ・ラトゥ.md "wikilink")（TON54）
+  - [ネマニ・ナドロ](https://ja.wikipedia.org/wiki/ネマニ・ナドロ "wikilink")（FIJI30）
   - [瀬崎隼人](../Page/瀬崎隼人.md "wikilink")
   - [ウェブ将武](https://ja.wikipedia.org/wiki/ウェブ将武 "wikilink") (35)
   - [小野寺優太](https://ja.wikipedia.org/wiki/小野寺優太 "wikilink")
@@ -454,7 +454,7 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [ニック・ロス](https://ja.wikipedia.org/wiki/ニック・ロス_\(ラグビー選手\) "wikilink")
   - [猪瀬佑太](https://ja.wikipedia.org/wiki/猪瀬佑太 "wikilink") (6)
   - [ホラニ龍シオアペラトゥー](https://ja.wikipedia.org/wiki/ホラニ龍シオアペラトゥー "wikilink")
-  - [アダム・トムソン](https://ja.wikipedia.org/wiki/アダム・トムソン "wikilink") (NZ)
+  - [アダム・トムソン](https://ja.wikipedia.org/wiki/アダム・トムソン "wikilink") (NZ31)
   - [李明俊](https://ja.wikipedia.org/wiki/李明俊 "wikilink") (KOR)
   - [李カ度](https://ja.wikipedia.org/wiki/李カ度 "wikilink") (HKG)
   - [森田茂希](https://ja.wikipedia.org/wiki/森田茂希 "wikilink")
@@ -465,14 +465,14 @@ reference: \[3\] **太字**は今年からの新加入選手
   - [山田龍之介](https://ja.wikipedia.org/wiki/山田龍之介 "wikilink")
   - [ラトゥイラレプハ](https://ja.wikipedia.org/wiki/ラトゥイラレプハ "wikilink")
   - [権丈太郎](../Page/権丈太郎.md "wikilink")
-  - [スコット・ヒギンボザム](https://ja.wikipedia.org/wiki/スコット・ヒギンボザム "wikilink")（AUS）
-  - [岡新之助タフォキタウ](https://ja.wikipedia.org/wiki/岡新之助タフォキタウ "wikilink")（TON）
+  - [スコット・ヒギンボザム](https://ja.wikipedia.org/wiki/スコット・ヒギンボザム "wikilink")（AUS34）
+  - [岡新之助タフォキタウ](https://ja.wikipedia.org/wiki/岡新之助タフォキタウ "wikilink")（TON1）
   - [デレック・カーペンター](https://ja.wikipedia.org/wiki/デレック・カーペンター "wikilink") (2)
   - [森田洋介](https://ja.wikipedia.org/wiki/森田洋介 "wikilink")
   - [井村兼人](https://ja.wikipedia.org/wiki/井村兼人 "wikilink")
   - [秋山哲平](https://ja.wikipedia.org/wiki/秋山哲平 "wikilink")
   - [ジャン・ドロースト](https://ja.wikipedia.org/wiki/ジャン・ドロースト "wikilink")
-  - [スティーブン・ドナルド](https://ja.wikipedia.org/wiki/スティーブン・ドナルド "wikilink")(NZ)
+  - [スティーブン・ドナルド](https://ja.wikipedia.org/wiki/スティーブン・ドナルド "wikilink")(NZ25)
   - [宮前勇規](https://ja.wikipedia.org/wiki/宮前勇規 "wikilink")
   - [竹中祥](https://ja.wikipedia.org/wiki/竹中祥 "wikilink")
   - [アマナキ・サヴィエティ](https://ja.wikipedia.org/wiki/アマナキ・サヴィエティ "wikilink")

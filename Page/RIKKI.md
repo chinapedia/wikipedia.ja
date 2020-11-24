@@ -1,7 +1,7 @@
 > この記事は[RIKKI](https://ja.wikipedia.org/wiki/RIKKI)から翻訳されています。
 
 
-**RIKKI**（りっき、[1975年](../Page/1975年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - ）は[鹿児島県](../Page/鹿児島県.md "wikilink")[大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](../Page/瀬戸内町.md "wikilink")([奄美大島](../Page/奄美大島.md "wikilink"))出身\[1\]の[島唄](../Page/島唄.md "wikilink")および[ポップスの](../Page/ポピュラー音楽.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本名は**中野 律紀**（なかの りつき）。
+**RIKKI**（りっき、[1975年](../Page/1975年.md "wikilink")[1月19日](../Page/1月19日.md "wikilink") - ）は、[鹿児島県](../Page/鹿児島県.md "wikilink")[大島郡](../Page/大島郡_\(鹿児島県\).md "wikilink")[瀬戸内町](../Page/瀬戸内町.md "wikilink")([奄美大島](../Page/奄美大島.md "wikilink"))出身\[1\]の[島唄](../Page/島唄.md "wikilink")および[ポップスの](../Page/ポピュラー音楽.md "wikilink")[女性](../Page/女性.md "wikilink")[歌手](../Page/歌手.md "wikilink")。本名は**中野 律紀**（なかの りつき）。
 
 ## 略歴
 
@@ -83,7 +83,7 @@
 
 :\*: 収録曲のうち「辺境からの生還者」「少女曰く天使」のボーカルを担当。
 
-:\* Sound Horizon『[Roman](../Page/Roman.md "wikilink")』（2006年11月22日）
+:\* Sound Horizon『[Roman](https://ja.wikipedia.org/wiki/Roman_\(アルバム\) "wikilink")』（2006年11月22日）
 
 :\*: 収録曲のうち「焔」「11文字の伝言」のボーカル、その他コーラスを担当。
 
@@ -103,7 +103,7 @@
 
 <references />
 
-[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:鹿児島県出身の人物](https://ja.wikipedia.org/wiki/Category:鹿児島県出身の人物 "wikilink") [Category:唄者](https://ja.wikipedia.org/wiki/Category:唄者 "wikilink") [Category:Sound_Horizon](https://ja.wikipedia.org/wiki/Category:Sound_Horizon "wikilink") [Category:Linked_Horizon](https://ja.wikipedia.org/wiki/Category:Linked_Horizon "wikilink")
+[Category:日本の女性歌手](https://ja.wikipedia.org/wiki/Category:日本の女性歌手 "wikilink") [Category:唄者](https://ja.wikipedia.org/wiki/Category:唄者 "wikilink") [Category:Sound_Horizon](https://ja.wikipedia.org/wiki/Category:Sound_Horizon "wikilink") [Category:Linked_Horizon](https://ja.wikipedia.org/wiki/Category:Linked_Horizon "wikilink") [Category:鹿児島県出身の人物](https://ja.wikipedia.org/wiki/Category:鹿児島県出身の人物 "wikilink") [Category:1975年生](https://ja.wikipedia.org/wiki/Category:1975年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  [セントラル楽器 奄美島唄 「中野律紀」の項目](http://www.simauta.net/nakano_ritsuki.html)に記載。
 2.  その後、同大会終了まで、この記録は破られなかった。

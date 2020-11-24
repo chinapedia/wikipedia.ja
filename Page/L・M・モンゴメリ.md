@@ -74,7 +74,7 @@
 
   - [Special Collection: The Works of Lucy Maud Montgomery](https://www.fadedpage.com/sc/montgomery.php) - Faded Page内のモンゴメリ著作リスト。かなり詳しい。シリーズ別、短編コレクション、詩などに分類分けされている。Faded Page所載の作品へリンクしているため、Faded Page所載のモンゴメリ作品への索引として利用できる。
 
-[Category:L・M・モンゴメリ](https://ja.wikipedia.org/wiki/Category:L・M・モンゴメリ "wikilink") [Category:カナダの小説家](https://ja.wikipedia.org/wiki/Category:カナダの小説家 "wikilink") [Category:20世紀の小説家](https://ja.wikipedia.org/wiki/Category:20世紀の小説家 "wikilink") [Category:カナダの児童文学作家](https://ja.wikipedia.org/wiki/Category:カナダの児童文学作家 "wikilink") [Category:自殺した人物](https://ja.wikipedia.org/wiki/Category:自殺した人物 "wikilink") [Category:プリンスエドワードアイランド州の人物](https://ja.wikipedia.org/wiki/Category:プリンスエドワードアイランド州の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1942年没](https://ja.wikipedia.org/wiki/Category:1942年没 "wikilink")
+[Category:L・M・モンゴメリ](https://ja.wikipedia.org/wiki/Category:L・M・モンゴメリ "wikilink") [Category:カナダの女性小説家](https://ja.wikipedia.org/wiki/Category:カナダの女性小説家 "wikilink") [Category:20世紀の小説家](https://ja.wikipedia.org/wiki/Category:20世紀の小説家 "wikilink") [Category:カナダの児童文学作家](https://ja.wikipedia.org/wiki/Category:カナダの児童文学作家 "wikilink") [Category:自殺した人物](https://ja.wikipedia.org/wiki/Category:自殺した人物 "wikilink") [Category:プリンスエドワードアイランド州の人物](https://ja.wikipedia.org/wiki/Category:プリンスエドワードアイランド州の人物 "wikilink") [Category:1874年生](https://ja.wikipedia.org/wiki/Category:1874年生 "wikilink") [Category:1942年没](https://ja.wikipedia.org/wiki/Category:1942年没 "wikilink")
 
 1.
 2.

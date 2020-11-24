@@ -219,7 +219,7 @@
 <!-- end list -->
 
   -
-    『ガンディーの真理――戦闘的非暴力の起原』、1-2巻、[星野美賀子](https://ja.wikipedia.org/wiki/星野美賀子 "wikilink")訳、みすず書房、1973年-1974年
+    『ガンディーの真理――戦闘的非暴力の起原』、1-2巻、[星野美賀子](https://ja.wikipedia.org/wiki/星野美賀子 "wikilink")訳、みすず書房、1973年-1974年　[全米図書賞](../Page/全米図書賞.md "wikilink")受賞
 
 <!-- end list -->
 
@@ -291,7 +291,7 @@
   - [Erikson Institute website](http://www.erikson.edu/)
   - [Austen Riggs Center](http://www.austenriggs.org/)
 
-[Category:アメリカ合衆国の心理学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の心理学者 "wikilink") [Category:アメリカ合衆国の発達心理学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の発達心理学者 "wikilink") [Category:ドイツの精神分析家](https://ja.wikipedia.org/wiki/Category:ドイツの精神分析家 "wikilink") [Category:フロイト派心理学](https://ja.wikipedia.org/wiki/Category:フロイト派心理学 "wikilink") [Category:宗教心理学者](https://ja.wikipedia.org/wiki/Category:宗教心理学者 "wikilink") [Category:ピューリッツァー賞受賞者](https://ja.wikipedia.org/wiki/Category:ピューリッツァー賞受賞者 "wikilink") [Category:アメリカ芸術科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:アメリカ芸術科学アカデミー会員 "wikilink") [Category:ハーバード大学の教員](https://ja.wikipedia.org/wiki/Category:ハーバード大学の教員 "wikilink") [Category:カリフォルニア大学バークレー校の教員](https://ja.wikipedia.org/wiki/Category:カリフォルニア大学バークレー校の教員 "wikilink") [Category:イェール大学の教員](https://ja.wikipedia.org/wiki/Category:イェール大学の教員 "wikilink") [Category:ユダヤ系ドイツ人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ドイツ人 "wikilink") [Category:デンマーク系ドイツ人](https://ja.wikipedia.org/wiki/Category:デンマーク系ドイツ人 "wikilink") [Category:ドイツの亡命者](https://ja.wikipedia.org/wiki/Category:ドイツの亡命者 "wikilink") [Category:フランクフルト・アム・マイン出身の人物](https://ja.wikipedia.org/wiki/Category:フランクフルト・アム・マイン出身の人物 "wikilink") [Category:1902年生](https://ja.wikipedia.org/wiki/Category:1902年生 "wikilink") [Category:1994年没](https://ja.wikipedia.org/wiki/Category:1994年没 "wikilink")
+[Category:アメリカ合衆国の心理学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の心理学者 "wikilink") [Category:アメリカ合衆国の発達心理学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の発達心理学者 "wikilink") [Category:ドイツの精神分析家](https://ja.wikipedia.org/wiki/Category:ドイツの精神分析家 "wikilink") [Category:フロイト派心理学](https://ja.wikipedia.org/wiki/Category:フロイト派心理学 "wikilink") [Category:宗教心理学者](https://ja.wikipedia.org/wiki/Category:宗教心理学者 "wikilink") [Category:ピューリッツァー賞受賞者](https://ja.wikipedia.org/wiki/Category:ピューリッツァー賞受賞者 "wikilink") [Category:アメリカ芸術科学アカデミー会員](https://ja.wikipedia.org/wiki/Category:アメリカ芸術科学アカデミー会員 "wikilink") [Category:ハーバード大学の教員](https://ja.wikipedia.org/wiki/Category:ハーバード大学の教員 "wikilink") [Category:カリフォルニア大学バークレー校の教員](https://ja.wikipedia.org/wiki/Category:カリフォルニア大学バークレー校の教員 "wikilink") [Category:イェール大学の教員](https://ja.wikipedia.org/wiki/Category:イェール大学の教員 "wikilink") [Category:ユダヤ系ドイツ人](https://ja.wikipedia.org/wiki/Category:ユダヤ系ドイツ人 "wikilink") [Category:ユダヤ人の著作家](https://ja.wikipedia.org/wiki/Category:ユダヤ人の著作家 "wikilink") [Category:デンマーク系ドイツ人](https://ja.wikipedia.org/wiki/Category:デンマーク系ドイツ人 "wikilink") [Category:ドイツの亡命者](https://ja.wikipedia.org/wiki/Category:ドイツの亡命者 "wikilink") [Category:フランクフルト・アム・マイン出身の人物](https://ja.wikipedia.org/wiki/Category:フランクフルト・アム・マイン出身の人物 "wikilink") [Category:1902年生](https://ja.wikipedia.org/wiki/Category:1902年生 "wikilink") [Category:1994年没](https://ja.wikipedia.org/wiki/Category:1994年没 "wikilink")
 
 1.
 2.

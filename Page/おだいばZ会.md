@@ -17,8 +17,8 @@
 
   - [岡村隆史](https://ja.wikipedia.org/wiki/岡村隆史 "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）
   - [矢部浩之](../Page/矢部浩之.md "wikilink")（[ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")）
-  - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）
-  - [有野晋哉](../Page/有野晋哉.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）
+  - [濱口優](../Page/濱口優.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）\[1\]
+  - [有野晋哉](../Page/有野晋哉.md "wikilink")（[よゐこ](../Page/よゐこ.md "wikilink")）\[2\]
   - [加藤浩次](../Page/加藤浩次.md "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）
   - [山本圭壱](https://ja.wikipedia.org/wiki/山本圭壱 "wikilink")（[極楽とんぼ](../Page/極楽とんぼ.md "wikilink")）- 2006年7月より本人の不祥事で脱退したが、2018年1月より復帰。だが、後の放送で、矢部が、「メンバー復帰とは一言も言ってない」と発言しているため、曖昧ではある。エンディングのスタッフロールでも「おだいばZ会」とは別枠で表示されている。その後2018年3月3日放送分よりスタッフロールでも「おだいばZ会」として扱われるようになった。但し降板前は山本・加藤と表示されていたクレジットが加藤・山本と上下逆になっている。
   - [光浦靖子](https://ja.wikipedia.org/wiki/光浦靖子 "wikilink")（[オアシズ](../Page/オアシズ.md "wikilink")）
@@ -70,4 +70,9 @@
 
   - めちゃイケpM8編集プロジェクト（監修・片岡飛鳥）『めちゃイケ大百科事典ENCYCLOPEDIA（エンサイクロペディア）』フジテレビ出版、2001年、ISBN 4-594-03074-2。
 
+## 脚注
+
 [Category:フジテレビジョン](https://ja.wikipedia.org/wiki/Category:フジテレビジョン "wikilink") [Category:めちゃイケ](https://ja.wikipedia.org/wiki/Category:めちゃイケ "wikilink") [Category:フジテレビの番組発のグループ](https://ja.wikipedia.org/wiki/Category:フジテレビの番組発のグループ "wikilink")
+
+1.  『[めちゃ2モテたいッ\!](../Page/めちゃ×2モテたいッ!.md "wikilink")』ではレギュラーではなく単発のゲストとして出演した。
+2.

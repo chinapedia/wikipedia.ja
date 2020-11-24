@@ -137,7 +137,7 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [全国高等学校野球選手権大会](https://ja.wikipedia.org/wiki/全国高等学校野球選手権大会 "wikilink")東東京大会・西東京大会（準々決勝以降、いずれも神宮球場）※かつては1回戦から[府中市民球場](../Page/府中市民球場.md "wikilink")や[江戸川区球場](../Page/江戸川区球場.md "wikilink")などから中継したこともあった。
   - 2017年より準決勝以降に縮小
   - 2020年の[2020年夏季東西東京都高等学校野球大会も準決勝以降の中継となった](https://ja.wikipedia.org/wiki/第102回全国高等学校野球選手権大会#都道府県・地方単位で開催される独自大会 "wikilink")。但し、[8月10日](../Page/8月10日.md "wikilink")に行われた優勝校同士の東西対抗戦も中継された。
-  - リポーターは2010年までは高校生が担当していた。
+  - リポーターは2003年から2010年までは高校生が担当していた。
 
 ### 大学野球
 
@@ -260,7 +260,8 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
 <!-- end list -->
 
-  - 佐藤隆輔（1996年～2000年頃まで）
+  - 佐藤隆輔（1996年～2009年頃まで）
+  - [田中雄介](../Page/田中雄介.md "wikilink")（2005年）
   - [水野節彦](https://ja.wikipedia.org/wiki/水野節彦 "wikilink")（2007年まで）
   - [高柳謙一](../Page/高柳謙一.md "wikilink")（2008年）
   - [熊谷龍一](https://ja.wikipedia.org/wiki/熊谷龍一 "wikilink")（2009年）
@@ -280,13 +281,15 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
   - [太田聖子](https://ja.wikipedia.org/wiki/太田聖子 "wikilink")（2014年）
   - [比嘉夏希](https://ja.wikipedia.org/wiki/比嘉夏希 "wikilink")（2011年から2014年）
 
+解説者は現在では東京都高校野球連盟の関係者もしくは現役の野球部の監督が担当。
+
 ### 大学野球の出演者
 
   - 解説者
 
 <!-- end list -->
 
-  - 岡田忠（スポーツジャーナリスト・元[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")記者）
+  - 岡田忠（スポーツジャーナリスト・元[朝日新聞](https://ja.wikipedia.org/wiki/朝日新聞 "wikilink")記者、後に高校野球の解説を担当）
   - [前田祐吉](../Page/前田祐吉.md "wikilink")（元[慶応義塾大学野球部監督](../Page/慶應義塾体育会野球部.md "wikilink")）
   - [五明公男](https://ja.wikipedia.org/wiki/五明公男 "wikilink")（元[法政大学野球部](../Page/法政大学野球部.md "wikilink")監督）
   - 坂本二朗（元[東京大学野球部監督](../Page/東京大学運動会硬式野球部.md "wikilink")）
@@ -310,8 +313,8 @@ MXで最初に放送された野球中継は[1995年](https://ja.wikipedia.org/w
 
   - 2001年 - [柴田淳](https://ja.wikipedia.org/wiki/柴田淳 "wikilink")「ぼくの味方」
   - 2002年 - [ZIGGY](../Page/ZIGGY.md "wikilink")「HEAVEN AND HELL」
-  - 2003年 - [Michelle143](../Page/Michelle143.md "wikilink")「泣いてたまるか」
-  - 2004年 - [浅岡雄也](../Page/浅岡雄也.md "wikilink")「Re:start」
+  - 2003年 - [浅岡雄也](../Page/浅岡雄也.md "wikilink")「Re:start」
+  - 2004年 -
   - 2005年 - [Yum\!Yum\!ORANGE](../Page/Yum!Yum!ORANGE.md "wikilink")「Precious Days」
   - 2006年 - Yum\!Yum\!ORANGE 「clover」
   - 2007年 - [ONEDRAFT](https://ja.wikipedia.org/wiki/ONEDRAFT "wikilink")「SUMMER DAYZ」

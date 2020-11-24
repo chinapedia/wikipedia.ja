@@ -181,6 +181,22 @@
   - [LEGEND of 90's J-ROCK「LIVE BEST & CLIPS」](https://ja.wikipedia.org/wiki/LEGEND_of_90's_J-ROCK「LIVE_BEST_&_CLIPS」 "wikilink")（DVD、DISC2-M16.君が好きだと叫びたい,DISC2-M35.抱きしめたいもう一度）\[1\]
   - [キミが好きだと叫びたい 〜Love & Yell〜](../Page/キミが好きだと叫びたい_〜Love_&_Yell〜.md "wikilink")（M-5.君が好きだと叫びたい）　2020/4/8
 
+### タイアップ
+
+| 曲名                                                                | タイアップ                                                                                                                               |
+| ----------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| [どんな時でもHold Me Tight](../Page/どんな時でもHold_Me_Tight.md "wikilink")  | [テレビ朝日系](https://ja.wikipedia.org/wiki/テレビ朝日系 "wikilink")「君といつまでも」オープニングテーマ                                                         |
+| [愛したい愛せない](../Page/愛したい愛せない.md "wikilink")                        | テレビ朝日系ドラマ「[ララバイ刑事](../Page/ララバイ刑事.md "wikilink")'93」オープニングテーマ                                                                       |
+| [君が好きだと叫びたい](https://ja.wikipedia.org/wiki/君が好きだと叫びたい "wikilink") | テレビ朝日系テレビアニメ『[SLAM DUNK](../Page/SLAM_DUNK.md "wikilink")』第1期[オープニングテーマ](../Page/主題歌.md "wikilink")                                 |
+| 街は優しく色づいていく                                                       | [関西テレビ](https://ja.wikipedia.org/wiki/関西テレビ "wikilink")「[愛と疑惑のサスペンス](https://ja.wikipedia.org/wiki/愛と疑惑のサスペンス "wikilink")」エンディングテーマ |
+| [抱きしめたいもう一度](../Page/抱きしめたいもう一度.md "wikilink")                    | テレビ朝日系「[リングの魂](../Page/リングの魂.md "wikilink")」エンディングテーマ                                                                               |
+| [君はマニュアル通りには動かない](../Page/君はマニュアル通りには動かない.md "wikilink")          | テレビ朝日系「音楽ニュース・HO」エンディングテーマ                                                                                                          |
+| 戻れない時間の中                                                          | テレビ朝日系「[目撃\!ドキュン](../Page/目撃!ドキュン.md "wikilink")～今夜の決断～」エンディングテーマ                                                                   |
+| [胸に抱いて忘れない](https://ja.wikipedia.org/wiki/胸に抱いて忘れない "wikilink")   | [東映](../Page/東映.md "wikilink")配給アニメ映画「[地獄先生ぬ～べ～](https://ja.wikipedia.org/wiki/地獄先生ぬ～べ～ "wikilink") 恐怖の夏休み                          |
+| Kiss Me                                                           | テレビ朝日系「[スーパーJチャンネル](../Page/スーパーJチャンネル.md "wikilink")」オープニングテーマ                                                                     |
+| FOLLOW ME                                                         | テレビ朝日系「\[\[今夜は帰して                                                                                                                   |
+| 恋してはじめて知った君                                                       | [テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系アニメ「[発明BOYカニパン](../Page/発明BOYカニパン.md "wikilink")」オープニングテーマ                  |
+
 ## 脚注
 
 ## 関連項目

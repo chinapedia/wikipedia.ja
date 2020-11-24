@@ -1,11 +1,11 @@
 > この記事は[Deep Love](https://ja.wikipedia.org/wiki/Deep_Love)から翻訳されています。
 
 
-『**Deep Love**』（ディープ ラブ）は携帯サイトで連載している小説家[Yoshi](../Page/Yoshi.md "wikilink")の[ケータイ小説](../Page/ケータイ小説.md "wikilink")シリーズ。
+『**Deep Love**』（ディープ ラブ）は、携帯サイトで連載している小説家[Yoshi](../Page/Yoshi.md "wikilink")の[ケータイ小説](../Page/ケータイ小説.md "wikilink")シリーズ。
 
 ## 概要
 
-Deep Loveシリーズは、Yoshiの個人サイト「ザブン」上で2000年10月から公開し始め、女子高生を中心に口コミで話題になっていった。その後、Yoshiは書籍版を自費出版して10万部を売り上げ、2002年には[スターツ出版](../Page/スターツ出版.md "wikilink")から商業出版物として第一巻が出版されて、最終的にはシリーズ累計売り上げが270万部をこえる大ヒットとなった。\[1\]
+『Deep Love』シリーズは、Yoshiの個人サイト「ザブン」上で2000年10月から公開し始め、女子高生を中心に口コミで話題になっていった。その後、Yoshiは書籍版を自費出版して10万部を売り上げ、2002年には[スターツ出版](../Page/スターツ出版.md "wikilink")から商業出版物として第1巻が出版されて、最終的にはシリーズ累計売り上げが270万部をこえる大ヒットとなった\[1\]。
 
 自費出版を行った背景には、当時は携帯電話の[パケット定額](../Page/パケット定額.md "wikilink")制がなく、「携帯サイト上で読むとお金がかかるから書籍で出して欲しい」という読者からの要望があった\[2\]\[3\]。
 
@@ -13,7 +13,7 @@ Deep Loveシリーズは、Yoshiの個人サイト「ザブン」上で2000年10
 
 yoshiは作品の連載中に多くの読者から感想をもらい、その中に記されている読者の実体験を作品の続きのストーリーに取り入れながら執筆したと述べており、これが非常にスピーディなストーリー進行となった理由の一つとも考えられる\[6\]。スターツ出版から書籍化されるあたり、内容に含まれる過激な性描写が社内でも問題視されたが、Yoshiの元に読者からの大量のメールが届くほど多くの人の心を動かした作品だということが書籍化の決め手となった\[7\]。
 
-第1部『アユの物語』では冒頭部分から女子高生と中年男性の性的な描写が描かれており、ケータイ小説全般で過激な性的描写が行われているというイメージを与えた可能性がある\[8\]。[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の[下田博次](../Page/下田博次.md "wikilink")は、本作が渋谷周辺で実際に[援助交際](../Page/援助交際.md "wikilink")をする少女の体験をもとに執筆されて彼女たちの共感を得てヒットしたことから、「子どもたちが作った子ども向けポルノ小説」と呼んでいる\[9\]。[本田透](../Page/本田透.md "wikilink")は、本作の性的描写は[官能小説](../Page/官能小説.md "wikilink")におけるそれのようなものではなく、愛情の伴わない[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")の汚さを描くことを主眼とした淡白なものだと述べている\[10\]。
+第1部『アユの物語』では冒頭部分から女子高生と中年男性の性的な描写が描かれており、ケータイ小説全般で過激な性的描写が行われているというイメージを与えた可能性がある\[8\]。[ジャーナリスト](../Page/ジャーナリスト.md "wikilink")の[下田博次](../Page/下田博次.md "wikilink")は、本作が渋谷周辺で実際に[援助交際](../Page/援助交際.md "wikilink")をする少女の体験をもとに執筆されて彼女たちの共感を得てヒットしたことから、「子どもたちが作った子ども向けポルノ小説」と呼んでいる\[9\]。本田透は、本作の性的描写は[官能小説](../Page/官能小説.md "wikilink")におけるそれのようなものではなく、愛情の伴わない[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")の汚さを描くことを主眼とした淡白なものだと述べている\[10\]。
 
 表現上の特徴としては、会話文において通常の鉤括弧（「」）と二重鉤括弧（『』）を使い分けることによって話し手を識別しやすいようにされているほか\[11\]、本文中に山括弧（〈〉）でくくられた状態で地の文から切り離された「作者の声」にあたるものが挿入されている\[12\]\[13\]。
 
@@ -84,12 +84,12 @@ yoshiは作品の連載中に多くの読者から感想をもらい、その中
 
 ## 映画
 
-『**Deep Love アユの物語**』（でぃーぷらぶ あゆのものがたり）は、[2004年](../Page/2004年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で製作された映画。上映時間96分。
+『**Deep Love アユの物語**』（ディープラブ アユのものがたり）は、[2004年](../Page/2004年.md "wikilink")に[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")で製作された映画。上映時間96分。
 
 ### キャスト
 
   - アユ：[重泉充香](../Page/重泉充香.md "wikilink")
-  - 義之：[古屋敬多](../Page/古屋敬多.md "wikilink")（[Lead](../Page/Lead.md "wikilink")）
+  - 義之：[古屋敬多](../Page/古屋敬多.md "wikilink")（[Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")）
   - レイナ：[藤谷祥子](https://ja.wikipedia.org/wiki/藤谷祥子 "wikilink")
   - おばあちゃん：[風見章子](../Page/風見章子.md "wikilink")
   - 義之の父：[本田博太郎](../Page/本田博太郎.md "wikilink")
@@ -159,7 +159,7 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 #### キャスト
 
   - アユ：[岩佐真悠子](https://ja.wikipedia.org/wiki/岩佐真悠子 "wikilink")
-  - 義之：[古屋敬多](../Page/古屋敬多.md "wikilink")（[Lead](../Page/Lead.md "wikilink")）
+  - 義之：[古屋敬多](../Page/古屋敬多.md "wikilink")（[Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")）
   - レイナ：[立花彩野](../Page/立花彩野.md "wikilink")
   - 健二：[小松拓也](https://ja.wikipedia.org/wiki/小松拓也 "wikilink")
   - 安代：[高橋しゅり](https://ja.wikipedia.org/wiki/高橋しゅり "wikilink")
@@ -183,7 +183,7 @@ DVD『Deep Love アユの物語』2004年6月18日発売。ネオプレックス
 #### 楽曲
 
   - 主題歌：[佐藤ひろこ](https://ja.wikipedia.org/wiki/佐藤ひろこ "wikilink")『愛が私を救ってくれるの』
-  - オープニングテーマ：[Lead](../Page/Lead.md "wikilink")『[Delighted](https://ja.wikipedia.org/wiki/手のひらを太陽に/Delighted "wikilink")』
+  - オープニングテーマ：[Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")『[Delighted](https://ja.wikipedia.org/wiki/手のひらを太陽に/Delighted "wikilink")』
   - 挿入歌：[Baby Boo](../Page/Baby_Boo.md "wikilink")『Love 1/2』
 
 #### ソフトウェア

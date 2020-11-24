@@ -1,7 +1,9 @@
 > この記事は[中国地方のコミュニティFM局一覧](https://ja.wikipedia.org/wiki/中国地方のコミュニティFM局一覧)から翻訳されています。
 
 
-**[中国地方](../Page/中国地方.md "wikilink")**にある[コミュニティFM放送局の一覧である](../Page/コミュニティ放送.md "wikilink")。
+**中国地方のコミュニティFM局一覧**（ちゅうごくちほうのコミュニティFMきょくいちらん）は、**[中国地方](../Page/中国地方.md "wikilink")**にある[コミュニティFM放送局の一覧である](../Page/コミュニティ放送.md "wikilink")。
+
+## 局名
 
 局名は、**無線局免許状に記載の名称**である。
 
@@ -427,6 +429,8 @@ JOZZ8AP-FM
 
 <TD nowrap>
 
+エフエムハムスター
+
 </TD>
 
 <TD nowrap>
@@ -437,14 +441,20 @@ JOZZ8AQ-FM
 
 <TD nowrap>
 
+79.00MHz
+
 </TD>
 
 <TD nowrap>
+
+20W
 
 </TD>
 
 </TR>
 
-[Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink")
+## 脚注
 
-[Category:ラジオ放送関連一覧](https://ja.wikipedia.org/wiki/Category:ラジオ放送関連一覧 "wikilink") [Category:中国地方の一覧](https://ja.wikipedia.org/wiki/Category:中国地方の一覧 "wikilink")
+### 出典
+
+[Category:中国・四国地方のコミュニティ放送局](https://ja.wikipedia.org/wiki/Category:中国・四国地方のコミュニティ放送局 "wikilink") [Category:ラジオ放送関連一覧](https://ja.wikipedia.org/wiki/Category:ラジオ放送関連一覧 "wikilink")

@@ -170,29 +170,28 @@
 
 ### 歌手グループ
 
-  - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink") （とうほうしんき、:トンバンシンギ） - 2003年デビューの男性5人組(2011年より男性2人組)
-  - [天上智喜ザ・グレース](../Page/天上智喜The_Grace.md "wikilink") （てんじょうちき） - 2005年デビューの女性4人組。(漢字文化圏では、天上智喜、その他の地域では、The Graceの名称を使用する。)
+  - [東方神起](https://ja.wikipedia.org/wiki/東方神起 "wikilink")（とうほうしんき、:トンバンシンギ） - 2003年デビューの男性5人組(2011年より男性2人組)。
+  - [天上智喜ザ・グレース](../Page/天上智喜The_Grace.md "wikilink")（てんじょうちき） - 2005年デビューの女性4人組(漢字文化圏では、天上智喜、その他の地域では、The Graceの名称を使用する)。
       - [天上智喜-ダナ＆サンデー](https://ja.wikipedia.org/wiki/天上智喜-ダナ＆サンデー "wikilink")
-  - [スーパージュニア](../Page/スーパージュニア.md "wikilink") (Super Junior) - 2005年デビューの男性12人組。(2006年より男性13人組)(2010年より男性11人組)(2019年より男性10人組)
+  - [スーパージュニア](../Page/スーパージュニア.md "wikilink")(Super Junior) - 2005年デビューの男性12人組(2006年より男性13人組)(2010年より男性11人組)(2019年より男性10人組)。
       - [スーパージュニア-M](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-M "wikilink")
       - [スーパージュニア-K.R.Y.](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-K.R.Y. "wikilink")
       - [スーパージュニア-T](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-T "wikilink")
       - [スーパージュニア-HAPPY](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-Happy "wikilink")
       - [スーパージュニア-D\&E](https://ja.wikipedia.org/wiki/スーパージュニア#Super_Junior-D&E "wikilink")
-  - [少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink") （しょうじょじだい、:ソニョシデ） - 2007年デビューの女性5人組（2014年9月末まで9人組、2017年10月10日まで8人組）
-  - [SHINee](../Page/SHINee.md "wikilink") （シャイニー） - 2008年デビューの男性4人組
-  - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink") （エフエックス） - 2009年9月デビューの女性4人組（2015年8月末まで5人組）
-  - [S.M. The Ballad](https://ja.wikipedia.org/wiki/S.M._The_Ballad "wikilink") （エス・エム・ザ・バラード）- 2010年結成されたプロジェクト。
-  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink") （エクソ） - 2012年デビューの男性12人組。(現在は9人組)韓国で活動するEXO-K(韓国人6人組)と中国で活動するEXO-M(中国人1人＋韓国人2人)
-  - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")（レッドベルベット） - 2014年8月デビューの女性5人組 （2015年3月メンバー イェリ追加)
-  - [NCT](https://ja.wikipedia.org/wiki/NCT_\(音楽グループ\) "wikilink") (エンシティ ) - NCTはメンバー数に制限がなく、新しいメンバーをいつでも追加するシステムで2016年から活動。
+  - [少女時代](https://ja.wikipedia.org/wiki/少女時代_\(音楽グループ\) "wikilink")（しょうじょじだい、:ソニョシデ） - 2007年デビューの女性5人組（2014年9月末まで9人組、2017年10月10日まで8人組）。
+  - [SHINee](../Page/SHINee.md "wikilink")（シャイニー） - 2008年デビューの男性5人組。
+  - [f(x)](https://ja.wikipedia.org/wiki/f\(x\) "wikilink")（エフエックス） - 2009年9月デビューの女性4人組（2015年8月末まで5人組）。
+  - [S.M. The Ballad](https://ja.wikipedia.org/wiki/S.M._The_Ballad "wikilink")（エス・エム・ザ・バラード）- 2010年結成されたプロジェクト。
+  - [EXO](https://ja.wikipedia.org/wiki/EXO "wikilink")（エクソ） - 2012年デビューの男性12人組(現在は9人組)韓国で活動するEXO-K(韓国人6人組)と中国で活動するEXO-M(中国人1人＋韓国人2人)。
+  - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")（レッドベルベット） - 2014年8月デビューの女性5人組 （2015年3月メンバー イェリ追加)。
+  - [NCT](https://ja.wikipedia.org/wiki/NCT_\(音楽グループ\) "wikilink")(エンシティ ) - NCTはメンバー数に制限がなく、新しいメンバーをいつでも追加するシステムで2016年から活動。
       - [NCT U](https://ja.wikipedia.org/wiki/NCT_U "wikilink") (エンシティユ) - 2016年4月デビューの男性ユニット。
       - [NCT 127](https://ja.wikipedia.org/wiki/NCT_127 "wikilink") (エンシティイリチル) - 2016年7月デビューの男性10人組。
-      - [NCT DREAM](https://ja.wikipedia.org/wiki/NCT_DREAM "wikilink") (エンシティドリム) - 2016年8月デビューの男性7人組。
-      - 威神v(WayV)(WeiShienV)-2019年1月デビューの男性7人組。中国を拠点として活動するNCTグループの一つである。
-  - [SuperM](https://ja.wikipedia.org/wiki/:w:SuperM "wikilink") (スーパーエム) - 2019年10月デビューしたアメリカを拠点として活動する男性7人組。
-
-EXO(2)SHINee(1)NCT(2)WayV(2)
+      - [NCT DREAM](https://ja.wikipedia.org/wiki/NCT_DREAM "wikilink")(エンシティドリム) - 2016年8月デビューの男性7人組。
+      - 威神v([WayV](https://ja.wikipedia.org/wiki/WayV "wikilink"))(WeiShienV)-2019年1月デビューの男性7人組。中国を拠点として活動するNCTグループの一つである。
+  - [SuperM](https://ja.wikipedia.org/wiki/SuperM "wikilink")(スーパーエム) - 2019年10月デビューしたアメリカを拠点として活動する男性7人組。
+  - [aespa](https://ja.wikipedia.org/wiki/aespa "wikilink")（エスパ） - 2020年11月デビューの女性4人組。
 
 ### ソロ歌手
 
@@ -321,7 +320,7 @@ EXO(2)SHINee(1)NCT(2)WayV(2)
 | 10月18日                    | 上海                          | 上海体育館           |            |                                                                               |                                                                                        |    |
 | 2015年                     | 3月21日                       | 台湾              |            |                                                                               |                                                                                        |    |
 | 7月5日                      | 東京                          | 東京ドーム           |            |                                                                               |                                                                                        |    |
-| 7月6日                      | |                           |                 |            |                                                                               |                                                                                        |    |
+| 7月6日                      |                             |                 |            |                                                                               |                                                                                        |    |
 | 7月25日                     | 大阪                          | 京セラドーム          |            |                                                                               |                                                                                        |    |
 | 7月26日                     |                             |                 |            |                                                                               |                                                                                        |    |
 | 2016年                     | SMTOWN LIVE TOUR V IN JAPAN | 7月16日           | 東京         | 東京ドーム                                                                         | BoA、f(x)、少女時代、ジェイミン、カンタ、Redvelvet、スーパージュニア、 SHINee、EXO、NCT                             |    |

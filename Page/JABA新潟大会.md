@@ -69,7 +69,7 @@
 <tr class="odd">
 <td><p>1956年（第5回）</p></td>
 <td><p>8</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p><strong>8</strong> - 1</p></td>
 <td><p>新潟交通</p></td>
 <td></td>
@@ -197,7 +197,7 @@
 <tr class="odd">
 <td><p>1972年（第16回）</p></td>
 <td></td>
-<td><p><strong>日本軽金属</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本軽金属硬式野球部" title="wikilink">日本軽金属</a></strong></p></td>
 <td><p>-</p></td>
 <td><p>日拓観光</p></td>
 <td></td>
@@ -287,7 +287,7 @@
 <td><p>13</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/ヤマハ発動機野球部" title="wikilink">ヤマハ発動機</a></strong></p></td>
 <td><p><strong>5</strong> - 4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かずさマジック" title="wikilink">新日本製鐵君津</a></p></td>
+<td><p><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">新日本製鐵君津</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -583,7 +583,7 @@
 <td><p>2020年（第63回）</p></td>
 <td><p>9</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため[2]。</p></td>
+<td><p><a href="../Page/SARSコロナウイルス2.md" title="wikilink">新型コロナウイルス感染拡大防止のため</a>[2]。</p></td>
 <td></td>
 <td></td>
 </tr>

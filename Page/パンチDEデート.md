@@ -60,11 +60,27 @@
 
 1976年から1984年にかけて（1982年は除く）、毎年正月に1時間のスペシャルが放送された。タレント同士が、奇妙な声で見合いする（このため、タレントは[ボイスチェンジャー](https://ja.wikipedia.org/wiki/ボイスチェンジャー "wikilink")に接続されたコード付の[ハンドマイク](https://ja.wikipedia.org/wiki/ハンドマイク "wikilink")を持っている）「奇声DEデート」、奇抜な扮装で見合いする「変装DEデート」、父親がタレントという子息・子女同士が見合いする「ちびっ子DEデート」、お見合い成功したカップルから5、6組を招いてその後の相性を探る「パンチ同窓会」などで構成された。
 
+放送日時は次の通り。
+
+| タイトル               | 放送日             | 関東地区の放送時間（[JST](../Page/日本標準時.md "wikilink")） |
+| ------------------ | --------------- | --------------------------------------------- |
+| **新春特番\!パンチDEデート** | 1976年1月2日       | 金曜16:00 - 16:55                               |
+| 1977年1月1日          | 土曜13:00 - 13:54 |                                               |
+| 1978年1月3日          | 火曜12:00 - 13:00 |                                               |
+| 1979年1月3日          | 水曜12:00 - 13:00 |                                               |
+| 1980年1月3日          | 木曜12:00 - 13:00 |                                               |
+| **'81新春パンチDEデート**  | 1981年1月1日       | 木曜14:00 - 14:55                               |
+| （1982年は放送せず）       |                 |                                               |
+| **新春パンチDEデート**     | 1983年1月3日       | 月曜14:00 - 14:55                               |
+| **新春パンチDEデートSP**   | 1984年1月2日       | 月曜17:00 - 18:00                               |
+
+（参考：)
+
 ## 番組の終了
 
 1985年3月30日に番組は終了。『ナイトパンチ』時代を含めて12年半の歴史に幕を下ろした。この間、結婚に至ったカップルは、番組スタッフが確認した限りで4組だった。
 
-[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、フジテレビのスペシャル番組『ぼくら冒険王』で復刻された。司会は[山田邦子](../Page/山田邦子.md "wikilink")と[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")。男性側は[マグマ大使](../Page/マグマ大使.md "wikilink")、女性側は[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")（映画『[竹取物語](../Page/竹取物語_\(1987年の映画\).md "wikilink")』の宣伝も兼ねて）が出演。マグマ大使は好きなタレントに沢口と答え、カップル誕生。
+[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")[9月18日](../Page/9月18日.md "wikilink")、フジテレビのスペシャル番組『ぼくら冒険王』（『[金曜おもしろバラエティ](../Page/おもしろバラエティ.md "wikilink")』枠で放送。過去フジテレビで放送された番組を復刻する番組）復刻された。司会は[山田邦子](../Page/山田邦子.md "wikilink")と[渡辺徹](https://ja.wikipedia.org/wiki/渡辺徹_\(俳優\) "wikilink")。男性側は[マグマ大使](../Page/マグマ大使.md "wikilink")、女性側は[沢口靖子](https://ja.wikipedia.org/wiki/沢口靖子 "wikilink")（映画『[竹取物語](../Page/竹取物語_\(1987年の映画\).md "wikilink")』の宣伝も兼ねて）が出演。マグマ大使は好きなタレントに沢口と答え、カップル誕生。
 
 [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")、[TBS](../Page/TBSテレビ.md "wikilink")『[いきなり\!クライマックス](../Page/いきなり!クライマックス.md "wikilink")』の1コーナー「いきなり復刻版」で二度放送された。このときにはちびっ子版で、1回目は両者とも興味なし（点滅せず）、2回目は女の子の方のみが点滅した。
 
@@ -124,7 +140,7 @@
   - [三枝きよし興奮テレビ](../Page/三枝きよし興奮テレビ.md "wikilink")（[毎日放送](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")） - 再び三枝ときよしがコンビで司会を務めていたトークバラエティ番組。
   - [ねるとん紅鯨団](../Page/ねるとん紅鯨団.md "wikilink")（関西テレビ） - 『新・パンチDEデート』と同じ枠で放送された関西テレビ製作・ミズノ提供の集団見合い番組。
 
-[Category:1973年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1973年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:他番組から派生した番組](https://ja.wikipedia.org/wiki/Category:他番組から派生した番組 "wikilink") [Category:ミズノ一社提供番組](https://ja.wikipedia.org/wiki/Category:ミズノ一社提供番組 "wikilink") [Category:見合いを題材とした番組](https://ja.wikipedia.org/wiki/Category:見合いを題材とした番組 "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink") [Category:西川きよし](https://ja.wikipedia.org/wiki/Category:西川きよし "wikilink")
+[Category:1973年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1973年のテレビ番組_\(日本\) "wikilink") [Category:関西テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビのバラエティ番組の歴史 "wikilink") [Category:関西テレビの深夜番組](https://ja.wikipedia.org/wiki/Category:関西テレビの深夜番組 "wikilink") [Category:関西テレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:関西テレビの一社提供番組 "wikilink") [Category:かつて存在したローカルテレビ局の年末年始特番](https://ja.wikipedia.org/wiki/Category:かつて存在したローカルテレビ局の年末年始特番 "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:フジテレビの一社提供番組](https://ja.wikipedia.org/wiki/Category:フジテレビの一社提供番組 "wikilink") [Category:視聴者参加型番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型番組 "wikilink") [Category:他番組から派生した番組](https://ja.wikipedia.org/wiki/Category:他番組から派生した番組 "wikilink") [Category:ミズノ一社提供番組](https://ja.wikipedia.org/wiki/Category:ミズノ一社提供番組 "wikilink") [Category:見合いを題材とした番組](https://ja.wikipedia.org/wiki/Category:見合いを題材とした番組 "wikilink") [Category:桂文枝_(6代目)](https://ja.wikipedia.org/wiki/Category:桂文枝_\(6代目\) "wikilink") [Category:西川きよし](https://ja.wikipedia.org/wiki/Category:西川きよし "wikilink")
 
 1.
 2.  土曜19:00 - 19:30枠では、フジテレビ制作の地域限定スポンサードネット番組『[ミュージックフェア](../Page/ミュージックフェア.md "wikilink")'83→84』を先行ネットしていた（制作局より1日先行）。

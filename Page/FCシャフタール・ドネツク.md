@@ -93,13 +93,11 @@
 <tr class="header">
 <th><p>シーズン</p></th>
 <th><p>大会</p></th>
-<th><p>国</p></th>
-<th><p>クラブ</p></th>
+<th><p>ラウンド</p></th>
 <th><p>対戦相手</p></th>
 <th><p>ホーム</p></th>
 <th><p>アウェー</p></th>
 <th><p>合計</p></th>
-<th></th>
 </tr>
 </thead>
 <tbody>
@@ -107,169 +105,120 @@
 <td><p>1976-77</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1976-77" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_East_Germany.svg" title="fig:Flag_of_East_Germany.svg">Flag_of_East_Germany.svg</a></p></td>
-<td><p><a href="../Page/ベルリナーFCディナモ.md" title="wikilink">ベルリナーFCディナモ</a></p></td>
+<td><p><a href="../Page/ベルリナーFCディナモ.md" title="wikilink">ベルリナー・ディナモ</a></p></td>
 <td><p>3-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Hungary.svg" title="fig:Flag_of_Hungary.svg">Flag_of_Hungary.svg</a></p></td>
 <td><p><a href="../Page/ブダペスト・ホンヴェードFC.md" title="wikilink">ブダペスト・ホンヴェード</a></p></td>
 <td><p>3-0</p></td>
 <td><p>3-2</p></td>
 <td><p>'''6-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-0</p></td>
 <td><p>'''1-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1978-79</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1978-79" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1979-80</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1979-80" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
-<td><p><a href="../Page/ASモナコ.md" title="wikilink">ASモナコ</a></p></td>
+<td><p><a href="../Page/ASモナコ.md" title="wikilink">モナコ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1980-81</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1980-81" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">フランクフルト</a></p></td>
 <td><p>1-0</p></td>
 <td><p>0-3</p></td>
 <td><p>'''1-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-</tr>
-<tr class="odd">
-<td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg" title="fig:Flag_of_the_Czech_Republic.svg">Flag_of_the_Czech_Republic.svg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/FCバニーク・オストラヴァ" title="wikilink">FCバニーク・オストラヴァ</a></p></td>
-<td><p>0-1</p></td>
-<td><p>2-0</p></td>
-<td><p>'''2-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Bulgaria.svg" title="fig:Flag_of_Bulgaria.svg">Flag_of_Bulgaria.svg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/PFCロコモティフ・ソフィア" title="wikilink">ロコモティフ・ソフィア</a></p></td>
-<td><p>0-1</p></td>
-<td><p>2-1</p></td>
-<td><p>'''2-2 (a)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1983-84</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1983-84" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg" title="fig:Flag_of_Denmark.svg">Flag_of_Denmark.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:nl:Boldklubben_1901" title="wikilink">B 1901</a></p></td>
 <td><p>5-1</p></td>
 <td><p>4-2</p></td>
 <td><p>'''9-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/セルヴェットFC.md" title="wikilink">セルヴェット</a></p></td>
 <td><p>1-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>2-3</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1994-95</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ1994-95" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Norway.svg" title="fig:Flag_of_Norway.svg">Flag_of_Norway.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リールストロムSK" title="wikilink">リールストロム</a></p></td>
 <td><p>1-4</p></td>
 <td><p>2-0</p></td>
 <td><p>'''3-4</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1995-96</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1995-96" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Ulster_banner.svg" title="fig:Ulster_banner.svg">Ulster_banner.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リンフィールドFC" title="wikilink">リンフィールド</a></p></td>
 <td><p>4-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''5-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1996</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAインタートトカップ_1996" title="wikilink">UEFAインタートトカップ</a></p></td>
 <td><p>グループ7</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-2</p></td>
 <td><p>'''4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belarus.svg" title="fig:Flag_of_Belarus.svg">Flag_of_Belarus.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/:nl:Ataka-Aura_Minsk" title="wikilink">アタカ・オーラ・ミンスク</a></p></td>
 <td><p>1-2</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
@@ -277,10 +226,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Russia.svg" title="fig:Flag_of_Russia.svg">Flag_of_Russia.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCロートル・ヴォルゴグラード" title="wikilink">ロートル・ヴォルゴグラード</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-4</p></td>
@@ -288,14 +235,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンタルヤスポル" title="wikilink">アンタルヤスポル</a></p></td>
 <td><p>1-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -305,114 +249,93 @@
 <td><p>1997-98</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップウィナーズカップ_1997-98" title="wikilink">UEFAカップウィナーズカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Moldova.svg" title="fig:Flag_of_Moldova.svg">Flag_of_Moldova.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCジンブル・キシナウ" title="wikilink">ジンブル・キシナウ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>3-0</p></td>
 <td><p>'''4-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/ボアヴィスタFC.md" title="wikilink">ボアヴィスタ</a></p></td>
 <td><p>3-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''4-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ヴィチェンツァ・カルチョ.md" title="wikilink">ヴィチェンツァ</a></p></td>
 <td><p>1-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1998-99</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_1998-99" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予選1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Malta.svg" title="fig:Flag_of_Malta.svg">Flag_of_Malta.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビルキルカラFC" title="wikilink">ビルキルカラ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>4-0</p></td>
 <td><p>'''6-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/FCチューリッヒ.md" title="wikilink">チューリッヒ</a></p></td>
 <td><p>0-4</p></td>
 <td><p>3-2</p></td>
 <td><p>'''3-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>1999-00</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>予備予選</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Macedonia.svg" title="fig:Flag_of_Macedonia.svg">Flag_of_Macedonia.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FKシレクス" title="wikilink">シレクス・クラトヴォ</a></p></td>
 <td><p>3-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''4-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg" title="fig:Flag_of_the_Netherlands.svg">Flag_of_the_Netherlands.svg</a></p></td>
 <td><p><a href="../Page/ローダJC.md" title="wikilink">ローダ</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2000-01</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2000-01" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Estonia.svg" title="fig:Flag_of_Estonia.svg">Flag_of_Estonia.svg</a></p></td>
 <td><p><a href="../Page/FCレバディア・タリン.md" title="wikilink">レバディア・タリン</a></p></td>
 <td><p>4-1</p></td>
 <td><p>5-1</p></td>
 <td><p>'''9-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg" title="fig:Flag_of_the_Czech_Republic.svg">Flag_of_the_Czech_Republic.svg</a></p></td>
 <td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>2-0</p></td>
 <td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>グループB</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/SSラツィオ.md" title="wikilink">ラツィオ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-5</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
 <td><p>2-3</p></td>
 <td><p>3-0</p></td>
@@ -420,14 +343,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg" title="fig:Flag_of_the_Czech_Republic.svg">Flag_of_the_Czech_Republic.svg</a></p></td>
 <td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
 <td><p>2-3</p></td>
 <td><p>2-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -436,138 +356,113 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2000-01" title="wikilink">UEFAカップ</a></p></td>
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/セルタ・デ・ビーゴ.md" title="wikilink">セルタ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''0-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2001-02</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2001-02" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ACルガーノ" title="wikilink">ルガーノ</a></p></td>
 <td><p>3-0</p></td>
 <td><p>1-2</p></td>
 <td><p>'''4-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''1-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2001-02" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Bulgaria.svg" title="fig:Flag_of_Bulgaria.svg">Flag_of_Bulgaria.svg</a></p></td>
 <td><p><a href="../Page/PFC_CSKAソフィア.md" title="wikilink">CSKAソフィア</a></p></td>
 <td><p>0-3</p></td>
 <td><p>2-1</p></td>
 <td><p>'''2-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2002-03</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2002-03.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-2<br />
 (1-4 <a href="../Page/PK戦.md" title="wikilink">p</a>)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2002-03" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Austria.svg" title="fig:Flag_of_Austria.svg">Flag_of_Austria.svg</a></p></td>
 <td><p><a href="../Page/FKアウストリア・ウィーン.md" title="wikilink">アウストリア・ウィーン</a></p></td>
 <td><p>1-5</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2003-04</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2003-04.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Moldova.svg" title="fig:Flag_of_Moldova.svg">Flag_of_Moldova.svg</a></p></td>
 <td><p><a href="../Page/FCシェリフ・ティラスポリ.md" title="wikilink">シェリフ・ティラスポリ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>2-0</p></td>
 <td><p>'''2-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Russia.svg" title="fig:Flag_of_Russia.svg">Flag_of_Russia.svg</a></p></td>
 <td><p><a href="../Page/FCロコモティフ・モスクワ.md" title="wikilink">ロコモティフ・モスクワ</a></p></td>
 <td><p>1-0</p></td>
 <td><p>1-3</p></td>
 <td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2003-04" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Romania.svg" title="fig:Flag_of_Romania.svg">Flag_of_Romania.svg</a></p></td>
 <td><p><a href="../Page/FCディナモ・ブカレスト.md" title="wikilink">ディナモ・ブカレスト</a></p></td>
 <td><p>2-3</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2004-05</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2004-05.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Armenia.svg" title="fig:Flag_of_Armenia.svg">Flag_of_Armenia.svg</a></p></td>
 <td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>3-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''4-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>4-1</p></td>
 <td><p>2-2</p></td>
 <td><p>'''6-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ACミラン" title="wikilink">ミラン</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-4</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>2-0</p></td>
@@ -575,14 +470,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Scotland.svg" title="fig:Flag_of_Scotland.svg">Flag_of_Scotland.svg</a></p></td>
 <td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>3-0</p></td>
 <td><p>0-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -591,71 +483,58 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2004-05" title="wikilink">UEFAカップ</a></p></td>
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Netherlands.svg" title="fig:Flag_of_the_Netherlands.svg">Flag_of_the_Netherlands.svg</a></p></td>
 <td><p><a href="../Page/AZアルクマール.md" title="wikilink">AZ</a></p></td>
 <td><p>1-3</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2005-06</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2005-06.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''1-3</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2005-06" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Hungary.svg" title="fig:Flag_of_Hungary.svg">Flag_of_Hungary.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デブレツェニVSC" title="wikilink">デブレツェニ</a></p></td>
 <td><p>4-1</p></td>
 <td><p>2-0</p></td>
 <td><p>'''6-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>グループG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Greece.svg" title="fig:Flag_of_Greece.svg">Flag_of_Greece.svg</a></p></td>
-<td><p><a href="../Page/PAOKテッサロニキ.md" title="wikilink">PAOK</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PAOK_FC" title="wikilink">PAOK</a></p></td>
 <td><p>1-0</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>'''2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/VfBシュトゥットガルト" title="wikilink">VfBシュトゥットガルト</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/VfBシュトゥットガルト" title="wikilink">シュトゥットガルト</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>2-0</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Romania.svg" title="fig:Flag_of_Romania.svg">Flag_of_Romania.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCラピド・ブカレスト" title="wikilink">ラピド・ブカレスト</a></p></td>
 <td><p>0-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
@@ -663,10 +542,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="../Page/スタッド・レンヌ.md" title="wikilink">レンヌ</a></p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td><p>1-0</p></td>
@@ -674,43 +551,35 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
 <td><p>2-3</p></td>
 <td><p>0-0</p></td>
 <td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2006-07</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2006-07" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Poland.svg" title="fig:Flag_of_Poland.svg">Flag_of_Poland.svg</a></p></td>
 <td><p><a href="../Page/レギア・ワルシャワ.md" title="wikilink">レギア・ワルシャワ</a></p></td>
 <td><p>1-0</p></td>
 <td><p>3-2</p></td>
 <td><p>'''4-2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ASローマ.md" title="wikilink">ローマ</a></p></td>
 <td><p>0-4</p></td>
 <td><p>1-0</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Greece.svg" title="fig:Flag_of_Greece.svg">Flag_of_Greece.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オリンピアコスFC" title="wikilink">オリンピアコス</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
@@ -718,14 +587,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
 <td><p>0-2</p></td>
 <td><p>2-2</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -734,60 +600,49 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2006-07" title="wikilink">UEFAカップ</a></p></td>
 <td><p>3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="../Page/ASナンシー.md" title="wikilink">ナンシー</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>2-3</p></td>
 <td><p>'''4-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2007-08</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2007-08.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Armenia.svg" title="fig:Flag_of_Armenia.svg">Flag_of_Armenia.svg</a></p></td>
 <td><p><a href="../Page/FCピュニク・エレバン.md" title="wikilink">ピュニク・エレバン</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''4-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Austria.svg" title="fig:Flag_of_Austria.svg">Flag_of_Austria.svg</a></p></td>
 <td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">ザルツブルク</a></p></td>
 <td><p>0-1</p></td>
 <td><p>3-1</p></td>
 <td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>グループD</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Scotland.svg" title="fig:Flag_of_Scotland.svg">Flag_of_Scotland.svg</a></p></td>
 <td><p><a href="../Page/セルティックFC.md" title="wikilink">セルティック</a></p></td>
 <td><p>2-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''4位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>1-2</p></td>
@@ -795,14 +650,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ACミラン" title="wikilink">ミラン</a></p></td>
 <td><p>1-4</p></td>
 <td><p>0-3</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -812,26 +664,21 @@
 <td><p>2008-09</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2008-09" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Croatia.svg" title="fig:Flag_of_Croatia.svg">Flag_of_Croatia.svg</a></p></td>
 <td><p><a href="../Page/NKディナモ・ザグレブ.md" title="wikilink">ディナモ・ザグレブ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>3-1</p></td>
 <td><p>'''5-1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>2-1</p></td>
 <td><p>5-0</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
 <td><p>1-2</p></td>
 <td><p>3-2</p></td>
@@ -839,14 +686,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
 <td><p>0-1</p></td>
 <td><p>0-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -855,52 +699,42 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/トッテナム・ホットスパーFC.md" title="wikilink">トッテナム</a></p></td>
 <td><p>2-0</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Russia.svg" title="fig:Flag_of_Russia.svg">Flag_of_Russia.svg</a></p></td>
 <td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
 <td><p>0-1</p></td>
 <td><p>2-0</p></td>
 <td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC" title="wikilink">パリ・サンジェルマン</a></p></td>
 <td><p>0-0</p></td>
 <td><p>3-0</p></td>
 <td><p>'''3-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Ukraine.svg" title="fig:Flag_of_Ukraine.svg">Flag_of_Ukraine.svg</a></p></td>
 <td><p><a href="../Page/FCディナモ・キエフ.md" title="wikilink">ディナモ・キエフ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>2-1</p></td>
 <td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/ヴェルダー・ブレーメン.md" title="wikilink">ブレーメン</a></p></td>
-<td><p>colspan="2" style="background-color:#CFF" align="center" </p></td>
 <td><p>'''2-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
@@ -911,37 +745,30 @@
 <td><p>2009-10</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2009-10" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Romania.svg" title="fig:Flag_of_Romania.svg">Flag_of_Romania.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCポリテフニカ・ティミショアラ" title="wikilink">ティミショアラ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-0</p></td>
 <td><p>'''2-2 (a)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/スィヴァススポル" title="wikilink">スィヴァススポル</a></p></td>
 <td><p>3-0</p></td>
 <td><p>2-0</p></td>
 <td><p>'''5-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>グループJ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
 <td><p>4-1</p></td>
 <td><p>0-0</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Serbia.svg" title="fig:Flag_of_Serbia.svg">Flag_of_Serbia.svg</a></p></td>
 <td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>4-1</p></td>
 <td><p>0-1</p></td>
@@ -949,10 +776,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="../Page/トゥールーズFC.md" title="wikilink">トゥールーズ</a></p></td>
 <td><p>4-0</p></td>
 <td><p>2-0</p></td>
@@ -960,32 +785,26 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/フラムFC.md" title="wikilink">フラム</a></p></td>
 <td><p>1-2</p></td>
 <td><p>1-1</p></td>
 <td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2010-11</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2010-11" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Serbia.svg" title="fig:Flag_of_Serbia.svg">Flag_of_Serbia.svg</a></p></td>
 <td><p><a href="../Page/パルチザン・ベオグラード.md" title="wikilink">パルチザン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>3-0</p></td>
 <td><p>'''1位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>3-0</p></td>
 <td><p>2-0</p></td>
@@ -993,10 +812,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/アーセナルFC.md" title="wikilink">アーセナル</a></p></td>
 <td><p>5-1</p></td>
 <td><p>2-1</p></td>
@@ -1004,43 +821,35 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ASローマ.md" title="wikilink">ローマ</a></p></td>
 <td><p>3-2</p></td>
 <td><p>3-0</p></td>
 <td><p>'''6-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバルセロナ" title="wikilink">バルセロナ</a></p></td>
 <td><p>1-5</p></td>
 <td><p>0-1</p></td>
 <td><p>'''1-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2011-12</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループG</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>1-2</p></td>
 <td><p>2-2</p></td>
 <td><p>'''4位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Cyprus.svg" title="fig:Flag_of_Cyprus.svg">Flag_of_Cyprus.svg</a></p></td>
 <td><p><a href="../Page/APOELニコシア.md" title="wikilink">APOEL</a></p></td>
 <td><p>2-2</p></td>
 <td><p>2-0</p></td>
@@ -1048,14 +857,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Russia.svg" title="fig:Flag_of_Russia.svg">Flag_of_Russia.svg</a></p></td>
 <td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">ゼニト</a></p></td>
 <td><p>1-3</p></td>
 <td><p>0-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1065,15 +871,12 @@
 <td><p>2012-13</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2012-13" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループE</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Denmark.svg" title="fig:Flag_of_Denmark.svg">Flag_of_Denmark.svg</a></p></td>
 <td><p><a href="../Page/FCノアシェラン.md" title="wikilink">ノアシェラン</a></p></td>
 <td><p>2-0</p></td>
 <td><p>5-2</p></td>
 <td><p>'''2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ユヴェントスFC.md" title="wikilink">ユヴェントス</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
@@ -1081,10 +884,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/チェルシーFC" title="wikilink">チェルシー</a></p></td>
 <td><p>2-1</p></td>
 <td><p>2-3</p></td>
@@ -1092,32 +893,26 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/ボルシア・ドルトムント.md" title="wikilink">ボルシア・ドルトムント</a></p></td>
 <td><p>2-2</p></td>
 <td><p>0-3</p></td>
 <td><p>'''2-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2013-14</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2013-14" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・ソシエダ" title="wikilink">レアル・ソシエダ</a></p></td>
 <td><p>4-0</p></td>
 <td><p>2-0</p></td>
 <td><p>'''3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッド</a></p></td>
 <td><p>1-1</p></td>
 <td><p>0-1</p></td>
@@ -1125,14 +920,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">レバークーゼン</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-4</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1141,27 +933,22 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2013-14" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_the_Czech_Republic.svg" title="fig:Flag_of_the_Czech_Republic.svg">Flag_of_the_Czech_Republic.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCヴィクトリア・プルゼニ" title="wikilink">ヴィクトリア・プルゼニ</a></p></td>
 <td><p>1-1</p></td>
 <td><p>1-2</p></td>
 <td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2014-15</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2014-15" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/アスレティック・ビルバオ.md" title="wikilink">アスレティック・ビルバオ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-1</p></td>
 <td><p>'''2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-1</p></td>
@@ -1169,10 +956,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belarus.svg" title="fig:Flag_of_Belarus.svg">Flag_of_Belarus.svg</a></p></td>
 <td><p><a href="../Page/FC_BATEボリソフ.md" title="wikilink">BATEボリソフ</a></p></td>
 <td><p>7-0</p></td>
 <td><p>5-0</p></td>
@@ -1180,54 +965,44 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></p></td>
 <td><p>0-0</p></td>
 <td><p>0-7</p></td>
 <td><p>'''0-7</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2015-16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a></p></td>
 <td><p><a href="../Page/フェネルバフチェSK.md" title="wikilink">フェネルバフチェ</a></p></td>
 <td><p>0-0</p></td>
 <td><p>3-0</p></td>
 <td><p>'''3-0</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Austria.svg" title="fig:Flag_of_Austria.svg">Flag_of_Austria.svg</a></p></td>
 <td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
 <td><p>1-0</p></td>
 <td><p>2-2</p></td>
 <td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>グループA</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></p></td>
 <td><p>3-4</p></td>
 <td><p>0-4</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC" title="wikilink">パリ・サンジェルマン</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-2</p></td>
@@ -1235,14 +1010,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Sweden.svg" title="fig:Flag_of_Sweden.svg">Flag_of_Sweden.svg</a></p></td>
 <td><p><a href="../Page/マルメFF.md" title="wikilink">マルメFF</a></p></td>
 <td><p>4-0</p></td>
 <td><p>0-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1251,83 +1023,68 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/シャルケ04.md" title="wikilink">シャルケ04</a></p></td>
 <td><p>0-0</p></td>
 <td><p>3-0</p></td>
 <td><p>'''3-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="../Page/RSCアンデルレヒト.md" title="wikilink">アンデルレヒト</a></p></td>
 <td><p>3-1</p></td>
 <td><p>1-0</p></td>
 <td><p>'''4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>4-0</p></td>
 <td><p>'''6-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-3</p></td>
 <td><p>'''3-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2016-17</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>予選3回戦</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/BSCヤングボーイズ.md" title="wikilink">ヤングボーイズ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2-2<br />
 (2-4 p)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>プレーオフ</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イスタンブール・バシャクシェヒルFK" title="wikilink">イスタンブール・バシャクシェヒル</a></p></td>
 <td><p>2-1</p></td>
 <td><p>2-1</p></td>
 <td><p>'''4-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>グループH</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/SCブラガ.md" title="wikilink">ブラガ</a></p></td>
 <td><p>2-0</p></td>
 <td><p>4-2</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Belgium.svg" title="fig:Flag_of_Belgium.svg">Flag_of_Belgium.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KAAヘント" title="wikilink">ヘント</a></p></td>
 <td><p>5-0</p></td>
 <td><p>5-3</p></td>
@@ -1335,10 +1092,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Turkey.svg" title="fig:Flag_of_Turkey.svg">Flag_of_Turkey.svg</a></p></td>
 <td><p><a href="../Page/コンヤスポル.md" title="wikilink">コンヤスポル</a></p></td>
 <td><p>4-0</p></td>
 <td><p>1-0</p></td>
@@ -1346,32 +1101,26 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Spain.svg" title="fig:Flag_of_Spain.svg">Flag_of_Spain.svg</a></p></td>
 <td><p><a href="../Page/セルタ・デ・ビーゴ.md" title="wikilink">セルタ</a></p></td>
 <td><p>0-2</p></td>
 <td><p>1-0</p></td>
 <td><p>'''1-2 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017-18</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2017-18" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-2</p></td>
 <td><p>'''2位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-3</p></td>
@@ -1379,10 +1128,8 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Netherlands.svg" title="fig:Flag_of_Netherlands.svg">Flag_of_Netherlands.svg</a></p></td>
 <td><p><a href="../Page/フェイエノールト.md" title="wikilink">フェイエノールト</a></p></td>
 <td><p>3-1</p></td>
 <td><p>2-1</p></td>
@@ -1390,32 +1137,26 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/ASローマ.md" title="wikilink">ローマ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>0-1</p></td>
 <td><p>'''2-2 (a)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2018-19</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2018-19" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループF</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>0-6</p></td>
 <td><p>'''3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_France.svg" title="fig:Flag_of_France.svg">Flag_of_France.svg</a></p></td>
 <td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
 <td><p>1-1</p></td>
 <td><p>2-2</p></td>
@@ -1423,14 +1164,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/TSG1899ホッフェンハイム.md" title="wikilink">ホッフェンハイム</a></p></td>
 <td><p>2-2</p></td>
 <td><p>3-2</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1439,27 +1177,22 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/アイントラハト・フランクフルト.md" title="wikilink">アイントラハト・フランクフルト</a></p></td>
 <td><p>2-2</p></td>
 <td><p>1-4</p></td>
 <td><p>'''3-6</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2019-20</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループC</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_England.svg" title="fig:Flag_of_England.svg">Flag_of_England.svg</a></p></td>
 <td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>1-1</p></td>
 <td><p>'''3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Croatia.svg" title="fig:Flag_of_Croatia.svg">Flag_of_Croatia.svg</a></p></td>
 <td><p><a href="../Page/NKディナモ・ザグレブ.md" title="wikilink">ディナモ・ザグレブ</a></p></td>
 <td><p>2-2</p></td>
 <td><p>3-3</p></td>
@@ -1467,14 +1200,11 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="../Page/アタランタBC.md" title="wikilink">アタランタ</a></p></td>
 <td><p>0-3</p></td>
 <td><p>2-1</p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1483,43 +1213,35 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Portugal.svg" title="fig:Flag_of_Portugal.svg">Flag_of_Portugal.svg</a></p></td>
 <td><p><a href="../Page/SLベンフィカ.md" title="wikilink">ベンフィカ</a></p></td>
 <td><p>2-1</p></td>
 <td><p>3-3</p></td>
 <td><p>'''5-4</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>ラウンド16</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Germany.svg" title="fig:Flag_of_Germany.svg">Flag_of_Germany.svg</a></p></td>
 <td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
 <td><p>3-0</p></td>
 <td><p>2-1</p></td>
 <td><p>'''5-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>準々決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Switzerland.svg" title="fig:Flag_of_Switzerland.svg">Flag_of_Switzerland.svg</a></p></td>
 <td><p><a href="../Page/FCバーゼル.md" title="wikilink">バーゼル</a></p></td>
 <td><p>'''4-1</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>準決勝</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/File:Flag_of_Italy.svg" title="fig:Flag_of_Italy.svg">Flag_of_Italy.svg</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
 <td><p>'''0-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1527,19 +1249,15 @@
 <tr class="even">
 <td><p>2020-21</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
-<td><p>グループ</p></td>
+<td><p>グループB</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>3-2</p></td>
 <td><p>'''位</p></td>
-<td></td>
-<td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
+<td><p>0-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1547,10 +1265,8 @@
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
+<td><p>0-6</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -1572,7 +1288,7 @@
 
 </div>
 
-  - 2020年8月6日現在
+  - 2020年8月21日現在
 
 ### レンタル移籍
 

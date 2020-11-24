@@ -68,4 +68,4 @@
   -
   -
   -
-[Category:1999年の映画](https://ja.wikipedia.org/wiki/Category:1999年の映画 "wikilink") [Category:アメリカ合衆国のホラー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のホラー映画 "wikilink") [Category:リメイクホラー映画](https://ja.wikipedia.org/wiki/Category:リメイクホラー映画 "wikilink") [Category:ダークキャッスル・エンタテインメントの作品](https://ja.wikipedia.org/wiki/Category:ダークキャッスル・エンタテインメントの作品 "wikilink")
+[Category:1999年の映画](https://ja.wikipedia.org/wiki/Category:1999年の映画 "wikilink") [Category:アメリカ合衆国のホラー映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のホラー映画 "wikilink") [Category:リメイクホラー映画](https://ja.wikipedia.org/wiki/Category:リメイクホラー映画 "wikilink") [Category:フロリダ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:フロリダ州で製作された映画作品 "wikilink") [Category:ダークキャッスル・エンタテインメントの作品](https://ja.wikipedia.org/wiki/Category:ダークキャッスル・エンタテインメントの作品 "wikilink")

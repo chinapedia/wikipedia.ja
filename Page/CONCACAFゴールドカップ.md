@@ -1,7 +1,7 @@
 > この記事は[CONCACAFゴールドカップ](https://ja.wikipedia.org/wiki/CONCACAFゴールドカップ)から翻訳されています。
 
 
-**CONCACAFゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。
+**Concacafゴールドカップ**（）は、[北中米カリブ海サッカー連盟](../Page/北中米カリブ海サッカー連盟.md "wikilink")（CONCACAF）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。
 
 ## 概要
 

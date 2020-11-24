@@ -3,8 +3,6 @@
 
 **Avast Antivirus（日本語名：アバスト アンチウイルス）** とは、[Avast Software](../Page/Avast_Software.md "wikilink") s.r.o.が開発、提供する[ウイルス対策ソフトである](../Page/アンチウイルスソフトウェア.md "wikilink")。
 
-__TOC__{{-}}
-
 ## 概要
 
 家庭での非営利使用であれば、ずっと無料で利用できる「Avast Free Antivirus」（アバスト無料アンチウイルス）のほか、有料版として「Avast Premium Security」（アバスト プレミアムセキュリティ）、「Avast Ultimate Suite」（アバスト アルティメットスイート）「Avast Mobile Security\]（アバスト モバイルセキュリティ）などが提供されている。また、小規模企業向けに無料で利用できる「Avast Business Security Cloud」もある。
@@ -122,13 +120,13 @@ __TOC__{{-}}
 
 この報道の直後、Avastは子会社Jumpshotの事業終了およびアクティビティデータ収集の終了を発表。現在は製品ポリシー等の規約類にこの種のデータの利用許諾に関する言及はなくなっている。
 
+## 脚注
+
 ## 関連項目
 
   - [Avast Software](../Page/Avast_Software.md "wikilink")
   - [コンピュータウイルス](https://ja.wikipedia.org/wiki/コンピュータウイルス "wikilink")
   - [アンチウイルスソフトウェア](../Page/アンチウイルスソフトウェア.md "wikilink")
-
-## 脚注
 
 ## 外部リンク
 

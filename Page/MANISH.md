@@ -1,15 +1,15 @@
 > この記事は[MANISH](https://ja.wikipedia.org/wiki/MANISH)から翻訳されています。
 
 
-**MANISH**（マニッシュ）は、1990年代に活動していた日本の[音楽](../Page/音楽.md "wikilink")グループ。
+**MANISH**（マニッシュ）は、1990年代に活動していた日本の[音楽](../Page/音楽.md "wikilink")グループで、[ビーイング](../Page/ビーイング.md "wikilink")系の代表的グループ。[シンセポップ](https://ja.wikipedia.org/wiki/シンセポップ "wikilink")の楽曲を多数発表した。
 
 ## 来歴
 
-  - 1991年、大手モデル事務所の[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属メンバーによって結成された「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")パフォーマンスグループ」アクションズが起源。[有栖川宮記念公園](../Page/有栖川宮記念公園.md "wikilink")にて定期的にパフォーマンスを披露していた。1992年5月、アクションズの中から選抜された高橋美鈴、西本麻里、石沢晶、土屋さゆりの4人がアイドルグループ・**DALI**（ダリ）として、シングル「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")OP曲）でデビュー。直後にグループは解散。しかし、DALIから高橋と西本を選抜し、**MANISH**を結成。12月に「恋人と呼べないDistance」で再デビュー（なお、高橋はDALIとしての活動前は初代おにぎりにぎり隊として[農業協同組合](../Page/農業協同組合.md "wikilink")のキャンペーンソングを歌っていたこともある）。後に「[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")」「[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")」「[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")」などがヒットした。
+  - 1991年、大手モデル事務所の[スターダストプロモーション](../Page/スターダストプロモーション.md "wikilink")所属メンバーによって結成された「[空手](https://ja.wikipedia.org/wiki/空手 "wikilink")パフォーマンスグループ」アクションズが起源。[有栖川宮記念公園](../Page/有栖川宮記念公園.md "wikilink")にて定期的にパフォーマンスを披露していた。1992年5月、アクションズの中から選抜された高橋美鈴、西本麻里、石沢晶、土屋さゆりの4人がアイドルグループ・**DALI**（ダリ）として、シングル「[ムーンライト伝説](https://ja.wikipedia.org/wiki/ムーンライト伝説 "wikilink")」（[美少女戦士セーラームーン](https://ja.wikipedia.org/wiki/美少女戦士セーラームーン "wikilink")OP曲）でデビュー。直後にグループは解散。しかし、DALIから高橋と西本を選抜し、**MANISH**を結成。12月に「恋人と呼べないDistance」で再デビュー（なお、高橋はDALIとしての活動前は初代おにぎりにぎり隊として[農業協同組合](../Page/農業協同組合.md "wikilink")のキャンペーンソングを歌っていたこともある）。後に「[声にならないほどに愛しい](../Page/声にならないほどに愛しい.md "wikilink")」「[もう誰の目も気にしない](../Page/もう誰の目も気にしない.md "wikilink")」「[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")」などがヒットした。「[煌めく瞬間に捕われて](https://ja.wikipedia.org/wiki/煌めく瞬間に捕われて/眩しいくらいに… "wikilink")」は[スラムダンクの主題歌として有名になった](../Page/SLAM_DUNK.md "wikilink")。
   - グループ名は2人とも小さい頃から男の子っぽいと言われた事に由来する。MANISHという言葉は造語で、「男の子っぽい、男のような」を意味する正しい英語のスペルは**mannish**である。西本麻里の「MAri NISHimoto」から取ったとも言われている。
   - アップテンポなポップロックを得意とし、[B'z](../Page/B'z.md "wikilink")のアレンジも手がける[明石昌夫](../Page/明石昌夫.md "wikilink")が長くサウンドプロデュースを担当、キーボード主体の女版B'zと称されることもあった。音楽性だけではなく二人のモデルのようなルックスにも注目が集まった。
-  - 同時期に活動していた女性ロックユニット[KIX-S](../Page/KIX-S.md "wikilink")と形式やヴォーカルスタイルが似ている事で混同される事が多かったが、両ユニットともビーイングが制作していた。
-  - 当人たちがプロモーションをしていた、1996年8月のリリース作品cheerをもって、一旦活動停止する。これはスターダストプロモーションとの提携終了によるものである。当時、同社に所属していたZARDはsensuiへ移籍、宇徳敬子はAdingへ移籍、BA-JI（中沢晶）は活動停止（その後、98年に移籍しBAJI-Rで復活）、柳原愛子はBeingを離脱、中原薫は活動停止している。
+  - 同時期に活動していた女性ロックユニット[KIX-S](../Page/KIX-S.md "wikilink")と形式やヴォーカルスタイルが似ている事で混同される事が多かったが、両ユニットともビーイングが制作していた。MANISHはギターよりも[シンセに比重を置いており](../Page/シンセサイザー.md "wikilink")、KIX-Sよりも軽快な音楽性である。
+  - 当人たちがプロモーションをしていた、1996年8月のリリース作品cheerをもって、一旦活動停止する。これはスターダストプロモーションとの提携終了によるものである。当時、同社に所属していた[ZARD](../Page/ZARD.md "wikilink")は[sensuiへ移籍](https://ja.wikipedia.org/wiki/SENSUI "wikilink")、[宇徳敬子](https://ja.wikipedia.org/wiki/宇徳敬子 "wikilink")は[Ading](../Page/Ading.md "wikilink")へ移籍、[BA-JI](https://ja.wikipedia.org/wiki/BAJI-R "wikilink")（中沢晶）は活動停止（その後、98年に移籍しBAJI-Rで復活）、[柳原愛子はBeingを離脱](https://ja.wikipedia.org/wiki/柳原愛子_\(歌手\) "wikilink")、中原薫は活動停止している。
   - 1998年10月に発行された小冊子『ZAIN REPORT』や電話サービス『ZAIN NEWS』でMANISH　BESTリリースと共に活動再開がアナウンスされるも、活動休止状態が続いた。本人達及び事務所関係者が公の場で解散等の宣言はしていない。2003年11月には雑誌『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』に「今は2人とも音楽業界から離れている」と掲載されている。
 
 ## メンバー
@@ -24,7 +24,7 @@
   - 西本麻里（にしもと まり）
     [キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[作曲](../Page/作曲.md "wikilink")担当。
     生まれ。東京都出身。[血液型AB型](../Page/ABO式血液型.md "wikilink")。身長172cm。
-    初期はバラードのソングライティングを得意とし、「もう誰の目も気にしない」などのヒット曲の作曲も手がけた。ビジュアル的に優れていたため、裏方のキーボードに徹していたことに不満をもつファンも多かった。[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")等の出演時には、一般的に音楽番組でキーボーディストが使うような機材ではなく、KURZWEILを中心に、編曲家がレコーディングスタジオ専用に使うシンセシステムのようなかなり大掛かりな機材を持ち込むなど、話題になったこともある。
+    初期はバラードのソングライティングを得意とし、「もう誰の目も気にしない」などのヒット曲の作曲も手がけた。ビジュアル的に優れていたため、裏方のキーボードに徹していたことに不満をもつファンも多かった。[ミュージックステーション](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")等の出演時には、一般的に音楽番組でキーボーディストが使うような単一の[キーボードではなく](../Page/キーボード_\(楽器\).md "wikilink")、KURZWEILを中心に、編曲家がレコーディングスタジオに常設するような大型のラックマウントシステムが設置されたステージが話題になったこともある。ステージ上の見栄えを良くするために置かれていたものであり、実際はライブで音を出してはいなかったが、MANISHの作品ではシンセサウンドが大きな割合を占めていたこともまた事実である。
 
 ## ディスコグラフィ
 
@@ -215,10 +215,10 @@
 
 ## 外部リンク
 
-  - [Power Manish](https://beinggiza.com/ci/artist/manish/)（レコード会社公式）
+  - [MANISH - Being official website](https://beinggiza.com/ci/artist/manish/)
 
   -
-[Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink")
+[Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:過去のスターダストプロモーション所属者](https://ja.wikipedia.org/wiki/Category:過去のスターダストプロモーション所属者 "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1992年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1992年に結成した音楽グループ "wikilink") [Category:1998年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に解散した音楽グループ "wikilink")
 
 1.  [MANISH／気ままにDEAR MY FRIENDS](http://www2.jasrac.or.jp/eJwid/main.jsp?trxID=F20101&WORKS_CD=02361710&subSessionID=001&subSession=start) *作品データベース検索サービス（JASRAC）*
 2.  [MANISH／サヨナラはまだ言わない](http://www2.jasrac.or.jp/eJwid/main.jsp?trxID=F20101&WORKS_CD=02361833&subSessionID=001&subSession=start) *作品データベース検索サービス（JASRAC）*

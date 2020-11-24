@@ -66,7 +66,7 @@ __NOTOC__ **ST**, **St**, **st**
 
   - ST管 - [真空管](../Page/真空管.md "wikilink")の一種。ストレートチューブの略。
 
-  - [名鉄瀬戸線](https://ja.wikipedia.org/wiki/名鉄瀬戸線 "wikilink")の[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")。
+  - [西武多摩湖線](https://ja.wikipedia.org/wiki/西武多摩湖線 "wikilink")と[名鉄瀬戸線](https://ja.wikipedia.org/wiki/名鉄瀬戸線 "wikilink")の[路線記号](https://ja.wikipedia.org/wiki/路線記号 "wikilink")。
 
 ## St
 

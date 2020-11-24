@@ -26,6 +26,8 @@
 
   - [bis](https://ja.wikipedia.org/wiki/bis "wikilink") - 日本の雑誌。
 
+  - [bis](https://ja.wikipedia.org/wiki/bis_\(バンド\) "wikilink") - 日本の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](https://ja.wikipedia.org/wiki/バンド_\(音楽\)#ロックバンド "wikilink")。2004年に結成。2008年に解散。
+
   - \- [スコットランド](../Page/スコットランド.md "wikilink")出身の[ポップ](../Page/ポップ・ミュージック.md "wikilink")・[バンド](../Page/バンド_\(音楽\).md "wikilink")。マンダ・リン、サイ・ファイ・スティーヴン、ジョン・ディスコの3名で構成。日本では、アルバム『』（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")発売）収録の『kandy pop（キャンディ・ポップ）』がスマッシュ・ヒットとなった。[2003年](../Page/2003年.md "wikilink")に解散。
 
   - 化学物質の名称において置換基が2つあることを意味する[倍数接頭辞](https://ja.wikipedia.org/wiki/化学接頭辞・接尾辞一覧#ビス "wikilink")(bis-)。

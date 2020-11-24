@@ -1,7 +1,7 @@
 > この記事は[UEFA欧州選手権](https://ja.wikipedia.org/wiki/UEFA欧州選手権)から翻訳されています。
 
 
-**UEFA欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**EURO**（ユーロ）とも呼称される（大抵は年度を付加して“UEFA EURO \[年度\]”などのように使われる）。4年に1度、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の中間年（[夏季五輪の開催年](../Page/夏季オリンピック.md "wikilink")）に開催される。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
+**UEFA欧州選手権**（）は、[欧州サッカー連盟](../Page/欧州サッカー連盟.md "wikilink")（UEFA）が主催する、[ナショナルチーム](../Page/ナショナルチーム.md "wikilink")による[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")の大陸選手権大会である。**UEFA EURO**（ユエファ ユーロ）とも呼称される。4年に1度、[FIFAワールドカップ](../Page/FIFAワールドカップ.md "wikilink")の中間年（[夏季五輪の開催年](../Page/夏季オリンピック.md "wikilink")）に開催される。優勝国には[FIFAコンフェデレーションズカップ](../Page/FIFAコンフェデレーションズカップ.md "wikilink")への出場権が与えられていた。
 
 ## 概要
 

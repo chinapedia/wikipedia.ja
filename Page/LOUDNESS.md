@@ -714,6 +714,23 @@ LOUDNESS以外でのメンバーの活動については各項目を参照。
   - 2月8日、ドラムの鈴木が[脳梗塞](../Page/脳梗塞.md "wikilink")のため、緊急入院\[75\]。
   - 6月24日、[LUNA SEA主催のフェス](../Page/LUNA_SEA.md "wikilink")『[LUNATIC FEST.](https://ja.wikipedia.org/wiki/LUNATIC_FEST. "wikilink")』に出演\[76\]。
   - 9月24日、「METAL WEEKEND 第4弾 LOUDNESS & FRIENDS -AMPAN RETURNS-」にて鈴木が「LOUDNESS」でドラムを披露。
+  - 12月26日、『JEALOUSY 30th ANNIVERSARY Limited Edition』リリース
+
+<!-- end list -->
+
+  - [2019年](../Page/2019年.md "wikilink")
+
+<!-- end list -->
+
+  - 12月25日、『LOUDNESS JAPAN TOUR 19　HURRICANE EYES + JEALOUSY Live at Zepp Tokyo 31 May, 2019』リリース
+
+<!-- end list -->
+
+  - [2020年](../Page/2020年.md "wikilink")
+
+<!-- end list -->
+
+  - 9月23日、『SOLDIER OF FORTUNE 30th ANNIVERSARY Limited Edition』リリース
 
 ## 影響
 
@@ -885,6 +902,13 @@ LP初回盤のみボーナストラックシングル付属</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>9th</p></td>
+<td><p>LOUDNESS JAPAN TOUR 19 HURRICANE EYES + JEALOUSY Live at Zepp Tokyo 31 May, 2019</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p>第6期のライヴを収録</p></td>
+<td><p>55</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>
@@ -1044,6 +1068,8 @@ LP初回盤のみボーナストラックシングル付属</p></td>
       - コロムビア時代のアルバム（シングル集含む）8枚と高崎と樋口のソロアルバム2枚、ライブDVD2枚のボックス・セット。
   - THUNDER IN THE EAST 30th Anniversary Edition（LIMITED EDITION & ULTIMATE EDITION 2015年11月25日）
       - 『THUNDER IN THE EAST』発売30周年記念アルバム。
+  - LOUDNESS COLUMBIA YEARS SELECTION (2016年3月30日) 　　　　　
+      - コロムビア時代のオリジナルアルバムと日本コロムビアより発売された高崎、樋口のソロアルバムを含む11枚組ボックス・セット。メンバー立ち合いの元で新たにリマスタリングされている。
 
 #### 映像作品
 
@@ -1287,6 +1313,12 @@ LP初回盤のみボーナストラックシングル付属</p></td>
 Amazon限定販売</p></td>
 </tr>
 <tr class="odd">
+<td><p>31th</p></td>
+<td><p>LOUDNESS JAPAN TOUR 19 HURRICANE EYES + JEALOUSY Live at Zepp Tokyo 31 May, 2019</p></td>
+<td><p>2019年12月25日</p></td>
+<td><p>2019年5月31日に開催されたライブのDVD、CDの3枚組</p></td>
+</tr>
+<tr class="even">
 <td></td>
 <td></td>
 <td></td>

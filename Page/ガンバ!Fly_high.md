@@ -809,7 +809,7 @@
 
   - [ガンバ！Fly high - サンデー名作ミュージアム](https://websunday.net/museum/no16/)
 
-[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:スポーツ漫画](https://ja.wikipedia.org/wiki/Category:スポーツ漫画 "wikilink") [Category:体操を題材とした作品](https://ja.wikipedia.org/wiki/Category:体操を題材とした作品 "wikilink") [Category:体操競技](https://ja.wikipedia.org/wiki/Category:体操競技 "wikilink") [Category:オリンピックを題材とした作品](https://ja.wikipedia.org/wiki/Category:オリンピックを題材とした作品 "wikilink")
+[Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:週刊少年サンデーの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年サンデーの漫画作品 "wikilink") [Category:スポーツ漫画](https://ja.wikipedia.org/wiki/Category:スポーツ漫画 "wikilink") [Category:体操を題材とした作品](https://ja.wikipedia.org/wiki/Category:体操を題材とした作品 "wikilink") [Category:体操競技](https://ja.wikipedia.org/wiki/Category:体操競技 "wikilink") [Category:オリンピックを題材とした作品](https://ja.wikipedia.org/wiki/Category:オリンピックを題材とした作品 "wikilink") [Category:菊田洋之](https://ja.wikipedia.org/wiki/Category:菊田洋之 "wikilink") [Category:1994年の漫画](https://ja.wikipedia.org/wiki/Category:1994年の漫画 "wikilink")
 
 1.
 2.  [＜五輪体操＞漫画に触発された「空中感覚」…内村選手「金」](http://london.yahoo.co.jp/news/detail/20120802-00000036-mai)

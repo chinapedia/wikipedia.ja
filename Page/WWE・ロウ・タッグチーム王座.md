@@ -9,7 +9,7 @@
 
 2009年の[レッスルマニアXXV](https://ja.wikipedia.org/wiki/レッスルマニアXXV "wikilink")にて世界タッグ王座と統一され、WWE統一タッグ王座となったが、2010年8月16日のRAWを以って世界タッグ王座が封印されたため、再び単独王座となった。
 
-2016年7月19日に行われたブランド分割により王座を保有していた[ニュー・デイがRAW所属となり](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")、9月23日にRAW管轄の**[WWEロウタッグチーム王座](../Page/WWE・ロウ・タッグチーム王座.md "wikilink")**となる。(SmackDown LIVEは[WWEスマックダウンタッグチーム王座が創設された](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")。)
+2016年7月19日に行われたブランド分割により王座を保有していた[ニュー・デイがRAW所属となり](https://ja.wikipedia.org/wiki/ニュー・デイ_\(プロレス\) "wikilink")、9月23日にRAW管轄の**本王座**となる。(SmackDownは[WWEスマックダウンタッグチーム王座が創設された](https://ja.wikipedia.org/wiki/WWE・スマックダウン・タッグチーム王座 "wikilink")。)
 
 ## 歴代王者
 
@@ -671,11 +671,12 @@
 <td><p>One Fall</p></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
-<td></td>
-<td></td>
+<td><p>ニュー・デイ<br />
+コフィ・キングストン(5) &amp; エグゼビア・ウッズ(3)</p></td>
+<td><p>3</p></td>
+<td><p>10月12日</p></td>
+<td><p>RAW</p></td>
+<td><p>ドラフト会議により交換</p></td>
 </tr>
 </tbody>
 </table>

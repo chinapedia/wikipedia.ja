@@ -1867,7 +1867,7 @@
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - 2020年8月26日現在
+  - 2020年10月5日現在
 
 ### ローン移籍選手
 

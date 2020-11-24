@@ -266,9 +266,9 @@
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[3月21日](../Page/3月21日.md "wikilink")現在\[10\]
+  - [2020年](../Page/2020年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink")現在\[10\]
 
-<!-- end list -->
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 
   - 監督
 

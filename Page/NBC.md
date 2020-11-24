@@ -11,7 +11,7 @@
 
   - [1926年](../Page/1926年.md "wikilink") [RCA](../Page/RCA.md "wikilink")の子会社として設立され、2つのネットワーク（NBC Red networkとNBC Blue network）で運営する。
   - [1939年](../Page/1939年.md "wikilink") テレビ試験放送開始。
-  - [1940年](../Page/1940年.md "wikilink") [連邦通信委員会](../Page/連邦通信委員会.md "wikilink")が[チェーン・ブロードキャスティングを独占行為として起訴](https://ja.wikipedia.org/wiki/:en:Chain_broadcasting "wikilink")。NBC 側敗訴により、NBC **Red** network がNBC Red Network, Inc.、また、NBC **Blue** network がNBC Blue Network, Inc.と2社に分割される。赤ネットは以前[AT\&T](../Page/AT&T.md "wikilink") 所有であったネットワークをRCA が買収した事業。青ネットはRCA が独自に開拓したネットワーク事業。
+  - [1940年](../Page/1940年.md "wikilink") [連邦通信委員会](../Page/連邦通信委員会.md "wikilink")が[WEAFチェーンを独占行為で起訴](https://ja.wikipedia.org/wiki/:en:Broadcast_network "wikilink")。NBC 側敗訴により、NBC **Red** network がNBC Red Network, Inc.、また、NBC **Blue** network がNBC Blue Network, Inc.と2社に分割される。赤ネットは以前[AT\&T](../Page/AT&T.md "wikilink") 所有であったネットワークをRCA が買収した事業。青ネットはRCA が独自に開拓したネットワーク事業。
   - [1941年](https://ja.wikipedia.org/wiki/1941年 "wikilink")[7月1日](../Page/7月1日.md "wikilink") 世界で初めてテレビ本放送開始（米CBSと同時）。
   - [1943年](../Page/1943年.md "wikilink") 親会社「RCA」がNBC Blue Network, Inc.をエドワード・ジョン・ノーブルに売却し、社名をThe Blue Network, Inc.と改称し、ネットワーク名を「[アメリカン・ブロードキャスティング・カンパニー](../Page/アメリカン・ブロードキャスティング・カンパニー.md "wikilink")（ABC）」とする。
   - [1953年](https://ja.wikipedia.org/wiki/1953年 "wikilink")[10月30日](../Page/10月30日.md "wikilink") 世界初のNTSC方式によるカラー試験放送を開始。
@@ -25,7 +25,7 @@
   - [1986年](../Page/1986年.md "wikilink") 親会社「RCA」が[ゼネラル・エレクトリック](../Page/ゼネラル・エレクトリック.md "wikilink")に買収されたため、ゼネラル・エレクトリックの傘下となる。
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink") NBCのラジオ部門が、ウエストウッド・ワン社に売却される（3大ネットワークのうち、初めてラジオネットワークから撤退することとなる）。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink") [2000年から](https://ja.wikipedia.org/wiki/シドニーオリンピック "wikilink")[2008年までの](https://ja.wikipedia.org/wiki/2008年北京オリンピック "wikilink")[オリンピックのアメリカ国内における独占](../Page/近代オリンピック.md "wikilink")[放映権](../Page/放映権.md "wikilink")を総額35億ドルで獲得（グループ局の[CNBC](../Page/CNBC.md "wikilink")、[MSNBC](../Page/MSNBC.md "wikilink")、[USAネットワーク](../Page/USAネットワーク.md "wikilink")においても放映、[2003年](../Page/2003年.md "wikilink")には[2012年までの独占放映権も獲得](https://ja.wikipedia.org/wiki/ロンドンオリンピック_\(2012年\) "wikilink")、さらに2032年大会までと[ユースオリンピック](https://ja.wikipedia.org/wiki/ユースオリンピック "wikilink")の放映権を獲得\[1\]\[2\]）。
-  - [2004年](../Page/2004年.md "wikilink") ヴィヴェンディ・ユニバーサル・エンタテインメント（[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")の娯楽部門で、[映画会社](../Page/映画会社の一覧.md "wikilink")「[ユニヴァーサル](https://ja.wikipedia.org/wiki/ユニヴァーサル映画 "wikilink")」が属す）と合併し、NBCユニバーサルを設立する。
+  - [2004年](../Page/2004年.md "wikilink") ヴィヴェンディ・ユニバーサル・エンタテインメント（[ヴィヴェンディ・ユニバーサル](../Page/ヴィヴェンディ・ユニバーサル.md "wikilink")の娯楽部門で、[映画会社](../Page/映画会社の一覧.md "wikilink")「[ユニバーサル・スタジオ](../Page/ユニバーサル・スタジオ.md "wikilink")」が属す）と合併し、NBCユニバーサルを設立する。
   - [2009年](../Page/2009年.md "wikilink") テレビの旧[アナログ放送](https://ja.wikipedia.org/wiki/アナログ放送 "wikilink")終了、[デジタル放送](../Page/デジタル放送.md "wikilink")へ完全移行。
 
 ## 備考

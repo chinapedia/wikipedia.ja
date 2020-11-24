@@ -13,7 +13,7 @@
 
 1991年という時代背景から[はがき](../Page/はがき.md "wikilink")・ファックス**※**（番組ではこちらも番組音楽同様、永の意向で言い方を原則、「**[ファクシミリ](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")**」の敬称で募集していた。終了後の現在も外山・長峰・堀井はそれぞれの担当番組で「ファクシミリ」を用いている。）・生[電話](../Page/電話.md "wikilink")により引き続き募集していたが、番組のメールでの受け付けも[Eメールの普及とともに](../Page/電子メール.md "wikilink")[1990年代](../Page/1990年代.md "wikilink")終わりから始まり、番組公式メールアドレスは計2回変更されている「**rokuchan**@**best.**tbs.co.jp」（ - 2004年） → 「**rokuchan**@tbs.co.jp」（2004年 - 2009年）→「**santaro**@tbs.co.jp」（2009年 - 2015年）。[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[6月12日](../Page/6月12日.md "wikilink")放送分で放送回数が1000回を突破した。[2015年](../Page/2015年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink")放送分で1268回（推定）を数えている。オープニングBGM、今週のご隠居語録で使用されるBGMなど、概ね永の意向により第1回放送より変わらず[モノラル](https://ja.wikipedia.org/wiki/モノラル "wikilink")音源のオリジナルBGMを一貫して使用し続けた。
 
-[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までは8:30〜14:00の5時間半のワイド番組で、12時以降は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・トヨタディーラー各社の単独協賛による「TOYOTAビッグサタデー 永六輔その新世界」（開始から1994年9月までは「-永六輔の土曜は満点\!」）となる2部構成だったが、「[小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")」の開始に伴い放送枠が分割されたため、[2000年](../Page/2000年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")からはトヨタの協賛枠がなくなり、番組終了時まで4時間半の放送となった。当初パーソナリティの候補には、[小島一慶](../Page/小島一慶.md "wikilink")が候補に上がっていたが、この時期に小島が[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")騒動を起こし、急遽初代パーソナリティの永六輔が、1975年の降板以来16年ぶりに生放送へ復帰することとなった。
+[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink")までは8:30〜14:00の5時間半のワイド番組で、12時以降は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")（TOYOTA）とトヨタディーラー（トヨタの販売店）の単独協賛による「TOYOTAビッグサタデー 永六輔その新世界」（開始から1994年9月までは「-永六輔の土曜は満点\!」）となる2部構成だったが、「[小堺一機のサタデーウィズ](../Page/小堺一機のサタデーウィズ.md "wikilink")」の開始に伴い放送枠が分割されたため、[2000年](../Page/2000年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")からはトヨタの協賛枠がなくなり、番組終了時まで4時間半の放送となった。当初パーソナリティの候補には、[小島一慶](../Page/小島一慶.md "wikilink")が候補に上がっていたが、この時期に小島が[不倫](https://ja.wikipedia.org/wiki/不倫 "wikilink")騒動を起こし、急遽初代パーソナリティの永六輔が、1975年の降板以来16年ぶりに生放送へ復帰することとなった。
 
 「ラッキィ池田のTOKYO粗雑な疑問」のコーナーが、街頭ロケから、オープニングに[公衆電話](../Page/公衆電話.md "wikilink")で出演し、それからスタジオに移動する形式に変更された。ただし、例外的に街頭ロケの時もある\[2\]\[3\]。2009年10月3日放送分までは、スタジオとのトークを交えながら、ゲストが954情報キャスターといっしょにゆかりの町を歩く「乙女探検隊～関東新地図」コーナーが長く放送されていた。
 
@@ -37,7 +37,7 @@
 
 ## 放送時間遍歴
 
-1.  [1991年](../Page/1991年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")～[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 8:30-14:00（うち、12時からの午後の部は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")・トヨタディーラー（「トヨタの販売店」）単独協賛「TOYOTAビッグサタデー　永六輔の土曜は満点→永六輔 その新世界」として）
+1.  [1991年](../Page/1991年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink")～[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 8:30-14:00（うち、12時からの午後の部は[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")とトヨタディーラー単独協賛「TOYOTAビッグサタデー　永六輔の土曜は満点→永六輔 その新世界」として）
 2.  [2000年](../Page/2000年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink")～[2015年](../Page/2015年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink") 8:30-13:00（トヨタ協賛枠廃止）
 
 ## 出演者
@@ -234,96 +234,6 @@
   - 土曜ワイドラジオTOKYO 永六輔その新世界 特選ベスト〜泣いて笑って旅物語篇（2016年8月29日）\[11\]
 
 ## 歴代の土曜ワイド
-
-### 初代
-
-『**[永六輔の土曜ワイドラジオTokyo](https://ja.wikipedia.org/wiki/永六輔の土曜ワイドラジオTokyo "wikilink")**』 パーソナリティ：永六輔
-
-  - 放送期間：[1970年](../Page/1970年.md "wikilink")[5月16日](../Page/5月16日.md "wikilink")～[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")の午前の部まで。
-  - 放送時間
-
-<!-- end list -->
-
-  -
-    1970年5月16日～1970年[10月3日](../Page/10月3日.md "wikilink")　13:00～17:30
-    1970年[10月10日](../Page/10月10日.md "wikilink")～[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")[5月8日](../Page/5月8日.md "wikilink")　13:00～17:00
-    1971年[5月15日](../Page/5月15日.md "wikilink")～[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink")　12:00～16:30
-    1972年[4月22日](../Page/4月22日.md "wikilink")～[1973年](../Page/1973年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink") 午前の部 9:15～11:15　午後の部 12:00～16:30
-      - 11:15～12:00に他番組が放送されることにより午前の『**こんにちは永六輔です**』と午後の『**人間ばんざい**』の2部構成となる。
-    1973年[10月20日](../Page/10月20日.md "wikilink")～[1974年](../Page/1974年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink") 午前の部 9:05～11:15　午後の部 12:00～17:00
-    1974年[4月13日](../Page/4月13日.md "wikilink")～1975年3月29日 9:05～17:00
-      - 連続した時間帯の放送に戻るが、12:00で区切る2部構成は継続、午前の部のサブタイトルは『**こんにちは永六輔です**』から『**おはようからこんにちは**』に変更。
-
-### 第2代
-
-『**[三國一朗の土曜ワイド](https://ja.wikipedia.org/wiki/三國一朗の土曜ワイド "wikilink")**』 パーソナリティ：[三國一朗](../Page/三國一朗.md "wikilink")
-
-  - 放送期間[1975年](../Page/1975年.md "wikilink")[3月29日](../Page/3月29日.md "wikilink")～[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[3月25日](https://ja.wikipedia.org/wiki/3月25日 "wikilink")
-  - 放送時間　9:05～17:00
-  - 引き続き午前・午後の2部構成。初回は永六輔からのバトンタッチという意味合いで午後の部だけ送り、1975年[4月5日](../Page/4月5日.md "wikilink")以後は午前からの放送になった。
-  - なお永六輔はメインパーソナリティを一旦退いたが、自らの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である「[永六輔の誰かとどこかで](../Page/永六輔の誰かとどこかで.md "wikilink")」はこの番組でも継続して[内包コーナーとして放送していたので](../Page/フロート番組.md "wikilink")、実質続投であった。この状態は[3代目DJ](https://ja.wikipedia.org/wiki/#第3代 "wikilink")・[久米宏](../Page/久米宏.md "wikilink")の「[土曜ワイドラジオTOKYO](../Page/土曜ワイドラジオTOKYO.md "wikilink")」時代の[1981年](../Page/1981年.md "wikilink")[1月31日](../Page/1月31日.md "wikilink")まで続き、土曜版終了とともに永は一旦完全に土曜日から退いていた。
-
-### 第3代
-
-『**[土曜ワイドラジオTOKYO](../Page/土曜ワイドラジオTOKYO.md "wikilink")**』（サブタイトル無し）　パーソナリティ：久米宏
-
-  - 放送期間[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")～[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[3月30日](../Page/3月30日.md "wikilink")
-  - 放送時間
-
-<!-- end list -->
-
-  -
-    1978年4月8日～[1982年](../Page/1982年.md "wikilink")[3月27日](../Page/3月27日.md "wikilink") 9:05-17:00
-    1982年[4月3日](../Page/4月3日.md "wikilink")～[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[4月9日](../Page/4月9日.md "wikilink") 9:00-17:00
-    1983年[4月16日](../Page/4月16日.md "wikilink")～1983年[10月8日](../Page/10月8日.md "wikilink") 9:00-16:45
-    1983年[10月15日](../Page/10月15日.md "wikilink")～[1984年](../Page/1984年.md "wikilink")[4月7日](../Page/4月7日.md "wikilink") 9:00-17:00
-    1984年[4月14日](../Page/4月14日.md "wikilink")～1985年3月30日 9:00-16:30
-
-### 第4代
-
-『**[毒蝮三太夫の土曜ワイド商売繁盛](../Page/毒蝮三太夫の土曜ワイド商売繁盛.md "wikilink")**』 パーソナリティ：毒蝮三太夫
-
-  - 放送期間[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[4月6日](../Page/4月6日.md "wikilink")～[1988年](../Page/1988年.md "wikilink")[4月9日](../Page/4月9日.md "wikilink")
-  - 放送時間
-
-<!-- end list -->
-
-  -
-    1985年4月6日～[1986年](../Page/1986年.md "wikilink")[4月5日](../Page/4月5日.md "wikilink") 9:00-13:00
-    1986年[4月12日](../Page/4月12日.md "wikilink")～1988年4月9日 9:00-11:00
-
-### 第5代
-
-『**[土曜ワイドハッピーTOKYO](../Page/土曜ワイドハッピーTOKYO.md "wikilink")**』 パーソナリティ：[吉田照美](../Page/吉田照美.md "wikilink")
-
-  - 放送期間[1988年](../Page/1988年.md "wikilink")[4月16日](../Page/4月16日.md "wikilink")～[1991年](../Page/1991年.md "wikilink")[4月6日](../Page/4月6日.md "wikilink")
-  - 放送時間　2部構成、[トヨタ自動車](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")とトヨタディーラー（現「トヨタの販売店」）提供時間は、「TOYOTAビッグサタデー・吉田照美の土曜は満点」と言うサブタイトルが付く。
-
-<!-- end list -->
-
-  -
-    1988年4月16日～[1989年](../Page/1989年.md "wikilink")[4月8日](../Page/4月8日.md "wikilink") 9:00-14:00
-    1989年[4月15日](../Page/4月15日.md "wikilink")～1991年4月6日 8:30-14:00
-
-### 第6代
-
-『**土曜ワイドラジオTOKYO 永六輔その新世界**』 パーソナリティ：永六輔
-
-  - 放送期間[1991年](../Page/1991年.md "wikilink")[4月13日](../Page/4月13日.md "wikilink") - [2015年](../Page/2015年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")
-  - 放送時間
-
-<!-- end list -->
-
-  -
-    1991年4月13日～[2000年](../Page/2000年.md "wikilink")[4月1日](../Page/4月1日.md "wikilink") 8:30-14:00
-    2000年[4月8日](../Page/4月8日.md "wikilink")～2015年9月26日　8:30-13:00
-
-### 第7代
-
-『**[土曜ワイドラジオTOKYO ナイツのちゃきちゃき大放送](https://ja.wikipedia.org/wiki/土曜ワイドラジオTOKYO_ナイツのちゃきちゃき大放送 "wikilink")**』 パーソナリティ：[ナイツ](../Page/ナイツ_\(お笑いコンビ\).md "wikilink")
-
-  - 放送期間 2015年10月3日-
-  - 放送時間 9:00-13:00
 
 ## 関連項目
 

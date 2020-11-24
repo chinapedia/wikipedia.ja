@@ -24,7 +24,7 @@
   - 第一中隊（GSG-9/1）
     [ハイジャック](../Page/ハイジャック.md "wikilink")などに対する[人質救出作戦](https://ja.wikipedia.org/wiki/人質救出作戦 "wikilink")を主任務とし、狙撃手も擁している。
   - 第二中隊（GSG-9/2）
-    戦闘潜水や潜水艇・小型舟艇などを用いた海洋対テロ作戦能力を備えている。[海軍の](https://ja.wikipedia.org/wiki/ドイツ海軍_\(ドイツ連邦軍\) "wikilink")[戦闘水泳中隊](../Page/戦闘水泳中隊.md "wikilink")（KSK）による訓練を受けている。
+    戦闘潜水や潜水艇・小型舟艇などを用いた海洋対テロ作戦能力を備えている。[海軍の](https://ja.wikipedia.org/wiki/ドイツ海軍_\(ドイツ連邦軍\) "wikilink")[戦闘水泳中隊](../Page/戦闘水泳中隊.md "wikilink")（KSM）による訓練を受けている。
   - 第三中隊（GSG-9/3）
     [高高度降下低高度開傘](https://ja.wikipedia.org/wiki/高高度降下低高度開傘 "wikilink")（HALO）や高高度降下高高度開傘（HAHO）を用いた[空中機動作戦](../Page/空中機動作戦.md "wikilink")や[挺進行動能力を備えている](../Page/ゲリラコマンド.md "wikilink")。
 

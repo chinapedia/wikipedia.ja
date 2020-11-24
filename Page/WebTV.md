@@ -78,9 +78,9 @@
 
 ## 外部リンク
 
-  - [MSN TV](http://web.archive.org/web/*/www.webtv.com/pc/) - 公式サイトの[アーカイブ](../Page/インターネットアーカイブ.md "wikilink") その1。
-  - [MSN TV](http://web.archive.org/web/*/www.webtv.com) - 公式サイトのアーカイブ その2。
-  - [WebTV](http://web.archive.org/web/*/http://www.webtv.co.jp/) - 日本公式サイトのアーカイブ。
+  - [MSN TV](https://web.archive.org/web/*/www.webtv.com/pc/) - 公式サイトの[アーカイブ](../Page/インターネットアーカイブ.md "wikilink") その1。
+  - [MSN TV](https://web.archive.org/web/*/www.webtv.com) - 公式サイトのアーカイブ その2。
+  - [WebTV](https://web.archive.org/web/*/http://www.webtv.co.jp/) - 日本公式サイトのアーカイブ。
   - [WEB TVインターネットターミナル TU-WE100 商品概要](http://ctlg.panasonic.com/jp/tv-theater/tv-acc/kantan-remote/TU-WE100.html) - パナソニック
 
 [Category:インターネットサービス](https://ja.wikipedia.org/wiki/Category:インターネットサービス "wikilink") [Category:インターネットテレビ](https://ja.wikipedia.org/wiki/Category:インターネットテレビ "wikilink") [Category:マイクロソフト](https://ja.wikipedia.org/wiki/Category:マイクロソフト "wikilink")

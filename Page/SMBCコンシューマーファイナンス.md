@@ -163,11 +163,11 @@
 
 <!-- end list -->
 
-  - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業者の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")、[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供。
+  - [しゃべくり007](../Page/しゃべくり007.md "wikilink") ※同業者の[アコム](../Page/アコム.md "wikilink")、[アイフル](../Page/アイフル.md "wikilink")も提供。2020年9月までは[JCB](https://ja.wikipedia.org/wiki/JCB "wikilink")も提供していた。
   - [月曜プラチナイト](https://ja.wikipedia.org/wiki/プラチナイト "wikilink")「[月曜から夜ふかし](https://ja.wikipedia.org/wiki/月曜から夜ふかし "wikilink")」（2020年4月 - ）※同業者のアイフルと共に前半ナショナルスポンサー。
   - [幸せ\!ボンビーガール](https://ja.wikipedia.org/wiki/幸せ!ボンビーガール "wikilink") （2018年10月 - ）※同業者のアイフルも提供。
-  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※『[日曜ドラマ](https://ja.wikipedia.org/wiki/日曜ドラマ "wikilink")』から移行。
-  - 日曜ドラマ（2019年10月 - ）※一時降板時期あり
+  - [土曜10時ドラマ](../Page/土曜ドラマ_\(日本テレビ\).md "wikilink") （2017年4月 - ）※『日曜ドラマ』から移行。
+  - [日曜ドラマ](https://ja.wikipedia.org/wiki/日曜ドラマ_\(日本テレビ\) "wikilink")（2019年10月 - ）※一時降板時期あり。
 
 <!-- end list -->
 
@@ -175,7 +175,7 @@
 
 <!-- end list -->
 
-  - [日曜プライム](https://ja.wikipedia.org/wiki/日曜プライム "wikilink")（22時台固定スポンサー）※2018年4 - 9月の間は、同業者の[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")も提供だった。
+  - 該当番組なし。
 
 <!-- end list -->
 
@@ -214,7 +214,7 @@
   - [シルシルミシル](https://ja.wikipedia.org/wiki/シルシルミシル "wikilink") ※[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")9月までは関東ローカルスポンサー。同年10月以降前半ナショナルスポンサーに昇格。
   - [おネプ\!](../Page/おネプ!.md "wikilink")
   - [『ぷっ』すま](../Page/『ぷっ』すま.md "wikilink")
-  - [GO\!オスカル\!X21](https://ja.wikipedia.org/wiki/GO!オスカル!X21 "wikilink")（関東ローカルスポンサー）
+  - [日曜プライム](https://ja.wikipedia.org/wiki/日曜プライム "wikilink")（22時台固定スポンサー）※2018年4 - 9月の間は、同業者の[三菱UFJ銀行](https://ja.wikipedia.org/wiki/三菱UFJ銀行 "wikilink")も提供だった。
 
 [TBS系列](../Page/TBSテレビ.md "wikilink")
 
@@ -241,6 +241,7 @@
 その他
 
   - [鶴瓶上岡パペポTV](../Page/鶴瓶上岡パペポTV.md "wikilink")（読売テレビ、関西ローカル）
+  - [GO\!オスカル\!X21](https://ja.wikipedia.org/wiki/GO!オスカル!X21 "wikilink")（テレビ朝日、関東ローカル）
   - [プロバスケ\! bjリーグtv](../Page/プロバスケ!_bjリーグtv.md "wikilink")（[BSフジ](../Page/BSフジ.md "wikilink")）
 
 他

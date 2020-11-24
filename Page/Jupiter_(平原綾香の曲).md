@@ -65,6 +65,7 @@
   - [我は汝に誓う、我が祖国よ](https://ja.wikipedia.org/wiki/我は汝に誓う、我が祖国よ "wikilink")
   - [惑星 (組曲)](../Page/惑星_\(組曲\).md "wikilink")
   - [ワールド・イン・ユニオン](../Page/ワールド・イン・ユニオン.md "wikilink")
+  - [サクステッド (音楽)](https://ja.wikipedia.org/wiki/サクステッド_\(音楽\) "wikilink")
   - [岩谷時子](../Page/岩谷時子.md "wikilink") - 「木星」に吉元由美とは別の歌詞をつけた「[ジュピター](https://ja.wikipedia.org/wiki/新世界_\(本田美奈子.の曲\)#収録曲 "wikilink")」の作詞者。
   - [本田美奈子.](https://ja.wikipedia.org/wiki/本田美奈子. "wikilink") - その「ジュピター」の歌唱者。
   - [絢香](https://ja.wikipedia.org/wiki/絢香 "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[2月29日](../Page/2月29日.md "wikilink")の[武道館ライブにおいて](../Page/日本武道館.md "wikilink")、[コラボレーション](../Page/コラボレーション.md "wikilink")で平原と共に「Jupiter」を歌唱。

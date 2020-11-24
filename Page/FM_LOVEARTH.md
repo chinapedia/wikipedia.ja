@@ -188,7 +188,7 @@
   - [愛・地球博公式サイト](http://www.expo2005.or.jp/)
   - [FM LOVEARTH / CBC MUSIC LOVEARTH公式サイト](http://fm-lovearth.jp/)
   - [CBCラジオ LOVEARTH\&AM LOVEARTH公式サイト](http://am-lovearth.jp/)
-      - [FM LOVEARTH 公式ブログ→CBCラジオ LOVEARTH\&AM LOVEARTH公式ブログ](http://blog.excite.co.jp/lovearth/)
+      - [FM LOVEARTH 公式ブログ→CBCラジオ LOVEARTH\&AM LOVEARTH公式ブログ](https://blog.excite.co.jp/lovearth/)
       - [CBC MUSIC LOVEARTH 公式ブログ](http://blog.hicbc.com/blog/lovearth/)
   - [CBC 多目的スペース LOVEARTH公式ページ](http://www.hicbc.com/whatscbc/cbclovearth/index.htm)
 

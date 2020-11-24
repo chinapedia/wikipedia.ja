@@ -42,6 +42,8 @@
       - 7月 - [株式交換](../Page/株式交換.md "wikilink")により[DCMホールディングス](../Page/DCMホールディングス.md "wikilink")の子会社となり、商号を『**DCMサンワ株式会社**』に変更\[18\]\[19\]。
   - [2016年](../Page/2016年.md "wikilink")
       - 5月 - [サンワドー新発寒店を閉店させ](https://ja.wikipedia.org/wiki/パワーセンターコムス "wikilink")、店舗から北海道統括事務所に変更。
+  - [2020年](../Page/2020年.md "wikilink")
+      - 12月1日 - 業務スーパーの運営を『**株式会社三和物産**』に移管\[20\]。
 
 ## 事業展開
 
@@ -65,12 +67,12 @@
 
 <!-- end list -->
 
-  - かつては[ライフ（現・ライフカード）社と提携してサンワドーカードを](../Page/ライフカード.md "wikilink")[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から発行したが、[2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")からは日専連系列各社との提携に切り替えられ、その後[2009年](../Page/2009年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")をもって旧サンワドーカードのライフ提携を終了\[20\]。
+  - かつては[ライフ（現・ライフカード）社と提携してサンワドーカードを](../Page/ライフカード.md "wikilink")[2003年](../Page/2003年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から発行したが、[2007年](../Page/2007年.md "wikilink")[8月](../Page/8月.md "wikilink")からは日専連系列各社との提携に切り替えられ、その後[2009年](../Page/2009年.md "wikilink")[2月28日](../Page/2月28日.md "wikilink")をもって旧サンワドーカードのライフ提携を終了\[21\]。
 
 ## その他
 
-  - 同社の北海道第1号店は[川沿](https://ja.wikipedia.org/wiki/川沿 "wikilink")店 ([札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[南区](../Page/南区_\(札幌市\).md "wikilink"))であったが、近隣の[石黒ホーマ](https://ja.wikipedia.org/wiki/石黒ホーマ "wikilink")(当時)の存在もありオープンから2年少々で閉店した。BOM ([カメラのキタムラ](https://ja.wikipedia.org/wiki/カメラのキタムラ "wikilink")) (2004年2月閉店) を経て現在はブックオフ川沿店。
-  - 社名は顧客・取引先・社員の三つの「和」を大事にするとの思いを込めたもので、またサンワドー時代に使われていた走る犬のロゴマークは戌年生まれである中村勝弘社長（2017年現在は会長）の愛犬をモチーフとしている\[21\]。
+  - 同社の北海道第1号店は[川沿](https://ja.wikipedia.org/wiki/川沿 "wikilink")店 ([札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[南区](../Page/南区_\(札幌市\).md "wikilink"))であったが、近隣の[石黒ホーマ](../Page/DCMホールディングス.md "wikilink")（当時）の存在もありオープンから2年少々で閉店した。BOM ([カメラのキタムラ](https://ja.wikipedia.org/wiki/カメラのキタムラ "wikilink")) (2004年2月閉店) を経て現在はブックオフ川沿店。
+  - 社名は顧客・取引先・社員の三つの「和」を大事にするとの思いを込めたもので、またサンワドー時代に使われていた走る犬のロゴマークは戌年生まれである中村勝弘社長（2017年現在は会長）の愛犬をモチーフとしている\[22\]。
 
 ## 出典
 
@@ -99,5 +101,6 @@
 17.
 18.
 19.
-20. [サンワドーカードをお持ちのお客様へ重要なお知らせ](http://www.sanwado.com/news/090202.html) - サンワドー（2009年1月29日）
-21.
+20.
+21. [サンワドーカードをお持ちのお客様へ重要なお知らせ](http://www.sanwado.com/news/090202.html) - サンワドー（2009年1月29日）
+22.

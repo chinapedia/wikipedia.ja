@@ -16,7 +16,7 @@
 
 土日を中心に、不定期ながら[北海道日本ハムファイターズ](../Page/北海道日本ハムファイターズ.md "wikilink")および[コンサドーレ札幌の](https://ja.wikipedia.org/wiki/北海道コンサドーレ札幌 "wikilink")[スタジアムDJ](../Page/スタジアムDJ.md "wikilink")を務めることがある。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[HBCテレビで](../Page/北海道放送.md "wikilink")『[Hana\*テレビ](../Page/Hana*テレビ.md "wikilink")』の後番組である『[グッチーの 今日ドキッ\!](https://ja.wikipedia.org/wiki/グッチーの_今日ドキッ! "wikilink")』のキャスターを担当している。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月29日](../Page/3月29日.md "wikilink")から[HBCテレビで](../Page/北海道放送.md "wikilink")『[Hana\*テレビ](../Page/Hana*テレビ.md "wikilink")』の後番組である『グッチーの 今日ドキッ\!』→『[今日ドキッ\!](https://ja.wikipedia.org/wiki/今日ドキッ! "wikilink")』のキャスターを担当している。
 
 ## 担当番組
 

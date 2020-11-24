@@ -23,7 +23,7 @@
 
 ## テーマ曲
 
-  - [森高千里](../Page/森高千里.md "wikilink")「[あるOLの青春〜A子の場合〜](https://ja.wikipedia.org/wiki/古今東西_\(森高千里のアルバム\) "wikilink")」
+  - [森高千里](../Page/森高千里.md "wikilink")「[あるOLの青春〜A子の場合〜](https://ja.wikipedia.org/wiki/古今東西_\(森高千里のアルバム\) "wikilink")」(森高コネクション)
 
 ## 放送時間
 

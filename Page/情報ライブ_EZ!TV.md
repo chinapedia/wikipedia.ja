@@ -1,7 +1,7 @@
 > この記事は[情報ライブ EZ!TV](https://ja.wikipedia.org/wiki/情報ライブ_EZ!TV)から翻訳されています。
 
 
-『**EZ\!TV**』（イージー・ティーヴィー）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2001年4月1日から2005年9月18日まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビの共同制作](../Page/関西テレビ放送.md "wikilink")。[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")（[デジタル放送のみ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")）・[ステレオ放送](../Page/ステレオ放送.md "wikilink")。2004年10月以降は『情報ライブEZ\!TV』（じょうほうらいぶ イージー・ティーヴィー）として放送した。
+『**EZ\!TV**』（イージー・ティーヴィー）は、[フジテレビ系列で](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")2001年4月1日から2005年9月18日まで、毎週[日曜日](../Page/日曜日.md "wikilink")22:00 - 23:15（[JST](../Page/日本標準時.md "wikilink")）に[生放送](../Page/生放送.md "wikilink")された[情報番組](https://ja.wikipedia.org/wiki/情報番組 "wikilink")。フジテレビと[関西テレビの共同制作](../Page/関西テレビ放送.md "wikilink")。[デジタルハイビジョン](https://ja.wikipedia.org/wiki/デジタルハイビジョン "wikilink")（[デジタル放送のみ](https://ja.wikipedia.org/wiki/地上デジタルテレビジョン放送 "wikilink")）・[ステレオ放送](../Page/ステレオ放送.md "wikilink")。2004年10月以降は『**情報ライブ EZ\!TV**』（じょうほうらいぶ イージー・ティーヴィー）として放送した。
 
 ## 概要
 
@@ -19,7 +19,7 @@
 
 放送開始当初から、番組の前半部筆頭は関西テレビ製作枠から15年以上[スポンサー](../Page/スポンサー.md "wikilink")である[KINCHO](../Page/大日本除虫菊.md "wikilink")\[4\]があったが、途中でスポンサーを降りている（後継は[TOYOTA](https://ja.wikipedia.org/wiki/トヨタ自動車 "wikilink")）。以降、関西テレビは時間帯問わずKINCHOを[スポット枠で](../Page/スポットCM.md "wikilink")[テレビCM](https://ja.wikipedia.org/wiki/テレビCM "wikilink")を流すようにしている。
 
-[2005年](../Page/2005年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")の放送をもって終了。同年[10月2日](../Page/10月2日.md "wikilink")から後番組として生放送の情報番組『**[週刊人物ライブ スタ☆メン](../Page/スタ☆メン.md "wikilink")**』がスタート。『スタ☆メン』の司会は、[阿川佐和子](../Page/阿川佐和子.md "wikilink")と[爆笑問題](../Page/爆笑問題.md "wikilink")が担当した。
+[2005年](../Page/2005年.md "wikilink")[9月18日](../Page/9月18日.md "wikilink")をもって放送終了。なお小島はその前月に第1子の妊娠を公表している。同年[10月2日](../Page/10月2日.md "wikilink")からは後番組として『**[週刊人物ライブ スタ☆メン](../Page/スタ☆メン.md "wikilink")**』がスタート。
 
 ## 出演者
 
@@ -183,6 +183,6 @@
 2.
 3.  2005年7月からは番組タイトル以外は流れない日が多くなった
 4.  『[三枝の爆笑美女対談](../Page/三枝の爆笑美女対談.md "wikilink")』の後期の複数社の1社から始まり、『[スターご勝手対談](../Page/スターご勝手対談.md "wikilink")』から10年以上1社提供、前番組『スーパーナイト』同様前半筆頭を担当。
-5.  2003年3月まで『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』メイン司会と兼務。2016年2月現在[噂の東京マガジン](https://ja.wikipedia.org/wiki/噂の東京マガジン "wikilink")（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）で共演中。
+5.  2003年3月まで『[めざましテレビ](https://ja.wikipedia.org/wiki/めざましテレビ "wikilink")』メイン司会と兼務。2007年4月より『[噂の\!東京マガジン](../Page/噂の!東京マガジン.md "wikilink")』（[TBSテレビ](../Page/TBSテレビ.md "wikilink")）で森本と共演中。
 6.  『[FNNレインボー発](https://ja.wikipedia.org/wiki/FNNレインボー発 "wikilink")』、土曜日の『ニュースJAPAN WEEKEND』と兼務。
 7.  『[FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")』、『FNNレインボー発』と兼務。

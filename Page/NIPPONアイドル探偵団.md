@@ -164,7 +164,7 @@ __NOTOC__
 3.  [奥菜恵](https://ja.wikipedia.org/wiki/奥菜恵 "wikilink")
 4.  榎本加奈子
 5.  酒井美紀
-6.  [松本恵](https://ja.wikipedia.org/wiki/松本恵 "wikilink")（現:[松本莉緒](../Page/松本莉緒.md "wikilink")）
+6.  [松本恵](../Page/松本莉緒.md "wikilink")
 7.  ともさかりえ
 8.  [遠藤久美子](https://ja.wikipedia.org/wiki/遠藤久美子 "wikilink")
 9.  [佐藤藍子](https://ja.wikipedia.org/wiki/佐藤藍子 "wikilink")
@@ -174,7 +174,7 @@ __NOTOC__
 
 1.  榎本加奈子
 2.  広末涼子
-3.  松本恵（松本莉緒）
+3.  松本恵
 4.  奥菜恵
 5.  深田恭子
 6.  木村佳乃
@@ -190,7 +190,7 @@ __NOTOC__
 3.  [加藤あい](https://ja.wikipedia.org/wiki/加藤あい "wikilink")
 4.  松嶋菜々子
 5.  藤原紀香
-6.  鈴木あみ（現:[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")）
+6.  [鈴木あみ](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")
 7.  [本上まなみ](https://ja.wikipedia.org/wiki/本上まなみ "wikilink")
 8.  [田中麗奈](https://ja.wikipedia.org/wiki/田中麗奈 "wikilink")
 9.  [優香](../Page/優香.md "wikilink")
@@ -206,7 +206,7 @@ __NOTOC__
 6.  優香
 7.  田中麗奈
 8.  [後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")
-9.  鈴木あみ（鈴木亜美）
+9.  鈴木あみ
 10. [竹内結子](https://ja.wikipedia.org/wiki/竹内結子 "wikilink")
 
 ### 2002年
@@ -243,7 +243,7 @@ __NOTOC__
 2.  上戸彩／矢田亜希子 　　
 3.  [石原さとみ](../Page/石原さとみ.md "wikilink")／上戸彩
 4.  宮崎あおい／仲間由紀恵
-5.  [ミムラ](https://ja.wikipedia.org/wiki/ミムラ_\(女優\) "wikilink")／竹内結子
+5.  [ミムラ](../Page/美村里江.md "wikilink")／竹内結子
 6.  松浦亜弥／深田恭子
 7.  [長澤まさみ](https://ja.wikipedia.org/wiki/長澤まさみ "wikilink")／石原さとみ
 8.  [加藤夏希](https://ja.wikipedia.org/wiki/加藤夏希 "wikilink")／宮崎あおい

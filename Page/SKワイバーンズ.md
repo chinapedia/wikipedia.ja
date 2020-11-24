@@ -1,7 +1,7 @@
 > この記事は[SKワイバーンズ](https://ja.wikipedia.org/wiki/SKワイバーンズ)から翻訳されています。
 
 
-**SKワイバーンズ**（エスケー・ワイバーンズ、[韓国語](https://ja.wikipedia.org/wiki/韓国語 "wikilink"):에스케이 와이번스、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[大韓民国](../Page/大韓民国.md "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。
+**SKワイバーンズ**（エスケー・ワイバーンズ、[韓国語](../Page/朝鮮語.md "wikilink"):에스케이 와이번스、[英語](../Page/英語.md "wikilink"): SK Wyverns）は、[KBOリーグ](https://ja.wikipedia.org/wiki/KBOリーグ "wikilink")に所属する[大韓民国](../Page/大韓民国.md "wikilink")の[プロ野球](../Page/プロ野球.md "wikilink")チームである。[ホームタウン](../Page/ホームタウン.md "wikilink")は[仁川広域市](../Page/仁川広域市.md "wikilink")。同市内の[仁川SK Happy Dreamパークを](../Page/文鶴野球場.md "wikilink")[本拠地](https://ja.wikipedia.org/wiki/本拠地 "wikilink")とする。
 
 ## 概要
 
@@ -52,7 +52,7 @@
 
 **2019年**はレギュラーシーズンを終え斗山と同じ勝率で並ぶが、直接対決で負け越していたため2位扱いとなり、ポストシーズンはプレーオフから出場すると[キウム・ヒーローズ](../Page/キウム・ヒーローズ.md "wikilink")に敗れた。
 
-**2020年**は[COVID-19の影響でシーズン開始が大幅に遅れる](https://ja.wikipedia.org/wiki/新型コロナウイルス感染症_\(2019年\) "wikilink")。6月25日の試合中、廉京燁監督が突然失神し、緊急搬送された。廉京燁の治療の間、[朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")が監督代行を務め、廉京燁監督は9月1日より復帰するも健康状態が思わしくないため、9月8日より同年シーズンの残り試合は朴勍完が再び監督代行を務めている。
+**2020年**は成績が低迷し、6月25日の試合中、廉京燁監督が突然失神し、緊急搬送された。廉京燁の治療の間、[朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")が監督代行を務め、廉京燁監督は9月1日より復帰するも健康状態が思わしくないため、9月8日より同年シーズンの残り試合は朴勍完が再び監督代行を務め、球団史上最低の9位で4年ぶりにポストシーズン進出に失敗した。10月30日、廉京燁監督が辞任、11月6日、[金圓衡](../Page/金圓衡.md "wikilink")が監督に就任した。
 
 ## 歴代監督
 
@@ -62,8 +62,9 @@
   - [李萬洙](../Page/李萬洙.md "wikilink")（イ・マンス、2011途中から終了まで : 監督代行　2012 - 2014：監督）
   - [金用煕](https://ja.wikipedia.org/wiki/金用煕 "wikilink")（キム・ヨンヒ、2015 - 2016）
   - [トレイ・ヒルマン](../Page/トレイ・ヒルマン.md "wikilink")（2017 - 2018）
-  - [廉京燁](../Page/廉京燁.md "wikilink")（ヨム・ギョンヨプ、2019 - ）
+  - [廉京燁](../Page/廉京燁.md "wikilink")（ヨム・ギョンヨプ、2019 - 2020）
       - [朴勍完](https://ja.wikipedia.org/wiki/朴勍完 "wikilink")（パク・キョンワン、2020途中から監督代行）
+  - [金圓衡](../Page/金圓衡.md "wikilink")（キム・ウォニョン、2021 - ）
 
 ## 主な在籍選手
 
@@ -71,13 +72,13 @@
 
 <div style="float: left; vertical-align: top; white-space: nowrap; margin-right: 1em;">
 
-  - 10 [金勢玹](https://ja.wikipedia.org/wiki/金勢ヒョン "wikilink")（キム・セヒョン）
+  - 10 [金勢玹](https://ja.wikipedia.org/wiki/金勢玹 "wikilink")（キム・セヒョン）
   - 13 [河載勲](https://ja.wikipedia.org/wiki/河載勲 "wikilink")（ハ・ジェフン）
   - 17 [李太陽](https://ja.wikipedia.org/wiki/李太陽 "wikilink")（イ・テヤン）
   - 23 [李建郁](https://ja.wikipedia.org/wiki/李建郁 "wikilink")（イ・ゴンウク）
-  - 35 [リカルド・ピント](https://ja.wikipedia.org/wiki/リカルド・ピント "wikilink")
-  - 47 [朴熙洙](https://ja.wikipedia.org/wiki/朴熙洙 "wikilink")（パク・ヒス）
+  - 34 [アーティー・ルウィキ](https://ja.wikipedia.org/wiki/アーティー・ルウィキ "wikilink")
   - 50 [朴鐘勲](https://ja.wikipedia.org/wiki/朴鐘勲 "wikilink")（パク・チョンフン）
+  - 63 [ウィルマー・フォント](https://ja.wikipedia.org/wiki/ウィルマー・フォント "wikilink")
 
 </div>
 
@@ -92,7 +93,6 @@
 
   - 4 [崔恒](https://ja.wikipedia.org/wiki/崔恒 "wikilink")（チェ・ハン）
   - 14 [崔廷](https://ja.wikipedia.org/wiki/崔廷 "wikilink")（チェ・ジョン）
-  - 15 [タイラー・ホワイト](https://ja.wikipedia.org/wiki/タイラー・ホワイト "wikilink")
   - 27 [ジェイミー・ロマック](https://ja.wikipedia.org/wiki/ジェイミー・ロマック "wikilink")
 
 </div>
@@ -148,6 +148,7 @@
   - [ホセ・フェルナンデス](../Page/ホセ・フェルナンデス_\(1974年生の内野手\).md "wikilink")（2002） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
   - [ジョニー・ラフィン](../Page/ジョニー・ラフィン.md "wikilink")（2002） - 元[大阪近鉄バファローズ](../Page/大阪近鉄バファローズ.md "wikilink")
   - [エディ・ディアス](../Page/エディ・ディアス.md "wikilink")（2003） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
+  - [ネルソン・クルーズ](../Page/ネルソン・クルーズ_\(投手\).md "wikilink")（2005)
   - [塩谷和彦](../Page/塩谷和彦.md "wikilink")（2006） - 元[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")
   - [ケニー・レイボーン](../Page/ケニー・レイボーン.md "wikilink")（2007-2008） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
   - [マイク・ロマノ](../Page/マイク・ロマノ.md "wikilink")（2007） - 元[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")
@@ -174,6 +175,7 @@
   - [ヘンリー・ソーサ](https://ja.wikipedia.org/wiki/ヘンリー・ソーサ "wikilink")（2019）
   - [エンジェル・サンチェス](../Page/エンジェル・サンチェス.md "wikilink") (2018-2019) - 現[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")
   - [ニック・キンガム](https://ja.wikipedia.org/wiki/ニック・キンガム "wikilink")（2020）
+  - [タイラー・ホワイト](https://ja.wikipedia.org/wiki/タイラー・ホワイト "wikilink")（2020）
 
 ### 在日韓国人選手
 

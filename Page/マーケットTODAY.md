@@ -88,7 +88,7 @@
       -
         当番組水曜前場キャスターの和島英樹記者による[連載小説](https://ja.wikipedia.org/wiki/連載小説 "wikilink")。
 
-[Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink") [Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink") [Category:株式市場](https://ja.wikipedia.org/wiki/Category:株式市場 "wikilink")
+[Category:ラジオNIKKEIの番組](https://ja.wikipedia.org/wiki/Category:ラジオNIKKEIの番組 "wikilink") [Category:ラジオのニュース・報道番組](https://ja.wikipedia.org/wiki/Category:ラジオのニュース・報道番組 "wikilink") [Category:経済を題材としたテレビ番組](https://ja.wikipedia.org/wiki/Category:経済を題材としたテレビ番組 "wikilink") [Category:株式市場](https://ja.wikipedia.org/wiki/Category:株式市場 "wikilink")
 
 1.  2004年4月にラジオNIKKEIに改称。
 2.  但し、出演者は一部重複している。

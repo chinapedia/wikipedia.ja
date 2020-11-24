@@ -167,6 +167,10 @@
   -
 ## 脚注
 
+## 外部リンク
+
+  -
+  -
 [Category:ロバート・E・ハワード](https://ja.wikipedia.org/wiki/Category:ロバート・E・ハワード "wikilink") [Category:アメリカ合衆国のSF作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF作家 "wikilink") [Category:アメリカ合衆国のファンタジー作家](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のファンタジー作家 "wikilink") [Category:テキサス州パーカー郡出身の人物](https://ja.wikipedia.org/wiki/Category:テキサス州パーカー郡出身の人物 "wikilink") [Category:自殺した人物](https://ja.wikipedia.org/wiki/Category:自殺した人物 "wikilink") [Category:1906年生](https://ja.wikipedia.org/wiki/Category:1906年生 "wikilink") [Category:1936年没](https://ja.wikipedia.org/wiki/Category:1936年没 "wikilink")
 
 1.  Charles Gramlich, "The Greenwood Encyclopedia of Science Fiction and Fantasy", *volume 2 p.99*, 2005 ISBN 0-313-32952-4

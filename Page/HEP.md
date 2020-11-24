@@ -9,7 +9,7 @@
 
 「HEP FIVE」の前身は、[阪急不動産](https://ja.wikipedia.org/wiki/阪急不動産 "wikilink")、[オーエス](../Page/オーエス.md "wikilink")、[東宝](../Page/東宝.md "wikilink")、[コマ・スタジアム](https://ja.wikipedia.org/wiki/コマ・スタジアム "wikilink")、[阪急電鉄](../Page/阪急電鉄.md "wikilink")の5社によって設立された(株)阪急ファイブにより\[1\]、[1971年](https://ja.wikipedia.org/wiki/1971年 "wikilink")（昭和46年）12月3日に「**阪急ファイブ**」（梅田阪急会館）として開業した商業施設である\[2\]。
 
-「HEP NAVIO」は、[阪急交通社](../Page/阪急交通社.md "wikilink")の前身となる阪急航空ビルと、東宝系の北野劇場・梅田劇場・梅田スカラ座の入る梅田東宝会館\[3\]を解体した跡地に[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月24日\[4\]、地下2階、地上10階建の「**ナビオ阪急**」（梅田阪急東宝会館）として開業\[5\]。以来、[阪急百貨店うめだ本店](https://ja.wikipedia.org/wiki/阪急百貨店うめだ本店 "wikilink")、[阪急三番街](../Page/阪急三番街.md "wikilink")、[阪急32番街](../Page/阪急32番街.md "wikilink")などと共に、阪急系列の商業施設（[阪急村](../Page/阪急村.md "wikilink")）の中核を担ってきた。開業当初は店舗数120、最上階に1000席ある3つの大劇場（北野劇場・梅田劇場・梅田スカラ座）を配置し、3階にはナビオ美術館（2007年10月28日閉館）も併設していた。
+「HEP NAVIO」は、[阪急交通社](../Page/阪急交通社.md "wikilink")の前身となる阪急航空ビルと、東宝系の[北野劇場](https://ja.wikipedia.org/wiki/北野劇場 "wikilink")・[梅田劇場](https://ja.wikipedia.org/wiki/梅田劇場 "wikilink")・梅田スカラ座の入る梅田東宝会館\[3\]を解体した跡地に[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")（昭和55年）10月24日\[4\]、地下2階、地上10階建の「**ナビオ阪急**」（梅田阪急東宝会館）として開業\[5\]。以来、[阪急百貨店うめだ本店](https://ja.wikipedia.org/wiki/阪急百貨店うめだ本店 "wikilink")、[阪急三番街](../Page/阪急三番街.md "wikilink")、[阪急32番街](../Page/阪急32番街.md "wikilink")などと共に、阪急系列の商業施設（[阪急村](../Page/阪急村.md "wikilink")）の中核を担ってきた。開業当初は店舗数120、最上階に1000席ある3つの大劇場（北野劇場・梅田劇場・梅田スカラ座）を配置し、3階にはナビオ美術館（2007年10月28日閉館）も併設していた。
 
 [1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")（平成10年）10月22日、阪急ファイブとナビオ阪急を一体化する戦略が発表され、阪急ファイブは「HEP FIVE」、ナビオ阪急は「HEP NAVIO」と改称。これに伴い、HEP FIVEに観覧車を設置するなど、全館で大幅な改装が行われた。
 

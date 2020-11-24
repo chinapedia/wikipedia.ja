@@ -51,10 +51,13 @@ LZR RACERは[アメリカ航空宇宙局](../Page/アメリカ航空宇宙局.md
 
 ## 外部リンク
 
-  - [SPEEDO公式サイト（日本語版）](http://www.speedo.jp/)
-  - [SPEEDO AQUA LAB(スピードインターナショナル、英語サイト)](http://www.speedoaqualab.com/)
-  - [iriverとのコラボレーション「Speedo Aquabeat」製品情報ページ](http://www.iriver.co.jp/product/speedo/aquabeat/)
+  - [Speedo - スピードブランドサイト](https://www.goldwin.co.jp/speedo/)
 
+  - [Speedo](https://www.speedo.com/)
+
+  -
+  -
+  -
 [Category:水着](https://ja.wikipedia.org/wiki/Category:水着 "wikilink") [Category:イギリスのスポーツ用品メーカー](https://ja.wikipedia.org/wiki/Category:イギリスのスポーツ用品メーカー "wikilink") [Category:イングランドの企業](https://ja.wikipedia.org/wiki/Category:イングランドの企業 "wikilink") [Category:1914年設立の企業](https://ja.wikipedia.org/wiki/Category:1914年設立の企業 "wikilink") [Category:イギリスのブランド](https://ja.wikipedia.org/wiki/Category:イギリスのブランド "wikilink") [Category:ノッティンガム](https://ja.wikipedia.org/wiki/Category:ノッティンガム "wikilink") [Category:オーストラリアのブランド](https://ja.wikipedia.org/wiki/Category:オーストラリアのブランド "wikilink") [Category:1980年代の日本](https://ja.wikipedia.org/wiki/Category:1980年代の日本 "wikilink") [Category:ミズノ](https://ja.wikipedia.org/wiki/Category:ミズノ "wikilink") [Category:三井物産の歴史](https://ja.wikipedia.org/wiki/Category:三井物産の歴史 "wikilink")
 
 1.  [競泳水着“後発”ミズノが攻勢…「レーザー・レーサー」騒動で“実力”発揮 2ページ目](https://www.sankei.com/west/news/130901/wst1309010062-n2.html) - 産経新聞、2018年5月25日閲覧

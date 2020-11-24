@@ -7,7 +7,7 @@
 
 本業は[ゲーム](../Page/ゲーム.md "wikilink")会社の[プログラマ](../Page/プログラマ.md "wikilink")として勤務している。その傍ら**森林林檎**（もりばやし りんご）、あるいは**森林りんご**名義で、商業誌・[同人誌](../Page/同人誌.md "wikilink")問わず様々な媒体で[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")・[イラストを手がける](../Page/イラストレーション.md "wikilink")。漫画は、[大友克洋](../Page/大友克洋.md "wikilink")を意識した劇画調の背景・メカと、[萌え絵](../Page/萌え絵.md "wikilink")的な美少女を組み合わせた、個性的な画風である。ちなみにWoody-Rinnは、森林りんご名義の漫画作品「RINNちゃんの事件簿」に登場する、主人公の美少女ロボットの名前でもある。
 
-[オンラインソフトウェア](../Page/オンラインソフトウェア.md "wikilink")作家でもあり、特に[MS-DOS](../Page/MS-DOS.md "wikilink")・[パソコン通信](../Page/パソコン通信.md "wikilink")時代には画像ファイルフォーマット「MAKI」「[MAG](../Page/MAGフォーマット.md "wikilink")」や、[グラフィックソフト](../Page/グラフィックソフトウェア.md "wikilink")「鮪ペイント」などを手がけた。MAGは16色画像ファイルの標準フォーマットとなり、鮪ペイントは後に改良が加えられ、「\[ルチペイント」として市販された。また現在でも[Windows用のオンラインソフトや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[blogツール](../Page/ブログ.md "wikilink")「rNote」を開発している。
+[オンラインソフトウェア](../Page/オンラインソフトウェア.md "wikilink")作家でもあり、特に[MS-DOS](../Page/MS-DOS.md "wikilink")・[パソコン通信](../Page/パソコン通信.md "wikilink")時代には画像ファイルフォーマット「MAKI」「[MAG](../Page/MAGフォーマット.md "wikilink")」や、[グラフィックソフト](../Page/グラフィックソフトウェア.md "wikilink")「鮪ペイント」などを手がけた。MAGは16色画像ファイルの標準フォーマットとなり、鮪ペイントは後に改良が加えられ、「マルチペイント」として市販された。また現在でも[Windows用のオンラインソフトや](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")[blogツール](../Page/ブログ.md "wikilink")「rNote」を開発している。
 
 DOS時代のプログラムの開発には[Pascal](../Page/Pascal.md "wikilink")を愛用していた。マルチペイントは[Turbo Pascalで開発されている](../Page/Turbo_Pascal.md "wikilink")。
 

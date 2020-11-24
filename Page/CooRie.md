@@ -106,7 +106,8 @@
 | 3rd | [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[1月23日](https://ja.wikipedia.org/wiki/1月23日 "wikilink") | **[旋律のフレア](../Page/旋律のフレア.md "wikilink")**                                            | LHCA-5075  | 78位  |
 | 4th | [2009年](../Page/2009年.md "wikilink")[10月21日](../Page/10月21日.md "wikilink")                                     | **[Imagination Market](https://ja.wikipedia.org/wiki/Imagination_Market "wikilink")** | LHCA-5111  | 172位 |
 | 5th | [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[10月20日](../Page/10月20日.md "wikilink")                  | **[Heavenly Days](https://ja.wikipedia.org/wiki/Heavenly_Days "wikilink")**           | LHCA-5121  | 160位 |
-| 6th | [2017年](../Page/2017年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")                                     | **セツナポップに焦がされて**                                                                      | LACA-15668 |      |
+| 6th | [2017年](../Page/2017年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")                                     | **セツナポップに焦がされて**                                                                      | LACA-15668 | 圏外   |
+| 7th | [2020年](../Page/2020年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")                                       | **NATURAL7**                                                                          | LACA-15827 | 252位 |
 
 #### ベストアルバム
 
@@ -120,7 +121,7 @@
 | -------------------------------------------------------------------------- | ------------------------------------------------ | ---------- | ---- |
 | [2005年](../Page/2005年.md "wikilink")[3月24日](../Page/3月24日.md "wikilink")   | **[木漏れ日カレンダー](../Page/木漏れ日カレンダー.md "wikilink")** | LHCA-5005  | 140位 |
 | [2013年](../Page/2013年.md "wikilink")[12月18日](../Page/12月18日.md "wikilink") | **melodium**                                     | LACA-15363 | 224位 |
-| [2015年](../Page/2015年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")   | **melodium2**                                    | LACA-15532 |      |
+| [2015年](../Page/2015年.md "wikilink")[12月9日](../Page/12月9日.md "wikilink")   | **melodium2**                                    | LACA-15532 | 294位 |
 
 ### コンピレーション
 

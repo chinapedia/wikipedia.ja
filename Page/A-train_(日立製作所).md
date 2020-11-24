@@ -65,7 +65,7 @@
       - [福岡市交通局](../Page/福岡市交通局.md "wikilink")
           - [3000系電車](../Page/福岡市交通局3000系電車.md "wikilink")
 
-ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Kyushu Railway - Series 885 - 01.JPG|JR九州885系 ファイル:Seibu30000 32103F+38105F hokushin.jpg|西武30000系 |東武50090系 ファイル:Hankyu 9301 at Ibaraki-shi Station.JPG|阪急9300系 ファイル:Tokyo metro 10000 series toyoko line.JPG|東京メトロ10000系
+ファイル:JR HOKKAIDO EC735 A-101 TRAIN.jpg|JR北海道735系 ファイル:JR East E257-through type Limited Express Kaiji.jpg|JR東日本E257系 ファイル:リニューアル工事施工車（非貫通型）.jpg|JR西日本683系 ファイル:JR Kyushu 815.jpg|JR九州815系 ファイル:Series885-0-Kagoshima-Line.jpg|JR九州885系 ファイル:Seibu-Railway Series30000.jpg|西武30000系 ファイル:Tobu-Tojo-Line-Series51009F.jpg|東武50000系 ファイル:Tobu-TojoLine-Series-Metro10000.jpg|東京メトロ10000系 ファイル:Sagami-Railway-Series20000.jpg|相模鉄道20000系 ファイル:Hankyu-Series9300-Kyoto-Line.jpg|阪急9300系 ファイル:Metropolitan Intercity Railway TX-1000.JPG|首都圏新都市鉄道TX-1000系 ファイル:Toyo210432T.jpg|東葉高速鉄道2000系 ファイル:N3000形電車.jpg|名古屋市交通局N3000形 ファイル:Fukuoka city subway emu3000.jpg|福岡市交通局3000系
 
 ## A-trainの採用例（日本国外）
 

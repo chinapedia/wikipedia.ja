@@ -164,6 +164,7 @@
   - [KTVニュース](../Page/KTVニュース.md "wikilink")（年始版 夕方のニュースのみ）
   - [FNNスーパーニュース](../Page/FNNスーパーニュース.md "wikilink")（平日版）
   - [FNNスーパーニュースWEEKEND](https://ja.wikipedia.org/wiki/FNNスーパーニュースWEEKEND "wikilink")（週末版）
+  - [都啓一](../Page/都啓一.md "wikilink") - テーマ音楽を担当する。
 
 [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:FNNスーパーニュース](https://ja.wikipedia.org/wiki/Category:FNNスーパーニュース "wikilink") [Category:関西テレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:関西テレビの帯番組の歴史 "wikilink") [Category:近畿地方のテレビのニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:近畿地方のテレビのニュース・報道番組の歴史 "wikilink")
 

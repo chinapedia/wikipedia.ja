@@ -50,19 +50,12 @@ BM-Iが発売された[1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink"
 ## 外部リンク
 
   - [ハイパー道楽](https://www.hyperdouraku.com)
-
-:\* [2013.07.25/レトロGUN 「JAC バトル・マスター」](https://www.hyperdouraku.com/blog/2013/07/25/rg-jac_battlemaster/)
-
-:\* [2016.08.04/レトロGUN 「JAC　スターリングL2A3(BM-II)」](https://www.hyperdouraku.com/blog/2016/08/04/retro_gun11-08/)
-
+      - [2013.07.25/レトロGUN 「JAC バトル・マスター」](https://www.hyperdouraku.com/blog/2013/07/25/rg-jac_battlemaster/)
+      - [2016.08.04/レトロGUN 「JAC　スターリングL2A3(BM-II)」](https://www.hyperdouraku.com/blog/2016/08/04/retro_gun11-08/)
   - [零五型＞80年代サバゲ昔話](https://k890227050505.militaryblog.jp/c32823.html)
-
-:\* [2016年07月24日|「JACバトルマスター」](https://k890227050505.militaryblog.jp/e784219.html)
-
-:\* [2016年08月07日|「エアタンクを捨てる」](https://k890227050505.militaryblog.jp/e788435.html)
-
-:\* [2016年08月13日|「ブッシュマスターウルトラカスタム」](https://k890227050505.militaryblog.jp/e790021.html)
-
+      - [2016年07月24日|「JACバトルマスター」](https://k890227050505.militaryblog.jp/e784219.html)
+      - [2016年08月07日|「エアタンクを捨てる」](https://k890227050505.militaryblog.jp/e788435.html)
+      - [2016年08月13日|「ブッシュマスターウルトラカスタム」](https://k890227050505.militaryblog.jp/e790021.html)
   - [GUNs & MOVIE LVER|2016-04-19|JAC バトルマスター](https://ameblo.jp/colt45automatic/entry-12517489017.html)
   - [みりさば＞栄光なき名銃たち＞BattleMaster わずかひと夏の栄光](http://www.ne.jp/asahi/mili/surva/meijuu/bm1.html)
 

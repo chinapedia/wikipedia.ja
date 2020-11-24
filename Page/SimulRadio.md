@@ -25,7 +25,7 @@
       - [Linuxディストリビューション](../Page/Linuxディストリビューション.md "wikilink")のWebブラウザ（[Firefox](https://ja.wikipedia.org/wiki/Firefox "wikilink")など）でも聴取は可能。WMA互換のメディアプレイヤーとそのプラグインを利用する形になる（両者の組み合わせ次第では一部の局で再生不可になる事も）。
   - [W-ZERO3](../Page/W-ZERO3.md "wikilink")（[ウィルコム](../Page/ウィルコム.md "wikilink")） - [W+Radio](https://ja.wikipedia.org/wiki/W+Radio "wikilink")を起動することで、SimulRadioで聴取可能なほとんどの局の利用が可能。
   - [iOS](https://ja.wikipedia.org/wiki/iOS_\(アップル\) "wikilink")（[iPhone](https://ja.wikipedia.org/wiki/iPhone "wikilink")、[iPod touch](https://ja.wikipedia.org/wiki/iPod_touch "wikilink")） - CSRA公式の専用アプリ「コミュニティFM for iPhone （i-コミュラジ）」（有料）をダウンロードする必要がある（一部対象局のみ）。また、無料のインターネットラジオ聴取アプリ「TuneIn Radio」または「[Fstream](https://ja.wikipedia.org/wiki/Fstream "wikilink")」など各種非公式アプリを使用しての聴取も可能\[3\]。
-  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") - 無料のインターネットラジオ聴取アプリ「TuneIn Radio」など各種非公式アプリを使用しての聴取が可能。専用アプリ「SimulRadio for Android」は遅くとも2014年12月にほぼ全局のサービスが終了している。
+  - [Android](../Page/Android_\(オペレーティングシステム\).md "wikilink") - 無料のインターネットラジオ聴取アプリ「TuneIn Radio」など各種非公式アプリを使用しての聴取が可能。専用アプリ「SimulRadio for Android」は遅くとも2014年12月にほぼ全局のサービスが終了している。一部の[セットトップボックス](../Page/セットトップボックス.md "wikilink")（STB）と接続したテレビ受像機で視聴可能である。
 
 いずれの方法も、都道府県域の民放ラジオ局で実施されている「[radiko](https://ja.wikipedia.org/wiki/radiko "wikilink")」とは異なり、聴取エリアの制限はなく、全国および全世界で無料で（通信料のみで）利用できる。
 
@@ -517,6 +517,14 @@ FMドラマシティ</a>★</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/Tokyo_Star_Radio" title="wikilink">八王子エフエム</a></p></td>
+<td><p>東京都<a href="https://ja.wikipedia.org/wiki/八王子市" title="wikilink">八王子市</a></p></td>
+<td><p><span style="display:none">20171001</span>2017年10月1日</p></td>
+<td><p>-</p></td>
+<td><p>△</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム戸塚" title="wikilink">FM戸塚</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/神奈川県" title="wikilink">神奈川県</a><a href="../Page/横浜市.md" title="wikilink">横浜市</a><a href="https://ja.wikipedia.org/wiki/戸塚区" title="wikilink">戸塚区</a></p></td>
 <td><p><span style="display:none">20101010</span>2010年10月10日</p></td>
@@ -524,7 +532,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/かわさき市民放送.md" title="wikilink">かわさきFM</a></p></td>
 <td><p>神奈川県<a href="../Page/川崎市.md" title="wikilink">川崎市</a><a href="https://ja.wikipedia.org/wiki/中原区" title="wikilink">中原区</a></p></td>
 <td><p><span style="display:none">20100801</span>2010年8月1日</p></td>
@@ -532,7 +540,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエムさがみ.md" title="wikilink">エフエムさがみ</a>★</p></td>
 <td><p>神奈川県<a href="../Page/相模原市.md" title="wikilink">相模原市</a><a href="https://ja.wikipedia.org/wiki/中央区_(相模原市)" title="wikilink">中央区</a></p></td>
 <td><p><span style="display:none">20110701</span>2011年7月1日</p></td>
@@ -540,7 +548,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/藤沢エフエム放送.md" title="wikilink">レディオ湘南</a></p></td>
 <td><p>神奈川県<a href="../Page/藤沢市.md" title="wikilink">藤沢市</a></p></td>
 <td><p><span style="display:none">20080619</span>2008年6月19日</p></td>
@@ -548,7 +556,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/逗子・葉山コミュニティ放送.md" title="wikilink">湘南ビーチFM</a></p></td>
 <td><p>神奈川県<a href="https://ja.wikipedia.org/wiki/逗子市" title="wikilink">逗子市</a></p></td>
 <td><p><span style="display:none">20050401</span>2005年4月1日</p></td>
@@ -556,7 +564,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/大和ラジオ放送.md" title="wikilink">FMやまと</a></p></td>
 <td><p>神奈川県<a href="../Page/大和市.md" title="wikilink">大和市</a></p></td>
 <td><p><span style="display:none">20100901</span>2010年9月1日</p></td>
@@ -564,7 +572,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/海老名エフエム放送" title="wikilink">FM kaon</a></p></td>
 <td><p>神奈川県<a href="../Page/海老名市.md" title="wikilink">海老名市</a></p></td>
 <td><p><span style="display:none">20120702</span>2012年7月2日</p></td>
@@ -572,7 +580,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/たかはぎFM" title="wikilink">たかはぎFM</a></p></td>
 <td><p>茨城県<a href="../Page/高萩市.md" title="wikilink">高萩市</a></p></td>
 <td><p><span style="display:none">20140401</span>2014年4月1日</p></td>
@@ -580,7 +588,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMコミュニティ川口" title="wikilink">FM Kawaguchi</a></p></td>
 <td><p>埼玉県<a href="https://ja.wikipedia.org/wiki/川口市" title="wikilink">川口市</a></p></td>
 <td><p><span style="display:none">20150901</span>2015年9月1日</p></td>
@@ -588,7 +596,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/牛久コミュニティ放送" title="wikilink">FMうしくうれしく放送</a></p></td>
 <td><p>茨城県<a href="../Page/牛久市.md" title="wikilink">牛久市</a></p></td>
 <td><p><span style="display:none">20150928</span>2015年9月28日</p></td>
@@ -596,7 +604,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/東海地方.md" title="wikilink">東海</a></p></td>
 <td><p><a href="../Page/エフエム熱海湯河原.md" title="wikilink">Ciao!</a></p></td>
 <td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a><a href="https://ja.wikipedia.org/wiki/熱海市" title="wikilink">熱海市</a></p></td>
@@ -604,7 +612,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/MID-FM.md" title="wikilink">MID-FM</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a><a href="../Page/名古屋市.md" title="wikilink">名古屋市</a><a href="../Page/中区_(名古屋市).md" title="wikilink">中区</a></p></td>
 <td><p><span style="display:none">20090401</span>2009年4月1日</p></td>
@@ -612,7 +620,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエム岡崎.md" title="wikilink">FMおかざき</a></p></td>
 <td><p>愛知県<a href="../Page/岡崎市.md" title="wikilink">岡崎市</a></p></td>
 <td><p><span style="display:none">20110904</span>2011年9月4日</p></td>
@@ -620,7 +628,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムキャッチ.md" title="wikilink">Pitch FM</a></p></td>
 <td><p>愛知県<a href="../Page/刈谷市.md" title="wikilink">刈谷市</a></p></td>
 <td><p><span style="display:none">20121214</span>2012年12月14日</p></td>
@@ -628,7 +636,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエムとよた.md" title="wikilink">RADIO LOVEAT</a></p></td>
 <td><p>愛知県<a href="https://ja.wikipedia.org/wiki/豊田市" title="wikilink">豊田市</a></p></td>
 <td><p><span style="display:none">20140120</span>2014年1月20日</p></td>
@@ -636,7 +644,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエムよっかいち" title="wikilink">PORT WAVE</a>★</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a><a href="../Page/四日市市.md" title="wikilink">四日市市</a></p></td>
 <td><p><span style="display:none">20080610</span>2008年6月10日</p></td>
@@ -644,7 +652,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/スズカ・ヴォイスFM" title="wikilink">スズカ・ヴォイスFM</a></p></td>
 <td><p>三重県<a href="../Page/鈴鹿市.md" title="wikilink">鈴鹿市</a></p></td>
 <td><p><span style="display:none">20140701</span>2014年7月1日</p></td>
@@ -652,7 +660,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMいずのくに" title="wikilink">FMいずのくに</a>★</p></td>
 <td><p>静岡県<a href="../Page/伊豆の国市.md" title="wikilink">伊豆の国市</a></p></td>
 <td><p><span style="display:none">20140920</span>2014年9月20日[9]</p></td>
@@ -660,7 +668,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/北陸地方.md" title="wikilink">北陸</a></p></td>
 <td><p><a href="../Page/えふえむ・エヌ・ワン.md" title="wikilink">FM-N1</a>★</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a><a href="https://ja.wikipedia.org/wiki/野々市市" title="wikilink">野々市市</a></p></td>
@@ -668,7 +676,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>○</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/敦賀FM放送.md" title="wikilink">ハーバーステーション</a></p></td>
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a><a href="../Page/敦賀市.md" title="wikilink">敦賀市</a></p></td>
 <td><p><span style="display:none">20110404</span>2011年4月4日</p></td>
@@ -676,7 +684,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/新川コミュニティ放送.md" title="wikilink">ラジオ・ミュー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a><a href="../Page/黒部市.md" title="wikilink">黒部市</a></p></td>
 <td><p>[10]</p></td>
@@ -684,7 +692,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/近畿地方" title="wikilink">近畿</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/えふえむ草津" title="wikilink">えふえむ草津</a></p></td>
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a><a href="../Page/草津市.md" title="wikilink">草津市</a></p></td>
@@ -692,7 +700,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td><p>-</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/京都リビングエフエム.md" title="wikilink">京都リビングエフエム</a></p></td>
 <td><p><a href="../Page/京都府.md" title="wikilink">京都府</a><a href="../Page/京都市.md" title="wikilink">京都市</a><a href="../Page/伏見区.md" title="wikilink">伏見区</a></p></td>
 <td><p><span style="display:none">20120109</span>2012年1月9日</p></td>
@@ -700,7 +708,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/京都コミュニティ放送.md" title="wikilink">京都三条ラジオカフェ</a></p></td>
 <td><p>京都府京都市<a href="../Page/中京区.md" title="wikilink">中京区</a></p></td>
 <td><p><span style="display:none">20140401</span>2014年4月1日</p></td>
@@ -708,7 +716,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/京都FM丹波放送.md" title="wikilink">FM丹波</a>★</p></td>
 <td><p>京都府<a href="../Page/福知山市.md" title="wikilink">福知山市</a></p></td>
 <td><p><span style="display:none">20080715</span>2008年7月15日</p></td>
@@ -716,7 +724,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/京丹後コミュニティ放送" title="wikilink">エフエムたんご</a>[11]</p></td>
 <td><p>京都府<a href="../Page/京丹後市.md" title="wikilink">京丹後市</a></p></td>
 <td><p><span style="display:none">20150202</span>2015年2月2日</p></td>
@@ -724,7 +732,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエムちゅうおう.md" title="wikilink">YES-fm</a></p></td>
 <td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a><a href="../Page/大阪市.md" title="wikilink">大阪市</a><a href="../Page/中央区_(大阪市).md" title="wikilink">中央区</a></p></td>
 <td><p><span style="display:none">20111121</span>2011年11月21日</p></td>
@@ -732,7 +740,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムひらかた.md" title="wikilink">FMひらかた</a></p></td>
 <td><p>大阪府<a href="../Page/枚方市.md" title="wikilink">枚方市</a></p></td>
 <td><p><span style="display:none">20091121</span>2009年11月21日</p></td>
@@ -740,7 +748,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/箕面FMまちそだて" title="wikilink">みのおエフエム</a>★</p></td>
 <td><p>大阪府<a href="../Page/箕面市.md" title="wikilink">箕面市</a></p></td>
 <td><p><span style="display:none">20111015</span>2011年10月15日</p></td>
@@ -748,7 +756,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムわいわい.md" title="wikilink">FMわいわい</a></p></td>
 <td><p><a href="../Page/兵庫県.md" title="wikilink">兵庫県</a><a href="../Page/神戸市.md" title="wikilink">神戸市</a><a href="../Page/長田区.md" title="wikilink">長田区</a></p></td>
 <td><p><span style="display:none">20080801</span>2008年8月1日</p></td>
@@ -756,7 +764,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエムムーヴ.md" title="wikilink">FM MOOV KOBE</a></p></td>
 <td><p>兵庫県神戸市<a href="../Page/中央区_(神戸市).md" title="wikilink">中央区</a></p></td>
 <td><p><span style="display:none">20150201</span>2015年2月1日</p></td>
@@ -764,7 +772,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/姫路シティFM21.md" title="wikilink">FM GENKI</a></p></td>
 <td><p>兵庫県<a href="../Page/姫路市.md" title="wikilink">姫路市</a></p></td>
 <td><p><span style="display:none">20100401</span>2010年4月1日</p></td>
@@ -772,7 +780,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエムあまがさき.md" title="wikilink">FM aiai</a></p></td>
 <td><p>兵庫県<a href="../Page/尼崎市.md" title="wikilink">尼崎市</a></p></td>
 <td><p><span style="display:none">20130401</span>2013年4月1日[12]</p></td>
@@ -780,7 +788,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムたじま.md" title="wikilink">FMジャングル</a></p></td>
 <td><p>兵庫県<a href="../Page/豊岡市.md" title="wikilink">豊岡市</a></p></td>
 <td><p><span style="display:none">20100701</span>2010年7月1日</p></td>
@@ -788,7 +796,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/BAN-BANテレビ.md" title="wikilink">BAN-BANラジオ</a></p></td>
 <td><p>兵庫県<a href="https://ja.wikipedia.org/wiki/加古川市" title="wikilink">加古川市</a></p></td>
 <td><p><span style="display:none">20101001</span>2010年10月1日</p></td>
@@ -796,7 +804,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエム三木.md" title="wikilink">エフエム みっきぃ</a></p></td>
 <td><p>兵庫県<a href="https://ja.wikipedia.org/wiki/三木市" title="wikilink">三木市</a></p></td>
 <td><p><span style="display:none">20090406</span>2009年4月6日</p></td>
@@ -804,7 +812,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMはしもと" title="wikilink">FMはしもと</a></p></td>
 <td><p><a href="../Page/和歌山県.md" title="wikilink">和歌山県</a><a href="../Page/橋本市.md" title="wikilink">橋本市</a></p></td>
 <td><p><span style="display:none">20130601</span>2013年6月1日</p></td>
@@ -812,7 +820,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FM_TANABE" title="wikilink">FM TANABE</a></p></td>
 <td><p>和歌山県<a href="https://ja.wikipedia.org/wiki/田辺市" title="wikilink">田辺市</a></p></td>
 <td><p><span style="display:none">20100129</span>2010年1月29日</p></td>
@@ -820,7 +828,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/南紀白浜コミュニティ放送.md" title="wikilink">FMビーチステーション</a></p></td>
 <td><p>和歌山県<a href="../Page/西牟婁郡.md" title="wikilink">西牟婁郡</a><a href="../Page/白浜町.md" title="wikilink">白浜町</a></p></td>
 <td><p><span style="display:none">20110801</span>2011年8月1日</p></td>
@@ -828,7 +836,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/中国地方.md" title="wikilink">中国</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/DARAZコミュニティ放送" title="wikilink">DARAZ FM</a>★</p></td>
 <td><p><a href="../Page/鳥取県.md" title="wikilink">鳥取県</a><a href="../Page/米子市.md" title="wikilink">米子市</a></p></td>
@@ -836,7 +844,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>○</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/中国コミュニケーションネットワーク.md" title="wikilink">FMちゅーピー</a></p></td>
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a><a href="https://ja.wikipedia.org/wiki/広島市" title="wikilink">広島市</a><a href="../Page/中区_(広島市).md" title="wikilink">中区</a></p></td>
 <td><p><span style="display:none">20100401</span>2010年4月1日</p></td>
@@ -844,7 +852,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/四国地方" title="wikilink">四国</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエムびさん" title="wikilink">FMびざん</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a><a href="../Page/徳島市.md" title="wikilink">徳島市</a></p></td>
@@ -852,7 +860,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエム高松コミュニティ放送.md" title="wikilink">FM81.5</a></p></td>
 <td><p><a href="../Page/香川県.md" title="wikilink">香川県</a><a href="https://ja.wikipedia.org/wiki/高松市" title="wikilink">高松市</a></p></td>
 <td><p><span style="display:none">20090605</span>2009年6月5日</p></td>
@@ -860,7 +868,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムサン.md" title="wikilink">FM SUN</a></p></td>
 <td><p>香川県<a href="../Page/坂出市.md" title="wikilink">坂出市</a></p></td>
 <td><p><span style="display:none">20140818</span>2014年8月18日</p></td>
@@ -868,7 +876,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/九州地方" title="wikilink">九州</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/AIR_STATION_HIBIKI" title="wikilink">AIR STATION HIBIKI</a></p></td>
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a><a href="https://ja.wikipedia.org/wiki/北九州市" title="wikilink">北九州市</a><a href="../Page/若松区.md" title="wikilink">若松区</a></p></td>
@@ -876,7 +884,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/北九州シティエフエム.md" title="wikilink">FM KITAQ</a>[13]</p></td>
 <td><p>福岡県北九州市<a href="../Page/小倉北区.md" title="wikilink">小倉北区</a></p></td>
 <td><p><span style="display:none">20111015</span>2011年10月15日</p></td>
@@ -884,7 +892,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コミュニティメディアパートナーズ福岡" title="wikilink">コミュニティラジオ天神</a>★</p></td>
 <td><p>福岡県<a href="https://ja.wikipedia.org/wiki/福岡市" title="wikilink">福岡市</a><a href="../Page/中央区_(福岡市).md" title="wikilink">中央区</a></p></td>
 <td><p><span style="display:none">20130215</span>2013年2月15日</p></td>
@@ -892,7 +900,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/東九州コミュニティー放送.md" title="wikilink">スターコーンFM</a></p></td>
 <td><p>福岡県<a href="../Page/築上郡.md" title="wikilink">築上郡</a><a href="../Page/築上町.md" title="wikilink">築上町</a></p></td>
 <td><p><span style="display:none">20120601</span>2012年6月1日</p></td>
@@ -900,7 +908,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FMしまばら.md" title="wikilink">FMしまばら</a>★</p></td>
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a><a href="../Page/島原市.md" title="wikilink">島原市</a></p></td>
 <td><p><span style="display:none">20110720</span>2011年7月20日</p></td>
@@ -908,7 +916,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/エフエムなかつ.md" title="wikilink">NOAS FM</a></p></td>
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a><a href="../Page/中津市.md" title="wikilink">中津市</a></p></td>
 <td><p><span style="display:none">20081128</span>2008年11月28日</p></td>
@@ -916,7 +924,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ゆふいんラヂオ局" title="wikilink">ゆふいんラヂオ局</a></p></td>
 <td><p>大分県<a href="../Page/由布市.md" title="wikilink">由布市</a></p></td>
 <td><p><span style="display:none">20120611</span>2012年6月11日</p></td>
@@ -924,7 +932,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宮崎サンシャインエフエム.md" title="wikilink">サンシャイン エフエム</a></p></td>
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a><a href="https://ja.wikipedia.org/wiki/宮崎市" title="wikilink">宮崎市</a></p></td>
 <td><p><span style="display:none">20081201</span>2008年12月1日</p></td>
@@ -932,7 +940,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ディ!" title="wikilink">あまみFM</a>★</p></td>
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a><a href="../Page/奄美市.md" title="wikilink">奄美市</a></p></td>
 <td><p><span style="display:none">20110501</span>2011年5月1日</p></td>
@@ -940,7 +948,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMのべおか" title="wikilink">FMのべおか</a></p></td>
 <td><p>宮崎県<a href="../Page/延岡市.md" title="wikilink">延岡市</a></p></td>
 <td><p><span style="display:none">20140501</span>2014年5月1日</p></td>
@@ -948,7 +956,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄</a></p></td>
 <td><p><a href="../Page/エフエム琉球.md" title="wikilink">FMレキオ</a></p></td>
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a><a href="../Page/那覇市.md" title="wikilink">那覇市</a></p></td>
@@ -956,7 +964,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>-</p></td>
 <td><p>△</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/石垣コミュニティーエフエム.md" title="wikilink">FMいしがき</a></p></td>
 <td><p>沖縄県<a href="../Page/石垣市.md" title="wikilink">石垣市</a></p></td>
 <td><p><span style="display:none">20090909</span>2009年9月9日</p></td>
@@ -964,7 +972,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/エフエム二十一.md" title="wikilink">FM21</a></p></td>
 <td><p>沖縄県<a href="../Page/浦添市.md" title="wikilink">浦添市</a></p></td>
 <td><p><span style="display:none">20101216</span>2010年12月16日</p></td>
@@ -972,7 +980,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/沖縄ラジオ" title="wikilink">オキラジ</a></p></td>
 <td><p>沖縄県<a href="../Page/沖縄市.md" title="wikilink">沖縄市</a></p></td>
 <td><p><span style="display:none">20121001</span>2012年10月1日</p></td>
@@ -980,7 +988,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/FMとよみ.md" title="wikilink">FMとよみ</a></p></td>
 <td><p>沖縄県<a href="../Page/豊見城市.md" title="wikilink">豊見城市</a></p></td>
 <td><p><span style="display:none">20110610</span>2011年6月10日</p></td>
@@ -988,7 +996,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMうるま" title="wikilink">FMうるま</a></p></td>
 <td><p>沖縄県<a href="../Page/うるま市.md" title="wikilink">うるま市</a></p></td>
 <td><p><span style="display:none">20101215</span>2010年12月15日</p></td>
@@ -996,7 +1004,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FMなんじょう" title="wikilink">FMなんじょう</a></p></td>
 <td><p>沖縄県<a href="../Page/南城市.md" title="wikilink">南城市</a></p></td>
 <td><p><span style="display:none">20130418</span>2013年4月18日</p></td>
@@ -1004,7 +1012,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FM本部" title="wikilink">FMもとぶ</a></p></td>
 <td><p>沖縄県<a href="../Page/国頭郡.md" title="wikilink">国頭郡</a><a href="../Page/本部町.md" title="wikilink">本部町</a></p></td>
 <td><p><span style="display:none">20130503</span>2013年5月3日</p></td>
@@ -1012,7 +1020,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/クレスト_(企業).md" title="wikilink">エフエム ニライ</a></p></td>
 <td><p>沖縄県<a href="../Page/中頭郡.md" title="wikilink">中頭郡</a><a href="../Page/北谷町.md" title="wikilink">北谷町</a></p></td>
 <td><p><span style="display:none">20090401</span>2009年4月1日</p></td>
@@ -1020,7 +1028,7 @@ FMドラマシティ</a>★</p></td>
 <td><p>△</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/FM久米島" title="wikilink">FMくめじま</a></p></td>
 <td><p>沖縄県<a href="../Page/島尻郡.md" title="wikilink">島尻郡</a><a href="../Page/久米島町.md" title="wikilink">久米島町</a></p></td>
 <td><p><span style="display:none">20131221</span>2013年12月21日</p></td>

@@ -31,7 +31,7 @@
 
 ### 過去に在籍したメンバー
 
-  - [TETSU](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（テツ） - 初代ヴォーカル (**MALICE MIZER**→MEGA8BALL→[ZIGZO](../Page/ZIGZO.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil "wikilink") ※脱退以降はノーメイクスタイル・本名の高野哲名義での活動となり、2012年よりZIGZOとしての活動を再開している。)
+  - [TETSU](https://ja.wikipedia.org/wiki/高野哲 "wikilink")（テツ） - 初代ヴォーカル (**MALICE MIZER**→MEGA8BALL→[ZIGZO](../Page/ZIGZO.md "wikilink")→[nil](https://ja.wikipedia.org/wiki/nil_\(バンド\) "wikilink") ※脱退以降はノーメイクスタイル・本名の高野哲名義での活動となり、2012年よりZIGZOとしての活動を再開している。)
   - [Gackt](https://ja.wikipedia.org/wiki/GACKT "wikilink")（ガクト、神威楽斗）　2代目ヴォーカル&[ピアノ](../Page/ピアノ.md "wikilink") (現在はソロ歌手、俳優、声優として活動中。)
     マリス時代のイメージカラーはブラック。
   - GAZ（ガズ） - ドラム (脱退後[Kneuklid Romanceに加入](../Page/Kneuklid_Romance.md "wikilink")、その後脱退するが2009年、2011年、2012年のKneuklid Romance復活時に参加。2017年12月22日癌により他界\[9\]。)
@@ -201,28 +201,28 @@
 <tr class="even">
 <td><p>4th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/5月30日.md" title="wikilink">5月30日</a></p></td>
-<td><p><strong>Gardenia</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Gardenia_(MALICE_MIZERの曲)" title="wikilink">Gardenia</a></strong></p></td>
 <td><p>初回スリーブケース・ステッカー付</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>5th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/6月21日.md" title="wikilink">6月21日</a></p></td>
-<td><p><strong>Beast of Blood</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Beast_of_Blood" title="wikilink">Beast of Blood</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>6th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/10月30日.md" title="wikilink">10月30日</a></p></td>
-<td><p><strong>真夜中に交わした約束～薔薇の婚礼～</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/真夜中に交わした約束〜薔薇の婚礼〜" title="wikilink">真夜中に交わした約束〜薔薇の婚礼〜</a></strong></p></td>
 <td><p>DVD付き</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>7th</p></td>
 <td><p><a href="../Page/2001年.md" title="wikilink">2001年</a><a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
-<td><p><strong>Garnet～禁断の園へ～</strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/Garnet〜禁断の園へ〜" title="wikilink">Garnet〜禁断の園へ〜</a></strong></p></td>
 <td></td>
 <td></td>
 </tr>

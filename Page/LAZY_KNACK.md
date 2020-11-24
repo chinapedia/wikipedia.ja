@@ -10,12 +10,12 @@
 ## メンバー
 
   - **清水聡**（しみず そう）ボーカル（1979年12月17日生）[大阪府](../Page/大阪府.md "wikilink")[吹田市](../Page/吹田市.md "wikilink")出身
-      - 解散後、[ポリスター](../Page/ポリスター.md "wikilink")からシングル1枚、アルバム1枚を出している。
+      - 解散後、[ポリスター](../Page/ポリスター.md "wikilink")からシングル1枚、アルバム1枚を出している。現在は芸能活動を行っていない。
 
 <!-- end list -->
 
   - **[香月優奈](../Page/松雪陽.md "wikilink")**（かつき ゆうな）ボーカル（1979年6月4日生）[佐賀県](../Page/佐賀県.md "wikilink")[鳥栖市](../Page/鳥栖市.md "wikilink")出身
-      - 解散後、1998年から2002年まで**RED**としてソロ活動。2004年から2006年まで[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")とのユニット[The FLAREとして活動](../Page/The_FLARE.md "wikilink")。2006年から2007年まで**YUNA**としてソロ活動。現在は本名の**松雪陽**として活動している。
+      - 解散後、1998年から2002年まで**RED**としてソロ活動。2004年から2006年まで[LUNA SEAの](../Page/LUNA_SEA.md "wikilink")[SUGIZO](../Page/SUGIZO.md "wikilink")とのユニット[The FLAREとして活動](../Page/The_FLARE.md "wikilink")。2006年から2007年まで**YUNA**としてソロ活動。現在は**YUNAH**として活動している。
 
 ## ディスコグラフィ
 
@@ -136,7 +136,7 @@
 ## 関連項目
 
   - [浅倉大介](../Page/浅倉大介.md "wikilink")
-  - [access](https://ja.wikipedia.org/wiki/access "wikilink")
+  - [access](../Page/Access_\(音楽ユニット\).md "wikilink")
   - [pool bit boys](https://ja.wikipedia.org/wiki/pool_bit_boys "wikilink")
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink")

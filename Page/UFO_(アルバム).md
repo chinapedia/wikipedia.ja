@@ -27,6 +27,8 @@
 6.  **俺のカラダの筋肉はどれをとっても機械だぜ（乙）** - **ALL MY MUSCLES WORK MACHINE LIKE PART II**
 7.  **ちょうちょ** - **CHO-U-CHO**
 8.  **COSMIC SURFIN' (Ecstasy bathroom mix)**
+      -
+        [YMOの](../Page/イエロー・マジック・オーケストラ.md "wikilink")[細野晴臣](../Page/細野晴臣.md "wikilink")作曲のカバーアレンジ曲。歌詞カードには「うっ！」と記載されている。
 9.  **東京クリスマス** - **CHRISTMAS NIGHT IN TOKYO**
 10. **モンキーに警告** - **CAUTION TO THE APE**
 11. **ボクの姉さん** - **Mr.SISTER**

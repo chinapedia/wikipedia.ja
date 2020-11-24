@@ -172,6 +172,195 @@
   - 最終回の最後のシーンで志村が「**職業変える\!**」の一言で、後番組・「**[志村屋です。](../Page/志村屋です。.md "wikilink")**」の[番宣](../Page/番組宣伝.md "wikilink")[CMへと繋げていた](../Page/コマーシャルメッセージ.md "wikilink")。
   - [2015年](../Page/2015年.md "wikilink")11月より[ファミリー劇場](../Page/ファミリー劇場.md "wikilink")にて再放送が決定した。
 
+## エンディング曲
+
+曲名、アーティスト名、レーベルがクレジットされ、[ミュージックビデオ](https://ja.wikipedia.org/wiki/ミュージックビデオ "wikilink")が[スタッフロールとともに流れる](../Page/クレジットタイトル.md "wikilink")。
+
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th><p>使用期間</p></th>
+<th><p>曲名[1]</p></th>
+<th><p>アーティスト名[2]</p></th>
+<th><p>レーベル[3]</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>1</p></td>
+<td><p>第1回（2005年10月12日） - 第8回（2005年11月30日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛はかげろう" title="wikilink">愛はかげろう</a></p></td>
+<td><p><a href="../Page/白羽玲子.md" title="wikilink">白羽玲子</a></p></td>
+<td><p><a href="../Page/テイチクエンタテインメント.md" title="wikilink">テイチクエンタテインメント</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2</p></td>
+<td><p>第9回（2005年12月7日） - 第11回（2005年12月21日）</p></td>
+<td></td>
+<td><p><a href="../Page/プッシーキャット・ドールズ.md" title="wikilink">THE PUSSYCAT DOLLS</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサルミュージック</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>3</p></td>
+<td><p>第12回（2006年1月11日） - 第18回（2006年2月22日）</p></td>
+<td><p>Start</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/bis_(バンド)" title="wikilink">bis</a></p></td>
+<td><p><a href="../Page/フリーウィル.md" title="wikilink">FREE-WILL Co.,Ltd.</a></p></td>
+</tr>
+<tr class="even">
+<td><p>4</p></td>
+<td><p>第19回（2006年3月1日） - 第22回（2006年3月22日）</p></td>
+<td></td>
+<td></td>
+<td><p>ユニバーサルミュージック</p></td>
+</tr>
+<tr class="odd">
+<td><p>5</p></td>
+<td><p>第23回（2006年4月5日） - 第26回（2006年4月26日）</p></td>
+<td><p>DAYS</p></td>
+<td><p>bis</p></td>
+<td><p>FREE-WILL Co.,Ltd.</p></td>
+</tr>
+<tr class="even">
+<td><p>6</p></td>
+<td><p>第27回（2006年5月3日） - 第31回（2006年5月31日）</p></td>
+<td><p>おっぱいが気になってしまった</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ライス兄弟" title="wikilink">ライス兄弟</a></p></td>
+<td><p><a href="../Page/アーティストハウスホールディングス.md" title="wikilink">BBMC(www.bbmc.co.jp)</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>7</p></td>
+<td><p>第32回（2006年6月7日） - 第35回（2006年6月28日）</p></td>
+<td><p>Rain Drop</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/さくらさくらこ" title="wikilink">さくらさくらこ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クライムミュージックエンタテインメント" title="wikilink">クライムミュージックエンタテインメント</a></p></td>
+</tr>
+<tr class="even">
+<td><p>8</p></td>
+<td><p>第36回（2006年7月5日） - 第44回（2006年8月30日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ふたりの愛ランド" title="wikilink">ふたりの愛ランド</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ザ★リルビッツ" title="wikilink">ザ★リルビッツ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/avex_trax" title="wikilink">avex trax</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>9</p></td>
+<td><p>第45回（2006年9月6日） - 第48回（2006年9月27日）</p></td>
+<td><p>SEASON’S</p></td>
+<td><p>bis</p></td>
+<td><p>FREE-WILL Co.,Ltd.</p></td>
+</tr>
+<tr class="even">
+<td><p>10</p></td>
+<td><p>第49回（2006年10月18日） - 第58回（2006年12月20日）</p></td>
+<td><p>kiss me kiss you again</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/熊田曜子" title="wikilink">熊田曜子</a></p></td>
+<td><p>ドーンエンターテイメントジャパン</p></td>
+</tr>
+<tr class="odd">
+<td><p>11</p></td>
+<td><p>第59回（2007年1月10日） - 第66回（2007年2月28日）</p></td>
+<td><p>父と娘のうた</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大津貴子" title="wikilink">大津貴子</a></p></td>
+<td><p>ユニバーサルミュージック</p></td>
+</tr>
+<tr class="even">
+<td><p>12</p></td>
+<td><p>第67回（2007年3月7日） - 第70回（2007年3月28日）</p></td>
+<td><p>お花見ビーナス</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/the_Do-Nuts" title="wikilink">the do-nuts</a></p></td>
+<td><p><a href="../Page/エイベックス・エンタテインメント.md" title="wikilink">エイベックス・エンタテインメント</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>13</p></td>
+<td><p>第71回（2007年4月11日） - 第73回（2007年4月25日）</p></td>
+<td><p>OH!米家族</p></td>
+<td><p><a href="../Page/コーヒーカラー.md" title="wikilink">コーヒーカラー</a></p></td>
+<td><p><a href="../Page/日本クラウン.md" title="wikilink">日本クラウン</a></p></td>
+</tr>
+<tr class="even">
+<td><p>14</p></td>
+<td><p>第74回（2007年5月2日） - 第78回（2007年5月30日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Boom_Boom_Boom/Come_On_Baby" title="wikilink">Boom Boom Boom</a></p></td>
+<td><p><a href="../Page/郷ひろみ.md" title="wikilink">郷ひろみ</a></p></td>
+<td><p><a href="../Page/ソニー・ミュージックレコーズ.md" title="wikilink">Sony Records</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>15</p></td>
+<td><p>第79回（2007年6月6日） - 第82回（2007年6月27日）</p></td>
+<td><p>Boom Boom Boom～灼熱の太陽</p></td>
+<td><p><a href="../Page/ダビッド・ビスバル.md" title="wikilink">ダビッド・ビスバル</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサル インターナショナル</a></p></td>
+</tr>
+<tr class="even">
+<td><p>16</p></td>
+<td><p>第84回（2007年7月11日）</p></td>
+<td><p><a href="../Page/愛唄.md" title="wikilink">愛唄</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/GReeeeN" title="wikilink">GReeeeN</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">NAYUTAWAVE RECORDS</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>17</p></td>
+<td><p>第85回（2007年7月18日）・第86回（2007年7月25日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/道_(GReeeeNの曲)" title="wikilink">道</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>18</p></td>
+<td><p>第87回（2007年8月1日） - 第91回（2007年8月29日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/摩訶不思議アドベンチャー!" title="wikilink">摩訶不思議アドベンチャー!</a>[4]</p></td>
+<td><p><a href="../Page/東京ブラススタイル.md" title="wikilink">東京ブラススタイル</a></p></td>
+<td><p><a href="../Page/ユニバーサルミュージック_(日本).md" title="wikilink">ユニバーサル クラシックス&amp;ジャズ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>19</p></td>
+<td><p>第92回（2007年9月5日） - 第95回（2007年9月26日）</p></td>
+<td><p><a href="../Page/挫折地点.md" title="wikilink">挫折地点</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/misono" title="wikilink">misono</a></p></td>
+<td><p>avex trax</p></td>
+</tr>
+<tr class="even">
+<td><p>20</p></td>
+<td><p>第96回（2007年10月10日） - 第99回（2007年10月31日）</p></td>
+<td><p>Love is Special</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/faith_(ユニット)" title="wikilink">faith</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Venus-B" title="wikilink">Venus-B RECORDS</a>/KING</p></td>
+</tr>
+<tr class="odd">
+<td><p>21</p></td>
+<td><p>第100回（2007年11月7日） - 第103回（2007年11月28日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/Say_Good-bye" title="wikilink">Say Good-bye</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷村奈南" title="wikilink">谷村奈南</a></p></td>
+<td><p><a href="../Page/SONIC_GROOVE.md" title="wikilink">SONIC GROOVE</a></p></td>
+</tr>
+<tr class="even">
+<td><p>22</p></td>
+<td><p>第104回（2007年12月5日） - 第107回（2008年1月9日）</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/愛してる_(Base_Ball_Bearの曲)" title="wikilink">愛してる</a></p></td>
+<td><p><a href="../Page/Base_Ball_Bear.md" title="wikilink">Base Ball Bear</a></p></td>
+<td><p><a href="../Page/EMIミュージック・ジャパン.md" title="wikilink">EMIミュージックジャパン</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>23</p></td>
+<td><p>第110回（2008年1月30日） - 第114回（2008年2月27日）</p></td>
+<td><p><a href="../Page/夢幻期限.md" title="wikilink">夢幻期限</a></p></td>
+<td><p>misono</p></td>
+<td><p>avex trax</p></td>
+</tr>
+<tr class="even">
+<td><p>24</p></td>
+<td><p>第115回（2008年3月5日） - 第118回（2008年3月26日）</p></td>
+<td><p>Answer</p></td>
+<td><p><a href="../Page/SOFFet.md" title="wikilink">SOFFet</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/rhythm_zone" title="wikilink">rhythm zone</a></p></td>
+</tr>
+</tbody>
+</table>
+
+  - 第83回（2007年7月4日）は、ファミリー劇場の放送ではエンディングがカットされているため詳細不明。
+  - 第108回（2008年1月16日）、第109回（2008年1月23日）は、志村診察室でスタッフロールが流されエンディング曲は無し。
+
 ## スタッフ
 
   - 作・構成：朝長浩之
@@ -238,6 +427,8 @@
   - [フジテレビ番組一覧](../Page/フジテレビ番組一覧.md "wikilink")
   - [志村通](../Page/志村通.md "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [イザワオフィス公式サイト](https://izawaoffice.jp/)
@@ -245,3 +436,8 @@
   - [志村けんのだいじょうぶだぁⅡ](https://www.fami-geki.com/detail/index.php?fami_id=02724) - ファミリー劇場
 
 [Category:志村けんのだいじょうぶだぁ](https://ja.wikipedia.org/wiki/Category:志村けんのだいじょうぶだぁ "wikilink") [Category:フジテレビの深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの深夜番組の歴史 "wikilink") [Category:2005年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のテレビ番組_\(日本\) "wikilink")
+
+1.  放送時クレジットの表記に順ずる。
+2.
+3.
+4.  エンディングのクレジットでは「**摩**訶不思議アドベンチャー\!」と表記されているが「**魔**訶不思議アドベンチャー\!」が正しいタイトル。

@@ -8,7 +8,7 @@
 ## メンバー
 
   - 近藤智洋（こんどう ともひろ）
-    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[福岡県](../Page/福岡県.md "wikilink")出身。現在はソロ活動中。2007年に[GHEEE](../Page/GHEEE.md "wikilink")結成。
+    [ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ピアノ](../Page/ピアノ.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[ギター](../Page/ギター.md "wikilink")担当。[福岡県](../Page/福岡県.md "wikilink")出身。2005年8月より「近藤智洋」名義でソロ活動中。2007年に[GHEEE](../Page/GHEEE.md "wikilink")結成、2018年にmy funny hitchhiker結成。
   - 岡崎善郎（おかざき よしろう）
     ギター、ベース、[コーラス担当](../Page/コーラス_\(ポピュラー音楽\).md "wikilink")。[東京都](../Page/東京都.md "wikilink")出身。解散後は、かつての1990年 - 94年まで活動・在籍していた[BEYONDS](../Page/BEYONDS.md "wikilink")を再結成するが、2008年に体調不良により脱退。
   - 高橋浩司（たかはし こうじ）

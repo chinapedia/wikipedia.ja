@@ -201,7 +201,7 @@ LLPWが1年間を通じて活躍した選手を表彰する制度。各賞はフ
   - [LLPW-X公式サイト](http://www.llpw-x.com/)
 
   -
-[Category:LLPW](https://ja.wikipedia.org/wiki/Category:LLPW "wikilink") [Category:日本の女子プロレス団体](https://ja.wikipedia.org/wiki/Category:日本の女子プロレス団体 "wikilink") [Category:ジャパン女子プロレス](https://ja.wikipedia.org/wiki/Category:ジャパン女子プロレス "wikilink") [Category:埼玉県発祥の企業](https://ja.wikipedia.org/wiki/Category:埼玉県発祥の企業 "wikilink") [Category:豊島区の企業](https://ja.wikipedia.org/wiki/Category:豊島区の企業 "wikilink")
+[Category:LLPW](https://ja.wikipedia.org/wiki/Category:LLPW "wikilink") [Category:日本の女子プロレス団体](https://ja.wikipedia.org/wiki/Category:日本の女子プロレス団体 "wikilink") [Category:ジャパン女子プロレス](https://ja.wikipedia.org/wiki/Category:ジャパン女子プロレス "wikilink") [Category:埼玉県発祥の企業](https://ja.wikipedia.org/wiki/Category:埼玉県発祥の企業 "wikilink") [Category:豊島区の企業](https://ja.wikipedia.org/wiki/Category:豊島区の企業 "wikilink") [Category:神取忍](https://ja.wikipedia.org/wiki/Category:神取忍 "wikilink")
 
 1.  俺たちのプロレスVOL.6 63Pより
 2.

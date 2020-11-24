@@ -32,7 +32,6 @@
 
   - [東日本旅客鉄道](../Page/東日本旅客鉄道.md "wikilink")[東京総合車両センター](../Page/東京総合車両センター.md "wikilink")
   - [テイケイ気化器](../Page/テイケイ気化器.md "wikilink")
-  - [筑波大学附属駒場中学校・高等学校](https://ja.wikipedia.org/wiki/筑波大学附属駒場中学校・高等学校 "wikilink")
 
 **人物・グループ**
 

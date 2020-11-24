@@ -171,7 +171,7 @@
 
 ## 関連項目
 
-  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - [FLAME](../Page/FLAME.md "wikilink")/[EMALF](https://ja.wikipedia.org/wiki/EMALF "wikilink") - [Lead](../Page/Lead.md "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - [w-inds.](https://ja.wikipedia.org/wiki/w-inds. "wikilink") - FLAME/[EMALF](https://ja.wikipedia.org/wiki/EMALF "wikilink") - [Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")
 
 ## 外部リンク
 

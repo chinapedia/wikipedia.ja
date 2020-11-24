@@ -663,13 +663,14 @@ TAKUYA
 
 ## 外部リンク
 
-  - [TAKUYA OFFICIAL WEB SITE](http://www.takuya-web.com/)
-  - [TAKUYA オフィシャルブログ「転がれ キミモ ボクモ」](https://ameblo.jp/takuyaweb/)
-  - [ROBOTS official web](http://www.robots-web.com/)(ROBOTS公式サイト)
-  - [TAKUYAオフィシャルツイッター](https://twitter.com/takuya_web)(休止)
-  - [TAKUYA本人ツイッター](https://twitter.com/takuya54it)
+  - [TAKUYA - OFFICIAL WEB SITE](http://www.takuya-web.com/)
+  - [TAKUYA - オフィシャルブログ「転がれ キミモ ボクモ」](https://ameblo.jp/takuyaweb/)
+  - [TAKUYA - オフィシャルツイッター(休止中)](https://twitter.com/takuya_web)
+  - [TAKUYA - 本人ツイッター](https://twitter.com/takuya54it)
+  - [TAKUYA - YouTubeチャンネル](https://www.youtube.com/c/TAKUYA54it/)
   - [TAKUYAが教えるギター・レッスン “Guitar de POP”](http://app.monster-dive.com/takuya_guitar_app/)
   - [Sony Music Publishing (Japan) Inc.｜TAKUYA](https://smpj.jp/songwriters/takuya/)
+  - [ROBOTS official web (ROBOTS公式サイト)](http://www.robots-web.com/)
 
 [Category:日本のロック・ギタリスト](https://ja.wikipedia.org/wiki/Category:日本のロック・ギタリスト "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:日本のオルタナティヴ・ロック・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・ミュージシャン "wikilink") [Category:JUDY_AND_MARYのメンバー](https://ja.wikipedia.org/wiki/Category:JUDY_AND_MARYのメンバー "wikilink") [Category:ソニー・ミュージックパブリッシング所属者](https://ja.wikipedia.org/wiki/Category:ソニー・ミュージックパブリッシング所属者 "wikilink") [Category:京都市出身の人物](https://ja.wikipedia.org/wiki/Category:京都市出身の人物 "wikilink") [Category:1971年生](https://ja.wikipedia.org/wiki/Category:1971年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
@@ -686,4 +687,4 @@ TAKUYA
 11. [OREOKA.COM 緊急取材！TAKUYAさんに聞く「福岡をアジア音楽のハブに」構想の全容](http://oreoka.com/2015/05/takuya-fukuoka/)
 12. <https://ameblo.jp/takuyaweb/entry-11019732624.html>
 13. [インフォメーション | コアラモード． | ソニーミュージック オフィシャルサイト](https://www.coalamode.net/artist/coalamode/info/506809)
-14. TAKUYA公式ブログ「[転がれ キミモ ボクモ](http://ameblo.jp/takuyaweb/)」の[2017年4月13日12時13分26秒（UTC）時点のアーカイブ](http://archive.is/uLV9Z)。
+14. TAKUYA公式ブログ「[転がれ キミモ ボクモ](http://ameblo.jp/takuyaweb/)」の[2017年4月13日12時13分26秒（UTC）時点のアーカイブ](https://archive.is/uLV9Z)。

@@ -5,9 +5,15 @@
 
 ## 生涯
 
-[1838年](../Page/1838年.md "wikilink")[メイン州](../Page/メイン州.md "wikilink")[ポートランドに生まれた](../Page/ポートランド_\(メイン州\).md "wikilink")。高校は入退学を繰り返し、[製図工](https://ja.wikipedia.org/wiki/製図工 "wikilink")の勤めも長続きしなかったが、13歳ごろから採集し始めた貝類の標本は、学者が見学にくるほど充実していた。[1854年](../Page/1854年.md "wikilink")、18歳で博物学協会に入会。[1857年](../Page/1857年.md "wikilink")に新種の[カタツムリ](../Page/カタツムリ.md "wikilink")を協会誌上に報告した。
+### 若年期
 
-[ダーウィンの](../Page/チャールズ・ダーウィン.md "wikilink")『[種の起源](../Page/種の起源.md "wikilink")』が出版された1859年から2年余、貝類研究の縁で、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")の[ルイ・アガシー](../Page/ルイ・アガシー.md "wikilink")教授の学生助手を務める。アガシーの教授を受ける中で、アガシーが[腕足類](https://ja.wikipedia.org/wiki/腕足類 "wikilink")を[擬軟体動物](https://ja.wikipedia.org/wiki/擬軟体動物 "wikilink")に分類していたのを疑問に思ったのが、腕足類研究を思い立ったきっかけであった\[2\]。アガシーやジェフェリーズ・ワイマン（[Jefferies Wyman](https://ja.wikipedia.org/wiki/:en:Jefferies_Wyman "wikilink")）の講義を聴き、ワイマンの貝塚発掘にも関係した。生物学界に人脈も作った。1863年にエレン・エリザベス・オーウェン（Elen Elizabeth Owen）と結婚。
+モースは、[1838年](../Page/1838年.md "wikilink")に[メイン州](../Page/メイン州.md "wikilink")[ポートランドで生まれた](../Page/ポートランド_\(メイン州\).md "wikilink")。父は[会衆派教会](../Page/会衆派教会.md "wikilink")の助祭で厳格な[カルヴァン主義](../Page/カルヴァン主義.md "wikilink")者だったが、母は夫の宗教的信念を共有しておらず、子供の科学への興味を奨励した。
+
+最初にポートランドの村の学校、[1851年](../Page/1851年.md "wikilink")に[ニューハンプシャー州](../Page/ニューハンプシャー州.md "wikilink")[コンウェイのアカデミー](https://ja.wikipedia.org/wiki/コンウェイ_\(ニューハンプシャー州\) "wikilink")、1854年にブリッジトン・アカデミーに通ったが、手に負えない学生だったモースは全ての学校から退学させられた。ブリッジトンアカデミーの退学理由は、机に彫刻をしたためだった。その後、メイン州ベテルのに通ったが、ここでモースはナサニエル・トゥルーと出会い、トゥルーから自然研究への興味を追求するように勧められた。 モースは、貝や[カタツムリ](../Page/カタツムリ.md "wikilink")を求めて[大西洋](../Page/大西洋.md "wikilink")の海岸を探検したり、[動物相](../Page/動物相.md "wikilink")や[植物相](../Page/植物相.md "wikilink")を研究するために野に出かけることを好んだ。そして、正式な教育を受けていなかったにもかかわらず、思春期の間に形成されたコレクションは、すぐにボストン、ワシントン、さらにはイギリスの著名な科学者が見に来るほどになった。モースは12歳になるまでにカタツムリの新種を2種発見した。Helix Milium と H. astericusである\[2\]。[1854年](../Page/1854年.md "wikilink")、18歳で博物学協会に入会。[1857年](../Page/1857年.md "wikilink")に新種の[カタツムリ](../Page/カタツムリ.md "wikilink")を協会誌上に報告した。
+
+若い頃は、ポートランド機関車会社の機械製図技師、ボストンの会社の木彫職人として働いていた。[ダーウィンの](../Page/チャールズ・ダーウィン.md "wikilink")『[種の起源](../Page/種の起源.md "wikilink")』が出版された1959年、がモースの知的資質とデッサン力を認めて、[ハーバード大学](https://ja.wikipedia.org/wiki/ハーバード大学 "wikilink")比較動物学博物館の[ルイ・アガシー](../Page/ルイ・アガシー.md "wikilink")に推薦し、1861年まで軟体動物や腕足類のコレクションの保存、記録、デッサンを担当する助手を務めた。アガシーの教授を受ける中で、アガシーが[腕足類](https://ja.wikipedia.org/wiki/腕足類 "wikilink")を[擬軟体動物](https://ja.wikipedia.org/wiki/擬軟体動物 "wikilink")に分類していたのを疑問に思ったのが、腕足類研究を思い立ったきっかけであった\[3\]。アガシーやジェフェリーズ・ワイマン（[Jefferies Wyman](https://ja.wikipedia.org/wiki/:en:Jefferies_Wyman "wikilink")）の講義を聴き、ワイマンの貝塚発掘にも関係した。生物学界に人脈も作った。
+
+[南北戦争](../Page/南北戦争.md "wikilink")中、第25メイン歩兵隊に入隊しようとしたが、慢性的な扁桃腺感染症のために辞退した。1863年6月18日、ポートランドでエレン・エリザベス・オーウェン(Elen Elizabeth Owen)と結婚した。2人の間には子供が2人いた。
 
 講演にたけ、その謝礼金が生活を助けた。1867年、ジョージ・ピーボディ（[George Foster Peabody](https://ja.wikipedia.org/wiki/:en:George_Foster_Peabody "wikilink")）の寄付を得て、3人の研究仲間と[セイラムに](../Page/セイラム_\(マサチューセッツ州\).md "wikilink")『ピーボディー科学アカデミー』（1992年以降の[ピーボディ・エセックス博物館](../Page/ピーボディ・エセックス博物館.md "wikilink")）を開き、1870年まで[軟体動物](../Page/軟体動物.md "wikilink")担当の学芸員を務めた。1868年、セイラムに終生の家を構えた。
 
@@ -17,7 +23,7 @@
 
 [進化論](../Page/進化論.md "wikilink")の観点から[腕足動物](../Page/腕足動物.md "wikilink")を研究対象に選び、[1877年](../Page/1877年.md "wikilink")（[明治](../Page/明治.md "wikilink")10年）6月、腕足動物の種類が多く生息する[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")に渡った。[文部省](../Page/文部省.md "wikilink")に採集の了解を求めるため[横浜駅から](https://ja.wikipedia.org/wiki/桜木町駅 "wikilink")[新橋駅](https://ja.wikipedia.org/wiki/新橋駅 "wikilink")へ向かう汽車の窓から、[貝塚](../Page/貝塚.md "wikilink")を発見。これが、後に彼によって日本初の[発掘調査](../Page/発掘調査.md "wikilink")が行なわれる[大森貝塚](../Page/大森貝塚.md "wikilink")である。訪問先の文部省では、[外山正一](../Page/外山正一.md "wikilink")から[東京大学](https://ja.wikipedia.org/wiki/東京大学 "wikilink")の[動物学](../Page/動物学.md "wikilink")・[生理学](../Page/生理学.md "wikilink")教授への就任を請われた。[江ノ島](https://ja.wikipedia.org/wiki/江ノ島 "wikilink")に[臨海実験所を作ろうとも言われた](../Page/江ノ島臨海実験所.md "wikilink")。
 
-翌7月、東大法理文学部の教授に就任。当時、新設なった東大の外国人教授の大半が研究実績も無い宣教師ばかりだったため、これに呆れたモースは彼らを放逐すると同時に、日本人講師と協力して専門知識を持つ外国人教授の来日に尽力\[3\]。[物理学](../Page/物理学.md "wikilink")の教授には、[トマス・メンデンホール](https://ja.wikipedia.org/wiki/トマス・メンデンホール "wikilink")を、[哲学](../Page/哲学.md "wikilink")の教授には[アーネスト・フェノロサ](../Page/アーネスト・フェノロサ.md "wikilink")を斡旋した。さらに、計2,500冊の図書を購入し、寄贈を受け、東大図書館の基礎を作った。
+翌7月、東大法理文学部の教授に就任。当時、新設なった東大の外国人教授の大半が研究実績も無い宣教師ばかりだったため、これに呆れたモースは彼らを放逐すると同時に、日本人講師と協力して専門知識を持つ外国人教授の来日に尽力\[4\]。[物理学](../Page/物理学.md "wikilink")の教授には、[トマス・メンデンホール](https://ja.wikipedia.org/wiki/トマス・メンデンホール "wikilink")を、[哲学](../Page/哲学.md "wikilink")の教授には[アーネスト・フェノロサ](../Page/アーネスト・フェノロサ.md "wikilink")を斡旋した。さらに、計2,500冊の図書を購入し、寄贈を受け、東大図書館の基礎を作った。
 
 そして江ノ島の漁師小屋を『臨海実験所』に改造し、7月17日から8月29日まで採集した。9月12日、講義を始めた。9月16日、動物学科助手の[松村任三](../Page/松村任三.md "wikilink")や、生徒であった[佐々木忠次郎](https://ja.wikipedia.org/wiki/佐々木忠次郎 "wikilink")、[松浦佐用彦](https://ja.wikipedia.org/wiki/松浦佐用彦 "wikilink")と[大森貝塚](../Page/大森貝塚.md "wikilink")を掘り始め、出土品の優品を[教育博物館に展示した](../Page/国立科学博物館.md "wikilink")。9月24日、東大で進化論を講義し、10月、その公開講演もした。
 
@@ -29,9 +35,9 @@
 
 1878年（[明治](../Page/明治.md "wikilink")11年）（40歳）、4月下旬、家族をつれて東京大学に戻った。
 
-6月末[浅草](../Page/浅草.md "wikilink")で、『大森村にて発見せし前世界古器物』を500人余に講演し、[考古学](../Page/考古学.md "wikilink")の概要、『旧石器時代』『新石器時代』『青銅器時代』『鉄器時代』の区分、大森貝塚が『新石器時代』に属することを述べ、出土した人骨に傷があり現在の[アイヌ](../Page/アイヌ.md "wikilink")には[食人風習がないから](../Page/カニバリズム.md "wikilink")「昔の日本には、アイヌとは別の、食人する人種が住んでいた」と推論した\[4\]。演説会の主催および通訳は、[江木高遠](https://ja.wikipedia.org/wiki/江木高遠 "wikilink")であった。（講演の中の『プレ・アイヌ説』は、考古学の主流にならなかった\[5\]。）
+6月末[浅草](../Page/浅草.md "wikilink")で、『大森村にて発見せし前世界古器物』を500人余に講演し、[考古学](../Page/考古学.md "wikilink")の概要、『旧石器時代』『新石器時代』『青銅器時代』『鉄器時代』の区分、大森貝塚が『新石器時代』に属することを述べ、出土した人骨に傷があり現在の[アイヌ](../Page/アイヌ.md "wikilink")には[食人風習がないから](../Page/カニバリズム.md "wikilink")「昔の日本には、アイヌとは別の、食人する人種が住んでいた」と推論した\[5\]。演説会の主催および通訳は、[江木高遠](https://ja.wikipedia.org/wiki/江木高遠 "wikilink")であった。（講演の中の『プレ・アイヌ説』は、考古学の主流にならなかった\[6\]。）
 
-7月中旬から8月末まで、採集に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を往復した。この間函館にも『臨海実験所』を開いている(矢田部良吉「北海道旅行日誌」鵜沼わか『モースの見た北海道』1991年)。10月の『東京大学生物学会』（現在の『日本動物学会』）の発足に関わった\[6\]。日本初の学会である。
+7月中旬から8月末まで、採集に[北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")を往復した。この間函館にも『臨海実験所』を開いている(矢田部良吉「北海道旅行日誌」鵜沼わか『モースの見た北海道』1991年)。10月の『東京大学生物学会』（現在の『日本動物学会』）の発足に関わった\[7\]。日本初の学会である。
 
 この滞日期には、『[進化論](../Page/進化論.md "wikilink")』（4回）、『動物変進論』（3回）、『動物変遷論』（9回）の連続講義を始め、陸貝、ホヤ、ドロバチ、腕足類、ナメクジ、昆虫、氷河期、動物の生長、蜘蛛、猿、などに関する多くの学術講義や一般向け講演をした。[江木高遠](https://ja.wikipedia.org/wiki/江木高遠 "wikilink")が主宰した『江木学校講談会』の常任講師であった。（『動物変遷論』は、1883年、モースの了解のもとに[石川千代松](../Page/石川千代松.md "wikilink")が、『動物進化論』の名で訳書を出版した。）
 
@@ -59,31 +65,31 @@
 
 1884年（46歳）、[アメリカ科学振興協会](../Page/アメリカ科学振興協会.md "wikilink")の人類學部門選出副会長、1886年、同協会会長となった。1887年、1888年、1889年にもヨーロッパへ、学会や日本の陶器探しの旅をした。
 
-1890年（52歳）、日本の陶器の約5,000点のコレクションを[ボストン美術館](../Page/ボストン美術館.md "wikilink")へ売却して管理に当たり、1901年、その目録（Catalogue of the Morse Collection of Japanese Pottery）を纏めあげた\[7\]。
+1890年（52歳）、日本の陶器の約5,000点のコレクションを[ボストン美術館](../Page/ボストン美術館.md "wikilink")へ売却して管理に当たり、1901年、その目録（Catalogue of the Morse Collection of Japanese Pottery）を纏めあげた\[8\]。
 
 ### 晩年
 
-[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[8\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[9\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：[日本その日その日](../Page/日本その日その日.md "wikilink")）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](../Page/瑞宝章.md "wikilink")を受けた\[10\]。
+[1898年](../Page/1898年.md "wikilink")（明治31年）、東京帝国大学（後の東京大学）における生物学の教育・研究の基盤整備、日本初の学会設立などの功績により、日本政府から勲三等[旭日中綬章](https://ja.wikipedia.org/wiki/旭日中綬章 "wikilink")を受けた\[9\]。[1902年](../Page/1902年.md "wikilink")、60歳を越えたモースは、20数年ぶりに動物学の論文の執筆を再開し、[1908年](../Page/1908年.md "wikilink")に渡米した石川に対しても「私は陶器も研究しているが、動物学の研究も止めない。」と述べるなど、高齢になっても研究に対する執念は尽きなかった\[10\]。[1913年](../Page/1913年.md "wikilink")、75歳となったモースは、30年以上前の日記とスケッチをもとに、『Japan Day by Day（日本語訳題：[日本その日その日](../Page/日本その日その日.md "wikilink")）』の執筆を開始。1914年、ボストン博物学会会長となった。1915年、『ピーボディー科学アカデミー』から改名した『ピーボディー博物館』の名誉会長になった。1917年、『Japan Day by Day』を書き終えて出版した。[1922年](../Page/1922年.md "wikilink")（大正11年）、日本政府から勲二等[瑞宝章](../Page/瑞宝章.md "wikilink")を受けた\[11\]。
 
 1923年（85歳）、[関東大震災](../Page/関東大震災.md "wikilink")による東京帝国大学図書館の壊滅を知り、全蔵書を東京帝国大学に寄付する旨、遺言を書き直した。
 
-[1925年](../Page/1925年.md "wikilink")（大正14年）、87歳になってもなお手術後の静養中に葉巻をふかすなど健康だったが、[脳溢血](https://ja.wikipedia.org/wiki/脳溢血 "wikilink")に倒れ、12月20日に貝塚に関する論文を絶筆に、セイラムの自宅で没した。遺言により、脳は翌12月21日に[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")のウィスター解剖学生物学研究所に[献体](../Page/献体.md "wikilink")され\[11\]、1万2,000冊の蔵書が東京帝国大学に遺贈された。遺体はハーモニー・グローヴ墓地（Harmony Grove Cemetery）に葬られている。
+[1925年](../Page/1925年.md "wikilink")（大正14年）、87歳になってもなお手術後の静養中に葉巻をふかすなど健康だったが、[脳溢血](https://ja.wikipedia.org/wiki/脳溢血 "wikilink")に倒れ、12月20日に貝塚に関する論文を絶筆に、セイラムの自宅で没した。遺言により、脳は翌12月21日に[フィラデルフィア](../Page/フィラデルフィア.md "wikilink")のウィスター解剖学生物学研究所に[献体](../Page/献体.md "wikilink")され\[12\]、1万2,000冊の蔵書が東京帝国大学に遺贈された。遺体はハーモニー・グローヴ墓地（Harmony Grove Cemetery）に葬られている。
 
 ### 死後
 
 翌[1926年](../Page/1926年.md "wikilink")（大正15年）、東京人類学会は『人類学雑誌』第41巻第2号でモースの追悼特集を組み、彼の教育を受けた研究者たちの回顧録が掲載された。
 
-大森貝塚が取り持つ縁で、大田区とセイラム市とは、姉妹都市になっている\[12\]。
+大森貝塚が取り持つ縁で、大田区とセイラム市とは、姉妹都市になっている\[13\]。
 
-[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")の石上寺に銅像が設置され、2015年12月20日に除幕式が行われた\[13\]。
+[埼玉県](../Page/埼玉県.md "wikilink")[熊谷市](https://ja.wikipedia.org/wiki/熊谷市 "wikilink")の石上寺に銅像が設置され、2015年12月20日に除幕式が行われた\[14\]。
 
 ## 人物
 
-左右の手で別々の文章や絵を描くことができる両手両利きであった\[14\]。『Japan Day by Day』に掲載されたスケッチも両手を使って描かれたもので、両手を使うので普通の人より早くスケッチを終えることが出来た。講演会でも、両手にチョークを持って黒板にスケッチを描き、それだけで聴衆の拍手喝采を浴びるほどであった。脳を献体するという遺言も、両手両利きに脳が与える影響を研究してほしいというモースの希望によるものである。
+左右の手で別々の文章や絵を描くことができる両手両利きであった\[15\]。『Japan Day by Day』に掲載されたスケッチも両手を使って描かれたもので、両手を使うので普通の人より早くスケッチを終えることが出来た。講演会でも、両手にチョークを持って黒板にスケッチを描き、それだけで聴衆の拍手喝采を浴びるほどであった。脳を献体するという遺言も、両手両利きに脳が与える影響を研究してほしいというモースの希望によるものである。
 
 ## 家族
 
-妻エレンとは一男一女をもうけた。長男ジョン・モースは保険検査などの[火災統計](https://ja.wikipedia.org/wiki/火災統計 "wikilink")の調査官になり、長女イーディスはストーン・アンド・エイディス社の重役で、富豪として著名だったラッセル・ローブに嫁いだ\[15\]。
+妻エレンとは一男一女をもうけた。長男ジョン・モースは保険検査などの[火災統計](https://ja.wikipedia.org/wiki/火災統計 "wikilink")の調査官になり、長女イーディスはストーン・アンド・エイディス社の重役で、富豪として著名だったラッセル・ローブに嫁いだ\[16\]。
 
 ## おもな著書
 
@@ -114,7 +120,7 @@
 
 ## 論文
 
-  - [国立情報学研究所収録論文](http://ci.nii.ac.jp/nrid/9000007646704) [国立情報学研究所](../Page/国立情報学研究所.md "wikilink")
+  - [国立情報学研究所収録論文](https://ci.nii.ac.jp/nrid/9000007646704) [国立情報学研究所](../Page/国立情報学研究所.md "wikilink")
 
   -
 <!-- end list -->
@@ -206,17 +212,18 @@
 [Category:アメリカ合衆国の動物学者](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の動物学者 "wikilink") [Category:明治時代のお雇い外国人](https://ja.wikipedia.org/wiki/Category:明治時代のお雇い外国人 "wikilink") [Category:東京大学の教員](https://ja.wikipedia.org/wiki/Category:東京大学の教員 "wikilink") [Category:ボウディン大学の教員](https://ja.wikipedia.org/wiki/Category:ボウディン大学の教員 "wikilink") [Category:勲二等瑞宝章受章者](https://ja.wikipedia.org/wiki/Category:勲二等瑞宝章受章者 "wikilink") [Category:勲三等旭日中綬章受章者](https://ja.wikipedia.org/wiki/Category:勲三等旭日中綬章受章者 "wikilink") [Category:メイン州ポートランド出身の人物](https://ja.wikipedia.org/wiki/Category:メイン州ポートランド出身の人物 "wikilink") [Category:ボストン美術館](https://ja.wikipedia.org/wiki/Category:ボストン美術館 "wikilink") [Category:1838年生](https://ja.wikipedia.org/wiki/Category:1838年生 "wikilink") [Category:1925年没](https://ja.wikipedia.org/wiki/Category:1925年没 "wikilink")
 
 1.  『87年版世界人名事典』394頁。
-2.  [石川千代松](../Page/石川千代松.md "wikilink")「嗟呼モールス先生」 [東京人類学会](https://ja.wikipedia.org/wiki/東京人類学会 "wikilink")『人類学雑誌』第41巻第2号 [1926年](../Page/1926年.md "wikilink")
-3.
-4.  近藤義郎・佐原真編訳、『大森貝塚』、岩波文庫（1983）ISBN 9784003343210 p.131 - p.135
-5.  同上 p.213
-6.
-7.  \[<http://www-w.cf.ocha.ac.jp/leader/wp/wp-content/themes/twentytwelve/pdf/15_2_files/ImakiireKanaReport.pdf>　近代日本における陶磁器輸出と米国市場\]今給黎 佳菜. 御茶ノ水大学学生海外調査研究、 2010年
-8.
+2.  <http://www.yamasa.org/history/english/edward_morse.html> Japanese History Online\]
+3.  [石川千代松](../Page/石川千代松.md "wikilink")「嗟呼モールス先生」 [東京人類学会](https://ja.wikipedia.org/wiki/東京人類学会 "wikilink")『人類学雑誌』第41巻第2号 [1926年](../Page/1926年.md "wikilink")
+4.
+5.  近藤義郎・佐原真編訳、『大森貝塚』、岩波文庫（1983）ISBN 9784003343210 p.131 - p.135
+6.  同上 p.213
+7.
+8.  \[<http://www-w.cf.ocha.ac.jp/leader/wp/wp-content/themes/twentytwelve/pdf/15_2_files/ImakiireKanaReport.pdf>　近代日本における陶磁器輸出と米国市場\]今給黎 佳菜. 御茶ノ水大学学生海外調査研究、 2010年
 9.
-10. [佐々木忠次郎](https://ja.wikipedia.org/wiki/佐々木忠次郎 "wikilink")「日本動物学の恩人モールス先生」 東京人類学会『人類学雑誌』第41巻第2号 1926年
-11. [八幡一郎](https://ja.wikipedia.org/wiki/八幡一郎 "wikilink")「モールス教授の脳の寄贈」 東京人類学会『人類学雑誌』第41巻第2号 1926年
-12. [アメリカ合衆国セーラム市](http://www.city.ota.tokyo.jp/yuukou_shimai/shimai_gai/selem.html)（大田区役所公式サイト）
-13. [モースの銅像 熊谷に完成](http://www.yomiuri.co.jp/local/saitama/news/20151219-OYTNT50315.html?from=ycont_top_txt)[YOMIURI ONLINE](https://ja.wikipedia.org/wiki/YOMIURI_ONLINE "wikilink")2015年12月20日配信（2015年12月20日閲覧）
-14.
+10.
+11. [佐々木忠次郎](https://ja.wikipedia.org/wiki/佐々木忠次郎 "wikilink")「日本動物学の恩人モールス先生」 東京人類学会『人類学雑誌』第41巻第2号 1926年
+12. [八幡一郎](https://ja.wikipedia.org/wiki/八幡一郎 "wikilink")「モールス教授の脳の寄贈」 東京人類学会『人類学雑誌』第41巻第2号 1926年
+13. [アメリカ合衆国セーラム市](http://www.city.ota.tokyo.jp/yuukou_shimai/shimai_gai/selem.html)（大田区役所公式サイト）
+14. [モースの銅像 熊谷に完成](http://www.yomiuri.co.jp/local/saitama/news/20151219-OYTNT50315.html?from=ycont_top_txt)[YOMIURI ONLINE](https://ja.wikipedia.org/wiki/YOMIURI_ONLINE "wikilink")2015年12月20日配信（2015年12月20日閲覧）
 15.
+16.

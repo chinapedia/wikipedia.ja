@@ -106,6 +106,8 @@
 
   - [フジテレビ お料理BAN\!BAN\!](http://web.archive.org/web/20051201051624/http://www.fujitv.co.jp/jp/b_hp/ryoriban/index.html)（インターネット・アーカイブ保存データ）
 
+## 脚注
+
 <references />
 
 [Category:1995年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1995年のテレビ番組_\(日本\) "wikilink") [Category:フジテレビの番組の企画](https://ja.wikipedia.org/wiki/Category:フジテレビの番組の企画 "wikilink") [Category:フジテレビの料理番組](https://ja.wikipedia.org/wiki/Category:フジテレビの料理番組 "wikilink") [Category:フジテレビの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:フジテレビの帯番組の歴史 "wikilink") [Category:榊原郁恵](https://ja.wikipedia.org/wiki/Category:榊原郁恵 "wikilink") [Category:井森美幸](https://ja.wikipedia.org/wiki/Category:井森美幸 "wikilink")

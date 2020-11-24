@@ -1,7 +1,7 @@
 > この記事は[カディスCF](https://ja.wikipedia.org/wiki/カディスCF)から翻訳されています。
 
 
-[220px](https://ja.wikipedia.org/wiki/ファイル:EstadioCarranza1.jpg "wikilink") **カディス・クルブ・デ・フトボル S.A.D.**（**Cádiz Club de Fútbol, S.A.D.**）は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[カディス](../Page/カディス.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。チームカラーの青色と黄色の組み合わせはカディス市の紋章に由来している\[1\]。
+[220px](https://ja.wikipedia.org/wiki/ファイル:EstadioCarranza1.jpg "wikilink") **カディス・クルブ・デ・フトボル**（**Cádiz Club de Fútbol, S.A.D.**）は、[アンダルシア州](../Page/アンダルシア州.md "wikilink")[カディス県](../Page/カディス県.md "wikilink")[カディス](../Page/カディス.md "wikilink")に本拠地を置く[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。チームカラーの青色と黄色の組み合わせはカディス市の紋章に由来している\[1\]。
 
 ## 歴史
 
@@ -637,9 +637,17 @@
 
 ## 現所属メンバー
 
-([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([第2主将](../Page/主将.md "wikilink"))     ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Peru.svg "wikilink")) ★    ★   ★  ★
+★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))     ★        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))      ★   ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
+
+### ローン移籍選手
+
+  - in
+
+<!-- end list -->
+
+  - out
 
 ## 歴代所属選手
 

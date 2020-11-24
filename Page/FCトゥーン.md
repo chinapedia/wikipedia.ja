@@ -248,7 +248,7 @@
 <td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
 <td></td>
 <td></td>
-<td><p>''' '''</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

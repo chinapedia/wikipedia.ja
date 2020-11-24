@@ -5,8 +5,8 @@
 
 ## 外部リンク
 
-  - [The myspace site of the rock band of J-FIVE](http://www.myspace.com/dustywhite)
-  - [The myspace site of Johnny five](http://www.myspace.com/johnnyfivemusic)
+  - [The myspace site of the rock band of J-FIVE](https://myspace.com/dustywhite)
+  - [The myspace site of Johnny five](https://myspace.com/johnnyfivemusic)
   - [Fan site](http://groups.msn.com/J-Fivefans/)
   - [Clip Modern times](http://video.google.fr/videoplay?docid=4891944458916270365)
   - [Clip Find a way](http://video.google.fr/videoplay?docid=-3749392961172214303)

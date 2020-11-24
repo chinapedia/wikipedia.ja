@@ -91,6 +91,9 @@
 |      |                                                                          |                                                                                 |                                           |                                                                                                                 |
 | 10th | 2019年[8月14日](../Page/8月14日.md "wikilink")                                | **CATCH**                                                                       | デジタル・ダウンロード                               | [doa Best Selection "MIDDLE COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"MIDDLE_COAST" "wikilink") |
 | 11th | 2019年[10月9日](../Page/10月9日.md "wikilink")                                | **野の花**                                                                         | デジタル・ダウンロード                               | [doa Best Selection "BALLAD COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"BALLAD_COAST" "wikilink") |
+| 12th | 2020年[9月30日](../Page/9月30日.md "wikilink")                                | **Grasshopper**                                                                 | デジタル・ダウンロード                               | Camp                                                                                                            |
+| 13th | 2020年[10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")           | **Camp**                                                                        | デジタル・ダウンロード                               |                                                                                                                 |
+| 14th | 2020年[11月25日](../Page/11月25日.md "wikilink")                              | **1日早いクリスマス**                                                                   | デジタル・ダウンロード                               |                                                                                                                 |
 
 ### アルバム
 
@@ -109,6 +112,7 @@
 | 9th  | [2015年](../Page/2015年.md "wikilink")[1月28日](../Page/1月28日.md "wikilink")                      | **[FLY HIGH](https://ja.wikipedia.org/wiki/FLY_HIGH_\(doaのアルバム\) "wikilink")**  | CD | GZCA-5270 | 69位  |
 | 10th | [2016年](../Page/2016年.md "wikilink")[1月27日](../Page/1月27日.md "wikilink")                      | **[FREEDOM×FREEDOM](https://ja.wikipedia.org/wiki/FREEDOM×FREEDOM "wikilink")** | CD | GZCA-5274 | 63位  |
 | 11th | [2018年](../Page/2018年.md "wikilink")[7月4日](../Page/7月4日.md "wikilink")                        | **[ISLAND](https://ja.wikipedia.org/wiki/ISLAND_\(doaのアルバム\) "wikilink")**      | CD | GZCA-5282 | 48位  |
+| 12th | [2020年](../Page/2020年.md "wikilink")[12月2日](../Page/12月2日.md "wikilink")                      | **Camp**                                                                        | CD | GZCA-5301 | TBA  |
 
 #### ベスト・アルバム
 
@@ -118,7 +122,7 @@
 | CD（2枚組） | GZCA-5263                                                                |                                                                                                                            |             |           |      |
 | 2nd     | [2019年](../Page/2019年.md "wikilink")[7月10日](../Page/7月10日.md "wikilink") | **[doa Best Selection "ROCK COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"ROCK_COAST" "wikilink")**            | CD          | GZCA-5292 | 60位  |
 | 3rd     | 2019年[9月11日](../Page/9月11日.md "wikilink")                                | **[doa Best Selection "MIDDLE COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"MIDDLE_COAST" "wikilink")**        | CD          | GZCA-5293 | 67位  |
-| 4th     | 2019年[11月6日](../Page/11月6日.md "wikilink")                                | **[doa Best Selection "BALLAD COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"BALLAD_COAST" "wikilink")**        | CD          | GZCA-5294 | TBA  |
+| 4th     | 2019年[11月6日](../Page/11月6日.md "wikilink")                                | **[doa Best Selection "BALLAD COAST"](https://ja.wikipedia.org/wiki/doa_Best_Selection_"BALLAD_COAST" "wikilink")**        | CD          | GZCA-5294 | 83位  |
 |         |                                                                          |                                                                                                                            |             |           |      |
 
 #### インディーズ・アルバム

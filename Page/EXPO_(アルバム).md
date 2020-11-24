@@ -310,7 +310,7 @@ ESTB-1115</p></td>
 30. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1991年10月号「TMN EXPO」8P-13Pより。
 31.
 32.
-33. [ダイアモンド社](https://ja.wikipedia.org/wiki/ダイアモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1991年9月16日号「TMN 彼らの“EXPO”は何でも飛び出すビックリ箱だ」12P-13Pより。
+33. [ダイアモンド社](https://ja.wikipedia.org/wiki/ダイアモンド社 "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1991年9月16日号「THIS WEEK'S OPENING ACT TMN 新作とツアーのポイントを面白おかしくトーク。彼らの“EXPO”は何でも飛び出すビックリ箱だ」12P-13Pより。
 34.
 35.
 36.

@@ -209,7 +209,7 @@
 
   - 衛藤快：[真山明大](../Page/真山明大.md "wikilink")
   - 倉林春：[久保田悠来](https://ja.wikipedia.org/wiki/久保田悠来 "wikilink")
-  - 梶山慶護：[窪寺明](https://ja.wikipedia.org/wiki/窪寺明 "wikilink")
+  - 梶山慶護：[窪寺昭](../Page/窪寺昭.md "wikilink")
   - 比企真孝他：[村田雅和](https://ja.wikipedia.org/wiki/村田雅和 "wikilink")
   - 葛井茉莉：[藤倉幸子](https://ja.wikipedia.org/wiki/藤倉幸子 "wikilink")
   - 磯部洋平：[佐藤雄一](../Page/佐藤雄一.md "wikilink")

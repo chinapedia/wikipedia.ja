@@ -120,7 +120,7 @@
       - ツキウタ。シリーズ 長月夜2\[47\] ※ドラマパートのみ出演
       - ツキウタ。シリーズ 「池袋月猫物語」\[48\]
   - TVアニメ [境界の彼方](https://ja.wikipedia.org/wiki/境界の彼方 "wikilink") ドラマCD スラップスティック文芸部（**神原秋人**）
-  - ディア♥ヴォーカリスト Drama CD Survival Wars \#1・2（**シエル**\[49\]）
+  - [ディア♥ヴォーカリスト Drama CD Survival Wars](https://ja.wikipedia.org/wiki/ディア♥ヴォーカリスト#Survival_Wars "wikilink") \#1・2（**シエル**\[49\]）
   - [ドルアーガの塔](https://ja.wikipedia.org/wiki/ドルアーガの塔_\(テレビアニメ\) "wikilink") シリーズ（**ジル**）
       - ドルアーガの塔 〜the Spoon of URUK〜
       - ドルアーガの塔 〜the fork of URUK〜
@@ -900,7 +900,7 @@
 </tr>
 <tr class="odd">
 <td><p>7月20日</p></td>
-<td><p>プリティーリズム・オーロラドリーム ライブチック・キャラクターソングCD act.4 「1/1000永遠の美学」</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリームのディスコグラフィ#act.4_1/1000永遠の美学" title="wikilink">プリティーリズム・オーロラドリーム ライブチック・キャラクターソングCD act.4「1/1000永遠の美学」</a></p></td>
 <td></td>
 <td><p>「1/1000永遠の美学」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリーム" title="wikilink">プリティーリズム・オーロラドリーム</a>』挿入歌</p></td>
@@ -928,10 +928,9 @@
 </tr>
 <tr class="odd">
 <td><p>3月16日</p></td>
-<td><p>プリティーリズム・オーロラドリーム プリズム☆ミュージックコレクション</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プリティーリズム・オーロラドリームのディスコグラフィ#プリズム☆ミュージックコレクション" title="wikilink">プリティーリズム・オーロラドリーム プリズム☆ミュージックコレクション</a></p></td>
 <td></td>
-<td><p>「1/1000永遠の美学」<br />
-「愛しのティンカーベル」</p></td>
+<td><p>「愛しのティンカーベル」</p></td>
 <td><p>テレビアニメ『プリティーリズム・オーロラドリーム』挿入歌</p></td>
 </tr>
 <tr class="even">
@@ -1280,7 +1279,8 @@
 <td><p>4月23日</p></td>
 <td><p>MARGINAL#4 THE BEST 『STAR CLUSTER』</p></td>
 <td></td>
-<td><p>「もう涙を隠さないで」</p></td>
+<td><p>「STAR SYMPHONY#4」<br />
+「もう涙を隠さないで」</p></td>
 <td><p>『MARGINAL#4』関連曲</p></td>
 </tr>
 <tr class="odd">
@@ -1508,7 +1508,8 @@
 <td><p>4月8日</p></td>
 <td><p>MARGINAL#4 THE BEST 『STAR CLUSTER2』</p></td>
 <td></td>
-<td><p>「Rock★Scissors★Paper Go</p></td>
+<td><p>恋のAKQJ10（ロイヤルフラッシュ）!<br />
+「Rock★Scissors★Paper Go</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -1523,7 +1524,7 @@
 <td><p>UFO</p></td>
 <td></td>
 <td><p>「UFO」<br />
-「星祭り〜ララララのまーじなる音頭〜」</p></td>
+「星祭り〜ラララのまーじなる音頭〜」</p></td>
 <td><p>『MARGINAL#4』関連曲</p></td>
 </tr>
 <tr class="odd">
@@ -1707,7 +1708,7 @@
 <td><p>シエル（<strong>KENN</strong>）</p></td>
 <td><p>「BLACK ANTHEM」<br />
 「LUV（Your）STiNG」</p></td>
-<td><p>カレはヴォーカリスト♥CD『ディア♥ヴォーカリスト』関連曲</p></td>
+<td><p>カレはヴォーカリスト♥CD『<a href="https://ja.wikipedia.org/wiki/ディア♥ヴォーカリスト" title="wikilink">ディア♥ヴォーカリスト</a>』関連曲</p></td>
 </tr>
 <tr class="even">
 <td><p>2月12日</p></td>
@@ -1788,7 +1789,7 @@
 <td></td>
 <td><p>「まじかるルルルル♪」<br />
 「カガミノナカ」</p></td>
-<td><p>『ピタゴラスプロダクション』関連曲</p></td>
+<td><p>『MARGINAL#4』関連曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>6月15日</p></td>
@@ -1807,16 +1808,17 @@
 <tr class="odd">
 <td><p>MARGINAL#4 THE BEST 『STAR CLUSTER3』</p></td>
 <td></td>
-<td><p>「Rebirth」</p></td>
+<td><p>「ギラギラSpider」<br />
+「Rebirth」</p></td>
 <td><p>『MARGINAL#4』関連曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>　</p></td>
 <td><p>ベストアルバム連動購入特典CD</p></td>
 <td></td>
 <td><p>「奇跡の星座（Sign）」</p></td>
-<td><p>『ピタゴラスプロダクション』関連曲</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6月29日</p></td>
@@ -1892,7 +1894,7 @@
 <td></td>
 <td><p>「カシマシLOVE」<br />
 「Hand in Hand」</p></td>
-<td><p>『ピタゴラスプロダクション』関連曲</p></td>
+<td><p>『MARGINAL#4』関連曲</p></td>
 </tr>
 <tr class="odd">
 <td><p>9月21日</p></td>
@@ -2147,9 +2149,8 @@
 <td><p>6月7日</p></td>
 <td><p>Choooose One</p></td>
 <td></td>
-<td><p>「Choooose One」<br />
-「ピエロ」</p></td>
-<td><p>『MARGINAL#4』関連曲</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>6月14日</p></td>
@@ -2182,11 +2183,7 @@
 <tr class="odd">
 <td><p>ピタゴラスプロダクション シャッフルユニットベストアルバム</p></td>
 <td></td>
-<td><p>「まじかるルルルル♪」<br />
-「カガミノナカ」<br />
-「カシマシLOVE」<br />
-「Hand in Hand」<br />
-「ミラクル！」</p></td>
+<td><p>「ミラクル！」</p></td>
 <td><p>『MARGINAL#4』関連曲</p></td>
 <td></td>
 </tr>
@@ -2229,35 +2226,11 @@
 <tr class="odd">
 <td><p>MARGINAL#4 KISSから創造るBig Bang BEST</p></td>
 <td></td>
-<td><p>「WeMe</p></td>
-<td></td>
-<td><p>」<br />
-「忍 -Just A 絶頂-」<br />
-「絆-KIZUNA-」<br />
-「Orbit」</p></td>
-</tr>
-<tr class="even">
-<td><p>野村エル（<strong>KENN</strong>）&amp;野村アール（鈴木裕斗）</p></td>
-<td><p>「Melty♥Love♥Cooking」</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>野村エル（<strong>KENN</strong>）</p></td>
-<td><p>「コ・コ・ロ・ヒ・ト・ツ」</p></td>
-<td></td>
-<td></td>
+<td><p>「Orbit」</p></td>
+<td><p>テレビアニメ『MARGINAL#4 KISSから創造るBig Bang』関連曲</p></td>
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><p>「KISSから創造るBig Bang」</p></td>
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>11月22日</p></td>
 <td><p>Dear Butterfly</p></td>
 <td></td>
@@ -2265,7 +2238,7 @@
 「月明かりイルミネイト」</p></td>
 <td><p>ゲーム『アイドリッシュセブン』関連曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>ピタゴラス スペクタクルツアー ライブ Vol.2「STARGAZER Z」</p></td>
 <td><p>野村エル(<strong>KENN</strong>)×緋室キラ(大河元気)×滝丸アルト(沢城千春)</p></td>
 <td><p>「SHOW★TIME」<br />
@@ -2273,56 +2246,56 @@
 <td><p>ゲーム『MARGINAL#4』関連曲</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>逆転裁判4 ミニサウンドトラックCD</p></td>
 <td><p>王泥喜法介（<strong>KENN</strong>）</p></td>
 <td><p>「王泥喜法介 〜 新章開廷! (2017アレンジバージョン)」</p></td>
 <td><p>ゲーム『逆転裁判4』関連曲</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月20日</p></td>
 <td><p>茜さすセカイでキミと詠う オリジナルキャラクターソング＆ミニドラマCD「この空の向こうに」</p></td>
 <td><p>高杉晋作（<strong>KENN</strong>）、安倍晴明（鳥海浩輔）</p></td>
 <td><p>「この空の向こうに」</p></td>
 <td><p>ゲーム『茜さすセカイでキミと詠う』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>高杉晋作（<strong>KENN</strong>）</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月10日</p></td>
 <td><p>俺たちマジ校デストロイ</p></td>
 <td></td>
 <td><p>「俺たちマジ校デストロイ」</p></td>
 <td><p>『俺たちマジ校デストロイ』関連曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月17日</p></td>
 <td><p>『剣が君 百夜綴り』キャラクターソング 春雷の章「螢・縁」</p></td>
 <td><p>螢（<strong>KENN</strong>）</p></td>
 <td><p>「あの虹へと」</p></td>
 <td><p>ゲーム『剣が君 百夜綴り』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1月24日</p></td>
 <td><p>ボーイフレンド（仮）プロジェクト ミュージックアルバム 藤城学園 #02</p></td>
 <td></td>
 <td><p>「俺たちはずっと」</p></td>
 <td><p>ゲーム『ボーイフレンド（仮）きらめき☆ノート』関連曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1月25日</p></td>
 <td><p>めいこいキャラクターソングシリーズ ロマネスクレコード ベストアルバム 百花繚乱</p></td>
 <td><p>KENN</p></td>
@@ -2333,14 +2306,14 @@
 「約束」</p></td>
 <td><p>ゲーム『明治東亰恋伽』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>森鴎外（浪川大輔）・菱田春草（<strong>KENN</strong>）</p></td>
 <td><p>「忘却イルミネヰト」</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>菱田春草（<strong>KENN</strong>）・泉鏡花（岡本信彦）</p></td>
 <td><p>「ルナティック・キス」<br />
 「ノスタルジア」</p></td>
@@ -2348,7 +2321,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>菱田春草(<strong>KENN</strong>)</p></td>
 <td><p>「飛花落葉」<br />
 「ノスタルジア （菱田春草 ver.）」</p></td>
@@ -2356,21 +2329,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月14日</p></td>
 <td><p>WiSH VOYAGE</p></td>
 <td></td>
 <td><p>「WiSH VOYAGE」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン』オープニングテーマ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>「Dancing∞BEAT</p></td>
 <td><p>」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン』挿入歌</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>3月8日</p></td>
 <td><p>フォリラ/fes.CINDERELLA</p></td>
 <td></td>
@@ -2378,42 +2351,42 @@
 「fes.CINDERELLA」</p></td>
 <td><p>ゲーム『<a href="https://ja.wikipedia.org/wiki/フォルティッシモ_(ビジュアルストーリー)" title="wikilink">フォルティッシモ</a>』主題歌</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月21日</p></td>
 <td><p>雨</p></td>
 <td></td>
 <td><p>「雨」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン』エンディングテーマ</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>「甘さひかえめ」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン』関連曲</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>4月4日</p></td>
 <td><p>fleur</p></td>
 <td></td>
 <td><p>「平凡なこの日々に花束を」</p></td>
 <td><p>ゲーム『アイ★チュウ』関連曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>4月11日</p></td>
 <td><p>百花繚乱</p></td>
 <td><p>高杉晋作（<strong>KENN</strong>）</p></td>
 <td><p>「百花繚乱」</p></td>
 <td><p>ゲーム『茜さすセカイでキミと詠う』オープニングテーマ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>5月25日</p></td>
 <td><p>アイドリッシュセブン BD・DVD第4巻特典CD</p></td>
 <td></td>
 <td><p>「TODAY IS」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン』挿入歌</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6月20日</p></td>
 <td><p>ナナツイロ REALiZE</p></td>
 <td><p>「ナナツイロ REALiZE」<br />
@@ -2421,14 +2394,14 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7月7日</p></td>
 <td><p>Welcome, Future World</p></td>
 <td><p>!</p></td>
 <td><p>、、</p></td>
 <td><p>「Welcome, Future World</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>7月25日</p></td>
 <td><p>GiVeMe</p></td>
 <td></td>
@@ -2436,42 +2409,42 @@
 「光」</p></td>
 <td><p>『MARGINAL#4』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>9月5日</p></td>
 <td><p>Own The Night〜イケメンライブ 恋の歌をキミに イケラブ 1st ALBUM〜</p></td>
 <td><p>朱真遥音（<strong>KENN</strong>）、銀波律（蒼井翔太）、東雲詠介（<a href="../Page/谷山紀章.md" title="wikilink">谷山紀章</a>）、蘇芳楽（梶裕貴）、眞白奏（<a href="https://ja.wikipedia.org/wiki/深町寿成" title="wikilink">深町寿成</a>）、千草響一郎（<a href="https://ja.wikipedia.org/wiki/伊東健人" title="wikilink">伊東健人</a>）、天宮アンリ（<a href="../Page/大河元気.md" title="wikilink">大河元気</a>）、藍墨晃揮（<a href="https://ja.wikipedia.org/wiki/近藤隆" title="wikilink">近藤隆</a>）、藤代旋（<a href="../Page/黒田崇矢.md" title="wikilink">黒田崇矢</a>）、銀波弓弦（<a href="../Page/植田圭輔.md" title="wikilink">植田圭輔</a>）、椿麻琴（小野友樹）、木蘭宗詩（<a href="https://ja.wikipedia.org/wiki/市川太一" title="wikilink">市川太一</a>）</p></td>
 <td><p>「最愛PHRASE」</p></td>
 <td><p>ゲーム『イケメンライブ 恋の歌をキミに』主題歌</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td></td>
 <td><p>「HORIZON」</p></td>
 <td><p>ゲーム『イケメンライブ 恋の歌をキミに』関連曲</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>朱真遥音（<strong>KENN</strong>）</p></td>
 <td><p>「Liberty Sky〜自由デアルタメニ」</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>9月28日</p></td>
 <td><p>覇穹 封神演義 BD・DVD第7巻特典CD</p></td>
 <td><p>黄天化（<strong>KENN</strong>）</p></td>
 <td><p>「WILD SWORD」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/覇穹_封神演義" title="wikilink">覇穹 封神演義</a>』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>12月19日</p></td>
 <td><p>アイ★チュウ 〜I★Chu Award 2018ミニアルバム〜</p></td>
 <td><p>愛童星夜（<strong>KENN</strong>）</p></td>
 <td><p>「We are HEROES</p></td>
 <td><p>!」</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>12月21日</p></td>
 <td><p>GANG×ROCK 皇位争奪トーナメント ENTRY01 Odin;s 訊け、我が雷鳴を！</p></td>
 <td></td>
@@ -2479,40 +2452,48 @@
 「Saqirlat」</p></td>
 <td><p>キャラクターCD『GANG×ROCK』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>GANG×ROCK 皇位争奪トーナメント ENTRY01 Odin;s 訊け、我が雷鳴を！ 雷堂EDITION</p></td>
 <td><p>雷堂翔太（<strong>KENN</strong>）</p></td>
 <td><p>「Don't wanna stay」</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2019年</p></td>
 <td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2月20日</p></td>
 <td><p>剣が君 百夜綴り 二重唱 夕凪の章 螢・縁</p></td>
 <td><p>螢（<strong>KENN</strong>）、縁（<a href="../Page/置鮎龍太郎.md" title="wikilink">置鮎龍太郎</a>）</p></td>
 <td><p>「夏疾風」</p></td>
 <td><p>ゲーム『剣が君 百夜綴り』関連曲</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2月27日</p></td>
 <td><p>テレビアニメ『明治東亰恋伽』エンディングテーマ集</p></td>
 <td><p>森鴎外（浪川大輔）、菱田春草（<strong>KENN</strong>）</p></td>
 <td><p>「星屑の詠み人」</p></td>
 <td><p>テレビアニメ『明治東亰恋伽』エンディングテーマ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>3月20日</p></td>
 <td><p>アイ★チュウ BEST ALBUM アイ盤</p></td>
 <td></td>
 <td><p>「higher,HighER,HIGHER!」</p></td>
 <td><p>ゲーム『アイ★チュウ』関連曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>ピタゴラスプロダクション GALACTI9★SONGシリーズ #4「P.S.」野村エル</p></td>
+<td><p>野村エル（<strong>KENN</strong>）</p></td>
+<td><p>「P.S.」<br />
+「パルコ（L Ver.）」</p></td>
+<td><p>『MARGINAL#4』関連曲</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>3月27日</p></td>
@@ -2629,30 +2610,72 @@
 <td><p>ゲーム『アイ★チュウ Étoile Stage』主題歌</p></td>
 </tr>
 <tr class="even">
+<td><p>3月25日</p></td>
+<td><p>ピタゴラスインフィニティソロベスト”M”(4+2+3=9)∞</p></td>
+<td></td>
+<td><p>「スパークリング」</p></td>
+<td><p>『MARGINAL#4』関連曲</p></td>
+</tr>
+<tr class="odd">
 <td><p>5月20日</p></td>
 <td><p>ACTORS-Singing Contest Edition-sideA</p></td>
 <td><p>魚津鯆澄（<strong>KENN</strong>）</p></td>
 <td><p>「HEAVEN」</p></td>
 <td><p>キャラクターCD『ACTORS』関連曲</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>6月26日</p></td>
 <td><p>Paint It Black</p></td>
 <td></td>
 <td><p>「Paint It Black」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/ツキウタ。_THE_ANIMATION2" title="wikilink">ツキウタ。 THE ANIMATION2</a>』オープニングテーマ</p></td>
 </tr>
+<tr class="odd">
+<td><p>7月3日</p></td>
+<td><p>ピタゴラスプロダクション ONE DREAM 2020 3rd 「グッバイルールブック」[134]</p></td>
+<td></td>
+<td><p>「グッバイルールブック」</p></td>
+<td><p>『MARGINAL#4』関連曲</p></td>
+</tr>
 <tr class="even">
+<td><p>8月7日</p></td>
+<td><p>ピタゴラスプロダクション ONE DREAM 2020 4th「最愛公約」[135]</p></td>
+<td><p>「最愛公約」</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>8月26日</p></td>
 <td><p>DiSCOVER THE FUTURE</p></td>
 <td></td>
 <td><p>「DiSCOVER THE FUTURE」</p></td>
 <td><p>テレビアニメ『<a href="https://ja.wikipedia.org/wiki/アイドリッシュセブン_Second_BEAT!" title="wikilink">アイドリッシュセブン Second BEAT!</a>』オープニングテーマ</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>「Everyday Yeah!」</p></td>
 <td><p>テレビアニメ『アイドリッシュセブン Second BEAT!』関連曲</p></td>
 <td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>12月2日</p></td>
+<td><p>ラフラフ！-Laugh Life- Final Round</p></td>
+<td><p>、、</p></td>
+<td><p>「Laugh or Die」</p></td>
+<td><p>『ラフラフ！-laugh life-』関連曲</p></td>
+</tr>
+<tr class="even">
+<td><p>12月23日</p></td>
+<td><p>OUVERTURE</p></td>
+<td></td>
+<td><p>「ジュエリーダスト」</p></td>
+<td><p>ゲーム『アイ★チュウ Étoile Stage』関連曲</p></td>
+</tr>
+<tr class="odd">
+<td><p>OUVERTURE 初回限定盤</p></td>
+<td></td>
+<td><p>「マジカル LOVE ポーション！」</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -2664,6 +2687,13 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>1月6日</p></td>
+<td><p>ACTORS – Deluxe Dream Edition –</p></td>
+<td><p>魚津鯆澄（<strong>KENN</strong>）、飯盛駆（浅沼晋太郎）</p></td>
+<td><p>「ベノム」</p></td>
+<td><p>キャラクターCD『ACTORS』関連曲</p></td>
+</tr>
+<tr class="even">
 <td><p>5月28日</p></td>
 <td><p>ツキウタ。 THE ANIMATION2 BD・DVD第5巻特典CD</p></td>
 <td><p>皐月葵（<strong>KENN</strong>）</p></td>
@@ -2946,3 +2976,5 @@
 131. 本人たちが企画し、作詞・作曲・歌唱・ディレクションなどを行っている。CD-Rに焼かれた手作りCDで、戦隊物のパロディ曲「超新人LIVEMEN」、ライヴのテーマソング「みんなの場所」、CD限定版ラジオ「[ばかいわ出張スペシャル](../Page/トッシー・ほったまの「ばかだなぁ〜♪って言われたい」.md "wikilink")」の他、映像特典として「超新人LIVEMEN」のオープニングPVが収録されている。
 132. 「東亰浪漫譚」とのダブルオープニング仕様。
 133.
+134. 配信限定。
+135.

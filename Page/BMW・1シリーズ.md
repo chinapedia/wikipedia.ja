@@ -7,9 +7,9 @@
 
 1シリーズは[Cセグメント](../Page/Cセグメント.md "wikilink")に属し、[BMW](../Page/BMW.md "wikilink")の[エントリーモデルとなっていた](https://ja.wikipedia.org/wiki/ローエンド "wikilink")[3シリーズコンパクトの後継を担っている](https://ja.wikipedia.org/wiki/BMW・3シリーズ#E46コンパクト "wikilink")。
 
-他社の[Cセグメント](../Page/Cセグメント.md "wikilink")車は駆動方式に[横置き](../Page/横置きエンジン.md "wikilink")[FFを採用して室内容積などの](../Page/前輪駆動.md "wikilink")[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")面を重視しているのに対し、1シリーズは[FRを採用し](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")、フロントアクスルとリヤアクスルへの荷重をほぼ50:50の均等に配分することにこだわり、走行性能を追求しているところが特徴である。また、これは同社全シリーズ一貫した姿勢であり、「駆けぬける歓び」を世界共通の[キャッチフレーズとしている](../Page/キャッチコピー.md "wikilink")。
+他社の[Cセグメント](../Page/Cセグメント.md "wikilink")車は駆動方式に[横置き](../Page/横置きエンジン.md "wikilink")[FFを採用して室内容積などの](../Page/前輪駆動.md "wikilink")[実用](https://ja.wikipedia.org/wiki/実用 "wikilink")面を重視しているのに対し、初代・２代目の1シリーズは[FRを採用し](https://ja.wikipedia.org/wiki/後輪駆動#フロントエンジン・リアドライブ方式 "wikilink")、フロントアクスルとリヤアクスルへの荷重をほぼ50:50の均等に配分することにこだわり、走行性能を追求しているところが特徴である。また、これは同社全シリーズ一貫した姿勢であり、「駆けぬける歓び」を世界共通の[キャッチフレーズとしている](../Page/キャッチコピー.md "wikilink")。
 
-[2020年](../Page/2020年.md "wikilink")モデルとなる3代目は、[MINIや](../Page/ミニ_\(BMW\).md "wikilink")2シリーズツアラー（[F45](https://ja.wikipedia.org/wiki/BMW・2シリーズ#アクティブツアラー（F45） "wikilink")/[F46](https://ja.wikipedia.org/wiki/BMW・2シリーズ#グランツアラー（F46） "wikilink")）で培われた技術を全て活用したFFで開発が進んでいる\[1\]。
+3代目は、[MINIや](../Page/ミニ_\(BMW\).md "wikilink")2シリーズツアラー（[F45](https://ja.wikipedia.org/wiki/BMW・2シリーズ#アクティブツアラー（F45） "wikilink")/[F46](https://ja.wikipedia.org/wiki/BMW・2シリーズ#グランツアラー（F46） "wikilink")）で培われた技術を全て活用したFFで開発され\[1\][2019年](../Page/2019年.md "wikilink")に販売が開始された。
 
 ## 初代（2004年 - 2011年）E87型
 
@@ -78,7 +78,7 @@
 | 135iクーペ (2008年 - 2010年)                               |
 | 135iクーペ (2010年 - 2014年)                               |
 
-## 第2世代（2011年 - 2019年）F20型
+## 2代目（2011年 - 2019年）F20型
 
 [BMW_118i_Urban_Line_(F20)_–_Heckansicht,_10._März_2012,_Düsseldorf.jpg](https://ja.wikipedia.org/wiki/File:BMW_118i_Urban_Line_\(F20\)_–_Heckansicht,_10._März_2012,_Düsseldorf.jpg "fig:BMW_118i_Urban_Line_(F20)_–_Heckansicht,_10._März_2012,_Düsseldorf.jpg") [2015_BMW_118d_(F20)_5-door_hatchback_(2016-02-11).jpg](https://ja.wikipedia.org/wiki/File:2015_BMW_118d_\(F20\)_5-door_hatchback_\(2016-02-11\).jpg "fig:2015_BMW_118d_(F20)_5-door_hatchback_(2016-02-11).jpg") 2011年6月5日に発表\[9\]。欧州市場では同年秋から販売を開始した\[10\]。
 
@@ -139,7 +139,7 @@ M135i M140iに関してはランフラットタイヤではない。
 
 {{-}}
 
-## 第3世代（2019年 -）F40型
+## 3代目（2019年 -）F40型
 
 [2019年](../Page/2019年.md "wikilink")5月27日、[ミュンヘン](../Page/ミュンヘン.md "wikilink")で開催された「BMW Group ＃NEXTGen presentation platform」にて[ワールドプレミア](https://ja.wikipedia.org/wiki/ワールドプレミア "wikilink")。同年9月に日本を含めた複数の市場で発売を開始すると発表された。
 

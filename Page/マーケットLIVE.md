@@ -14,4 +14,4 @@
   - 毎週月曜 - 金曜 6:15 - 6:30 （1994年10月3日 - 1997年9月26日）
   - 毎週月曜 - 金曜 6:00 - 6:15 （1997年9月29日 - 1998年9月30日）
 
-[Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink")
+[Category:1994年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1994年のテレビ番組_\(日本\) "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:経済を題材としたテレビ番組](https://ja.wikipedia.org/wiki/Category:経済を題材としたテレビ番組 "wikilink")

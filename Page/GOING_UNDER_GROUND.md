@@ -1157,7 +1157,7 @@ Private lessons vol.2 (2019年12月12日)
   - [マシータ](../Page/マシータ.md "wikilink") - 2015年よりサポートドラムとしてライブに参加。
   - [宮尾和孝](../Page/宮尾和孝.md "wikilink") - イラストレーター。河野丈洋の中学校時代の同級生であり、GOING UNDER GROUNDのCD、DVD作品のジャケットイラストを多く手がける。
   - [Bank Band](../Page/Bank_Band.md "wikilink") - アルバム『[沿志奏逢3](https://ja.wikipedia.org/wiki/沿志奏逢3 "wikilink")』（2010年6月30日発売）に「[ハートビート](../Page/ハートビート_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
-  - [Lead](../Page/Lead.md "wikilink") - シングル『Upturn』（2013年6月19日発売）に「[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
+  - [Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink") - シングル『Upturn』（2013年6月19日発売）に「[トワイライト](../Page/トワイライト_\(GOING_UNDER_GROUNDの曲\).md "wikilink")」のカバーが収録されている。
   - [劇団ひとり](../Page/劇団ひとり.md "wikilink") - シングル『いっしょに帰ろう』（2009年1月21日発売）のPVに出演して、プライベートでも親交がある。
   - [橋口靖正](https://ja.wikipedia.org/wiki/橋口靖正 "wikilink") - 約2年半に渡り、GOING UNDER GROUNDのサポートキーボードを担当していたが、2016年12月8日に急逝した。
 
@@ -1213,7 +1213,7 @@ Private lessons vol.2 (2019年12月12日)
 
       - \- 週末Diner公式サイト内Podcast配信ページ。
 
-[Category:GOING_UNDER_GROUND](https://ja.wikipedia.org/wiki/Category:GOING_UNDER_GROUND "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+[Category:GOING_UNDER_GROUND](https://ja.wikipedia.org/wiki/Category:GOING_UNDER_GROUND "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:ビクターエンタテインメントのアーティスト](https://ja.wikipedia.org/wiki/Category:ビクターエンタテインメントのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:1991年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1991年に結成した音楽グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink")
 
 1.
 2.  該当ツイート[1](https://twitter.com/sou_matsumoto/status/541034045174325248)

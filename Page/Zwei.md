@@ -629,7 +629,7 @@ FVCG-1303（通常盤）</p></td>
 
   - [当時のオフィシャルWebサイト](https://web.archive.org/web/20121020074328/http://www.reussit.com/pickup/zweiii/1.html) - 閉鎖（2012年10月20日時点のアーカイブ）
 
-[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アミュレート](https://ja.wikipedia.org/wiki/Category:アミュレート "wikilink") [Category:MAGES.のアーティスト](https://ja.wikipedia.org/wiki/Category:MAGES.のアーティスト "wikilink")
+[Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ガールズバンド](https://ja.wikipedia.org/wiki/Category:ガールズバンド "wikilink") [Category:ゲーム音楽家](https://ja.wikipedia.org/wiki/Category:ゲーム音楽家 "wikilink") [Category:アミュレート](https://ja.wikipedia.org/wiki/Category:アミュレート "wikilink") [Category:MAGES.のアーティスト](https://ja.wikipedia.org/wiki/Category:MAGES.のアーティスト "wikilink") [Category:アニメソング歌手](https://ja.wikipedia.org/wiki/Category:アニメソング歌手 "wikilink")
 
 1.  「ツヴァイ」ではなく「ヅヴァイ」と一文字目も濁る。
 2.  ただし、[ビーイング](../Page/ビーイング.md "wikilink")プロデュースではない

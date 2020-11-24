@@ -489,7 +489,7 @@
 
 ## WIRE11
 
-  - 開催日: [2011年](../Page/1999年.md "wikilink")（平成23年）[8月27日](../Page/7月3日.md "wikilink")
+  - 開催日: [2011年](../Page/2011年.md "wikilink")（平成23年）[8月27日](../Page/8月27日.md "wikilink")
   - 開催場所: 横浜アリーナ
 
 <!-- end list -->
@@ -628,7 +628,7 @@
   - WIRE06　[安藤亜実](../Page/安藤亜実.md "wikilink")
   - WIRE07　[小林由佳](../Page/小林由佳_\(空手家\).md "wikilink")
   - WIRE08　[安藤亜実](../Page/安藤亜実.md "wikilink")、[新田千尋](../Page/新田千尋.md "wikilink")
-  - WIRE09　
+  - WIRE09
   - WIRE10　[絹川麗](https://ja.wikipedia.org/wiki/絹川麗 "wikilink")
   - WIRE12　[久保田紗友](https://ja.wikipedia.org/wiki/久保田紗友 "wikilink")
   - WIRE13　[萩原みのり](https://ja.wikipedia.org/wiki/萩原みのり "wikilink")

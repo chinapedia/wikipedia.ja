@@ -334,7 +334,7 @@ Zepp Nagoya以前に設置された施設は、[2002年](../Page/2002年.md "wik
 
 ### Zepp Namba（OSAKA）における振動問題
 
-Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")以降、ライブ中に多数の観客がジャンプすることに起因しての振動が発生し、隣接する[クボタ](../Page/クボタ.md "wikilink")本社において[ビル](https://ja.wikipedia.org/wiki/建築物#ビルディング "wikilink")6棟が大きく揺れるといった影響が見られるようになった。クボタ側はZepp側に何度も苦情を申し入れ、Zepp側も 観客側にジャンプの自粛を呼びかけているが、振動問題は止んでいない状況である\[74\]。
+Zepp Namba（OSAKA）のオープン日である[2012年](../Page/2012年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink")以降、ライブ中に多数の観客がジャンプすることに起因しての振動が発生し、隣接する[クボタ](../Page/クボタ.md "wikilink")本社[ビル](https://ja.wikipedia.org/wiki/建築物#ビルディング "wikilink")6棟のうち2棟が大きく揺れるといった影響が見られるようになった。クボタ側はZepp側に何度も苦情を申し入れ、Zepp側も 観客側にジャンプの自粛を呼びかけているが、振動問題は止んでいない状況である\[74\]。
 
 ### Zepp Tokyoの「青海駅」取り違え問題
 

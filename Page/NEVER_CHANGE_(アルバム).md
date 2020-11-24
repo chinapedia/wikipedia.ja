@@ -9,7 +9,7 @@
 
 これと前後して、9月16日には『LICENSE』に収録されていた「泣いてチンピラ」（1987年）をシングルカットとしてリリースし、翌1988年2月5日には本作からの先行シングルとなる「[乾杯-NEW RECORDING VERSION-](../Page/乾杯_\(長渕剛の曲\).md "wikilink")」（1988年）をリリース、長渕のシングルとしては「[順子/涙のセレナーデ](https://ja.wikipedia.org/wiki/順子/涙のセレナーデ "wikilink")」（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")）以来となるオリコンチャート1位を獲得し、約77万枚を売り上げるなど大ヒットとなった\[6\]。
 
-アルバムタイトルの『NEVER CHANGE』は、後にリリースされたシングル「[NEVER CHANGE](../Page/NEVER_CHANGE.md "wikilink")」（1988年）のタイトルとなった。また、一時期まで長渕のオフィシャルホームページのタイトルとしても用いられた。
+アルバムタイトルの『NEVER CHANGE』は、後にリリースされたシングル「[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(長渕剛の曲\) "wikilink")」（1988年）のタイトルとなった。また、一時期まで長渕のオフィシャルホームページのタイトルとしても用いられた。
 
 ## 録音
 
@@ -175,7 +175,7 @@ CT32-5061 (CD)</p></td>
   - [公式サイトディスコグラフィー「NEVER CHANGE」](http://www.nagabuchi.or.jp/disco/album/never_change.php)
 
   -
-[Category:1988年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1988年のセルフカバー・アルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:長渕剛のアルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のアルバム "wikilink")
+[Category:長渕剛のアルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のアルバム "wikilink") [Category:1988年のセルフカバー・アルバム](https://ja.wikipedia.org/wiki/Category:1988年のセルフカバー・アルバム "wikilink") [Category:1988年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1988年のオリコンアルバムチャート1位獲得作品 "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")
 
 1.
 2.

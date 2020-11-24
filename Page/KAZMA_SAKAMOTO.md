@@ -155,19 +155,38 @@
 
 ## 得意技
 
+### フィニッシュ・ホールド
+
+  - 真・虎王亜型
+    相手の左腕を[ハンマーロック](https://ja.wikipedia.org/wiki/ハンマーロック "wikilink")で捕らえた状態で前傾姿勢にし、右サイドから側頭部に狙って右膝蹴りを叩き込む。相手の右腕も左腕のクラッチに引っ掛けているため、完全に無防備な状態で頭部を撃ち抜くKO必至の戦慄フィニッシャー。
   - [ダイビングフットスタンプ](https://ja.wikipedia.org/wiki/フット・スタンプ#ダイビング・フット・スタンプ "wikilink")（旧：Harakiri）
     **ハーフパッケージパイルドライバー**
     変形パッケージパイルドライバー。
-
     2020年現在のフィニッシュホールド。
+    リストクラッチ式パッケージパイルドライバー
+  - [FAT](https://ja.wikipedia.org/wiki/エメラルド・フロウジョン#派生技FAT "wikilink")
+    [KAZMA SAKAMOTOのオリジナル技](../Page/KAZMA_SAKAMOTO.md "wikilink")。リバース[DDTのクラッチから相手の体を持ち上げて肩に担ぎ](../Page/DDT_\(プロレス技\).md "wikilink")、[エメラルド・フロウジョン](https://ja.wikipedia.org/wiki/エメラルド・フロウジョン "wikilink")のように落とす。
 
-    **リストクラッチ式パッケージパイルドライバー**
+### 打撃技
 
-  - [FAT](https://ja.wikipedia.org/wiki/エメラルド・フロウジョン#派生技 "wikilink")
+  - [エルボー](https://ja.wikipedia.org/wiki/エルボーバット "wikilink")
+    [エルボー・スタンプ](https://ja.wikipedia.org/wiki/エルボーバット#エルボー・スタンプ "wikilink")
+    [バックエルボー](https://ja.wikipedia.org/wiki/エルボーバット#バックハンドエルボー "wikilink")
+    [逆水平チョップ](https://ja.wikipedia.org/wiki/手刀打ち#逆水平チョップ "wikilink")
+    [チョップ・スマッシュ](https://ja.wikipedia.org/wiki/手刀打ち#チョップ・スマッシュ "wikilink")
+    [張り手](../Page/平手打ち.md "wikilink")
+    [ナックル・パンチ](https://ja.wikipedia.org/wiki/パンチング#ナックル・パンチ "wikilink")
+    [地獄突き](https://ja.wikipedia.org/wiki/地獄突き "wikilink")
+    [ラリアット](../Page/ラリアット.md "wikilink")
     **E-Zパンク**
     CMパンクのオリジナル技。E-Zパンクの技名でKAZMAが使用する。
 
-    相手の左腕をハンマーロックに極め、相手の右腕を自分の首の後ろに引っかける。そこから自ら左方向に体をひねりながら右腕を振りぬき、相手ののど下にラリアットを叩き込む。
+    相手の左腕を[ハンマーロック](https://ja.wikipedia.org/wiki/ハンマーロック "wikilink")に極め、相手の右腕を自分の首の後ろに引っかける。そこから自ら左方向に体をひねりながら右腕を振りぬき、相手ののど下に[ラリアット](../Page/ラリアット.md "wikilink")を叩き込む。
+
+  - [AXボンバー](https://ja.wikipedia.org/wiki/アックスボンバー "wikilink")
+    [トラースキック](https://ja.wikipedia.org/wiki/トラースキック "wikilink")
+
+### 投げ技
 
   - ババンギダ
     [みちのくドライバーII](../Page/みちのくドライバーII.md "wikilink")
@@ -175,11 +194,10 @@
     [KAZMAX](https://ja.wikipedia.org/wiki/ロックボトム "wikilink")
     [ロックボトム](https://ja.wikipedia.org/wiki/ロックボトム "wikilink")と同じ技
 
+### 絞め技
+
   - **KAZLOCK**
     [アナコンダ・バイスと同じ技](../Page/V1アームロック.md "wikilink")。
-
-  - [AXボンバー](https://ja.wikipedia.org/wiki/アックスボンバー "wikilink")
-    [トラースキック](https://ja.wikipedia.org/wiki/トラースキック "wikilink")
 
 ## 入場曲
 

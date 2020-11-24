@@ -41,4 +41,4 @@
   - [DJ TETSUYA,REQUEST MASTER](http://www.fmnorth.co.jp/pro.asp?PID=261)
   - [リクエストマスターブログ](http://825.fm/blog/requestmaster.php)
 
-[Category:NORTH_WAVEの帯番組](https://ja.wikipedia.org/wiki/Category:NORTH_WAVEの帯番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink")
+[Category:NORTH_WAVEの帯番組](https://ja.wikipedia.org/wiki/Category:NORTH_WAVEの帯番組 "wikilink") [Category:JFL系ラジオの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組の歴史 "wikilink") [Category:2005年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2005年のラジオ番組_\(日本\) "wikilink")

@@ -10,6 +10,7 @@
   - [日産ディーゼル・スペースランナーRM](../Page/日産ディーゼル・スペースランナーRM.md "wikilink") - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）の中型バス。
   - [日野自動車](../Page/日野自動車.md "wikilink")がかつて製造していた中型バス。[日野・レインボー\#RM100](https://ja.wikipedia.org/wiki/日野・レインボー#RM100 "wikilink")を参照。
   - [スズキの](../Page/スズキ_\(企業\).md "wikilink")[2サイクル](https://ja.wikipedia.org/wiki/2サイクル "wikilink")モトクロスバイクの名称。[4サイクル](https://ja.wikipedia.org/wiki/4サイクル "wikilink")はRM-Zとなる。
+  - [RM (ラッパー)](https://ja.wikipedia.org/wiki/RM_\(ラッパー\) "wikilink")
 
 <!-- end list -->
 

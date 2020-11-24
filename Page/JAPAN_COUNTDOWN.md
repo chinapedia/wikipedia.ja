@@ -1,7 +1,7 @@
 > この記事は[JAPAN COUNTDOWN](https://ja.wikipedia.org/wiki/JAPAN_COUNTDOWN)から翻訳されています。
 
 
-『**JAPAN COUNTDOWN**』（ジャパン・カウントダウン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")より[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されている[音楽番組](../Page/音楽番組.md "wikilink")。略称は**J-CD**。　
+『**JAPAN COUNTDOWN**』（ジャパン・カウントダウン）は、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[10月3日](../Page/10月3日.md "wikilink")から[2020年](../Page/2020年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")まで[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")系列で放送されていた[音楽番組](../Page/音楽番組.md "wikilink")。略称は**J-CD**。　
 
 この番組は[1996年](../Page/1996年.md "wikilink")10月5日から1998年[9月26日](../Page/9月26日.md "wikilink")まで放送されていた『**TOWER COUNTDOWN**』（タワー・カウントダウン）の後継番組としてスタートしたもの。この『TOWER COUNTDOWN』についても本項目で扱う。
 
@@ -23,7 +23,7 @@
   - [2017年](../Page/2017年.md "wikilink")[5月7日](../Page/5月7日.md "wikilink")からはロッキンオンと[サンリオ](../Page/サンリオ.md "wikilink")がコラボのショートアニメ『[Caribadix](https://ja.wikipedia.org/wiki/Caribadix "wikilink")』がスタート。
   - [2018年](../Page/2018年.md "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink")で放送開始20周年。[2019年](../Page/2019年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")時点で日曜9:30枠での放送期間が7年半を数え、かつて同時間枠で放送されていたパソコン情報番組『[パソコンサンデー](../Page/パソコンサンデー.md "wikilink")』の放送期間記録を上回った。最終的には2020年3月29日までの8年半に渡り当枠での放送が継続した。
   - [「Imitation Rain / D.D.」と「D.D. / Imitation Rain」は](https://ja.wikipedia.org/wiki/Imitation_Rain/D.D. "wikilink")、個別にランクインしている\[6\]\[7\]。
-  - [2020年](../Page/2020年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")の放送で、[同月26日の放送で番組を終了することが発表された](../Page/9月26日.md "wikilink")\[8\]。
+  - [2020年](../Page/2020年.md "wikilink")[9月12日](../Page/9月12日.md "wikilink")の放送で、[同月26日の放送で番組を終了することが発表され](../Page/9月26日.md "wikilink")\[8\]、22年間の歴史に幕を閉じることになった。土曜10:30 - 11:00枠は半年ぶりにアニメ枠に戻った。
 
 ### スポンサーについて
 
@@ -31,7 +31,7 @@
   - その後、[Sony Music](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")、[EMI ミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")（[2007年](../Page/2007年.md "wikilink")6月まで東芝EMI）、[TOY'S FACTORY](https://ja.wikipedia.org/wiki/トイズファクトリー "wikilink")、[Being GIZA等のレコード会社で](../Page/ビーイング.md "wikilink")、この体系に落ち着いたのは2004年9月以降である。レコード会社数社が入っているのは、現在、ネットワークセールスを通してこの番組だけである\[9\]。
   - 前番組から続投していた初代ナビゲーター・アランJの頃は提供読みが「[This program is brought to you by these sponsors](https://ja.wikipedia.org/wiki/提供クレジット#テレビにおける提供クレジット "wikilink")」だった。
   - [渋谷陽一](../Page/渋谷陽一.md "wikilink")が取材しない[B'z](../Page/B'z.md "wikilink")を含むビーイング系[アーティスト](https://ja.wikipedia.org/wiki/アーティスト "wikilink")がシングル・アルバムリリース時に出演する理由は、スポンサーに"ビーイング・[GIZA](../Page/GIZA_studio.md "wikilink")"が関わっているためだった（これは[PVTV](../Page/PVTV.md "wikilink")も同様）。
-  - 2019年現在は、複数社提供になっている\[10\]。
+  - 放送終了時点では、複数社提供になっている\[10\]。
       - 2012年4月1日から9月30日放送分は後提供・エンドクレジットのあと、[永谷園](https://ja.wikipedia.org/wiki/永谷園 "wikilink")と[ブシロード](../Page/ブシロード.md "wikilink")の[ヒッチハイクCM後](https://ja.wikipedia.org/wiki/ヒッチハイク_\(放送\) "wikilink")、「[カードファイト\!\! ヴァンガード アジアサーキット編](https://ja.wikipedia.org/wiki/カードファイト!!_ヴァンガード_\(アニメ\) "wikilink")」の予告を放送した。同年10月7日放送分からはヒッチハイクCMが無くなり、次番組のジャンクションに変更した。
 
 ### 放送の流れ
@@ -92,11 +92,11 @@
 
 <div class="NavContent" style="text-align:left;">
 
-| 月   | オープニングテーマ | エンディングテーマ                                                                                                    |
-| --- | --------- | ------------------------------------------------------------------------------------------------------------ |
-| 10月 | ?         | ?                                                                                                            |
-| 11月 | ?         | 「[Lies and Truth](../Page/Lies_and_Truth.md "wikilink")」[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") |
-| 12月 | ?         | ?                                                                                                            |
+| 月   | オープニングテーマ                                                                       | エンディングテーマ                                                                                                    |
+| --- | ------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
+| 10月 | ?                                                                               | ?                                                                                                            |
+| 11月 | 「CLOSE YOUR EYES」[dos](https://ja.wikipedia.org/wiki/dos_\(音楽ユニット\) "wikilink") | 「[Lies and Truth](../Page/Lies_and_Truth.md "wikilink")」[L'Arc〜en〜Ciel](../Page/L'Arc〜en〜Ciel.md "wikilink") |
+| 12月 | ?                                                                               | ?                                                                                                            |
 
 </div>
 
@@ -112,20 +112,20 @@
 
 <div class="NavContent" style="text-align:left;">
 
-| 月   | オープニングテーマ                                          | エンディングテーマ                                                                                  |
-| --- | -------------------------------------------------- | ------------------------------------------------------------------------------------------ |
-| 1月  | ?                                                  | ?                                                                                          |
-| 2月  | ?                                                  | ?                                                                                          |
-| 3月  | ?                                                  | ?                                                                                          |
-| 4月  | ?                                                  | 「[CLIO'S BLUE](../Page/Little_circus.md "wikilink")」[SOPHIA](../Page/SOPHIA.md "wikilink") |
-| 5月  | ?                                                  | ?                                                                                          |
-| 6月  | ?                                                  | ?                                                                                          |
-| 7月  | ?                                                  | ?                                                                                          |
-| 8月  | ?                                                  | ?                                                                                          |
-| 9月  | ?                                                  | ?                                                                                          |
-| 10月 | ?                                                  | ?                                                                                          |
-| 11月 | ?                                                  | ?                                                                                          |
-| 12月 | 「復活」[Daily-Echo](../Page/Daily-Echo.md "wikilink") | ?                                                                                          |
+| 月   | オープニングテーマ                                                                              | エンディングテーマ                                                                                  |
+| --- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ |
+| 1月  | ?                                                                                      | ?                                                                                          |
+| 2月  | ?                                                                                      | ?                                                                                          |
+| 3月  | ?                                                                                      | ?                                                                                          |
+| 4月  | 「What's Your Name? xxx」[LUV 2 SHY](https://ja.wikipedia.org/wiki/LUV_2_SHY "wikilink") | 「[CLIO'S BLUE](../Page/Little_circus.md "wikilink")」[SOPHIA](../Page/SOPHIA.md "wikilink") |
+| 5月  | ?                                                                                      | ?                                                                                          |
+| 6月  | ?                                                                                      | ?                                                                                          |
+| 7月  | 「Spunky Josh」[pre-school](https://ja.wikipedia.org/wiki/pre-school "wikilink")         | ?                                                                                          |
+| 8月  | 「JAGGY LOVE」[D'SECRETS](https://ja.wikipedia.org/wiki/D'SECRETS "wikilink")            | ?                                                                                          |
+| 9月  | ?                                                                                      | ?                                                                                          |
+| 10月 | ?                                                                                      | ?                                                                                          |
+| 11月 | ?                                                                                      | ?                                                                                          |
+| 12月 | 「復活」[Daily-Echo](../Page/Daily-Echo.md "wikilink")                                     | ?                                                                                          |
 
 </div>
 
@@ -141,17 +141,17 @@
 
 <div class="NavContent" style="text-align:left;">
 
-| 月  | オープニングテーマ                                                                                                                                | エンディングテーマ                                              |
-| -- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------ |
-| 1月 | ?                                                                                                                                        | ?                                                      |
-| 2月 | ?                                                                                                                                        | ?                                                      |
-| 3月 | ?                                                                                                                                        | ?                                                      |
-| 4月 | ?                                                                                                                                        | 「Frames」[Daily-Echo](../Page/Daily-Echo.md "wikilink") |
-| 5月 | 「[Desire](https://ja.wikipedia.org/wiki/Desire_\(DOUBLEの曲\) "wikilink")」[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") | ?                                                      |
-| 6月 | ?                                                                                                                                        | ?                                                      |
-| 7月 | ?                                                                                                                                        | 「街の音」Daily-Echo                                        |
-| 8月 | ?                                                                                                                                        | ?                                                      |
-| 9月 | 「[よわむしのぬけがら](https://ja.wikipedia.org/wiki/よわむしのぬけがら "wikilink")」[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")                          | ?                                                      |
+| 月  | オープニングテーマ                                                                                                                                | エンディングテーマ                                                                                                                |
+| -- | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| 1月 | ?                                                                                                                                        | ?                                                                                                                        |
+| 2月 | ?                                                                                                                                        | ?                                                                                                                        |
+| 3月 | ?                                                                                                                                        | ?                                                                                                                        |
+| 4月 | ?                                                                                                                                        | 「Frames」[Daily-Echo](../Page/Daily-Echo.md "wikilink")                                                                   |
+| 5月 | 「[Desire](https://ja.wikipedia.org/wiki/Desire_\(DOUBLEの曲\) "wikilink")」[DOUBLE](https://ja.wikipedia.org/wiki/DOUBLE_\(歌手\) "wikilink") | ?                                                                                                                        |
+| 6月 | ?                                                                                                                                        | ?                                                                                                                        |
+| 7月 | ?                                                                                                                                        | 「街の音」Daily-Echo                                                                                                          |
+| 8月 | ?                                                                                                                                        | ?                                                                                                                        |
+| 9月 | 「[よわむしのぬけがら](https://ja.wikipedia.org/wiki/よわむしのぬけがら "wikilink")」[センチメンタル・バス](../Page/センチメンタル・バス.md "wikilink")                          | 「[元気ですか](https://ja.wikipedia.org/wiki/元気ですか_\(フラワーカンパニーズの曲\) "wikilink")」[フラワーカンパニーズ](../Page/フラワーカンパニーズ.md "wikilink") |
 
 </div>
 
@@ -195,7 +195,7 @@
 | 2月  | ?                                                                                                                                    | 「[虹](../Page/虹_\(くるりの曲\).md "wikilink")」[くるり](../Page/くるり.md "wikilink")                                 |
 | 3月  | ?                                                                                                                                    | 「[空を見上げて](https://ja.wikipedia.org/wiki/空を見上げて_\(2丁拳銃の曲\) "wikilink")」[2丁拳銃](../Page/2丁拳銃.md "wikilink") |
 | 4月  | ?                                                                                                                                    | 「鳥が飛ぶ意識」[松崎ナオ](../Page/松崎ナオ.md "wikilink")                                                               |
-| 5月  | ?                                                                                                                                    | ?                                                                                                        |
+| 5月  | ?                                                                                                                                    | 「透明少女」[ナンバーガール](../Page/ナンバーガール.md "wikilink")                                                           |
 | 6月  | ?                                                                                                                                    | ?                                                                                                        |
 | 7月  | 「Eternal Memories」[Crystal Kay](https://ja.wikipedia.org/wiki/Crystal_Kay "wikilink")                                                | 「コッペル」[DOG HAIR DRESSERS](https://ja.wikipedia.org/wiki/DOG_HAIR_DRESSERS "wikilink")                    |
 | 8月  | ?                                                                                                                                    | ?                                                                                                        |

@@ -134,7 +134,7 @@ NTT中継回線が意図的に受信された目的は、
 22.
 23.
 24. [札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")（STV）と[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")（HTB）では、ほぼ毎日流れていた。[北海道放送](../Page/北海道放送.md "wikilink")（HBC）は、2000年に札幌圏で[TBSニュースバード（現・TBS NEWS）のフィラー放送が始まった頃から](https://ja.wikipedia.org/wiki/TBS_NEWS_\(CS放送\) "wikilink")、NTT中継回線のテストパターンが流れていた。一方、[北海道文化放送](../Page/北海道文化放送.md "wikilink")（UHB）や[テレビ北海道](../Page/テレビ北海道.md "wikilink")（TVh）では、NTT中継回線のテストパターンはごくまれにしか見ることができなかった。
-25. 技術上の問題まで突破して行なった場合は[盗聴](../Page/盗聴.md "wikilink")であり、[有線電気通信法](https://ja.wikipedia.org/wiki/有線電気通信法 "wikilink")違反が成立する
+25. 技術上の問題まで突破して行った場合は[盗聴](../Page/盗聴.md "wikilink")であり、[有線電気通信法](https://ja.wikipedia.org/wiki/有線電気通信法 "wikilink")違反が成立する。
 26. 放送素材には放送局の[著作権](../Page/著作権.md "wikilink")があるため、窃用すると電波法以外にも[著作権法](../Page/著作権法.md "wikilink")違反となり罰せられることもあるほか、民事責任も問われることもあり得る。
 27. 特に音質の面では、地方での視聴であっても、キー局での視聴と遜色のないものとなった。
 28. [デジタル信号](../Page/デジタル信号.md "wikilink")の[エンコード](../Page/エンコード.md "wikilink")・[デコード](https://ja.wikipedia.org/wiki/デコード "wikilink")処理のため、約0.5秒のタイムラグが発生する。

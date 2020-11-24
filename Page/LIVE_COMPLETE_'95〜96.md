@@ -1,7 +1,7 @@
 > この記事は[LIVE COMPLETE \'95〜96](https://ja.wikipedia.org/wiki/LIVE_COMPLETE_\'95〜96)から翻訳されています。
 
 
-**LIVE COMPLETE '95〜'96**（ライブ・コンプリート・ナインティーンナインティファイブ〜ナインティーンナインティシックス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
+『**LIVE COMPLETE '95〜'96**』（ライブ・コンプリート・ナインティーンナインティファイブ ナインティーンナインティシックス）は、日本の[ミュージシャンである](https://ja.wikipedia.org/wiki/音楽家 "wikilink")[長渕剛](../Page/長渕剛.md "wikilink")の[ライブ・アルバム](../Page/ライブ・アルバム.md "wikilink")である。
 
 [1996年](../Page/1996年.md "wikilink")[10月25日](../Page/10月25日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。
 
@@ -33,7 +33,7 @@
 3.  **[人間](https://ja.wikipedia.org/wiki/人間_\(長渕剛の曲\) "wikilink")**
 4.  **STAY DREAM**
 5.  **LICENSE**
-6.  **[激愛](https://ja.wikipedia.org/wiki/激愛 "wikilink")**
+6.  **[激愛](https://ja.wikipedia.org/wiki/激愛_\(長渕剛の曲\) "wikilink")**
 7.  **交差点**
 8.  **ひざまくら**
 9.  **東京青春朝焼物語**
@@ -62,7 +62,7 @@
 
 ### Live '96 "KAZOKU"
 
-長渕剛のツアーでキーボードを担当するのは、嘗ては[中西康晴](../Page/中西康晴.md "wikilink")、現在は[国吉良一](../Page/国吉良一.md "wikilink")でほぼ決まっているが、このツアーのみエルトン永田（永田一郎）が務めている。また、[矢島賢](../Page/矢島賢.md "wikilink")が帯同した最後のツアーでもある。
+長渕剛のツアーでキーボードを担当するのは、かつては[中西康晴](../Page/中西康晴.md "wikilink")、現在は[国吉良一](../Page/国吉良一.md "wikilink")でほぼ決まっているが、このツアーのみエルトン永田（永田一郎）が務めている。また、[矢島賢](../Page/矢島賢.md "wikilink")が帯同した最後のツアーでもある。
 
   - **長渕剛** - [ギター](../Page/ギター.md "wikilink")、ブルース・ハープ
   - **島村英二** - [ドラムス](../Page/ドラムセット.md "wikilink")

@@ -1363,10 +1363,13 @@
 
 ## 外部リンク
 
+  - [Theかぼちゃワイン](http://lineup.toei-anim.co.jp/ja/tv/kabocha_wine/) - 東映アニメーション
+
   - [Theかぼちゃワイン - TOEI ANIMATION](http://www.toei-anim.co.jp/lineup/tv/kabocha_wine/)
 
   - [東映アニメオンデマンド - 人気コンテンツ満載のアニメ配信サイト！](http://taod.jp/) - テレビシリーズおよび1982年12月27日放送のSP回「おれとあいつの新婚旅行\!?」を配信。
 
+  -
   -
 [Category:漫画作品_か](https://ja.wikipedia.org/wiki/Category:漫画作品_か "wikilink") [Category:1981年の漫画](https://ja.wikipedia.org/wiki/Category:1981年の漫画 "wikilink") [Category:週刊少年マガジンの漫画作品](https://ja.wikipedia.org/wiki/Category:週刊少年マガジンの漫画作品 "wikilink") [Category:Jコミ](https://ja.wikipedia.org/wiki/Category:Jコミ "wikilink") [Category:恋愛漫画](https://ja.wikipedia.org/wiki/Category:恋愛漫画 "wikilink") [Category:お色気漫画](https://ja.wikipedia.org/wiki/Category:お色気漫画 "wikilink") [Category:中学校を舞台とした漫画作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台とした漫画作品 "wikilink") [Category:下着を題材とした作品](https://ja.wikipedia.org/wiki/Category:下着を題材とした作品 "wikilink") [Category:アニメ作品_か](https://ja.wikipedia.org/wiki/Category:アニメ作品_か "wikilink") [Category:1982年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1982年のテレビアニメ "wikilink") [Category:マガジンKCのアニメ作品](https://ja.wikipedia.org/wiki/Category:マガジンKCのアニメ作品 "wikilink") [Category:東映アニメーションのアニメ作品](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ作品 "wikilink") [Category:テレビ朝日系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ朝日系アニメ "wikilink") [Category:テレビ朝日の一社提供番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の一社提供番組 "wikilink") [Category:ハウス食品一社提供番組](https://ja.wikipedia.org/wiki/Category:ハウス食品一社提供番組 "wikilink") [Category:中学校を舞台としたアニメ作品](https://ja.wikipedia.org/wiki/Category:中学校を舞台としたアニメ作品 "wikilink") [Category:応援団を題材とした作品](https://ja.wikipedia.org/wiki/Category:応援団を題材とした作品 "wikilink") [Category:1984年のアニメ映画](https://ja.wikipedia.org/wiki/Category:1984年のアニメ映画 "wikilink") [Category:日本のテレビアニメの劇場版](https://ja.wikipedia.org/wiki/Category:日本のテレビアニメの劇場版 "wikilink") [Category:テレビ朝日製作のアニメ映画](https://ja.wikipedia.org/wiki/Category:テレビ朝日製作のアニメ映画 "wikilink") [Category:東映まんがまつり](https://ja.wikipedia.org/wiki/Category:東映まんがまつり "wikilink") [Category:東映アニメーションのアニメ映画](https://ja.wikipedia.org/wiki/Category:東映アニメーションのアニメ映画 "wikilink")
 

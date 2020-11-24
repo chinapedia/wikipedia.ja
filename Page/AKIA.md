@@ -17,4 +17,4 @@
 
 1.
 2.
-3.  [タイ国人の韓国否定的評価文化と慣習の差に始まる](http://megalodon.jp/2010-0809-0415-56/news.kukinews.com/article/view.asp?page=1&gCode=kmi&arcid=0003632996&cp=nv) クッキーニュース 2010/04/22
+3.  [タイ国人の韓国否定的評価文化と慣習の差に始まる](https://megalodon.jp/2010-0809-0415-56/news.kukinews.com/article/view.asp?page=1&gCode=kmi&arcid=0003632996&cp=nv) クッキーニュース 2010/04/22

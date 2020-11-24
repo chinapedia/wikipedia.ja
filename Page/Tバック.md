@@ -71,5 +71,5 @@ Tバック水着について言えば、[ブラジル](https://ja.wikipedia.org/
 
 1.
 2.  2011年12月10日号にこの特集が掲載された。
-3.  \[<http://web.archive.org/web/20070104141013/http://www.kobayashi.co.jp/corporate/news/0216/index.html>　女性のTバックショーツの使用実態（小林製薬）\]小林製薬ニュースリリース 2002年3月19日（2007年1月4日時点の[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+3.  \[<https://web.archive.org/web/20070104141013/http://www.kobayashi.co.jp/corporate/news/0216/index.html>　女性のTバックショーツの使用実態（小林製薬）\]小林製薬ニュースリリース 2002年3月19日（2007年1月4日時点の[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 4.

@@ -53,7 +53,7 @@
   - 2007年[6月18日](../Page/6月18日.md "wikilink") - 株式会社CTAの株式約74%を創業者一族から取得し子会社化、通信カラオケ「NET」シリーズの権利を獲得。
   - 2007年[7月10日](../Page/7月10日.md "wikilink") - TOB成立。USENは議決権ベースで96.25%の株式を取得。
   - 2007年8月 - エンタテインメントテーブル「UGAパーティーステーション」を発売。
-  - 2007年[9月1日](../Page/9月1日.md "wikilink") - [セガ・ミュージック・ネットワークスの全株式をセガ](https://ja.wikipedia.org/wiki/セガカラ "wikilink")（現在の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）から取得し完全子会社化、通信カラオケ「Prologue21シリーズ（セガ接続）」と「CANDOONE（カンドーネ）」の権利、「[ヒトカラ](../Page/ヒトカラ.md "wikilink")」の商標権を獲得。
+  - 2007年[9月1日](../Page/9月1日.md "wikilink") - [セガ・ミュージック・ネットワークスの全株式を](https://ja.wikipedia.org/wiki/セガカラ "wikilink")[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")から取得し完全子会社化、通信カラオケ「Prologue21シリーズ（セガ接続）」と「CANDOONE（カンドーネ）」の権利、「[ヒトカラ](../Page/ヒトカラ.md "wikilink")」の商標権を獲得。
   - 2007年[9月14日](../Page/9月14日.md "wikilink") - ジャスダック上場廃止。
   - 2007年[9月21日](../Page/9月21日.md "wikilink") - [株式交換](../Page/株式交換.md "wikilink")によってUSENの完全子会社となる。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")11月 - 「U+」の上位機種「**U→（uganext、ウガネクスト）**」発売。

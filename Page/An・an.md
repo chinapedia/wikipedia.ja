@@ -103,7 +103,7 @@
 
 2019年6月19日号では『[ヒプノシスマイク](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")』の登場人物が裏表紙を飾り、2019年8月7日号では『[天気の子](https://ja.wikipedia.org/wiki/天気の子 "wikilink")』の登場人物が表紙を飾っている\[21\]。
 
-2020年7月15号では『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』の登場人物である[草薙素子](../Page/草薙素子.md "wikilink")が表紙を飾った\[22\]。
+2020年7月15日号では『[攻殻機動隊](../Page/攻殻機動隊.md "wikilink")』の登場人物である[草薙素子](../Page/草薙素子.md "wikilink")が表紙を飾った\[22\]。同年10月28日号では『[鬼滅の刃](https://ja.wikipedia.org/wiki/鬼滅の刃 "wikilink")』の登場人物である竈門炭治郎と煉獄杏寿郎が表紙を飾った\[23\]。
 
 ## 重版がかかった号
 
@@ -111,15 +111,15 @@
 
 | 号数    | 日号           | 表紙                                                                                                          | 脚注・出典        |
 | ----- | ------------ | ----------------------------------------------------------------------------------------------------------- | ------------ |
-| 1693号 | 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         | \[23\]       |
-| 2103号 | 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[24\]       |
-| 2145号 | 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[25\]       |
-| 2157号 | 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               | \[26\]       |
-| 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") | \[27\]       |
-| 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[28\]       |
-| 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[29\]\[30\] |
-| 2199号 | 2020年5月13日号  | [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")                                       | \[31\]       |
-| 2213号 | 2020年8月26日号  | [渡辺翔太](../Page/渡辺翔太.md "wikilink")                                                                          | \[32\]\[33\] |
+| 1693号 | 2010年1月27日号  | [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")                                                         | \[24\]       |
+| 2103号 | 2018年5月30日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[25\]       |
+| 2145号 | 2019年4月3日号   | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[26\]       |
+| 2157号 | 2019年7月3日号   | [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink")                                               | \[27\]       |
+| 2165号 | 2019年9月4日号   | [中島健人](https://ja.wikipedia.org/wiki/中島健人 "wikilink")・[菊池風磨](https://ja.wikipedia.org/wiki/菊池風磨 "wikilink") | \[28\]       |
+| 2180号 | 2019年12月18日号 | [SixTONES](https://ja.wikipedia.org/wiki/SixTONES "wikilink")                                               | \[29\]       |
+| 2191号 | 2020年3月11日号  | [King & Prince](https://ja.wikipedia.org/wiki/King_&_Prince "wikilink")                                     | \[30\]\[31\] |
+| 2199号 | 2020年5月13日号  | [Travis Japan](https://ja.wikipedia.org/wiki/Travis_Japan "wikilink")                                       | \[32\]       |
+| 2213号 | 2020年8月26日号  | [渡辺翔太](../Page/渡辺翔太.md "wikilink")                                                                          | \[33\]\[34\] |
 
 ## 誌面
 
@@ -127,11 +127,11 @@
 
 **好きな男・嫌いな男ランキング**は、毎年（2009年以降は休止）ananによる独自のアンケートによって好きな男、嫌いな男をランキングする雑誌の人気企画。
 
-毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[34\]。
+毎年、「好きな男・嫌いな男ランキング」（他社が出版する複数の雑誌の、同様のランキングとは、上位芸能人の結果が異なることが多い）を発表しており、男性からの認知度も高い。また「好きな女・嫌いな女ランキング」も発表している\[35\]。
 
 ### SEX特集
 
-毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[35\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
+毎年、8月第1週号に「SEX特集」と呼ばれる、女性週刊誌では珍しい「[性行為](https://ja.wikipedia.org/wiki/性行為 "wikilink")」に関する特集を組む\[36\]。過去には[AV女優](../Page/AV女優.md "wikilink")の[原紗央莉](https://ja.wikipedia.org/wiki/原紗央莉 "wikilink")による「Girl's pleasure」の"[官能ビデオ](https://ja.wikipedia.org/wiki/アダルトビデオ "wikilink")"[DVD](../Page/DVD-Video.md "wikilink")（2009年）、「[袋とじ](../Page/袋とじ.md "wikilink")企画」や[SEX](https://ja.wikipedia.org/wiki/性交 "wikilink")[アンケート](../Page/アンケート.md "wikilink")や[官能小説](../Page/官能小説.md "wikilink")や[避妊](../Page/避妊.md "wikilink")、[性感染症](../Page/性感染症.md "wikilink")に纏わる記事を特集する。ただし、その過激な内容に賛否両論の声が上がっている。
 
 ### マンガ大賞
 
@@ -198,7 +198,7 @@
 </tr>
 <tr class="even">
 <td><p>第6回<br />
-（2015年）[36]</p></td>
+（2015年）[37]</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東京タラレバ娘" title="wikilink">東京タラレバ娘</a>（東村アキコ）</p></td>
 <td><p><strong>準大賞</strong><br />
 <a href="https://ja.wikipedia.org/wiki/アヤメくんののんびり肉食日誌" title="wikilink">アヤメくんののんびり肉食日誌</a>（<a href="https://ja.wikipedia.org/wiki/町麻衣" title="wikilink">町麻衣</a>）<br />
@@ -313,7 +313,7 @@
   -
   -
   -
-[Category:女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:女性向けファッション雑誌 "wikilink") [Category:日本のファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本のファッション雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink") [Category:マガジンハウス](https://ja.wikipedia.org/wiki/Category:マガジンハウス "wikilink") [Category:1970年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1970年創刊の雑誌 "wikilink")
+[Category:日本の女性向けファッション雑誌](https://ja.wikipedia.org/wiki/Category:日本の女性向けファッション雑誌 "wikilink") [Category:日本の週刊誌](https://ja.wikipedia.org/wiki/Category:日本の週刊誌 "wikilink") [Category:マガジンハウス](https://ja.wikipedia.org/wiki/Category:マガジンハウス "wikilink") [Category:1970年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1970年創刊の雑誌 "wikilink")
 
 1.
 2.  [anan創刊 — 『anan』創刊！ - anan 50周年記念 - ananweb](https://50.ananweb.jp/archives/anan-1970-0303/) マガジンハウス
@@ -337,17 +337,18 @@
 20. 『an・an』2020年3月11日号、102頁。
 21. 『an・an』2020年3月11日号、100-101頁。
 22.
-23. 『an・an』2020年3月11日号、82-83頁。
-24.
+23. [ananが「鬼滅の刃」特集、表紙は炭治郎＆煉獄！「大正鬼滅絵巻」も掲載](https://natalie.mu/eiga/news/400098)、映画ナタリー、2020年10月12日。
+24. 『an・an』2020年3月11日号、82-83頁。
 25.
 26.
 27.
 28.
 29.
-30. 通常版およびスペシャルエディションの2冊同時重版。同ーアーティストの表紙違いバージョン2冊同時重版は、史上初。
-31. [Travis Japan：表紙飾った「anan」完売続出で重版決まる　50年で異例の9度目　ジャニーズ Jr.では3組目](https://mainichikirei.jp/article/20200508dog00m100015000c.html)、[毎日キレイ](https://ja.wikipedia.org/wiki/毎日キレイ "wikilink")、2020年5月8日。
-32. [Snow Man・渡辺翔太ソロ表紙の『anan』発売前重版が決定 創刊以来初](https://www.oricon.co.jp/news/2169208/)、[ORICON NEWS](https://ja.wikipedia.org/wiki/ORICON_NEWS "wikilink")、2020年8月11日。
-33. 2020年8月11日に重版が決定。発売日前に重版が決まったのは史上初。
-34.
-35. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
-36.
+30.
+31. 通常版およびスペシャルエディションの2冊同時重版。同ーアーティストの表紙違いバージョン2冊同時重版は、史上初。
+32. [Travis Japan：表紙飾った「anan」完売続出で重版決まる　50年で異例の9度目　ジャニーズ Jr.では3組目](https://mainichikirei.jp/article/20200508dog00m100015000c.html)、[毎日キレイ](https://ja.wikipedia.org/wiki/毎日キレイ "wikilink")、2020年5月8日。
+33. [Snow Man・渡辺翔太ソロ表紙の『anan』発売前重版が決定 創刊以来初](https://www.oricon.co.jp/news/2169208/)、[ORICON NEWS](https://ja.wikipedia.org/wiki/ORICON_NEWS "wikilink")、2020年8月11日。
+34. 2020年8月11日に重版が決定。発売日前に重版が決まったのは史上初。
+35.
+36. [北原みのり](../Page/北原みのり.md "wikilink")『アンアンのセックスできれいになれた?』 [朝日新聞出版](../Page/朝日新聞出版.md "wikilink")、2011年8月。ISBN 978-4-02-250807-2
+37.

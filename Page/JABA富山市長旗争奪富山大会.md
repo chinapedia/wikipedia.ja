@@ -525,7 +525,7 @@
 <td><p>2020年（第62回）</p></td>
 <td><p>13</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため中止[2]。</p></td>
+<td><p><a href="../Page/SARSコロナウイルス2.md" title="wikilink">新型コロナウイルス感染拡大防止のため中止</a>[2]。</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -540,7 +540,7 @@
 
   - [地区連盟主催大会 (社会人野球)](../Page/地区連盟主催大会_\(社会人野球\).md "wikilink")
 
-[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:北信越地方の社会人野球](https://ja.wikipedia.org/wiki/Category:北信越地方の社会人野球 "wikilink") [Category:富山市のスポーツ](https://ja.wikipedia.org/wiki/Category:富山市のスポーツ "wikilink") [Category:1958年開始のイベント](https://ja.wikipedia.org/wiki/Category:1958年開始のイベント "wikilink")
+[Category:日本の社会人野球大会](https://ja.wikipedia.org/wiki/Category:日本の社会人野球大会 "wikilink") [Category:北信越地方の社会人野球](https://ja.wikipedia.org/wiki/Category:北信越地方の社会人野球 "wikilink") [Category:富山市のスポーツ](https://ja.wikipedia.org/wiki/Category:富山市のスポーツ "wikilink") [Category:1958年開始のスポーツイベント](https://ja.wikipedia.org/wiki/Category:1958年開始のスポーツイベント "wikilink")
 
 1.  規模を縮小して同一日程で北信越地区の6チームが参加するチャリティ大会を開催し、[フェデックスが優勝した](../Page/フェデックス硬式野球部.md "wikilink")。
 2.

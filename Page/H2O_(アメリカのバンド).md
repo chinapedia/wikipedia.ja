@@ -42,7 +42,7 @@
 ## 外部リンク
 
   - [H<sub>2</sub>O オフィシャルサイト（英語）](http://www.h2ogo.com/)
-  - [H<sub>2</sub>O MySpace](http://www.myspace.com/h2ofamily)
+  - [H<sub>2</sub>O MySpace](https://myspace.com/h2ofamily)
 
 [Category:アメリカ合衆国のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のパンク・ロック・バンド "wikilink") [Category:ハードコア・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ハードコア・パンク・バンド "wikilink") [Category:メロディック・ハードコア・バンド](https://ja.wikipedia.org/wiki/Category:メロディック・ハードコア・バンド "wikilink") [Category:1994年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1994年に結成した音楽グループ "wikilink")
 

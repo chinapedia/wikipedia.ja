@@ -62,5 +62,5 @@ MAX渡辺が考案し提唱している、[アルコール](https://ja.wikipedia
 
 [Category:モデラー](https://ja.wikipedia.org/wiki/Category:モデラー "wikilink") [Category:日本の実業家](https://ja.wikipedia.org/wiki/Category:日本の実業家 "wikilink") [Category:早稲田大学出身の人物](https://ja.wikipedia.org/wiki/Category:早稲田大学出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [またまた心機一転！ 改めましてグッドスマイルカンパニーです！(･∀･)ﾉ](http://ameblo.jp/gsc-mikatan/entry-11293894442.html),フィギュアメーカー・グッドスマイルカンパニー勤務ミカタンブログ,2012年7月5日内の記述に基づく
+1.  [またまた心機一転！ 改めましてグッドスマイルカンパニーです！(･∀･)ﾉ](https://ameblo.jp/gsc-mikatan/entry-11293894442.html),フィギュアメーカー・グッドスマイルカンパニー勤務ミカタンブログ,2012年7月5日内の記述に基づく
 2.  月刊ホビージャパン1994年5月号インタビューより

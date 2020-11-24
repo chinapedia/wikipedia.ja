@@ -1,32 +1,36 @@
 > この記事は[最優秀新人選手賞 \(MLB\)](https://ja.wikipedia.org/wiki/最優秀新人選手賞_\(MLB\))から翻訳されています。
 
 
-**最優秀新人選手賞** (さいゆうしゅうしんじんせんしゅしょう、*Rookie of the Year Award*) は[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")（以下、MLB）において、その年のシーズンで最も活躍した新人選手に贈られる賞。日本では、便宜上プロ野球のそれと同じように「新人王」と呼ぶこともある。賞は全米野球記者協会（BWAA）の投票で決定する。
+**最優秀新人選手賞** (さいゆうしゅうしんじんせんしゅしょう、ルーキー・オブ・ザ・イヤー、*Rookie of the Year Award*) は[メジャーリーグベースボール](https://ja.wikipedia.org/wiki/メジャーリーグベースボール "wikilink")（以下、MLB）において、その年のシーズンで最も活躍した新人選手に贈られる賞。日本の報道では便宜上、[日本プロ野球](../Page/日本プロ野球.md "wikilink")での呼称に合わせて「新人王」と呼ぶこともある。
 
-[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")・[ナショナルリーグ](../Page/ナショナルリーグ.md "wikilink")でそれぞれ1人が選ばれる。[1947年](../Page/1947年.md "wikilink")に制定され、[1948年](../Page/1948年.md "wikilink")までは両リーグから1人の選出、[1949年](../Page/1949年.md "wikilink")から各リーグごとに1人の選出となる。最初の受賞者は[ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")。これを記念して1987年に「ジャッキー・ロビンソン賞」という別名がつけられた。
+## 概要
 
-[1975年](../Page/1975年.md "wikilink")の[フレッド・リン](../Page/フレッド・リン.md "wikilink")と[2001年](../Page/2001年.md "wikilink")の[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")の2人が、ルーキー賞と[MVPを同時受賞している](https://ja.wikipedia.org/wiki/最優秀選手_\(MLB\) "wikilink")。
+最優秀新人選手賞は各年のシーズン終了後、[全米野球記者協会](https://ja.wikipedia.org/wiki/全米野球記者協会 "wikilink") (BBWAA) の投票により、[アメリカンリーグ](../Page/アメリカンリーグ.md "wikilink")・[ナショナルリーグ](../Page/ナショナルリーグ.md "wikilink")からそれぞれ1人が選ばれる。[1947年](../Page/1947年.md "wikilink")に制定され、[1948年](../Page/1948年.md "wikilink")まではMLB全体で1人のみ選出、[1949年](../Page/1949年.md "wikilink")以降は各リーグごとに1人選出となった。最初の受賞者は[ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")。これを記念して1987年に「ジャッキー・ロビンソン賞」という別名がつけられた。
 
-過去に[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")選手としては[野茂英雄](../Page/野茂英雄.md "wikilink")、[佐々木主浩](../Page/佐々木主浩.md "wikilink")、イチロー、[大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")が受賞している。
+[フレッド・リン](../Page/フレッド・リン.md "wikilink")（[1975年](../Page/1975年.md "wikilink")）と[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")（[2001年](../Page/2001年.md "wikilink")）の2人が、[最優秀選手賞 (MVP)との同時受賞を果たしている](https://ja.wikipedia.org/wiki/最優秀選手_\(MLB\) "wikilink")。また、[フェルナンド・バレンズエラ](../Page/フェルナンド・バレンズエラ.md "wikilink")（[1981年](../Page/1981年.md "wikilink")）は[サイ・ヤング賞](../Page/サイ・ヤング賞.md "wikilink")との同時受賞を果たした唯一の選手となっている。
+
+[日本人](https://ja.wikipedia.org/wiki/日本人 "wikilink")選手では、[野茂英雄](../Page/野茂英雄.md "wikilink")（[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")）、[佐々木主浩](../Page/佐々木主浩.md "wikilink")（[2000年](../Page/2000年.md "wikilink")）、イチロー、[大谷翔平](https://ja.wikipedia.org/wiki/大谷翔平 "wikilink")（[2018年](../Page/2018年.md "wikilink")）が受賞している。
 
 ## ルーキー資格
 
-下記に定めるルーキー資格に該当する選手が受賞の対象となり、必ずしもメジャーリーグ昇格1年目のみに限定はされていない。
+前年までのMLB通算実績が、以下の両条件を満たす選手のみ受賞資格を持つ\[1\]。必ずしもMLBデビュー1年目のみに限定はされていない。
 
-前年までのメジャーリーグでの実績が、
-
-  - 打者なら[打数](../Page/打数.md "wikilink")130以内、投手なら[投球回](../Page/投球回.md "wikilink")50イニング以内
-  - 25人ロースター（登録選手枠）在籍期間が45日以内。試合に出ていなくても、試合に出られるよう登録されている期間が、前年までに45日を越えていないこと。なお、登録選手枠は、毎年9月1日から40人に拡大されるが、この期間はルーキー資格規定の対象外となる。
+1.  打者なら[打席数](https://ja.wikipedia.org/wiki/打席数 "wikilink")130以内、投手なら[投球回](../Page/投球回.md "wikilink")50イニング以内
+2.  [アクティブ・ロースター登録期間が](https://ja.wikipedia.org/wiki/ロースター_\(MLB\) "wikilink")45日以内
+      - [負傷者リストなどの](../Page/故障者リスト.md "wikilink")[出場停止リスト登録中期間は除く](https://ja.wikipedia.org/wiki/ロースター_\(MLB\)#登録リスト "wikilink")。
+      - ロースター枠が拡大される[セプテンバー・コールアップ](https://ja.wikipedia.org/wiki/ロースター_\(MLB\)#セプテンバー・コールアップ "wikilink")（例年9月1日以降）での登録中期間も除く。
 
 ### 資格に関する論争
 
-上記のルーキー資格に関していくつかの論争があり、現在のところメジャーリーグベースボールでの経験のみが基準であるが、特に[日本プロ野球](../Page/日本プロ野球.md "wikilink")でスター選手だった選手に対して日米両国の中で何人かの人はルーキー資格にすべきでないと考えている。
+上記の通り、ルーキー資格の有無はMLBでの経歴だけで決定されるが、一部から「レベルの高い他国リーグ（特に[日本プロ野球](../Page/日本プロ野球.md "wikilink")）で実績を残してMLBに移籍したスター選手については、受賞対象とすべきでない」との主張がある。
 
-このような考え方が広まったのは1995年にまず[野茂英雄](../Page/野茂英雄.md "wikilink")が新人王になり、2000年から2001年にはアメリカン・リーグにおいて[佐々木主浩](../Page/佐々木主浩.md "wikilink")と[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")が2年連続で受賞したことで活発に議論されるようになった。こうした議論は[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")の新人王の投票にも何人かの記者が反対運動を行うなどの影響を及ぼした他、ダルビッシュ有に対しても一時期「新人王資格が見直される」と言った誤報が飛び交っている。
+このような考え方が広まったのは、1995年に[野茂英雄](../Page/野茂英雄.md "wikilink")が受賞、2000年と2001年には[佐々木主浩](../Page/佐々木主浩.md "wikilink")と[イチロー](https://ja.wikipedia.org/wiki/イチロー "wikilink")が2年連続で受賞したことで活発に議論されるようになった。[松井秀喜](https://ja.wikipedia.org/wiki/松井秀喜 "wikilink")のMLBデビュー年（[2003年](../Page/2003年.md "wikilink")）の投票では複数の記者が反対運動を行なって影響を及ぼし、論争を呼んだ\[2\]\[3\]。
 
-2014年にも[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")とキューバリーグで活躍していた[ホセ・アブレイユ](https://ja.wikipedia.org/wiki/ホセ・アブレイユ "wikilink")のルーキー資格を巡ってFOXの解説者の[ゲーブ・キャプラー](../Page/ゲーブ・キャプラー.md "wikilink")（元巨人）が「日本とキューバのレベルが高いのは明らか」として「新人王資格には調節が必要」と述べた。
+[2012年](../Page/2012年.md "wikilink")には「今季から施行の新[労使協定](https://ja.wikipedia.org/wiki/労使協定 "wikilink")上、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")・[韓国](../Page/大韓民国.md "wikilink")・[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")・[キューバ](../Page/キューバ.md "wikilink")のプロリーグからMLBに移籍する23歳以上の選手（当時の[ダルビッシュ有](https://ja.wikipedia.org/wiki/ダルビッシュ有 "wikilink")らが該当）は契約上、新人選手としない」との報道がされ\[4\]、これにBBWAAが「受賞資格自体は失わない」と声明を発表する騒動が起こった\[5\]\[6\]。
 
-しかし、こうした意見は日米ともにどちらかと言えば少数派であり、MLB内部では資格の変更の動きはない。また、この賞の別名になっている[ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")の他、[ドン・ニューカム](../Page/ドン・ニューカム.md "wikilink")とサム・ジェスローも[ニグロ・リーグ](https://ja.wikipedia.org/wiki/ニグロ・リーグ "wikilink")での経験があるがルーキーとされた前例も現状維持派の根拠となっている。
+[2014年](../Page/2014年.md "wikilink")にも、[田中将大](https://ja.wikipedia.org/wiki/田中将大 "wikilink")および[キューバ国内リーグで実績を残している](../Page/キューバの野球.md "wikilink")[ホセ・アブレイユ](https://ja.wikipedia.org/wiki/ホセ・アブレイユ "wikilink")のルーキー資格を巡って[FOX SPORTSが検証記事を発表したほか](../Page/FOXスポーツネット.md "wikilink")\[7\]、[FOX専属解説者の](https://ja.wikipedia.org/wiki/FOXテレビ "wikilink")[ゲーブ・キャプラー](../Page/ゲーブ・キャプラー.md "wikilink")（元巨人）が「日本とキューバのリーグのレベルが高いのは明らか」として「受賞資格の調節が必要」と述べた。
+
+しかし、こうした意見は日米ともにどちらかと言えば少数派であり、MLB機構では条件見直しの動きはない。また、この賞の別名となっている[ジャッキー・ロビンソン](../Page/ジャッキー・ロビンソン.md "wikilink")の他、[ドン・ニューカム](../Page/ドン・ニューカム.md "wikilink")とも[ニグロ・リーグ](https://ja.wikipedia.org/wiki/ニグロ・リーグ "wikilink")でのプレー実績があるもののルーキー扱いとされた前例も、現状維持派の根拠となっている\[8\]。
 
 ## 受賞者一覧
 
@@ -420,6 +424,11 @@ P</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ピート・アロンソ" title="wikilink">ピート・アロンソ</a></p></td>
 <td><p>1B</p></td>
 </tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="../Page/デビン・ウィリアムズ_(野球).md" title="wikilink">デビン・ウィリアムズ</a></p></td>
+<td><p>P</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -432,3 +441,12 @@ P</p></td>
   - [最優秀新人 (日本プロ野球)](../Page/最優秀新人_\(日本プロ野球\).md "wikilink") - 日本プロ野球の新人賞
 
 [Category:ルーキー・オブ・ザ・イヤー_(MLB)](https://ja.wikipedia.org/wiki/Category:ルーキー・オブ・ザ・イヤー_\(MLB\) "wikilink")
+
+1.
+2.
+3.
+4.
+5.  ダルビッシュはこの2012年の最優秀新人選手賞投票でア・リーグ3位だった。
+6.
+7.
+8.

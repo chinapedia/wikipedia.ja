@@ -5,9 +5,9 @@
 
 ## 略歴
 
-[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[3月24日](../Page/3月24日.md "wikilink")、本名の和田弘樹名義で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりシングル「すべてこのまま抱きしめれば」を発売、歌手としてデビューする。7枚のシングルと3枚のアルバムを発表。
+1995年3月24日、本名の和田弘樹名義で[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")よりシングル「すべてこのまま抱きしめれば」を発売、歌手としてデビューする。7枚のシングルと3枚のアルバムを発表。
 
-[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")6月に歌手としての活動を休止し、2011年現在は**h-wonder**または**ワダヒロキ**の名で作曲家、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として活動している。
+1998年6月に歌手としての活動を休止し、2011年現在は**h-wonder**または**ワダヒロキ**の名で作曲家、[音楽プロデューサー](../Page/音楽プロデューサー.md "wikilink")として活動している。
 
 ## ディスコグラフィ
 
@@ -26,7 +26,7 @@
 
 <!-- end list -->
 
-  - READY STEADY GO\!（1995年[8月23日](../Page/8月23日.md "wikilink")、VIDL-10693）
+  - READY STEADY GO\!（1995年8月23日、VIDL-10693）
     1.  READY STEADY GO\!
           -
             作詞・作曲・編曲：和田弘樹
@@ -37,7 +37,7 @@
 
 <!-- end list -->
 
-  - MYSTIC EYES（[1996年](../Page/1996年.md "wikilink")[4月24日](../Page/4月24日.md "wikilink")、VIDL-10747）
+  - MYSTIC EYES（1996年4月24日、VIDL-10747）
     1.  MYSTIC EYES
           -
             作詞・作曲：和田弘樹、編曲：和田弘樹・[本間昭光](../Page/本間昭光.md "wikilink")
@@ -49,7 +49,7 @@
 
 <!-- end list -->
 
-  - 過ぎた恋のあと（1996年[11月7日](../Page/11月7日.md "wikilink")、VIDL-10819）
+  - 過ぎた恋のあと（1996年11月7日、VIDL-10819）
     1.  過ぎた恋のあと
           -
             作詞：谷亜ヒロコ・和田弘樹、作曲：和田弘樹、編曲：和田弘樹・本間昭光
@@ -60,7 +60,7 @@
 
 <!-- end list -->
 
-  - dawn（[1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月21日](../Page/2月21日.md "wikilink")、VIDL-10839）
+  - dawn（1997年2月21日、VIDL-10839）
     1.  dawn
           -
             作詞：谷亜ヒロコ・和田弘樹、作曲：和田弘樹、編曲：和田弘樹・[松本晃彦](../Page/松本晃彦.md "wikilink")
@@ -73,7 +73,7 @@
 
 <!-- end list -->
 
-  - チョコレートパフェ（1997年[12月17日](../Page/12月17日.md "wikilink")、VIDL-30167）
+  - チョコレートパフェ（1997年12月17日、VIDL-30167）
     1.  チョコレートパフェ
           -
             作詞：和田弘樹・北野散歩、作曲・編曲：和田弘樹
@@ -84,7 +84,7 @@
 
 <!-- end list -->
 
-  - きっと大丈夫（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[4月1日](../Page/4月1日.md "wikilink")、VIDL-30196）
+  - きっと大丈夫（1998年4月1日、VIDL-30196）
     1.  きっと大丈夫
           -
             作詞：[森浩美](../Page/森浩美.md "wikilink")、作曲：和田弘樹、編曲：[岩崎琢](../Page/岩崎琢.md "wikilink")
@@ -95,13 +95,13 @@
 
 <!-- end list -->
 
-  - ＨＡＰＰＹ（[1998年9月30日](https://ja.wikipedia.org/wiki/1998年9月30日 "wikilink")、NDSｰ49）
+  - HAPPY（1998年9月30日、NDS-49）
 
 　　　1.HAPPY
 
 　　　　　　作詞・作曲・編曲：和田弘樹
 
-　　　　　　AIR’G “GO・I・S”presents　北海道限定ソング
+　　　　　　AIR'G “GO・I・S”presents　北海道限定ソング
 
 　　　2.HAPPY（Original KARAOKE）
 
@@ -109,9 +109,9 @@
 
 ### アルバム
 
-  - WONDER HERO（1995年[4月21日](../Page/4月21日.md "wikilink")、VICL-659）
-  - WONDER HERO II Brand-New Atlas（1996年[6月21日](../Page/6月21日.md "wikilink")、VICL-756）
-  - dawn-bright（1997年[4月23日](../Page/4月23日.md "wikilink")、VICL-60001）
+  - WONDER HERO（1995年4月21日、VICL-659）
+  - WONDER HERO II Brand-New Atlas（1996年6月21日、VICL-756）
+  - dawn-bright（1997年4月23日、VICL-60001）
 
 ## 楽曲提供
 
@@ -524,7 +524,7 @@
 
   - 「Let´s Party\!」（編曲）
 
-**[超新星](https://ja.wikipedia.org/wiki/超新星_\(音楽グループ\) "wikilink")**
+**[超新星](https://ja.wikipedia.org/wiki/SUPERNOVA_\(音楽グループ\) "wikilink")**
 
   - 「SUPERSTAR 〜REBORN〜」（編曲）
 
@@ -547,7 +547,7 @@
   - 「[Blue Sky](https://ja.wikipedia.org/wiki/Blue_Sky_\(COLORの曲\) "wikilink")」（編曲）
   - 「[君のいない道](https://ja.wikipedia.org/wiki/君のいない道 "wikilink")」（編曲）
   - 「[Miss you](https://ja.wikipedia.org/wiki/Miss_you_\(COLORの曲\) "wikilink")」（作曲・編曲）
-  - 「[3.Summer time cruisin’ (Album Mix)](https://ja.wikipedia.org/wiki/RED_〜Love_is_all_around〜 "wikilink")」（編曲）
+  - 「[3.Summer time cruisin' (Album Mix)](https://ja.wikipedia.org/wiki/RED_〜Love_is_all_around〜 "wikilink")」（編曲）
 
 **[2AM](https://ja.wikipedia.org/wiki/2AM "wikilink")**
 
@@ -706,7 +706,7 @@
 
 **[miCKun](https://ja.wikipedia.org/wiki/miyake "wikilink")**
 
-  - 「[Heaven’s Lover](https://ja.wikipedia.org/wiki/D.N.A "wikilink")」（編曲）
+  - 「[Heaven's Lover](https://ja.wikipedia.org/wiki/D.N.A "wikilink")」（編曲）
 
 **[mihimaru GT](https://ja.wikipedia.org/wiki/mihimaru_GT "wikilink")**
 
@@ -738,7 +738,7 @@
   - 「[あなたの言葉](https://ja.wikipedia.org/wiki/“愛してる”のOne_Word "wikilink")」（作曲・編曲・サウンドプロデュース）
   - 「[私はアナタにウソをつく](https://ja.wikipedia.org/wiki/Someday_Again〜また会う日まで〜 "wikilink")」（編曲）
 
-**[Lead](../Page/Lead.md "wikilink")**
+**[Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")**
 
   - 「[真夏のMagic (MOCH² BRANDNEW CLUB TRACK)](https://ja.wikipedia.org/wiki/真夏のMagic "wikilink")」（リミックス）
   - 「君と歩く未来」（編曲）
@@ -773,4 +773,4 @@
 
   - [クリエイター（h-wonder）：SCOOP MUSIC](http://www.scoop.co.jp/scoopmusic/creator/detail.php?cd=8)
 
-[Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性作曲家](https://ja.wikipedia.org/wiki/Category:日本の男性作曲家 "wikilink") [Category:日本の編曲家](https://ja.wikipedia.org/wiki/Category:日本の編曲家 "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本の音楽プロデューサー](https://ja.wikipedia.org/wiki/Category:日本の音楽プロデューサー "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1968年生](https://ja.wikipedia.org/wiki/Category:1968年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

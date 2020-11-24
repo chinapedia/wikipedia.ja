@@ -17,7 +17,7 @@
 
 ## メンバー
 
-  - **[GAKU](../Page/GAKU-MC.md "wikilink")** - [MC担当](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。
+  - **[GAKU](../Page/GAKU-MC.md "wikilink")** - [MC担当](../Page/MC_\(ヒップホップ\).md "wikilink")。
   - **[YOGGY](../Page/YOGGY.md "wikilink")** - [DJ担当](../Page/ディスクジョッキー.md "wikilink")。
   - **YURI** （**[市井 由理](../Page/市井由理.md "wikilink")**） - ラップ担当。
   - **[ROCK-Tee](../Page/ROCK-Tee.md "wikilink")** - [DJ担当](../Page/ディスクジョッキー.md "wikilink")。「DA.YO.NE」発売後の1995年に、EAST ENDを一時脱退。（その後、2002年のEAST ENDの活動再開と共に復帰している。）

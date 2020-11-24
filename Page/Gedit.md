@@ -42,7 +42,7 @@ geditは[GNU General Public Licenseでリリースされている](../Page/GNU_G
   - [ 公式ウェブサイト](http://gedit.sourceforge.net/)
   - [ プラグイン一覧](http://live.gnome.org/Gedit/Plugins)
 
-[Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTK+を使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTK+を使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:テキストエディタ](https://ja.wikipedia.org/wiki/Category:テキストエディタ "wikilink")
+[Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:GTKを使用するソフトウェア](https://ja.wikipedia.org/wiki/Category:GTKを使用するソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:テキストエディタ](https://ja.wikipedia.org/wiki/Category:テキストエディタ "wikilink")
 
 1.  [GtkSourceView home page](https://wiki.gnome.org/Projects/GtkSourceView)
 2.  ["gedit: a powerful, underrated text editor for everybody", *Free Software Magazine*](http://www.freesoftwaremagazine.com/columns/gedit_powerful_underrated_text_editor_everybody)  15 February 2008

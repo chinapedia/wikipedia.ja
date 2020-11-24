@@ -83,11 +83,14 @@ FUJICの登場により、計算速度は人手でやっていたときに比べ
   -
   -
   -
+  - 電気通信学会雑誌　昭和32年6月号
+
 ## 外部リンク
 
   - [国立科学博物館のFUJICのページ](http://sts.kahaku.go.jp/sts/detail.php?no=102090021081)
   - [日本のコンピュータパイオニア/岡崎文次](http://museum.ipsj.or.jp/pioneer/okazaki.html)
   - [日本最初のコンピュータを一人で創り上げた男/岡崎文次](http://ascii.jp/elem/000/001/214/1214060/)
+  - [わが国初めての電子計算機FUJIC](http://museum.ipsj.or.jp/guide/pdf/magazine/IPSJ-MGN150808.pdf)
 
 [Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:1950年代のコンピュータ](https://ja.wikipedia.org/wiki/Category:1950年代のコンピュータ "wikilink") [Category:初期のコンピュータ](https://ja.wikipedia.org/wiki/Category:初期のコンピュータ "wikilink") [Category:真空管式コンピュータ](https://ja.wikipedia.org/wiki/Category:真空管式コンピュータ "wikilink") [Category:個別のコンピュータ](https://ja.wikipedia.org/wiki/Category:個別のコンピュータ "wikilink") [Category:コンピュータ史](https://ja.wikipedia.org/wiki/Category:コンピュータ史 "wikilink") [Category:富士フイルム](https://ja.wikipedia.org/wiki/Category:富士フイルム "wikilink")
 

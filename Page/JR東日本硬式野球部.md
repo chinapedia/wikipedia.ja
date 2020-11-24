@@ -73,6 +73,20 @@
   - [田嶋大樹](https://ja.wikipedia.org/wiki/田嶋大樹 "wikilink")：投手（[2017年](../Page/2017年.md "wikilink")オリックスドラフト1位）
   - [板東湧梧](https://ja.wikipedia.org/wiki/板東湧梧 "wikilink")：投手（[2018年](../Page/2018年.md "wikilink")[ソフトバンクドラフト](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")4位）
   - [太田龍](../Page/太田龍.md "wikilink")：投手（[2019年](../Page/2019年.md "wikilink")[巨人ドラフト](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")2位）
+  - [伊藤将司](https://ja.wikipedia.org/wiki/伊藤将司 "wikilink")：投手（[2020年](../Page/2020年.md "wikilink")[阪神ドラフト](../Page/阪神タイガース.md "wikilink")2位）
+
+## 在籍者
+
+  - [内田順三](../Page/内田順三.md "wikilink")
+  - [山本浩司](../Page/山本浩司_\(野球\).md "wikilink")
+  - [近森雄太](https://ja.wikipedia.org/wiki/近森雄太 "wikilink")
+  - [山口裕次郎](https://ja.wikipedia.org/wiki/山口裕次郎 "wikilink")
+
+## かつて所属していた選手・関係者
+
+  - [堀井哲也](../Page/堀井哲也.md "wikilink")
+  - [竹内和也](https://ja.wikipedia.org/wiki/竹内和也_\(捕手\) "wikilink")
+  - [吉永健太朗](https://ja.wikipedia.org/wiki/吉永健太朗 "wikilink")
 
 ## 関連項目
 

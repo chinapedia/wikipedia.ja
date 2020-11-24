@@ -49,7 +49,7 @@
 
 ## 外部リンク
 
-  - [TOKIO TODAY](http://web.archive.org/web/20000407104455/http://www.tokiotoday.com/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2000年4月7日時点の番組公式サイト
-  - [PROGRAM CONCEPT](http://web.archive.org/web/20000304163441/http://www.j-wave.co.jp/contents/timetable/mf_02.htm) - Internet Archiveにより保存されている2000年3月4日時点の番組紹介ページ
+  - [TOKIO TODAY](https://web.archive.org/web/20000407104455/http://www.tokiotoday.com/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2000年4月7日時点の番組公式サイト
+  - [PROGRAM CONCEPT](https://web.archive.org/web/20000304163441/http://www.j-wave.co.jp/contents/timetable/mf_02.htm) - Internet Archiveにより保存されている2000年3月4日時点の番組紹介ページ
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink")

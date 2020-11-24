@@ -11,32 +11,7 @@
 
 ## 所属バンド
 
-  - AZALEA
-  - [DAS:VASSER](../Page/DAS:VASSER.md "wikilink")
-  - DERAIL
-  - DESCRIBE
-  - Distray
-  - Eze:quL
-  - Facizm
-  - GARDEN
-  - Gu：Laymu
-  - [Madeth gray'll](../Page/Madeth_gray'll.md "wikilink")
-  - Mëbius
-  - meffist
-  - [MIRAGE](../Page/MIRAGE_\(バンド\).md "wikilink")
-  - Mist of Rouge
-  - LAYBIAL
-  - Lagna
-  - Lavender
-  - Lubis Cadia
-  - Lumi/Ere
-  - L～CYFER
-  - Philia
-  - Remage
-  - [Syndrome](../Page/Syndrome.md "wikilink")
-  - vellaDonna
-  - Vice risk
-  - Zephyr
+  -
   - [ヴィドール](../Page/ヴィドール_\(バンド\).md "wikilink")
   - オルゴール
   - サリー

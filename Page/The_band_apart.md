@@ -1,7 +1,7 @@
 > この記事は[The band apart](https://ja.wikipedia.org/wiki/The_band_apart)から翻訳されています。
 
 
-**the band apart**（ザ・バンド・アパート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。略称は**バンアパ**。レーベルはasian gothic。
+**the band apart**（ザ・バンド・アパート）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンドである](../Page/バンド_\(音楽\).md "wikilink")。略称は**バンアパ**。レーベルはasian gothic。デビュー以来英語詞で楽曲を発表し続けていたが、7thシングル「2012 e.p.」(2012)で初めて日本語詞の楽曲を発表した\[1\]。それ以降、10thシングル「TENNIS CLUB e.p.」(2015)で英語詞楽曲「冬の窓」を発表するまではすべての楽曲が日本語詞で発表された\[2\]。
 
 ## 来歴
 
@@ -89,7 +89,7 @@
       - 絵が得意で、[Tシャツ](../Page/Tシャツ.md "wikilink")、CDジャケットのデザインや、DVDのブックレットでその腕を披露している。
       - The Yasuno N°5 Groupメンバーとしても活動。
 
-演奏時の立ち位置は荒井が[右](https://ja.wikipedia.org/wiki/右 "wikilink")側、川崎がセンター、原が左側、木暮が後ろと、[4ピース](https://ja.wikipedia.org/wiki/4ピース "wikilink")バンドとしては珍しくボーカルがセンターに立たない[スタイル](../Page/スタイル.md "wikilink")を取っている。これはメンバーの「誰かがメインとかではなく、4人が同列の関係に見えるといい」という思いが反映されたものである。
+演奏時の立ち位置は荒井が[右](https://ja.wikipedia.org/wiki/右 "wikilink")側、川崎がセンター、原が左側、木暮が後ろと、[4ピース](https://ja.wikipedia.org/wiki/4ピース "wikilink")バンドとしては珍しくボーカルがセンターに立たない[スタイル](../Page/スタイル.md "wikilink")を取っている。これはメンバーの「誰かがメインとかではなく、4人が同列の関係に見えるといい」という思いが反映されたものである。この立ち位置は[Cinema staffに影響を与えているが](https://ja.wikipedia.org/wiki/Cinema_staff "wikilink")、荒井によって、自分たちは「インディーズの頃のBEAT CRUSADERSのマネ」であるので「Cinema staffはマネのマネ」であると語られている\[3\]。
 
 メンバー仲が良く、「バンドをしたから仲が良くなったんじゃなくて、仲の良い奴等でバンドをやっている」「音楽は4人が仲良くなるための手段ともいえる」「解散しても[友達](https://ja.wikipedia.org/wiki/友達 "wikilink")のままでいられる」と語っている。
 
@@ -102,7 +102,7 @@
   - [プロモーションビデオはメンバーがシルエットになっていたり遠景になっていたりと](../Page/ミュージック・ビデオ.md "wikilink")、匿名性の強いものが多い。なお、「coral reef」のプロモーションビデオはバンド名の由来である[A Band Apartによって制作された](https://ja.wikipedia.org/wiki/A_Band_Apart "wikilink")。
   - 「quake and brook」ツアー最終日の夕方、アルバムタイトルの如く大地震が起き、開演時刻を大幅に遅らせるというハプニングがあった。交通網も[麻痺](../Page/麻痺.md "wikilink")してしまったため、会場にたどり着けない人やもう間に合わないと諦めて帰る人もいた。
   - ディズニーコンピレーションで共演した[BEAT CRUSADERSと親交が深い](../Page/BEAT_CRUSADERS.md "wikilink")。ヒダカトオルは自身のアルバムと同時期にリリースされた「[quake and brook](https://ja.wikipedia.org/wiki/quake_and_brook "wikilink")」もしきりに宣伝していた。BEAT CRUSADERSの「MUSICRUSADERS」の初回盤でも荒井と原の名前が登場する。
-  - アメリカのバンド[MOCK ORANGEとは非常に親交が深い](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")。2001年にMOCK ORANGEが来日した際、彼らの作品を愛聴していたthe band apartが連絡先を交換し、日本での合同ツアーをオファーした。突然の誘いに最初は戸惑ったMOCK側だったが、送られてきた音源を聴いて好感を持ち、2003年のツアーで共演が実現した。ツアーを通じ両バンドは交流を深め、互いの音楽だけでなく人間性もリスペクトしあう間柄となった。続く2004年の再共演を経てMOCK ORANGEは[asian gothic labelに加入](https://ja.wikipedia.org/wiki/asian_gothic_label "wikilink")。2006年には両バンドによるスプリットシングルをリリース。2007年には日本とアメリカで合同ツアーを行った。the band apartとMOCK ORANGEの関係について原は｢俺達の合言葉は『アイ・ワズ・ゲイ』だから。俺達はゲイじゃないけど、それくらい愛し合っていこうぜって」という発言をしている。
+  - アメリカのバンド[MOCK ORANGEとは非常に親交が深い](https://ja.wikipedia.org/wiki/MOCK_ORANGE "wikilink")。2001年にMOCK ORANGEが来日した際、彼らの作品を愛聴していたthe band apartが連絡先を交換し、日本での合同ツアーをオファーした。突然の誘いに最初は戸惑ったMOCK側だったが、送られてきた音源を聴いて好感を持ち、2003年のツアーで共演が実現した。ツアーを通じ両バンドは交流を深め、互いの音楽だけでなく人間性もリスペクトしあう間柄となった。続く2004年の再共演を経てMOCK ORANGEは[asian gothic labelに加入](https://ja.wikipedia.org/wiki/asian_gothic_label "wikilink")。彼らの7thアルバム「Captain Love」以降のアルバムの日本盤はasian gothic labelからリリースされている。2006年には両バンドによるスプリットシングルをリリース。2007年には日本とアメリカで合同ツアーを行った。2016年に再びスプリットシングルをリリース。the band apartとMOCK ORANGEの関係について原は｢俺達の合言葉は『アイ・ワズ・ゲイ』だから。俺達はゲイじゃないけど、それくらい愛し合っていこうぜって」という発言をしている。
 
 ## ディスコグラフィー
 
@@ -360,6 +360,115 @@
 </div></li>
 </ol></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/MOCK_ORANGE" title="wikilink">MOCK ORANGEとのスプリットシングル</a>2弾</p></td>
+</tr>
+<tr class="odd">
+<td><p>12th</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/4月4日.md" title="wikilink">4月4日</a></p></td>
+<td><p><strong>Falling in Love</strong></p></td>
+<td><p>ASG-041</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全1曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Falling in Love
+</div>
+</div></li>
+</ol></td>
+<td><p>オリコン最高28位、登場回数4回</p></td>
+</tr>
+<tr class="even">
+<td><p>13th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/3月27日.md" title="wikilink">3月27日</a></p></td>
+<td><p><strong>Foresight e.p.</strong></p></td>
+<td><p>ASG-044</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Foresight</li>
+<li>消える前に 2
+</div>
+</div></li>
+</ol></td>
+<td><p>オリコン最高87位</p></td>
+</tr>
+<tr class="odd">
+<td><p>14th</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/10月2日.md" title="wikilink">10月2日</a></p></td>
+<td><p><strong>POOL e.p.</strong></p></td>
+<td><p>ASG-045</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全4曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>ディア・ワンダラー</li>
+<li>夢の中だけで</li>
+<li>DEKU NO BOY</li>
+<li>SCHOOL
+</div>
+</div></li>
+</ol></td>
+<td><p>オリコン最高30位、登場回数6回</p></td>
+</tr>
+<tr class="even">
+<td><p>15th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/4月18日.md" title="wikilink">4月18日</a></p></td>
+<td><p><strong>Sons are back e.p,</strong></p></td>
+<td><p>ASG-047</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Rain Dance</li>
+<li>夜の改札
+</div>
+</div></li>
+</ol></td>
+<td><p>通販・ライブ会場限定</p></td>
+</tr>
+<tr class="odd">
+<td><p>16th</p></td>
+<td><p>2020年<a href="../Page/8月28日.md" title="wikilink">8月28日</a></p></td>
+<td><p><strong>August e.p.</strong></p></td>
+<td><p>asg-048</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Rain Dance</li>
+<li>夜の改札
+</div>
+</div></li>
+</ol></td>
+<td><p>オリコン最高37位</p></td>
+</tr>
+<tr class="even">
+<td><p>17th</p></td>
+<td><p>2020年<a href="../Page/9月25日.md" title="wikilink">9月25日</a></p></td>
+<td><p><strong>September e.p.</strong></p></td>
+<td><p>asg-049</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全2曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>MTZ</li>
+<li>You never know
+</div>
+</div></li>
+</ol></td>
+<td><p>オリコン最高28位</p></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -1104,45 +1213,695 @@ asg-03502</p></td>
 
 ### 楽曲提供
 
-  - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")「Be mine\!」
-      -
-        作曲・編曲
+| アーティスト                                                                          | 曲名           | 年     | 担当       | クレジット          | 備考                                                        |
+| ------------------------------------------------------------------------------- | ------------ | ----- | -------- | -------------- | --------------------------------------------------------- |
+| [amiinA](https://ja.wikipedia.org/wiki/amiinA "wikilink")                       | allow        | 2018  | 作曲       | 木暮栄一           | 木暮、原、荒井が演奏に参加\[4\]                                        |
+| [小野賢章](../Page/小野賢章.md "wikilink")                                              | Rain Dance   | 2018  | 作詞・作曲・編曲 | the band apart |                                                           |
+| [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")                           | Be mine\!    | 2014  | 作曲・編曲    | the band apart | 編曲は[江口亮](https://ja.wikipedia.org/wiki/江口亮 "wikilink")と共同 |
+| coming up                                                                       | 2014         | 作曲・編曲 | 原昌和      |                |                                                           |
+| オールドファッション                                                                      | 2019         | 作曲    | 荒井岳史     |                |                                                           |
+| [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")                                            | Last Summer  | 2020  | 作詞・作曲    | 木暮栄一           | 「さまぁ〜ずライブ12」ED                                            |
+| Summer Ride                                                                     | 2020         | 作詞・作曲 | 木暮栄一     | 「さまぁ〜ずライブ12」OP |                                                           |
+| [Nao☆](https://ja.wikipedia.org/wiki/Nao☆ "wikilink")                           | 射貫け！Midnight | 2020  | 作曲・編曲    | the band apart | 編曲はユウテラスと共同                                               |
+| [FRONTIER BACKYARD](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") | 夜の改札         | 2015  | 作詞・作曲    | 木暮栄一           |                                                           |
+| [まじ娘](https://ja.wikipedia.org/wiki/まじ娘 "wikilink")                             | きっと忘れない      | 2016  | 作詞・作曲    | 荒井岳史           |                                                           |
 
-<!-- end list -->
+## ミュージックビデオ
 
-  - まじ娘「きっと忘れない」
-      -
-        作詞・作曲（荒井）
+<table>
+<thead>
+<tr class="header">
+<th><p>公開年</p></th>
+<th><p>監督</p></th>
+<th><p>曲名</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2001年</p></td>
+<td><p>MORI SATO</p></td>
+<td><p>fool proof</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2002年</p></td>
+<td></td>
+<td><p>Eric.W</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/大岩正志" title="wikilink">大岩正志</a></p></td>
+<td><p>WHEN YOU WISH UPON A STAR</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2003年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/さいごうみちのり" title="wikilink">さいごうみちのり</a></p></td>
+<td><p>FUEL</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2004年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/竹内大輔" title="wikilink">竹内大輔</a></p></td>
+<td><p>higher</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2005年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/MATT_BIELER" title="wikilink">MATT BIELER</a></p></td>
+<td><p>coral reef</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p>from resonance</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2006年</p></td>
+<td><p>竹内大輔</p></td>
+<td><p>led</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>Can't remember</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Still awake</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2007年</p></td>
+<td><p>72〜Still awake from LIVE DVD「Stanley on the 2nd floor」</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>Moonlight Stepper</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年</p></td>
+<td><p>I love you Wasted Junks &amp; Greens</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009年</p></td>
+<td><p>さいごうみちのり</p></td>
+<td><p>Waiting</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>beautiful vanity</p></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青木亮二" title="wikilink">青木亮二</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=A2sZ4NcownU">free fall</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=1AwDREfug9M">photograph</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2012年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/koW-ichi_goto" title="wikilink">koW-ichi goto</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=t-ilYiIZsIk">銀猫街1丁目</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年</p></td>
+<td><p>青木亮二</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=pGidD5Rs7Ko">ノード</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=2e-l_3jDeeQ">誰も知らないカーニバル〜The Base</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年</p></td>
+<td><p><a href="../Page/小嶋貴之.md" title="wikilink">小嶋貴之</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=nba_DfNBQI0">ピルグリム</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年</p></td>
+<td><p>青木亮二</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ZK7pPCdswbo">light in the city 2</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=5yM-4SmEw9s">Night Walker</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=koFlvq2d2Wc">□□□ feat. the band apart / 神話具現</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=H8DBOeWSVxc">higher 2</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017年</p></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=LZymtEQJQfM">ZION TOWN</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=hFg-OM5g5JM">Castaway</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018年</p></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=3aANfGnP4a4">Falling in love</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019年</p></td>
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=YLcxUapbgLk">DEKU NO BOY</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=XS1GTclfSqc">SCHOOL</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/安田潤司" title="wikilink">安田潤司</a></p></td>
+<td><p><a href="https://www.youtube.com/watch?v=uMMyBWJY46c">夢の中だけで</a></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>クレジット</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>出演 / 瑠る栞 / まつきよしほ</li>
+<li>照明・ドローン / PETTAN</li>
+<li>撮影助手 / VIDEO前岡</li>
+<li>撮影協力 / ユクサおおすみ海の学校 / WALK INN STUDIO!</li>
+</ul>
+</div>
+</div></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><p><a href="https://www.youtube.com/watch?v=oDrSRGt-N5M">ディア・ワンダラー</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2020年</p></td>
+<td><p>リキセ</p></td>
+<td><p><a href="https://www.youtube.com/watch?v=ZWRE2PpCy-w">AVECOBE</a></p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
 ## イベント
 
 ### ワンマンライブ・主催イベント
 
-  - 2006年11月〜12月 - SMOOTH LIKE BUTTER TOUR
-  - 2007年10月 - SMOOTH LIKE BUTTER TOUR
-  - 2008年05月〜07月 - SMOOTH LIKE BUTTER TOUR
-  - 2009年04月 - SMOOTH LIKE BUTTER TOUR
-  - 2010年04月〜05月 - SMOOTH LIKE BUTTER TOUR Spring 2010
-  - 2010年11月〜12月 - SMOOTH LIKE BUTTER TOUR Winter 2010
-  - 2011年04月〜06月 - the band apart 5th album"Scent of August"release live SMOOTH LIKE BUTTER TOUR
-  - 2011年10月〜11月 - SMOOTH LIKE BUTTER TOUR Autumn 2011
-      -
-        w/[he](https://ja.wikipedia.org/wiki/he_\(バンド\) "wikilink")/[A(c)](https://ja.wikipedia.org/wiki/A\(c\) "wikilink")/[jizue](https://ja.wikipedia.org/wiki/jizue "wikilink")/[memento森](https://ja.wikipedia.org/wiki/memento森 "wikilink")/[susquatch](https://ja.wikipedia.org/wiki/susquatch "wikilink")/[BASSUI](https://ja.wikipedia.org/wiki/BASSUI "wikilink")/[TransPort](https://ja.wikipedia.org/wiki/TransPort "wikilink")/[GARLIC BOYS](https://ja.wikipedia.org/wiki/GARLIC_BOYS "wikilink")/[season](https://ja.wikipedia.org/wiki/season_\(バンド\) "wikilink")
-  - 2012年02月 - SMOOTH LIKE BUTTER TOUR short spring
-      -
-        w/[Gush](https://ja.wikipedia.org/wiki/Gush "wikilink")
-  - 2012年05月 - SMOOTH LIKE BUTTER Parisien & New Songs
-  - 2012年10月〜11月 - SMOOTH LIKE BUTTER TOUR "Q and K"
-  - 2013年05月〜11月 - 6th album"街の14景"release live SMOOTH LIKE BUTTER TOUR
-  - 2013年11月 - SMOOTH LIKE BUTTER TOUR plus
-  - 2014年06月 - "BONGO e.p."release live SMOOTH LIKE BUTTER TOUR
-  - 2014年11月 - SMOOTH LIKE BUTTER with some new shit TOUR
-  - 2015年02月 - 「謎のオープンワールド」インストアイベント
-  - 2015年03月〜06月 - 7th album "謎のオープンワールド" release live SMOOTH LIKE BUTTER TOUR
-      -
-        w/ASPARAGUS / [LOSTAGE](../Page/LOSTAGE.md "wikilink")
-  - 2015年10月〜11月 - SMOOTH LIKE BUTTER TOUR in ASIAN 5 CITIES
-  - 2016年02月 - Smooth Like New Kicks
+<table>
+<thead>
+<tr class="header">
+<th><p>開催日</p></th>
+<th><p>タイトル</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2006年11月〜12月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2007年10月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2008年5月〜7月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2009年4月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2010年4月〜5月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR Spring 2010</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010年11月〜12月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR Winter 2010</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2011年4月〜6月</p></td>
+<td><p>the band apart 5th album"Scent of August"release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011年10月〜11月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR Autumn 2011</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>出演者</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/he_(バンド)" title="wikilink">he</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/A(c)" title="wikilink">A(c)</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/jizue" title="wikilink">jizue</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/memento森" title="wikilink">memento森</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/susquatch" title="wikilink">susquatch</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/BASSUI" title="wikilink">BASSUI</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/TransPort" title="wikilink">TransPort</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/GARLIC_BOYS" title="wikilink">GARLIC BOYS</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/season_(バンド)" title="wikilink">season</a>
+</div>
+</div></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2012年2月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR short spring</p></td>
+<td><p>w/<a href="https://ja.wikipedia.org/wiki/Gush" title="wikilink">Gush</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2012年5月</p></td>
+<td><p>SMOOTH LIKE BUTTER Parisien &amp; New Songs</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2012年10月〜11月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR "Q and K"</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2013年5月〜11月</p></td>
+<td><p>6th album"街の14景"release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2013年11月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR plus</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014年6月</p></td>
+<td><p>"BONGO e.p."release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014年11月</p></td>
+<td><p>SMOOTH LIKE BUTTER with some new shit TOUR</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015年2月</p></td>
+<td><p>「謎のオープンワールド」インストアイベント</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2015年3月〜6月</p></td>
+<td><p>7th album "謎のオープンワールド" release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td><p>w/ASPARAGUS / <a href="../Page/LOSTAGE.md" title="wikilink">LOSTAGE</a></p></td>
+</tr>
+<tr class="even">
+<td><p>2015年10月〜11月</p></td>
+<td><p>SMOOTH LIKE BUTTER TOUR in ASIAN 5 CITIES</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016年2月</p></td>
+<td><p>Smooth Like New Kicks</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年3月16日</p></td>
+<td><p>HUCK FINN 35th ANNIVERSARY [ the band apart acoustic one-man live ]</p></td>
+<td><p>今池HUCK FINN</p></td>
+</tr>
+<tr class="odd">
+<td><p>2016年5月18日〜5月24日</p></td>
+<td><p>the band apart / Mock Orange「Smooth Like Daniels Tour」</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2016年9月22日〜10月30日</p></td>
+<td><p>the band apart×ロロロ「Smooth Like Antelopes TOUR」</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年2月2日〜2月28日</p></td>
+<td><p>1st album "1" release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td><p>the band apart (naked)</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年3月21日〜3月24日</p></td>
+<td><p>SMOOTH LIKE BUTTER at SHINDAITA FEVER 2DAYS</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2017年5月13日</p></td>
+<td><p>the band apart SMOOTH LIKE GREENSPIA</p></td>
+<td><p>w/sans visage / toe / YOUR SONG IS GOOD</p></td>
+</tr>
+<tr class="even">
+<td><p>2017年9月2日〜11月18日</p></td>
+<td><p>8th album "Memories to Go" release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td><p>w/Art Building / CHAI / ぷぷぷ</p></td>
+</tr>
+<tr class="odd">
+<td><p>2018年2月2日〜2月9日</p></td>
+<td><p>"2" release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td><p>the band apart (naked)</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年4月1日〜5月27日</p></td>
+<td><p>the band apart 20周年記念リクエストツアー</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2018年10月8日〜10月11日</p></td>
+<td><p>Smooth Like Daniels Tour 2018</p></td>
+<td><p>w/Mock Orange / The Firewood Project</p></td>
+</tr>
+<tr class="even">
+<td><p>2018年11月10日〜11月25日</p></td>
+<td><p>GHOSTS EVERYWHERE Tour</p></td>
+<td><p>the band apart (naked)</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年1月7日〜1月27日</p></td>
+<td><p>Keishi Tanaka × the band apart [SMOOTH LIKE NEW KICKS TOUR]</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2019年6月8日</p></td>
+<td><p>"SMOOTH LIKE FEVER"</p></td>
+<td><p>新代田FEVER</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年10月13日〜12月14日</p></td>
+<td><p>the band apart"POOL e.p." release live SMOOTH LIKE BUTTER TOUR</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020年8月29日</p></td>
+<td><p>the band apart SMOOTH LIKE BUTTER online @ FEVER</p></td>
+<td><p>オンライン</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年10月11日</p></td>
+<td><p>the band apart SMOOTH LIKE GREENSPIA 2020</p></td>
+<td><p>服部緑地野外音楽堂</p></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+### 出演イベント
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2004年 - 2010年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 2004年06月13日 - [RUSH BALL](../Page/RUSH_BALL.md "wikilink")★6
+  - 2004年08月08日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2004
+  - 2004年08月29日 - RUSH BALL 2004
+  - 2004年12月29日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
+  - 2005年04月28日 - [ARABAKI ROCK FEST.](../Page/ARABAKI_ROCK_FEST..md "wikilink")04292005 荒吐宵祭/前夜
+  - 2005年08月06日 - ROCK IN JAPAN FESTIVAL 2005
+  - 2005年08月27日 - [MONSTER baSH](../Page/MONSTER_baSH.md "wikilink") 2005
+  - 2005年08月28日 - RUSH BALL 2005
+  - 2005年12月29日 - COUNTDOWN JAPAN 05/06
+  - 2006年08月05日 - ROCK IN JAPAN FESTIVAL 2006
+  - 2006年08月27日 - RUSH BALL 2006
+  - 2007年04月28日 - ARABAKI ROCK FEST.07
+  - 2007年07月27日 - [FUJI ROCK FESTIVAL](https://ja.wikipedia.org/wiki/FUJI_ROCK_FESTIVAL "wikilink") '07
+  - 2007年08月18日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2007 in EZO
+  - 2007年08月25日 - MONSTER baSH 2007
+  - 2007年09月02日 - RUSH BALL 2007
+  - 2007年09月16日 - [BOYZ OF SUMMER](https://ja.wikipedia.org/wiki/BOYZ_OF_SUMMER "wikilink") '07
+  - 2008年04月26日 - ARABAKI ROCK FEST.08
+  - 2008年07月20日 - 大船渡ロックフェスティバル'08
+  - 2008年08月01日 - ROCK IN JAPAN FESTIVAL 2008
+  - 2008年08月30日 - RUSH BALL 2008
+  - 2008年12月28日 - COUNTDOWN JAPAN 08/09
+  - 2008年12月29日 - COUNTDOWN JAPAN 08/09 -WEST-
+  - 2009年05月09日 - BEA presents F-X 2009
+  - 2009年07月19日 - KESEN ROCK FESTIVAL'09
+  - 2009年08月01日 - ROCK IN JAPAN FESTIVAL 2009
+  - 2009年08月08日 - [SUMMER SONIC](https://ja.wikipedia.org/wiki/SUMMER_SONIC "wikilink") 2009
+  - 2009年08月23日 - MONSTER baSH 2009
+  - 2009年08月29日 - Re:mix 2009
+  - 2009年08月30日 - RUSH BALL 2009
+  - 2009年12月28日 - COUNTDOWN JAPAN 09/10
+  - 2010年05月02日 - ARABAKI ROCK FEST.10
+  - 2010年05月30日 - [ROCKS TOKYO](https://ja.wikipedia.org/wiki/ROCKS_TOKYO "wikilink") 2010
+  - 2010年07月17日 - KESEN ROCK FESTIVAL'10
+  - 2010年08月08日 - ROCK IN JAPAN FESTIVAL 2010
+  - 2010年12月27日 - SPC presents ～bootleg theater vol.4～Friends Forever
+  - 2010年12月28日 - COUNTDOWN JAPAN 10/11
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2011年 - 2013年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 2011年07月17日 - Shinsaibashi CLUB QUATTRO 20th Anniversary T.S.R vol.3
+  - 2011年08月07日 - ROCK IN JAPAN FESTIVAL 2011
+  - 2011年08月12日 - RISING SUN ROCK FESTIVAL 2011 in EZO
+  - 2011年09月04日 - RUSH BALL 2011
+  - 2011年12月30日 - COUNTDOWN JAPAN 11/12
+  - 2012年01月07日 - "KESEN ROCK TOKYO" round 6.
+  - 2012年01月20日 - Hand In Hand Vol.2
+  - 2012年02月21日 - [HAWAIIAN6](../Page/HAWAIIAN6.md "wikilink") pre "Ground of memories"
+  - 2012年05月26日 - ROCKS TOKYO 2012
+  - 2012年06月09日・16日・23日・30日・07月01日・08日 - [ASPARAGUS](../Page/ASPARAGUS.md "wikilink") presents BKTS TOUR 2012
+  - 2012年06月28日 - "KESEN ROCK TOKYO" round.10
+  - 2012年07月21日・22日 - KESEN ROCK FESTIVAL'12
+  - 2012年08月03日 - ROCK IN JAPAN FESTIVAL 2012
+  - 2012年08月11日 - 聖地巡礼\!\!夏休み登校編～
+  - 2012年09月02日 - RUSH BALL 2012
+  - 2012年09月05日 - [ART-SCHOOL](../Page/ART-SCHOOL.md "wikilink")「BABY ACID BABY」TOUR 2012
+  - 2012年09月23日 - New Acoustic Camp 2012
+  - 2012年10月08日 - ECHOES 2012
+  - 2012年10月14日 - BEATRAM MUSIC FESTIVAL 2012
+  - 2012年12月31日 - COUNTDOWN JAPAN 12/13
+  - 2013年02月16日 - FOUR SEASONS FESTIVAL'13
+  - 2013年02月23日 - BEA × Zepp Fukuoka presents F-X
+  - 2013年03月16日 - MUSIC CUBE 13
+  - 2013年03月20日 - SOUND SHOOTER vol.8
+  - 2013年04月17日 - New Audiogram ver.6.3
+  - 2013年04月28日 - ARABAKI ROCK FEST.13
+  - 2013年07月03日・05日 - [パスピエ](https://ja.wikipedia.org/wiki/パスピエ_\(バンド\) "wikilink") presents 「印象B」
+  - 2013年07月14日 - KESEN ROCK FESTIVAL'13
+  - 2013年07月18日 - Talking Rock\! FES.2013
+  - 2013年08月04日 - ROCK IN JAPAN FESTIVAL 2013
+  - 2013年08月17日・18日 - 聖地巡礼\!\!2013～夏休み合宿編～
+  - 2013年08月25日 - MONSTER baSH 2013
+  - 2013年08月30日 - PIRATE SHIP 2013
+  - 2013年09月27日・28日 - [dustbox](https://ja.wikipedia.org/wiki/dustbox "wikilink") Care Package TOUR 2013
+  - 2013年10月13日 - DIVING ROCK 2013 in KANAZAWA
+  - 2013年10月20日 - ECHOES 2013
+  - 2013年11月10日 - music festival "tieemo"
+  - 2013年11月15日 - [Fear, and Loathing in Las Vegas](https://ja.wikipedia.org/wiki/Fear,_and_Loathing_in_Las_Vegas "wikilink") 2 Man Shows Tour 2013
+  - 2013年11月16日 - [locofrank](https://ja.wikipedia.org/wiki/locofrank "wikilink") "Signs TOUR 2013"
+  - 2013年12月14日 - 郡山 HIPSHOT JAPAN
+  - 2013年12月22日 - [ROTTENGRAFFTY](../Page/ROTTENGRAFFTY.md "wikilink") presents ポルノ超特急2013
+  - 2013年12月28日 - COUNTDOWN JAPAN 13/14
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2014年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 2014年01月15日 - [FBY](https://ja.wikipedia.org/wiki/FRONTIER_BACKYARD "wikilink") × tba presents "SMOOTH CLASSICAL TOUR"
+  - 2014年01月30日 - ON WITH THE SHOW VOL.1
+  - 2014年02月11日 - [グッドモーニングアメリカ](https://ja.wikipedia.org/wiki/グッドモーニングアメリカ "wikilink") イチ、ニッ、サンでジャンプツアー2014
+  - 2014年03月13日 - New Audiogram ver.7.3
+  - 2014年03月19日・20日 - [SONDRE LERCHE](../Page/ソンドレ・ラルケ.md "wikilink") & YOUNG DREAMS JAPAN TOUR 2014
+  - 2014年03月22日 - BEA × Zepp Fukuoka presents FX2014
+  - 2014年03月25日・26日・04月02日 - となりのバンドマンツアー2014
+  - 2014年04月23日・25日 - [MAN WITH A MISSION](https://ja.wikipedia.org/wiki/MAN_WITH_A_MISSION "wikilink") Tales of Purefly Tour 2014
+  - 2014年05月03日 - VIVA LA ROCK 2014
+  - 2014年05月11日 - FM802 25th Anniversary 802GO\! presents Rockin'Radio\! -OSAKAJOH YAON- supported by SPACE SHOWER TV
+  - 2014年05月22日 - ART-SCHOOL NEW ALBUM「YOU」Release tour 2014
+  - 2014年05月24日 - Rainbow's End 2014
+  - 2014年05月27日 - Yes,We Love butchers
+  - 2014年07月20日 - KESEN ROCK FESTIVAL'14
+  - 2014年07月26日 - FUJI ROCK FESTIVAL '14
+  - 2014年08月17日 - 聖地巡礼\!\!2014～夏期講習編～
+  - 2014年08月24日 - Re:mix 2014
+  - 2014年08月31日 - WALK INN ROCK FESTIVAL\!
+  - 2014年08月31日 - RUSH BALL 2014
+  - 2014年09月13日 - New Acoustic Camp 2014
+  - 2014年09月20日 - StarFes.'14
+  - 2014年10月28日 - [clammbon](https://ja.wikipedia.org/wiki/クラムボン_\(バンド\) "wikilink") faVS\!\!\! vol.6
+  - 2014年11月01日 - OOPARTS 2014
+  - 2014年11月25日 - スペースシャワー列伝 100巻記念公演 第122巻 洒落の宴
+  - 2014年11月27日 - 爆祭-BAKUSAI-vol.8
+  - 2014年12月04日・06日・07日 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") AMU TOUR
+  - 2014年12月11日 - グッドモーニングアメリカ「inトーキョーシティーツアー 2014-2015」
+  - 2014年12月14日 - FRONTIER BACKYARD 10th anniversary presents "10 surroundings"
+  - 2014年12月22日・23日 - [BACK DROP BOMB](../Page/BACK_DROP_BOMB.md "wikilink") TOUR "Loftinaction" ‘14-‘15
+  - 2014年12月30日 - LIVE DI:GA JUDGEMENT2014
+  - 2014年12月31日 - COUNTDOWN JAPAN 14/15
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2015年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 2015年01月10日 - パンクの欠片
+  - 2015年01月17日 - THE SUN ALSO RISES vol.10
+  - 2015年01月30日 - abura derabu
+  - 2015年03月10日 - ツタロック・フェス2015
+  - 2015年03月18日 - SOUND SHOOTER vol.10
+  - 2015年03月21日 - Zephyren presents A.V.E.S.T. project vol8
+  - 2015年04月25日 - [坂本真綾](https://ja.wikipedia.org/wiki/坂本真綾 "wikilink")20周年記念LIVE "FOLLOW ME"
+  - 2015年05月03日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") BEACH 2015
+  - 2015年05月04日 - VIVA LA ROCK 2015
+  - 2015年07月04日 - [AFOC](https://ja.wikipedia.org/wiki/a_flood_of_circle "wikilink") presents What's Going On Tour 2015 "BRAND-NEW RIDERS"
+  - 2015年07月19日 - KESEN ROCK FESTIVAL'15
+  - 2015年08月07日 - SHELTER presents "BATTLE60×60"
+  - 2015年08月14日 - [THE RiCECOOKERS](https://ja.wikipedia.org/wiki/THE_RiCECOOKERS "wikilink")「Gotta Wear Shades Tour 2015」
+  - 2015年08月22日 - onion night\! Lv.56\! ～7th Anniversary～
+  - 2015年08月23日 - 聖地じゅんれい\!\! 2015 ～夏休み追込み編～
+  - 2015年08月26日 - 音霊 OTODAMA SEA STUDIO 2015「THE BEACH & WAVES 2015'」
+  - 2015年09月04日・10日・14日 - [cinema staff](https://ja.wikipedia.org/wiki/cinema_staff "wikilink") × the band apart presents 2 strike 2 butter TOUR
+  - 2015年09月05日 - TOKYO METROPOLITAN CAMP 2015
+  - 2015年09月06日 - DOORS TO FREEDOM 2015
+  - 2015年09月12日 - Underpass 2015
+  - 2015年09月19日 - [騎馬武者ロックフェス 2015](https://ja.wikipedia.org/wiki/騎馬武者ロックフェス "wikilink")
+  - 2015年09月26日 - [中津川 THE SOLAR BUDOKAN](https://ja.wikipedia.org/wiki/中津川_THE_SOLAR_BUDOKAN "wikilink") 2015
+  - 2015年09月30日 - EX THEATER TV PRESENTS GO LIVE AUTUMN EXTRA "DANCE & POP"
+  - 2015年10月08日 - shinjuku LOFT presents MAN2MAN
+  - 2015年10月09日・10日 - NEO CLASSICAL 2015
+  - 2015年10月12日 - THE SUN ALSO RISES vol.16
+  - 2015年10月16日 - [HUSKING BEE](../Page/HUSKING_BEE.md "wikilink") A Youth That Grows Old Tour
+  - 2015年10月18日 - HAWAIIAN6 presents ECHOES 2015
+  - 2015年10月24日 - [9mm Parabellum Bullet](../Page/9mm_Parabellum_Bullet.md "wikilink")「カオスの百年TOUR 2015」
+  - 2015年10月25日 - 金沢一生青春FESTIVAL 2015
+  - 2015年11月01日 - [TOTALFAT](https://ja.wikipedia.org/wiki/TOTALFAT "wikilink")「COME TOGETHER, SING WITH US Tour 2015」
+  - 2015年11月08日 - [jizue](https://ja.wikipedia.org/wiki/jizue "wikilink") presents Library vol.1
+  - 2015年11月20日 - [Negicco](https://ja.wikipedia.org/wiki/Negicco "wikilink")と、ツーマンにくりだそうツアー\!\!\!
+  - 2015年11月29日 - [undervár](https://ja.wikipedia.org/wiki/undervár "wikilink") tour「modernité」
+  - 2015年12月10日 - 新宿ロフト×音速ライン presents 「ビールナイトNEXT cheered up by 風とロック」
+  - 2015年12月31日 - COUNTDOWN JAPAN 15/16
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2016年 -
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+  - 2016年02月07日 - でらロックフェスティバル2016 powered by @FM
+  - 2016年03月13日 - SOUND SHOOTER Vol.11
+  - 2016年03月20日 - BEA×Zepp Fukuoka presents FX 2016 Zepp Fukuoka Final Stage
+  - 2016年04月24日 - SYNCHRONICITY’16 - After Hours -
+  - 2016年07月17日 - KESEN ROCK FESTIVAL'16
+  - 2016年08月20日 - そうだ！佐渡へ行こう\!\! ～旅行編～
+  - 2016年09月18日 - New Acoustic Camp 2016 ※□□□×the band apart名義
+  - 2016年11月05日 - SHIBUYA TSUTAYA presents Scramble Fes 2016 ※the band apart（naked）名義
+  - 2016年11月12日 - DO IT 2016
+  - 2016年12月31日 - LIVE DI:GA JUDGEMENT 2016
+
+</div>
+
+</div>
 
 ## 脚注
 
@@ -1155,3 +1914,8 @@ asg-03502</p></td>
   -
   -
 [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のインディー・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のインディー・ロック・バンド "wikilink") [Category:ポストロック・バンド](https://ja.wikipedia.org/wiki/Category:ポストロック・バンド "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+
+1.
+2.
+3.
+4.

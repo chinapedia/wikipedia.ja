@@ -467,7 +467,7 @@
 
 ### その他
 
-  - 土日祝日の県域ニュースは2012年3月いっぱいで廃止され、現在は全時間帯において松山から四国地方のニュースを放送している。ただ、現在でも不定期ながら県域ニュースが流れることがある\[1\]。
+  - 土日・祝日・年末年始の県域ニュースは2012年3月いっぱいで廃止され、現在は全時間帯において松山から四国地方のニュースを放送している\[1\]。ただ、現在でも不定期ながら土日・祝日に県域ニュースが流れることがある\[2\]。
 
 ## 過去の制作番組
 
@@ -480,7 +480,7 @@
 
 ## アナウンサー・キャスター
 
-  - 氏名の後の\*は、過去に高知放送局の勤務経験があるアナウンサー。
+  - 氏名の後の\* は、過去に高知放送局の勤務経験があるアナウンサー。
 
 <table>
 <thead>
@@ -578,11 +578,11 @@
 
   - みてみて高知12468
 
-[2016年](../Page/2016年.md "wikilink")度から高知県の民間放送3社（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[テレビ高知](../Page/テレビ高知.md "wikilink")・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")）と共同で展開しているキャンペーン\[2\]\[3\]\[4\]。12468は「ワンツーヨーロッパ」と呼び、テレビの視聴を呼びかけるものとなっている。NHKは[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")がPRに出演している。
+[2016年](../Page/2016年.md "wikilink")度から高知県の民間放送3社（[高知放送](https://ja.wikipedia.org/wiki/高知放送 "wikilink")・[テレビ高知](../Page/テレビ高知.md "wikilink")・[高知さんさんテレビ](../Page/高知さんさんテレビ.md "wikilink")）と共同で展開しているキャンペーン\[3\]\[4\]\[5\]。12468は「ワンツーヨーロッパ」と呼び、テレビの視聴を呼びかけるものとなっている。NHKは[どーもくん](https://ja.wikipedia.org/wiki/どーもくん "wikilink")がPRに出演している。
 
   - [新型コロナウイルスに関する啓発](../Page/2019新型コロナウイルス.md "wikilink")
 
-前述の「みてみて高知12468」に関連して、新型コロナウイルスへの啓発を目的としたキャンペーンを[2020年](../Page/2020年.md "wikilink")に実施\[5\]。このキャンペーンでは、テレビだけでなくラジオ各局とも実施している。テレビでは夕方のニュース番組のキャスターが出演している。
+前述の「みてみて高知12468」に関連して、新型コロナウイルスへの啓発を目的としたキャンペーンを[2020年](../Page/2020年.md "wikilink")に実施\[6\]。このキャンペーンでは、テレビだけでなくラジオ各局とも実施している。テレビでは夕方のニュース番組のキャスターが出演している。
 
   - テレビ：高知局（こうちいちばん、高橋篤史・中道洋司）、高知放送（[eye+スーパー](https://ja.wikipedia.org/wiki/eye+スーパー "wikilink")、雫石将克・[高橋生](https://ja.wikipedia.org/wiki/高橋生 "wikilink")）、テレビ高知（[情報パレット からふる](https://ja.wikipedia.org/wiki/情報パレット_からふる "wikilink")、中川美咲・[藤崎美希](https://ja.wikipedia.org/wiki/藤崎美希 "wikilink")）、高知さんさんテレビ（[プライムこうちF](https://ja.wikipedia.org/wiki/プライムこうちF "wikilink")、[玉井新平](../Page/玉井新平.md "wikilink")・[石井愛子](../Page/石井愛子.md "wikilink")）
   - ラジオ：高知局（[吉岡真央](https://ja.wikipedia.org/wiki/吉岡真央 "wikilink")、[瀬戸光](https://ja.wikipedia.org/wiki/瀬戸光 "wikilink")）・高知放送（[井上琢己](https://ja.wikipedia.org/wiki/井上琢己 "wikilink")、[石田佳代](https://ja.wikipedia.org/wiki/石田佳代 "wikilink")）・[エフエム高知](../Page/エフエム高知.md "wikilink")（[大西由梨](https://ja.wikipedia.org/wiki/大西由梨 "wikilink")、[加藤結](https://ja.wikipedia.org/wiki/加藤結 "wikilink")）
@@ -596,8 +596,9 @@
   -
 [Category:NHK高知](https://ja.wikipedia.org/wiki/Category:NHK高知 "wikilink") [Category:日本放送協会の放送局](https://ja.wikipedia.org/wiki/Category:日本放送協会の放送局 "wikilink") [Category:高知県のマスメディア](https://ja.wikipedia.org/wiki/Category:高知県のマスメディア "wikilink") [Category:四国地方のテレビ局](https://ja.wikipedia.org/wiki/Category:四国地方のテレビ局 "wikilink") [Category:四国地方のラジオ局](https://ja.wikipedia.org/wiki/Category:四国地方のラジオ局 "wikilink")
 
-1.  主に高知県内で重大な自然災害が発生した場合など。
-2.
-3.  [みてみて高知12468 ワンツーヨーロッパ](http://web.sunsuntv.co.jp/kochi12468) - 高知さんさんテレビ
-4.  [みてみて高知12468キャンペーン](https://www.kutv.co.jp/12468cp/) - テレビ高知
-5.  [民放の新型コロナ対応 ～視聴者・リスナーに向けて 地域内での共同キャンペーン](https://j-ba.or.jp/category/COVID-19/jba103783) - 日本民間放送連盟
+1.  稀にではあるが、土曜日の夜から日曜日の朝にかけて松山で四国ブロックニュースを担当する場合がある。
+2.  主に高知県内で重大な自然災害が発生した場合や日曜日に地方選挙の告示・投開票関連ニュースがある場合が該当。
+3.
+4.  [みてみて高知12468 ワンツーヨーロッパ](http://web.sunsuntv.co.jp/kochi12468) - 高知さんさんテレビ
+5.  [みてみて高知12468キャンペーン](https://www.kutv.co.jp/12468cp/) - テレビ高知
+6.  [民放の新型コロナ対応 ～視聴者・リスナーに向けて 地域内での共同キャンペーン](https://j-ba.or.jp/category/COVID-19/jba103783) - 日本民間放送連盟

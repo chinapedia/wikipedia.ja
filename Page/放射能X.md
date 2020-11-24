@@ -30,7 +30,7 @@
   -
   -
   -
-[Category:1953年の映画](https://ja.wikipedia.org/wiki/Category:1953年の映画 "wikilink") [Category:1950年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1950年代の特撮作品 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国の特撮映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の特撮映画 "wikilink") [Category:昆虫を題材とした映画](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした映画 "wikilink") [Category:ロサンゼルスを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした映画作品 "wikilink") [Category:ニューメキシコ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューメキシコ州を舞台とした映画作品 "wikilink") [Category:ブロニスラウ・ケイパーの作曲映画](https://ja.wikipedia.org/wiki/Category:ブロニスラウ・ケイパーの作曲映画 "wikilink")
+[Category:1953年の映画](https://ja.wikipedia.org/wiki/Category:1953年の映画 "wikilink") [Category:1950年代の特撮作品](https://ja.wikipedia.org/wiki/Category:1950年代の特撮作品 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:アメリカ合衆国の特撮映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の特撮映画 "wikilink") [Category:アメリカ合衆国の怪物映画](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の怪物映画 "wikilink") [Category:昆虫を題材とした映画](https://ja.wikipedia.org/wiki/Category:昆虫を題材とした映画 "wikilink") [Category:ロサンゼルスを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ロサンゼルスを舞台とした映画作品 "wikilink") [Category:ニューメキシコ州を舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:ニューメキシコ州を舞台とした映画作品 "wikilink") [Category:ニューメキシコ州で製作された映画作品](https://ja.wikipedia.org/wiki/Category:ニューメキシコ州で製作された映画作品 "wikilink") [Category:ブロニスラウ・ケイパーの作曲映画](https://ja.wikipedia.org/wiki/Category:ブロニスラウ・ケイパーの作曲映画 "wikilink")
 
 1.
 2.  [The 27th Academy Awards, 1955](https://www.oscars.org/oscars/ceremonies/1955)

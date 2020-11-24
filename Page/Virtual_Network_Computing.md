@@ -5,7 +5,7 @@
 
 **Virtual Network Computing**（ヴァーチャル・ネットワーク・コンピューティング、略称**VNC**）は、ネットワーク上の離れたコンピュータを遠隔操作するための[RFB](https://ja.wikipedia.org/wiki/RFB_Protocol "wikilink")[プロトコルを利用する](../Page/通信プロトコル.md "wikilink")、[リモートデスクトップ](https://ja.wikipedia.org/wiki/リモートデスクトップ "wikilink")ソフトである。VNCは[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")なソフトウェアとして開発されているため、インストールされているマシン同士は[OSなどのプラットフォームの種類に依存することなく通信できる](../Page/オペレーティングシステム.md "wikilink")。
 
-VNCの最初のバージョンは [Olivetti & Oracle Research Lab](https://ja.wikipedia.org/wiki/Olivetti_&_Oracle_Research_Lab "wikilink") によって開発されたが、オリジナル版の[ソースコード](../Page/ソースコード.md "wikilink")が[GPL方式の](../Page/GNU_General_Public_License.md "wikilink")[ライセンス](../Page/ライセンス.md "wikilink")下で[オープンソース](../Page/オープンソース.md "wikilink")として公開されているため、現在では様々な派生ソフトが誕生している。lel
+VNCの最初のバージョンは [Olivetti & Oracle Research Lab](https://ja.wikipedia.org/wiki/Olivetti_&_Oracle_Research_Lab "wikilink") によって開発されたが、オリジナル版の[ソースコード](../Page/ソースコード.md "wikilink")が[GPL方式の](../Page/GNU_General_Public_License.md "wikilink")[ライセンス](../Page/ライセンス.md "wikilink")下で[オープンソース](../Page/オープンソース.md "wikilink")として公開されているため、現在では様々な派生ソフトが誕生している。
 
 ## 概要
 

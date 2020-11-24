@@ -20,7 +20,7 @@
   - [伊集院光](../Page/伊集院光.md "wikilink")（[伊集院光 深夜の馬鹿力](../Page/伊集院光_深夜の馬鹿力.md "wikilink")）
   - [爆笑問題](../Page/爆笑問題.md "wikilink")（[爆笑問題カーボーイ](../Page/爆笑問題カーボーイ.md "wikilink")）
   - [小堺一機](../Page/小堺一機.md "wikilink")・[関根勤](../Page/関根勤.md "wikilink")（[コサキンDEワァオ\!](../Page/コサキンDEワァオ!.md "wikilink")）
-  - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")（[さまぁ〜ずの逆にアレだろ\!?](https://ja.wikipedia.org/wiki/さまぁ〜ずの逆にアレだろ!? "wikilink")）
+  - [さまぁ〜ず](../Page/さまぁ〜ず.md "wikilink")（[さまぁ〜ずの逆にアレだろ](../Page/木曜Junk_さまぁ〜ずの逆にアレだろ.md "wikilink")）
   - [極楽とんぼ](../Page/極楽とんぼ.md "wikilink")（[極楽とんぼの吠え魂](../Page/極楽とんぼの吠え魂.md "wikilink")）
 
 ### JUNK24時台（Be@t B@by\!\!）

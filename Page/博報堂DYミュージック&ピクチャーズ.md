@@ -121,7 +121,7 @@
   - [DEVIL SURVIVOR 2 the ANIMATION](https://ja.wikipedia.org/wiki/DEVIL_SURVIVOR_2_the_ANIMATION "wikilink")
   - [ティアーズ・トゥ・ティアラ](../Page/ティアーズ・トゥ・ティアラ_花冠の大地.md "wikilink")
   - [デビル・メイ・クライ](https://ja.wikipedia.org/wiki/デビルメイクライ_\(アニメ\) "wikilink")
-  - [TO](https://ja.wikipedia.org/wiki/TO "wikilink")
+  - [TO](https://ja.wikipedia.org/wiki/2001夜物語#TO "wikilink")
   - [凪のあすから](https://ja.wikipedia.org/wiki/凪のあすから "wikilink")
   - [ななついろ★ドロップス](../Page/ななついろ★ドロップス.md "wikilink")
   - [ノブナガ・ザ・フール](https://ja.wikipedia.org/wiki/ノブナガ・ザ・フール "wikilink")
@@ -153,6 +153,7 @@
   - [キャロル&チューズデイ](https://ja.wikipedia.org/wiki/キャロル&チューズデイ "wikilink")
   - [ありふれた職業で世界最強](https://ja.wikipedia.org/wiki/ありふれた職業で世界最強 "wikilink")
   - [コップクラフト](https://ja.wikipedia.org/wiki/コップクラフト "wikilink")
+  - [無能なナナ](https://ja.wikipedia.org/wiki/無能なナナ "wikilink")
 
 など
 

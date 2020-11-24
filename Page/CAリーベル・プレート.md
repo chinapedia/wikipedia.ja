@@ -396,7 +396,7 @@
 15.
 16.
 17.
-18. <http://carp123.blogspot.jp/>
+18. <https://carp123.blogspot.com/>
 19.
 20. <http://news.bbc.co.uk/sport2/hi/football/world_football/5398236.stm>
 21. <https://www.youtube.com/watch?v=6JGi4-fcE-I>

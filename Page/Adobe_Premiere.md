@@ -58,13 +58,12 @@
 
 [簡易版であるAdobe](../Page/廉価版.md "wikilink") Premiere Elementsは、[iMovie](https://ja.wikipedia.org/wiki/iMovie "wikilink")や[VideoStudio](../Page/VideoStudio.md "wikilink")、EDIUS Neoなどと競合する。
 
+## 脚注
+
 ## 外部リンク
 
-  - [Premiere Pro 製品情報（日本語版）](http://www.adobe.com/jp/products/premiere/)
-  - [Premiere Elements 製品情報(日本語版)](http://www.adobe.com/jp/products/premiereel/)
-  - [Adobeホームページ](http://www.adobe.com/jp/)
-
-## 脚注
+  - [Adobe Premiere Pro](https://www.adobe.com/jp/products/premiere.html)
+  - [Adobe Premiere Elements](https://www.adobe.com/jp/products/premiere-elements.html)
 
 [Category:アドビシステムズのソフトウェア](https://ja.wikipedia.org/wiki/Category:アドビシステムズのソフトウェア "wikilink") [Category:映像編集・合成ソフト](https://ja.wikipedia.org/wiki/Category:映像編集・合成ソフト "wikilink") [Category:MacOSのソフトウェア](https://ja.wikipedia.org/wiki/Category:MacOSのソフトウェア "wikilink")
 

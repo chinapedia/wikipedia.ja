@@ -61,9 +61,11 @@
 
 ## 外部リンク
 
-  - [BPジャパン株式会社](https://www.bpjapan.com/) （日本語）
+  - [BPジャパン株式会社](https://www.bp.com/ja_jp/japan/home.html)
 
-  - [BP Global](https://www.bp.com/) （英語）
+  - [BPカストロール株式会社](https://www.bp.com/ja_jp/bp-castrol-japan/home.html)
+
+  - [BP Global](https://www.bp.com/)
 
   -
   -

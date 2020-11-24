@@ -123,7 +123,7 @@
 <!-- end list -->
 
   - 『Kanon』初回限定版のみ、特典CD『anemoscope』が同梱されており、フル版が収録されたこのゲームを求める人々によって数万円の値を付けられる事さえあった。
-  - このため、「Last regrets」、「風の辿り着く場所」のショート/アレンジ版が収録された[I've](../Page/I've.md "wikilink")の初アルバム、『[regret](https://ja.wikipedia.org/wiki/regret_\(アルバム\) "wikilink")』\[31\]は爆発的な人気を呼び、収録されたほかの作品の曲と合わせてアダルトゲームの主題歌/挿入歌が一つのジャンルの商品として独立していくきっかけになった。
+  - このため、「Last regrets」、「風の辿り着く場所」のフル/アレンジ版が収録された[I've](../Page/I've.md "wikilink")の初アルバム、『[regret](https://ja.wikipedia.org/wiki/regret_\(アルバム\) "wikilink")』\[31\]は爆発的な人気を呼び、収録されたほかの作品の曲と合わせてアダルトゲームの主題歌/挿入歌が一つのジャンルの商品として独立していくきっかけになった。
   - また、主題歌のフル版と、新たにアレンジされたBGMを収録したCD『Kanon "Last regrets/Place of wind which arrives"』がイベント通販された。
   - 2002年に発売された「[Kanon ORIGINAL SOUNDTRACK](https://ja.wikipedia.org/wiki/Kanon_ORIGINAL_SOUNDTRACK "wikilink")」にショート版、フル版共に収録、アニメ版でも2002年に[関西テレビ放送](../Page/関西テレビ放送.md "wikilink")・[フジテレビ系にて放送された](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[東映アニメーション](https://ja.wikipedia.org/wiki/東映アニメーション "wikilink")制作版にて「Last regrets」は最終回挿入歌、「風の辿り着く場所」は最終回エンディングテーマとして使用された後、2006年のBS-i（現：[BS-TBS](../Page/BS-TBS.md "wikilink")）にて放送された[京都アニメーション](../Page/京都アニメーション.md "wikilink")制作版では、それぞれオープニングとエンディングテーマに起用され、同年の12月28日に[シングルカット](https://ja.wikipedia.org/wiki/シングルカット "wikilink")された。ゲームサントラ収録のそれぞれのフルコーラスバージョンとバージョン、ミックス共に同じ。
 
@@ -145,7 +145,7 @@
 
 特別編の14話「風花」（かざはな、テレビ未放送）は、最終回のラストシーンの補足と各ヒロインのその後が描かれたオリジナルエピソードで、特典にして重要な役割を持つエピローグである。この作品はDVD全巻購入者特典であり、DVD-BOXには収録されていない。
 
-作中、「CLANNAD」の文字がプリントされた[パーカーを登場人物の北川潤が着ているシーンがあり](../Page/パーカー_\(衣類\).md "wikilink")、当時開発中であったCLANNADの存在を明らかにしていた。
+作中、「CLANNAD」の文字がプリントされた[パーカーを登場人物の北川潤が着ているシーンがあり](../Page/パーカー_\(衣類\).md "wikilink")、当時開発中であった『CLANNAD』の存在を明らかにしていた。
 
 ### スタッフ（第1作）
 

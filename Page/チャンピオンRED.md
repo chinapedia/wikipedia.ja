@@ -20,7 +20,7 @@
   - [絢爛たるグランドセーヌ](https://ja.wikipedia.org/wiki/絢爛たるグランドセーヌ "wikilink")（[Cuvie](../Page/Cuvie.md "wikilink")）2013年9月号 -
   - [聖闘士星矢 セインティア翔](https://ja.wikipedia.org/wiki/聖闘士星矢_セインティア翔 "wikilink")（原作：[車田正美](https://ja.wikipedia.org/wiki/車田正美 "wikilink")、作画：[久織ちまき](../Page/久織ちまき.md "wikilink")）2013年10月号 - 、※『[聖闘士星矢](https://ja.wikipedia.org/wiki/聖闘士星矢 "wikilink")』のスピンオフ作品。
   - [DEAD Tube](https://ja.wikipedia.org/wiki/DEAD_Tube "wikilink")（原作：[山口ミコト](https://ja.wikipedia.org/wiki/山口ミコト "wikilink")、漫画：[北河トウタ](https://ja.wikipedia.org/wiki/北河トウタ "wikilink")）2014年7月号 -
-  - [衛府の七忍](https://ja.wikipedia.org/wiki/衛府の七忍 "wikilink")（[山口貴由](../Page/山口貴由.md "wikilink")）2015年5月号 -
+  - [衛府の七忍](https://ja.wikipedia.org/wiki/衛府の七忍 "wikilink")（[山口貴由](../Page/山口貴由.md "wikilink")）2015年5月号 - 2021年1月号
   - [神さまの怨結び](https://ja.wikipedia.org/wiki/神さまの怨結び "wikilink")（守月史貴）2015年7月号 - 、※『チャンピオンRED いちご』より同誌の休刊後に移籍。
   - [人狼機ウィンヴルガ](https://ja.wikipedia.org/wiki/人狼機ウィンヴルガ "wikilink")（[綱島志朗](../Page/綱島志朗.md "wikilink")）2016年10月号 -
   - [神呪のネクタール](https://ja.wikipedia.org/wiki/神呪のネクタール "wikilink")（原作：[吉野弘幸](../Page/吉野弘幸_\(脚本家\).md "wikilink")、漫画：[佐藤健悦](../Page/佐藤健悦.md "wikilink")）2017年1月号 -
@@ -36,6 +36,7 @@
   - サキュバス&ヒットマン （原作：[深見真](../Page/深見真.md "wikilink")、漫画：[刻夜セイゴ](https://ja.wikipedia.org/wiki/刻夜セイゴ "wikilink")）2020年4月号 - 、※2020年3月号にプレストーリーを掲載。
   - [エコエコアザラク REBORN](../Page/エコエコアザラク.md "wikilink")（原作：[古賀新一](../Page/古賀新一.md "wikilink")、作画：[山田J太](../Page/山田J太.md "wikilink")）2020年5月号 -
   - 8マンVSサイボーグ009（原作：[平井和正](../Page/平井和正.md "wikilink")・[桑田二郎](../Page/桑田二郎.md "wikilink")・[石ノ森章太郎](../Page/石ノ森章太郎.md "wikilink")、脚本：[七月鏡一](../Page/七月鏡一.md "wikilink")、作画：[早瀬マサト](../Page/早瀬マサト.md "wikilink")・[石森プロ](https://ja.wikipedia.org/wiki/石森プロ "wikilink")）2020年9月号 - 、※シリーズ連載。
+  - [ギャル鉄](https://ja.wikipedia.org/wiki/ギャル鉄 "wikilink")（[松山せいじ](../Page/松山せいじ.md "wikilink")）2020年12月号 -
 
 以上連載開始順
 

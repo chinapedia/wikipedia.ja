@@ -653,7 +653,7 @@ PSP-2000/3000の場合、別売りバッテリーカバーが必要。</p></td>
 <td><p>×</p></td>
 <td><p>○</p></td>
 <td><p>○</p></td>
-<td></td>
+<td><p>ワンセグ放送を視聴・録画でき、録画した番組はビデオフォルダに保存される。起動および視聴にはメモリースティックPRO Duoが必要（登録したチャンネルのデータやリスト等がメモリースティックPRO Duoに保存されるため）。データ放送で通信を行う際は本体のWi-Fi設定が必要。チューナー表面の右側に3.5mmのミニプラグに対応した外部アンテナの接続端子があり、ニンテンドーDSシリーズ（<a href="../Page/任天堂.md" title="wikilink">任天堂</a>）対応の『<a href="../Page/ワンセグ受信アダプタ_DSテレビ.md" title="wikilink">ワンセグ受信アダプタ DSテレビ</a>』とは異なり専用の外部アンテナは付属されず、社外品の市販されているミニプラグ搭載の外部アンテナ・アンテナケーブルの接続が可能。なお、外部アンテナ使用時はチューナーのアンテナ機能が停止する。</p></td>
 </tr>
 <tr class="odd">
 <td><p>PSP-330</p></td>
@@ -1155,7 +1155,7 @@ SCZM-92096</p></td>
   -
   - [PlayStation® 公式チャンネル](https://www.youtube.com/user/playstationjp) - [YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")
 
-  - [PlayStation(R)公式チャンネル“ぷれちゃ”](http://ch.nicovideo.jp/channel/ch197) - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
+  - [PlayStation(R)公式チャンネル“ぷれちゃ”](https://ch.nicovideo.jp/ch197) - [ニコニコ動画](../Page/ニコニコ動画.md "wikilink")
 
 [Category:PlayStation_Portable](https://ja.wikipedia.org/wiki/Category:PlayStation_Portable "wikilink") [Category:PlayStation](https://ja.wikipedia.org/wiki/Category:PlayStation "wikilink") [Category:携帯型ゲーム機](https://ja.wikipedia.org/wiki/Category:携帯型ゲーム機 "wikilink") [Category:2004年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2004年のコンピュータゲーム "wikilink") [Category:2000年代の玩具](https://ja.wikipedia.org/wiki/Category:2000年代の玩具 "wikilink") [Category:携帯型プレーヤー](https://ja.wikipedia.org/wiki/Category:携帯型プレーヤー "wikilink") [Category:グッドデザイン賞](https://ja.wikipedia.org/wiki/Category:グッドデザイン賞 "wikilink")
 

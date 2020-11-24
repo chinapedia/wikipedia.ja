@@ -21,7 +21,7 @@
 
 ## 外部リンク
 
-  - [中京テレビ公式サイト内 SATOYAMAプロジェクト：愛知万博連携番組 WAKU WAKU](http://web.archive.org/web/20080124084255/http://www.ctv.co.jp/satoyama/)（インターネット・アーカイブ保存データ）
+  - [中京テレビ公式サイト内 SATOYAMAプロジェクト：愛知万博連携番組 WAKU WAKU](https://web.archive.org/web/20080124084255/http://www.ctv.co.jp/satoyama/)（インターネット・アーカイブ保存データ）
   - [中京テレビ公式サイト内 WAKU☆WAKUスペシャル 町に元気がやってきた\!日本全国町おこし奮闘記](http://www.ctv.co.jp/chu/lady/2004/1008/index.html)
   - [中京テレビ公式サイト内 WAKU★WAKUスペシャル ここに注目\!万博に感動はこぶ夢チャレンジャー](http://www.ctv.co.jp/chu/lady/2005/0314/index.html)
 

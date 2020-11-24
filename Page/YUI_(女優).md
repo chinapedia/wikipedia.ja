@@ -7,7 +7,7 @@
 
   - [1982年](../Page/1982年.md "wikilink")[9月6日](../Page/9月6日.md "wikilink")、[新潟県](../Page/新潟県出身の人物一覧.md "wikilink")[柏崎市](../Page/柏崎市.md "wikilink")に生まれる。本名は品田由衣。
   - 親族の結婚式で東京に来ていた際に立ち寄った渋谷でスカウトされ芸能界入り。当時は[ボックスコーポレーション](../Page/ボックスコーポレーション.md "wikilink")所属。
-  - [日出女子学園高等学校](https://ja.wikipedia.org/wiki/日出女子学園高等学校 "wikilink")卒業。
+  - [日出女子学園高等学校卒業](../Page/目黒日本大学中学校・高等学校.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink")[11月](../Page/11月.md "wikilink")、**品田 ゆい**として[アルペンのテレビCMに](../Page/アルペン_\(企業\).md "wikilink")[加藤晴彦](../Page/加藤晴彦.md "wikilink")の相手役として登場し、話題となる。
   - 同年よりグラビアアイドルとして多くの漫画誌・アイドル誌の表紙・巻頭グラビアを飾り、短期間で一躍トップアイドルへと昇りつめる。
   - [2000年](../Page/2000年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")、[CX系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[テレビドラマ](../Page/テレビドラマ.md "wikilink")『[天気予報の恋人](../Page/天気予報の恋人.md "wikilink")』で[ドラマ](../Page/ドラマ.md "wikilink")デビュー。

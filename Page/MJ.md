@@ -87,6 +87,7 @@
           - [松井珠理奈](https://ja.wikipedia.org/wiki/松井珠理奈 "wikilink") - アイドル（[SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")）
       - MJブロンディ - 自動車評論家、[清水草一](../Page/清水草一.md "wikilink")の別名。
       - [鄭夢準](../Page/鄭夢準.md "wikilink")の愛称。
+      - [MJ (歌手)](https://ja.wikipedia.org/wiki/MJ_\(歌手\) "wikilink")
 
 ## フィクションのことがら
 

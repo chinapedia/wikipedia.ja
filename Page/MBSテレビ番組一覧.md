@@ -121,6 +121,7 @@
   - スポーツ情報
       - [GAMBA TV〜青と黒〜](https://ja.wikipedia.org/wiki/GAMBA_TV〜青と黒〜 "wikilink")（火 2:10 - 2:25）
       - [YUBIWAZA](https://ja.wikipedia.org/wiki/YUBIWAZA "wikilink")（金 1:59 - 2:30〈木深夜〉）
+      - [朝日奈央のキラめきスポーツ〜キラスポ〜](https://ja.wikipedia.org/wiki/朝日奈央のキラめきスポーツ〜キラスポ〜 "wikilink")（（月1回・月 0:50 - 1:20）〈日深夜〉）
   - スポーツ中継
       - [全国高校ラグビー大会](https://ja.wikipedia.org/wiki/全国高等学校ラグビーフットボール大会#テレビ中継 "wikilink")
       - [センバツ高校野球大会](https://ja.wikipedia.org/wiki/選抜高等学校野球大会#地上波テレビ "wikilink")\[2\] **G**
@@ -211,6 +212,7 @@
       - ▲[予約殺到\!スゴ腕の専門外来](https://ja.wikipedia.org/wiki/予約殺到!スゴ腕の専門外来 "wikilink")
           - ▲[衝撃速報\!アカルイ☆ミライ](https://ja.wikipedia.org/wiki/衝撃速報!アカルイ☆ミライ "wikilink")(上記の[スピンオフ](../Page/スピンオフ.md "wikilink")元)
       - ▲[出川哲朗の恥の王様](../Page/出川哲朗の恥の王様.md "wikilink")
+      - [かまいたちの知らんけど](https://ja.wikipedia.org/wiki/かまいたちの知らんけど "wikilink")
 
 ### 放送終了した番組
 
@@ -390,6 +392,7 @@
       - [おねだり怪盗 GO\!マウス](https://ja.wikipedia.org/wiki/おねだり怪盗_GO!マウス "wikilink")
       - [MBS漫才アワード](../Page/MBS漫才アワード.md "wikilink")
       - [米朝一門顔見世大興行](https://ja.wikipedia.org/wiki/米朝一門顔見世大興行 "wikilink")
+      - [激突\!お正月騒乱絵巻上岡VS板東VSたかじんVSノック](https://ja.wikipedia.org/wiki/激突!お正月騒乱絵巻上岡VS板東VSたかじんVSノック "wikilink")
 
 ### バラエティ関連項目
 
@@ -606,6 +609,7 @@
       - ▲[ホムカミ〜ニッポン大好き外国人 世界の村に里帰り〜](https://ja.wikipedia.org/wiki/ホムカミ〜ニッポン大好き外国人_世界の村に里帰り〜 "wikilink")
           - ▲[さまぁ〜ずの世界のすげぇにツイテッタ〜](https://ja.wikipedia.org/wiki/さまぁ〜ずの世界のすげぇにツイテッタ〜 "wikilink")
       - [エド山口の世界を釣りたい](https://ja.wikipedia.org/wiki/エド山口の世界を釣りたい "wikilink")
+      - [道場六三郎が行く\!](https://ja.wikipedia.org/wiki/道場六三郎が行く! "wikilink")(お正月の特別番組)
   - 関西ローカル
       - [旅物語](https://ja.wikipedia.org/wiki/旅物語 "wikilink")
       - [近畿は美しく おスミつき新発見伝](https://ja.wikipedia.org/wiki/近畿は美しく_おスミつき新発見伝 "wikilink")
@@ -625,8 +629,8 @@
 
 ### 現在放送中の番組
 
-  - [荒ぶる季節の乙女どもよ。(ドラマ版)](https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。#テレビドラマ "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、水 0:59 - 1:29〈火深夜〉）
-  - [俺たちはあぶなくない〜クールにさぼる刑事たち](../Page/俺たちはあぶなくない〜クールにさぼる刑事たち.md "wikilink")（ドラマ特区、金 0:59 - 1:29〈木深夜〉）
+  - [そのご縁、お届けします-メルカリであったほんとの話-](https://ja.wikipedia.org/wiki/そのご縁、お届けします-メルカリであったほんとの話- "wikilink")（[ドラマイズム](https://ja.wikipedia.org/wiki/ドラマイズム "wikilink")、水 0:59 - 1:29〈火深夜〉）
+  - [社内マリッジハニー](https://ja.wikipedia.org/wiki/社内マリッジハニー#テレビドラマ "wikilink")（ドラマ特区、金 0:59 - 1:29〈木深夜〉）
 
 ### 放送終了した番組
 
@@ -870,6 +874,7 @@
       - [ねぇ先生、知らないの?](https://ja.wikipedia.org/wiki/ねぇ先生、知らないの?#テレビドラマ "wikilink")
       - [ホームルーム](https://ja.wikipedia.org/wiki/ホームルーム_\(漫画\)#テレビドラマ "wikilink")
       - [ピーナッツバターサンドウィッチ](https://ja.wikipedia.org/wiki/ピーナッツバターサンドウィッチ#テレビドラマ "wikilink")
+      - [俺たちはあぶなくない〜クールにさぼる刑事たち](../Page/俺たちはあぶなくない〜クールにさぼる刑事たち.md "wikilink")
   - [エリアコードドラマ06](https://ja.wikipedia.org/wiki/エリアコードドラマ#エリアコードドラマ06 "wikilink")
       - [CRANE 突然の訪問者](https://ja.wikipedia.org/wiki/CRANE_突然の訪問者 "wikilink")
       - [FM999 真夏のレディオガール](https://ja.wikipedia.org/wiki/FM999_真夏のレディオガール "wikilink")
@@ -1014,7 +1019,8 @@
 
 ### 現在放送中の番組
 
-  - ▲[呪術廻戦](https://ja.wikipedia.org/wiki/呪術廻戦#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:55（金深夜））
+  - ▲[呪術廻戦](https://ja.wikipedia.org/wiki/呪術廻戦#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:25 - 1:50（金深夜））
+  - ▲[犬と猫どっちも飼ってると毎日たのしい](https://ja.wikipedia.org/wiki/犬と猫どっちも飼ってると毎日たのしい#テレビアニメ "wikilink")（[スーパーアニメイズム](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:50 - 1:55（金深夜））
   - ▲[炎炎ノ消防隊 弐ノ章](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")（[アニメイズム B1](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 1:55 - 2:25（金深夜））
   - ▲[ハイキュー\!\! TO THE TOP(第2クール)](https://ja.wikipedia.org/wiki/ハイキュー!!#アニメ "wikilink")（[アニメイズム B2](https://ja.wikipedia.org/wiki/アニメイズム "wikilink")、土 2:25 - 2:55（金深夜））
 
@@ -1214,7 +1220,6 @@
           - かぐや様は告らせたい?〜天才たちの恋愛頭脳戦〜 - UHFアニメ
       - [炎炎ノ消防隊](https://ja.wikipedia.org/wiki/炎炎ノ消防隊#テレビアニメ "wikilink")
       - [グランベルム](https://ja.wikipedia.org/wiki/グランベルム "wikilink")
-      - [荒ぶる季節の乙女どもよ。(アニメ版)](https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ。#テレビアニメ "wikilink")
       - [真・中華一番\!](https://ja.wikipedia.org/wiki/中華一番!#真・中華一番! "wikilink")
       - [歌舞伎町シャーロック](https://ja.wikipedia.org/wiki/歌舞伎町シャーロック "wikilink")
       - [ランウェイで笑って](https://ja.wikipedia.org/wiki/ランウェイで笑って#テレビアニメ "wikilink")
@@ -1244,7 +1249,7 @@
 ### 現在放送中の番組
 
   - 関西ローカル
-      - よりどりマーケット（月 - 木 9:55 - 10:24）
+      - よりどりマーケット（月 - 金 9:55 - 10:24） - 火・木は[ジャパネットたかた](../Page/ジャパネットたかた.md "wikilink")テレビショッピングの生放送（TBS以外の一部同系列と同時放送）
       - [ほしおび](https://ja.wikipedia.org/wiki/ほしおび "wikilink")ナイト☆カイモノラボ（火 2:50 - 3:20、木 3:10 - 3:40、金 2:57 - 3:27）
           - ほし☆おびモーニング（土 4:25 - 4:40）
           - ほし☆おび（金 9:55 - 10:24）
@@ -1290,10 +1295,11 @@
 
   - [金曜名画座](https://ja.wikipedia.org/wiki/金曜名画座 "wikilink")
   - [賭ケグルイ](https://ja.wikipedia.org/wiki/賭ケグルイ "wikilink") - アニメ版とドラマ版が何れもこの局でシリーズ化。
+  - [荒ぶる季節の乙女どもよ](https://ja.wikipedia.org/wiki/荒ぶる季節の乙女どもよ "wikilink") - アニメ版とドラマ版が何れもこの局で放送。
 
 ## TBS系列局制作・時差ネット番組
 
-  - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（月 0:50 - 1:20〈日深夜〉） - 『映像』放送時は1時間繰り下げ。
+  - [NEWSな2人](https://ja.wikipedia.org/wiki/NEWSな2人 "wikilink")（月 0:50 - 1:20〈日深夜〉） - 『キラスポ』放送時は休み、『映像』放送時は1時間繰り下げ。
   - [週刊EXILE](https://ja.wikipedia.org/wiki/週刊EXILE "wikilink")（火 1:35 - 2:05〈月深夜〉）
   - [有吉ジャポン](https://ja.wikipedia.org/wiki/有吉ジャポン "wikilink")Ⅱ ジロジロ有吉（水 1:29 - 1:59〈火深夜〉）
   - [霜降りミキXIT](../Page/霜降りミキXIT.md "wikilink")（木 0:59 - 1:59〈水深夜〉）
@@ -1301,7 +1307,6 @@
   - [中居大輔と夜な夜なラブ子さん](../Page/中居大輔と夜な夜なラブ子さん.md "wikilink")（土 0:20 - 1:20〈金深夜〉）
   - [KAT-TUNの世界一タメになる旅\!](https://ja.wikipedia.org/wiki/KAT-TUNの世界一タメになる旅! "wikilink")+（日 1:28 - 2:03〈土深夜〉）
   - [列車に乗って](https://ja.wikipedia.org/wiki/列車に乗って "wikilink")（毎月第1日 5:00 - 5:15、毎月第2日 5:00 - 5:30） ※HV - [RKB](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")・[NBC](../Page/長崎放送.md "wikilink")・[RKK](../Page/熊本放送.md "wikilink")・[OBS](../Page/大分放送.md "wikilink")・[MRT](https://ja.wikipedia.org/wiki/宮崎放送 "wikilink")・[MBC制作](https://ja.wikipedia.org/wiki/南日本放送 "wikilink")
-  - [バナナサンド](../Page/バナナサンド.md "wikilink")（日 12:54 - 13:54）
   - [JNNドキュメンタリー@にっぽん](https://ja.wikipedia.org/wiki/報道の魂 "wikilink")（不定期）
   - [東大王](https://ja.wikipedia.org/wiki/東大王 "wikilink")（不定期）
   - [バース・デイ](../Page/バース・デイ.md "wikilink")（不定期）
@@ -1313,6 +1318,7 @@
   - [まえせつ\!](../Page/まえせつ!.md "wikilink")（アニメ特区、水 3:30 - 4:00〈火深夜〉）
   - [100万の命の上に俺は立っている](https://ja.wikipedia.org/wiki/100万の命の上に俺は立っている#テレビアニメ "wikilink")（土 2:55 - 3:25〈金深夜〉）
   - [ソードアート・オンライン アリシゼーション War of Underworld](https://ja.wikipedia.org/wiki/ソードアート・オンライン#テレビアニメ "wikilink")（[アニメシャワー](https://ja.wikipedia.org/wiki/アニメシャワー "wikilink")、日 2:08 - 2:38〈土深夜〉） - UHFアニメ
+  - [禍つヴァールハイト -ZUERST-](https://ja.wikipedia.org/wiki/禍つヴァールハイト#テレビアニメ "wikilink")（アニメシャワー、日 3:08 - 3:38〈土深夜〉）
   - [ド級編隊エグゼロス](https://ja.wikipedia.org/wiki/ド級編隊エグゼロス#テレビアニメ "wikilink")（アニメシャワー、日 3:38 - 4:08〈土深夜〉） 字幕放送 - UHFアニメ
 
 ## 本社機能が千里丘放送センターにあった頃放送されていたネット番組
@@ -1494,6 +1500,10 @@
   - [ドン・チャック物語](../Page/ドン・チャック物語.md "wikilink") - 編成上の都合で関西テレビへ移行
   - [貧乏神が\!](https://ja.wikipedia.org/wiki/貧乏神が!#テレビアニメ "wikilink") （2012年） - [テレビ東京系アニメ](../Page/テレビ東京系アニメ.md "wikilink")かつテレビ大阪開局後の作品であるが、本作品はMBSでのネットとなった。[テレビ東京 あにてれ 貧乏神が\!](https://www.tv-tokyo.co.jp/anime/binbogamiga/index2.html) [「貧乏神が\!」公式サイト](http://www.binbogamiga.net/)
 
+<!-- end list -->
+
+  -   - ※『[カウボーイビバップ](../Page/カウボーイビバップ.md "wikilink")』は、テレビ東京系\[14\]と一部地方局\[15\]での本放送\[16\]終了後に、[WOWOW](../Page/WOWOW.md "wikilink")でノンスクランブル放送された完全版を放送した。
+
 ## 放送された独立局の番組
 
   - [東京号泣教室 〜ROAD TO 2020〜](https://ja.wikipedia.org/wiki/東京号泣教室_〜ROAD_TO_2020〜 "wikilink") - [TOKYO MXほかで放送](../Page/東京メトロポリタンテレビジョン.md "wikilink")
@@ -1514,7 +1524,7 @@
 ### 夜間
 
   - 夜間にはダイジェスト番組（題名は『センバツダイジェスト』→『球春センバツ甲子園』→『センバツバーニングスタジアム』→『[みんなの甲子園](../Page/みんなの甲子園.md "wikilink")』と遍歴を重ねる）を行っているが、この番組は[JNNニュース最終便終了後の自社制作バラエティの枠内で放送されているため](../Page/TBSテレビ系列深夜ニュース枠.md "wikilink")、大会期間中はこれらの番組は2011年までは休止されていたが、2012年度は開催期間中もダイジェスト番組の終了後、原則時間を繰り下げて放送される。
-  - このダイジェスト番組は基本的に関西ローカルの番組となる（TBS\[14\]などJNN系列局・[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")といったTBS系列の衛星放送でもでは基本的には放送されない。GAORAでは基本的に翌朝の第1試合前放送）。また、土曜の『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』は放送時間が変更される。その後の深夜1時台以降のアンコールアワーの時間帯も「春休みシネマスペシャル」と題した映画の放送枠に当てられ、通常番組は休止となるものもある。TBSでもこの期間は[番組改編](https://ja.wikipedia.org/wiki/番組改編 "wikilink")期ということもあり、23:55枠と0:25からの『[オビラジR](../Page/オビラジR.md "wikilink")』を休止し、特別番組を組んでいる（その場合、一部の番組はでも時差ネットを行う）。
+  - このダイジェスト番組は基本的に関西ローカルの番組となる（TBS\[17\]などJNN系列局・[BS-TBS](../Page/BS-TBS.md "wikilink")・[TBSニュースバード](https://ja.wikipedia.org/wiki/TBSニュースバード "wikilink")・[TBSチャンネル](../Page/TBSチャンネル.md "wikilink")といったTBS系列の衛星放送でもでは基本的には放送されない。GAORAでは基本的に翌朝の第1試合前放送）。また、土曜の『[CDTV](../Page/COUNT_DOWN_TV.md "wikilink")』は放送時間が変更される。その後の深夜1時台以降のアンコールアワーの時間帯も「春休みシネマスペシャル」と題した映画の放送枠に当てられ、通常番組は休止となるものもある。TBSでもこの期間は[番組改編](https://ja.wikipedia.org/wiki/番組改編 "wikilink")期ということもあり、23:55枠と0:25からの『[オビラジR](../Page/オビラジR.md "wikilink")』を休止し、特別番組を組んでいる（その場合、一部の番組はでも時差ネットを行う）。
 
 ## 関連項目
 
@@ -1552,7 +1562,7 @@
 
 [Category:毎日放送のテレビ番組](https://ja.wikipedia.org/wiki/Category:毎日放送のテレビ番組 "wikilink") [Category:テレビ番組一覧](https://ja.wikipedia.org/wiki/Category:テレビ番組一覧 "wikilink")
 
-1.  2009年3月まで「TBS」の略称は『東京放送』が使用していたが、2009年4月に同社が[放送持株会社](../Page/放送持株会社.md "wikilink")「[東京放送ホールディングス](../Page/東京放送ホールディングス.md "wikilink")」（略称TBSHD）となり、「[TBSテレビ](../Page/TBSテレビ.md "wikilink")」が「東京放送」からテレビ放送免許、テレビ放送事業および映像・文化事業に関する権利・義務とともに「TBS」の略称を承継している。
+1.  2009年3月まで「TBS」の略称は『東京放送』が使用していたが、2009年4月に同社が[放送持株会社](../Page/放送持株会社.md "wikilink")「[TBSホールディングス](https://ja.wikipedia.org/wiki/TBSホールディングス "wikilink")」（略称TBSHD）となり、「[TBSテレビ](../Page/TBSテレビ.md "wikilink")」が「東京放送」からテレビ放送免許、テレビ放送事業および映像・文化事業に関する権利・義務とともに「TBS」の略称を承継している。
 2.  開局時に旧・[大阪テレビ放送](../Page/大阪テレビ放送.md "wikilink")から移行。
 3.
 4.
@@ -1565,4 +1575,7 @@
 11. この対応は1月2日夕方枠が1991年のお正月まで、1月3日朝枠も1994年まで組まれていたが、廃枠となり、これらに変わる編成として年始に特別番組を設けるようになった。
 12.
 13. 関西地区開催での試合中継について、MBSは精力的に制作協力したが、朝日放送テレビは「『[TWWAプロレス中継](https://ja.wikipedia.org/wiki/TWWAプロレス中継 "wikilink")』を放送していた頃うちにも抗議が殺到して困った」という理由からMBSほど協力的でなく苦労したという（出典：『プロレスを創った男たち―あるTVプロデューサーの告白』栗山満男（元テレビ朝日プロデューサー）、ゼニスプラニング、2003年7月。
-14.
+14. 一応は[TXNネットワーク](../Page/TXNネットワーク.md "wikilink")としてのネットワークセールス扱いの6局同時ネット放送だったが、制作会社（[サンライズ](../Page/サンライズ_\(アニメ制作会社\).md "wikilink")、[バンダイビジュアル](../Page/バンダイビジュアル.md "wikilink")）と広告代理店（[旭通信社](../Page/ADKホールディングス.md "wikilink")）側の持ち込みに近く、テレビ東京自体の制作面での関与は薄かった。
+15. 主に東北・北陸・九州地方中心だった。関西地区では[テレビ大阪](../Page/テレビ大阪.md "wikilink")・[びわ湖放送](../Page/びわ湖放送.md "wikilink")・[KBS京都で放送された](../Page/京都放送.md "wikilink")。
+16. テレビ東京系列や一部地方局での放送時は、放送枠の関係上1クール分のセレクション形式となり、金曜18:00台という本来は[子供向けアニメ](../Page/子供向けアニメ.md "wikilink")の時間帯での放送だったことに加え、凶悪事件が相次いだ当時の社会情勢や「[ポケモンショック](../Page/ポケモンショック.md "wikilink")」の影響もあり、テレビ東京側が光の点滅や性的・暴力的な表現などに厳格な自主規制を行ったことから、規制に従う形での映像などの大幅な改変が行われた他、薬物乱用などを扱った過激な内容の回については放送から外されていた。最終回として放送された総集編「よせあつめブルース」は、これらの規制・カットに対する抗議をメインキャラクター達の独白という形で吐露する形式だったため、WOWOWでの完全版放送後は再放送やビデオソフト化から除外されている。
+17.

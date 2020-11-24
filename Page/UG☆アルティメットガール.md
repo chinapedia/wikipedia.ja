@@ -357,7 +357,7 @@ UFOマンが戦った怪獣。
 
 ## 外部リンク
 
-  - [UG☆アルティメットガール（公式サイト）](http://web.archive.org/web/20120205061519/http://www.ponycanyon.co.jp/pc-moe/ug/index.html) - 閉鎖。（2012年2月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [UG☆アルティメットガール（公式サイト）](https://web.archive.org/web/20120205061519/http://www.ponycanyon.co.jp/pc-moe/ug/index.html) - 閉鎖。（2012年2月5日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:アニメ作品_あ](https://ja.wikipedia.org/wiki/Category:アニメ作品_あ "wikilink") [Category:2005年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2005年のテレビアニメ "wikilink") [Category:日本のオリジナルテレビアニメ](https://ja.wikipedia.org/wiki/Category:日本のオリジナルテレビアニメ "wikilink") [Category:UHFアニメ](https://ja.wikipedia.org/wiki/Category:UHFアニメ "wikilink") [Category:ポニーキャニオンのアニメ作品](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアニメ作品 "wikilink") [Category:変身ヒロインアニメ](https://ja.wikipedia.org/wiki/Category:変身ヒロインアニメ "wikilink") [Category:巨大変身ヒーロー](https://ja.wikipedia.org/wiki/Category:巨大変身ヒーロー "wikilink") [Category:中野区を舞台とした作品](https://ja.wikipedia.org/wiki/Category:中野区を舞台とした作品 "wikilink") [Category:怪獣を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:怪獣を題材としたアニメ作品 "wikilink") [Category:漫画作品_あ](https://ja.wikipedia.org/wiki/Category:漫画作品_あ "wikilink") [Category:月刊電撃コミックガオ\!](https://ja.wikipedia.org/wiki/Category:月刊電撃コミックガオ! "wikilink") [Category:電撃文庫](https://ja.wikipedia.org/wiki/Category:電撃文庫 "wikilink") [Category:怪獣を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:怪獣を題材とした漫画作品 "wikilink") [Category:人間の巨大化・縮小化を題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:人間の巨大化・縮小化を題材としたアニメ作品 "wikilink")
 

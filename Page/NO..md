@@ -38,7 +38,7 @@
 
   - ZARD「[この愛に泳ぎ疲れても](https://ja.wikipedia.org/wiki/この愛に泳ぎ疲れても "wikilink")」「[こんなにそばに居るのに](../Page/こんなにそばに居るのに.md "wikilink")」「[あなたを感じていたい](../Page/あなたを感じていたい.md "wikilink")」
   - ZARD「[OH MY LOVE](../Page/OH_MY_LOVE.md "wikilink")」全曲紹介
-  - B'z「[Don't Leave Me](../Page/Don't_Leave_Me.md "wikilink")」「[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")」
+  - B'z「[Don't Leave Me](https://ja.wikipedia.org/wiki/Don't_Leave_Me_\(B'zの曲\) "wikilink")」「[MOTEL](../Page/MOTEL_\(B'zの曲\).md "wikilink")」
   - 大黒摩季「[白いGradation](../Page/白いGradation.md "wikilink")」「[夏が来る](../Page/夏が来る.md "wikilink")」「[永遠の夢に向かって](../Page/永遠の夢に向かって.md "wikilink")」「[永遠の夢に向かって](../Page/永遠の夢に向かって_\(アルバム\).md "wikilink")」全曲紹介
 
 ### 1995年

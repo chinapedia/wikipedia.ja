@@ -816,4 +816,4 @@
 
 1.  今大会の開催国決定日。
 2.  今大会の開催国決定日。
-3.  [国際大会で生じる金と保険の話「ダニエルG」のサッカー法律講座](http://megalodon.jp/2010-0517-1402-40/southafrica2010.yahoo.co.jp/news/cdetail/201005140007-spnavi)
+3.  [国際大会で生じる金と保険の話「ダニエルG」のサッカー法律講座](https://megalodon.jp/2010-0517-1402-40/southafrica2010.yahoo.co.jp/news/cdetail/201005140007-spnavi)

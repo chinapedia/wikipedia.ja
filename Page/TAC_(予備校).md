@@ -26,13 +26,22 @@
   - 2008年（平成20年）2月 - 株式会社LUCAを設立。
   - [2009年](../Page/2009年.md "wikilink")（平成21年）9月1日 - 大日本印刷の子会社である株式会社早稲田経営出版（2代目）から、資格取得支援事業（早稲田セミナーの運営）と出版事業を[事業譲受](https://ja.wikipedia.org/wiki/事業譲受 "wikilink")\[3\]。同日、出版事業について、完全子会社の株式会社早稲田経営出版（3代目）に事業譲渡。
   - 2011年（平成23年）4月 - 株式会社TACグループ出版販売（現・連結子会社）を設立。
-  - 2011年（平成23年）8月 - 中国大連市に太科信息技術（大連）有限公司（現・連結子会社）を設立。
+  - 2011年（平成23年）8月 - [中国](../Page/中国.md "wikilink")[大連市](https://ja.wikipedia.org/wiki/大連市 "wikilink")に太科信息技術（大連）有限公司（現・連結子会社）を設立。
   - 2012年（平成24年）5月 - 株式会社プロフェッションネットワーク（現・連結子会社）を設立。
   - 2012年（平成24年）12月 - 株式会社TAC総合管理（現・連結子会社）を設立。
   - 2013年（平成25年）5月 - 株式会社オンラインスクール（現・連結子会社）を設立。
   - 2014年（平成26年）6月 - 株式会社医療事務スタッフ関西及び株式会社クボ医療を買収。（両社とも現・連結子会社）
   - 2014年（平成26年）12月 - 株式会社TAC医療を設立。
   - 2018年（平成30年）8月 - 子会社株式会社TAC医療を株式会社TACプロフェッションバンクに吸収合併。
+  - 2020年（令和2年）8月31日 - 創業者・斎藤博明が逝去（享年69歳）\[4\]。
+
+## 歴代社長
+
+| 代 | 氏名                                                    | 期間                                                                                                 | 備考  |
+| - | ----------------------------------------------------- | -------------------------------------------------------------------------------------------------- | --- |
+| 1 | [斎藤博明](../Page/斎藤博明.md "wikilink")                    | [1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")12月-[2018年](../Page/2018年.md "wikilink")10月 | 創業者 |
+| 2 | [多田敏男](https://ja.wikipedia.org/wiki/多田敏男 "wikilink") | [2018年](../Page/2018年.md "wikilink")10月-                                                           |     |
+|   |                                                       |                                                                                                    |     |
 
 ## 校舎
 
@@ -53,15 +62,15 @@
 
 ### 従業員過労死
 
-2010年3月に4ヶ月前に転職したばかりの35歳の従業員（2009年公認会計士試験合格者）が、1ヶ月に125時間13分の[残業を行い](../Page/時間外労働.md "wikilink")、急性虚血性心疾患で死亡、その後[労災認定された](../Page/労働災害.md "wikilink")\[4\]。
+2010年3月に4ヶ月前に転職したばかりの35歳の従業員（2009年公認会計士試験合格者）が、1ヶ月に125時間13分の[残業を行い](../Page/時間外労働.md "wikilink")、急性虚血性心疾患で死亡、その後[労災認定された](../Page/労働災害.md "wikilink")\[5\]。
 
 ### 合格者水増し
 
-TACは、公認会計士講座のパンフレットに「2005年度公認会計士第2次試験 TAC会員合格者数1,079名 合格者に占める割合82.4%」と記載していた。しかし、実際には1,079名には短期講座の受講者等も含まれていた。この問題で[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")は[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反（優良誤認）にあたるおそれがあるとしてTACに警告をした\[5\]。
+TACは、公認会計士講座のパンフレットに「2005年度公認会計士第2次試験 TAC会員合格者数1,079名 合格者に占める割合82.4%」と記載していた。しかし、実際には1,079名には短期講座の受講者等も含まれていた。この問題で[公正取引委員会](https://ja.wikipedia.org/wiki/公正取引委員会 "wikilink")は[景品表示法](https://ja.wikipedia.org/wiki/景品表示法 "wikilink")違反（優良誤認）にあたるおそれがあるとしてTACに警告をした\[6\]。
 
 ### 会計専門職大学院設置申請の取り下げ
 
-TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilink")「[TAC大学院大学](https://ja.wikipedia.org/wiki/TAC大学院大学 "wikilink")」の設置申請をしていたが、同大学の案内パンフレットに法令違反があったため取り下げた\[6\]。
+TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilink")「[TAC大学院大学](https://ja.wikipedia.org/wiki/TAC大学院大学 "wikilink")」の設置申請をしていたが、同大学の案内パンフレットに法令違反があったため取り下げた\[7\]。
 
 ## 株式関連（2020年3月31日現在）
 
@@ -95,7 +104,7 @@ TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilin
 
 ### 株主優待
 
-毎年3月31日及び9月30日現在の株主に対し、優待券を年2回、以下の基準により発行する。\[7\]
+毎年3月31日及び9月30日現在の株主に対し、優待券を年2回、以下の基準により発行する。\[8\]
 
   - 所有株式数1,000株以上の株主に対し、一律2枚（10%受講割引券2枚）の優待券を贈呈する。
   - 所有株式数100株以上1,000株未満の株主に対し、一律1枚（10%受講割引券1枚）の優待券を贈呈する。
@@ -118,16 +127,20 @@ TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilin
 | ------ | ------- | ------- | --------- |
 | 538    | 296     | 42.7    | 12.3      |
 
-なお、[労働組合](../Page/労働組合.md "wikilink")は結成されていない。
+### 労働組合
+
+有価証券報告書において、[労働組合](../Page/労働組合.md "wikilink")は結成されていない旨が掲載されている。
 
 ## 関連会社
+
+2020年3月時点で連結子会社9社、持分法適用関連会社1社、非連結子会社1社を有する。
 
   - 株式会社TAC総合管理 - 個人教育事業に係る施設業務管理業務等。2012年設立。
   - 株式会社オンラインスクール - 完全子会社。個人教育事業のWeb学習アプリの提供。2013年設立。
   - 太科信息技術（大連）有限公司 - 完全子会社。個人教育事業の入力代行業務等。2011年設立。
   - 株式会社LUAC - 完全子会社。TACの企業研修の受託。
   - 株式会社早稲田経営出版 - TAC株式会社の完全子会社。早稲田セミナーの出版事業。
-  - 株式会社TACグループ出版販売 - TAC株式会社の完全子会社。TAC出版と早稲田セミナーのマーケティング・販売促進等の営業関連業務の代行。2011年4月設立\[8\]。
+  - 株式会社TACグループ出版販売 - TAC株式会社の完全子会社。TAC出版と早稲田セミナーのマーケティング・販売促進等の営業関連業務の代行。2011年4月設立\[9\]。
   - 株式会社TACプロフェッションバンク（代表：新谷和弘） - TAC株式会社の100％子会社。一般[労働者派遣事業](../Page/労働者派遣事業.md "wikilink")、有料[職業紹介事業](../Page/職業紹介事業.md "wikilink")を営み、[監査法人](../Page/監査法人.md "wikilink")を始め、会計事務所・税理士事務所や一般企業へ多くの有資格者を輩出している。
   - 株式会社医療事務スタッフ関西 - 医科、歯科病院等に対する医療事務派遣事業。2014年買収により子会社化。
   - 株式会社クボ医療 - 医科、歯科病院等からの医療事務点検請負事業。2014年買収により子会社化。
@@ -142,7 +155,10 @@ TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilin
   - [東京リーガルマインド](https://ja.wikipedia.org/wiki/東京リーガルマインド "wikilink")
   - [クレアール](../Page/クレアール.md "wikilink")
   - [TAC大学院大学](https://ja.wikipedia.org/wiki/TAC大学院大学 "wikilink")
-  - [斎藤博明](../Page/斎藤博明.md "wikilink")
+  - [斎藤博明](../Page/斎藤博明.md "wikilink")(創業者)
+  - [水口剛](https://ja.wikipedia.org/wiki/水口剛_\(会計学者\) "wikilink")([高崎経済大学](../Page/高崎経済大学.md "wikilink")教授、元社員)
+  - [奥村武博](../Page/奥村武博.md "wikilink")(元社員)
+  - [夏目幸明](https://ja.wikipedia.org/wiki/夏目幸明 "wikilink")(講師)
   - [同族経営](../Page/同族経営.md "wikilink")
 
 ## 外部リンク
@@ -155,16 +171,17 @@ TACは、[会計専門職大学院として](../Page/会計大学院.md "wikilin
   - [パワクエ](https://powerspot-quest.com/)
   - [TAC簿記チャンピオン大会](https://www.tac-school.co.jp/campaign/boki-champ/)
 
-[Category:日本の教育産業](https://ja.wikipedia.org/wiki/Category:日本の教育産業 "wikilink") [Category:予備校_(資格取得)](https://ja.wikipedia.org/wiki/Category:予備校_\(資格取得\) "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2001年上場の企業](https://ja.wikipedia.org/wiki/Category:2001年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink")
+[Category:日本の教育産業](https://ja.wikipedia.org/wiki/Category:日本の教育産業 "wikilink") [Category:予備校_(資格取得)](https://ja.wikipedia.org/wiki/Category:予備校_\(資格取得\) "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:東証一部上場企業](https://ja.wikipedia.org/wiki/Category:東証一部上場企業 "wikilink") [Category:2001年上場の企業](https://ja.wikipedia.org/wiki/Category:2001年上場の企業 "wikilink") [Category:1980年設立の企業](https://ja.wikipedia.org/wiki/Category:1980年設立の企業 "wikilink") [Category:TAC](https://ja.wikipedia.org/wiki/Category:TAC "wikilink")
 
 1.  [TAC NET NEWS](http://www.tac-school.co.jp/netnews/)
 2.  当時は法令でアルファベットによる商号登記は認められていなかった。
 3.  [事業の譲受け及び子会社の設立に関するお知らせ](http://www.c-direct.ne.jp/public/japanese/uj/pdf/10110256/20090716175012.pdf)
-4.  [資格学校のＴＡＣ社員、過労死　労基署が労災認定](http://www.asahi.com/national/update/0107/TKY201101070396.html) 朝日新聞2011年1月8日
+4.  [【訃報】弊社前代表取締役社長の逝去に関するお知らせ](https://contents.xj-storage.jp/xcontents/AS92328/4543e64a/ba04/4487/a84d/b544cc94f7fe/140120200909490518.pdf) TAC 2020年9月9日
+5.  [資格学校のＴＡＣ社員、過労死　労基署が労災認定](http://www.asahi.com/national/update/0107/TKY201101070396.html) 朝日新聞2011年1月8日
     [TAC元社員を過労死認定　会計士補習で長時間労働](http://www.47news.jp/CN/201101/CN2011010701000708.html) 共同通信2011年1月7日
-5.  [資格試験等の受験指導を行う事業者3名に対する警告について](http://www.jftc.go.jp/pressrelease/06.october/06101203.html)
-6.  [「TAC大学院大学」設置申請の取り下げに関するお知らせ](http://www.c-direct.ne.jp/japanese/uj/pdf/10110256/00038420.pdf) TAC 2005年10月5日
+6.  [資格試験等の受験指導を行う事業者3名に対する警告について](http://www.jftc.go.jp/pressrelease/06.october/06101203.html)
+7.  [「TAC大学院大学」設置申請の取り下げに関するお知らせ](http://www.c-direct.ne.jp/japanese/uj/pdf/10110256/00038420.pdf) TAC 2005年10月5日
     [「TAC大学院大学」設置申請取り下げに係る社内処分等のご報告](http://www.c-direct.ne.jp/japanese/uj/pdf/10110256/00039413.pdf) TAC 2005年10月5日
     [TACが設置申請取り下げ 会計の専門職大学院](http://www.47news.jp/CN/200510/CN2005100501004467.html) 共同通信 2005年10月5日
-7.
-8.  [子会社設立のお知らせ](http://www.c-direct.ne.jp/public/japanese/uj/pdf/10110256/20110419196901.pdf) TAC株式会社・2011年4月19日
+8.
+9.  [子会社設立のお知らせ](http://www.c-direct.ne.jp/public/japanese/uj/pdf/10110256/20110419196901.pdf) TAC株式会社・2011年4月19日

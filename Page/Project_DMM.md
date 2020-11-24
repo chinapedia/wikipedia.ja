@@ -1,13 +1,11 @@
 > この記事は[Project DMM](https://ja.wikipedia.org/wiki/Project_DMM)から翻訳されています。
 
 
-**Project DMM**（プロジェクト ディーエムエム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット。特撮作品シリーズ「[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")」の楽曲を手掛ける。
-
-ユニット名のDMMは「**D**ream **M**iracle **M**essenger」の略である\[1\]。
+**Project DMM**（プロジェクト・ディー・エム・エム）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の音楽ユニット。特撮作品シリーズ『[ウルトラシリーズ](https://ja.wikipedia.org/wiki/ウルトラシリーズ "wikilink")』の楽曲を手掛ける。ユニット名のDMMは「**D**ream **M**iracle **M**essenger」の略である\[1\]。
 
 ## 概要
 
-1999年、[大門一也](../Page/大門一也.md "wikilink")・[松原剛志](https://ja.wikipedia.org/wiki/松原剛志 "wikilink")・[前田達也](../Page/前田達也.md "wikilink")の3名で結成。同年「ウルトラマン・ベストヒットメドレー！」でデビュー。
+1999年、[大門一也](../Page/大門一也.md "wikilink")・[松原剛志](https://ja.wikipedia.org/wiki/松原剛志 "wikilink")・[前田達也](../Page/前田達也.md "wikilink")の3名で結成。同年「ウルトラマン・ベストヒットメドレー\!」でデビュー。
 
 2000年に前田達也が脱退（[円谷プロダクション](../Page/円谷プロダクション.md "wikilink")を退社）し代わって[KATSUMI](../Page/KATSUMI.md "wikilink")が加入。前田在籍時代の楽曲のいくつかは、後にKATSUMIを含む新メンバーで再レコーディングされている。
 

@@ -236,7 +236,7 @@
 
 </div>
 
-[Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink")
+[Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:2000年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のテレビ番組_\(日本\) "wikilink") [Category:経済を題材としたテレビ番組](https://ja.wikipedia.org/wiki/Category:経済を題材としたテレビ番組 "wikilink")
 
 1.  2008年[3月28日](../Page/3月28日.md "wikilink")はテレビ東京[労働組合](../Page/労働組合.md "wikilink")が[ストライキ](../Page/ストライキ.md "wikilink")を行使したことにより、テレビ東京社員の末武と池谷は出演せず、『[ニュースモーニングサテライト](../Page/ニュースモーニングサテライト.md "wikilink")』キャスターの[本村由紀子](../Page/本村由紀子.md "wikilink")と[井口玲音](https://ja.wikipedia.org/wiki/井口玲音 "wikilink")が司会を担当した。
 2.  2008年3月28日はテレビ東京労働組合がストライキを行使したことにより、テレビ東京社員の進藤は出演せず、『ワールドビジネスサテライト』キャスターの阿部百江が担当した。

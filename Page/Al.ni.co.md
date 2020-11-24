@@ -159,7 +159,7 @@ Prayer<br />
 
 ## 外部リンク
 
-[Category:WANDS](https://ja.wikipedia.org/wiki/Category:WANDS "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:グランジ・バンド](https://ja.wikipedia.org/wiki/Category:グランジ・バンド "wikilink")
+[Category:WANDS](https://ja.wikipedia.org/wiki/Category:WANDS "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:グランジ・バンド](https://ja.wikipedia.org/wiki/Category:グランジ・バンド "wikilink") [Category:2人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:2人組の音楽グループ "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2001年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に解散した音楽グループ "wikilink")
 
 1.  al.ni.coとして出演した『[真夜中の王国](https://ja.wikipedia.org/wiki/真夜中の王国 "wikilink")』 ([NHK-BS](../Page/NHK-BS.md "wikilink")) では、一般の人が持つWANDSというイメージと自分達が志すWANDSにギャップが生じ、ファンに対しても自分に対しても、お互いがフェアなのが脱退だと決め、脱退を決断したと語っている。
 2.  雑誌『[B-PASS](https://ja.wikipedia.org/wiki/B-PASS "wikilink")』1998年3月号より。

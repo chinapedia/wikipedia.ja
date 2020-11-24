@@ -88,7 +88,7 @@
 <tr class="odd">
 <td></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アントワープ" title="wikilink">アントワープ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オリンプスフ・スタディオン_(アントウェルペン)" title="wikilink">オリンプスフ・スタディオン</a></p></td>
+<td><p><a href="../Page/オリンピスフ・スタディオン_(アントウェルペン).md" title="wikilink">オリンピスフ・スタディオン</a></p></td>
 <td><p>12,771</p></td>
 <td></td>
 </tr>
@@ -179,7 +179,7 @@
 <tr class="even">
 <td></td>
 <td><p><a href="../Page/リエージュ.md" title="wikilink">リエージュ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/スタット・モーリス・デュフラン" title="wikilink">スタット・モーリス・デュフラン</a></p></td>
+<td><p><a href="../Page/スタッド・モーリス・デュフラン.md" title="wikilink">スタッド・モーリス・デュフラン</a></p></td>
 <td><p>30,023</p></td>
 <td><p>5位</p></td>
 </tr>
@@ -1131,7 +1131,7 @@
 </tr>
 <tr class="odd">
 <td><p>1983-84</p></td>
-<td><p></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ニコ・クラエセン" title="wikilink">ニコ・クラエセン</a></p></td>
 <td></td>
 <td><center>
 <p>27</p></td>

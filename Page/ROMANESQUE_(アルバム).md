@@ -5,11 +5,11 @@
 
 ## 解説
 
-インディーズ・アルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）の中の一1曲「ROMANESQUE」をタイトルに据えた5曲入りのミニアルバム。
+インディーズ・アルバム『[HURRY UP MODE](../Page/HURRY_UP_MODE.md "wikilink")』（[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")）の中の一1曲「ROMANESQUE」をタイトルに据えた4曲入りのミニアルバム。
 
-[CD盤のみ](../Page/コンパクトディスク.md "wikilink")[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")として1曲追加収録されている。アナログ盤は音の出ない12[インチ](../Page/インチ.md "wikilink")サイズのピクチャーレコードが付属していた。
+[CD盤のみ](../Page/コンパクトディスク.md "wikilink")[ボーナス・トラック](../Page/ボーナス・トラック.md "wikilink")としてタイトル曲のバージョン違いが1曲追加収録されている。アナログ盤は音の出ない12[インチ](../Page/インチ.md "wikilink")サイズのピクチャーレコードが付属していた。
 
-「AUTOMATIC BLUE」と「HEARTS」の2曲という、本アルバムにしか収録されていない曲があり、他のビクター時代のアルバム作品群が数回再リリースされてきたにもかかわらず、本作は1988年のリリース以降長らく再リリースや配信がされていなかった。また、1992年発売のセルフカバーアルバム『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』には、その当時までの全アルバムからバランスよく選曲された一方で、本作からは一曲も選曲されてない。その後、本作発売から約29年の時を経て、このアルバムだけでしか聴けなかった曲のうち「HEARTS」は、2017年発売のファン投票で3位にランクインし、デビュー30周年記念のベストアルバム『CATALOGUE 1987-2016』にて、リミックス・リマスタリングされて収録された。さらにその後、[2019年](../Page/2019年.md "wikilink")のサブスクリプションサービス開始に伴い、全曲リマスタリングを施し、ダウンロード販売という形で、原盤発売から実に約31年の時を経て再発売された。
+「AUTOMATIC BLUE」と「HEARTS」の2曲という、本アルバムにしか収録されていない曲があり、他のビクター時代のアルバム作品群が数回再リリースされてきたにもかかわらず、本作は1988年のリリース以降長らく再リリースや配信がされていなかった。また、1992年発売のセルフカバーアルバム『[殺シノ調べ This is NOT Greatest Hits](../Page/殺シノ調べ_This_is_NOT_Greatest_Hits.md "wikilink")』には、その当時までの全アルバムからバランスよく選曲された一方で、本作からは一曲も選曲されてない。その後、本作発売から約29年の時を経て、このアルバムだけでしか聴けなかった曲のうち「HEARTS」は、2017年に行われたファン投票で3位にランクインし、その投票企画を選曲に反映したデビュー30周年記念のベストアルバム『CATALOGUE 1987-2016』にて、リミックス・リマスタリングされて収録された。さらにその後、[2019年](../Page/2019年.md "wikilink")のサブスクリプションサービス開始に伴い、全曲リマスタリングを施し、ダウンロード販売という形で、原盤発売から実に約31年の時を経て再発売された。
 
 後にトリビュートアルバム『[PARADE II 〜RESPECTIVE TRACKS OF BUCK-TICK〜](https://ja.wikipedia.org/wiki/PARADE_II_〜RESPECTIVE_TRACKS_OF_BUCK-TICK〜 "wikilink")』にて、「MISTY ZONE」を[cali≠gari](https://ja.wikipedia.org/wiki/cali≠gari "wikilink")、「ROMANESQUE」を[Acid Black Cherryがカバーした](../Page/Acid_Black_Cherry.md "wikilink")。
 

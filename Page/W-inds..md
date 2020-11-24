@@ -45,7 +45,7 @@
       - 5月12日、姫路城三の丸広場にて行われたDA PUMPのコンサートに飛び入り参加。
       - 6月3日、仙台市・勾当台公園にて開催された東北放送イベント「TBCラジオカーニバル2001」に出演。
       - 6月17日、学園祭ライブに出演。
-      - 7月?日、全国8大都市で「Paradox」発売イベントを行い、東京会場である国立代々木競技場オリンピックプラザでは1日に7000人ものファンと握手をした。
+      - 7月、全国8大都市で「Feel The Fate」発売イベントを行い、東京会場である国立代々木競技場オリンピックプラザでは1日に7000人ものファンと握手をした。
       - 7月15日、「九州・沖縄」サミットに出演
       - 7月20日、那須ハイランドパークにて行われたイベントに出演。
       - 7月22日、DA PUMPコンサートスタートオープニングアクトに出演。
@@ -53,7 +53,7 @@
       - 9月30日、福岡県北九州市八幡東区のスペースワールド駅前にて開催された「北九州博覧祭記念」に出演。
       - 11月2日、南日本放送イベントに出演。
       - 11月4日、ファミリーマート主催のイベントに出演。
-      - 10月?日、「Paradox」発売イベントを全国5ヶ所で行った。
+      - 10月、「Paradox」発売イベントを全国5ヶ所で行った。
       - 11月10日、9月1日にファンクラブ「w-inds.day」を発足した後、初となるファンクラブイベント「w-inds. FAN CLUB EVENT 2001」をSHIBUYA-AXにて開催。
       - 12月24日、国立代々木競技場オリンピックプラザにて「w-inds.〜1st message〜」発売記念クリスマスイベントを開催。
 
@@ -591,7 +591,7 @@
 <td><p>2010年6月23日</p></td>
 <td><p>CD/CD+DVD</p></td>
 <td><p>3位</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/:en:Damon_Sharpe" title="wikilink">Damon Sharpe提供楽曲</a> <a href="http://www.myspace.com/velvetangelsmusic">Velvet Angels</a>が<a href="../Page/ラップ.md" title="wikilink">Rap</a>・<a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラスで参加</a><br />
+<td><p><a href="https://ja.wikipedia.org/wiki/:en:Damon_Sharpe" title="wikilink">Damon Sharpe提供楽曲</a> <a href="https://myspace.com/velvetangelsmusic">Velvet Angels</a>が<a href="../Page/ラップ.md" title="wikilink">Rap</a>・<a href="../Page/コーラス_(ポピュラー音楽).md" title="wikilink">コーラスで参加</a><br />
 c/w「Love or Leave」（全盤共通）<br />
 「Now You're Gone」<a href="../Page/橘慶太.md" title="wikilink">橘慶太</a>共作曲楽曲（通常盤A）<br />
 「Rain」（通常盤B）</p></td>
@@ -869,7 +869,7 @@ c/w「Love or Leave」（全盤共通）<br />
 | **Paradox 〜 TinyVoice, Production REMIX**             | w-inds. × [Ryosuke Imai](https://ja.wikipedia.org/wiki/今井了介 "wikilink")                                  |             |                                                                                                                       |                                                                                       |
 | **Forever Memories 〜 Sweet Memories REMIX**           | w-inds. × DJ CELORY                                                                                      |             |                                                                                                                       |                                                                                       |
 | **Another Days 〜 The Real Vibe Remix**                | w-inds. × [Shinichiro Murayama](https://ja.wikipedia.org/wiki/村山晋一郎 "wikilink")                          |             |                                                                                                                       |                                                                                       |
-| **buddies Mega Mix 〜 TinyVoice, Production REMIX**    | w-inds., FLAME & [Lead](../Page/Lead.md "wikilink") × Ryosuke Imai                                       |             |                                                                                                                       |                                                                                       |
+| **buddies Mega Mix 〜 TinyVoice, Production REMIX**    | w-inds., FLAME & [Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink") × Ryosuke Imai         |             |                                                                                                                       |                                                                                       |
 | **Storytelling**                                      | w-inds.                                                                                                  | 2007年11月21日 | 『CHRISTMAS HARMONY ～VISION FACTORY presents』                                                                          | [コンピレーション・アルバム](../Page/コンピレーション・アルバム.md "wikilink")                                  |
 | **FREEDOM SKY**                                       |                                                                                                          |             |                                                                                                                       |                                                                                       |
 | **New World**                                         | DJ KOMORI/w-inds.                                                                                        | 2010年6月23日  | 『WHAT'S R\&B? 2010』                                                                                                   | [リミックス・アルバム](https://ja.wikipedia.org/wiki/リミックス・アルバム "wikilink")                     |
@@ -1961,10 +1961,10 @@ c/w「Love or Leave」（全盤共通）<br />
 
   - [ファミリーマート](../Page/ファミリーマート.md "wikilink") 『M / F / C ダブルマスカラ』 （2002年）
   - [ブルボン](../Page/ブルボン.md "wikilink") 『ブルボンガムシリーズ』 （2003年7月 - 2007年1月）
-  - [ドワンゴ](../Page/ドワンゴ.md "wikilink") 『[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink") マナー着信音』 （2005年） - [Lead](../Page/Lead.md "wikilink")との共演
-  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第２編　「『電話に工夫』で詐欺ブロック！」編　ＳＯＳ４７　～家族の絆で　ＳＴＯＰ！オレオレ詐欺～』 （2019年）
-  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第３編　「『電話を切る』で詐欺ブロック！」編　ＳＯＳ４７　～家族の絆で　ＳＴＯＰ！オレオレ詐欺～』 （2019年）
-  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第二弾】第３編　「この人たちは詐欺師です。」』 （2019年）
+  - [ドワンゴ](../Page/ドワンゴ.md "wikilink") 『[イロメロミックス](https://ja.wikipedia.org/wiki/イロメロミックス "wikilink") マナー着信音』 （2005年） - [Leadとの共演](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")
+  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第2編 「『電話に工夫』で詐欺ブロック\!」編 SOS47 ～家族の絆で STOP\!オレオレ詐欺～』 （2019年）
+  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第一弾】第3編 「『電話を切る』で詐欺ブロック\!」編 SOS47 ～家族の絆で STOP\!オレオレ詐欺～』 （2019年）
+  - [警察庁](https://ja.wikipedia.org/wiki/警察庁 "wikilink") 『【第二弾】第3編 「この人たちは詐欺師です。」』 （2019年）
 
 ### 雑誌
 
@@ -2287,7 +2287,7 @@ c/w「Love or Leave」（全盤共通）<br />
 
 ## 関連項目
 
-  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - **w-inds.** - [FLAME](../Page/FLAME.md "wikilink") - [Lead](../Page/Lead.md "wikilink")
+  - [DA PUMP](../Page/DA_PUMP.md "wikilink") - **w-inds.** - [FLAME](../Page/FLAME.md "wikilink") - [Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")
 
 ## 外部リンク
 

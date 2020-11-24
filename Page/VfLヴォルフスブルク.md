@@ -110,17 +110,17 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_1999-2000" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デブレツェニVSC" title="wikilink">デブレツェニ</a></p></td>
-<td><p>2–0</p></td>
-<td><p>1–2</p></td>
-<td><p>'''3–2</p></td>
+<td><p>2-0</p></td>
+<td><p>1-2</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2回戦</p></td>
 <td><p><a href="../Page/ローダJC.md" title="wikilink">ローダ</a></p></td>
-<td><p>1–0</p></td>
-<td><p>0–0</p></td>
-<td><p>'''1–0</p></td>
+<td><p>1-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -128,9 +128,9 @@
 <tr class="odd">
 <td><p>3回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アトレティコ・マドリード" title="wikilink">アトレティコ・マドリード</a></p></td>
-<td><p>2–3</p></td>
-<td><p>1–2</p></td>
-<td><p>'''4–5</p></td>
+<td><p>2-3</p></td>
+<td><p>1-2</p></td>
+<td><p>'''4-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -140,9 +140,9 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAカップ_2008-09" title="wikilink">UEFAカップ</a></p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCラピド・ブカレスト" title="wikilink">ラピド・ブカレスト</a></p></td>
-<td><p>1–0</p></td>
-<td><p>1–1</p></td>
-<td><p>'''3–2</p></td>
+<td><p>1-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
@@ -157,7 +157,7 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/SCヘーレンフェーン.md" title="wikilink">ヘーレンフェーン</a></p></td>
-<td><p>5–1</p></td>
+<td><p>5-1</p></td>
 <td><p>style="background-color:#CFF" align="center" </p></td>
 <td></td>
 <td></td>
@@ -188,9 +188,9 @@
 <tr class="odd">
 <td><p>ラウンド32</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC" title="wikilink">パリ・サンジェルマン</a></p></td>
-<td><p>1–3</p></td>
-<td><p>0–2</p></td>
-<td><p>'''1–5</p></td>
+<td><p>1-3</p></td>
+<td><p>0-2</p></td>
+<td><p>'''1-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -200,15 +200,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2009-10" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループB</p></td>
 <td><p><a href="../Page/マンチェスター・ユナイテッドFC.md" title="wikilink">マンチェスター・ユナイテッド</a></p></td>
-<td><p>1–3</p></td>
-<td><p>1–2</p></td>
+<td><p>1-3</p></td>
+<td><p>1-2</p></td>
 <td><p>'''3位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/PFC_CSKAモスクワ.md" title="wikilink">CSKAモスクワ</a></p></td>
-<td><p>3–1</p></td>
-<td><p>1–2</p></td>
+<td><p>3-1</p></td>
+<td><p>1-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -217,8 +217,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="../Page/ベシクタシュJK.md" title="wikilink">ベシクタシュ</a></p></td>
-<td><p>0–0</p></td>
-<td><p>3–0</p></td>
+<td><p>0-0</p></td>
+<td><p>3-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -229,18 +229,18 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>ラウンド32</p></td>
 <td><p><a href="../Page/ビジャレアルCF.md" title="wikilink">ビジャレアル</a></p></td>
-<td><p>4–1</p></td>
-<td><p>2–2</p></td>
-<td><p>'''6–3</p></td>
+<td><p>4-1</p></td>
+<td><p>2-2</p></td>
+<td><p>'''6-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FCルビン・カザン" title="wikilink">ルビン・カザン</a></p></td>
-<td><p>2–1</p></td>
-<td><p>1–1</p></td>
-<td><p>'''3–2</p></td>
+<td><p>2-1</p></td>
+<td><p>1-1</p></td>
+<td><p>'''3-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -248,9 +248,9 @@
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="../Page/フラムFC.md" title="wikilink">フラム</a></p></td>
-<td><p>0–1</p></td>
-<td><p>1–2</p></td>
-<td><p>'''1–3</p></td>
+<td><p>0-1</p></td>
+<td><p>1-2</p></td>
+<td><p>'''1-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -260,15 +260,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>グループH</p></td>
 <td><p><a href="../Page/エヴァートンFC.md" title="wikilink">エヴァートン</a></p></td>
-<td><p>0–2</p></td>
-<td><p>1–4</p></td>
+<td><p>0-2</p></td>
+<td><p>1-4</p></td>
 <td><p>'''2位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/LOSCリール・メトロポール.md" title="wikilink">リール</a></p></td>
-<td><p>1–1</p></td>
-<td><p>3–0</p></td>
+<td><p>1-1</p></td>
+<td><p>3-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -277,8 +277,8 @@
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/FCクラスノダール" title="wikilink">クラスノダール</a></p></td>
-<td><p>5–1</p></td>
-<td><p>4–2</p></td>
+<td><p>5-1</p></td>
+<td><p>4-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -288,9 +288,9 @@
 <tr class="odd">
 <td><p>ラウンド32</p></td>
 <td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–0</p></td>
-<td><p>'''2–0</p></td>
+<td><p>2-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''2-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -298,9 +298,9 @@
 <tr class="even">
 <td><p>ラウンド16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ" title="wikilink">インテル</a></p></td>
-<td><p>3–1</p></td>
-<td><p>2–1</p></td>
-<td><p>'''5–2</p></td>
+<td><p>3-1</p></td>
+<td><p>2-1</p></td>
+<td><p>'''5-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -308,9 +308,9 @@
 <tr class="odd">
 <td><p>準々決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
-<td><p>1–4</p></td>
-<td><p>2–2</p></td>
-<td><p>'''3–5</p></td>
+<td><p>1-4</p></td>
+<td><p>2-2</p></td>
+<td><p>'''3-5</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -320,15 +320,15 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2015-16" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
 <td><p>グループB</p></td>
 <td><p>マンチェスター・ユナイテッド</p></td>
-<td><p>1–2</p></td>
-<td><p>3–2</p></td>
+<td><p>1-2</p></td>
+<td><p>3-2</p></td>
 <td><p>'''1位</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/PSVアイントホーフェン.md" title="wikilink">PSV</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–2</p></td>
+<td><p>2-0</p></td>
+<td><p>0-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -337,8 +337,8 @@
 </tr>
 <tr class="even">
 <td><p>CSKAモスクワ</p></td>
-<td><p>1–0</p></td>
-<td><p>2–0</p></td>
+<td><p>1-0</p></td>
+<td><p>2-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -348,9 +348,9 @@
 <tr class="odd">
 <td><p>ラウンド16</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KAAヘント" title="wikilink">ヘント</a></p></td>
-<td><p>3–2</p></td>
-<td><p>1–0</p></td>
-<td><p>'''4–2</p></td>
+<td><p>3-2</p></td>
+<td><p>1-0</p></td>
+<td><p>'''4-2</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -358,9 +358,9 @@
 <tr class="even">
 <td><p>準々決勝</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・マドリード" title="wikilink">レアル・マドリード</a></p></td>
-<td><p>2–0</p></td>
-<td><p>0–3</p></td>
-<td><p>'''2–3</p></td>
+<td><p>2-0</p></td>
+<td><p>0-3</p></td>
+<td><p>'''2-3</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
 <td></td>
@@ -416,13 +416,33 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>rowspan="" | 2020-21</p></td>
-<td><p>rowspan="" align=left | <a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
 <td><p>予選2回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FKクケシ" title="wikilink">クケシ</a></p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>'''4-0</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>予選3回戦</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SFKデスナ・チェルニーヒウ" title="wikilink">デスナ・チェルニーヒウ</a></p></td>
+<td><p>'''2-0</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
 <td></td>
 <td></td>
+</tr>
+<tr class="even">
+<td><p>プレーオフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AEKアテネFC" title="wikilink">AEKアテネ</a></p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p>'''1-2</p></td>
+<td><p>style="background-color:#CFF" align="center" </p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
 <td></td>
-<td><p>'''</p></td>
 <td></td>
 </tr>
 </tbody>
@@ -438,9 +458,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")現在\[1\]
+  - [2020年](../Page/2020年.md "wikilink")[10月2日](../Page/10月2日.md "wikilink")現在\[1\]
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_North_Macedonia.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guadeloupe.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guinea.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink")) ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -604,8 +624,6 @@
   - [クリスティアン・トレーシュ](https://ja.wikipedia.org/wiki/クリスティアン・トレーシュ "wikilink") 2010-
 
   - [トーマス・ヒッツルスペルガー](../Page/トーマス・ヒッツルスペルガー.md "wikilink") 2011-2012
-
-  - [具滋哲](https://ja.wikipedia.org/wiki/具滋哲 "wikilink") 2011-2014.1
 
   - [ヴァーツラフ・ピラシュ](https://ja.wikipedia.org/wiki/ヴァーツラフ・ピラシュ "wikilink") 2012-2015
 

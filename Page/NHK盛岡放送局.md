@@ -96,9 +96,9 @@
   - 陸前高田 83.5MHz 10W（垂直偏波）
   - 陸中川井 88.3MHz 10W
 
-## 報道室
+## 支局
 
-  - 宮古（宮古市）、大船渡・陸前高田（大船渡市）
+  - 宮古（[宮古市](https://ja.wikipedia.org/wiki/宮古市 "wikilink")）、大船渡・陸前高田（[大船渡市](https://ja.wikipedia.org/wiki/大船渡市 "wikilink")）
       - 過去には釜石、一関、久慈（2009年4月開所）に報道室があった。
       - NHK発足以来、岩手県内には盛岡放送局しか置かれなかったため（過去に放送局であった）支局は存在しない。いずれも小規模な取材拠点となっている。
 
@@ -223,12 +223,12 @@
 <td><p><a href="../Page/NHK仙台放送局.md" title="wikilink">仙台</a></p></td>
 <td><p>おばんですいわて<br />
 （キャスター）</p></td>
-<td></td>
+<td><p>滝沢市出身</p></td>
 </tr>
 <tr class="even">
 <td><p>畠山彩子</p></td>
 <td><p><a href="../Page/NHK山形放送局.md" title="wikilink">山形</a></p></td>
-<td></td>
+<td><p>紫波町出身</p></td>
 <td></td>
 </tr>
 <tr class="odd">

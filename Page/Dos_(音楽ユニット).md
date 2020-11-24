@@ -273,6 +273,6 @@ PerfecTV!「STAR digio」CMソング<br />
 
 [Category:日本のR\&Bグループ](https://ja.wikipedia.org/wiki/Category:日本のR&Bグループ "wikilink") [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:NBCユニバーサル・ジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:NBCユニバーサル・ジャパンのアーティスト "wikilink") [Category:小室哲哉](https://ja.wikipedia.org/wiki/Category:小室哲哉 "wikilink")
 
-1.  「[ぴあ](../Page/ぴあ.md "wikilink")」1996年10月1日号1Pより。
+1.  「[ぴあ](../Page/ぴあ.md "wikilink")」1996年10月1日号「Music 1stアルバムでdosが提示する新たなグルーブ」1Pより。
 2.  [近代映画社](../Page/近代映画社.md "wikilink")刊『半分少女　僕とアタシ』[KABA.ちゃん](../Page/KABA.ちゃん.md "wikilink")著88Pより。
 3.  [光文社](../Page/光文社.md "wikilink")刊「[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")」1995年12月19日号9Pより。

@@ -1,7 +1,7 @@
 > この記事は[Pango](https://ja.wikipedia.org/wiki/Pango)から翻訳されています。
 
 
-**Pango**（パンゴ、Παν語）とは、[GTK](https://ja.wikipedia.org/wiki/GTK "wikilink")+に多言語テキストを表示するための[オープンソース](../Page/オープンソース.md "wikilink")ライブラリ。PangoのPanは[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")で「全て・汎（汎用）」、goは[日本語](../Page/日本語.md "wikilink")の「語」を意味している。
+**Pango**（パンゴ、Παν語）とは、[GTKに多言語テキストを表示するための](../Page/GTK_\(ツールキット\).md "wikilink")[オープンソース](../Page/オープンソース.md "wikilink")[ライブラリ](../Page/ライブラリ.md "wikilink")。PangoのPanは[ギリシャ語](https://ja.wikipedia.org/wiki/ギリシャ語 "wikilink")で「全て・汎（汎用）」、goは[日本語](../Page/日本語.md "wikilink")の「語」を意味している。
 
 ## 利用しているソフトウェア
 
@@ -16,6 +16,6 @@ Pangoはほぼ全ての[Linuxディストリビューション](../Page/Linuxデ
 ## 外部リンク
 
   -
-[Category:GTK+](https://ja.wikipedia.org/wiki/Category:GTK+ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:ライブラリ_(プログラミング)](https://ja.wikipedia.org/wiki/Category:ライブラリ_\(プログラミング\) "wikilink")
+[Category:GTK](https://ja.wikipedia.org/wiki/Category:GTK "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:ライブラリ_(プログラミング)](https://ja.wikipedia.org/wiki/Category:ライブラリ_\(プログラミング\) "wikilink")
 
 1.

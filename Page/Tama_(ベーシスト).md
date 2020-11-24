@@ -1,21 +1,19 @@
 > この記事は[Tama \(ベーシスト\)](https://ja.wikipedia.org/wiki/Tama_\(ベーシスト\))から翻訳されています。
 
 
-**白玉 雅己**（しらたま まさみ、[1974年](../Page/1974年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。旧芸名は**玉**（メジャーデビュー前）→**シラタマ**（メジャーデビューから2002年まで）→**Tama**（タマ、2002年から2019年の音楽活動再開直前まで）。元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")メンバー。
+**白玉 雅己**（しらたま まさみ、[1974年](../Page/1974年.md "wikilink")[4月27日](../Page/4月27日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")。元[ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")メンバー。
 
 ## 人物
 
-  - [広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。[弓削商船高等専門学校](../Page/弓削商船高等専門学校.md "wikilink")中退（3年次修了、大学入学資格有）。[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")京都校（現・スクール・オブ・[ミュージックプラン](https://ja.wikipedia.org/wiki/ミュージックプラン "wikilink")）卒。
+  - [広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）出身。[弓削商船高等専門学校](../Page/弓削商船高等専門学校.md "wikilink")中退（3年次修了、大学入学資格有）。[アン・ミュージック・スクール](https://ja.wikipedia.org/wiki/アン・ミュージック・スクール "wikilink")京都校（現・スクール・オブ・[ミュージックプラン](https://ja.wikipedia.org/wiki/ミュージックプラン "wikilink") ）
   - 血液型はO型。身長173cm、体重：64kg。
-  - 主に[ベース](../Page/ベース_\(弦楽器\).md "wikilink")（[エレクトリックベース](../Page/エレクトリックベース.md "wikilink")・[コントラバス](../Page/コントラバス.md "wikilink")）、[ギター](../Page/ギター.md "wikilink")を演奏。
-  - ポルノグラフィティの[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")とは、保育所・小学校・中学校時代の同級生である。
+  - ポルノグラフィティの[２人](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink") とは、同級生である。
   - [2004年](../Page/2004年.md "wikilink")、一般女性と結婚。翌年、第一子誕生。
-  - [2019年](../Page/2019年.md "wikilink") 本名である「白玉雅己」名義で音楽活動を再開した.
+  - 現在は本名である「白玉雅己」名義で活動している。
   -
 ## 略歴
 
   - [1974年](../Page/1974年.md "wikilink")、[広島県](../Page/広島県.md "wikilink")[因島市](../Page/因島市.md "wikilink")（現・[尾道市](../Page/尾道市.md "wikilink")）に生まれる。
-  - [1991年](../Page/1991年.md "wikilink")、[岡野昭仁](https://ja.wikipedia.org/wiki/岡野昭仁 "wikilink")、[新藤晴一](https://ja.wikipedia.org/wiki/新藤晴一 "wikilink")らとバンド結成。
   - [1994年](../Page/1994年.md "wikilink")、[大阪にてバンド活動開始](../Page/大阪府.md "wikilink")、専門学校のアン・ミュージック・スクール京都（現[ミュージックプラン](https://ja.wikipedia.org/wiki/ミュージックプラン "wikilink")）に通い音楽を学ぶ。実技担当　石橋敬一。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")、[SME及び](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")[アミューズ](https://ja.wikipedia.org/wiki/アミューズ "wikilink")と契約、デビューに向けて[東京に活動拠点を移す](../Page/東京都.md "wikilink")。
   - [1999年](../Page/1999年.md "wikilink")
@@ -44,7 +42,7 @@
       - [12月20日](../Page/12月20日.md "wikilink")、『The songs for [DEATH NOTE](../Page/DEATH_NOTE.md "wikilink") the movie 〜the Last name TRIBUTE〜』に参加。
   - [2007年](../Page/2007年.md "wikilink")
       - [3月1日](../Page/3月1日.md "wikilink")、[メールマガジン](../Page/メールマガジン.md "wikilink")サービス『Tama Hot News』の配信がスタート。
-      - [4月8日](../Page/4月8日.md "wikilink")、[FM富士](https://ja.wikipedia.org/wiki/FM富士 "wikilink")にてラジオ番組『BACK TO WILD』開始。
+      - [4月8日](../Page/4月8日.md "wikilink")、[FM FUJIにてラジオ番組](https://ja.wikipedia.org/wiki/エフエム富士 "wikilink")『BACK TO WILD』開始。
   - [2009年](../Page/2009年.md "wikilink")
       - [9月8日](../Page/9月8日.md "wikilink")、デビュー10周年を迎える。
       - [10月28日](https://ja.wikipedia.org/wiki/10月28日 "wikilink")、ベストアルバム『SUPER SESSIONS -Best of 2005〜2009-』発売。
@@ -57,16 +55,10 @@
 
 ### 楽器
 
-  - Fender Customshop 60's Jazz Bass Built by Dennis Galuszka (LPB)
-  - Fender Customshop Custom Jazz Bass built by Mark Kendrick
-  - Fender Jazz Bass '63 (3TS)
-  - Fender Jazz Bass '74 (3TS)
+  - Fender Customshop 60's Jazz Bass /Dennis Galuszka (LPB)
+  - Fender Customshop Precision Bass /Jason Smith
   - Fender Customshop Active Jazz Bass (NAT)
   - Fender Custom Classic Jazz Bass V
-  - Fender Customshop Jazz Bass (CAR)
-  - Line6 VARIAX ACOUSTIC 700
-
-その他、モデル名は不明だがFender社のジャズベースを数多く使っている。ライブで使わないものも含めて、ベースをトータルで20本ほど所有（[MUSIC ON\! TVより](../Page/MUSIC_ON!_TV.md "wikilink")）、うち8本がCustomshop製（BASS MAGAZINEより）である。
 
 ### アンプ
 
@@ -121,7 +113,7 @@
 | **オレ、Cupid**               | 未音源化                                                                                   | 「4th Live CIRCUIT "Cupid (is painted blind)"」で演奏された。                                                                                                                                               |
 | **別れ話をしよう**                | シングル「[アゲハ蝶](../Page/アゲハ蝶.md "wikilink")」                                               |                                                                                                                                                                                                    |
 | **幸せについて本気出して考えてみた**       | シングル「[幸せについて本気出して考えてみた](../Page/幸せについて本気出して考えてみた.md "wikilink")」                       | Tama名義による初のシングルA面曲。                                                                                                                                                                                |
-| **敵はどこだ?**                 | アルバム『[雲をも摑む民](../Page/雲をも掴む民.md "wikilink")』                                           |                                                                                                                                                                                                    |
+| **敵はどこだ?**                 | アルバム『[雲をも摑む民](https://ja.wikipedia.org/wiki/雲をも摑む民 "wikilink")』                        |                                                                                                                                                                                                    |
 | **ハート**                    |                                                                                        |                                                                                                                                                                                                    |
 | **ニセ彼女**                   |                                                                                        |                                                                                                                                                                                                    |
 | **ビタースイート**                | 「5th LIVE CIRCUIT "BITTER SWEET MUSIC BIZ"」のツアータイトルの由来になった曲。『ミュージックステーション』で披露されたことがある。 |                                                                                                                                                                                                    |

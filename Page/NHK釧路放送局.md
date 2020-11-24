@@ -286,16 +286,11 @@
 タンチョウらじお</p></td>
 </tr>
 <tr class="even">
-<td><p>大関栞奈</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
 <td><p>楠原彩加</p></td>
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>尼子佑佳</p></td>
 <td></td>
 <td></td>

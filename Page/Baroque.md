@@ -617,7 +617,7 @@ PGSK-016/017</p></td>
 <td><p><strong>YOU</strong></p></td>
 <td><p>初回盤<br />
 PGSK-018/019 通常盤<br />
-PGSK-20</p>
+PGSK-020</p>
 <p>会場・通販限定盤</p>
 <p>PGSK-021/022</p></td>
 <td><p>初回盤</p>
@@ -957,7 +957,7 @@ PGSK-001/002</p></td>
 <td><p>一般流通盤<br />
 PGSK-026<br />
 通販限定盤<br />
-PGSK-027-28</p></td>
+PGSK-027/028</p></td>
 <td><p>一般流通盤</p>
 <div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">
@@ -1021,7 +1021,7 @@ PGSK-027-28</p></td>
 <td><p>一般流通盤<br />
 PGSK-031<br />
 通販限定盤<br />
-PGSK-032-33</p></td>
+PGSK-032/033</p></td>
 <td><p>一般流通盤</p>
 <div class="NavFrame" style="clear:both;border:0;">
 <div class="NavHead">

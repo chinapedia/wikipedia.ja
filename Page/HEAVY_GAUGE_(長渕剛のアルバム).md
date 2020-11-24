@@ -94,7 +94,7 @@
 5.  **僕のギターにはいつもHeavy Gauge**
 
       -
-        過去と現在を見つめなおし、未来へ向かって自らを破壊して新しい地平を築く事を歌った楽曲。後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE.md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
+        過去と現在を見つめなおし、未来へ向かって自らを破壊して新しい地平を築く事を歌った楽曲。後にアルバム『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』（[1988年](../Page/1988年.md "wikilink")）で再録音されている。
 
 ## スタッフ・クレジット
 
@@ -190,7 +190,7 @@ CA35-1044</p></td>
   -
   - [公式サイトディスコグラフィー「HEAVY GAUGE」](http://www.nagabuchi.or.jp/disco/album/heavy_gauge.php)
 
-[Category:1983年のアルバム](https://ja.wikipedia.org/wiki/Category:1983年のアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink") [Category:長渕剛のアルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のアルバム "wikilink")
+[Category:長渕剛のアルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のアルバム "wikilink") [Category:1983年のアルバム](https://ja.wikipedia.org/wiki/Category:1983年のアルバム "wikilink") [Category:エキスプレスのアルバム](https://ja.wikipedia.org/wiki/Category:エキスプレスのアルバム "wikilink")
 
 1.
 2.  「“行列”自筆画800万円落札者は長渕剛の関係者だった　暴力・セクハラでスタッフが逃げ出す」『[週刊文春](../Page/週刊文春.md "wikilink")』　2008年12月18日号（12月11日発売）

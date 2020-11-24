@@ -97,7 +97,9 @@ Lost Withnessの「Red Sun Rising」をモチーフとした曲であり\[1\]『
   - [遠藤正明](../Page/遠藤正明.md "wikilink")（『ENSON2 〜COVER SONGS COLLECTION Vol.2〜』収録）
   - [高垣彩陽](../Page/高垣彩陽.md "wikilink")（[2009年](../Page/2009年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に行われた、声優ユニット[スフィアのイベント](https://ja.wikipedia.org/wiki/スフィア_\(声優ユニット\) "wikilink")「ミュージックレインgirls 春のチョコまつり」内にて）
   - [米倉千尋](https://ja.wikipedia.org/wiki/米倉千尋 "wikilink")（『泣けるアニソン』収録）
-  - [富士葵](https://ja.wikipedia.org/wiki/富士葵 "wikilink")（[2018年](../Page/2018年.md "wikilink")[9月14日](../Page/9月14日.md "wikilink")に投稿した動画『【歌ってみた】鳥の詩／Lia『AIR』』にて）
+
+<!-- end list -->
+
   - [高垣楓](https://ja.wikipedia.org/wiki/高垣楓 "wikilink")（声 - [早見沙織](../Page/早見沙織.md "wikilink")）（ゲーム『[アイドルマスター シンデレラガールズ スターライトステージ](https://ja.wikipedia.org/wiki/アイドルマスター_シンデレラガールズ_スターライトステージ "wikilink")』収録曲として、2020年6月9日追加収録）
 
 ## 永邦による盗作事件

@@ -427,7 +427,7 @@
 <tbody>
 <tr class="odd">
 <td><table>
-<caption><font size="+1"><strong>ユニフォームの色</strong></font></caption>
+<caption></caption>
 <thead>
 <tr class="header">
 <th><p>カラー</p></th>

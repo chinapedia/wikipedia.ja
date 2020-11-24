@@ -47,7 +47,7 @@
 </tr>
 <tr class="even">
 <td><p>1956年（第4回）</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p>-</p></td>
 <td></td>
 <td></td>

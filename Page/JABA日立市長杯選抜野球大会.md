@@ -126,7 +126,7 @@
 </tr>
 <tr class="odd">
 <td><p>1991年（第15回）</p></td>
-<td><p><strong><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></strong></p></td>
+<td><p><strong><a href="../Page/三菱パワー硬式野球部.md" title="wikilink">三菱重工横浜</a></strong></p></td>
 <td><p><strong>8</strong>-4</p></td>
 <td><p>三菱自動車川崎</p></td>
 <td></td>

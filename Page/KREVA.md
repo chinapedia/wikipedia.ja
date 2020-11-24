@@ -21,7 +21,7 @@
 
 [2005年](../Page/2005年.md "wikilink")、インディーズデビューから約1年を経て、「新人クレバ」から「KREVA 2nd season」と銘を変え、更なる活動を展開。「ファンキーグラマラス feat.Mummy-D（マボロシ/Rhymester）」「イッサイガッサイ」「スタート」「国民的行事」と前年を超える4枚のシングルをリリースした。
 
-[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に、アルバム『[愛・自分博](../Page/愛・自分博.md "wikilink")』をリリースし、邦楽ヒップホップ“ソロアーティスト”初の[オリコンウィークリーチャート](../Page/オリコンチャート.md "wikilink")1位（2月13日付け）を獲得。同アルバムを引き下げたツアー「KREVA TOUR 2006 愛・自分博 〜国民的行事〜」の千秋楽でも、邦楽ヒップホップ“ソロアーティスト”初となる[日本武道館](../Page/日本武道館.md "wikilink")公演を果たす。9月には、「SPACE SHOWER SWEET LOVE SHOWER 2006」で、10年ぶりにBY PHAR THE DOPESTとしての活動を再開。シングル「恥じゃない」、アルバム『[だからどうした\!](../Page/だからどうした!.md "wikilink")』を発売。また、[吉井和哉](../Page/吉井和哉.md "wikilink")のツアー『TOUR2006 THANK YOU YOSHII KAZUYA』のオープニングも手掛けた。
+[2006年](../Page/2006年.md "wikilink")[2月1日](../Page/2月1日.md "wikilink")に、アルバム『[愛・自分博](../Page/愛・自分博.md "wikilink")』をリリースし、邦楽ヒップホップ“ソロアーティスト”初の[オリコンウィークリーチャート](../Page/オリコンチャート.md "wikilink")1位（2月13日付け）を獲得\[1\]。同アルバムを引き下げたツアー「KREVA TOUR 2006 愛・自分博 〜国民的行事〜」の千秋楽でも、邦楽ヒップホップ“ソロアーティスト”初となる[日本武道館](../Page/日本武道館.md "wikilink")公演を果たす。9月には、「SPACE SHOWER SWEET LOVE SHOWER 2006」で、10年ぶりにBY PHAR THE DOPESTとしての活動を再開。シングル「恥じゃない」、アルバム『[だからどうした\!](../Page/だからどうした!.md "wikilink")』を発売。また、[吉井和哉](../Page/吉井和哉.md "wikilink")のツアー『TOUR2006 THANK YOU YOSHII KAZUYA』のオープニングも手掛けた。
 
 [2007年](../Page/2007年.md "wikilink")5月からは、[TOKYO FM及び](../Page/エフエム東京.md "wikilink")[JFNのヒューマン](../Page/全国FM放送協議会.md "wikilink")・コンシャス・プロジェクトの一環として、[久保田利伸](../Page/久保田利伸.md "wikilink")とのツアーを実施し、[久保田利伸 meets KREVA名義で](../Page/久保田利伸_meets_KREVA.md "wikilink")[コラボレーション](../Page/コラボレーション.md "wikilink")シングルをリリース。6月からは、邦楽ヒップホップ“ソロアーティスト”初の大ホールツアーとして、「KREVA CONCERT TOUR '07 SEASON-1『意味深』」を開催。[5月25日](../Page/5月25日.md "wikilink")、[渋谷センター街](../Page/渋谷センター街.md "wikilink")のボードにて夏に3rdアルバム（[よろしくお願いします](../Page/よろしくお願いします.md "wikilink")）のリリースと、6月に[草野マサムネ](../Page/草野マサムネ.md "wikilink")（[スピッツ](../Page/スピッツ_\(バンド\).md "wikilink")）とのコラボレーションを発表したことも話題となった。10月からは、この年2度目のツアーとなる「KREVA CONCERT TOUR '07 『K-ing』」を開催。さらに「[テレビ朝日](../Page/テレビ朝日.md "wikilink")開局50周年記念 KREVA CONCERT TOUR '07」として、11月23日より2日間（1日目はゲストデー、2日目はノンゲストデーとして）、自身2度目の武道館で開催した。ゲストデーには、ツアーに帯同した5人に加え、[CUEZERO](../Page/CUEZERO.md "wikilink")、[DABO](../Page/DABO.md "wikilink")、[Mummy-D](../Page/Mummy-D.md "wikilink")、[久保田利伸](../Page/久保田利伸.md "wikilink")、[ALI-KICK](https://ja.wikipedia.org/wiki/ALI-KICK "wikilink")、[KOHEI JAPAN](../Page/KOHEI_JAPAN.md "wikilink")、[SHINGO☆西成](../Page/SHINGO☆西成.md "wikilink")らが出演。ノンゲストデーでは、MC、DJなどすべて1人でライブを進行してみせた。
 
@@ -35,16 +35,25 @@
 
 [2014年](../Page/2014年.md "wikilink")4月、[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")ミュージカル『IN THE HEIGHTS（イン・ザ・ハイツ）』日本版の歌詞を担当。ソロ活動10周年となる年6月18日には、3枚組ベストアルバム『KX』をリリース。その後ライブハウスツアー「K10」、そして9月8日（クレバの日）を含む日程で、「908 FESTIVAL」を3年連続で開催した。ソロ活動10周年目である2015年には47都道府県ツアー「UNDER THE MOON」を成し遂げた。
 
-[2016年](../Page/2016年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")に[SPEEDSTAR RECORDSへ移籍することが発表された](../Page/SPEEDSTAR_RECORDS.md "wikilink")\[1\]。
+[2016年](../Page/2016年.md "wikilink")[9月3日](https://ja.wikipedia.org/wiki/9月3日 "wikilink")に[SPEEDSTAR RECORDSへ移籍することが発表された](../Page/SPEEDSTAR_RECORDS.md "wikilink")\[2\]。
 
 ## 人物
 
   - [血液型は](../Page/ABO式血液型.md "wikilink")[O型](../Page/ABO式血液型.md "wikilink")。[身長](../Page/身長.md "wikilink")178cm。名前の由来は[英単語](../Page/英語.md "wikilink")*clever*（「ずる賢い」の意）から。
   - [平井堅](https://ja.wikipedia.org/wiki/平井堅 "wikilink")、[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")など様々なアーティストの楽曲のリミックスや客演等も行い、CUEZERO、 [SONOMIを率いて自らのレーベル](../Page/SONOMI_\(歌手\).md "wikilink")「[くレーベル](../Page/くレーベル.md "wikilink")」を発足し、プロデューサーとしても活動。[DJ TATSUTAと結成した](../Page/DJ_TATSUTA.md "wikilink")[顔PASSブラザーズ](https://ja.wikipedia.org/wiki/顔PASSブラザーズ "wikilink")、[BLAST RAMPAGEの](https://ja.wikipedia.org/wiki/BLAST_RAMPAGE "wikilink")[千晴](https://ja.wikipedia.org/wiki/千晴 "wikilink")と結成した[ストレスFREE](https://ja.wikipedia.org/wiki/ストレスFREE "wikilink")としても活動。
-  - 「[B-BOY PARK](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")」の[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")\[2\] にて史上初の3連覇（[1999年](../Page/1999年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")）を達成。2001年をもって大会殿堂入りを果たしている。
-  - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[3\]。ソロ活動開始当初は全都道府県の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")を訪ね、KICK THE CAN CREWの話は極力避けながら新人アーティストとしてプロモーション活動をしていた\[4\]。
-  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとして知られており、KICK THE CAN CREW時代からのスタッフ等で構成されるサッカーチーム「東京忍者」の代表でもある。好きな選手は[リカルド・クアレスマ](../Page/リカルド・クアレスマ.md "wikilink")で、JUMP ON IT という曲中でも歌詞にしている。ツアー中、ホテルでしばしば[ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")に興じていることもブログにて明かしている。 また自身も高校の時までサッカー部所属で子供の頃はプロサッカー選手を目指していた\[5\]。
+  - 「[B-BOY PARK](https://ja.wikipedia.org/wiki/B-BOY_PARK "wikilink")」の[MCバトル](https://ja.wikipedia.org/wiki/MCバトル "wikilink")\[3\] にて史上初の3連覇（[1999年](../Page/1999年.md "wikilink") - [2001年](../Page/2001年.md "wikilink")）を達成。2001年をもって大会殿堂入りを果たしている。
+  - 2004年からソロ活動を始めた理由は、思いついたメロディや言葉を、聞こえてきたまま、形にしたかったからと述べている。また、グループだから聞かないという人に向けたものをやりたかったという\[4\]。ソロ活動開始当初は全都道府県の[ラジオ局](https://ja.wikipedia.org/wiki/ラジオ局 "wikilink")を訪ね、KICK THE CAN CREWの話は極力避けながら新人アーティストとしてプロモーション活動をしていた\[5\]。
+  - [サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")ファンとして知られており、KICK THE CAN CREW時代からのスタッフ等で構成されるサッカーチーム「東京忍者」の代表でもある。好きな選手は[リカルド・クアレスマ](../Page/リカルド・クアレスマ.md "wikilink")で、JUMP ON IT という曲中でも歌詞にしている。ツアー中、ホテルでしばしば[ウイニングイレブン](../Page/ウイニングイレブン.md "wikilink")に興じていることもブログにて明かしている。 また自身も高校の時までサッカー部所属で子供の頃はプロサッカー選手を目指していた\[6\]。
   - [2012年](../Page/2012年.md "wikilink")の4月1日から自身の誕生日である6月18日までの間、期間限定で[Twitter](../Page/Twitter.md "wikilink")の発信をしていた。[2014年](../Page/2014年.md "wikilink")以降は自身でのツイートを時々行っている。
+
+## 参加グループ
+
+  - [BY PHAR THE DOPEST](../Page/BY_PHAR_THE_DOPEST.md "wikilink")（1995年 - 1998年、2006年）
+  - [FUNKY GRAMMAR UNIT](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")（1996年頃 - ）
+  - [KICK THE CAN CREW](../Page/KICK_THE_CAN_CREW.md "wikilink")（1996年 - 2004年、2017年 - ）
+  - [顔PASSブラザーズ](https://ja.wikipedia.org/wiki/顔PASSブラザーズ "wikilink")（2003年 - 2004年）
+  - [神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink")（2004年 - ）
+  - [The THREE](../Page/The_THREE.md "wikilink")（2008年）
 
 ## ディスコグラフィ
 
@@ -62,7 +71,7 @@
 </thead>
 <tbody>
 <tr class="odd">
-<td><p><small>インディーズ</small></p></td>
+<td><p><small>インディーズ1st</small></p></td>
 <td><p>2004年6月18日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/希望の炎" title="wikilink">希望の炎</a></p></td>
 <td><p>CD</p></td>
@@ -85,7 +94,7 @@
 <tr class="even">
 <td><p>3rd</p></td>
 <td><p>2005年1月13日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ファンキーグラマラス" title="wikilink">ファンキーグラマラス</a> feat. Mummy-D (マボロシ/RHYMESTER)</p></td>
+<td><p>ファンキーグラマラス feat. Mummy-D (マボロシ/RHYMESTER)</p></td>
 <td><p>CD</p></td>
 <td></td>
 </tr>
@@ -164,14 +173,21 @@ CD+DVD</p></td>
 <td></td>
 </tr>
 <tr class="odd">
+<td><p>配信</p></td>
+<td><p>2010年6月30日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KX_(KREVAのアルバム)" title="wikilink">I REP（DABO, Anarchy, KREVA）</a></p></td>
+<td><p>配信</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KX_(KREVAのアルバム)" title="wikilink">KX</a></p></td>
+</tr>
+<tr class="even">
 <td><p>14th</p></td>
 <td><p>2011年2月16日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/挑め" title="wikilink">挑め</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
-<td><p><a href="../Page/GO.md" title="wikilink">GO</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/GO_(KREVAのアルバム)" title="wikilink">GO</a></p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>15th</p></td>
 <td><p>2011年5月11日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/C&#39;mon,_Let&#39;s_go_(KREVAの曲)" title="wikilink">C'mon, Let's go</a></p></td>
@@ -179,12 +195,19 @@ CD+DVD</p></td>
 CD+DVD</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>16th</p></td>
 <td><p>2011年7月20日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/KILA_KILA/Tan-Kyu-Shin" title="wikilink">KILA KILA/Tan-Kyu-Shin</a></p></td>
 <td><p>CD</p></td>
 <td></td>
+</tr>
+<tr class="odd">
+<td><p>配信</p></td>
+<td><p>2012年1月18日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KX_(KREVAのアルバム)" title="wikilink">ひかり</a></p></td>
+<td><p>配信</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/KX_(KREVAのアルバム)" title="wikilink">KX</a></p></td>
 </tr>
 <tr class="even">
 <td><p>17th</p></td>
@@ -221,7 +244,7 @@ CD+DVD</p></td>
 <tr class="even">
 <td><p>21st</p></td>
 <td><p>2014年2月5日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/トランキライザー" title="wikilink">トランキライザー</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/トランキライザー_(KREVAの曲)" title="wikilink">トランキライザー</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 <td></td>
@@ -234,10 +257,53 @@ CD+DVD</p></td>
 <td><p>-</p></td>
 </tr>
 <tr class="even">
-<td><p><small>インディーズ</small></p></td>
+<td><p>配信</p></td>
+<td><p>2019年1月15日</p></td>
+<td><p><a href="../Page/音色_(KREVAの曲).md" title="wikilink">音色 〜2019 Ver.〜</a></p></td>
+<td><p>配信</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/成長の記録_〜全曲バンドで録り直し〜" title="wikilink">成長の記録 〜全曲バンドで録り直し〜</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>配信</p></td>
+<td><p>2019年7月1日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AFTERMIXTAPE" title="wikilink">無煙狼煙</a></p></td>
+<td><p>配信</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AFTERMIXTAPE" title="wikilink">AFTERMIXTAPE</a></p></td>
+</tr>
+<tr class="even">
+<td><p>配信</p></td>
+<td><p>2019年8月15日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/AFTERMIXTAPE" title="wikilink">One feat. JQ from Nulbarich</a></p></td>
+<td><p>配信</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><small>インディーズ2nd</small></p></td>
 <td><p>2020年6月24日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/素敵な時を重ねましょう" title="wikilink">素敵な時を重ねましょう</a>feat. <a href="https://ja.wikipedia.org/wiki/SONOMI" title="wikilink">SONOMI</a></p></td>
+<td><p>素敵な時を重ねましょう feat. SONOMI</p></td>
 <td><p>CDオフィシャルWebショップ限定販売</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><small>配信</small></p></td>
+<td><p>2020年10月14日</p></td>
+<td><p>タンポポ feat. <a href="https://ja.wikipedia.org/wiki/ZORN" title="wikilink">ZORN</a></p></td>
+<td><p>配信</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><small>23th</small></p></td>
+<td><p>2020年12月23日</p></td>
+<td><p>Fall in Love Again feat. <a href="../Page/三浦大知.md" title="wikilink">三浦大知</a></p></td>
+<td><p>CD<br />
+CD+DVD</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -283,23 +349,37 @@ CD+DVD</p></td>
 CD+DVD</p></td>
 </tr>
 <tr class="odd">
+<td><p>1st mini</p></td>
+<td><p>2010年9月15日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/OASYS_(アルバム)" title="wikilink">OASYS</a></p></td>
+<td><p>CD<br />
+CD+DVD</p></td>
+</tr>
+<tr class="even">
 <td><p>5th</p></td>
 <td><p>2011年9月8日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/GO_(KREVAのアルバム)" title="wikilink">GO</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>6th</p></td>
 <td><p>2013年2月27日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/SPACE" title="wikilink">SPACE</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>7th</p></td>
 <td><p>2017年2月1日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/嘘と煩悩" title="wikilink">嘘と煩悩</a></p></td>
+<td><p>CD<br />
+CD+DVD</p></td>
+</tr>
+<tr class="odd">
+<td><p>2nd mini</p></td>
+<td><p>2018年8月22日</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/存在感" title="wikilink">存在感</a></p></td>
 <td><p>CD<br />
 CD+DVD</p></td>
 </tr>
@@ -310,31 +390,6 @@ CD+DVD</p></td>
 <td><p>CD<br />
 CD+DVD<br />
 CD+BD</p></td>
-</tr>
-</tbody>
-</table>
-
-<table>
-<caption>ミニアルバム</caption>
-<thead>
-<tr class="header">
-<th><p>発売日</p></th>
-<th><p>タイトル</p></th>
-<th><p>販売形態</p></th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><p>2010年9月15日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/OASYS_(アルバム)" title="wikilink">OASYS</a></p></td>
-<td><p>CD<br />
-CD+DVD</p></td>
-</tr>
-<tr class="even">
-<td><p>2018年8月22日</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/存在感" title="wikilink">存在感</a></p></td>
-<td><p>CD<br />
-CD+DVD</p></td>
 </tr>
 </tbody>
 </table>
@@ -393,11 +448,12 @@ CD+DVD</p></td>
 
   - インスト集
 
-:\* BEST OF MIXCD NO.1（2007年3月14日）
-
-:\* BEST OF MIXCD NO.2（2012年2月22日）
-
-:\* SPACE Instrumentals（2013年2月20日）
+|     | 発売日        | タイトル                |
+| --- | ---------- | ------------------- |
+| 1st | 2007年3月14日 | BEST OF MIXCD NO.1  |
+| 2nd | 2012年2月22日 | BEST OF MIXCD NO.2  |
+| 3rd | 2013年2月20日 | SPACE Instrumentals |
+|     |            |                     |
 
 ### 配信曲
 
@@ -411,8 +467,9 @@ CD+DVD</p></td>
   - HOT SUMMER DAYS（2011年7月26日）
   - [ひかり](https://ja.wikipedia.org/wiki/KX_\(KREVAのアルバム\) "wikilink")（2012年1月18日）
   - [音色 〜2019 Ver.〜](../Page/音色_\(KREVAの曲\).md "wikilink")（2019年1月15日）
-  - [無煙狼煙](https://ja.wikipedia.org/wiki/無煙狼煙 "wikilink")(2019年7月1日)
-  - One feat. JQ from Nulbarich(2019年8月5日)
+  - [無煙狼煙](https://ja.wikipedia.org/wiki/無煙狼煙 "wikilink")（2019年7月1日）
+  - One feat. JQ from Nulbarich（2019年8月5日）
+  - タンポポ feat. ZORN（2020年10月14日）
 
 ### DVD
 
@@ -618,99 +675,53 @@ CD+DVD</p></td>
 
 ## ミュージックビデオ
 
-<table>
-<tbody>
-<tr class="odd">
-<td><p><strong>監督</strong></p></td>
-<td><p><strong>曲名</strong></p></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/伊藤克成" title="wikilink">伊藤克成</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=WRFwZY8Pm6w">音色</a>（1番売れた曲）</li>
-<li><a href="https://www.youtube.com/watch?v=7-HEkkTSI6k">希望の炎</a></li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/大喜多正毅.md" title="wikilink">大喜多正毅</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=V29ypwiF8x8">Have a nice day!</a></li>
-<li><a href="https://www.youtube.com/watch?v=1-ptenI1Org">Na Na Na</a></li>
-<li><a href="https://www.youtube.com/watch?v=99pQtvoyOEQ">SPACE</a></li>
-<li><a href="https://www.youtube.com/watch?v=Dy9ZPjwNAmA">ビコーズ</a></li>
-<li><a href="https://www.youtube.com/watch?v=_Vct0sg_cz4">瞬間speechless</a></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/大沢昌史" title="wikilink">大沢昌史</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=EFlhX5gaa-A">BESHI -Band Recording Ver.-</a></li>
-<li>Have a nice day! from「KREVA CONCERT TOUR'07 意味深」」」</li>
-<li>Na Na Na from「SPACE TOUR」</li>
-<li>Tonight from DVD「KREVA CONCERT TOUR "09-10"「心臓」ROUND 3 横浜アリーナ」</li>
-<li>イッサイガッサイ (夏 Ver.)</li>
-<li>イッサイガッサイ from DVD「KREVA TOUR 2006 愛・自分博〜国民的行事〜日本武道館」</li>
-<li>ストロングスタイル from DVD「KREVA CONCERT TOUR'07 K-ing〜日本武道館 2DAYS」</li>
-<li>ストロングスタイル from DVD「KREVA CONCERT TOUR'07 意味深」</li>
-<li>国民的行事 from DVD「KREVA TOUR 2006 愛・自分博〜国民的行事〜日本武道館」</li>
-<li>成功 from DVD「KREVA CONCERT'09 意味深2」</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/清水康彦.md" title="wikilink">清水康彦</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=_EPIBWoPnRg">I Wanna Know You</a></li>
-<li><a href="https://www.youtube.com/watch?v=uFGoMUWz5rE">成功</a></li>
-<li><a href="https://www.youtube.com/watch?v=WOArYjA93vY">生まれてきてありがとう (feat.さかいゆう)</a></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/泰太郎" title="wikilink">泰太郎</a></p></td>
-<td><ul>
-<li>ファンキーグラマラス feat. Mummy-D</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><a href="../Page/須永秀明.md" title="wikilink">須永秀明</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=4y1MOoYrXXM">C'mon, Let's go</a></li>
-<li>Have a nice day!〜2006 夏 ver.〜</li>
-<li><a href="https://www.youtube.com/watch?v=IViueTs20II">KILA KILA〜ハヒヘホ feat. SHINGO★西成</a></li>
-<li><a href="https://www.youtube.com/watch?v=2oMCy5hqhxA">OH YEAH</a></li>
-<li><a href="https://www.youtube.com/watch?v=RJu8wi7aA0A">THE SHOW</a></li>
-<li>あかさたなはまやらわをん</li>
-<li><a href="https://www.youtube.com/watch?v=Pt676ytVCQ0">かも</a></li>
-<li><a href="https://www.youtube.com/watch?v=rSAyBoMImaQ">くればいいのに feat. 草野マサムネ from SPITZ</a></li>
-<li><a href="https://www.youtube.com/watch?v=ASyGLelLMLs">ひとりじゃないのよ</a></li>
-<li><a href="https://www.youtube.com/watch?v=z25vDfZqNaI">アグレッシ部</a></li>
-<li>アグレッシ部 (レコーディング Ver.)</li>
-<li><a href="https://www.youtube.com/watch?v=7FJZWjGjEBc">イッサイガッサイ</a></li>
-<li><a href="https://www.youtube.com/watch?v=jIjDxgXcKMI">スタート</a></li>
-<li><a href="https://www.youtube.com/watch?v=Ti_OzY5bKQ4">ストロングスタイル</a></li>
-<li>ストロングスタイル (Movie Ver.)</li>
-<li><a href="https://www.youtube.com/watch?v=9Z4dkqUmL3E">トランキライザー</a></li>
-<li><a href="https://www.youtube.com/watch?v=fXgAOhURDpo">王者の休日</a></li>
-<li>音色 (Remix Ver.)</li>
-<li><a href="https://www.youtube.com/watch?v=0HM9TuoHkTQ">基準</a></li>
-<li><a href="https://www.youtube.com/watch?v=NG2dmHsVm80">国民的行事</a></li>
-<li><a href="https://www.youtube.com/watch?v=B9kV2qFpDEc">全速力 feat. 三浦大知</a></li>
-<li><a href="https://www.youtube.com/watch?v=KGXwgfixOjo">挑め</a></li>
-</ul></td>
-</tr>
-<tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/高橋淳之介" title="wikilink">高橋淳之介</a></p></td>
-<td><ul>
-<li>音色 from DVD「UNPLUGGED」</li>
-</ul></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/竹石渉" title="wikilink">竹石渉</a></p></td>
-<td><ul>
-<li><a href="https://www.youtube.com/watch?v=D1no4bI4dSQ">It's for you</a></li>
-</ul></td>
-</tr>
-</tbody>
-</table>
+| 公開年                                                                            | 監督                                                                            | 曲名                                                            | 備考 |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- | ------------------------------------------------------------- | -- |
+| 2004年                                                                          | [伊藤克成](https://ja.wikipedia.org/wiki/伊藤克成 "wikilink")                         | [希望の炎](https://www.youtube.com/watch?v=7-HEkkTSI6k)           |    |
+| [音色](https://www.youtube.com/watch?v=WRFwZY8Pm6w)                              | 1番売れた曲                                                                        |                                                               |    |
+| [須永秀明](../Page/須永秀明.md "wikilink")                                             | 音色 (Remix Ver.)                                                               |                                                               |    |
+| [ひとりじゃないのよ](https://www.youtube.com/watch?v=ASyGLelLMLs)                       |                                                                               |                                                               |    |
+| 2005年                                                                          | [泰太郎](https://ja.wikipedia.org/wiki/泰太郎 "wikilink")                           | ファンキーグラマラス feat. Mummy-D                                      |    |
+| 須永秀明                                                                           | [イッサイガッサイ](https://www.youtube.com/watch?v=7FJZWjGjEBc)                       |                                                               |    |
+| [大沢昌史](https://ja.wikipedia.org/wiki/大沢昌史 "wikilink")                          | イッサイガッサイ (夏 Ver.)                                                             |                                                               |    |
+| 須永秀明                                                                           | [スタート](https://www.youtube.com/watch?v=jIjDxgXcKMI)                           |                                                               |    |
+| [国民的行事](https://www.youtube.com/watch?v=NG2dmHsVm80)                           | 出演:[小林賢太郎](../Page/小林賢太郎.md "wikilink")（[ラーメンズ](../Page/ラーメンズ.md "wikilink")） |                                                               |    |
+| 2006年                                                                          | [竹石渉](https://ja.wikipedia.org/wiki/竹石渉 "wikilink")                           | [It's for you](https://www.youtube.com/watch?v=D1no4bI4dSQ)   |    |
+| [大喜多正毅](../Page/大喜多正毅.md "wikilink")                                           | [Have a nice day\!](https://www.youtube.com/watch?v=V29ypwiF8x8)              |                                                               |    |
+| 須永秀明                                                                           | Have a nice day\!〜2006 夏 ver.〜                                                |                                                               |    |
+| [THE SHOW](https://www.youtube.com/watch?v=RJu8wi7aA0A)                        |                                                                               |                                                               |    |
+| 2007年                                                                          | [アグレッシ部](https://www.youtube.com/watch?v=z25vDfZqNaI)                         |                                                               |    |
+| アグレッシ部 (レコーディング Ver.)                                                          |                                                                               |                                                               |    |
+| [くればいいのに feat. 草野マサムネ from SPITZ](https://www.youtube.com/watch?v=rSAyBoMImaQ) |                                                                               |                                                               |    |
+| [ストロングスタイル](https://www.youtube.com/watch?v=Ti_OzY5bKQ4)                       |                                                                               |                                                               |    |
+| ストロングスタイル (Movie Ver.)                                                         |                                                                               |                                                               |    |
+| 大喜多正毅                                                                          | [ビコーズ](https://www.youtube.com/watch?v=Dy9ZPjwNAmA)                           |                                                               |    |
+| ビコーズ (ダイジェスト Ver.)                                                             |                                                                               |                                                               |    |
+| 2008年                                                                          | 須永秀明                                                                          | あかさたなはまやらわをん                                                  |    |
+| 2009年                                                                          | [清水康彦](../Page/清水康彦.md "wikilink")                                            | [成功](https://www.youtube.com/watch?v=uFGoMUWz5rE)             |    |
+| [I Wanna Know You](https://www.youtube.com/watch?v=_EPIBWoPnRg)                |                                                                               |                                                               |    |
+| [生まれてきてありがとう (feat.さかいゆう)](https://www.youtube.com/watch?v=WOArYjA93vY)        |                                                                               |                                                               |    |
+| 大喜多正毅                                                                          | [瞬間speechless](https://www.youtube.com/watch?v=_Vct0sg_cz4)                   |                                                               |    |
+| 2010年                                                                          | 須永秀明                                                                          | [かも](https://www.youtube.com/watch?v=Pt676ytVCQ0)             |    |
+| 2011年                                                                          | [挑め](https://www.youtube.com/watch?v=KGXwgfixOjo)                             |                                                               |    |
+| [C'mon, Let's go](https://www.youtube.com/watch?v=4y1MOoYrXXM)                 |                                                                               |                                                               |    |
+| [KILA KILA〜ハヒヘホ feat. SHINGO★西成](https://www.youtube.com/watch?v=IViueTs20II)  |                                                                               |                                                               |    |
+| [基準](https://www.youtube.com/watch?v=0HM9TuoHkTQ)                              |                                                                               |                                                               |    |
+| 2012年                                                                          | [OH YEAH](https://www.youtube.com/watch?v=2oMCy5hqhxA)                        |                                                               |    |
+| 大喜多正毅                                                                          | [Na Na Na](https://www.youtube.com/watch?v=1-ptenI1Org)                       |                                                               |    |
+| 2013年                                                                          | 須永秀明                                                                          | [王者の休日](https://www.youtube.com/watch?v=fXgAOhURDpo)          |    |
+| 大喜多正毅                                                                          | [SPACE](https://www.youtube.com/watch?v=99pQtvoyOEQ)                          |                                                               |    |
+| 大沢昌史                                                                           | [BESHI -Band Recording Ver.-](https://www.youtube.com/watch?v=EFlhX5gaa-A)    |                                                               |    |
+| 2014年                                                                          | 須永秀明                                                                          | [トランキライザー](https://www.youtube.com/watch?v=9Z4dkqUmL3E)       |    |
+| [全速力 feat. 三浦大知](https://www.youtube.com/watch?v=B9kV2qFpDEc)                  |                                                                               |                                                               |    |
+| 2015年                                                                          | [Under The Moon](https://www.youtube.com/watch?v=x0Pcn_OoKzs)                 |                                                               |    |
+| 2017年                                                                          | 大喜多正毅                                                                         | [居場所](https://www.youtube.com/watch?v=LgUpvCj39wE)            |    |
+| 2018年                                                                          | [村井智](https://ja.wikipedia.org/wiki/村井智 "wikilink")                           | [存在感](https://www.youtube.com/watch?v=D8DP0o_wXxk)            |    |
+| 2019年                                                                          | 大喜多正毅                                                                         | [音色 〜2019 Ver.〜](https://www.youtube.com/watch?v=pjU8NM57zQU) |    |
+| [木村太一](https://ja.wikipedia.org/wiki/木村太一 "wikilink")                          | [One feat. JQ from Nulbarich](https://www.youtube.com/watch?v=R85m2MzUW1c)    |                                                               |    |
+| 村井智                                                                            | [敵がいない国](https://www.youtube.com/watch?v=bMGkjCBECqg)                         |                                                               |    |
+| 2020年                                                                          | 大喜多正毅                                                                         | [タンポポ　feat.ZORN](https://www.youtube.com/watch?v=iW-jDqNE6M0) |    |
+|                                                                                |                                                                               |                                                               |    |
 
 ## ライブツアー
 
@@ -1091,6 +1102,26 @@ CD+DVD</p></td>
 <li>2017.06.10 兵庫 <a href="https://ja.wikipedia.org/wiki/神戸国際会館こくさいホール" title="wikilink">神戸国際会館こくさいホール</a></li>
 </ul></td>
 </tr>
+<tr class="even">
+<td><p>2018年12月 - 2019年1月</p></td>
+<td><p><strong>完全1人ツアー2018</strong></p></td>
+<td><p>8公演</p></td>
+</tr>
+<tr class="odd">
+<td><p>2019年6月30日</p></td>
+<td><p><strong>KREVA NEW BEST ALBUM LIVE 成長の記録</strong></p></td>
+<td><p>日本武道館</p></td>
+</tr>
+<tr class="even">
+<td><p>2019年12月</p></td>
+<td><p><strong>CONCERT TOUR 2019-2020「敵がいない国」</strong></p></td>
+<td><p>5公演</p></td>
+</tr>
+<tr class="odd">
+<td><p>2020年6月</p></td>
+<td><p><strong>① マルイチ</strong></p></td>
+<td><p>オンラインライブ</p></td>
+</tr>
 </tbody>
 </table>
 
@@ -1356,13 +1387,77 @@ CD+DVD</p></td>
 <td><p>「KICK THE NEW YEAR PARTY」'''</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/インテックス大阪" title="wikilink">インテックス大阪</a></p></td>
 </tr>
+<tr class="even">
+<td><p>2017.9.8</p></td>
+<td><p><strong>908 FESTIVAL in TOKYO 2017</strong></p></td>
+<td><p>日本武道館</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:left;">
+<p>出演者一覧</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>三浦大知 / 絢香 / 久保田利伸 / MIYAVI / AKLO</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2018.8.31</p></td>
+<td><p><strong>908 FESTIVAL 2018</strong></p></td>
+<td><p>日本武道館</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:left;">
+<p>出演者一覧</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>三浦大知 / 絢香 / JQ from Nulbarich / 尾崎裕哉 / 高畑充希</li>
+</ul></td>
+</tr>
+<tr class="even">
+<td><p>2019.9.26</p></td>
+<td><p><strong>908 FESTIVAL 2019</strong></p></td>
+<td><p>横浜アリーナ</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:left;">
+<p>出演者一覧</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>三浦大知 / s**t kingz / ディーン・フジオカ / BONNIE PINK</li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td><p>2020.9.8</p></td>
+<td><p><strong>908 FESTIVAL ONLINE 2020</strong></p></td>
+<td><p>横浜アリーナ</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:left;">
+<p>出演者一覧</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>三浦大知 / MIYAVI / AKLO / Punpee / tofubeats / JQ / ZORN / 石川さゆり</li>
+</ul></td>
+</tr>
 </tbody>
 </table>
 
 ### 出演イベント
 
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2004年 - 2010年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
   - 2004年08月07日 - [ROCK IN JAPAN FESTIVAL](https://ja.wikipedia.org/wiki/ROCK_IN_JAPAN_FESTIVAL "wikilink") 2004
+  - 2004年10月22日 - [MINAMI WHEEL](../Page/MINAMI_WHEEL.md "wikilink") 2004
   - 2004年12月31日 - [COUNTDOWN JAPAN](../Page/COUNTDOWN_JAPAN.md "wikilink") 04/05
+  - 2005年05月26日 - [REQUESTAGE](https://ja.wikipedia.org/wiki/REQUESTAGE "wikilink") 3
   - 2005年08月05日 - ROCK IN JAPAN FESTIVAL 2005
   - 2005年08月19日 - [RISING SUN ROCK FESTIVAL](https://ja.wikipedia.org/wiki/RISING_SUN_ROCK_FESTIVAL "wikilink") 2005 in EZO
   - 2005年12月31日 - COUNTDOWN JAPAN 05/06
@@ -1375,9 +1470,11 @@ CD+DVD</p></td>
   - 2006年12月16日・17日 - [Rhythm Nation](../Page/Rhythm_Nation.md "wikilink") 2006
   - 2006年12月30日 - COUNTDOWN JAPAN 06/07 -WEST-
   - 2006年12月31日 - COUNTDOWN JAPAN 06/07
+  - 2007年05月26日 - MTV VIDEO MUSIC AWARDS JAPAN 2007
   - 2007年07月16日 - ap bank fes '07
   - 2007年07月22日 - [FM802](../Page/FM802.md "wikilink") [MEET THE WORLD BEAT](../Page/MEET_THE_WORLD_BEAT.md "wikilink") 2007
   - 2007年08月05日 - ROCK IN JAPAN FESTIVAL 2007
+  - 2007年08月21日 - SPITZ 結成20周年祭り
   - 2007年08月24日 - [ロックロックこんにちは\!](https://ja.wikipedia.org/wiki/ロックロックこんにちは! "wikilink") Ver.11PM(Positive Men)
   - 2007年12月29日 - COUNTDOWN JAPAN 07/08
   - 2007年12月30日 - COUNTDOWN JAPAN 07/08 -WEST-
@@ -1388,10 +1485,12 @@ CD+DVD</p></td>
   - 2008年08月08日・10日 - MTV Unplugged KREVA supported by NTT DOCOMO
   - 2008年08月15日 - [J-WAVE](../Page/J-WAVE.md "wikilink") LIVE 2000+8
   - 2008年09月06日 - [音楽と髭](../Page/音楽と髭.md "wikilink")達 2008 -ONE-
+  - 2008年11月23日 - YouTube Live TOKYO feat. iQ
   - 2008年12月29日 - COUNTDOWN JAPAN 08/09
   - 2008年12月31日 - COUNTDOWN JAPAN 08/09 -WEST-
   - 2009年01月25日 - au by KDDI presents [オンタマ](../Page/オンタマ.md "wikilink")カーニバル 2009
   - 2009年03月14日 - SPACE SHOWER TV 20th Anniversary くるしゅ〜ナイト★フィーバー
+  - 2009年05月02日・3日 - 亀の恩返し
   - 2009年07月18日 - [三浦大知](../Page/三浦大知.md "wikilink") SUMMER SEMINER 〜Encore of Our Love
   - 2009年07月19日 - ap bank fes '09
   - 2009年07月25日 - SETSTOCK'09
@@ -1406,9 +1505,6 @@ CD+DVD</p></td>
   - 2010年05月29日 - [ROCKS TOKYO](https://ja.wikipedia.org/wiki/ROCKS_TOKYO "wikilink") 2010
   - 2010年06月05日 - KDDI presents Music Lovers Live 2010
   - 2010年06月13日 - [花の万博](https://ja.wikipedia.org/wiki/花の万博 "wikilink")20周年記念 FM802 SPECIAL LIVE 「LOVE FRIENDS」
-
-<!-- end list -->
-
   - 2010年07月24日 - HIGHER GROUND 2010
   - 2010年07月25日 - FM802 MEET THE WORLD BEAT 2010
   - 2010年07月31日 - [情熱大陸](../Page/情熱大陸.md "wikilink") SPECIAL LIVE SUMMER TIME BONANZA'10
@@ -1418,6 +1514,21 @@ CD+DVD</p></td>
   - 2010年08月13日 - RISING SUN ROCK FESTIVAL 2010 in EZO
   - 2010年08月15日 - J-WAVE LIVE 2000+10
   - 2010年12月31日 - COUNTDOWN JAPAN 10/11
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2011年 - 2015年
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
   - 2011年05月08日 - [神輿ロッカーズ](https://ja.wikipedia.org/wiki/神輿ロッカーズ "wikilink") presents 「一人じゃないのよ」
   - 2011年08月07日 - ROCK IN JAPAN FESTIVAL 2011
   - 2011年08月17日 - [SPITZ](../Page/スピッツ_\(バンド\).md "wikilink") 2011 SUMMER ロックのほそ道
@@ -1431,7 +1542,7 @@ CD+DVD</p></td>
   - 2012年07月15日 - [ASIAN KUNG-FU GENERATION presents NANO-MUGEN FES.](../Page/ASIAN_KUNG-FU_GENERATION_presents_NANO-MUGEN_FES..md "wikilink")2012
   - 2012年07月29日 - HIGHER GROUND 2012
   - 2012年08月03日 - ROCK IN JAPAN FESTIVAL 2012
-  - 2012年08月11日・25日 - 情熱大陸 SPECIAL LIVE SUMMER TIME BONANZA'12
+  - 2012年08月04日・11日・25日 - 情熱大陸 SPECIAL LIVE SUMMER TIME BONANZA'12
   - 2012年08月12日 - [WORLD HAPPINESS](https://ja.wikipedia.org/wiki/WORLD_HAPPINESS "wikilink") 2012
   - 2012年08月17日 - ロックのほそ道
   - 2012年09月02日 - FREEDOM aozora 2012 淡路島
@@ -1441,6 +1552,7 @@ CD+DVD</p></td>
   - 2013年01月23日 - 「[オトナの\!](https://ja.wikipedia.org/wiki/オトナの! "wikilink")フェス」 OTO-NANO FES
   - 2013年01月27日 - Beat Connection 2013
   - 2013年05月02日 - 春の「超ライブ」祭り2013
+  - 2013年05月18日・19日 - 亀の恩返し2013
   - 2013年06月30日 - [鈴木雅之](../Page/鈴木雅之_\(歌手\).md "wikilink") masayuki suzuki taste of martini tour 2013
   - 2013年07月12日・15日 - [SONOMI](https://ja.wikipedia.org/wiki/SONOMI "wikilink") CONCERT 2013「S.O.N.O.M.I」
   - 2013年08月04日 - ROCK IN JAPAN FESTIVAL 2013
@@ -1455,6 +1567,93 @@ CD+DVD</p></td>
   - 2014年08月03日 - ROCK IN JAPAN FESTIVAL 2014
   - 2014年08月08日 - MTV ZUSHI FES 14 supported by RIVIERA
   - 2014年08月30日 - a-nation stadium fes.
+  - 2014年09月27日 - AOMORI SHOCK ON 2014
+  - 2014年10月20日 - JFL presents LIVE FOR THE NEXT
+  - 2014年12月19日 - R 25 RHYMESTER 25th. Aniv. with FUNKY GRAMMAR
+  - 2014年12月21日 - 音楽宝石箱 2ND
+  - 2014年12月31日 - COUNTDOWN JAPAN 14/15
+
+</div>
+
+</div>
+
+<div class="NavFrame" style="clear: both; border:0;font-size:small;">
+
+<div class="NavHead" style="text-align: center;">
+
+2016年 -
+
+</div>
+
+<div class="NavContent" style="text-align: left;font-size:small;">
+
+2015年
+
+  - 01月23日 - [AKLO](https://ja.wikipedia.org/wiki/AKLO "wikilink") "LIVE THE ARRIVAL"
+  - 05月05日 - [JAPAN JAM](https://ja.wikipedia.org/wiki/JAPAN_JAM "wikilink") BEACH 2015
+  - 08月08日 - ROCK IN JAPAN FESTIVAL 2015
+  - 11月11日 - J-WAVE ベース・ロワイアル
+
+2016年
+
+  - 06月26日 - elements night ～sunday night session～
+  - 08月03日 - AKLO「Outside the Frame Tour」
+  - 08月13日 - ROCK IN JAPAN FESTIVAL 2016
+  - 11月23日 - FM COCOLO CROSSOVER JAM COOL VIBES
+  - 12月14日 - FNS歌謡祭2016 第2夜
+  - 12月28日 - COUNTDOWN JAPAN 16/17
+
+2017年
+
+  - 03月18日 - [ビクターロック祭り](https://ja.wikipedia.org/wiki/ビクターロック祭り "wikilink")2017
+  - 05月04日 - JAPAN JAM 2017
+  - 05月06日 - J-WAVE & Roppongi Hills present TOKYO M.A.P.S 10th ANNIVERSARY EDITION
+  - 05月14日 - [RHYMESTER](../Page/RHYMESTER.md "wikilink") presents 「人間交差点 2017」
+  - 07月22日・8月5日 - 情熱大陸ライブ 2017
+  - 08月06日 - ROCK IN JAPAN FESTIVAL 2017
+  - 12月30日 - COUNTDOWN JAPAN 17/18
+
+2018年
+
+  - 02月11日・14日 - Disney on CLASSIC Premium『リトル・マーメイド』イン・コンサート
+  - 02月15日 - [三浦大知](../Page/三浦大知.md "wikilink") DAICHI MIURA BEST HIT TOUR 2017
+  - 05月14日 - J.LEAGUE 25th Anniversary LIVE
+  - 05月23日 - THE NAKAJIMA HIROTO SHOW 802 LIVE MASTERS-Birthday Special-
+  - 07月14日 - 音楽の日
+  - 08月05日 - [葉加瀬太郎](../Page/葉加瀬太郎.md "wikilink") サマーフェス'18 ～50thanks evolution～
+  - 09月09日 - 宗像フェス2018 ～Fukutsu Koinoura～
+  - 10月07日 - The 音楽祭 in 由利本荘
+
+2019年
+
+  - 02月01日 - [向井太一](https://ja.wikipedia.org/wiki/向井太一 "wikilink") "PURE TOUR 2018-2019"
+  - 03月03日 - 7.2 新しい別の窓
+  - 03月16日 - ビクターロック祭り2019
+  - 05月12日 - 人間交差点 2019
+  - 05月26日 - GREENROOM FESTIVAL'19
+  - 06月01日 - 日比谷音楽祭
+  - 06月02日 - FM802 30PARTY SPECIAL LIVE RADIO MAGIC
+  - 07月06日 - ONE NIGHT SHOW 2019
+  - 07月13日 - 音楽の日
+  - 07月14日 - J-WAVE LIVE 20th ANNIVERSARY EDITION
+  - 07月21日 - NUMBER SHOT 2019
+  - 08月04日 - ROCK IN JAPAN FESTIVAL 2019
+  - 08月17日・18日 - SUMMER SONIC 2019
+  - 08月31日 - SPACE SHOWER SWEET LOVE SHOWER 2019
+  - 09月15日 - 桃太郎フェス
+  - 09月21日 - 宗像フェス2019 ～Fukutsu Koinoura～
+  - 10月28日 - LIVE YEAH\!\!\! vol.1
+  - 12月27日 - MUSIC STATION ウルトラSUPER LIVE 2019
+  - 12月29日 - COUNTDOWN JAPAN 19/20
+
+2020年
+
+  - 07月18日 - 音楽の日
+  - 10月10日 - 大阪文化芸術フェス presents OSAKA GENKi PARK
+
+</div>
+
+</div>
 
 ## 主な出演
 
@@ -1478,7 +1677,7 @@ CD+DVD</p></td>
   - [BLITZ INDEX](https://ja.wikipedia.org/wiki/BLITZ_INDEX "wikilink")（TBS、2013年1月4日、1月11日）
   - [僕らの音楽](https://ja.wikipedia.org/wiki/僕らの音楽 "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2013年1月25日）
   - [LIVE MONSTER](https://ja.wikipedia.org/wiki/LIVE_MONSTER "wikilink")（日本テレビ、2013年9月8日）
-  - [亀田音楽専門学校](https://ja.wikipedia.org/wiki/亀田音楽専門学校 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2013年10月31日、11月7日、2014年10月2日、10月9日）\[6\]
+  - [亀田音楽専門学校](https://ja.wikipedia.org/wiki/亀田音楽専門学校 "wikilink")（[NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")、2013年10月31日、11月7日、2014年10月2日、10月9日）\[7\]
   - [musicる TV](https://ja.wikipedia.org/wiki/musicる_TV "wikilink")（テレビ朝日、2014年1月27日）
   - [せまソン♪](https://ja.wikipedia.org/wiki/せまソン♪ "wikilink")（日本テレビ、2014年1月30日）
   - [小林賢太郎テレビ10](https://ja.wikipedia.org/wiki/小林賢太郎テレビ10 "wikilink")（[NHK BSプレミアム](https://ja.wikipedia.org/wiki/NHK_BSプレミアム "wikilink")、2019年1月19日）
@@ -1494,15 +1693,15 @@ CD+DVD</p></td>
   - [MUSIC FREAKS](../Page/MUSIC_FREAKS.md "wikilink")（2001年 - 2002年）隔週でDJを担当
   - [α-MONTHLY COLORS](https://ja.wikipedia.org/wiki/α-MONTHLY_COLORS "wikilink")（2007年9月）
   - [RADIPEDIA](https://ja.wikipedia.org/wiki/RADIPEDIA "wikilink")（[J-WAVE](../Page/J-WAVE.md "wikilink")）火曜日 24:30 - 26:00（2010年1月 - 2011年3月29日）
-  - KREVAの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2016年6月10日）\[7\]
+  - KREVAの[オールナイトニッポンGOLD](https://ja.wikipedia.org/wiki/オールナイトニッポンGOLD "wikilink")（[ニッポン放送](../Page/ニッポン放送.md "wikilink")、2016年6月10日）\[8\]
 
 ### 映画
 
   - [ローレライ](../Page/ローレライ_\(映画\).md "wikilink")（2005年） - 機関員 小松春平
   - [隠し砦の三悪人 THE LAST PRINCESS](../Page/隠し砦の三悪人_THE_LAST_PRINCESS.md "wikilink")（2008年） - 刑部付きの侍
   - [進撃の巨人](https://ja.wikipedia.org/wiki/進撃の巨人 "wikilink")（2015年） - 役名なし
-  - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[8\]
-  - [461個のおべんとう](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。#映画 "wikilink")（2020年 ） - 古市栄太 役\[9\]
+  - [シン・ゴジラ](https://ja.wikipedia.org/wiki/シン・ゴジラ "wikilink")（2016年） - 村崎 第2戦車中隊長\[9\]
+  - [461個のおべんとう](https://ja.wikipedia.org/wiki/461個の弁当は、親父と息子の男の約束。#映画 "wikilink")（2020年 ） - 古市栄太 役\[10\]
 
 ### CM
 
@@ -1521,7 +1720,7 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 
   - 最高はひとつじゃない（2011年）
   - 最高はひとつじゃない2014（2014年）
-  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[10\]
+  - 『リトル・マーメイド』イン・コンサート（2018年2月11日 - 2月14日、東京 / 大阪） - セバスチャン役\[11\]
 
 ## 出典
 
@@ -1529,19 +1728,25 @@ BY PHAR THE DOPEST及びKICK THE CAN CREWの作品は除く
 
   - [KREVA](http://www.kreva.biz/)
 
+  -   -
   -
   -
+  -
+  -
+  - [KREVA](https://j-lyric.net/artist/a00eecd/) - J-Lyric.net
+
   -
   -
 [Category:KREVA](https://ja.wikipedia.org/wiki/Category:KREVA "wikilink") [Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本の男性シンガーソングライター](https://ja.wikipedia.org/wiki/Category:日本の男性シンガーソングライター "wikilink") [Category:日本のラッパー](https://ja.wikipedia.org/wiki/Category:日本のラッパー "wikilink") [Category:日本の作詞家](https://ja.wikipedia.org/wiki/Category:日本の作詞家 "wikilink") [Category:日本のトラックメイカー](https://ja.wikipedia.org/wiki/Category:日本のトラックメイカー "wikilink") [Category:日本のヒップホップ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のヒップホップ・ミュージシャン "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:慶應義塾大学出身の人物](https://ja.wikipedia.org/wiki/Category:慶應義塾大学出身の人物 "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1976年生](https://ja.wikipedia.org/wiki/Category:1976年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
-1.  [KREVAがレーベル移籍、春に4年ぶりのアルバムをリリース](http://natalie.mu/music/news/200566) Natalie 2016年9月3日
-2.  即興で[フリースタイルを披露する](https://ja.wikipedia.org/wiki/ラップ#関連用語 "wikilink")
-3.  『ロッキング・オン・ジャパン』2014年7月号、KREVA挑戦の10年、p224
-4.
-5.  [KREVA - J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20110508.htm)
-6.
+1.
+2.  [KREVAがレーベル移籍、春に4年ぶりのアルバムをリリース](http://natalie.mu/music/news/200566) Natalie 2016年9月3日
+3.  即興で[フリースタイルを披露する](https://ja.wikipedia.org/wiki/ラップ#関連用語 "wikilink")
+4.  『ロッキング・オン・ジャパン』2014年7月号、KREVA挑戦の10年、p224
+5.
+6.  [KREVA - J-WAVE WEBSITE : TOKIO HOT100](http://www.j-wave.co.jp/original/tokiohot100/guest_past/past_20110508.htm)
 7.
 8.
 9.
 10.
+11.

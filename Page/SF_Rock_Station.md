@@ -1,9 +1,11 @@
 > この記事は[SF Rock Station](https://ja.wikipedia.org/wiki/SF_Rock_Station)から翻訳されています。
 
 
-**SF Rock Station**（エスエフロックステーション）とは、[1986年](../Page/1986年.md "wikilink")10月から[1993年](../Page/1993年.md "wikilink")6月まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた深夜番組。当時は月 - 金曜日、深夜1:00 - 3:00の2時間番組だった。ちなみに番組タイトルの「SF」とは、東海ラジオの[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（JO**SF**）に由来している。
+**SF Rock Station**（エスエフロックステーション）とは、[1986年](../Page/1986年.md "wikilink")[10月6日](../Page/10月6日.md "wikilink")から[1993年](../Page/1993年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")まで[東海ラジオ放送](../Page/東海ラジオ放送.md "wikilink")で放送されていた深夜番組。当時は月 - 金曜日、深夜1:00 - 3:00の2時間番組だった。ちなみに番組タイトルの「SF」とは、東海ラジオの[コールサイン](https://ja.wikipedia.org/wiki/識別信号 "wikilink")（JO**SF**）に由来している。
 
-東海ラジオの深夜枠を支えた伝説的な番組『[ミッドナイト東海](../Page/ミッドナイト東海.md "wikilink")』『[とびっきりNIGHT](https://ja.wikipedia.org/wiki/とびっきりNIGHT "wikilink")』の後を受ける形で、1986年10月スタート。当時、全国的な流れになりつつあったバンドブームを先取りし、初代[DJには](../Page/ディスクジョッキー.md "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](../Page/BOØWY.md "wikilink")）や[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（のちに[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[TM NETWORK名義に](../Page/TM_NETWORK.md "wikilink")）、黒水伸一（THE SHAKES）、[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[田所豊](../Page/ダイアモンド☆ユカイ.md "wikilink")（[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）を迎え、のちに[奥田民生](../Page/奥田民生.md "wikilink")（[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")）や[田村直美](../Page/田村直美.md "wikilink")（[PEARL](../Page/PEARL_\(バンド\).md "wikilink")）など、当時の人気バンドのメンバーを揃えたことで話題となった。ローカル番組であったが、AMラジオの深夜番組という広範囲で受信可能な特性から、全国各地にファンを持つ人気番組だった。
+## 概要
+
+東海ラジオの深夜枠を支えた伝説的な番組『[ミッドナイト東海](../Page/ミッドナイト東海.md "wikilink")』『[とびっきりNiGHT](../Page/とびっきりNiGHT.md "wikilink")』の後を受ける形で、1986年10月スタート。当時の編成部長は「深夜放送がトーク中心であるのはもう古い。今[新人類](../Page/新人類.md "wikilink")と言われている人たちは、集団行動が苦手で個々の楽しみ方を持っている。その価値観を共有できる接点とは何か、考えて探し続けたその結論」がこの番組だったといったことを話している（それまでの『とびっきりNiGHT』に代わるトーク中心のワイド番組の流れは夜9時台の『[ここがSF一丁目](../Page/ここがSF一丁目.md "wikilink")』に移した、としている）\[1\]。当時、全国的な流れになりつつあったバンドブームを先取りし、初代[DJには](../Page/ディスクジョッキー.md "wikilink")[氷室京介](../Page/氷室京介.md "wikilink")（[BOØWY](../Page/BOØWY.md "wikilink")）や[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")（のちに[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")、[TM NETWORK名義に](../Page/TM_NETWORK.md "wikilink")）、黒水伸一（THE SHAKES）、[岡村靖幸](../Page/岡村靖幸.md "wikilink")、[田所豊](../Page/ダイアモンド☆ユカイ.md "wikilink")（[RED WARRIORS](../Page/RED_WARRIORS.md "wikilink")）を迎え、のちに[奥田民生](../Page/奥田民生.md "wikilink")（[ユニコーン](https://ja.wikipedia.org/wiki/ユニコーン_\(バンド\) "wikilink")）や[田村直美](../Page/田村直美.md "wikilink")（[PEARL](../Page/PEARL_\(バンド\).md "wikilink")）など、当時の人気バンドのメンバーを揃えたことで話題となった。ローカル番組であったが、AMラジオの深夜番組という広範囲で受信可能な特性から、全国各地にファンを持つ人気番組だった。
 
 ## パーソナリティ
 
@@ -259,8 +261,12 @@
   - [桜井賢](../Page/桜井賢.md "wikilink")（[THE ALFEE](https://ja.wikipedia.org/wiki/THE_ALFEE "wikilink")） （1992年4月 - 同年9月）
   - [小野正利](../Page/小野正利.md "wikilink") （1992年10月 - 1993年6月）
 
+## 脚注
+
 ## 外部リンク
 
   - [東海ラジオ放送](http://www.tokairadio.co.jp/)
 
-[Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオのラジオ番組](https://ja.wikipedia.org/wiki/Category:東海ラジオのラジオ番組 "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:深夜ラジオ番組 "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink") [Category:THE_ALFEE](https://ja.wikipedia.org/wiki/Category:THE_ALFEE "wikilink") [Category:TM_NETWORK](https://ja.wikipedia.org/wiki/Category:TM_NETWORK "wikilink") [Category:HOUND_DOG](https://ja.wikipedia.org/wiki/Category:HOUND_DOG "wikilink")
+[Category:1986年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1986年のラジオ番組_\(日本\) "wikilink") [Category:東海ラジオの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:東海ラジオの帯番組の歴史 "wikilink") [Category:ローカルラジオ局の音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:ローカルラジオ局の音楽番組の歴史 "wikilink") [Category:深夜ラジオ番組](https://ja.wikipedia.org/wiki/Category:深夜ラジオ番組 "wikilink") [Category:ロックを題材とした作品](https://ja.wikipedia.org/wiki/Category:ロックを題材とした作品 "wikilink") [Category:THE_ALFEE](https://ja.wikipedia.org/wiki/Category:THE_ALFEE "wikilink") [Category:TM_NETWORK](https://ja.wikipedia.org/wiki/Category:TM_NETWORK "wikilink") [Category:HOUND_DOG](https://ja.wikipedia.org/wiki/Category:HOUND_DOG "wikilink")
+
+1.  月刊ラジオパラダイス 1986年11月号 p.29

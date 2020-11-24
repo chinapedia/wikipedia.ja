@@ -137,6 +137,6 @@
 ## 外部リンク
 
   - [Laugh & Peace](https://myspace.com/laughandpeacejapan) - 公式サイト
-  - [Laugh\&Peace Featuring 藤田陽子](http://www.sonymusic.co.jp/Music/Info/LandP/) - [ソニーミュージック公式サイト](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
+  - [Laugh\&Peace Featuring 藤田陽子](https://www.sonymusic.co.jp/Music/Info/LandP/) - [ソニーミュージック公式サイト](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")
 
 [Category:日本の歌手グループ](https://ja.wikipedia.org/wiki/Category:日本の歌手グループ "wikilink") [Category:日本の作曲家](https://ja.wikipedia.org/wiki/Category:日本の作曲家 "wikilink")

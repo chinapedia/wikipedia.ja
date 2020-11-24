@@ -90,7 +90,7 @@
   - [ウルトラマンvs仮面ライダー](https://ja.wikipedia.org/wiki/ウルトラマンvs仮面ライダー "wikilink")
   - [動物戦隊ジュウオウジャー](https://ja.wikipedia.org/wiki/動物戦隊ジュウオウジャー "wikilink")
   - [ドラゴンボール超](https://ja.wikipedia.org/wiki/ドラゴンボール超 "wikilink")　01～07
-  - HG仮面ライダー 01、NEW01～02
+  - HG仮面ライダー 01、NEW01～03
   - HGウルトラマン 01～03
   - HG/スパイダーマン (「スパイダーマン」東映TVシリーズ)
 
@@ -269,6 +269,8 @@
       - HGあひるの空 夏目健二
       - HGドラゴンボール もう一人の超サイヤ人編
       - HGD+EX ゴジラ [ビオランテ](../Page/ビオランテ.md "wikilink")（植獣形態）
+      - HG ドラゴンボール セル完全セット
+      - HGIF美少女戦士セーラームーン　プレミアムコレクション
 
 ## 関連書籍（バンダイ公認のみ）
 

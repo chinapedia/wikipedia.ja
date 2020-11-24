@@ -56,6 +56,8 @@
   - TV-FREAK A GO GO\!\#2.0（1998年）
       - GOING STEADY（BOYS\&GIRLS収録とは別Version）
       - Forever young（BOYS\&GIRLS収録とは別Version）
+  - TV-FREAK NIGHT SAMPLER CD（1999年）
+      - UNIVERSAL（BOYS\&GIRLS収録とは別Version）
   - SMALL CIRCLE OF ROCK（2000年4月10日）
       - GO FOR IT（さくらの唄収録とは別Version）
   - BUMMED BROS（2000年10月20日）

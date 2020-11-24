@@ -1,7 +1,7 @@
 > この記事は[NHK放送研修センター・日本語センター](https://ja.wikipedia.org/wiki/NHK放送研修センター・日本語センター)から翻訳されています。
 
 
-**NHK放送研修センター・日本語センター**（エヌエイチケイほうそうけんしゅうセンター・にほんごセンター）は、[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連団体「[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")NHK放送研修センター」が運営する[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")教室。
+**NHK放送研修センター・日本語センター**（エヌエイチケイほうそうけんしゅうセンター・にほんごセンター）は、[NHK放送技術研究所](../Page/NHK放送技術研究所.md "wikilink")ビルの9階～12階にある[日本放送協会](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")（NHK）の関連団体「[一般財団法人](https://ja.wikipedia.org/wiki/一般財団法人 "wikilink")NHK放送研修センター」が運営する[アナウンス](https://ja.wikipedia.org/wiki/アナウンス "wikilink")教室。**日本語センター**は1985年（財）ＮＨＫ放送研修センターの発足と同時に、そのアナウンス部門としてスタートした。講師陣は７０人あまり。
 
 ## 概要
 
@@ -37,7 +37,7 @@
   - [風見雅章](https://ja.wikipedia.org/wiki/風見雅章 "wikilink")（かざみ・まさあき）\[9\]\[10\]\[11\]
   - [加藤昌男](../Page/加藤昌男.md "wikilink")（かとう・まさお）\[12\]
   - [金井直己](https://ja.wikipedia.org/wiki/金井直己 "wikilink")（かない・なおみ）
-  - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")（かねもと・たいこう）
+  - [兼本泰興](https://ja.wikipedia.org/wiki/兼本泰興 "wikilink")（かねもと・やすおき）
   - [蕪木弘道](https://ja.wikipedia.org/wiki/蕪木弘道 "wikilink")（かぶらぎ・ひろみち）
   - [河路勝](https://ja.wikipedia.org/wiki/河路勝 "wikilink")（かわじ・まさる）\[13\]
   - [木原秋好](https://ja.wikipedia.org/wiki/木原秋好 "wikilink")（きはら・あきよし）\[14\]\[15\]

@@ -11,7 +11,7 @@
 
 また同番組における小室とゲストとのトークをまとめた「With t 小室哲哉音楽対論」（[幻冬舎](../Page/幻冬舎.md "wikilink")・全5巻、文庫版は幻冬舎文庫より全4巻）も発売されている。
 
-番組開始当初は小室が約1年間、司会としてレギュラー出演してきたが、[TRF](../Page/TRF.md "wikilink")、[華原朋美](../Page/華原朋美.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの複数のアーティストの[プロデュース活動で多忙になり](../Page/音楽プロデューサー.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が番組の司会を受け継いだ。小室は司会降板後もスーパーバイザーとして番組に携わり、度々出演していた。
+番組開始当初は小室が約1年間、司会としてレギュラー出演してきたが、[TRF](../Page/TRF.md "wikilink")、[華原朋美](../Page/華原朋美.md "wikilink")、[安室奈美恵](https://ja.wikipedia.org/wiki/安室奈美恵 "wikilink")、[globe](https://ja.wikipedia.org/wiki/globe "wikilink")などの複数のアーティストの[プロデュース活動で多忙になり](../Page/音楽プロデューサー.md "wikilink")、[SMAP](../Page/SMAP.md "wikilink")の[中居正広](../Page/中居正広.md "wikilink")が番組の司会を受け継いだ。小室は司会降板後もスーパーバイザーとして番組に携わり、度々出演していた。それゆえ、小室のイニシャルは番組タイトルにそのまま残された。
 
 番組終了後、コーナー「TK MUSIC CLAMP "FACTORY"」が『[FACTORY](https://ja.wikipedia.org/wiki/FACTORY "wikilink")』と番組として独立してスタートした。
 

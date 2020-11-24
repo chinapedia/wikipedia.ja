@@ -48,7 +48,7 @@
 ## 解説者
 
   - [柴原洋](../Page/柴原洋.md "wikilink")（2012年 - ）
-  - [斉藤和巳](../Page/斉藤和巳.md "wikilink")（2014年 - 、2015年からテレビ東京解説者兼。2017年からはスポナビライブのDeNA戦やDAZNの広島戦（いずれも対ソフトバンク戦以外も含む）の解説も担当）
+  - [斉藤和巳](../Page/斉藤和巳.md "wikilink")（2014年 - 、2015年から[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")解説者兼。2017年からはスポナビライブのDeNA戦やDAZNの広島戦（いずれも対ソフトバンク戦以外も含む）の解説も担当。2020年からは本数契約として[MXテレビ](https://ja.wikipedia.org/wiki/MXテレビ "wikilink")の解説にも出演）
 
 2人とも[スポーツライブ+](../Page/スポーツライブ+.md "wikilink")で放送の球団制作中継の中継を兼任。
 
@@ -83,7 +83,7 @@
   - [山本圭介](../Page/山本圭介_\(アナウンサー\).md "wikilink")
   - [結城亮二](https://ja.wikipedia.org/wiki/結城亮二 "wikilink")
   - [櫻井譲士](https://ja.wikipedia.org/wiki/櫻井譲士 "wikilink")
-  - [木戸優雅](https://ja.wikipedia.org/wiki/木戸優雅 "wikilink") - ホークスサイドリポート
+  - [木戸優雅](https://ja.wikipedia.org/wiki/木戸優雅 "wikilink")
   - [信川竜太](../Page/信川竜太.md "wikilink")（タレント、FOX SPORTS実況）- 主にホークスサイドリポート
 
 ### 過去

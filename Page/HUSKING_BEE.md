@@ -20,7 +20,7 @@
 
 ## メンバー
 
-  - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")：**[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")**（いそべ まさふみ、[1972年](../Page/1972年.md "wikilink")[4月15日](../Page/4月15日.md "wikilink") - ）[広島県](../Page/広島県.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")[AB型](../Page/ABO式血液型.md "wikilink")。既婚。娘一人。
+  - [ギター](../Page/ギター.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")：**[磯部正文](https://ja.wikipedia.org/wiki/磯部正文 "wikilink")**（いそべ まさふみ、 - ）[広島県](../Page/広島県.md "wikilink")出身。[血液型](../Page/ABO式血液型.md "wikilink")[AB型](../Page/ABO式血液型.md "wikilink")。既婚。娘一人。
 
 <!-- end list -->
 
@@ -32,7 +32,7 @@
 
 <!-- end list -->
 
-  - ギター、ボーカル：**平林一哉**（ひらばやし かずや、[1973年](../Page/1973年.md "wikilink")[10月17日](../Page/10月17日.md "wikilink") - ）[東京都](../Page/東京都.md "wikilink")出身。本名は平林一也。既婚。
+  - ギター、ボーカル：**平林一哉**（ひらばやし かずや、 - ）[東京都](../Page/東京都.md "wikilink")出身。本名は平林一也。既婚。
 
 <!-- end list -->
 
@@ -42,7 +42,7 @@
 
 <!-- end list -->
 
-  - ベース：**工藤哲也**（くどう てつや、[1973年](../Page/1973年.md "wikilink")[7月20日](../Page/7月20日.md "wikilink") - ）[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身。血液型[O型](../Page/ABO式血液型.md "wikilink")。
+  - ベース：**工藤哲也**（くどう てつや、 - ）[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")出身。血液型[O型](../Page/ABO式血液型.md "wikilink")。
 
 <!-- end list -->
 
@@ -62,7 +62,7 @@
 
 ### 元メンバー
 
-  - [ドラム](../Page/ドラムセット.md "wikilink")：**平本レオナ**（ひらもと レオナ、[1974年](../Page/1974年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink") - ）血液型AB型。
+  - [ドラム](../Page/ドラムセット.md "wikilink")：**平本レオナ**（ひらもと レオナ、 - ）血液型AB型。
 
 <!-- end list -->
 
@@ -80,7 +80,7 @@
 
 <!-- end list -->
 
-  - [ドラム](../Page/ドラムセット.md "wikilink")、コーラス：**山崎聖之**（やまざき まさゆき、[1986年](../Page/1986年.md "wikilink")[5月29日](../Page/5月29日.md "wikilink") - ）
+  - [ドラム](../Page/ドラムセット.md "wikilink")、コーラス：**山崎聖之**（やまざき まさゆき、 - ）
 
 <!-- end list -->
 
@@ -505,7 +505,7 @@ PDCA-16:再発</p></td>
 </div>
 </div></li>
 </ol></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハイウェーブ" title="wikilink">ハイウェーブ</a><br />
+<td><p><a href="../Page/ハイ・ウェーブ.md" title="wikilink">ハイ・ウェーブ</a><br />
 オリコン最高24位、登場回数4回</p></td>
 </tr>
 <tr class="even">
@@ -567,6 +567,141 @@ PDCA-16:再発</p></td>
 </ol></td>
 <td><p>日本クラウン<br />
 オリコン最高35位、登場回数2回</p></td>
+</tr>
+<tr class="even">
+<td><p>1st EP</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
+<td><p><strong>Stay In Touch</strong></p></td>
+<td><p>CRCP-40519</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全5曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Stay in Close Touch</li>
+<li>Re-By Chance feat. <a href="https://ja.wikipedia.org/wiki/MOROHA" title="wikilink">MOROHA</a></li>
+<li>Singin' in the Rain</li>
+<li>Skyscraper</li>
+<li>Ring Sizer
+</div>
+</div></li>
+</ol></td>
+<td><p>日本クラウン<br />
+オリコン最高105位</p></td>
+</tr>
+<tr class="odd">
+<td><p>9th</p></td>
+<td><p><a href="../Page/2018年.md" title="wikilink">2018年</a><a href="../Page/6月6日.md" title="wikilink">6月6日</a></p></td>
+<td><p><strong>Lacrima</strong></p></td>
+<td><p>CRCP-40555</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全13曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>#1</li>
+<li>Wake You Up</li>
+<li>Enjoy</li>
+<li>Gonna Sing You My Love Song</li>
+<li>Hints Of Disillusion</li>
+<li>Hold Me Back</li>
+<li>夜と霧のなかで</li>
+<li>とりどりなうみ</li>
+<li>Bikeage</li>
+<li>In Passing</li>
+<li>Living Life</li>
+<li>Ring Sizer</li>
+<li>アユミヨレ
+</div>
+</div></li>
+</ol></td>
+<td><p>日本クラウン<br />
+オリコン最高61位</p></td>
+</tr>
+<tr class="even">
+<td><p>ベスト</p></td>
+<td><p><a href="../Page/2019年.md" title="wikilink">2019年</a><a href="../Page/7月3日.md" title="wikilink">7月3日</a></p></td>
+<td><p><strong>ALL TIME BEST 1994-2019</strong></p></td>
+<td><p>CRCP-40581/2</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全33曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<p>DISC1</p>
+<ol>
+<li>Across The Sensation</li>
+<li>Art Of Myself</li>
+<li>A Small Potato’s Mind</li>
+<li>Beat It</li>
+<li>Brightest</li>
+<li>8.6</li>
+<li>Enjoy</li>
+<li>Feedback Loop</li>
+<li>Go It Alone</li>
+<li>I’m A Tree</li>
+<li>Just A Beginning</li>
+<li>欠けボタンの浜</li>
+<li>摩訶不思議テーゼ</li>
+<li>Must Let The Show Go On</li>
+<li>New Horizon</li>
+<li>Once So Close</li>
+<li>1 Minute</li>
+</ol>
+<p>DISC2</p>
+<ol>
+<li>Only Way</li>
+<li>オーバーラップワルツ</li>
+<li>Own Course</li>
+<li>Prepared Mind</li>
+<li>Question</li>
+<li>らせんの夜</li>
+<li>Re-By Chance feat.MOROHA</li>
+<li>新利の風 ～ニューサラウンド～</li>
+<li>Sing To Me</li>
+<li>Singin’ In The Rain</li>
+<li>Spitfire</li>
+<li>Suffer</li>
+<li>The Steady-State Theory</li>
+<li>The Sun And The Moon</li>
+<li>Walk</li>
+<li>夜と霧のなかで
+</div>
+</div></li>
+</ol></td>
+<td><p>日本クラウン<br />
+オリコン最高75位</p></td>
+</tr>
+<tr class="odd">
+<td><p>10th</p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/11月4日.md" title="wikilink">11月4日</a></p></td>
+<td><p><strong>eye</strong></p></td>
+<td><p>CRCP-40613</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全12曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>Memories Of You</li>
+<li>Through Your Eyes</li>
+<li>刻の群像</li>
+<li>Tell Me</li>
+<li>Play The Role</li>
+<li>I Don’t Want To Grow Up</li>
+<li>Break The Deadlock</li>
+<li>アネモネの花</li>
+<li>The Only Way I Know</li>
+<li>よだかの汀</li>
+<li>New Light Is Tried</li>
+<li>明くるゆさわり
+</div>
+</div></li>
+</ol></td>
+<td><p>日本クラウン<br />
+オリコン最高124位</p></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -728,6 +863,44 @@ TFBQ-18030:DVD</p></td>
 オリコン最高31位、登場回数3回</p></td>
 </tr>
 <tr class="even">
+<td><p>4th</p></td>
+<td><p><a href="../Page/2017年.md" title="wikilink">2017年</a><a href="https://ja.wikipedia.org/wiki/11月22日" title="wikilink">11月22日</a></p></td>
+<td><p><strong>HUSKING BEE LIVE AT FEVER 2017</strong></p></td>
+<td><p>CRBP-10060</p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead">
+<p>全21曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>摩訶不思議テーゼ</li>
+<li>Feedback Loop</li>
+<li>Put On Fresh Paint</li>
+<li>Nonesuch</li>
+<li>Anchor</li>
+<li>Suolo</li>
+<li>Once So Close</li>
+<li>A Small Potato’s Mind</li>
+<li>Spitfire</li>
+<li>Carry You</li>
+<li>Skyscraper</li>
+<li>Ring Sizer</li>
+<li>Sun Myself</li>
+<li>Across The Sensation</li>
+<li>New Horizon</li>
+<li>新利の風</li>
+<li>Walk</li>
+<li>Re-By Chance feat. MOROHA</li>
+<li>欠けボタンの浜</li>
+<li>The Steady-State Theory</li>
+<li>Question
+</div>
+</div></li>
+</ol></td>
+<td><p>日本クラウン<br />
+オリコン最高84位</p></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -1208,16 +1381,32 @@ TYCN-80015:SHM-CD</p></td>
 
 ## ミュージックビデオ
 
-|                                                       |                                                                                                                                                                        |
-| ----------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **監督**                                                | **曲名**                                                                                                                                                                 |
-| [UGICHIN](../Page/UGICHIN.md "wikilink")              | 「[1 Minute](https://www.youtube.com/watch?v=P_73wLu4yZY)」「[Feedback Loop](https://www.youtube.com/watch?v=jRF1rVsNVmw)」「SUN MYSELF」「ならば、、ここに」「欠けボタンの浜」「新利の風」「摩訶不思議テーゼ」 |
-| [川口潤](https://ja.wikipedia.org/wiki/川口潤 "wikilink")   | 「NEW HORIZON (Live at ZEPP TOKYO 050306)」「新利の風 (Live at ZEPP TOKYO 050306)」                                                                                            |
-| [島田大介](../Page/島田大介.md "wikilink")                    | 「Just a beginning」                                                                                                                                                     |
-| [末田健](../Page/末田健.md "wikilink")                      | 「Day of the Sun」                                                                                                                                                       |
-| [武藤義明](https://ja.wikipedia.org/wiki/武藤義明 "wikilink") | 「1 Minute（Live Ver.）」「A Subtle Touch（Live Ver.）」                                                                                                                       |
-| 不明                                                    | 「BY CHANCE」「LIFE」「NEW HORIZON」「THE SUN and THE MOON」「WALK」「YOU CAME BACK」「the steady-state theory」                                                                     |
-|                                                       |                                                                                                                                                                        |
+| 公開年                              | 監督                                                           | 曲名                      | 備考 |
+| -------------------------------- | ------------------------------------------------------------ | ----------------------- | -- |
+| 1996年                            |                                                              | WALK                    |    |
+| 1997年                            |                                                              | LIFE                    |    |
+| 1998年                            |                                                              | SUN MYSELF              |    |
+|                                  | YOU CAME BACK                                                |                         |    |
+| 1999年                            |                                                              | THE SUN and THE MOON    |    |
+| 2000年                            | [UGICHIN](../Page/UGICHIN.md "wikilink")                     | 欠けボタンの浜                 |    |
+|                                  | BY CHANCE                                                    |                         |    |
+| 2001年                            | UGICHIN                                                      | 新利の風                    |    |
+|                                  | NEW HORIZON                                                  |                         |    |
+| 2002年                            |                                                              | the steady-state theory |    |
+| [末田健](../Page/末田健.md "wikilink") | Day of the Sun                                               |                         |    |
+| 2004年                            | [島田大介](../Page/島田大介.md "wikilink")                           | Just a beginning        |    |
+| UGICHIN                          | 摩訶不思議テーゼ                                                     |                         |    |
+| ならば、、ここに                         |                                                              |                         |    |
+| 2013年                            | [Feedback Loop](https://www.youtube.com/watch?v=jRF1rVsNVmw) |                         |    |
+| 2014年                            | [1 Minute](https://www.youtube.com/watch?v=P_73wLu4yZY)      |                         |    |
+| 2016年                            | Across The Sensation                                         |                         |    |
+| Spitfire                         |                                                              |                         |    |
+| Suffer                           |                                                              |                         |    |
+| 2017年                            | Re-By Chance feat.MOROHA                                     |                         |    |
+| 2018年                            | [上田芳郎](https://ja.wikipedia.org/wiki/上田芳郎 "wikilink")        | Enjoy                   |    |
+| UGICHIN                          | 夜と霧のなかで                                                      |                         |    |
+| 2020年                            | 刻の群像                                                         |                         |    |
+|                                  |                                                              |                         |    |
 
 ## 主なライブ
 
@@ -1403,7 +1592,16 @@ TYCN-80015:SHM-CD</p></td>
 
   - [所属事務所サイト](http://www.ini-ini.com/ini/huskin.html)
 
-[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
+  -   -
+  -
+  - [HUSKING BEE](https://j-lyric.net/artist/a005121/) - J-Lyric.net
+
+  -
+  -
+  -
+  -
+  -
+[Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:日本のオルタナティヴ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のオルタナティヴ・ロック・バンド "wikilink") [Category:日本のポップ・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のポップ・ロック・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:パワー・ポップ・バンド](https://ja.wikipedia.org/wiki/Category:パワー・ポップ・バンド "wikilink") [Category:エモ・バンド](https://ja.wikipedia.org/wiki/Category:エモ・バンド "wikilink") [Category:トイズファクトリーのアーティスト](https://ja.wikipedia.org/wiki/Category:トイズファクトリーのアーティスト "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink")
 
 1.  PIZZAは現在の[横山健](../Page/横山健.md "wikilink")（[Hi-STANDARD](../Page/Hi-STANDARD.md "wikilink")）が運営しているものと違い、当時まだなじみのなかったPUNKをリリースするためのいわば名前だけの存在だった。
 2.  [HUSKING BEEから岸野一と山崎聖之が脱退、新メンバーにテッキン - 音楽ナタリー](http://natalie.mu/music/news/174825)2016年4月

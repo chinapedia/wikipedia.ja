@@ -5,7 +5,7 @@
 
 ## 沿革
 
-[JNN系列のテレビ局によるローカルワイドニュースは](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、TBSが参入する前から、[山陽放送の](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")』（夕方のローカルワイドニュース番組では日本初）、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")の『[SBSテレビ夕刊](../Page/SBSテレビ夕刊.md "wikilink")』（山陽放送に次ぎ2例目）、[テレビ高知](../Page/テレビ高知.md "wikilink")の『[イブニングKOCHI](../Page/イブニングKOCHI.md "wikilink")』、さらに[中部日本放送（現：CBCテレビ）の](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』（JNN基幹局では初）や[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")の『[RKBニュースワイド](../Page/RKBニュースワイド.md "wikilink")』（基幹局ではCBCに次ぎ2例目）などが放送されており、JNNのキー局であるTBSはこれらの番組を手本に、キー局で初のローカルワイドニュースとして『テレポートTBS6』をスタートさせた。『テレポート-』がスタートした3カ月後、JNN準キー局の[毎日放送も](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[MBSナウ](../Page/MBSナウ.md "wikilink")』をスタートさせた。
+[JNN系列のテレビ局によるローカルワイドニュースは](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")、TBSが参入する前から、[山陽放送の](https://ja.wikipedia.org/wiki/RSKテレビ "wikilink")『[山陽TVイブニングニュース](../Page/山陽TVイブニングニュース.md "wikilink")』（夕方のローカルワイドニュース番組では日本初）、[静岡放送](https://ja.wikipedia.org/wiki/静岡放送 "wikilink")の『[SBSテレビ夕刊](../Page/SBSテレビ夕刊.md "wikilink")』（山陽放送に次ぎ2例目）、[テレビ高知](../Page/テレビ高知.md "wikilink")の『[イブニングKOCHI](../Page/イブニングKOCHI.md "wikilink")』、さらに[中部日本放送（現：CBCテレビ）の](https://ja.wikipedia.org/wiki/CBCテレビ "wikilink")『[CBCニュースワイド](https://ja.wikipedia.org/wiki/CBCニュースワイド "wikilink")』（JNN基幹局では初）や[RKB毎日放送](https://ja.wikipedia.org/wiki/RKB毎日放送 "wikilink")の『[RKBニュースワイド](../Page/RKBニュースワイド.md "wikilink")』（基幹局ではCBCに次ぎ2例目）などが放送されており、JNNのキー局であるTBSはこれらの番組を手本に、関東地方のキー局で初のローカルワイドニュースとして『テレポートTBS6』をスタートさせた。『テレポート-』がスタートした3カ月後、JNN準キー局の[毎日放送も](https://ja.wikipedia.org/wiki/MBSテレビ "wikilink")『[MBSナウ](../Page/MBSナウ.md "wikilink")』をスタートさせた。
 
 開始直後から高い視聴率を記録し、番組スタートから2年目には12%台の平均視聴率を獲得したが、その後視聴率が下降線をたどる。
 
@@ -51,13 +51,13 @@
 </tr>
 <tr class="even">
 <td><p>1975年10月</p></td>
-<td><p>1976年9月</p></td>
+<td><p>1976年10月1日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/撫養慎平" title="wikilink">撫養慎平</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/高橋加代子" title="wikilink">高橋加代子</a><sup>1</sup></p></td>
 <td><p><a href="../Page/料治直矢.md" title="wikilink">料治直矢</a></p></td>
 </tr>
 <tr class="odd">
-<td><p>1976年10月</p></td>
+<td><p>1976年10月4日</p></td>
 <td><p>1977年3月</p></td>
 <td><p><a href="../Page/山本文郎.md" title="wikilink">山本文郎</a></p></td>
 <td></td>
@@ -72,13 +72,13 @@
 </tr>
 <tr class="odd">
 <td><p>1980年10月</p></td>
-<td><p>1983年3月</p></td>
+<td><p>1983年3月30日</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/藤林英雄" title="wikilink">藤林英雄</a></p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
-<td><p>1983年4月</p></td>
+<td><p>1984年4月2日</p></td>
 <td><p>1986年9月</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新井瑞穂" title="wikilink">新井瑞穂</a></p></td>
 <td></td>

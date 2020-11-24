@@ -80,7 +80,7 @@
 
   - 1月、[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")[ドラマ24](../Page/ドラマ24.md "wikilink")「[バイプレイヤーズ 〜もしも6人の名脇役がシェアハウスで暮らしたら〜](https://ja.wikipedia.org/wiki/バイプレイヤーズ_〜もしも6人の名脇役がシェアハウスで暮らしたら〜 "wikilink")」のオープニングテーマに「ヒトリセカイ」が起用された\[4\]。
   - 1月14日・15日、[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")の[ゼビオアリーナ仙台](https://ja.wikipedia.org/wiki/ゼビオアリーナ仙台 "wikilink")で**東日本大作戦番外編**を開催する。
-  - 「京都大作戦2017～10執念！　心の10電！　10横無尽にはしゃぎな祭！」は、初の三日間開催となった。しかし、3日目のマキシマム　ザ　ホルモンのライブ中、雷の影響で一時中断。約2時間後、再スタートした。
+  - 「京都大作戦2017～10執念！ 心の10電！ 10横無尽にはしゃぎな祭！」は、初の三日間開催となった。しかし、3日目のマキシマム ザ ホルモンのライブ中、雷の影響で一時中断。約2時間後、再スタートした。
 
 **2018年**
 
@@ -753,7 +753,7 @@ FOR THE KIDS! VI</strong></p></td>
 </div>
 <div class="NavContent" style="text-align:left;">
 <p>LIVE DISC thread TOUR 2012-2013</p>
-<p>　　LIVE AT CLUB CITTA' KAWASAKI 2013.2.17</p>
+<p><code>LIVE AT CLUB CITTA' KAWASAKI 2013.2.17</code></p>
 <ol>
 <li>JUNGLES</li>
 <li>hammer ska</li>
@@ -788,7 +788,7 @@ FOR THE KIDS! VI</strong></p></td>
 <li>東日本大作戦 四幕 2013.3.10</li>
 <li>thread TOUR 2012-2013東北シリーズ</li>
 </ol>
-<p>　　　2013.3.12-3.20</p>
+<p><code>2013.3.12-3.20</code></p>
 </div>
 </div></td>
 <td><p>5位</p></td>
@@ -805,9 +805,9 @@ FOR THE KIDS! VII</strong></p></td>
 <p>収録内容</p>
 </div>
 <div class="NavContent" style="text-align:left;">
-<p>LIVE DISC「10-FEET "Fin" TOUR 2017-2018」 2018.2.22(木)Zepp Tokyo</p>
+<p>LIVE DISC「10-FEET "Fin" TOUR 2017-2018」 2018.2.22(木)Zepp Tokyo</p>
 <ol>
-<li>1 size FITS ALL</li>
+<li>1 size FITS ALL</li>
 <li>火とリズム</li>
 <li>SHOES</li>
 <li>fast edge emotion</li>
@@ -816,7 +816,7 @@ FOR THE KIDS! VII</strong></p></td>
 <li>JUNGLES</li>
 <li>Fin</li>
 <li>風</li>
-<li>月 ～sound jammer せやな～</li>
+<li>月 ～sound jammer せやな～</li>
 <li>FUTURE</li>
 <li>super stomper</li>
 <li>back to the sunset</li>
@@ -832,12 +832,12 @@ FOR THE KIDS! VII</strong></p></td>
 <li>ヒトリセカイ</li>
 <li>その向こうへ</li>
 <li>RIVER</li>
-<li>JUST A FALSE! JUST A HOLE!</li>
+<li>JUST A FALSE! JUST A HOLE!</li>
 <li>hammer ska</li>
 </ol>
 <p>DOCUMENTARY DISC</p>
 <ol>
-<li>「10-FEET "Fin" TOUR 2017-2018」2018.6.11(月)</li>
+<li>「10-FEET "Fin" TOUR 2017-2018」2018.6.11(月)</li>
 </ol>
 <p>沖縄・桜坂セントラル、 ライブ・ダイジェスト＋ 船上パーティーの模様も含む 沖縄オフショット映像。</p>
 </div>
@@ -1213,9 +1213,9 @@ MECR-3034</p></td>
 
 ### 主催フェス
 
-  - 2008年〜　[京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")
-  - 2017年1月14,15日 - [東日本大作戦番外編](https://ja.wikipedia.org/wiki/東日本大作戦番外編 "wikilink")　[ゼビオアリーナ](https://ja.wikipedia.org/wiki/ゼビオアリーナ "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")）
-  - 2017年4月16日 - [ザ グレートロックンロール関ケ原](https://ja.wikipedia.org/wiki/ザ_グレートロックンロール関ケ原 "wikilink")2017　万博大作戦 日本シリーズ　（[氣志團](../Page/氣志團.md "wikilink")との共同開催）
+  - 2008年〜 [京都大作戦](https://ja.wikipedia.org/wiki/京都大作戦 "wikilink")
+  - 2017年1月14,15日 - [東日本大作戦番外編](https://ja.wikipedia.org/wiki/東日本大作戦番外編 "wikilink") [ゼビオアリーナ](https://ja.wikipedia.org/wiki/ゼビオアリーナ "wikilink")（[宮城県](https://ja.wikipedia.org/wiki/宮城県 "wikilink")[仙台市](../Page/仙台市.md "wikilink")）
+  - 2017年4月16日 - [ザ グレートロックンロール関ケ原](https://ja.wikipedia.org/wiki/ザ_グレートロックンロール関ケ原 "wikilink")2017 万博大作戦 日本シリーズ （[氣志團](../Page/氣志團.md "wikilink")との共同開催）
 
 ### 出演イベント
 
@@ -1787,8 +1787,8 @@ MECR-3034</p></td>
 ## エピソードなど
 
   - バンド名は当初、「スケールでかい名前がええな」と話し合い、河原町丸太町の[びっくりドンキー](../Page/びっくりドンキー.md "wikilink")における話し合いで出てきたのが「1000-FEET（センフィート）」だった。しかし、後日メンバーで話しあったところ、「ダサない?1000（セン・千）って日本語もどうなんや?これ、間違って“ワンサウザンドフィート”とか呼ばれへんか?」となり、近しいところで「10-FEET（テンフィート）」になった。ちょうど、バスケットボールのゴールの高さであるおよそ3メートル、ジャンプしても「届きそうで届かない距離」（10[フィート](../Page/フィート.md "wikilink")＝約3[メートル](../Page/メートル.md "wikilink")）の意味\[9\]。
-  - 10-FEET結成前、KOUICHIは保父(保育士)になるという目標の為、バンドや音楽活動を止めるため自身の持っていたドラムの機材を全て売り払っていたが、TAKUMAが丸山書店で2980円で購入した「遊歩人」という[ウォークマン](../Page/ウォークマン.md "wikilink")タイプのポータブルカセットプレイヤーで『アポンチュ』という曲の入ったデモテープを2人に聴かされ、「やるわ」と二つ返事で10-FEETへ参加した\[10\]。
-  - TAKUMAは幼少期、団地の友人に毎日MEGADETHのボーカル デイヴムステインのモノマネをさせられていた。METALLICAからも影響を受け、最初はドラマーとしてLUNA SEAのコピーなどもした。ドラムたたきながらも同時にボーカルもしていたが、バンドが3ピース編成になったところ、ギターボーカルとしてやっていくことになった。当時のことを振り返り、「初期のライブは酷すぎて最近観ても笑えもしない」と語っている。ライブ中、MCでも「ギター募集」「助けてください」などと言っていた。1stマキシシングルではギターの弦はへヴィメタルで多用される3本ほどしか弾いておらず、フルアルバム『springman』の時からちゃんとしたオープンコードを押さえ始めたという。『springman』は「逆境を跳ね返す」という意味が込められている\[11\]。
+  - 10-FEET結成前、KOUICHIは保父（保育士）になるという目標の為、バンドや音楽活動を止めるため自身の持っていたドラムの機材を全て売り払っていたが、TAKUMAが丸山書店で2980円で購入した「遊歩人」という[ウォークマン](../Page/ウォークマン.md "wikilink")タイプのポータブルカセットプレイヤーで『アポンチュ』という曲の入ったデモテープを2人に聴かされ、「やるわ」と二つ返事で10-FEETへ参加した\[10\]。
+  - TAKUMAは幼少期、団地の友人に毎日MEGADETHのボーカル デイヴムステインのモノマネをさせられていた。METALLICAからも影響を受け、最初はドラマーとしてLUNA SEAのコピーなどもした。ドラムたたきながらも同時にボーカルもしていたが、バンドが3ピース編成になったところ、ギターボーカルとしてやっていくことになった。当時のことを振り返り、「初期のライブは酷すぎて最近観ても笑えもしない」と語っている。ライブ中、MCでも「ギター募集」「助けてください」などと言っていた。1stマキシシングルではギターの弦はヘヴィメタルで多用される3本ほどしか弾いておらず、フルアルバム『springman』の時からちゃんとしたオープンコードを押さえ始めたという。『springman』は「逆境を跳ね返す」という意味が込められている\[11\]。
   - 10-FEET結成以前にはTAKUMAはFLAME、ビグザム、ドラミ、ワロップ、NAOKIはシム・プレート、KOUICHIはモンスペというバンドで活動していた\[12\]。
   - TAKUMAは自動二輪の免許は所持しているが、普通免許を所持しておらず、デビュー当初は機材車の運転はNAOKI、KOUICHI、マネージャーのmasaで行なっていた（月刊GiGS.256）。NAOKIはフォークリフトの免許を持っている。
   - 『REALIFE』ツアーではKOUICHIは腱鞘炎を患い、全56本中、頭の28本を欠席した。そのツアーで販売されたツアーTシャツには「北斗腱鞘炎」となぞらえて北斗の拳の有名なセリフと、北斗七星がプリントされている（10-FEET styles、別冊カドカワ699）。

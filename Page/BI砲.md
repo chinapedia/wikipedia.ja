@@ -61,6 +61,7 @@
 
 ## 備考
 
+  - 1997年、馬場が全日に参戦していた[池田大輔](../Page/池田大輔.md "wikilink")(当時・[格闘探偵団バトラーツ](../Page/格闘探偵団バトラーツ.md "wikilink"))と「**新BI砲**」を結成した。
   - 2011年8月27日に行われた「[ALL TOGETHER](https://ja.wikipedia.org/wiki/ALL_TOGETHER_\(プロレス興行\) "wikilink")」において結成された、馬場、猪木それぞれの愛弟子である[小橋建太](../Page/小橋建太.md "wikilink")と[武藤敬司](https://ja.wikipedia.org/wiki/武藤敬司 "wikilink")のタッグは「**平成のBI砲**」と呼ばれた\[2\]。
   - 同日開かれた「[INOKI GENOME 〜Super Stars Festival 2011〜](https://ja.wikipedia.org/wiki/INOKI_GENOME_〜Super_Stars_Festival_2011〜 "wikilink")」の猪木劇場において、[チェ・ホンマン](../Page/チェ・ホンマン.md "wikilink")が馬場に扮してBI砲を再現し、アブドーラ・ザ・ブッチャー&タイガー・ジェット・シンと絡んだ。
   - 女子プロレス「[スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")」における[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")&[美闘陽子](https://ja.wikipedia.org/wiki/美闘陽子 "wikilink")のタッグチーム名は、BI砲を捩って「**[BY砲](https://ja.wikipedia.org/wiki/BY砲 "wikilink")**」としている。

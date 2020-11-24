@@ -42,6 +42,7 @@
   - [久保田智](../Page/久保田智.md "wikilink")（外野手） - ドラフト10位で[ヤクルトスワローズに入団](https://ja.wikipedia.org/wiki/東京ヤクルトスワローズ "wikilink")
   - [須田幸太](https://ja.wikipedia.org/wiki/須田幸太 "wikilink")（投手） - ドラフト1位で[横浜ベイスターズに入団](../Page/横浜DeNAベイスターズ.md "wikilink")
   - [田面巧二郎](https://ja.wikipedia.org/wiki/田面巧二郎 "wikilink")（投手） - ドラフト3位で阪神タイガースに入団
+  - [今川優馬](../Page/今川優馬.md "wikilink")（外野手） - ドラフト6位で北海道日本ハムファイターズから指名
 
 ## 元プロ野球選手の競技者登録
 

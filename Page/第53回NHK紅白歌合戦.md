@@ -440,7 +440,7 @@
 
   - [森進一](../Page/森進一.md "wikilink")は史上初の35年連続出場を達成した。
   - [モーニング娘。](../Page/モーニング娘。.md "wikilink")について、この年9月にグループを卒業した[後藤真希](https://ja.wikipedia.org/wiki/後藤真希 "wikilink")が本紅白で1日限りの復帰をする計画があると報道された\[28\]が、実現することはなかった。
-  - 8年連続出場（通算10回）の[中村美津子](https://ja.wikipedia.org/wiki/中村美津子 "wikilink")、5年連続出場（初出場以来）の[DA PUMP](../Page/DA_PUMP.md "wikilink")、3年連続出場（初出場以来）の[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")は翌年不出場となり、今回で連続出場が途絶えた。小柳は今回を最後に出場していないが、中村は[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）および[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")） - [第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、DA PUMPは[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）で再出場を果たしている。
+  - 8年連続出場（通算10回）の[中村美津子](https://ja.wikipedia.org/wiki/中村美津子 "wikilink")、5年連続出場（初出場以来）の[DA PUMP](../Page/DA_PUMP.md "wikilink")、3年連続出場（初出場以来）の[小柳ゆき](https://ja.wikipedia.org/wiki/小柳ゆき "wikilink")は翌年不出場となり、今回で連続出場が途絶えた。小柳は今回を最後に出場していないが、中村は[第55回](https://ja.wikipedia.org/wiki/第55回NHK紅白歌合戦 "wikilink")（[2004年](../Page/2004年.md "wikilink")）および[第58回](../Page/第58回NHK紅白歌合戦.md "wikilink")（[2007年](../Page/2007年.md "wikilink")） - [第61回](https://ja.wikipedia.org/wiki/第61回NHK紅白歌合戦 "wikilink")（[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")）、DA PUMPは[第69回](https://ja.wikipedia.org/wiki/第69回NHK紅白歌合戦 "wikilink")（[2018年](../Page/2018年.md "wikilink")）・[第70回](https://ja.wikipedia.org/wiki/第70回NHK紅白歌合戦 "wikilink")（[2019年](../Page/2019年.md "wikilink")）で再出場を果たしている。
 
 ## ゲスト出演者
 

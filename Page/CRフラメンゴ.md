@@ -1,19 +1,19 @@
 > この記事は[CRフラメンゴ](https://ja.wikipedia.org/wiki/CRフラメンゴ)から翻訳されています。
 
 
-**クルーベ・ジ・レガタス・ド・フラメンゴ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")をホームタウンとする、ブラジルプロサッカーリーグ（[ブラジルリーグ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。
+**クルーベ・ジ・レガタス・ド・フラメンゴ** () は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")をホームタウンとする、ブラジルプロサッカーリーグ（[カンピオナート・ブラジレイロ](../Page/カンピオナート・ブラジレイロ.md "wikilink")）に加盟するプロサッカークラブ。
 
 ブラジル国内にはフラメンゴと名乗るクラブが数多くあるが、実績と知名度からフラメンゴと言えばこのクラブを指すことが多い。
 
 ## 概要
 
-[左](https://ja.wikipedia.org/wiki/ファイル:Time_de_Futebol_do_Flamengo,_1934.tif "wikilink") クラブ名はクラブの創設地がリオデジャネイロの[フラメンゴ](https://ja.wikipedia.org/wiki/フラメンゴ "wikilink")地区であることに由来する。
+[左](https://ja.wikipedia.org/wiki/ファイル:Time_de_Futebol_do_Flamengo,_1934.tif "wikilink") クラブ名はクラブの創設地がリオデジャネイロの[フラメンゴ](https://ja.wikipedia.org/wiki/フラメンゴ "wikilink")地区であることに由来する。ホームスタジアムは[エスタジオ・ド・マラカナン](../Page/エスタジオ・ド・マラカナン.md "wikilink")で、同じくリオデジャネイロを本拠地とする[フルミネンセや](../Page/フルミネンセFC.md "wikilink")[ヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")、[ボタフォゴとはライバル関係にある](../Page/ボタフォゴFR.md "wikilink")。ユニフォームは赤と黒の横縞。かつては元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[ジーコ](../Page/ジーコ.md "wikilink")が在籍し活躍していた。
 
-ホームスタジアムは[エスタジオ・ド・マラカナン](../Page/エスタジオ・ド・マラカナン.md "wikilink")で、同じくリオデジャネイロを本拠地とする[フルミネンセや](../Page/フルミネンセFC.md "wikilink")[ヴァスコ・ダ・ガマ](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")、[ボタフォゴとはライバル関係にある](../Page/ボタフォゴFR.md "wikilink")。ユニフォームは赤と黒の横縞。かつては元[サッカー日本代表](../Page/サッカー日本代表.md "wikilink")監督の[ジーコ](../Page/ジーコ.md "wikilink")が在籍し活躍していた。[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")で1番人気のあるクラブで、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")全国でも最も人気のあるサッカークラブである\[1\]。2011年度のクラブ総収入は1億8500万レアル（約75億円）であり、ブラジルのクラブで第5位である。
+フラメンゴは[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")はもとより、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")で最も人気のあるサッカークラブであり\[1\]、2020年時点でブラジル全土に推定4,020万人以上のファンを擁する。 スポーツマーケティング会社の、Gerardo Molina-Euroamericaが実施した調査によると、絶対数では世界で最も多くのファンを持つサッカークラブである\[2\] \[3\]。これらのことから、放映権の価値が最も高いブラジルのクラブであり、2019年には世界で70番目に価値の高いサッカーチームであることに加えて、1億4570万ユーロ以上の価値を持つ南米で最も価値のあるチームとなっている。また、2019年の年収は9億5,000万レアル（1億4,000万ユーロ）に達するなど、ブラジルで最も裕福なサッカークラブでもある\[4\]\[5\]。
 
 もともとは[ボート](https://ja.wikipedia.org/wiki/ボート "wikilink")クラブで（クラブ名に「[レガッタ](../Page/レガッタ.md "wikilink") (Regatas) 」とあるのはそのため）、現在はサッカーとボートのほか、[バスケットボール](../Page/バスケットボール.md "wikilink")や[バレーボール](../Page/バレーボール.md "wikilink")のクラブも保有している。
 
-2019年2月8日、トレーニングセンターであるニーニョ・ド・ウルブにあるユースチーム宿舎で火災が発生、施設内にいた14歳から16歳までの少年選手10人が死亡、3人が負傷しうち1人が重体となる被害が出た\[2\]。
+2019年2月8日、トレーニングセンターであるニーニョ・ド・ウルブにあるユースチーム宿舎で火災が発生、施設内にいた14歳から16歳までの少年選手10人が死亡、3人が負傷しうち1人が重体となる被害が出た\[6\]。
 
 ## タイトル
 
@@ -89,8 +89,8 @@
 <thead>
 <tr class="header">
 <th><p>年</p></th>
-<th><p><a href="https://ja.wikipedia.org/wiki/カンピオナート・カリオカ" title="wikilink">カリオカ</a></p></th>
-<th><p><a href="../Page/カンピオナート・ブラジレイロ.md" title="wikilink">ブラジレイロ</a></p></th>
+<th><p><a href="https://ja.wikipedia.org/wiki/カンピオナート・カリオカ" title="wikilink">カンピオナート・カリオカ</a></p></th>
+<th><p><a href="../Page/カンピオナート・ブラジレイロ.md" title="wikilink">カンピオナート・ブラジレイロ</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/コパ・ド・ブラジル" title="wikilink">コパ・ド・ブラジル</a></p></th>
 <th><p><a href="https://ja.wikipedia.org/wiki/コパ・リベルタドーレス" title="wikilink">コパ・リベルタドーレス</a></p></th>
 <th><p><a href="../Page/コパ・スダメリカーナ.md" title="wikilink">コパ・スダメリカーナ</a></p></th>
@@ -361,5 +361,9 @@
 
 [Category:CRフラメンゴ](https://ja.wikipedia.org/wiki/Category:CRフラメンゴ "wikilink") [Category:ブラジルのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ブラジルのサッカークラブ "wikilink") [Category:リオデジャネイロのサッカークラブ](https://ja.wikipedia.org/wiki/Category:リオデジャネイロのサッカークラブ "wikilink") [Category:1895年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1895年設立のスポーツチーム "wikilink")
 
-1.  <http://www.lanacion.com.ar/642142-flamengo-el-equipo-mas-popular-de-brasil>
-2.
+1.  <http://globoesporte.globo.com/futebol/noticia/2014/08/fla-lidera-lista-de-maiores-torcidas-do-brasil-seguido-de-perto-pelo-timao.html>
+2.  <http://globoesporte.globo.com/futebol/noticia/2012/09/estudo-aponta-torcida-do-flamengo-como-maior-do-mundo.html>
+3.  <http://miradouronoticias.com/web/2016/09/fifa-divulga-ranking-das-maiores-torcidas-do-mundo-flamengo-lidera/>
+4.  <https://pt.wikipedia.org/wiki/Lista_de_faturamento_dos_clubes_de_futebol_brasileiro>
+5.  <https://sportv.globo.com/site/programas/selecao-sportv/noticia/estudo-coloca-o-flamengo-como-a-marca-mais-valiosa-do-futebol-brasileiro-em-2017.ghtml>
+6.

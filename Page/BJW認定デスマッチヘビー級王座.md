@@ -168,7 +168,7 @@
 24. [宮本裕向](https://ja.wikipedia.org/wiki/宮本裕向 "wikilink")
       - [12月19日](https://ja.wikipedia.org/wiki/12月19日 "wikilink")[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")大会（有刺鉄線爆破ボードデスマッチ） [シャドウWX](../Page/シャドウWX.md "wikilink")から奪取
       - [2009年](../Page/2009年.md "wikilink")[7月12日](../Page/7月12日.md "wikilink")[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")大会（廣島 大治組プレゼンツ 高所作業につき立体足場建築現場デスマッチ 〜one night carnival again〜）初防衛。挑戦者は[竹田誠志](https://ja.wikipedia.org/wiki/竹田誠志 "wikilink")
-      - [2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")[高岡テクノドーム](https://ja.wikipedia.org/wiki/高岡テクノドーム "wikilink")大会（蛍光灯445本デスマッチ） 2度目の防衛に成功 挑戦者は[アブドーラ小林](../Page/アブドーラ・小林.md "wikilink")
+      - [2009年](../Page/2009年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")[高岡テクノドーム大会](https://ja.wikipedia.org/wiki/富山県産業創造センター "wikilink")（蛍光灯445本デスマッチ） 2度目の防衛に成功 挑戦者は[アブドーラ小林](../Page/アブドーラ・小林.md "wikilink")
       - [2009年](../Page/2009年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")[横浜文化体育館](../Page/横浜文化体育館.md "wikilink")大会（蛍光灯&立体足場スキャフォールドデスマッチ） 3度目の防衛に成功 挑戦者は[佐々木貴](../Page/佐々木貴.md "wikilink")
       - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[3月19日](../Page/3月19日.md "wikilink")[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会（ダブルガラスボード&インディアンストラップデスマッチ） 4度目の防衛に成功 挑戦者は[木高イサミ](../Page/木高イサミ.md "wikilink")
           - 通常のインディアンストラップマッチは、相手を引きずって1周した方が勝者となるが、大日本ではこの決着は認めていない為、通常と同様3カウントフォールでの決着となった。

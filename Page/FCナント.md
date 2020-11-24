@@ -749,6 +749,8 @@ FCナントのライバルは[FCジロンダン・ボルドー](../Page/FCジロ
 
   - [ギヨーム・ジレ](https://ja.wikipedia.org/wiki/ギヨーム・ジレ "wikilink") 2016-2017
 
+  - [レネ・クルヒン](https://ja.wikipedia.org/wiki/レネ・クルヒン "wikilink") 2018-2020
+
 ### FW
 
   - [ヴァヒド・ハリルホジッチ](../Page/ヴァヒド・ハリルホジッチ.md "wikilink")　1981-1986

@@ -1,7 +1,7 @@
 > この記事は[FRIDAY \(雑誌\)](https://ja.wikipedia.org/wiki/FRIDAY_\(雑誌\))から翻訳されています。
 
 
-**FRIDAY**（フライデー）は、[講談社](../Page/講談社.md "wikilink")が発行している、[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[11月9日](../Page/11月9日.md "wikilink")創刊の[写真週刊誌](../Page/写真週刊誌.md "wikilink")である\[1\]。原則として毎週[金曜日](../Page/金曜日.md "wikilink")に発売される\[2\]。誌名は金曜日に由来\[3\]。
+『**FRIDAY**』（フライデー）は、[講談社](../Page/講談社.md "wikilink")が発行している、[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[11月9日](../Page/11月9日.md "wikilink")創刊の[写真週刊誌](../Page/写真週刊誌.md "wikilink")である\[1\]。原則として毎週[金曜日](../Page/金曜日.md "wikilink")に発売される\[2\]。誌名は金曜日に由来\[3\]。
 
 ## 概要
 
@@ -23,7 +23,7 @@
 
 同じジャンルの写真週刊誌『[FOCUS](../Page/FOCUS.md "wikilink")』（[新潮社](../Page/新潮社.md "wikilink")）、『[FLASH](../Page/FLASH_\(写真週刊誌\).md "wikilink")』（発行元のグループ企業の[光文社](../Page/光文社.md "wikilink")が発行）と共に「**3F**（**スリーエフ**）」と呼ばれていた\[6\]が、『FOCUS』が[2001年](../Page/2001年.md "wikilink")に休刊して以降は、写真週刊誌では発行部数（40万9,082部 [日本雑誌協会](https://ja.wikipedia.org/wiki/日本雑誌協会 "wikilink")）で一位である。最盛期には毎号200万部を売り上げており、2015年度は年間26万部の売上であった\[7\]。
 
-FRIDAY創刊以降の[1980年代](../Page/1980年代.md "wikilink")半ばは写真週刊誌ブームで、『[Emma](../Page/Emma.md "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）など他の大手出版社もこぞって写真週刊誌を発行し「**3FET**」の時代となったが、『Emma』『TOUCH』の2誌は競争に勝てず、いずれも[1990年代](../Page/1990年代.md "wikilink")を迎えることなく短期間で休刊した。
+FRIDAY創刊以降の[1980年代](../Page/1980年代.md "wikilink")半ばは写真週刊誌ブームで、『[Emma](https://ja.wikipedia.org/wiki/Emma_\(雑誌\) "wikilink")』（[文藝春秋](../Page/文藝春秋.md "wikilink")）、『[TOUCH](https://ja.wikipedia.org/wiki/TOUCH_\(週刊誌\) "wikilink")』（[小学館](../Page/小学館.md "wikilink")）など他の大手出版社もこぞって写真週刊誌を発行し「**3FET**」の時代となったが、『Emma』『TOUCH』の2誌は競争に勝てず、いずれも[1990年代](../Page/1990年代.md "wikilink")を迎えることなく短期間で休刊した。
 
 ### 増刊号
 

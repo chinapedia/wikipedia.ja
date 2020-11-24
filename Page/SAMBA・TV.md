@@ -1,13 +1,13 @@
 > この記事は[SAMBA・TV](https://ja.wikipedia.org/wiki/SAMBA・TV)から翻訳されています。
 
 
-**SAMBA・TV**（サンバ・ティービー）は、[2000年](../Page/2000年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")〜[2001年](../Page/2001年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[20世紀](../Page/20世紀.md "wikilink")から[21世紀](../Page/21世紀.md "wikilink")をまたぐ大型特別番組として[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で全国放送された。1992～1993年の年越しに始まった「TBS 21世紀プロジェクト」の[フィナーレ](https://ja.wikipedia.org/wiki/フィナーレ "wikilink")を飾る。
+『**SAMBA・TV**』（サンバ・ティービー）は、[2000年](../Page/2000年.md "wikilink")[12月30日](../Page/12月30日.md "wikilink")から[2001年](../Page/2001年.md "wikilink")[1月1日](../Page/1月1日.md "wikilink")の[20世紀](../Page/20世紀.md "wikilink")から[21世紀](../Page/21世紀.md "wikilink")をまたぐ大型特別番組として、[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](https://ja.wikipedia.org/wiki/Japan_News_Network "wikilink")）で全国放送された。1992年から1993年の年越しに始まった「TBS 21世紀プロジェクト」のフィナーレを飾る。
 
 ## 概要
 
-タイトルは前年に続いての38時間の連続特別放送（[年末長時間特別番組](../Page/年末長時間特別番組.md "wikilink")）であるということから、「38」を「[サンバ](../Page/サンバ.md "wikilink")」にかけたもの。 総合司会は前年の『[超える\!テレビ](../Page/超える!テレビ.md "wikilink")』に続いて[福留功男](../Page/福留功男.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が起用され、さらにスペシャルサポーターとして[モーニング娘。](../Page/モーニング娘。.md "wikilink")を抜擢した。
+タイトルは前年に続いての38時間の連続特別放送（[年末長時間特別番組](../Page/年末長時間特別番組.md "wikilink")）であるということから、「38」を「[サンバ](../Page/サンバ.md "wikilink")」にかけたもの。総合司会は前年の『[超える\!テレビ](../Page/超える!テレビ.md "wikilink")』に続いて[福留功男](../Page/福留功男.md "wikilink")・[薬丸裕英](../Page/薬丸裕英.md "wikilink")が起用され、さらにスペシャルサポーターとして[モーニング娘。](../Page/モーニング娘。.md "wikilink")を抜擢した。
 
-「20世紀の名番組丸ごと大集合\!」では当時放送中だった「[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")」に加え、「[クイズダービー](../Page/クイズダービー.md "wikilink")」「[クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")」「[ぴったしカン・カン](https://ja.wikipedia.org/wiki/ぴったしカン・カン "wikilink")」「[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")」などの過去のTBSの人気番組が生放送で復活した。
+「20世紀の名番組丸ごと大集合\!」では当時放送中だった『[関口宏の東京フレンドパークII](../Page/関口宏の東京フレンドパークII.md "wikilink")』に加え、『[クイズダービー](../Page/クイズダービー.md "wikilink")』『[クイズ100人に聞きました](../Page/クイズ100人に聞きました.md "wikilink")』『[ぴったしカン・カン](https://ja.wikipedia.org/wiki/ぴったしカン・カン "wikilink")』『[ザ・ベストテン](../Page/ザ・ベストテン.md "wikilink")』などの過去のTBSの人気番組が生放送で復活した。
 
 また毎年恒例の「[第42回輝く\!日本レコード大賞](https://ja.wikipedia.org/wiki/第42回日本レコード大賞 "wikilink")」「[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")年越しライブ」に加え、「20世紀のテレビ名場面」、「[ここがヘンだよ宇宙人](../Page/ここがヘンだよ日本人.md "wikilink")」、「[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")スペシャル」「[CDTV年越しライブ](../Page/COUNT_DOWN_TV.md "wikilink")」、「スポーツマン夢オークション」、「20世紀クイズ王決定戦」などが編成された。さらに年またぎの企画として中国・北京での『[ドミノ倒し](../Page/ドミノ倒し.md "wikilink")世界記録への挑戦\!』が生中継され、当時の世界記録を打ち立てた。
 
@@ -187,7 +187,9 @@
 
     、、のアジア3カ国の若者達が**21世紀を迎えると同時に世界新記録を祝う**と言う壮大なチャレンジに挑んだ。
 
-## 注釈
+## 脚注
+
+### 注釈
 
 ## 関連項目
 

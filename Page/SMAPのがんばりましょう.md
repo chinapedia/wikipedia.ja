@@ -58,9 +58,10 @@
 
 ## スタッフ
 
-  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[安達元一](../Page/安達元一.md "wikilink")
+  - 構成：[鈴木おさむ](../Page/鈴木おさむ.md "wikilink")、[安達元一](../Page/安達元一.md "wikilink")、[右近亨](https://ja.wikipedia.org/wiki/右近亨 "wikilink")、[野中浩之](https://ja.wikipedia.org/wiki/野中浩之 "wikilink")
   - AP：[黒木彰一](https://ja.wikipedia.org/wiki/黒木彰一 "wikilink")
-  - プロデューサー：[荒井昭博](../Page/荒井昭博.md "wikilink")
+  - ディレクター：[加茂裕治](../Page/加茂裕治.md "wikilink")、[代々木明徳](https://ja.wikipedia.org/wiki/代々木明徳 "wikilink")
+  - プロデューサー：[大前一彦](https://ja.wikipedia.org/wiki/大前一彦 "wikilink")、[荒井昭博](../Page/荒井昭博.md "wikilink")
   - 制作協力：[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")
   - 制作著作：[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビ "wikilink")
 

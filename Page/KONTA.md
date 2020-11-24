@@ -95,6 +95,10 @@
   - [遊☆戯☆王ゼアル デュエルターミナル](../Page/遊☆戯☆王ゼアル_デュエルターミナル.md "wikilink") - リシド 役
   - [ロリポップチェーンソー](https://ja.wikipedia.org/wiki/ロリポップチェーンソー "wikilink")（2012年、[角川ゲームス](https://ja.wikipedia.org/wiki/角川ゲームス "wikilink")） - ルイス・レジェンド 役
 
+### バラエティー
+
+  - 大人時間（2003年1月5日 - 2004年10月4日、[スカイパーフェクTV\!](../Page/スカパー!プレミアムサービス.md "wikilink") / [スカイパーフェクTV\!110](../Page/スカパー!_\(東経110度BS・CSデジタル放送\).md "wikilink")） - プロモーションチャンネル（[倶楽部スカパー\!TV](https://ja.wikipedia.org/wiki/倶楽部スカパー!TV "wikilink")、[スカパー\!110プロモ](https://ja.wikipedia.org/wiki/スカパー!110プロモ "wikilink")）で放送。
+
 ## ディスコグラフィー
 
 ### シングル

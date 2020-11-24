@@ -37,7 +37,7 @@
 
   - （Program Segment Prefix） - [MS-DOS](../Page/MS-DOS.md "wikilink")で、[プロセス](../Page/プロセス.md "wikilink")のデータ[セグメントの先頭](../Page/セグメント方式.md "wikilink")256バイトの領域のこと。[コマンドライン文字列などの情報が格納されている](../Page/コマンドラインインタプリタ.md "wikilink")。
 
-  - [ファンタシースターポータブル](../Page/ファンタシースターポータブル.md "wikilink")（Phantasy Star Portable） - セガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）製のPlayStation Portable用のゲームソフト。
+  - [ファンタシースターポータブル](../Page/ファンタシースターポータブル.md "wikilink")（Phantasy Star Portable） - [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")製のPlayStation Portable用のゲームソフト。
 
   - [PSP Audioware](https://ja.wikipedia.org/wiki/PSP_Audioware "wikilink") - 音楽制作用の[VSTプラグインソフトウェア開発会社](https://ja.wikipedia.org/wiki/Virtual_Studio_Technology "wikilink")
 

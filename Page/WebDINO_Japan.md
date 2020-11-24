@@ -54,12 +54,6 @@
 
 ## 脚注
 
-<div class="references-small">
-
-<references />
-
-</div>
-
 ## 外部リンク
 
   -
@@ -69,7 +63,7 @@
   -
   - [フォクすけの Firefox 情報局](http://foxkeh.jp/) 旧 フォクすけ＊ブログ
 
-[Category:Mozilla](https://ja.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:東京都中央区の一般社団法人](https://ja.wikipedia.org/wiki/Category:東京都中央区の一般社団法人 "wikilink")
+[Category:Mozilla](https://ja.wikipedia.org/wiki/Category:Mozilla "wikilink") [Category:東京都中央区の一般社団法人](https://ja.wikipedia.org/wiki/Category:東京都中央区の一般社団法人 "wikilink") [Category:2004年設立の組織](https://ja.wikipedia.org/wiki/Category:2004年設立の組織 "wikilink")
 
 1.
 2.

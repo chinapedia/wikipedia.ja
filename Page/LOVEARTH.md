@@ -275,6 +275,6 @@
 
   - [愛・地球博公式サイト](http://www.expo2005.or.jp/)
       - [FM LOVEARTH / CBC MUSIC LOVEARTH公式サイト](http://fm-lovearth.jp/)
-      - [FM LOVEARTH 公式ブログ / CBCラジオ LOVEARTH\&AM LOVEARTH公式ブログ](http://blog.excite.co.jp/lovearth/)
+      - [FM LOVEARTH 公式ブログ / CBCラジオ LOVEARTH\&AM LOVEARTH公式ブログ](https://blog.excite.co.jp/lovearth/)
 
 [Category:中部日本放送の歴史](https://ja.wikipedia.org/wiki/Category:中部日本放送の歴史 "wikilink") [Category:CBCラジオの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCラジオの番組の歴史 "wikilink") [Category:CBCテレビの番組の歴史](https://ja.wikipedia.org/wiki/Category:CBCテレビの番組の歴史 "wikilink") [Category:愛知万博](https://ja.wikipedia.org/wiki/Category:愛知万博 "wikilink")

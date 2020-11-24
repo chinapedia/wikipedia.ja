@@ -1,13 +1,13 @@
 > この記事は[カーグラフィックTV](https://ja.wikipedia.org/wiki/カーグラフィックTV)から翻訳されています。
 
 
-『**カーグラフィックTV**』 （カーグラフィックティービー、Car Graphic TV）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[テレビ番組](../Page/テレビ番組.md "wikilink")であり、[自動車](../Page/自動車.md "wikilink")に関する話題を扱っている。
-
-「[自動車雑誌](../Page/自動車雑誌.md "wikilink")『[カーグラフィック](../Page/カーグラフィック.md "wikilink")』 （2010年7月号より発行が[二玄社](../Page/二玄社.md "wikilink")→株式会社カーグラフィックとなった）の世界を[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")で表現している\[1\]」とされる。映像と共にBGMにもこだわりがみられ、インストゥルメンタルを中心に洋楽ポップスやロック、[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")、[フュージョンなどから選曲されている](../Page/フュージョン_\(音楽\).md "wikilink")。
-
-音楽プロデューサーであり、かつ自動車評論家でもある[松任谷正隆](../Page/松任谷正隆.md "wikilink")と『カーグラフィック』誌元編集部員の[田辺憲一](https://ja.wikipedia.org/wiki/田辺憲一 "wikilink")がレギュラー出演している。現在の番組は2001年から[独立放送局で放送開始され](../Page/全国独立放送協議会.md "wikilink")、2002年からは[ブロードバンド](https://ja.wikipedia.org/wiki/ブロードバンド "wikilink")でも配信されている\[2\]。番組の制作は、[BS朝日と](../Page/ビーエス朝日.md "wikilink")[ウインズモーメント](https://ja.wikipedia.org/wiki/ウインズモーメント "wikilink")社\[3\]。
+『**カーグラフィックTV**』 （カーグラフィックティービー、Car Graphic TV）は、[BS朝日と](../Page/ビーエス朝日.md "wikilink")[ウインズモーメント](https://ja.wikipedia.org/wiki/ウインズモーメント "wikilink")社\[1\]が制作する自動車の[テレビ番組](../Page/テレビ番組.md "wikilink")である。
 
 ## 概要
+
+「[自動車雑誌](../Page/自動車雑誌.md "wikilink")『[カーグラフィック](../Page/カーグラフィック.md "wikilink")』 （2010年7月号より発行が[二玄社](../Page/二玄社.md "wikilink")→株式会社カーグラフィックとなった）の世界を[映像](https://ja.wikipedia.org/wiki/映像 "wikilink")で表現している\[2\]」とされる。映像と共にBGMにもこだわりがみられ、インストゥルメンタルを中心に洋楽ポップスやロック、[スムーズジャズ](../Page/スムーズジャズ.md "wikilink")、[フュージョンなどから選曲されている](../Page/フュージョン_\(音楽\).md "wikilink")。
+
+音楽プロデューサーであり、かつ自動車評論家でもある[松任谷正隆](../Page/松任谷正隆.md "wikilink")と『カーグラフィック』誌元編集部員の[田辺憲一](https://ja.wikipedia.org/wiki/田辺憲一 "wikilink")がレギュラー出演している。2002年からは日本のテレビ番組としてはいち早く、インターネット配信を開始した。\[3\]。
 
 1984年10月5日に[テレビ朝日](../Page/テレビ朝日.md "wikilink")の番組として放送が開始されたが、2001年3月31日をもって16年間に及ぶ放送を終了した\[4\]。同年10月、テレビ朝日による制作が再開され、一部のテレビ朝日系列局や[首都圏などのUHF局での放送となった](../Page/首都圏_\(日本\).md "wikilink")。2002年からはブロードバンドによる配信も開始された\[5\]。
 
@@ -125,7 +125,7 @@
 
 ## 地上波での放送局
 
-  - [テレビ朝日系列](https://ja.wikipedia.org/wiki/All-nippon_News_Network "wikilink")
+  - [テレビ朝日系列](../Page/オールニッポン・ニュースネットワーク.md "wikilink")
 
 <!-- end list -->
 
@@ -209,9 +209,9 @@
   -
 [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:1984年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1984年のテレビ番組_\(日本\) "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:テレビ朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:テレビ朝日の情報・ワイドショー番組 "wikilink") [Category:テレビ朝日の深夜番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ朝日の深夜番組の歴史 "wikilink") [Category:BS朝日の情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:BS朝日の情報・ワイドショー番組 "wikilink") [Category:BS朝日の深夜番組](https://ja.wikipedia.org/wiki/Category:BS朝日の深夜番組 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
-1.  "「カーグラフィックTV」は、記事の内容・写真・デザインとも最高峰のクオリティを誇る本格的自動車雑誌「CG（カーグラフィック）」の世界を映像で表現した番組です。" 番組紹介 （カーグラフィックTV）、BS朝日公式ウェブサイト、2010年6月2日閲覧
-2.  カーグラフィックTV 公式ウェブサイト、[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")、2010年6月2日閲覧
-3.  カーグラフィックTV 公式ウェブサイト、BS朝日、2010年6月2日閲覧
+1.  カーグラフィックTV 公式ウェブサイト、BS朝日、2010年6月2日閲覧
+2.  "「カーグラフィックTV」は、記事の内容・写真・デザインとも最高峰のクオリティを誇る本格的自動車雑誌「CG（カーグラフィック）」の世界を映像で表現した番組です。" 番組紹介 （カーグラフィックTV）、BS朝日公式ウェブサイト、2010年6月2日閲覧
+3.  カーグラフィックTV 公式ウェブサイト、[テレ朝動画](https://ja.wikipedia.org/wiki/テレ朝動画 "wikilink")、2010年6月2日閲覧
 4.
 5.
 6.  [BS朝日](https://archives.bs-asahi.co.jp/cgtv/prg_20131009.html) - カーグラフィックTV

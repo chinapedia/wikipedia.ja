@@ -289,7 +289,9 @@
 
   - [フレデリック・アントネッティ](../Page/フレデリック・アントネッティ.md "wikilink") 2018-2019
 
-  - [ヴァンサン・オニョン](https://ja.wikipedia.org/wiki/ヴァンサン・オニョン "wikilink") 2019-
+  - [ヴァンサン・オニョン](https://ja.wikipedia.org/wiki/ヴァンサン・オニョン "wikilink") 2019-2020
+
+  - [フレデリック・アントネッティ](../Page/フレデリック・アントネッティ.md "wikilink") 2020-
 
 ## 歴代所属選手
 

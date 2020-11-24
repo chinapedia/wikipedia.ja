@@ -51,7 +51,7 @@
   - [広坂安伸](../Page/広坂安伸.md "wikilink")（現在[神戸局勤務](../Page/NHK神戸放送局.md "wikilink")）
   - [近藤敏之](../Page/近藤敏之.md "wikilink")（現在[NHK放送研修センター・日本語センター](../Page/NHK放送研修センター・日本語センター.md "wikilink")勤務　スポーツ中継からは一時引退）
   - [森中直樹](../Page/森中直樹.md "wikilink")（現・[東京アナウンス室](../Page/NHK放送センター.md "wikilink")[嘱託](https://ja.wikipedia.org/wiki/嘱託 "wikilink")勤務）
-  - [佐野仁美](https://ja.wikipedia.org/wiki/佐野仁美_\(シンガーソングライター\) "wikilink")　(現・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・オールウェーブ・アソシエツ所属)
+  - [佐野仁美](../Page/佐野仁美.md "wikilink")　(現・[フリーアナウンサー](../Page/フリーアナウンサー.md "wikilink")・オールウェーブ・アソシエツ所属)
 
 ## 脚注
 

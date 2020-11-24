@@ -860,8 +860,8 @@ Hidaka<small>（日高）</small></p></td>
 
   - [日本航空](../Page/日本航空.md "wikilink")で使用されていたDC-8-32「富士」号(JA8001)の前頭部が羽田空港にて保存されている。
   - [オービス・インターナショナル](../Page/オービス・インターナショナル.md "wikilink")で使用されていたDC-8-21(N220RB)が[中華人民共和国](../Page/中華人民共和国.md "wikilink")[北京](https://ja.wikipedia.org/wiki/北京 "wikilink")の[中国空軍航空博物館](../Page/中国空軍航空博物館.md "wikilink")にて保存されている。
-  - [フランス空軍](../Page/フランス空軍.md "wikilink")で使用されていたDC-8-33(F-RAFE)が[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")[パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[ル・ブルジェ航空宇宙博物館](../Page/ル・ブルジェ航空宇宙博物館.md "wikilink")にて保存されている。
-  - [ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")で使用されていたDC-8-52(N8066U)が[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink")[ロザンゼルス](https://ja.wikipedia.org/wiki/ロザンゼルス "wikilink")の[カリフォルニア・サイエンス・センター](https://ja.wikipedia.org/wiki/カリフォルニア・サイエンス・センター "wikilink")にて保存されている。
+  - [フランス空軍](../Page/フランス空軍.md "wikilink")で使用されていたDC-8-33(F-RAFE)が[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink") [パリ](https://ja.wikipedia.org/wiki/パリ "wikilink")の[ル・ブルジェ航空宇宙博物館](../Page/ル・ブルジェ航空宇宙博物館.md "wikilink")にて保存されている。
+  - [ユナイテッド航空](https://ja.wikipedia.org/wiki/ユナイテッド航空 "wikilink")で使用されていたDC-8-52(N8066U)が[アメリカ](https://ja.wikipedia.org/wiki/アメリカ "wikilink") [ロサンゼルス](../Page/ロサンゼルス.md "wikilink")の[カリフォルニア・サイエンス・センター](https://ja.wikipedia.org/wiki/カリフォルニア・サイエンス・センター "wikilink")にて保存されている。
   - [ATI](https://ja.wikipedia.org/wiki/ATI "wikilink")で使用されていたDC-8-62CF(N799AL)がアメリカ[ハワイ州](../Page/ハワイ州.md "wikilink")[オアフ島](../Page/オアフ島.md "wikilink")[カポレイ](https://ja.wikipedia.org/wiki/カポレイ "wikilink") のNaval Air Museum Barbers Pointにて保存されている。
   - 日本航空で使用されていたDC-8-61(JA8048)が中華人民共和国[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")の[上海航宇科普中心](https://ja.wikipedia.org/wiki/上海航宇科普中心 "wikilink")にて保存されている。同機は1982年に上海虹橋空港でオーバーラン事故を起こし、現地で登録を抹消されたものである。
 

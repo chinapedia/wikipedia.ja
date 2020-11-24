@@ -41,7 +41,7 @@
 
 2008年9月1日、チナワット会長はオーナー権を1年で[UAEの投資グループ](../Page/アラブ首長国連邦.md "wikilink")、（ADUG）に売却。ADUGのあり余る資金力を背景に、同年夏の移籍市場最終日に[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から[ロビーニョ](../Page/ロビーニョ.md "wikilink")を獲得し、翌年冬の移籍市場では当時史上最高額とも言われる移籍金で[ACミラン](https://ja.wikipedia.org/wiki/ACミラン "wikilink")から[カカの獲得を試み失敗するも](../Page/カカ_\(サッカー選手\).md "wikilink")、[ウェイン・ブリッジ](../Page/ウェイン・ブリッジ.md "wikilink")、[シェイ・ギヴン](../Page/シェイ・ギヴン.md "wikilink")、[クレイグ・ベラミー](../Page/クレイグ・ベラミー.md "wikilink")などの実力者を獲得した。しかし2008-09シーズンはプレミアリーグを10位、[UEFAカップをベスト](https://ja.wikipedia.org/wiki/UEFAカップ_2008-09 "wikilink")8で終えることとなり期待された結果とは程遠いものだった。
 
-2009年夏の移籍市場では再び巨額を投じ、[カルロス・テベス](../Page/カルロス・テベス.md "wikilink")、[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")、[コロ・トゥーレ](../Page/コロ・トゥーレ.md "wikilink")らプレミアリーグで実績を残している選手を中心に大規模な選手補強を行い、これまで[キャプテン](../Page/キャプテン.md "wikilink")を務めていた[リチャード・ダン](../Page/リチャード・ダン.md "wikilink")や主力であった[エラーノを放出してチームを編成し直した](../Page/エラーノ・ブルメル.md "wikilink")。2009-10シーズンは開幕から連勝を重ねて序盤は首位争いを演じるも、リーグ戦を7戦連続引き分けるなど徐々に調子を落とし、2009年12月21日にヒューズは解任。前[インテル監督の](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ロベルト・マンチーニ](../Page/ロベルト・マンチーニ.md "wikilink")を新監督として招聘した2010年冬の移籍市場では、[パトリック・ヴィエラ](../Page/パトリック・ヴィエラ.md "wikilink")、[アダム・ジョンソンらを獲得](https://ja.wikipedia.org/wiki/アダム・ジョンソン_\(サッカー選手\) "wikilink")。一方で負傷などによって調子を落としていたロビーニョを[サントスにレンタル移籍で放出した](../Page/サントスFC.md "wikilink")。マンチーニ監督就任後は守備を重視した戦術を浸透させ失点が減少、結果的には5位でのシーズン終了となり[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")は逃したものの、[UEFAヨーロッパリーグの出場権を獲得した](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11 "wikilink")。
+2009年夏の移籍市場では再び巨額を投じ、[カルロス・テベス](../Page/カルロス・テベス.md "wikilink")、[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")、[コロ・トゥーレ](../Page/コロ・トゥーレ.md "wikilink")らプレミアリーグで実績を残している選手を中心に大規模な選手補強を行い、これまで[キャプテンを務めていた](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink")[リチャード・ダン](../Page/リチャード・ダン.md "wikilink")や主力であった[エラーノを放出してチームを編成し直した](../Page/エラーノ・ブルメル.md "wikilink")。2009-10シーズンは開幕から連勝を重ねて序盤は首位争いを演じるも、リーグ戦を7戦連続引き分けるなど徐々に調子を落とし、2009年12月21日にヒューズは解任。前[インテル監督の](https://ja.wikipedia.org/wiki/インテルナツィオナーレ・ミラノ "wikilink")[ロベルト・マンチーニ](../Page/ロベルト・マンチーニ.md "wikilink")を新監督として招聘した2010年冬の移籍市場では、[パトリック・ヴィエラ](../Page/パトリック・ヴィエラ.md "wikilink")、[アダム・ジョンソンらを獲得](https://ja.wikipedia.org/wiki/アダム・ジョンソン_\(サッカー選手\) "wikilink")。一方で負傷などによって調子を落としていたロビーニョを[サントスにレンタル移籍で放出した](../Page/サントスFC.md "wikilink")。マンチーニ監督就任後は守備を重視した戦術を浸透させ失点が減少、結果的には5位でのシーズン終了となり[UEFAチャンピオンズリーグ](../Page/UEFAチャンピオンズリーグ.md "wikilink")は逃したものの、[UEFAヨーロッパリーグの出場権を獲得した](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11 "wikilink")。
 
 ### 2010年代
 
@@ -288,9 +288,9 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月18日](../Page/10月18日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))         ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★  ☆  ☆
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cote_d'Ivoire.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Turkey.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))         ☆  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Senegal.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))  ★   ☆  ☆
 
 ※括弧内の国旗はその他の保有国籍を、★はホーム・グロウン選手、☆はU-21登録選手を示す。
 
@@ -412,7 +412,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [ニコラス・オタメンディ](https://ja.wikipedia.org/wiki/ニコラス・オタメンディ "wikilink") 2015-2020
 
-  - [トシン・アダラビオヨ](https://ja.wikipedia.org/wiki/トシン・アダラビオヨ "wikilink") 2016-
+  - [トシン・アダラビオヨ](https://ja.wikipedia.org/wiki/トシン・アダラビオヨ "wikilink") 2016-2020
 
   - [ジョン・ストーンズ](https://ja.wikipedia.org/wiki/ジョン・ストーンズ "wikilink") 2016-
 
@@ -470,7 +470,7 @@ CLではグループステージでアタランタ、シャフタール・ドネ
 
   - [マルコス・ロペス](https://ja.wikipedia.org/wiki/マルコス・ロペス "wikilink") 2013-2015
 
-  -  2014-2015
+  - [ホセ・アンヘル・ポソ](https://ja.wikipedia.org/wiki/ホセ・アンヘル・ポソ "wikilink") 2014-2015
 
   - [フランク・ランパード](../Page/フランク・ランパード.md "wikilink") 2014-2015
 

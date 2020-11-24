@@ -35,8 +35,6 @@ ID3v1.1 形式
 
 80番以降はWinampで定義されたもの
 
-<div style="float:left;">
-
 <table>
 <thead>
 <tr class="header">
@@ -367,10 +365,6 @@ ID3v1.1 形式
 </tr>
 </tbody>
 </table>
-
-</div>
-
-<div style="float:left;">
 
 <table>
 <thead>
@@ -703,10 +697,6 @@ ID3v1.1 形式
 </tbody>
 </table>
 
-</div>
-
-<div style="float:left;">
-
 | \#  | ジャンル名                                                                               |
 | --- | ----------------------------------------------------------------------------------- |
 | 160 | [Electroclash](https://ja.wikipedia.org/wiki/Electroclash "wikilink")               |
@@ -741,10 +731,6 @@ ID3v1.1 形式
 | 189 | [Dubstep](https://ja.wikipedia.org/wiki/Dubstep "wikilink")                         |
 | 190 | [Garage Rock](https://ja.wikipedia.org/wiki/Garage_Rock "wikilink")                 |
 | 191 | [Psybient](https://ja.wikipedia.org/wiki/Psybient "wikilink")                       |
-
-</div>
-
-
 
 ### ID3v2
 

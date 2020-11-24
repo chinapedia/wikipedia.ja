@@ -248,7 +248,7 @@
 
   -
   -
-[Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本の放送事業者](https://ja.wikipedia.org/wiki/Category:日本の放送事業者 "wikilink") [Category:衛星一般放送事業者](https://ja.wikipedia.org/wiki/Category:衛星一般放送事業者 "wikilink") [Category:有線役務利用放送事業者](https://ja.wikipedia.org/wiki/Category:有線役務利用放送事業者 "wikilink") [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:東京都港区の企業](https://ja.wikipedia.org/wiki/Category:東京都港区の企業 "wikilink") [Category:大阪府発祥の企業](https://ja.wikipedia.org/wiki/Category:大阪府発祥の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
+[Category:USEN](https://ja.wikipedia.org/wiki/Category:USEN "wikilink") [Category:日本の電気通信事業者](https://ja.wikipedia.org/wiki/Category:日本の電気通信事業者 "wikilink") [Category:日本の放送事業者](https://ja.wikipedia.org/wiki/Category:日本の放送事業者 "wikilink") [Category:衛星一般放送事業者](https://ja.wikipedia.org/wiki/Category:衛星一般放送事業者 "wikilink") [Category:有線役務利用放送事業者](https://ja.wikipedia.org/wiki/Category:有線役務利用放送事業者 "wikilink") [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:品川区の企業](https://ja.wikipedia.org/wiki/Category:品川区の企業 "wikilink") [Category:大阪府発祥の企業](https://ja.wikipedia.org/wiki/Category:大阪府発祥の企業 "wikilink") [Category:1964年設立の企業](https://ja.wikipedia.org/wiki/Category:1964年設立の企業 "wikilink") [Category:2001年設立の企業](https://ja.wikipedia.org/wiki/Category:2001年設立の企業 "wikilink")
 
 1.
 2.

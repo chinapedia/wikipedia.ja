@@ -90,7 +90,7 @@ GTK 3.0.0は、修正されたインプットデバイスの取り扱いや、[C
   - [GNOMEオフィシャルサイト](https://www.gnome.org/)
   - [日本GNOMEユーザ会](http://www.gnome.gr.jp/)(APIリファレンス・チュートリアル等の日本語訳)
 
-[Category:GTK+](https://ja.wikipedia.org/wiki/Category:GTK+ "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:ソフトウェア開発ツール](https://ja.wikipedia.org/wiki/Category:ソフトウェア開発ツール "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:ウィジェット・ツールキット](https://ja.wikipedia.org/wiki/Category:ウィジェット・ツールキット "wikilink")
+[Category:GTK](https://ja.wikipedia.org/wiki/Category:GTK "wikilink") [Category:GNOME](https://ja.wikipedia.org/wiki/Category:GNOME "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:ソフトウェア開発ツール](https://ja.wikipedia.org/wiki/Category:ソフトウェア開発ツール "wikilink") [Category:API](https://ja.wikipedia.org/wiki/Category:API "wikilink") [Category:GNUプロジェクト](https://ja.wikipedia.org/wiki/Category:GNUプロジェクト "wikilink") [Category:ウィジェット・ツールキット](https://ja.wikipedia.org/wiki/Category:ウィジェット・ツールキット "wikilink")
 
 1.
 2.  [GTK+ renamed to GTK](https://lwn.net/Articles/779305/rss)

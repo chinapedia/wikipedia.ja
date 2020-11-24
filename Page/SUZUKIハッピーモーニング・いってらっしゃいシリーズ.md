@@ -222,23 +222,22 @@
 <td><p>『KNBモーニングすくらんぶる』内</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a>（TBC）</p></td>
+<td><p>[15]</p></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/ラジオ福島.md" title="wikilink">ラジオ福島</a>（rfc）</p></td>
 <td><p>8:35 - 8:40</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/レディ・オン" title="wikilink">レディ・オン</a>』内</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/南日本放送" title="wikilink">南日本放送</a>（MBC）</p></td>
 <td><p>『<a href="https://ja.wikipedia.org/wiki/モーニングスマイル" title="wikilink">モーニングスマイル</a>』内</p></td>
 <td></td>
-</tr>
-<tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
-<td><p><a href="../Page/東北放送.md" title="wikilink">東北放送</a>（TBC）</p></td>
-<td><p>8:37 - 8:42</p></td>
-<td><p>『<a href="https://ja.wikipedia.org/wiki/おはようワイド_Goodモーニング" title="wikilink">Goodモーニング 松尾です（月曜 - 水曜）<br />
-Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
@@ -286,3 +285,4 @@ Goodモーニング 守屋です（木曜・金曜）</a>』内</p></td>
 12.
 13.
 14. 2003年1月1 - 3日は、当時：ニッポン放送のアナウンサーで内包先番組のアシスタントだった[冨田憲子](../Page/冨田憲子.md "wikilink")が裏送りパーソナリティを担当。しかし、キー局であるニッポン放送は元旦、正月特番のため放送休止
+15. 2020年9月25日までは、『[おはようワイド Goodモーニング](https://ja.wikipedia.org/wiki/おはようワイド_Goodモーニング "wikilink")』に内包されていた（放送時間は、8:37 - 8:42）が、2020年9月28日より独立番組化し、現在の放送時間に移動。

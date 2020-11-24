@@ -51,7 +51,7 @@
 
 #### 2013-14シーズン
 
-2013年夏、チームの顔である[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")移籍の噂が大きく報道される中、移籍市場では積極的に動き、チームを強化するためこれまで主力選手だった、クリント・デンプシー、[トム・ハドルストーン](../Page/トム・ハドルストーン.md "wikilink")、[ジェイク・リヴァーモア](https://ja.wikipedia.org/wiki/ジェイク・リバモア "wikilink")、前主将の[ウィリアム・ギャラス](../Page/ウィリアム・ギャラス.md "wikilink")、さらには副主将のスコット・パーカーまでもを放出し、巨額の資金を投じてブラジル代表[パウリーニョやクラブ史上最高額の移籍金となる約](https://ja.wikipedia.org/wiki/ジョゼ・パウロ・ベセーラ・マシエル・ジュニオール "wikilink")3000万ユーロで、スペイン代表[ロベルト・ソルダード](../Page/ロベルト・ソルダード.md "wikilink")、ベルギー代表[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")、フランス代表[エティエンヌ・カプエ](https://ja.wikipedia.org/wiki/エティエンヌ・カプエ "wikilink")を獲得するなど大型補強を敢行した。2013-14シーズン開幕戦[クリスタル・パレス戦](../Page/クリスタル・パレスFC.md "wikilink")、第2節の[スウォンジー戦共に](../Page/スウォンジー・シティAFC.md "wikilink")、新加入のソルダードのPKでどちらも1-0で勝利し、幸先の良いスタートを切った。さらに補強の手を緩めず[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")、[クリスティアン・エリクセン](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")、[ヴラド・キリケシュ](https://ja.wikipedia.org/wiki/ヴラド・キリケシュ "wikilink")といった各国の代表クラスの選手を獲得し、この移籍市場での投資額は、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[パリ・サンジェルマンに次ぐと見られる約](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")160億円に上った。特にエリクセンの獲得はチームの攻撃に大きなオプションを与えた。そして9月1日にベイルを史上最高額の8500万ポンドでレアル・マドリードに売却することを発表\[10\]、背番号11番は[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")が受け継いだ\[11\]。
+2013年夏、チームの顔である[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")移籍の噂が大きく報道される中、移籍市場では積極的に動き、チームを強化するためこれまで主力選手だった、クリント・デンプシー、[トム・ハドルストーン](../Page/トム・ハドルストーン.md "wikilink")、[ジェイク・リヴァーモア](https://ja.wikipedia.org/wiki/ジェイク・リバモア "wikilink")、前主将の[ウィリアム・ギャラス](../Page/ウィリアム・ギャラス.md "wikilink")、さらには副主将のスコット・パーカーまでもを放出し、巨額の資金を投じてブラジル代表[パウリーニョや当時のクラブ史上最高額の移籍金となる約](https://ja.wikipedia.org/wiki/ジョゼ・パウロ・ベセーラ・マシエル・ジュニオール "wikilink")3000万ユーロで、スペイン代表[ロベルト・ソルダード](../Page/ロベルト・ソルダード.md "wikilink")、ベルギー代表[ナセル・シャドリ](https://ja.wikipedia.org/wiki/ナセル・シャドリ "wikilink")、フランス代表[エティエンヌ・カプエ](https://ja.wikipedia.org/wiki/エティエンヌ・カプエ "wikilink")を獲得するなど大型補強を敢行した。2013-14シーズン開幕戦[クリスタル・パレス戦](../Page/クリスタル・パレスFC.md "wikilink")、第2節の[スウォンジー戦共に](../Page/スウォンジー・シティAFC.md "wikilink")、新加入のソルダードのPKでどちらも1-0で勝利し、幸先の良いスタートを切った。さらに補強の手を緩めず[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")、[クリスティアン・エリクセン](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")、[ヴラド・キリケシュ](https://ja.wikipedia.org/wiki/ヴラド・キリケシュ "wikilink")といった各国の代表クラスの選手を獲得し、この移籍市場での投資額は、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")、[パリ・サンジェルマンに次ぐと見られる約](https://ja.wikipedia.org/wiki/パリ・サンジェルマンFC "wikilink")160億円に上った。特にエリクセンの獲得はチームの攻撃に大きなオプションを与えた。そして9月1日にベイルを史上最高額の8500万ポンドでレアル・マドリードに売却することを発表\[10\]、背番号11番は[エリク・ラメラ](https://ja.wikipedia.org/wiki/エリク・ラメラ "wikilink")が受け継いだ\[11\]。
 
 2013-14シーズンは前述の大型補強にも拘らず11月24日のマンチェスター・シティ戦で0-6の大敗、12月15日のリヴァプール戦で0-5の大敗を喫するなど調子が上がらず、12月16日にビラス・ボアスは解任された。後任として、[ティム・シャーウッド](https://ja.wikipedia.org/wiki/ティム・シャーウッド "wikilink")がアシスタントコーチから暫定監督を経て正式に監督に就任、ビラスボアス時代に冷遇されていた[エマニュエル・アデバヨール](../Page/エマニュエル・アデバヨール.md "wikilink")を起用して、彼が再びエースの地位を取り戻すチャンスを与えた。輝きを取り戻したアデバヨールに加え、エリクセン、レノンのコンディションも順調に整い、元日の[マンチェスター・ユナイテッドFC](../Page/マンチェスター・ユナイテッドFC.md "wikilink")戦で勝利するなどして短期間で一気に順位を上げる事に成功したが、その後も優勝争いには絡むことなく6位に終わりCL出場権を逃した。
 
@@ -97,11 +97,11 @@
 
 #### 2019-20シーズン
 
-[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていたエリクセンは残留した。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink")[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど絶不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[14\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[15\]｡モウリーニョ監督の初戦となったアウェイのウェストハム戦では3-2で勝利した。モウリーニョ政権初のCLかつホームゲームとなるグループB第5節オリンピアコス戦では、2点を先制されるも的確な交代策により4-2で逆転勝利し、この勝利によって決勝トーナメント進出を決めた。冬の移籍市場では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")から[ジェドソン・フェルナンデス](https://ja.wikipedia.org/wiki/ジェドソン・フェルナンデス "wikilink")、PSVから[ステーフェン・ベルフワイン](https://ja.wikipedia.org/wiki/ステーフェン・ベルフワイン "wikilink")を獲得し、レンタル加入していたロ・チェルソを完全移籍で獲得した。一方で、エリクセンはインテル・ミラノに完全移籍、ダニー・ローズがニューカッスル・ユナイテッドに、カイル・ウォーカー・ピータースがサウサンプトンにレンタル移籍した。20年1月1日のリーグ第21節サウサンプトン戦にて、エースのケインが左足ハムストリング断裂の重傷を負い、試合にも0-1で敗れた。さらに2月16日の第26節アストン・ヴィラ戦では降格圏のクラブ相手に苦戦を強いられ、94分にソンが相手のミスを突いて決勝ゴールを挙げ3-2で勝利したが、この試合の序盤に腕を骨折していたソンは試合後戦線離脱し、チームは主要得点源の2選手を同時に失った。次戦はチャンピオンズリーグのラウンド16でドイツ・ブンデスリーガの[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")と対戦し、好調の相手にホームでの1stレグを落とした。2ndレグまでの期間に、[FAカップ](../Page/FAカップ.md "wikilink")では5回戦で[ノリッジ・シティと対戦し](../Page/ノリッジ・シティFC.md "wikilink")、勝ちきれずPK戦に持ち込まれ、PKストッパーとして知られる相手GKティム・クルルの活躍により敗れた。また、3試合行われたリーグ戦でも一度も勝てず、タイトルに最後の望みを繋いだライプツィヒ戦2ndレグは3-0で完敗し無冠が決定した。6試合連続勝利なしの苦境の中、新型コロナウイルス感染拡大によりリーグ戦が中断。3ヶ月の中断期間にケインを含む多くの負傷者が復帰し、再開初戦のマンチェスター・ユナイテッド戦は引き分けたが、次戦のウェストハム戦では実に10試合ぶりのクリーンシートを達成し2-0で勝利した。次節シェフィールドU戦には敗れたものの、最終的に再開後9試合を5勝3分1敗で乗り切り、最終節でウォルバーハンプトンをまくって6位に滑り込み来季のヨーロッパリーグ出場権を確定させた。シーズン終了後、ヤン・フェルトンゲンとミシェル・フォルムの退団が発表された。
+トッテナム史上最高額の移籍金で[リヨンから](../Page/オリンピック・リヨン.md "wikilink")[タンギ・エンドンベレ](https://ja.wikipedia.org/wiki/タンギ・エンドンベレ "wikilink")、[べティスからレンタルで](../Page/レアル・ベティス.md "wikilink")[ジオヴァニ・ロ・チェルソ](https://ja.wikipedia.org/wiki/ジオヴァニ・ロ・チェルソ "wikilink")などを獲得した。[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")への移籍が取り沙汰されていた[エリクセンは残留した](https://ja.wikipedia.org/wiki/クリスティアン・エリクセン "wikilink")。前年以上の成績が期待されたが、リーグ戦では12節終了時点で3勝5分4敗の14位に沈み、[チャンピオンズリーグでは](https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2019-20 "wikilink")[バイエルンにホームで](https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン "wikilink")2-7で敗れるなど絶不調に陥った。11月19日、[マウリシオ・ポチェッティーノ](https://ja.wikipedia.org/wiki/マウリシオ・ポチェッティーノ "wikilink")監督が解任され\[14\]、後任に[ジョゼ・モウリーニョ](../Page/ジョゼ・モウリーニョ.md "wikilink")が就任した\[15\]｡モウリーニョ監督の初戦となったアウェイのウェストハム戦では3-2で勝利した。モウリーニョ政権初のCLかつホームゲームとなる[オリンピアコス戦では](https://ja.wikipedia.org/wiki/オリンピアコスFC "wikilink")、2点を先制されるも的確な交代策により4-2で逆転勝利し、この勝利によって決勝トーナメント進出を決めた。冬の移籍市場では、[SLベンフィカ](../Page/SLベンフィカ.md "wikilink")から[ジェドソン・フェルナンデス](https://ja.wikipedia.org/wiki/ジェドソン・フェルナンデス "wikilink")、PSVから[ステーフェン・ベルフワイン](https://ja.wikipedia.org/wiki/ステーフェン・ベルフワイン "wikilink")を獲得し、レンタル加入していたロ・チェルソを完全移籍で獲得した。一方で、エリクセンはインテル・ミラノに完全移籍、ダニー・ローズがニューカッスル・ユナイテッドに、カイル・ウォーカー・ピータースがサウサンプトンにレンタル移籍した。20年1月1日、第21節サウサンプトン戦にて、エースのケインが左足ハムストリング断裂の重傷を負い、試合にも0-1で敗れた。さらに2月16日の第26節アストン・ヴィラ戦では降格圏のクラブ相手に苦戦を強いられ、94分にソンが相手のミスを突いて決勝ゴールを挙げ3-2で勝利したが、この試合の序盤に腕を骨折していたソンは試合後戦線離脱し、チームは主要得点源の2選手を同時に失った。次戦はチャンピオンズリーグのラウンド16でドイツ・ブンデスリーガの[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")と対戦し、好調の相手にホームでの1stレグを落とした。2ndレグまでの期間に、[FAカップ](../Page/FAカップ.md "wikilink")では5回戦で[ノリッジ・シティと対戦し](../Page/ノリッジ・シティFC.md "wikilink")、勝ちきれずPK戦に持ち込まれ、PKストッパーとして知られる相手GKティム・クルルの活躍により敗れた。また、3試合行われたリーグ戦でも一度も勝てず、タイトルに最後の望みを繋いだライプツィヒ戦2ndレグは3-0で完敗し無冠が決定した。6試合連続勝利なしの苦境の中、新型コロナウイルス感染拡大によりリーグ戦が中断。3ヶ月の中断期間にケインを含む多くの負傷者が復帰し、再開初戦のマンチェスター・ユナイテッド戦は引き分けたが、次戦のウェストハム戦では実に10試合ぶりのクリーンシートを達成し2-0で勝利した。次節シェフィールドU戦には敗れたものの、最終的に再開後9試合を5勝3分1敗で乗り切り、最終節でウォルバーハンプトンをまくって6位に滑り込み来季のヨーロッパリーグ出場権を確定させた。シーズン終了後、ヤン・フェルトンゲンとミシェル・フォルムの退団が発表された。
 
 #### 2020-21シーズン
 
-前シーズンの[サウサンプトン主将](../Page/サウサンプトンFC.md "wikilink")[ピエール=エミール・ホイビュアをはじめ](https://ja.wikipedia.org/wiki/ピエール・エミール・ホイビュルク "wikilink")、[バーンリーから](../Page/バーンリーFC.md "wikilink")[ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink")、[ウルブズから](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink")[マット・ドハーティ](https://ja.wikipedia.org/wiki/マット・ドハーティ "wikilink")などを獲得した。また、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から買い戻しオプション付きの完全移籍で[セルヒオ・レギロン](https://ja.wikipedia.org/wiki/セルヒオ・レギロン "wikilink")を、延長オプション付きの1年間のレンタルで[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")を獲得し、ベイルは7年ぶりに古巣へと復帰することとなった\[16\]\[17\]。
+[サウサンプトンの主将を務めていた](../Page/サウサンプトンFC.md "wikilink")[ピエール・エミール・ホイビュルク](https://ja.wikipedia.org/wiki/ピエール・エミール・ホイビュルク "wikilink")や、[バーンリーから](../Page/バーンリーFC.md "wikilink")[ジョー・ハート](https://ja.wikipedia.org/wiki/ジョー・ハート "wikilink")、[ウルブズから](../Page/ウルヴァーハンプトン・ワンダラーズFC.md "wikilink")[マット・ドハーティ](https://ja.wikipedia.org/wiki/マット・ドハーティ "wikilink")を獲得した。また、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から買い戻しオプション付きの完全移籍で[セルヒオ・レギロン](https://ja.wikipedia.org/wiki/セルヒオ・レギロン "wikilink")を、1年間のレンタルで[ガレス・ベイル](../Page/ガレス・ベイル.md "wikilink")を獲得し、ベイルは7年ぶりに古巣へと復帰することとなった\[16\]\[17\]。更に昨シーズンにベンフィカで公式戦24得点をマークした[カルロス・ヴィニシウスをレンタル移籍で獲得した](https://ja.wikipedia.org/wiki/カルロス・ヴィニシウス・ダ・ポーズ・アウヴェス・モライス "wikilink")\[18\]。さらに国内移籍市場の終了直前には[チャンピオンシップの](../Page/EFLチャンピオンシップ.md "wikilink")[スウォンジー・シティから](../Page/スウォンジー・シティAFC.md "wikilink")[ジョー・ロドン](https://ja.wikipedia.org/wiki/ジョー・ロドン "wikilink")を獲得し、近年にないレベルの大型補強を敢行した夏となった。9月13日のリーグ開幕節[エヴァートン戦に敗れ](../Page/エヴァートンFC.md "wikilink")15-16シーズン以来の黒星スタートを切ったが、その後は10月の国際Aマッチウィークまで[ヨーロッパリーグ予選や](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21 "wikilink")[EFLカップ](../Page/EFLカップ.md "wikilink")など1週間に4試合ペースの超過密日程(計8試合)を無敗で乗り切るなど持ち直した。なお、8戦目の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")第4節オールドトラッフォードでのマンチェスター・ユナイテッド戦では6-1での歴史的勝利を収めている。
 
 ## ユニフォーム
 
@@ -128,23 +128,23 @@
   - **2006-2010:** Mansion.com Casino & Poker
   - **2010-2013:** [Autonomy](https://ja.wikipedia.org/wiki/HP_オートノミー "wikilink")（リーグ戦）、Investec Bank（ヨーロッパカップ戦）
   - **2013-2014:** ヒューレット・パッカード（リーグ戦、HPがAutonomyを買収したことにより14年ぶりに復帰）、[AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")（ヨーロッパカップ戦）
-  - **2014-:** [AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")\[18\]
+  - **2014-:** [AIA Group Limited](https://ja.wikipedia.org/wiki/:en:American_International_Assurance "wikilink")\[19\]
 
 ## ダービーマッチ
 
-同じ北ロンドンに本拠を構えるクラブ同士として[アーセナルとは激しいライバル関係にあり](../Page/アーセナルFC.md "wikilink")、サポーター同士のいがみ合いが強く両者の間には争いごとが絶えない。それをよく象徴するのがかつて同クラブに移籍した[ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink")に対してトッテナムファンが[ユダと呼んだという出来事である](../Page/イスカリオテのユダ.md "wikilink")。両チームの対戦は[ノース・ロンドン・ダービー](../Page/ノース・ロンドン・ダービー.md "wikilink")と呼ばれ、[マンチェスター・ダービー](../Page/マンチェスター・ダービー.md "wikilink")、[マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")と並び、リーグの三大[ダービーの一つに数えられている](../Page/ダービーマッチ.md "wikilink")。同じロンドンを本拠地とする[チェルシーや](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ウェストハム・ユナイテッドとの対戦も](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink")[ロンドン・ダービー](https://ja.wikipedia.org/wiki/ロンドン・ダービー "wikilink")の一つである\[19\]。
+同じ北ロンドンに本拠を構えるクラブ同士として[アーセナルとは激しいライバル関係にあり](../Page/アーセナルFC.md "wikilink")、サポーター同士のいがみ合いが強く両者の間には争いごとが絶えない。それをよく象徴するのがかつて同クラブに移籍した[ソル・キャンベル](../Page/ソル・キャンベル.md "wikilink")に対してトッテナムファンが[ユダと呼んだという出来事である](../Page/イスカリオテのユダ.md "wikilink")。両チームの対戦は[ノース・ロンドン・ダービー](../Page/ノース・ロンドン・ダービー.md "wikilink")と呼ばれ、[マンチェスター・ダービー](../Page/マンチェスター・ダービー.md "wikilink")、[マージーサイド・ダービー](../Page/マージーサイド・ダービー.md "wikilink")と並び、リーグの三大[ダービーの一つに数えられている](../Page/ダービーマッチ.md "wikilink")。同じロンドンを本拠地とする[チェルシーや](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[ウェストハム・ユナイテッドとの対戦も](https://ja.wikipedia.org/wiki/ウェストハム・ユナイテッドFC "wikilink")[ロンドン・ダービー](https://ja.wikipedia.org/wiki/ロンドン・ダービー "wikilink")の一つである\[20\]。
 
 ## サポーター
 
 [220px](https://ja.wikipedia.org/wiki/ファイル:Min_of_Silence_v_Wigan.jpg "wikilink")\]\]
 
-イギリス、主に北ロンドンと[ホーム・カウンティーズ](https://ja.wikipedia.org/wiki/ホーム・カウンティーズ "wikilink")に多くのファンを持つ。1946年から1969年の間に5度、イングランドにおける平均観客動員数で最多となった\[20\]\[21\]。2008-09プレミリーグにおける平均観客動員数は第9位であった\[22\]。世界中にトッテナムのサポーターズクラブが存在し、特にクラブの歴史的なサポーターには[アルフレッド・エイヤー](../Page/アルフレッド・エイヤー.md "wikilink")などがいる\[23\]\[24\]。トッテナムのサポーターは主にロンドン地域内の複数のクラブとライバル関係にあり、最大のライバルは共に北ロンドンを本拠地とする[アーセナルである](../Page/アーセナルFC.md "wikilink")。
+イギリス、主に北ロンドンと[ホーム・カウンティーズ](https://ja.wikipedia.org/wiki/ホーム・カウンティーズ "wikilink")に多くのファンを持つ。1946年から1969年の間に5度、イングランドにおける平均観客動員数で最多となった\[21\]\[22\]。2008-09プレミリーグにおける平均観客動員数は第9位であった\[23\]。世界中にトッテナムのサポーターズクラブが存在し、特にクラブの歴史的なサポーターには[アルフレッド・エイヤー](../Page/アルフレッド・エイヤー.md "wikilink")などがいる\[24\]\[25\]。トッテナムのサポーターは主にロンドン地域内の複数のクラブとライバル関係にあり、最大のライバルは共に北ロンドンを本拠地とする[アーセナルである](../Page/アーセナルFC.md "wikilink")。
 
-トッテナムには他のロンドンの多くのクラブと同様に、多くの[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")サポーターがおり、これがサポーターに対する[反セム主義的な挑発につながっている](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")\[25\]\[26\]。トッテナムサポーターはこれに対抗してユダヤ人も非ユダヤ人も自分達を「イーズ（Yids）」と称する。[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")への侮蔑語である「イード（Yid）」は、スパーズの本拠地周辺がユダヤ人の多く住む地域であることに対し、口汚い相手ファンからの嘲りの言葉として使われ始めたが、やがてスパーズファンはそれを逆手に取って、誇らしげに自称するようになった。自称「イード」の大半はおそらく本当のユダヤ人ではないが、厳密な定義は必要とされず、彼らはドイツ人の[ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")がチームに所属した時も「Chimm-chimminee, chim-chimminee, chim-chim-churoo, Juergen was a German, but now he’s a Jew（ユルゲンはドイツ人だったが、今ではユダヤ人だ）」という[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")を[チム・チム・チェリー](https://ja.wikipedia.org/wiki/チム・チム・チェリー "wikilink")の節で唄った\[27\]。
+トッテナムには他のロンドンの多くのクラブと同様に、多くの[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")サポーターがおり、これがサポーターに対する[反セム主義的な挑発につながっている](https://ja.wikipedia.org/wiki/反ユダヤ主義 "wikilink")\[26\]\[27\]。トッテナムサポーターはこれに対抗してユダヤ人も非ユダヤ人も自分達を「イーズ（Yids）」と称する。[ユダヤ人](https://ja.wikipedia.org/wiki/ユダヤ人 "wikilink")への侮蔑語である「イード（Yid）」は、スパーズの本拠地周辺がユダヤ人の多く住む地域であることに対し、口汚い相手ファンからの嘲りの言葉として使われ始めたが、やがてスパーズファンはそれを逆手に取って、誇らしげに自称するようになった。自称「イード」の大半はおそらく本当のユダヤ人ではないが、厳密な定義は必要とされず、彼らはドイツ人の[ユルゲン・クリンスマン](../Page/ユルゲン・クリンスマン.md "wikilink")がチームに所属した時も「Chimm-chimminee, chim-chimminee, chim-chim-churoo, Juergen was a German, but now he’s a Jew（ユルゲンはドイツ人だったが、今ではユダヤ人だ）」という[チャント](https://ja.wikipedia.org/wiki/チャント "wikilink")を[チム・チム・チェリー](https://ja.wikipedia.org/wiki/チム・チム・チェリー "wikilink")の節で唄った\[28\]。
 
-ユダヤ人団体や反人種差別団体からは「イード」の使用が[人種差別](../Page/人種差別.md "wikilink")を助長していると考えて、スパーズファンに自制を求める声もあるが、スパーズファンは自分たちが使用する「イード」はまったく無害なものだと考えている\[28\]。
+ユダヤ人団体や反人種差別団体からは「イード」の使用が[人種差別](../Page/人種差別.md "wikilink")を助長していると考えて、スパーズファンに自制を求める声もあるが、スパーズファンは自分たちが使用する「イード」はまったく無害なものだと考えている\[29\]。
 
-著名人のファンとしては元プロサッカー選手の父親を持つ[NBA](../Page/NBA.md "wikilink")の[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")、水泳選手の[イアン・ソープ](../Page/イアン・ソープ.md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")の[ジョニー・バックランド](../Page/ジョニー・バックランド.md "wikilink")、[WWE](../Page/WWE.md "wikilink")所属のプロレスラー[フィン・ベイラー](https://ja.wikipedia.org/wiki/フィン・ベイラー "wikilink")等が知られている。また、俳優の[ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")もスタンド観戦する姿を度々中継カメラに捉えられている。『[007 スカイフォール](https://ja.wikipedia.org/wiki/007_スカイフォール "wikilink")』の主題歌でオスカーを受賞した[アデルもスタジアムに足繁く通い](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")、インタビューにも「私は偽物じゃない。本物のファンよ」と発言している\[29\]。
+著名人のファンとしては元プロサッカー選手の父親を持つ[NBA](../Page/NBA.md "wikilink")の[スティーブ・ナッシュ](../Page/スティーブ・ナッシュ.md "wikilink")、水泳選手の[イアン・ソープ](../Page/イアン・ソープ.md "wikilink")、[コールドプレイ](../Page/コールドプレイ.md "wikilink")の[ジョニー・バックランド](../Page/ジョニー・バックランド.md "wikilink")、[WWE](../Page/WWE.md "wikilink")所属のプロレスラー[フィン・ベイラー](https://ja.wikipedia.org/wiki/フィン・ベイラー "wikilink")等が知られている。また、俳優の[ジュード・ロウ](../Page/ジュード・ロウ.md "wikilink")もスタンド観戦する姿を度々中継カメラに捉えられている。『[007 スカイフォール](https://ja.wikipedia.org/wiki/007_スカイフォール "wikilink")』の主題歌でオスカーを受賞した[アデルもスタジアムに足繁く通い](https://ja.wikipedia.org/wiki/アデル_\(歌手\) "wikilink")、インタビューにも「私は偽物じゃない。本物のファンよ」と発言している\[30\]。
 
 ## タイトル
 
@@ -248,7 +248,7 @@
 
 ## 現所属メンバー
 
-  - 2019-20シーズン 基本フォーメーション
+  - 2020-21シーズン 基本フォーメーション
 
 <div style="position: relative">
 
@@ -256,9 +256,9 @@
 
 </div>
 
-  - [2020年](../Page/2020年.md "wikilink")[9月19日](../Page/9月19日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink")) ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Nigeria.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Suriname.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_São_Tomé_and_Príncipe.svg "wikilink"))   ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -276,27 +276,19 @@
 
   - out
 
+### 未登録の選手
+
 ### リザーブ & アカデミー
 
 ## 歴代監督
 
 ## 歴代所属選手
 
-### GK
-
-  - [アルフィー・ホワイトマン](https://ja.wikipedia.org/wiki/アルフィー・ホワイトマン "wikilink") 2016- (U-23)
-
-### DF
-
-### MF
-
-### FW
-
-## 脚注
-
 ## 参考文献
 
   - フランクリン・フォア『サッカーが世界を解明する』「第3章 ユダヤ人問題」[白水社](../Page/白水社.md "wikilink")、2006年。ISBN 4-560-04975-0
+
+## 脚注
 
 ## 外部リンク
 
@@ -331,15 +323,16 @@
 15.
 16.
 17.
-18. [AIAとの長期パートナーシップが始まる](http://spurs.sc/news/2014/02/011188.html)spurs japan 2014年2月11日
-19. [Rivalry uncovered\! The results of the largest ever survey into club rivalries](http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf) , The Football Fans Census. Retrieved 30 January 2008
-20.
+18.
+19. [AIAとの長期パートナーシップが始まる](http://spurs.sc/news/2014/02/011188.html)spurs japan 2014年2月11日
+20. [Rivalry uncovered\! The results of the largest ever survey into club rivalries](http://www.footballfanscensus.com/issueresults/Club_Rivalries_Uncovered_Results.pdf) , The Football Fans Census. Retrieved 30 January 2008
 21.
-22. [Statistics](http://www.premierleague.com/page/Statistics/0,,12306,00.html)  FA Premier League
-23. *Key thinkers in linguistics and the philosophy of language*, Edinburgh University Press, 2005, By Siobhan Chapman, page 22
-24. [Notable Spurs supporters](http://www.mehstg.com/fans.htm) Retrieved 26 August 2011
-25.
+22.
+23. [Statistics](http://www.premierleague.com/page/Statistics/0,,12306,00.html)  FA Premier League
+24. *Key thinkers in linguistics and the philosophy of language*, Edinburgh University Press, 2005, By Siobhan Chapman, page 22
+25. [Notable Spurs supporters](http://www.mehstg.com/fans.htm) Retrieved 26 August 2011
 26.
 27.
 28.
-29. 我が心のクラブを持つセレブリティたち『[Number PLUS](../Page/Sports_Graphic_Number.md "wikilink")』2013年10月1日号
+29.
+30. 我が心のクラブを持つセレブリティたち『[Number PLUS](../Page/Sports_Graphic_Number.md "wikilink")』2013年10月1日号

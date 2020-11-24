@@ -593,12 +593,12 @@
 <td><p><a href="../Page/札幌テレビ放送.md" title="wikilink">札幌テレビ</a></p></td>
 <td><p>金曜 17:00 - 17:30</p></td>
 <td><p>日本テレビ系列</p></td>
-<td><p>先送り[3]</p></td>
+<td><p>先行ネット[3]</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/熊本県民テレビ.md" title="wikilink">熊本県民テレビ</a></p></td>
-<td><p>先送り。[4]</p></td>
+<td><p>先行ネット[4]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -817,7 +817,7 @@
 
 1.  [ファミコンを題材にしたアニメ「Bugってハニー」30周年記念上映会、地上波再放が決定](http://animeanime.jp/article/2016/10/03/30748.html)
 2.  『[アニメディア](../Page/アニメディア.md "wikilink") 1987年10月号』　1987年、[学研パブリッシング](https://ja.wikipedia.org/wiki/学研パブリッシング "wikilink")、テレビ局ネットワーク pp.79 - 81
-3.  北海道新聞テレビ欄より
-4.  熊本日日新聞テレビ欄より
+3.
+4.
 5.  『[北國新聞](https://ja.wikipedia.org/wiki/北國新聞 "wikilink")』1986年12月10日 - 1988年1月13日付朝刊、テレビ欄。
 6.  『北國新聞』1987年4月12日付朝刊、テレビ欄。

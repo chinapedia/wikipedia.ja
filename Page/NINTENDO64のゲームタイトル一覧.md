@@ -6,7 +6,7 @@
 全世界6カ国では、日本国内が208本、北米が388本、ヨーロッパが242本と合計838タイトルのソフトが発売された。
 
   -
-    [64DD](../Page/64DD.md "wikilink")専用ソフトは●、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトは★を表記（[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")も参照）。
+    [64DD](../Page/64DD.md "wikilink")専用ソフトは●、[Wii](https://ja.wikipedia.org/wiki/Wii "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトは★を表記（[バーチャルコンソールのゲームタイトル一覧](https://ja.wikipedia.org/wiki/バーチャルコンソールのゲームタイトル一覧 "wikilink")も参照）、[Wii U](https://ja.wikipedia.org/wiki/Wii_U "wikilink")[バーチャルコンソール](../Page/バーチャルコンソール.md "wikilink")対応ソフトは**U**を表記。
 
 ## 1996年（全10タイトル）
 
@@ -16,7 +16,7 @@
   - 9月27日 [ウェーブレース](../Page/ウェーブレース.md "wikilink")64（任天堂）
   - 11月22日 [ワンダープロジェクトJ2 コルロの森のジョゼット](../Page/ワンダープロジェクトJ2_コルロの森のジョゼット.md "wikilink")（[エニックス](https://ja.wikipedia.org/wiki/エニックス "wikilink")、コントローラーパック同梱）
   - 11月29日 [栄光のセントアンドリュース](https://ja.wikipedia.org/wiki/栄光のセントアンドリュース "wikilink")（セタ）
-  - 12月14日 [マリオカート64](../Page/マリオカート64.md "wikilink")（任天堂、コントローラー・グレー&ブラック同梱）★
+  - 12月14日 [マリオカート64](../Page/マリオカート64.md "wikilink")（任天堂、コントローラー・グレー&ブラック同梱）★\[U\]
   - 12月20日 [超空間ナイター プロ野球キング](../Page/超空間ナイター_プロ野球キング.md "wikilink")（イマジニア）
   - 12月20日 [実況Jリーグ パーフェクトストライカー](https://ja.wikipedia.org/wiki/実況Jリーグ_パーフェクトストライカー "wikilink")（[コナミ](https://ja.wikipedia.org/wiki/コナミ "wikilink")）
   - 12月20日 [麻雀MASTER](https://ja.wikipedia.org/wiki/麻雀MASTER "wikilink")（コナミ）
@@ -29,13 +29,13 @@
   - 3月28日 [JリーグLIVE64](https://ja.wikipedia.org/wiki/JリーグLIVE64 "wikilink")（[エレクトロニック・アーツ](../Page/エレクトロニック・アーツ.md "wikilink")・ビクター）
   - 3月28日 [ヒューマングランプリ ザ・ニュージェネレーション](https://ja.wikipedia.org/wiki/ヒューマングランプリ_ザ・ニュージェネレーション "wikilink")（ヒューマン）
   - 4月4日 [麻雀64](https://ja.wikipedia.org/wiki/麻雀64 "wikilink")（[光栄](../Page/コーエー.md "wikilink")）
-  - 4月27日 [スターフォックス64](../Page/スターフォックス64.md "wikilink")（任天堂、振動パック同梱）★
+  - 4月27日 [スターフォックス64](../Page/スターフォックス64.md "wikilink")（任天堂、振動パック同梱）★\[U\]
   - 5月30日 [時空戦士テュロック](https://ja.wikipedia.org/wiki/時空戦士テュロック "wikilink")（[アクレイムジャパン](https://ja.wikipedia.org/wiki/アクレイムジャパン "wikilink")）
   - 6月14日 [スター・ウォーズ 帝国の影](../Page/スター・ウォーズ_帝国の影.md "wikilink")（任天堂）
   - 6月27日 [ゆけゆけ\!\!トラブルメーカーズ](../Page/ゆけゆけ!!トラブルメーカーズ.md "wikilink")（エニックス）
   - 7月18日 [マルチレーシングチャンピオンシップ](https://ja.wikipedia.org/wiki/マルチレーシングチャンピオンシップ "wikilink")（[イマジニア](../Page/イマジニア.md "wikilink")）
-  - 7月18日 [ウェーブレース 振動パック対応バージョン](../Page/ウェーブレース.md "wikilink")64（任天堂）★
-  - 7月18日 [スーパーマリオ64 振動パック対応バージョン](../Page/スーパーマリオ64.md "wikilink")（任天堂）★
+  - 7月18日 [ウェーブレース 振動パック対応バージョン](../Page/ウェーブレース.md "wikilink")64（任天堂）★\[U\]
+  - 7月18日 [スーパーマリオ64 振動パック対応バージョン](../Page/スーパーマリオ64.md "wikilink")（任天堂）★\[U\]
   - 7月25日 [雀豪シミュレーション 麻雀道64](https://ja.wikipedia.org/wiki/雀豪シミュレーション_麻雀道64 "wikilink")（[ビデオシステム](../Page/ビデオシステム.md "wikilink")）
   - 8月1日 [麻雀放浪記CLASSIC](https://ja.wikipedia.org/wiki/麻雀放浪記CLASSIC "wikilink")（イマジニア）
   - 8月1日 [Doom 64](../Page/Doom_64.md "wikilink")（[ゲームバンク](https://ja.wikipedia.org/wiki/ゲームバンク "wikilink")）
@@ -44,7 +44,7 @@
   - 8月23日 [ゴールデンアイ 007](../Page/ゴールデンアイ_007.md "wikilink")（任天堂）
   - 9月5日 [Jリーグダイナマイトサッカー64](https://ja.wikipedia.org/wiki/Jリーグダイナマイトサッカー64 "wikilink")（イマジニア）
   - 9月18日 [実況ワールドサッカー](https://ja.wikipedia.org/wiki/実況ワールドサッカー "wikilink")3（コナミ）
-  - 9月26日 [爆ボンバーマン](../Page/爆ボンバーマン.md "wikilink")（ハドソン）
+  - 9月26日 [爆ボンバーマン](../Page/爆ボンバーマン.md "wikilink")（ハドソン）\[U\]
   - 10月24日 [Jリーグイレブンビート1997](https://ja.wikipedia.org/wiki/Jリーグイレブンビート1997 "wikilink")（ハドソン）
   - 10月31日 [ぷよぷよSUN](../Page/ぷよぷよSUN.md "wikilink")64（[コンパイル](../Page/コンパイル_\(企業\).md "wikilink")）
   - 11月21日 [プロ麻雀 極64](../Page/極_\(麻雀ゲーム\).md "wikilink")（[アテナ](../Page/アテナ_\(ゲーム会社\).md "wikilink")）
@@ -64,7 +64,7 @@
   - 12月19日 [バーチャル・プロレスリング](../Page/バーチャル・プロレスリング.md "wikilink")64（[アスミック](../Page/アスミック・エース.md "wikilink")）
   - 12月19日 [ウッチャンナンチャンの炎のチャレンジャー 電流イライラ棒](../Page/イライラ棒.md "wikilink")（ハドソン）
   - 12月19日 [64で発見\!\!たまごっち みんなでたまごっちワールド](../Page/64で発見!!たまごっち_みんなでたまごっちワールド.md "wikilink")（[バンダイ](../Page/バンダイ.md "wikilink")）
-  - 12月21日 [ヨッシーストーリー](../Page/ヨッシーストーリー.md "wikilink")（任天堂）★
+  - 12月21日 [ヨッシーストーリー](../Page/ヨッシーストーリー.md "wikilink")（任天堂）★\[U\]
   - 12月26日 [遙かなるオーガスタ MASTERS'98](../Page/遙かなるオーガスタ.md "wikilink")（[ティーアンドイーソフト](../Page/T&E_SOFT.md "wikilink")）
 
 ## 1998年（全54タイトル）
@@ -73,7 +73,7 @@
   - 1月29日 [NBA IN THE ZONE'98](https://ja.wikipedia.org/wiki/NBA_IN_THE_ZONE "wikilink")（コナミ）
   - 1月30日 [シムシティ2000](../Page/シムシティ2000.md "wikilink")（イマジニア）
   - 2月28日 [ウェイン・グレツキー 3Dホッケー](https://ja.wikipedia.org/wiki/ウェイン・グレツキー_3Dホッケー "wikilink")（[ゲームバンク](https://ja.wikipedia.org/wiki/ゲームバンク "wikilink")）
-  - 2月28日 [テン・エイティ スノーボーディング](../Page/テン・エイティ_スノーボーディング.md "wikilink")（任天堂）★
+  - 2月28日 [テン・エイティ スノーボーディング](../Page/テン・エイティ_スノーボーディング.md "wikilink")（任天堂）★\[U\]
   - 3月19日 [ソニックウイングス アサルト](../Page/ソニックウィングス.md "wikilink")（ビデオシステム）
   - 3月26日 [G.A.S.P\!\! Fighters' NEXTream](https://ja.wikipedia.org/wiki/G.A.S.P!!_Fighters'_NEXTream "wikilink")（コナミ）
   - 3月26日 [実況パワフルプロ野球5](../Page/実況パワフルプロ野球5.md "wikilink")（コナミ）
@@ -89,7 +89,7 @@
   - 6月4日 [実況ワールドサッカー ワールドカップフランス'98](https://ja.wikipedia.org/wiki/実況ワールドサッカー "wikilink")（コナミ）
   - 6月26日 [デザエモン3D](https://ja.wikipedia.org/wiki/デザエモン#デザエモン3D "wikilink")（[アテナ](../Page/アテナ_\(ゲーム会社\).md "wikilink")）
   - 7月10日 [スターソルジャー バニシングアース](../Page/スターソルジャー.md "wikilink")（ハドソン）
-  - 7月14日 [F-ZERO X](../Page/F-ZERO_X.md "wikilink")（任天堂）★
+  - 7月14日 [F-ZERO X](../Page/F-ZERO_X.md "wikilink")（任天堂）★\[U\]
   - 7月16日 [オリンピックホッケー ナガノ98](https://ja.wikipedia.org/wiki/オリンピックホッケー_ナガノ98 "wikilink")（コナミ）
   - 7月17日 [チョロQ64](../Page/チョロQ_\(ゲーム\).md "wikilink")（[タカラ](../Page/タカラトミー.md "wikilink")）
   - 7月17日 [スーパーロボットスピリッツ](../Page/スーパーロボットスピリッツ.md "wikilink")（[バンプレスト](../Page/バンプレスト.md "wikilink")）
@@ -103,7 +103,7 @@
   - 10月30日 [CITY TOUR GRANDPRIX 全日本GT選手権](https://ja.wikipedia.org/wiki/CITY_TOUR_GRANDPRIX_全日本GT選手権 "wikilink")（イマジニア）
   - 11月13日 [テトリス](../Page/テトリス.md "wikilink")64（セタ）
   - 11月20日 [マジカルテトリスチャレンジ featuring ミッキー](../Page/テトリス.md "wikilink")（[カプコン](../Page/カプコン.md "wikilink")）
-  - 11月21日 [ゼルダの伝説 時のオカリナ](https://ja.wikipedia.org/wiki/ゼルダの伝説_時のオカリナ "wikilink")（任天堂）★
+  - 11月21日 [ゼルダの伝説 時のオカリナ](https://ja.wikipedia.org/wiki/ゼルダの伝説_時のオカリナ "wikilink")（任天堂）★\[U\]
   - 11月27日 [ウェットリス](https://ja.wikipedia.org/wiki/ウェットリス "wikilink")（イマジニア）
   - 11月27日 [ナイフエッジ ノーズガンナー](https://ja.wikipedia.org/wiki/ナイフエッジ_ノーズガンナー "wikilink")（コトブキシステム）
   - 11月27日 [ぬし釣り64](https://ja.wikipedia.org/wiki/ぬし釣り64 "wikilink")（[ビクターインタラクティブソフトウェア](https://ja.wikipedia.org/wiki/マーベラスインタラクティブ "wikilink")）
@@ -130,7 +130,7 @@
   - 1月21日 [ニンテンドウオールスター\!大乱闘スマッシュブラザーズ](../Page/ニンテンドウオールスター!大乱闘スマッシュブラザーズ.md "wikilink")（任天堂）★
   - 1月29日 [SD飛龍の拳伝説](../Page/飛龍の拳.md "wikilink")（カルチャーブレーン）
   - 1月29日 [Parlor\!PRO64 パチンコ実機シミュレーションゲーム](https://ja.wikipedia.org/wiki/Parlor!PRO64_パチンコ実機シミュレーションゲーム "wikilink")（[日本テレネット](../Page/日本テレネット_\(ゲーム会社\).md "wikilink")）
-  - 2月5日 [牧場物語2](../Page/牧場物語2.md "wikilink")（ビクターインタラクティブソフトウェア）
+  - 2月5日 [牧場物語2](../Page/牧場物語2.md "wikilink")（ビクターインタラクティブソフトウェア）\[U\]
   - 2月19日 [超スノボキッズ](../Page/スノボキッズ.md "wikilink")（アトラス）
   - 3月5日 [パズルボブル64](../Page/パズルボブル3.md "wikilink")（タイトー）
   - 3月11日 [悪魔城ドラキュラ黙示録](../Page/悪魔城ドラキュラ黙示録.md "wikilink")（コナミ）
@@ -138,7 +138,7 @@
   - 3月19日 [超空間ナイター プロ野球キング2](../Page/超空間ナイター_プロ野球キング.md "wikilink")（イマジニア）
   - 3月19日 [トップギア オーバードライブ](https://ja.wikipedia.org/wiki/トップギア_オーバードライブ "wikilink")（コトブキシステム）
   - 3月19日 [64大相撲](../Page/64大相撲.md "wikilink")2（[ボトムアップ](../Page/ボトムアップ.md "wikilink")）
-  - 3月21日 [ポケモンスナップ](https://ja.wikipedia.org/wiki/ポケモンスナップ "wikilink")（任天堂）★
+  - 3月21日 [ポケモンスナップ](https://ja.wikipedia.org/wiki/ポケモンスナップ "wikilink")（任天堂）★\[U\]
   - 3月25日 [実況パワフルプロ野球6](../Page/実況パワフルプロ野球6.md "wikilink")（コナミ）
   - 3月26日 [スーパーボウリング](https://ja.wikipedia.org/wiki/スーパーボウリング "wikilink")（[アテナ](../Page/アテナ_\(ゲーム会社\).md "wikilink")）
   - 4月9日 [おねがいモンスター](https://ja.wikipedia.org/wiki/おねがいモンスター "wikilink")（[ボトムアップ](../Page/ボトムアップ.md "wikilink")）
@@ -147,11 +147,11 @@
   - 5月28日 [ラストレジオンUX](https://ja.wikipedia.org/wiki/ラストレジオンUX "wikilink")（ハドソン）
   - 6月3日 [NBA IN THE ZONE2](https://ja.wikipedia.org/wiki/NBA_IN_THE_ZONE "wikilink")（コナミ）
   - 6月11日 [ズール 魔獣使い伝説](https://ja.wikipedia.org/wiki/ズール_魔獣使い伝説 "wikilink")（イマジニア）
-  - 6月11日 [マリオゴルフ](../Page/マリオゴルフ.md "wikilink")64（任天堂）★
+  - 6月11日 [マリオゴルフ](../Page/マリオゴルフ.md "wikilink")64（任天堂）★\[U\]
   - 6月18日 [バイオレンスキラー TUROK NEW GENERATION](https://ja.wikipedia.org/wiki/バイオレンスキラー_TUROK_NEW_GENERATION "wikilink")（アクレイムジャパン）
   - 6月25日 [新世紀エヴァンゲリオン](../Page/新世紀エヴァンゲリオン_\(NINTENDO64\).md "wikilink")（バンダイ）
   - 7月9日 [エルテイルモンスターズ](../Page/エルテイルモンスターズ.md "wikilink")（イマジニア）
-  - 7月14日 [オウガバトル64 Person of Lordly Caliber](../Page/オウガバトル64.md "wikilink")（任天堂）★
+  - 7月14日 [オウガバトル64 Person of Lordly Caliber](../Page/オウガバトル64.md "wikilink")（任天堂）★\[U\]
   - 7月16日 [PDウルトラマンバトルコレクション64](../Page/PDウルトラマンバトルコレクション64.md "wikilink")（バンダイ）
   - 7月21日 [スター・ウォーズ エピソード1 レーサー](https://ja.wikipedia.org/wiki/スター・ウォーズ "wikilink")（任天堂）
   - 7月29日 [実況Jリーグ1999 パーフェクトストライカー2](https://ja.wikipedia.org/wiki/実況Jリーグ1999_パーフェクトストライカー2 "wikilink")（コナミ）
@@ -176,10 +176,10 @@
   - 12月3日 [ぷよぷよ〜ん](../Page/ぷよぷよ〜ん.md "wikilink")パーティー（コンパイル）
   - 12月3日 [爆ボンバーマン2](../Page/爆ボンバーマン2.md "wikilink")（ハドソン）
   - 12月8日 [カスタムロボ](../Page/カスタムロボ.md "wikilink")（任天堂）
-  - 12月10日 [ドンキーコング64](../Page/ドンキーコング64.md "wikilink")（任天堂、メモリー拡張パック同梱）
+  - 12月10日 [ドンキーコング64](../Page/ドンキーコング64.md "wikilink")（任天堂、メモリー拡張パック同梱）\[U\]
   - 12月11日 [巨人のドシン](../Page/巨人のドシン.md "wikilink")1（[ランドネットDD](../Page/ランドネットディディ.md "wikilink")）●
   - 12月11日 [マリオアーティスト ペイントスタジオ](https://ja.wikipedia.org/wiki/マリオアーティストシリーズ#ペイントスタジオ "wikilink")（ランドネットDD、NINTENDO64マウス同梱）●
-  - 12月17日 [マリオパーティ2](../Page/マリオパーティ2.md "wikilink")（任天堂）★
+  - 12月17日 [マリオパーティ2](../Page/マリオパーティ2.md "wikilink")（任天堂）★\[U\]
   - 12月24日 [チョロQ64 2 ハチャメチャグランプリレース](../Page/チョロQ_\(ゲーム\).md "wikilink")（タカラ）
   - 12月24日 [ロボットポンコッツ 七つの海のカラメル](../Page/ロボットポンコッツ.md "wikilink")64（ハドソン）
   - 12月25日 [悪魔城ドラキュラ黙示録外伝 LEGEND OF CORNELL](../Page/悪魔城ドラキュラ黙示録外伝_LEGEND_OF_CORNELL.md "wikilink")（コナミ）
@@ -194,31 +194,31 @@
   - 2月23日 [ランドネットディスク](https://ja.wikipedia.org/wiki/ランドネット#ランドネットディスクで利用できるサービス "wikilink")（ランドネットDD）●
   - 2月23日 [マリオアーティスト タレントスタジオ](https://ja.wikipedia.org/wiki/マリオアーティストシリーズ#タレントスタジオ "wikilink")（任天堂、NINTENDO64マイク、キャプチャーカセット同梱）●
   - 3月17日 [トップギア・ハイパーバイク](https://ja.wikipedia.org/wiki/トップギア・ハイパーバイク "wikilink")（コトブキシステム）
-  - 3月24日 [星のカービィ64](https://ja.wikipedia.org/wiki/星のカービィ64 "wikilink")（任天堂、256MB）★
+  - 3月24日 [星のカービィ64](https://ja.wikipedia.org/wiki/星のカービィ64 "wikilink")（任天堂、256MB）★\[U\]
   - 3月31日 [糸井重里のバス釣りNo.1 決定版\!](../Page/糸井重里のバス釣りNo.1.md "wikilink")（任天堂）
   - 4月7日 [ガントレットレジェンド](../Page/ガントレット_\(ゲーム\).md "wikilink")（エポック社）
   - 4月7日 [大刀 DAIKATANA](../Page/大刀_\(ゲーム\).md "wikilink")（コトブキシステム）
   - 4月21日 [忍たま乱太郎 ゲームギャラリー](../Page/忍たま乱太郎.md "wikilink")64（カルチャーブレーン）
   - 4月21日 [井出洋介](../Page/井出洋介.md "wikilink")の麻雀塾（セタ）
   - 4月21日 [F-ZERO X エクスパンションキット](https://ja.wikipedia.org/wiki/F-ZERO_X_エクスパンションキット "wikilink")（任天堂）●
-  - 4月27日 [ゼルダの伝説 ムジュラの仮面](https://ja.wikipedia.org/wiki/ゼルダの伝説_ムジュラの仮面 "wikilink")（任天堂、メモリー拡張パック同梱版あり）★
+  - 4月27日 [ゼルダの伝説 ムジュラの仮面](https://ja.wikipedia.org/wiki/ゼルダの伝説_ムジュラの仮面 "wikilink")（任天堂、メモリー拡張パック同梱版あり）★\[U\]
   - 4月28日 [バスラッシュ ～ECOGEAR PowerWorm Championship～](https://ja.wikipedia.org/wiki/バスラッシュ_～ECOGEAR_PowerWorm_Championship～ "wikilink")（[ビスコ](../Page/ビスコ_\(ゲーム会社\).md "wikilink")）
   - 4月29日 [実況パワフルプロ野球2000](../Page/実況パワフルプロ野球2000.md "wikilink")（コナミ）
   - 5月2日 [日本プロゴルフツアー64](https://ja.wikipedia.org/wiki/日本プロゴルフツアー64 "wikilink")（[メディアファクトリー](../Page/メディアファクトリー.md "wikilink")）●
   - 5月17日 [巨人のドシン解放戦線チビッコチッコ大集合](https://ja.wikipedia.org/wiki/巨人のドシン#巨人のドシン解放戦線チビッコチッコ大集合 "wikilink")（ランドネットDD）●
   - 5月26日 [ぬし釣り64 -潮風にのって-](../Page/ぬし釣りシリーズ.md "wikilink")（ビクターインタラクティブソフトウェア）
-  - 6月23日 [エキサイトバイク64](../Page/エキサイトバイク64.md "wikilink")（任天堂）
+  - 6月23日 [エキサイトバイク64](../Page/エキサイトバイク64.md "wikilink")（任天堂）\[U\]
   - 6月29日 [マリオアーティスト コミュニケーションキット](https://ja.wikipedia.org/wiki/マリオアーティストシリーズ#コミュニケーションキット "wikilink")（ランドネットDD）●
   - 7月13日 [がんばれ\!ニッポン\!オリンピック2000](../Page/ハイパーオリンピック.md "wikilink")（コナミ）
-  - 7月21日 [マリオテニス64](../Page/マリオテニス64.md "wikilink")（任天堂）★
+  - 7月21日 [マリオテニス64](../Page/マリオテニス64.md "wikilink")（任天堂）★\[U\]
   - 7月28日 [ドラえもん3 のび太の町SOS\!](../Page/ドラえもん3_のび太の町SOS!.md "wikilink")（エポック社）
-  - 8月11日 [マリオストーリー](../Page/マリオストーリー.md "wikilink")（任天堂）★
+  - 8月11日 [マリオストーリー](../Page/マリオストーリー.md "wikilink")（任天堂）★\[U\]
   - 8月29日 [マリオアーティスト ポリゴンスタジオ](https://ja.wikipedia.org/wiki/マリオアーティストシリーズ#ポリゴンスタジオ "wikilink")（ランドネットDD）●
   - 9月15日 [WWFレッスルマニア2000](../Page/バーチャル・プロレスリング.md "wikilink")（[アスミック・エースエンタテインメント](https://ja.wikipedia.org/wiki/アスミック・エースエンタテインメント "wikilink")）
   - 9月27日 [不思議のダンジョン 風来のシレン2 鬼襲来\!シレン城\!](../Page/不思議のダンジョン_風来のシレン2_鬼襲来!シレン城!.md "wikilink")（任天堂）
   - 10月21日 [パーフェクトダーク](../Page/パーフェクトダーク.md "wikilink")（任天堂、メモリー拡張パック同梱版あり）
-  - 11月10日 [カスタムロボ](../Page/カスタムロボ.md "wikilink")V2（任天堂）★
-  - 11月21日 [罪と罰 〜地球の継承者〜](../Page/罪と罰_〜地球の継承者〜.md "wikilink")（任天堂）★
+  - 11月10日 [カスタムロボ](../Page/カスタムロボ.md "wikilink")V2（任天堂）★\[U\]
+  - 11月21日 [罪と罰 〜地球の継承者〜](../Page/罪と罰_〜地球の継承者〜.md "wikilink")（任天堂）★\[U\]
   - 11月22日 [ロックマンDASH 鋼の冒険心](../Page/ロックマンDASH_鋼の冒険心.md "wikilink")（[カプコン](../Page/カプコン.md "wikilink")）
   - 11月27日 [バンジョーとカズーイの大冒険2](../Page/バンジョーとカズーイの大冒険2.md "wikilink")（任天堂）
   - 11月30日 [DANCE DANCE REVOLUTION ディズニーダンシングミュージアム](https://ja.wikipedia.org/wiki/Dance_Dance_Revolution "wikilink")（コナミ）

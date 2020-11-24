@@ -37,14 +37,10 @@
 ## 外部リンク
 
   - [ハイパー道楽](https://www.hyperdouraku.com)
-
-:\* [ビンテージ エアガン レビュー](http://www.hyperdouraku.com/vintage/) 写真&解説　小堀ダイスケ
-
-::\* [2020/04/12|「JAC　ブッシュマスター」](http://www.hyperdouraku.com/vintage/jac_bushmaster/index.html)
-
-::\* [2019/05/04|「アサヒファイヤーアームズ　ブッシュマスター ウルトラカスタム」](http://www.hyperdouraku.com/vintage/af_bushmaster-uc/index.html)
-
-:\* [2013.07.25|レトロGUN 「JAC バトル・マスター」](https://www.hyperdouraku.com/blog/2013/07/25/rg-jac_battlemaster/)
+      - [ビンテージ エアガン レビュー](http://www.hyperdouraku.com/vintage/) 写真&解説　小堀ダイスケ
+          - [2020/04/12|「JAC　ブッシュマスター」](http://www.hyperdouraku.com/vintage/jac_bushmaster/index.html)
+          - [2019/05/04|「アサヒファイヤーアームズ　ブッシュマスター ウルトラカスタム」](http://www.hyperdouraku.com/vintage/af_bushmaster-uc/index.html)
+      - [2013.07.25|レトロGUN 「JAC バトル・マスター」](https://www.hyperdouraku.com/blog/2013/07/25/rg-jac_battlemaster/)
 
 [Category:遊戯銃](https://ja.wikipedia.org/wiki/Category:遊戯銃 "wikilink")
 

@@ -204,7 +204,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/トゥルー・ビリーヴァー/はぐれ弁護士の執念" title="wikilink">トゥルー・ビリーヴァー/はぐれ弁護士の執念</a><br />
 <em><a href="https://ja.wikipedia.org/wiki/:en:True_Believer_(1989_film)" title="wikilink">True Believer</a></em></p></td>
-<td><p>ロジャー</p></td>
+<td><p>ロジャー・バロン</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -222,14 +222,14 @@
 <td><p>1991</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ストレンジ・ピープル" title="wikilink">ストレンジ・ピープル</a><br />
 <em><a href="https://ja.wikipedia.org/wiki/:en:Too_Much_Sun" title="wikilink">Too Much Sun</a></em></p></td>
-<td><p>リード</p></td>
+<td><p>リード・リッチモンド</p></td>
 <td><p>ロバート・ダウニー・Sr.監督作品</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ソープディッシュ" title="wikilink">ソープディッシュ</a><br />
 <em>Soapdish</em></p></td>
-<td><p>デビッド</p></td>
+<td><p>デビッド・シートン・バーンズ</p></td>
 <td></td>
 <td><p><a href="../Page/牛山茂.md" title="wikilink">牛山茂</a></p></td>
 <td></td>
@@ -676,16 +676,16 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p>2021</p></td>
 <td><p><em>All-Star Weekend</em></p></td>
-<td></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td><p>2021</p></td>
 <td><p><em>Sherlock Holmes 3</em></p></td>
 <td><p>シャーロック・ホームズ</p></td>
+<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -755,7 +755,7 @@
 <em>The Chef Show</em></p></td>
 <td><p>本人</p></td>
 <td><p><a href="../Page/Netflix.md" title="wikilink">Netflix</a>オリジナル作品<br />
-第1シーズン第2話「アベンジャーズとアトランタ」</p></td>
+「アベンジャーズとアトランタ」</p></td>
 <td><p>藤原啓治</p></td>
 </tr>
 </tbody>

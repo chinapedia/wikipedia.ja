@@ -35,10 +35,10 @@
 ## 外部リンク
 
   -
-[Category:電気自動車](https://ja.wikipedia.org/wiki/Category:電気自動車 "wikilink") [Category:かつて存在した日本の自動車メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の自動車メーカー "wikilink") [Category:タカラトミーの歴史](https://ja.wikipedia.org/wiki/Category:タカラトミーの歴史 "wikilink") [Category:いすみ市の企業](https://ja.wikipedia.org/wiki/Category:いすみ市の企業 "wikilink")
+[Category:日本の電気自動車](https://ja.wikipedia.org/wiki/Category:日本の電気自動車 "wikilink") [Category:かつて存在した日本の自動車メーカー](https://ja.wikipedia.org/wiki/Category:かつて存在した日本の自動車メーカー "wikilink") [Category:タカラトミーの歴史](https://ja.wikipedia.org/wiki/Category:タカラトミーの歴史 "wikilink") [Category:いすみ市の企業](https://ja.wikipedia.org/wiki/Category:いすみ市の企業 "wikilink")
 
 1.
 2.
 3.
 4.  [コックス Q-CARメンテナンス受付ページ](http://www.cox.co.jp/cqmotors/)
-5.  [ITmedia Gamez 2002年10月31日](http://gamez.itmedia.co.jp/games/gsnews/0210/31/news13.html)
+5.

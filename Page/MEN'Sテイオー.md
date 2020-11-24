@@ -211,4 +211,8 @@
 
 以上「ん」を除く47文字のプロレス技を残り4秒で全てやり遂げた。
 
+## 脚注
+
+## 外部リンク
+
 [Category:日本のプロレスラー](https://ja.wikipedia.org/wiki/Category:日本のプロレスラー "wikilink") [Category:ジュニアヘビー級のプロレスラー](https://ja.wikipedia.org/wiki/Category:ジュニアヘビー級のプロレスラー "wikilink") [Category:ユニバーサル・プロレスリングに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:ユニバーサル・プロレスリングに所属したプロレスラー "wikilink") [Category:みちのくプロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:みちのくプロレスに所属したプロレスラー "wikilink") [Category:大日本プロレスに所属したプロレスラー](https://ja.wikipedia.org/wiki/Category:大日本プロレスに所属したプロレスラー "wikilink") [Category:WWEに参戦したプロレスラー](https://ja.wikipedia.org/wiki/Category:WWEに参戦したプロレスラー "wikilink") [Category:新日本プロレス](https://ja.wikipedia.org/wiki/Category:新日本プロレス "wikilink") [Category:ユニオンプロレス](https://ja.wikipedia.org/wiki/Category:ユニオンプロレス "wikilink") [Category:プロレス実況者](https://ja.wikipedia.org/wiki/Category:プロレス実況者 "wikilink") [Category:東海大学出身の人物](https://ja.wikipedia.org/wiki/Category:東海大学出身の人物 "wikilink") [Category:東京都区部出身の人物](https://ja.wikipedia.org/wiki/Category:東京都区部出身の人物 "wikilink") [Category:1966年生](https://ja.wikipedia.org/wiki/Category:1966年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

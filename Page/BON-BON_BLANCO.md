@@ -244,8 +244,10 @@ COCP-32627 DVD付</p></td>
 
 ## 外部リンク
 
-  -
+  - [Columbia Music Entertainmentによる公式プロフィール](https://columbia.jp/~bbb/)
 
+  -
+  -
 [Category:スペースクラフト](https://ja.wikipedia.org/wiki/Category:スペースクラフト "wikilink") [Category:過去のビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:過去のビーイング系列所属者 "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:2002年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2002年に結成した音楽グループ "wikilink") [Category:2009年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2009年に解散した音楽グループ "wikilink")
 
 1.  「POCO BONITA CARNIVAL」（東京お台場・[スタジオドリームメーカー](https://ja.wikipedia.org/wiki/スタジオドリームメーカー "wikilink")にて2002年9月28日開催）告知フライヤーに記載のプロフィールによる。

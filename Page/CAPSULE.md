@@ -22,7 +22,7 @@
 
 また、[中田ヤスタカ](https://ja.wikipedia.org/wiki/中田ヤスタカ "wikilink")がサウンドプロデュースをしている[Perfume](https://ja.wikipedia.org/wiki/Perfume "wikilink")はアルバム『[GAME](../Page/GAME_\(Perfumeのアルバム\).md "wikilink")』、『[⊿](https://ja.wikipedia.org/wiki/⊿_\(アルバム\) "wikilink")』、『[JPN](https://ja.wikipedia.org/wiki/JPN_\(アルバム\) "wikilink")』やシングル「[love the world](https://ja.wikipedia.org/wiki/love_the_world "wikilink")」、「[ワンルーム・ディスコ](https://ja.wikipedia.org/wiki/ワンルーム・ディスコ "wikilink")」などでオリコンチャート初登場1位にランクインしている\[5\]\[6\]\[7\]\[8\]\[9\]。
 
-その他、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")\[10\]、[COLTEMONIKHA](../Page/COLTEMONIKHA.md "wikilink")のサウンドプロデュース、[MEG](https://ja.wikipedia.org/wiki/MEG "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")等各種アーティストへの楽曲提供・リミキサーとしても参加。
+その他、[きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")\[10\]、[COLTEMONIKHA](../Page/COLTEMONIKHA.md "wikilink")のサウンドプロデュース、[MEG](https://ja.wikipedia.org/wiki/MEG_\(歌手・ファッションデザイナー\) "wikilink")、[SMAP](../Page/SMAP.md "wikilink")、[m-flo](https://ja.wikipedia.org/wiki/m-flo "wikilink")、[青山テルマ](https://ja.wikipedia.org/wiki/青山テルマ "wikilink")、[鈴木亜美](https://ja.wikipedia.org/wiki/鈴木亜美 "wikilink")、[リア・ディゾン](../Page/リア・ディゾン.md "wikilink")等各種アーティストへの楽曲提供・リミキサーとしても参加。
 
 2013年秋に[ワーナーミュージック・ジャパン](../Page/ワーナーミュージック・ジャパン.md "wikilink")（[unBORDE](https://ja.wikipedia.org/wiki/unBORDE "wikilink")）へ移籍するとともに、表記を大文字の「CAPSULE」に変更\[11\]。
 

@@ -34,7 +34,7 @@
   - [カルト・バンケール](https://ja.wikipedia.org/wiki/カルト・バンケール "wikilink") () - フランスの[銀行間ネットワーク](../Page/銀行のオンラインシステム.md "wikilink")
   - [CB型潜水艦](https://ja.wikipedia.org/wiki/CB型潜水艦 "wikilink") () - イタリアの第二次世界大戦期の小型潜水艦
   - [セルブロードキャスト](https://ja.wikipedia.org/wiki/セルブロードキャスト "wikilink") () - [アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[第3世代携帯電話](https://ja.wikipedia.org/wiki/第3世代携帯電話 "wikilink")規格
-  - [御殿場線](https://ja.wikipedia.org/wiki/御殿場線 "wikilink")の[路線記号](../Page/駅ナンバリング.md "wikilink")
+  - [鉄道](../Page/鉄道.md "wikilink")の[サインシステム](../Page/サインシステム.md "wikilink")において、[JR](https://ja.wikipedia.org/wiki/JR東海 "wikilink")[御殿場線](https://ja.wikipedia.org/wiki/御殿場線 "wikilink") (**C**entral) の[路線記号](https://ja.wikipedia.org/wiki/路線記号 "wikilink")として用いられる。
 
 ### その他
 

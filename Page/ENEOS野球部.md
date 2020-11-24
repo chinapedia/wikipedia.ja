@@ -176,6 +176,7 @@
   - [若林晃弘](https://ja.wikipedia.org/wiki/若林晃弘 "wikilink")（内野手） - 2017年ドラフト6位で[読売ジャイアンツ](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")に入団
   - [左澤優](https://ja.wikipedia.org/wiki/左澤優 "wikilink")（投手） - ドラフト6位で[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")に入団
   - [鈴木健矢](../Page/鈴木健矢.md "wikilink")（投手） - ドラフト4位で北海道日本ハムファイターズに入団
+  - [藤井聖](https://ja.wikipedia.org/wiki/藤井聖 "wikilink")（投手） - ドラフト3位で東北楽天ゴールデンイーグルスに指名
 
 ## 元プロ野球選手の競技者登録
 

@@ -260,4 +260,4 @@ Windows Mobile 6.5.3
     [【GSMA Mobile World Congress 2009】 米マイクロソフト、スペインで「Windows Mobile 6.5」発表](http://k-tai.impress.co.jp/cda/article/event/44097.html)
     Windows Mobile 6.5の発表（英語）[Microsoft Reveals New Windows® Phones With Marketplace and My Phone Services](http://www.microsoft.com/presspass/press/2009/feb09/02-16MWCPR.mspx)
 16.
-17. [Mobile Phones|Smartphone - Software Features Overview](http://web.archive.org/web/20020608124628/www.microsoft.com/mobile/phones/smartphone/integrated.asp). Microsoft. Retrieved 6 September 2007 from the [Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink").
+17. [Mobile Phones|Smartphone - Software Features Overview](https://web.archive.org/web/20020608124628/www.microsoft.com/mobile/phones/smartphone/integrated.asp). Microsoft. Retrieved 6 September 2007 from the [Internet Archive](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink").

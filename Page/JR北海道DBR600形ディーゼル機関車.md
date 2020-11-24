@@ -1,7 +1,7 @@
 > この記事は[JR北海道DBR600形ディーゼル機関車](https://ja.wikipedia.org/wiki/JR北海道DBR600形ディーゼル機関車)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:JR_Hokkaido_HTR-622.JPG "wikilink")）\]\] **DBR600形ディーゼル機関車**（DBR600がたディーゼルきかんしゃ）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[2000年](../Page/2000年.md "wikilink")（平成12年）に2両製造した除雪用[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である\[1\]。
+**DBR600形ディーゼル機関車**（DBR600がたディーゼルきかんしゃ）は、[北海道旅客鉄道](../Page/北海道旅客鉄道.md "wikilink")（JR北海道）が[2000年](../Page/2000年.md "wikilink")（平成12年）に2両製造した除雪用[ディーゼル機関車](../Page/ディーゼル機関車.md "wikilink")である\[1\]。
 
 ## 概要
 
@@ -13,7 +13,7 @@
 
 ## 構造
 
-[日本除雪機製作所](../Page/NICHIJO.md "wikilink")（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[手稲区](../Page/手稲区.md "wikilink")）製の汎用排雪モーターカーHTR-600形を基本に、各部仕様を「鉄道車両」として走行が可能となるよう変更している。最高運転速度は55[km/hである](../Page/キロメートル毎時.md "wikilink")\[3\]。
+[日本除雪機製作所](../Page/NICHIJO.md "wikilink")（[札幌市](https://ja.wikipedia.org/wiki/札幌市 "wikilink")[手稲区](../Page/手稲区.md "wikilink")）製の汎用排雪モーターカーHTR-600形を基本に、各部仕様を「鉄道車両」として走行が可能となるよう変更している。最高運転速度は55 [km/hである](../Page/キロメートル毎時.md "wikilink")\[3\]。
 
 基礎ブレーキ装置は北海道の鉄道車両で一般的な[踏面両抱き式で](../Page/踏面ブレーキ.md "wikilink")、日本除雪機製作所のモーターカーで標準仕様となっている露出形[ディスクブレーキ](../Page/ディスクブレーキ.md "wikilink")から変更された。駆動機関は[三菱重工業](../Page/三菱重工業.md "wikilink")製の出力441.3 [kW](../Page/ワット.md "wikilink") (600 [PS](../Page/馬力.md "wikilink")) /1,800 [rpmのS](https://ja.wikipedia.org/wiki/rpm_\(単位\) "wikilink")6R-TA\[4\][ディーゼルエンジン](../Page/ディーゼルエンジン.md "wikilink")で、走行用、除雪用の動力をまかなう。動力伝達装置は、[油圧](../Page/油圧.md "wikilink")ポンプ・[油圧モーター](../Page/油圧モーター.md "wikilink")および前後進4段油圧湿式多段[クラッチ](https://ja.wikipedia.org/wiki/クラッチ "wikilink")式[自動変速付変速機を採用している](../Page/オートマチックトランスミッション.md "wikilink")。運転整備重量は、25 t（除雪装置非装備時）/30 t（除雪装置装備時）。最大寸法は、長さ7,775 mm（除雪装置装備時14,200 mm）×幅2,740 mm（除雪装置最大展開時5,400 mm）×高さ3,995 mmである。
 

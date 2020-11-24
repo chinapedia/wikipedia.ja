@@ -379,7 +379,7 @@ IEEE 1364標準では、0、1、Z（[ハイ・インピーダンス](https://ja.
 
 PLI（Program Language Interface）は、プログラマーに対して、VerilogからC言語で書かれたプログラムに制御を移すことを可能にするメカニズムを提供する。IEEE Std 1364-2005において、PLIは新しいに完全に置き換えられて公式に[非推奨](https://ja.wikipedia.org/wiki/非推奨 "wikilink")となった。
 
-PLI（現在はVPI）を利用することで、Verilogは、たとえば、[テストハーネス](https://ja.wikipedia.org/wiki/テストハーネス "wikilink")、[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[命令セットシミュレータ](https://ja.wikipedia.org/wiki/命令セットシミュレータ "wikilink")、[デバッガ](../Page/デバッガ.md "wikilink")など、C言語で書かれた他のプログラムと連携することができる。たとえば、PLIはC言語の関数`tf_putlongp()`および`tf_getlongp()`を提供しており、この関数を利用すると、現在のVerilogタスクや関数の引数の値を読み書きすることができる。
+PLI（現在はVPI）を利用することで、Verilogは、たとえば、[テストハーネス](https://ja.wikipedia.org/wiki/テストハーネス "wikilink")、[マイクロプロセッサ](../Page/マイクロプロセッサ.md "wikilink")の[命令セットシミュレータ](https://ja.wikipedia.org/wiki/命令セットシミュレータ "wikilink")、[デバッガ](../Page/デバッガ.md "wikilink")など、C言語で書かれた他のプログラムと連携することができる。たとえば、PLIはC言語の関数`tf_putlongp()`および`tf_getlongp()`を提供しており、この関数を利用すると、現在のVerilogタスクや関数の引数の値を読み書きすることができる。具体的には、`tf_putlongp(pin, lower_32, higher_32)`は、C言語側の `higher_32` と `lower_32` を、Verilog側の64幅のpin信号にセットすることができ, `lower_32 = tf_getlongp(higher_32, pin)`は、Verilog側の64幅のpin信号を読み出し、その上位と下位をC言語側の変数 `higher_32` と `lower_32` にそれぞれセットする。
 
 ## 主要ソフトウェア
 
@@ -414,6 +414,10 @@ PLI（現在はVPI）を利用することで、Verilogは、たとえば、[テ
   - ALINT (Aldec)　
   - Accent lint (Real Intent)
 
+## 文献
+
+  -
+  -
 ## 関連項目
 
   - [EDA (半導体)](../Page/EDA_\(半導体\).md "wikilink")

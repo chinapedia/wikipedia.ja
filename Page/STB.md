@@ -25,8 +25,8 @@
 
 **StB**
 
-  - 旧[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（第三共和国、人民民主主義時代および社会主義共和国）における、内務省国家安全保障隊（[チェコ語](../Page/チェコ語.md "wikilink"):Sbor národní bezpečnosti, SNB、[スロバキア語](../Page/スロバキア語.md "wikilink"):Zbor národnej bezpečnosti, ZNB）の[秘密政治警察機関](../Page/秘密警察.md "wikilink")「国家保安部」のチェコ語 (**St**átní **b**ezpečnost) における略称。
+  - 旧[チェコスロバキア](../Page/チェコスロバキア.md "wikilink")（第三共和国、人民民主主義時代および社会主義共和国）における、内務省国家安全保障隊（[チェコ語](../Page/チェコ語.md "wikilink"):Sbor národní bezpečnosti, SNB、[スロバキア語](../Page/スロバキア語.md "wikilink"):Zbor národnej bezpečnosti, ZNB）の[秘密政治警察機関](../Page/秘密警察.md "wikilink")「[国家保安部](https://ja.wikipedia.org/wiki/国家保安部_\(チェコスロバキア\) "wikilink")」のチェコ語 (**St**átní **b**ezpečnost) における略称。
 
 **ŠtB**
 
-  - 旧チェコスロバキアにおける「国家保安部」のスロバキア語 (**Št**átna **b**ezpečnosť) における略称。
+  - 旧チェコスロバキアにおける「[国家保安部](https://ja.wikipedia.org/wiki/国家保安部_\(チェコスロバキア\) "wikilink")」のスロバキア語 (**Št**átna **b**ezpečnosť) における略称。

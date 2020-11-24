@@ -104,28 +104,28 @@
 
 ### 2007年度 - 2009年度
 
-  - 講師：[早瀬憲太郎](https://ja.wikipedia.org/wiki/早瀬憲太郎 "wikilink")、[小椋英子](https://ja.wikipedia.org/wiki/小椋英子 "wikilink")
+  - 講師：[早瀨憲太郎](https://ja.wikipedia.org/wiki/早瀨憲太郎 "wikilink")、[小椋英子](https://ja.wikipedia.org/wiki/小椋英子 "wikilink")
   - 生徒兼司会：[林家正蔵](../Page/林家正蔵.md "wikilink")
 
 ### 2010年度 - 2011年度
 
-  - 講師：早瀬憲太郎、[森本友里子](https://ja.wikipedia.org/wiki/森本友里子 "wikilink")（2010年度）、[妹尾映美子](https://ja.wikipedia.org/wiki/妹尾映美子 "wikilink")（2011年度）
+  - 講師：早瀨憲太郎、[森本友里子](https://ja.wikipedia.org/wiki/森本友里子 "wikilink")（2010年度）、[妹尾映美子](https://ja.wikipedia.org/wiki/妹尾映美子 "wikilink")（2011年度）
   - 生徒兼司会：[今井絵理子](https://ja.wikipedia.org/wiki/今井絵理子 "wikilink")（[SPEED](https://ja.wikipedia.org/wiki/SPEED "wikilink")）
 
 ### 2012年度
 
-  - 講師：早瀬憲太郎
+  - 講師：早瀨憲太郎
   - 生徒兼司会：今井絵理子（SPEED）
 
 ### 2013年度
 
-  - 講師：早瀬憲太郎
+  - 講師：早瀨憲太郎
   - 生徒兼司会：[梅田みさと](https://ja.wikipedia.org/wiki/梅田みさと "wikilink")
   - 講師アシスタント:[貴田みどり](https://ja.wikipedia.org/wiki/貴田みどり "wikilink")
 
 ### 2014年度
 
-  - 講師：早瀬憲太郎
+  - 講師：早瀨憲太郎
   - ナビゲーター：[三宅健](../Page/三宅健.md "wikilink")（[V6](../Page/V6_\(グループ\).md "wikilink")/[Coming Century](https://ja.wikipedia.org/wiki/Coming_Century "wikilink")）
   - 講師アシスタント：[金子真美](https://ja.wikipedia.org/wiki/金子真美 "wikilink")
 

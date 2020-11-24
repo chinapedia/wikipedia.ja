@@ -56,30 +56,33 @@
         （作詞・作曲:[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")　編曲:サザンオールスターズ　弦編曲:[島健](../Page/島健.md "wikilink") & [原由子](../Page/原由子.md "wikilink")　管編曲:[山本拓夫](../Page/山本拓夫.md "wikilink")）
         [フジテレビ系](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[月9ドラマ](../Page/フジテレビ月曜9時枠の連続ドラマ.md "wikilink")『[僕だけのマドンナ](../Page/僕だけのマドンナ.md "wikilink")』主題歌。
         サザンのパブリックイメージである夏をテーマにしているものの、桑田によるとソロ名義の「[波乗りジョニー](../Page/波乗りジョニー.md "wikilink")」やサザンの「[太陽は罪な奴](../Page/太陽は罪な奴.md "wikilink")」といった曰く「能天気な夏」を歌った曲と比べると「ちょっと影がある」「黄昏てる」といい、レコーディングではこれを「垂（しず）る感」と述べていたという\[13\]。
-        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")が出演しており、桑田が小池のグラビアを見た事をきっかけに出演を依頼したという逸話が残っている\[14\]。また、一部ではあるが「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」のタイトルの由来となった[パシフィックパーク茅ヶ崎](../Page/パシフィックパーク茅ヶ崎.md "wikilink")が登場している。
+        桑田曰く70年代のアイドル歌謡曲といった風情を持った曲との事であり、自身が敬愛する[筒美京平](https://ja.wikipedia.org/wiki/筒美京平 "wikilink")作品の影響がある事も語っている\[14\]。
+        [ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")には[小池栄子](https://ja.wikipedia.org/wiki/小池栄子 "wikilink")が出演しており、桑田が小池のグラビアを見た事をきっかけに出演を依頼したという逸話が残っている\[15\]。また、一部ではあるが「[HOTEL PACIFIC](../Page/HOTEL_PACIFIC.md "wikilink")」のタイトルの由来となった[パシフィックパーク茅ヶ崎](../Page/パシフィックパーク茅ヶ崎.md "wikilink")が登場している。
 2.  **雨上がりにもう一度キスをして** (5:11)
       -
         （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ & [斎藤誠](../Page/斎藤誠.md "wikilink")　管編曲:山本拓夫）
         メンバー全員出演の[日本航空](../Page/日本航空.md "wikilink")『FLY\! JAL\!』[CMソング](../Page/コマーシャルソング.md "wikilink")。
-        「涙の海で抱かれたい」より先にCMで放送されており、2004年までCMソングなどでサザンが起用された。発表は2003年だが、『キラーストリート』の歌詞カードに収められている桑田のセルフライナーノーツによると、1999年9月から録音とされており、「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」や「[この青い空、みどり 〜BLUE IN GREEN〜](../Page/この青い空、みどり_〜BLUE_IN_GREEN〜.md "wikilink")」などと同時期に製作が開始されていた。当初は[R\&Bを意識した曲調だったが](../Page/リズム・アンド・ブルース.md "wikilink")、2年間の活動休止を経て、サザンの楽曲として製作が再開された後に完成形の茅ヶ崎などの地名が登場した[ポップな曲調に仕上がったという](../Page/ポピュラー音楽.md "wikilink")。『キラーストリート』ではイントロにドラム音が挿入されるなど細かなテイク違いがあるため、シングルバージョンは現在本作にのみ収録されている。
+        「涙の海で抱かれたい」より先にCMで放送されており、2004年までCMソングなどでサザンが起用された。発表は2003年だが、『キラーストリート』の歌詞カードに収められている桑田のセルフライナーノーツによると、1999年9月から録音とされており、「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」や「[この青い空、みどり 〜BLUE IN GREEN〜](../Page/この青い空、みどり_〜BLUE_IN_GREEN〜.md "wikilink")」などと同時期に製作が開始されていた。当初は[R\&Bを意識した曲調だったが](../Page/リズム・アンド・ブルース.md "wikilink")、2年間の活動休止を経て、サザンの楽曲として製作が再開された後に完成形の茅ヶ崎などの地名が登場した[ポップな曲調に仕上がったという](../Page/ポピュラー音楽.md "wikilink")\[16\]。『キラーストリート』ではイントロにドラム音が挿入されるなど細かなテイク違いがあるため、シングルバージョンは現在本作にのみ収録されている。
 3.  **OH\! FRESH\!\! 〜ドクダミ・スパークのテーマ〜** (0:48)
       -
         （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
         「勝手にシンドバッド 胸さわぎのスペシャルボックス」に封入されていた新曲の宣伝広告などには全4曲の収録と発表されており、発売直前までシークレットトラックであった。
-        2015年に行われたライブ「[おいしい葡萄の旅](https://ja.wikipedia.org/wiki/おいしい葡萄の旅ライブ_–at_DOME_&_日本武道館- "wikilink")」では桑田の「ライブの途中で映像にして入れよう\!\!\!」という発案から「[Computer Children](../Page/KAMAKURA.md "wikilink")」と「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」の間のつなぎとして流され、それに伴いライブの本編に映し出される映像を作成した。構成・コンテは全て桑田が監督した。セットの中の看板には「[海のYeah](../Page/海のYeah!!.md "wikilink")」と書いてある\[15\]。
+        2015年に行われたライブ「[おいしい葡萄の旅](https://ja.wikipedia.org/wiki/おいしい葡萄の旅ライブ_–at_DOME_&_日本武道館- "wikilink")」では桑田の「ライブの途中で映像にして入れよう\!\!\!」という発案から「[Computer Children](../Page/KAMAKURA.md "wikilink")」と「[栞のテーマ](../Page/栞のテーマ.md "wikilink")」の間のつなぎとして流され、それに伴いライブの本編に映し出される映像を作成した。構成・コンテは全て桑田が監督した。セットの中の看板には「[海のYeah](../Page/海のYeah!!.md "wikilink")」と書いてある\[17\]。
 4.  **恋人は南風** (4:36)
       -
         （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
+        桑田曰く[イタリア映画的な雰囲気やサウンドが取り入れられているという](../Page/イタリアの映画.md "wikilink")\[18\]。
+        「Inside Outside U・M・I」というフレーズは[ザ・ビーチ・ボーイズ](../Page/ザ・ビーチ・ボーイズ.md "wikilink")の「[サーフィン・U.S.A.](../Page/サーフィン・U.S.A..md "wikilink")」の歌詞の「Inside outside U.S.A.」をもじったものである\[19\]。
         映像作品『[Inside Outside U・M・I](../Page/Inside_Outside_U・M・I.md "wikilink")』にはMVも収録されており、歌詞の中にも同タイトルが登場する。また、同作品にはMVとは別にイメージビデオが収録されており、ボーナストラックとしてメンバー出演の公式なMVも収録された形になっている。アルバム『キラーストリート』にもリマスタリングが施され収録。
 5.  **経験<ruby><rb>II</rb><rp></rp><rt>セカンド</rt><rp></rp></ruby>** (3:30)
       -
         （作詞・作曲:桑田佳祐　編曲:サザンオールスターズ）
         [TBS系](../Page/TBSテレビ.md "wikilink")[音楽番組](../Page/音楽番組.md "wikilink")『[うたばん](../Page/うたばん.md "wikilink")』オープニングソング。
-        歌詞は「はめて」「舐めて」「締めて」などと[セックスを題材とした歌として仕上がっている](https://ja.wikipedia.org/wiki/性行為 "wikilink")。
+        歌詞は「はめて」「舐めて」「締めて」などと[セックスを題材とした歌として仕上がっている](https://ja.wikipedia.org/wiki/性行為 "wikilink")。歌詞・メロディ共に短時間で作られ、桑田曰く理想的な曲の作り方との事\[20\]。
 
 ## 参加ミュージシャン
 
-  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink"), [Electric](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") & [Acoustic Guitars](../Page/アコースティック・ギター.md "wikilink")(\#1-5)、[Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), [Bass](../Page/ベース_\(弦楽器\).md "wikilink")(\#1-3,5)、[Drums](../Page/ドラムセット.md "wikilink")(\#1,3)、[Jaws Harp](../Page/口琴.md "wikilink"), [Cow Bell](../Page/カウベル.md "wikilink")(\#1)、 [Narration](https://ja.wikipedia.org/wiki/ナレーション "wikilink")(\#3)
+  - [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink"):[Vocal](https://ja.wikipedia.org/wiki/ボーカル "wikilink"), [Chorus](../Page/コーラス_\(ポピュラー音楽\).md "wikilink"), [Electric](https://ja.wikipedia.org/wiki/エレクトリックギター "wikilink") & [Acoustic Guitars](../Page/アコースティック・ギター.md "wikilink")(\#1-5)、[Keyboards](../Page/キーボード_\(楽器\).md "wikilink"), [Bass](../Page/ベース_\(弦楽器\).md "wikilink")(\#1-3,5)、[Drums](../Page/ドラムセット.md "wikilink")(\#1,3)、[Jaws Harp](../Page/口琴.md "wikilink"), [Cow Bell](../Page/カウベル.md "wikilink"), [Narration](https://ja.wikipedia.org/wiki/ナレーション "wikilink")(\#3)
   - [関口和之](../Page/関口和之.md "wikilink"):Bass(\#1-5)
   - [松田弘](../Page/松田弘.md "wikilink"):Drums(\#1-5)
   - [原由子](../Page/原由子.md "wikilink"):[Piano](../Page/ピアノ.md "wikilink"), [Electric Piano](../Page/エレクトリックピアノ.md "wikilink"), [Hammond Organ](../Page/ハモンドオルガン.md "wikilink"), [Electric Organ](https://ja.wikipedia.org/wiki/オルガン#関連する楽器 "wikilink"), Chorus(\#1-5)
@@ -143,7 +146,7 @@
 
 1.  [サザン、全266曲を世界111ヶ国で配信](https://www.oricon.co.jp/news/2046030/full/) オリコン 2014年12月17日配信, 2020年6月4日閲覧
 2.  [サザン関連全972曲 サブスク一斉解禁 メンバーソロ曲も対象に](https://www.oricon.co.jp/news/2151435/full/) オリコン 2019年12月20日配信, 2019年12月20日閲覧
-3.  アルバム『キラーストリート』初回版ブックレットより。2005年。
+3.  アルバム『キラーストリート』初回版ブックレットより。桑田佳祐セルフライナーノーツ P1《DISC- 1》1.からっぽのブルースの項より。2005年。
 4.  テレビでの放送した楽曲のみ記載する。
 5.  放送時、サザンオールスターズが活動休止中であったため、サザンのメンバーは桑田のみで、他の楽器演奏はサポートメンバーで行われた。
 6.  桑田佳祐の音楽寅さん あいなめBOX付属ブックレット94ページより
@@ -153,6 +156,11 @@
 10. [サザンオールスターズ通算14作目の首位、記録ずくめの30周年記念シングル](http://www.oricon.co.jp/news/57182/full/) オリコン 2015年4月8日閲覧
 11. [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月24日閲覧
 12. [サザン、今夏52作目のニューシングル発売決定\!](http://www.oricon.co.jp/news/25386/full/) オリコン 2016年7月29日閲覧。
-13. [1](https://www.sas-fan.net/special/sea_of_love/interview/index.html)
-14. [TBSテレビ 宣伝部 @tbs_pr 2013年9月20日17:45のツイート](https://twitter.com/tbs_pr/status/380975920796151808)
-15. サザンオールスターズ会報 代官山通信 vol.131 28ページより
+13. [涙の海で抱かれたい 〜SEA OF LOVE〜 桑田佳祐 インタビュー](https://www.sas-fan.net/special/sea_of_love/interview/index.html)
+14. アルバム『キラーストリート』初回版ブックレット 桑田佳祐セルフライナーノーツ P2《DISC- 1》7.涙の海で抱かれたい 〜SEA OF LOVE〜の項より。2005年。
+15. [TBSテレビ 宣伝部 @tbs_pr 2013年9月20日17:45のツイート](https://twitter.com/tbs_pr/status/380975920796151808)
+16. アルバム『キラーストリート』初回版ブックレット 桑田佳祐セルフライナーノーツ P7《DISC- 2》12.雨上がりにもう一度キスをしての項より。2005年。
+17. サザンオールスターズ会報 代官山通信 vol.131 28ページより
+18.
+19. アルバム『キラーストリート』初回版ブックレット 桑田佳祐セルフライナーノーツ P7《DISC- 2》10.恋人は南風の項より。2005年。
+20.

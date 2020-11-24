@@ -8,7 +8,7 @@
 ## メンバー
 
   - [吉良知彦](../Page/吉良知彦.md "wikilink")（きら ともひこ、[1959年](../Page/1959年.md "wikilink")[12月6日](../Page/12月6日.md "wikilink") - [2016年](../Page/2016年.md "wikilink")[7月3日](../Page/7月3日.md "wikilink")\[4\]）
-    バンドリーダー。[プロデュース](../Page/音楽プロデューサー.md "wikilink")（zabadakとして）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、他。.
+    バンドリーダー。[プロデュース](../Page/音楽プロデューサー.md "wikilink")（zabadakとして）、[作曲](../Page/作曲.md "wikilink")・[編曲](../Page/編曲.md "wikilink")・[作詞](../Page/作詞.md "wikilink")、[ボーカル](https://ja.wikipedia.org/wiki/ボーカル "wikilink")、[ギター](../Page/ギター.md "wikilink")、[ベース](../Page/ベース_\(弦楽器\).md "wikilink")、[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、他。
     2016年[7月3日](../Page/7月3日.md "wikilink")、56歳で没\[5\]。
   - [小峰公子](https://ja.wikipedia.org/wiki/小峰公子 "wikilink")（こみね こうこ）
     作詞、ボーカル、[アコーディオン](../Page/アコーディオン.md "wikilink")、他。

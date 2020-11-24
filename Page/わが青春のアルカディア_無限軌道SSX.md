@@ -434,7 +434,7 @@
 ## ゲーム
 
   - [スーパーロボット大戦T](https://ja.wikipedia.org/wiki/スーパーロボット大戦T "wikilink")
-    2019年3月20日に発売された[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch用ゲームソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。本作のキャラクターとメカニックが登場する\[8\]。
+    2019年3月20日に発売された[PlayStation 4](https://ja.wikipedia.org/wiki/PlayStation_4 "wikilink")・[Nintendo Switch用ゲームソフト](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")。本作のキャラクターとメカニックが登場する\[8\]。なお、このゲーム作品が本作をはじめ長年に渡ってハーロックを演じてきた[井上真樹夫](../Page/井上真樹夫.md "wikilink")の遺作となった\[9\]
 
 ## 参考文献
 
@@ -458,3 +458,4 @@
 6.  名前はゼーダー・ゾーンと表記されている場合もあり、東映オンデマンドでの第6話のあらすじではこの名前で記載されている[1](https://taod.jp/p/300004-0006)。
 7.  [ケイブンシャ](../Page/勁文社.md "wikilink")『さよなら銀河鉄道999大百科』の記述より。
 8.
+9.

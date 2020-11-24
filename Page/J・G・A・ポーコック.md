@@ -1,9 +1,9 @@
 > この記事は[J・G・A・ポーコック](https://ja.wikipedia.org/wiki/J・G・A・ポーコック)から翻訳されています。
 
 
-**ジョン・グレヴィル・アガード・ポーコック**（**John Greville Agard Pocock**、[1924年](../Page/1924年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[歴史家](../Page/歴史家.md "wikilink")、[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")。専門は、[英米](https://ja.wikipedia.org/wiki/英米 "wikilink")の[共和主義](../Page/共和主義.md "wikilink")思想、歴史叙述をめぐる[政治思想史](https://ja.wikipedia.org/wiki/政治思想史 "wikilink")。
+**ジョン・グレヴィル・アガード・ポーコック**（John Greville Agard Pocock、[1924年](../Page/1924年.md "wikilink")[3月7日](../Page/3月7日.md "wikilink") - ）は、[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")出身の[歴史家](../Page/歴史家.md "wikilink")、[政治学者](https://ja.wikipedia.org/wiki/政治学者 "wikilink")。[ケンブリッジ学派](https://ja.wikipedia.org/wiki/ケンブリッジ学派 "wikilink")の一人。専門は[共和主義](../Page/共和主義.md "wikilink")の歴史、歴史叙述をめぐる[政治思想史](https://ja.wikipedia.org/wiki/政治思想史 "wikilink")、思想史の[方法論](../Page/方法論.md "wikilink")。
 
-1924年[ロンドン](../Page/ロンドン.md "wikilink")に生まれる。[ニュージーランド](../Page/ニュージーランド.md "wikilink")に渡り、[カンタベリー大学にて](../Page/カンタベリー大学_\(ニュージーランド\).md "wikilink")[修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink")を取得。[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")に留学し、[ハーバート・バターフィールド](../Page/ハーバート・バターフィールド.md "wikilink")の下で研究を行い、[1952年](../Page/1952年.md "wikilink")に[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")取得。[オタゴ大学](../Page/オタゴ大学.md "wikilink")[講師](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、カンタベリー大学上級講師、[セントルイス・ワシントン大学](../Page/セントルイス・ワシントン大学.md "wikilink")[教授](../Page/教授.md "wikilink")を経て、[1974年](../Page/1974年.md "wikilink")から[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")歴史学部教授。現在は同大学名誉教授。
+1924年[ロンドン](../Page/ロンドン.md "wikilink")に生まれる\[1\]。青少年期を[ニュージーランド](../Page/ニュージーランド.md "wikilink")で過ごし、[カンタベリー大学にて](../Page/カンタベリー大学_\(ニュージーランド\).md "wikilink")[修士号](https://ja.wikipedia.org/wiki/修士号 "wikilink")を取得\[2\]。[1948年](../Page/1948年.md "wikilink")[ケンブリッジ大学](../Page/ケンブリッジ大学.md "wikilink")に留学し、[ハーバート・バターフィールド](../Page/ハーバート・バターフィールド.md "wikilink")の下で研究を行い、[1952年](../Page/1952年.md "wikilink")に[博士号](https://ja.wikipedia.org/wiki/博士号 "wikilink")取得\[3\]。[オタゴ大学](../Page/オタゴ大学.md "wikilink")[講師](https://ja.wikipedia.org/wiki/講師_\(教育\) "wikilink")、カンタベリー大学上級講師、[セントルイス・ワシントン大学](../Page/セントルイス・ワシントン大学.md "wikilink")[教授](../Page/教授.md "wikilink")を経て、[1974年](../Page/1974年.md "wikilink")から[ジョンズ・ホプキンス大学](https://ja.wikipedia.org/wiki/ジョンズ・ホプキンス大学 "wikilink")歴史学部教授。現在は同大学名誉教授\[4\]。
 
 ## 著書
 
@@ -50,4 +50,13 @@
 
   - *Conceptual Change and the Constitution*, co-edited with Terence Ball, (University Press of Kansas, 1988).
 
+## 出典
+
+<references />
+
 [Category:イギリスの政治学者](https://ja.wikipedia.org/wiki/Category:イギリスの政治学者 "wikilink") [Category:ジョンズ・ホプキンズ大学の教員](https://ja.wikipedia.org/wiki/Category:ジョンズ・ホプキンズ大学の教員 "wikilink") [Category:カンタベリー大学_(ニュージーランド)の教員](https://ja.wikipedia.org/wiki/Category:カンタベリー大学_\(ニュージーランド\)の教員 "wikilink") [Category:オタゴ大学の教員](https://ja.wikipedia.org/wiki/Category:オタゴ大学の教員 "wikilink") [Category:ロンドン出身の人物](https://ja.wikipedia.org/wiki/Category:ロンドン出身の人物 "wikilink") [Category:1924年生](https://ja.wikipedia.org/wiki/Category:1924年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+
+1.
+2.
+3.
+4.

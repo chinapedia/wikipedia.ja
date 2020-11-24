@@ -36,7 +36,7 @@
 
   - \- ネットワーク技術。
 
-  - [国家技術革新システム](https://ja.wikipedia.org/wiki/国家技術革新システム "wikilink")
+  - [ナショナル・イノベーション・システム](https://ja.wikipedia.org/wiki/ナショナル・イノベーション・システム "wikilink") National innovation system
 
   - [名古屋国際学園](../Page/名古屋国際学園.md "wikilink")
 

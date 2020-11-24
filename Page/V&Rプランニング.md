@@ -38,6 +38,6 @@ V\&Rプランニングの制作陣はそのまま新たに[V\&Rプロダクツ](
   - [V\&R PRODUCTS Web Site](http://www.vr-products.co.jp/)
   - [K-NETWORK ケイ・ネットワーク](http://www.k-netwk.com/)
 
-[Category:日本のアダルトビデオメーカー](https://ja.wikipedia.org/wiki/Category:日本のアダルトビデオメーカー "wikilink") [Category:1986年設立の企業](https://ja.wikipedia.org/wiki/Category:1986年設立の企業 "wikilink") [Category:豊島区の企業](https://ja.wikipedia.org/wiki/Category:豊島区の企業 "wikilink") [Category:鬼畜系](https://ja.wikipedia.org/wiki/Category:鬼畜系 "wikilink") [Category:サブカルチャー](https://ja.wikipedia.org/wiki/Category:サブカルチャー "wikilink")
+[Category:日本のアダルトビデオメーカー](https://ja.wikipedia.org/wiki/Category:日本のアダルトビデオメーカー "wikilink") [Category:1986年設立の企業](https://ja.wikipedia.org/wiki/Category:1986年設立の企業 "wikilink") [Category:豊島区の企業](https://ja.wikipedia.org/wiki/Category:豊島区の企業 "wikilink") [Category:鬼畜系](https://ja.wikipedia.org/wiki/Category:鬼畜系 "wikilink") [Category:日本のサブカルチャー](https://ja.wikipedia.org/wiki/Category:日本のサブカルチャー "wikilink")
 
 1.

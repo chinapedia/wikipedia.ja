@@ -46,7 +46,7 @@ CRJファミリーを構成する主要モデルは、胴体長が短い順に *
 
 最初のモデルCRJ100が1991年5月10日に初飛行してから2019年3月までにCRJファミリーで累計1,899機が納入されている。ボンバルディア社を世界第3位の航空機メーカーに押し上げた立役者のひとつとされ、1990年代から2000年代前半にかけて大成功したリージョナルジェットである。
 
-2019年6月25日にボンバルディアは、CRJ事業を三菱重工に売却することで合意したことによりボンバルディアは、完全にリージョナル事業から撤退した。
+2020年6月1日にボンバルディアは、CRJ事業を三菱重工に売却。新会社MHIRJに保守管理及びカスタマーサポートが移管された。
 
 ## 開発の経緯
 
@@ -421,7 +421,7 @@ ER: 2053 m</p></td>
       -
 ## 外部リンク
 
-  - [Commercial Aircraft - Cseries, CRJ and Q-Series - Bombardier](http://www.bombardier.com/en/aerospace/commercial-aircraft.html)
+  - [CRJseries - MHIRJ](https://mhirj.com/en/fleet-solutions/crj-series)
 
 [Category:ボンバルディアの航空機](https://ja.wikipedia.org/wiki/Category:ボンバルディアの航空機 "wikilink") [Category:カナダの航空機](https://ja.wikipedia.org/wiki/Category:カナダの航空機 "wikilink") [Category:旅客機](https://ja.wikipedia.org/wiki/Category:旅客機 "wikilink")
 

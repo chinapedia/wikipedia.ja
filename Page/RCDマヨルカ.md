@@ -720,7 +720,7 @@
 
 ## 現所属メンバー
 
-\[11\]   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))          ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Uruguay.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mexico.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
+\[11\]   ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))           ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))                  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mexico.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手枠を示す。
 
@@ -835,8 +835,12 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/フェルナンド・バスケス" title="wikilink">フェルナンド・バスケス</a></p></td>
 </tr>
 <tr class="even">
-<td><p>2017-</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ビセンテ・モレーノ" title="wikilink">ビセンテ・モレーノ</a></p></td>
+<td><p>2017-2020</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ビセンテ・モレノ" title="wikilink">ビセンテ・モレノ</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>2020-</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ガルシア・プラサ" title="wikilink">ルイス・ガルシア・プラサ</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -914,6 +918,8 @@
   - [マルコ・アセンシオ](https://ja.wikipedia.org/wiki/マルコ・アセンシオ "wikilink") 2013-14、2014-15
 
 ### FW
+
+  - [ジェリー・アームストロング](https://ja.wikipedia.org/wiki/ジェリー・アームストロング "wikilink") 1983-1985
 
   - [マイケル・オビク](../Page/マイケル・オビク.md "wikilink") 1996-1997
 

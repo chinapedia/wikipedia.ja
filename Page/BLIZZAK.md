@@ -1,7 +1,7 @@
 > この記事は[BLIZZAK](https://ja.wikipedia.org/wiki/BLIZZAK)から翻訳されています。
 
 
-**BLIZZAK**(ブリザック) とは、[ブリヂストン](../Page/ブリヂストン.md "wikilink")が販売する[スタッドレスタイヤ](../Page/スタッドレスタイヤ.md "wikilink")の商品名。本項では同社が扱うブリザックブランド以外のスタッドレスタイヤに関しても記載する。
+[Bridgestone_snow_tires_Blizzak_Revo_2_-1.JPG](https://ja.wikipedia.org/wiki/File:Bridgestone_snow_tires_Blizzak_Revo_2_-1.JPG "fig:Bridgestone_snow_tires_Blizzak_Revo_2_-1.JPG") **BLIZZAK**(ブリザック) とは、[ブリヂストン](../Page/ブリヂストン.md "wikilink")が販売する[スタッドレスタイヤ](../Page/スタッドレスタイヤ.md "wikilink")の商品名。本項では同社が扱うブリザックブランド以外のスタッドレスタイヤに関しても記載する。
 
 ## 概要
 

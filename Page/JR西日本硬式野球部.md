@@ -49,7 +49,7 @@
 
   - [植大輔](../Page/植大輔.md "wikilink")投手（元[中日](../Page/中日ドラゴンズ.md "wikilink")）- 退部
   - [平松一宏](../Page/平松一宏.md "wikilink")コーチ（元[巨人](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")、[中日](../Page/中日ドラゴンズ.md "wikilink")）- 退部
-  - [近田怜王](https://ja.wikipedia.org/wiki/近田怜王 "wikilink")投手（元[ソフトバンク](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）- 退部\[4\]。現在は社業に専念し、2015年より[三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")にて勤務。その傍ら2017年から[京都大学硬式野球部](../Page/京都大学硬式野球部.md "wikilink")の臨時コーチも務める
+  - [近田怜王](https://ja.wikipedia.org/wiki/近田怜王 "wikilink")投手（元[ソフトバンク](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）- 退部\[4\]。引退後社業に専念し、2015年より[三ノ宮駅](https://ja.wikipedia.org/wiki/三ノ宮駅 "wikilink")駅員や[明石車掌区](../Page/明石車掌区.md "wikilink")車掌として勤務。その傍ら2017年からボランティア扱いで[京都大学硬式野球部](../Page/京都大学硬式野球部.md "wikilink")のコーチも務めたが、2020年9月1日から、JR西日本に籍を残したまま[京都大学](../Page/京都大学.md "wikilink")の出向職員となり、同時に助監督となった。
   - [加賀美希昇](https://ja.wikipedia.org/wiki/加賀美希昇 "wikilink")投手（元[DeNA](../Page/横浜DeNAベイスターズ.md "wikilink")） - 入部初年度の[第42回社会人野球日本選手権大会](https://ja.wikipedia.org/wiki/第42回社会人野球日本選手権大会 "wikilink")で[ノーヒットノーラン](../Page/ノーヒットノーラン.md "wikilink")を達成
   - [藤澤拓斗](https://ja.wikipedia.org/wiki/藤澤拓斗 "wikilink")内野手（元中日）
 

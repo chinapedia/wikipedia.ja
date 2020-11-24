@@ -103,6 +103,6 @@
 
 ## 脚注
 
-[Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:経済に関するメディア](https://ja.wikipedia.org/wiki/Category:経済に関するメディア "wikilink")
+[Category:テレビ東京のニュース・報道番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京のニュース・報道番組の歴史 "wikilink") [Category:テレビ東京の帯番組の歴史](https://ja.wikipedia.org/wiki/Category:テレビ東京の帯番組の歴史 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:経済を題材としたテレビ番組](https://ja.wikipedia.org/wiki/Category:経済を題材としたテレビ番組 "wikilink")
 
 1.  NHK BS1の『東京マーケット情報』の東証アローズ中継がほぼ同じ時間帯で行われており、同局のキャスターの声が漏れ入ることが多い。

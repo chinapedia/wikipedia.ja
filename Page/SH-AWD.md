@@ -42,7 +42,7 @@
   - [VTM-4](https://ja.wikipedia.org/wiki/VTM-4 "wikilink")
   - Honda IMAシステム
   - [Honda SPORT HYBRID Intelligent Dual Clutch Drive (i-DCD)](https://ja.wikipedia.org/wiki/Honda_SPORT_HYBRID_Intelligent_Dual_Clutch_Drive "wikilink")
-  - [Honda SPORT HYBRID Intelligent Multi Mode Drive (i-MMD)](https://ja.wikipedia.org/wiki/SPORT_HYBRID_Intelligent_Multi_Mode_Drive "wikilink")
+  - [e:HEV](https://ja.wikipedia.org/wiki/e:HEV "wikilink")
 
 ## 外部リンク
 

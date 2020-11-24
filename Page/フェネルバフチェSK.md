@@ -161,7 +161,7 @@
 
 </div>
 
-  - 2020年8月28日現在
+  - 2020年10月18日現在
 
 ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))
 

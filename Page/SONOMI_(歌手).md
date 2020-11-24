@@ -174,6 +174,7 @@
 
 :\*[BOX HERO feat. **DABO**, **Y'S** & **SONOMI**](https://ja.wikipedia.org/wiki/.co.lab "wikilink")
 
+  - KICK THE CAN CREW 住所feat.岡村靖幸（コーラスで参加)
   - 晋平太「HIPHOP 4U」
   - KREVA「素敵な時を重ねましょう」（シングル）
 
@@ -202,6 +203,6 @@
   - [SONOMI Official Site](http://www.sonomi.biz/) - 新ホームページ
   - [SONOMI BLOG](http://www.sonomi.biz/blog/diary.cgi) - 旧公式ブログ
   - [SONOMIオフィシャルブログ](https://ameblo.jp/sonomi-blog/) - 新公式ブログ
-  - [オフィシャルMySpace](http://www.myspace.com/singersonomi)
+  - [オフィシャルMySpace](https://myspace.com/singersonomi)
 
 [Category:日本の女性ポップ歌手](https://ja.wikipedia.org/wiki/Category:日本の女性ポップ歌手 "wikilink") [Category:日本のR\&B・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のR&B・ミュージシャン "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink") [Category:青森県立青森北高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:青森県立青森北高等学校出身の人物 "wikilink") [Category:青森県出身の人物](https://ja.wikipedia.org/wiki/Category:青森県出身の人物 "wikilink") [Category:1979年生](https://ja.wikipedia.org/wiki/Category:1979年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")

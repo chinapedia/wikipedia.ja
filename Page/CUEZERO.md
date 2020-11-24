@@ -1,7 +1,7 @@
 > この記事は[CUEZERO](https://ja.wikipedia.org/wiki/CUEZERO)から翻訳されています。
 
 
-**CUEZERO**（キュー・ゼロ、本名：西田 光史（にしだ こうじ）、[1976年](../Page/1976年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は、日本の[ヒップホップMC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")。[FUNKY GRAMMAR UNITの一員](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[江戸川区](../Page/江戸川区.md "wikilink")出身。
+**CUEZERO**（キュー・ゼロ、本名：西田 光史（にしだ こうじ）、[1976年](../Page/1976年.md "wikilink")[5月14日](../Page/5月14日.md "wikilink") - ）は、日本の[ヒップホップMC](../Page/MC_\(ヒップホップ\).md "wikilink")。[FUNKY GRAMMAR UNITの一員](../Page/FUNKY_GRAMMAR_UNIT.md "wikilink")。[東京都](../Page/東京都.md "wikilink")[江戸川区](../Page/江戸川区.md "wikilink")出身。
 
 名前は英単語*cue*（きっかけの意）から。2019年現在はコージー西田の名で活動中。
 
@@ -16,6 +16,7 @@
   - [2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")、盟友[DJ SHUHOが主催するイベントに](../Page/DJ_SHUHO.md "wikilink")、人生初となるDJとしての参加をはたす。
   - [2012年](../Page/2012年.md "wikilink")[12月12日](../Page/12月12日.md "wikilink")、自主レーベル「JAPANEZE ZERO ENTERTAINMENT」よりアルバム『THE ASCENSION』を発売する。[桜木町](https://ja.wikipedia.org/wiki/桜木町 "wikilink")の飲食店で店長として働きながら、自身の作品をはじめ客演、[FG NIGHTや](https://ja.wikipedia.org/wiki/FG_NIGHT "wikilink")[DYNAMITEなどのイベントに参加するなど音楽活動も並行して行っている](https://ja.wikipedia.org/wiki/DYNAMITE_\(ライブイベント\) "wikilink")。
   - [2014年](../Page/2014年.md "wikilink")[7月31日](../Page/7月31日.md "wikilink")、[傷害容疑で逮捕](../Page/傷害罪.md "wikilink")。同年6月18日、[相模原駅](https://ja.wikipedia.org/wiki/相模原駅 "wikilink")ホームで私立大学4年の男子学生の頭を殴るなどして全治2週間の怪我を負わせたとされる\[1\]。
+  - 2020年現在 横浜市を中心にクラブやレストランでMC,DJの活動を続けており その様子がCUEZERO本人のInstagramで閲覧できる。盟友 KREVAとも食事に行ったりと アンダーグラウンドなど ラッパーとの交友関係は健在。
 
 ## ディスコグラフィー
 

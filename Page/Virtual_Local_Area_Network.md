@@ -34,7 +34,7 @@ VLANを構成する目的は
 
   - **プロトコルベースVLAN**
       -
-        [IP](../Page/Internet_Protocol.md "wikilink")、[IPX](https://ja.wikipedia.org/wiki/Internetwork_Packet_Exchange "wikilink")、[AppleTalk](../Page/AppleTalk.md "wikilink")などの[ネットワークプロトコル](https://ja.wikipedia.org/wiki/ネットワークプロトコル "wikilink")によりLANセグメントを分離する方式である。Ethernet IIまたはIEEE 802.3x-1997におけるEther Type値を参照してイーサネットから見た上位レイヤのプロトコルを識別する。
+        [IP](../Page/Internet_Protocol.md "wikilink")、[IPX](https://ja.wikipedia.org/wiki/Internetwork_Packet_Exchange "wikilink")、[AppleTalk](../Page/AppleTalk.md "wikilink")などの[ネットワークプロトコル](https://ja.wikipedia.org/wiki/ネットワークプロトコル "wikilink")によりLANセグメントを分離する方式である。Ethernet IIまたはIEEE 802.3におけるEther Type値を参照してイーサネットから見た上位レイヤのプロトコルを識別する。
 
 <!-- end list -->
 

@@ -117,7 +117,8 @@
   - [NCT 127](https://ja.wikipedia.org/wiki/NCT_127 "wikilink") (2018年〜)
   - [Red Velvet](https://ja.wikipedia.org/wiki/Red_Velvet "wikilink")(2018年〜)
   - [SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink") (2011年〜)（[日本クラウン](../Page/日本クラウン.md "wikilink")より移籍）
-      - [ラブ・クレッシェンド](https://ja.wikipedia.org/wiki/ラブ・クレッシェンド "wikilink") (2015年)
+      - [ラブ・クレッシェンド](https://ja.wikipedia.org/wiki/ラブ・クレッシェンド "wikilink") (2015年〜)
+      - [カミングフレーバー](https://ja.wikipedia.org/wiki/カミングフレーバー "wikilink") (2019年〜)
   - [Snow Man](https://ja.wikipedia.org/wiki/Snow_Man "wikilink") (2020年～)
   - [SOLIDEMO](https://ja.wikipedia.org/wiki/SOLIDEMO "wikilink") (2014年〜)
   - [SUPER JUNIOR](../Page/スーパージュニア.md "wikilink")\[7\] (2011年〜)

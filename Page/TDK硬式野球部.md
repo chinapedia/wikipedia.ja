@@ -27,7 +27,7 @@
 
 ## 主要大会の出場歴・最高成績
 
-  - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場14回、優勝1回（2006年）
+  - [都市対抗野球大会](../Page/都市対抗野球大会.md "wikilink") - 出場15回、優勝1回（2006年）
   - [社会人野球日本選手権大会](../Page/社会人野球日本選手権大会.md "wikilink") - 出場9回
 
 ## 出身プロ野球選手
@@ -50,6 +50,7 @@
 
 [TDK_Baseball_Stadium.png](https://ja.wikipedia.org/wiki/File:TDK_Baseball_Stadium.png "fig:TDK_Baseball_Stadium.png")
 
+  - 真崎隆郎
   - 淡路俊
   - 岡本隆
   - 今野忠良

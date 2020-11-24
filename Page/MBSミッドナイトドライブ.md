@@ -18,7 +18,7 @@
 <!-- end list -->
 
   -
-    ※1999年3月まで3時台は[TBSラジオからのネット受け](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")（当初「[いすゞ歌うヘッドライト〜コックピットのあなたへ〜](../Page/いすゞ歌うヘッドライト〜コックピットのあなたへ〜.md "wikilink")」2時間だったが、1997年4月に1時間短縮となり当該枠は「[Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")」となった）をしていたが、1999年4月以後「Ride on music\!」のネット縮小と、多くの局が「[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")」（TBSラジオは0時-1時）のネットに切り替えるも、MBS/[ABCとも編成の都合上ネットしなかったため](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、この番組も3時スタートに繰り下げとなった。
+    ※1999年3月まで3時台は[TBSラジオ](../Page/TBSラジオ.md "wikilink")からのネット受け（当初「[いすゞ歌うヘッドライト〜コックピットのあなたへ〜](../Page/いすゞ歌うヘッドライト〜コックピットのあなたへ〜.md "wikilink")」2時間だったが、1997年4月に1時間短縮となり当該枠は「[Ride on music\!](https://ja.wikipedia.org/wiki/Ride_on_music! "wikilink")」となった）をしていたが、1999年4月以後「Ride on music\!」のネット縮小と、多くの局が「[Be@t B@by\!\!](../Page/Be@t_B@by!!.md "wikilink")」（TBSラジオは0時-1時）のネットに切り替えるも、MBS/[ABCとも編成の都合上ネットしなかったため](https://ja.wikipedia.org/wiki/ABCラジオ "wikilink")、この番組も3時スタートに繰り下げとなった。
     更に「-ヘッドライト」が終了し、後継番組「[あなたへモーニングコール](../Page/あなたへモーニングコール.md "wikilink")」のネット受けもスポンサーや編成上の都合でMBS/ABCともネットしなかったため、2001年10月以後は5時までの2時間枠に拡大となった。
 
 ## 主な出演者

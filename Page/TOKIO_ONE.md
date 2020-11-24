@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [TokiOne](http://web.archive.org/web/20020607065729/www.tokio1.com/cgi/index.cgi) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年6月7日時点の番組公式サイト（tokio1ドメイン）
-  - [TOKIO ONE](http://web.archive.org/web/20020805105415/http://www.j-wave.co.jp/original/tokioone/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年8月5日時点の番組公式サイト（j-waveドメイン）
+  - [TokiOne](https://web.archive.org/web/20020607065729/www.tokio1.com/cgi/index.cgi) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年6月7日時点の番組公式サイト（tokio1ドメイン）
+  - [TOKIO ONE](https://web.archive.org/web/20020805105415/http://www.j-wave.co.jp/original/tokioone/) - [Internet Archiveにより保存されている](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink")2002年8月5日時点の番組公式サイト（j-waveドメイン）
 
 [Category:J-WAVEの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの帯番組の歴史 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")

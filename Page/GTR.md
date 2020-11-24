@@ -33,5 +33,6 @@
   - [GTR (ゲーム)](https://ja.wikipedia.org/wiki/GTR_\(ゲーム\) "wikilink") - FIA GTをもとにしたゲーム。
   - [GTR (ラジオ番組)](https://ja.wikipedia.org/wiki/GTR_\(ラジオ番組\) "wikilink") - [エフエム北海道](../Page/エフエム北海道.md "wikilink")のラジオ番組。
   - [A\&G GAME MASTER GT-R](https://ja.wikipedia.org/wiki/A&G_GAME_MASTER_GT-R "wikilink") - 文化放送のデジタルラジオ放送[超\!A\&G+](https://ja.wikipedia.org/wiki/超!A&G+ "wikilink")にて放送されているラジオ番組。
+  - [ゴヴィア・テムズリンク・レールウェイ](https://ja.wikipedia.org/wiki/ゴヴィア・テムズリンク・レールウェイ "wikilink") - イギリスの[列車運行会社](https://ja.wikipedia.org/wiki/列車運行会社_\(イギリス\) "wikilink")。
 
 [Category:頭字語](https://ja.wikipedia.org/wiki/Category:頭字語 "wikilink")

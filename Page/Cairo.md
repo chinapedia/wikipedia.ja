@@ -5,15 +5,15 @@
 
 ## 歴史
 
-[キース・パッカード](https://ja.wikipedia.org/wiki/キース・パッカード "wikilink")、[カール・ワース](https://ja.wikipedia.org/wiki/カール・ワース "wikilink")らによって、X Window Systemに利用するために開発が始められた。当初はXr・Xr/Xcと呼ばれていたが、後にcairoへと変更された。[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")でXに依存しないライブラリである点を強調することを意図したものである。
+[キース・パッカード](https://ja.wikipedia.org/wiki/キース・パッカード "wikilink")、[カール・ワース](https://ja.wikipedia.org/wiki/カール・ワース "wikilink")らによって、[X Window Systemに利用するために開発が始められた](../Page/X_Window_System.md "wikilink")。当初はXr・Xr/Xcと呼ばれていたが、後にcairoへと変更された。[クロスプラットフォーム](../Page/クロスプラットフォーム.md "wikilink")でXに依存しないライブラリである点を強調することを意図したものである。
 
 ## バックエンド
 
-出力バックエンドとして [X Window System](../Page/X_Window_System.md "wikilink") (XlibとXCB), [GDI](../Page/Graphics_Device_Interface.md "wikilink") ([Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink")), [Quartz](../Page/Quartz.md "wikilink") ([macOS](https://ja.wikipedia.org/wiki/macOS "wikilink")), イメージバッファ, [PostScript](../Page/PostScript.md "wikilink"), [PDF](../Page/Portable_Document_Format.md "wikilink"), [SVG](../Page/Scalable_Vector_Graphics.md "wikilink") をサポートしている。実験的に、[OpenGL](../Page/OpenGL.md "wikilink"), OpenGL ES 2.0, OpenVG, [BeOS](../Page/BeOS.md "wikilink"), [OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink"), [DirectFB](https://ja.wikipedia.org/wiki/DirectFB "wikilink") をサポートしている。
+出力バックエンドとしてX Window System（XlibとXCB）、[GDI](../Page/Graphics_Device_Interface.md "wikilink") ([Microsoft Windows](https://ja.wikipedia.org/wiki/Microsoft_Windows "wikilink"))、[Quartz](../Page/Quartz.md "wikilink") ([macOS](https://ja.wikipedia.org/wiki/macOS "wikilink"))、イメージバッファ、[PostScript](../Page/PostScript.md "wikilink")、[PDF](../Page/Portable_Document_Format.md "wikilink")、[SVGをサポートしている](../Page/Scalable_Vector_Graphics.md "wikilink")。実験的に[OpenGL](../Page/OpenGL.md "wikilink")、OpenGL ES 2.0、OpenVG、[BeOS](../Page/BeOS.md "wikilink")、[OS/2](https://ja.wikipedia.org/wiki/OS/2 "wikilink")、[DirectFB](https://ja.wikipedia.org/wiki/DirectFB "wikilink")をサポートしている。
 
 ## バインディング
 
-[C言語](../Page/C言語.md "wikilink")が基本APIだが、Ada, C++, Common Lisp, Factor, Haskell, Java, Lua, Mono と .NET, Perl, PHP, Python, Ruby, Scheme, Smalltalk などの[バインディングが存在する](https://ja.wikipedia.org/wiki/言語バインディング "wikilink")\[1\]。
+[C言語](../Page/C言語.md "wikilink")が基本APIだが、Ada、C++、Common Lisp、Factor、Haskell、Java、Lua、Monoと.NET、Perl、PHP、Python、Ruby、Scheme、Smalltalkなどの[バインディングが存在する](https://ja.wikipedia.org/wiki/言語バインディング "wikilink")\[1\]。
 
 ## 採用例
 
@@ -34,6 +34,6 @@
 ## 外部リンク
 
   -
-[Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Freedesktop.org](https://ja.wikipedia.org/wiki/Category:Freedesktop.org "wikilink") [Category:グラフィックライブラリ](https://ja.wikipedia.org/wiki/Category:グラフィックライブラリ "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:GTK+](https://ja.wikipedia.org/wiki/Category:GTK+ "wikilink")
+[Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink") [Category:Freedesktop.org](https://ja.wikipedia.org/wiki/Category:Freedesktop.org "wikilink") [Category:グラフィックライブラリ](https://ja.wikipedia.org/wiki/Category:グラフィックライブラリ "wikilink") [Category:X_Window_System](https://ja.wikipedia.org/wiki/Category:X_Window_System "wikilink") [Category:GTK](https://ja.wikipedia.org/wiki/Category:GTK "wikilink")
 
 1.  [Language bindings](http://cairographics.org/bindings/)

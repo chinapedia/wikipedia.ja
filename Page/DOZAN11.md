@@ -678,7 +678,7 @@ UMCF-9507</p></td>
 
   -
   -
-[Category:日本の歌手](https://ja.wikipedia.org/wiki/Category:日本の歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:奈良育英高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:奈良育英高等学校出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:日本の男性歌手](https://ja.wikipedia.org/wiki/Category:日本の男性歌手 "wikilink") [Category:日本のレゲエ・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のレゲエ・ミュージシャン "wikilink") [Category:奈良育英高等学校出身の人物](https://ja.wikipedia.org/wiki/Category:奈良育英高等学校出身の人物 "wikilink") [Category:生年未記載](https://ja.wikipedia.org/wiki/Category:生年未記載 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.
 2.

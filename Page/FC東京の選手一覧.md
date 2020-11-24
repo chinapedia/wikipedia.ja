@@ -134,6 +134,33 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/彼島優" title="wikilink">彼島優</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/田中七星" title="wikilink">田中七星</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/西山草汰" title="wikilink">西山草汰</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="../Page/ディフェンダー_(サッカー).md" title="wikilink">DF</a></p></td>
 <td><p><strong>3</strong></p></td>
 <td><p><a href="../Page/森重真人.md" title="wikilink">森重真人</a></p></td>
@@ -142,7 +169,7 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/大分トリニータ" title="wikilink">大分トリニータ</a></p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>4</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/渡辺剛_(サッカー選手)" title="wikilink">渡辺剛</a></p></td>
 <td></td>
@@ -151,7 +178,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>5</strong></p></td>
 <td><p><a href="../Page/丹羽大輝.md" title="wikilink">丹羽大輝</a></p></td>
 <td></td>
@@ -160,7 +187,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>6</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/小川諒也" title="wikilink">小川諒也</a></p></td>
 <td></td>
@@ -169,7 +196,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>22</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/中村拓海" title="wikilink">中村拓海</a></p></td>
 <td></td>
@@ -178,7 +205,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>25</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/蓮川壮大" title="wikilink">蓮川壮大</a></p></td>
 <td></td>
@@ -187,7 +214,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>29</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/岡崎慎" title="wikilink">岡崎慎</a></p></td>
 <td></td>
@@ -197,12 +224,21 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>32</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・オマリ" title="wikilink">ジョアン・オマリ</a></p></td>
 <td></td>
 <td><p>2020年 -</p></td>
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>34</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大森理生" title="wikilink">大森理生</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -234,6 +270,51 @@
 <td></td>
 </tr>
 <tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/佐藤恵介" title="wikilink">佐藤恵介</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/古屋颯眞" title="wikilink">古屋颯眞</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/小林慶太" title="wikilink">小林慶太</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/新良介" title="wikilink">新良介</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/森田翔" title="wikilink">森田翔</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>アルビレックス新潟U-15</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p><a href="../Page/ミッドフィールダー.md" title="wikilink">MF</a></p></td>
 <td><p><strong>7</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三田啓貴" title="wikilink">三田啓貴</a></p></td>
@@ -243,7 +324,7 @@
 <td><p><a href="../Page/ヴィッセル神戸.md" title="wikilink">ヴィッセル神戸</a></p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>8</strong></p></td>
 <td><p><a href="../Page/高萩洋次郎.md" title="wikilink">髙萩洋次郎</a></p></td>
 <td></td>
@@ -252,7 +333,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>10</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/東慶悟" title="wikilink">東慶悟</a> </p></td>
 <td></td>
@@ -261,7 +342,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>15</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ" title="wikilink">アダイウトン</a></p></td>
 <td></td>
@@ -270,7 +351,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>19</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/宮崎幾笑" title="wikilink">宮崎幾笑</a></p></td>
 <td></td>
@@ -279,7 +360,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>20</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ" title="wikilink">レアンドロ</a></p></td>
 <td></td>
@@ -288,7 +369,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>28</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/内田宅哉" title="wikilink">内田宅哉</a></p></td>
 <td></td>
@@ -297,7 +378,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>31</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/安部柊斗" title="wikilink">安部柊斗</a></p></td>
 <td></td>
@@ -306,7 +387,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>38</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/紺野和也" title="wikilink">紺野和也</a></p></td>
 <td></td>
@@ -315,7 +396,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>40</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/平川怜" title="wikilink">平川怜</a></p></td>
 <td></td>
@@ -325,7 +406,7 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><strong>44</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/品田愛斗" title="wikilink">品田愛斗</a></p></td>
 <td></td>
@@ -334,12 +415,75 @@
 <td></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><strong>45</strong></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルトゥール・シウヴァ・フェイトーザ" title="wikilink">アルトゥール・シルバ</a></p></td>
 <td></td>
 <td><p>2019年 -</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CAヴォトゥポランゲンセ" title="wikilink">CAヴォトゥポランゲンセ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/常盤亨太" title="wikilink">常盤亨太</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/梅原翔琉" title="wikilink">梅原翔琉</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/角昂志郎" title="wikilink">角昂志郎</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>東京武蔵野シティFCU-15</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大迫蒼人" title="wikilink">大迫蒼人</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/梶浦勇輝" title="wikilink">梶浦勇輝</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/安田虎士朗" title="wikilink">安田虎士朗</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/谷村峻" title="wikilink">谷村峻</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15むさし</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -389,6 +533,33 @@
 <td></td>
 </tr>
 <tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/青木友佑" title="wikilink">青木友佑</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><strong>-</strong></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/野澤零温" title="wikilink">野澤零温</a></p></td>
+<td></td>
+<td><p>2020年10月 -</p></td>
+<td><p>FC東京U-15深川</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td></td>
 <td></td>
 <td></td>
@@ -458,8 +629,8 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/山田将之_(サッカー選手)" title="wikilink">山田将之</a></p></td>
 <td></td>
 <td><p>2017年 - 2018年</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ツエーゲン金沢" title="wikilink">ツエーゲン金沢</a></p></td>
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/大宮アルディージャ" title="wikilink">大宮アルディージャ</a></p></td>
+<td><p>2020年10月20日 - 2021年1月31日</p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -558,31 +729,26 @@
 <tr class="odd">
 <td><p>年</p></td>
 <td><p>一般</p></td>
-<td><p>条件付き</p></td>
-<td></td>
+<td><p>条件付</p></td>
 </tr>
 <tr class="even">
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
-<td><p>C契約</p></td>
 </tr>
 <tr class="odd">
 <td><p>1999</p></td>
 <td><p><a href="../Page/サンドロ・チャベス・デ・アシス・ロサ.md" title="wikilink">サンドロ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アマラオ" title="wikilink">アマラオ</a></p></td>
-<td><p><a href="../Page/アウミール・モライス・アンドラーデ.md" title="wikilink">アウミール</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2000</p></td>
 <td><p><a href="../Page/リボニール・ルッシェル.md" title="wikilink">ツゥット </a></p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2001</p></td>
 <td><p><a href="../Page/クレズリー・エバンドロ・ギマラエンス.md" title="wikilink">ケリー</a></p></td>
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -590,11 +756,9 @@
 <td><p><a href="../Page/ジャーン・カルロ・ウィッテ.md" title="wikilink">ジャーン</a></p></td>
 <td><p><a href="../Page/マルセロ・メンドーサ・デ・マットス.md" title="wikilink">マルセロ</a>(-9月)<br />
  <a href="../Page/エーベル・グロリア・デ・オリベイラ.md" title="wikilink">オリベイラ</a> (9月-)</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2003</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -602,37 +766,31 @@
 <td><p>2004</p></td>
 <td><p><a href="../Page/ルーカス・セベリーノ.md" title="wikilink">ルーカス</a></p></td>
 <td><p><a href="../Page/呉章銀.md" title="wikilink">呉章銀</a>[1]</p></td>
-<td><p><a href="../Page/李忠成.md" title="wikilink">李忠成</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2005</p></td>
 <td><p><a href="../Page/ダニーロ・グスターボ・ヴェルグネ・ゴメス.md" title="wikilink">ダニーロ</a> (5月-7月)<br />
  <a href="../Page/ササ・サルセード.md" title="wikilink">ササ・サルセード</a> (8月-)</p></td>
 <td><p><a href="../Page/リチェーリ・カンタニェーデ・デ・オリベイラ.md" title="wikilink">リチェーリ</a> (05年8月-)</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2006</p></td>
 <td><p><a href="../Page/ササ・サルセード.md" title="wikilink">ササ・サルセード</a> (-7月)<br />
  <a href="../Page/ワシントン・ルイス・マスカレニャス・シルバ.md" title="wikilink">ワシントン</a> (8月-)</p></td>
 <td></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>2007</p></td>
 <td><p><a href="../Page/エバウド・シルバ・ドス・サントス.md" title="wikilink">エバウド</a></p></td>
 <td><p><a href="../Page/パウロ・ワンチョペ.md" title="wikilink">ワンチョペ</a> (-6月)</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>2008</p></td>
 <td><p><a href="../Page/ブルーノ・エベルトン・クアドロス.md" title="wikilink">ブルーノ・クアドロス</a></p></td>
 <td><p><a href="../Page/エヴェラルド・デ・ヘスス・ペレイラ.md" title="wikilink">カボレ</a> (-09年9月)</p></td>
-<td><p><a href="../Page/エメルソン・デ・アンドラーデ・サントス.md" title="wikilink">エメルソン</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2009</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -640,25 +798,20 @@
 <td><p>2010</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/リカルド・アウベス・ペレイラ" title="wikilink">リカルジーニョ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/金英権" title="wikilink">キム・ヨングン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/徐庸徳" title="wikilink">ソ・ヨンドク</a> (7月-)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ロベルト・セザー・ザルディン・ロドリゲス" title="wikilink">ロベルト・セザー</a></p></td>
 <td><p><a href="../Page/ホベルト・ジュリオ・デ・フィゲイレド.md" title="wikilink">ホベルト</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ペドロ・ビスポ・モレイラ・ジュニオール" title="wikilink">ペドロ・ジュニオール</a> (-6月)<br />
- <a href="../Page/ルーカス・セベリーノ.md" title="wikilink">ルーカス</a> (7月-)</p></td>
 </tr>
 <tr class="even">
 <td><p>2012</p></td>
 <td><p><a href="../Page/エジミウソン・ドス・サントス・シルバ.md" title="wikilink">エジミウソン</a> (7月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネマニャ・ヴチチェヴィッチ" title="wikilink">ネマニャ・ヴチチェヴィッチ</a><br />
 (12年8月-)</p></td>
-<td><p><a href="../Page/ルーカス・セベリーノ.md" title="wikilink">ルーカス</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>2013</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -667,7 +820,6 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/エドゥアルド・ゴンザウヴェス・デ・オリヴェイラ" title="wikilink">エドゥー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マテウス・フェハス" title="wikilink">マテウス</a> (-7月)<br />
  <a href="https://ja.wikipedia.org/wiki/ミケーレ・カニーニ" title="wikilink">カニーニ</a> (7月-)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/郭熙柱" title="wikilink">カク・ヒジュ</a> (4月-9月)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2015</p></td>
@@ -675,18 +827,14 @@
  <a href="https://ja.wikipedia.org/wiki/ネイサン・バーンズ" title="wikilink">ネイサン・バーンズ</a> (7月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ミケーレ・カニーニ" title="wikilink">カニーニ</a> (-6月)<br />
  <a href="../Page/ブラダ・アブラモフ.md" title="wikilink">ブラダ・アブラモフ</a> (9月-)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランシスコ・ホセ・サンダサ・アセンシオ" title="wikilink">サンダサ</a> (7月-)</p></td>
 </tr>
 <tr class="even">
 <td><p>2016</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネイサン・バーンズ" title="wikilink">ネイサン・バーンズ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/河大成" title="wikilink">ハ・デソン</a> (-6月)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フランシスコ・ホセ・サンダサ・アセンシオ" title="wikilink">サンダサ</a> (-3月)<br />
- <a href="https://ja.wikipedia.org/wiki/ムリキ_(サッカー選手)" title="wikilink">ムリキ</a> (4月-)</p></td>
 </tr>
 <tr class="odd">
 <td><p>外国籍選手枠ルール改正</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -694,30 +842,25 @@
 <td><p>年</p></td>
 <td><p>一般</p></td>
 <td><p>条件付き</p></td>
-<td></td>
 </tr>
 <tr class="odd">
 <td><p>1</p></td>
 <td><p>2</p></td>
 <td><p>3</p></td>
-<td><p>4</p></td>
 </tr>
 <tr class="even">
 <td><p>2017</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ネイサン・バーンズ" title="wikilink">ネイサン・バーンズ</a> (-6月)<br />
  <a href="https://ja.wikipedia.org/wiki/張賢秀" title="wikilink">チャン・ヒョンス</a> (7月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/兪仁秀" title="wikilink">ユ・インス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ピーター・ウタカ" title="wikilink">ピーター・ウタカ</a> (3月-)</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/張賢秀" title="wikilink">チャン・ヒョンス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディエゴ・オリヴェイラ・デ・ケイロス" title="wikilink">ディエゴ・オリヴェイラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/リンス・リマ・デ・ブリット" title="wikilink">リンス</a> (7月-)</p></td>
 </tr>
 <tr class="even">
 <td><p>外国籍選手枠ルール改正</p></td>
-<td></td>
 <td></td>
 <td></td>
 </tr>
@@ -725,11 +868,9 @@
 <td><p>年</p></td>
 <td><p>一般</p></td>
 <td><p>条件付き</p></td>
-<td></td>
 </tr>
 <tr class="even">
 <td><p>提携国枠</p></td>
-<td><p>在日枠</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -738,13 +879,11 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/張賢秀" title="wikilink">チャン・ヒョンス</a> (-7月)<br />
  <a href="https://ja.wikipedia.org/wiki/呉宰碩" title="wikilink">オ・ジェソク</a> (7月-)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ディエゴ・オリヴェイラ・デ・ケイロス" title="wikilink">ディエゴ・オリヴェイラ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジャエウ・フェレイラ・ヴィエイラ" title="wikilink">ジャエル</a></p></td>
 </tr>
 <tr class="even">
 <td><p>2020</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アダイウトン・ドス・サントス・ダ・シルバ" title="wikilink">アダイウトン</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウェベルソン・レアンドロ・オリベイラ・モウラ" title="wikilink">レアンドロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ジョアン・オマリ" title="wikilink">ジョアン・オマリ</a></p></td>
 </tr>
 </tbody>
 </table>
@@ -1670,7 +1809,8 @@
 <td><p>安部柊斗</p></td>
 <td><p>ジョアン・オマリ</p></td>
 <td><p>林彰洋</p></td>
-<td><p>チャヤトーン</p></td>
+<td><p>大森理生<br />
+チャヤトーン</p></td>
 <td><p>鈴木喜丈</p></td>
 <td><p>柳貴博</p></td>
 <td><p>中村帆高</p></td>
@@ -2903,7 +3043,7 @@
 <td><p><a href="../Page/長友佑都.md" title="wikilink">長友佑都</a></p></td>
 <td><p>2008-2011.1</p></td>
 <td></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガラタサライSK_(サッカー)" title="wikilink">ガラタサライ</a></p></td>
+<td><p><a href="../Page/オリンピック・マルセイユ.md" title="wikilink">オリンピック・マルセイユ</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/今野泰幸.md" title="wikilink">今野泰幸</a></p></td>

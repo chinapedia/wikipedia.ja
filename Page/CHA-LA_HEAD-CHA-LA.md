@@ -300,7 +300,7 @@
 
 ## 出典
 
-[Category:影山ヒロノブの楽曲](https://ja.wikipedia.org/wiki/Category:影山ヒロノブの楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:ドラゴンボールの音楽](https://ja.wikipedia.org/wiki/Category:ドラゴンボールの音楽 "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:ティームエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ティームエンタテインメントの楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
+[Category:影山ヒロノブの楽曲](https://ja.wikipedia.org/wiki/Category:影山ヒロノブの楽曲 "wikilink") [Category:森雪之丞が制作した楽曲](https://ja.wikipedia.org/wiki/Category:森雪之丞が制作した楽曲 "wikilink") [Category:清岡千穂が制作した楽曲](https://ja.wikipedia.org/wiki/Category:清岡千穂が制作した楽曲 "wikilink") [Category:FLOWの楽曲](https://ja.wikipedia.org/wiki/Category:FLOWの楽曲 "wikilink") [Category:1989年のシングル](https://ja.wikipedia.org/wiki/Category:1989年のシングル "wikilink") [Category:2005年のシングル](https://ja.wikipedia.org/wiki/Category:2005年のシングル "wikilink") [Category:アニメ映画主題歌](https://ja.wikipedia.org/wiki/Category:アニメ映画主題歌 "wikilink") [Category:ドラゴンボールの音楽](https://ja.wikipedia.org/wiki/Category:ドラゴンボールの音楽 "wikilink") [Category:日本コロムビアのシングル](https://ja.wikipedia.org/wiki/Category:日本コロムビアのシングル "wikilink") [Category:ティームエンタテインメントの楽曲](https://ja.wikipedia.org/wiki/Category:ティームエンタテインメントの楽曲 "wikilink") [Category:楽曲_ち](https://ja.wikipedia.org/wiki/Category:楽曲_ち "wikilink")
 
 1.
 2.

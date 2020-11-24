@@ -9,7 +9,7 @@
 
   - [スマイルナビゲーション](https://ja.wikipedia.org/wiki/NSTくらしの情報 "wikilink")（月 - 金曜 11:20 - 11:25、日曜 14:55 - 15:00）
   - [NST Newsタッチ](../Page/NST_Newsタッチ.md "wikilink")（月曜 - 金曜 18:09 - 19:00）
-  - [FNN・NST Live News it\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土曜 - 日曜 17:30 - 18:00）
+  - [FNN・NST Live News イット\!](https://ja.wikipedia.org/wiki/NST_Live_News_it! "wikilink")（土曜 - 日曜 17:30 - 18:00）
   - [八千代ライブ](https://ja.wikipedia.org/wiki/八千代ライブ "wikilink")（金曜 15:50 - 16:50、再放送・金曜 25:00 - 26:00、※2020年5月8日より放送休止）
   - [NSTこんやのニュース](../Page/NSTニュース.md "wikilink")（日曜 21:48 - 21:54、月曜 - 土曜 20:54 - 21:00、2015年3月までは『NSTニュース』）
   - [八千代 A GO\!GO\!](https://ja.wikipedia.org/wiki/八千代_A_GO!GO! "wikilink")（金曜 22:52 - 23:00、八千代コースターの姉妹番組）
@@ -49,7 +49,7 @@
   - [村上マヨネーズのツッコませて頂きます\!](https://ja.wikipedia.org/wiki/村上マヨネーズのツッコませて頂きます! "wikilink")（月曜 25:25 - 25:55、[関西テレビ制作](../Page/関西テレビ放送.md "wikilink")）
   - [KinKi Kidsのブンブブーン](https://ja.wikipedia.org/wiki/KinKi_Kidsのブンブブーン "wikilink")（水曜 25:25 - 26:10）
   - 粋男流儀〜遊びの美学〜（木曜 25:25 - 25:40、[BSフジ](../Page/BSフジ.md "wikilink")制作）
-  - [富豪刑事 Balance:UNLIMITED](https://ja.wikipedia.org/wiki/富豪刑事#テレビアニメ "wikilink")（木曜 25:45 - 26:15、『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠）
+  - [約束のネバーランド](https://ja.wikipedia.org/wiki/約束のネバーランド "wikilink")（木曜 25:45 - 26:15、『[ノイタミナ](../Page/ノイタミナ.md "wikilink")』枠）
   - [ウラマヨ\!](https://ja.wikipedia.org/wiki/ウラマヨ! "wikilink")（金曜 25:00 - 26:00、関西テレビ制作）
   - [志村友達](../Page/志村友達.md "wikilink") （金曜 26:00 - 26:30）
   - [ONE PIECE](../Page/ONE_PIECE_\(アニメ\).md "wikilink") （土曜 5:30 - 6:00）
@@ -85,7 +85,7 @@
 
 ### その他
 
-  - [フィッシング倶楽部](https://ja.wikipedia.org/wiki/フィッシング倶楽部 "wikilink")（日曜 6:28 - 7:00、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")制作）
+  - [ロンブー亮の釣りならまかせろ\!](https://ja.wikipedia.org/wiki/ロンブー亮の釣りならまかせろ! "wikilink")（日曜 6:28 - 7:00、[テレビ埼玉](https://ja.wikipedia.org/wiki/テレビ埼玉 "wikilink")制作）
 
 ## 過去に放送されていた番組
 
@@ -382,6 +382,7 @@
   - [マメシバ一郎 フーテンの芝二郎](https://ja.wikipedia.org/wiki/幼獣マメシバ#マメシバ一郎_フーテンの芝二郎 "wikilink")
   - [クイーンズランド歩き](https://ja.wikipedia.org/wiki/クイーンズランド歩き "wikilink")（金曜 16:50 - 17:00、[バツフォ映像舎](https://ja.wikipedia.org/wiki/バツフォ映像舎 "wikilink")制作）
   - [BanG Dream\!](https://ja.wikipedia.org/wiki/BanG_Dream! "wikilink")
+  - [フィッシング倶楽部](https://ja.wikipedia.org/wiki/フィッシング倶楽部 "wikilink")（テレビ埼玉制作）
 
 ## 脚注
 

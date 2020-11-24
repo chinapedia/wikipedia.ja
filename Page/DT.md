@@ -20,6 +20,7 @@
 <!-- end list -->
 
   - [ダグラス DT](https://ja.wikipedia.org/wiki/ダグラス_DT "wikilink") - アメリカの雷撃機。
+  - [鉄道](../Page/鉄道.md "wikilink")の[サインシステム](../Page/サインシステム.md "wikilink")において、[東急](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")[田園都市線](https://ja.wikipedia.org/wiki/田園都市線 "wikilink") (**D**en-en**T**oshi) の[路線記号](https://ja.wikipedia.org/wiki/路線記号 "wikilink")として用いられる。
   - 作品名
       - [DT (映画)](https://ja.wikipedia.org/wiki/DT_\(映画\) "wikilink") - [遠藤一平](https://ja.wikipedia.org/wiki/遠藤一平 "wikilink")監督の映画。
       - [DTテレビ](https://ja.wikipedia.org/wiki/DTテレビ "wikilink")（トークバラエティ番組） - [AbemaTV](https://ja.wikipedia.org/wiki/AbemaTV "wikilink")の番組。
@@ -36,7 +37,6 @@
 
   - [ダーク・トランキュリティ](../Page/ダーク・トランキュリティ.md "wikilink") (**D**ark **T**ranquillity) - スウェーデンの[メロディックデスメタル](../Page/メロディックデスメタル.md "wikilink")バンド。
   - ディフェンシブタックル (**D**efensive **T**ackle) - [アメリカンフットボール](../Page/アメリカンフットボール.md "wikilink")の[ポジションの一つ](../Page/アメリカンフットボールのポジション.md "wikilink")。
-  - [田園都市線](https://ja.wikipedia.org/wiki/東急田園都市線 "wikilink") (**D**en-en-**T**oshi Line) - [東急電鉄](https://ja.wikipedia.org/wiki/東急電鉄 "wikilink")の鉄道路線・[駅ナンバリング](../Page/駅ナンバリング.md "wikilink")記号。
   - デザイン・テクノロジー (**D**esign **T**echnology)
   - [ドイツテレコム](../Page/ドイツテレコム.md "wikilink") (**D**eutsche **T**elekom AG)
   - [発信音](https://ja.wikipedia.org/wiki/発信音 "wikilink") (**D**ial **T**one)

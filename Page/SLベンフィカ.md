@@ -858,6 +858,8 @@
 | [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19 "wikilink") | 準々決勝敗退                                                          |                                         |                                       |                                                   |       |       |
 | 2019-20                                                             | プリメイラ・リーガ                                                       | 34                                      | 24                                    | 5                                                 | 5     | 71    |
 | [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2019-20 "wikilink") | ベスト32                                                           |                                         |                                       |                                                   |       |       |
+| 2020-21                                                             | プリメイラ・リーガ                                                       | 34                                      |                                       |                                                   |       |       |
+| [EL](https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21 "wikilink") | *グループリーグ*                                                       |                                         |                                       |                                                   |       |       |
 
 ### 過去の成績
 
@@ -974,7 +976,7 @@
 | 1996-97                                                             | プリメイラ・ジヴィゾン                                                       | 34                                      | 17                                    | 7                                                 | 10    | 49           |
 | 1997-98                                                             | プリメイラ・ジヴィゾン                                                       | 34                                      | 20                                    | 8                                                 | 6     | 62           |
 | 1998-99                                                             | プリメイラ・ジヴィゾン                                                       | 34                                      | 19                                    | 8                                                 | 7     | 71           |
-| 1999-2000                                                           | [プリメイラ・リーガ](https://ja.wikipedia.org/wiki/プリメイラ・リーガ "wikilink")   | 34                                      | 21                                    | 6                                                 | 7     | 58           |
+| 1999-00                                                             | [プリメイラ・リーガ](https://ja.wikipedia.org/wiki/プリメイラ・リーガ "wikilink")   | 34                                      | 21                                    | 6                                                 | 7     | 58           |
 | 2000-01                                                             | プリメイラ・リーガ                                                         | 34                                      | 15                                    | 9                                                 | 10    | 54           |
 | 2001-02                                                             | プリメイラ・リーガ                                                         | 34                                      | 17                                    | 12                                                | 5     | 66           |
 | 2002-03                                                             | プリメイラ・リーガ                                                         | 34                                      | 23                                    | 6                                                 | 5     | 74           |
@@ -1135,7 +1137,7 @@
 <td><p>3</p></td>
 </tr>
 <tr class="odd">
-<td><p>1999-2000</p></td>
+<td><p>1999-00</p></td>
 <td><p><a href="../Page/UEFAヨーロッパリーグ.md" title="wikilink">UEFAカップ</a></p></td>
 <td><p>3回戦敗退</p></td>
 <td><p>6</p></td>
@@ -2453,7 +2455,7 @@ UEFAチャンピオンズカップ時代も含む
 0-0 (H)</p></td>
 </tr>
 <tr class="even">
-<td><p>1999-2000</p></td>
+<td><p>1999-00</p></td>
 <td><p>1回戦</p></td>
 <td><p><a href="../Page/FCディナモ・ブカレスト.md" title="wikilink">FCディナモ・ブカレスト</a></p></td>
 <td><p>0-1 (H)[123]<br />
@@ -2986,9 +2988,9 @@ UEFAチャンピオンズカップ時代も含む
 
 </div>
 
-  - 2020年9月29日時点
+  - 2020年10月6日時点
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink")) ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Brazil.svg "wikilink"))       ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Serbia.svg "wikilink")) ★   ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Bosnia_and_Herzegovina.svg "wikilink"))★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_French_Guiana.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Cabo_Verde.svg "wikilink")) ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -3845,7 +3847,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Ebbe Skovdahl</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エッベ・スコブダール" title="wikilink">エッベ・スコブダール</a></p></td>
 <td><p>1987年7月10日</p></td>
 <td><p>1987年11月28日 </p></td>
 <td></td>
@@ -4015,7 +4017,7 @@ UEFAチャンピオンズカップ時代も含む
 <td></td>
 </tr>
 <tr class="even">
-<td><p>Shéu Han</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/シェウ・ハン" title="wikilink">シェウ・ハン</a></p></td>
 <td><p>1999年5月3日</p></td>
 <td><p>1999年5月30日 </p></td>
 <td></td>

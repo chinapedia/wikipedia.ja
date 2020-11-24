@@ -8,7 +8,9 @@
   - [勝田一樹](https://ja.wikipedia.org/wiki/勝田かず樹 "wikilink")（かつた かずき・[サックス](../Page/サクソフォーン.md "wikilink")）
   - [増崎孝司](https://ja.wikipedia.org/wiki/増崎孝司 "wikilink")（ますざき たかし・[ギター](../Page/ギター.md "wikilink")）
 
-[ドラムはデビュー以来現在まで固定はしていないが](../Page/ドラムセット.md "wikilink")、ライブにおいては当初は石川雅春が、青木智仁逝去後は大半を[則竹裕之](../Page/則竹裕之.md "wikilink")が担当している。[ベースは当初は](../Page/ベース_\(弦楽器\).md "wikilink")[青木智仁](../Page/青木智仁.md "wikilink")が主に担当していたが、2006年に青木が逝去し以降はレコーディングでは一時増崎・小野塚のどちらかが兼任し、ライブではグレッグ・リーが担当していた。2009年からはレコーディング・ライブともに[川崎哲平](https://ja.wikipedia.org/wiki/川崎哲平 "wikilink")がレギュラーサポートという形で担当している。2020年2月18日をもってオリジナルメンバーの[小野塚晃](../Page/小野塚晃.md "wikilink")（おのづか あきら・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")）が脱退した。
+[ドラムはデビュー以来現在まで固定はしていないが](../Page/ドラムセット.md "wikilink")、ライブにおいては当初は石川雅春が、青木智仁逝去後は大半を[則竹裕之](../Page/則竹裕之.md "wikilink")が担当している。[ベースは当初は](../Page/ベース_\(弦楽器\).md "wikilink")[青木智仁](../Page/青木智仁.md "wikilink")が主に担当していたが、2006年に青木が逝去し以降はレコーディングでは一時増崎・小野塚のどちらかが兼任し、ライブではグレッグ・リーが担当していた。2009年からはレコーディング・ライブともに[川崎哲平](https://ja.wikipedia.org/wiki/川崎哲平 "wikilink")がレギュラーサポートという形で担当している。
+
+2020年2月18日、同日のライブをもって、オリジナルメンバーの[小野塚晃](../Page/小野塚晃.md "wikilink")（おのづか あきら・[キーボード](../Page/キーボード_\(楽器\).md "wikilink")、[プログラミング](../Page/ミュージックシーケンサー.md "wikilink")）が脱退した\[1\]。
 
 ## 特徴
 
@@ -90,6 +92,8 @@
   - [矢嶋良介](../Page/矢嶋良介.md "wikilink")「[いつまでもLover's Day](https://ja.wikipedia.org/wiki/いつまでもLover's_Day "wikilink")」
   - [RAMJET PULLEY](https://ja.wikipedia.org/wiki/RAMJET_PULLEY "wikilink")「[blanco](https://ja.wikipedia.org/wiki/a_cup_of_day "wikilink")」
 
+## 脚注
+
 ## 外部リンク
 
   - [DIMENSION OFFICIAL WEBSITE](http://dimension-tokyo.jp/)
@@ -98,3 +102,5 @@
 
   -
 [Category:日本のジャズ・バンド](https://ja.wikipedia.org/wiki/Category:日本のジャズ・バンド "wikilink") [Category:日本のフュージョン・ミュージシャン](https://ja.wikipedia.org/wiki/Category:日本のフュージョン・ミュージシャン "wikilink") [Category:ビーイング系列所属者](https://ja.wikipedia.org/wiki/Category:ビーイング系列所属者 "wikilink")
+
+1.

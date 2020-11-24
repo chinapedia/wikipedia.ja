@@ -495,7 +495,7 @@
 <td><p>2009年（第64回）</p></td>
 <td><p><strong>新日本石油ENEOS</strong></p></td>
 <td><p><strong>4</strong>-2</p></td>
-<td><p><a href="../Page/三菱日立パワーシステムズ硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
+<td><p><a href="../Page/三菱パワー硬式野球部.md" title="wikilink">三菱重工横浜</a></p></td>
 <td></td>
 </tr>
 <tr class="odd">

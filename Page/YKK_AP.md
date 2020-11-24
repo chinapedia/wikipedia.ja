@@ -5,7 +5,7 @@
 
 ## 沿革
 
-  - [1957年](../Page/1957年.md "wikilink")（昭和32年） - 吉田工業（現・[YKK](../Page/YKK.md "wikilink")）の子会社で[スライドファスナーの輸出と伸銅品の営業を手がける](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")「吉田商事」として発足
+  - [1957年](../Page/1957年.md "wikilink")（昭和32年） - 吉田工業（現・[YKK](../Page/YKK.md "wikilink")）の子会社で[スライドファスナーの輸出と伸銅品の営業を手がける](https://ja.wikipedia.org/wiki/線ファスナー "wikilink")「吉田商事株式会社」として発足
   - [1959年](../Page/1959年.md "wikilink")（昭和34年） - [富山県](https://ja.wikipedia.org/wiki/富山県 "wikilink")[黒部市](../Page/黒部市.md "wikilink")でアルミ溶解と押し出しの操業開始
   - [1961年](https://ja.wikipedia.org/wiki/1961年 "wikilink")（昭和36年） - アルミ建具・スパンドレルなどの生産開始
   - [1962年](../Page/1962年.md "wikilink")（昭和37年） - ビル用アルミ[サッシ](../Page/サッシ.md "wikilink")の生産開始
@@ -23,9 +23,9 @@
   - [1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")（昭和62年） - アルミ外装建材生産販売開始
   - [1988年](../Page/1988年.md "wikilink")（昭和63年） - 引違いサッシ7Hシリーズ「フレミング」生産販売開始
   - [1989年](../Page/1989年.md "wikilink")（平成元年） - YKK台湾社 AP事業部を開設。アメリカH.H.ロバートソン社・カプルスプロダクツ事業部とカーテンウォールにおいて技術提携
-  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 商号を「YKKアーキテクチュラルプロダクツ株式会社」に変更し、YKK APが創業
+  - [1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")（平成2年） - 商号を「ワイケイケイアーキテクチュラルプロダクツ株式会社」に変更。
   - [1991年](../Page/1991年.md "wikilink")（平成3年） - 河内アルミニウム工業株式会社（旧 YKK APエクステリア株式会社）の発行済み全株式を取得。YKK APアメリカ社を設立
-  - [1992年](../Page/1992年.md "wikilink")（平成4年） - 滑川工場（富山県 現 滑川製造所）が操業開始
+  - [1992年](../Page/1992年.md "wikilink")（平成4年） - 滑川工場（現:滑川製造所）が操業開始
   - [1994年](../Page/1994年.md "wikilink")（平成6年） - 建材製品の商標を｢YKK」から「YKK AP」に変更。
   - [1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（平成7年） - 荻生工場（現・黒部荻生製造所）が操業開始
   - [1999年](../Page/1999年.md "wikilink")（平成11年） - YKK AP香港社、大連YKK AP社（現・YKK AP大連社）を設立

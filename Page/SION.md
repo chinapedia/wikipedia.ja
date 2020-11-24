@@ -190,13 +190,19 @@
 
 ## 外部リンク
 
-  - [公式ページ「うりきち」](http://www.interq.or.jp/rock/sion/)
+  -
   - [マーズ・ミュージック（所属事務所）公式ページ](http://mars-music.jp/?page_id=13)
+
   - [BUGcorporation（旧所属事務所）公式ページ](http://www.bug-corp.com/bug/sion/top.html)
+
   - [テイチク公式ページ](http://www.teichiku.co.jp/artist/sion/)
+
   - [オフィシャルFacebookページ](https://www.facebook.com/SIONofficial)
+
   - [オフィシャルTwitter](https://twitter.com/SIONofficial_jp)
+
   - [テイチク旧公式ページ](http://www.teichiku.co.jp/artist/baidis/sion/)
+
   - [ソニーミュージック（旧BMG）公式ページ](https://www.sonymusic.co.jp/artist/SION/)
 
 ## 脚注

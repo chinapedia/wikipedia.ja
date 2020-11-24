@@ -448,9 +448,9 @@
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月16日](../Page/10月16日.md "wikilink")現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Montserrat.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Barbados.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Côte_d'Ivoire.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))        ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★     ★   ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Montserrat.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Barbados.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Democratic_Republic_of_the_Congo.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))         ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ★     ★   ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Scotland.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -475,6 +475,8 @@
   - ロン・アトキンソン 1987 - 1988
 
   - [オズワルド・アルディレス](../Page/オズワルド・アルディレス.md "wikilink") 1992 - 1993
+
+  - [キース・バーキンショー](https://ja.wikipedia.org/wiki/キース・バーキンショー "wikilink") 1993-1994
 
   - [ガリー・メグソン](https://ja.wikipedia.org/wiki/ガリー・メグソン "wikilink") 2000 - 2004
 
@@ -531,6 +533,8 @@
   - [ゴンサロ・ハラ](https://ja.wikipedia.org/wiki/ゴンサロ・ハラ "wikilink") 2009 - 2013
 
   - [ガブリエル・タマシュ](https://ja.wikipedia.org/wiki/ガブリエル・タマシュ "wikilink") 2010 - 2013
+
+  - [クレイグ・ドーソン](https://ja.wikipedia.org/wiki/クレイグ・ドーソン "wikilink") 2010 - 2019
 
   - [キーラン・ギブス](https://ja.wikipedia.org/wiki/キーラン・ギブス "wikilink") 2017 -
 
@@ -592,9 +596,13 @@
 
   - [ピーター・オデムウィンギー](https://ja.wikipedia.org/wiki/ピーター・オデムウィンギー "wikilink") 2010 - 2013
 
+  - [サイド・ベラヒーノ](https://ja.wikipedia.org/wiki/サイド・ベラヒーノ "wikilink") 2011 - 2017
+
   - [ニコラ・アネルカ](../Page/ニコラ・アネルカ.md "wikilink") 2013 - 2014
 
   - [ヴィクター・アニチェベ](https://ja.wikipedia.org/wiki/ヴィクター・アニチェベ "wikilink") 2013 - 2016
+
+  - [サロモン・ロンドン](https://ja.wikipedia.org/wiki/ホセ・サロモン・ロンドン "wikilink") 2015 - 2019
 
   - [オリヴァー・バーク](https://ja.wikipedia.org/wiki/オリヴァー・バーク "wikilink") 2017 - 2020
 

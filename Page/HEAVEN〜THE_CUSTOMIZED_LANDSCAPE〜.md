@@ -5,15 +5,15 @@
 
 ## 概要
 
-PIERROTが構築したストーリーの中で、1stアルバム『[FINALE](../Page/FINALE.md "wikilink")』が「現世（地上世界）」、2ndアルバム『[PRIVATE ENEMY](../Page/PRIVATE_ENEMY.md "wikilink")』が「地獄」、そしてこの3rdアルバム『HEAVEN』が「天国」という設定を担っており、このアルバムにて1stアルバムから続く「君」と「僕」が主人公である一連の物語が終了する。
+PIERROTが構築したストーリーの中で、1枚目のアルバム『[FINALE](../Page/FINALE_\(PIERROTのアルバム\).md "wikilink")』が「現世（地上世界）」、2枚目のアルバム『[PRIVATE ENEMY](../Page/PRIVATE_ENEMY.md "wikilink")』が「地獄」、そしてこの『HEAVEN』が「天国」という設定を担っており、このアルバムにて『FINALE』から続く「君」と「僕」が主人公である一連の物語が終了する。
 
 なお、バンドの意向によりキャッチコピーは作られなかった。
 
 「BIRTHDAY」終了後に隠しトラックとして「SUPER STRING THEORY」が含まれるが、それとは別に1曲目から巻き戻すと「[PARADOX](../Page/PARADOX_\(PIERROTの曲\).md "wikilink")」（1万枚限定シングル）が収録されている。
 
-このアルバムのメンバーインタビューとレコーディングの模様が[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")にて独占放送された。
+このアルバムのメンバーインタビューとレコーディングの模様が『[スペースシャワーTV](../Page/スペースシャワーTV.md "wikilink")』にて独占放送された。
 
-アルバム発売後、【LANDSCAPE】と題した[5月8日](../Page/5月8日.md "wikilink")〜[5月10日](../Page/5月10日.md "wikilink")の3日間に渡る[日本武道館](../Page/日本武道館.md "wikilink")公演、そして[7月12日](../Page/7月12日.md "wikilink")からの全国ツアーPSYCHEDELIC HEAVENが行われた。
+アルバム発売後、【LANDSCAPE】と題した[5月8日](../Page/5月8日.md "wikilink")から[5月10日](../Page/5月10日.md "wikilink")の3日間にわたる[日本武道館](../Page/日本武道館.md "wikilink")公演、そして[7月12日](../Page/7月12日.md "wikilink")からの全国ツアーPSYCHEDELIC HEAVENが行われた。
 
 ## 収録曲
 

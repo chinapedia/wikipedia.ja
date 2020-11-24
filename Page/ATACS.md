@@ -155,7 +155,7 @@ ATACSの開発は[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")（[
 
 ## 今後の導入予定
 
-  - [2019年](../Page/2019年.md "wikilink")をめどに、本システムを応用した地方交通線向け列車制御システムを[小海線](https://ja.wikipedia.org/wiki/小海線 "wikilink")に導入し、交換駅における信号・進路制御、無線を用いたATS-Pによる速度制御を実施する予定である\[11\]。
+  - [2020年](../Page/2020年.md "wikilink")[10月12日](https://ja.wikipedia.org/wiki/10月12日 "wikilink")より、本システムを応用した地方交通線向け列車制御システムを[小海線](https://ja.wikipedia.org/wiki/小海線 "wikilink")に導入し、交換駅における信号・進路制御、無線を用いたATS-Pによる速度制御を実施\[11\]。
   - [2036年](../Page/2036年.md "wikilink")までに[首都圏全域での使用開始が目標とされる](../Page/首都圏_\(日本\).md "wikilink")\[12\]。
 
 ## 同等の保安システム

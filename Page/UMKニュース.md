@@ -110,8 +110,8 @@
 
 #### 現在のタイトル
 
-  - Live News it\!（全曜日）
-  - FNNニュース（年末年始・FNSの日の放送の日曜日・特別番組等で『Live News it\!』が放送休止の場合）
+  - [Live News イット\!](https://ja.wikipedia.org/wiki/Live_News_イット! "wikilink")（全曜日）
+  - [FNNニュース](https://ja.wikipedia.org/wiki/FNNニュース "wikilink")（年末年始・[FNSの日](../Page/FNSの日.md "wikilink")の放送の日曜日・特別番組等で『[Live News イット\!](https://ja.wikipedia.org/wiki/Live_News_イット! "wikilink")』が放送休止の場合）
 
 #### 過去のタイトル
 

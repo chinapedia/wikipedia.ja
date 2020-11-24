@@ -1,7 +1,7 @@
 > この記事は[The GazettE](https://ja.wikipedia.org/wiki/The_GazettE)から翻訳されています。
 
 
-**the GazettE**（ガゼット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。所属事務所は[株式会社HERESY](https://ja.wikipedia.org/wiki/株式会社HERESY "wikilink")。
+**the GazettE**（ガゼット）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ヴィジュアル系](../Page/ヴィジュアル系.md "wikilink")[ロック](../Page/ロック_\(音楽\).md "wikilink")[バンド](../Page/バンド_\(音楽\).md "wikilink")\[1\]。所属事務所は株式会社HERESY。
 
 ## 概要
 
@@ -113,7 +113,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 
 [The_Gazette_wordmark.svg](https://ja.wikipedia.org/wiki/File:The_Gazette_wordmark.svg "fig:The_Gazette_wordmark.svg")
 
-  - [2006年](../Page/2006年.md "wikilink")2月、2ndアルバム『[NIL](../Page/NIL.md "wikilink")』をリリース。それに伴いロゴが一新され、表記も"**the GazettE**"に変更される（後にインタビューで"この頃は早く大日本異端芸者を捨てたかった"と語っている）\[16\]。同アルバムを引っ提げて開催された全国ツアー「Nameless Liberty.Six Guns...」のファイナル公演にて自身初の[日本武道館](../Page/日本武道館.md "wikilink")でのワンマンライブを成功させる\[17\]。同年11月、10thシングル『[Filth in the beauty](https://ja.wikipedia.org/wiki/Filth_in_the_beauty "wikilink")』のリリースに伴い、テレビ番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」にゲスト出演\[18\]。自身初のゴールデン番組出演となった。
+  - [2006年](../Page/2006年.md "wikilink")2月、2ndアルバム『[NIL](https://ja.wikipedia.org/wiki/NIL_\(アルバム\) "wikilink")』をリリース。それに伴いロゴが一新され、表記も"**the GazettE**"に変更される（後にインタビューで"この頃は早く大日本異端芸者を捨てたかった"と語っている）\[16\]。同アルバムを引っ提げて開催された全国ツアー「Nameless Liberty.Six Guns...」のファイナル公演にて自身初の[日本武道館](../Page/日本武道館.md "wikilink")でのワンマンライブを成功させる\[17\]。同年11月、10thシングル『[Filth in the beauty](https://ja.wikipedia.org/wiki/Filth_in_the_beauty "wikilink")』のリリースに伴い、テレビ番組「[HEY\!HEY\!HEY\!](https://ja.wikipedia.org/wiki/HEY!HEY!HEY! "wikilink")」にゲスト出演\[18\]。自身初のゴールデン番組出演となった。
 
 <!-- end list -->
 
@@ -411,7 +411,7 @@ CD制作の際は選曲会を開き、各自が持ち寄ったデモの中から
 | ----------- | --------------------------------------------------------------------------------------- | ----------- | --- |
 | 01          | **[DISORDER](../Page/DISORDER.md "wikilink")**                                          | 2004年10月13日 | 19位 |
 | 2006年5月3日再発 |                                                                                         |             |     |
-| 02          | **[NIL](../Page/NIL.md "wikilink")**                                                    | 2006年2月8日   | 4位  |
+| 02          | **[NIL](https://ja.wikipedia.org/wiki/NIL_\(アルバム\) "wikilink")**                        | 2006年2月8日   | 4位  |
 | 03          | **[STACKED RUBBISH](../Page/STACKED_RUBBISH.md "wikilink")**                            | 2007年7月4日   | 3位  |
 | 04          | **[DIM](https://ja.wikipedia.org/wiki/DIM_\(アルバム\) "wikilink")**                        | 2009年7月15日  | 5位  |
 | 05          | **[TOXIC](https://ja.wikipedia.org/wiki/TOXIC "wikilink")**                             | 2011年10月5日  | 6位  |

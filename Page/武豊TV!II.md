@@ -615,6 +615,16 @@
 <td><p>宝塚記念プレイバック</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>113</p></td>
+<td><p>夏競馬プレイバック</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>114</p></td>
+<td><p>凱旋門賞プレイバック</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 

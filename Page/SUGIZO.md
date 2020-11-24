@@ -62,7 +62,7 @@
   - 中学では、[バレーボール](../Page/バレーボール.md "wikilink")部に在籍していた。
   - 両胸〜両肩〜両腕〜両手手の甲にかけてタトゥーを施している。
   - デビュー当時からずっと愛用しているシルバーアクセサリーは『ゴッドサイズ』で、その頃からデザイナー・HIROSHIとは親交があり、全てオーダーメイドしている。
-  - 車好きであり、[ミニクーパー](https://ja.wikipedia.org/wiki/ミニクーパー "wikilink")、[ロータス・エスプリ](../Page/ロータス・エスプリ.md "wikilink")などを所有していた。若い頃は[ボンドカー](../Page/ボンドカー.md "wikilink")として有名な[アストンマーティン](../Page/アストンマーティン.md "wikilink")に憧れており、「自分へのご褒美」として購入を考えていたが、現在では環境問題の観点から[ハイブリッドカー](../Page/ハイブリッドカー.md "wikilink")の[プリウスを所有している](https://ja.wikipedia.org/wiki/トヨタ・プリウス "wikilink")。
+  - 車好きであり、[ミニクーパー](https://ja.wikipedia.org/wiki/ミニクーパー "wikilink")、[ロータス・エスプリ](../Page/ロータス・エスプリ.md "wikilink")などを所有していた。若い頃は[ボンドカー](../Page/ボンドカー.md "wikilink")として有名な[アストンマーティン](../Page/アストンマーティン.md "wikilink")に憧れており、「自分へのご褒美」として購入を考えていたが、現在では環境問題の観点から[燃料電池自動車](../Page/燃料電池自動車.md "wikilink")の[トヨタ・MIRAI](https://ja.wikipedia.org/wiki/トヨタ・MIRAI "wikilink")を所有している。
   - 真矢とは高校からの友人。お互いの第一印象は「タチが悪そう」（真矢はパンチパーマで、SUGIZOは目が隠れるほど長い前髪にパーマをかけていた）。ともに軽音楽部に所属していた。
 
 ### 社会活動
@@ -309,25 +309,30 @@
 
 ##### デジタル・シングル
 
-| 発売日                                 | タイトル                                            | 収録アルバム             |
-| ----------------------------------- | ----------------------------------------------- | ------------------ |
-| 2009/12/16                          | **MESSIAH**                                     | **FLOWER OF LIFE** |
-| **TELL ME WHY YOU HIDE THE TRUTH?** |                                                 |                    |
-| 2010/1/27                           | **FATIMA**                                      |                    |
-| **DO-FUNK DANCE**                   | **TREE OF LIFE**                                |                    |
-| 2010/2/24                           | **PRANA**                                       | **FLOWER OF LIFE** |
-| 2010/3/31                           | **Dear Spiritual Life**                         | **TREE OF LIFE**   |
-| 2011/4/13                           | **NO MORE NUKES PLAY THE GUITAR**               |                    |
-| **The EDGE**                        | **FLOWER OF LIFE**                              |                    |
-| 2011/6/29                           | **MIRANDA** **feat. MaZDA**                     | **TREE OF LIFE**   |
-| 2011/7/27                           | **NEO COSMOSCAPE Remix by SYSTEM 7**            |                    |
-| 2011/8/15                           | **ENOLA GAY**                                   | **FLOWER OF LIFE** |
-| 2011/9/11                           | **PRAY FOR MOTHER EARTH feat. TOSHINORI KONDO** | **TREE OF LIFE**   |
-| 2012.08.29                          | **FINAL OF THE MESSIAH Remix by SYSTEM7**       | **VESICA PISCES**  |
-| 2012.09.11                          | **SUPER LOVE 2012 feat. COLDFEET**              |                    |
-| 2016.08.15                          | **LIFE ON MARS?**                               |                    |
-| 2016.09.30                          | **Lux Aeterna**                                 | **「音」**            |
-| 2016.10.31                          | **Raummusik**                                   |                    |
+| 発売日                                 | タイトル                                                                                                                                                  | 収録アルバム                                       |
+| ----------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------- |
+| 2009/12/16                          | **MESSIAH**                                                                                                                                           | **FLOWER OF LIFE**                           |
+| **TELL ME WHY YOU HIDE THE TRUTH?** |                                                                                                                                                       |                                              |
+| 2010/1/27                           | **FATIMA**                                                                                                                                            |                                              |
+| **DO-FUNK DANCE**                   | **TREE OF LIFE**                                                                                                                                      |                                              |
+| 2010/2/24                           | **PRANA**                                                                                                                                             | **FLOWER OF LIFE**                           |
+| 2010/3/31                           | **Dear Spiritual Life**                                                                                                                               | **TREE OF LIFE**                             |
+| 2011/4/13                           | **NO MORE NUKES PLAY THE GUITAR**                                                                                                                     |                                              |
+| **The EDGE**                        | **FLOWER OF LIFE**                                                                                                                                    |                                              |
+| 2011/6/29                           | **MIRANDA** **feat. MaZDA**                                                                                                                           | **TREE OF LIFE**                             |
+| 2011/7/27                           | **NEO COSMOSCAPE Remix by SYSTEM 7**                                                                                                                  |                                              |
+| 2011/8/15                           | **ENOLA GAY**                                                                                                                                         | **FLOWER OF LIFE**                           |
+| 2011/9/11                           | **PRAY FOR MOTHER EARTH feat. TOSHINORI KONDO**                                                                                                       | **TREE OF LIFE**                             |
+| 2012.08.29                          | **FINAL OF THE MESSIAH Remix by SYSTEM7**                                                                                                             | **VESICA PISCES**                            |
+| 2012.09.11                          | **SUPER LOVE 2012 feat. COLDFEET**                                                                                                                    |                                              |
+| 2016.08.15                          | **LIFE ON MARS?**                                                                                                                                     | **「音」**                                      |
+| 2016.09.30                          | **Lux Aeterna**                                                                                                                                       |                                              |
+| 2016.10.31                          | **Raummusik**                                                                                                                                         |                                              |
+| 2019/6/11                           | **めぐりあい feat. [GLIM SPANKY](https://ja.wikipedia.org/wiki/GLIM_SPANKY "wikilink")**                                                                   | **機動戦士ガンダム 40th Anniversary Album ～BEYOND～** |
+| 2019/6/18                           | **[水の星へ愛をこめて](https://ja.wikipedia.org/wiki/水の星へ愛をこめて_\(曲\) "wikilink") feat. [コムアイ（水曜日のカンパネラ）](https://ja.wikipedia.org/wiki/水曜日のカンパネラ "wikilink")** |                                              |
+| 2019/6/25                           | **A Red Ray feat. [miwa](https://ja.wikipedia.org/wiki/miwa "wikilink")**                                                                             |                                              |
+| 2019/8/13                           | **光の涯 feat. [アイナ・ジ・エンド](https://ja.wikipedia.org/wiki/アイナ・ジ・エンド "wikilink")([BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink"))**                  |                                              |
+| 2020/5/18                           | **ENDLESS ～時を超えて～ feat. [大黒摩季](https://ja.wikipedia.org/wiki/大黒摩季 "wikilink")**                                                                       |                                              |
 
 #### アルバム
 
@@ -518,16 +523,16 @@
 <li>CD 1</li>
 </ul>
 <ol>
-<li>永遠 feat. RYUICHI</li>
+<li>永遠 feat. <a href="../Page/河村隆一.md" title="wikilink">RYUICHI</a></li>
 <li>Daniela feat. Yoohei Kawakami</li>
-<li>絶彩 feat. 京</li>
-<li>Rebellmusik feat. K Dub Shine</li>
-<li>巡り逢えるなら feat. TERU</li>
-<li>PHOENIX 〜HINOTORI〜 feat. Toshl</li>
-<li>Garcia feat. TOSHI-LOW</li>
-<li>感情漂流 feat. 辻仁成</li>
-<li>VOICE feat. 清春</li>
-<li>光の涯 feat. MORRIE</li>
+<li>絶彩 feat. <a href="../Page/京_(ミュージシャン).md" title="wikilink">京</a></li>
+<li>Rebellmusik feat. <a href="../Page/Kダブシャイン.md" title="wikilink">K Dub Shine</a></li>
+<li>巡り逢えるなら feat. <a href="../Page/TERU.md" title="wikilink">TERU</a></li>
+<li>PHOENIX 〜HINOTORI〜 feat. <a href="https://ja.wikipedia.org/wiki/Toshl" title="wikilink">Toshl</a></li>
+<li>Garcia feat. <a href="../Page/TOSHI-LOW.md" title="wikilink">TOSHI-LOW</a></li>
+<li>感情漂流 feat. <a href="../Page/辻仁成.md" title="wikilink">辻仁成</a></li>
+<li>VOICE feat. <a href="../Page/清春.md" title="wikilink">清春</a></li>
+<li>光の涯 feat. <a href="../Page/MORRIE.md" title="wikilink">MORRIE</a></li>
 </ol>
 <ul>
 <li>CD 2</li>
@@ -548,6 +553,76 @@
 <td><p>オリコン<br />
 ウィークリー23位<br />
 デイリー10位</p></td>
+</tr>
+</tbody>
+</table>
+
+##### ライブアルバム
+
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>収録曲</p></th>
+<th><p>規格品番</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2020/9/30</p></td>
+<td><p><strong>LIVE IN TOKYO</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全20+8曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>Disc 1 (Day1 2019.7.7.)</li>
+</ul>
+<ol>
+<li>THE LAST IRA (SE)</li>
+<li>IRA</li>
+<li>MESSIAH</li>
+<li>Lux Aeterna</li>
+<li>Proxima Centauri</li>
+<li>絶彩 feat. 京</li>
+<li>ENOLA GAY RELOADED</li>
+<li>TELL ME WHY?</li>
+<li>DO-FUNK DANCE</li>
+<li>Synchronicity</li>
+</ol>
+<ul>
+<li>Disc 2 (Day2 2019.7.8.)</li>
+</ul>
+<ol>
+<li>CONSCIENTIA ERA (SE)</li>
+<li>禊</li>
+<li>TELL ME WHY NOT PSYCHEDELIA?</li>
+<li>NEO COSMOSCAPE</li>
+<li>FATIMA</li>
+<li>巡り逢えるなら feat. TERU &amp; <a href="../Page/TAKURO.md" title="wikilink">TAKURO</a></li>
+<li>Decaying</li>
+<li>DO-FUNK DANCE</li>
+<li>VOICE feat. 清春</li>
+<li>The Voyage Home</li>
+</ol>
+<ul>
+<li>Blu-ray ※豪華盤のみ</li>
+</ul>
+<ol>
+<li>CONSCIENTIA ERA (SE)</li>
+<li>禊</li>
+<li>Proxima Centauri</li>
+<li>絶彩 feat. 京</li>
+<li>巡り逢えるなら feat. TERU &amp; TAKURO</li>
+<li>VOICE feat. 清春</li>
+<li>DO-FUNK DANCE</li>
+<li>The Voyage Home
+</div>
+</div></li>
+</ol></td>
+<td><p>SPTC1003 (豪華版) SPTC1005 (通常版)</p></td>
 </tr>
 </tbody>
 </table>
@@ -594,6 +669,47 @@
 </ol></td>
 <td><p>POCS-21008</p></td>
 <td><p>10年間の軌跡を集積した、新録曲、新ミックス曲を含む、初のベストアルバム。 オリコン69位</p></td>
+</tr>
+<tr class="even">
+<td><p>2018/12/19</p></td>
+<td><p><strong>COSMOSCAPE II</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全18曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ul>
+<li>Disc1</li>
+</ul>
+<ol>
+<li>百鬼夜行~Psychedelia~ feat. 怪物舞踏団</li>
+<li>MESSIAH</li>
+<li>ARC MOON</li>
+<li>FATIMA</li>
+<li>SLEEP AWAY(New Mix)</li>
+<li>Dear SPIRITUAL LIFE</li>
+<li>DO-FUNK DANCE</li>
+<li>眠狂四郎(New Mix)</li>
+<li>Duke</li>
+</ol>
+<ul>
+<li>Disc2</li>
+</ul>
+<ol>
+<li>IRA</li>
+<li>VOID</li>
+<li>Lux Aeterna</li>
+<li>The Voyage Home(New Arrange)</li>
+<li>永遠 feat. RYUICHI</li>
+<li>絶彩 feat. 京</li>
+<li>Rebellmusik feat. K Dub Shine</li>
+<li>PHOENIX~HINOTORI~ feat. Toshl</li>
+<li>東京デシベル
+</div>
+</div></li>
+</ol></td>
+<td><p>UICZ-9108/9 (初回限定版) UICZ-4437/8 (通常版)</p></td>
+<td><p>2009年以降のベスト</p></td>
 </tr>
 </tbody>
 </table>
@@ -929,6 +1045,31 @@
 <td><p>UPCY-7361</p></td>
 <td></td>
 </tr>
+<tr class="odd">
+<td><p>2018/5/29</p></td>
+<td><p><strong>SWITCHED-ON OTO</strong></p></td>
+<td><div class="NavFrame" style="clear:both;border:0;">
+<div class="NavHead" style="text-align:center;">
+<p>全10曲</p>
+</div>
+<div class="NavContent" style="text-align:left;">
+<ol>
+<li>THE LAST IRA</li>
+<li>Neo Raummusik</li>
+<li>VOICE of VOID</li>
+<li>Replicant Decaying</li>
+<li>Proxima Centauri b</li>
+<li>Lux Aeterna Rises</li>
+<li>Lux Aeterna Dead</li>
+<li>Room of Clocks Trance</li>
+<li>PSY MISOGI</li>
+<li>The Eternity Voyage
+</div>
+</div></li>
+</ol></td>
+<td><p>SPTC-1002</p></td>
+<td></td>
+</tr>
 </tbody>
 </table>
 
@@ -1215,12 +1356,13 @@
 <tr class="even">
 <td><p>2020/6/24</p></td>
 <td><p><strong>機動戦士ガンダム 40th Anniversary Album ～BEYOND～</strong></p></td>
-<td><p>めぐりあい（SUGIZO feat. <a href="https://ja.wikipedia.org/wiki/GLIM_SPANKY" title="wikilink">GLIM SPANKY名義</a>） <a href="https://ja.wikipedia.org/wiki/水の星へ愛をこめて" title="wikilink">水の星へ愛をこめて</a>（SUGIZO feat． コムアイ（<a href="https://ja.wikipedia.org/wiki/水曜日のカンパネラ" title="wikilink">水曜日のカンパネラ</a>）名義）</p>
-<p>A Red Ray（SUGIZO feat.<a href="https://ja.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>名義）</p>
-<p>光の涯（SUGIZO feat． <a href="https://ja.wikipedia.org/wiki/アイナ・ジ・エンド" title="wikilink">アイナ・ジ・エンド</a>（<a href="https://ja.wikipedia.org/wiki/BiSH" title="wikilink">BiSH</a>）名義）</p>
-<p>EGO<SODv>（<a href="../Page/澤野弘之.md" title="wikilink">澤野弘之</a> feat.mizuki＆SUGIZO名義）</p>
-<p>ビギニング</p></td>
-<td></td>
+<td><p>めぐりあい（SUGIZO feat.<a href="https://ja.wikipedia.org/wiki/GLIM_SPANKY" title="wikilink">GLIM SPANKY名義</a>）<br />
+<a href="https://ja.wikipedia.org/wiki/水の星へ愛をこめて" title="wikilink">水の星へ愛をこめて</a>（SUGIZO feat.コムアイ（<a href="https://ja.wikipedia.org/wiki/水曜日のカンパネラ" title="wikilink">水曜日のカンパネラ</a>）名義）<br />
+A Red Ray（SUGIZO feat.<a href="https://ja.wikipedia.org/wiki/miwa" title="wikilink">miwa</a>名義）<br />
+光の涯（SUGIZO feat.<a href="https://ja.wikipedia.org/wiki/アイナ・ジ・エンド" title="wikilink">アイナ・ジ・エンド</a>（<a href="https://ja.wikipedia.org/wiki/BiSH" title="wikilink">BiSH</a>）名義）<br />
+EGO<SODv>（<a href="../Page/澤野弘之.md" title="wikilink">澤野弘之</a> feat.mizuki＆SUGIZO名義）<br />
+ビギニング</p></td>
+<td><p>SRML-1013</p></td>
 <td><p>SUGIZOは同アルバムの監修を担当。さらに『機動戦士ガンダム40周年プロジェクト』の総合音楽プロデューサーに就任し、『機動戦士ガンダム40周年プロジェクト』記念テーマ曲を制作・プロデュースしている。</p></td>
 </tr>
 </tbody>
@@ -1228,15 +1370,67 @@
 
 #### DVD
 
-| 発売日        | タイトル                                           | 規格品番       | 備考                                                                                           |
-| ---------- | ---------------------------------------------- | ---------- | -------------------------------------------------------------------------------------------- |
-| 2002/2/22  | **Soundtrack Side B**                          | KSXD-24315 | SUGIZOが主演・音楽監修を務めた映画「Saundtrack」の予告編、インタビュー等が収録されている。                                        |
-| 2002/8/23  | **Soundtrack**                                 | KSXD-24344 | SUGIZOが主演・音楽監修を務めた映画。                                                                        |
-| 2002/11/27 | **A.D.2001 FINAL**                             | HDBA-90006 | ビデオ・クリップをはじめ、さまざまな映像をロード・ムーヴィー的にまとめた作品。SUGIZO ＆ THE SPANK YOUR JUICE名義。 オリコン86位              |
-| 2005/1/11  | **BRILLIANT DAYS**                             | SCED-0011  | PVとライブ映像を収録。SUGIZO ＆ THE SPANK YOUR JUICE名義。 FC通販限定流通                                        |
-| 2009/03/25 | **RISE TO COSMIC DANCE**                       | HUBD-10905 | 2008年12月19日開催のソロ・ライヴを収録。豪華フォトブックレット付。 オリコン109位                                               |
-| 2012/10/24 | **STAIRWAY to The FLOWER OF LIFE**             | FTMS-12    | ソロツアー最終公演、12月22日Zepp Tokyoで行われたライヴをDVD化。                                                     |
-| 2017/04/26 | **SUGIZO vs INORAN PRESENTS BEST BOUT〜L 2/5〜** | KIBM-611   | 2016年6月9日、SUGIZOとINORANのソロ・プロジェクトの対バン・ライヴイベント『SUGIZO vs INORAN PRESENTS BEST BOUT〜L 2/5〜』を収録 |
+<table>
+<thead>
+<tr class="header">
+<th><p>発売日</p></th>
+<th><p>タイトル</p></th>
+<th><p>規格品番</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2002/2/22</p></td>
+<td><p><strong>Soundtrack Side B</strong></p></td>
+<td><p>KSXD-24315</p></td>
+<td><p>SUGIZOが主演・音楽監修を務めた映画「Saundtrack」の予告編、インタビュー等が収録されている。</p></td>
+</tr>
+<tr class="even">
+<td><p>2002/8/23</p></td>
+<td><p><strong>Soundtrack</strong></p></td>
+<td><p>KSXD-24344</p></td>
+<td><p>SUGIZOが主演・音楽監修を務めた映画。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2002/11/27</p></td>
+<td><p><strong>A.D.2001 FINAL</strong></p></td>
+<td><p>HDBA-90006</p></td>
+<td><p>ビデオ・クリップをはじめ、さまざまな映像をロード・ムーヴィー的にまとめた作品。SUGIZO ＆ THE SPANK YOUR JUICE名義。 オリコン86位</p></td>
+</tr>
+<tr class="even">
+<td><p>2005/1/11</p></td>
+<td><p><strong>BRILLIANT DAYS</strong></p></td>
+<td><p>SCED-0011</p></td>
+<td><p>PVとライブ映像を収録。SUGIZO ＆ THE SPANK YOUR JUICE名義。 FC通販限定流通</p></td>
+</tr>
+<tr class="odd">
+<td><p>2009/03/25</p></td>
+<td><p><strong>RISE TO COSMIC DANCE</strong></p></td>
+<td><p>HUBD-10905</p></td>
+<td><p>2008年12月19日開催のソロ・ライヴを収録。豪華フォトブックレット付。 オリコン109位</p></td>
+</tr>
+<tr class="even">
+<td><p>2012/10/24</p></td>
+<td><p><strong>STAIRWAY to The FLOWER OF LIFE</strong></p></td>
+<td><p>FTMS-12</p></td>
+<td><p>ソロツアー最終公演、12月22日Zepp Tokyoで行われたライヴをDVD化。</p></td>
+</tr>
+<tr class="odd">
+<td><p>2017/04/26</p></td>
+<td><p><strong>SUGIZO vs INORAN PRESENTS BEST BOUT〜L 2/5〜</strong></p></td>
+<td><p>KIBM-611</p></td>
+<td><p>2016年6月9日、SUGIZOとINORANのソロ・プロジェクトの対バン・ライヴイベント『SUGIZO vs INORAN PRESENTS BEST BOUT〜L 2/5〜』を収録</p></td>
+</tr>
+<tr class="even">
+<td><p>2018/9/5</p></td>
+<td><p><strong>Unity for Universal Truth</strong></p></td>
+<td><p>UIBZ-5082(DVD)<br />
+UIXZ-4082(BD)</p></td>
+<td><p>ソロ20周年LIVE（Zepp Tokyo）を、完全収録した映像作品</p></td>
+</tr>
+</tbody>
+</table>
 
 ### The FLARE
 

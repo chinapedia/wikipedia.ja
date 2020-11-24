@@ -29,6 +29,8 @@
 
 [2014年](../Page/2014年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")には、完全版にあたる『智代アフター 〜It's a Wonderful Life〜 PerfectEdition』が発売された\[3\]。こちらのバージョンには『D\&T』が収録されている。
 
+[2016年](../Page/2016年.md "wikilink")[7月2日](../Page/7月2日.md "wikilink")に[Steam](../Page/Steam.md "wikilink")版がリリースされたが、日本語UI・日本語文章は用意されていない。
+
 [2020年](../Page/2020年.md "wikilink")[9月20日](../Page/9月20日.md "wikilink")にNintendo Swich版『智代アフター～It's a Wonderful Life～CS Edition』が発売された\[4\]。
 
 ## ストーリー

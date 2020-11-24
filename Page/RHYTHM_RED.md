@@ -147,7 +147,7 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 
   - [是永巧一](../Page/是永巧一.md "wikilink") - ギター
 
-  - [葛城哲哉](../Page/葛城哲哉.md "wikilink") - ギター、バッキング・ボーカル
+  - [葛城哲哉](../Page/葛城哲哉.md "wikilink") - ギター(\#3)、バッキング・ボーカル(\#1,4,5,6,7,8,9)\[54\]
 
   - [浅田孟](https://ja.wikipedia.org/wiki/浅田孟 "wikilink") - [ベース](../Page/ベース_\(弦楽器\).md "wikilink")
 
@@ -272,7 +272,7 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 7.
 8.  [藤本健のDigital Audio Laboratory 『**第196回:WMAロスレスの音楽配信サイト「@MUSIC HD Sound」 ～ 小室氏とavexが提唱するHDサウンドとは? ～**』](http://av.watch.impress.co.jp/docs/20050628/dal196.htm)より。
 9.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』 1990年10月号「世紀末へのNEW PROJECTが遂にスタート TM NETWORK TMN宣言 RENEWALの真相を探る」23Pより。
-10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年12月23日号13P-15Pより。
+10. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年12月10日号「Let's Go\! TMN」13P-15Pより。
 11. 立東社刊『KB special』1990年11月号19Pより。
 12. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1990年12月号「TMN RHYTHM RED」10P-14Pより。
 13. 『[TM NETWORK TOUR MAJOR TURN-ROUND Supported by ROJAM.COM](../Page/TM_NETWORK_TOUR_MAJOR_TURN-ROUND_Supported_by_ROJAM.COM.md "wikilink")』パンフレットより。
@@ -315,4 +315,5 @@ CDジャケットは初回版は箱型の紙ジャケットで表面には「**R
 50. 1994年4月21日放送の「[オールナイトニッポン](https://ja.wikipedia.org/wiki/オールナイトニッポン "wikilink")」終了特番より。
 51.
 52.
-53. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年10月28日号113Pより。
+53. [ダイヤモンド社](../Page/ダイヤモンド社.md "wikilink")刊『[FM STATION](../Page/FM_STATION.md "wikilink")』1990年10月15日号「TMN TMネットワークから“TMN”へ、リニューアル 3人が奏でる世紀末のパーティ・ソングって何?」113Pより。
+54. [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊 『[ギターブック](https://ja.wikipedia.org/wiki/ギターブック "wikilink")』 1995年6月号「ザ・ギタリスト・葛城 ～レコーディング編～ 葛城哲哉」p.102より。

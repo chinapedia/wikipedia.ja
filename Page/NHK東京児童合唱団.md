@@ -163,7 +163,7 @@
   - [口笛吹いたら](https://ja.wikipedia.org/wiki/口笛吹いたら "wikilink")（[五味美保](../Page/五味美保.md "wikilink")）
   - [クマのぬいぐるみ](https://ja.wikipedia.org/wiki/クマのぬいぐるみ "wikilink")（[吉岡雄介](https://ja.wikipedia.org/wiki/吉岡雄介 "wikilink")）
   - [コックのポルカ](../Page/コックのポルカ.md "wikilink")（[天地総子](../Page/天地総子.md "wikilink")）
-  - 子ねこと毛糸
+  - [子ねこと毛糸](https://ja.wikipedia.org/wiki/子ねこと毛糸_\(みんなのうた\) "wikilink")
   - ジャガイモジャガー（田中星児）
   - JUST FRIENDS 〜いつまでも〜（[aya](https://ja.wikipedia.org/wiki/野沢あや "wikilink")）
   - [ショボクジラ・チビコブラ](https://ja.wikipedia.org/wiki/ショボクジラ・チビコブラ "wikilink")
@@ -204,7 +204,8 @@
   - [あしたへジャンプ](../Page/あしたへジャンプ.md "wikilink")（[上条恒彦](https://ja.wikipedia.org/wiki/上条恒彦 "wikilink")）
   - [なんなんなあに](https://ja.wikipedia.org/wiki/なんなんなあに "wikilink")
   - [はてなはてな](https://ja.wikipedia.org/wiki/はてなはてな "wikilink")
-  - [ワンツー・どん](../Page/ワンツー・どん.md "wikilink")（[稲村なおこ](https://ja.wikipedia.org/wiki/稲村なおこ "wikilink")）
+  - [ワンツー・どん](../Page/ワンツー・どん.md "wikilink")（[稲村なおこ](https://ja.wikipedia.org/wiki/稲村なおこ "wikilink"))
+  - [うたって・ゴー](../Page/うたって・ゴー.md "wikilink")
   - [ふえはうたう](https://ja.wikipedia.org/wiki/ふえはうたう "wikilink")
   - [たのしいきょうしつ](https://ja.wikipedia.org/wiki/たのしいきょうしつ "wikilink")
   - [みつめる目](https://ja.wikipedia.org/wiki/みつめる目 "wikilink")
@@ -333,7 +334,7 @@
 
   - [フィンランド・ヴォックスアウレア少年少女合唱団](https://ja.wikipedia.org/wiki/フィンランド・ヴォックスアウレア少年少女合唱団 "wikilink")
 
-  - [レーゲンスブルグ大聖堂少年合唱団](https://ja.wikipedia.org/wiki/レーゲンスブルグ大聖堂少年合唱団 "wikilink")
+  - [レーゲンスブルク大聖堂少年合唱団](https://ja.wikipedia.org/wiki/レーゲンスブルク大聖堂少年合唱団 "wikilink")
 
   - [カンテムス少年少女合唱団](https://ja.wikipedia.org/wiki/カンテムス少年少女合唱団 "wikilink")
 

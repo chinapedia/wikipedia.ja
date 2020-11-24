@@ -1,7 +1,7 @@
 > この記事は[Mihimaru GT](https://ja.wikipedia.org/wiki/Mihimaru_GT)から翻訳されています。
 
 
-**mihimaru GT**（ミヒマル・ジーティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")。[略称は](../Page/略語.md "wikilink")「**ミヒマル**」。[2013年](../Page/2013年.md "wikilink")より無期限活動休止中。
+**mihimaru GT**（ミヒマル・ジーティー）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の男女2人組[音楽ユニット](../Page/音楽ユニット.md "wikilink")。[2003年](../Page/2003年.md "wikilink")結成。所属[芸能事務所](../Page/芸能事務所.md "wikilink")は[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")。所属[レコード会社](../Page/レコード会社.md "wikilink")は[ユニバーサルミュージックで](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")、[レーベルは](../Page/レコードレーベル.md "wikilink")[ユニバーサルJ](https://ja.wikipedia.org/wiki/ユニバーサルミュージック_\(日本\)#レーベル "wikilink")。[略称は](../Page/略語.md "wikilink")「**ミヒマル**」。[2013年](../Page/2013年.md "wikilink")より無期限活動休止中。事実上の解散状態である。
 
 ## メンバー
 

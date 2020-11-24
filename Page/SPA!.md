@@ -49,7 +49,7 @@
 
   - [みうらじゅん](../Page/みうらじゅん.md "wikilink")×リリー・フランキーのグラビアン魂
   - 美女地図
-  - [ずぶ濡れSKE48](../Page/ずぶ濡れSKE48.md "wikilink")(SKE48メンバーの1人グラビア）
+  - [ずぶ濡れSKE48](../Page/ずぶ濡れSKE48.md "wikilink") ([SKE48](https://ja.wikipedia.org/wiki/SKE48 "wikilink")メンバーの1人グラビア）
   - マジロケ！（月１連載・[マジカル・パンチライン](https://ja.wikipedia.org/wiki/マジカル・パンチライン "wikilink")のメンバーの１人グラビア）
 
 ### コラム

@@ -134,7 +134,7 @@
     12. Breezy Night Journey
     13. 雨のリボン
     14. 眠りの森の君（初回盤Bonus Track）
-3.  **[Life is beautiful](https://ja.wikipedia.org/wiki/Life_is_beautiful "wikilink")**（2016年10月12日、AVCD-93488 HQCD+DVD、AVCD-93489 HQCD）
+3.  **Life is beautiful**（2016年10月12日、AVCD-93488 HQCD+DVD、AVCD-93489 HQCD）
     1.  Life is beautiful
     2.  Unique in quality
     3.  Song of 99

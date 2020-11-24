@@ -64,3 +64,8 @@
 ## 関連項目
 
   - [ジャム (曖昧さ回避)](../Page/ジャム_\(曖昧さ回避\).md "wikilink")
+
+  - [ジャムジャム](https://ja.wikipedia.org/wiki/ジャムジャム "wikilink")
+
+  -
+  -

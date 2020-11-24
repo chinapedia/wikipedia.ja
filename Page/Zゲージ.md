@@ -27,7 +27,7 @@ Zゲージは縮尺1/220・軌間6.5mmの鉄道模型規格の名称である。
 
 ## 日本国内の状況
 
-[Z_scale_miniature_railroad.jpg](https://ja.wikipedia.org/wiki/File:Z_scale_miniature_railroad.jpg "fig:Z_scale_miniature_railroad.jpg") かつては日本型車両は一部のガレージキットメーカーからのみ供給されたが、2000年代中盤頃から大メーカーが参入しはじめた。最初期は食品玩具（[食玩](../Page/食玩.md "wikilink")）扱いで電池駆動の玩具的な製品であったが、その後は鉄道模型方式の線路から集電するスケールモデルが発売され、販売ルートも鉄道模型店経由が主流となった。
+[Z_scale_miniature_railroad.jpg](https://ja.wikipedia.org/wiki/File:Z_scale_miniature_railroad.jpg "fig:Z_scale_miniature_railroad.jpg") かつては日本型車両は一部のガレージキットメーカーからのみ供給されたが、2000年代中盤頃から大メーカーが参入しはじめた。最初期は食品玩具（[食玩](../Page/食玩.md "wikilink")）扱いの製品であったが、その後は鉄道模型として一般発売され、販売ルートも鉄道模型店経由が主流となった。
 
   - アキア
     2006年4月、アキア（現[プラスアップ](https://ja.wikipedia.org/wiki/プラスアップ "wikilink")）が車両単品と線路を付けた[食玩](../Page/食玩.md "wikilink")「[ZJゲージ](../Page/ZJゲージ.md "wikilink")」を発売し、5月には電源装置を発売した。2007年には[EF81](../Page/国鉄EF81形電気機関車.md "wikilink")[機関車](https://ja.wikipedia.org/wiki/機関車 "wikilink")2種を上位ブランド「[REAL ZJ](https://ja.wikipedia.org/wiki/REAL_ZJ "wikilink")」として発売したが、2008年2月以降更新を休止している。2008年6月18日、OEM供給する予定だった[天賞堂](../Page/天賞堂.md "wikilink")が開発中止を発表。

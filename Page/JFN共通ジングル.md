@@ -1,7 +1,7 @@
 > この記事は[JFN共通ジングル](https://ja.wikipedia.org/wiki/JFN共通ジングル)から翻訳されています。
 
 
-**JFN共通ジングル**（ジェイエフエヌきょうつうジングル）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）系列局で使われている[ジングルである](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から使用を開始したが、一部の放送局では使用を取りやめている。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[パームビーチにある](../Page/パームビーチ_\(フロリダ州\).md "wikilink")[FM局](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")・[WRMFで使われているジングルが元になっている](https://ja.wikipedia.org/wiki/:en:WRMF "wikilink")。
+**JFN共通ジングル**（ジェイエフエヌきょうつうジングル）は、[全国FM放送協議会](../Page/全国FM放送協議会.md "wikilink")（JFN）系列局で使われている[ジングルである](https://ja.wikipedia.org/wiki/ジングル_\(ラジオ\) "wikilink")。Aラインの回線遅延を揃えるために、時報後ジングルを挿入する形をとっている。[2001年](../Page/2001年.md "wikilink")[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から使用を開始したが、一部の放送局では使用を取りやめている。[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[フロリダ州](https://ja.wikipedia.org/wiki/フロリダ州 "wikilink")[パームビーチにある](../Page/パームビーチ_\(フロリダ州\).md "wikilink")[FM局](https://ja.wikipedia.org/wiki/ラジオ#超短波放送（FM放送・BSデジタルラジオ） "wikilink")・[WRMFで使われているジングルが元になっている](https://ja.wikipedia.org/wiki/:en:WRMF "wikilink")。
 
 歌詞は、「」の後に各局オリジナルのフレーズが入る形式となっている。
 

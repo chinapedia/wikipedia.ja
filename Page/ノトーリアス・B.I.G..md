@@ -1,7 +1,7 @@
 > この記事は[ノトーリアス・B.I.G.](https://ja.wikipedia.org/wiki/ノトーリアス・B.I.G.)から翻訳されています。
 
 
-**ノトーリアス・B.I.G.**（The Notorious B.I.G.、[1972年](../Page/1972年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[MC](https://ja.wikipedia.org/wiki/MC_\(ヒップホップ\) "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市出身。
+**ノトーリアス・B.I.G.**（The Notorious B.I.G.、[1972年](../Page/1972年.md "wikilink")[5月21日](../Page/5月21日.md "wikilink") - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[3月9日](../Page/3月9日.md "wikilink")）は、[アメリカの](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")[MC](../Page/MC_\(ヒップホップ\).md "wikilink")、[ラッパー](https://ja.wikipedia.org/wiki/ラッパー "wikilink")。[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[ニューヨーク](../Page/ニューヨーク.md "wikilink")市出身。
 
 身長190cm、体重136kgの巨漢。本名は**クリストファー・ジョージ・レイトア・ウォレス**（Christopher George Latore Wallace）。愛称は**ビギー・スモールズ**（Biggie Smalls）、単に**ビギー**（Biggie）、**ビッグ**とも呼ばれる。**フランク・ホワイト**（Frank White）と名乗ることもあるが、これは映画『[キング・オブ・ニューヨーク](https://ja.wikipedia.org/wiki/キング・オブ・ニューヨーク "wikilink")』の主人公の名前が由来である。MCネームの「**B.I.G.**」は「Business Instead of Games」の略で、「**ビー・アイ・ジー**」と読むのが正しいが、「**ビッグ**」とも呼ばれることがある。
 
@@ -29,7 +29,7 @@
 
 ### デビュー後
 
-[イージー・モー・ビー](https://ja.wikipedia.org/wiki/イージー・モー・ビー "wikilink")（[Easy Mo Bee](https://ja.wikipedia.org/wiki/:en:Easy_Mo_Bee "wikilink")）をはじめ、[DJプレミア](../Page/DJプレミア.md "wikilink")、[ロード・フィネス](https://ja.wikipedia.org/wiki/ロード・フィネス "wikilink")（[Lord Finesse](https://ja.wikipedia.org/wiki/:en:Lord_Finesse "wikilink")）、[チャッキー・トンプソン](https://ja.wikipedia.org/wiki/チャッキー・トンプソン "wikilink")（[Chucky Thompson](https://ja.wikipedia.org/wiki/:en:Chucky_Thompson "wikilink")）たちのサポートを受け、[1994年](../Page/1994年.md "wikilink")にデビュー[アルバム](../Page/アルバム.md "wikilink")『[レディ・トゥ・ダイ](../Page/レディ・トゥ・ダイ.md "wikilink")』をリリースする。アルバムは名声をビギーにもたらした。 この作品はヒップホップアルバムとして屈指の名作として名高く、現在でも大きな評価を得ている。また当時[西海岸が主流だった風潮に](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[東海岸の興隆を見せつけた](https://ja.wikipedia.org/wiki/イースト・コースト "wikilink")。
+[イージー・モー・ビー](https://ja.wikipedia.org/wiki/イージー・モー・ビー "wikilink")（[Easy Mo Bee](https://ja.wikipedia.org/wiki/:en:Easy_Mo_Bee "wikilink")）をはじめ、[DJプレミア](../Page/DJプレミア.md "wikilink")、[ロード・フィネス](https://ja.wikipedia.org/wiki/ロード・フィネス "wikilink")（[Lord Finesse](https://ja.wikipedia.org/wiki/:en:Lord_Finesse "wikilink")）、[チャッキー・トンプソン](https://ja.wikipedia.org/wiki/チャッキー・トンプソン "wikilink")（[Chucky Thompson](https://ja.wikipedia.org/wiki/:en:Chucky_Thompson "wikilink")）たちのサポートを受け、[1994年](../Page/1994年.md "wikilink")にデビュー[アルバム](../Page/アルバム.md "wikilink")『[レディ・トゥ・ダイ](../Page/レディ・トゥ・ダイ.md "wikilink")』をリリースする。アルバムは名声をビギーにもたらした。 この作品はヒップホップアルバムとして屈指の名作として名高く、現在でも大きな評価を得ている。また当時[西海岸が主流だった風潮に](https://ja.wikipedia.org/wiki/ウエスト・サイド "wikilink")[東海岸の興隆を見せつけた](../Page/アメリカ合衆国東海岸.md "wikilink")。
 
 アルバムがリリースされる少し前に、ビギーは[2パック](../Page/2パック.md "wikilink")と交友を深める。1994年には[マディソン・スクエア・ガーデン](../Page/マディソン・スクエア・ガーデン.md "wikilink")で2パックと共演もした（前述アルバムのクレジットに2パックの名前を見つけることができる）。
 

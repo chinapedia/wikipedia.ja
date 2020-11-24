@@ -78,7 +78,7 @@ RCA及び
 
 1984年に表面化したCEDビデオディスクの商業的な大失敗により経営が悪化し、[1986年](../Page/1986年.md "wikilink")12月にかつての親会社GEへ[買収](https://ja.wikipedia.org/wiki/買収 "wikilink")・吸収された。翌[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")に[ジャック・ウェルチ](../Page/ジャック・ウェルチ.md "wikilink")の方針により、旧RCAの家電部門はトムソンに、子会社であったRCAレコードはドイツの[メディア・コングロマリット](https://ja.wikipedia.org/wiki/メディア・コングロマリット "wikilink")の[ベルテルスマン](../Page/ベルテルスマン.md "wikilink")に売却された。
 
-日本でのRCAレコードは、当初はビクター音楽産業（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）が担っていたが、[1975年](../Page/1975年.md "wikilink")に[日本ビクターと米RCAレコードの合弁により](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")[RVC株式会社が設立され移管された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。その後、親会社の資本構成の変遷（[ソニーBMGの発足](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）により、現在は[株式会社ソニー・ミュージックエンタテインメントへ吸収されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
+日本でのRCAレコードは、当初は[日本ビクター](../Page/日本ビクター.md "wikilink")（現・[JVCケンウッド](https://ja.wikipedia.org/wiki/JVCケンウッド "wikilink")）の音楽レコード事業部を経てビクター音楽産業（現・[JVCケンウッド・ビクターエンタテインメント](../Page/JVCケンウッド・ビクターエンタテインメント.md "wikilink")）が担っていたが、[1975年](../Page/1975年.md "wikilink")に日本ビクターと米RCAレコードの合弁により[RVC株式会社が設立され移管された](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")。その後、親会社の資本構成の変遷（[ソニーBMGの発足](../Page/ソニー・ミュージックエンタテインメント_\(米国\).md "wikilink")）により、現在は[株式会社ソニー・ミュージックエンタテインメントへ吸収されている](https://ja.wikipedia.org/wiki/ソニー・ミュージックエンタテインメント_\(日本\) "wikilink")。
 
 ## RCAブランド
 

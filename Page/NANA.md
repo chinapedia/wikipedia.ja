@@ -202,7 +202,7 @@
 
   - 劇中歌
 
-:; 「[ENDLESS STORY](../Page/ENDLESS_STORY.md "wikilink")」
+:; 「[ENDLESS STORY](https://ja.wikipedia.org/wiki/ENDLESS_STORY_\(伊藤由奈の曲\) "wikilink")」
 
   -
 

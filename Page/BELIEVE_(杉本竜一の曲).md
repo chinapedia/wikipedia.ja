@@ -13,7 +13,7 @@
 
 [2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")、[井上あずみ](../Page/井上あずみ.md "wikilink")がカバーし、[ロックチッパーレコード](https://ja.wikipedia.org/wiki/ロックチッパーレコード "wikilink")からシングルCDとして発売された。
 
-[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ、[V6がカバーしたものが出演する](../Page/V6_\(グループ\).md "wikilink")『[学校へ行こう\!MAX](../Page/学校へ行こう!MAX.md "wikilink")』のエンディングテーマとして使用され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")発売のシングル『[LIGHT IN YOUR HEART/Swing\!](https://ja.wikipedia.org/wiki/LIGHT_IN_YOUR_HEART/Swing! "wikilink")』の通常盤に収録された。
+[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")所属のアイドルグループ、[V6がカバーしたものが](../Page/V6_\(グループ\).md "wikilink")『[学校へ行こう\!MAX](../Page/学校へ行こう!MAX.md "wikilink")』のエンディングテーマとして使用され、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[9月17日](../Page/9月17日.md "wikilink")発売のシングル『[LIGHT IN YOUR HEART/Swing\!](https://ja.wikipedia.org/wiki/LIGHT_IN_YOUR_HEART/Swing! "wikilink")』の通常盤に収録された。
 
 [May J.のカバー版は](https://ja.wikipedia.org/wiki/May_J. "wikilink")[2014年](../Page/2014年.md "wikilink")[3月5日](../Page/3月5日.md "wikilink")付の「週間 [USEN](../Page/USEN.md "wikilink") HIT J-POPランキング」で1位を獲得している\[2\]。
 
@@ -27,13 +27,23 @@
   - テレビドラマ『[Oh,My Dad\!\!](https://ja.wikipedia.org/wiki/Oh,My_Dad!! "wikilink")』で、幼稚園での光太（[田中奏生](https://ja.wikipedia.org/wiki/田中奏生 "wikilink")）の送別会のシーンで園児達が歌っていた。
   - テレビアニメ『[SSSS.GRIDMAN](https://ja.wikipedia.org/wiki/SSSS.GRIDMAN "wikilink")』では第1回冒頭や第4回でヒロインの宝多六花（[宮本侑芽](https://ja.wikipedia.org/wiki/宮本侑芽 "wikilink")）が、第9回で新条アカネ（[上田麗奈](https://ja.wikipedia.org/wiki/上田麗奈 "wikilink")）が口ずさむシーンがある。第11回では挿入歌として使用され、最終回ではインストゥルメンタル版がエンディングテーマとして使用された。
 
-## 井上あずみ版シングル収録曲
+## 井上あずみ版シングル
 
-1.  **ビリーヴ**
-2.  **message**
-3.  **ビリーヴ** (Piano Version)
-4.  **ビリーヴ** (instrumental)
-5.  **ビリーヴ** (Piano Version/instrumental)
+[井上あずみ](../Page/井上あずみ.md "wikilink")によるカバーシングルは、[2006年](../Page/2006年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink")に発売された。
+
+### 収録曲
+
+1.  **ビリーヴ**（3分37秒）
+      -
+        作詞・作曲：[杉本竜一](../Page/杉本竜一.md "wikilink")／編曲：[古寺ななえ](https://ja.wikipedia.org/wiki/古寺ななえ "wikilink")
+2.  **message**（4分31秒）
+      -
+        作詞・作曲：[千宝美](https://ja.wikipedia.org/wiki/千宝美 "wikilink")／編曲：古寺ななえ
+3.  **ビリーヴ〜Piano Version**（3分47秒）
+      -
+        作詞・作曲：杉本竜一／編曲：古寺ななえ
+4.  **ビリーヴ**（instrumental）
+5.  **ビリーヴ〜Piano Version**（instrumental）
 
 ## 脚注
 

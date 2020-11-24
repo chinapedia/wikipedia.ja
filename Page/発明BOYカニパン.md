@@ -480,7 +480,7 @@
 
 [Category:アニメ作品_は](https://ja.wikipedia.org/wiki/Category:アニメ作品_は "wikilink") [Category:1998年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1998年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:スタジオコメット](https://ja.wikipedia.org/wiki/Category:スタジオコメット "wikilink") [Category:日本アドシステムズのアニメ作品](https://ja.wikipedia.org/wiki/Category:日本アドシステムズのアニメ作品 "wikilink") [Category:ビーイングのアニメ作品](https://ja.wikipedia.org/wiki/Category:ビーイングのアニメ作品 "wikilink") [Category:発明を題材とした作品](https://ja.wikipedia.org/wiki/Category:発明を題材とした作品 "wikilink")
 
-1.  [TV アニメ 発明BOYカニパン](http://www.allcinema.net/prog/show_c.php?num_c=88878) ([allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")) 2017年6月18日閲覧。
+1.  [TV アニメ 発明BOYカニパン](https://www.allcinema.net/cinema/88878) ([allcinema](https://ja.wikipedia.org/wiki/allcinema "wikilink")) 2017年6月18日閲覧。
 2.
 3.  27話のクレジットでも、その名前で表記された。
 4.  ただし、実際にヤキソバが台詞を発するのは第1話のみで、それ以降は台詞がなかったが理由は公表されていない。また、声を担当した井上佳子の本業は女優で、他に声優として活動した経歴は見られない。

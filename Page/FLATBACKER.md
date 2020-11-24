@@ -63,7 +63,7 @@ E・Z・O改名後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")
 
   - FLATBACKER
       - 戦争 -アクシデント-（2005年3月16日、VICL-61593）
-      - 餌 -ESA-（（2005年3月16日、VICL-61594）
+      - 餌 -ESA-（2005年3月16日、VICL-61594）
   - E・Z・O
       - E・Z・O（2005年3月16日、VICL-61595）
       - FIRE FIRE（2005年3月16日、VICL-61596）

@@ -7,7 +7,7 @@
   -
   -
 
-</div class="pathnavbox">
+</div>
 
 『**ドラ・Q・パーマン**』（ドラ・キュー・パーマン）は、原作：[藤子不二雄](../Page/藤子不二雄.md "wikilink")（[藤子・F・不二雄](../Page/藤子・F・不二雄.md "wikilink")）、絵：[しのだひでお](../Page/しのだひでお.md "wikilink")による[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")作品、及び、[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[4月8日](../Page/4月8日.md "wikilink")に放映されたテレビアニメ作品。漫画雑誌『[月刊コロコロコミック](../Page/月刊コロコロコミック.md "wikilink")』[1979年](../Page/1979年.md "wikilink")8月号（[7月14日](../Page/7月14日.md "wikilink")発売）に掲載された。
 

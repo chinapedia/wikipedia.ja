@@ -336,6 +336,8 @@
   - 7月「パレード」／ [MOSAKI WIN](../Page/森崎ウィン.md "wikilink")
   - 8月「Lust Masic」／ [Attractions](https://ja.wikipedia.org/wiki/Attractions "wikilink")
   - 9月「君はロボット」／ [大橋ちっぽけ](https://ja.wikipedia.org/wiki/大橋ちっぽけ "wikilink")
+  - 10月「Superme」／[やましたりな](https://ja.wikipedia.org/wiki/やましたりな "wikilink")
+  - 11月「オフィシャル・スポンサー」／[ニガミ17才](https://ja.wikipedia.org/wiki/ニガミ17才 "wikilink")
 
 ## その他
 

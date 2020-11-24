@@ -81,7 +81,9 @@
 4.  **ユーのネヴァー** - *NEVER*
       -
         曲名の元ネタは元[ピンク・レディー](../Page/ピンク・レディー.md "wikilink")の歌手である[ミーの楽曲](../Page/未唯mie.md "wikilink")「[NEVER](https://ja.wikipedia.org/wiki/NEVER "wikilink")」から名づけられた。
-5.  **パラシュート** - *PARACHUTE*
+5.  **パラシュート** - *PARACHUT*
+      -
+        瀧が作詞にかなり苦戦した曲。
 6.  **ガリガリ君** - *GARIGARI KUN*
       -
         [赤城乳業](../Page/赤城乳業.md "wikilink")の同名商品である[ガリガリ君](../Page/ガリガリ君.md "wikilink")からタイトルを採った曲。後にガリガリ君の懸賞で、[天久聖一](../Page/天久聖一.md "wikilink")の自作ポエムをフィーチャリングしたリミックス曲を収録したCDがプレゼントされた（非売品）。
@@ -95,6 +97,8 @@
       -
         [ベブ・シルヴェッティの](https://ja.wikipedia.org/wiki/ファン・フェルナンド・シルヴェッティ・アドルノ "wikilink")「スプリング・レイン」をサンプリングした先行シングル曲。[日産・テラノ](../Page/日産・テラノ.md "wikilink")のCMソングとしても使われ、電気グルーヴ最大のヒットとなった楽曲である。シングル版とはミックスが異なる。
 10. **SMOKY BUBBLES**
+      -
+        卓球と砂原がスタジオで遊んでいる時に出来た曲。
 11. **ループ ゾンビ** - *LOOP ZOMBIES*
       -
         ライナーノーツにはのWeil Die Moral Schläftからのサンプルを含むとあるが、実際に収録されたサンプルはDie ZimmermännerのZitronenmamas großer Traumであり、明らかな誤記である。隠しトラックとして、漫画家の[天久聖一](../Page/天久聖一.md "wikilink")による敬礼ボイスが[収録](../Page/収録.md "wikilink")されている。

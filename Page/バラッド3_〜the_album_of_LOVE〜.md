@@ -184,8 +184,8 @@
 5.
 6.  [第15回日本ゴールドディスク大賞](http://www.golddisc.jp/award/15/index.html#gd15_04) 日本ゴールドディスク大賞 2017年3月2日閲覧
 7.  [SMAP、グループ3組目の3年代連続アルバム首位](https://www.oricon.co.jp/news/78498/full/) オリコン 2010年7月27日配信, 2020年6月4日閲覧
-8.  [サザンオールスターズ予想通りのミリン突破で史上初の快挙達成\!\!](http://www.oricon.co.jp/news/2210/full/) オリコンスタイル 2015年10月20日閲覧
-9.
+8.
+9.  [サザンオールスターズ予想通りのミリン突破で史上初の快挙達成\!\!](http://www.oricon.co.jp/news/2210/full/) オリコンスタイル 2015年10月20日閲覧
 10. [サザンオールスターズ 売上別TOP10＆主な記録](http://www.oricon.co.jp/news/54526/full/) オリコン 2015年1月22日閲覧
 11. [バラッド3 〜the album of LOVE〜](http://www.oricon.co.jp/prof/72619/products/409142/1/) オリコン 2018年9月26日閲覧。
 12.

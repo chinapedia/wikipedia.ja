@@ -1,7 +1,7 @@
 > この記事は[セビージャFC](https://ja.wikipedia.org/wiki/セビージャFC)から翻訳されています。
 
 
-**セビージャ・フトボル・クルブ**（）\[1\]は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
+**セビージャ・フトボル・クルブ**（）\[1\]は、[アンダルシア州](../Page/アンダルシア州.md "wikilink")[セビリア県](../Page/セビリア県.md "wikilink")[セビリア](../Page/セビリア.md "wikilink")に本拠地を置く[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。セビリアFCとも表記される。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に所属している。
 
 1890年10月14日に設立された。[リーガ・エスパニョーラ](../Page/リーガ・エスパニョーラ.md "wikilink")で優勝1度、[コパ・デル・レイ](../Page/コパ・デル・レイ.md "wikilink")で優勝5度、[スーペルコパ・デ・エスパーニャ](../Page/スーペルコパ・デ・エスパーニャ.md "wikilink")で優勝1度、[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")で優勝6度を数える。セビージャFCのサポーターはセビジスタと呼ばれ、富裕層を中心にファンが多いとされる。同じセビリアを本拠地とし、労働者階級に強い支持基盤を持つ[レアル・ベティス](../Page/レアル・ベティス.md "wikilink")との対戦はセビリア・ダービーと呼ばれ、スペインで最も熱いダービーと言われている\[2\]。
 
@@ -631,12 +631,12 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 |bgcolor=gold|<small>優勝</small> |bgcolor=silver|<small>2位/準優勝</small> |bgcolor=\#cc9966|<small>3位</small> |bgcolor="\#DDFFDD"|<small>昇格</small> |bgcolor="\#FFCCCC"|<small>降格</small> |}
 
-### 欧州カップ戦での戦績
+### 欧州の成績
 
 <table>
 <thead>
 <tr class="header">
-<th><p>欧州カップ戦での戦績</p></th>
+<th><p>欧州の成績</p></th>
 </tr>
 </thead>
 <tbody>
@@ -728,10 +728,10 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">2020-21</a></p></td>
 </tr>
 <tr class="even">
-<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCクラスノダール" title="wikilink">クラスノダール</a></p></td>
 </tr>
 <tr class="odd">
-<td></td>
+<td><p><a href="../Page/スタッド・レンヌ.md" title="wikilink">レンヌ</a></p></td>
 </tr>
 <tr class="even">
 <td><p>UEFAカップ / UEFAヨーロッパリーグ</p></td>
@@ -1048,15 +1048,15 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 ## 現所属メンバー
 
-  - [ラ・リーガ2019-20](https://ja.wikipedia.org/wiki/リーガ・エスパニョーラ2019-2020 "wikilink") フォーメーション
+  - [ラ・リーガ2020-21](https://ja.wikipedia.org/wiki/リーガ・エスパニョーラ2020-2021 "wikilink") フォーメーション
 
 <div style="position: relative;">
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - [2020年](../Page/2020年.md "wikilink")[9月28日](../Page/9月28日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月5日](../Page/10月5日.md "wikilink")現在
 
-★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink"))★    ★     ★  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Tunisia.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Morocco.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Benin.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Canada.svg "wikilink"))★    ★      ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink"))
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 
@@ -1068,7 +1068,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
 **in**
 
-**out**
+**out**   }
 
   - [セビージャ・アトレティコ](../Page/セビージャ・アトレティコ.md "wikilink")所属選手
 
@@ -1077,6 +1077,8 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
   - [ラモン・エンシーナス](https://ja.wikipedia.org/wiki/:es:Ramón_Encinas "wikilink") 1933-1936, 1945-1947, 1948-1949, 1959
 
   - [エレニオ・エレーラ](https://ja.wikipedia.org/wiki/エレニオ・エレーラ "wikilink") 1953-1956
+
+  - [ヴィク・バッキンガム](https://ja.wikipedia.org/wiki/ヴィク・バッキンガム "wikilink") 1972
 
   - [ミゲル・ムニョス](../Page/ミゲル・ムニョス.md "wikilink") 1979-1981
 
@@ -1334,7 +1336,7 @@ UEFAカップ優勝で[UEFAスーパーカップ](../Page/UEFAスーパーカッ
 
   - [SevillaFC.Ru Russian website spanish fans Sevilla FC](http://www.sevillafc.ru/)
 
-  - [Estadio de Espana](http://estadiosdeespana.blogspot.com/2011/08/sevilla-estadio-ramon-sanchez-pizjuan.html)
+  - [Estadio de Espana](https://estadiosdeespana.blogspot.com/2011/08/sevilla-estadio-ramon-sanchez-pizjuan.html)
 
 [Category:スペインのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スペインのサッカークラブ "wikilink") [Category:セビージャFC](https://ja.wikipedia.org/wiki/Category:セビージャFC "wikilink")
 

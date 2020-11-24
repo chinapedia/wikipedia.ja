@@ -1,9 +1,9 @@
 > この記事は[BJ・ペン](https://ja.wikipedia.org/wiki/BJ・ペン)から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/ファイル:HughesPenn-faceoff.jpg "wikilink")
+[thumb](https://ja.wikipedia.org/wiki/ファイル:HughesPenn-faceoff.jpg "wikilink")（左）とペン\]\]
 
-**ジェイ・ディー・"B.J."・ペン III**（**Jay Dee Penn III**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")、[柔術家](../Page/ブラジリアン柔術.md "wikilink")。[ハワイ州](../Page/ハワイ州.md "wikilink")[カイルア出身](https://ja.wikipedia.org/wiki/カイルア_\(ハワイ州ホノルル郡\) "wikilink")。BJ・ペンズMMA主宰。元[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ライト級](../Page/ライト級.md "wikilink")王者。元UFC世界[ウェルター級](../Page/ウェルター級.md "wikilink")王者。UFC史上2人目の二階級制覇王者。UFC[ホール・オブ・フェイマー](https://ja.wikipedia.org/wiki/UFC殿堂 "wikilink")。
+**ジェイ・ディー・"B.J."・ペン III**（**Jay Dee Penn III**、[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")[12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - ）は、[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")の[男性](../Page/男性.md "wikilink")[総合格闘家](https://ja.wikipedia.org/wiki/総合格闘家 "wikilink")、[柔術家](../Page/ブラジリアン柔術.md "wikilink")。[ハワイ州](../Page/ハワイ州.md "wikilink")[カイルア出身](https://ja.wikipedia.org/wiki/カイルア_\(ハワイ州ホノルル郡\) "wikilink")。BJ・ペンズMMA主宰。元[UFC](https://ja.wikipedia.org/wiki/UFC "wikilink")世界[ライト級](../Page/ライト級.md "wikilink")王者。元UFC世界[ウェルター級](../Page/ウェルター級.md "wikilink")王者。UFC史上2人目の二階級制覇王者。[UFC殿堂](https://ja.wikipedia.org/wiki/UFC殿堂 "wikilink")入り。
 
 史上初めて[ブラジル人](https://ja.wikipedia.org/wiki/ブラジル人 "wikilink")以外で[柔術世界選手権を優勝した選手](../Page/世界柔術選手権.md "wikilink")。寝技だけでなく、名ボクシングトレーナーの[フレディ・ローチ](../Page/フレディ・ローチ.md "wikilink")から絶賛されるほど優れた[ボクシング](../Page/ボクシング.md "wikilink")技術も持つ。また、UFCでライト級とウェルター級の2階級制覇を達成しただけでなく、自身の適性階級より遥かに重い[ミドル級](../Page/ミドル級.md "wikilink")、[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")でも強豪と互角以上に渡り合った。
 
@@ -88,6 +88,8 @@ UFCに対戦する意味のある相手がもう残っていないとして[K-1]
 2019年9月27日、UFCからリリースされた\[17\]。
 
 ## 人物・エピソード
+
+[thumbの表紙に起用されるペン](https://ja.wikipedia.org/wiki/ファイル:KoreAm_2008-07_Cover.jpg "wikilink") (2008年7月号)\]\]
 
   - ニックネーム"**B.J.**"の由来は、ペンの両親はペンの兄弟3人にジェイ・ディー・ペン（それぞれI世、II世、III世）と名付けており、その中で最年少であるペンは"**Baby Jay**"（ベイビー・ジェイ）と呼ばれていたが、そのニックネームを短縮したものである。
   - 2004年にUFCを離脱して[FEG](../Page/FEG.md "wikilink")と契約してからUFCに復帰するまでの間は[無差別級](../Page/無差別級.md "wikilink")世界最強を目指して階級を上げていた。[ミドル級](../Page/ミドル級.md "wikilink")の[ホドリゴ・グレイシー](../Page/ホドリゴ・グレイシー.md "wikilink")に寝技で完封勝ちし、[ライトヘビー級](../Page/ライトヘビー級.md "wikilink")で無敗を誇る[リョート・マチダ](../Page/リョート・マチダ.md "wikilink")と無差別級契約で対戦して15kg以上の体重差をものともせずに互角に渡り合う活躍を見せ、さらには[ヘビー級](../Page/ヘビー級.md "wikilink")の[藤田和之](../Page/藤田和之.md "wikilink")との対戦を要求するなど、階級を上げても恐れ知らずな姿勢は変わらなかった。

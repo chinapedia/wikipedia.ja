@@ -73,7 +73,7 @@
   - 音響効果：ジャイロ 現・スカイウォーカー（有馬克己、橅木正志）ほか
   - ディレクター：今井康之（平成教育ブロック）、[井上晃一](../Page/井上晃一.md "wikilink")（ヒポカンパスブロック）、[田中経一](../Page/田中経一.md "wikilink")（料理の鉄人ブロック） ほか
   - 演出：[上川伸廣](../Page/上川伸廣.md "wikilink")（イースト）／[坪田譲治](https://ja.wikipedia.org/wiki/坪田譲治 "wikilink")
-  - プロデューサー：角井英之／[水口昌彦](../Page/水口昌彦.md "wikilink")、西敏也、岡崎洋三、[松尾利彦](https://ja.wikipedia.org/wiki/松尾利彦 "wikilink") ほか
+  - プロデューサー：角井英之／[水口昌彦](../Page/水口昌彦.md "wikilink")、西敏也、岡崎洋三、金山薫子、[松尾利彦](https://ja.wikipedia.org/wiki/松尾利彦 "wikilink") ほか
   - 協力：[日本テレワーク](../Page/日本テレワーク.md "wikilink")（料理の鉄人ブロック）、BEE BRAIN（BANG BANG BANGブロック）、[ユニオン映画](../Page/ユニオン映画.md "wikilink")（ヒポカンパスブロック）
   - 制作協力：[イースト](https://ja.wikipedia.org/wiki/イースト・エンタテインメント "wikilink")
   - 制作著作：フジテレビ

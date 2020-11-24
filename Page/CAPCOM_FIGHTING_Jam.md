@@ -188,7 +188,7 @@
   -
   - [PlayStation公式サイト ゲームアーカイブス CAPCOM FIGHTING JAM](http://www.jp.playstation.com/software/title/jp0102npjd00029_000000000000000000.html)
 
-[Category:カプコンのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:カプコンのクロスオーバー作品 "wikilink") [Category:2D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦型格闘ゲーム "wikilink") [Category:2004年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2004年のアーケードゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:コンピュータゲームを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを題材としたコンピュータゲーム "wikilink")
+[Category:カプコンのクロスオーバー作品](https://ja.wikipedia.org/wiki/Category:カプコンのクロスオーバー作品 "wikilink") [Category:2D対戦型格闘ゲーム](https://ja.wikipedia.org/wiki/Category:2D対戦型格闘ゲーム "wikilink") [Category:2004年のアーケードゲーム](https://ja.wikipedia.org/wiki/Category:2004年のアーケードゲーム "wikilink") [Category:PlayStation_2用ソフト](https://ja.wikipedia.org/wiki/Category:PlayStation_2用ソフト "wikilink") [Category:Xbox用ソフト](https://ja.wikipedia.org/wiki/Category:Xbox用ソフト "wikilink") [Category:ゲームアーカイブス対応ソフト](https://ja.wikipedia.org/wiki/Category:ゲームアーカイブス対応ソフト "wikilink") [Category:コンピュータゲームを題材としたコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:コンピュータゲームを題材としたコンピュータゲーム "wikilink") [Category:世界各地を舞台としたゲーム作品](https://ja.wikipedia.org/wiki/Category:世界各地を舞台としたゲーム作品 "wikilink")
 
 1.  『カプコンファイティングジャム オフィシャルコンプリートガイド』より。
 2.  CAPCOM FIGHTING Jam公式ページより。

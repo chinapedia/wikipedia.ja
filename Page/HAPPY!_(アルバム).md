@@ -1,29 +1,27 @@
 > この記事は[HAPPY! \(アルバム\)](https://ja.wikipedia.org/wiki/HAPPY!_\(アルバム\))から翻訳されています。
 
 
-『**HAPPY\!**』（ハッピー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")にCDで発売。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
+『**HAPPY\!**』（ハッピー）は、[サザンオールスターズ](../Page/サザンオールスターズ.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[6月24日](../Page/6月24日.md "wikilink")に[CDで発売](../Page/コンパクトディスク.md "wikilink")。発売元は[タイシタレーベル](../Page/タイシタレーベル.md "wikilink")。
 
-期間限定商品のため、現在は廃盤作品となる\[1\]。
+数量限定商品のため、現在は廃盤作品となる\[1\]。
 
-## 背景
+## 背景・録音
 
-[バラッドシリーズや](../Page/バラッド_\(サザンオールスターズのアルバム\).md "wikilink")[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")に発売された『[海のYeah\!\!](../Page/海のYeah!!.md "wikilink")』と違い、収録曲の多さや選曲の幅広さもあり、『[すいか SOUTHERN ALL STARS SPECIAL 61SONGS](../Page/すいか_SOUTHERN_ALL_STARS_SPECIAL_61SONGS.md "wikilink")』同様、純粋なベストアルバムである。
+数量限定発売だったベスト・アルバム『[すいか SOUTHERN ALL STARS SPECIAL 61SONGS](../Page/すいか_SOUTHERN_ALL_STARS_SPECIAL_61SONGS.md "wikilink")』以来、6年ぶりに発売された作品\[2\]。
 
-## 録音
-
-デビュー曲「[勝手にシンドバッド](../Page/勝手にシンドバッド.md "wikilink")」からサザンとしての活動を再開した35枚目シングルの「[マンピーのG★SPOT](../Page/マンピーのG★SPOT.md "wikilink")」までの作品の中から、[シングル](../Page/シングル.md "wikilink")A面、B面、オリジナルアルバム問わずすべての楽曲から全48曲をセレクトしている。選曲は『すいか』『海のYeah\!\!』などの企画盤と異なり、すべて[桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")自身によるものであり、比較的知名度が低めのアルバム曲や、桑田の自信とは裏腹に世間に評価されなかった曲なども収録された。シングル盤以外ではこの作品のみに収録されている楽曲も多く、[2005年](../Page/2005年.md "wikilink")に「[TSUNAMI](../Page/TSUNAMI.md "wikilink")」までのシングル44作が、リマスターエディションが発売されるまでは入手困難であった楽曲も多く収録されている。[2014年](../Page/2014年.md "wikilink")に自身の全シングルとアルバムが[iTunes](https://ja.wikipedia.org/wiki/iTunes "wikilink")で配信されたが、本作と『すいか』は、配信されていない。
+デビューシングル「[勝手にシンドバッド](../Page/勝手にシンドバッド.md "wikilink")」からサザンとしての活動を再開した35枚目シングルの「[マンピーのG★SPOT](../Page/マンピーのG★SPOT.md "wikilink")」までの作品の中から、シングルA面、B面、オリジナルアルバム問わずすべての楽曲から全48曲をセレクトしている。選曲は [桑田佳祐](https://ja.wikipedia.org/wiki/桑田佳祐 "wikilink")によるものであり、曲調のバランスをとった曲順になっている\[3\]。
 
 メインボーカル曲が存在しない[野沢秀行](../Page/野沢秀行.md "wikilink")を除き、全メンバーのソロボーカル曲が収録されている。
 
 ## リリース
 
-[洗剤](../Page/洗剤.md "wikilink")の[パッケージ](../Page/パッケージ.md "wikilink")を思わせるケースに、[CD](../Page/コンパクトディスク.md "wikilink")3枚、特製サザンハッピ、ハッピーステージパスがそれぞれ封入されている。実際ケースに貼り付けられているシールに、*これ着て、[横浜へ全員集合](../Page/横浜市.md "wikilink")\!*と言う売り文句も記載されており、直後に行われたライブ『ホタル・カリフォルニア』の[ビデオでは](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")、この法被を来た多くのファンを確認することが出来る。
+[洗剤](../Page/洗剤.md "wikilink")の[パッケージ](../Page/パッケージ.md "wikilink")を思わせるケースに、CD3枚、特製サザンハッピ、ハッピーステージパスがそれぞれ封入されている。実際ケースに貼り付けられているシールに、*これ着て、[横浜へ全員集合](../Page/横浜市.md "wikilink")\!*と言う売り文句も記載されており、直後に行われたライブ『ホタル・カリフォルニア』の[ビデオでは](https://ja.wikipedia.org/wiki/ビデオテープ "wikilink")、この法被を来た多くのファンを確認することが出来る。
 
-本作は『すいか』と違い、完全予約限定生産のため店頭に並ぶことはなかった。また、70万セットが2日間で完売した\[2\]。
+本作は『すいか』と違い、完全予約限定生産のため店頭に並ぶことはなかった。また、70万枚が2日間で完売した\[4\]。
 
 ## 批評
 
-[島本理生](../Page/島本理生.md "wikilink")が当時12歳の時に本作の発売を聞き、高額商品であるにも関わらず購入を決意し、二ヶ月間ほどお手伝いをし日銭を稼ぎ、発売当日に予約したCDショップに駆け込んで購入している\[3\]。
+[島本理生](../Page/島本理生.md "wikilink")が当時12歳の時に本作の発売を聞き、高額商品であるにも関わらず購入を決意し、二ヶ月間ほどお手伝いをし日銭を稼ぎ、発売当日に予約したCDショップに駆け込んで購入している\[5\]。
 
 ## 収録曲
 
@@ -244,6 +242,8 @@
 
 [Category:サザンオールスターズのベスト・アルバム](https://ja.wikipedia.org/wiki/Category:サザンオールスターズのベスト・アルバム "wikilink") [Category:1995年のCD-BOX](https://ja.wikipedia.org/wiki/Category:1995年のCD-BOX "wikilink") [Category:ビクタータイシタのアルバム](https://ja.wikipedia.org/wiki/Category:ビクタータイシタのアルバム "wikilink") [Category:1995年のオリコンアルバムチャート1位獲得作品](https://ja.wikipedia.org/wiki/Category:1995年のオリコンアルバムチャート1位獲得作品 "wikilink")
 
-1.  [公式サイト HAPPY\!](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5957&cd=VICL-40170&search_cate=Plan) 2018年7月12日閲覧
-2.  [サザンオールスターズ バイオグラフィー 1995年](http://mobile.sas-fan.net/mob/news/diarKiji.php?site=SAS&ima=4032&cd=BIOGRAPHY&tp=cate&so=k&labl=keyword&ct=1995) 公式サイト sas-fan.net
-3.  [文藝春秋](../Page/文藝春秋_\(雑誌\).md "wikilink") 2018年10月号 P179より。
+1.  [HAPPY\!](https://southernallstars.jp/mob/titl/titlShw.php?site=SASJP&ima=5957&cd=VICL-40170&search_cate=Plan) SOUTHERN ALL STARS OFFICIAL SITE 2018年7月12日閲覧
+2.  『サザンオールスターズ 公式データブック 1978-2019』（2019年）[リットーミュージック](../Page/リットーミュージック.md "wikilink")出版 p138
+3.
+4.
+5.  [文藝春秋](../Page/文藝春秋_\(雑誌\).md "wikilink") 2018年10月号 P179より。

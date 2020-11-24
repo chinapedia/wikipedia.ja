@@ -5,11 +5,11 @@
 
 ## 概要
 
-タイトルこそ『III』を名乗っているが『beatmania』シリーズの直接的後継機に相当し、同シリーズの5ボタン+[ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")という基本デバイスを踏襲している。さらにデバイスにフットペダルを追加し、兄弟作の『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』シリーズ以上のエフェクト機能の充実などを図っている。また、『beatmania』シリーズに比べて音質も大幅に向上している。
+タイトルこそ『III』を名乗っているが『beatmania』シリーズの直接的後継機に相当し、同シリーズの5ボタン+[ターンテーブル](https://ja.wikipedia.org/wiki/ターンテーブル "wikilink")という基本デバイスを踏襲している。さらにデバイスにフットペダルを追加し、兄弟作の『[beatmania IIDX](https://ja.wikipedia.org/wiki/beatmania_IIDX "wikilink")』シリーズ以上のエフェクト機能の充実などを図っている。(発売当時基準。現在はIIDXのエフェクトも更新されている。) また、『beatmania』シリーズに比べて音質も大幅に向上している。
 
 初代バージョンは、『beatmania』シリーズの5thMIXまでのほぼすべての楽曲にオリジナル曲を加えて発売された。『beatmania CORE REMIX』の稼働以降は『beatmania』シリーズから若干遅れたペースで追随するように、『APPEND -』というタイトルで対応する新規楽曲を追加したバージョンを発売していった。そして[2002年](../Page/2002年.md "wikilink")の『beatmania THE FINAL』稼働に合わせてこちらも『beatmania III THE FINAL』を発売し、『beatmania』シリーズとともに歴史に幕を下ろした。
 
-『beatmania』シリーズと制作コンセプトがほぼ一致していることから、同シリーズと合わせて「**5鍵**」や「**5鍵盤**」と総称される。
+『beatmania』シリーズと制作コンセプトがほぼ一致していることから、同シリーズと合わせて「**5鍵**」や「**5鍵盤**」と総称される。意図してシリーズを区別する場合は「BMIII」など。
 
 ## 開発から終幕までの歴史
 

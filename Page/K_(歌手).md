@@ -5,33 +5,91 @@
 
 妻は[タレント](../Page/タレント.md "wikilink")の[関根麻里](../Page/関根麻里.md "wikilink")。義父は[タレント](../Page/タレント.md "wikilink")の[関根勤](../Page/関根勤.md "wikilink")。
 
-## 略歴
+## 来歴
 
   - 幼少の頃から、[ゴスペル](https://ja.wikipedia.org/wiki/ゴスペル_\(音楽\) "wikilink")・[R\&Bといった](../Page/リズム・アンド・ブルース.md "wikilink")[ブラックミュージック](../Page/ブラックミュージック.md "wikilink")に親しみ、地元[ソウルの](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")[教会](../Page/教会.md "wikilink")で続けていたピアノ演奏と歌唱力が音楽プロデューサーの目に留まり、本格的に音楽活動をスタートさせる。
-  - [2004年](../Page/2004年.md "wikilink")
-      - 韓国で歌手デビュー。その後、ピアノの弾き語りができるアーティストを探していた日本のスタッフにスカウトされ、同年秋、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[J-POP](../Page/J-POP.md "wikilink")デビューに向けて初来日。
-  - [2005年](../Page/2005年.md "wikilink")
-      - [1月13日](../Page/1月13日.md "wikilink")：[TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[H2〜君といた日々](../Page/H2〜君といた日々.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に抜擢された『over...』が発売前から話題を呼ぶ。
-      - [3月2日](../Page/3月2日.md "wikilink")：シングル『[over...](https://ja.wikipedia.org/wiki/over... "wikilink")』をリリース。日本デビューを果たす。[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")、初登場6位を記録。直後には、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[Young Guns](https://ja.wikipedia.org/wiki/ミュージックステーション#Young_Gunsに登場したアーティスト "wikilink")）」でテレビ初出演を果たし、最高位5位を記録するスマッシュヒットとなった。
-      - [5月11日](../Page/5月11日.md "wikilink")：2ndシングル『抱きしめたい』をリリース。このシングルも初登場10位を記録し、韓国の男性アーティストでは初となった2作連続TOP10入りを達成した。
-      - [10月11日](../Page/10月11日.md "wikilink")：[フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』の主題歌に『Only Human』が起用された。
-      - [11月23日](../Page/11月23日.md "wikilink")：4thシングル『Only Human』をリリース。オリコン週間シングルチャート10位内に初登場から7週連続チャートインのロングセールスを記録。最終的に20万枚を突破し、自身最大のヒットとなる。また、同ドラマの挿入歌である[レミオロメン](../Page/レミオロメン.md "wikilink")の「粉雪」も大ヒットし、1つのドラマの[タイアップ](../Page/タイアップ.md "wikilink")曲が2曲同時にオリコンシングルチャート10以内に入ったことで大きな話題となった。
-  - [2006年](../Page/2006年.md "wikilink")
-      - [1月18日](../Page/1月18日.md "wikilink")：1stアルバム『Beyond the Sea』をリリース。『1リットルの涙』主演女優の[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")が出演した、『Only Human』を聴きながら涙を浮かべるスポットCMが話題になる（同じくフジテレビのみでのオンエア）。オリコン週間アルバムチャートで初登場・最高位2位を記録し、アジアの男性アーティストでは初となった週間アルバムチャートTOP3入りを達成した。
-      - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [5月](https://ja.wikipedia.org/wiki/5月 "wikilink")：日本デビュー1年で[NHKホール](../Page/NHKホール.md "wikilink")・[大阪フェスティバルホールなどで開催した初の全国ツアー](../Page/フェスティバルホール.md "wikilink")“live K tour 2006 〜Beyond the Sea〜”も大成功させた。
-      - [4月19日](../Page/4月19日.md "wikilink")：[チャン・ドンゴン](../Page/チャン・ドンゴン.md "wikilink")主演の[韓国映画](../Page/韓国映画.md "wikilink")「[タイフーン](https://ja.wikipedia.org/wiki/タイフーン/TYPHOON "wikilink")」の日本版イメージソングに起用された『The Day』をリリース。
+
+<!-- end list -->
+
+  - 2004年
+
+<!-- end list -->
+
+  - 韓国で歌手デビュー。その後、}}、同年秋、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")での[J-POP](../Page/J-POP.md "wikilink")デビューに向けて初来日。
+
+<!-- end list -->
+
+  - 2005年
+
+<!-- end list -->
+
+  - [1月13日](../Page/1月13日.md "wikilink") - [TBS系](../Page/TBSテレビ.md "wikilink")[ドラマ](../Page/テレビドラマ.md "wikilink")『[H2〜君といた日々](../Page/H2〜君といた日々.md "wikilink")』の[主題歌](../Page/主題歌.md "wikilink")に抜擢された『over...』が発売前から話題を呼ぶ。
+  - [3月2日](../Page/3月2日.md "wikilink") - シングル『[over...](https://ja.wikipedia.org/wiki/over... "wikilink")』をリリース。日本デビューを果たす。[オリコン週間シングルチャートで](../Page/オリコンチャート.md "wikilink")、初登場6位を記録。直後に、[テレビ朝日](../Page/テレビ朝日.md "wikilink")「[MUSIC STATION](https://ja.wikipedia.org/wiki/ミュージックステーション "wikilink")（[Young Guns](https://ja.wikipedia.org/wiki/ミュージックステーション#Young_Gunsに登場したアーティスト "wikilink")）」に初出演。メディア出演やプロモーション活動が功を奏し、オリコンチャート最高位5位を記録するスマッシュヒットとなった。
+  - [5月11日](../Page/5月11日.md "wikilink") - 2ndシングル『抱きしめたい』をリリース。同シングルも初登場10位を記録し、韓国の男性アーティストでは初となった2作連続TOP10入りを達成した。
+  - [10月11日](../Page/10月11日.md "wikilink") - [フジテレビ系ドラマ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")『[1リットルの涙](../Page/1リットルの涙_\(テレビドラマ\).md "wikilink")』の主題歌に『Only Human』が起用された。
+  - [11月23日](../Page/11月23日.md "wikilink") - 4thシングル『Only Human』をリリース。オリコン週間シングルチャート10位内に初登場から7週連続チャートインのロングセールスを記録。最終的に20万枚を突破し、自身最大のヒットとなる。また、同ドラマの挿入歌である[レミオロメン](../Page/レミオロメン.md "wikilink")の「粉雪」も大ヒットし、1つのドラマの[タイアップ](../Page/タイアップ.md "wikilink")曲が2曲同時にオリコンシングルチャート10以内に入ったことで話題となった。
+
+<!-- end list -->
+
+  - 2006年
+
+<!-- end list -->
+
+  - [1月18日](../Page/1月18日.md "wikilink") - 1stアルバム『Beyond the Sea』をリリース。『1リットルの涙』主演女優の[沢尻エリカ](https://ja.wikipedia.org/wiki/沢尻エリカ "wikilink")が出演した、『Only Human』を聴きながら涙を浮かべるスポットCMが話題になる（同じくフジテレビのみでのオンエア）。オリコン週間アルバムチャートで初登場・最高位2位を記録し、アジアの男性アーティストでは初となった週間アルバムチャートTOP3入りを達成した。
+  - [3月](https://ja.wikipedia.org/wiki/3月 "wikilink") - [NHKホール](../Page/NHKホール.md "wikilink")・[大阪フェスティバルホールなどで開催した初の全国ツアー](../Page/フェスティバルホール.md "wikilink")“live K tour 2006 〜Beyond the Sea〜”を5月まで行う。
+  - [4月19日](../Page/4月19日.md "wikilink") - [チャン・ドンゴン](../Page/チャン・ドンゴン.md "wikilink")主演の[韓国映画](../Page/韓国映画.md "wikilink")「[タイフーン](https://ja.wikipedia.org/wiki/タイフーン/TYPHOON "wikilink")」の日本版イメージソングに起用された『The Day』をリリース。
       - その後も、[土6](https://ja.wikipedia.org/wiki/毎日放送土曜6時枠 "wikilink")[アニメ](../Page/アニメ.md "wikilink")「[BLOOD+](../Page/BLOOD+.md "wikilink")」EDテーマとなった『Brand New Map』、話題のロマンティック・コメディ[映画](../Page/日本映画.md "wikilink")「[7月24日通りのクリスマス](../Page/7月24日通りのクリスマス.md "wikilink")」主題歌となった[クリスマスソング](../Page/クリスマスの音楽一覧.md "wikilink")『ファースト・クリスマス』を立て続けにリリース。
-      - [12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink")：2ndアルバム『Music in My Life』をリリース。
-  - [2011年](../Page/2011年.md "wikilink")
-      - [1月1日](../Page/1月1日.md "wikilink")より、兵役のため歌手活動を休止。
-      - [1月12日](../Page/1月12日.md "wikilink")に発売の、[槇原敬之](../Page/槇原敬之.md "wikilink")デビュー20周年記念トリビュートアルバム『[We Love Mackey](https://ja.wikipedia.org/wiki/We_Love_Mackey "wikilink")』に「[僕が一番欲しかったもの](../Page/僕が一番欲しかったもの.md "wikilink")」で参加。
-  - [2012年](../Page/2012年.md "wikilink")
-      - [10月20日](../Page/10月20日.md "wikilink")：韓国での約2年間の兵役を終え除隊。
-      - [10月24日](../Page/10月24日.md "wikilink")：日本での音楽活動を再開した。
-  - [2014年](../Page/2014年.md "wikilink")
-      - [関根麻里](../Page/関根麻里.md "wikilink")と8月中に入籍予定であることを、関根の所属事務所が認めている\[2\]
-  - [2017年](../Page/2017年.md "wikilink")
-      - 1月9日：所属レーベルを[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")へ移籍したことを発表\[3\]。
+  - [12月13日](https://ja.wikipedia.org/wiki/12月13日 "wikilink") - 2ndアルバム『Music in My Life』をリリース。
+
+<!-- end list -->
+
+  - 2011年
+
+<!-- end list -->
+
+  - [1月1日](../Page/1月1日.md "wikilink")より、兵役のため歌手活動を休止。
+  - [1月12日](../Page/1月12日.md "wikilink")発売の[槇原敬之](../Page/槇原敬之.md "wikilink")デビュー20周年記念トリビュートアルバム『[We Love Mackey](https://ja.wikipedia.org/wiki/We_Love_Mackey "wikilink")』に「[僕が一番欲しかったもの](../Page/僕が一番欲しかったもの.md "wikilink")」で参加。
+
+<!-- end list -->
+
+  - 2012年
+
+<!-- end list -->
+
+  - [10月20日](../Page/10月20日.md "wikilink") - 韓国での約2年間の兵役を終え除隊。[10月24日](../Page/10月24日.md "wikilink")に日本での音楽活動を再開した。
+
+<!-- end list -->
+
+  - 2014年
+
+<!-- end list -->
+
+  - タレントの[関根麻里](../Page/関根麻里.md "wikilink")と8月中に入籍予定であることを、関根の所属事務所が認めた\[2\]。
+  - [8月24日](../Page/8月24日.md "wikilink") - 港区[赤坂にある](../Page/赤坂_\(東京都港区\).md "wikilink")[氷川神社にて挙式](../Page/氷川神社_\(東京都港区赤坂\).md "wikilink")。
+
+<!-- end list -->
+
+  - 2015年
+
+<!-- end list -->
+
+  - [11月15日](../Page/11月15日.md "wikilink") - 第一子となる女児が誕生。
+
+<!-- end list -->
+
+  - 2017年
+
+<!-- end list -->
+
+  - 1月9日 - 所属レーベルを[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")へ移籍したことを発表\[3\]。
+
+<!-- end list -->
+
+  - 2019年
+
+<!-- end list -->
+
+  - 10月 - 第二子となる女児が誕生。
 
 ## 作品
 
@@ -522,19 +580,20 @@
   - [音リコ\!](../Page/音リコ!.md "wikilink")（読売テレビ）
   - [ウエンズデー J-POP](../Page/ウエンズデー_J-POP.md "wikilink")（2010年12月22日、NHKBS2）- 兵役前最後のテレビ出演\[5\]。
   - [新堂本兄弟](https://ja.wikipedia.org/wiki/新堂本兄弟 "wikilink")（フジテレビ）
-  - [JOYnt\!](https://ja.wikipedia.org/wiki/JOYnt! "wikilink") （群馬テレビ）
-  - [伝統の継承～笑顔に逢いに～](https://ja.wikipedia.org/wiki/伝統の継承～笑顔に逢いに～ "wikilink") (2016年4月2日-2016年12月31日、三重テレビ）- レギュラー。
-  - [韓流ザップ](https://ja.wikipedia.org/wiki/韓流ザップ "wikilink") (2016年3月31日- 、BSスカパー！）- レギュラー。
+  - [JOYnt\!](https://ja.wikipedia.org/wiki/JOYnt! "wikilink")群馬テレビ）
+  - [伝統の継承〜笑顔に逢いに〜](https://ja.wikipedia.org/wiki/伝統の継承〜笑顔に逢いに〜 "wikilink") (2016年4月2日 - 12月31日、三重テレビ） - レギュラー
+  - [韓流ザップ](https://ja.wikipedia.org/wiki/韓流ザップ "wikilink")（2016年3月31日- 、BSスカパー！） - レギュラー
   - [テレビでハングル講座](../Page/テレビでハングル講座.md "wikilink")（2019年4月 - 、NHK Eテレ）\[6\]
+  - [MUSIC JUNCTION](https://ja.wikipedia.org/wiki/MUSIC_JUNCTION "wikilink") \#9・\#10（2020年10月12日・26日、[歌謡ポップスチャンネル](../Page/歌謡ポップスチャンネル.md "wikilink")）※「[松本隆](../Page/松本隆.md "wikilink")作詞生活50周年記念特集」とコラボ企画。リピート放送あり
 
 ### ラジオ
 
-  - [JFN系列](../Page/全国FM放送協議会.md "wikilink")「[Beyond the K...](../Page/Beyond_the_K....md "wikilink")」（2006年4月 - 2009年9月） - レギュラー。
-  - [FM横浜](https://ja.wikipedia.org/wiki/FM横浜 "wikilink")「[K-style](https://ja.wikipedia.org/wiki/K-style "wikilink")」（2012年10月4日 - ） - レギュラー。
+  - [JFN系列](../Page/全国FM放送協議会.md "wikilink")「[Beyond the K...](../Page/Beyond_the_K....md "wikilink")」（2006年4月 - 2009年9月） - レギュラー
+  - [FM横浜](https://ja.wikipedia.org/wiki/FM横浜 "wikilink")「[K-style](https://ja.wikipedia.org/wiki/K-style "wikilink")」（2012年10月4日 - ） - レギュラー
 
 ### ライブ
 
-  - 靭公園 MUSIC FESTA FM COCOLO 〜風のハミング〜 にシークレットゲストとして出演（2014年9月13日）
+  - 靭公園 MUSIC FESTA FM COCOLO 〜風のハミング〜（2014年9月13日）※シークレットゲストとして出演
 
 ### ライブツアー
 
@@ -550,7 +609,7 @@
 
 ### 舞台
 
-  - [シアタークリエ](../Page/シアタークリエ.md "wikilink")[「RENT」](../Page/レント_\(ミュージカル\).md "wikilink")（ロジャー）（2008年11月 - 12月）
+  - [シアタークリエ](../Page/シアタークリエ.md "wikilink")[「RENT」](../Page/レント_\(ミュージカル\).md "wikilink")（2008年11月 - 12月） - ロジャー
 
 ### ネット配信
 

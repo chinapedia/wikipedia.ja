@@ -414,7 +414,7 @@ AVCY-58781:通常盤<br />
 
   - [SE7EN/ LUCKY SE7EN](http://lucky-7.jp)日本公式ファンクラブサイト　
 
-  - [SE7EN 日本公式MySpace](http://www.myspace.com/se7enhello7)
+  - [SE7EN 日本公式MySpace](https://myspace.com/se7enhello7)
 
   - [SE7ENオフィシャルブログ](https://ameblo.jp/ygse7en/)
 

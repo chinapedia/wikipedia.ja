@@ -5,7 +5,7 @@
 
 ## 概要
 
-ほぼ全ての機種がローランド[GS規格に対応しており](../Page/GSフォーマット.md "wikilink")、その中核を担っている機種である。コンピューターミュージックの[MIDI](../Page/MIDI.md "wikilink")データを作成する場合、このSCシリーズのモデルを使って作成されることが多く、90年代半ばにDTMの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")を確立した。SC-8850/8820から後は、SC-D70を経由し、[SDシリーズにそのポジションは引き継がれた](../Page/エディロール・SDシリーズ.md "wikilink")。現在では「世代遅れ」となったSCシリーズであるが、旧機種においても[Windows Vista用ドライバが用意されるなど](https://ja.wikipedia.org/wiki/Windows_Vista "wikilink")、DTMにおける地位はいまだ失われていないと言える。
+ほぼ全ての機種がローランド[GS規格に対応しており](../Page/GSフォーマット.md "wikilink")、その中核を担っている機種である。コンピューターミュージックの[MIDI](../Page/MIDI.md "wikilink")データを作成する場合、このSCシリーズのモデルを使って作成されることが多く、90年代半ばにDTMの[デファクトスタンダード](../Page/デファクトスタンダード.md "wikilink")を確立した。SC-8850/8820から後は、SC-D70を経由し、[SDシリーズにそのポジションは引き継がれた](../Page/エディロール・SDシリーズ.md "wikilink")。現在では「世代遅れ」となったSCシリーズであるが、旧機種においても[Windows Vista用ドライバが用意されるなど](https://ja.wikipedia.org/wiki/Microsoft_Windows_Vista "wikilink")、DTMにおける地位はいまだ失われていないと言える。64ビット版のWindowsで動作するシリアルMIDIドライバは無いが、市販のUSB-MIDIインターフェース経由で接続すれば[Windows 10でも使用可能である](https://ja.wikipedia.org/wiki/Microsoft_Windows_10 "wikilink")。
 
 いくつかの機種において、表示パネルなどを省いた[廉価版](../Page/廉価版.md "wikilink")が発売されている。廉価版の機種名は、元となった機種名の後ろに ST がついている。内部のMIDI性能は基本版と同等とされるが、[DACなどが異なるために最終的に出力される音声の精度が若干劣っている](../Page/デジタル-アナログ変換回路.md "wikilink")。
 

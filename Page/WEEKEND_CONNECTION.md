@@ -66,7 +66,7 @@
 
 ## 外部リンク
 
-  - [2001年(Webarchiveキャッシュ)](http://web.archive.org/web/20010618161754/www.j-wave.co.jp/original/weekend2/contents.htm)
-  - [2003年(Webarchiveキャッシュ)](http://web.archive.org/web/20030220163638/www.j-wave.co.jp/original/weekend2/renewal2/contents.shtm)
+  - [2001年(Webarchiveキャッシュ)](https://web.archive.org/web/20010618161754/www.j-wave.co.jp/original/weekend2/contents.htm)
+  - [2003年(Webarchiveキャッシュ)](https://web.archive.org/web/20030220163638/www.j-wave.co.jp/original/weekend2/renewal2/contents.shtm)
 
 [Category:J-WAVEの番組の歴史](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組の歴史 "wikilink") [Category:ラジオの情報・ワイドショー番組](https://ja.wikipedia.org/wiki/Category:ラジオの情報・ワイドショー番組 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")

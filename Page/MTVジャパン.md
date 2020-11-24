@@ -107,7 +107,7 @@ MTVジャパンやアメリカMTV制作の番組みならず、[VH1](https://ja.
   - Dance Delight
   - Apt.
   - [サウスパーク](../Page/サウスパーク.md "wikilink")
-  - [BEAVIS AND BUTT-HEAD](../Page/BEAVIS_AND_BUTT-HEAD.md "wikilink") - かつて放送されていた
+  - [BEAVIS AND BUTT-HEAD](../Page/BEAVIS_AND_BUTT-HEAD.md "wikilink")
   - [もっと兼本さん宅](https://ja.wikipedia.org/wiki/もっと兼本さん宅 "wikilink")
   - 昭和ダイナマイト
   - [新世紀エヴァンゲリオン](https://ja.wikipedia.org/wiki/新世紀エヴァンゲリオン "wikilink")

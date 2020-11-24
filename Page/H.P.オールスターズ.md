@@ -5,7 +5,9 @@
 
 この項目では、[2011年](../Page/2011年.md "wikilink")に結成された[ハロー\!プロジェクト モベキマス](https://ja.wikipedia.org/wiki/#ハロー!プロジェクト_モベキマス "wikilink")、[2018年](../Page/2018年.md "wikilink")に結成された[ハロプロ・オールスターズについても記述する](https://ja.wikipedia.org/wiki/#ハロプロ・オールスターズ "wikilink")。
 
-## メンバー
+## H.P.オールスターズ
+
+### メンバー
 
 各グループの人数およびメンバーはリリース時点
 
@@ -79,7 +81,7 @@
   -
     [清水佐紀](../Page/清水佐紀.md "wikilink")、[嗣永桃子](../Page/嗣永桃子.md "wikilink")、[徳永千奈美](../Page/徳永千奈美.md "wikilink")、[須藤茉麻](../Page/須藤茉麻.md "wikilink")、[夏焼雅](../Page/夏焼雅.md "wikilink")、[石村舞波](../Page/石村舞波.md "wikilink")、[熊井友理奈](../Page/熊井友理奈.md "wikilink")、[菅谷梨沙子](../Page/菅谷梨沙子.md "wikilink")
 
-## 特徴
+### 特徴
 
   - [2004年](../Page/2004年.md "wikilink")は毎年恒例の[シャッフルユニット](../Page/シャッフルユニット.md "wikilink")が結成されなかったため（[2006年](../Page/2006年.md "wikilink")も同様）、その代替として位置付けられている。『ALL FOR ONE & ONE FOR ALL\!』の帯にその旨が記述されており、ジャケット・初回盤写真集の表紙および扉にはシャッフルユニットを示すデザインロゴが記されていることに加え、公式サイトでも本ユニットはシャッフルユニットとして扱われている。ただし、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")発売の『[メガベスト](https://ja.wikipedia.org/wiki/メガベスト "wikilink")』シリーズでは『シャッフルユニットメガベスト』ではなく『スペシャルユニットメガベスト』に収録されている。
   - 『ALL FOR ONE & ONE FOR ALL\!』は、以下ハロー\!プロジェクト加入順の組み合わせによるメドレーから始まる。
@@ -98,11 +100,12 @@
   - サビ前のソロは、松浦・安倍・加護・後藤・辻・石川・藤本といった当時注目度の高かったメンバーに割り当てられている。
   - 衣装は[女子高生](../Page/女子高生.md "wikilink")の制服がモチーフとなり、下の衣装は、美勇伝の岡田・三好はチェックの長ズボン、Berryz工房はチェックの[ハーフパンツ](../Page/ハーフパンツ.md "wikilink")、その他のメンバーはチェックの[ミニスカート](../Page/ミニスカート.md "wikilink")だった。
 
-### 活動期間
+### 略歴
 
-活動期間は2004年11月中旬〜12月中旬の約1か月間と、ハロー\!プロジェクトの全てのユニットの中で最も短い。
+**[2004年](../Page/2004年.md "wikilink")**
 
-### 2005年以降の『H.P.オールスターズ』
+  - 11月、初のハロー\!プロジェクト全員参加によるオールスターユニットとして活動を開始した。
+  - 12月1日、アルバム『[ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")』をリリース。
 
 **[2005年](../Page/2005年.md "wikilink")**
 
@@ -113,18 +116,18 @@
 
   - 3月19日、『[Hello\! Project SPORTS FESTIVAL](https://ja.wikipedia.org/wiki/ハロー!プロジェクトスポーツフェスティバル "wikilink") 2006』（[さいたまスーパーアリーナ](../Page/さいたまスーパーアリーナ.md "wikilink")）のミニライブで、モーニング娘。の「[ここにいるぜぇ\!](../Page/ここにいるぜぇ!.md "wikilink")」をH.P.オールスターズ名義で披露している（ただし、ライブの模様が収録されたファンクラブ会員限定販売のDVDには「**全員**」とのみ表記）。
 
-## 作品
+### 作品
 
-### アルバム
+#### アルバム
 
   - **[ALL FOR ONE & ONE FOR ALL\!](https://ja.wikipedia.org/wiki/ALL_FOR_ONE_&_ONE_FOR_ALL! "wikilink")**（2004年12月1日、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")、初回盤：EPCE-5343・通常盤：EPCE-5344）\[1\]
 
-### コンピレーションアルバム
+#### コンピレーションアルバム
 
   - [プッチベスト5](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト5 "wikilink")（2004年12月22日、zetima、EPCE-5340）\[2\]
   - [ハロー\!プロジェクト スペシャルユニット メガベスト](https://ja.wikipedia.org/wiki/メガベスト "wikilink")（2008年12月10日、zetima、EPCE-5602）\[3\]
 
-### DVD
+#### DVD
 
   - [プッチベスト5 DVD](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト5_DVD "wikilink")（2004年12月15日、zetima、EPBE-5162）\[4\]
 
@@ -604,35 +607,28 @@
   -
     [一岡伶奈](https://ja.wikipedia.org/wiki/一岡伶奈 "wikilink")、[島倉りか](https://ja.wikipedia.org/wiki/島倉りか "wikilink")、[西田汐里](https://ja.wikipedia.org/wiki/西田汐里 "wikilink")、[江口紗耶](https://ja.wikipedia.org/wiki/江口紗耶 "wikilink")、[高瀬くるみ](https://ja.wikipedia.org/wiki/高瀬くるみ "wikilink")、[前田こころ](https://ja.wikipedia.org/wiki/前田こころ "wikilink")、[山﨑夢羽](https://ja.wikipedia.org/wiki/山﨑夢羽 "wikilink")、[岡村美波](https://ja.wikipedia.org/wiki/岡村美波 "wikilink")、[清野桃々姫](https://ja.wikipedia.org/wiki/清野桃々姫 "wikilink")、[平井美葉](https://ja.wikipedia.org/wiki/平井美葉 "wikilink")\[63\]、[小林萌花](https://ja.wikipedia.org/wiki/小林萌花 "wikilink")\[64\]、[里吉うたの](https://ja.wikipedia.org/wiki/里吉うたの "wikilink")\[65\]
 
-### 特徴
-
-  - シングル「[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")」は、初回生産限定盤と通常盤A〜Fの7形態で発売\[66\]。
-  - “Additional Track”として、作詞・作曲を[前山田健一](https://ja.wikipedia.org/wiki/前山田健一 "wikilink")が手掛けた楽曲「ハロー\!ヒストリー」を収録\[67\]。この楽曲のみ、[ハロプロ研修生](../Page/ハロプロ研修生.md "wikilink")も参加。
-  - 通常盤のカップリングでは、BEYOOOOONDSを除くハロー\!プロジェクト所属の各グループが歌唱する「YEAH YEAH YEAH」の音源を収録\[68\]。
-  - 初回生産限定盤には、「YEAH YEAH YEAH」「憧れのStress-free」のミュージックビデオが収められたDVDを付属\[69\]。
-
 ### 作品
 
 #### シングル
 
-  - **[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")**（2018年9月26日、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")/[UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")、初回生産限定盤：EPCE-7429〜30・通常盤A モーニング娘。'18盤：EPCE-7431・同B アンジュルム盤：EPCE-7432・同C Juice=Juice盤：EPCE-7433・同D カントリー・ガールズ盤：EPCE-7434・同E こぶしファクトリー盤：EPCE-7435・同F つばきファクトリー盤：EPCE-7436）\[70\]
+  - **[YEAH YEAH YEAH/憧れのStress-free/花、闌の時](https://ja.wikipedia.org/wiki/YEAH_YEAH_YEAH/憧れのStress-free/花、闌の時 "wikilink")**（2018年9月26日、[zetima](https://ja.wikipedia.org/wiki/アップフロントワークス#zetima "wikilink")/[UP-FRONT WORKS](../Page/アップフロントワークス.md "wikilink")、初回生産限定盤：EPCE-7429〜30・通常盤A モーニング娘。'18盤：EPCE-7431・同B アンジュルム盤：EPCE-7432・同C Juice=Juice盤：EPCE-7433・同D カントリー・ガールズ盤：EPCE-7434・同E こぶしファクトリー盤：EPCE-7435・同F つばきファクトリー盤：EPCE-7436）\[66\]
 
 #### コンピレーションアルバム
 
-  - [プッチベスト19](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19 "wikilink")（2018年12月12日、zetima、EPCE-7454）\[71\]
+  - [プッチベスト19](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19 "wikilink")（2018年12月12日、zetima、EPCE-7454）\[67\]
 
 #### 映像作品
 
   - イベントV「YEAH YEAH YEAH/花、闌の時」（2018年10月20日、UP-FRONT WORKS、TGBS-10732)
-  - [プッチベスト19 Blu-ray Disc](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19_Blu-ray_Disc "wikilink")（2018年12月12日、zetima、EPXE-5146）\[72\]
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2019年3月27日、zetima/UP-FRONT WORKS、DVD：EPBE-5588・Blu-ray：EPXE-5149）\[73\]\[74\]
+  - [プッチベスト19 Blu-ray Disc](https://ja.wikipedia.org/wiki/プッチベスト#プッチベスト19_Blu-ray_Disc "wikilink")（2018年12月12日、zetima、EPXE-5146）\[68\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2019年3月27日、zetima/UP-FRONT WORKS、DVD：EPBE-5588・Blu-ray：EPXE-5149）\[69\]\[70\]
 
 ### 出演
 
 #### イベント
 
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2018年10月21日、[彩の国くまがやドーム](https://ja.wikipedia.org/wiki/熊谷スポーツ文化公園#彩の国くまがやドーム "wikilink")）\[75\]
-  - ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜（2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")）\[76\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜チーム対抗歌合戦〜（2018年10月21日、[彩の国くまがやドーム](https://ja.wikipedia.org/wiki/熊谷スポーツ文化公園#彩の国くまがやドーム "wikilink")）\[71\]
+  - ハロプロ・オールスターズ シングル発売記念イベント 〜春の個別握手会〜 & 〜Hello\! Project 20th Anniversary\!\!After Party〜（2019年4月20日・21日、[幕張メッセ](../Page/幕張メッセ.md "wikilink")）\[72\]
 
 #### 配信
 
@@ -748,7 +744,3 @@
 70.
 71.
 72.
-73.
-74.
-75.
-76.

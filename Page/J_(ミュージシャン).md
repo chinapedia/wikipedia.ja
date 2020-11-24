@@ -1131,14 +1131,17 @@ CTXD-20081:Blu-ray</p></td>
 <td><p>2017年05月31日</p></td>
 <td><p><strong>SINNERS - EP</strong></p></td>
 <td><p>KICS-3497</p></td>
-<td><p>2.TRIGGER feat. <a href="../Page/J_(ミュージシャン).md" title="wikilink">J</a></p></td>
+<td><p>2.TRIGGER feat. J</p></td>
 </tr>
 <tr class="odd">
 <td><p>2020年1月22日</p></td>
 <td><p><strong><a href="../Page/REAL×EYEZ.md" title="wikilink">REAL×EYEZ</a></strong></p></td>
-<td><p>AVCD-94689:CD AVCD-94688B:CD+DVD</p>
-<p>AVZD-94687:CD+DXライジングホッパープログライズキー（数量限定生産）</p></td>
-<td><p>REAL×EYEZ （J×<a href="../Page/西川貴教.md" title="wikilink">Takanori Nishikawa名義</a>）</p></td>
+<td><p>AVCD-94689:CD<br />
+AVCD-94688B:CD+DVD<br />
+AVZD-94687:CD+DXライジングホッパープログライズキー（数量限定生産）</p></td>
+<td><p>1.REAL×EYEZ<br />
+2.Another Daybreak<br />
+（J×<a href="../Page/西川貴教.md" title="wikilink">Takanori Nishikawa名義</a>）</p></td>
 </tr>
 </tbody>
 </table>

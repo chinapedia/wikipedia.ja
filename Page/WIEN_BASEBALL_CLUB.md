@@ -38,12 +38,17 @@
 
   - [辻恭彦](../Page/辻恭彦.md "wikilink")（元：[阪神タイガース](../Page/阪神タイガース.md "wikilink")、[横浜大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")） - コーチ→退団
 
+## その他の主な在籍選手
+
+  - [志村亮](../Page/志村亮.md "wikilink")（投手） - 大学時代、複数球団からドラフト1位指名が目されるもプロ入り拒否を宣言し、「幻のドラフト1位」と呼ばれた選手。[WIEN'94の創部時に移籍](../Page/WIEN'Z.md "wikilink")。
+  - [片山智彦](../Page/片山智彦.md "wikilink")（投手） - [NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")を務めながらプレーした。
+  - [佐野川リョウ](https://ja.wikipedia.org/wiki/佐野川リョウ "wikilink")（投手） - 高校・大学生時代に在籍。[フルタイムナックルボーラーとして海外リーグを渡り歩いたのち](../Page/ナックルボール.md "wikilink")、現在は[オリックス・バファローズ](../Page/オリックス・バファローズ.md "wikilink")データ分析担当。
+
 ## 脚注
 
 ## 関連項目
 
   - [社会人野球チーム一覧](../Page/社会人野球チーム一覧.md "wikilink")
-  - [片山智彦](../Page/片山智彦.md "wikilink") - 同チームに所属している[NHKの](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")
 
 ## 外部リンク
 

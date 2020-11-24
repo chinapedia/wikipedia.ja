@@ -5,7 +5,7 @@
 
 ## 概要
 
-  - 前作『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』から1年ぶりのアルバム。**[小林武史](../Page/小林武史.md "wikilink")は本作から方向性が恋愛路線から精神論へと変化してきたことを指摘**している。[桜井和寿](../Page/桜井和寿.md "wikilink")もタイトルについて訊かれた際に「**今までの[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の詞にあったロマンティックでセンチメンタルな部分をどこかで排除したような詞を書いてみようというのがあって。科学的な目というと大げさかもしれないけど、たとえば人を愛する気持ちというのはどういうことなんだろうとか、（中略）全体の切ない気持ちというよりも、局部局部に視点を持っていって考えていて**」と語っている\[1\]。
+  - 前作『[Versus](../Page/Versus_\(アルバム\).md "wikilink")』から1年ぶりのアルバム。[小林武史](../Page/小林武史.md "wikilink")は本作から方向性が恋愛路線から精神論へと変化してきたことを指摘している。[桜井和寿](../Page/桜井和寿.md "wikilink")もタイトルについて訊かれた際に「**今までの[Mr.Children](https://ja.wikipedia.org/wiki/Mr.Children "wikilink")の詞にあったロマンティックでセンチメンタルな部分をどこかで排除したような詞を書いてみようというのがあって。科学的な目というと大げさかもしれないけど、たとえば人を愛する気持ちというのはどういうことなんだろうとか、（中略）全体の切ない気持ちというよりも、局部局部に視点を持っていって考えていて**」と語っている\[1\]。
   - [ジャケットはブルーバックに白文字で](https://ja.wikipedia.org/wiki/ディスクジャケット "wikilink")「Mr.Children・Atomic Heart」と小さく表記されているのみ。[アートディレクター](../Page/アートディレクター.md "wikilink")は[信藤三雄](../Page/信藤三雄.md "wikilink")。初回限定盤はブルーのプラスチックスリーブに水色のカラーCDケースが収納されている仕様であり、歌詞カードの表紙は表記のない水色の無地。
   - 初めて[インストゥルメンタルが収録された作品で](../Page/器楽曲.md "wikilink")、本作以降Mr.Childrenの全作品で公式にインストゥルメンタルは斜体文字で表記されている。
   - Mr.Childrenのアルバムでは最もシングルカットされた曲（カップリング曲やリミックスバージョンを含む）と[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")に収録された曲が多い作品。
@@ -182,8 +182,6 @@
 | [MR.CHILDREN DOME TOUR 2005 "I ♥ U" 〜FINAL IN TOKYO DOME〜](https://ja.wikipedia.org/wiki/MR.CHILDREN_DOME_TOUR_2005_"I_LOVE_U"_〜FINAL_IN_TOKYO_DOME〜 "wikilink") | 特典映像、弾き語りで演奏された |
 
 ## 脚注
-
-<references />
 
 ## 外部リンク
 

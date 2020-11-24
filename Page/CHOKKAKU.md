@@ -77,10 +77,6 @@
   - 「listen up」（編曲）
   - 「TOKYO」（編曲）
 
-**[A.B.C-Z](../Page/A.B.C-Z.md "wikilink")**
-
-  - 「[Oh\! Teacher](https://ja.wikipedia.org/wiki/CONTINUE?_\(アルバム\) "wikilink")」（編曲）
-
 **[AKB48グループ](https://ja.wikipedia.org/wiki/AKB48グループ "wikilink")**
 
   - **[AKB48](https://ja.wikipedia.org/wiki/AKB48 "wikilink")**
@@ -224,6 +220,7 @@
       - 「[fantastic Ride](https://ja.wikipedia.org/wiki/ABC_STAR_LINE "wikilink")」（編曲）
       - 「[テレパシーOne\! Two\!](https://ja.wikipedia.org/wiki/5_Performer-Z "wikilink")」（編曲）
       - 「[Black Sugar](https://ja.wikipedia.org/wiki/Black_Sugar_\(A.B.C-Zの曲\) "wikilink")」（編曲）
+      - 「[Oh\! Teacher](https://ja.wikipedia.org/wiki/CONTINUE?_\(アルバム\) "wikilink")」（編曲）
 
 <!-- end list -->
 

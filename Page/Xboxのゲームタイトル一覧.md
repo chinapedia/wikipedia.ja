@@ -49,7 +49,7 @@
 | 6月27日  | [トライアングルアゲイン](https://ja.wikipedia.org/wiki/トライアングルアゲイン "wikilink")                                                 | |[キキ](https://ja.wikipedia.org/wiki/プロダクション・アイジー#関連企業 "wikilink")  |    |
 | 7月4日   | [マジデスファイト\!](https://ja.wikipedia.org/wiki/マジデスファイト! "wikilink")                                                    | |[TAKUYO](https://ja.wikipedia.org/wiki/TAKUYO "wikilink")         |    |
 | 7月11日  | [THE BASEBALL 2002 バトルボールパーク宣言](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")                        | コナミ                                                                |    |
-| 7月25日  | [ワールドビリヤードトーナメント ブレイクナイン](https://ja.wikipedia.org/wiki/ワールドビリヤードトーナメント_ブレイクナイン "wikilink")                         | |[アスク](../Page/アスク.md "wikilink")                                  |    |
+| 7月25日  | [ワールドビリヤードトーナメント ブレイクナイン](https://ja.wikipedia.org/wiki/ワールドビリヤードトーナメント_ブレイクナイン "wikilink")                         | |[アスク](https://ja.wikipedia.org/wiki/アスク_\(出版社\) "wikilink")       |    |
 | 7月25日  | [CRAZY TAXI3 HighRoller](../Page/クレイジータクシー.md "wikilink")                                                           | セガ                                                                 |    |
 | 7月25日  | [叢 -MURAKUMO-](https://ja.wikipedia.org/wiki/叢_-MURAKUMO- "wikilink")                                               | |[フロム・ソフトウェア](../Page/フロム・ソフトウェア.md "wikilink")                    |    |
 | 8月8日   | [オールスターベースボール2003](https://ja.wikipedia.org/wiki/オールスターベースボール2003 "wikilink")                                       | |[アクレイムジャパン](https://ja.wikipedia.org/wiki/アクレイムジャパン "wikilink")   | ★  |
@@ -72,7 +72,7 @@
 | 12月5日  | [真・女神転生 NINE](../Page/真・女神転生_NINE.md "wikilink")                                                                    | |[アトラス](../Page/アトラス_\(ゲーム会社\).md "wikilink")                      |    |
 | 12月5日  | [イノセントティアーズ](https://ja.wikipedia.org/wiki/イノセントティアーズ "wikilink")                                                   | |[広美](https://ja.wikipedia.org/wiki/広美 "wikilink")                 | ★  |
 | 12月5日  | [機甲兵団J-PHOENIX＋](../Page/機甲兵団_J-PHOENIX.md "wikilink")                                                              | |[タカラ](../Page/タカラ_\(玩具メーカー\).md "wikilink")                       |    |
-| 12月12日 | [峠R](https://ja.wikipedia.org/wiki/峠R "wikilink")                                                                   | アトラス                                                               |    |
+| 12月12日 | [峠R](https://ja.wikipedia.org/wiki/峠シリーズ "wikilink")                                                                | アトラス                                                               |    |
 | 12月12日 | [紅の海 Crimson Sea](https://ja.wikipedia.org/wiki/紅の海_Crimson_Sea "wikilink")                                         | コーエー                                                               |    |
 | 12月12日 | [O・TO・GI 〜御伽〜](../Page/O・TO・GI_〜御伽〜.md "wikilink")                                                                  | フロム・ソフトウェア                                                         |    |
 | 12月12日 | [ブリンクス・ザ・タイムスイーパー](https://ja.wikipedia.org/wiki/ブリンクス・ザ・タイムスイーパー "wikilink")                                       | マイクロソフト                                                            | ★  |

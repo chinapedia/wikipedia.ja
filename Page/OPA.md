@@ -4,18 +4,20 @@
 <div class="pathnavbox">
 
   -
-  -
-  -
+  -   -
+      -
 
 </div>
 
-**株式会社OPA**（オーパ）は、[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")を運営する[イオングループ](../Page/イオングループ.md "wikilink")の企業である。同名のファッションビル（[キャナルシティ](https://ja.wikipedia.org/wiki/キャナルシティ "wikilink")・オーパのみ株式会社キャナルシティ・オーパが運営）および[ビブレ](../Page/ビブレ.md "wikilink")、[フォーラス](../Page/フォーラス.md "wikilink")を運営している。
+**株式会社OPA**（オーパ）は、[ファッションビル](https://ja.wikipedia.org/wiki/ファッションビル "wikilink")を運営する[イオングループ](../Page/イオングループ.md "wikilink")の企業である。同名のファッションビル（[キャナルシティ](https://ja.wikipedia.org/wiki/キャナルシティ "wikilink")・オーパのみ株式会社キャナルシティ・オーパが運営）および[ビブレ](../Page/ビブレ.md "wikilink")、[フォーラス](../Page/フォーラス.md "wikilink")といった別ブランドのファッションビルを運営している。
 
 ## 概要
 
 [ダイエー](../Page/ダイエー.md "wikilink")の[子会社](../Page/子会社.md "wikilink")であった株式会社ダイエー・アゴラが、[新神戸オリエンタルシティ](../Page/新神戸オリエンタルシティ.md "wikilink")（山陽新幹線[新神戸駅](https://ja.wikipedia.org/wiki/新神戸駅 "wikilink")前）の商業施設として[1988年](../Page/1988年.md "wikilink")9月に開店した**オリエンタルパークアベニュー**が、OPAのルーツである。
 
-チェーン店群としての現在のOPAが誕生したのちに、オリエンタルパークアベニューも新神戸OPAに転換されたが、[2002年](../Page/2002年.md "wikilink")に閉店し新神戸オリエンタルアベニュー（その後2019年に[コトノハコ神戸にリニューアル](https://ja.wikipedia.org/wiki/新神戸オリエンタルシティ#コトノハコ神戸（旧新神戸オリエンタルアベニュー） "wikilink")）となり、OPAとは無関係の施設となった。
+[チェーン店](https://ja.wikipedia.org/wiki/チェーン店 "wikilink")群としての現在のOPAが誕生したのちに、オリエンタルパークアベニューも新神戸OPAに転換されたが、[2002年](../Page/2002年.md "wikilink")に閉店し新神戸オリエンタルアベニュー（その後2019年に[コトノハコ神戸にリニューアル](https://ja.wikipedia.org/wiki/新神戸オリエンタルシティ#コトノハコ神戸（旧新神戸オリエンタルアベニュー） "wikilink")）となり、OPAとは無関係の施設となった。
+
+創設以来ダイエーの傘下であったが、ダイエーが[イオンの完全子会社になった後の](../Page/イオン_\(企業\).md "wikilink")2016年3月1日に[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となり、[イオンリテール](../Page/イオンリテール.md "wikilink")が運営していたファッションビル業態であるビブレ（都市型店舗\[1\]）とフォーラスの運営を引き継いだ。
 
 ## 歴史
 
@@ -25,7 +27,7 @@
     9月の[聖蹟桜ヶ丘](../Page/聖蹟桜ヶ丘.md "wikilink")オーパ開店まで13店舗をオープンした。
   - [2006年](../Page/2006年.md "wikilink")
     3月1日に、十字屋よりOPA等の事業を**株式会社OPA**へ分社化し、営業を継承(この時点で十字屋はダイエーの完全子会社であったことから、ダイエーが株式を100%間接保有している状態であったが、[2007年](../Page/2007年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")にダイエーが十字屋を吸収合併したことにより、OPAは、ダイエーの直接の完全子会社となった)。
-    同年末に“ダイエーがOPA株を[東急不動産](../Page/東急不動産.md "wikilink")へ売却する”旨の報道がなされ、実際にその動きがあったとされるが、結局この動きは具体化することはなかった。これについては、同時期にダイエーが[イオンに資本](../Page/イオン_\(企業\).md "wikilink")・業務提携の独占交渉権を与えたことなどが関係しているとの見方がある\[1\]。
+    同年末に“ダイエーがOPA株を[東急不動産](../Page/東急不動産.md "wikilink")へ売却する”旨の報道がなされ、実際にその動きがあったとされるが、結局この動きは具体化することはなかった。これについては、同時期にダイエーが[イオンに資本](../Page/イオン_\(企業\).md "wikilink")・業務提携の独占交渉権を与えたことなどが関係しているとの見方がある\[2\]。
   - [2007年](../Page/2007年.md "wikilink")
     3月に大宮オーパを開業し、約8年ぶりに新規出店を再開した。
   - [2009年](../Page/2009年.md "wikilink")
@@ -35,16 +37,16 @@
     同年11月17日にイオンがグループ内の都市型ファッションビル・ディベロッパー事業の再編を行うことを発表。
   - [2016年](../Page/2016年.md "wikilink")
     3月1日付で[イオンリテール](../Page/イオンリテール.md "wikilink")内にある[ビブレ](../Page/ビブレ.md "wikilink")・[フォーラス](../Page/フォーラス.md "wikilink")事業部をOPAへ統合。[株式交換](../Page/株式交換.md "wikilink")により、ダイエーからイオングループの[イオンモール](../Page/イオンモール.md "wikilink")の完全子会社となった。また会社もダイエー本社が入居する[東京都](../Page/東京都.md "wikilink")[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽の東陽駅前ビルから千葉県に移動した](../Page/東陽_\(江東区\).md "wikilink")。
-    これにより、ダイエー系列の「OPA」（9店）・イオン系列の「フォーラス」（4店）・旧[マイカル](../Page/マイカル.md "wikilink")系列の「ビブレ」（8店）の3ブランドの運営会社が1社（一部店舗を除く\[2\]）に統合・集約された\[3\]\[4\]。統合当初よりフォーラス店舗については順次オーパに転換する方針としていたが\[5\]\[6\]\[7\]、2019年以降はビブレをOPAに転換するケースも見られるようになった。
+    これにより、ダイエー系列の「OPA」（9店）・イオン系列の「フォーラス」（4店）・旧[マイカル](../Page/マイカル.md "wikilink")系列の「ビブレ」（8店）の3ブランドの運営会社が1社（一部店舗を除く\[3\]）に統合・集約された\[4\]\[5\]。統合当初よりフォーラス店舗については順次オーパに転換する方針としていたが\[6\]\[7\]\[8\]、2019年以降はビブレをOPAに転換するケースも見られるようになった。
   - [2017年](../Page/2017年.md "wikilink")
-    [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - この日開業の「三宮オーパ2」より新ロゴを導入\[8\]。
+    [2月24日](https://ja.wikipedia.org/wiki/2月24日 "wikilink") - この日開業の「三宮オーパ2」より新ロゴを導入\[9\]。
 
 ### 会社沿革
 
   - [2006年](../Page/2006年.md "wikilink")
       - [3月1日](../Page/3月1日.md "wikilink") - 株式会社[十字屋からOPA事業を](../Page/十字屋_\(百貨店\).md "wikilink")[会社分割](../Page/会社分割.md "wikilink")して、**株式会社OPA**設立。
       - 6月 - 本社所在地を、[東京都](../Page/東京都.md "wikilink")[台東区](../Page/台東区.md "wikilink")[柳橋二丁目](https://ja.wikipedia.org/wiki/柳橋_\(神田川\) "wikilink")20番11号から東京都[江東区](https://ja.wikipedia.org/wiki/江東区 "wikilink")[東陽二丁目](../Page/東陽_\(江東区\).md "wikilink")2番20号に変更。
-  - [2016年](../Page/2016年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - イオンリテール株式会社のビブレ・フォーラス事業部を統合し、株式交換によりイオンモール株式会社の完全子会社となる\[9\]\[10\]。
+  - [2016年](../Page/2016年.md "wikilink")[3月1日](../Page/3月1日.md "wikilink") - イオンリテール株式会社のビブレ・フォーラス事業部を統合し、株式交換によりイオンモール株式会社の完全子会社となる\[10\]\[11\]。
 
 ## 店舗
 
@@ -53,16 +55,16 @@
 ☆印は2代目店舗ロゴを採用する店舗
 
   - [秋田オーパ](../Page/秋田オーパ.md "wikilink")☆（[秋田県](../Page/秋田県.md "wikilink")[秋田市](../Page/秋田市.md "wikilink")）
-      - 2017年2月26日に閉店した[秋田フォーラス](https://ja.wikipedia.org/wiki/秋田フォーラス "wikilink")を改装して開業\[11\]。
-  - 高崎オーパ☆（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")\[12\]\[13\]、2017年10月13日開業）
-  - [水戸オーパ](https://ja.wikipedia.org/wiki/水戸サウスタワー "wikilink")☆（[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")\[14\]）
+      - 2017年2月26日に閉店した[秋田フォーラス](https://ja.wikipedia.org/wiki/秋田フォーラス "wikilink")を改装して開業\[12\]。
+  - 高崎オーパ☆（[群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")[高崎市](../Page/高崎市.md "wikilink")\[13\]\[14\]、2017年10月13日開業）
+  - [水戸オーパ](https://ja.wikipedia.org/wiki/水戸サウスタワー "wikilink")☆（[茨城県](../Page/茨城県.md "wikilink")[水戸市](../Page/水戸市.md "wikilink")\[15\]）
   - 聖蹟桜ヶ丘オーパ（[東京都](../Page/東京都.md "wikilink")[多摩市](https://ja.wikipedia.org/wiki/多摩市 "wikilink")）
-      - [西友](../Page/西友.md "wikilink")聖蹟桜ヶ丘店の跡地に建設され、[1999年](../Page/1999年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")\[15\]に開館した[再開発ビル](../Page/都市再開発.md "wikilink")「ヴィータ聖蹟桜ヶ丘」\[16\]の[核店舗](https://ja.wikipedia.org/wiki/核店舗 "wikilink")。施設名は[イタリア語](../Page/イタリア語.md "wikilink")で「人生・生活」を意味する「vita」と「Vitamin and Inteligene of TAMA／知性豊かな多摩市の未来像」の略語を掛けている\[17\]。7階・8階には多摩市[関戸公民館](https://ja.wikipedia.org/wiki/関戸_\(多摩市\) "wikilink")（ヴィータ・コミューネ）が入居する\[18\]。
+      - [西友](../Page/西友.md "wikilink")聖蹟桜ヶ丘店の跡地に建設され、[1999年](../Page/1999年.md "wikilink")[9月23日](../Page/9月23日.md "wikilink")\[16\]に開館した[再開発ビル](../Page/都市再開発.md "wikilink")「ヴィータ聖蹟桜ヶ丘」\[17\]の[核店舗](https://ja.wikipedia.org/wiki/核店舗 "wikilink")。施設名は[イタリア語](../Page/イタリア語.md "wikilink")で「人生・生活」を意味する「vita」と「Vitamin and Inteligene of TAMA／知性豊かな多摩市の未来像」の略語を掛けている\[18\]。7階・8階には多摩市[関戸公民館](https://ja.wikipedia.org/wiki/関戸_\(多摩市\) "wikilink")（ヴィータ・コミューネ）が入居する\[19\]。
   - 八王子オーパ☆（東京都[八王子市](https://ja.wikipedia.org/wiki/八王子市 "wikilink")）
-      - [八王子駅](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")南口再開発事業により\[19\]、[2018年](../Page/2018年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に開業\[20\]。
+      - [八王子駅](https://ja.wikipedia.org/wiki/八王子駅 "wikilink")南口再開発事業により\[20\]、[2018年](../Page/2018年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")に開業\[21\]。
   - 新百合丘オーパ☆（[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[川崎市](../Page/川崎市.md "wikilink")[麻生区](https://ja.wikipedia.org/wiki/麻生区 "wikilink")）
   - 湘南藤沢オーパ☆（神奈川県[藤沢市](../Page/藤沢市.md "wikilink")）
-      - 開業当初より藤沢オーパとして営業してきたが、2019年4月27日のリニューアルオープンを機に店名変更され、2016年の統合以前から存在したOPA店舗では初めて2代目ロゴを導入した\[21\]。
+      - 開業当初より藤沢オーパとして営業してきたが、2019年4月27日のリニューアルオープンを機に店名変更され、2016年の統合以前から存在したOPA店舗では初めて2代目ロゴを導入した\[22\]。
   - 名古屋mozoオーパ☆（[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")[西区](../Page/西区_\(名古屋市\).md "wikilink")）
       - [mozoワンダーシティ](https://ja.wikipedia.org/wiki/mozoワンダーシティ "wikilink")4Fに出店。2019年4月15日に閉店した「名古屋ワンダーシティビブレ」の後継店舗。
   - 河原町オーパ（[京都府](../Page/京都府.md "wikilink")[京都市](../Page/京都市.md "wikilink")[中京区](../Page/中京区.md "wikilink")）
@@ -72,11 +74,11 @@
       - 心斎橋オーパきれい館（大阪府大阪市中央区）
   - 三宮オーパ☆（兵庫県神戸市中央区）
       - [三宮ビブレ](../Page/三宮ビブレ.md "wikilink")からリブランド（店舗改称）した2代目店舗である。初代店舗については後述。　
-  - [三宮オーパ2](https://ja.wikipedia.org/wiki/ダイエー神戸三宮店 "wikilink")☆（兵庫県神戸市[中央区](../Page/中央区_\(神戸市\).md "wikilink")\[22\]\[23\]）
+  - [三宮オーパ2](https://ja.wikipedia.org/wiki/ダイエー神戸三宮店 "wikilink")☆（兵庫県神戸市[中央区](../Page/中央区_\(神戸市\).md "wikilink")\[23\]\[24\]）
       - 2代目店舗ロゴを採用した最初の店舗。
   - [キャナルシティオーパ](../Page/キャナルシティ博多.md "wikilink")（[福岡県](../Page/福岡県.md "wikilink")[福岡市](https://ja.wikipedia.org/wiki/福岡市 "wikilink")[博多区](../Page/博多区.md "wikilink")、関係会社店舗）
   - [大分オーパ](https://ja.wikipedia.org/wiki/大分オーパ "wikilink")☆（[大分県](../Page/大分県.md "wikilink")[大分市](../Page/大分市.md "wikilink")）
-      - 2017年2月26日に閉店した[大分フォーラス](https://ja.wikipedia.org/wiki/大分フォーラス "wikilink")を建て替えて開業\[24\]。
+      - 2017年2月26日に閉店した[大分フォーラス](https://ja.wikipedia.org/wiki/大分フォーラス "wikilink")を建て替えて開業\[25\]。
   - 那覇オーパ☆（[沖縄県](../Page/沖縄県.md "wikilink")[那覇市](../Page/那覇市.md "wikilink")）
   - 上海OPA淮海店（[中国](../Page/中国.md "wikilink")[上海](https://ja.wikipedia.org/wiki/上海 "wikilink")）
 
@@ -117,7 +119,7 @@
   - 高松オーパ（[香川県](../Page/香川県.md "wikilink")[高松市](https://ja.wikipedia.org/wiki/高松市 "wikilink")・[常磐町商店街](https://ja.wikipedia.org/wiki/高松中央商店街#常磐町商店街 "wikilink")）
     [2004年](../Page/2004年.md "wikilink")に閉店。
     [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")に当時のダイエー高松店を業態変更（同年に屋島店（[2005年](../Page/2005年.md "wikilink")11月閉鎖）が開業したため）したもので、他のオーパと異なりダイエー本社の経営であった。[2001年](../Page/2001年.md "wikilink")9月にOPAの名を保ったままビルオーナーの常磐興業に営業譲渡され、2004年6月に完全閉鎖された。2009年1月26日の高松市中心市街地活性化協議会において、常磐興業などから建物を解体撤去の上、店舗・ホテルとマンションが複合した14階建ての再開発ビルを建設する計画が発表されたが、実現には至らず、結局跡地は、2012年5月 - 2013年8月の高松いろは市場を経て、2017年7月よりビアホールが営業している。
-    地上5階地下1階建てだったが、エレベーターが地下には通じていない・ダイエー時代には5階の売場にエレベーターで行けない\[25\]など、同じ常磐街にあった[ジャスコ](../Page/ジャスコ.md "wikilink")高松店\[26\]と並んで造りの評価は良くなかった。そのうえエスカレーターも上りしか設置されていなかった。
+    地上5階地下1階建てだったが、エレベーターが地下には通じていない・ダイエー時代には5階の売場にエレベーターで行けない\[26\]など、同じ常磐街にあった[ジャスコ](../Page/ジャスコ.md "wikilink")高松店\[27\]と並んで造りの評価は良くなかった。そのうえエスカレーターも上りしか設置されていなかった。
   - 浜大津オーパ（[明日都浜大津](../Page/明日都浜大津.md "wikilink")内）
     2004年3月に閉店。
   - 南越谷オーパ（[埼玉県](../Page/埼玉県.md "wikilink")[越谷市](https://ja.wikipedia.org/wiki/越谷市 "wikilink")[南越谷](../Page/南越谷.md "wikilink")）
@@ -162,21 +164,21 @@
 
 [Category:美浜区の企業](https://ja.wikipedia.org/wiki/Category:美浜区の企業 "wikilink") [Category:イオングループ](https://ja.wikipedia.org/wiki/Category:イオングループ "wikilink") [Category:日本の商業施設](https://ja.wikipedia.org/wiki/Category:日本の商業施設 "wikilink") [Category:日本の商業施設運営会社](https://ja.wikipedia.org/wiki/Category:日本の商業施設運営会社 "wikilink") [Category:ダイエーの歴史](https://ja.wikipedia.org/wiki/Category:ダイエーの歴史 "wikilink") [Category:2006年設立の企業](https://ja.wikipedia.org/wiki/Category:2006年設立の企業 "wikilink") [Category:ビブレ](https://ja.wikipedia.org/wiki/Category:ビブレ "wikilink")
 
-1.  なお、2014年度内の親会社ダイエーのイオンによる子会社化が決定したと同時に、同社をイオングループにおける「ショッピングモールの中核ブランドにする」構想も明らかにした。
-2.  [イオンモール](../Page/イオンモール.md "wikilink")内に専門店として出店している「ビブレジーン」業態は引き続き[イオンリテール](../Page/イオンリテール.md "wikilink")が運営している。ただしビブレジーン[レイクタウンのみOPAの運営に移管された](../Page/イオンレイクタウン.md "wikilink")。
-3.   - イオン株式会社 ニュースリリース 2015年11月17日
-4.   - イオンモール株式会社 ニュースリリース 2015年11月17日
-5.  [仙台フォーラス、12月16日リニューアルオープン－地下1階を「生活提案型」に](http://toshoken.com/news/8575)都市商業研究所(2016年12月21日)2016年12月28日閲覧。
-6.
+1.
+2.  なお、2014年度内の親会社ダイエーのイオンによる子会社化が決定したと同時に、同社をイオングループにおける「ショッピングモールの中核ブランドにする」構想も明らかにした。
+3.  [イオンモール](../Page/イオンモール.md "wikilink")内に専門店として出店している「ビブレジーン」業態は引き続き[イオンリテール](../Page/イオンリテール.md "wikilink")が運営している。ただしビブレジーン[レイクタウンのみOPAの運営に移管された](../Page/イオンレイクタウン.md "wikilink")。
+4.   - イオン株式会社 ニュースリリース 2015年11月17日
+5.   - イオンモール株式会社 ニュースリリース 2015年11月17日
+6.  [仙台フォーラス、12月16日リニューアルオープン－地下1階を「生活提案型」に](http://toshoken.com/news/8575)都市商業研究所(2016年12月21日)2016年12月28日閲覧。
 7.
 8.
 9.
 10.
 11.
-12. [イオンモールの新たな成長戦略・都市シフトを本格始動 「（仮称）高崎オーパ」・「（仮称）水戸オーパ」新規出店決定！](http://www.aeonmall.com/upload/1465534818.pdf) イオンモール・OPA　2016年6月10日掲載・6月17日閲覧
-13. [“北関東エリア最大級のファッションビル誕生” 高崎駅前に新たなランドマーク 「高崎オーパ」 10月13日(金)AM10:00 グランドオープン](http://www.opa-club.com/pdf-upload/files/e0f06ba2ee7ac0d972190e58b9cce39b.pdf) OPA・イオンリテール 2017年9月8日掲載・9月10日閲覧
-14. [イオンモールの新たな成長戦略・都市シフトを本格始動 「（仮称）高崎オーパ」・「（仮称）水戸オーパ」新規出店決定！](http://www.aeonmall.com/upload/1465534818.pdf) イオンモール・OPA　2016年6月10日掲載・6月17日閲覧
-15.
+12.
+13. [イオンモールの新たな成長戦略・都市シフトを本格始動 「（仮称）高崎オーパ」・「（仮称）水戸オーパ」新規出店決定！](http://www.aeonmall.com/upload/1465534818.pdf) イオンモール・OPA　2016年6月10日掲載・6月17日閲覧
+14. [“北関東エリア最大級のファッションビル誕生” 高崎駅前に新たなランドマーク 「高崎オーパ」 10月13日(金)AM10:00 グランドオープン](http://www.opa-club.com/pdf-upload/files/e0f06ba2ee7ac0d972190e58b9cce39b.pdf) OPA・イオンリテール 2017年9月8日掲載・9月10日閲覧
+15. [イオンモールの新たな成長戦略・都市シフトを本格始動 「（仮称）高崎オーパ」・「（仮称）水戸オーパ」新規出店決定！](http://www.aeonmall.com/upload/1465534818.pdf) イオンモール・OPA　2016年6月10日掲載・6月17日閲覧
 16.
 17.
 18.
@@ -184,7 +186,8 @@
 20.
 21.
 22.
-23. [三宮オーパ2（ツー）に名称決定\!](http://www.aeonmall.com/files/management_news/891/pdf.pdf) イオンモール 2016年11月18日掲載・11月19日閲覧
-24.
-25. これは5階に常磐興業本社があり、ダイエーとは壁で仕切られていたため。この壁はOPAになって取り払われた。
-26. [1989年](../Page/1989年.md "wikilink")閉鎖。[2007年](../Page/2007年.md "wikilink")4月に開業した[同名店舗とは違う店舗である](../Page/イオンモール高松.md "wikilink")。
+23.
+24. [三宮オーパ2（ツー）に名称決定\!](http://www.aeonmall.com/files/management_news/891/pdf.pdf) イオンモール 2016年11月18日掲載・11月19日閲覧
+25.
+26. これは5階に常磐興業本社があり、ダイエーとは壁で仕切られていたため。この壁はOPAになって取り払われた。
+27. [1989年](../Page/1989年.md "wikilink")閉鎖。[2007年](../Page/2007年.md "wikilink")4月に開業した[同名店舗とは違う店舗である](../Page/イオンモール高松.md "wikilink")。

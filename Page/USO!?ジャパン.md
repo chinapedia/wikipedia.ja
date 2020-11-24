@@ -11,36 +11,36 @@
 
 2003年4月以降、「Dr.USO」「USO\!?心霊写真館」といった名物コーナーがなくなり、海外の殺人事件や強盗事件、悲劇などを紹介するコーナー「THE・トリック-名探偵は君だ-」のほか、プロマジシャンによるマジックバトルが大半を占めるなど、番組内容が一新された。
 
-時に過剰な演出と受け止められかねないような部分もあり、『[バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink")』、「[サンチアゴ航空513便事件](../Page/サンチアゴ航空513便事件.md "wikilink")」などのように、内容を意図的に歪曲したり、架空の事件を実際の事件として扱うなど、「[やらせ](../Page/やらせ.md "wikilink")番組」や「誤解を与える演出がある」との批判もあった。また、『[探偵\!ナイトスクープ](../Page/探偵!ナイトスクープ.md "wikilink")』のパラダイスネタをそのまま流用している回が複数回見られたほか、Dr.USOのネタの大部分が『[伊東家の食卓](../Page/伊東家の食卓.md "wikilink")』の大発見ネタとほぼ同じだったり、音楽に入り込んでいる単なるノイズを「声に聞こえる」とするなど無理な演出を行っていたりした。明らかにCG加工されたものや、投稿者が今でいう[vineのような方法で撮影したものを心霊扱いしていた](https://ja.wikipedia.org/wiki/Vine_\(アプリケーション\) "wikilink")。また証明も謎のままにされているが、実際にはきちんとした科学的根拠があったり、視聴者からは奇妙に見えても出演者には理屈が丸わかりなものもあった（出演者はあたかも本当であるようなオーバーリアクションをしていた）。
+。
 
 番組の最後には暗い[空色](../Page/空色.md "wikilink")バックに薄い白文字で「**USO\!?ジャパンはすべて噂をもとに構成されています。すべての情報がホントかウソかは不明です。なにしろ噂ですから…**」という注釈が表示されていた。音声は「ギャアアアアアアーー\!」という少年の叫び声と共に短時間のジャズ調のBGMが流れる。
 
-研究所のメンバーは[国分太一](../Page/国分太一.md "wikilink")に[タッキー&翼](../Page/タッキー&翼.md "wikilink")や[嵐](../Page/嵐_\(グループ\).md "wikilink")、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の一部のメンバー、番組終了後に[NEWSのメンバーとなった](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")や[錦戸亮](../Page/錦戸亮.md "wikilink")（現在は2人ともNEWSから脱退）、俳優の[生田斗真](../Page/生田斗真.md "wikilink")といったメンバーで構成されていた。
+研究所のメンバーは[国分太一](../Page/国分太一.md "wikilink")に[タッキー&翼](../Page/タッキー&翼.md "wikilink")や[嵐](../Page/嵐_\(グループ\).md "wikilink")、[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")の一部のメンバー、番組終了後に[NEWSのメンバーとなった](https://ja.wikipedia.org/wiki/NEWS_\(ジャニーズ\) "wikilink")[山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")や[錦戸亮](../Page/錦戸亮.md "wikilink")、俳優の[生田斗真](../Page/生田斗真.md "wikilink")といったメンバーで構成されていた。
 
 ## 出演者
 
 ### USO\!?研究所
 
-  - [国分太一](../Page/国分太一.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）： 所長 ※緊急で[松岡昌宏](../Page/松岡昌宏.md "wikilink")や[城島茂](../Page/城島茂.md "wikilink")が出演したこともあった。
+  - [国分太一](../Page/国分太一.md "wikilink")（[TOKIO](../Page/TOKIO.md "wikilink")）：所長\[1\] 。
   - [タッキー&翼](../Page/タッキー&翼.md "wikilink")
-      - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")： チーフ
+      - [滝沢秀明](https://ja.wikipedia.org/wiki/滝沢秀明 "wikilink")：調査隊リーダー\[2\]
       - [今井翼](../Page/今井翼.md "wikilink")：Dr.USO
-  - [嵐](../Page/嵐_\(グループ\).md "wikilink")
+  - [嵐](../Page/嵐_\(グループ\).md "wikilink")\[3\]
       - [大野智](https://ja.wikipedia.org/wiki/大野智 "wikilink")
       - [櫻井翔](https://ja.wikipedia.org/wiki/櫻井翔 "wikilink")
       - [相葉雅紀](https://ja.wikipedia.org/wiki/相葉雅紀 "wikilink")
       - [二宮和也](../Page/二宮和也.md "wikilink")
       - [松本潤](../Page/松本潤.md "wikilink")
-  - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")（当時）
+  - [ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")
       - [山下智久](https://ja.wikipedia.org/wiki/山下智久 "wikilink")
       - [生田斗真](../Page/生田斗真.md "wikilink")
       - [風間俊介](https://ja.wikipedia.org/wiki/風間俊介 "wikilink")
       - [長谷川純](../Page/長谷川純.md "wikilink")
       - [ジミーMackey](../Page/ジミーMackey.md "wikilink")
-      - [錦戸亮](../Page/錦戸亮.md "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
-      - [横山裕](../Page/横山裕.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
-      - [村上信五](../Page/村上信五.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
-      - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（当時[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）
+      - [錦戸亮](../Page/錦戸亮.md "wikilink")（[関ジャニ∞](https://ja.wikipedia.org/wiki/関ジャニ∞ "wikilink")）\[4\]
+      - [横山裕](../Page/横山裕.md "wikilink")（関ジャニ∞）
+      - [村上信五](../Page/村上信五.md "wikilink")（関ジャニ∞）\[5\]
+      - [渋谷すばる](https://ja.wikipedia.org/wiki/渋谷すばる "wikilink")（関ジャニ∞）
   - [小倉弘子](https://ja.wikipedia.org/wiki/小倉弘子 "wikilink")アナウンサー
   - [海保知里](../Page/海保知里.md "wikilink")アナウンサー ※小倉アナの代理で出演
   - [Dr.コパ](../Page/Dr.コパ.md "wikilink") ※初期
@@ -81,6 +81,8 @@
   - 制作：TBSエンタテインメント（現[TBSテレビ](../Page/TBSテレビ.md "wikilink")）
   - 製作著作：TBS
 
+## 脚注
+
 ## 関連項目
 
   - [バトルフィーバーJ](../Page/バトルフィーバーJ.md "wikilink") - 「[バトルコサックの交代劇について](https://ja.wikipedia.org/wiki/バトルフィーバーJ#バトルコサックの交代劇について "wikilink")」の節を参照のこと。
@@ -89,6 +91,12 @@
 
 ## 外部リンク
 
-  - [公式サイト](http://web.archive.org/web/20010413172625/http://www.tbs.co.jp/usojapan/) - 閉鎖。（2001年4月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [公式サイト](https://web.archive.org/web/20010413172625/http://www.tbs.co.jp/usojapan/) - 閉鎖。（2001年4月13日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:2001年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のテレビ番組_\(日本\) "wikilink") [Category:ジャニーズ関連の放送番組](https://ja.wikipedia.org/wiki/Category:ジャニーズ関連の放送番組 "wikilink")
+
+1.
+2.
+3.
+4.
+5.

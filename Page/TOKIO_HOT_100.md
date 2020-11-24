@@ -582,7 +582,7 @@ J-WAVEでのオンエアチャート・[インターネット](../Page/インタ
     前週のトップ10を振り返り、トップ10落ちを発表してトップ10の紹介へ。これ以降にランクインする楽曲は比較的長めにオンエアされる。
     1位発表前にその週の10位〜2位を振り返り、1位を発表する。
 
-そのほか、番組内ではHEADLINE NEWSが1回とTRAFFIC INFORMATIONが2回挿入されるが、TRAFFIC INFORMATIONに関してはた番組でも使用のものとは別のBGMが用意され、クリスが生でタイトルの読み上げとニュースアナウンサーへの引き継ぎを行う。
+そのほか、番組内ではHEADLINE NEWSが1回とTRAFFIC INFORMATIONが2回挿入されるが、TRAFFIC INFORMATIONに関しては他番組でも使用のものとは別のBGMが用意され、クリスが生でタイトルの読み上げとニュースアナウンサーへの引き継ぎを行う。
 
 ## 番組スポンサー
 
@@ -648,10 +648,13 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
   - [Be FM](../Page/ビーエフエム.md "wikilink")（八戸）
   - [FMアップルウェーブ](../Page/エフエムアップルウェーブ.md "wikilink")（弘前）
   - [横手かまくらFM](https://ja.wikipedia.org/wiki/横手コミュニティFM放送 "wikilink")（横手）
+  - [カシオペアエフエム](../Page/カシオペア市民情報ネットワーク.md "wikilink")(二戸)
   - [FMあすも](https://ja.wikipedia.org/wiki/一関コミュニティFM "wikilink")（一関）
   - [ラヂオもりおか](../Page/ラヂオもりおか.md "wikilink")（盛岡）
+  - [きたかみE\&Beエフエム](../Page/北上ケーブルテレビ.md "wikilink")(北上)
   - [ラジオ石巻](../Page/石巻コミュニティ放送.md "wikilink")（石巻）
   - [仙台ラジオ3](../Page/仙台シティエフエム.md "wikilink")（仙台）
+  - [fmいずみ](../Page/せんだい泉エフエム放送.md "wikilink")(仙台)
   - [ラジオモンスター](../Page/山形コミュニティ放送.md "wikilink")（山形）
   - [ラヂオはーと](../Page/燕三条エフエム放送.md "wikilink")（三条）
   - [FMながおか](../Page/長岡移動電話システム.md "wikilink")（長岡）
@@ -718,7 +721,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
 
   - \- 番組公式Twitterアカウント
 
-[Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:JFL系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組 "wikilink") [Category:J-WAVEの番組](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:パイオニア一社提供番組](https://ja.wikipedia.org/wiki/Category:パイオニア一社提供番組 "wikilink") [Category:サッポロビール一社提供番組](https://ja.wikipedia.org/wiki/Category:サッポロビール一社提供番組 "wikilink") [Category:マクドナルド](https://ja.wikipedia.org/wiki/Category:マクドナルド "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink") [Category:名数100](https://ja.wikipedia.org/wiki/Category:名数100 "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
+[Category:1988年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のラジオ番組_\(日本\) "wikilink") [Category:JFL系ラジオの音楽番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの音楽番組 "wikilink") [Category:J-WAVEの番組](https://ja.wikipedia.org/wiki/Category:J-WAVEの番組 "wikilink") [Category:音楽ランキング番組_(ラジオ)](https://ja.wikipedia.org/wiki/Category:音楽ランキング番組_\(ラジオ\) "wikilink") [Category:JFL系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFL系ラジオの一社提供番組 "wikilink") [Category:パイオニア一社提供番組](https://ja.wikipedia.org/wiki/Category:パイオニア一社提供番組 "wikilink") [Category:サッポロビール一社提供番組](https://ja.wikipedia.org/wiki/Category:サッポロビール一社提供番組 "wikilink") [Category:マクドナルド](https://ja.wikipedia.org/wiki/Category:マクドナルド "wikilink") [Category:ABEMA_RADIO](https://ja.wikipedia.org/wiki/Category:ABEMA_RADIO "wikilink") [Category:継続中の作品](https://ja.wikipedia.org/wiki/Category:継続中の作品 "wikilink")
 
 1.  移転当初は毎月第一日曜日にけやき坂スタジオで放送していたが、現在は不定期で実施されている。
 2.  例として[ビルボード誌1994年10月29日号、p.103。](https://books.google.co.jp/books?id=YQgEAAAAMBAJ&printsec=frontcover&dq=Billboard+1994&hl=ja&sa=X&ved=0ahUKEwih3PeW4IDVAhWKkJQKHe1sAT8QuwUIoQEwFA#v=onepage&q=TOKIO&f=false)（Google Books） [ビルボード誌1999年6月12日、p.75。](https://books.google.co.jp/books?id=uw0EAAAAMBAJ&pg=PA39&dq=Billboard+TOKIO&hl=ja&sa=X&ved=0ahUKEwjk07Dj3oDVAhUBMJQKHVO7BzcQuwUItwEwFw#v=onepage&q=TOKIO&f=false)（Google Books）
@@ -726,7 +729,7 @@ Olympicグループになってからは「Olympic HOT 10 RANKING」と題して
 4.  [開局30年を迎えるJ-WAVE（81.3FM）の秋改編は、スローガンに掲げる「OVER THE WAVE」をテーマに、深夜にオリジナリティあふれるプログラムを一気に10番組新たに編成！](https://prtimes.jp/main/html/rd/p/000000328.000025404.html),株式会社J-WAVE,2018年9月18日
 5.  厳密には[試験放送期間中から同一枠で放送をしているが](../Page/'AZ'-STATION_J-WAVE.md "wikilink")、番組の開始日並びに回数にはカウントされていない。
 6.  後述の[\#関連人物](https://ja.wikipedia.org/wiki/#関連人物 "wikilink")項内のリンク先参照。
-7.  J-WAVE「10年社史」より（参考資料 - [1988年](http://web.archive.org/web/20040902033051/http://motohide.hp.infoseek.co.jp:80/timetable/t8810.html)）
+7.  J-WAVE「10年社史」より（参考資料 - [1988年](https://web.archive.org/web/20040902033051/http://motohide.hp.infoseek.co.jp:80/timetable/t8810.html)）
 8.   - 2017年1月30日閲覧
 9.   - 2017年1月30日閲覧
 10. [McDonald's TOKIO HOT 100 THE ANNUAL COUNTDOWN SLAM JAM 2013](http://www.j-wave.co.jp/holiday/20131231_tokio/) - J-WAVE 81.3 FM RADIO 2016年1月21日閲覧

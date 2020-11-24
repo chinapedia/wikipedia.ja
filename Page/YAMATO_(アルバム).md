@@ -95,7 +95,7 @@
   -
   - [公式サイトディスコグラフィー「YAMATO」](http://www.nagabuchi.or.jp/disco/album/yamato.php)
 
-[Category:2005年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のベスト・アルバム "wikilink") [Category:角川春樹](https://ja.wikipedia.org/wiki/Category:角川春樹 "wikilink") [Category:長渕剛のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のベスト・アルバム "wikilink") [Category:フォーライフミュージックエンタテイメントのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアルバム "wikilink")
+[Category:長渕剛のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:長渕剛のベスト・アルバム "wikilink") [Category:2005年のベスト・アルバム](https://ja.wikipedia.org/wiki/Category:2005年のベスト・アルバム "wikilink") [Category:フォーライフミュージックエンタテイメントのアルバム](https://ja.wikipedia.org/wiki/Category:フォーライフミュージックエンタテイメントのアルバム "wikilink") [Category:角川春樹](https://ja.wikipedia.org/wiki/Category:角川春樹 "wikilink")
 
 1.
 2.

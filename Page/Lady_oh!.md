@@ -10,11 +10,11 @@
 ## メンバー
 
   - [水島かおり](../Page/水島かおり.md "wikilink")
-    （みずしま かおり、[1964年](../Page/1964年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink") - ）[千葉県](../Page/千葉県.md "wikilink")[袖ケ浦市](https://ja.wikipedia.org/wiki/袖ケ浦市 "wikilink")出身。解散後は女優に転身。CM、ドラマ等に出演。夫は[映画監督](../Page/映画監督.md "wikilink")の[長崎俊一](https://ja.wikipedia.org/wiki/長崎俊一 "wikilink")。最近は**雲丹**の名義で編集、**矢沢由美**で脚本担当という形で、長崎監督作品に大きく関わっている。
+    （みずしま かおり、[1964年](../Page/1964年.md "wikilink")[6月13日](../Page/6月13日.md "wikilink") - ）[千葉県](../Page/千葉県.md "wikilink")[袖ケ浦市](https://ja.wikipedia.org/wiki/袖ケ浦市 "wikilink")出身。解散後は女優に転身。CM、ドラマ等に出演。夫は[映画監督](../Page/映画監督.md "wikilink")の[長崎俊一](https://ja.wikipedia.org/wiki/長崎俊一 "wikilink")。
   - [西端やよい](https://ja.wikipedia.org/wiki/西端弥生 "wikilink")
     （にしはた やよい、[1963年](../Page/1963年.md "wikilink")[3月30日](../Page/3月30日.md "wikilink") - ）[和歌山県](../Page/和歌山県.md "wikilink")[田辺市](https://ja.wikipedia.org/wiki/田辺市 "wikilink")出身。解散後は、本名の**西端弥生**で[関西地方を中心にタレント活動を続け](https://ja.wikipedia.org/wiki/近畿地方 "wikilink")、『[ダウンタウンのごっつええ感じ](../Page/ダウンタウンのごっつええ感じ.md "wikilink")』にも出演。[俳優](../Page/俳優.md "wikilink")の[古田新太](../Page/古田新太.md "wikilink")と結婚。
   - 高橋めぐみ
-    （たかはし めぐみ）[東京都](../Page/東京都.md "wikilink")[港区出身](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。本名は**高橋尚代**。解散、大学卒業後、[ニッポン放送](../Page/ニッポン放送.md "wikilink")に入社し[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")となる。結婚後退職。現在、菊池尚代として[青山学院大学](../Page/青山学院大学.md "wikilink")地球社会共生学部教授[1](https://www.gsc.aoyama.ac.jp/teacher/interview/kikuchi/)[2](https://raweb1.jm.aoyama.ac.jp/aguhp/KgApp?kyoinId=ymisgkykggy)。
+    （たかはし めぐみ）[東京都](../Page/東京都.md "wikilink")[港区出身](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")。本名は**高橋尚代**。解散、大学卒業後、[ニッポン放送](../Page/ニッポン放送.md "wikilink")に入社し[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")となる。結婚後退職。
 
 ## ディスコグラフィ
 

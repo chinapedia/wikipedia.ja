@@ -14,11 +14,12 @@
 
 ### 解答者
 
-解答者は5人。当初は松方と植草にゲスト3人が加わるという形だったが、放送中期に森末がレギュラーに加わったことでゲスト枠は2人になった。
+初期は松方・高樹・森末・植草の4人で固定されており、解答モニターの上には正解率を示す電光掲示板が付いていた。中期からは解答者が5人になり、当初は松方と植草にゲスト3人が加わるという形だったが、後期からは森末がレギュラーに再加入したことでゲスト枠は2人になった。
 
   - [松方弘樹](../Page/松方弘樹.md "wikilink")
   - [植草克秀](../Page/植草克秀.md "wikilink")
-  - [森末慎二](../Page/森末慎二.md "wikilink") - 中期から出演。
+  - [森末慎二](../Page/森末慎二.md "wikilink") - 初期および後期レギュラー。
+  - [高樹沙耶](https://ja.wikipedia.org/wiki/高樹沙耶 "wikilink") - 初期レギュラー。5人体制になった後もゲストとして出演している。
 
 ### アシスタント
 
@@ -52,4 +53,4 @@
   - 制作協力：えとせとら
   - 製作著作：日本テレビ
 
-[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのクイズ番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink") [Category:健康](https://ja.wikipedia.org/wiki/Category:健康 "wikilink")
+[Category:1988年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1988年のテレビ番組_\(日本\) "wikilink") [Category:日本テレビのクイズ番組](https://ja.wikipedia.org/wiki/Category:日本テレビのクイズ番組 "wikilink") [Category:日本テレビのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:日本テレビのバラエティ番組の歴史 "wikilink") [Category:島田紳助](https://ja.wikipedia.org/wiki/Category:島田紳助 "wikilink") [Category:健康情報番組](https://ja.wikipedia.org/wiki/Category:健康情報番組 "wikilink")

@@ -39,12 +39,12 @@
       -
         本作オリジナル楽曲。「『アイデンティティー』より『存在意義』」「団塊の世代・悩みを抱える若者・社会」\[8\]「『夢・希望を持とう\!』という曲もあるけど、それを持つのが一番大切なわけじゃなく、『今、ここに誰かいてくれるだけでいい』のが大切」\[9\]を含めてのメッセージを匂わせた。
 4.  **[CASTLE IN THE CLOUDS](../Page/CASTLE_IN_THE_CLOUDS.md "wikilink") -ALBUM MIX-**
-      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")　作曲：小室哲哉　編曲：小室哲哉・[吉田建](../Page/吉田建.md "wikilink")
+      - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink") 作曲：小室哲哉 編曲：小室哲哉・[吉田建](../Page/吉田建.md "wikilink")
     <!-- end list -->
       -
         35thシングル。アルバムバージョンとなっている。
 5.  **風のない十字路 -ALBUM MIX-**
-      - 作詞：小室みつ子　作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")　編曲：小室哲哉・吉田建
+      - 作詞：小室みつ子 作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink") 編曲：小室哲哉・吉田建
     <!-- end list -->
       -
         36thシングル『[NETWORK TM](../Page/NETWORK_TM.md "wikilink")』の3曲目。アルバムバージョンとなっている。
@@ -54,12 +54,12 @@
       -
         36thシングル『[NETWORK TM](../Page/NETWORK_TM.md "wikilink")』の2曲目。アルバムバージョンとなっている他、リフレインのボーカル部分がシングル版と比較して省略されている。
 7.  **君がいる朝 -ALBUM MIX-**
-      - 作詞：小室みつ子　作曲：木根尚登　編曲：木根尚登・吉田建
+      - 作詞：小室みつ子 作曲：木根尚登 編曲：木根尚登・吉田建
     <!-- end list -->
       -
         35thシングル『CASTLE IN THE CLOUDS』のカップリング曲。アルバムバージョンとなっている。
 8.  **[TIME TO COUNT DOWN](../Page/TIME_TO_COUNT_DOWN.md "wikilink") -LABO MIX-**
-      - 作詞：小室みつ子　作曲・編曲：小室哲哉
+      - 作詞：小室みつ子 作曲・編曲：小室哲哉
     <!-- end list -->
       -
         22ndシングルのリミックスバージョン。原曲版のイントロ部分のメロディを強調したリミックスとなっており、ボーカルはラストの１サビのみで直後に[フェードアウト](https://ja.wikipedia.org/wiki/フェードアウト "wikilink")\[10\]する。
@@ -88,7 +88,7 @@
 
 [Category:TM_NETWORKのアルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:2004年のアルバム](https://ja.wikipedia.org/wiki/Category:2004年のアルバム "wikilink") [Category:よしもとアール・アンド・シーのアルバム](https://ja.wikipedia.org/wiki/Category:よしもとアール・アンド・シーのアルバム "wikilink")
 
-1.  約9年後の2013年7月20日にライブ会場限定販売のCDシングルとしてリリ－スされている。
+1.  約9年後の2013年7月20日にライブ会場限定販売のCDシングルとしてリリースされている。
 2.
 3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊「[PATi PATi](https://ja.wikipedia.org/wiki/PATi_PATi "wikilink")」2004年5月号「TM NETWORK 20年目のさらなる加速」98P-103Pより。
 4.

@@ -7,14 +7,6 @@
 
 前作『[EXPO](../Page/EXPO_\(アルバム\).md "wikilink")』以来9年振りのオリジナル・アルバム。インディーズからの発売。当初は[ROJAM](../Page/Rojam_Entertainment.md "wikilink")、[新星堂](../Page/新星堂.md "wikilink")、[TSUTAYA](https://ja.wikipedia.org/wiki/TSUTAYA "wikilink")でのみ販売された。
 
-[70年代](../Page/1970年代.md "wikilink")[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の代名詞[メロトロン](../Page/メロトロン.md "wikilink")や[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[mini moogをはじめとする](../Page/モーグ・シンセサイザー.md "wikilink")[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")を多用している。このアルバムを軸にして行われたライブツアー『[TM NETWORK TOUR MAJOR TURN-ROUND Supported by ROJAM.COM](../Page/TM_NETWORK_TOUR_MAJOR_TURN-ROUND_Supported_by_ROJAM.COM.md "wikilink")』では、これらアナログシンセサイザーに加え、Nord Leadなど最新のシンセサイザーも用いられた。
-
-アルバム全体のコンセプトは「何件かのレコード店をはしごして、欲しいレコードを探した気持ち」\[1\]「時代の閉塞感・虚無感」\[2\]と語っている。
-
-「[ドラムマシン](../Page/ドラムマシン.md "wikilink")に内蔵されている音より良い音」「[トランスに負けない音](../Page/トランス_\(音楽\).md "wikilink")」で録るために、[Pro Toolsに全ての素材を取り込んだ後に](../Page/Pro_Tools.md "wikilink")[マルチトラック・レコーダー](../Page/マルチトラック・レコーダー.md "wikilink")に落とし直して編集した。編集には素材のレコーディングより時間をかけた\[3\]。
-
-アルバム全体としても「プログレ」が強調されている。CDジャケットのロゴデザインは、プログレッシブ・ロックバンド「[イエス](../Page/イエス_\(バンド\).md "wikilink")」や[エイジア](../Page/エイジア.md "wikilink")のジャケットデザインなどを手がけた、イラストレーターの[ロジャー・ディーン](../Page/ロジャー・ディーン.md "wikilink")が担当している。
-
 先行シングルは、ROJAMからリリースされた3枚のみ。メジャーレーベル[TRUE KiSS DiSCからリリースされた](../Page/TRUE_KiSS_DiSC.md "wikilink")「[GET WILD DECADE RUN](../Page/GET_WILD_DECADE_RUN.md "wikilink")」、「[10 YEARS AFTER](../Page/10_YEARS_AFTER_\(TM_NETWORKの曲\).md "wikilink")」、「[Happiness×3 Loneliness×3](../Page/Happiness×3_Loneliness×3.md "wikilink")」は収録されていない。
 
 このアルバムは、それぞれレーベルで、初回盤・通常版共に異なる仕様となっている。
@@ -23,14 +15,32 @@
 
 最初はインディーズ流通のみだったが、[2003年](../Page/2003年.md "wikilink")[2月5日](../Page/2月5日.md "wikilink")に[R\&C Japanより](https://ja.wikipedia.org/wiki/よしもとミュージックエンタテインメント "wikilink")、蔵出し音源集を加えた2枚組『[キヲクトキロク 〜 Major Turn-Round](../Page/キヲクトキロク_〜_Major_Turn-Round.md "wikilink")』として一般流通で発売された。
 
+## 録音
+
+[70年代](../Page/1970年代.md "wikilink")[プログレッシブ・ロック](../Page/プログレッシブ・ロック.md "wikilink")の代名詞[メロトロン](../Page/メロトロン.md "wikilink")や[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")、[mini moogをはじめとする](../Page/モーグ・シンセサイザー.md "wikilink")[アナログシンセサイザー](../Page/アナログシンセサイザー.md "wikilink")を多用している。このアルバムを軸にして行われたライブツアー『[TM NETWORK TOUR MAJOR TURN-ROUND Supported by ROJAM.COM](../Page/TM_NETWORK_TOUR_MAJOR_TURN-ROUND_Supported_by_ROJAM.COM.md "wikilink")』では、これらアナログシンセサイザーに加え、Nord Leadなど最新のシンセサイザーも用いられた。
+
+「[ドラムマシン](../Page/ドラムマシン.md "wikilink")に内蔵されている音より良い音」「[トランスに負けない音](../Page/トランス_\(音楽\).md "wikilink")」で録るために、[Pro Toolsに全ての素材を取り込んだ後に](../Page/Pro_Tools.md "wikilink")[マルチトラック・レコーダー](../Page/マルチトラック・レコーダー.md "wikilink")に落とし直して編集した。編集には素材のレコーディングより時間をかけた\[1\]。
+
+## 音楽性とテーマ
+
+アルバム全体のコンセプトは「何件かのレコード店をはしごして、欲しいレコードを探した気持ち」\[2\]「時代の閉塞感・虚無感」「今の若い世代の人は間違いなく、居場所も遊び場も沢山提供されている。でもふと『本当の居場所はどこなんだろう』と気が付き、深い所を探している人達に対しての提示」\[3\]と語っている。
+
+## アートワーク
+
+CDジャケットのロゴデザインは、プログレッシブ・ロックバンド「[イエス](../Page/イエス_\(バンド\).md "wikilink")」や[エイジア](../Page/エイジア.md "wikilink")のジャケットデザインなどを手がけた、イラストレーターの[ロジャー・ディーン](../Page/ロジャー・ディーン.md "wikilink")が担当している。
+
+## 批評
+
+[平山雄一は](https://ja.wikipedia.org/wiki/平山雄一_\(音楽評論家\) "wikilink")「歌詞のテーマが壮大だった。『約束の場所が見つからない』と『僕はここにいるよ』というコンセプトの間で作られていると思った」と称している\[4\]。
+
 ## CD収録曲
 
 1.  **WORLDPROOF**
       - 作曲・編曲：[小室哲哉](https://ja.wikipedia.org/wiki/小室哲哉 "wikilink")
     <!-- end list -->
       -
-        水の音が聴こえるが、これは実際にワイヤレス・マイクをハワイのスタジオ近くの海の中に入れて録音したものである（当然そのマイクは壊れてしまった）\[4\]。
-        小室は「水中に深く沈んでいくにつれて、どんどん別世界に入っていくような"リアリティ"を音にしたかった」と語っている\[5\]。
+        水の音が聴こえるが、これは実際にワイヤレス・マイクをハワイのスタジオ近くの海の中に入れて録音したものである（当然そのマイクは壊れてしまった）\[5\]。
+        小室は「水中に深く沈んでいくにつれて、どんどん別世界に入っていくような"リアリティ"を音にしたかった」と語っている\[6\]。
 2.  **[IGNITION, SEQUENCE, START](../Page/IGNITION,_SEQUENCE,_START.md "wikilink") (ALBUM VERSION)**
       - 作詞：[小室みつ子](../Page/小室みつ子.md "wikilink")　作曲・編曲：小室哲哉
     <!-- end list -->
@@ -45,34 +55,34 @@
       - 作詞：小室みつ子　作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        アルバムタイトルにもなっている「Turn-Round」の由来は、映画『[パーフェクトストーム](https://ja.wikipedia.org/wiki/パーフェクトストーム "wikilink")』で登場するセリフ「Turn Around」である。「Turn Around」は「仕方なく戻る」というネガティブな使い方をするが、「Turn-Round」は積極的に振り返るというポジティブな意味合いを持つ。小室は映画を見た時、Turn Around ではなくて、絶対にTurn-Roundだと確信し、メインのキーワードにした\[6\]。
-        「中学・高校に憧れたプログレッシヴ・ロックを今その時に戻って作ったらどうなるか」「『オリコンチャート1位』『ミリオンヒット』等数字を意識せずに『とにかくコンセプトが面白い』『演奏がテクニカル』というのを楽しんで欲しい」\[7\]「聞き終わった後に残った印象を元に、もう一度振り返ってから各部分を聴き直して確認するという楽しみ方をして欲しい」という思いから33分を超える大作にする必要があった\[8\]。
+        アルバムタイトルにもなっている「Turn-Round」の由来は、映画『[パーフェクトストーム](https://ja.wikipedia.org/wiki/パーフェクトストーム "wikilink")』で登場するセリフ「Turn Around」である。「Turn Around」は「仕方なく戻る」というネガティブな使い方をするが、「Turn-Round」は積極的に振り返るというポジティブな意味合いを持つ。小室は映画を見た時、Turn Around ではなくて、絶対にTurn-Roundだと確信し、メインのキーワードにした\[7\]。
+        「中学・高校に憧れたプログレッシヴ・ロックを今その時に戻って作ったらどうなるか」「『オリコンチャート1位』『ミリオンヒット』等数字を意識せずに『とにかくコンセプトが面白い』『演奏がテクニカル』というのを楽しんで欲しい」\[8\]「聞き終わった後に残った印象を元に、もう一度振り返ってから各部分を聴き直して確認するという楽しみ方をして欲しい」という思いから33分を超える大作にする必要があった\[9\]。
         レコーディングはLAで行われた。作詞を担当した小室みつ子はLAから送られてきた音源をもとに、不眠で詞を完成させた。また、小室みつ子は本作の楽曲全ての作詞を担当している。
-        『I FIRST IMPRESSION』は、2001年（当時）の生活。『II SECOND IMPRESSION』は、「その中にいる自分は昔どこから始めたんだっけ」という遠いところを見るような場面で鳴っている音。そして『III THIRD IMPRESSION』はこれから先の、「希望は見えるが、楽観視できない未来」を表している\[9\]。
-        全楽章のベースとなるメロディを全て即興で一気に制作し、小室によるピアノパートは1テイクで直しも無かった。ただ譜面を書かず、構成を覚えるための反復練習もしなかったので、ライブツアー「[LIVE TOUR Major Turn-Round](../Page/LIVE_TOUR_Major_Turn-Round.md "wikilink")」のリハーサルの際には「自分で自分の曲をコピーしている気分だった」と語っている\[10\]。
-        録音は小室のピアノを録った後、更にイメージを膨らませながら仮メロディをキーボードで弾いてデータ化し[Pro Toolsに入れて](../Page/Pro_Tools.md "wikilink")、その後生のドラム・ベース・ギターを入れた後、改めて小室のキーボードのパートを録った。ピアノパート以外はPro Toolsでの切り貼り・ノイズによる編集を随所に施した\[11\]。
+        『I FIRST IMPRESSION』は、2001年（当時）の生活。『II SECOND IMPRESSION』は、「その中にいる自分は昔どこから始めたんだっけ」という遠いところを見るような場面で鳴っている音。そして『III THIRD IMPRESSION』はこれから先の、「希望は見えるが、楽観視できない未来」を表している\[10\]。
+        全楽章のベースとなるメロディを全て即興で一気に制作し、小室によるピアノパートは1テイクで直しも無かった。ただ譜面を書かず、構成を覚えるための反復練習もしなかったので、ライブツアー「[LIVE TOUR Major Turn-Round](../Page/LIVE_TOUR_Major_Turn-Round.md "wikilink")」のリハーサルの際には「自分で自分の曲をコピーしている気分だった」と語っている\[11\]。
+        録音は小室のピアノを録った後、更にイメージを膨らませながら仮メロディをキーボードで弾いてデータ化し[Pro Toolsに入れて](../Page/Pro_Tools.md "wikilink")、その後生のドラム・ベース・ギターを入れた後、改めて小室のキーボードのパートを録った。ピアノパート以外はPro Toolsでの切り貼り・ノイズによる編集を随所に施した\[12\]。
 4.  **PALE SHELTER**
       - 作詞：小室みつ子　作曲：[木根尚登](https://ja.wikipedia.org/wiki/木根尚登 "wikilink")　編曲：小室哲哉
     <!-- end list -->
       -
-        『MAJOR TURN-ROUND』の中に入れることも考えられていた曲\[12\]。
-        「併殺されている自分」「居場所が分からない・探しにくい」「居心地が悪い」「環境に馴染めない」といった生活や風景の中で、ポジションを探している自分の姿を表現している楽曲\[13\]。
+        『MAJOR TURN-ROUND』の中に入れることも考えられていた曲\[13\]。
+        「併殺されている自分」「居場所が分からない・探しにくい」「居心地が悪い」「環境に馴染めない」といった生活や風景の中で、ポジションを探している自分の姿を表現している楽曲\[14\]。
 5.  **[WE ARE STARTING OVER](../Page/We_Are_Starting_Over.md "wikilink") (ALBUM VERSION)**
       - 作詞：小室みつ子　作曲：木根尚登　編曲：小室哲哉
     <!-- end list -->
       -
-        34thシングル。小室曰く「最も往年のTMらしい曲」「始めて聴いた時[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")を思い浮かべた」と語っている\[14\]。
+        34thシングル。小室曰く「最も往年のTMらしい曲」「始めて聴いた時[ジョン・レノン](../Page/ジョン・レノン.md "wikilink")を思い浮かべた」と語っている\[15\]。
 6.  **[MESSAGE](../Page/MESSaGE_\(TM_NETWORKの曲\).md "wikilink") (ALBUM VERSION)**
       - 作詞：小室みつ子　作曲・編曲：小室哲哉
     <!-- end list -->
       -
-        32ndシングル。再始動後の楽曲の中で、唯一『[Nights of The Knife](../Page/Nights_of_The_Knife.md "wikilink")』からの流れを意識して作られた。シングルバージョンとはかなりアレンジが変わっている\[15\]。
+        32ndシングル。再始動後の楽曲の中で、唯一『[Nights of The Knife](../Page/Nights_of_The_Knife.md "wikilink")』からの流れを意識して作られた。シングルバージョンとはかなりアレンジが変わっている\[16\]。
 7.  **CUBE**
       - 作詞：小室みつ子　作曲：木根尚登　編曲：小室哲哉
     <!-- end list -->
       -
-        レコーディング終盤に差し掛かった頃、小室が木根に3拍子の曲をリクエストして、短時間で仕上げた楽曲。録音も1テイクで済ませた\[16\]。
-        当時のスタジオのエンジニア達がこの楽曲を大絶賛した\[17\]。
+        レコーディング終盤に差し掛かった頃、小室が木根に3拍子の曲をリクエストして、短時間で仕上げた楽曲。録音も1テイクで済ませた\[17\]。
+        当時のスタジオのエンジニア達がこの楽曲を大絶賛した\[18\]。
         本作のライブツアー後、一切ライブでは演奏されてこなかったが、2014年のライブツアー『[TM NETWORK 30th 1984〜 the beginning of the end](https://ja.wikipedia.org/wiki/TM_NETWORK_30th_1984〜_the_beginning_of_the_end "wikilink")』にて久しぶりに披露された。
 
 ## アナログ盤収録曲
@@ -125,13 +135,13 @@
 [Category:TM_NETWORKのアルバム](https://ja.wikipedia.org/wiki/Category:TM_NETWORKのアルバム "wikilink") [Category:小室哲哉プロデュースのアルバム](https://ja.wikipedia.org/wiki/Category:小室哲哉プロデュースのアルバム "wikilink") [Category:2000年のアルバム](https://ja.wikipedia.org/wiki/Category:2000年のアルバム "wikilink") [Category:コンセプト・アルバム](https://ja.wikipedia.org/wiki/Category:コンセプト・アルバム "wikilink")
 
 1.
-2.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2001年1月号「小室哲哉 3世紀をコネクトするプログレ」80Pより。
-3.
-4.  立東社刊「プリプロダクション」2001年2月号「最先端プリプロ & プロダクション in TM NETWORK」19P-28Pより。
-5.
+2.
+3.  [ソニー・マガジンズ](../Page/ソニー・マガジンズ.md "wikilink")刊『[WHAT's IN?](https://ja.wikipedia.org/wiki/WHAT's_IN? "wikilink")』2001年1月号「小室哲哉 3世紀をコネクトするプログレ」80Pより。
+4.
+5.  立東社刊「プリプロダクション」2001年2月号「最先端プリプロ & プロダクション in TM NETWORK」19P-28Pより。
 6.
-7.  立東社刊「プリプロダクション」2001年1月号29Pより。
-8.
+7.
+8.  立東社刊「プリプロダクション」2001年1月号29Pより。
 9.
 10.
 11.
@@ -141,3 +151,4 @@
 15.
 16.
 17.
+18.

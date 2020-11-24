@@ -280,64 +280,71 @@ JFNニュース</p></td>
 <td><p>★●[8]</p></td>
 </tr>
 <tr class="even">
+<td><p><ref><a href="../Page/東京都.md" title="wikilink">東京都</a>の<a href="https://ja.wikipedia.org/wiki/特別区" title="wikilink">特別区</a>の存する区域を中心として同一の放送番組の放送を同時に受信できることが相当と認められる区域として総務大臣が別に定める区域</p>
+<p><a href="https://www.tele.soumu.go.jp/horei/reiki_honbun/a000047101.html"><code>基幹放送用周波数使用計画</code><code> </code><code>2ページ</code><code> </code><code>総務省電波利用ホームページ</code></a></ref></p></td>
+<td><p><a href="../Page/InterFM.md" title="wikilink">InterFM</a>897</p></td>
+<td><p>InterFM Headline News[9]</p></td>
+<td><p>●[10]</p></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/群馬県" title="wikilink">群馬県</a></p></td>
 <td><p><a href="../Page/エフエム群馬.md" title="wikilink">エフエム群馬</a>（FM GUNMA）</p></td>
 <td><p>FM GUNMA NEWS</p></td>
 <td><p>★</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/栃木県" title="wikilink">栃木県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム栃木" title="wikilink">エフエム栃木</a>（RADIO BERRY）</p></td>
 <td><p>RADIOBERRY News</p></td>
 <td><p>★●◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/富山県" title="wikilink">富山県</a></p></td>
 <td><p><a href="../Page/富山エフエム放送.md" title="wikilink">富山エフエム放送</a>（FMとやま）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FMとやまニュース" title="wikilink">FMとやまニュース</a><br />
 JFNニュース</p></td>
-<td><p>★[9]◎</p></td>
+<td><p>★[11]◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/石川県" title="wikilink">石川県</a></p></td>
 <td><p><a href="../Page/エフエム石川.md" title="wikilink">エフエム石川</a>（HELLO FIVE）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FM石川ニュース" title="wikilink">FM石川ニュース</a></p></td>
 <td><p>★●◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/福井県.md" title="wikilink">福井県</a></p></td>
 <td><p><a href="../Page/福井エフエム放送.md" title="wikilink">福井エフエム放送</a>（FM FUKUI）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FM福井ニュース" title="wikilink">FM福井ニュース</a><br />
 JFNニュース</p></td>
 <td><p>◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/長野県.md" title="wikilink">長野県</a></p></td>
 <td><p><a href="../Page/長野エフエム放送.md" title="wikilink">長野エフエム放送</a>（FM長野）</p></td>
 <td><p>FM長野ニュース</p></td>
 <td><p>★◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
 <td><p><a href="../Page/エフエム愛知.md" title="wikilink">エフエム愛知</a>（FM AICHI）</p></td>
 <td><p>JFN NEWS<br />
 <a href="../Page/FM_AICHI_HEADLINE_NEWS.md" title="wikilink">FM AICHI NEWS &amp; DRIVE INFORMATION</a></p></td>
-<td><p>[10]</p></td>
+<td><p>[12]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/岐阜県.md" title="wikilink">岐阜県</a></p></td>
 <td><p><a href="../Page/エフエム岐阜.md" title="wikilink">エフエム岐阜</a>（FM GIFU）</p></td>
 <td><p>JFNニュース</p></td>
 <td><p>◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/三重県" title="wikilink">三重県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/三重エフエム放送" title="wikilink">三重エフエム放送</a>（レディオキューブ FM三重）</p></td>
 <td><p>レディオキューブ ニュース&amp;ウェザー<br />
 JFNニュース</p></td>
 <td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/滋賀県.md" title="wikilink">滋賀県</a></p></td>
 <td><p><a href="../Page/エフエム滋賀.md" title="wikilink">エフエム滋賀</a>（e-radio）</p></td>
 <td><p><a href="../Page/京都新聞ニュース.md" title="wikilink">京都新聞ニュース</a><br />
@@ -345,7 +352,7 @@ JFNニュース</p></td>
 JFNニュース</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
 <td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a>（HFM）</p></td>
 <td><p><a href="../Page/中国新聞ニュース.md" title="wikilink">中国新聞ニュース</a><br />
@@ -354,52 +361,52 @@ HFMニュース<br />
 JFNニュース</p></td>
 <td><p>★●◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/山口県.md" title="wikilink">山口県</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム山口" title="wikilink">エフエム山口</a>（FMY）</p></td>
 <td><p>JFNニュース<br />
-JFN NEWSハイライト[11]</p></td>
-<td><p>※[12]</p></td>
+JFN NEWSハイライト[13]</p></td>
+<td><p>※[14]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/島根県.md" title="wikilink">島根県</a>・<a href="../Page/鳥取県.md" title="wikilink">鳥取県</a></p></td>
 <td><p><a href="../Page/エフエム山陰.md" title="wikilink">エフエム山陰</a>（V-air）</p></td>
 <td><p>V-airニュース</p></td>
 <td><p>★◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/岡山県" title="wikilink">岡山県</a></p></td>
 <td><p><a href="../Page/岡山エフエム放送.md" title="wikilink">岡山エフエム放送</a>（FM OKAYAMA）</p></td>
 <td><p><a href="../Page/News_Time.md" title="wikilink">News Time</a><br />
 JFNニュース</p></td>
 <td><p>◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/香川県.md" title="wikilink">香川県</a></p></td>
 <td><p><a href="../Page/エフエム香川.md" title="wikilink">エフエム香川</a>（FM香川）</p></td>
-<td><p>FM香川ニュース[13]</p></td>
+<td><p>FM香川ニュース[15]</p></td>
 <td><p>★◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/高知県.md" title="wikilink">高知県</a></p></td>
 <td><p><a href="../Page/エフエム高知.md" title="wikilink">エフエム高知</a>（Hi-Six）</p></td>
 <td><p>JFNニュース</p></td>
 <td><p>◎</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/徳島県" title="wikilink">徳島県</a></p></td>
 <td><p><a href="../Page/エフエム徳島.md" title="wikilink">エフエム徳島</a>（FM TOKUSHIMA）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/FM徳島ニュース" title="wikilink">FM徳島ニュース</a><br />
 JFNニュース</p></td>
-<td><p>◎[14]</p></td>
+<td><p>◎[16]</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
 <td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a>（FM FUKUOKA）</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エフエム福岡#ニュース・天気予報・交通情報" title="wikilink">Today's Report</a></p></td>
-<td><p>★[15]</p></td>
+<td><p>★[17]</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/佐賀県.md" title="wikilink">佐賀県</a></p></td>
 <td><p><a href="../Page/エフエム佐賀.md" title="wikilink">エフエム佐賀</a>（FMS）</p></td>
 <td><p>FM佐賀ニュース<br />
@@ -407,19 +414,19 @@ JFNニュース</p></td>
 JFNニュース</p></td>
 <td><p>★</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/長崎県.md" title="wikilink">長崎県</a></p></td>
 <td><p><a href="../Page/エフエム長崎.md" title="wikilink">エフエム長崎</a>（FM Nagasaki）</p></td>
 <td><p>NEWS</p></td>
 <td><p>●</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/大分県.md" title="wikilink">大分県</a></p></td>
 <td><p><a href="../Page/エフエム大分.md" title="wikilink">エフエム大分</a>（Air-Radio FM88）</p></td>
 <td><p>JFNニュース</p></td>
 <td><p>●◎</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/熊本県" title="wikilink">熊本県</a></p></td>
 <td><p><a href="../Page/エフエム熊本.md" title="wikilink">エフエム熊本</a>（FMK）</p></td>
 <td><p>FMKニュース<br />
@@ -427,19 +434,19 @@ JFNニュース</p></td>
 JFNニュース</p></td>
 <td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/宮崎県.md" title="wikilink">宮崎県</a></p></td>
 <td><p><a href="../Page/エフエム宮崎.md" title="wikilink">エフエム宮崎</a>（JOY FM）</p></td>
 <td><p>FM宮崎ニュース</p></td>
 <td><p>★</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p><a href="../Page/鹿児島県.md" title="wikilink">鹿児島県</a></p></td>
 <td><p><a href="../Page/エフエム鹿児島.md" title="wikilink">エフエム鹿児島</a>（μFM）</p></td>
 <td><p>FM鹿児島ニュース</p></td>
 <td><p>★</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p><a href="../Page/沖縄県.md" title="wikilink">沖縄県</a></p></td>
 <td><p><a href="../Page/エフエム沖縄.md" title="wikilink">エフエム沖縄</a>（FM沖縄）</p></td>
 <td><p>ニュース<br />
@@ -466,7 +473,7 @@ JFNニュース</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
 <td><p><a href="../Page/エフエム北海道.md" title="wikilink">エフエム北海道</a>（AIR-G'）</p></td>
 <td><p><a href="../Page/道新ニュース.md" title="wikilink">道新ヘッドラインニュース<br />
-AIR-G'ヘッドラインニュース</a>[16]</p></td>
+AIR-G'ヘッドラインニュース</a>[18]</p></td>
 <td><p>未ネット</p></td>
 <td></td>
 </tr>
@@ -521,7 +528,7 @@ AIR-G'ヘッドラインニュース</a>[16]</p></td>
   - [ジャパンエフエムネットワーク](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク_\(企業\) "wikilink")（『JFNニュース』制作会社）
   - [スポットニュース](../Page/スポットニュース.md "wikilink")
   - [ラジオ局ローカルニュースタイトル一覧](../Page/ラジオ局ローカルニュースタイトル一覧.md "wikilink")
-  - [ジャパンエフエムネットワーク平日朝ワイド枠](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク平日朝ワイド枠 "wikilink") - 2019年からは『[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』を放送中。このうち7:00 - 7:10にあるニュース番組が唯一JFN38局へ向けて放送されるネットワークニュースゾーンとなっている。
+  - [ジャパンエフエムネットワーク平日朝ワイド枠](https://ja.wikipedia.org/wiki/ジャパンエフエムネットワーク平日朝ワイド枠 "wikilink") - 2019年からは『[ONE MORNING](https://ja.wikipedia.org/wiki/ONE_MORNING "wikilink")』を放送中。このうち7:00 - 7:10にあるニュース番組が唯一JFN38局\[19\]へ向けて放送されるネットワークニュースゾーンとなっている。
 
 ## 脚注
 
@@ -537,11 +544,14 @@ AIR-G'ヘッドラインニュース</a>[16]</p></td>
 6.  平日 15:55のみ。
 7.  2009年4月よりネット再開した。
 8.  平日 24:55のみ（不定期）放送。別内容に差し替えの場合あり。
-9.  平日の一部時間帯のみ。
-10. 2020年4月2日（4月1日深夜）よりネット開始。平日（24:55）並びに土曜・日曜（22:55）の放送。
-11. 平日 7:55のみ。
-12. かつては平日夜間と週末朝・夜間のみの放送であったが、2015年4月よりほとんどの時間帯のネットを開始。このうち、平日 15:55については2017年11月で打ち切り。また平日 20:55・23:55については自社制作ミニ番組かJFNCの別の5分番組）。
-13. 2010年3月まではJFNニュースとして放送していたが、同年4月よりローカルニュースと同じ現行タイトルになった。
-14. かつては週末も夕方を中心にニュース・天気予報への差し替え実施を行っていた。なお、平日午前はローカルニュースを放送している。
-15. 2009年11月より週末に限りネット開始。
-16. 週末の一部時間帯のみ。
+9.  [InetrFM timetable](https://www.interfm.co.jp/upload/pdfs/timetable.pdf)
+10. 2020年11月2日より月 - 木曜15:55枠を、11月23日より平日8:55枠および平日18:55枠をネット開始。
+11. 平日の一部時間帯のみ。
+12. 2020年4月2日（4月1日深夜）よりネット開始。平日（24:55）並びに土曜・日曜（22:55）の放送。
+13. 平日 7:55のみ。
+14. かつては平日夜間と週末朝・夜間のみの放送であったが、2015年4月よりほとんどの時間帯のネットを開始。このうち、平日 15:55については2017年11月で打ち切り。また平日 20:55・23:55については自社制作ミニ番組かJFNCの別の5分番組）。
+15. 2010年3月まではJFNニュースとして放送していたが、同年4月よりローカルニュースと同じ現行タイトルになった。
+16. かつては週末も夕方を中心にニュース・天気予報への差し替え実施を行っていた。なお、平日午前はローカルニュースを放送している。
+17. 2009年11月より週末に限りネット開始。
+18. 週末の一部時間帯のみ。
+19. 特別加盟局のInterFM897を除く

@@ -9,7 +9,7 @@
 
 かつては企業チームが多数出場する大会であったが、近年は同時期に[日本選手権対象大会である](https://ja.wikipedia.org/wiki/地区連盟主催大会_\(社会人野球\)#日本選手権対象大会 "wikilink")[ベーブルース杯](../Page/JABAベーブルース杯争奪大会.md "wikilink")、[京都大会が開催されていることから](../Page/JABA京都大会.md "wikilink")、企業チームの参加が減少し、専門学校や[クラブチームの出場が大多数となり](../Page/クラブチーム_\(社会人野球\).md "wikilink")、[全日本クラブ野球選手権大会](../Page/全日本クラブ野球選手権大会.md "wikilink")中国一次予選を兼ねるようになっている。
 
-## 歴代優勝チーム等
+## 歴代優勝チーム
 
 <table>
 <thead>
@@ -100,7 +100,7 @@
 <td><p>10</p></td>
 <td><p>1980</p></td>
 <td><p>16</p></td>
-<td><p><strong><a href="../Page/JX-ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
+<td><p><strong><a href="../Page/ENEOS野球部.md" title="wikilink">日本石油</a></strong></p></td>
 <td><p>新日本製鐵光</p></td>
 <td></td>
 </tr>
@@ -109,7 +109,7 @@
 <td><p>1981</p></td>
 <td><p>16</p></td>
 <td><p><strong><a href="https://ja.wikipedia.org/wiki/新日本製鐵堺硬式野球部" title="wikilink">新日本製鐵堺</a></strong></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/かずさマジック" title="wikilink">新日本製鐵君津</a></p></td>
+<td><p><a href="../Page/日本製鉄かずさマジック.md" title="wikilink">新日本製鐵君津</a></p></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -421,7 +421,7 @@
 <td><p>2020</p></td>
 <td><p>15</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため中止[1]</p></td>
+<td><p><a href="../Page/SARSコロナウイルス2.md" title="wikilink">新型コロナウイルス感染拡大防止のため中止</a>[1]</p></td>
 <td></td>
 </tr>
 </tbody>

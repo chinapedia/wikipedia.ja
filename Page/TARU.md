@@ -135,6 +135,6 @@
 2.  [TARUとMAZADAに罰金刑](http://www.nikkansports.com/battle/news/p-bt-tp0-20111214-876488.html) - 日刊スポーツ・2011年12月14日
 3.
 4.
-5.  [地震|殺戮用心棒 TARU DEATH LOG 2011-03-11 20:53:21](http://ameblo.jp/vm1964/entry-10827861643.html)
+5.  [地震|殺戮用心棒 TARU DEATH LOG 2011-03-11 20:53:21](https://ameblo.jp/vm1964/entry-10827861643.html)
 6.  [ＴＡＲＵ激白！バス横転危機＆津波目撃](http://www.daily.co.jp/ring/2011/03/15/0003867279.shtml) - デイリースポーツオンライン 2011年3月15日
 7.  [ＶＭ軍が義援金を募集「やらぬ善より、やる偽善」＝全日本プロレス](http://sportsnavi.yahoo.co.jp/fight/headlines/20110318-00000019-spnavi-fight.html) - 2011年3月18日 スポーツナビ

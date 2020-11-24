@@ -11,7 +11,7 @@
 
 ## 背景
 
-1988年、[ナゴムレコード](../Page/ナゴムレコード.md "wikilink")所属の[テクノポップ](../Page/テクノポップ.md "wikilink")バンド・**[人生（ZIN-SÄY\!）](../Page/人生_\(バンド\).md "wikilink")**で活動していた[石野卓球](../Page/石野卓球.md "wikilink")は、同レーベル所属の[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")がメジャーデビューしたこと、あるいは[TBS系](../Page/TBS系列.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")『[平成名物TV](../Page/平成名物TV.md "wikilink")』（[1989年](../Page/2007年.md "wikilink") - [1991年](../Page/2009年.md "wikilink")）での1コーナー「[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")」から多数のバンドが輩出されていることに焦りを感じていたが、結果として同番組には出演しなかった\[1\]。
+1988年、[ナゴムレコード](../Page/ナゴムレコード.md "wikilink")所属の[テクノポップ](../Page/テクノポップ.md "wikilink")バンド・**[人生（ZIN-SÄY\!）](../Page/人生_\(バンド\).md "wikilink")**で活動していた[石野卓球](../Page/石野卓球.md "wikilink")は、同レーベル所属の[筋肉少女帯](../Page/筋肉少女帯.md "wikilink")がメジャーデビューしたこと、あるいは[TBS系](../Page/TBS系列.md "wikilink")[深夜番組](../Page/深夜番組.md "wikilink")『[平成名物TV](../Page/平成名物TV.md "wikilink")』（[1989年](../Page/1989年.md "wikilink") - [1991年](../Page/1991年.md "wikilink")）での1コーナー「[三宅裕司のいかすバンド天国](../Page/三宅裕司のいかすバンド天国.md "wikilink")」から多数のバンドが輩出されていることに焦りを感じていたが、結果として同番組には出演しなかった\[1\]。
 
 またその当時、[Yello](https://ja.wikipedia.org/wiki/Yello "wikilink")や[M/A/R/R/S](https://ja.wikipedia.org/wiki/M/A/R/R/S "wikilink")、[ボム・ザ・ベースなどを聴き衝撃を受けた石野は](https://ja.wikipedia.org/wiki/ティム・シムノン "wikilink")、人生としての活動に疑念を持ち始めていた\[2\]。自身の音楽に対する嗜好と人生の活動が乖離している状態であったため、一度は人生とは別のバンドを結成することも検討したが、人生のライブには[パンクスの観客が来るなど誤解されていた面があったこと](https://ja.wikipedia.org/wiki/パンク_\(サブカルチャー\) "wikilink")、プライベートでは石野が彼女と別れたこと、プロになることを優先しすぎたあまりバンドメンバー同士が倦怠期に陥っていたこと、メンバー・[おばば（EX分度器）](https://ja.wikipedia.org/wiki/おばば（EX分度器） "wikilink")が脱退の意向を示したことなどを理由に人生の解散を決定した\[3\]。
 

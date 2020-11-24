@@ -144,8 +144,8 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_世界ヘビー級王座" title="wikilink">世界ヘビー級王座</a></p></td>
 <td><p><a href="../Page/田村ハヤト.md" title="wikilink">田村ハヤト</a></p></td>
 <td><p>第28代</p></td>
-<td><p>1</p></td>
-<td></td>
+<td><p>2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハートリー・ジャクソン" title="wikilink">ハートリー・ジャクソン</a></p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAユナイテッド・ナショナル・ヘビー級王座" title="wikilink">NWA UNヘビー級王座</a></p></td>
@@ -156,34 +156,32 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAインターコンチネンタルタッグ王座" title="wikilink">NWAインターコンチネンタルタッグ王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/岩崎永遠" title="wikilink">岩﨑永遠</a><br />
-<a href="https://ja.wikipedia.org/wiki/佐藤嗣崇" title="wikilink">佐藤嗣崇</a></p></td>
-<td><p>第42代</p></td>
-<td><p>1</p></td>
+<td><p>空位</p></td>
+<td><p>第44代</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座" title="wikilink">インターナショナルジュニアヘビー級王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/北村彰基" title="wikilink">北村彰基</a></p></td>
-<td><p>第24代</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エル・リンダマン" title="wikilink">エル・リンダマン</a></p></td>
+<td><p>第25代</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/ZERO1_インターナショナルジュニアヘビー級王座" title="wikilink">NWA世界ジュニアヘビー級王座</a>[9]</p></td>
-<td><p>第124代</p></td>
+<td><p>第125代</p></td>
 <td></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/NWAインターナショナルライトタッグ王座" title="wikilink">NWAインターナショナルライトタッグ王座</a></p></td>
-<td><p><a href="../Page/HUB_(プロレスラー).md" title="wikilink">HUB</a><br />
-<a href="../Page/ビリーケン・キッド.md" title="wikilink">ビリーケン・キッド</a></p></td>
-<td><p>第30代</p></td>
-<td></td>
 <td><p><a href="../Page/SUGI.md" title="wikilink">SUGI</a><br />
 <a href="https://ja.wikipedia.org/wiki/RAICHO" title="wikilink">RAICHO</a></p></td>
+<td><p>第31代</p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>
@@ -200,8 +198,8 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <tbody>
 <tr class="odd">
 <td><p><a href="../Page/火祭り_(ZERO1).md" title="wikilink">火祭り</a></p></td>
-<td><p><a href="../Page/火野裕士.md" title="wikilink">火野裕士</a></p></td>
-<td><p>2019年</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハートリー・ジャクソン" title="wikilink">ハートリー・ジャクソン</a></p></td>
+<td><p>2020年</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="../Page/天下一Jr..md" title="wikilink">天下一Jr.</a></p></td>
@@ -337,7 +335,16 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 <!-- end list -->
 
   - [綾部蓮](https://ja.wikipedia.org/wiki/綾部蓮 "wikilink")
+  - [KANON](https://ja.wikipedia.org/wiki/KANON "wikilink")
   - [田村ハヤト](../Page/田村ハヤト.md "wikilink")
+
+<!-- end list -->
+
+  - プロレスリングアンサー
+
+<!-- end list -->
+
+  - [ビリーケン・キッド](../Page/ビリーケン・キッド.md "wikilink")
 
 <!-- end list -->
 
@@ -375,13 +382,39 @@ ZERO1で行われているNWA選手権試合は、名称は同じであるが新
 
 <!-- end list -->
 
+  - [OZアカデミー](../Page/OZアカデミー.md "wikilink")女子プロレス
+
+<!-- end list -->
+
+  - [アジャ・コング](../Page/アジャ・コング.md "wikilink")
+
+<!-- end list -->
+
   - [プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")
 
 <!-- end list -->
 
   - [HIRO'e](https://ja.wikipedia.org/wiki/長浜浩江 "wikilink")
 
+<!-- end list -->
+
+  - [ワールド女子プロレス・ディアナ](https://ja.wikipedia.org/wiki/ワールド女子プロレス・ディアナ "wikilink")
+
+<!-- end list -->
+
+  - [井上京子](../Page/井上京子_\(プロレスラー\).md "wikilink")
+  - [梅咲遥](https://ja.wikipedia.org/wiki/梅咲遥 "wikilink")
+  - [ジャガー横田](https://ja.wikipedia.org/wiki/ジャガー横田 "wikilink")
+
 ### 来日外国人選手
+
+  - フリー
+
+<!-- end list -->
+
+  - [クワイエット・ストーム](../Page/クワイエット・ストーム_\(プロレスラー\).md "wikilink")
+
+<!-- end list -->
 
   - GCW<small>（Game Changer Wrestling）</small>
 

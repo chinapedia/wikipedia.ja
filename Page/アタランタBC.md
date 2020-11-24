@@ -196,16 +196,16 @@
 <tr class="even">
 <td><p>2020-21</p></td>
 <td><p><a href="../Page/UEFAチャンピオンズリーグ_2020-21.md" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
-<td><p>グループ</p></td>
-<td></td>
-<td></td>
+<td><p>グループD</p></td>
+<td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
+<td><p>0-5</p></td>
 <td></td>
 <td><p>'''位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td><p><a href="../Page/アヤックス・アムステルダム.md" title="wikilink">アヤックス</a></p></td>
+<td><p>2-2</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -214,9 +214,9 @@
 <td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/FCミッティラン" title="wikilink">ミッティラン</a></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><p>4-0</p></td>
 <td></td>
 <td></td>
 <td></td>
@@ -443,7 +443,7 @@
 
 ### 欧州での記録
 
-  - 2020年8月12日現在
+  - 2020年11月3日現在
 
 | 大会                                                                          | 試 | 勝 | 分 | 敗 | 得 | 失 | 差 | 勝率 |
 | --------------------------------------------------------------------------- | - | - | - | - | - | - | - | -- |
@@ -462,9 +462,9 @@
 
 </div>
 
-  - 2020年9月22日現在
+  - 2020年10月2日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★  ★ ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))    ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(副主将)   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))(第3主将)  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Netherlands.svg "wikilink")) ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Captain_sports.svg "wikilink"))★ ★   ★ ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Switzerland.svg "wikilink"))★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))       ★ ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Croatia.svg "wikilink"))  ★  ★
 
 括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

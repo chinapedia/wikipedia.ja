@@ -40,7 +40,7 @@
 
 ## 外部リンク
 
-  - [劇団四季 シアター 四季劇場](https://www.shiki.jp/theatres/gr/shiki/)
+  - [劇団四季 シアター 四季劇場](https://www.shiki.jp/theatres/4023/)
   - [JR東日本四季劇場［春］［秋］特設サイト｜劇団四季](https://www.shiki.jp/theatres/shikitheatre/)
 
 [Category:東京都の劇場](https://ja.wikipedia.org/wiki/Category:東京都の劇場 "wikilink") [Category:劇団四季の劇場](https://ja.wikipedia.org/wiki/Category:劇団四季の劇場 "wikilink") [Category:東京都港区の建築物](https://ja.wikipedia.org/wiki/Category:東京都港区の建築物 "wikilink") [Category:1998年開業の施設](https://ja.wikipedia.org/wiki/Category:1998年開業の施設 "wikilink") [Category:1998年竣工の日本の建築物](https://ja.wikipedia.org/wiki/Category:1998年竣工の日本の建築物 "wikilink")

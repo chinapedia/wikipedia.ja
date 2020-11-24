@@ -61,9 +61,9 @@
 
 ### 元メンバー
 
-  - umu （[産屋敷光孝](../Page/産屋敷光孝.md "wikilink")/うむやしきみつたか）（ベース、ボーカル） [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")出身。
-  - araki （[荒木隆之](https://ja.wikipedia.org/wiki/荒木隆之 "wikilink")/あらきたかゆき）（ドラム、ボーカル） 1月14日- 、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身。崇徳中学、崇徳高校卒。
-  - thai （[田井宏之](https://ja.wikipedia.org/wiki/田井宏之 "wikilink")/たいひろゆき、 - 2011年11月26日）（キーボード、ギター、ボーカル） [千葉県](../Page/千葉県.md "wikilink")出身。2011年11月26日に心筋梗塞のため急逝した。享年34\[2\]。
+  - umu （[産屋敷光孝](../Page/産屋敷光孝.md "wikilink")/うむやしきみつたか）（ベース、ボーカル） [三重県](https://ja.wikipedia.org/wiki/三重県 "wikilink")[桑名市](../Page/桑名市.md "wikilink")出身。現在は「big the grape」で活動中。
+  - araki （[荒木隆之](https://ja.wikipedia.org/wiki/荒木隆之 "wikilink")/あらきたかゆき）（ドラム、ボーカル） 1月14日- 、[広島県](../Page/広島県.md "wikilink")[広島市](https://ja.wikipedia.org/wiki/広島市 "wikilink")出身。崇徳中学、崇徳高校卒。BEAT CRUSADERS脱退後は「DRUNK FUX」で活動していた。
+  - thai （[田井宏之](https://ja.wikipedia.org/wiki/田井宏之 "wikilink")/たいひろゆき、 - 2011年11月26日）（キーボード、ギター、ボーカル） [千葉県](../Page/千葉県.md "wikilink")出身。2011年11月26日に心筋梗塞のため急逝した。享年34歳\[2\]。
   - 岩原幸夫（いわはらゆきお/イワハラユキオ）（ボーカル、ギター、ベース、ドラム、プログラム等）千葉県出身で[日高央](../Page/日高央.md "wikilink")の同級生。[グループ魂](../Page/グループ魂.md "wikilink")のドラマーを経て、自身がボーカルとギターを務めるBROKEN SPACE(現在は解散または活動休止している模様)、NEIGSを結成し活動中。ビークルのみならず[GALLOW](../Page/GALLOW.md "wikilink")のオリジナルメンバーでもある。
   - tomotaka hatano　コンピレーションCD「CD Bros. Vol.1」にてベースとしてクレジットされている。
   - kenji tamura　詳細不明。[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")にて、初期メンバーとして結婚パーティーで一緒に演奏する模様がアップされている。元TOTOS(THIS TIME RECORDSのギターポップバンド)のボーカル、キーボード、ギター。
@@ -113,6 +113,8 @@
 散開(解散)後は特に表立った活動はないものの、メジャー期の音源はストリーミングやサブスクリプションサービスに解禁されている。
 
 また、インディーズ期のメンバーで急逝したthaiを偲んで、彼の命日である11月26日前後に、彼がリードボーカルを務める楽曲から「Saturday Good-Bye」と題された追悼イベントがインディーズ期のメンバーによって行われており、主にhidaka、umu、araki、iwaharaによってインディーズ期のナンバーが演奏されている。
+
+散開から約10年が経った2020年8月28日、BEAT CRUSADERSがインディーズ(LASTRUM)時代に発表した6作品(「HOWLING SYMPHONY OF」「ALL YOU CAN EAT」「HANDSOME ACADEMY」「FORESIGHTS」「SEXCITE\!」「BEST CRUSADERS」)のサブスクリプションサービスが解禁した。
 
 ## 経歴
 
@@ -798,7 +800,7 @@ CD+Blu-ray Disc<br />
   - [BEAT CRUSADERS.net](http://www.beatcrusaders.net/)
   - [ウムヤ式オギノ式ブログ](http://blog.livedoor.jp/yudoufu/)
   - [BEAT CRUSADERSモバゲーブログ](http://mbga.jp/_u?u=16627503)
-  - [ブタの安息日](http://blog.excite.co.jp/katoutarou/) - Excite Music連載 カトウタロウ公式ブログ
+  - [ブタの安息日](https://blog.excite.co.jp/katoutarou/) - Excite Music連載 カトウタロウ公式ブログ
 
 [Category:BEAT_CRUSADERS](https://ja.wikipedia.org/wiki/Category:BEAT_CRUSADERS "wikilink") [Category:日本のパンク・ロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のパンク・ロック・バンド "wikilink") [Category:ポストパンク・バンド](https://ja.wikipedia.org/wiki/Category:ポストパンク・バンド "wikilink") [Category:ポップ・パンク・バンド](https://ja.wikipedia.org/wiki/Category:ポップ・パンク・バンド "wikilink") [Category:デフスターレコーズのアーティスト](https://ja.wikipedia.org/wiki/Category:デフスターレコーズのアーティスト "wikilink") [Category:フジロック・フェスティバル出演者](https://ja.wikipedia.org/wiki/Category:フジロック・フェスティバル出演者 "wikilink") [Category:覆面ミュージシャン](https://ja.wikipedia.org/wiki/Category:覆面ミュージシャン "wikilink") [Category:ROCK_IN_JAPAN_FESTIVAL出場者](https://ja.wikipedia.org/wiki/Category:ROCK_IN_JAPAN_FESTIVAL出場者 "wikilink") [Category:サマーソニック出演者](https://ja.wikipedia.org/wiki/Category:サマーソニック出演者 "wikilink") [Category:1997年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1997年に結成した音楽グループ "wikilink") [Category:2010年に解散した音楽グループ](https://ja.wikipedia.org/wiki/Category:2010年に解散した音楽グループ "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink")
 

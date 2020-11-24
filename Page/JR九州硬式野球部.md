@@ -64,10 +64,11 @@
   - [岡本敏男](https://ja.wikipedia.org/wiki/岡本敏男 "wikilink")投手（[1940年](../Page/1940年.md "wikilink")[名古屋軍](../Page/中日ドラゴンズ.md "wikilink")）
   - [大橋棣](../Page/大橋棣.md "wikilink")内野手（[1942年](../Page/1942年.md "wikilink")[阪神軍](../Page/阪神タイガース.md "wikilink")）
   - [中谷信夫](../Page/中谷信夫.md "wikilink")投手（[1947年](../Page/1947年.md "wikilink")[南海ホークス](https://ja.wikipedia.org/wiki/福岡ソフトバンクホークス "wikilink")）
-  - [木塚忠助](../Page/木塚忠助.md "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")南海ホークス）
-  - [宮川孝雄](https://ja.wikipedia.org/wiki/宮川孝雄 "wikilink")内野手 （[1948年](../Page/1948年.md "wikilink")[広島カープ](../Page/広島東洋カープ.md "wikilink")）
+  - [木塚忠助](../Page/木塚忠助.md "wikilink")内野手（[1948年](../Page/1948年.md "wikilink")南海ホークス）
+  - [宮川孝雄](https://ja.wikipedia.org/wiki/宮川孝雄 "wikilink")内野手（[1948年](../Page/1948年.md "wikilink")[広島カープ](../Page/広島東洋カープ.md "wikilink")）
+  - [長富政武](https://ja.wikipedia.org/wiki/長富政武 "wikilink")内野手（後に[大洋漁業を経て](../Page/マルハ.md "wikilink")、[1950年](../Page/1950年.md "wikilink")[大洋ホエールズ](../Page/横浜DeNAベイスターズ.md "wikilink")）
   - [石井和行](https://ja.wikipedia.org/wiki/石井和行 "wikilink")投手（[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")[広島東洋カープ](../Page/広島東洋カープ.md "wikilink")[ドラフト外](https://ja.wikipedia.org/wiki/ドラフト外入団#日本プロ野球 "wikilink")）
-  - [田島克彦](../Page/田島克彦.md "wikilink")（[1981年阪急ブレーブスドラフト](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")6位）
+  - [田島克彦](../Page/田島克彦.md "wikilink")外野手（[1981年阪急ブレーブスドラフト](https://ja.wikipedia.org/wiki/1981年度新人選手選択会議_\(日本プロ野球\)#阪急ブレーブス "wikilink")6位）
 
 #### [鹿児島鉄道管理局](../Page/九州旅客鉄道鹿児島支社.md "wikilink")
 

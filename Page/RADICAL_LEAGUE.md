@@ -209,7 +209,7 @@
 
 ## 外部リンク
 
-  - [番組公式サイト](http://web.archive.org/web/20090318212840/http://radical.fmfuji.co.jp/) - 閉鎖。（2009年3月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [番組公式サイト](https://web.archive.org/web/20090318212840/http://radical.fmfuji.co.jp/) - 閉鎖。（2009年3月18日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 
 [Category:FM-FUJIの帯番組](https://ja.wikipedia.org/wiki/Category:FM-FUJIの帯番組 "wikilink") [Category:ラジオのバラエティ番組](https://ja.wikipedia.org/wiki/Category:ラジオのバラエティ番組 "wikilink") [Category:2000年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2000年のラジオ番組_\(日本\) "wikilink")
 

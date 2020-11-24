@@ -17,7 +17,7 @@
 
 ## メンバー
 
-  - **和田唱**（わだ しょう、 - ）
+  - **和田唱**（わだ しょう　[1975年](../Page/1975年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink") - ）（歳）
 
 <!-- end list -->
 
@@ -31,7 +31,7 @@
 
 <!-- end list -->
 
-  - **林幸治**（はやし こうじ、 - ）
+  - **林幸治**（はやし こうじ　[1976年](../Page/1976年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink") - ）（歳）
 
 <!-- end list -->
 
@@ -43,7 +43,7 @@
 
 <!-- end list -->
 
-  - **吉田佳史**（よしだ よしふみ、 - ）
+  - **吉田佳史**（よしだ よしふみ　[1970年](../Page/1970年.md "wikilink")[11月14日](../Page/11月14日.md "wikilink") - ）（歳）
 
 <!-- end list -->
 
@@ -51,7 +51,7 @@
   - 小学校3年生の時に母親の使っていた[編み物](../Page/編み物.md "wikilink")の棒（編み針）を持って叩くようになったのが、ドラムを始めるキッカケとなった\[8\]。中学3年生の時に初めてドラムセットの前に座ったときにはすでに8ビートや16ビートが叩けるようになっていたという\[9\]。
   - TRICERATOPS結成前は「バーニッシュストーン・レコーディングスタジオ」のスタジオミュージシャンであった。当時[CHAGE and ASKAのプロデューサーであった](../Page/CHAGE_and_ASKA.md "wikilink")[山里剛](https://ja.wikipedia.org/wiki/山里剛 "wikilink")のアシスタントに付き、CHAGE and ASKAのアルバムなどの製作に参加したことがある。現在もバンド活動と並行して[吉井和哉](../Page/吉井和哉.md "wikilink")、[阿部真央](https://ja.wikipedia.org/wiki/阿部真央 "wikilink")、[高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")など、他のミュージシャンのライブでサポートメンバーを務めている。
   - スタジオミュージシャン時代、音楽の道を諦め、実家に帰り、ペンキ屋の道に進もうと考えていた矢先、知人の紹介で和田と林に出会い、TRICERATOPSに加入した。
-  - 既婚、二児の父。趣味に[ゲーム](../Page/ゲーム.md "wikilink")を挙げ、[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")のインタビューで[鬼武者](../Page/鬼武者.md "wikilink")を10時間でクリアしたエピソードや、楽曲製作期間中に[ドラクエVIIをプレイしていた事を明かしている](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")\[10\]。建築塗装技士2級を持つ。かつては愛煙家であったが、現在は完全に禁煙している。
+  - 既婚者で二児の父。趣味に[ゲーム](../Page/ゲーム.md "wikilink")を挙げ、[ファミ通](https://ja.wikipedia.org/wiki/ファミ通 "wikilink")のインタビューで[鬼武者](../Page/鬼武者.md "wikilink")を10時間でクリアしたエピソードや、楽曲製作期間中に[ドラクエVIIをプレイしていた事を明かしている](https://ja.wikipedia.org/wiki/ドラゴンクエストVII_エデンの戦士たち "wikilink")\[10\]。建築塗装技士2級を持つ。かつては愛煙家であったが、現在は完全に禁煙している。
 
 ## 音楽性
 
@@ -1039,13 +1039,13 @@ VIBL-534</p></td>
 12. [和田唱日記 ダイノジ・ロックフェス in 静岡！！！](http://blog.excite.co.jp/triceratops/8803951) 2008年5月7日
 13. [和田唱日記 ROCK IN JAPAN 2009](http://blog.excite.co.jp/triceratops/12056156) 2009年8月2日
 14. [eo音楽 TRICERATOPS インタビュー](http://eonet.jp/music/interview/index_080620.html)
-15. [TRICERATOPS 15th ANNIVERSARY TOUR　「HISTORY 2002 - 2004」](http://ameblo.jp/triceratops15th/theme-10052950062.html)
+15. [TRICERATOPS 15th ANNIVERSARY TOUR　「HISTORY 2002 - 2004」](https://ameblo.jp/triceratops15th/theme-10052950062.html)
 16. [和田唱日記 WE ARE ONE -CERTIFICATE- について](http://blog.excite.co.jp/triceratops/15513765/) 2010年11月25日
 17. [TRICERATOPS SUMMER TOUR "MOD SURFER" 特設サイト](http://modsurfer.jugem.jp/?eid=36) 「帰宅」 2011年7月6日付
 18.
 19. [和田唱日記 ミラクル☆トゥナイト](http://blog.excite.co.jp/triceratops/9919013/) 2008年10月13日付
 20. [GRAPEVINEインタビュー！ 1/2](http://www.hmv.co.jp/news/article/710240012) HMV 2007年10月24日付
-21. [またやらねばならない組み合わせ with NONA REEVES\!\!](http://ameblo.jp/triceratops15th/entry-11311995541.html) 2012年7月25日付
+21. [またやらねばならない組み合わせ with NONA REEVES\!\!](https://ameblo.jp/triceratops15th/entry-11311995541.html) 2012年7月25日付
 22. <http://www.110107.com/mob/pageShw.php?site=OTONANO&ima=2428&cd=triceratops>
 23.
 24.

@@ -56,7 +56,7 @@
 ## スタッフ
 
   - 構成：[豊村剛](../Page/豊村剛.md "wikilink")／榎祐一郎、三好宏和、岩瀬理恵子、八木伸栄、松浦京子、芳田香織
-  - 音楽：[田代ユリ](https://ja.wikipedia.org/wiki/田代ユリ "wikilink")→[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
+  - 音楽：田代ユリ→[大森俊之](https://ja.wikipedia.org/wiki/大森俊之 "wikilink")
   - ナレーション：[三ツ矢雄二](../Page/三ツ矢雄二.md "wikilink")、山口いずみ
   - 技術：[八峯テレビ](../Page/八峯テレビ.md "wikilink")
   - 編集・MA：音響ハウス→日本VTR

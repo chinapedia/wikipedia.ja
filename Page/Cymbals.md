@@ -322,8 +322,13 @@ NCS-10077:タワーレコード限定</p></td>
 <td><p>2003年5月9日</p></td>
 <td><p><strong>Cymbals "Four Traxx of DEMO"</strong></p></td>
 <td></td>
-<td></td>
-<td></td>
+<td><ol>
+<li>"アメリカの女王" demo version (2002)</li>
+<li>"Love Thing" demo version (2002)</li>
+<li>"Cucumber!" demo version (1997)</li>
+<li>"My Patrick" demo version (1997)</li>
+</ol></td>
+<td><p>not for sale 2003/05/09</p></td>
 </tr>
 <tr class="even">
 <td><p>ライブ</p></td>

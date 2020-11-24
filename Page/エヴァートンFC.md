@@ -5,7 +5,7 @@
 
 ## 概要
 
-2012-13シーズンまでに国内最多の110シーズン、トップリーグに所属し続けている。1980年代までは9度のリーグ制覇を含め、数多くのタイトルを獲得したイングランドフットボール界を代表する古豪クラブの一角であったが、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")発足以降は概ね中堅の地位に甘んじている。
+2019-20シーズンまでに国内最多の117シーズン、トップリーグに所属し続けている。1980年代までは9度のリーグ制覇を含め、数多くのタイトルを獲得したイングランドフットボール界を代表する古豪クラブの一角であったが、1992年の[プレミアリーグ](../Page/プレミアリーグ.md "wikilink")発足以降は概ね中堅の地位に甘んじている。
 
 ホームスタジアムは[リヴァプール](../Page/リヴァプール.md "wikilink")の[グディソン・パーク](https://ja.wikipedia.org/wiki/グディソン・パーク "wikilink")（収容人数39,571人）。チーム名のエヴァートンはリヴァプールの一地域のこと。愛称の「トフィーズ（The Toffees）」は、グディソン・パークでエヴァートン地区で作られるエヴァートン・ミント（ミント・[トフィー](https://ja.wikipedia.org/wiki/トフィー "wikilink")）と呼ばれるキャンディのようなお菓子が無料配布されていたことに由来する。
 
@@ -31,7 +31,7 @@
 
 1992年にプレミアリーグが創設されると、クラブは創設初年度に参加する22クラブのうちの1つに選ばれた。しかし、初年度は13位、以降も2桁順位が定位置になり、カップ戦も1995年にFAカップを制した以外は準決勝にすら進めなくなるなど中堅の位置に甘んじてしまった。
 
-#### 2000年代
+#### モイーズ政権
 
 2002-03シーズン、開幕前に[デイヴィッド・モイーズ](https://ja.wikipedia.org/wiki/デイヴィッド・モイーズ "wikilink")が監督に就任。この年は[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")のデビュー・新人王獲得などもあって調子良く進み、終盤まで欧州カップ戦の出場権を争い、1996年の6位に次ぐ高順位となる7位と躍進。モイーズはリーグ年間最優秀監督に選ばれ、長期政権を築き上げることになる。
 
@@ -49,25 +49,31 @@
 
 2009-10シーズンは移籍市場での動きが少なく、昨シーズンからの継続路線を明確にした。リーグ戦は昨シーズンより1試合勝利が少なく、1試合引き分けが多いだけとほぼ変わらない成績を残したが、順位は8位に落としてしまい欧州大会への出場権を得られなかった。ELはラウンド32で[スポルディング・リスボンに](../Page/スポルティング・クルーベ・デ・ポルトゥガル.md "wikilink")2戦合計2-4で敗戦。カップ戦はともに4回戦で姿を消した。
 
-#### 2010年代
-
 2010-11シーズン、リーグ戦は負け数がモイーズ体制で2番目に少ない10と粘り強く戦ったが、引き分けが多く勝ち数もモイーズ体制で2番目に少ない13となってしまい勝点を伸ばせず7位に終わってしまった。カップ戦も準々決勝にすら残れず、2年連続で欧州大会に出場できなくなった。
 
 2011-12シーズン、モイーズ体制は10年目を迎え、リーグ指揮400試合・リーグ150勝といった大台に乗るもののリーグの強豪「ビッグ6」になかなか割って入ることができず7位に終わった。
 
 2012-13シーズンもリーグでは「ビッグ6」の牙城を崩すには至らず、6位で終了した。シーズン終了後、モイーズはアレックス・ファーガソンの後任としてマンチェスター・ユナイテッドを指揮することを希望し、監督を辞任。こうして、11年続いたモイーズ体制に終止符を打つこととなった。後任には[ウィガン・アスレティックFC](../Page/ウィガン・アスレティックFC.md "wikilink")を率いていた[ロベルト・マルティネス](https://ja.wikipedia.org/wiki/ロベルト・マルティネス "wikilink")が就任した。
 
-2013-14シーズンも、序盤はここ最近と同様に中位に甘んじていたが、冬にレンタルで加入した[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が後半戦だけで15ゴールと大暴れ。これに引っ張られて成績を伸ばし、リーグ創設後クラブ史上最多となる21勝を挙げ、勝ち点もクラブ記録の72に伸ばし、5位に食い込んで5年ぶりとなるEL出場権を獲得した。
+#### 2010年代
+
+2013-14シーズン。序盤はここ最近と同様に中位に甘んじていたが、冬にレンタルで加入した[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が後半戦だけで15ゴールと大暴れ。これに引っ張られて成績を伸ばし、リーグ創設後クラブ史上最多となる21勝を挙げ、勝ち点もクラブ記録の72に伸ばし、5位に食い込んで5年ぶりとなるEL出場権を獲得した。
 
 2014-15シーズンは完全移籍に切り替わったルカクがエースとしての地位を確立するも、一転して成績が伸び悩み、12勝11分15敗の勝点47の11位に終わってしまった。勝ち点が50を下回るのは11年ぶり、2桁順位は9年ぶり、得失点差もマイナス(48得点50失点)で、これも9年ぶりとなる。ELはラウンド16でディナモ・キエフの前に敗れ、カップ戦は17年ぶりに4回戦にも進めないという体たらくで、収穫の少ないシーズンとなった。
 
-2015-16シーズン、マルティネス体制3年目となる今季も11勝14分13敗で勝ち点は昨年から伸ばせず47、順位も上がらず再び11位。カップ戦は2つとも準決勝まで進んだが、決勝には進めず。シーズン終了後にマルティネスは退任した。
+マルティネス体制3年目となる2015-16シーズンも11勝14分13敗で勝ち点は昨年から伸ばせず47、順位も上がらず再び11位。カップ戦は2つとも準決勝まで進んだが、決勝には進めず。シーズン終了後にマルティネスは退任した。
 
-2016-17シーズン、新監督に[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")が就任。失点を昨シーズンの55から44に減らし、得点もエースのルカクが24得点で得点ランキング2位につけるなど、クラブ史上2番目に多い62を記録。昨シーズンから全体的に復調し7位につけて、出場権が与えられる順位が下がったこともありEL出場の資格を得た。
+2016-17シーズンは新監督に[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")が就任。失点を昨シーズンの55から44に減らし、得点もエースのルカクが24得点で得点ランキング2位につけるなど、クラブ史上2番目に多い62を記録。昨シーズンから全体的に復調し7位につけて、出場権が与えられる順位が下がったこともありEL出場の資格を得た。
 
-2017-18シーズンはエースである[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に移籍したことを受け大型補強を敢行。13年ぶりに[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")が復帰し、他にも[デイヴィ・クラーセン](https://ja.wikipedia.org/wiki/デイヴィ・クラーセン "wikilink")、[マイケル・キーン](https://ja.wikipedia.org/wiki/マイケル・キーン_\(1993年生のサッカー選手\) "wikilink")、[ジョーダン・ピックフォード](https://ja.wikipedia.org/wiki/ジョーダン・ピックフォード "wikilink")、[サンドロ・ラミレス](https://ja.wikipedia.org/wiki/サンドロ・ラミレス "wikilink")らを獲得した。しかし[アシュリー・ウィリアムズや移籍してきたキーン](https://ja.wikipedia.org/wiki/アシュリー・ウィリアムズ_\(サッカー選手\) "wikilink")、左サイドバックの不足から、本職でないポジションでプレーさせられた[クコ・マルティナ](https://ja.wikipedia.org/wiki/クコ・マルティナ "wikilink")をはじめとするディフェンス陣やシグルズソン、シュネデルランの不調、プレミアリーグ初挑戦となるサンドロやクラーセンがイングランドのサッカーに順応出来なかったことに加え得点力不足に悩んだ。結果リーグ戦及び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では成績が振るわず、プレミアリーグ第9節終了後、[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")監督を解任、デイヴィッド・アンスワース暫定監督を経て、残留請負人と名高い[サム・アラダイス](../Page/サム・アラダイス.md "wikilink")監督を招聘した。冬の移籍期間で[ベジクタシュ](https://ja.wikipedia.org/wiki/ベジクタシュ "wikilink")から[ジェンク・トスン](https://ja.wikipedia.org/wiki/ジェンク・トスン "wikilink")を、[アーセナルから](../Page/アーセナルFC.md "wikilink")[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")を獲得し、彼らの活躍もあって最終的に8位でリーグ戦を終えたが、あくまで “残留” を目標とするアラダイス監督は、強豪チーム相手に勝ちにいかず、引き分けを狙う守備的な戦術に徹したり、若手起用に消極的だった。それが故に、ファンのみならず選手からも不満の念を抱かれてしまい（[アデモラ・ルックマン](https://ja.wikipedia.org/wiki/アデモラ・ルックマン "wikilink")が[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")にレンタル移籍した等）、シーズン終了後に解任された。また補強選手の多くが活躍できなかったこともあり、フットボールディレクターのスティーブ・ウォルシュも共に解任された。
+2017-18シーズンは、エースである[ロメル・ルカク](https://ja.wikipedia.org/wiki/ロメル・ルカク "wikilink")が[マンチェスター・ユナイテッド](https://ja.wikipedia.org/wiki/マンチェスター・ユナイテッド "wikilink")に移籍したことを受け大型補強を敢行。13年ぶりに[ウェイン・ルーニー](../Page/ウェイン・ルーニー.md "wikilink")が復帰し、他にも[デイヴィ・クラーセン](https://ja.wikipedia.org/wiki/デイヴィ・クラーセン "wikilink")、[マイケル・キーン](https://ja.wikipedia.org/wiki/マイケル・キーン_\(1993年生のサッカー選手\) "wikilink")、[ジョーダン・ピックフォード](https://ja.wikipedia.org/wiki/ジョーダン・ピックフォード "wikilink")、[サンドロ・ラミレス](https://ja.wikipedia.org/wiki/サンドロ・ラミレス "wikilink")らを獲得した。しかし[アシュリー・ウィリアムズや移籍してきたキーン](https://ja.wikipedia.org/wiki/アシュリー・ウィリアムズ_\(サッカー選手\) "wikilink")、左サイドバックの不足から、本職でないポジションでプレーさせられた[クコ・マルティナ](https://ja.wikipedia.org/wiki/クコ・マルティナ "wikilink")をはじめとするディフェンス陣やシグルズソン、シュネデルランの不調、プレミアリーグ初挑戦となるサンドロやクラーセンがイングランドのサッカーに順応出来なかったことに加え得点力不足に悩んだ。結果リーグ戦及び[UEFAヨーロッパリーグ](../Page/UEFAヨーロッパリーグ.md "wikilink")では成績が振るわず、プレミアリーグ第9節終了後、[ロナルド・クーマン](../Page/ロナルド・クーマン.md "wikilink")監督を解任、デイヴィッド・アンスワース暫定監督を経て、残留請負人と名高い[サム・アラダイス](../Page/サム・アラダイス.md "wikilink")監督を招聘した。冬の移籍期間で[ベジクタシュ](https://ja.wikipedia.org/wiki/ベジクタシュ "wikilink")から[ジェンク・トスン](https://ja.wikipedia.org/wiki/ジェンク・トスン "wikilink")を、[アーセナルから](../Page/アーセナルFC.md "wikilink")[セオ・ウォルコット](../Page/セオ・ウォルコット.md "wikilink")を獲得し、彼らの活躍もあって最終的に8位でリーグ戦を終えたが、あくまで “残留” を目標とするアラダイス監督は、強豪チーム相手に勝ちにいかず、引き分けを狙う守備的な戦術に徹したり、若手起用に消極的だった。それが故に、ファンのみならず選手からも不満の念を抱かれてしまい（[アデモラ・ルックマン](https://ja.wikipedia.org/wiki/アデモラ・ルックマン "wikilink")が[RBライプツィヒ](https://ja.wikipedia.org/wiki/RBライプツィヒ "wikilink")にレンタル移籍した等）、シーズン終了後に解任された。また補強選手の多くが活躍できなかったこともあり、フットボールディレクターのスティーブ・ウォルシュも共に解任された。
 
-2018-19シーズンは前シーズンからの立て直しを図り、[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")新監督を筆頭に、フットボールディレクターに[PSVで様々な有力選手を発掘してきたマルセル](../Page/PSVアイントホーフェン.md "wikilink")・ブランズを据え、短期的ではなく長期的な視野でチーム力を上げることを目標に若手選手を中心にチームの補強ポイントを的確に補強していった。このような方針から[ワトフォードから](../Page/ワトフォードFC.md "wikilink")[リシャルリソン](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")、[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[リュカ・ディニュ](https://ja.wikipedia.org/wiki/リュカ・ディニュ "wikilink")、[ジェリー・ミナ](https://ja.wikipedia.org/wiki/ジェリー・ミナ "wikilink")、レンタルで[アンドレ・ゴメス](https://ja.wikipedia.org/wiki/アンドレ・ゴメス "wikilink")、[シャフタール・ドネツク](https://ja.wikipedia.org/wiki/シャフタール・ドネツク "wikilink")から[ベルナルジ](https://ja.wikipedia.org/wiki/ベルナルジ・アニシオ・カルデイラ・ドゥアルテ "wikilink")、[チェルシーからレンタルで](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[クル・ズマ](https://ja.wikipedia.org/wiki/クル・ズマ "wikilink")を獲得。第6節まではたった1勝とシウバ監督の戦術が中々浸透しなかったものの、徐々に監督の哲学が浸透していくとチームの調子も上向いていった。補強した選手のほぼ全員が好パフォーマンスを見せ、第12節を終えてミナを除く上記の選手がスタメンに名を連ねる機会が多くなっている。一方のミナもリーグ戦初出場となった第12節のチェルシー戦でマン・オブ・ザ・マッチに選出されるなどして活躍した。また、昨季低調なパフォーマンスに終始したキーンやシグルズソンも好調を維持し、結果としてリシャルリソンはブラジル代表に初めて選出、キーンはイングランド代表に、ズマとディニュはフランス代表に復帰することができた。
+2018-19シーズンは前シーズンからの立て直しを図り、[マルコ・シウバ](https://ja.wikipedia.org/wiki/マルコ・シウバ "wikilink")新監督を筆頭に、フットボールディレクターに[PSVで様々な有力選手を発掘してきたマルセル](../Page/PSVアイントホーフェン.md "wikilink")・ブランズを据え、短期的ではなく長期的な視野でチーム力を上げることを目標に若手選手を中心にチームの補強ポイントを的確に補強していった。このような方針から[ワトフォードから](../Page/ワトフォードFC.md "wikilink")[リシャルリソン](https://ja.wikipedia.org/wiki/リシャルリソン・デ・アンドラーデ "wikilink")、[バルセロナから](https://ja.wikipedia.org/wiki/FCバルセロナ "wikilink")[リュカ・ディニュ](https://ja.wikipedia.org/wiki/リュカ・ディニュ "wikilink")、[ジェリー・ミナ](https://ja.wikipedia.org/wiki/ジェリー・ミナ "wikilink")、レンタルで[アンドレ・ゴメス](https://ja.wikipedia.org/wiki/アンドレ・ゴメス "wikilink")、[シャフタール・ドネツク](https://ja.wikipedia.org/wiki/シャフタール・ドネツク "wikilink")から[ベルナルジ](https://ja.wikipedia.org/wiki/ベルナルジ・アニシオ・カルデイラ・ドゥアルテ "wikilink")、[チェルシーからレンタルで](https://ja.wikipedia.org/wiki/チェルシーFC "wikilink")[クル・ズマ](https://ja.wikipedia.org/wiki/クル・ズマ "wikilink")を獲得。第6節まではたった1勝とシウバ監督の戦術が中々浸透しなかったものの、徐々に監督の哲学が浸透していくとチームの調子も上向いていった。最終的には昨年と同じ8位だったが、補強した選手のほぼ全員が好パフォーマンスを見せ、先発に定着。また既存選手も好調で、結果的にリシャルリソンはブラジル代表に初選出され、キーンはイングランド代表、ズマとディニュがフランス代表に復帰するなど選手が大きく成長を見せた1年となった。
+
+2019-20シーズンの夏の移籍市場では[アレックス・イウォビ](https://ja.wikipedia.org/wiki/アレックス・イウォビ "wikilink")や[ファビアン・デルフ](https://ja.wikipedia.org/wiki/ファビアン・デルフ "wikilink")、[ジブリル・シディベ](https://ja.wikipedia.org/wiki/ジブリル・シディベ "wikilink")を獲得。一方で12年在籍した主将の[フィル・ジャギエルカ](../Page/フィル・ジャギエルカ.md "wikilink")や[イドリッサ・ゲイェ](https://ja.wikipedia.org/wiki/イドリッサ・ゲイェ "wikilink")、クル・ズマといった主力が退団した。前年とは打って変わって開幕から不調を極め、リーグ15節のマージーサイド・ダービーで2-5で惨敗して降格圏に転落したところでマルコ・シウバは解任となった。新監督にACミランやレアル・マドリードで数多くのタイトルを獲得してきた[カルロ・アンチェロッティ](../Page/カルロ・アンチェロッティ.md "wikilink")が招聘された。アンチェロッティは[ドミニク・キャルヴァート＝ルーウィンや](https://ja.wikipedia.org/wiki/ドミニク・キャルバート＝ルーウィン "wikilink")[トム・デイビスといった若手の抜擢](https://ja.wikipedia.org/wiki/トム・デイヴィス "wikilink")・台頭でチームを立て直したものの、遅れを取り戻すには至らずここ15年では最悪となる12位に終わった。
+
+#### 2020年代
+
+2020-21シーズンの夏の移籍市場では、[レアル・マドリード](https://ja.wikipedia.org/wiki/レアル・マドリード "wikilink")から[ハメス・ロドリゲス](https://ja.wikipedia.org/wiki/ハメス・ロドリゲス "wikilink")、[SSCナポリ](https://ja.wikipedia.org/wiki/SSCナポリ "wikilink")から[アランがアンチェロッティを追いかけて加入](https://ja.wikipedia.org/wiki/アラン・マルケス・ロウレイロ "wikilink")。降格した[ワトフォードと](../Page/ワトフォードFC.md "wikilink")[ノリッジ・シティからそれぞれ](../Page/ノリッジ・シティFC.md "wikilink")[アブドゥライェ・ドゥクレ](https://ja.wikipedia.org/wiki/アブドゥライェ・ドゥクレ "wikilink")、[ベン・ゴッドフリー](https://ja.wikipedia.org/wiki/ベン・ゴッドフリー "wikilink")を引き抜き、さらに[ローマから](../Page/ASローマ.md "wikilink")[ロビン・オルセン](https://ja.wikipedia.org/wiki/ロビン・オルセン "wikilink")をレンタルで迎え入れるなど、即戦力級の選手が続々加入する充実した補強となった。
 
 ## 本拠地
 
@@ -664,9 +670,9 @@
 
 </div>
 
-  - 2020年9月8日現在
+  - 2020年10月5日現在
 
-([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guyana.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Jamaica.svg "wikilink"))   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ★     ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Ivory_Coast.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Portugal.svg "wikilink")) ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Guyana.svg "wikilink"))   ★   ★  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Mali.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Congo.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))  ★      ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_France.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Germany.svg "wikilink"))    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Denmark.svg "wikilink"))  ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 
@@ -697,7 +703,7 @@
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/マルコ・シウバ" title="wikilink">マルコ・シウバ</a></p></td>
 <td></td>
-<td><p>2018.5.31 - 2019.12.5</p></td>
+<td><p>2018.05.31 - 2019.12.05</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/サム・アラダイス.md" title="wikilink">サム・アラダイス</a></p></td>
@@ -725,14 +731,14 @@
 <td><p>1998.07.01 - 2002.03.13</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンデール" title="wikilink">ハワード・ケンデール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンドール" title="wikilink">ハワード・ケンドール</a></p></td>
 <td></td>
 <td><p>1997.06.27 - 1998.07.01</p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/デーブ・ワトソン" title="wikilink">デーブ・ワトソン</a></p></td>
 <td></td>
-<td><p>1997.04.01 - 1998.05.31</p></td>
+<td><p>1997.04.05 - 1997.05.11</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョー・ロイル" title="wikilink">ジョー・ロイル</a></p></td>
@@ -742,25 +748,25 @@
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/マイク・ウォーカー" title="wikilink">マイク・ウォーカー</a></p></td>
 <td></td>
-<td><p>1994.01.07 - 1994.11.08</p></td>
+<td><p>1994.01.08 - 1994.11.08</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/ジミー・ガブリエル" title="wikilink">ジミー・ガブリエル</a></p></td>
 <td></td>
-<td><p>1990.12.04 - 1994.01.07</p></td>
+<td><p>1993.12.08 - 1994.01.03</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンデール" title="wikilink">ハワード・ケンデール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンドール" title="wikilink">ハワード・ケンドール</a></p></td>
 <td></td>
-<td><p>1990.11.05 - 1990.12.04</p></td>
+<td><p>1990.11.10 - 1993.12.04</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/コリン・ハーベイ" title="wikilink">コリン・ハーベイ</a></p></td>
 <td></td>
-<td><p>1987.06.19 - 1990.10.31</p></td>
+<td><p>1987.06.19 - 1990.10.30</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンデール" title="wikilink">ハワード・ケンデール</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハワード・ケンドール" title="wikilink">ハワード・ケンドール</a></p></td>
 <td></td>
 <td><p>1981.05.31 - 1987.06.18</p></td>
 </tr>

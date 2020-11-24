@@ -87,7 +87,8 @@
 5.  株式・為替市況※
       - 平日のみ。[東京が休止している時間帯では](../Page/東京証券取引所.md "wikilink")、[ニューヨークの](../Page/ニューヨーク証券取引所.md "wikilink")[ダウ平均株価](https://ja.wikipedia.org/wiki/ダウ平均株価 "wikilink")と[NASDAQ指数を紹介する](../Page/ナスダック総合指数.md "wikilink")。総合テレビと異なり、株価・為替の読み上げは行われない。
 6.  [気象情報](../Page/気象情報_\(NHK\).md "wikilink")（※）
-      - [気象衛星](../Page/気象衛星.md "wikilink")の画像、全国の天気\[9\]・週間予報\[10\]（残り時間が足りない場合、一部省略有り）
+      - 全国の天気\[9\]・週間予報\[10\]（残り時間が足りない場合、一部省略有り）
+      - BSニュース4Kでは、加えて[気象衛星](../Page/気象衛星.md "wikilink")の画像、24時間雨量、風予測なども伝える。
           - 6時台・7時台・16時台は、日本地図の前に各時50分の気温・降水量・風速・風向とともに、東京都心各地点に設置されたお天気カメラからの映像が流れる。
 7.  挨拶 → エンディング映像
       - [情報カメラ](https://ja.wikipedia.org/wiki/情報カメラ "wikilink")からの映像を背景に、メインニュースの短冊3項目で締める。
@@ -157,7 +158,6 @@
   - [丹沢研二](../Page/丹沢研二.md "wikilink") - より
   - [浅野達朗](https://ja.wikipedia.org/wiki/浅野達朗 "wikilink") - より
   - [比田美仁](https://ja.wikipedia.org/wiki/比田美仁 "wikilink") - より
-  - [吉田浩](https://ja.wikipedia.org/wiki/吉田浩 "wikilink") - より
   - [吉井明子](https://ja.wikipedia.org/wiki/吉井明子 "wikilink") - より（[気象情報](../Page/気象情報_\(NHK\).md "wikilink")）
 
 ### 歴代のキャスター

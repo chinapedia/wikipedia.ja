@@ -1231,7 +1231,7 @@
 
 ## 現所属メンバー
 
-\[12\]    ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
+\[12\]     ([主将](https://ja.wikipedia.org/wiki/キャプテン_\(サッカー\) "wikilink"))
 
   - [監督](../Page/監督.md "wikilink")
 
@@ -1488,7 +1488,7 @@
   - [Unofficial website](http://malagacf.tripod.com)
   - [Trofeo Costa del Sol](http://www.rsssf.com/tablesc/costadelsol.html)
   - [Trofeo Ciudad de Torcal](http://www.rsssf.com/tablest/torcal.html)
-  - [Fan's Blog](http://spanishfootballtapasandbooze.blogspot.com)
+  - [Fan's Blog](https://spanishfootballtapasandbooze.blogspot.com/)
   - [The on-line trading cards collection of Málaga C.F\!](http://malaga.playmagic.tv)
 
 [Category:マラガCF](https://ja.wikipedia.org/wiki/Category:マラガCF "wikilink") [Category:スペインのサッカークラブ](https://ja.wikipedia.org/wiki/Category:スペインのサッカークラブ "wikilink") [Category:マラガ](https://ja.wikipedia.org/wiki/Category:マラガ "wikilink") [Category:アンダルシア州のスポーツ](https://ja.wikipedia.org/wiki/Category:アンダルシア州のスポーツ "wikilink") [Category:1904年設立のスポーツチーム](https://ja.wikipedia.org/wiki/Category:1904年設立のスポーツチーム "wikilink")

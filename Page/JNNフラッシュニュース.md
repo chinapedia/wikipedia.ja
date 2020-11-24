@@ -1,7 +1,7 @@
 > この記事は[JNNフラッシュニュース](https://ja.wikipedia.org/wiki/JNNフラッシュニュース)から翻訳されています。
 
 
-|OPテーマ= |外部リンク= |外部リンク名= |特記事項=放送時間は2019年4月からのもの。 }} 『**JNNフラッシュニュース**』（ジェイエヌエヌ フラッシュニュース、英称:*JNN FLASH NEWS*）は、[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で土曜日以外の毎晩放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。[1963年](../Page/1963年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")38年）[1月1日](../Page/1月1日.md "wikilink")放送開始{{\#tag:ref|放送開始年月日…\[1\]|group="注"}}。2019年現在、同一タイトルで続いている在京キー局のスポットニュース番組では最も長寿のJNNの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。2019年（[平成](../Page/平成.md "wikilink")31年）3月をもって「土曜版」の放送が（別番組内包の形態を取ることもなく）打ち切られた。
+|OPテーマ= |外部リンク= |外部リンク名= |特記事項=放送時間は2019年4月からのもの。 }} 『**JNNフラッシュニュース**』（ジェイエヌエヌ フラッシュニュース、英称:*JNN FLASH NEWS*）は、[TBS系列](../Page/TBSテレビ.md "wikilink")（[JNN](../Page/ジャパン・ニュース・ネットワーク.md "wikilink")）で土曜日以外の毎晩放送されている[スポットニュース](../Page/スポットニュース.md "wikilink")番組である。[1963年](../Page/1963年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")38年）[1月1日](../Page/1月1日.md "wikilink")放送開始{{\#tag:ref|放送開始年月日…\[1\]|group="注"}}。2020年現在、同一タイトルで続いている在京キー局のスポットニュース番組では最も長寿のJNNの[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")である。2019年（[平成](../Page/平成.md "wikilink")31年）3月をもって「土曜版」の放送が（別番組内包の形態を取ることもなく）打ち切られた。
 
 ## 概要
 
@@ -40,6 +40,8 @@
 [2019年](../Page/2019年.md "wikilink")3月をもって『月曜名作劇場』が終了し、2019年の春の改編で月曜20時台番組『[有田哲平と高嶋ちさ子の人生イロイロ超会議](https://ja.wikipedia.org/wiki/有田哲平と高嶋ちさ子の人生イロイロ超会議 "wikilink")』が20:00 - 20:57枠に編成されるため、同年4月以降は月曜放送分は約2年3ヶ月ぶりに20:57 - 21:00に編成され、かつ約1年半ぶりに単独番組に戻った。しかし、土曜版が同年3月をもって廃止し、曜日を1日縮小となった。前枠が3時間特番（19:00 - 21:57）になった影響で22時台の番組が21:57開始になった場合、22時台の番組の放送途中に挿入されることがある{{\#tag:ref|参考：
 
   - 2019年5月15日の『水曜日のダウンタウン』（21:57 - 22:57）\[2\]（ニュースは22:08 - 22:09\[3\]）|group="注"}}。
+
+[2020年](../Page/2020年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")より、平日の『[news23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』放送日に限り、同番組キャスターの[小川彩佳](https://ja.wikipedia.org/wiki/小川彩佳 "wikilink")・[山本恵里伽](https://ja.wikipedia.org/wiki/山本恵里伽 "wikilink")が当番組のキャスターを兼任するようになり、スタジオやテロップ類も『news23』仕様に変更となった（タイトルロゴの変更はなし）{{\#tag:ref|2018年3月まで放送されていた『[THE NEWSα Pick](https://ja.wikipedia.org/wiki/THE_NEWSα_Pick "wikilink")』以来2年8ヶ月ぶりとなる。 |group="注"}}。
 
 ### フラッシュニュース（関東ローカル枠）
 
@@ -142,6 +144,7 @@
 ## 夜のニュース枠の告知
 
   - [2011年](../Page/2011年.md "wikilink")[8月8日](../Page/8月8日.md "wikilink")から[2013年](../Page/2013年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")まで『[NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』{{\#tag:ref|2012年度までは『[NEWS23X](https://ja.wikipedia.org/wiki/NEWS23X "wikilink")』。|group="注"}}の放送日に限り、番組後半で『今夜のNEWS23』と題して、当日22時54分（通常の時刻、金曜は23時30分）放送の『NEWS23』の主な項目を当時のメインキャスター・[膳場貴子](../Page/膳場貴子.md "wikilink")（不在時はフィールドキャスターのアナウンサー）が紹介していた。ただし、重要ニュースが入った場合は行わなかった。
+  - [2020年](../Page/2020年.md "wikilink")[11月2日](../Page/11月2日.md "wikilink")より再び、『[news23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")』の放送日に限り、ニュースと当日23時（通常の時刻、金曜は23時30分）放送の『news23』の主な項目をメインキャスター・[小川彩佳](https://ja.wikipedia.org/wiki/小川彩佳 "wikilink")かサブキャスター・[山本恵里伽](https://ja.wikipedia.org/wiki/山本恵里伽 "wikilink")が伝える。
 
 ## 脚注
 
@@ -162,6 +165,7 @@
 
 ## 関連項目
 
+  - [NEWS23](https://ja.wikipedia.org/wiki/NEWS23 "wikilink")
   - [TBSテレビ番組一覧](https://ja.wikipedia.org/wiki/TBSテレビ番組一覧 "wikilink")
   - [JNN排他協定](https://ja.wikipedia.org/wiki/JNN排他協定 "wikilink")
   - [JNNニュース](../Page/JNNニュース.md "wikilink")

@@ -163,4 +163,4 @@ void *p = &a;
   - [キーワード (C++)](../Page/キーワード_\(C++\).md "wikilink")
   - [CとC++の演算子](https://ja.wikipedia.org/wiki/CとC++の演算子 "wikilink")
 
-[Category:プログラミング言語の構文](https://ja.wikipedia.org/wiki/Category:プログラミング言語の構文 "wikilink") [Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink")
+[Category:プログラミング言語の構文](https://ja.wikipedia.org/wiki/Category:プログラミング言語の構文 "wikilink") [Category:C言語](https://ja.wikipedia.org/wiki/Category:C言語 "wikilink") [Category:プログラミング言語の予約語](https://ja.wikipedia.org/wiki/Category:プログラミング言語の予約語 "wikilink")

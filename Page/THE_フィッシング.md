@@ -105,7 +105,7 @@
 <tr class="even">
 <td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
 <td><p><a href="../Page/福島中央テレビ.md" title="wikilink">福島中央テレビ</a>（FCT）</p></td>
-<td><p>日曜 5:15 - 6:15</p></td>
+<td><p>日曜 5:15 - 5:45</p></td>
 <td><p>[3]</p></td>
 <td></td>
 <td></td>

@@ -3,6 +3,8 @@
 
 [New_SAT_Logo_(vector).svg](https://ja.wikipedia.org/wiki/File:New_SAT_Logo_\(vector\).svg "fig:New_SAT_Logo_(vector).svg") **SAT**（エスエーティー）は、非営利法人である[カレッジボード](https://ja.wikipedia.org/wiki/カレッジボード "wikilink")が主催する標準テスト。SAT論理試験（SAT Reasoning Test、旧SATⅠ）とSAT科目別試験（SAT Subject Test、旧SATⅡ）の総称。[アメリカの大学入学時に考慮する要素の一つである](https://ja.wikipedia.org/wiki/アメリカ合衆国の高等教育 "wikilink")。
 
+## 概要
+
 SATは、本来Scholastic Aptitude Test（大学適性試験）を意味する略語であったが、1990年にScholastic Assessment Test（大学能力評価試験）に変わり、現在は略としてではなくSATそのものが名前に使われている。
 
 アメリカ合衆国では[義務教育](../Page/義務教育.md "wikilink")の制度を各州に任せていて、なおかつ各生徒は一定のルールの下で自由に科目を選択できるため、高校によって学力に差があり、[成績評価](../Page/成績評価.md "wikilink")基準も学校によって異なるため大学受験で高校の成績のみで合否を判定することはできない。そこで4,500校余りの高等教育機関からなる大学評議会が標準テストを実施し、そのスコアで生徒の大学受験の合否を決定することになった。

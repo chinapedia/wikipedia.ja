@@ -1,7 +1,7 @@
 > この記事は[Fly \(SMAPの曲\)](https://ja.wikipedia.org/wiki/Fly_\(SMAPの曲\))から翻訳されています。
 
 
-「**Fly**」（フライ）は、[SMAP](../Page/SMAP.md "wikilink")の30枚目の[シングル](../Page/シングル.md "wikilink")。[1999年](../Page/1999年.md "wikilink")[6月23日](../Page/6月23日.md "wikilink")に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から発売された。
+「**Fly**」（フライ）は、[SMAP](../Page/SMAP.md "wikilink")の楽曲。1999年6月23日に[ビクターエンタテインメント](https://ja.wikipedia.org/wiki/ビクターエンタテインメント "wikilink")から30作目の[シングル](../Page/シングル.md "wikilink")として発売された。
 
 ## 概要
 

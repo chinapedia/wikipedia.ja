@@ -1193,7 +1193,7 @@ Magnificient Steiner</p></td>
   - [MONSTER｜日本テレビ](http://www.ntv.co.jp/monster/)
 
   -
-  - [MONSTER｜VAP](http://www.vap.co.jp/monster/)
+  - [MONSTER｜VAP](https://www.vap.co.jp/monster/)
 
   - [MONSTER](https://www.allcinema.net/cinema/319970) - allcinema
 

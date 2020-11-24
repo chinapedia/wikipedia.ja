@@ -33,12 +33,17 @@
   - [2004年](../Page/2004年.md "wikilink")（平成16年）3月 - 北海道文化選賞企業特別賞を受賞
   - [2005年](../Page/2005年.md "wikilink")（平成17年）
       - 4月 - [SimulRadio](../Page/SimulRadio.md "wikilink")に参加し、ストリーミング放送を再開
+
       - [4月4日](../Page/4月4日.md "wikilink") - 24時間放送開始
+
       - 7月 - 南茅部・日浦[中継局](../Page/中継局.md "wikilink")の試験放送を開始（7月21日 22:00まで）
+
       - 8月 - 中継局の運用を開始
+
       - 10月 - SimulRadio配信停止
   - [2012年](../Page/2012年.md "wikilink")（平成24年）11月9日 - SimulRadio配信再開
   - [2015年](../Page/2015年.md "wikilink")（平成27年）11月9日 - 放送スタジオと事務所機能を元町19-7（函館山ロープウェイ山麓駅）に移転\[3\]\[4\]
+  - [2020年](../Page/2020年.md "wikilink")（令和2年）12月1日 - インターネット配信をJCBAインターネットサイマルラジオに移行\[5\]
 
 ## インターネット放送
 
@@ -85,5 +90,6 @@
 
 1.  平成4年[郵政](../Page/郵政省.md "wikilink")[省令](../Page/省令.md "wikilink")第2号による改正
 2.  [FMいるかについて](https://web.archive.org/web/20121115130019/http://www.fmiruka.co.jp/outline/) FMいるか（[Internet Archiveのアーカイブ](https://ja.wikipedia.org/wiki/Internet_Archive "wikilink"):2012年11月15日収集）
-3.  [スタジオ･事務所機能 移転のお知らせ](http://www.fmiruka.co.jp/event_topics/2015/1109-1814/) 同上 イベント&トピックス 2015年11月9日
-4.   2015年11月9日閲覧
+3.
+4.  "". 2015年11月9日閲覧。
+5.

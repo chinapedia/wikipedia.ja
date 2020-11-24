@@ -188,10 +188,10 @@
 
 | 掲出箇所       | スポンサー名                                                                              | 表記                                                                              | 掲出年      | 備考                                    |
 | ---------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- | -------- | ------------------------------------- |
-| 左胸         | [伊藤忠エネクスホームライフ東北株式会社](https://ja.wikipedia.org/wiki/伊藤忠エネクスホームライフ東北株式会社 "wikilink") | e伊藤忠エネクスホームライフ東北                                                                | 2020-21～ | \[22\]                                |
+| 左胸         | [伊藤忠エネクスホームライフ東北株式会社](https://ja.wikipedia.org/wiki/伊藤忠エネクスホームライフ東北株式会社 "wikilink") | ⓔ伊藤忠エネクスホームライフ東北                                                                | 2020-21～ | \[22\]                                |
 | 胸中央 \[23\] | 1st(黒)                                                                              | [ボディプラスインターナショナル](https://ja.wikipedia.org/wiki/株式会社ボディプラスインターナショナル "wikilink") | HALEO    | 2009～                                 |
-| 2nd(白)     |                                                                                     |                                                                                 |          |                                       |
-| 3rd(黄)     | [株式会社アップドラフト](https://ja.wikipedia.org/wiki/株式会社アップドラフト "wikilink")                 | TAKI ION MEDIC                                                                  | 2020-21～ |                                       |
+| 2nd(白)     | [株式会社アップドラフト](https://ja.wikipedia.org/wiki/株式会社アップドラフト "wikilink")                 | TAKI ION MEDIC                                                                  | 2020-21～ | \[24\]                                |
+| 3rd(黄)     | 株式会社アップドラフト                                                                         | TAKI ION MEDIC                                                                  | 2020-21～ |                                       |
 | 背中上部       | [やまや](../Page/やまや.md "wikilink")                                                    | [やまや](../Page/やまや.md "wikilink")                                                |          | 2017-18シーズンを除く                        |
 | 背中下部       | [株式会社バイタルネット](../Page/バイタルネット.md "wikilink")                                        | バイタルネット                                                                         | 2019-20～ | アーリーカップ2019東北より掲出                     |
 | パンツ前面右     | [七十七銀行](../Page/七十七銀行.md "wikilink")                                                | 77BANK                                                                          | 2007-08～ |                                       |
@@ -219,7 +219,7 @@
 
   - 2005年 - 2016年 : [OZAKI→KANKO](../Page/菅公学生服.md "wikilink")
   - 2016年 - 2018年 : [ASICS](../Page/アシックス.md "wikilink")
-  - 2018年 - 現在 : [Fanatics](https://ja.wikipedia.org/wiki/ファナティクス "wikilink")\[24\] (練習時のウエアは[MIZUNO](https://ja.wikipedia.org/wiki/MIZUNO "wikilink") → [TRES JAPAN](https://ja.wikipedia.org/wiki/トレスバスケットボール "wikilink")\[25\])
+  - 2018年 - 現在 : [Fanatics](https://ja.wikipedia.org/wiki/ファナティクス "wikilink")\[25\] (練習時のウエアは[MIZUNO](https://ja.wikipedia.org/wiki/MIZUNO "wikilink") → [TRES JAPAN](https://ja.wikipedia.org/wiki/トレスバスケットボール "wikilink")\[26\])
 
 ### 歴代ユニフォーム
 
@@ -242,16 +242,16 @@
 
 チーム名は、チームの本拠地である[仙台市](../Page/仙台市.md "wikilink")に関する[西暦](../Page/西暦.md "wikilink")年に由来する。
 
-  - [18**89**年](../Page/1889年.md "wikilink")（[明治](../Page/明治.md "wikilink")22年）[4月1日](../Page/4月1日.md "wikilink")、[仙台区](https://ja.wikipedia.org/wiki/仙台区 "wikilink")が[市制](../Page/市制.md "wikilink")施行\[26\]。
+  - [18**89**年](../Page/1889年.md "wikilink")（[明治](../Page/明治.md "wikilink")22年）[4月1日](../Page/4月1日.md "wikilink")、[仙台区](https://ja.wikipedia.org/wiki/仙台区 "wikilink")が[市制](../Page/市制.md "wikilink")施行\[27\]。
   - [19**89**年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）4月1日、仙台市が[政令指定都市](../Page/政令指定都市.md "wikilink")移行、および、市制100周年。
 
 以上、2つの西暦の下2桁の「89年」という年が仙台にとって始まりを象徴する数字であると考えられ、「89年の人々」を意味する[英語](../Page/英語.md "wikilink")の「89ERS」をチーム名とした。
 
-なお、チーム名の[英語](../Page/英語.md "wikilink")表記は *SENDAI EIGHTY NINERS* であり、fourty-ninersのように英語で一般的に見られるEIGHTYとNINERSの間の[ハイフン](../Page/ハイフン.md "wikilink")は不要である。2016年（平成28年）3月1日付で、運営会社の株式会社仙台スポーツリンクも、チーム名と同じ株式会社仙台89ERSへと社名変更した\[27\]。
+なお、チーム名の[英語](../Page/英語.md "wikilink")表記は *SENDAI EIGHTY NINERS* であり、fourty-ninersのように英語で一般的に見られるEIGHTYとNINERSの間の[ハイフン](../Page/ハイフン.md "wikilink")は不要である。2016年（平成28年）3月1日付で、運営会社の株式会社仙台スポーツリンクも、チーム名と同じ株式会社仙台89ERSへと社名変更した\[28\]。
 
 ### 永久欠番
 
-[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Tyna89.jpg "wikilink") **89**：2016年3月設定。\[28\]　クラブ発足以降ブースターの象徴の番号として定着していることを鑑みた。マスコットキャラクター・ティナも登場以来89番を使用している。
+[サムネイル](https://ja.wikipedia.org/wiki/ファイル:Tyna89.jpg "wikilink") **89**：2016年3月設定。\[29\]　クラブ発足以降ブースターの象徴の番号として定着していることを鑑みた。マスコットキャラクター・ティナも登場以来89番を使用している。
 
 ## 歴史
 
@@ -355,7 +355,7 @@
 <!-- end list -->
 
   -
-    新たなホームアリーナのひとつとなった[ゼビオアリーナ](https://ja.wikipedia.org/wiki/ゼビオアリーナ "wikilink")完成後初のシーズンとなったがシーズン序盤から勢いに乗れずに下位に低迷。2月23日には成績不振を理由にロバート・ピアスHCが解任され、[間橋健生](https://ja.wikipedia.org/wiki/間橋健生 "wikilink")GMがHC代行を兼任する事になった\[29\]。志村がアシスト王、[ティージェイ・カミングスが得点ランキング](https://ja.wikipedia.org/wiki/T・J・カミングス "wikilink")2位と個人成績は残せたが東地区7位でプレーオフ進出を6年ぶりに逃し\[30\]、平均観客数も2,000人を切りチーム史上最低となった。
+    新たなホームアリーナのひとつとなった[ゼビオアリーナ](https://ja.wikipedia.org/wiki/ゼビオアリーナ "wikilink")完成後初のシーズンとなったがシーズン序盤から勢いに乗れずに下位に低迷。2月23日には成績不振を理由にロバート・ピアスHCが解任され、[間橋健生](https://ja.wikipedia.org/wiki/間橋健生 "wikilink")GMがHC代行を兼任する事になった\[30\]。志村がアシスト王、[ティージェイ・カミングスが得点ランキング](https://ja.wikipedia.org/wiki/T・J・カミングス "wikilink")2位と個人成績は残せたが東地区7位でプレーオフ進出を6年ぶりに逃し\[31\]、平均観客数も2,000人を切りチーム史上最低となった。
 
 #### [2013-14シーズン](https://ja.wikipedia.org/wiki/bjリーグ_2013-14 "wikilink")　
 
@@ -384,7 +384,7 @@
 <!-- end list -->
 
   -
-    開幕戦から3カードは外国人不足を否めず全て1勝1敗の成績だったが、新潟より[エイドリアン・モス](https://ja.wikipedia.org/wiki/エイドリアン・モス "wikilink")を獲得すると、上昇の兆しをみせた。しかし、ハミルトンが怪我の影響により契約を解除。再び勝ち星を伸ばせなくなった。その後[ジェラル・デービス](https://ja.wikipedia.org/wiki/ジェラル・デービス "wikilink")が加入し、リーグ戦中盤から終盤にかけて、**チーム新記録となる11連勝**\[31\]・**同ホーム10連勝**を達成するなど好調を維持し37勝15敗の**最高勝率を更新(.712)、東地区3位**という成績で、3季ぶりにプレーオフ進出。ジョンソンが得点、スティールで二冠を取り、さらにベスト5とチーム初のシーズンMVPを受賞した。しかしプレーオフでは6位の[青森ワッツ](https://ja.wikipedia.org/wiki/青森ワッツ "wikilink")にホームで連敗してアップセットされシーズンを終えた。
+    開幕戦から3カードは外国人不足を否めず全て1勝1敗の成績だったが、新潟より[エイドリアン・モス](https://ja.wikipedia.org/wiki/エイドリアン・モス "wikilink")を獲得すると、上昇の兆しをみせた。しかし、ハミルトンが怪我の影響により契約を解除。再び勝ち星を伸ばせなくなった。その後[ジェラル・デービス](https://ja.wikipedia.org/wiki/ジェラル・デービス "wikilink")が加入し、リーグ戦中盤から終盤にかけて、**チーム新記録となる11連勝**\[32\]・**同ホーム10連勝**を達成するなど好調を維持し37勝15敗の**最高勝率を更新(.712)、東地区3位**という成績で、3季ぶりにプレーオフ進出。ジョンソンが得点、スティールで二冠を取り、さらにベスト5とチーム初のシーズンMVPを受賞した。しかしプレーオフでは6位の[青森ワッツ](https://ja.wikipedia.org/wiki/青森ワッツ "wikilink")にホームで連敗してアップセットされシーズンを終えた。
 
 #### [2015-16シーズン](https://ja.wikipedia.org/wiki/bjリーグ_2015-16 "wikilink")　
 
@@ -425,7 +425,7 @@
 <!-- end list -->
 
   -
-    新リーグ「[Bリーグ](https://ja.wikipedia.org/wiki/Bリーグ "wikilink")」を1部で迎えるのに伴い、3季ヘッドコーチを務めた[河内修斗](../Page/河内修斗.md "wikilink")が[三遠ネオフェニックス](../Page/三遠ネオフェニックス.md "wikilink")のアソシエイトコーチ就任に伴い退団。後任で間橋健生GMが就任した。
+    新リーグ「[Bリーグ](https://ja.wikipedia.org/wiki/ジャパン・プロフェッショナル・バスケットボールリーグ "wikilink")」を1部で迎えるのに伴い、3季ヘッドコーチを務めた[河内修斗](../Page/河内修斗.md "wikilink")が[三遠ネオフェニックス](../Page/三遠ネオフェニックス.md "wikilink")のアソシエイトコーチ就任に伴い退団。後任で間橋健生GMが就任した。
 
 <!-- end list -->
 
@@ -496,7 +496,7 @@
 <!-- end list -->
 
   -
-    シーズン中の4月5日、来期よりチームの経営権がスポンサーを務めるサプリメントの製造・販売を行うボディプラスインターナショナル社に譲渡されることが明らかになった。翌6日、代表の中村が会見を開いて経緯を説明。理由として「今季業績が赤字になる見込みで経営基盤の弱体化と資金不足により、人件費が確保出来なくなる危機を回避するため」と挙げた。なお中村は代表を辞任し、所有株をボディプラス社に全て譲渡する。新体制はボディプラス社の[デービット・ホルトン](https://ja.wikipedia.org/wiki/デービット・ホルトン "wikilink")CEO(最高責任者)がオーナー、社長には、[楽天野球団コンテンツ部社員の](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")[渡辺太郎](https://ja.wikipedia.org/wiki/渡辺太郎 "wikilink")が就任。(渡辺はかつて[仙台市立仙台高等学校](../Page/仙台市立仙台高等学校.md "wikilink")バスケットボール部で主将を務めており、志村雄彦の3学年先輩に当たる)同日、10年間在籍している志村が今季限りでの現役引退を発表した。理由として先輩であり親交のある渡辺の誘いが決め手だと述べた\[32\]。シーズン終了後、取締役とゼネラルマネージャーの就任が発表された。また、元[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")GMの[マーティー・キーナートがGM補佐に就任した](../Page/マーティ・キーナート.md "wikilink")。
+    シーズン中の4月5日、来期よりチームの経営権がスポンサーを務めるサプリメントの製造・販売を行うボディプラスインターナショナル社に譲渡されることが明らかになった。翌6日、代表の中村が会見を開いて経緯を説明。理由として「今季業績が赤字になる見込みで経営基盤の弱体化と資金不足により、人件費が確保出来なくなる危機を回避するため」と挙げた。なお中村は代表を辞任し、所有株をボディプラス社に全て譲渡する。新体制はボディプラス社の[デービット・ホルトン](https://ja.wikipedia.org/wiki/デービット・ホルトン "wikilink")CEO(最高責任者)がオーナー、社長には、[楽天野球団コンテンツ部社員の](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")[渡辺太郎](https://ja.wikipedia.org/wiki/渡辺太郎 "wikilink")が就任。(渡辺はかつて[仙台市立仙台高等学校](../Page/仙台市立仙台高等学校.md "wikilink")バスケットボール部で主将を務めており、志村雄彦の3学年先輩に当たる)同日、10年間在籍している志村が今季限りでの現役引退を発表した。理由として先輩であり親交のある渡辺の誘いが決め手だと述べた\[33\]。シーズン終了後、取締役とゼネラルマネージャーの就任が発表された。また、元[東北楽天ゴールデンイーグルス](https://ja.wikipedia.org/wiki/東北楽天ゴールデンイーグルス "wikilink")GMの[マーティー・キーナートがGM補佐に就任した](../Page/マーティ・キーナート.md "wikilink")。
 
 #### [2018-2019シーズン（B2 東地区）](https://ja.wikipedia.org/wiki/B.LEAGUE_2018-19 "wikilink")　
 
@@ -508,7 +508,7 @@
 <!-- end list -->
 
   -
-    新運営陣による船出も、限られたクラブ予算の中で\[33\]新ヘッドコーチに前[大阪HCの](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")[桶谷大](../Page/桶谷大.md "wikilink")が就任。選手は泉、新号、白戸、宮本が残留。金沢より[月野雅人](https://ja.wikipedia.org/wiki/月野雅人 "wikilink")、大阪より[澤邉圭太](https://ja.wikipedia.org/wiki/澤邉圭太 "wikilink")と[安部潤](https://ja.wikipedia.org/wiki/安部潤_\(バスケットボール\) "wikilink")、[B3降格の岩手より](https://ja.wikipedia.org/wiki/ジャパン・バスケットボールリーグ "wikilink")[菅澤紀行](https://ja.wikipedia.org/wiki/菅澤紀行 "wikilink")が、外国籍選手は北海道より[ダニエル・ミラー](../Page/ダニエル・ミラー_\(バスケットボール\).md "wikilink")、前シーズンを[Gリーグのウィンディシティ](https://ja.wikipedia.org/wiki/NBAゲータレード・リーグ "wikilink")・ブルズでプレーした[タイラー・ハリス](https://ja.wikipedia.org/wiki/タイラー・ハリス "wikilink")が加入。開幕後、前・名古屋Dの[ジェロウム・ティルマン](https://ja.wikipedia.org/wiki/ジェロウム・ティルマン "wikilink")、秋田からレンタルにて[俊野達彦](https://ja.wikipedia.org/wiki/俊野達彦 "wikilink")を獲得した。
+    新運営陣による船出も、限られたクラブ予算の中で\[34\]新ヘッドコーチに前[大阪HCの](https://ja.wikipedia.org/wiki/大阪エヴェッサ "wikilink")[桶谷大](../Page/桶谷大.md "wikilink")が就任。選手は泉、新号、白戸、宮本が残留。金沢より[月野雅人](https://ja.wikipedia.org/wiki/月野雅人 "wikilink")、大阪より[澤邉圭太](https://ja.wikipedia.org/wiki/澤邉圭太 "wikilink")と[安部潤](https://ja.wikipedia.org/wiki/安部潤_\(バスケットボール\) "wikilink")、[B3降格の岩手より](https://ja.wikipedia.org/wiki/ジャパン・バスケットボールリーグ "wikilink")[菅澤紀行](https://ja.wikipedia.org/wiki/菅澤紀行 "wikilink")が、外国籍選手は北海道より[ダニエル・ミラー](../Page/ダニエル・ミラー_\(バスケットボール\).md "wikilink")、前シーズンを[Gリーグのウィンディシティ](https://ja.wikipedia.org/wiki/NBAゲータレード・リーグ "wikilink")・ブルズでプレーした[タイラー・ハリス](https://ja.wikipedia.org/wiki/タイラー・ハリス "wikilink")が加入。開幕後、前・名古屋Dの[ジェロウム・ティルマン](https://ja.wikipedia.org/wiki/ジェロウム・ティルマン "wikilink")、秋田からレンタルにて[俊野達彦](https://ja.wikipedia.org/wiki/俊野達彦 "wikilink")を獲得した。
 
 <!-- end list -->
 
@@ -540,22 +540,22 @@
 <!-- end list -->
 
   -
-    主将月野をはじめミラー、ティルマン含む主力の7選手が残留。その一方で俊野が[愛媛](../Page/愛媛オレンジバイキングス.md "wikilink")、宮本が[青森](https://ja.wikipedia.org/wiki/青森ワッツ "wikilink")、安部が[島根](https://ja.wikipedia.org/wiki/島根スサノオマジック "wikilink")、菅澤が[富山に移籍した](../Page/富山グラウジーズ.md "wikilink")。新戦力としては[京都から](https://ja.wikipedia.org/wiki/京都ハンナリーズ "wikilink")[片岡大晴](../Page/片岡大晴.md "wikilink")が3季ぶりに2年契約で復帰。青森から[臼井弘樹](https://ja.wikipedia.org/wiki/臼井弘樹 "wikilink")、[琉球から](../Page/琉球ゴールデンキングス.md "wikilink")[金城茂之](../Page/金城茂之.md "wikilink")が加入し、前季は練習生登録であった[阿部翔太](https://ja.wikipedia.org/wiki/阿部翔太 "wikilink")(石巻市出身、立教大卒)が開幕前に、同じく8月の球団トライアウトを経て練習生登録であった[金城知紗](https://ja.wikipedia.org/wiki/金城知紗 "wikilink")が11月に正規契約に至り加入(ただし2020年2月末までの有期契約\[34\]、同3月からは練習生に戻る)、1月には前季[福岡に所属していた](../Page/ライジングゼファーフクオカ.md "wikilink")[エリック・ジェイコブセンを補強した](https://ja.wikipedia.org/wiki/エリック・ジェイコブセン_\(バスケットボール選手\) "wikilink")。また、2020年2月には特別指定選手として明治大学3年の[渡辺翔太を加えた](https://ja.wikipedia.org/wiki/渡辺翔太_\(バスケットボール選手\) "wikilink")。
+    主将月野をはじめミラー、ティルマン含む主力の7選手が残留。その一方で俊野が[愛媛](../Page/愛媛オレンジバイキングス.md "wikilink")、宮本が[青森](https://ja.wikipedia.org/wiki/青森ワッツ "wikilink")、安部が[島根](https://ja.wikipedia.org/wiki/島根スサノオマジック "wikilink")、菅澤が[富山に移籍した](../Page/富山グラウジーズ.md "wikilink")。新戦力としては[京都から](https://ja.wikipedia.org/wiki/京都ハンナリーズ "wikilink")[片岡大晴](../Page/片岡大晴.md "wikilink")が3季ぶりに2年契約で復帰。青森から[臼井弘樹](https://ja.wikipedia.org/wiki/臼井弘樹 "wikilink")、[琉球から](../Page/琉球ゴールデンキングス.md "wikilink")[金城茂之](../Page/金城茂之.md "wikilink")が加入し、前季は練習生登録であった[阿部翔太](https://ja.wikipedia.org/wiki/阿部翔太 "wikilink")(石巻市出身、立教大卒)が開幕前に、同じく8月の球団トライアウトを経て練習生登録であった[金城知紗](https://ja.wikipedia.org/wiki/金城知紗 "wikilink")が11月に正規契約に至り加入(ただし2020年2月末までの有期契約\[35\]、同3月からは練習生に戻る)、1月には前季[福岡に所属していた](../Page/ライジングゼファーフクオカ.md "wikilink")[エリック・ジェイコブセンを補強した](https://ja.wikipedia.org/wiki/エリック・ジェイコブセン_\(バスケットボール選手\) "wikilink")。また、2020年2月には特別指定選手として明治大学3年の[渡辺翔太を加えた](https://ja.wikipedia.org/wiki/渡辺翔太_\(バスケットボール選手\) "wikilink")。
 
 <!-- end list -->
 
   -
-    シーズン開始前、練習中に澤邉が右手を骨折、B1[川崎との練習試合で月野が頭部に受傷して戦列を離れてしまい](../Page/川崎ブレイブサンダース.md "wikilink")、2年連続でホーム・ゼビオアリーナ仙台開催となったアーリーカップは3位、リーグ開幕戦・群馬戦を2つとも落としてのスタートとなった。澤邉は10月に復帰も、入れ替わりで新加入の金城(茂)が右膝を痛めてしまい苦しいロスター事情が続いて福島や東京Zにホームで取りこぼし、群馬には12月上旬で早々にシーズン負け越しが決定してしまう。しかし以降は前季と異なり他地区上位陣をはじめ同カード連敗を喫することがなく、特に12月中旬から2月中旬の10節19戦を**2度の9連勝**含むなど白星を重ね、この間に月野が戦列に復帰して以降特に安定感を増した。一方で後述の中断期間中に新号が椎間板ヘルニアを悪化させ手術、戦線を離脱してしまう。\[35\]
+    シーズン開始前、練習中に澤邉が右手を骨折、B1[川崎との練習試合で月野が頭部に受傷して戦列を離れてしまい](../Page/川崎ブレイブサンダース.md "wikilink")、2年連続でホーム・ゼビオアリーナ仙台開催となったアーリーカップは3位、リーグ開幕戦・群馬戦を2つとも落としてのスタートとなった。澤邉は10月に復帰も、入れ替わりで新加入の金城(茂)が右膝を痛めてしまい苦しいロスター事情が続いて福島や東京Zにホームで取りこぼし、群馬には12月上旬で早々にシーズン負け越しが決定してしまう。しかし以降は前季と異なり他地区上位陣をはじめ同カード連敗を喫することがなく、特に12月中旬から2月中旬の10節19戦を**2度の9連勝**含むなど白星を重ね、この間に月野が戦列に復帰して以降特に安定感を増した。一方で後述の中断期間中に新号が椎間板ヘルニアを悪化させ手術、戦線を離脱してしまう。\[36\]
 
 <!-- end list -->
 
   -
-    しかし[新型コロナウイルス感染症流行による](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")2月下旬～3月上旬と3月中旬以降のリーグ戦中断を経て、3月27日のチェアマン発表によりポストシーズン含む以降全てのリーグ戦が中止に陥った。その結果、**35勝12敗の東地区優勝・リーグ全体3位**でシーズンを終えることとなりB1昇格へ望みをつないだが、4月26日に開催されたBリーグライセンス会議の結果、リーグ1・2位の信州と広島の昇格が決まり昇格を逃した。\[36\]
+    しかし[新型コロナウイルス感染症流行による](../Page/新型コロナウイルス感染症の流行_\(2019年-\).md "wikilink")2月下旬～3月上旬と3月中旬以降のリーグ戦中断を経て、3月27日のチェアマン発表によりポストシーズン含む以降全てのリーグ戦が中止に陥った。その結果、**35勝12敗の東地区優勝・リーグ全体3位**でシーズンを終えることとなりB1昇格へ望みをつないだが、4月26日に開催されたBリーグライセンス会議の結果、リーグ1・2位の信州と広島の昇格が決まり昇格を逃した。\[37\]
 
 #### [2020-2021シーズン（B2 東地区）](https://ja.wikipedia.org/wiki/B.LEAGUE_2018-19 "wikilink")　
 
   -
-    　　　チームスローガン：Grind\!\[37\]
+    　　　チームスローガン：Grind\!\[38\]
     桶谷体制3季目。阿部が退団した他、中村旧運営陣時代から3季にわたり在籍していた泉がB3[さいたま](https://ja.wikipedia.org/wiki/埼玉ブロンコス "wikilink")、新号が[山形](https://ja.wikipedia.org/wiki/パスラボ山形ワイヴァンズ "wikilink")、白戸が[福岡](../Page/ライジングゼファーフクオカ.md "wikilink")、ティルマンが[FE名古屋へそれぞれ移籍した一方で](../Page/豊通ファイティングイーグルス名古屋.md "wikilink")、月野・澤邉・金城・臼井・片岡・ミラー・ジェイコブセンの7選手と特別指定の渡辺が残留。新戦力として日本籍は年代別日本代表に選出経験を持つ[A東京の](../Page/アルバルク東京.md "wikilink")[笹倉怜寿](https://ja.wikipedia.org/wiki/笹倉怜寿 "wikilink")と[琉球から](../Page/琉球ゴールデンキングス.md "wikilink")[寒竹隼人](https://ja.wikipedia.org/wiki/寒竹隼人 "wikilink")をレンタルで、[川崎から](../Page/川崎ブレイブサンダース.md "wikilink")[鎌田裕也](https://ja.wikipedia.org/wiki/鎌田裕也 "wikilink")と[香川から](../Page/香川ファイブアローズ.md "wikilink")[矢代雪次郎](https://ja.wikipedia.org/wiki/矢代雪次郎 "wikilink")が移籍にてそれぞれ加入し、外国籍は[富山から](../Page/富山グラウジーズ.md "wikilink")[ジョシュ・ペッパーズ](https://ja.wikipedia.org/wiki/ジョシュ・ペッパーズ "wikilink")が10季ぶりに加入した<ref>ペッパーズは2018年に帰化申請が受理されており、今後帰化選手としてプレーする可能性が高い。
 
 <!-- end list -->
@@ -571,12 +571,12 @@
 
   - **球団代表オーナー** : [デービット・ホルトン](https://ja.wikipedia.org/wiki/デービット・ホルトン "wikilink")
   - **代表取締役副会長** :[渡辺太郎](https://ja.wikipedia.org/wiki/渡辺太郎 "wikilink")
-  - **代表取締役社長** :[志村雄彦](../Page/志村雄彦.md "wikilink")\[38\]
+  - **代表取締役社長** :[志村雄彦](../Page/志村雄彦.md "wikilink")\[39\]
   - **ゼネラルマネージャー補佐**：[マーティー・キーナート](../Page/マーティ・キーナート.md "wikilink")
   - **ヘッドコーチ兼ゼネラルマネージャー** : [桶谷大](../Page/桶谷大.md "wikilink")
   - **アシスタントコーチ** : [落合嘉郎](https://ja.wikipedia.org/wiki/落合嘉郎 "wikilink")
   - **アスレティックトレーナー** : [西廣雄貴](https://ja.wikipedia.org/wiki/西廣雄貴 "wikilink")
-  - **通訳** : 矢代雪次郎(※選手兼任\[39\])
+  - **通訳** : 矢代雪次郎(※選手兼任\[40\])
   - **U15コーチ** : [加藤真](../Page/加藤真.md "wikilink")
 
 ## 成績
@@ -595,7 +595,7 @@
 
 　[2019年](https://ja.wikipedia.org/wiki/Bリーグアーリーカップ_2019 "wikilink")(開催地・仙台市)：3位
 
-　2020年：新型コロナウイルス感染症流行により中止\[40\]
+　2020年：新型コロナウイルス感染症流行により中止\[41\]
 
 **[全日本総合バスケットボール選手権大会](https://ja.wikipedia.org/wiki/全日本総合バスケットボール選手権大会 "wikilink")**
 
@@ -603,11 +603,11 @@
 
 　[第93回大会](https://ja.wikipedia.org/wiki/第93回天皇杯・第84回皇后杯_全日本バスケットボール選手権大会 "wikilink")：3次ラウンド敗退
 
-　[第94回大会](https://ja.wikipedia.org/wiki/第94回天皇杯・第85回皇后杯_全日本バスケットボール選手権大会 "wikilink")：大会規定により不参加\[41\](B2参加資格なし)
+　[第94回大会](https://ja.wikipedia.org/wiki/第94回天皇杯・第85回皇后杯_全日本バスケットボール選手権大会 "wikilink")：大会規定により不参加\[42\](B2参加資格なし)
 
-　[第95回大会](https://ja.wikipedia.org/wiki/第95回天皇杯・第86回皇后杯全日本総合バスケットボール選手権大会 "wikilink")：大会規定により不参加\[42\](B2の参加は前季総合5位以内、仙台は総合6位)
+　[第95回大会](https://ja.wikipedia.org/wiki/第95回天皇杯・第86回皇后杯全日本総合バスケットボール選手権大会 "wikilink")：大会規定により不参加\[43\](B2の参加は前季総合5位以内、仙台は総合6位)
 
-　第96回大会：大会規定により不参加\[43\](新型コロナウイルス感染症流行により規模縮小、B2参加資格なし)
+　第96回大会：大会規定により不参加\[44\](新型コロナウイルス感染症流行により規模縮小、B2参加資格なし)
 \===過去のリーグ戦===
 
 ### bjリーグ
@@ -743,7 +743,7 @@
 <td><p>2013年9月8日</p></td>
 <td><p></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ゼビオアリーナ仙台" title="wikilink">ゼビオアリーナ仙台</a></p></td>
-<td><p>○ 81 - 73[44]</p></td>
+<td><p>○ 81 - 73[45]</p></td>
 </tr>
 </tbody>
 </table>
@@ -890,14 +890,14 @@
 23.
 24.
 25.
-26. [1889年](../Page/1889年.md "wikilink")（[明治](../Page/明治.md "wikilink")22年）[4月1日](../Page/4月1日.md "wikilink")に市制を敷いた都市は、仙台市を含めて31ある。→[市制](../Page/市制.md "wikilink")
-27.
+26.
+27. [1889年](../Page/1889年.md "wikilink")（[明治](../Page/明治.md "wikilink")22年）[4月1日](../Page/4月1日.md "wikilink")に市制を敷いた都市は、仙台市を含めて31ある。→[市制](../Page/市制.md "wikilink")
 28.
 29.
-30. 震災によってシーズン中に活動休止となった2010-11シーズンを除く。
-31. [＜bj仙台＞初の11連勝](http://www.kahoku.co.jp/tohokunews/201504/20150412_14023.html) 河北新報（2015年4月12日）
-32. [仙台89ERSのシンボル、志村雄彦が引退「27年間幸せなプレイヤー人生でした」](https://basket-count.com/article/detail/4652)
-33.
+30.
+31. 震災によってシーズン中に活動休止となった2010-11シーズンを除く。
+32. [＜bj仙台＞初の11連勝](http://www.kahoku.co.jp/tohokunews/201504/20150412_14023.html) 河北新報（2015年4月12日）
+33. [仙台89ERSのシンボル、志村雄彦が引退「27年間幸せなプレイヤー人生でした」](https://basket-count.com/article/detail/4652)
 34.
 35.
 36.
@@ -905,7 +905,8 @@
 38.
 39.
 40.
-41.  第94回天皇杯・第85回皇后杯 全日本バスケットボール選手権大会|date=2018-07-08|url=[http://zennihon2018-19.japanbasketball.jp/profile/|accessdate=2018-08-03|work=第94回天皇杯・第85回皇后杯](http://zennihon2018-19.japanbasketball.jp/profile/%7Caccessdate=2018-08-03%7Cwork=第94回天皇杯・第85回皇后杯) 全日本バスケットボール選手権大会}}
-42.  公益財団法人日本バスケットボール協会|url=[http://www.japanbasketball.jp/release/50545|website=www.japanbasketball.jp|accessdate=2019-09-29](http://www.japanbasketball.jp/release/50545%7Cwebsite=www.japanbasketball.jp%7Caccessdate=2019-09-29)}}
-43.
-44. [【試合結果】エッティンガービール日本発売記念やまやプレゼンツ日本・ドイツ国際親善試合](http://news.89ers.jp/?eid=988) 仙台89ERSニュースリリース（2013年9月9日）
+41.
+42.  第94回天皇杯・第85回皇后杯 全日本バスケットボール選手権大会|date=2018-07-08|url=[http://zennihon2018-19.japanbasketball.jp/profile/|accessdate=2018-08-03|work=第94回天皇杯・第85回皇后杯](http://zennihon2018-19.japanbasketball.jp/profile/%7Caccessdate=2018-08-03%7Cwork=第94回天皇杯・第85回皇后杯) 全日本バスケットボール選手権大会}}
+43.  公益財団法人日本バスケットボール協会|url=[http://www.japanbasketball.jp/release/50545|website=www.japanbasketball.jp|accessdate=2019-09-29](http://www.japanbasketball.jp/release/50545%7Cwebsite=www.japanbasketball.jp%7Caccessdate=2019-09-29)}}
+44.
+45. [【試合結果】エッティンガービール日本発売記念やまやプレゼンツ日本・ドイツ国際親善試合](http://news.89ers.jp/?eid=988) 仙台89ERSニュースリリース（2013年9月9日）

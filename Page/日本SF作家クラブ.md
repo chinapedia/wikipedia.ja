@@ -260,7 +260,7 @@ SF作家クラブでは一つの不文律ができあがっていた。星新一
 
 ## 外部リンク
 
-  - [日本SF作家クラブ](http://www.sfwj.or.jp/)　（公式サイト）
+  - [日本SF作家クラブ](https://sfwj.jp/)　（公式サイト）
 
   - [SF Prologue Wave](http://prologuewave.com/)
 

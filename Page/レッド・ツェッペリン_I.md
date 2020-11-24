@@ -35,13 +35,13 @@
 
 <!-- end list -->
 
-1.  **[グッド・タイムズ・バッド・タイムズ](https://ja.wikipedia.org/wiki/グッド・タイムズ・バッド・タイムズ "wikilink")** - *Good Times Bad Times* (Page, Jones & Bonham)
+1.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **[グッド・タイムズ・バッド・タイムズ](https://ja.wikipedia.org/wiki/グッド・タイムズ・バッド・タイムズ "wikilink")** - *Good Times Bad Times* (Page, Jones & Bonham)
       - アメリカ他数カ国でシングルカットされ、全米80位にランクイン\[16\]。
-2.  **ゴナ・リーヴ・ユー** - *Babe I'm Gonna Leave You* (Anne Bredon, arr., Page, Plant)
+2.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **ゴナ・リーヴ・ユー** - *Babe I'm Gonna Leave You* (Anne Bredon, arr., Page, Plant)
       - [ジョーン・バエズ](../Page/ジョーン・バエズ.md "wikilink")のライブアルバムに収録されていたフォークナンバーのカバー。バンドは当初この曲を[トラディショナルソングと勘違いし](https://ja.wikipedia.org/wiki/民族音楽#類義語との違い "wikilink")、作者クレジットもそのように記載されていたが、[1980年代](../Page/1980年代.md "wikilink")に入りアン・ブレドンという女性歌手の作品である事が判明し、[1990年](https://ja.wikipedia.org/wiki/1990年 "wikilink")の[リマスターズ以降はブレドンの名がクレジットされるようになった](../Page/レッド・ツェッペリン・リマスターズ.md "wikilink")\[17\]。
-3.  **ユー・シュック・ミー** - *You Shook Me* ([Willie Dixon](../Page/ウィリー・ディクスン.md "wikilink"), J. B. Lenoir)
+3.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **ユー・シュック・ミー** - *You Shook Me* ([Willie Dixon](../Page/ウィリー・ディクスン.md "wikilink"), J. B. Lenoir)
       - ツェッペリンが敬愛してやまないウィリー・ディクスンが[1962年](../Page/1962年.md "wikilink")にマディ・ウォーターズに提供したブルースナンバーのカバー。彼らに先んじて、[ジェフ・ベック・グループ](../Page/ジェフ・ベック・グループ.md "wikilink")が1stアルバム『[トゥルース](../Page/トゥルース_\(アルバム\).md "wikilink")』で採り上げている。
-4.  **[幻惑されて](https://ja.wikipedia.org/wiki/幻惑されて "wikilink")** -*Dazed and Confused* (Page)
+4.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **[幻惑されて](https://ja.wikipedia.org/wiki/幻惑されて "wikilink")** -*Dazed and Confused* (Page)
       - ペイジがヤードバーズ時代にアメリカのフォーク・ロック・シンガー、ジェイク・ホルムズの作品を改作した「*I'm Confused*」をさらに改作したもの。2010年にホルムズから訴訟を起こされたが\[18\]、ホルムズ版も実はブリティッシュ・トラッドからの引用であったことが分っている。
 
 <!-- end list -->
@@ -50,15 +50,15 @@
 
 <!-- end list -->
 
-1.  **時が来たりて** -*Your Time is Gonna Come* (Page & Jones)
+1.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **時が来たりて** -*Your Time is Gonna Come* (Page & Jones)
       - ジョーンズによる[ハモンドオルガン](../Page/ハモンドオルガン.md "wikilink")を大きくフィーチュアした曲。[トラフィックの](../Page/トラフィック_\(バンド\).md "wikilink")「ディア・ミスター・ファンタジー」（1967年のアルバム『*Mr. Fantasy*』収録）に似ているという指摘がある\[19\]。
-2.  **ブラック・マウンテン・サイド** -*Black Mountain Side* (Page)
+2.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **ブラック・マウンテン・サイド** -*Black Mountain Side* (Page)
       - イギリスのフォーク・シンガー、[アン・ブリッグス](../Page/アン・ブリッグス.md "wikilink")が、友人の民族音楽史家、アル・ロイドから伝授された短いトラディショナルナンバーを元に作曲した「Black Water Side」が原曲である。直接的にはそれを引用した[バート・ヤンシュ](../Page/バート・ヤンシュ.md "wikilink")の演奏にペイジが影響を受け、これにインド音楽的な要素を加味させて創作された曲。[タブラ](https://ja.wikipedia.org/wiki/タブラ "wikilink")はヴィラム・ジャサニなる外部ミュージシャンが演奏している。
-3.  **[コミュニケイション・ブレイクダウン](https://ja.wikipedia.org/wiki/コミュニケイション・ブレイクダウン "wikilink")** -*Communication Breakdown* (Page, Jones & Bonham)
+3.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **[コミュニケイション・ブレイクダウン](https://ja.wikipedia.org/wiki/コミュニケイション・ブレイクダウン "wikilink")** -*Communication Breakdown* (Page, Jones & Bonham)
       - シングル「グッド・タイムズ・バッド・タイムズ」のB面曲。ツェッペリン活動期間中に唯一の[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")が製作された曲でもある。
-4.  **君から離れられない** -*I Can't Quit You Baby* (Willie Dixon)
+4.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **君から離れられない** -*I Can't Quit You Baby* (Willie Dixon)
       - ウィリー・ディクスンが[1956年](../Page/1956年.md "wikilink")に[オーティス・ラッシュ](../Page/オーティス・ラッシュ.md "wikilink")に提供したブルースナンバーのカバー。
-5.  **ハウ・メニー・モア・タイムズ** -*How Many More Times* (Page, Jones & Bonham)
+5.  [YouTube_icon.png](https://ja.wikipedia.org/wiki/File:YouTube_icon.png "fig:YouTube_icon.png") **ハウ・メニー・モア・タイムズ** -*How Many More Times* (Page, Jones & Bonham)
       - 8分半に及ぶ組曲風の大作。ペイジがヤードバーズ時代に編み出していたパーツを組み合わせた作品\[20\]。曲中で[ハウリン・ウルフ](../Page/ハウリン・ウルフ.md "wikilink")の「*How Many More Year*」、[アルバート・キング](../Page/アルバート・キング.md "wikilink")の「*The Hunter*」などから歌詞が引用されているが、作曲者としてのクレジットはされていない。後に著作権問題に発展し示談で解決した。またペイジが[ジェフ・ベック](../Page/ジェフ・ベック.md "wikilink")に提供した「ベックス・ボレロ」（ベックの1stソロシングル「ハイ・ホー・シルヴァー・ライニング」B面曲）のフレーズも聴かれる。
 
 ※当時プラントは他との契約が残っていたため、本作では作者クレジットはされていない。

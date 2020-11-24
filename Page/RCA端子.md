@@ -60,4 +60,4 @@ RCA端子は1つの信号ごとに1本のケーブルが必要である。これ
 
 [Category:インタフェース規格](https://ja.wikipedia.org/wiki/Category:インタフェース規格 "wikilink") [Category:映像端子](https://ja.wikipedia.org/wiki/Category:映像端子 "wikilink") [Category:音声端子](https://ja.wikipedia.org/wiki/Category:音声端子 "wikilink") [Category:コネクタ](https://ja.wikipedia.org/wiki/Category:コネクタ "wikilink")
 
-1.  [Standards Details - CEA-863-A（ANSI）](http://web.archive.org/web/20090531041409/http://www.ce.org/Standards/browseByCommittee_2626.asp)
+1.  [Standards Details - CEA-863-A（ANSI）](https://web.archive.org/web/20090531041409/http://www.ce.org/Standards/browseByCommittee_2626.asp)

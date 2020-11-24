@@ -1,15 +1,25 @@
 > この記事は[J・B・S・ホールデン](https://ja.wikipedia.org/wiki/J・B・S・ホールデン)から翻訳されています。
 
 
-**ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](../Page/ロナルド・フィッシャー.md "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、[酵素](../Page/酵素.md "wikilink")[反応速度論](../Page/反応速度論.md "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](../Page/トランスヒューマニズム.md "wikilink")の先駆者とされ\[2\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[3\]。
+**ジョン・バードン・サンダースン・ホールデン**（**John Burdon Sanderson Haldane**、[1892年](../Page/1892年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink") - [1964年](../Page/1964年.md "wikilink")[12月1日](../Page/12月1日.md "wikilink")）は[イギリス](https://ja.wikipedia.org/wiki/イギリス "wikilink")の[生物学者](https://ja.wikipedia.org/wiki/生物学者 "wikilink")で、普通は**J・B・S・ホールデン**と呼ばれる。生物に関する理論的研究を得意とし、生命の起源に関する科学的理論の最初の提唱者と知られており\[1\]、[ロナルド・フィッシャー](../Page/ロナルド・フィッシャー.md "wikilink")、[シューアル・ライト](https://ja.wikipedia.org/wiki/シューアル・ライト "wikilink")と並ぶ[集団遺伝学](../Page/集団遺伝学.md "wikilink")の開拓者であり、ともに「集団遺伝学の三人男」と呼ばれる。\[2\][酵素](../Page/酵素.md "wikilink")[反応速度論](../Page/反応速度論.md "wikilink")などにも業績を残した。また一般向け解説書やエッセーも多数執筆する一方、しばしば個性的な言動で注目を浴びた。中でも『ダイダロス、あるいは科学と未来』*Daedalus or Science and the Future*（[1923年](../Page/1923年.md "wikilink")）は科学の未来を予測したものとして有名であり、ホールデンは20世紀における[トランスヒューマニズム](../Page/トランスヒューマニズム.md "wikilink")の先駆者とされ\[3\]、[クローン](https://ja.wikipedia.org/wiki/クローン "wikilink")の造語でも有名である\[4\]。
 
 ## 生い立ち
 
 ホールデン家は[スコットランド](../Page/スコットランド.md "wikilink")の名門として知られる。J・B・S・ホールデンは医師・生理学者の[ジョン・スコット・ホールデン](https://ja.wikipedia.org/wiki/ジョン・スコット・ホールデン "wikilink")（[John Scott Haldane](https://ja.wikipedia.org/wiki/:en:John_Scott_Haldane "wikilink")：[呼吸](../Page/呼吸.md "wikilink")の研究で著名）の子として[オックスフォード](../Page/オックスフォード.md "wikilink")に生まれた。妹には作家の[ナオミ・ミチスン](https://ja.wikipedia.org/wiki/ナオミ・ミチスン "wikilink") ([Naomi Mitchison](https://ja.wikipedia.org/wiki/:en:Naomi_Mitchison "wikilink"), 1897 - 1999) がいる。
 
-父の影響で生物学を専攻し[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")ニューカレッジを卒業した。
+父J. S. ホールデンは彼がごく幼い頃から一人前の実験助手兼被験者として扱った。息子の[血液](../Page/血液.md "wikilink")を採取しては研究材料に使い、[地下鉄](../Page/地下鉄.md "wikilink")の空気汚染の調査のときには[ロンドン](../Page/ロンドン.md "wikilink")へ同行し、地下へ潜った。その影響を受けた彼は4歳の誕生日を前にして怪我をした額から流れる血を見て泣くこともなく「これは酸化ヘモグロビンなの、炭酸ヘモグロビンなの？」と訊ねた。8歳のときには、父と共に再発見されたばかりの[メンデルの法則](../Page/メンデルの法則.md "wikilink")についての講演会へ行き、「難しいが、面白い」と評した。\[5\]
 
-[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")中は[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")と[イラク](../Page/イラク.md "wikilink")で軍務に就いたが、その間に[社会主義](../Page/社会主義.md "wikilink")に目覚め、さらに後には[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に惹かれることになる。
+私立小学校(プレパラトリー・スクール)からパブリック・スクールの名門[イートン校](https://ja.wikipedia.org/wiki/イートン校 "wikilink")へ進学した。成績はいつも群を抜いており、教師に教えを乞われるほどだった。抜群の成績が原因でいじめを受け、連日同級生に殴られ、父との面会日には彼らに誘拐、監禁された。彼のことを庇ってくれる先輩がおり、ある時そっと[リンゴ](../Page/リンゴ.md "wikilink")を渡された(イートン校で上級生が下級生にリンゴを渡すことは友愛のしるしである)。彼は[トマス・ヘンリー・ハクスリー](../Page/トマス・ヘンリー・ハクスリー.md "wikilink")の孫の[ジュリアン・ハクスリー](https://ja.wikipedia.org/wiki/ジュリアン・ハクスリー "wikilink")だった。\[6\]
+
+[オックスフォード大学](../Page/オックスフォード大学.md "wikilink")入学後、手続き上は古典文学を専攻したが、多種多様な学科の授業に出席した。特に[数学](../Page/数学.md "wikilink")と[動物学](../Page/動物学.md "wikilink")に熱中した。\[7\]
+
+22歳のときに[第一次世界大戦](../Page/第一次世界大戦.md "wikilink")が勃発すると、まず[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[西部戦線に配属されたが](../Page/西部戦線_\(第一次世界大戦\).md "wikilink")、間も無く負傷し帰国した。帰国中は軍から任されて手榴弾学校を運営し、将校や下士官に殺人技術を指導した。 傷の回復を待つが矢も盾もたまらず回復半ばで [イラク](../Page/イラク.md "wikilink")の[中東戦線に出征し](https://ja.wikipedia.org/wiki/中東戦線_\(第一次世界大戦\) "wikilink")、[トルコ軍と戦った](../Page/オスマン帝国.md "wikilink")。\[8\]その間に[社会主義](../Page/社会主義.md "wikilink")に目覚め、さらに後には[共産主義](https://ja.wikipedia.org/wiki/共産主義 "wikilink")に惹かれることになる。中東戦線でも負傷し、[インド](../Page/インド.md "wikilink")の病院に送られた。ベッドの上で[ウルドゥー語](../Page/ウルドゥー語.md "wikilink")を学び、インド文化をただひたすら研究した。退院後はインド陸軍に勤務して[アイルランド](../Page/アイルランド.md "wikilink")で終戦を迎えた。\[9\]
+
+彼は前線にいるときも科学論文を執筆し、塹壕で詩も書いた。父の要請で一時帰国したときには共にドイツ軍の毒ガスを研究した。前線ではオートバイに乗ってドイツ軍の面前の塹壕を飛び越え、敵が銃の引き金を引く前に遮蔽物に隠れる、夜中に鉄条網をくぐって敵地へ侵入し、イギリス兵の悪口を言ったドイツ兵に手榴弾を見舞うなど極めて無謀であった。\[10\]
+
+大戦後、オックスフォード大学で[生理学](../Page/生理学.md "wikilink")を教えた。そしてこの頃自らを被験者とした過酷な人体実験を開始した。これは父の実験を援護するものであり、[炭酸ナトリウム](../Page/炭酸ナトリウム.md "wikilink")、[塩化アンモニウム](../Page/塩化アンモニウム.md "wikilink")などの水溶液を大量に飲み、彼の「J. Hは息が切れた」「J. Hは呼吸困難を感じた」「J. Hは(以下読み取れず)」などのメモが残っている。[1930年代](../Page/1930年代.md "wikilink")から[40年代にかけて](../Page/1940年代.md "wikilink")[ロンドン大学](../Page/ロンドン大学.md "wikilink")で[遺伝学](../Page/遺伝学.md "wikilink")の教授を務めた。また、独立に[アレクサンドル・オパーリン](../Page/アレクサンドル・オパーリン.md "wikilink")とほぼ同様の生命の起源についての説を発表した。
+
+彼は現在の集団遺伝学の基礎を築いた。ダーウィンの[自然淘汰](https://ja.wikipedia.org/wiki/自然淘汰 "wikilink")説とメンデルの遺伝の法則を理論的に結びつけるものである。主に[突然変異](../Page/突然変異.md "wikilink")について研究した。ヨーロッパ各王室の系図を調べ、[血友病](../Page/血友病.md "wikilink")が突然変異によって起こる病気であることを突き止めた。その論文には「[ヴィクトリア女王](https://ja.wikipedia.org/wiki/ヴィクトリア女王 "wikilink")はどうやら突然変異によって生じたらしい血友病遺伝子の持ち主である。恐らくそれは[1818年](../Page/1818年.md "wikilink")に父君[ケント公](../Page/ケント公.md "wikilink")[エドワード・オーガスタスの](../Page/エドワード・オーガスタス_\(ケント公\).md "wikilink")[睾丸](https://ja.wikipedia.org/wiki/睾丸 "wikilink")の左右いずれかの中の細胞の核に起きた突然変異に由来する」とある。\[11\]
 
 ## 研究
 
@@ -76,5 +86,13 @@
 [Category:イギリスの遺伝学者](https://ja.wikipedia.org/wiki/Category:イギリスの遺伝学者 "wikilink") [Category:集団遺伝学者](https://ja.wikipedia.org/wiki/Category:集団遺伝学者 "wikilink") [Category:進化生物学者](https://ja.wikipedia.org/wiki/Category:進化生物学者 "wikilink") [Category:共産主義者](https://ja.wikipedia.org/wiki/Category:共産主義者 "wikilink") [Category:無神論者](https://ja.wikipedia.org/wiki/Category:無神論者 "wikilink") [Category:トランスヒューマニスト](https://ja.wikipedia.org/wiki/Category:トランスヒューマニスト "wikilink") [Category:王立協会フェロー](https://ja.wikipedia.org/wiki/Category:王立協会フェロー "wikilink") [Category:ソビエト連邦科学アカデミー名誉会員](https://ja.wikipedia.org/wiki/Category:ソビエト連邦科学アカデミー名誉会員 "wikilink") [Category:ソビエト連邦科学アカデミー外国人会員](https://ja.wikipedia.org/wiki/Category:ソビエト連邦科学アカデミー外国人会員 "wikilink") [Category:米国科学アカデミー外国人会員](https://ja.wikipedia.org/wiki/Category:米国科学アカデミー外国人会員 "wikilink") [Category:ユニヴァーシティ・カレッジ・ロンドンの教員](https://ja.wikipedia.org/wiki/Category:ユニヴァーシティ・カレッジ・ロンドンの教員 "wikilink") [Category:インド統計大学の教員](https://ja.wikipedia.org/wiki/Category:インド統計大学の教員 "wikilink") [Category:イングランドの無神論者](https://ja.wikipedia.org/wiki/Category:イングランドの無神論者 "wikilink") [Category:オックスフォード出身の人物](https://ja.wikipedia.org/wiki/Category:オックスフォード出身の人物 "wikilink") [Category:1892年生](https://ja.wikipedia.org/wiki/Category:1892年生 "wikilink") [Category:1964年没](https://ja.wikipedia.org/wiki/Category:1964年没 "wikilink")
 
 1.  木村資生著『生物進化を考える』 岩波書店 《岩波新書（新赤版）19 》 1988年 35ページ
-2.  *[Bostrom NickのA](https://ja.wikipedia.org/wiki/w:Bostrom_Nick "wikilink") history of transhumanist thought 2005*
-3.  Thomas, Isabel (2013). Should scientists pursue cloning?. London: Raintree. p. 5. ISBN 9781406233919.
+2.
+3.  *[Bostrom NickのA](https://ja.wikipedia.org/wiki/w:Bostrom_Nick "wikilink") history of transhumanist thought 2005*
+4.  Thomas, Isabel (2013). Should scientists pursue cloning?. London: Raintree. p. 5. ISBN 9781406233919.
+5.
+6.
+7.
+8.
+9.
+10.
+11.

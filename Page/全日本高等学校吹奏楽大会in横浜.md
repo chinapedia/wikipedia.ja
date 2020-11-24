@@ -260,7 +260,7 @@
 <tr class="even">
 <td><p>14<br />
 <a href="../Page/2012年.md" title="wikilink">2012</a></p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/埼玉栄高等学校" title="wikilink">埼玉栄高等学校</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/埼玉栄中学校・高等学校.md" title="wikilink">埼玉栄高等学校</a></p></td>
 <td style="text-align: center;"><p>天理高等学校</p></td>
 </tr>
 <tr class="odd">
@@ -297,7 +297,7 @@
 <td><p>20<br />
 <a href="../Page/2018年.md" title="wikilink">2018</a></p></td>
 <td style="text-align: center;"><p>柏市立柏高等学校</p></td>
-<td style="text-align: center;"><p><a href="https://ja.wikipedia.org/wiki/大阪桐蔭高等学校" title="wikilink">大阪桐蔭高等学校</a></p></td>
+<td style="text-align: center;"><p><a href="../Page/大阪桐蔭中学校・高等学校.md" title="wikilink">大阪桐蔭高等学校</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>21<br />
@@ -405,23 +405,23 @@
 
 ### 西関東支部
 
-| 都道府県                                                                      | 出場校                                                           | 出場回数        | 出場回             |
-| ------------------------------------------------------------------------- | ------------------------------------------------------------- | ----------- | --------------- |
-| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")                       | [群馬県立前橋東高等学校](../Page/群馬県立前橋東高等学校.md "wikilink")              | 1回          | 8               |
-| [群馬県立前橋商業高等学校](https://ja.wikipedia.org/wiki/群馬県立前橋商業高等学校 "wikilink")     | 6回                                                            | 12〜17       |                 |
-| [群馬県立高崎東高等学校](../Page/群馬県立高崎東高等学校.md "wikilink")                          | 1回                                                            | 21          |                 |
-| [埼玉県](../Page/埼玉県.md "wikilink")                                          | [本庄第一高等学校](https://ja.wikipedia.org/wiki/本庄第一高等学校 "wikilink") | 7回          | 1〜3、14、15、17、21 |
-| [秋草学園高等学校](../Page/秋草学園高等学校.md "wikilink")                                | 18回                                                           | 1〜8、12〜21   |                 |
-| [埼玉栄高等学校](https://ja.wikipedia.org/wiki/埼玉栄高等学校 "wikilink")               | 13回                                                           | 1、6、7、12〜21 |                 |
-| [埼玉県立伊奈学園総合高等学校](https://ja.wikipedia.org/wiki/埼玉県立伊奈学園総合高等学校 "wikilink") | 12回                                                           | 1、11〜21     |                 |
-| [狭山ヶ丘高等学校](https://ja.wikipedia.org/wiki/狭山ヶ丘高等学校 "wikilink")             | 11回                                                           | 2〜12        |                 |
-| [花咲徳栄高等学校](../Page/花咲徳栄高等学校.md "wikilink")                                | 7回                                                            | 1           |                 |
-| [埼玉県立越谷西高等学校](https://ja.wikipedia.org/wiki/埼玉県立越谷西高等学校 "wikilink")       | 4回                                                            | 10〜13       |                 |
-| [さいたま市立浦和高等学校](https://ja.wikipedia.org/wiki/さいたま市立浦和高等学校 "wikilink")     | 4回                                                            | 18〜21       |                 |
-| [埼玉県立越谷南高等学校](../Page/埼玉県立越谷南高等学校.md "wikilink")                          | 3回                                                            | 19〜21       |                 |
-| [新潟県](../Page/新潟県.md "wikilink")                                          | [中越高等学校](../Page/中越高等学校.md "wikilink")                        | 11回         | 1〜6、16、18〜21    |
-| [日本文理高等学校](../Page/日本文理高等学校.md "wikilink")                                | 2回                                                            | 1、4         |                 |
-| [山梨県](../Page/山梨県.md "wikilink")                                          | [山梨県立甲府西高等学校](../Page/山梨県立甲府西高等学校.md "wikilink")              | 5回          | 1〜5             |
+| 都道府県                                                                      | 出場校                                                | 出場回数        | 出場回             |
+| ------------------------------------------------------------------------- | -------------------------------------------------- | ----------- | --------------- |
+| [群馬県](https://ja.wikipedia.org/wiki/群馬県 "wikilink")                       | [群馬県立前橋東高等学校](../Page/群馬県立前橋東高等学校.md "wikilink")   | 1回          | 8               |
+| [群馬県立前橋商業高等学校](https://ja.wikipedia.org/wiki/群馬県立前橋商業高等学校 "wikilink")     | 6回                                                 | 12〜17       |                 |
+| [群馬県立高崎東高等学校](../Page/群馬県立高崎東高等学校.md "wikilink")                          | 1回                                                 | 21          |                 |
+| [埼玉県](../Page/埼玉県.md "wikilink")                                          | [本庄第一中学校・高等学校](../Page/本庄第一中学校・高等学校.md "wikilink") | 7回          | 1〜3、14、15、17、21 |
+| [秋草学園高等学校](../Page/秋草学園高等学校.md "wikilink")                                | 18回                                                | 1〜8、12〜21   |                 |
+| [埼玉栄高等学校](../Page/埼玉栄中学校・高等学校.md "wikilink")                              | 13回                                                | 1、6、7、12〜21 |                 |
+| [埼玉県立伊奈学園総合高等学校](https://ja.wikipedia.org/wiki/埼玉県立伊奈学園総合高等学校 "wikilink") | 12回                                                | 1、11〜21     |                 |
+| [狭山ヶ丘高等学校](https://ja.wikipedia.org/wiki/狭山ヶ丘高等学校 "wikilink")             | 11回                                                | 2〜12        |                 |
+| [花咲徳栄高等学校](../Page/花咲徳栄高等学校.md "wikilink")                                | 7回                                                 | 1           |                 |
+| [埼玉県立越谷西高等学校](https://ja.wikipedia.org/wiki/埼玉県立越谷西高等学校 "wikilink")       | 4回                                                 | 10〜13       |                 |
+| [さいたま市立浦和高等学校](https://ja.wikipedia.org/wiki/さいたま市立浦和高等学校 "wikilink")     | 4回                                                 | 18〜21       |                 |
+| [埼玉県立越谷南高等学校](../Page/埼玉県立越谷南高等学校.md "wikilink")                          | 3回                                                 | 19〜21       |                 |
+| [新潟県](../Page/新潟県.md "wikilink")                                          | [中越高等学校](../Page/中越高等学校.md "wikilink")             | 11回         | 1〜6、16、18〜21    |
+| [日本文理高等学校](../Page/日本文理高等学校.md "wikilink")                                | 2回                                                 | 1、4         |                 |
+| [山梨県](../Page/山梨県.md "wikilink")                                          | [山梨県立甲府西高等学校](../Page/山梨県立甲府西高等学校.md "wikilink")   | 5回          | 1〜5             |
 
 ### 東京支部
 
@@ -454,7 +454,7 @@
 | [静岡県立小笠高等学校](../Page/静岡県立小笠高等学校.md "wikilink")                          | 2回                                                                    | 5、6              |                 |
 | [静岡市立清水桜が丘高等学校](https://ja.wikipedia.org/wiki/静岡市立清水桜が丘高等学校 "wikilink") | 11回                                                                   | 7〜13、15、17、19、21 |                 |
 | [浜松聖星高等学校](../Page/浜松聖星高等学校.md "wikilink")                              | 12回                                                                   | 7〜10、12〜19、21    |                 |
-| [常葉学園中・高等学校](https://ja.wikipedia.org/wiki/常葉学園中学校・高等学校 "wikilink")     | 4回                                                                    | 9〜12             |                 |
+| [常葉学園中・高等学校](../Page/常葉大学附属常葉中学校・高等学校.md "wikilink")                    | 4回                                                                    | 9〜12             |                 |
 | [静岡県立沼津商業高等学校](../Page/静岡県立沼津商業高等学校.md "wikilink")                      | 4回                                                                    | 11〜14            |                 |
 | [浜松市立高等学校](../Page/浜松市立高等学校.md "wikilink")                              | 7回                                                                    | 11〜13、15〜18      |                 |
 | [静岡県立浜名高等学校](../Page/静岡県立浜名高等学校.md "wikilink")                          | 7回                                                                    | 14〜20            |                 |
@@ -512,7 +512,7 @@
 | [四條畷学園高等学校](https://ja.wikipedia.org/wiki/四條畷学園高等学校 "wikilink")       | 9回                                                                        | 10〜18                |            |
 | [早稲田摂陵高等学校](https://ja.wikipedia.org/wiki/早稲田摂陵高等学校 "wikilink")       | 7回                                                                        | 11、12、14、15、17、18、21 |            |
 | [大阪市立扇町総合高等学校](../Page/大阪市立扇町総合高等学校.md "wikilink")                    | 1回                                                                        | 15                   |            |
-| [大阪桐蔭高等学校](https://ja.wikipedia.org/wiki/大阪桐蔭高等学校 "wikilink")         | 3回                                                                        | 18〜20                |            |
+| [大阪桐蔭高等学校](../Page/大阪桐蔭中学校・高等学校.md "wikilink")                        | 3回                                                                        | 18〜20                |            |
 | [金蘭会高等学校・中学校](https://ja.wikipedia.org/wiki/金蘭会中学校・高等学校 "wikilink")   | 1回                                                                        | 20                   |            |
 | [精華高等学校](../Page/精華高等学校.md "wikilink")                                | 1回                                                                        | 21                   |            |
 | [和歌山県](../Page/和歌山県.md "wikilink")                                    | [和歌山県立向陽中・高等学校](https://ja.wikipedia.org/wiki/和歌山県立向陽中学校・高等学校 "wikilink") | 5回                   | 1、6〜9      |
@@ -585,15 +585,15 @@
 
 ### 四国支部
 
-| 都道府県                                                                | 出場校                                                           | 出場回数 | 出場回 |
-| ------------------------------------------------------------------- | ------------------------------------------------------------- | ---- | --- |
-| [愛媛県](../Page/愛媛県.md "wikilink")                                    | [愛媛県立松山南高等学校](../Page/愛媛県立松山南高等学校.md "wikilink")              | 1回   | 1   |
-| [愛媛県立伊予高等学校](../Page/愛媛県立伊予高等学校.md "wikilink")                      | 1回                                                            | 2    |     |
-| [愛媛県立松山西高等学校](https://ja.wikipedia.org/wiki/愛媛県立松山西高等学校 "wikilink") | 1回                                                            | 2    |     |
-| [愛媛県立松山中央高等学校](../Page/愛媛県立松山中央高等学校.md "wikilink")                  | 1回                                                            | 9    |     |
-| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")                 | [徳島県立徳島商業高等学校](../Page/徳島県立徳島商業高等学校.md "wikilink")            | 3回   | 1〜3 |
-| [高知県](../Page/高知県.md "wikilink")                                    | [土佐女子高等学校](https://ja.wikipedia.org/wiki/土佐女子高等学校 "wikilink") | 1回   | 1   |
-| [明徳義塾高等学校](https://ja.wikipedia.org/wiki/明徳義塾高等学校 "wikilink")       | 2回                                                            | 4、5  |     |
+| 都道府県                                                                | 出場校                                                               | 出場回数 | 出場回 |
+| ------------------------------------------------------------------- | ----------------------------------------------------------------- | ---- | --- |
+| [愛媛県](../Page/愛媛県.md "wikilink")                                    | [愛媛県立松山南高等学校](../Page/愛媛県立松山南高等学校.md "wikilink")                  | 1回   | 1   |
+| [愛媛県立伊予高等学校](../Page/愛媛県立伊予高等学校.md "wikilink")                      | 1回                                                                | 2    |     |
+| [愛媛県立松山西高等学校](https://ja.wikipedia.org/wiki/愛媛県立松山西高等学校 "wikilink") | 1回                                                                | 2    |     |
+| [愛媛県立松山中央高等学校](../Page/愛媛県立松山中央高等学校.md "wikilink")                  | 1回                                                                | 9    |     |
+| [徳島県](https://ja.wikipedia.org/wiki/徳島県 "wikilink")                 | [徳島県立徳島商業高等学校](../Page/徳島県立徳島商業高等学校.md "wikilink")                | 3回   | 1〜3 |
+| [高知県](../Page/高知県.md "wikilink")                                    | [土佐女子高等学校](https://ja.wikipedia.org/wiki/土佐女子中学校・高等学校 "wikilink") | 1回   | 1   |
+| [明徳義塾高等学校](../Page/明徳義塾中学校・高等学校.md "wikilink")                      | 2回                                                                | 4、5  |     |
 
 ### 九州支部
 

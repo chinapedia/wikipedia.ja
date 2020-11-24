@@ -45,99 +45,70 @@ TEC-9は精度を要求されない[短機関銃](../Page/短機関銃.md "wikil
 
 ### 映画
 
-:; 『[フォーリング・ダウン](../Page/フォーリング・ダウン.md "wikilink")』
-
-:: [マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")演じる主人公の中年男がバーガーショップで本銃を乱射する。
-
-:; 『[ジャッキー・ブラウン](../Page/ジャッキー・ブラウン.md "wikilink")』
-
-::ビデオ画面の中でビキニ姿のシドニーがこの銃を説明する。それを見ながらオデール（サミュエル・L・ジャクソン）がルイス（ロバート・デ・ニーロ）に更にウンチクを語る。
-
-:;『[レッド・ドーン](https://ja.wikipedia.org/wiki/レッド・ドーン "wikilink")』
-
-  -
-
-      -
-        アメリカを占領した[北朝鮮軍に対して](../Page/朝鮮人民軍.md "wikilink")、[レジスタンス](../Page/レジスタンス.md "wikilink")を結成した主人公達がフルオート改造型を使用。作中では、フルオートでは命中率が低い為、北朝鮮軍兵士をギリギリまで引き付け、至近距離から乱射する戦法で使用した。
+  - 『[フォーリング・ダウン](../Page/フォーリング・ダウン.md "wikilink")』
+    [マイケル・ダグラス](../Page/マイケル・ダグラス.md "wikilink")演じる主人公の中年男がバーガーショップで本銃を乱射する。
+  - 『[ジャッキー・ブラウン](../Page/ジャッキー・ブラウン.md "wikilink")』
+    ビデオ画面の中でビキニ姿のシドニーがこの銃を説明する。それを見ながらオデール（サミュエル・L・ジャクソン）がルイス（ロバート・デ・ニーロ）に更にウンチクを語る。
+  - 『[レッド・ドーン](https://ja.wikipedia.org/wiki/レッド・ドーン "wikilink")』
+    アメリカを占領した[北朝鮮軍に対して](../Page/朝鮮人民軍.md "wikilink")、[レジスタンス](../Page/レジスタンス.md "wikilink")を結成した主人公達がフルオート改造型を使用。作中では、フルオートでは命中率が低い為、北朝鮮軍兵士をギリギリまで引き付け、至近距離から乱射する戦法で使用した。
 
 ### テレビドラマ
 
-:; 『[CSI:マイアミ](../Page/CSI:マイアミ.md "wikilink")』
-
-:: 第9シーズン「仁義なき闘い」に登場。
-
-:: 第10シーズン「捨て身のギャンブラー」に登場。
-
-:; 『[SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜](https://ja.wikipedia.org/wiki/SPEC〜警視庁公安部公安第五課_未詳事件特別対策係事件簿〜 "wikilink")』
-
-:: [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")演じる地居 聖（津田助広）が、最終話「起の回」の早稲田奉仕園内で使用。フルオートに改造済みで、バレルシュラウドを含む[鋼板](../Page/鋼板.md "wikilink")[プレス部品が](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")[ステンレスポリッシュ加工品にカスタムされている](../Page/ステンレス鋼.md "wikilink")。[ACOG](https://ja.wikipedia.org/wiki/ACOG "wikilink")・レディマグ仕様。
-
-:; 『[コールドケース 迷宮事件簿](https://ja.wikipedia.org/wiki/コールドケース_迷宮事件簿 "wikilink")』
-
-  -
-
-      -
-        第4シーズン 『ビデオカメラ』に登場。作中では「セミオートのテックナイン」と呼ばれている。
+  - 『[CSI:マイアミ](../Page/CSI:マイアミ.md "wikilink")』
+    第9シーズン「仁義なき闘い」に登場。
+    第10シーズン「捨て身のギャンブラー」に登場。
+  - 『[SPEC〜警視庁公安部公安第五課 未詳事件特別対策係事件簿〜](https://ja.wikipedia.org/wiki/SPEC〜警視庁公安部公安第五課_未詳事件特別対策係事件簿〜 "wikilink")』
+    [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")演じる地居 聖（津田助広）が、最終話「起の回」の早稲田奉仕園内で使用。フルオートに改造済みで、バレルシュラウドを含む[鋼板](../Page/鋼板.md "wikilink")[プレス部品が](https://ja.wikipedia.org/wiki/プレス加工 "wikilink")[ステンレスポリッシュ加工品にカスタムされている](../Page/ステンレス鋼.md "wikilink")。[ACOG](https://ja.wikipedia.org/wiki/ACOG "wikilink")・レディマグ仕様。
+  - 『[コールドケース 迷宮事件簿](https://ja.wikipedia.org/wiki/コールドケース_迷宮事件簿 "wikilink")』
+    第4シーズン 『ビデオカメラ』に登場。作中では「セミオートのテックナイン」と呼ばれている。
 
 ### 漫画
 
-:; 『[新プラモ狂四郎](https://ja.wikipedia.org/wiki/新プラモ狂四郎 "wikilink")』
-
-  -
-
-      -
-        「KG-9」の名称で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")用の[トイガンとして登場](../Page/遊戯銃.md "wikilink")。
+  - 『[新プラモ狂四郎](https://ja.wikipedia.org/wiki/新プラモ狂四郎 "wikilink")』
+    「KG-9」の名称で[サバイバルゲーム](../Page/サバイバルゲーム.md "wikilink")用の[トイガンとして登場](../Page/遊戯銃.md "wikilink")。
 
 ### 小説
 
-:; 『[血と暴力の国](../Page/ノーカントリー.md "wikilink")』
-
-  -
-
-      -
-        [殺し屋](../Page/殺し屋.md "wikilink")シュガーに追い込まれた[ベトナム帰還兵](../Page/ベトナム帰還兵.md "wikilink")ルウェリン・モスが入手。
+  - 『[血と暴力の国](../Page/ノーカントリー.md "wikilink")』
+    [殺し屋](../Page/殺し屋.md "wikilink")シュガーに追い込まれた[ベトナム帰還兵](../Page/ベトナム帰還兵.md "wikilink")ルウェリン・モスが入手。
 
 ### ゲーム
 
-:; 『[エンド オブ エタニティ](https://ja.wikipedia.org/wiki/エンド_オブ_エタニティ "wikilink")』
+  - 『[エンド オブ エタニティ](https://ja.wikipedia.org/wiki/エンド_オブ_エタニティ "wikilink")』
+    オープニングムービーで悪魔憑きの少年（ゼファー）が乱射する。プレイヤー使用不可。
 
-:: オープニングムービーで悪魔憑きの少年（ゼファー）が乱射する。プレイヤー使用不可。
+  - 『[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")』
 
-:; 『[グランド・セフト・オートシリーズ](https://ja.wikipedia.org/wiki/グランド・セフト・オートシリーズ "wikilink")』
+:; 『[GTA:VC](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』
 
-::; 『[GTA:VC](../Page/グランド・セフト・オート・バイスシティ.md "wikilink")』
+:: 「Tec9」の名称でフルオート改造仕様が登場。走りながら[射撃](../Page/射撃.md "wikilink")が可能。
 
-::: 「Tec9」の名称でフルオート改造仕様が登場。走りながら[射撃](../Page/射撃.md "wikilink")が可能。
+:; 『[GTA:SA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』
 
-::; 『[GTA:SA](../Page/グランド・セフト・オート・サンアンドレアス.md "wikilink")』
+:: 「Tec-9」の名称でフルオート改造仕様が登場。走りながら射撃が可能なほか、射撃スキルを上げることで[二丁撃ちが可能](../Page/二丁拳銃.md "wikilink")。
 
-::: 「Tec-9」の名称でフルオート改造仕様が登場。走りながら射撃が可能なほか、射撃スキルを上げることで[二丁撃ちが可能](../Page/二丁拳銃.md "wikilink")。
+:; 『[GTA:LCS](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")』
 
-::; 『[GTA:LCS](../Page/グランド・セフト・オート・リバティーシティ・ストーリーズ.md "wikilink")』
+:: 「Tec9」の名称でフルオート改造仕様が登場。走りながら射撃が可能。
 
-::: 「Tec9」の名称でフルオート改造仕様が登場。走りながら射撃が可能。
-
-::; 『[GTAV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』
+:; 『[GTAV](https://ja.wikipedia.org/wiki/グランド・セフト・オートV "wikilink")』
 
   -
 
       -
         「マシンピストル」の名称でフルオート改造仕様が登場する。
 
-:; 『[セインツロウ](https://ja.wikipedia.org/wiki/セインツロウ "wikilink")』
+  - 『[セインツロウ](https://ja.wikipedia.org/wiki/セインツロウ "wikilink")』
 
-::; 『[セインツロウ2](https://ja.wikipedia.org/wiki/セインツロウ2 "wikilink")』
+:; 『[セインツロウ2](https://ja.wikipedia.org/wiki/セインツロウ2 "wikilink")』
 
   -
 
       -
         「T3K Urban」の名称で登場。[サブマシンガンカテゴリーの中では最も安価に購入でき](../Page/短機関銃.md "wikilink")、両作品とも全[ギャング](../Page/ギャング.md "wikilink")組織（主人公属するサードストリートセインツと、初代の3つのギャング団および『2』の3つのギャング団）の構成員たちが多く愛用する。ただし、連射性能も命中性能もほかと比べると乏しい。装弾数は50発。
 
-:; 『[バトルフィールド ハードライン](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
-
-:; 『[フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")』
-
-  -
+  - 『[バトルフィールド ハードライン](https://ja.wikipedia.org/wiki/バトルフィールド_ハードライン "wikilink")』
+    『[フォートナイト](https://ja.wikipedia.org/wiki/フォートナイト_\(ゲーム\) "wikilink")』
 
       -
         「TEC-9」という名称で存在していたが削除され、「タクティカルサブマシンガン」というTEC-9によく似たサブマシンガンが追加された。しかしまた削除され、[H\&K MP5に置き換えられた](../Page/H&K_MP5.md "wikilink")。

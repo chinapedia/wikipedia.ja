@@ -3,7 +3,7 @@
 
 **ボタフォゴFR** () 、通称**ボタフォゴ** (Botafogo) は、[ブラジル](https://ja.wikipedia.org/wiki/ブラジル "wikilink")・[リオデジャネイロ州](../Page/リオデジャネイロ州.md "wikilink")[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")を本拠地とする[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブである。
 
-[タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")優勝1回、[ブラジル全国選手権優勝](../Page/カンピオナート・ブラジレイロ.md "wikilink")1回、[リオデジャネイロ州選手権優勝](https://ja.wikipedia.org/wiki/カンピオナート・カリオカ "wikilink")20回などの実績を残した古豪。
+[タッサ・ブラジル](https://ja.wikipedia.org/wiki/タッサ・ブラジル "wikilink")優勝1回、[カンピオナート・ブラジレイロ](../Page/カンピオナート・ブラジレイロ.md "wikilink")1回、[カンピオナート・カリオカ](https://ja.wikipedia.org/wiki/カンピオナート・カリオカ "wikilink")優勝20回などの実績を残した古豪。
 
 ## 概要
 
@@ -15,7 +15,7 @@
 
 ## ライバル
 
-同じリオを本拠地とする、[フラメンゴ](../Page/CRフラメンゴ.md "wikilink")、[フルミネンセ](../Page/フルミネンセFC.md "wikilink")、[ヴァスコ・ダ・ガマとはボタフォゴを含め](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")、リオのビッグ4と呼ばれ、これらのチームとの対戦は、クラシコと呼ばれる。
+同じ[リオデジャネイロ](../Page/リオデジャネイロ.md "wikilink")を本拠地とする、[フラメンゴ](../Page/CRフラメンゴ.md "wikilink")、[フルミネンセ](../Page/フルミネンセFC.md "wikilink")、[ヴァスコ・ダ・ガマとはボタフォゴを含め](../Page/CRヴァスコ・ダ・ガマ.md "wikilink")、リオのBIG4と呼ばれ、これらのチームとの対戦はクラシコと呼ばれる。
 
 ## タイトル・表彰
 
@@ -68,7 +68,7 @@
 
 ## 現所属メンバー
 
-  - [2020年](../Page/2020年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")現在
+  - [2020年](../Page/2020年.md "wikilink")[10月1日](../Page/10月1日.md "wikilink")現在
 
 <!-- end list -->
 
@@ -76,7 +76,7 @@
 
 <!-- end list -->
 
-  - [パウロ・アウトゥオリ](../Page/パウロ・アウトゥオリ.md "wikilink")
+  - [ブルーノ・ラザロニ](https://ja.wikipedia.org/wiki/ブルーノ・ラザロニ "wikilink")
 
 ## 歴代監督
 

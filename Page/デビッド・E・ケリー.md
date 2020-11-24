@@ -30,6 +30,8 @@
   - [U.M.A レイク・プラシッド](https://ja.wikipedia.org/wiki/U.M.A_レイク・プラシッド "wikilink")（1999）
   - [ミステリー、アラスカ](https://ja.wikipedia.org/wiki/ミステリー、アラスカ "wikilink")（1999）
 
+## 脚注
+
 ## 外部リンク
 
   -

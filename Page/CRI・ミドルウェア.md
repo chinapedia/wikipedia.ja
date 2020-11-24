@@ -52,11 +52,11 @@
 旧CRIは、[CSKグループの一員で](../Page/CSK_\(企業\).md "wikilink")、[マルチメディア](../Page/マルチメディア.md "wikilink")技術の研究・開発やゲームコンテンツの開発を行っていた。CSKとは別会社であったが、「CSK総合研究所＝CSKの（社内）研究部門」という誤解や、CSK自体が他に一般消費者向けビジネスを行っていなかったことから、旧CRIを指して「CSK」と呼ぶ誤用が一般消費者の一部に見られた。
 
   - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[10月](https://ja.wikipedia.org/wiki/10月 "wikilink") - 株式会社CSK総合研究所設立。
-  - [2000年](../Page/2000年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - 同じCSKグループのセガ（後の[セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）が[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")で知られる当時の第2ソフトウェア研究開発部 (通称AM2・AM2研)を旧CRIへ営業譲渡。セガの他のソフト開発部門は同年4月に分社化されたが、AM2のみ諸般の事情で先行分離された。旧CRIでは既存部門を「CRI事業部」、AM2を「AM2事業部」とする体制がスタート。
+  - [2000年](../Page/2000年.md "wikilink")[2月16日](../Page/2月16日.md "wikilink") - 同じCSKグループの[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")が[バーチャファイター](https://ja.wikipedia.org/wiki/バーチャファイター "wikilink")で知られる当時の第2ソフトウェア研究開発部 (通称AM2・AM2研)を旧CRIへ営業譲渡。セガの他のソフト開発部門は同年4月に分社化されたが、AM2のみ諸般の事情で先行分離された。旧CRIでは既存部門を「CRI事業部」、AM2を「AM2事業部」とする体制がスタート。
   - [2001年](../Page/2001年.md "wikilink")[8月1日](../Page/8月1日.md "wikilink") - 旧CRIは社名を**株式会社[SEGA-AM2](https://ja.wikipedia.org/wiki/SEGA-AM2 "wikilink")**に変更。同時に**株式会社CRI・ミドルウェア**を設立し、ミドルウェアの研究開発・販売事業を移管。セガの家庭用ハードウェア撤退に伴い、ミドルウェアのマルチプラットフォーム化を推進するため、CSKおよびセガグループから独立した。
   - [2004年](../Page/2004年.md "wikilink")[7月1日](../Page/7月1日.md "wikilink") - セガがSEGA-AM2（後の[セガ・インタラクティブ](https://ja.wikipedia.org/wiki/セガ・インタラクティブ "wikilink")第二研究開発本部）を含めたソフト開発子会社を吸収合併。
 
-このような経緯をたどった結果、マルチメディア技術の研究・開発は**CRI・ミドルウェア**に、ゲームコンテンツの開発は**セガ**（後のセガゲームス並びにセガ・インタラクティブ）にそれぞれ継承されている。
+このような経緯をたどった結果、マルチメディア技術の研究・開発は**CRI・ミドルウェア**に、ゲームコンテンツの開発は**セガ**にそれぞれ継承されている。
 
 ### CRI・ミドルウェア
 
@@ -85,7 +85,7 @@
   - ダイナブラザーズ2（1993年12月3日、上記の続編、メガドライブ）
       - 2019年9月19日、セガが世界同時発売した復刻系ゲーム機・[メガドライブ ミニにプリインストールされる](https://ja.wikipedia.org/wiki/メガドライブ_ミニ "wikilink")42作品の一つとして、[セガチャンネル用に増補した](https://ja.wikipedia.org/wiki/メガドライブ#ネットワーク事業 "wikilink")「セガチャンネルスペシャル版」が収録された（日本版のみ）。
   - [ゆみみみっくす](../Page/ゆみみみっくす.md "wikilink")（1993年12月10日、同名の[ゲームアーツ](../Page/ゲームアーツ.md "wikilink")作品の移植、FM TOWNS）
-  - [ウィングコマンダー](../Page/ウィングコマンダー.md "wikilink")（1994年3月25日、同名のPC作品の移植（ゲームアーツと共同で担当、販売は[SEGA](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")）、メガCD）
+  - [ウィングコマンダー](../Page/ウィングコマンダー.md "wikilink")（1994年3月25日、同名のPC作品の移植（ゲームアーツと共同で担当、販売は[セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")）、メガCD）
   - [2度あることはサンドア～ル](https://ja.wikipedia.org/wiki/2度あることはサンドア～ル "wikilink")（1996年4月5日、同名アーケードゲームの移植、[セガサターン](../Page/セガサターン.md "wikilink")）
   - ゆみみみっくす+だいなあいらん予告編（1998年3月27日、同名のゲームアーツ作品の移植、[Windows 95](https://ja.wikipedia.org/wiki/Windows_95 "wikilink")）
   - [だいなあいらん](../Page/だいなあいらん.md "wikilink")（1998年4月24日、同名のゲームアーツ作品の移植、Windows 95）
@@ -119,7 +119,7 @@
 ## 関連項目
 
   - [CSK](../Page/CSK_\(企業\).md "wikilink")
-  - [セガゲームス](https://ja.wikipedia.org/wiki/セガゲームス "wikilink")
+  - [セガ](https://ja.wikipedia.org/wiki/セガ "wikilink")
 
 ## 外部リンク
 

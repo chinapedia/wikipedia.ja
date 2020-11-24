@@ -1,15 +1,17 @@
 > この記事は[銀河パトロールPJ](https://ja.wikipedia.org/wiki/銀河パトロールPJ)から翻訳されています。
 
 
-**銀河パトロールPJ** (ぎんがパトロールピージェー、仏文：**Il était une fois... l'Espace**) は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[Procidisと日本の](https://ja.wikipedia.org/wiki/:fr:Procidis "wikilink")[エイケンの共同制作による](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
+**銀河パトロールPJ** (ぎんがパトロールピージェー、仏文：**Il était une fois... l'Espace**) は、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")の[Procidisと日本の](https://ja.wikipedia.org/wiki/:fr:Procidis "wikilink")[エイケンの共同制作による](../Page/エイケン_\(企業\).md "wikilink")[テレビアニメ](https://ja.wikipedia.org/wiki/テレビアニメ "wikilink")である。
 
 ## 概要
 
-[1982年](../Page/1982年.md "wikilink")制作、1話25分で、全26話の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")である。地球の属するオメガ連盟と、カシオペア軍事共和国、強大なコンピューターに操られたロボット軍団など、銀河の大国同士の衝突を描く。Procidisが[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に制作した『Il était une fois... l'Homme』(アニメーション制作は[タツノコ](https://ja.wikipedia.org/wiki/竜の子プロダクション "wikilink")) に続く「Il était une fois...」シリーズの第二弾で、キャラクターデザインは前作のものを流用している。ストーリーとデザインをフランスが、それ以降の実作業を日本が担当した。[エイケンでは続編の](https://ja.wikipedia.org/wiki/エイケン_\(企業\) "wikilink")『Il était une fois... la Vie、邦題：[生命の科学ミクロパトロール](https://ja.wikipedia.org/wiki/生命の科学ミクロパトロール "wikilink")』以降も制作している。
+[1982年](../Page/1982年.md "wikilink")制作、1話25分で、全26話の[SFアニメ](https://ja.wikipedia.org/wiki/SFアニメ "wikilink")である。地球の属するオメガ連盟と、カシオペア軍事共和国、強大なコンピューターに操られたロボット軍団など、銀河の大国同士の衝突を描く。Procidisが[1978年](https://ja.wikipedia.org/wiki/1978年 "wikilink")に制作した『Il était une fois... l'Homme』(アニメーション制作は[タツノコ](https://ja.wikipedia.org/wiki/竜の子プロダクション "wikilink")) に続く「Il était une fois...」シリーズの第二弾で、キャラクターデザインは前作のものを流用している。ストーリーとデザインをフランスが、それ以降の実作業を日本が担当した。[エイケンでは続編の](../Page/エイケン_\(企業\).md "wikilink")『Il était une fois... la Vie、邦題：[生命の科学ミクロパトロール](https://ja.wikipedia.org/wiki/生命の科学ミクロパトロール "wikilink")』以降も制作している。
 
 フランスでは[1982年](../Page/1982年.md "wikilink")[10月9日](../Page/10月9日.md "wikilink")から[FR3にて放送された](https://ja.wikipedia.org/wiki/フランス3 "wikilink")。日本では[1984年](../Page/1984年.md "wikilink")[7月17日](../Page/7月17日.md "wikilink")から[1984年](../Page/1984年.md "wikilink")[8月22日](../Page/8月22日.md "wikilink")に[フジテレビで](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")[平日](../Page/平日.md "wikilink")6:00 - 6:30\[1\]に放送された。その後、[2006年](../Page/2006年.md "wikilink")6月に[AT-Xで再放送された](../Page/アニメシアターX.md "wikilink")。
 
 ## あらすじ
+
+様々な生命が共存するオメガ平和惑星連合の平和を守る銀河パトロールに所属するジムやプティらが、宇宙船コスモポリタン号やコリブリ号に乗って、さまざまな事件に立ち向かう。彼らは殺傷能力のある武器を用いずに、知恵と勇気で問題を解決して異業種生命体との共存へと導いていく。
 
 ## 登場人物
 

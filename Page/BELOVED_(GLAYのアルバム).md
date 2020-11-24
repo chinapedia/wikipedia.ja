@@ -89,17 +89,18 @@
       -
         この曲の原型はTAKUROが中学生のときに出来ており、20歳ぐらいの時に作られた\[18\]。当時はメロディーが年齢的な部分で中々歌えなかったが、今回出すのが一番いいだろうと考え、本作に収録された\[19\]。歌詞は武道館ライブ\[20\]明けに書かれたもの\[21\]。
         また、本曲は[YOSHIKI](../Page/YOSHIKI.md "wikilink")にも絶賛されたといわれている。ベストアルバム『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にも収録された。
+        [城田優](https://ja.wikipedia.org/wiki/城田優 "wikilink")が自身初となるJ-POPカバーアルバム『Mirage』にて、この曲をカバーした\[22\]。
 11. **都忘れ**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        この曲が出来たのは「[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")」とほぼ同時期であり、どちらをシングルとするかで悩んだという\[22\]。なお、タイトルが[演歌](../Page/演歌.md "wikilink")のようだという理由で一度はメンバーから収録を反対されたものの、「**このアルバムで一番自信のある部分**」ということでTAKUROが収録を押し切った。
+        この曲が出来たのは「[グロリアス](../Page/グロリアス_\(GLAYの曲\).md "wikilink")」とほぼ同時期であり、どちらをシングルとするかで悩んだという\[23\]。なお、タイトルが[演歌](../Page/演歌.md "wikilink")のようだという理由で一度はメンバーから収録を反対されたものの、「**このアルバムで一番自信のある部分**」ということでTAKUROが収録を押し切った。
 12. **RHAPSODY**
       - 作詞・作曲：TAKURO / 編曲：GLAY、佐久間正英
     <!-- end list -->
       -
-        8ビート系のアップテンポナンバー。元々GLAYは80年代のビートものが好きで始めたバンドであるが、この手の8ビートは既に出尽くした感があったため、これまでGLAYでやるのを敢えて避けていた\[23\]\[24\]。しかし、やっぱり自分たちが気持ちよかったり、楽しくなれるものは素直にやろうと思い、この楽曲が作られた\[25\]。そのため、JIROとHISASHIは、「究極の開き直りソング」と呼んでいる\[26\]。
-        本来は「都忘れ」を最後とするつもりであったが、「激しい曲で終わらせよう」ということでこの曲が最終曲になった。TAKUROは[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")制作後に、この曲が好きになったという\[27\]。ベスト・アルバム『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』にも収録されている。函館時代にも同名のタイトルの曲があり、デモテープ「[SCANDAL 5TH IMAGES](https://ja.wikipedia.org/wiki/SCANDAL_5TH_IMAGES "wikilink")」「[Rose Color](https://ja.wikipedia.org/wiki/Rose_Color "wikilink")」に収録されているが、こちらは全く異なる曲である。
+        8ビート系のアップテンポナンバー。元々GLAYは80年代のビートものが好きで始めたバンドであるが、この手の8ビートは既に出尽くした感があったため、これまでGLAYでやるのを敢えて避けていた\[24\]\[25\]。しかし、やっぱり自分たちが気持ちよかったり、楽しくなれるものは素直にやろうと思い、この楽曲が作られた\[26\]。そのため、JIROとHISASHIは、「究極の開き直りソング」と呼んでいる\[27\]。
+        本来は「都忘れ」を最後とするつもりであったが、「激しい曲で終わらせよう」ということでこの曲が最終曲になった。TAKUROは[ミュージック・ビデオ](../Page/ミュージック・ビデオ.md "wikilink")制作後に、この曲が好きになったという\[28\]。ベスト・アルバム『[REVIEW-BEST OF GLAY](../Page/REVIEW-BEST_OF_GLAY.md "wikilink")』にも収録されている。函館時代にも同名のタイトルの曲があり、デモテープ「[SCANDAL 5TH IMAGES](https://ja.wikipedia.org/wiki/SCANDAL_5TH_IMAGES "wikilink")」「[Rose Color](https://ja.wikipedia.org/wiki/Rose_Color "wikilink")」に収録されているが、こちらは全く異なる曲である。
 
 ## BELOVED Anthology
 
@@ -110,9 +111,9 @@
 ### 概要
 
   - アンソロジーシリーズとしては5作目。
-  - 2CD+1DVDの3枚組と、当時の貴重な資料を収めたブックレット付\[28\]。DISC1にはアルバム『BELOVED』の全曲と、10th「a Boy〜ずっと忘れない〜」のカップリング「neuromancer」、そして11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」の2曲を追加し、リミックス・リマスタリングを施した音源を収録。エンジニアはマイケル・ツィマリング\[29\]。
-  - DISC2にはDISC1収録曲のデモ音源を収録。そしてDISC3はDVDになっており、「BELOVED」に関するインタビューと[永井利光](../Page/永井利光.md "wikilink")や、数々のGLAY映像作品を手掛けた[翁長裕](https://ja.wikipedia.org/wiki/翁長裕 "wikilink")監督の秘蔵プライベート映像を編集したドキュメンタリー映像とメンバーコメンタリーを収録\[30\]。
-  - オリコン週間アルバムチャート(2017年10月02日付)では、初週で6,352枚を売り上げ9位を獲得\[31\]\[32\]。
+  - 2CD+1DVDの3枚組と、当時の貴重な資料を収めたブックレット付\[29\]。DISC1にはアルバム『BELOVED』の全曲と、10th「a Boy〜ずっと忘れない〜」のカップリング「neuromancer」、そして11thシングル「[口唇](../Page/口唇_\(GLAYの曲\).md "wikilink")」の2曲を追加し、リミックス・リマスタリングを施した音源を収録。エンジニアはマイケル・ツィマリング\[30\]。
+  - DISC2にはDISC1収録曲のデモ音源を収録。そしてDISC3はDVDになっており、「BELOVED」に関するインタビューと[永井利光](../Page/永井利光.md "wikilink")や、数々のGLAY映像作品を手掛けた[翁長裕](https://ja.wikipedia.org/wiki/翁長裕 "wikilink")監督の秘蔵プライベート映像を編集したドキュメンタリー映像とメンバーコメンタリーを収録\[31\]。
+  - オリコン週間アルバムチャート(2017年10月02日付)では、初週で6,352枚を売り上げ9位を獲得\[32\]\[33\]。
 
 ### 収録曲
 
@@ -137,7 +138,7 @@
         10thシングル「a Boy〜ずっと忘れない〜」のカップリング曲。
 14. **口唇**
       -
-        11thシングル。本作にはピアノイントロが追加されている\[33\]。
+        11thシングル。本作にはピアノイントロが追加されている\[34\]。
 
 #### Disc 2
 
@@ -195,13 +196,14 @@
 21.
 22.
 23.
-24. 『feature3月号増刊 別冊カドカワ GLAY』「スピリチュアル・メッセージ/TAKURO ～日常に存在するドラマ～」(P142～147)より
-25.
+24.
+25. 『feature3月号増刊 別冊カドカワ GLAY』「スピリチュアル・メッセージ/TAKURO ～日常に存在するドラマ～」(P142～147)より
 26.
-27. 『feature3月号増刊 別冊カドカワ GLAY』「『REVIEW』で振り返るあの頃のGLAY」(P270～275)より
-28.
+27.
+28. 『feature3月号増刊 別冊カドカワ GLAY』「『REVIEW』で振り返るあの頃のGLAY」(P270～275)より
 29.
 30.
 31.
 32.
-33. ベストアルバム『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にて収録されているもの。
+33.
+34. ベストアルバム『[THE GREAT VACATION VOL.2 〜SUPER BEST OF GLAY〜](https://ja.wikipedia.org/wiki/THE_GREAT_VACATION_VOL.2_〜SUPER_BEST_OF_GLAY〜 "wikilink")』にて収録されているもの。

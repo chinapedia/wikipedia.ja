@@ -2035,7 +2035,7 @@
 <td><p>135</p></td>
 <td><p>04月20日</p></td>
 <td><p><span style="display:none">ね04</span><a href="https://ja.wikipedia.org/wiki/ネクロスの要塞_(ゲーム)" title="wikilink">ネクロスの要塞</a></p></td>
-<td><p><a href="../Page/アスク.md" title="wikilink">アスク</a>講談社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アスク_(出版社)" title="wikilink">アスク講談社</a></p></td>
 <td><p>HC</p></td>
 <td><p>RPG</p></td>
 <td></td>
@@ -4393,7 +4393,7 @@
 <td><p>301</p></td>
 <td><p>11月22日</p></td>
 <td><p><span style="display:none">も10</span><a href="https://ja.wikipedia.org/wiki/モンスタープロレス" title="wikilink">モンスタープロレス</a></p></td>
-<td><p><a href="../Page/アスク.md" title="wikilink">アスク</a>講談社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アスク_(出版社)" title="wikilink">アスク講談社</a></p></td>
 <td><p>HC</p></td>
 <td><p>SPT</p></td>
 <td></td>
@@ -4964,7 +4964,7 @@
 <td></td>
 <td></td>
 <td></td>
-<td></td>
+<td><p>○</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -6302,7 +6302,7 @@
 <td><p>435</p></td>
 <td><p>12月18日</p></td>
 <td><p><span style="display:none">し28</span><a href="../Page/上海_(ゲーム).md" title="wikilink">上海III ドラゴンズアイ</a></p></td>
-<td><p><a href="../Page/アスク.md" title="wikilink">アスク</a>講談社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アスク_(出版社)" title="wikilink">アスク講談社</a></p></td>
 <td><p>SC</p></td>
 <td><p>PZL</p></td>
 <td></td>
@@ -7077,7 +7077,7 @@
 <td><p>488</p></td>
 <td><p>07月16日</p></td>
 <td><p><span style="display:none">1552</span><a href="https://ja.wikipedia.org/wiki/1552天下大乱" title="wikilink">1552天下大乱</a></p></td>
-<td><p><a href="../Page/アスク.md" title="wikilink">アスク</a>講談社</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アスク_(出版社)" title="wikilink">アスク講談社</a></p></td>
 <td><p>SC</p></td>
 <td><p>SLG</p></td>
 <td></td>

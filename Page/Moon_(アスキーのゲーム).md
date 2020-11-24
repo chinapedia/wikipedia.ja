@@ -5,7 +5,7 @@
 
 粘土細工のような[キャラクター](../Page/キャラクター.md "wikilink")、[童話](../Page/童話.md "wikilink")のような[ストーリー](https://ja.wikipedia.org/wiki/ストーリー "wikilink")、ゲーム内に存在する「MD（MoonDisk）」を入手することで楽しめる様々なジャンルの[BGM](../Page/バックグラウンドミュージック.md "wikilink")、そして冒険的なテーマを持つ、従来のRPGに異を唱えることを主題としたゲームである。
 
-廉価版発売後、長らく他機種への移植は行われなかったが、「[Nintendo Direct](https://ja.wikipedia.org/wiki/Nintendo_Direct "wikilink") 2019.9.5」にて[Nintendo Switch用ダウンロードタイトルとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[2019年](../Page/2019年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")より配信することが発表された\[1\]。オリジナル版スタッフである[木村祥朗](https://ja.wikipedia.org/wiki/木村祥朗 "wikilink")、[倉島一幸](https://ja.wikipedia.org/wiki/倉島一幸 "wikilink")、安達昌宣、谷口博史監修の元、完全移植を目指して作られており、当時容量の都合でモノラルだった楽曲がステレオ音声へと対応した以外の変更点や追加要素はない\[2\]\[3\]。[2020年](../Page/2020年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")には、開発資料などを同梱したパッケージ版『moon PREMIUM EDITION』も発売予定\[4\]。
+廉価版発売後、長らく他機種への移植は行われなかったが、「[Nintendo Direct](https://ja.wikipedia.org/wiki/Nintendo_Direct "wikilink") 2019.9.5」にて[Nintendo Switch用ダウンロードタイトルとして](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")、[2019年](../Page/2019年.md "wikilink")[10月10日](../Page/10月10日.md "wikilink")より配信することが発表された\[1\]。オリジナル版スタッフである[木村祥朗](https://ja.wikipedia.org/wiki/木村祥朗 "wikilink")、[倉島一幸](https://ja.wikipedia.org/wiki/倉島一幸 "wikilink")、安達昌宣、谷口博史監修の元、完全移植を目指して作られており、当時容量の都合でモノラルだった楽曲がステレオ音声へと対応した以外の変更点や追加要素はない\[2\]\[3\]。[2020年](../Page/2020年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")には、開発資料などを同梱したパッケージ版『moon PREMIUM EDITION』も発売された\[4\]。
 
 当初は日本国内のみで発売されたタイトルだったが、Nintendo Switch版は2020年[8月27日](../Page/8月27日.md "wikilink")に日本国外での配信が行われた\[5\]。
 
@@ -275,7 +275,7 @@
     外部リンクをクリックすると10年後のバーンが出迎える。試聴も可能である。
     [olio music](http://olio-music.jp/doc/specialissue/closeup11/index.html)（2007/12/20 配信終了）
   - EX-PO ’97 In memoriam the moondays
-    受注販売で2020年10月より発売予定。全95曲、総尺5時間超のトータルコンセプトアルバム。これまで未収録だった音源を収録した完全版サウンドトラック。CD5枚組＋3つのオリジナルスペシャルギフト同梱の豪華BOX仕様。
+    受注販売で2020年10月に発売された。全95曲、総尺5時間超のトータルコンセプトアルバム。これまで未収録だった音源を収録した完全版サウンドトラック。CD5枚組＋3つのオリジナルスペシャルギフト同梱の豪華BOX仕様。
 
 ## 攻略本
 

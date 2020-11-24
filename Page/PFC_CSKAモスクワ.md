@@ -120,8 +120,6 @@ CSKAモスクワの最大のライバルは[FCスパルタク・モスクワ](..
   -
   -
   -
-  - [CSKAモスクワ非公式ファンサイト](http://cskamoskva.ru/) -
-
 [Category:PFC_CSKAモスクワ](https://ja.wikipedia.org/wiki/Category:PFC_CSKAモスクワ "wikilink") [Category:ロシアのサッカークラブ](https://ja.wikipedia.org/wiki/Category:ロシアのサッカークラブ "wikilink") [Category:モスクワのサッカークラブ](https://ja.wikipedia.org/wiki/Category:モスクワのサッカークラブ "wikilink")
 
 1.  以前は、軍傘下のスポーツクラブであったが現在では軍との関係は無く独立したクラブとなっており名称だけ前身の名残が残っている。

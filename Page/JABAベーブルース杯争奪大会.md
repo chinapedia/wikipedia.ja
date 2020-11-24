@@ -205,7 +205,7 @@
 </tr>
 <tr class="even">
 <td><p>1972年（第26回）</p></td>
-<td><p><strong><a href="../Page/日本軽金属.md" title="wikilink">日本軽金属</a></strong></p></td>
+<td><p><strong><a href="https://ja.wikipedia.org/wiki/日本軽金属硬式野球部" title="wikilink">日本軽金属</a></strong></p></td>
 <td><p><strong>8</strong>-0</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/新日本製鐵釜石硬式野球部" title="wikilink">新日鉄釜石</a></p></td>
 <td></td>

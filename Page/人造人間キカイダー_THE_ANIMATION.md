@@ -286,7 +286,7 @@
 
 ## 外部リンク
 
-  - [人造人間キカイダー THE ANIMATION公式サイト](http://www.sonymusic.co.jp/Animation/Kikaider/)
+  - [人造人間キカイダー THE ANIMATION公式サイト](https://www.sonymusic.co.jp/Animation/Kikaider/)
   - [人造人間キカイダー THE ANIMATION 公式HP (TOKYO MX)](http://www.mxtv.co.jp/kikaida/)
 
 [Category:人造人間キカイダー](https://ja.wikipedia.org/wiki/Category:人造人間キカイダー "wikilink") [Category:アニメ作品_し](https://ja.wikipedia.org/wiki/Category:アニメ作品_し "wikilink") [Category:キッズステーションのアニメ](https://ja.wikipedia.org/wiki/Category:キッズステーションのアニメ "wikilink") [Category:アニプレックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:アニプレックスのアニメ作品 "wikilink") [Category:2000年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:2000年のテレビアニメ "wikilink") [Category:石ノ森章太郎のアニメ作品](https://ja.wikipedia.org/wiki/Category:石ノ森章太郎のアニメ作品 "wikilink")

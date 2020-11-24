@@ -28,11 +28,101 @@
 
 ## 日本
 
-**JTACS**は、[基地局](https://ja.wikipedia.org/wiki/基地局 "wikilink")を低周波数・移動局を高周波数・間隔を55MHzにしたTACSの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")向け仕様であり、[1989年](../Page/1989年.md "wikilink")から[DDIセルラーグループ](../Page/DDIセルラーグループ.md "wikilink")（現・[KDDI](../Page/KDDI.md "wikilink")/[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink") [各auブランド](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")）が導入した。**NTACS**は、搬送波の周波数間隔を12.5kHz（6.25kHzインタリーブ）にして大容量化したものであり、[1991年](../Page/1991年.md "wikilink")から[日本移動通信](../Page/日本移動通信.md "wikilink")が首都圏・東海地方でサービスを開始した。後に、共に[auとなった](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")。
+**J-TACS**は、TACSの[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")向け仕様で、使用する周波数を日本の割り当てに合わせて変更したものである\[1\]。[1989年](../Page/1989年.md "wikilink")から[DDIセルラーグループ](../Page/DDIセルラーグループ.md "wikilink")（現・[KDDI](../Page/KDDI.md "wikilink")/[沖縄セルラー電話](../Page/沖縄セルラー電話.md "wikilink")[連合](https://ja.wikipedia.org/wiki/連合 "wikilink") [各auブランド](https://ja.wikipedia.org/wiki/au_\(通信\) "wikilink")）が導入した。また**N-TACS**は、搬送波の周波数間隔を12.5kHz（6.25kHzインタリーブ）にして大容量化したものである。[日米貿易摩擦](../Page/日米貿易摩擦.md "wikilink")に伴う1985年の[日米構造協議](https://ja.wikipedia.org/wiki/日米構造協議 "wikilink")での合意により\[2\]、[1991年](../Page/1991年.md "wikilink")10月から[日本移動通信](../Page/日本移動通信.md "wikilink")が首都圏・東海地方でTACSベースのシステムとしてサービスを開始した。後に、共に[auとなった](https://ja.wikipedia.org/wiki/au_\(携帯電話\) "wikilink")。
 
 一時期は地域によっては高いシェアを獲得していたが（特に東北、および北海道、関西地方）、[デジタル](../Page/デジタル.md "wikilink")方式（[PDC](../Page/PDC.md "wikilink")/[cdmaOne](https://ja.wikipedia.org/wiki/cdmaOne "wikilink")）への移行で[2000年](../Page/2000年.md "wikilink")[9月30日](../Page/9月30日.md "wikilink")（現在のKDDIが発足する前日）限りで停波し（新規受付は[1999年](../Page/1999年.md "wikilink")8月に終了）、日本における第一世代（アナログ）携帯電話はすべて消滅した。なおIDOはサービス開始当初はTokyo Phone（トウキョウ フォン）、のちにTacs minimo（タックス ミニモ.のちに参入する[東京デジタルホンに配慮した改称](https://ja.wikipedia.org/wiki/ソフトバンクモバイル#9地域会社時代の各社の業務区域 "wikilink")）、セルラー各社はセルラーホンと呼ばれた。最後に発売された端末は、1997年9月に発売された「HP-50T（[東芝](../Page/東芝.md "wikilink")）」であった。
 
 また、それまで[NTTドコモ](https://ja.wikipedia.org/wiki/NTTドコモ "wikilink")・日本移動通信で採用されていたアナログの[NTT大容量方式](../Page/NTT大容量方式.md "wikilink") (Hicap) に対し、**モトローラ方式**と呼ばれることもある。
+
+<table>
+<caption>各種方式の比較[3]</caption>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><p>AMPS</p></td>
+<td><p>NTT方式</p></td>
+<td><p>NTT大容量方式</p></td>
+<td><p>TACS</p></td>
+<td><p>J-TACS</p></td>
+<td><p>N-TACS</p></td>
+</tr>
+<tr class="even">
+<td><p>送信周波数</p></td>
+<td><p>基地局</p></td>
+<td><p>870-890MHz</p></td>
+<td><p>870-885MHz</p></td>
+<td><p>860-885MHz</p></td>
+<td><p>890-915MHz</p></td>
+<td><p>860-870MHz</p></td>
+</tr>
+<tr class="odd">
+<td><p>移動局</p></td>
+<td><p>825-845MHz</p></td>
+<td><p>925-940MHz</p></td>
+<td><p>915-940MHz</p></td>
+<td><p>968-960MHz</p></td>
+<td><p>915-925MHz</p></td>
+<td><p>915-925MHz<br />
+989-901MHz</p></td>
+</tr>
+<tr class="even">
+<td><p>無線チャネル</p></td>
+<td><p>チャネル間隔</p></td>
+<td><p>60kHzインターリブ</p></td>
+<td><p>55kHz</p></td>
+<td><p>12.5kHz</p></td>
+<td><p>25kHzインターリブ</p></td>
+<td><p>12.5kHzインターリブ</p></td>
+</tr>
+<tr class="odd">
+<td><p>チャネル数</p></td>
+<td><p>666</p></td>
+<td><p>600</p></td>
+<td><p>2000</p></td>
+<td><p>666</p></td>
+<td><p>600</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>通信変調方式</p></td>
+<td><p>変調方式</p></td>
+<td><p><a href="../Page/位相変調.md" title="wikilink">位相変調</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>周波数偏移</p></td>
+<td><p>12kHz</p></td>
+<td><p>5kHz</p></td>
+<td><p>-</p></td>
+<td><p>9.5kHz</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>制御信号</p></td>
+<td><p>変調方式</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/周波数偏移変調" title="wikilink">周波数偏移変調</a></p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>最大周波数遷移</p></td>
+<td><p>8kHz</p></td>
+<td><p>4.5kHz</p></td>
+<td><p>2.4kHz</p></td>
+<td><p>6.4kHz</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+## 脚注
 
 ## 関連項目
 
@@ -40,3 +130,7 @@
   - [CDPD](https://ja.wikipedia.org/wiki/CDPD "wikilink")
 
 [Category:携帯電話の通信規格](https://ja.wikipedia.org/wiki/Category:携帯電話の通信規格 "wikilink")
+
+1.  佐藤拓朗「[1G/2Gから3G携帯電話への道のり](https://www.rf-world.jp/bn/RFW02/samples/p015-016.pdf)」『RFワールド No.2』 CQ出版社、2008年6月 、16ページ
+2.  「[Japan - Measures Affecting the Purchase of Telecommunications Equipment (EC) (DS15)](https://www.mofa.go.jp/policy/economy/wto/cases/WTDS15-1.pdf)」WTO、1995年8月24日
+3.

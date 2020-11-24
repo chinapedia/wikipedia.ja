@@ -172,7 +172,7 @@
 
 ## 外部リンク
 
-  - [RADIO-X](http://web.archive.org/web/20080308215906/http://w2.radiox.jp/w_index.html) - 閉鎖。（2008年3月8日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
+  - [RADIO-X](https://web.archive.org/web/20080308215906/http://w2.radiox.jp/w_index.html) - 閉鎖。（2008年3月8日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
   - [FM NACK5](http://www.nack5.co.jp)
 
 [Category:NACK5の帯番組](https://ja.wikipedia.org/wiki/Category:NACK5の帯番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink")

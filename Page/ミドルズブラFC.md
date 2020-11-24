@@ -298,9 +298,9 @@
 
 [350px](https://ja.wikipedia.org/wiki/ファイル:Soccer_Field_Transparant.svg "wikilink")
 
-  - [2020年](../Page/2020年.md "wikilink")[1月16日](https://ja.wikipedia.org/wiki/1月16日 "wikilink")現在\[4\]
+  - [2020年](../Page/2020年.md "wikilink")[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")現在\[4\]
 
-
+([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_England.svg "wikilink"))                  ★
 
 ※括弧内の国旗はその他の保有国籍を、星印はEU圏外選手を示す。
 

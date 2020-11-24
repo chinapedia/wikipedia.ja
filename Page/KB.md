@@ -17,7 +17,7 @@
 
 ## 略語・略称
 
-  - [キーボード](https://ja.wikipedia.org/wiki/キーボード "wikilink")（keyboard）の略。⇒[キーボード (楽器)](../Page/キーボード_\(楽器\).md "wikilink")、[キーボード (コンピュータ)](../Page/キーボード_\(コンピュータ\).md "wikilink")
+  - [キーボード](https://ja.wikipedia.org/wiki/キーボード_\(曖昧さ回避\) "wikilink")（keyboard）の略。⇒[キーボード (楽器)](../Page/キーボード_\(楽器\).md "wikilink")、[キーボード (コンピュータ)](../Page/キーボード_\(コンピュータ\).md "wikilink")
   - [知識ベース](../Page/知識ベース.md "wikilink")（ナレッジベース、knowledge base）の略。
   - Korean Boatの略。[不審船](../Page/不審船.md "wikilink")を参照。
   - [NHK](https://ja.wikipedia.org/wiki/日本放送協会 "wikilink")『[爆笑オンエアバトル](../Page/爆笑オンエアバトル.md "wikilink")』及び後継番組『[オンバト+](https://ja.wikipedia.org/wiki/オンバト+ "wikilink")』の採点方法（キロバトル）。

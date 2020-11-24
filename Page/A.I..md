@@ -64,18 +64,18 @@
 |                  |                                                                   |                                                       |
 
   - ソフト版吹き替え - [VHS](../Page/VHS.md "wikilink")・[DVD](../Page/DVD.md "wikilink")・[BD収録](../Page/Blu-ray_Disc.md "wikilink")
-  - TBS版吹き替え - 初回放送2005年1月12日『[水曜プレミア](../Page/水曜プレミア.md "wikilink")』(20:00-22:54)※ノーカット放送
+  - TBS版吹き替え - 初回放送2005年1月12日『[水曜プレミア](../Page/水曜プレミア.md "wikilink")』（20:00-22:54）※ノーカット放送
 
 ## スタッフ
 
-  - 製作:スティーヴン・スピルバーグ、[キャスリーン・ケネディ](../Page/キャスリーン・ケネディ.md "wikilink")、[ボニー・カーティス](https://ja.wikipedia.org/wiki/ボニー・カーティス "wikilink")
-  - 監督・脚本:スティーヴン・スピルバーグ
-  - プロダクション:アンブリン、スタンリー・キューブリック
-  - 原作:[ブライアン・オールディス](../Page/ブライアン・オールディス.md "wikilink")「スーパートイズ」（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")発表）
-  - VFX:[インダストリアル・ライト&マジック](../Page/インダストリアル・ライト&マジック.md "wikilink")
-  - VFXスーパーバイザー:[デニス・ミューレン](../Page/デニス・ミューレン.md "wikilink")
-  - クリーチャー・スーパーバイザー:[スタン・ウィンストン](../Page/スタン・ウィンストン.md "wikilink")
-  - 音楽:[ジョン・ウィリアムズ](../Page/ジョン・ウィリアムズ_\(作曲家\).md "wikilink")
+  - 製作：スティーヴン・スピルバーグ、[キャスリーン・ケネディ](../Page/キャスリーン・ケネディ.md "wikilink")、[ボニー・カーティス](https://ja.wikipedia.org/wiki/ボニー・カーティス "wikilink")
+  - 監督・脚本：スティーヴン・スピルバーグ
+  - プロダクション：アンブリン、スタンリー・キューブリック
+  - 原作：[ブライアン・オールディス](../Page/ブライアン・オールディス.md "wikilink")「スーパートイズ」（[1969年](https://ja.wikipedia.org/wiki/1969年 "wikilink")発表）
+  - VFX：[インダストリアル・ライト&マジック](../Page/インダストリアル・ライト&マジック.md "wikilink")
+  - VFXスーパーバイザー：[デニス・ミューレン](../Page/デニス・ミューレン.md "wikilink")
+  - クリーチャー・スーパーバイザー：[スタン・ウィンストン](../Page/スタン・ウィンストン.md "wikilink")
+  - 音楽：[ジョン・ウィリアムズ](../Page/ジョン・ウィリアムズ_\(作曲家\).md "wikilink")
 
 ## 作品解説
 
@@ -97,11 +97,15 @@
 
   - [【ワーナー公式】映画（ブルーレイ,DVD & 4K UHD/デジタル配信） | A.I.](https://warnerbros.co.jp/home_entertainment/detail.php?title_id=4383)
 
+  - [A.I. (1枚組) | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=43227)（DVD・セル商品（2010年4月21日発売））
+
+  - [A.I. 特別版 | NBCユニバーサル・エンターテイメントジャパン](http://db2.nbcuni.co.jp/contents/hp0002/list.php?CNo=2&AgentProCon=42364)（DVD・セル商品（2002年3月8日発売））
+
   -
   -
   -
   -
-[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:テクノスリラー映画](https://ja.wikipedia.org/wiki/Category:テクノスリラー映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:ロボットを題材とした映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材とした映画 "wikilink") [Category:ロボットを主人公にした作品](https://ja.wikipedia.org/wiki/Category:ロボットを主人公にした作品 "wikilink") [Category:文明崩壊後の世界が描かれた映画作品](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれた映画作品 "wikilink") [Category:マンハッタンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マンハッタンを舞台とした映画作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:ドリームワークスの作品](https://ja.wikipedia.org/wiki/Category:ドリームワークスの作品 "wikilink") [Category:アンブリン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:アンブリン・エンターテインメントの作品 "wikilink") [Category:スティーヴン・スピルバーグの監督映画](https://ja.wikipedia.org/wiki/Category:スティーヴン・スピルバーグの監督映画 "wikilink") [Category:ジョン・ウィリアムズの作曲映画](https://ja.wikipedia.org/wiki/Category:ジョン・ウィリアムズの作曲映画 "wikilink") [Category:人工知能を題材としたフィクション作品](https://ja.wikipedia.org/wiki/Category:人工知能を題材としたフィクション作品 "wikilink") [Category:サターン賞受賞作品](https://ja.wikipedia.org/wiki/Category:サターン賞受賞作品 "wikilink")
+[Category:2001年の映画](https://ja.wikipedia.org/wiki/Category:2001年の映画 "wikilink") [Category:アメリカ合衆国のSF映画作品](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国のSF映画作品 "wikilink") [Category:ロボットを題材とした映画](https://ja.wikipedia.org/wiki/Category:ロボットを題材とした映画 "wikilink") [Category:テクノスリラー映画](https://ja.wikipedia.org/wiki/Category:テクノスリラー映画 "wikilink") [Category:人工知能を題材とした映画作品](https://ja.wikipedia.org/wiki/Category:人工知能を題材とした映画作品 "wikilink") [Category:ロボットを主人公にした作品](https://ja.wikipedia.org/wiki/Category:ロボットを主人公にした作品 "wikilink") [Category:文明崩壊後の世界が描かれた映画作品](https://ja.wikipedia.org/wiki/Category:文明崩壊後の世界が描かれた映画作品 "wikilink") [Category:マンハッタンを舞台とした映画作品](https://ja.wikipedia.org/wiki/Category:マンハッタンを舞台とした映画作品 "wikilink") [Category:ワーナー・ブラザースの作品](https://ja.wikipedia.org/wiki/Category:ワーナー・ブラザースの作品 "wikilink") [Category:ドリームワークスの作品](https://ja.wikipedia.org/wiki/Category:ドリームワークスの作品 "wikilink") [Category:アンブリン・エンターテインメントの作品](https://ja.wikipedia.org/wiki/Category:アンブリン・エンターテインメントの作品 "wikilink") [Category:スティーヴン・スピルバーグの監督映画](https://ja.wikipedia.org/wiki/Category:スティーヴン・スピルバーグの監督映画 "wikilink") [Category:ジョン・ウィリアムズの作曲映画](https://ja.wikipedia.org/wiki/Category:ジョン・ウィリアムズの作曲映画 "wikilink") [Category:サターン賞受賞作品](https://ja.wikipedia.org/wiki/Category:サターン賞受賞作品 "wikilink")
 
 1.
 2.

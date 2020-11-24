@@ -333,7 +333,7 @@
 <!-- end list -->
 
   - 放送期間：1973年9月12日 - 1974年1月9日
-  - 主な出演者：[會我廼家明蝶](https://ja.wikipedia.org/wiki/會我廼家明蝶 "wikilink")、[大空真弓](https://ja.wikipedia.org/wiki/大空真弓 "wikilink")、[和泉雅子](../Page/和泉雅子.md "wikilink")、[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")
+  - 主な出演者：[曾我廼家明蝶](https://ja.wikipedia.org/wiki/曾我廼家明蝶 "wikilink")、[大空真弓](https://ja.wikipedia.org/wiki/大空真弓 "wikilink")、[和泉雅子](../Page/和泉雅子.md "wikilink")、[小柳ルミ子](../Page/小柳ルミ子.md "wikilink")
 
 <!-- end list -->
 
@@ -593,7 +593,7 @@
   - [愛媛県](../Page/愛媛県.md "wikilink")では、[南海放送](https://ja.wikipedia.org/wiki/南海放送 "wikilink")（RNB・日本テレビ系列）が系列外ながら第1期\[8\]に同時ネットで放送していた。
   - [フジテレビ系列の](../Page/フジネットワーク.md "wikilink")[秋田テレビ](https://ja.wikipedia.org/wiki/秋田テレビ "wikilink")（AKT）、[山形テレビ](../Page/山形テレビ.md "wikilink")（YTS）\[9\]、[富山テレビ](../Page/富山テレビ放送.md "wikilink")（T34、現・BBT）\[10\]、[福井テレビ](https://ja.wikipedia.org/wiki/福井テレビジョン放送 "wikilink")（FTB）では1時間遅れの水曜22:00から第1期\[11\]の作品を放送していた（山形テレビは1980年3月まで\[12\]）。
   - 『しあわせ戦争』から『結婚』を放送中の[1980年](https://ja.wikipedia.org/wiki/1980年 "wikilink")10月 - [1982年](../Page/1982年.md "wikilink")3月の間は、[日本テレビ系列の](../Page/日本テレビ放送網.md "wikilink")[水曜20時ドラマ枠も](../Page/日本テレビ水曜8時枠連続ドラマ.md "wikilink")『水曜劇場』と名乗っていたため、2局で同名のドラマ枠が存在していた。なお第1期終了後は『水曜劇場』の枠名は日本テレビのみとなるが、これも半年で廃枠となった。
-  - 第1期終了から5年半後の[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月には、同じ水曜21時台に『水曜ドラマ』が設けられた。これは平日の22時台に[報道番組](../Page/報道番組.md "wikilink")『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を新設したことに伴い、金曜22時に放送されていた『[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")』を移行させたものである。その後、[1989年](../Page/1989年.md "wikilink")10月に再び金曜ドラマに戻った。
+  - 第1期終了直後、水曜21時台に1時間[単発特別番組枠](../Page/単発特別番組枠.md "wikilink")『[日立テレビシティ](../Page/日立テレビシティ.md "wikilink")』を設置（後に土曜22時枠に移動）。ドラマも放送するも大半は単発作品だったが、[青島幸男](../Page/青島幸男.md "wikilink")原作『[人間万事塞翁が丙午](../Page/人間万事塞翁が丙午.md "wikilink")』といった連続物も放送した。その後[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")10月には、同じ水曜21時台に『水曜ドラマ』が設けられた。これは平日の22時台に[報道番組](../Page/報道番組.md "wikilink")『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』を新設したことに伴い、金曜22時に放送されていた『[金曜ドラマ](../Page/金曜ドラマ_\(TBS\).md "wikilink")』を移行させたものである。その後、[1989年](../Page/1989年.md "wikilink")10月に再び金曜ドラマに戻った。
   - 『水曜ドラマ』終了後は[水曜ロードショー](../Page/水曜ロードショー_\(TBS\).md "wikilink")→報道情報番組枠→バラエティ枠→ドキュメント枠となり、2009年3月まで『[水曜ノンフィクション](https://ja.wikipedia.org/wiki/水曜ノンフィクション "wikilink")』を放送していた。
 
 ## 脚注

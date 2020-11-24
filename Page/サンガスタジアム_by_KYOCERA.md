@@ -218,9 +218,9 @@ Sanga stadium by kyocera03.jpg|北スタンド上段より Sanga stadium by kyoc
   -
   -
   -
-  - [京都府立京都スタジアム条例](http://www.pref.kyoto.jp/reiki/reiki_honbun/a3002361001.html)
+  - [京都府立京都スタジアム条例](http://www.pref.kyoto.jp/reiki/reiki_honbun/a300RG00002361.html)
 
-  - [京都府立京都スタジアム条例施行規則](http://www.pref.kyoto.jp/reiki/reiki_honbun/aa30023621.html)
+  - [京都府立京都スタジアム条例施行規則](http://www.pref.kyoto.jp/reiki/reiki_honbun/a300RG00002362.html)
 
   - [京都スタジアム（仮称）整備について](http://www.pref.kyoto.jp/kyoto_sports/#kensetu)
 

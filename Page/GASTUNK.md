@@ -22,7 +22,7 @@
 
   -
     本名：篠崎辰也（[1966年](../Page/1966年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")生\[3\]）。[マイケル・シェンカー](../Page/マイケル・シェンカー.md "wikilink")を敬愛しており、自身も[ギブソン](../Page/ギブソン.md "wikilink")[フライングV](https://ja.wikipedia.org/wiki/フライングV "wikilink")（[フロイドローズ](https://ja.wikipedia.org/wiki/フロイドローズ "wikilink")ブリッジ）をメインに使用している。[FERNANDES](../Page/フェルナンデス_\(楽器メーカー\).md "wikilink") [BurnyブランドからシグネチャーモデルFV](../Page/バーニー_\(楽器\).md "wikilink")-160GTも発売していた。
-    2009年6月、元[COLORの](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、元[X](../Page/X_JAPAN.md "wikilink")（現X JAPAN）の[TAIJI](https://ja.wikipedia.org/wiki/TAIJI "wikilink")、元[かまいたちのKENZIと](../Page/かまいたち_\(バンド\).md "wikilink")[THE KILLING RED ADDICTION.](http://www.myspace.com/thekillingredaddiction)としての活動を開始するも、TAIJIの死去により活動停止中。
+    2009年6月、元[COLORの](../Page/COLOR_\(ロックバンド\).md "wikilink")[DYNAMITE TOMMY](https://ja.wikipedia.org/wiki/DYNAMITE_TOMMY "wikilink")、元[X](../Page/X_JAPAN.md "wikilink")（現X JAPAN）の[TAIJI](https://ja.wikipedia.org/wiki/TAIJI "wikilink")、元[かまいたちのKENZIと](../Page/かまいたち_\(バンド\).md "wikilink")[THE KILLING RED ADDICTION.](https://myspace.com/thekillingredaddiction)としての活動を開始するも、TAIJIの死去により活動停止中。
     2013年1月にACID HEADよりソロアルバム“SOMEBODY KILL ME”をリリース。そして、Dr PAZZ(GASTUNK)、Ba WILD BEARのスリーピースでソロプロジェクトを結成した。3月に下北沢CLUB251にて30周年記念イベント“ELECTRIC CRAZYVo.1”を行った。同年の8月にメンバーチェンジ、Ba COOL JOE(DEAD END)、Dr 田村 圭(THE JACKS etc..)を迎える。後に2014年“THE DEADROCKS”となる。現在もTHE DEADROCKSでLIVE活動中。
 
 <!-- end list -->
@@ -296,7 +296,7 @@
 
   - [TATSU Official Site](http://www.tatsuxxx.com)
 
-  - [The Highest Region](http://www.myspace.com/highestregion)
+  - [The Highest Region](https://myspace.com/highestregion)
 
   - [I love you... OK?](http://iloveyouok.web.fc2.com/)
 

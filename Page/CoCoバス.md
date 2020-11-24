@@ -5,7 +5,7 @@
 
 小型バスを使用する経路の他に、[ワゴン車を使用した](../Page/ワンボックスカー.md "wikilink")[乗合タクシー](../Page/乗合タクシー.md "wikilink")に近い形態の「**CoCoバス・ミニ**」が運行されている。
 
-現在5路線が運行されており、小型バスを使用する北東部循環・貫井前原循環・東町循環・中町循環の4路線は[京王バス中央・府中営業所](../Page/京王バス中央・府中営業所.md "wikilink")が、ワゴン車を使用するCoCoバス・ミニ野川・七軒家循環は[つくば観光交通](https://ja.wikipedia.org/wiki/つくば観光交通 "wikilink")が運行受託している。
+現在5路線が運行されており、小型バスを使用する北東部循環・貫井前原循環・東町循環・中町循環の4路線は[京王バス府中営業所](https://ja.wikipedia.org/wiki/京王バス府中営業所 "wikilink")が、ワゴン車を使用するCoCoバス・ミニ野川・七軒家循環は[つくば観光交通](https://ja.wikipedia.org/wiki/つくば観光交通 "wikilink")が運行受託している。
 
 ## 概要
 
@@ -25,7 +25,7 @@
 
 [PASMO](../Page/PASMO.md "wikilink")・[Suica](../Page/Suica.md "wikilink")など[交通系ICカード](https://ja.wikipedia.org/wiki/交通系ICカード "wikilink")は利用できない。[バス共通カード](../Page/バス共通カード.md "wikilink")は当初から対応していない。
 
-同じ京王バス中央・府中営業所が受託する、[国分寺市](../Page/国分寺市.md "wikilink")[ぶんバス](../Page/ぶんバス.md "wikilink")が2016年1月17日より、[府中市](../Page/府中市_\(東京都\).md "wikilink")[ちゅうバス](../Page/ちゅうバス.md "wikilink")が2018年4月1日より、交通系ICカードの利用を開始したことで、2018年5月現在、[京王電鉄バス](../Page/京王電鉄バス.md "wikilink")グループの受託するコミュニティバスとしては唯一、交通系ICカード非対応となっている。
+同じ京王バス・府中営業所が受託する、[国分寺市](../Page/国分寺市.md "wikilink")[ぶんバス](../Page/ぶんバス.md "wikilink")が2016年1月17日より、[府中市](../Page/府中市_\(東京都\).md "wikilink")[ちゅうバス](../Page/ちゅうバス.md "wikilink")が2018年4月1日より、交通系ICカードの利用を開始したことで、2018年5月現在、[京王電鉄バス](../Page/京王電鉄バス.md "wikilink")グループの受託するコミュニティバスとしては唯一、交通系ICカード非対応となっている。
 
 また、[東京都シルバーパス](../Page/東京都シルバーパス.md "wikilink")での乗車はできず、各種[障害者手帳](../Page/障害者手帳.md "wikilink")提示による割引制度はない。
 
@@ -117,8 +117,8 @@
 ## 関連項目
 
   - [小金井市](../Page/小金井市.md "wikilink")
-  - [京王バス中央・府中営業所](../Page/京王バス中央・府中営業所.md "wikilink")
-  - [ぶんバス](../Page/ぶんバス.md "wikilink")・[ちゅうバス](../Page/ちゅうバス.md "wikilink") - 同時期に開業した隣接する[国分寺市](../Page/国分寺市.md "wikilink")・[府中市のコミュニティバス](../Page/府中市_\(東京都\).md "wikilink")。同じ事業者（京王バス中央・府中営業所）が運行受託し、運行形態や運賃体系など共通点が多い。
+  - [京王バス府中営業所](https://ja.wikipedia.org/wiki/京王バス府中営業所 "wikilink")
+  - [ぶんバス](../Page/ぶんバス.md "wikilink")・[ちゅうバス](../Page/ちゅうバス.md "wikilink") - 同時期に開業した隣接する[国分寺市](../Page/国分寺市.md "wikilink")・[府中市のコミュニティバス](../Page/府中市_\(東京都\).md "wikilink")。同じ事業者（京王バス・府中営業所）が運行受託し、運行形態や運賃体系など共通点が多い。
   - [コミュニティバス](../Page/コミュニティバス.md "wikilink")
   - [乗合タクシー](../Page/乗合タクシー.md "wikilink")
   - [日本のコミュニティバス一覧\#多摩地域](https://ja.wikipedia.org/wiki/日本のコミュニティバス一覧#多摩地域 "wikilink")
@@ -128,7 +128,7 @@
   - [CoCoバス：小金井市公式WEBへようこそ](https://www.city.koganei.lg.jp/kurashi/482/buss/cocobus.html)
   - [ココバスミニ](http://www.tukuba-taxi.com/cocobus.php) つくば観光交通 公式サイト
 
-[Category:関東地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:関東地方のコミュニティバス "wikilink") [Category:乗合タクシー](https://ja.wikipedia.org/wiki/Category:乗合タクシー "wikilink") [Category:小金井市](https://ja.wikipedia.org/wiki/Category:小金井市 "wikilink") [Category:京王バス中央](https://ja.wikipedia.org/wiki/Category:京王バス中央 "wikilink") [Category:東京都の交通](https://ja.wikipedia.org/wiki/Category:東京都の交通 "wikilink")
+[Category:関東地方のコミュニティバス](https://ja.wikipedia.org/wiki/Category:関東地方のコミュニティバス "wikilink") [Category:乗合タクシー](https://ja.wikipedia.org/wiki/Category:乗合タクシー "wikilink") [Category:小金井市](https://ja.wikipedia.org/wiki/Category:小金井市 "wikilink") [Category:京王電鉄バス](https://ja.wikipedia.org/wiki/Category:京王電鉄バス "wikilink") [Category:東京都の交通](https://ja.wikipedia.org/wiki/Category:東京都の交通 "wikilink")
 
 1.  東町循環は連雀通り上、中町循環は駅前。
 2.  [ムーバス各路線の概要](http://www.city.musashino.lg.jp/_res/projects/default_project/_page_/001/005/138/290116gaiyo.pdf) 2017年1月16日現在、武蔵野市公式サイト、2019年9月21日閲覧。

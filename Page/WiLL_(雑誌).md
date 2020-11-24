@@ -63,6 +63,7 @@
   - [石平](../Page/石平_\(評論家\).md "wikilink")
   - [高橋洋一](https://ja.wikipedia.org/wiki/高橋洋一 "wikilink")
   - [小川榮太郎](https://ja.wikipedia.org/wiki/小川榮太郎 "wikilink")（2016年4月以降はなし）
+  - [白川司](https://ja.wikipedia.org/wiki/白川司 "wikilink")
 
 以下は物故者で担当も終了
 

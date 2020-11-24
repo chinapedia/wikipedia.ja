@@ -7,7 +7,11 @@
 
 ## 来歴
 
-[東京都立新宿高等学校](../Page/東京都立新宿高等学校.md "wikilink")、[帝京大学](../Page/帝京大学.md "wikilink")卒業。[1994年](../Page/1994年.md "wikilink")より本名名義で作曲・編曲家として活動していた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")主演の映画『[あした](../Page/あした_\(映画\).md "wikilink")』の主題歌「あした」の作曲で注目されるが、仕事が少なかった[2001年](../Page/2001年.md "wikilink")ごろに登録社員として[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある解体業者[日本ブレイク工業](../Page/日本ブレイク工業.md "wikilink")に勤務する\[2\]。コミックバンド仲間でもあった同社の課長からの依頼を受け、同社の[社歌](../Page/社歌.md "wikilink")を作詞・作曲したところ\[3\]、[2003年](../Page/2003年.md "wikilink")になって[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")で紹介され、注目されるようになった\[4\]。現在は音楽活動に専念しており、萬Zあるいはmanzoの名で[CDをリリースする一方](../Page/コンパクトディスク.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")他の作品の作曲・編曲、各種[アニメ](../Page/アニメ.md "wikilink")の劇伴などで活躍、また本名名義でもアーティストへの楽曲提供を行っている。PCに詳しい。
+[東京都立新宿高等学校](../Page/東京都立新宿高等学校.md "wikilink")、[帝京大学](../Page/帝京大学.md "wikilink")卒業。[1994年](../Page/1994年.md "wikilink")より本名名義で作曲・編曲家として活動していた。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")、[原田知世](https://ja.wikipedia.org/wiki/原田知世 "wikilink")主演の映画『[あした](../Page/あした_\(映画\).md "wikilink")』の主題歌「あした」の作曲で注目される。
+
+仕事が少なかった[2001年](../Page/2001年.md "wikilink")ごろに、登録社員として[神奈川県](https://ja.wikipedia.org/wiki/神奈川県 "wikilink")[横浜市](../Page/横浜市.md "wikilink")にある解体業者[日本ブレイク工業](../Page/日本ブレイク工業.md "wikilink")に勤務する\[2\]。コミックバンド仲間でもあった同社の課長からの依頼を受け、同社の[社歌](../Page/社歌.md "wikilink")を作詞・作曲したところ\[3\]、[2003年](../Page/2003年.md "wikilink")になって[タモリ倶楽部](../Page/タモリ倶楽部.md "wikilink")で紹介され、注目されるようになった\[4\]。
+
+現在は音楽活動に専念しており、萬Zあるいはmanzoの名で[CDをリリースする一方](../Page/コンパクトディスク.md "wikilink")、[桃井はるこ](../Page/桃井はるこ.md "wikilink")他の作品の作曲・編曲、各種[アニメ](../Page/アニメ.md "wikilink")の劇伴などで活躍、また本名名義でもアーティストへの楽曲提供を行っている。PCに詳しい。
 
 ## 人物
 

@@ -1,13 +1,13 @@
 > この記事は[モーニングEye](https://ja.wikipedia.org/wiki/モーニングEye)から翻訳されています。
 
 
-『**モーニングEye**』（モーニング・アイ）は、[1984年](../Page/1984年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")59年）[11月5日](../Page/11月5日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")（[平成](../Page/平成.md "wikilink")8年）[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")までの約12年間、[TBS系列で放送されていた](../Page/TBSテレビ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ワイドショー](../Page/ワイドショー.md "wikilink")である。
+『**モーニングEye**』（モーニング・アイ）は、[1984年](../Page/1984年.md "wikilink")[11月5日](../Page/11月5日.md "wikilink")から[1996年](../Page/1996年.md "wikilink")[9月27日](https://ja.wikipedia.org/wiki/9月27日 "wikilink")までの約12年間、[TBS系列で放送されていた](../Page/TBSテレビ.md "wikilink")[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[ワイドショー](../Page/ワイドショー.md "wikilink")である。
 
 ## 概要
 
 『[森本毅郎さわやかワイド](../Page/森本毅郎さわやかワイド.md "wikilink")』の後継番組としてスタート。当初は司会の[森本毅郎](../Page/森本毅郎.md "wikilink")の[冠番組](https://ja.wikipedia.org/wiki/冠番組 "wikilink")として『森本ワイド』（もりもとワイド）のサブタイトルが付されたが、[1987年](https://ja.wikipedia.org/wiki/1987年 "wikilink")、その森本が『[JNNニュース22プライムタイム](../Page/JNNニュース22プライムタイム.md "wikilink")』のメインキャスターとして異動し、司会を[山本文郎](../Page/山本文郎.md "wikilink")と、当時新人だった[長峰由紀](../Page/長峰由紀.md "wikilink")に交代、同時に司会者の冠が外れた。[1991年](../Page/1991年.md "wikilink")に山本のパートナーが長峰から[渡辺真理](../Page/渡辺真理.md "wikilink")（当時TBS[アナウンサー](https://ja.wikipedia.org/wiki/アナウンサー "wikilink")）に交代。
 
-1990年代の制作協力会社は[東京ビデオセンター](../Page/東京ビデオセンター.md "wikilink")・ファーストハンド・東放制作（現在の[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")）。この3社は『[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")』『[関口宏のサンデーモーニング](https://ja.wikipedia.org/wiki/関口宏のサンデーモーニング "wikilink")』も制作協力をしている。[TBSビジョン](../Page/TBSビジョン.md "wikilink")は他の時間帯の（『[スーパーワイド](../Page/スーパーワイド.md "wikilink")』など）映像提供程度で制作には関わっていない。『[はなまるマーケット](../Page/はなまるマーケット.md "wikilink")』も同じだった。
+1990年代の制作協力会社は[東京ビデオセンター](../Page/東京ビデオセンター.md "wikilink")・ファーストハンド・東放制作（現在の[TBSスパークル](https://ja.wikipedia.org/wiki/TBSスパークル "wikilink")）。この3社は『[サンデーモーニング](../Page/サンデーモーニング.md "wikilink")』『[関口宏のサンデーモーニング](https://ja.wikipedia.org/wiki/関口宏のサンデーモーニング "wikilink")』も制作協力をしている。
 
 「ゲストコメンテーター」は極力使っていなかった。例外は月曜の[和田勉](../Page/和田勉.md "wikilink")と、金曜日の[天野祐吉](../Page/天野祐吉.md "wikilink")・[木元教子](../Page/木元教子.md "wikilink")・[山本コウタロー](../Page/山本コウタロー.md "wikilink")（特集コーナーの「WEEKポイント」・「WEEKポイント・延長戦」（放送時間拡大時の1992年10月以降から）出演のため）など。
 

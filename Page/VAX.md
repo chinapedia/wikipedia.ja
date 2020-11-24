@@ -260,7 +260,7 @@ VAXserverはVAXのさまざまな機種（MicroVAX、VAX 4000、VAX 6000、VAX 9
   - [Chuck's House of VAX](http://www.mcmanis.com/chuck/computers/vaxen/)
   - [OpenBSD on VAX](http://www.openbsd.org/vax.html)
 
-[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:ディジタル・イクイップメント・コーポレーション](https://ja.wikipedia.org/wiki/Category:ディジタル・イクイップメント・コーポレーション "wikilink") [Category:ミニコンピュータ](https://ja.wikipedia.org/wiki/Category:ミニコンピュータ "wikilink") [Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink")
+[Category:コンピュータ_(歴代)](https://ja.wikipedia.org/wiki/Category:コンピュータ_\(歴代\) "wikilink") [Category:DECのマイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:DECのマイクロプロセッサ "wikilink") [Category:ミニコンピュータ](https://ja.wikipedia.org/wiki/Category:ミニコンピュータ "wikilink") [Category:ワークステーション](https://ja.wikipedia.org/wiki/Category:ワークステーション "wikilink") [Category:命令セットアーキテクチャ](https://ja.wikipedia.org/wiki/Category:命令セットアーキテクチャ "wikilink")
 
 1.
 2.

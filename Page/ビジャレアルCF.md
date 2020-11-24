@@ -1,7 +1,7 @@
 > この記事は[ビジャレアルCF](https://ja.wikipedia.org/wiki/ビジャレアルCF)から翻訳されています。
 
 
-**ビジャレアル・クルブ・デ・フトボル（**[バレンシア語](../Page/バレンシア語.md "wikilink"): Vila-real Club de Futbol, [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")**）**は、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")・[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ヴィラ＝レアル](../Page/ヴィラ＝レアル.md "wikilink")に本拠地を置く[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。2020-21シーズンは[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")（1部）に所属している。1923年に創設され、24,890人収容の[エスタディオ・デ・ラ・セラミカ](https://ja.wikipedia.org/wiki/エスタディオ・デ・ラ・セラミカ "wikilink")をホームスタジアムとしている。
+**ビジャレアル・クルブ・デ・フトボル**（[バレンシア語](../Page/バレンシア語.md "wikilink"): Vila-real Club de Futbol, [S.A.D.](https://ja.wikipedia.org/wiki/ソシエダ・アノニマ・デポルティーバ "wikilink")）は、[バレンシア州](https://ja.wikipedia.org/wiki/バレンシア州 "wikilink")[カステリョン県](../Page/カステリョン県.md "wikilink")[ビジャレアルに本拠地を置く](../Page/ヴィラ＝レアル.md "wikilink")[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")の[サッカー](https://ja.wikipedia.org/wiki/サッカー "wikilink")クラブチーム。[プリメーラ・ディビシオン](../Page/プリメーラ・ディビシオン.md "wikilink")に属している。1923年に創設され、24,890人収容の[エスタディオ・デ・ラ・セラミカ](https://ja.wikipedia.org/wiki/エスタディオ・デ・ラ・セラミカ "wikilink")をホームスタジアムとしている。
 
 ビジャレアルとはスペイン語で「王の町」という意味であり、その名の通りチームのエンブレムには王冠があしらわれている。ただし、この場合の王とは[アラゴン王国](../Page/アラゴン王国.md "wikilink")の王を指し、現在のスペイン王室ではない。そのため王冠のデザインも他のレアルを冠するチームのものとは異なっている\[1\]。しばしば、成功したスモールクラブの例として引き合いに出される\[2\]。
 
@@ -571,79 +571,79 @@
 </tr>
 <tr class="odd">
 <td><p>1957-58</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>5位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1958-59</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>6位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1959-60</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>12位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1960-61</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>14位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1961-62</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1962–63</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1963–64</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1964–65</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1965–66</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1966–67</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1967–68</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>3位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1968–69</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>9位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1969–70</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>1位</p></td>
 <td></td>
 </tr>
@@ -655,19 +655,19 @@
 </tr>
 <tr class="odd">
 <td><p>1971–72</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>17位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1972–73</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>12位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1973–74</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>12位</p></td>
 <td></td>
 </tr>
@@ -685,79 +685,79 @@
 <tbody>
 <tr class="odd">
 <td><p>1974–75</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>8位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1975–76</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1976–77</p></td>
-<td><p><a href="../Page/ディビシオネス・レヒオナレス.md" title="wikilink">レヒオナレス</a></p></td>
+<td><p>レヒオナレス</p></td>
 <td><p>—</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1977–78</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1978–79</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1979–80</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>9位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1980–81</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>16位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1981–82</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>7位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1982–83</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>14位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1983–84</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1984–85</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>14位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1985–86</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>6位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1986–87</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>3位</p></td>
 <td></td>
 </tr>
@@ -769,31 +769,31 @@
 </tr>
 <tr class="odd">
 <td><p>1988–89</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>4位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1989–90</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>18位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1990–91</p></td>
-<td><p><a href="../Page/テルセーラ・ディビシオン.md" title="wikilink">テルセーラ</a></p></td>
+<td><p>テルセーラ</p></td>
 <td><p>2位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1991–92</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオンB.md" title="wikilink">セグンダB</a></p></td>
+<td><p>セグンダB</p></td>
 <td><p>2位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1992–93</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>13位</p></td>
 <td></td>
 </tr>
@@ -811,31 +811,31 @@
 <tbody>
 <tr class="odd">
 <td><p>1993–94</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>16位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1994–95</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>10位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1995–96</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>15位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>1996–97</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>10位</p></td>
 <td></td>
 </tr>
 <tr class="odd">
 <td><p>1997–98</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>4位</p></td>
 <td></td>
 </tr>
@@ -847,79 +847,79 @@
 </tr>
 <tr class="odd">
 <td><p>1999–00</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>3位</p></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>2000–01</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>7位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
 <tr class="odd">
 <td><p>2001–02</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>15位</p></td>
 <td><p>ベスト8</p></td>
 </tr>
 <tr class="even">
 <td><p>2002–03</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>15位</p></td>
 <td><p>1回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2003–04</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>8位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2004–05</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>3位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2005–06</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>7位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2006–07</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>2007–08</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>2位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2008–09</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
 <tr class="odd">
 <td><p>2009–10</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>7位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2010–11</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>4位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2011–12</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>18位</p></td>
 <td><p>ベスト32</p></td>
 </tr>
@@ -944,55 +944,55 @@
 <tbody>
 <tr class="odd">
 <td><p>2012–13</p></td>
-<td><p><a href="../Page/セグンダ・ディビシオン.md" title="wikilink">セグンダ</a></p></td>
+<td><p>セグンダ</p></td>
 <td><p>2位</p></td>
 <td><p>2回戦敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2013–14</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>6位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>2014–15</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>6位</p></td>
 <td><p>準決勝敗退</p></td>
 </tr>
 <tr class="even">
 <td><p>2015-16</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>4位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>2016-17</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2017-18</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="odd">
 <td><p>2018-19</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>14位</p></td>
 <td><p>ベスト16</p></td>
 </tr>
 <tr class="even">
 <td><p>2019-20</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>5位</p></td>
 <td><p>準々決勝敗退</p></td>
 </tr>
 <tr class="odd">
 <td><p>2020-21</p></td>
-<td><p><a href="../Page/プリメーラ・ディビシオン.md" title="wikilink">プリメーラ</a></p></td>
+<td><p>プリメーラ</p></td>
 <td><p>位</p></td>
 <td></td>
 </tr>
@@ -1010,9 +1010,508 @@
   - **23**シーズン - [テルセーラ・ディビシオン](../Page/テルセーラ・ディビシオン.md "wikilink")（4部相当、1977年以前は3部相当）
   - **32**シーズン - [ディビシオネス・レヒオナレス](../Page/ディビシオネス・レヒオナレス.md "wikilink")（5部以下相当、1977年以前は4部以下相当）
 
+## 欧州の成績
+
+<table>
+<thead>
+<tr class="header">
+<th><p>シーズン</p></th>
+<th><p>大会</p></th>
+<th><p>ラウンド</p></th>
+<th><p>対戦相手</p></th>
+<th><p>ホーム</p></th>
+<th><p>アウェー</p></th>
+<th><p>合計</p></th>
+<th></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p>2009-10</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2009-10" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="../Page/NACブレダ.md" title="wikilink">NAC</a></p></td>
+<td><p>6-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''9-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p>グループG</p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p>0-1</p></td>
+<td><p>0-2</p></td>
+<td><p>'''2位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SSラツィオ.md" title="wikilink">ラツィオ</a></p></td>
+<td><p>4-1</p></td>
+<td><p>1-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/レフスキ・ソフィア.md" title="wikilink">レフスキ・ソフィア</a></p></td>
+<td><p>1-0</p></td>
+<td><p>2-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+<td><p><a href="../Page/VfLヴォルフスブルク.md" title="wikilink">ヴォルフスブルク</a></p></td>
+<td><p>2-2</p></td>
+<td><p>1-4</p></td>
+<td><p>'''3-6</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2010-11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2010-11" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCドニエプル・マヒリョウ" title="wikilink">ドニエプル・マヒリョウ</a></p></td>
+<td><p>5-0</p></td>
+<td><p>2-1</p></td>
+<td><p>'''7-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>グループD</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/PAOK_FC" title="wikilink">PAOK</a></p></td>
+<td><p>1-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/NKディナモ・ザグレブ.md" title="wikilink">ディナモ・ザグレブ</a></p></td>
+<td><p>3-0</p></td>
+<td><p>0-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/クラブ・ブルッヘ.md" title="wikilink">クラブ・ブルッヘ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>0-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド32</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>0-0</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド16</p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p>2-1</p></td>
+<td><p>3-2</p></td>
+<td><p>'''5-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/FCトゥウェンテ.md" title="wikilink">トゥウェンテ</a></p></td>
+<td><p>5-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''8-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準決勝</p></td>
+<td><p><a href="../Page/FCポルト.md" title="wikilink">ポルト</a></p></td>
+<td><p>3-2</p></td>
+<td><p>1-5</p></td>
+<td><p>'''4-7</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2011-12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2011-12" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="../Page/オーデンセBK.md" title="wikilink">OB</a></p></td>
+<td><p>3-0</p></td>
+<td><p>0-1</p></td>
+<td><p>'''3-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>グループA</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCバイエルン・ミュンヘン" title="wikilink">バイエルン・ミュンヘン</a></p></td>
+<td><p>0-2</p></td>
+<td><p>1-3</p></td>
+<td><p>'''4位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
+<td><p>0-2</p></td>
+<td><p>0-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/マンチェスター・シティFC.md" title="wikilink">マンチェスター・シティ</a></p></td>
+<td><p>0-3</p></td>
+<td><p>1-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2014-15</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2014-15" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCアスタナ" title="wikilink">アスタナ</a></p></td>
+<td><p>4-0</p></td>
+<td><p>3-0</p></td>
+<td><p>'''7-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p>グループA</p></td>
+<td><p><a href="../Page/ボルシア・メンヒェングラートバッハ.md" title="wikilink">ボルシアMG</a></p></td>
+<td><p>2-2</p></td>
+<td><p>1-1</p></td>
+<td><p>'''2位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCチューリッヒ.md" title="wikilink">チューリッヒ</a></p></td>
+<td><p>4-1</p></td>
+<td><p>2-3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アポロン・リマソール" title="wikilink">アポロン・リマソール</a></p></td>
+<td><p>4-0</p></td>
+<td><p>2-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド32</p></td>
+<td><p><a href="../Page/レッドブル・ザルツブルク.md" title="wikilink">レッドブル・ザルツブルク</a></p></td>
+<td><p>2-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''5-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド16</p></td>
+<td><p><a href="../Page/セビージャFC.md" title="wikilink">セビージャ</a></p></td>
+<td><p>1-3</p></td>
+<td><p>1-2</p></td>
+<td><p>'''2-5</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2015-16</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2015-16" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループE</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/FCヴィクトリア・プルゼニ" title="wikilink">ヴィクトリア・プルゼニ</a></p></td>
+<td><p>1-0</p></td>
+<td><p>3-3</p></td>
+<td><p>'''2位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p>1-0</p></td>
+<td><p>1-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCディナモ・ミンスク.md" title="wikilink">ディナモ・ミンスク</a></p></td>
+<td><p>4-0</p></td>
+<td><p>2-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/SSCナポリ" title="wikilink">ナポリ</a></p></td>
+<td><p>1-0</p></td>
+<td><p>1-1</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+<td><p><a href="../Page/バイエル・レバークーゼン.md" title="wikilink">バイエル・レバークーゼン</a></p></td>
+<td><p>2-0</p></td>
+<td><p>0-0</p></td>
+<td><p>'''2-0</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/ACスパルタ・プラハ.md" title="wikilink">スパルタ・プラハ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>4-2</p></td>
+<td><p>'''6-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>準決勝</p></td>
+<td><p><a href="../Page/リヴァプールFC.md" title="wikilink">リヴァプール</a></p></td>
+<td><p>1-0</p></td>
+<td><p>0-3</p></td>
+<td><p>'''1-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016-17</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAチャンピオンズリーグ_2016-17" title="wikilink">UEFAチャンピオンズリーグ</a></p></td>
+<td><p>プレーオフ</p></td>
+<td><p><a href="../Page/ASモナコ.md" title="wikilink">モナコ</a></p></td>
+<td><p>1-2</p></td>
+<td><p>0-1</p></td>
+<td><p>'''1-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2016-17" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループL</p></td>
+<td><p><a href="../Page/FCチューリッヒ.md" title="wikilink">チューリッヒ</a></p></td>
+<td><p>2-1</p></td>
+<td><p>1-1</p></td>
+<td><p>'''2位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/FCステアウア・ブカレスト.md" title="wikilink">FCSB</a></p></td>
+<td><p>2-1</p></td>
+<td><p>1-1</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/オスマンルスポルFK.md" title="wikilink">オスマンルスポル</a></p></td>
+<td><p>1-2</p></td>
+<td><p>2-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+<td><p><a href="../Page/ASローマ.md" title="wikilink">ローマ</a></p></td>
+<td><p>0-4</p></td>
+<td><p>1-0</p></td>
+<td><p>'''1-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2017-18</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2017-18" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループA</p></td>
+<td><p><a href="../Page/SKスラヴィア・プラハ.md" title="wikilink">スラヴィア・プラハ</a></p></td>
+<td><p>2-2</p></td>
+<td><p>2-0</p></td>
+<td><p>'''1位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p>0-1</p></td>
+<td><p>0-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/FCアスタナ" title="wikilink">アスタナ</a></p></td>
+<td><p>3-1</p></td>
+<td><p>3-2</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+<td><p><a href="../Page/オリンピック・リヨン.md" title="wikilink">リヨン</a></p></td>
+<td><p>0-1</p></td>
+<td><p>1-3</p></td>
+<td><p>'''1-4</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2018-19</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2018-19" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループG</p></td>
+<td><p><a href="../Page/レンジャーズFC.md" title="wikilink">レンジャーズ</a></p></td>
+<td><p>2-2</p></td>
+<td><p>0-0</p></td>
+<td><p>'''1位</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/SKラピード・ウィーン.md" title="wikilink">ラピード・ウィーン</a></p></td>
+<td><p>5-0</p></td>
+<td><p>0-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/FCスパルタク・モスクワ.md" title="wikilink">スパルタク・モスクワ</a></p></td>
+<td><p>2-0</p></td>
+<td><p>3-3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>ラウンド32</p></td>
+<td><p><a href="../Page/スポルティング・クルーベ・デ・ポルトゥガル.md" title="wikilink">スポルティングCP</a></p></td>
+<td><p>1-1</p></td>
+<td><p>1-0</p></td>
+<td><p>'''2-1</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>ラウンド16</p></td>
+<td><p><a href="../Page/FCゼニト・サンクトペテルブルク.md" title="wikilink">ゼニト</a></p></td>
+<td><p>2-1</p></td>
+<td><p>3-1</p></td>
+<td><p>'''5-2</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_keep_vote.svg" title="fig:Symbol_keep_vote.svg">Symbol_keep_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>準々決勝</p></td>
+<td><p><a href="../Page/バレンシアCF.md" title="wikilink">バレンシア</a></p></td>
+<td><p>0-2</p></td>
+<td><p>1-5</p></td>
+<td><p>'''1-3</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/File:Symbol_delete_vote.svg" title="fig:Symbol_delete_vote.svg">Symbol_delete_vote.svg</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>2020-21</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UEFAヨーロッパリーグ_2020-21" title="wikilink">UEFAヨーロッパリーグ</a></p></td>
+<td><p>グループI</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カラバフFK" title="wikilink">カラバフ</a></p></td>
+<td></td>
+<td><p>3-1</p></td>
+<td><p>'''位</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/マッカビ・テルアビブFC.md" title="wikilink">マッカビ・テルアビブ</a></p></td>
+<td><p>4-0</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/スィヴァススポル" title="wikilink">スィヴァススポル</a></p></td>
+<td><p>5-3</p></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
 ## 現所属メンバー
 
-  - 2019-20シーズン 基本フォーメーション
+  - 2020-21シーズン 基本フォーメーション
 
 <div style="position: relative;">
 
@@ -1020,9 +1519,9 @@
 
 </div>
 
-  - 2020年9月24日時点\[47\]
+  - 2020年10月4日時点\[47\]
 
-([副主将](../Page/主将.md "wikilink"))    ★  ★  ★   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))    ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Martinique.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
+([副主将](../Page/主将.md "wikilink"))    ★  ★ ★  ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Italy.svg "wikilink"))  ★ ★    ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Martinique.svg "wikilink"))   ([12px](https://ja.wikipedia.org/wiki/ファイル:Flag_of_Spain.svg "wikilink"))
 
 ※括弧内の国旗はその他保有国籍、もしくは市民権、星印はEU圏外選手を示す。
 

@@ -1245,7 +1245,7 @@ FCジロンダン・ボルドーのライバルは[FCナント](../Page/FCナン
 
 </div>
 
-  - 2020年9月28日現在
+  - 2020年10月7日現在
 
 <!-- end list -->
 
@@ -1417,9 +1417,13 @@ FCジロンダン・ボルドーのライバルは[FCナント](../Page/FCナン
 
   - [ユヌス・サンカレ](https://ja.wikipedia.org/wiki/ユヌス・サンカレ "wikilink")
 
+  - [ハテム・ベン・アルファ](../Page/ハテム・ベン・アルファ.md "wikilink")
+
 ### FW
 
   - [ベルナール・ラコンブ](https://ja.wikipedia.org/wiki/ベルナール・ラコンブ "wikilink")
+
+  - [クライヴ・アレン](https://ja.wikipedia.org/wiki/クライヴ・アレン "wikilink")
 
   - [クラウス・アロフス](../Page/クラウス・アロフス.md "wikilink")
 

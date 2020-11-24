@@ -283,13 +283,13 @@ ACASは、[海賊版や改竄カードによる不正な視聴が問題となっ
   - [ビーエス・コンディショナルアクセスシステムズ](../Page/ビーエス・コンディショナルアクセスシステムズ.md "wikilink")
   - [限定受信システム](../Page/限定受信システム.md "wikilink")
   - [ICカード](../Page/ICカード.md "wikilink")
+  - [中間搾取](https://ja.wikipedia.org/wiki/中間搾取 "wikilink")
   - [デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink") ([ISDB](../Page/ISDB.md "wikilink"))
   - [日本の地上デジタルテレビ放送](https://ja.wikipedia.org/wiki/日本の地上デジタルテレビ放送 "wikilink")
   - [コピーガード](../Page/コピーガード.md "wikilink")
   - [ダビング10](../Page/ダビング10.md "wikilink")
   - [私的録音録画補償金制度](../Page/私的録音録画補償金制度.md "wikilink")
   - [フリーオ](../Page/フリーオ.md "wikilink")
-  - [Google](../Page/Google.md "wikilink")
 
 ## 外部リンク
 

@@ -55,7 +55,7 @@
   - 1996年、シングル「[DREAMS](https://ja.wikipedia.org/wiki/DREAMS_\(ROMANTIC_MODEの曲\) "wikilink")」（テレビアニメ『[機動新世紀ガンダムX](../Page/機動新世紀ガンダムX.md "wikilink")』前期オープニングテーマ）でデビュー。[オリコン初登場第](../Page/オリコンチャート.md "wikilink")10位。
   - [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[2月20日](../Page/2月20日.md "wikilink")、[日清パワーステーション](../Page/日清パワーステーション.md "wikilink")で初のライブ実施。
   - 1997年度[日本ゴールドディスク大賞](../Page/日本ゴールドディスク大賞.md "wikilink")においてベスト5ニュー・アーティスト賞を受賞。
-  - [1999年](../Page/1999年.md "wikilink")には東芝EMI（現・[EMIミュージック・ジャパン](../Page/EMIミュージック・ジャパン.md "wikilink")）に移籍してベストアルバム『[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")』をリリース。しかし、これ以降は休止とも解散とも表明されないまま活動は無く、事実上の自然消滅状態にある。
+  - [1999年](../Page/1999年.md "wikilink")には[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")（現・[ユニバーサルミュージック](../Page/ユニバーサルミュージック_\(日本\).md "wikilink")）に移籍してベストアルバム『[Romantic Pleasures〜The Best Of Romantic Mode〜](https://ja.wikipedia.org/wiki/Romantic_Pleasures〜The_Best_Of_Romantic_Mode〜 "wikilink")』をリリース。しかし、これ以降は休止とも解散とも表明されないまま活動は無く、事実上の自然消滅状態にある。
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")、[スーパーアニソン魂](https://ja.wikipedia.org/wiki/スーパーアニソン魂 "wikilink")2008“夏の陣”に麻倉晶（当時は麻倉あきらに改名）が出演の際に「元<span style="font-variant: small-caps;">ROmantic Mode</span>」と表記されており、解散を示唆している。
   - [2009年](../Page/2009年.md "wikilink")、生誕30周年祭 in NAGOYA ガンダム THE FIRST 伝説の3DAYS にて参加した際も、麻倉晶と表記されていた。
 
@@ -213,7 +213,7 @@
 
   - [Official Website](http://on-wave.com/saori/)
 
-  - [麻倉あきらOfficial Blog『No Songs\! No Life\!』](http://blog.excite.co.jp/akira-asakura/)
+  - [麻倉あきらOfficial Blog『No Songs\! No Life\!』](https://blog.excite.co.jp/akira-asakura/)
 
   -
 <!-- end list -->

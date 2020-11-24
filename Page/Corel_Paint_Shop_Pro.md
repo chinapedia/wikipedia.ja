@@ -51,7 +51,7 @@
 
   - Ver.9　RAWデータに対応
   - Ver.10 RAWデータ形式の対応数強化としてPixmantec RawShooter Essentials（以下RSE）が付属。
-  - Ver.XI [adobeにRSEが買収されたため](../Page/アドビシステムズ.md "wikilink")、10に比べ対応数が減少。
+  - Ver.XI RSEが[adobeに買収されたため](../Page/アドビシステムズ.md "wikilink")、10に比べ対応数が減少。
   - Ver.X2 アップデータを含め計約75機種のカメラへ対応。10の対応数を越える。
   - Ver.X2Ul 250種類超の対応を実現。
   - Ver.X3 362種類に対応。オーガナイザーでの表示の高速化。カメラRawラボを使用しての一括現像がより楽に。
@@ -236,6 +236,8 @@ PaintShop Proの標準のブラシツールはpspbrush形式であるが、Adobe
 
   - PaintShop Pro 2021
     2020年9月3日発売\[41\]。
+    AI高画質化、AI劣化除去、AIノイズ除去、AIスタイル変換、写真ワークスペースの強化(新分割ビュー)
+    またUltimate版では、AI HDR Studio、Sea-to-Skyワークスペースを新搭載。[PhotoMirage Express](https://ja.wikipedia.org/wiki/PhotoMirage "wikilink")、[Painter Essentials](https://ja.wikipedia.org/wiki/Painter_Essentials "wikilink")7（本格的イラスト作成ソフト）、[AfterShot](https://ja.wikipedia.org/wiki/AfterShot_Pro "wikilink") 3（RAW現像ソフト）、ブラシやテクスチャの Creative Collection、100 種類の新しい背景素材などのボーナスコレクションが付属。
 
 ## [廉価版](../Page/廉価版.md "wikilink")
 

@@ -624,11 +624,7 @@ NHKドラマで本格的にCGデジタル技術が生かされるようになっ
 
 ## 脚注
 
-<div class="references-small">
-
 <references />
-
-</div>
 
 [Category:大河ドラマ](https://ja.wikipedia.org/wiki/Category:大河ドラマ "wikilink") [Category:1997年のテレビドラマ](https://ja.wikipedia.org/wiki/Category:1997年のテレビドラマ "wikilink") [Category:NHK広島](https://ja.wikipedia.org/wiki/Category:NHK広島 "wikilink") [Category:NHK山口](https://ja.wikipedia.org/wiki/Category:NHK山口 "wikilink") [Category:NHK松江](https://ja.wikipedia.org/wiki/Category:NHK松江 "wikilink") [Category:内館牧子脚本のテレビドラマ](https://ja.wikipedia.org/wiki/Category:内館牧子脚本のテレビドラマ "wikilink") [Category:日本の戦国時代を舞台としたテレビドラマ](https://ja.wikipedia.org/wiki/Category:日本の戦国時代を舞台としたテレビドラマ "wikilink") [Category:安芸毛利氏](https://ja.wikipedia.org/wiki/Category:安芸毛利氏 "wikilink") [Category:永井路子](https://ja.wikipedia.org/wiki/Category:永井路子 "wikilink") [Category:毛利元就](https://ja.wikipedia.org/wiki/Category:毛利元就 "wikilink") [Category:森田剛](https://ja.wikipedia.org/wiki/Category:森田剛 "wikilink") [Category:一路真輝](https://ja.wikipedia.org/wiki/Category:一路真輝 "wikilink") [Category:榎木孝明](https://ja.wikipedia.org/wiki/Category:榎木孝明 "wikilink") [Category:緒形拳](https://ja.wikipedia.org/wiki/Category:緒形拳 "wikilink")
 

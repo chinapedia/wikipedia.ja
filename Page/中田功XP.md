@@ -35,6 +35,8 @@
   - 中田功『コーヤン流三間飛車（実戦編）』（毎日コミュニケーションズ、2004年9月、ISBN 9784839915872）
   - [勝又清和](../Page/勝又清和.md "wikilink")『最新戦法の話』（浅川書房、2007年4月、ISBN 9784861370168）※「コーヤン流」として1章を割いて紹介されている
 
+[カテゴリ:エポニム](https://ja.wikipedia.org/wiki/カテゴリ:エポニム "wikilink")
+
 [Category:三間飛車](https://ja.wikipedia.org/wiki/Category:三間飛車 "wikilink")
 
 1.  島朗『島ノート 振り飛車編』153- 162頁。

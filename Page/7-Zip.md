@@ -69,6 +69,9 @@ ZIPやgzipの電子ファイルを圧縮するとき、7-Zipは自家製の[Defl
   - 7-Zipは壊れたファイル名を含む書庫を展開（解凍）し、必要に応じて改名する機能を持つ。
   - 自己解凍書庫を作成すれば、7z展開ソフトウェアを持たない利用者も圧縮された電子ファイルを展開（解凍）できる。
   - 多くの圧縮解凍ソフトウェアはパス長が256文字を超えてしまうとうまく解凍できないが、7-Zipにはその制限がない。
+  - 16EB(exa byte)までのサイズに対応<ref>
+
+</ref>\[13\]\[14\]。
 
 ## 脚注
 
@@ -99,3 +102,5 @@ ZIPやgzipの電子ファイルを圧縮するとき、7-Zipは自家製の[Defl
 10. [:en:PortableApps.com](https://ja.wikipedia.org/wiki/:en:PortableApps.com "wikilink")
 11. [7-Zip Portable | PortableApps.com](http://portableapps.com/apps/utilities/7-zip_portable)
 12. [AES Encryption Information: Encryption Specification AE-1 and AE-2](http://www.winzip.com/aes_info.htm)
+13.
+14.

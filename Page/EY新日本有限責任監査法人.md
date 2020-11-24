@@ -18,7 +18,7 @@
   - 素材・エネルギー
     [ENEOSHD](https://ja.wikipedia.org/wiki/ENEOSホールディングス "wikilink")、[JFEHD](../Page/JFEホールディングス.md "wikilink")、[東レ](../Page/東レ.md "wikilink")、[日本製紙](../Page/日本製紙.md "wikilink")、[国際石油開発帝石](../Page/国際石油開発帝石.md "wikilink")、[日本軽金属HD](https://ja.wikipedia.org/wiki/日本軽金属ホールディングス "wikilink")、[日立金属](../Page/日立金属.md "wikilink")、[横浜ゴム](../Page/横浜ゴム.md "wikilink")、[日本板硝子](../Page/日本板硝子.md "wikilink")、[YKK](../Page/YKK.md "wikilink")、[昭和電線HD](../Page/昭和電線ホールディングス.md "wikilink")
   - 医療・化学
-    [三菱ケミカルHD](../Page/三菱ケミカルホールディングス.md "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[大陽日酸](../Page/大陽日酸.md "wikilink")、[アステラス製薬](../Page/アステラス製薬.md "wikilink")、[宇部興産](../Page/宇部興産.md "wikilink")、[ポーラ・オルビスHD](../Page/ポーラ_\(企業\).md "wikilink")、[デンカ](../Page/デンカ.md "wikilink")、[ライオン](../Page/ライオン_\(企業\).md "wikilink")、[信越化学工業](../Page/信越化学工業.md "wikilink")、[塩野義製薬](../Page/塩野義製薬.md "wikilink")、[日本化薬](../Page/日本化薬.md "wikilink")
+    [三菱ケミカルHD](../Page/三菱ケミカルホールディングス.md "wikilink")、[三井化学](../Page/三井化学.md "wikilink")、[日本酸素HD](https://ja.wikipedia.org/wiki/日本酸素ホールディングス "wikilink")、[アステラス製薬](../Page/アステラス製薬.md "wikilink")、[宇部興産](../Page/宇部興産.md "wikilink")、[ポーラ・オルビスHD](../Page/ポーラ_\(企業\).md "wikilink")、[デンカ](../Page/デンカ.md "wikilink")、[ライオン](../Page/ライオン_\(企業\).md "wikilink")、[信越化学工業](../Page/信越化学工業.md "wikilink")、[塩野義製薬](../Page/塩野義製薬.md "wikilink")、[日本化薬](../Page/日本化薬.md "wikilink")
   - 食品・アグリ
     [明治HD](https://ja.wikipedia.org/wiki/明治ホールディングス "wikilink")、[サッポロHD](../Page/サッポロホールディングス.md "wikilink")、[コカ・コーラボトラーズジャパンHD](https://ja.wikipedia.org/wiki/コカ・コーラボトラーズジャパンホールディングス "wikilink")、[キユーピー](../Page/キユーピー.md "wikilink")、[キッコーマン](../Page/キッコーマン.md "wikilink")、[日本水産](../Page/日本水産.md "wikilink")、[ニチレイ](../Page/ニチレイ.md "wikilink")
   - 自動車・機械・部品・エレクトロニクス
@@ -34,7 +34,7 @@
   - 卸売・小売・外食
     [丸紅](../Page/丸紅.md "wikilink")、[三越伊勢丹HD](../Page/三越伊勢丹ホールディングス.md "wikilink")、[J.フロント リテイリング](../Page/J.フロント_リテイリング.md "wikilink")、[長瀬産業](../Page/長瀬産業.md "wikilink")、[日本マクドナルドHD](../Page/日本マクドナルドホールディングス.md "wikilink")、[東邦HD](https://ja.wikipedia.org/wiki/東邦ホールディングス "wikilink")、[マクニカ・富士エレHD](https://ja.wikipedia.org/wiki/マクニカ・富士エレ_ホールディングス "wikilink")、[ダイワボウHD](../Page/ダイワボウホールディングス.md "wikilink")、[リテールパートナーズ](https://ja.wikipedia.org/wiki/リテールパートナーズ "wikilink")
   - 金融・保険
-    [みずほFG](https://ja.wikipedia.org/wiki/みずほフィナンシャルグループ "wikilink")、[野村HD](../Page/野村ホールディングス.md "wikilink")、[SOMPOHD](https://ja.wikipedia.org/wiki/SOMPOホールディングス "wikilink")、[T\&DHD](../Page/T&Dホールディングス.md "wikilink")、[みずほ銀行](../Page/みずほ銀行.md "wikilink")、[損害保険ジャパン日本興亜](https://ja.wikipedia.org/wiki/損害保険ジャパン日本興亜 "wikilink")、[ふくおかFG](../Page/ふくおかフィナンシャルグループ.md "wikilink")、[日立キャピタル](../Page/日立キャピタル.md "wikilink")、[スルガ銀行](../Page/スルガ銀行.md "wikilink")、[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")、[芙蓉総合リース](../Page/芙蓉総合リース.md "wikilink")、[日本政策金融公庫](https://ja.wikipedia.org/wiki/日本政策金融公庫 "wikilink")、[オリエントコーポレーション](../Page/オリエントコーポレーション.md "wikilink")、[国際協力銀行](../Page/国際協力銀行.md "wikilink")、[トモニHD](https://ja.wikipedia.org/wiki/トモニホールディングス "wikilink")、[東京きらぼしFG](https://ja.wikipedia.org/wiki/東京きらぼしフィナンシャルグループ "wikilink")、[フィデアHD](https://ja.wikipedia.org/wiki/フィデアホールディングス "wikilink")、[池田泉州HD](https://ja.wikipedia.org/wiki/池田泉州ホールディングス "wikilink")、[西日本フィナンシャルHD](https://ja.wikipedia.org/wiki/西日本フィナンシャルホールディングス "wikilink")、[じもとHD](https://ja.wikipedia.org/wiki/じもとホールディングス "wikilink")、[信金中央金庫](../Page/信金中央金庫.md "wikilink")
+    [みずほFG](https://ja.wikipedia.org/wiki/みずほフィナンシャルグループ "wikilink")、[野村HD](../Page/野村ホールディングス.md "wikilink")、[SOMPOHD](https://ja.wikipedia.org/wiki/SOMPOホールディングス "wikilink")、[T\&DHD](../Page/T&Dホールディングス.md "wikilink")、[みずほ銀行](../Page/みずほ銀行.md "wikilink")、[損害保険ジャパン](../Page/損害保険ジャパン.md "wikilink")、[ふくおかFG](../Page/ふくおかフィナンシャルグループ.md "wikilink")、[日立キャピタル](../Page/日立キャピタル.md "wikilink")、[スルガ銀行](../Page/スルガ銀行.md "wikilink")、[みずほ信託銀行](../Page/みずほ信託銀行.md "wikilink")、[芙蓉総合リース](../Page/芙蓉総合リース.md "wikilink")、[日本政策金融公庫](https://ja.wikipedia.org/wiki/日本政策金融公庫 "wikilink")、[オリエントコーポレーション](../Page/オリエントコーポレーション.md "wikilink")、[国際協力銀行](../Page/国際協力銀行.md "wikilink")、[トモニHD](https://ja.wikipedia.org/wiki/トモニホールディングス "wikilink")、[東京きらぼしFG](https://ja.wikipedia.org/wiki/東京きらぼしフィナンシャルグループ "wikilink")、[フィデアHD](https://ja.wikipedia.org/wiki/フィデアホールディングス "wikilink")、[池田泉州HD](https://ja.wikipedia.org/wiki/池田泉州ホールディングス "wikilink")、[西日本フィナンシャルHD](https://ja.wikipedia.org/wiki/西日本フィナンシャルホールディングス "wikilink")、[じもとHD](https://ja.wikipedia.org/wiki/じもとホールディングス "wikilink")、[信金中央金庫](../Page/信金中央金庫.md "wikilink")
 
 ### 特徴
 
@@ -309,7 +309,7 @@
 
 ## 外部リンク
 
-  - [新日本有限責任監査法人](http://www.shinnihon.or.jp/)
+  - [EY新日本有限責任監査法人](http://www.shinnihon.or.jp/)
   - [EY新日本 子会社および地区拠点の見直しを実施｜EY Japan](https://www.eyjapan.jp/newsroom/2017/2017-05-30.html)
       -
         [EY総合研究所](https://ja.wikipedia.org/wiki/EY総合研究所 "wikilink")株式会社(新日本有限責任監査法人の[子会社](../Page/子会社.md "wikilink"))。2017年[6月30日](../Page/6月30日.md "wikilink")をもって解散。
@@ -320,7 +320,7 @@
       -
         新日本有限責任監査法人（旧昭和（のち太田昭和）監査法人）の元兄弟会社。現在は[日立グループ](../Page/日立グループ.md "wikilink")の一員となっており資本関係は存在しない。
 
-[Category:日本の監査法人](https://ja.wikipedia.org/wiki/Category:日本の監査法人 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink")
+[Category:日本の監査法人](https://ja.wikipedia.org/wiki/Category:日本の監査法人 "wikilink") [Category:千代田区の企業](https://ja.wikipedia.org/wiki/Category:千代田区の企業 "wikilink") [Category:2000年設立の企業](https://ja.wikipedia.org/wiki/Category:2000年設立の企業 "wikilink")
 
 1.  柴田秀樹、「[監査法人の未来像：監査法人の研究](https://hdl.handle.net/10129/3261)」『人文社会論叢. 社会科学篇』 2010年 23号 p.67-99, , 弘前大学人文学部。
 2.  従来のEYのグローバルエリアは、Americas（南北アメリカ）・EMEIA（欧州、中東、インド、アフリカ）・Asia-Pacific・Japanの4区分であったが、日本法人側からの提案により2019年7月1日にAsia-PacificエリアとJapanエリアが統合されることとなり、EY Japanは同エリア最大のファームになることとなった（[1](https://www.eyjapan.jp/newsroom/2018/2018-11-01.html)）。

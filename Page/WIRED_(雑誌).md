@@ -39,7 +39,9 @@ Vol.1は第2回雑誌大賞にて、「雑誌新人賞」を受賞\[6\]。11月1
 
 2015年3月10日より隔月刊化。2016年4月からはリアルスペースを[赤坂アークヒルズ](https://ja.wikipedia.org/wiki/赤坂アークヒルズ "wikilink")にて、リアル・イベントスペースを展開。同スペースは[森ビル](../Page/森ビル.md "wikilink")と[ライゾマティクス](https://ja.wikipedia.org/wiki/ライゾマティクス "wikilink")との共同運用となる\[9\]。
 
-2017年12月9日発行のVOL.30を最後に、雑誌『WIRED』日本版は刊行を休止することが発表され\[10\]。
+2017年12月9日発行のVOL.30を最後に、雑誌『WIRED』日本版は刊行を休止することが発表された\[10\]。
+
+2018年 元編集長の若林 恵による「さよなら未来」―エディターズ・クロニクル 2010-2017　[岩波書店](../Page/岩波書店.md "wikilink")　2018/04 が出版された。
 
 2018年6月1日、『WIRED』日本版編集長に、前[NHK出版](../Page/NHK出版.md "wikilink")編集長の[松島倫明](https://ja.wikipedia.org/wiki/松島倫明 "wikilink")の就任が発表され、年内の復刊予定も明らかとなった\[11\]。
 
@@ -65,7 +67,7 @@ Vol.1は第2回雑誌大賞にて、「雑誌新人賞」を受賞\[6\]。11月1
   -
   -
   -
-[Category:パソコン雑誌](https://ja.wikipedia.org/wiki/Category:パソコン雑誌 "wikilink") [Category:アメリカ合衆国の科学技術雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の科学技術雑誌 "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink")
+[Category:コンデナスト・パブリケーションズ](https://ja.wikipedia.org/wiki/Category:コンデナスト・パブリケーションズ "wikilink") [Category:パソコン雑誌](https://ja.wikipedia.org/wiki/Category:パソコン雑誌 "wikilink") [Category:アメリカ合衆国の科学技術雑誌](https://ja.wikipedia.org/wiki/Category:アメリカ合衆国の科学技術雑誌 "wikilink") [Category:1993年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1993年創刊の雑誌 "wikilink")
 
 1.
 2.

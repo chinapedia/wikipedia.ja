@@ -93,7 +93,7 @@ SABREが機能するようになると、IBMはその経験を他の航空会社
 7.
 8.   によれば、[ビュイック](../Page/ビュイック.md "wikilink")の1960年型 LeSabre の広告から思いついた名称で、後付けで "Semi-Automatic Business Research Environment" の頭字語とされたという。
 9.
-10. John Desmond. [Max Hopper knows Sabre's 'software guts': American pushing limits of software at 2,000+ TPS - transactions per second](http://archive.is/20120711010225/findarticles.com/p/articles/mi_m0SMG/is_n2_v9/ai_7349011/). Software Magazine. February, 1989.
+10. John Desmond. [Max Hopper knows Sabre's 'software guts': American pushing limits of software at 2,000+ TPS - transactions per second](https://archive.is/20120711010225/findarticles.com/p/articles/mi_m0SMG/is_n2_v9/ai_7349011/). Software Magazine. February, 1989.
 11.
 12.
 13. "November Line of Sale Analysis", memo to R. E. Murray from S. D. Nason, American Airlines, Dec. 3, 1981.

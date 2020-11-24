@@ -1,7 +1,7 @@
 > この記事は[スーザン・B・アンソニー](https://ja.wikipedia.org/wiki/スーザン・B・アンソニー)から翻訳されています。
 
 
-[right](https://ja.wikipedia.org/wiki/画像:Elizabeth_Cady_Stanton_and_Susan_B._Anthony.jpg "wikilink") **スーザン・ブローネル・アンソニー**（**Susan Brownell Anthony**, [1820年](../Page/1820年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [1906年](../Page/1906年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")）は、アメリカの[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")の指導者で、と共に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[女性参政権](../Page/女性参政権.md "wikilink")獲得のために活動した人物。
+[right](https://ja.wikipedia.org/wiki/画像:Elizabeth_Cady_Stanton_and_Susan_B_Anthony.jpg "wikilink") **スーザン・ブローネル・アンソニー**（**Susan Brownell Anthony**, [1820年](../Page/1820年.md "wikilink")[2月15日](../Page/2月15日.md "wikilink") - [1906年](../Page/1906年.md "wikilink")[3月13日](../Page/3月13日.md "wikilink")）は、アメリカの[公民権運動](https://ja.wikipedia.org/wiki/公民権運動 "wikilink")の指導者で、[エリザベス・キャディ・スタントン](../Page/エリザベス・キャディ・スタントン.md "wikilink")と共に[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")における[女性参政権](../Page/女性参政権.md "wikilink")獲得のために活動した人物。
 
 [マサチューセッツ州](../Page/マサチューセッツ州.md "wikilink")アダムスの[クエーカー](../Page/クエーカー.md "wikilink")教徒の家庭の娘として生まれる。彼女の誕生後間もなく、アンソニー家は、[ニューヨーク](../Page/ニューヨーク.md "wikilink")に引っ越した。[1845年](../Page/1845年.md "wikilink")以降は、[ニューヨーク州](../Page/ニューヨーク州.md "wikilink")[モンロー郡](https://ja.wikipedia.org/wiki/モンロー郡_\(ニューヨーク州\) "wikilink")[ロチェスターに住んだ](../Page/ロチェスター_\(ニューヨーク州\).md "wikilink")。ロチェスターに住んでいた間に彼女は[ユニテリアン教会](https://ja.wikipedia.org/wiki/ユニテリアン教会 "wikilink")に通うようになる。
 

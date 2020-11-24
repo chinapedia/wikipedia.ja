@@ -471,7 +471,7 @@ S.H.Eでは、ボーカルとしては低音を、キャラクターとしては
 
 [Category:台湾のアイドルグループ](https://ja.wikipedia.org/wiki/Category:台湾のアイドルグループ "wikilink") [Category:台湾のガール・グループ](https://ja.wikipedia.org/wiki/Category:台湾のガール・グループ "wikilink") [Category:3人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:3人組の音楽グループ "wikilink") [Category:2001年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:2001年に結成した音楽グループ "wikilink")
 
-1.  [「S・H・E」が日本文化伝える](http://web.archive.org/web/20041205165813/http://www.sponichi.co.jp/entertainment/kiji/2003/11/13/08.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年11月13日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+1.  [「S・H・E」が日本文化伝える](https://web.archive.org/web/20041205165813/http://www.sponichi.co.jp/entertainment/kiji/2003/11/13/08.html)、[スポニチアネックス](../Page/スポーツニッポン.md "wikilink")、2003年11月13日。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 2.
 3.
 4.

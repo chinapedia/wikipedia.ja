@@ -261,6 +261,16 @@ IS350に搭載される排気量3,456ccの（[2GR-FSE](https://ja.wikipedia.org/
   - 2019年9月26日
     特別仕様車「I Blue」が発表された（10月1日発売）\[16\]。
     IS300/IS300h/IS350の「F SPORT」をベースに、ステアリングホイールに藍本杢+ディンプル本革、内装色やL texスポーツシートにブラック&アクセントグレーを採用し、内装の随所にブルーグレーステッチが、オーナメントパネル（インストルメントパネル・ドアトリム）に専用藍色フィルムがそれぞれ施された。外観は漆黒メッキ仕様のスピンドルグリルとサイドガーニッシュに専用黒光輝塗装、オート電動格納式にグレードアップされたドアミラーに専用ブラック塗装、アルミホイール（フロント225/40R18+リア255/35R18）に専用ブラックスパッタリング塗装がそれぞれ施された。装備面では、後席SRSサイドエアバッグやパワーイージーアクセスシステム（運転席オートスライドアウェイ&リターンメモリー機能）などが特別装備された。
+  - 2020年11月5日
+    2度目のマイナーチェンジを行うとともに、特別仕様車「F SPORT Mode Black」が発売された\[17\]。
+    2.5Lハイブリッドモデルの「**IS300h**」はアクセル開度に対するエンジンとモーターの駆動力制御を変更、2.0Lターボモデルの「**IS300**」はドライバーのアクセル開度などから走行環境を判定し、シーンに応じた適切なギア段を設定するアダプティブ制御を採用。また、サイドラジエーターサポートの補強、フロントサイドメンバーのスポット打点の追加、Cピラーからルーフサイドにかけての構造最適化によってボディ剛性が向上され、ホイールの締結には締結の強化と質量の軽減を図るためハブボルトが採用され、タイヤに19インチタイヤを採用。「IS300」と「IS300h」の一部（標準仕様とNAVI・AI-AVS非装着の"version L"のみ）には[ショックアブソーバー](../Page/ショックアブソーバー.md "wikilink")のオイル流路に非着座式のバルブを設けて微小な動きに対しても流路抵抗による減衰力を発生させる「スウィングバルブショックアブソーバー」が採用された。
+    ヘッドランプはランプユニットの小型軽量化に伴って薄型化され、スピンドルグリルはグリルの先端を起点に立体的な多面体構造とし、スピンドルをモチーフとしたブロック形状とメッシュパターンを組み合わせた新意匠に変更。前後のフェンダーを張り出し、Lシェイプ一文字シグネチャーランプを採用。トレッドがワイド化された。なお、ボディサイズが変更となり、全長と全幅で各30mmずつ、全高で5mmそれぞれ拡大された。
+    内装はマルチメディアシステムにタッチパネルが搭載され、SmartDeviceLink・[Apple CarPlay](https://ja.wikipedia.org/wiki/CarPlay "wikilink")・[Android Autoに対応](https://ja.wikipedia.org/wiki/Android_Auto "wikilink")。インストルメントパネル上部やドアトリムに有彩色を採用してツートーン配色となり、ドアトリムの一部に新たな加飾表現として複数のエンボスラインを交差させたグラフィックパターンが採用され、オーナメントパネルにアッシュ（オープンフィニッシュ/墨ブラック）、ブラックジオメトリーフィルム、F SPORT専用サテンクロムが設定された。
+    「F SPORT」では、前後異サイズ19インチアルミホイールが専用設定され、[スタビライザー](https://ja.wikipedia.org/wiki/スタビライザー "wikilink")やEPSなどに専用チューニングを施し、グリルロア部のエアインテーク、サイドにロッカーモールフィン、リアにスポイラーとバンパーロアガーニッシュを配し、カラーリングをピアノブラック塗装で統一。専用ボディカラーに赤系の「ラディアントレッドコントラストレイヤリング」が設定された。
+    「Lexus Safety System +」は改良が施され、「プリクラッシュセーフティ」は交差点右折時に前方から来る対向直進車、右左折時に前方からくる横断歩行者にも検知が可能となり、高度運転支援機能「レーントレーシングアシスト（LTA）」はレーントレース性能の大幅向上や滑らかにレーン中央をキープする走行が可能となり、「[レーダー](../Page/レーダー.md "wikilink")[クルーズコントロール](../Page/クルーズコントロール.md "wikilink")」は全車速追従機能付に強化。「オートマチックハイビーム（AHB）」や「ロードサインアシスト（RSA）」が採用されたほか、LTA制御中にドライバーの無操作状態が継続した場合に音・表示・緩減速による警告でドライバーに注意を促し、ハザードとホーンで車外に異常を報知しながら自車線内に減速・停車し、停車後にはドア解錠やヘルプネット自動接続による救命要請を行うことで自損加害事故の回避及び事故被害低減の支援、早期のドライバー救命・救護に寄与するドライバー異常時対応システムも搭載された。これら以外にも、パーキングサポートブレーキやパノラミックビューモニターといった安全装備も導入された。
+    3.5Lガソリンエンジン車の「**IS350**」は「F SPORT」のみに集約された。
+    特別仕様車「F SPORT Mode Black」は「IS300」と「IS350」の「F SPORT」をベースに、BBSとの共同開発によるマットブラック塗装鍛造アルミホイールの装備による軽量化によってばね下質量が低減されたほか、オート電動格納式ドアミラーにブラック塗装（ただし、ボディカラーで「グラファイトブラックガラスブレーク」を設定した場合はボディカラー同色）を採用。内装ではアッシュ材に高輝度塗装を施して銀墨色に仕上げた専用デザインのステアリングやオーナメントパネル（パワーウインドウスイッチベース）を採用したほか、8インチTFT液晶式メーターを専用オープニング仕様に変更。そのほか、三眼フルLEDヘッドランプ（ロー・ハイビーム）\&LEDフロントターンシグナルランプ、後席SRSサイドエアバッグ、パワーイージーアクセスシステム（運転席オートスライドアウェイ&リターンメモリー機能付）が特別装備され、「IS350"F SPORT Mode Black"」には[ジェイテクト](../Page/ジェイテクト.md "wikilink")のリヤディファレンシャルギヤ「トルセンLSD」も特別装備された。
+    今回のマイナーチェンジでWLTCモードによる[燃料消費率](../Page/燃料消費率.md "wikilink")・排出ガスに対応し、「IS300h」は「平成30年排出ガス基準75%低減レベル（☆☆☆☆☆）」認定を取得した。
 
 [File:Lexus_IS300h_2015_japan_front.JPG|IS300h](File:Lexus_IS300h_2015_japan_front.JPG%7CIS300h) 日本仕様（2013年登場型） [File:Lexus_IS300h_2015_japan_Rear.JPG|IS300h](File:Lexus_IS300h_2015_japan_Rear.JPG%7CIS300h) 日本仕様（2013年登場型）
 リア <File:Lexus> IS300h 2013 japan intera.JPG|IS300h 日本仕様（2013年登場型）
@@ -281,7 +291,7 @@ IS350に搭載される排気量3,456ccの（[2GR-FSE](https://ja.wikipedia.org/
   - 2006年、[カナダ](https://ja.wikipedia.org/wiki/カナダ "wikilink")・「Car of the Year（テクノロジー賞）」受賞（IS350）
   - 2006年、「[世界・カー・オブ・ザ・イヤー](../Page/世界・カー・オブ・ザ・イヤー.md "wikilink")」最終候補　（最終受賞は、レクサスLS460）
   - 2007年、ドイツ・[iFデザイン賞](https://ja.wikipedia.org/wiki/iFデザイン賞 "wikilink")金賞受賞（レクサスGS450hと同時受賞）
-  - 2013年、ソニックチタニウム外装とトパーズブラウンインテリアの組み合わせが「[オートカラーアウォード](https://ja.wikipedia.org/wiki/オートカラーアウォード "wikilink")2014」グランプリ受賞\[17\]
+  - 2013年、ソニックチタニウム外装とトパーズブラウンインテリアの組み合わせが「[オートカラーアウォード](https://ja.wikipedia.org/wiki/オートカラーアウォード "wikilink")2014」グランプリ受賞\[18\]
 
 ## 製造工場
 
@@ -289,7 +299,7 @@ IS350に搭載される排気量3,456ccの（[2GR-FSE](https://ja.wikipedia.org/
 
 ## カスタマイズ
 
-ほぼ同時に発売された「[GS](../Page/レクサス・GS.md "wikilink")」と同様にメーカーのすみずみに渡る品質管理でカスタマイズは困難を極めたが、トヨタのセミワークスである[TOM'Sや大手アフターパーツメーカーである](../Page/トムス.md "wikilink")[BLITZ](../Page/BLITZ.md "wikilink")をはじめとする社外品メーカーが[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")に成功している。さらに[SARDがIS](../Page/サード_\(企業\).md "wikilink")220dに搭載されている6速ミッションをベースにクロスレシオ化や強化クラッチ、フライホイール、専用コンピューターに加えIS220dの内装パーツをパッケージ化した6MTコンバーションキットを販売している\[18\]。
+ほぼ同時に発売された「[GS](../Page/レクサス・GS.md "wikilink")」と同様にメーカーのすみずみに渡る品質管理でカスタマイズは困難を極めたが、トヨタのセミワークスである[TOM'Sや大手アフターパーツメーカーである](../Page/トムス.md "wikilink")[BLITZ](../Page/BLITZ.md "wikilink")をはじめとする社外品メーカーが[カスタマイズ](https://ja.wikipedia.org/wiki/カスタマイズ "wikilink")に成功している。さらに[SARDがIS](../Page/サード_\(企業\).md "wikilink")220dに搭載されている6速ミッションをベースにクロスレシオ化や強化クラッチ、フライホイール、専用コンピューターに加えIS220dの内装パーツをパッケージ化した6MTコンバーションキットを販売している\[19\]。
 
 また、日本国外では「**LEXUS F-Performance**」と銘打ってレクサスと[TRD](https://ja.wikipedia.org/wiki/トヨタテクノクラフト#TRD "wikilink")-USAが共同開発したIS専用のハイパフォーマンスキット（19インチアルミホイール、エアインテーク、マフラー、サスペンション、[ブレンボ](../Page/ブレンボ.md "wikilink")製6ポット&4ポットブレーキキャリパー&大径ドリルドローター、ボディ補強パーツなど）をレクサス初の公認[チューニング](https://ja.wikipedia.org/wiki/チューニング "wikilink")パーツとしてディーラーで販売している。
 
@@ -307,17 +317,17 @@ IS350で参戦するチームは[TEAM TAKEUCHI](../Page/TEAM_TAKEUCHI.md "wikili
 
   - ニュルブルクリンク
 
-[Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg](https://ja.wikipedia.org/wiki/File:Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg "fig:Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg") 2008年に「クルマの味付け探しの旅」と称して24時間レースの前哨戦となるVLN開幕戦にIS250で参戦。[豊田章男](https://ja.wikipedia.org/wiki/豊田章男 "wikilink")/平田泰男/[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")のドライブでクラス2位を獲得した\[19\]。
+[Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg](https://ja.wikipedia.org/wiki/File:Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg "fig:Lexus_IS-F_Gazoo_Racing_Goodwood_Festival.jpg") 2008年に「クルマの味付け探しの旅」と称して24時間レースの前哨戦となるVLN開幕戦にIS250で参戦。[豊田章男](https://ja.wikipedia.org/wiki/豊田章男 "wikilink")/平田泰男/[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")のドライブでクラス2位を獲得した\[20\]。
 
-2009年のVLN第2戦にも[LFA](https://ja.wikipedia.org/wiki/LFA "wikilink")とともにIS Fがプレイングマネージャー的立ち位置で参戦。ドライバーは[成瀬弘](https://ja.wikipedia.org/wiki/成瀬弘 "wikilink")・高木実・勝俣義信。トップのLFAとSP8クラスワンツーフィニッシュを飾った\[20\]。同年VLN第8戦にプライベーターとして[山内一典](../Page/山内一典.md "wikilink")、[ピーター・ライオン](https://ja.wikipedia.org/wiki/ピーター・ライオン "wikilink")、[松田秀士](../Page/松田秀士.md "wikilink")がIS Fで参戦、クラス優勝した\[21\]\[22\]。
+2009年のVLN第2戦にも[LFA](https://ja.wikipedia.org/wiki/LFA "wikilink")とともにIS Fがプレイングマネージャー的立ち位置で参戦。ドライバーは[成瀬弘](https://ja.wikipedia.org/wiki/成瀬弘 "wikilink")・高木実・勝俣義信。トップのLFAとSP8クラスワンツーフィニッシュを飾った\[21\]。同年VLN第8戦にプライベーターとして[山内一典](../Page/山内一典.md "wikilink")、[ピーター・ライオン](https://ja.wikipedia.org/wiki/ピーター・ライオン "wikilink")、[松田秀士](../Page/松田秀士.md "wikilink")がIS Fで参戦、クラス優勝した\[22\]\[23\]。
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には山内・松田含む『ワールド・カー・アワード』のメンバーたちがISｰFでニュル24時間に参戦、総合59位/クラス4位で完走した\[23\]。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")には山内・松田含む『ワールド・カー・アワード』のメンバーたちがISｰFでニュル24時間に参戦、総合59位/クラス4位で完走した\[24\]。
 
 2016年からはレクサス専門チューナーのNOVEL RACINGがIS Fで度々ニュルに参戦し、表彰台に上がっている。
 
   - ワンメイクレース
 
-[Lexus_IS-F_CCS-R.jpg](https://ja.wikipedia.org/wiki/File:Lexus_IS-F_CCS-R.jpg "fig:Lexus_IS-F_CCS-R.jpg") 2008年にIS Fのワンメイクレース用車両のテストカーが発表され、2011年に『IS F CCS-R』の名で発売された\[24\]。安全装備の他フェンダーやウィングなどがカーボン化により軽量化されているものの、エンジン・ブレーキ・トランスミッションは市販車のIS Fと同じである。
+[Lexus_IS-F_CCS-R.jpg](https://ja.wikipedia.org/wiki/File:Lexus_IS-F_CCS-R.jpg "fig:Lexus_IS-F_CCS-R.jpg") 2008年にIS Fのワンメイクレース用車両のテストカーが発表され、2011年に『IS F CCS-R』の名で発売された\[25\]。安全装備の他フェンダーやウィングなどがカーボン化により軽量化されているものの、エンジン・ブレーキ・トランスミッションは市販車のIS Fと同じである。
 
 CCS-Rの開発はニュルで行われ、2011年にVLN第9戦[木下隆之](../Page/木下隆之.md "wikilink")/高木実/[佐藤久実](https://ja.wikipedia.org/wiki/佐藤久実 "wikilink")、2012年のVLN開幕戦では[山内一典](../Page/山内一典.md "wikilink")・[飯田章](../Page/飯田章.md "wikilink")らがステアリングを握った。
 
@@ -370,11 +380,12 @@ CCS-Rの開発はニュルで行われ、2011年にVLN第9戦[木下隆之](../P
 14.
 15. ボディカラーに「グラファイトブラックガラスフレーク」を選択した場合、ドアミラーはボディカラー同色となる。
 16.
-17. [オートカラーアウォード2014各賞決定！](http://www.jafca.org/seminar/2013-9.php) - 日本流行色協会(2013年12月13日)
-18. [SARD・製品情報・IS350 design complete](http://www.sard.co.jp/after/products/complete/IS350/6mt/is350mt.html)
-19. \[<http://toyotagazooracing.com/archive/gr/detail/128453/>　ニュルブルクリンクへの挑戦 2008\]
-20. [ニュルブルクリンクへの挑戦 2009 VLN1レポート](http://toyotagazooracing.com/archive/gr/detail/1200961/)
-21. \*[山内一典がニュル4時間耐久レースでクラス優勝](http://www.gran-turismo.com/jp/news/d7866.html)
-22. \*[VLNシリーズ第8戦の公式リザルト(英語サイト)](http://www.ts-vln.com/valuation/2009-7-classes.html)
-23. \*[山内一典がニュル24時間レースに初参戦・クラス4位でフィニッシュ](http://www.gran-turismo.com/jp/news/d9262.html)
-24. [レクサス IS F CCS-R 試乗レポート／松田秀士](http://autoc-one.jp/lexus/is-f/report-856165/0002.html)
+17.
+18. [オートカラーアウォード2014各賞決定！](http://www.jafca.org/seminar/2013-9.php) - 日本流行色協会(2013年12月13日)
+19. [SARD・製品情報・IS350 design complete](http://www.sard.co.jp/after/products/complete/IS350/6mt/is350mt.html)
+20. \[<http://toyotagazooracing.com/archive/gr/detail/128453/>　ニュルブルクリンクへの挑戦 2008\]
+21. [ニュルブルクリンクへの挑戦 2009 VLN1レポート](http://toyotagazooracing.com/archive/gr/detail/1200961/)
+22. \*[山内一典がニュル4時間耐久レースでクラス優勝](http://www.gran-turismo.com/jp/news/d7866.html)
+23. \*[VLNシリーズ第8戦の公式リザルト(英語サイト)](http://www.ts-vln.com/valuation/2009-7-classes.html)
+24. \*[山内一典がニュル24時間レースに初参戦・クラス4位でフィニッシュ](http://www.gran-turismo.com/jp/news/d9262.html)
+25. [レクサス IS F CCS-R 試乗レポート／松田秀士](http://autoc-one.jp/lexus/is-f/report-856165/0002.html)

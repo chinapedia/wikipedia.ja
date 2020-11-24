@@ -347,6 +347,7 @@
   - 7月1日、秋山準がDDTにレンタル移籍。
   - 7月27日、株式会社DDTプロレスリング、ノア・グローバルエンタテインメント株式会社、株式会社DDTフーズの3社経営統合を発表\[15\]。9月より、株式会社CyberFightの運営するブランドとなる\[16\]。
   - [9月30日](../Page/9月30日.md "wikilink")、レディビアードが契約満了により退団。
+  - [11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、大田区総合体育館大会を開催。
 
 ## 他団体との交流
 
@@ -412,7 +413,7 @@
   - [プロレスリングWAVE](https://ja.wikipedia.org/wiki/プロレスリングWAVE "wikilink")
     チェリーが定期参戦のみならず若手中心ブランド「ヤング オー\!オー\!」終身名誉顧問を務める。DDT側からはディーノや木高など、WAVE側から[大畠美咲](../Page/大畠美咲.md "wikilink")などが参戦。[GAMI](../Page/GAMI.md "wikilink")もDDTに参戦していた。
   - [スターダム](https://ja.wikipedia.org/wiki/スターダム "wikilink")
-    DDTの選手がスターダムに参戦することもある。過去にはディーノ・中澤・飯伏・伊橋・レギュラー参戦時の光留などが参戦している。またスターダム側からは[世IV虎](https://ja.wikipedia.org/wiki/世IV虎 "wikilink")らが参戦している。かつては[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")も参戦していた。また世IV虎は飯伏に求愛をよくする。さらに[柿本大地](../Page/柿本大地.md "wikilink")店長時代のドロップキックでは実妹でもある[風香](../Page/風香.md "wikilink")GMが週1で店に立っていた。DDT定期参戦中の[赤井沙希](../Page/赤井沙希.md "wikilink")は世IV虎から[赤いベルトの挑戦者に指名されている](https://ja.wikipedia.org/wiki/ワールド・オブ・スターダム王座 "wikilink")。またZERO1の道場をZERO1とDDTとスターダムの3団体でシェアをして使用することが決定。
+    DDTの選手がスターダムに参戦することもある。過去にはディーノ・中澤・飯伏・伊橋・レギュラー参戦時の佐藤光留などが参戦している。またスターダム側からは[世IV虎](https://ja.wikipedia.org/wiki/世IV虎 "wikilink")らが参戦している。かつては[愛川ゆず季](https://ja.wikipedia.org/wiki/愛川ゆず季 "wikilink")も参戦していた。また世IV虎は飯伏に求愛をよくする。さらに[柿本大地](../Page/柿本大地.md "wikilink")店長時代のドロップキックでは実妹でもある[風香](../Page/風香.md "wikilink")GMが週1で店に立っていた。DDT定期参戦中の[赤井沙希](../Page/赤井沙希.md "wikilink")は世IV虎から[赤いベルトの挑戦者に指名されている](https://ja.wikipedia.org/wiki/ワールド・オブ・スターダム王座 "wikilink")。またZERO1の道場をZERO1とDDTとスターダムの3団体でシェアをして使用することが決定。
   - [REINA女子プロレス](https://ja.wikipedia.org/wiki/レイナ・コーポレーション "wikilink")
     極初期のプロモーションだった時代に業務提携を結び、男子の試合を提供していた。2014年にもディーノ、大石が参戦。
   - [ワールド女子プロレス・ディアナ](https://ja.wikipedia.org/wiki/ワールド女子プロレス・ディアナ "wikilink")
@@ -513,17 +514,17 @@
   - [びっくりプロレス](https://ja.wikipedia.org/wiki/松井幸則#びっくりプロレス "wikilink")
     [松井幸則](../Page/松井幸則.md "wikilink")のプロデュースによる興行。[2005年](../Page/2005年.md "wikilink")[10月15日](../Page/10月15日.md "wikilink")、[岸和田市総合体育館](https://ja.wikipedia.org/wiki/岸和田市総合体育館 "wikilink")で旗揚げ戦「お前ら、見たらわかるやろ\!\!」を開催。
   - [でら名古屋プロレス](https://ja.wikipedia.org/wiki/チームでら "wikilink")
-    高木が設立して[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")を中心に活動しているプロレス団体。2008年[6月7日](../Page/6月7日.md "wikilink")、[Zepp Nagoyaで旗揚げ戦を開催](../Page/Zepp.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、代表の[渋谷雅人](https://ja.wikipedia.org/wiki/渋谷雅人 "wikilink")が[愛知県警察](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")[津島警察署](../Page/津島警察署.md "wikilink")に大麻取締法違反で現行犯逮捕された。[4月6日](../Page/4月6日.md "wikilink")、代表の渋谷が逮捕されたことを受けて解散することを発表。[7月26日](../Page/7月26日.md "wikilink")、中村スポーツセンターで開催する予定だった旗揚げ1周年記念大会を中止して入場無料のラスト興行を開催して解散。[7月27日](../Page/7月27日.md "wikilink")、一部の元所属選手が[プロレスリング・チームでらを設立することを発表](https://ja.wikipedia.org/wiki/チームでら "wikilink")。
+    高木が設立して[愛知県](https://ja.wikipedia.org/wiki/愛知県 "wikilink")[名古屋市](../Page/名古屋市.md "wikilink")を中心に活動しているプロレス団体。2008年[6月7日](../Page/6月7日.md "wikilink")、[Zepp Nagoyaで旗揚げ戦を開催](../Page/Zepp.md "wikilink")。[2009年](../Page/2009年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink")、当時の代表が[愛知県警察](https://ja.wikipedia.org/wiki/愛知県警察 "wikilink")[津島警察署](../Page/津島警察署.md "wikilink")に大麻取締法違反で現行犯逮捕された。[4月6日](../Page/4月6日.md "wikilink")、代表が逮捕されたことを受けて解散することを発表。[7月26日](../Page/7月26日.md "wikilink")、中村スポーツセンターで開催する予定だった旗揚げ1周年記念大会を中止して入場無料のラスト興行を開催して解散。[7月27日](../Page/7月27日.md "wikilink")、一部の元所属選手が[プロレスリング・チームでらを設立することを発表](https://ja.wikipedia.org/wiki/チームでら "wikilink")。
   - [マッスル](../Page/マッスル_\(プロレス\).md "wikilink")
     坂井のプロデュースによる[ハッスルのパロディで全く新しいスタイルの興行](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")。[2004年](../Page/2004年.md "wikilink")[10月13日](../Page/10月13日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")で旗揚げ戦「マッスル1」を開催。旗揚げ当初は[ハッスルのパロディ](https://ja.wikipedia.org/wiki/ハッスル_\(プロレス\) "wikilink")（ロゴマークもハッスルがモチーフだった）としてインディー団体、ローカル団体の所属ながら光を放つ存在を発掘するというコンセプトで開始。[2009年](../Page/2009年.md "wikilink")[5月4日](https://ja.wikipedia.org/wiki/5月4日 "wikilink")、後楽園ホールで開催した「マッスルハウス8」を最後に実質的に活動休止していたが[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月6日](../Page/2月6日.md "wikilink")に[暗黒プロレス組織666との合同ディナーショーで活動再開](../Page/666_\(プロレス\).md "wikilink")。5月4日、後楽園ホールで開催した「マッスルハウス9」で「[リングオブコント](../Page/キングオブコント.md "wikilink")」を開催。[10月6日](../Page/10月6日.md "wikilink")、[マッスル坂井](../Page/マッスル坂井.md "wikilink")が家庭の事情により引退することとなり自身最後の興行となる「マッスルハウス10〜負けるから即引退させてくれSP〜」が後楽園ホールで開催。「マッスルハウス10」をもってマッスルはいったん幕を閉じるが同興行開催中に坂井により20年後の[2030年](../Page/2030年.md "wikilink")10月6日に後楽園ホールで「マッスルハウス11」を開催することを宣言。同日に入籍を発表して子供が生まれる予定があるという坂井が20年後に子供をプロレスラーに育て上げて出場させるという構想である。マッスル戦士たちによると裏の計画では次回のマッスルは[日本武道館](../Page/日本武道館.md "wikilink")で興行を予定していて「マッスルハウス10」に来場した観客全員が2人ずつ子供を産んで連れてくれば日本武道館が超満員になるという算段らしい。2019年4月の[両国国技館](../Page/両国国技館.md "wikilink")大会「[マッスルマニア 2019 in 両国〜俺たちのセカンドキャリア〜](https://ja.wikipedia.org/wiki/マッスルマニア_2019_in_両国〜俺たちのセカンドキャリア〜 "wikilink")」を経て2020年1月に当時のメンバーよりは若手のメンバーによる「まっする」(読み：ひらがなまっする)として復活。
   - [Cruiser's Game](https://ja.wikipedia.org/wiki/Cruiser's_Game "wikilink")
     [MIKAMI](../Page/MIKAMI.md "wikilink")のプロデュースによるウェイトがヘビー級、ジュニアヘビー級に区別されるならクルーザー級という新しい世界を作っていこうという形でジュニアヘビー級選手で開催している興行。2005年[6月21日](../Page/6月21日.md "wikilink")、[CLUB ATOMで旗揚げ戦を開催](https://ja.wikipedia.org/wiki/アトム_\(クラブ\) "wikilink")。[2011年](../Page/2011年.md "wikilink")[3月6日](https://ja.wikipedia.org/wiki/3月6日 "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")大会を最後に活動停止。
   - [ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")
-    [ポイズン澤田](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")が設立したプロレス団体。[1993年](../Page/1993年.md "wikilink")、元第1次[NOW所属選手の](../Page/ネットワーク・オブ・レスリング.md "wikilink")[鶴見五郎](../Page/鶴見五郎.md "wikilink")、元[オリエンタルプロレス](../Page/オリエンタルプロレス.md "wikilink")所属選手の[高杉正彦](../Page/高杉正彦.md "wikilink")、元[PWC所属選手の](../Page/Pro_Wrestling_Crusaders.md "wikilink")[ホー・デス・ミン](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")（現：ポイズン澤田）らによりIWAを結成して後にIWAは鶴見の[IWA格闘志塾](../Page/国際プロレスプロモーション.md "wikilink")（現：国際プロレスプロモーション）、高杉の[IWA湘南](https://ja.wikipedia.org/wiki/湘南プロレス "wikilink")（現：湘南プロレス）、ホーのIWA流山を始めとしたインディー団体統括組織「[レスリング・ユニオン](https://ja.wikipedia.org/wiki/レスリング・ユニオン "wikilink")」に変化。IWA流山にはホー、[松崎駿馬](https://ja.wikipedia.org/wiki/松崎一彦 "wikilink")（現：松崎一彦）、[荒谷信孝](../Page/荒谷望誉.md "wikilink")（現：荒谷望誉）らが参加。その後、レスリング・ユニオンが解散したため[1994年](../Page/1994年.md "wikilink")4月、団体名をユニオンプロレスに改称と同時にホーはリングネームをポイズン澤田に改名。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")、[流山市民総合体育館](https://ja.wikipedia.org/wiki/流山市民総合体育館 "wikilink")大会を最後に活動停止。2005年[6月29日](../Page/6月29日.md "wikilink")、DDTプロレスリング[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会で第1次ユニオン解散後に[ポイズン澤田](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")はリングネームをポイズン澤田JULIEに改名して再旗揚げを宣言。DDT代表の[一宮章一](../Page/一宮章一.md "wikilink")は難色を示していたが[8月14日](../Page/8月14日.md "wikilink")に和解。代表は[FMWで営業として勤めた後にDDTで音響を手掛けていた](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")[会場敏](https://ja.wikipedia.org/wiki/会場敏 "wikilink")が就任。[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で再旗揚げ戦を開催。[2013年](../Page/2013年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、DDT後楽園ホール大会で運営会社が、それまでの株式会社DDTプロレスリングから株式会社TEC（旧：有限会社DDTテック）（[2004年](../Page/2004年.md "wikilink")12月、[マッスル坂井](../Page/マッスル坂井.md "wikilink")が設立したDDT映像関連子会社）に変更されることを発表。[10月23日](../Page/10月23日.md "wikilink")、新会社による初興行を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催。2015年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、後楽園ホール大会を最後に解散。
+    [ポイズン澤田](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")が設立したプロレス団体。[1993年](../Page/1993年.md "wikilink")、元第1次[NOW所属選手の](../Page/ネットワーク・オブ・レスリング.md "wikilink")[鶴見五郎](../Page/鶴見五郎.md "wikilink")、元[オリエンタルプロレス](../Page/オリエンタルプロレス.md "wikilink")所属選手の[高杉正彦](../Page/高杉正彦.md "wikilink")、元[PWC所属選手の](../Page/Pro_Wrestling_Crusaders.md "wikilink")[ホー・デス・ミン](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")（現：ポイズン澤田）らによりIWAを結成して後にIWAは鶴見の[IWA格闘志塾](../Page/国際プロレスプロモーション.md "wikilink")（現：国際プロレスプロモーション）、高杉の[IWA湘南](https://ja.wikipedia.org/wiki/湘南プロレス "wikilink")（現：湘南プロレス）、ホーのIWA流山を始めとしたインディー団体統括組織「[レスリング・ユニオン](https://ja.wikipedia.org/wiki/レスリング・ユニオン "wikilink")」に変化。IWA流山にはホー、[松崎駿馬](../Page/松崎和彦.md "wikilink")（現：松崎和彦）、[荒谷信孝](../Page/荒谷望誉.md "wikilink")（現：荒谷望誉）らが参加。その後、レスリング・ユニオンが解散したため[1994年](../Page/1994年.md "wikilink")4月、団体名をユニオンプロレスに改称と同時にホーはリングネームをポイズン澤田に改名。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")[4月28日](../Page/4月28日.md "wikilink")、[流山市民総合体育館](https://ja.wikipedia.org/wiki/流山市民総合体育館 "wikilink")大会を最後に活動停止。2005年[6月29日](../Page/6月29日.md "wikilink")、DDTプロレスリング[後楽園ホール](../Page/後楽園ホール.md "wikilink")大会で第1次ユニオン解散後に[ポイズン澤田](https://ja.wikipedia.org/wiki/ポイズン澤田 "wikilink")はリングネームをポイズン澤田JULIEに改名して再旗揚げを宣言。DDT代表の[一宮章一](../Page/一宮章一.md "wikilink")は難色を示していたが[8月14日](../Page/8月14日.md "wikilink")に和解。代表は[FMWで営業として勤めた後にDDTで音響を手掛けていた](../Page/フロンティア・マーシャルアーツ・レスリング.md "wikilink")[会場敏](https://ja.wikipedia.org/wiki/会場敏 "wikilink")が就任。[11月3日](https://ja.wikipedia.org/wiki/11月3日 "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で再旗揚げ戦を開催。[2013年](../Page/2013年.md "wikilink")[9月29日](../Page/9月29日.md "wikilink")、DDT後楽園ホール大会で運営会社が、それまでの株式会社DDTプロレスリングから株式会社TEC（旧：有限会社DDTテック）（[2004年](../Page/2004年.md "wikilink")12月、[マッスル坂井](../Page/マッスル坂井.md "wikilink")が設立したDDT映像関連子会社）に変更されることを発表。[10月23日](../Page/10月23日.md "wikilink")、新会社による初興行を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催。2015年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、後楽園ホール大会を最後に解散。
   - [酒場プロレス](https://ja.wikipedia.org/wiki/酒場プロレス "wikilink")
     [木高イサミ](../Page/木高イサミ.md "wikilink")のプロデュースによるプロレス&スポーツBar ドロップキックのメンバーを中心として開催している興行。アルコールを含むドリンク飲み放題のオールスタンディングスタイルで行われる。2015年[6月23日](../Page/6月23日.md "wikilink")、[レッスル武闘館](https://ja.wikipedia.org/wiki/レッスル武闘館 "wikilink")でプレ旗揚げ戦を開催。[7月15日](../Page/7月15日.md "wikilink")、[新木場1stRing](https://ja.wikipedia.org/wiki/新木場1stRing "wikilink")で旗揚げ戦を開催。[2017年](../Page/2017年.md "wikilink")[5月23日](../Page/5月23日.md "wikilink")、新木場1stRing大会を最後に終了。飲み放題システムはプロレスリングBASARAが「宴」興行として継続している。
   - [DDT NEW ATTITUDE](https://ja.wikipedia.org/wiki/DDT_NEW_ATTITUDE "wikilink")
-    [高木三四郎](../Page/高木三四郎.md "wikilink")が「若い力が主人公となる新プロジェクト」として開催している興行。[2014年](../Page/2014年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")で旗揚げ戦を開催。練習生は、ここでデビューしてDDTとユニオンでデビュー済の一部、選手も既にDDT NEW ATTITUDE所属選手として活動している。[2018年](../Page/2018年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")、北沢タウンホール大会を最後に活動休止。
+    [高木三四郎](../Page/高木三四郎.md "wikilink")が「若い力が主人公となる新プロジェクト」として開催している興行。[2014年](../Page/2014年.md "wikilink")[11月28日](../Page/11月28日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")で旗揚げ戦を開催。練習生は、ここでデビューしてDDTとユニオンでデビュー済の一部、選手も既にDDT NEW ATTITUDE所属選手として活動していた。[2018年](../Page/2018年.md "wikilink")[8月10日](../Page/8月10日.md "wikilink")、北沢タウンホール大会を最後に活動休止。
   - [U.S.A.](https://ja.wikipedia.org/wiki/アルティメット・スーパースターズ・アクション "wikilink")
     [福田洋](https://ja.wikipedia.org/wiki/トランザム★ヒロシ "wikilink")（現：トランザム★ヒロシ）のプロデュースによる[アメリカンプロレス](https://ja.wikipedia.org/wiki/アメリカンプロレス "wikilink")の要素を多く取り入れた興行。
   - [男色牧場classic](https://ja.wikipedia.org/wiki/男色牧場classic "wikilink")
@@ -532,7 +533,7 @@
 ### 独立した興行
 
   - [ハードヒット](https://ja.wikipedia.org/wiki/ハードヒット "wikilink")
-    通常のプロレスルールに加えてダウンやロープエスケープで減点となるロストポイント制を採用して元[UWFインターナショナル](../Page/UWFインターナショナル.md "wikilink")のレフェリーの[和田良覚](https://ja.wikipedia.org/wiki/和田良覚 "wikilink")がルールの監修を行って開催している興行。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で旗揚げ戦を開催。[2009年](../Page/2009年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")大会を最後に活動休止。[2011年](../Page/2011年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新木場1stRINGで約2年半ぶりに興行を開催。[DDT48総選挙で第](https://ja.wikipedia.org/wiki/DDTドラマティック総選挙 "wikilink")1位を獲得していた[佐藤光留](../Page/佐藤光留.md "wikilink")が全試合終了後に「城をください」とDDT代表の高木に直訴して承諾を得たためハードヒットは佐藤の下で再始動することになった。[11月14日](../Page/11月14日.md "wikilink")、佐藤がプロデューサーに就任。運営と興行はDDTが協力していく。[2012年](../Page/2012年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、佐藤のプロデュース興行第1弾を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催。ルールも3カウントフォールを廃止。[2015年](../Page/2015年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、ハードヒットの運営と興行の諸権利がDDTから佐藤へ譲渡されて独立。DDTとの協力体制は継続していく。選手、スタッフ、リングの貸し出しなど興行面以外においては引き続きDDTが可能な範囲で協力していく。
+    通常のプロレスルールに加えてダウンやロープエスケープで減点となるロストポイント制を採用して元[UWFインターナショナル](../Page/UWFインターナショナル.md "wikilink")のレフェリーの[和田良覚](https://ja.wikipedia.org/wiki/和田良覚 "wikilink")がルールの監修を行って開催している興行。[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[3月16日](../Page/3月16日.md "wikilink")、[新木場1stRING](../Page/新木場1stRING.md "wikilink")で旗揚げ戦を開催。[2009年](../Page/2009年.md "wikilink")[5月6日](../Page/5月6日.md "wikilink")、[北沢タウンホール](https://ja.wikipedia.org/wiki/北沢タウンホール "wikilink")大会を最後に活動休止。[2011年](../Page/2011年.md "wikilink")[11月13日](../Page/11月13日.md "wikilink")、新木場1stRINGで約2年半ぶりに興行を開催。[DDT48総選挙で第](https://ja.wikipedia.org/wiki/DDTドラマティック総選挙 "wikilink")1位を獲得していた[佐藤光留](../Page/佐藤光留.md "wikilink")が全試合終了後に「城をください」とDDT代表の高木に直訴して承諾を得たためハードヒットは佐藤の下で再始動することになった。[11月14日](../Page/11月14日.md "wikilink")、佐藤がプロデューサーに就任。運営と興行はDDTが協力する。[2012年](../Page/2012年.md "wikilink")[3月22日](../Page/3月22日.md "wikilink")、佐藤のプロデュース興行第1弾を[新宿FACE](../Page/新宿FACE.md "wikilink")で開催。ルールも3カウントフォールを廃止。[2015年](../Page/2015年.md "wikilink")[6月4日](../Page/6月4日.md "wikilink")、ハードヒットの運営と興行の諸権利がDDTから佐藤へ譲渡されて独立。DDTとの協力体制は継続する。選手、スタッフ、リングの貸し出しなど興行面以外においては引き続きDDTが可能な範囲で協力する。その後佐藤が[全日本プロレス](../Page/全日本プロレス.md "wikilink")にレギュラー参戦し、DDTに出場しなくなったことに伴い、ハードヒットとDDTの接点はほぼ無くなっている。
   - [プロレスリングBASARA](https://ja.wikipedia.org/wiki/プロレスリングBASARA "wikilink")
     2015年[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")、[後楽園ホール](../Page/後楽園ホール.md "wikilink")で開催された[ユニオンプロレス](../Page/ユニオンプロレス.md "wikilink")の解散興行で[木高イサミ](../Page/木高イサミ.md "wikilink")が「新しい家を作る」と宣言して新たなプロレス団体の設立に向けて動き始めた\[19\]。[10月7日](../Page/10月7日.md "wikilink")、木高がプロレスリングBASARAを設立することを発表\[20\]。[2016年](../Page/2016年.md "wikilink")[1月21日](../Page/1月21日.md "wikilink")、[新宿FACE](../Page/新宿FACE.md "wikilink")で旗揚げ戦「伐折羅・壱〜乾坤一擲〜」を開催。[2019年](../Page/2019年.md "wikilink")[6月11日](../Page/6月11日.md "wikilink")、今年限りで株式会社DDTプロレスリングから独立して新会社を設立することを発表\[21\]。
 
@@ -554,28 +555,25 @@
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D無差別級王座" title="wikilink">KO-D無差別級王座</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/遠藤哲哉" title="wikilink">遠藤哲哉</a></p></td>
 <td><p>第75代</p></td>
-<td><p>2</p></td>
-<td><p><a href="../Page/佐々木大輔_(プロレスラー).md" title="wikilink">佐々木大輔</a></p></td>
+<td><p>3</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-Dタッグ王座" title="wikilink">KO-Dタッグ王座</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
-<a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
-<td><p>第67代</p></td>
-<td><p>7</p></td>
-<td><p><a href="../Page/坂口征夫.md" title="wikilink">坂口征夫</a><br />
-<a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a><br />
+<a href="../Page/坂口征夫.md" title="wikilink">坂口征夫</a></p></td>
+<td><p>第68代</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D6人タッグ王座" title="wikilink">KO-D6人タッグ王座</a></p></td>
-<td><p><a href="../Page/坂口征夫.md" title="wikilink">坂口征夫</a><br />
-<a href="https://ja.wikipedia.org/wiki/樋口和貞" title="wikilink">樋口和貞</a><br />
-<a href="../Page/赤井沙希.md" title="wikilink">赤井沙希</a></p></td>
-<td><p>第41代</p></td>
-<td><p>2</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/平田一喜" title="wikilink">平田一喜</a><br />
-<a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a><br />
-<a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/彰人" title="wikilink">彰人</a><br />
+<a href="https://ja.wikipedia.org/wiki/平田一喜" title="wikilink">平田一喜</a><br />
+<a href="https://ja.wikipedia.org/wiki/翔太_(プロレスラー)" title="wikilink">翔太</a></p></td>
+<td><p>第42代</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/KO-D10人タッグ王座" title="wikilink">KO-D10人タッグ王座</a></p></td>
@@ -590,30 +588,30 @@
 </tr>
 <tr class="odd">
 <td><p><a href="../Page/DDT_UNIVERSAL王座.md" title="wikilink">DDT UNIVERSAL王座</a></p></td>
-<td><p><a href="../Page/クリス・ブルックス.md" title="wikilink">クリス・ブルックス</a></p></td>
-<td><p>第3代</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/上野勇希" title="wikilink">上野勇希</a></p></td>
+<td><p>第4代</p></td>
 <td><p>1</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/吉村直巳" title="wikilink">吉村直巳</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/DDT_EXTREME級選手権" title="wikilink">DDT EXTREME級王座</a></p></td>
-<td><p><a href="../Page/青木真也.md" title="wikilink">青木真也</a></p></td>
-<td><p>第48代</p></td>
-<td><p>5</p></td>
 <td><p><a href="../Page/高木三四郎.md" title="wikilink">高木三四郎</a></p></td>
+<td><p>第49代</p></td>
+<td></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/勝俣瞬馬" title="wikilink">勝俣瞬馬</a></p></td>
 </tr>
 <tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/アイアンマンヘビーメタル級王座" title="wikilink">アイアンマンヘビーメタル級王座</a></p></td>
-<td><p><a href="../Page/ディーン・マレンコ.md" title="wikilink">ディーン・マレンコ</a></p></td>
-<td><p>第1492代</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ブリット・ベイカー" title="wikilink">ブリット・ベイカー</a></p></td>
+<td><p>第1497代</p></td>
 <td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p><a href="https://ja.wikipedia.org/wiki/O-40王座" title="wikilink">O-40王座</a></p></td>
-<td><p><a href="../Page/ゴージャス松野.md" title="wikilink">ゴージャス松野</a></p></td>
-<td><p>第2代</p></td>
-<td><p>2</p></td>
+<td><p><a href="../Page/大鷲透.md" title="wikilink">大鷲透</a></p></td>
+<td><p>第3代</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>
@@ -634,22 +632,16 @@
   - [丸藤正道](../Page/丸藤正道.md "wikilink")（[プロレスリング・ノア](../Page/プロレスリング・ノア.md "wikilink")）
   - [大鷲透](../Page/大鷲透.md "wikilink")（フリー）
   - [平田一喜](https://ja.wikipedia.org/wiki/平田一喜 "wikilink")
-
-<!-- end list -->
-
-  - [ノーチラス](https://ja.wikipedia.org/wiki/ノーチラス_\(プロレス\) "wikilink")
-
-<!-- end list -->
-
-  - [上野勇希](https://ja.wikipedia.org/wiki/上野勇希 "wikilink")
-  - [吉村直巳](https://ja.wikipedia.org/wiki/吉村直巳 "wikilink")
+  - [吉村直巳](https://ja.wikipedia.org/wiki/吉村直巳 "wikilink")（欠場中）
 
 ### DAMNATION
 
+  - [佐々木大輔](../Page/佐々木大輔_\(プロレスラー\).md "wikilink")
   - [遠藤哲哉](https://ja.wikipedia.org/wiki/遠藤哲哉 "wikilink")
   - [マッド・ポーリー](https://ja.wikipedia.org/wiki/柴田正人 "wikilink")
   - [高尾蒼馬](https://ja.wikipedia.org/wiki/高尾蒼馬 "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")（フリー）
+  - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink")（フリー）
 
 <!-- end list -->
 
@@ -681,7 +673,7 @@
 
 ### MOONLIGHT EXPRESS
 
-  - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")（欠場中）
+  - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")
   - [マイク・ベイリー](https://ja.wikipedia.org/wiki/マイク・ベイリー "wikilink")（フリー）
 
 ### 準烈
@@ -690,6 +682,13 @@
   - [大石真翔](../Page/大石真翔.md "wikilink")
   - [渡瀬瑞基](https://ja.wikipedia.org/wiki/渡瀬瑞基 "wikilink")（[よしもとクリエイティブ・エージェンシー](https://ja.wikipedia.org/wiki/よしもとクリエイティブ・エージェンシー "wikilink")兼任所属）
   - [岡谷英樹](../Page/岡谷英樹.md "wikilink")
+
+### DDTサウナ部
+
+  - [竹下幸之介](https://ja.wikipedia.org/wiki/竹下幸之介 "wikilink")
+  - [勝俣瞬馬](https://ja.wikipedia.org/wiki/勝俣瞬馬 "wikilink")
+  - [上野勇希](https://ja.wikipedia.org/wiki/上野勇希 "wikilink")
+  - [MAO](https://ja.wikipedia.org/wiki/井上麻生 "wikilink")
 
 ### 無所属
 
@@ -700,7 +699,6 @@
   - [スーパー・ササダンゴ・マシン](../Page/マッスル坂井.md "wikilink")（[松竹芸能](../Page/松竹芸能.md "wikilink")兼任所属）（限定参戦）
   - [中澤マイケル](../Page/中澤マイケル.md "wikilink")（[AEW兼任所属](https://ja.wikipedia.org/wiki/オール・エリート・レスリング "wikilink")）（限定参戦）
   - [ヨシヒコ](https://ja.wikipedia.org/wiki/ヨシヒコ "wikilink")（限定参戦）
-  - [佐々木大輔](../Page/佐々木大輔_\(プロレスラー\).md "wikilink")
   - [星誕期](../Page/星誕期偉真智.md "wikilink")（限定参戦）
   - [松永智充](https://ja.wikipedia.org/wiki/松永智充 "wikilink")
   - [伊橋剛太](https://ja.wikipedia.org/wiki/伊橋剛太 "wikilink")
@@ -713,7 +711,6 @@
 ### レギュラー参戦選手
 
   - [アントーニオ本多](../Page/アントーニオ本多.md "wikilink")（フリー）
-  - [大和ヒロシ](../Page/大和ヒロシ.md "wikilink")（フリー）
 
 ## フリー・団体参戦選手
 
@@ -725,11 +722,17 @@
 
 <!-- end list -->
 
+  - [入江茂弘](https://ja.wikipedia.org/wiki/入江茂弘 "wikilink")
+  - [黒潮"イケメン"二郎](https://ja.wikipedia.org/wiki/黒潮"イケメン"二郎 "wikilink")
   - [黒田哲広](../Page/黒田哲広.md "wikilink")
   - [島谷常寛](https://ja.wikipedia.org/wiki/島谷常寛 "wikilink")
   - [立花誠吾](https://ja.wikipedia.org/wiki/立花誠吾 "wikilink")
   - [タノムサク鳥羽](../Page/タノムサク鳥羽.md "wikilink")
+  - [ツバサ](../Page/ツバサ_\(プロレスラー\).md "wikilink")
+  - [HUB](../Page/HUB_\(プロレスラー\).md "wikilink")
+  - [ビリーケン・キッド](../Page/ビリーケン・キッド.md "wikilink")
   - [魔苦・怒鳴門](https://ja.wikipedia.org/wiki/魔苦・怒鳴門 "wikilink")
+  - [マグニチュード岸和田](../Page/マグニチュード岸和田.md "wikilink")
   - [MIKAMI](../Page/MIKAMI.md "wikilink")
   - [ヤス・ウラノ](../Page/ヤス・ウラノ.md "wikilink")
 
@@ -821,6 +824,7 @@
 <!-- end list -->
 
   - [木高イサミ](../Page/木高イサミ.md "wikilink")
+  - [トランザム★ヒロシ](https://ja.wikipedia.org/wiki/トランザム★ヒロシ "wikilink")
 
 <!-- end list -->
 
@@ -1096,7 +1100,8 @@
 | [Ultimate Party 2019〜DDTグループ大集合\!〜](https://ja.wikipedia.org/wiki/Ultimate_Party_2019〜DDTグループ大集合!〜 "wikilink")        | 2019年11月3日  | 両国国技館                                                                 | 5,869人   |
 | [WRESTLE PETER PAN 2020【DAY1】](../Page/WRESTLE_PETER_PAN_2020【DAY1】.md "wikilink")                                    | 2020年6月6日   | DDT TV SHOWスタジオ                                                       | 0人\[24\] |
 | [WRESTLE PETER PAN 2020【DAY2】](../Page/WRESTLE_PETER_PAN_2020【DAY2】.md "wikilink")                                    | 2020年6月7日   | 0人\[25\]                                                              |          |
-| [Ultimate Party 2020](https://ja.wikipedia.org/wiki/Ultimate_Party_2020 "wikilink")                                   | 2020年11月3日  | 大田区総合体育館                                                              |          |
+| [Ultimate Party 2020](https://ja.wikipedia.org/wiki/Ultimate_Party_2020 "wikilink")                                   | 2020年11月3日  | 大田区総合体育館                                                              | 未発表（札止め） |
+| [KAWASAKI STRONG 2021](https://ja.wikipedia.org/wiki/KAWASAKI_STRONG_2021 "wikilink")                                 | 2021年2月14日  | [カルッツかわさき](https://ja.wikipedia.org/wiki/川崎市スポーツ・文化総合センター "wikilink") |          |
 
 ## プロレス以外の事業
 

@@ -12,7 +12,7 @@
       - DMM英会話 - DMM.comの日本向けオンライン英会話事業。
       - DMM.make - DMM.comが運営するモノづくりのためのプラットフォーム。
       - DMM energy - 太陽光発電からバイオマスまで行うDMM.comのエネルギー事業。
-      - DMM mobile - DMM.comの[MVNO事業](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")。
+      - DMM mobile - かつてあったDMM.comの[MVNO事業](https://ja.wikipedia.org/wiki/仮想移動体通信事業者 "wikilink")。MVNO、[格安スマホ](https://ja.wikipedia.org/wiki/格安スマホ "wikilink")ブームとなった[2014年](../Page/2014年.md "wikilink")に登場したが、その後撤退。[2019年](../Page/2019年.md "wikilink")[9月1日](../Page/9月1日.md "wikilink")に[楽天モバイル](../Page/楽天モバイル.md "wikilink")に吸収され消滅。
       - [DMM pictures](https://ja.wikipedia.org/wiki/DMM_pictures "wikilink") - DMM.comのアニメ事業。
       - [DMM PUBLISHING](https://ja.wikipedia.org/wiki/DMM_PUBLISHING "wikilink") - DMM.comの出版レーベル。
       - [DMM VR THEATER](https://ja.wikipedia.org/wiki/DMM_VR_THEATER "wikilink") - 神奈川県横浜市西区にあるDMM.futureworks、Zeppホールネットワーク、ローソンHMVエンタテイメント、横浜メディアアドにより組成されたシアターVR有限責任事業組合が運営するライブホログラフィック専用の劇場。

@@ -109,7 +109,7 @@
 
   - [千葉県出身の人物一覧](../Page/千葉県出身の人物一覧.md "wikilink")
 
-[Category:ニコモ](https://ja.wikipedia.org/wiki/Category:ニコモ "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:大妻女子大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大妻女子大学短期大学部出身の人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
+[Category:ニコモ](https://ja.wikipedia.org/wiki/Category:ニコモ "wikilink") [Category:JJモデル](https://ja.wikipedia.org/wiki/Category:JJモデル "wikilink") [Category:日本の女性ファッションモデル](https://ja.wikipedia.org/wiki/Category:日本の女性ファッションモデル "wikilink") [Category:日本の女優](https://ja.wikipedia.org/wiki/Category:日本の女優 "wikilink") [Category:日本の女性タレント](https://ja.wikipedia.org/wiki/Category:日本の女性タレント "wikilink") [Category:大妻女子大学短期大学部出身の人物](https://ja.wikipedia.org/wiki/Category:大妻女子大学短期大学部出身の人物 "wikilink") [Category:千葉県出身の人物](https://ja.wikipedia.org/wiki/Category:千葉県出身の人物 "wikilink") [Category:1986年生](https://ja.wikipedia.org/wiki/Category:1986年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink")
 
 1.  「[踊る\!さんま御殿\!\!](../Page/踊る!さんま御殿!!.md "wikilink")」出演時の発言。
 2.  [カワイイをつくる.com](http://www.kawatsuku.com)

@@ -1395,11 +1395,11 @@ BRICs経済研究所のエコノミスト[門倉貴史](../Page/門倉貴史.md 
   - [The BRICS Post](http://thebricspost.com) – News website with a focus on the BRICS.
   - [辞典](http://www.brics-jp.com/)
   - [経済産業省（通商白書・2005年版）](http://www.meti.go.jp/report/tsuhaku2005/2005honbun/html/H1300000.html)
-  - [外務省（各国・地域情勢：ブラジル連邦共和国）](http://www.mofa.go.jp/mofaj/area/brazil/index.html)
-  - [外務省（各国・地域情勢：ロシア連邦）](http://www.mofa.go.jp/mofaj/area/russia/index.html)
-  - [外務省（各国・地域情勢：インド共和国）](http://www.mofa.go.jp/mofaj/area/india/index.html)
-  - [外務省（各国・地域情勢：中華人民共和国）](http://www.mofa.go.jp/mofaj/area/china/index.html)
-  - [外務省（各国・地域情勢：南アフリカ共和国）](http://www.mofa.go.jp/mofaj/area/s_africa/index.html)
+  - [外務省（各国・地域情勢：ブラジル連邦共和国）](https://www.mofa.go.jp/mofaj/area/brazil/index.html)
+  - [外務省（各国・地域情勢：ロシア連邦）](https://www.mofa.go.jp/mofaj/area/russia/index.html)
+  - [外務省（各国・地域情勢：インド共和国）](https://www.mofa.go.jp/mofaj/area/india/index.html)
+  - [外務省（各国・地域情勢：中華人民共和国）](https://www.mofa.go.jp/mofaj/area/china/index.html)
+  - [外務省（各国・地域情勢：南アフリカ共和国）](https://www.mofa.go.jp/mofaj/area/s_africa/index.html)
   - [新成長国徹底ガイド（・ネクスト11）](http://www2.goldmansachs.com/japan/gsitm/column/emerging/)
 
 [Category:国の分類_(経済システム別)](https://ja.wikipedia.org/wiki/Category:国の分類_\(経済システム別\) "wikilink") [Category:国際経済](https://ja.wikipedia.org/wiki/Category:国際経済 "wikilink") [Category:経済現象](https://ja.wikipedia.org/wiki/Category:経済現象 "wikilink") [Category:地域別の政治](https://ja.wikipedia.org/wiki/Category:地域別の政治 "wikilink") [Category:地域別の経済](https://ja.wikipedia.org/wiki/Category:地域別の経済 "wikilink") [Category:ブラジルの経済](https://ja.wikipedia.org/wiki/Category:ブラジルの経済 "wikilink") [Category:ロシアの経済](https://ja.wikipedia.org/wiki/Category:ロシアの経済 "wikilink") [Category:ロシア連邦](https://ja.wikipedia.org/wiki/Category:ロシア連邦 "wikilink") [Category:インドの経済](https://ja.wikipedia.org/wiki/Category:インドの経済 "wikilink") [Category:2000年代のインド](https://ja.wikipedia.org/wiki/Category:2000年代のインド "wikilink") [Category:中華人民共和国の経済](https://ja.wikipedia.org/wiki/Category:中華人民共和国の経済 "wikilink") [Category:南アフリカ共和国の経済](https://ja.wikipedia.org/wiki/Category:南アフリカ共和国の経済 "wikilink")
@@ -1426,7 +1426,7 @@ BRICs経済研究所のエコノミスト[門倉貴史](../Page/門倉貴史.md 
 20. <http://www.osaka-c.ed.jp/ed/h14/kankyou/security/food/jikyuu2.htm>
 21.
 22.
-23. [外務省：世界の医療事情](http://www.mofa.go.jp/mofaj/toko/medi/asia/india.html)
+23. [外務省：世界の医療事情](https://www.mofa.go.jp/mofaj/toko/medi/asia/india.html)
 24. [インド、環境汚染の年間損失800億ドル GDPの5．7％に匹敵](http://www.sankeibiz.jp/macro/news/130820/mcb1308201100022-n1.htm) - SankeiBiz 2013年8月20日
 25.
 26. ; European Union calculated by sum of individual countries.

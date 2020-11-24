@@ -7,6 +7,8 @@
 
 2010年は名称を『**MTV WORLD STAGE VMAJ**』として開催し、司会者を設けずにナレーター・プレゼンターが案内・紹介スタイルで進行となった。また、2011年は名称を『**MTV Video Music Aid Japan**』（[東日本大震災](https://ja.wikipedia.org/wiki/東日本大震災 "wikilink")のチャリティーイベント）として初めて6月に開催された。
 
+2020年は、新型コロナウイルスの感染拡大防止の対策として、無観客での開催となった。
+
 ## MC
 
   - 毎年司会者が変わっているが、2010年は前述のようにMCが居なかった。
@@ -15,7 +17,7 @@
 
 ## 問題点
 
-2006年までと2013年は生中継されていなかったため、[地上波](../Page/地上波.md "wikilink")[民放各局の方がMTVよりもVMAJの様子や結果を早く放送していた](../Page/民間放送.md "wikilink")。
+2006年までと2013年、2020年は生中継されていなかったため、[地上波](../Page/地上波.md "wikilink")[民放各局の方がMTVよりもVMAJの様子や結果を早く放送していた](../Page/民間放送.md "wikilink")。
 
 かつてより受賞が恣意的であるなどの批判があり、レーベルの都合から[浜崎あゆみ](../Page/浜崎あゆみ.md "wikilink")がベストライブパフォーマンス賞を受賞した際には、海外より受賞のために来日していた[メアリー・J・ブライジ](https://ja.wikipedia.org/wiki/メアリー・J・ブライジ "wikilink")がライブをせずに番組途中でボイコットしてしまうなど問題もあった。また、2002年には本アワードに出演していた[ZEEBRA](https://ja.wikipedia.org/wiki/ZEEBRA "wikilink")が公演時間が遅くなっている事に対して不満を漏らしたほか、2008年には「アワードがミュージシャンよりもスポンサーを大事にしている」と[YouTube](https://ja.wikipedia.org/wiki/YouTube "wikilink")で批判した（なお、ZEEBRAは例年VMAJに参加しており、2003年には[片瀬那奈](https://ja.wikipedia.org/wiki/片瀬那奈 "wikilink")と一緒にMCを担当している）。
 
@@ -41,6 +43,7 @@
 | 16 | 2017年9月27日(水)  | [鮎貝健](../Page/鮎貝健.md "wikilink") & [JOANN](https://ja.wikipedia.org/wiki/JOANN "wikilink")   |                                                                                                                                                                            |
 | 17 | 2018年10月10日(水) |                                                                                              |                                                                                                                                                                            |
 | 18 | 2019年9月18日(水)  | [日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")                                      |                                                                                                                                                                            |
+| 19 | 2020年11月19日(木) | 都内某所                                                                                         | [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                                                                                                                      |
 
 ## 各賞
 
@@ -65,6 +68,7 @@
 | 16 | [2017年](../Page/2017年.md "wikilink")                    | [星野源](../Page/星野源.md "wikilink")                                                                 | [Family Song](https://ja.wikipedia.org/wiki/Family_Song "wikilink")                             |
 | 17 | [2018年](../Page/2018年.md "wikilink")                    | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink")                                            | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink")                              |
 | 18 | [2019年](../Page/2019年.md "wikilink")                    | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")                                    | [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")                                |
+| 19 | [2020年](../Page/2020年.md "wikilink")                    | [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink")                                          | [裸の心](../Page/裸の心.md "wikilink")                                                                |
 
 ### 最優秀アーティストビデオ賞／Best Male Video・Best Female Video
 
@@ -86,12 +90,13 @@
 | 13 | 2014年 | [青い龍](https://ja.wikipedia.org/wiki/青い龍 "wikilink")                                         | [マイリー・サイラス](../Page/マイリー・サイラス.md "wikilink")                                  | We Can't Stop                                                                            |                                                                                           |         |    |
 |    |       |                                                                                             |                                                                               |                                                                                          |                                                                                           |         |    |
 
-| 回  | 年     | 男性（JAPAN）                                             | 男性（INTERNATIONAL） |-align:center                                   | アーティスト名                                                             | 曲名          | アーティスト名 | 曲名 |
-| -- | ----- | ----------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | ----------- | ------- | -- |
-| 14 | 2015年 | [星野源](../Page/星野源.md "wikilink")                      | [SUN](https://ja.wikipedia.org/wiki/SUN_\(星野源の曲\) "wikilink")      | [ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")                    | Freedom     |         |    |
-| 15 | 2016年 | [高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")   | [光の破片](https://ja.wikipedia.org/wiki/光の破片 "wikilink")              | [ジャスティン・ビーバー](https://ja.wikipedia.org/wiki/ジャスティン・ビーバー "wikilink") | Sorry       |         |    |
-| 17 | 2018年 | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink") | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink") | [ショーン・メンデス](https://ja.wikipedia.org/wiki/ショーン・メンデス "wikilink")     | In My Blood |         |    |
-| 18 | 2019年 | [三浦大知](../Page/三浦大知.md "wikilink")                    | [片隅](https://ja.wikipedia.org/wiki/片隅_/_Corner "wikilink")         | [カリード](https://ja.wikipedia.org/wiki/カリード "wikilink")               | Talk        |         |    |
+| 回  | 年     | 男性（JAPAN）                                             | 男性（INTERNATIONAL） |-align:center                                   | アーティスト名                                                             | 曲名                                                    | アーティスト名 | 曲名 |
+| -- | ----- | ----------------------------------------------------- | ------------------------------------------------------------------ | ------------------------------------------------------------------- | ----------------------------------------------------- | ------- | -- |
+| 14 | 2015年 | [星野源](../Page/星野源.md "wikilink")                      | [SUN](https://ja.wikipedia.org/wiki/SUN_\(曲\) "wikilink")          | [ファレル・ウィリアムス](../Page/ファレル・ウィリアムス.md "wikilink")                    | Freedom                                               |         |    |
+| 15 | 2016年 | [高橋優](https://ja.wikipedia.org/wiki/高橋優 "wikilink")   | [光の破片](https://ja.wikipedia.org/wiki/光の破片 "wikilink")              | [ジャスティン・ビーバー](https://ja.wikipedia.org/wiki/ジャスティン・ビーバー "wikilink") | Sorry                                                 |         |    |
+| 17 | 2018年 | [米津玄師](https://ja.wikipedia.org/wiki/米津玄師 "wikilink") | [Lemon](https://ja.wikipedia.org/wiki/Lemon_\(米津玄師の曲\) "wikilink") | [ショーン・メンデス](https://ja.wikipedia.org/wiki/ショーン・メンデス "wikilink")     | In My Blood                                           |         |    |
+| 18 | 2019年 | [三浦大知](../Page/三浦大知.md "wikilink")                    | [片隅](https://ja.wikipedia.org/wiki/片隅_/_Corner "wikilink")         | [カリード](https://ja.wikipedia.org/wiki/カリード "wikilink")               | Talk                                                  |         |    |
+| 19 | 2020年 | 米津玄師                                                  | [感電](../Page/感電_\(米津玄師の曲\).md "wikilink")                          | [ザ・ウィークエンド](https://ja.wikipedia.org/wiki/ザ・ウィークエンド "wikilink")     | [Blinding Lights](../Page/ブラインディング・ライツ.md "wikilink") |         |    |
 
 | 回  | 年     | 女性（JAPAN）                                               | 女性（INTERNATIONAL） |-align:center                            | アーティスト名                                                           | 曲名                                                                             | アーティスト名 | 曲名 |
 | -- | ----- | ------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------ | ------- | -- |
@@ -99,6 +104,7 @@
 | 15 | 2016年 | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                  | [真夏の通り雨](https://ja.wikipedia.org/wiki/Fantome "wikilink")  | Into You                                                          |                                                                                |         |    |
 | 17 | 2018年 | [aiko](https://ja.wikipedia.org/wiki/aiko "wikilink")   | [ストロー](https://ja.wikipedia.org/wiki/ストロー_\(曲\) "wikilink") | [アリアナ・グランデ](https://ja.wikipedia.org/wiki/アリアナ・グランデ "wikilink")   | No Tears Left to Cry                                                           |         |    |
 | 18 | 2019年 | [あいみょん](https://ja.wikipedia.org/wiki/あいみょん "wikilink") | [今夜このまま](https://ja.wikipedia.org/wiki/今夜このまま "wikilink")   | [テイラー・スウィフト](https://ja.wikipedia.org/wiki/テイラー・スウィフト "wikilink") | Me\! feat. BRENDON URIE OF PANIC\! AT THE DISCO                                |         |    |
+| 19 | 2020年 | [裸の心](../Page/裸の心.md "wikilink")                        | [デュア・リパ](https://ja.wikipedia.org/wiki/デュア・リパ "wikilink")   | Break My Heart                                                    |                                                                                |         |    |
 
 ### 最優秀グループビデオ賞／Best Group Video
 
@@ -196,12 +202,13 @@
 </tbody>
 </table>
 
-| 回  | 年     | グループ名（JAPAN）                                                                                     | 曲名                                                                                           | グループ名（INTERNATIONAL）                                    | 曲名                   |
-| -- | ----- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | ------------------------------------------------------- | -------------------- |
-| 14 | 2015年 | [三代目 J Soul Brothers from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink") | [Eeny, meeny, miny, moe\!](https://ja.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink") | [OK GO](../Page/オーケー・ゴー.md "wikilink")                  | I Won't Let You Down |
-| 15 | 2016年 | [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")                    | \[\[Shut_up                                                                                 | _Shut_up                                              | _Shut_up           |
-| 17 | 2018年 | [欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")                                            | [アンビバレント](https://ja.wikipedia.org/wiki/アンビバレント "wikilink")                                  | [防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink") | FAKE LOVE            |
-| 18 | 2019年 | [黒い羊](https://ja.wikipedia.org/wiki/黒い羊 "wikilink")                                              | THE 1975                                                                                     | Sincerity is Scary                                      |                      |
+| 回  | 年     | グループ名（JAPAN）                                                                                     | 曲名                                                                                           | グループ名（INTERNATIONAL）                                           | 曲名                   |
+| -- | ----- | ------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- |
+| 14 | 2015年 | [三代目 J Soul Brothers from EXILE TRIBE](https://ja.wikipedia.org/wiki/J_Soul_Brothers "wikilink") | [Eeny, meeny, miny, moe\!](https://ja.wikipedia.org/wiki/Eeny,_meeny,_miny,_moe! "wikilink") | [OK GO](../Page/オーケー・ゴー.md "wikilink")                         | I Won't Let You Down |
+| 15 | 2016年 | [EXILE THE SECOND](https://ja.wikipedia.org/wiki/EXILE_THE_SECOND "wikilink")                    | \[\[Shut_up                                                                                 | _Shut_up                                                     | _Shut_up           |
+| 17 | 2018年 | [欅坂46](https://ja.wikipedia.org/wiki/欅坂46 "wikilink")                                            | [アンビバレント](https://ja.wikipedia.org/wiki/アンビバレント "wikilink")                                  | [防弾少年団](https://ja.wikipedia.org/wiki/防弾少年団 "wikilink")        | FAKE LOVE            |
+| 18 | 2019年 | [黒い羊](https://ja.wikipedia.org/wiki/黒い羊 "wikilink")                                              | THE 1975                                                                                     | Sincerity is Scary                                             |                      |
+| 19 | 2020年 | [Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink")                        | [I LOVE...](../Page/I_LOVE....md "wikilink")                                                 | [BTS](https://ja.wikipedia.org/wiki/BTS_\(音楽グループ\) "wikilink") | Dynamite             |
 
 ### 最優秀映画ビデオ賞／Best Movie Video
 
@@ -218,7 +225,7 @@
 | 10 | 2011年 | [アヴリル・ラヴィーン](../Page/アヴリル・ラヴィーン.md "wikilink")                                                    | [アリス](https://ja.wikipedia.org/wiki/アリス_\(アヴリル・ラヴィーンの曲\) "wikilink")                   | [アリス・イン・ワンダーランド](https://ja.wikipedia.org/wiki/アリス・イン・ワンダーランド_\(映画\) "wikilink") |
 | 11 | 2012年 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink")                       | [グッドラック](https://ja.wikipedia.org/wiki/グッドラック_\(曲\) "wikilink")                        | [ALWAYS 三丁目の夕日'64](https://ja.wikipedia.org/wiki/ALWAYS_三丁目の夕日'64 "wikilink")    |
 | 12 | 2013年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")                                                  | [The Beginning](https://ja.wikipedia.org/wiki/The_Beginning "wikilink")                | [るろうに剣心](https://ja.wikipedia.org/wiki/るろうに剣心_\(実写映画\) "wikilink")               |
-| 13 | 2014年 | [星野源](../Page/星野源.md "wikilink")                                                                  | [地獄でなぜ悪い](https://ja.wikipedia.org/wiki/地獄でなぜ悪い "wikilink")                            | [地獄でなぜ悪い](https://ja.wikipedia.org/wiki/地獄でなぜ悪い "wikilink")                      |
+| 13 | 2014年 | [星野源](../Page/星野源.md "wikilink")                                                                  | [地獄でなぜ悪い](https://ja.wikipedia.org/wiki/地獄でなぜ悪い_\(曲\) "wikilink")                      | [地獄でなぜ悪い](https://ja.wikipedia.org/wiki/地獄でなぜ悪い "wikilink")                      |
 
 ### 最優秀新人アーティストビデオ賞／Best New Artist Video
 
@@ -240,12 +247,13 @@
 | 13 | 2014年 | [アリアナ・グランデ](https://ja.wikipedia.org/wiki/アリアナ・グランデ "wikilink")         | Baby I                                                                  |
 |    |       |                                                                         |                                                                         |
 
-| 回  | 年     | アーティスト名（JAPAN）                                                            | 曲名                                                                             | アーティスト名（INTERNATIONAL）  | 曲名                |
-| -- | ----- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------- | ----------------- |
-| 14 | 2015年 | [DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink")              | INFINITY                                                                       | Years & Years           | King              |
-| 15 | 2016年 | [Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")               | [MINT](https://ja.wikipedia.org/wiki/MINT_CONDITION_\(SuchmosのEP\) "wikilink") | DNCE                    | Cake by the Ocean |
-| 17 | 2018年 | [Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink") | [ノーダウト](https://ja.wikipedia.org/wiki/ノーダウト "wikilink")                        | MARSHMELLO & ANNE-MARIE | Friends           |
-| 18 | 2019年 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")             | [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")               | BILLIE EILISH           | Bad Guy           |
+| 回  | 年     | アーティスト名（JAPAN）                                                            | 曲名                                                                             | アーティスト名（INTERNATIONAL）                                            | 曲名                                                          |
+| -- | ----- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------- | ----------------------------------------------------------- |
+| 14 | 2015年 | [DOBERMAN INFINITY](../Page/DOBERMAN_INFINITY.md "wikilink")              | INFINITY                                                                       | Years & Years                                                     | King                                                        |
+| 15 | 2016年 | [Suchmos](https://ja.wikipedia.org/wiki/Suchmos "wikilink")               | [MINT](https://ja.wikipedia.org/wiki/MINT_CONDITION_\(SuchmosのEP\) "wikilink") | DNCE                                                              | Cake by the Ocean                                           |
+| 17 | 2018年 | [Official髭男dism](https://ja.wikipedia.org/wiki/Official髭男dism "wikilink") | [ノーダウト](https://ja.wikipedia.org/wiki/ノーダウト "wikilink")                        | MARSHMELLO & ANNE-MARIE                                           | Friends                                                     |
+| 18 | 2019年 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")             | [白日](https://ja.wikipedia.org/wiki/白日_\(King_Gnuの曲\) "wikilink")               | [ビリー・アイリッシュ](https://ja.wikipedia.org/wiki/ビリー・アイリッシュ "wikilink") | [Bad Guy](https://ja.wikipedia.org/wiki/bad_guy "wikilink") |
+| 19 | 2020年 | [マカロニえんぴつ](https://ja.wikipedia.org/wiki/マカロニえんぴつ "wikilink")             | 恋人ごっこ                                                                          | [ドージャ・キャット](https://ja.wikipedia.org/wiki/ドージャ・キャット "wikilink")   | Say So                                                      |
 
 ### 最優秀ロックビデオ賞／Best Rock Video
 
@@ -268,6 +276,7 @@
 | 15 | 2016年 | [［Alexandros］](https://ja.wikipedia.org/wiki/［Alexandros］ "wikilink")       | [Swan](https://ja.wikipedia.org/wiki/Swan_\(［Alexandros］の曲\) "wikilink")            |
 | 17 | 2018年 | [WANIMA](https://ja.wikipedia.org/wiki/WANIMA "wikilink")                   | [ヒューマン](https://ja.wikipedia.org/wiki/ヒューマン "wikilink")                             |
 | 18 | 2019年 | [BUMP OF CHICKEN](https://ja.wikipedia.org/wiki/BUMP_OF_CHICKEN "wikilink") | Aurora                                                                              |
+| 19 | 2020年 | [King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")               | どろん                                                                                 |
 
 ### 最優秀メタルビデオ賞／Best Metal Video
 
@@ -278,33 +287,35 @@
 
 ### 最優秀オルタナティブビデオ賞／Best Alternative Video
 
-| 回  | 年     | アーティスト名                                                               | 曲名                                                        |
-| -- | ----- | --------------------------------------------------------------------- | --------------------------------------------------------- |
-| 16 | 2017年 | [レキシ](../Page/レキシ.md "wikilink")                                      | [KATOKU](https://ja.wikipedia.org/wiki/KATOKU "wikilink") |
-| 17 | 2018年 | [DEAN FUJIOKA](https://ja.wikipedia.org/wiki/DEAN_FUJIOKA "wikilink") | Echo                                                      |
-| 18 | 2019年 | [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                 | stereo future                                             |
+| 回  | 年     | アーティスト名                                                                                | 曲名                                                        |
+| -- | ----- | -------------------------------------------------------------------------------------- | --------------------------------------------------------- |
+| 16 | 2017年 | [レキシ](../Page/レキシ.md "wikilink")                                                       | [KATOKU](https://ja.wikipedia.org/wiki/KATOKU "wikilink") |
+| 17 | 2018年 | [DEAN FUJIOKA](https://ja.wikipedia.org/wiki/DEAN_FUJIOKA "wikilink")                  | Echo                                                      |
+| 18 | 2019年 | [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                                  | stereo future                                             |
+| 19 | 2020年 | [millennium parade](https://ja.wikipedia.org/wiki/常田大希#millennium_parade_2 "wikilink") | [Fly with me](../Page/Fly_with_me.md "wikilink")          |
 
 ### 最優秀ポップビデオ賞／Best Pop Video
 
   - 第14回の表彰はなし。
 
-| 回  | 年     | アーティスト名                                                           | 曲名                                                                              |
-| -- | ----- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| 2  | 2003年 | [ブルー](../Page/ブルー_\(ボーカルグループ\).md "wikilink")                     | One Love                                                                        |
-| 3  | 2004年 | 浜崎あゆみ                                                             | [No way to say](../Page/No_way_to_say.md "wikilink")                            |
-| 4  | 2005年 | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                              | [君にBUMP](../Page/君にBUMP.md "wikilink")                                          |
-| 5  | 2006年 | レミオロメン                                                            | [粉雪](../Page/粉雪_\(レミオロメンの曲\).md "wikilink")                                     |
-| 6  | 2007年 | 大塚愛                                                               | 恋愛写真                                                                            |
-| 7  | 2008年 | アヴリル・ラヴィーン                                                        | [ガールフレンド](../Page/ガールフレンド_\(アヴリル・ラヴィーンの曲\).md "wikilink")                       |
-| 8  | 2009年 | [ケイティ・ペリー](../Page/ケイティ・ペリー.md "wikilink")                        | [キス・ア・ガール](https://ja.wikipedia.org/wiki/キス・ア・ガール "wikilink")                   |
-| 9  | 2010年 | BIGBANG                                                           | [声をきかせて](https://ja.wikipedia.org/wiki/声をきかせて "wikilink")                       |
-| 10 | 2011年 | [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")       | [ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(いきものがかりの曲\) "wikilink")           |
-| 11 | 2012年 | 三代目J Soul Brothers                                                | [FIGHTERS](https://ja.wikipedia.org/wiki/FIGHTERS "wikilink")                   |
-| 12 | 2013年 | [きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink") | [ファッションモンスター](https://ja.wikipedia.org/wiki/ファッションモンスター "wikilink")             |
-| 13 | 2014年 | レディー・ガガ                                                           | [Applause](https://ja.wikipedia.org/wiki/アプローズ_\(レディー・ガガの曲\) "wikilink")        |
-| 15 | 2016年 | [Nissy](../Page/西島隆弘.md "wikilink")                               | [Playing With Fire](https://ja.wikipedia.org/wiki/Playing_With_Fire "wikilink") |
-| 17 | 2018年 | [星野源](../Page/星野源.md "wikilink")                                  | [アイデア](https://ja.wikipedia.org/wiki/アイデア_\(曲\) "wikilink")                     |
-| 18 | 2019年 | [菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")             | [まちがいさがし](https://ja.wikipedia.org/wiki/まちがいさがし_\(菅田将暉の曲\) "wikilink")          |
+| 回  | 年     | アーティスト名                                                                             | 曲名                                                                              |
+| -- | ----- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
+| 2  | 2003年 | [ブルー](../Page/ブルー_\(ボーカルグループ\).md "wikilink")                                       | One Love                                                                        |
+| 3  | 2004年 | 浜崎あゆみ                                                                               | [No way to say](../Page/No_way_to_say.md "wikilink")                            |
+| 4  | 2005年 | [ケツメイシ](../Page/ケツメイシ.md "wikilink")                                                | [君にBUMP](../Page/君にBUMP.md "wikilink")                                          |
+| 5  | 2006年 | レミオロメン                                                                              | [粉雪](../Page/粉雪_\(レミオロメンの曲\).md "wikilink")                                     |
+| 6  | 2007年 | 大塚愛                                                                                 | 恋愛写真                                                                            |
+| 7  | 2008年 | アヴリル・ラヴィーン                                                                          | [ガールフレンド](../Page/ガールフレンド_\(アヴリル・ラヴィーンの曲\).md "wikilink")                       |
+| 8  | 2009年 | [ケイティ・ペリー](../Page/ケイティ・ペリー.md "wikilink")                                          | [キス・ア・ガール](https://ja.wikipedia.org/wiki/キス・ア・ガール "wikilink")                   |
+| 9  | 2010年 | BIGBANG                                                                             | [声をきかせて](https://ja.wikipedia.org/wiki/声をきかせて "wikilink")                       |
+| 10 | 2011年 | [いきものがかり](https://ja.wikipedia.org/wiki/いきものがかり "wikilink")                         | [ありがとう](https://ja.wikipedia.org/wiki/ありがとう_\(いきものがかりの曲\) "wikilink")           |
+| 11 | 2012年 | 三代目J Soul Brothers                                                                  | [FIGHTERS](https://ja.wikipedia.org/wiki/FIGHTERS "wikilink")                   |
+| 12 | 2013年 | [きゃりーぱみゅぱみゅ](https://ja.wikipedia.org/wiki/きゃりーぱみゅぱみゅ "wikilink")                   | [ファッションモンスター](https://ja.wikipedia.org/wiki/ファッションモンスター "wikilink")             |
+| 13 | 2014年 | レディー・ガガ                                                                             | [Applause](https://ja.wikipedia.org/wiki/アプローズ_\(レディー・ガガの曲\) "wikilink")        |
+| 15 | 2016年 | [Nissy](../Page/西島隆弘.md "wikilink")                                                 | [Playing With Fire](https://ja.wikipedia.org/wiki/Playing_With_Fire "wikilink") |
+| 17 | 2018年 | [星野源](../Page/星野源.md "wikilink")                                                    | [アイデア](https://ja.wikipedia.org/wiki/アイデア_\(曲\) "wikilink")                     |
+| 18 | 2019年 | [菅田将暉](https://ja.wikipedia.org/wiki/菅田将暉 "wikilink")                               | [まちがいさがし](https://ja.wikipedia.org/wiki/まちがいさがし_\(菅田将暉の曲\) "wikilink")          |
+| 19 | 2020年 | [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink") | [足跡](../Page/足跡_\(Little_Glee_Monsterの曲\).md "wikilink")                        |
 
 ### 最優秀R\&Bビデオ賞／Best R\&B Video
 
@@ -325,6 +336,7 @@
 | 12 | 2013年 | LOVERS partII feat.[若旦那](../Page/若旦那_\(ミュージシャン\).md "wikilink")                |                                                                                         |
 | 13 | 2014年 | [三浦大知](../Page/三浦大知.md "wikilink")                                             | [I'm On Fire](https://ja.wikipedia.org/wiki/The_Entertainer "wikilink")                 |
 | 15 | 2016年 | [Cry & Fight](https://ja.wikipedia.org/wiki/Cry_&_Fight "wikilink")            |                                                                                         |
+| 19 | 2020年 | [藤井風](../Page/藤井風.md "wikilink")                                               | 何なんw                                                                                    |
 
 ### 最優秀ヒップホップビデオ賞／Best Hip Hop Video
 
@@ -347,6 +359,7 @@
 | 15 | 2016年 | [AK-69](https://ja.wikipedia.org/wiki/AK-69 "wikilink")                             | Flying B                                                                                                        |
 | 17 | 2018年 | [SKY-HI](https://ja.wikipedia.org/wiki/SKY-HI "wikilink")                           | Marble                                                                                                          |
 | 18 | 2019年 | KREVA                                                                               | 音色 ～2019 Ver.～                                                                                                  |
+| 19 | 2020年 | [Creepy Nuts](https://ja.wikipedia.org/wiki/Creepy_Nuts "wikilink")                 | かつて天才だった俺たちへ                                                                                                    |
 
 ### 最優秀コラボレーションビデオ賞／Best Collaboration Video
 
@@ -366,6 +379,7 @@
 | 13 | 2014年 | [T.M.Revolution](../Page/T.M.Revolution.md "wikilink") × [水樹奈々](../Page/水樹奈々.md "wikilink")                 | [Preserved Roses](https://ja.wikipedia.org/wiki/Preserved_Roses "wikilink")                        |
 | 14 | 2015年 | [ももいろクローバーZ](https://ja.wikipedia.org/wiki/ももいろクローバーZ "wikilink") vs [KISS](../Page/キッス.md "wikilink")      | [夢の浮世に咲いてみな](https://ja.wikipedia.org/wiki/夢の浮世に咲いてみな "wikilink")                                  |
 | 18 | 2019年 | [椎名林檎](https://ja.wikipedia.org/wiki/椎名林檎 "wikilink")と[宮本浩次](https://ja.wikipedia.org/wiki/宮本浩次 "wikilink") | 獣ゆく細道                                                                                              |
+| 19 | 2020年 | [LiSA](https://ja.wikipedia.org/wiki/LiSA "wikilink")                                                       | play the world\! feat.[PABLO](https://ja.wikipedia.org/wiki/Pay_money_To_my_Pain#メンバー "wikilink")  |
 
 ### 最優秀ダンスビデオ賞／Best Dance Video
 
@@ -381,6 +395,7 @@
 | 15 | 2016年 | [BOOM BOOM SATELLITES](../Page/BOOM_BOOM_SATELLITES.md "wikilink") | [LAY YOUR HANDS ON ME](https://ja.wikipedia.org/wiki/LAY_YOUR_HANDS_ON_ME "wikilink") |
 | 17 | 2018年 | [BLACKPINK](https://ja.wikipedia.org/wiki/BLACKPINK "wikilink")    | DDU-DU DDU-DU                                                                         |
 | 18 | 2019年 | [サカナクション](https://ja.wikipedia.org/wiki/サカナクション "wikilink")        | 忘れられないの                                                                               |
+| 19 | 2020年 | [NiziU](../Page/NiziU.md "wikilink")                               | [Make you happy](../Page/Make_you_happy.md "wikilink")                                |
 
 ### 最優秀レゲエビデオ賞／Best Reggae Video
 
@@ -391,6 +406,12 @@
 | 11 | 2012年 | SEAN PAUL                                               | She Doesn't Mind                                                            |
 | 12 | 2013年 | [lecca](https://ja.wikipedia.org/wiki/lecca "wikilink") | Clown Love                                                                  |
 | 13 | 2014年 | Sky is the Limit feat. RHYMESTER                        |                                                                             |
+
+### 最優秀アートディレクションビデオ賞／Best Art Direction Video
+
+| 回  | 年     | アーティスト名                                                                                               | 作品名                      |
+| -- | ----- | ----------------------------------------------------------------------------------------------------- | ------------------------ |
+| 19 | 2020年 | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink") | One in a Million -奇跡の夜に- |
 
 ### 最優秀カラオケソング賞／Best Karaoke Song
 
@@ -410,6 +431,7 @@
 | 回  | 年     | アーティスト名                                                                             | 作品名                                                                       |
 | -- | ----- | ----------------------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | 17 | 2018年 | [Little Glee Monster](https://ja.wikipedia.org/wiki/Little_Glee_Monster "wikilink") | [世界はあなたに笑いかけている](https://ja.wikipedia.org/wiki/世界はあなたに笑いかけている "wikilink") |
+| 19 | 2020年 | [BiSH](https://ja.wikipedia.org/wiki/BiSH "wikilink")                               | [LETTERS](../Page/LETTERS.md "wikilink")                                  |
 
 ### 最優秀振付け賞／Best Choreography
 
@@ -421,7 +443,8 @@
 | 13 | 2014年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | [ごめんなさいのKissing You](https://ja.wikipedia.org/wiki/ごめんなさいのKissing_You "wikilink")          |
 | 15 | 2016年 | [GENERATIONS from EXILE TRIBE](https://ja.wikipedia.org/wiki/GENERATIONS_from_EXILE_TRIBE "wikilink") | [AGEHA](https://ja.wikipedia.org/wiki/AGEHA_\(GENERATIONS_from_EXILE_TRIBEの曲\) "wikilink") |
 | 17 | 2018年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")                                           | Show Time                                                                                  |
-| 18 | 2019年 | [日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")                                               | キュン                                                                                        |
+| 18 | 2019年 | [日向坂46](https://ja.wikipedia.org/wiki/日向坂46 "wikilink")                                               | [キュン](https://ja.wikipedia.org/wiki/キュン_\(曲\) "wikilink")                                  |
+| 19 | 2020年 | 青春の馬                                                                                                  |                                                                                            |
 
 ### 最優秀シェアビデオ賞／Best Share Video
 
@@ -458,19 +481,46 @@
 | -- | ----- | --------------------------------------------------------------- | ----------------------------------------------------------------------------- | ---------------------------------- | -------- |
 | 15 | 2016年 | [BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink") | [METAL RESISTANCE](https://ja.wikipedia.org/wiki/METAL_RESISTANCE "wikilink") | [ビヨンセ](../Page/ビヨンセ.md "wikilink") | Lamonade |
 
-| 回  | 年     | アーティスト名                                | 作品名                                                             |
-| -- | ----- | -------------------------------------- | --------------------------------------------------------------- |
-| 17 | 2018年 | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink") | 初恋                                                              |
-| 18 | 2019年 | [星野源](../Page/星野源.md "wikilink")       | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink") |
+| 回  | 年     | アーティスト名                                                         | 作品名                                                                   |
+| -- | ----- | --------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 17 | 2018年 | [宇多田ヒカル](../Page/宇多田ヒカル.md "wikilink")                          | 初恋                                                                    |
+| 18 | 2019年 | [星野源](../Page/星野源.md "wikilink")                                | [POP VIRUS](https://ja.wikipedia.org/wiki/POP_VIRUS "wikilink")       |
+| 19 | 2020年 | [BABYMETAL](https://ja.wikipedia.org/wiki/BABYMETAL "wikilink") | [METAL GALAXY](https://ja.wikipedia.org/wiki/METAL_GALAXY "wikilink") |
 
-### インスピレーション・アワード・ジャパン
+### Inspiration Award Japan
 
+  - 現在の日本のミュージックシーンにおいて、多大な影響を与えた邦楽アーティストに贈られる賞
   - 第14回の表彰はなし。
 
 | 回  | 年     | アーティスト名                                                      |
 | -- | ----- | ------------------------------------------------------------ |
 | 13 | 2014年 | [GLAY](../Page/GLAY.md "wikilink")                           |
 | 15 | 2016年 | [THE YELLOW MONKEY](../Page/THE_YELLOW_MONKEY.md "wikilink") |
+| 19 | 2020年 | [E-girls](https://ja.wikipedia.org/wiki/E-girls "wikilink")  |
+
+### MTV Breakthrough Song
+
+  - 社会現象を巻き起こし、最も話題を集めた楽曲に贈られる賞
+
+| 回  | 年     | アーティスト名                        | 作品名                                     |
+| -- | ----- | ------------------------------ | --------------------------------------- |
+| 19 | 2020年 | [瑛人](../Page/瑛人.md "wikilink") | [香水](../Page/香水_\(瑛人の曲\).md "wikilink") |
+
+### Best Buzz Award
+
+  - 話題を集めた映像作品・楽曲を数多く発表し、シーンの発展に貢献したアーティストに贈られる賞
+
+| 回  | 年     | アーティスト名                                                  |
+| -- | ----- | -------------------------------------------------------- |
+| 19 | 2020年 | [DISH/](https://ja.wikipedia.org/wiki/DISH/ "wikilink")/ |
+
+### Rising Star Award
+
+  - 今後大躍進が期待される新人アーティストに贈られる賞
+
+| 回  | 年     | アーティスト名                          |
+| -- | ----- | -------------------------------- |
+| 19 | 2020年 | [JO1](../Page/JO1.md "wikilink") |
 
 ### 特別功労賞
 
@@ -500,10 +550,11 @@
 
 ### 最優秀アーティスト賞／Artist of the Year
 
-| 回  | 年     | アーティスト名                                          |
-| -- | ----- | ------------------------------------------------ |
-| 17 | 2018年 | [三浦大知](../Page/三浦大知.md "wikilink")               |
-| 18 | 2019年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink") |
+| 回  | 年     | アーティスト名                                                                                                                                                                                                                |
+| -- | ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 17 | 2018年 | [三浦大知](../Page/三浦大知.md "wikilink")                                                                                                                                                                                     |
+| 18 | 2019年 | [ONE OK ROCK](../Page/ONE_OK_ROCK.md "wikilink")                                                                                                                                                                       |
+| 19 | 2020年 | [常田大希](https://ja.wikipedia.org/wiki/常田大希 "wikilink")（[King Gnu](https://ja.wikipedia.org/wiki/King_Gnu "wikilink")、[millennium parade](https://ja.wikipedia.org/wiki/常田大希#millennium_parade_2 "wikilink")、PERIMETRON） |
 
 ## 賞の統計
 

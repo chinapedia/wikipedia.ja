@@ -65,4 +65,4 @@
   - [PC-FXGA](../Page/PC-FXGA.md "wikilink")
   - [国鉄C62形蒸気機関車](../Page/国鉄C62形蒸気機関車.md "wikilink")- 名称の由来
 
-[Category:PCエンジン](https://ja.wikipedia.org/wiki/Category:PCエンジン "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:セイコー](https://ja.wikipedia.org/wiki/Category:セイコー "wikilink") [Category:ハドソン](https://ja.wikipedia.org/wiki/Category:ハドソン "wikilink")
+[Category:PCエンジン](https://ja.wikipedia.org/wiki/Category:PCエンジン "wikilink") [Category:マイクロプロセッサ](https://ja.wikipedia.org/wiki/Category:マイクロプロセッサ "wikilink") [Category:セイコーエプソン](https://ja.wikipedia.org/wiki/Category:セイコーエプソン "wikilink") [Category:ハドソン](https://ja.wikipedia.org/wiki/Category:ハドソン "wikilink")

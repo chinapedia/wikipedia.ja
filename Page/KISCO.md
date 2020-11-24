@@ -9,7 +9,7 @@
 
 化学品、電子部品材料、医薬品原料、建築材料、包装材料などの内需および輸出入を行う商社機能と同時に[複合材料](../Page/複合材料.md "wikilink")（コンポジット・マテリアル; CM）および包装材料の研究開発を行う部署、並びに半導体洗浄剤 (EcoPeeler)、[LED用封止材](../Page/発光ダイオード.md "wikilink") (EpiFine)、diX（[パラシクロファン](https://ja.wikipedia.org/wiki/パラシクロファン "wikilink")）などの製造を行うメーカー群をグループ会社として所有する（実際の製造は各グループ会社及び協力会社にて行われている）。また、CVDによる[パラシクロファン](https://ja.wikipedia.org/wiki/パラシクロファン "wikilink")コーティング（diXコンフォーマルコーティング）による受託コーティング、[ESD対策のトータルソリューションサービスなども行っている](../Page/静電気.md "wikilink")。
 
-国内に[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[仙台](../Page/仙台市.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[神戸](../Page/神戸市.md "wikilink")、[福岡の](https://ja.wikipedia.org/wiki/福岡市 "wikilink")5営業所及び[山形出張所](../Page/山形市.md "wikilink")、国内グループ会社14社、また海外グループ会社として[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[韓国などに海外](../Page/大韓民国.md "wikilink")19カ国50拠点を展開している。
+国内に[札幌](https://ja.wikipedia.org/wiki/札幌市 "wikilink")、[仙台](../Page/仙台市.md "wikilink")、[名古屋](../Page/名古屋市.md "wikilink")、[神戸](../Page/神戸市.md "wikilink")、[福岡の](https://ja.wikipedia.org/wiki/福岡市 "wikilink")5営業所及び[山形出張所](../Page/山形市.md "wikilink")、国内グループ会社15社、また海外グループ会社として[中国](../Page/中華人民共和国.md "wikilink")、[台湾](https://ja.wikipedia.org/wiki/台湾 "wikilink")、[アメリカ](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")、[タイ](../Page/タイ王国.md "wikilink")、[マレーシア](https://ja.wikipedia.org/wiki/マレーシア "wikilink")、[韓国などに海外](../Page/大韓民国.md "wikilink")19カ国49拠点を展開している。
 
 [三和グループ](../Page/三和グループ.md "wikilink")所属企業によって結成され\[1\]のちに法人化された[みどり会](../Page/みどり会.md "wikilink")の会員企業である\[2\]。社名が「岸本産業」の時代からKISCOはみどり会に加盟している\[3\]。
 
@@ -89,6 +89,7 @@
   - 2010年（平成22年）2月　射出成形用金型メーカーである株式会社型システムの[岐阜精機工業](https://ja.wikipedia.org/wiki/岐阜精機工業 "wikilink")からの[MBO](https://ja.wikipedia.org/wiki/MBO "wikilink")による分離・独立に資本参加。
   - 2011年（平成23年）3月 KISCO GLOBAL SUPPORT株式会社を設立。
   - 2012年（平成24年）2月 インドに現地法人設立。
+      - 大洋マテリアル株式会社を事業譲受により子会社とする
   - 2013年（平成25年）2月 新洸化成株式会社との合弁により上海吉洸模塑科技有限公司設立。
 
 <!-- end list -->
@@ -113,6 +114,17 @@
   - 2018年（平成30年）
       - 1月 現地法人、PT.HEXA INDONESIAの名称をPT.INDONESIA POLYMER COMPOUNDに変更
 
+<!-- end list -->
+
+  - 2019年（平成31年）
+      - 東洋樹脂株式会社を事業譲受により子会社とする
+
+<!-- end list -->
+
+  - 2020年（令和2年）
+      - 株式会社Uni Tag　設立
+      - 三泉化成株式会社を株式取得により子会社とする
+
 ## グループ企業・関連企業
 
 ### 国内
@@ -126,15 +138,15 @@
   - 株式会社型システム\[8\]
   - 大同化成工業株式会社\[9\]　※兄弟会社
   - 大洋マテリアル株式会社\[10\]
-  - 大起ゴム工業株式会社
+  - 東洋樹脂株式会社\[11\]
+  - 株式会社Uni Tag\[12\]
+  - 三泉化成株式会社\[13\]
 
 ### アジア
 
 ### 米州
 
   - Uniglobe Kisco, Inc.
-
-  - KISCO Conformal Coating, LLC
 
   - Specialty Coating Systems, Inc.
 
@@ -173,3 +185,6 @@
 8.  [株式会社型システム](http://www.katasystems.co.jp)
 9.  [大同化成工業株式会社](http://www.daido-chem.co.jp/)
 10. [大洋マテリアル株式会社](http://www.taiyomaterial.co.jp/)
+11. [東洋樹脂株式会社](http://www.toyojushi.co.jp/)
+12. [株式会社Uni Tag](https://www.unitag.co.jp/)
+13. [三泉化成株式会社](https://sansen.co.jp//)

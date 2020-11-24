@@ -230,7 +230,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
   - 「LOOSER〜失い続けてしまうアルバム〜」
     作・演出：森崎博之
-    NACSが初めて歴史物に挑戦した作品。初めて東京での公演を行う。5人だけでそれぞれ複数の役を演じるというスタイルは「下荒井兄弟〜」まで続いた。2011年の「5D DIMENTIONS」で「LOOSER6」として設定に一部変更が加えられて上演された（後述）。また、2019年6月、[崎山つばさ](https://ja.wikipedia.org/wiki/崎山つばさ "wikilink")、[鈴木裕樹](../Page/鈴木裕樹.md "wikilink")、磯貝龍乎、[木ノ本嶺浩](https://ja.wikipedia.org/wiki/木ノ本嶺浩 "wikilink")、[株元英彰](https://ja.wikipedia.org/wiki/株元英彰 "wikilink")によって再演される。\[28\]
+    [幕末](../Page/幕末.md "wikilink")の[新撰組と](../Page/新選組.md "wikilink")[長州藩](../Page/長州藩.md "wikilink")を題材にしており\[28\]、NACSが初めて歴史物に挑戦した作品。初めて東京での公演を行う。5人だけでそれぞれ複数の役を演じるというスタイルは「下荒井兄弟〜」まで続いた。2011年の「5D DIMENTIONS」で「LOOSER6」として設定に一部変更が加えられて上演された（後述）。また、2019年6月、[崎山つばさ](https://ja.wikipedia.org/wiki/崎山つばさ "wikilink")、[鈴木裕樹](../Page/鈴木裕樹.md "wikilink")、[磯貝龍乎](https://ja.wikipedia.org/wiki/磯貝龍乎 "wikilink")、[木ノ本嶺浩](https://ja.wikipedia.org/wiki/木ノ本嶺浩 "wikilink")、[株元英彰](https://ja.wikipedia.org/wiki/株元英彰 "wikilink")によって再演された。\[29\]
 
 <!-- end list -->
 
@@ -267,7 +267,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 <!-- end list -->
 
   -
-    全61公演、動員数40,000人\[29\]
+    全61公演、動員数40,000人\[30\]
 
 #### ふるさと公演
 
@@ -283,7 +283,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 <!-- end list -->
 
   -
-    全63公演、動員数48,000人\[30\]
+    全63公演、動員数48,000人\[31\]
 
 #### 第13回公演
 
@@ -303,12 +303,13 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 <!-- end list -->
 
   -
-    全64公演、動員数53,000人\[31\]
+    全64公演、動員数53,000人\[32\]
 
 #### ニッポン公演
 
   - 「WARRIOR〜唄い続ける侍ロマン〜」
     原案･演出：森崎博之 脚本：[宇田学](https://ja.wikipedia.org/wiki/宇田学 "wikilink")
+    [戦国時代を舞台としている](../Page/戦国時代_\(日本\).md "wikilink")。
 
 <!-- end list -->
 
@@ -335,7 +336,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
   -
     客演：[飯田隆裕](https://ja.wikipedia.org/wiki/飯田隆裕 "wikilink")、井上和茂、梅田喬、大野朱美、[栗原寛孝](https://ja.wikipedia.org/wiki/栗原寛孝 "wikilink")、黒岩司、後藤祐香、菅原健志、田中温子、[新田健太](https://ja.wikipedia.org/wiki/新田健太 "wikilink")、広瀬諒人、[松尾英太郎](https://ja.wikipedia.org/wiki/松尾英太郎 "wikilink")、宮川康裕、[山中雄輔](https://ja.wikipedia.org/wiki/山中雄輔 "wikilink")、[和田成正](https://ja.wikipedia.org/wiki/和田成正 "wikilink")
-    全59公演、動員数70,000人\[32\]
+    全59公演、動員数70,000人\[33\]
 
 #### 第15回公演
 
@@ -357,13 +358,13 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 <!-- end list -->
 
   -
-    全53公演、動員数60,000人\[33\]（千秋楽[ライブビューイング](../Page/ライブビューイング.md "wikilink")30,000人を含み90,000人）
+    全53公演、動員数60,000人\[34\]（千秋楽[ライブビューイング](../Page/ライブビューイング.md "wikilink")30,000人を含み90,000人）
 
 #### 第16回公演
 
   - 「PARAMUSHIR〜信じ続けた士魂の旗を掲げて」
     原案・演出：森崎博之、脚本：[林民夫](https://ja.wikipedia.org/wiki/林民夫 "wikilink")
-    PARAMUSHIRは[千島列島](../Page/千島列島.md "wikilink")の北東部にある[島](../Page/島.md "wikilink")・[幌筵島](../Page/幌筵島.md "wikilink")のことで、公演名及び作中での読みは「ポロモシル」\[34\]。この読みは公演中、伏せられていた\[35\]。
+    PARAMUSHIRは[千島列島](../Page/千島列島.md "wikilink")の北東部にある[島](../Page/島.md "wikilink")・[幌筵島](../Page/幌筵島.md "wikilink")のことで、公演名及び作中での読みは「ポロモシル」\[35\]。この読みは公演中、伏せられていた\[36\]。
 
 <!-- end list -->
 
@@ -377,7 +378,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 <!-- end list -->
 
   -
-    全56公演、動員数80,000人\[36\]（千秋楽ライブビューイング35,000人を含み115,000人）
+    全56公演、動員数80,000人\[37\]（千秋楽ライブビューイング35,000人を含み115,000人）
     客演：[小此木まり](../Page/小此木まり.md "wikilink")、荒居清香、伊藤駿九郎、梅田喬、黒岩司、佐藤亮太、[津田幹土](../Page/津田幹土.md "wikilink")、[新田健太](https://ja.wikipedia.org/wiki/新田健太 "wikilink")、[原田新平](https://ja.wikipedia.org/wiki/原田新平 "wikilink")、[廣瀬真平](../Page/廣瀬真平.md "wikilink")、古川ヒロシ、[松尾英太郎](https://ja.wikipedia.org/wiki/松尾英太郎 "wikilink")、[三木秀甫](https://ja.wikipedia.org/wiki/三木秀甫 "wikilink")、[森下ひさえ](../Page/森下ひさえ.md "wikilink")、[山中雄輔](https://ja.wikipedia.org/wiki/山中雄輔 "wikilink")
 
 ### TEAM NACS SOLO PROJECT
@@ -388,7 +389,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
     原案：能勢紘也「日傘と剃刀」 脚色・出演：安田顕
     演出：マギー
     ギター：[古澤剛](https://ja.wikipedia.org/wiki/古澤剛 "wikilink")
-    安田が東京でたまたま会った[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の古澤剛と話をしているうちに、共通の知り合いである[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")つながりで意気投合したのがきっかけ。安田が語りを、古澤がギターを担当した公演\[37\]。
+    安田が東京でたまたま会った[シンガーソングライター](../Page/シンガーソングライター.md "wikilink")の古澤剛と話をしているうちに、共通の知り合いである[樋口了一](https://ja.wikipedia.org/wiki/樋口了一 "wikilink")つながりで意気投合したのがきっかけ。安田が語りを、古澤がギターを担当した公演\[38\]。
     2014年8月2日 - 9月14日
     小浜、各務原、米子、京都、香南、福岡、東京、新潟、仙台、盛岡、青森、札幌
 
@@ -421,7 +422,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
     作・演出：戸次重幸
     2019年2月8日 - 3月3日
     東京、福岡、札幌、大阪
-    メインビジュアルが実写とイラストの2種類が存在し、イラストは『[うしおととら](../Page/うしおととら.md "wikilink")』などで知られる漫画家の[藤田和日郎](../Page/藤田和日郎.md "wikilink")が手掛けている\[38\]。
+    メインビジュアルが実写とイラストの2種類が存在し、イラストは『[うしおととら](../Page/うしおととら.md "wikilink")』などで知られる漫画家の[藤田和日郎](../Page/藤田和日郎.md "wikilink")が手掛けている\[39\]。
     出演：[本郷奏多](../Page/本郷奏多.md "wikilink")、[青柳翔](https://ja.wikipedia.org/wiki/青柳翔 "wikilink")（[劇団EXILE](https://ja.wikipedia.org/wiki/劇団EXILE "wikilink")）、[前野朋哉](https://ja.wikipedia.org/wiki/前野朋哉 "wikilink")、戸次重幸、[吉沢悠](../Page/吉沢悠.md "wikilink")
 
 #### 音尾琢真ソロ公演
@@ -466,7 +467,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
     作・演出・出演：大泉洋
     2011年9月29日 - 11月9日
     東京、札幌、秋田、新潟、静岡、名古屋、大阪、高松、広島、福岡、仙台
-    大泉が小学生のころから周囲に薦められながらも実現しなかった「ワンマンショー」。トーク、モノマネ、歌、落語など、大泉自身を「魅せる」ステージとなった。舞台セット転換中の映像は、[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")の[嬉野雅道](../Page/嬉野雅道.md "wikilink")ディレクターが撮影を、[藤村忠寿](../Page/藤村忠寿.md "wikilink")ディレクターが編集を行った。ワンマンショー初日を1週間後\[39\]に控えたある日、舞台転換中の映像が用意できていない大泉が藤村Dと嬉野DをOFFICE CUEの事務所に呼び出し、事情\[40\]を説明して舞台転換用の映像の制作を発注。その発注を受けた藤村Dが企画したのは大泉が「藤村Dが思い描く大泉ワンマンショー」を行う、というものだった。この舞台セット転換中の映像は、[水曜どうでしょうDVD全集](../Page/水曜どうでしょうDVD全集.md "wikilink") 第19弾「試験に出るどうでしょう 石川県・富山県/四国八十八ヵ所II」に特典映像として収録されている。
+    大泉が小学生のころから周囲に薦められながらも実現しなかった「ワンマンショー」。トーク、モノマネ、歌、落語など、大泉自身を「魅せる」ステージとなった。舞台セット転換中の映像は、[水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")の[嬉野雅道](../Page/嬉野雅道.md "wikilink")ディレクターが撮影を、[藤村忠寿](../Page/藤村忠寿.md "wikilink")ディレクターが編集を行った。ワンマンショー初日を1週間後\[40\]に控えたある日、舞台転換中の映像が用意できていない大泉が藤村Dと嬉野DをOFFICE CUEの事務所に呼び出し、事情\[41\]を説明して舞台転換用の映像の制作を発注。その発注を受けた藤村Dが企画したのは大泉が「藤村Dが思い描く大泉ワンマンショー」を行う、というものだった。この舞台セット転換中の映像は、[水曜どうでしょうDVD全集](../Page/水曜どうでしょうDVD全集.md "wikilink") 第19弾「試験に出るどうでしょう 石川県・富山県/四国八十八ヵ所II」に特典映像として収録されている。
   - 安田顕公演「港町13番勝負 安田顕ひとり語り～おもだって、僕の父親の話です。」
     港町13番公演：2011年11月2日 - 11月18日：博多、大分、下関、呉、境港、新潟、酒田、仙台、盛岡、青森、函館、室蘭、小樽
     番外公演：2011年11月19日 - 12月4日：札幌、大阪、東京
@@ -513,12 +514,12 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
   - [モザイクな夜V3](../Page/モザイクな夜V3.md "wikilink")（1993年10月4日 - 1996年9月30日、北海道テレビ） - 森崎・安田・大泉がレギュラー出演。末期に「LETTER」の宣伝を兼ねてメンバー全員が合コン企画に出演。5人揃ってのテレビデビューを果たす。
   - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")（1996年10月9日 - 2002年9月4日、北海道テレビ）- 大泉がレギュラー出演、安田が準レギュラー出演、他メンバーもゲスト出演。レギュラー放送終了後も不定期で新作を放送。
-      - [どうでしょうリターンズ](../Page/水曜どうでしょう.md "wikilink")（1999年1月5日 - 2004年5月5日、北海道テレビ）- 上記の再放送版。
+      - [どうでしょうリターンズ](../Page/水曜どうでしょう.md "wikilink")（1999年1月5日 - 2004年5月5日、北海道テレビ）- 上記の再放送版。安田がナビゲーターとして出演。森崎は鈴井と共にナビゲート部分の構成を担当。
       - [水曜どうでしょう](../Page/水曜どうでしょう.md "wikilink")Classic（2004年7月14日 - 放送中、北海道テレビ）- 上記の再々放送版。全国各地で放送中。
   - [ドラバラ鈴井の巣](../Page/ドラバラ鈴井の巣.md "wikilink")（2002年2月1日 - 2004年12月23日、北海道テレビ） - 大泉・安田は、初となる企画・脚本を手がけ、ドラマを制作。主演出演もする。
   - [いばらのもり](https://ja.wikipedia.org/wiki/いばらのもり "wikilink")（2000年4月5日 - 2002年12月20日、北海道テレビ） - 森崎・大泉出演。安田・音尾がゲスト出演。森崎の冠番組。大泉が初となる企画・編集を手がけ、ディレクターとして、番組を制作。DVDも発売された。
-      - いばらのもりリターンズ（2010年4月5日 - 8月23日、北海道テレビ） - 上記のリメイク版。
-  - [ハナタレナックス](../Page/ハナタレナックス.md "wikilink")（2003年1月31日 - 放送中、北海道テレビ） - テレビでは初の冠番組であり2020年現在唯一のメンバー全員が出演するレギュラー番組。2015年から2019年には特番「ハナタレナックスEX-特別編」として[テレビ朝日系列で全国放送](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。
+      - [いばらのもり](https://ja.wikipedia.org/wiki/いばらのもり "wikilink")リターンズ（2010年4月5日 - 8月23日、北海道テレビ） - 上記のリメイク版。
+  - [ハナタレナックス](../Page/ハナタレナックス.md "wikilink")（2003年1月31日 - 放送中、北海道テレビ） - テレビでは初の冠番組であり2020年現在唯一のメンバー全員が出演するレギュラー番組。2015年から2019年には特番「ハナタレナックスEX-特別編」として年1回[テレビ朝日系列で全国放送](../Page/オールニッポン・ニュースネットワーク.md "wikilink")。
   - [おにぎりあたためますか](../Page/おにぎりあたためますか.md "wikilink")（2003年3月 - 放送中、北海道テレビ） - 大泉・戸次出演。森崎が不定期出演。[佐藤麻美](../Page/佐藤麻美.md "wikilink")→[室岡里美](https://ja.wikipedia.org/wiki/室岡里美 "wikilink")・[高橋春花](https://ja.wikipedia.org/wiki/高橋春花 "wikilink")や[オクラホマなどと旅するグルメ番組](../Page/オクラホマ_\(お笑い\).md "wikilink")。2007年5月テレ朝チャンネルで放送開始。
   - [直CUE\!勝負](https://ja.wikipedia.org/wiki/直CUE!勝負 "wikilink") シーズン1〜シーズン4（2008年 - 不定期放送、[チャンネルNECO](../Page/チャンネルNECO.md "wikilink")） - NACSの5人それぞれが鈴井貴之らCREATIVE OFFICE CUE所属タレントと旅をする番組。
   - [北海道中ひざくりげ](https://ja.wikipedia.org/wiki/北海道中ひざくりげ "wikilink")（2018年度放送、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")） - NACSの5人がそれぞれ旅をしたので、5人が同時に出演した訳では無い。ちなみに同じ事務所の鈴井貴之及び[オクラホマも出演した](../Page/オクラホマ_\(お笑い\).md "wikilink")。
@@ -526,10 +527,17 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 #### イベント・特別番組
 
   - [TOYOTA BIG AIR](../Page/TOYOTA_BIG_AIR.md "wikilink")（1998年、北海道テレビ） - PR番組に大泉がレポーターとして出演し、他のメンバーもコントで参加。「水曜どうでしょう」の藤村・嬉野両ディレクターが演出を担当した。
-  - 大泉洋が生で実況！安田・森崎も大感動！大賞決定！YOSAKOIファイナル完全生中継（2007年6月10日、北海道テレビ制作、BS朝日同時放送） - 大泉・安田・森崎出演。[YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")の実況・応援番組。
+  - [YOSAKOIソーラン祭り](../Page/YOSAKOIソーラン祭り.md "wikilink")の特番（北海道テレビ） - YOSAKOIソーラン祭りの実況・応援番組。毎年メンバーが出演していた。
+      - 踊りっ子 世にはばかる\!? 鈴井・大泉・安田のYOSAKOI 2000\!大放送（2000年6月11日） - 鈴井と共に大泉・安田出演。\[42\]
+      - 鈴井・大泉・安田の踊るYOSAKOI大放送（2001年6月10日） - 鈴井と共に大泉・安田出演。 \[43\]
+      - 鈴井・大泉・安田の踊るYOSAKOI大放送（2002年6月23日） - 鈴井と共に大泉・安田出演。\[44\]
+      - 史上最大\!YOSAKOIソーラン 8時間ブチ抜き生放送\!（2003年6月7日） - 大泉・安田出演。\[45\]
+      - 審査会場8時間独占！ぶっちぎりのYOSAKOIソーラン生放送（2004年6月12日） - NACS全員が出演。\[46\]
+      - 大泉洋がナマで実況！YOSAKOIファイナル独占ナマ中継（2006年6月11日、北海道テレビ制作、[BS朝日同時放送](../Page/ビーエス朝日.md "wikilink")） - 大泉・安田・森崎出演。\[47\]
+      - 大泉洋が生で実況！安田・森崎も大感動！大賞決定！YOSAKOIファイナル完全生中継（2007年6月10日、北海道テレビ制作、BS朝日同時放送） - 大泉・安田・森崎出演。
   - [HTB開局40周年記念「〜ありがとう40年〜全部たしたら10時間\!ユメミル広場に大集合\!\!」](../Page/HTB開局40周年記念「〜ありがとう40年〜全部たしたら10時間!ユメミル広場に大集合!!」.md "wikilink")（2008年8月29日 - 30日、北海道テレビ） - HTB開局40周年記念の特別番組。メインパーソナリティを担当。[札幌ドーム](../Page/札幌ドーム.md "wikilink")にて開催。
-  - 新社屋移転記念オープニング スペシャルゲストTEAM NACSが特別参戦\!（2018年、北海道テレビ） - HTBの社屋移転を記念したオープニング番組。
-  - [みんなで道フェス\!2019～どさんこの夢 応援するべさ～](https://ja.wikipedia.org/wiki/One_Hokkaido_Project#特別番組 "wikilink")（2019年、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")・[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")・[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[テレビ北海道](../Page/テレビ北海道.md "wikilink")） - 大泉出演（TEAM NACSと鈴井貴之はMV内で出演）。北海道の民放5局とNHK札幌放送局による共同キャンペーン『One Hokkaido Project』の特別番組。NHK札幌放送局及び北海道全民放は60分同時生放送を実施した\[41\]。
+  - 新社屋移転記念オープニング スペシャルゲストTEAM NACSが特別参戦\!（2018年9月18日、北海道テレビ） - HTBの社屋移転を記念したオープニング番組。
+  - [みんなで道フェス\!2019～どさんこの夢 応援するべさ～](https://ja.wikipedia.org/wiki/One_Hokkaido_Project#特別番組 "wikilink")（2019年、[NHK札幌放送局](../Page/NHK札幌放送局.md "wikilink")・[北海道放送](../Page/北海道放送.md "wikilink")・[札幌テレビ放送](../Page/札幌テレビ放送.md "wikilink")・[北海道テレビ放送](../Page/北海道テレビ放送.md "wikilink")・[北海道文化放送](../Page/北海道文化放送.md "wikilink")・[テレビ北海道](../Page/テレビ北海道.md "wikilink")） - 大泉出演（TEAM NACSと鈴井貴之はMV内で出演）。北海道の民放5局とNHK札幌放送局による共同キャンペーン『One Hokkaido Project』の特別番組。NHK札幌放送局及び北海道全民放は60分同時生放送を実施した\[48\]。
 
 #### テレビアニメーション
 
@@ -561,7 +569,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
 #### 短編映画
 
-  - TEAM NACS FILMS「N43°」
+  - TEAM NACS FILMS「[N43°](https://ja.wikipedia.org/wiki/N43° "wikilink")」
     メンバー5人それぞれが監督・脚本を手がけたオムニバスショートムービー。もともとは2008年11月に全国9都市をまわる上映ツアー（25,000人動員）用の作品だった。その後2009年2月から劇場公開、9月にDVDリリース
       - 作品（カッコ内は監督・脚本を手がけたメンバー）
 
@@ -604,11 +612,12 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
   - [日清食品](https://ja.wikipedia.org/wiki/日清食品 "wikilink")「[やきそばできました。](../Page/やきそばできました。.md "wikilink")」（森崎・安田・音尾出演）
   - [北海道新聞](../Page/北海道新聞.md "wikilink")
   - [リクルート](../Page/リクルートホールディングス.md "wikilink")「[じゃらん](../Page/じゃらん.md "wikilink")・北海道版」（森崎・音尾出演）
-  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")「[国民健康保険](../Page/国民健康保険.md "wikilink")」（2003年）\[42\]
-  - [北海道選挙管理委員会](../Page/選挙管理委員会.md "wikilink")「衆議院議員総選挙」（2003年）\[43\]
+  - [北海道](https://ja.wikipedia.org/wiki/北海道 "wikilink")「[国民健康保険](../Page/国民健康保険.md "wikilink")」（2003年）\[49\]
+  - [北海道選挙管理委員会](../Page/選挙管理委員会.md "wikilink")「[衆議院議員総選挙](../Page/衆議院議員総選挙.md "wikilink")」（2003年）\[50\]
   - [サントリー](../Page/サントリー.md "wikilink")「[BOSS](../Page/BOSSコーヒー.md "wikilink")」(2004年 - 2007年)
-  - [任天堂](../Page/任天堂.md "wikilink")「[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")『みんなでマルチプレイ篇』」（2017年・全国放送）\[44\]
-  - [ウポポイ](https://ja.wikipedia.org/wiki/ウポポイ "wikilink")オフィシャルサポーター\[45\]
+  - [任天堂](../Page/任天堂.md "wikilink")「[Nintendo Switch](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")『みんなでマルチプレイ篇』」（2017年・全国放送）\[51\]
+  - [ウポポイ](https://ja.wikipedia.org/wiki/ウポポイ "wikilink")オフィシャルサポーター（2020年 - ）\[52\]
+  - 北海道観光PR「HOKKAIDO LOVE\!」（2020年・全国放送）\[53\]
 
 ### 雑誌連載
 
@@ -633,7 +642,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 | 下荒井兄弟のスプリング、ハズ、カム。                           | <small>[2009年](../Page/2009年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")</small>   | <small>DVD/Blu-ray</small>     |
 | WARRIOR〜唄い続ける侍ロマン〜                           | <small>[2012年](../Page/2012年.md "wikilink")[12月21日](../Page/12月21日.md "wikilink")</small> | <small>DVD/Blu-ray</small>     |
 | 悪童                                           | <small>[2016年](../Page/2016年.md "wikilink")[5月25日](../Page/5月25日.md "wikilink")</small>   | <small>DVD/Blu-ray</small>     |
-| TEAM NACS 20th Anniversary Blu-ray BOX\[46\] | <small>[2017年](../Page/2017年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")</small>     | <small>Blu-ray</small>         |
+| TEAM NACS 20th Anniversary Blu-ray BOX\[54\] | <small>[2017年](../Page/2017年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")</small>     | <small>Blu-ray</small>         |
 | PARAMUSHIR〜信じ続けた士魂の旗を掲げて                     | <small>[2018年](../Page/2018年.md "wikilink")[9月26日](../Page/9月26日.md "wikilink")</small>   | <small>DVD/Blu-ray</small>     |
 
 ### 音楽作品
@@ -650,7 +659,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 | 100回目の季節〜ThankCUE 4 seasons〜                                                 | <small>[2017年](../Page/2017年.md "wikilink")[5月12日](../Page/5月12日.md "wikilink")</small>   | <small>[SONOCA](https://ja.wikipedia.org/wiki/ミュージック・カード "wikilink")</small> |
 | Sing\!Swing\!CUE\!                                                           | <small>[2017年](../Page/2017年.md "wikilink")[12月20日](../Page/12月20日.md "wikilink")</small> | <small>CD</small>                                                            |
 | ThankCUE FAN MEETING 2018「グランドキャバレーサンキュー歌謡ショー」                               | <small>[2019年](../Page/2019年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink")</small>   | <small>デジタル配信</small>                                                        |
-| [私たちの道](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")\[47\] | <small>2019年2月20日（デジタル配信）</small> <small>2019年3月6日（CDシングル）</small>                        | <small>CD/デジタル配信</small>                                                     |
+| [私たちの道](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")\[55\] | <small>2019年2月20日（デジタル配信）</small> <small>2019年3月6日（CDシングル）</small>                        | <small>CD/デジタル配信</small>                                                     |
 
 #### 本公演サウンドトラック
 
@@ -673,7 +682,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 
 ### MV
 
-  - [One Hokkaido Project](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")「私たちの道」 - 鈴井貴之も参加\[48\]
+  - [One Hokkaido Project](https://ja.wikipedia.org/wiki/One_Hokkaido_Project "wikilink")「私たちの道」 - 鈴井貴之も参加\[56\]
 
 ## 脚注
 
@@ -700,7 +709,7 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
   -
 [\*](https://ja.wikipedia.org/wiki/カテゴリ:TEAM_NACS "wikilink") [カテゴリ:CREATIVE OFFICE CUE](https://ja.wikipedia.org/wiki/カテゴリ:CREATIVE_OFFICE_CUE "wikilink") [カテゴリ:日本の演劇ユニット](https://ja.wikipedia.org/wiki/カテゴリ:日本の演劇ユニット "wikilink") [カテゴリ:北海道のローカルタレント](https://ja.wikipedia.org/wiki/カテゴリ:北海道のローカルタレント "wikilink") [カテゴリ:アミューズ](https://ja.wikipedia.org/wiki/カテゴリ:アミューズ "wikilink")
 
-[Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本のタレント](https://ja.wikipedia.org/wiki/Category:日本のタレント "wikilink") [Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")
+[Category:5人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:5人組の音楽グループ "wikilink") [Category:1996年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1996年に結成した音楽グループ "wikilink") [Category:水曜どうでしょう](https://ja.wikipedia.org/wiki/Category:水曜どうでしょう "wikilink")
 
 1.  平成流転-文化の30年- 演劇編（上）ナックス「北海道愛」胸に全国へ - 北海道新聞2018年10月22日朝刊13面
 2.
@@ -729,8 +738,8 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 25.
 26.
 27.
-28.  SPICE - エンタメ特化型情報メディア スパイス|url=[https://spice.eplus.jp/articles/234468|website=SPICE（スパイス](https://spice.eplus.jp/articles/234468%7Cwebsite=SPICE（スパイス)）｜エンタメ特化型情報メディア スパイス|accessdate=2019-05-15}}
-29.
+28.
+29.  SPICE - エンタメ特化型情報メディア スパイス|url=[https://spice.eplus.jp/articles/234468|website=SPICE（スパイス](https://spice.eplus.jp/articles/234468%7Cwebsite=SPICE（スパイス)）｜エンタメ特化型情報メディア スパイス|accessdate=2019-05-15}}
 30.
 31.
 32.
@@ -738,15 +747,23 @@ TEAM NACSの舞台公演は当初は事務所は介入せず、「TEAM NACS PROJ
 34.
 35.
 36.
-37. 2016年2月11日の樋口了一ライブでの発言による
-38.
-39. 映像中において、撮影日が9月21日であることを説明するテロップが挿入されている。
-40. 映像中の大泉が『[探偵はBARにいる](https://ja.wikipedia.org/wiki/探偵はBARにいる "wikilink")』のPRで忙しく、故に舞台転換中の映像が発注できなかったという趣旨の発言をしている。
-41.
+37.
+38. 2016年2月11日の樋口了一ライブでの発言による
+39.
+40. 映像中において、撮影日が9月21日であることを説明するテロップが挿入されている。
+41. 映像中の大泉が『[探偵はBARにいる](https://ja.wikipedia.org/wiki/探偵はBARにいる "wikilink")』のPRで忙しく、故に舞台転換中の映像が発注できなかったという趣旨の発言をしている。
 42.
 43.
-44. [ニンテンドースイッチのTVCM一挙公開！『ゼルダの伝説 BoW』がある大泉洋の日常や、TEAM NACSによる『スプラトゥーン2』マルチプレイも | インサイド](http://www.inside-games.jp/article/2017/02/08/105198.html) - 2017年2月8日。
+44.
 45.
-46. 「LOOSER」から「WARRIOR」までの公演のHDリマスター版を収録。2019年3月20日に各ソフトが単品で発売された。
+46.
 47.
 48.
+49.
+50.
+51. [ニンテンドースイッチのTVCM一挙公開！『ゼルダの伝説 BoW』がある大泉洋の日常や、TEAM NACSによる『スプラトゥーン2』マルチプレイも | インサイド](http://www.inside-games.jp/article/2017/02/08/105198.html) - 2017年2月8日。
+52.
+53.
+54. 「LOOSER」から「WARRIOR」までの公演のHDリマスター版を収録。2019年3月20日に各ソフトが単品で発売された。
+55.
+56.

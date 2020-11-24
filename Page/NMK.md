@@ -39,7 +39,7 @@
       - [USAAF ムスタング](https://ja.wikipedia.org/wiki/USAAF_ムスタング "wikilink")
   - 1991年
       - [クイズがくえんパラダイス](https://ja.wikipedia.org/wiki/クイズがくえんパラダイス "wikilink")\[7\]
-      - [サンダードラゴン](https://ja.wikipedia.org/wiki/サンダードラゴン_\(アーケードゲーム\) "wikilink")
+      - [サンダードラゴン](https://ja.wikipedia.org/wiki/サンダードラゴン_\(ゲーム\) "wikilink")
       - [はちゃめちゃファイター](https://ja.wikipedia.org/wiki/はちゃめちゃファイター "wikilink")
       - [ブラックハート](https://ja.wikipedia.org/wiki/ブラックハート "wikilink")
       - [SD刑事ブレイダー](https://ja.wikipedia.org/wiki/SD刑事ブレイダー "wikilink")\[8\]

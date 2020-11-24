@@ -1,7 +1,7 @@
 > この記事は[BMW JAPAN](https://ja.wikipedia.org/wiki/BMW_JAPAN)から翻訳されています。
 
 
-**BMWジャパン**（ビーエムダブリュージャパン）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車会社・[BMW](../Page/BMW.md "wikilink")の[日本法人](../Page/法人.md "wikilink")、**ビー・エム・ダブリュー株式会社**の[通称](../Page/通称.md "wikilink")である。
+**BMW JAPAN**（ビー・エム・ダブリュー ジャパン）は、[ドイツ](https://ja.wikipedia.org/wiki/ドイツ "wikilink")の自動車会社・[BMW](../Page/BMW.md "wikilink")の[日本法人](../Page/法人.md "wikilink")、**ビー・エム・ダブリュー株式会社**（）の[通称](../Page/通称.md "wikilink")である。
 
 ドイツBMW社の[完全子会社](https://ja.wikipedia.org/wiki/完全子会社 "wikilink")として[1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）に設立され、日本におけるBMWの[輸入](../Page/輸入.md "wikilink")・[販売](../Page/販売.md "wikilink")などを行っている。
 
@@ -32,7 +32,7 @@
 
   - 役員
 
-:\* 代表取締役社長 ウヴェ・シュタットラー 100%出資子会社。業務内容は、[ローン](https://ja.wikipedia.org/wiki/ローン "wikilink")、[リース](../Page/リース.md "wikilink")、[自動車保険](../Page/自動車保険.md "wikilink")など。[1994年](../Page/1994年.md "wikilink")（平成6年）、信販会社[アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")との提携による残価据え置き型自動車ローン（実質的には[カーリース](../Page/カーリース.md "wikilink")に近い内容であり、商品名は「バリューローン」）を発売。
+:\* 代表取締役社長 マイク・ウェザオール 100%出資子会社。業務内容は、[ローン](https://ja.wikipedia.org/wiki/ローン "wikilink")、[リース](../Page/リース.md "wikilink")、[自動車保険](../Page/自動車保険.md "wikilink")など。[1994年](../Page/1994年.md "wikilink")（平成6年）、信販会社[アプラス](https://ja.wikipedia.org/wiki/アプラス "wikilink")との提携による残価据え置き型自動車ローン（実質的には[カーリース](../Page/カーリース.md "wikilink")に近い内容であり、商品名は「バリューローン」）を発売。
 
 ### 自動車ディーラー
 
@@ -48,7 +48,7 @@
 
 :\* 〒108-0075 東京都[港区](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[高輪](../Page/港南_\(東京都港区\).md "wikilink") 2-15-17; 役員
 
-:\* 代表取締役社長 阿部　昇　100%出資子会社。[1989年](../Page/1989年.md "wikilink")（昭和64年）[1月4日](../Page/1月4日.md "wikilink")設立。世界でも最大規模のBMWディーラーのひとつ。歴代の社長として初代　富沢尚夫、[種子島経](../Page/種子島経.md "wikilink")、松山豊治（Honda Cars Philippines,Inc.を設立。初代社長）や、[2005年](../Page/2005年.md "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ダイエー](../Page/ダイエー.md "wikilink")の会長兼[CEOをつとめ](../Page/最高経営責任者.md "wikilink")、現在は[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")である[林文子](../Page/林文子.md "wikilink")がいる。
+:\* 代表取締役社長 有馬　孝之　100%出資子会社。[1989年](../Page/1989年.md "wikilink")（昭和64年）[1月4日](../Page/1月4日.md "wikilink")設立。世界でも最大規模のBMWディーラーのひとつ。歴代の社長として初代　富沢尚夫、[種子島経](../Page/種子島経.md "wikilink")、松山豊治（Honda Cars Philippines,Inc.を設立。初代社長）や、[2005年](../Page/2005年.md "wikilink")（平成17年）[4月](https://ja.wikipedia.org/wiki/4月 "wikilink")から[ダイエー](../Page/ダイエー.md "wikilink")の会長兼[CEOをつとめ](../Page/最高経営責任者.md "wikilink")、現在は[横浜市長](https://ja.wikipedia.org/wiki/横浜市長 "wikilink")である[林文子](../Page/林文子.md "wikilink")がいる。
 
 ## ローバーの輸入販売
 
@@ -114,7 +114,7 @@
       - モトーレン静岡(Shizuoka BMW、静岡県中部・東部)…2016年4月に三盛自動車販売より事業譲受。
       - モトーレン三河（Motoren Mikawa、[刈谷市](../Page/刈谷市.md "wikilink")）…2019年10月にアイカーズより事業譲受。
   - モトーレン東海（Nagoya-minami BMW）…[ホワイトハウスが運営](https://ja.wikipedia.org/wiki/ホワイトハウス_\(自動車販売\) "wikilink")
-  - [名鉄AUTO](https://ja.wikipedia.org/wiki/名鉄AUTO "wikilink")（長久手）…[名鉄協商](../Page/名鉄協商.md "wikilink")のグループ会社。2015年、岐阜県エリアのグループディーラー「ケイビーエスオート」を吸収合併する。
+  - [名鉄AUTO](https://ja.wikipedia.org/wiki/名鉄AUTO "wikilink") （Meitetsu BMW、長久手）…[名鉄協商](../Page/名鉄協商.md "wikilink")のグループ会社。2015年、岐阜県エリアのグループディーラー「ケイビーエスオート」を吸収合併する。
   - サン・モトーレン（[一宮市](../Page/一宮市.md "wikilink")）…サン・オートグループ
   - 三洋自動車（三重）
   - [マツシマホールディングス](https://ja.wikipedia.org/wiki/マツシマホールディングス "wikilink")（旧カミッグ・京都マツダ）
@@ -126,13 +126,13 @@
   - エムラインオート（香川）
   - アルスターオート（愛媛）
   - 株式会社外車センター（高知）
-  - ウィルプラスモトーレン（北九州・小倉）…[ウイルプラスホールディングス](https://ja.wikipedia.org/wiki/ウイルプラスホールディングス "wikilink")が運営。
-  - モトーレン佐賀…[祐徳自動車](../Page/祐徳自動車.md "wikilink")グループ。
+  - ウイルプラスモトーレン（Willplus BMW、北九州・小倉）…[ウイルプラスホールディングス](https://ja.wikipedia.org/wiki/ウイルプラスホールディングス "wikilink") グループ
+  - モトーレン佐賀（Saga BMW）…[祐徳自動車](../Page/祐徳自動車.md "wikilink") グループ
   - エム・ケイ・モータース（大分）
   - マツフジモータース（諫早市・佐世保市）…松藤商事グループ
   - モトーレンフロイデ（熊本）…ドゥ.ヨネザワ企業グループ（[ヨネザワ](../Page/ヨネザワ.md "wikilink")）。同グループ内に映画製作会社「[フレッシュハーツ](../Page/フレッシュハーツ.md "wikilink")」がある。2011年、旧正規ディーラー「マスダ自動車」からの事業譲受により営業開始。
   - モトーレン沖縄…[琉球日産グループ](https://ja.wikipedia.org/wiki/琉球日産グループ "wikilink")。
-  - [新出光](../Page/新出光.md "wikilink")（イデックスオートジャパン　宮崎・鹿児島）…2019年6月より宮崎市で「Idex BMW宮崎中央店」を開店。2020年4月より鹿児島市で「Idex BMW 鹿児島中央店」を開店。
+  - イデックスオート・ジャパン（Idex BMW、宮崎・鹿児島）…[新出光](../Page/新出光.md "wikilink")グループ。2019年6月より宮崎市で「Idex BMW宮崎中央店」を開店。2020年4月より鹿児島市で「Idex BMW 鹿児島中央店」を開店。
 
 ### かつての正規ディーラー
 

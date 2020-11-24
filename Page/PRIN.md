@@ -15,6 +15,8 @@
 
 [2009年](../Page/2009年.md "wikilink")時点で、[WILLCOM CORE 3Gでの接続には](https://ja.wikipedia.org/wiki/WILLCOM_CORE_3G "wikilink")、PRIN経由であることが必須となっている（この場合は、接続の如何を問わず、945円/月の固定費用がかかる）。
 
+[2021年](../Page/2021年.md "wikilink")1月31日をもって、[AIR-EDGE](../Page/AIR-EDGE.md "wikilink")等を含むPHS向け料金プランを終了することを発表している\[1\]。
+
 ## PRIN「ビジネス定額オプション」
 
 多回線ビジネス契約の場合、5回線以上の500円（税別）/回線まで、回線数に応じて月額料金が安くなるオプションである。
@@ -24,9 +26,13 @@
   - [WILLCOM CORE 3G](https://ja.wikipedia.org/wiki/WILLCOM_CORE_3G "wikilink")
   - [WILLCOM CORE XGP](https://ja.wikipedia.org/wiki/WILLCOM_CORE_XGP "wikilink")
 
+## 脚注
+
 ## 外部リンク
 
   - [PRIN](http://www.prin.ne.jp/)
   - [WILLCOM｜サービス｜PRIN](http://www.willcom-inc.com/ja/service/prin/)
 
 [Category:日本のインターネットサービスプロバイダ](https://ja.wikipedia.org/wiki/Category:日本のインターネットサービスプロバイダ "wikilink") [Category:PHS_(ウィルコム)](https://ja.wikipedia.org/wiki/Category:PHS_\(ウィルコム\) "wikilink") [Category:携帯電話_(ウィルコム)](https://ja.wikipedia.org/wiki/Category:携帯電話_\(ウィルコム\) "wikilink")
+
+1.

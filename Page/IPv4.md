@@ -492,13 +492,13 @@ loopback</p>
 
 断片化したパケットの**再構築**（英語：**Reassembly**、**再構成**とも呼ばれる\[27\]）は、パケットの宛先である装置が行う。ある識別子を持つパケットの断片を受信した宛先は、さらに同じ識別子を持つパケットの断片を受信し、それぞれの断片位置から断片化前のパケットを再構築する。
 
-IPヘッダのフラグの禁止ビットを設定すれば、パケットの断片化を禁止できる。この場合は断片化の代わりに[ICMP](https://ja.wikipedia.org/wiki/ICMP "wikilink")の宛先到達不可通知がパケットの送信元に返される。送信元はこれを利用して宛先に至る経路の最小MTUを調査することも可能である。パケットの長さを1オクテットずつ減らし、宛先到達不可通知が返らなくなる長さを調べればよい。
+IPヘッダのフラグの禁止ビットを設定すれば、パケットの断片化を禁止できる。この場合は断片化の代わりに[ICMP](https://ja.wikipedia.org/wiki/ICMP "wikilink")の宛先到達不可通知がパケットの送信元に返される。送信元はこれを利用して宛先に至る経路の最小MTUを調査することができ、そのような動作は[経路MTU探索](https://ja.wikipedia.org/wiki/経路MTU探索 "wikilink")と呼ばれる。
 
 断片化は帯域やルータの負荷に無駄（オーバーヘッド）を生じ、スループットの低下となるため好まれない。[経路MTU探索](https://ja.wikipedia.org/wiki/経路MTU探索 "wikilink")を行いMTUを調整するとよい。なお、IPv6では経路上のルータで断片化・再構築を行うことはなく、送信ホストのみで行われる。
 
 ## IPv4アドレスの枯渇
 
-IPv4のグローバルアドレスが枯渇してしまい、新規にIPv4のグローバルアドレスを割り当てることができなくなるため、インターネット上に公開されたIP機器を増設することが不可能になる問題である。既にIANA([Internet Assigned Numbers Authority](../Page/Internet_Assigned_Numbers_Authority.md "wikilink"))の管理するIPv4アドレスは[2011年](../Page/2011年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に枯渇した。また、各RIR([地域インターネットレジストリ](../Page/地域インターネットレジストリ.md "wikilink"))の管理するアドレスも早いところでは2011年4月下旬までには枯渇すると予想されている\[28\]\[29\]。
+IPv4のグローバルアドレスが枯渇してしまい、新規にIPv4のグローバルアドレスを割り当てることができなくなるため、インターネット上に公開されたIP機器を増設することが不可能になる問題である。既にIANA([Internet Assigned Numbers Authority](../Page/Internet_Assigned_Numbers_Authority.md "wikilink"))の管理するIPv4アドレスは[2011年](../Page/2011年.md "wikilink")[2月3日](../Page/2月3日.md "wikilink")に枯渇した。また、[AFRINIC](../Page/AFRINIC.md "wikilink")を除くRIR([地域インターネットレジストリ](../Page/地域インターネットレジストリ.md "wikilink"))の管理するアドレスも2020年8月にはすべて枯渇した。
 
 この枯渇問題の対策として、[IPv6](https://ja.wikipedia.org/wiki/IPv6 "wikilink")の普及が進められている。
 
@@ -552,5 +552,3 @@ IPv4のグローバルアドレスが枯渇してしまい、新規にIPv4のグ
 25.  - フラグメント化と呼ばれる例。
 26.  - フラグメンテーションと呼ばれる例。
 27.  - 再構成と呼ばれる例。
-28. [IPv4 Address Report](http://ipv4.potaroo.net/)
-29. [IPv4アドレスの在庫枯渇に関して](http://www.nic.ad.jp/ja/ip/ipv4pool/) - 社団法人日本ネットワークインフォメーションセンター(JPNIC)

@@ -58,98 +58,98 @@ Itanium 2の位置付けは、[RISC](../Page/RISC.md "wikilink")プロセッサ[
 
 ### Merced(マーセッド)
 
-最初のバージョンは2001年に出荷された。コードネームは**Merced**。180[nmプロセスで製造され動作周波数は](../Page/ナノメートル.md "wikilink")733～800MHz。外部3次キャッシュとして2Mバイトか4Mバイトを選択できる。価格は1200～4000[USドル](../Page/アメリカ合衆国ドル.md "wikilink")。しかし、性能は満足のいくものではなかった。[IA-64](../Page/IA-64.md "wikilink")モードでは同クロック周波数のx86と比較して若干性能がよい程度で、[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")でIA-32のコードを実行すると非常に低い性能しか出なかった（同クロック周波数のx86の8分の1）。
+最初のバージョンは2001年に出荷された。コードネームは**Merced**。180 [nmプロセスで製造され動作周波数は](../Page/ナノメートル.md "wikilink")733 - 800 MHz。外部3次キャッシュとして2メガバイト (MB) か4メガバイトを選択できる。価格は1200 - 4000[USドル](../Page/アメリカ合衆国ドル.md "wikilink")。しかし、性能は満足のいくものではなかった。[IA-64](../Page/IA-64.md "wikilink")モードでは同クロック周波数のx86と比較して若干性能がよい程度で、[エミュレーション](https://ja.wikipedia.org/wiki/エミュレーション "wikilink")でIA-32のコードを実行すると非常に低い性能しか出なかった (同クロック周波数のx86の8分の1)。
 
 ### Itanium 2
 
-#### Mckinley（マッキンリ）
+#### Mckinley (マッキンリ)
 
-0.18[μm](../Page/マイクロメートル.md "wikilink")[プロセスで製造される第一世代のItanium](https://ja.wikipedia.org/wiki/プロセスルール "wikilink") 2。IA-64命令セットにbranchlong命令が追加された。[IA-32](../Page/IA-32.md "wikilink")性能は向上したが、同時期の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")プロセッサの性能には遠く及ばず、Mckinleyでのx86コード実行速度は3分の2のクロック周波数の[Pentium IIと同等である](../Page/Pentium_II.md "wikilink")。開発初期段階ではFlagstaff(フラッグスタッフ)という名称で開発されていた。
+0.18 [μm](../Page/マイクロメートル.md "wikilink")[プロセスで製造される第一世代のItanium](https://ja.wikipedia.org/wiki/プロセスルール "wikilink") 2。IA-64命令セットにbranchlong命令が追加された。[IA-32](../Page/IA-32.md "wikilink")性能は向上したが、同時期の[x86](https://ja.wikipedia.org/wiki/x86 "wikilink")プロセッサの性能には遠く及ばず、Mckinleyでのx86コード実行速度は3分の2のクロック周波数の[Pentium IIと同等である](../Page/Pentium_II.md "wikilink")。開発初期段階ではFlagstaff(フラッグスタッフ)という名称で開発されていた。
 
-  - ラインナップ - 900MHz(L3 1.5MB)、1GHz(L3 1.5MB)、1GHz(L3 3MB)
+  - ラインナップ - 900 MHz (L3 1.5 MB)、1 GHz(L3 1.5 MB)、1 GHz (L3 3 MB)
 
-#### Madison（マディソン）
+#### Madison (マディソン)
 
-2003年6月末に登場した0.13μmプロセスで製造される第二世代のItanium 2。ダイサイズは374平方mm。消費電力はMckinleyと変わらず130ワット。発表当初は3次キャッシュを最大で6MB搭載するものが出荷されていたが、後に最大で9MB搭載するもの (Madison-9M) が発表された。2005年には[FSBが](../Page/フロントサイドバス.md "wikilink")667MHzのものが発表された。最新のものはSPECfpで2,801を記録した([日立製作所](../Page/日立製作所.md "wikilink")のComputing blade)。
+2003年6月末に登場した0.13 μmプロセスで製造される第二世代のItanium 2。ダイサイズは374平方ミリメートル。消費電力はMckinleyと変わらず130ワット。発表当初は3次キャッシュを最大で6 MB搭載するものが出荷されていたが、後に最大で9 MB搭載するもの (Madison-9M) が発表された。2005年には[FSBが](../Page/フロントサイドバス.md "wikilink")667 MHzのものが発表された。最新のものはSPECfpで2,801を記録した ([日立製作所](../Page/日立製作所.md "wikilink")のComputing blade)。
 
   - ラインナップ
-      - 4CPU以上の[SMPに対応](../Page/対称型マルチプロセッシング.md "wikilink") - 1.3GHz(L3 3MB)、1.4GHz(L3 4MB)、1.5GHz(L3 6MB)、1.5GHz(L3 4MB)、1.6GHz(L3 6MB)、1.6GHz(L3 9MB)
-      - 2CPUまでのSMPに対応 - 1.4GHz(L3 1.5MB)、1.4GHz(L3 3MB)、1.6GHz(L3 3MB)
+      - 4CPU以上の[SMPに対応](../Page/対称型マルチプロセッシング.md "wikilink") - 1.3 GHz (L3 3 MB)、1.4 GHz (L3 4 MB)、1.5 GHz (L3 6 MB)、1.5 GHz (L3 4 MB)、1.6 GHz (L3 6 MB)、1.6 GHz (L3 9 MB)
+      - 2CPUまでのSMPに対応 - 1.4 GHz (L3 1.5 MB)、1.4 GHz (L3 3 MB)、1.6 GHz (L3 3 MB)
 
-#### Deerfield（ディアフィールド）
+#### Deerfield (ディアフィールド)
 
 2003年にリリースされた2CPUまでのSMPに対応したMadisonの派生版。低電圧版の位置付けで、Madisonよりも消費電力が大幅に抑えられている。消費電力は63ワットで[ブレードサーバ](../Page/ブレードサーバ.md "wikilink")や1Uサーバ向きである。
 
-  - ラインナップ - 1GHz(L3 1.5MB)
+  - ラインナップ - 1 GHz (L3 1.5 MB)
 
 #### Hondo
 
-[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) がmx2デュアルプロセッサモジュールとして2003年に発表し、2004年から出荷した、Itanium 2を二次利用したプロセッサ。ふたつのMadisonコアと32MバイトのL4キャッシュを通常のItanium 2と同じサイズにパッケージ化したもの。HPのみが販売しており、最近では1.1GHzで各コアに4MBのL3キャッシュを搭載したものを使っている。
+[ヒューレット・パッカード](../Page/ヒューレット・パッカード.md "wikilink") (HP) がmx2デュアルプロセッサモジュールとして2003年に発表し、2004年から出荷した、Itanium 2を二次利用したプロセッサ。ふたつのMadisonコアと32 MBのL4キャッシュを通常のItanium 2と同じサイズにパッケージ化したもの。HPのみが販売しており、最近では1.1 GHzで各コアに4 MBのL3キャッシュを搭載したものを使っている。
 
-#### Fanwood（ファンウッド）
+#### Fanwood (ファンウッド)
 
-2004年に登場した2CPUまでのSMPに対応したMadison(Deerfield)の派生版。通常電圧版では[FSBクロックが](../Page/フロントサイドバス.md "wikilink")533MHzに向上している。
+2004年に登場した2CPUまでのSMPに対応したMadison (Deerfield) の派生版。通常電圧版では[FSBクロックが](../Page/フロントサイドバス.md "wikilink")533 MHzに向上している。
 
   - ラインナップ
-      - 通常電圧版 - 1.6GHz(L3 3MB)
-      - 低電圧版 - 1.3GHz(L3 3MB)
+      - 通常電圧版 - 1.6 GHz (L3 3 MB)
+      - 低電圧版 - 1.3 GHz (L3 3 MB)
 
-### Itanium 9000 / Montecito（モンテシト）
+### Itanium 9000 / Montecito (モンテシト)
 
 [2006年](../Page/2006年.md "wikilink")7月18日に発表、即日発売されたItanium 2シリーズの中の一つ。当初の名称はDual-Core Itanium 2 Processor 9000。この9000はプロセッサナンバで、広義では9xxxの総称とも言えるが、狭義として90xxの総称でもある。後のItanium 2の名称のItaniumとの統合により、このプロセッサの名称はItanium 2 9000から**Itanium 9000**に改められた。
 
 Intelの発表では、Itanium 2 9050は前世代にあたるMadisonとの比較で、性能が最大2倍、消費電力が最大2割減となり、消費電力当たり性能は最大2.5倍に達するとしている。
 
-9000シリーズの基本共通は、製造プロセスルールは90nm、L2キャッシュ容量は2.5MB（デュアルコアのコア毎に1MBのコードと0.25MBのデータをキャッシュする）。L3キャッシュは最大容量の製品で24MB。補助機能として[Virtualization Technology](../Page/インテル_バーチャライゼーション・テクノロジー.md "wikilink")（通称VT）、[Hyper-Threading Technology](../Page/ハイパースレッディング・テクノロジー.md "wikilink")（同HT、一部の製品で無効化されている）、Cache Safe Technology機能を搭載する。熱設計電力は9010のみ75Wで、シングルコア。
+9000シリーズの基本共通は、製造プロセスルールは90 nm、L2キャッシュ容量は2.5 MB (デュアルコアのコア毎に1 MBのコードと0.25 MBのデータをキャッシュする)。L3キャッシュは最大容量の製品で24 MB。補助機能として[Virtualization Technology](../Page/インテル_バーチャライゼーション・テクノロジー.md "wikilink") (VT)、[Hyper-Threading Technology](../Page/ハイパースレッディング・テクノロジー.md "wikilink") (HT、一部の製品で無効化されている)、Cache Safe Technology機能を搭載する。熱設計電力は9010のみ75 Wで、シングルコア。
 
-Montecitoに用いられるHT技術は、[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")での[同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink")（Simultaneous Multithreading; SMT）とは違い、[CGMT](https://ja.wikipedia.org/wiki/ハードウェアマルチスレッディング#ブロック型マルチスレッディング "wikilink")(Coarse-Grain Multithreading)を使用している。
+Montecitoに用いられるHT技術は、[NetBurstマイクロアーキテクチャ](../Page/NetBurstマイクロアーキテクチャ.md "wikilink")での[同時マルチスレッディング](../Page/同時マルチスレッディング.md "wikilink") (Simultaneous Multithreading; SMT) とは違い、[CGMT](https://ja.wikipedia.org/wiki/ハードウェアマルチスレッディング#ブロック型マルチスレッディング "wikilink") (Coarse-Grain Multithreading) を使用している。
 
   -
     {| border="1" cellpadding="5" class="wikitable"
 
-|+ Itanium Processor 90xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! FSB \!\! L3キャッシュ \!\! HT \!\! TDP |- | [9050](http://ark.intel.com/ja/products/28003/Intel-Itanium-Processor-9050-24M-Cache-1_60-GHz-533-MHz-FSB) || 1.60GHz || 2C/4T || 533MHz || 24MB || ○ || 104W |- | [9040](http://ark.intel.com/ja/products/28002/Intel-Itanium-Processor-9040-18M-Cache-1_60-GHz-533-MHz-FSB) || 1.60GHz || 2C/4T || 533MHz || 18MB || ○ || 104W |- | [9030](http://ark.intel.com/ja/products/28001/Intel-Itanium-Processor-9030-8M-Cache-1_60-GHz-533-MHz-FSB) || 1.60GHz || 2C/2T || 533MHz || 8MB || × || 104W |- | [9020](http://ark.intel.com/ja/products/28000/Intel-Itanium-Processor-9020-12M-Cache-1_42-GHz-533-MHz-FSB) || 1.42GHz || 2C/4T || 533MHz || 12MB || ○ || 104W |- | [9015](http://ark.intel.com/ja/products/27999/Intel-Itanium-Processor-9015-12M-Cache-1_40-GHz-400-MHz-FSB) || 1.40GHz || 2C/4T || 400MHz || 12MB || ○ || 104W |- | [9010](http://ark.intel.com/ja/products/27998/Intel-Itanium-Processor-9010-6M-Cache-1_60-GHz-533-MHz-FSB) || 1.60GHz || 1C/1T || 533MHz || 6MB || × || 104W |}
+|+ Itanium Processor 90xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! FSB \!\! L3キャッシュ \!\! HT \!\! TDP |- | [9050](http://ark.intel.com/ja/products/28003/Intel-Itanium-Processor-9050-24M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz || 24 MB || ○ || 104 W |- | [9040](http://ark.intel.com/ja/products/28002/Intel-Itanium-Processor-9040-18M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz || 18 MB || ○ || 104 W |- | [9030](http://ark.intel.com/ja/products/28001/Intel-Itanium-Processor-9030-8M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/2T || 533 MHz || 8 MB || × || 104 W |- | [9020](http://ark.intel.com/ja/products/28000/Intel-Itanium-Processor-9020-12M-Cache-1_42-GHz-533-MHz-FSB) || 1.42 GHz || 2C/4T || 533 MHz || 12 MB || ○ || 104 W |- | [9015](http://ark.intel.com/ja/products/27999/Intel-Itanium-Processor-9015-12M-Cache-1_40-GHz-400-MHz-FSB) || 1.40 GHz || 2C/4T || 400 MHz || 12 MB || ○ || 104 W |- | [9010](http://ark.intel.com/ja/products/27998/Intel-Itanium-Processor-9010-6M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 1C/1T || 533 MHz || 6 MB || × || 104 W |}
 
-### Itanium 9100 / Montvale（モンベール）
+### Itanium 9100 / Montvale (モンベール)
 
 Montecito の機能強化版。[2007年](../Page/2007年.md "wikilink")10月31日即日販売された。名称はDual-Core Itanium Processor 9100番台。
 
-製造プロセスルールは90nm、最高1.66GHzの動作周波数、667MHzの[FSBを備え](../Page/フロントサイドバス.md "wikilink")、104W以下の消費電力で動作。2つのプロセッサと[チップセット](../Page/チップセット.md "wikilink")が同じバスに搭載された3ロードバスによって、エンタープライズおよびハイパフォーマンスコンピューティング（HPC）での使用において、優れた能力を発揮する。
+製造プロセスルールは90 nm、最高1.66 GHzの動作周波数、667 MHzの[FSBを備え](../Page/フロントサイドバス.md "wikilink")、104W以下の消費電力で動作。2つのプロセッサと[チップセット](../Page/チップセット.md "wikilink")が同じバスに搭載された3ロードバスによって、エンタープライズおよびハイパフォーマンスコンピューティング (HPC) での使用において、優れた能力を発揮する。
 
-また、サーバの利用が低い時の消費電力を削減する新機能「デマンド・ベース・スイッチング」(DBS)により、エネルギーコストの低減にも寄与する。
+また、サーバの利用が低い時の消費電力を削減する新機能「デマンド・ベース・スイッチング」(DBS) により、エネルギーコストの低減にも寄与する。
 
 さらに2008年第1四半期からコアレベルロックステップ機能付きモデルを出荷開始する。この機能はプロセッサーコア内で起こるエラーの検出を確実に行うことでデータの完全性とアプリケーションの信頼性を向上させる新技術である。
 
   -
     {| border="1" cellpadding="5" class="wikitable"
 
-|+ Itanium Processor 91xx\[9\] |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! FSB \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9152M](http://ark.intel.com/ja/products/34655/Intel-Itanium-Processor-9152M-24M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||24 MB|| ○ || ○ || 104W |- |[9150M](http://ark.intel.com/ja/products/31731/Intel-Itanium-Processor-9150M-24M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||24 MB|| ○ || ○ || 104W |- |[9150N](http://ark.intel.com/ja/products/31796/Intel-Itanium-Processor-9150N-24M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz||24 MB|| ○ || ○ || 104W |- |[9140M](http://ark.intel.com/ja/products/31794/Intel-Itanium-Processor-9140M-18M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||18 MB|| ○ || ○ || 104W |- |[9140N](http://ark.intel.com/ja/products/31795/Intel-Itanium-Processor-9140N-18M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz||18 MB|| ○ || ○ || 104W |- |[9130M](http://ark.intel.com/ja/products/31793/Intel-Itanium-Processor-9130M-8M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/2T || 667 MHz ||8 MB|| × || × || 104W |- |[9120N](http://ark.intel.com/ja/products/31792/Intel-Itanium-Processor-9120N-12M-Cache-1_42-GHz-533-MHz-FSB) || 1.42 GHz || 2C/4T || 533 MHz ||12 MB|| ○ || × || 104W |- |[9110N](http://ark.intel.com/ja/products/31791/Intel-Itanium-Processor-9110N-12M-Cache-1_60-GHz-533-MHz-FSB)||1.60 GHz || 1C/1T || 533 MHz ||12 MB|| × || × || 75W |}
+|+ Itanium Processor 91xx\[9\] |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! FSB \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9152M](http://ark.intel.com/ja/products/34655/Intel-Itanium-Processor-9152M-24M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||24 MB|| ○ || ○ || 104 W |- |[9150M](http://ark.intel.com/ja/products/31731/Intel-Itanium-Processor-9150M-24M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||24 MB|| ○ || ○ || 104 W |- |[9150N](http://ark.intel.com/ja/products/31796/Intel-Itanium-Processor-9150N-24M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz||24 MB|| ○ || ○ || 104 W |- |[9140M](http://ark.intel.com/ja/products/31794/Intel-Itanium-Processor-9140M-18M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/4T || 667 MHz||18 MB|| ○ || ○ || 104 W |- |[9140N](http://ark.intel.com/ja/products/31795/Intel-Itanium-Processor-9140N-18M-Cache-1_60-GHz-533-MHz-FSB) || 1.60 GHz || 2C/4T || 533 MHz||18 MB|| ○ || ○ || 104 W |- |[9130M](http://ark.intel.com/ja/products/31793/Intel-Itanium-Processor-9130M-8M-Cache-1_66-GHz-667-MHz-FSB) || 1.66 GHz || 2C/2T || 667 MHz ||8 MB|| × || × || 104 W |- |[9120N](http://ark.intel.com/ja/products/31792/Intel-Itanium-Processor-9120N-12M-Cache-1_42-GHz-533-MHz-FSB) || 1.42 GHz || 2C/4T || 533 MHz ||12 MB|| ○ || × || 104 W |- |[9110N](http://ark.intel.com/ja/products/31791/Intel-Itanium-Processor-9110N-12M-Cache-1_60-GHz-533-MHz-FSB)|| 1.60 GHz || 1C/1T || 533 MHz ||12 MB|| × || × || 75 W |}
 
-### Itanium 9300 / Tukwila（タックウイラ）
+### Itanium 9300 / Tukwila (タックウイラ)
 
-[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")発表。コアごとに6MBのL3キャッシュを搭載し、[QuickPath InterConnectと](https://ja.wikipedia.org/wiki/インテル_QuickPath_インターコネクト "wikilink")、2つのDDR3メモリコントローラを備える。QuickPathの合計帯域は96GB/secとなる。かつてFoxtonテクノロジと言われていた、[インテル ターボ・ブースト・テクノロジーを備える](https://ja.wikipedia.org/wiki/インテル_ターボ・ブースト・テクノロジー "wikilink")。製造プロセスルールは65nm 8層メタルである。従来のItaniumプロセッサに比べ、低電圧動作が可能となっているが、4コアになった分、TDPは最大185Wと大きい。トランジスタ数は20億5000万個、ダイサイズは約700平方mmと巨大なものになっている。\[10\]また、ソフトエラー対策を強化し、宇宙線の中性子によるエラーを1/80から1/100に抑えたとしている。\[11\]プロセッサコアは90nmのMontecitoコアを65nmにシュリンクした以外は目立った改良はない（2008年1Q時点でインテルは、45nm High-K 9層メタルのIA-32プロセッサを出荷している）。当初の発売予定は2007年であったが、2008年末に延期され \[12\] 、2008年末には更に2009年半ばへ延期され、2009年2月にはデザイン修正のため2009年後半に延期された \[13\]。2009年5月にはリリースを再び延期し、出荷予定を2010年第1四半期に設定し直した\[14\]。2010年2月9日、当初予定から3年遅れで「Itaniumプロセッサー 9300 番台」として発表された。\[15\]
-
-  -
-    {| border="1" cellpadding="5" class="wikitable"
-
-|+ Itanium Processor 93xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 (ターボ) \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9350](http://ark.intel.com/ja/products/43410/Intel-Itanium-Processor-9350-24M-Cache-1_73-GHz-4_80-GTs-Intel-QPI)|| 1.73 GHz (1.866 GHz) || 4C/8T || 2 x 4.8 GT/s||24 MB|| ○ || ○ || 185W |- |[9340](http://ark.intel.com/ja/products/43409/Intel-Itanium-Processor-9340-20M-Cache-1_60-GHz-4_80-GTs-Intel-QPI)|| 1.60 GHz (1.733 GHz) || 4C/8T || 2 x 4.8 GT/s||20 MB|| ○ || ○ || 185W |- |[9330](http://ark.intel.com/ja/products/42795/Intel-Itanium-Processor-9330-20M-Cache-1_46-GHz-4_80-GTs-Intel-QPI)|| 1.46 GHz (1.600 GHz) || 4C/8T || 2 x 4.8 GT/s||20 MB|| ○ || ○ || 155W |- |[9320](http://ark.intel.com/ja/products/43408/Intel-Itanium-Processor-9320-16M-Cache-1_33-GHz-4_80-GTs-Intel-QPI)|| 1.33 GHz (1.466 GHz) || 4C/8T || 2 x 4.8 GT/s||16 MB|| ○ || ○ || 155W |- |[9310](http://ark.intel.com/ja/products/43407/Intel-Itanium-Processor-9310-10M-Cache-1_60-GHz-4_80-GTs-Intel-QPI)|| 1.60 GHz || 2C/4T || 2 x 4.8 GT/s||10 MB|| ○ || ○ || 130W |}
-
-### Itanium 9500 / Poulson（ポウルソン）
-
-[2012年](../Page/2012年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")発表。9500シリーズは、Tukwila の後継プロセッサとしてPoulsonとの開発コード名で開発された。製造プロセスルールは45nmはスキップして32nmを採用し、最大8コア、マルチスレッド処理を強化し、特に仮想化などの並列処理用の命令を追加した。[Intel VT-x](https://ja.wikipedia.org/wiki/Intel_VT-x "wikilink"), VT-d, VT-i 対応。クロックは最大2.53GHzとなった。2010年から実施している[Xeon](../Page/Xeon.md "wikilink")との基盤要素共通化を反映させたとしている\[16\]\[17\]。対応メモリは DDR3-800 と DDR3-1067。
+[2010年](https://ja.wikipedia.org/wiki/2010年 "wikilink")[2月9日](../Page/2月9日.md "wikilink")発表。コアごとに6 MBのL3キャッシュを搭載し、[QuickPath InterConnectと](https://ja.wikipedia.org/wiki/インテル_QuickPath_インターコネクト "wikilink")、2つのDDR3メモリコントローラを備える。QuickPathの合計帯域は96GB/secとなる。かつてFoxtonテクノロジと言われていた、[インテル ターボ・ブースト・テクノロジーを備える](https://ja.wikipedia.org/wiki/インテル_ターボ・ブースト・テクノロジー "wikilink")。製造プロセスルールは65 nm 8層メタルである。従来のItaniumプロセッサに比べ、低電圧動作が可能となっているが、4コアになった分、TDPは最大185Wと大きい。トランジスタ数は20億5000万個、ダイサイズは約700平方mmと巨大なものになっている。\[10\]また、ソフトエラー対策を強化し、宇宙線の中性子によるエラーを1/80から1/100に抑えたとしている。\[11\]プロセッサコアは90 nmのMontecitoコアを65 nmにシュリンクした以外は目立った改良はない（2008年1Q時点でインテルは、45 nm High-K 9層メタルのIA-32プロセッサを出荷している）。当初の発売予定は2007年であったが、2008年末に延期され \[12\] 、2008年末には更に2009年半ばへ延期され、2009年2月にはデザイン修正のため2009年後半に延期された \[13\]。2009年5月にはリリースを再び延期し、出荷予定を2010年第1四半期に設定し直した\[14\]。2010年2月9日、当初予定から3年遅れで「Itaniumプロセッサー 9300 番台」として発表された。\[15\]
 
   -
     {| border="1" cellpadding="5" class="wikitable"
 
-|+ Itanium Processor 95xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9560](http://ark.intel.com/ja/products/71699/Intel-Itanium-Processor-9560-32M-Cache-2_53-GHz) || 2.53 GHz || 8C/16T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170W |- |[9550](http://ark.intel.com/ja/products/71700/Intel-Itanium-Processor-9550-32M-Cache-2_40-GHz) || 2.40 GHz || 4C/8T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170W |- |[9540](http://ark.intel.com/ja/products/71701/Intel-Itanium-Processor-9540-24M-Cache-2_13-GHz) || 2.13 GHz || 8C/16T || 2 x 6.4 GT/s || 24 MB || ○ || ○ || 170W |- |[9520](http://ark.intel.com/ja/products/71702/Intel-Itanium-Processor-9520-20M-Cache-1_73-GHz) || 1.73 GHz || 4C/8T || 2 x 6.4 GT/s || 20 MB || ○ || ○ || 130W |}
+|+ Itanium Processor 93xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 (ターボ) \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9350](http://ark.intel.com/ja/products/43410/Intel-Itanium-Processor-9350-24M-Cache-1_73-GHz-4_80-GTs-Intel-QPI)|| 1.73 GHz (1.866 GHz) || 4C/8T || 2 x 4.8 GT/s||24 MB|| ○ || ○ || 185 W |- |[9340](http://ark.intel.com/ja/products/43409/Intel-Itanium-Processor-9340-20M-Cache-1_60-GHz-4_80-GTs-Intel-QPI)|| 1.60 GHz (1.733 GHz) || 4C/8T || 2 x 4.8 GT/s||20 MB|| ○ || ○ || 185 W |- |[9330](http://ark.intel.com/ja/products/42795/Intel-Itanium-Processor-9330-20M-Cache-1_46-GHz-4_80-GTs-Intel-QPI)|| 1.46 GHz (1.600 GHz) || 4C/8T || 2 x 4.8 GT/s||20 MB|| ○ || ○ || 155 W |- |[9320](http://ark.intel.com/ja/products/43408/Intel-Itanium-Processor-9320-16M-Cache-1_33-GHz-4_80-GTs-Intel-QPI)|| 1.33 GHz (1.466 GHz) || 4C/8T || 2 x 4.8 GT/s||16 MB|| ○ || ○ || 155 W |- |[9310](http://ark.intel.com/ja/products/43407/Intel-Itanium-Processor-9310-10M-Cache-1_60-GHz-4_80-GTs-Intel-QPI)|| 1.60 GHz || 2C/4T || 2 x 4.8 GT/s||10 MB|| ○ || ○ || 130 W |}
 
-### Itanium 9700 / Kittson（キットソン）
+### Itanium 9500 / Poulson (ポウルソン)
 
-2017年5月発表\[18\]\[19\]。当初は Xeon とソケット互換にする計画もあったが、Itanium 9500 と互換になった。プロセスルールは5年前に発表された95xxと同じ32nmでコア数も変化なし。インテルのデータシートによると9500から上位2つのクロック周波数を上げただけで機能面では変化なし\[20\]\[21\]。インテルはIDG Newsに対してこれが最後のItaniumであると語っている\[22\]。最終受注日は[2020年](../Page/2020年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、最終出荷日は[2021年](../Page/2021年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")で、これをもってItaniumは終了する\[23\]\[24\]。[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")は搭載サーバーを少なくとも[2025年](../Page/2025年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")までサポート予定\[25\]。対応OSは[HP-UX](../Page/HP-UX.md "wikilink")。
+[2012年](../Page/2012年.md "wikilink")[11月9日](../Page/11月9日.md "wikilink")発表。9500シリーズは、Tukwila の後継プロセッサとしてPoulsonとの開発コード名で開発された。製造プロセスルールは45 nmはスキップして32 nmを採用し、最大8コア、マルチスレッド処理を強化し、特に仮想化などの並列処理用の命令を追加した。[Intel VT-x](https://ja.wikipedia.org/wiki/Intel_VT-x "wikilink"), VT-d, VT-i 対応。クロックは最大2.53 GHzとなった。2010年から実施している[Xeon](../Page/Xeon.md "wikilink")との基盤要素共通化を反映させたとしている\[16\]\[17\]。対応メモリは DDR3-800 と DDR3-1067。
 
   -
     {| border="1" cellpadding="5" class="wikitable"
 
-|+ Itanium Processor 97xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9760](https://ark.intel.com/ja/products/122883/Intel-Itanium-Processor-9760-32M-Cache-2_66-GHz) || 2.66 GHz || 8C/16T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170W |- |[9750](https://ark.intel.com/ja/products/122884/Intel-Itanium-Processor-9750-32M-Cache-2_53-GHz) || 2.53 GHz || 4C/8T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170W |- |[9740](https://ark.intel.com/ja/products/122880/Intel-Itanium-Processor-9740-24M-Cache-2_13-GHz) || 2.13 GHz || 8C/16T || 2 x 6.4 GT/s || 24 MB || ○ || ○ || 170W |- |[9720](https://ark.intel.com/ja/products/122882/Intel-Itanium-Processor-9720-20M-Cache-1_73-GHz) || 1.73 GHz || 4C/8T || 2 x 6.4 GT/s || 20 MB || ○ || ○ || 130W |}
+|+ Itanium Processor 95xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9560](http://ark.intel.com/ja/products/71699/Intel-Itanium-Processor-9560-32M-Cache-2_53-GHz) || 2.53 GHz || 8C/16T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170 W |- |[9550](http://ark.intel.com/ja/products/71700/Intel-Itanium-Processor-9550-32M-Cache-2_40-GHz) || 2.40 GHz || 4C/8T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170 W |- |[9540](http://ark.intel.com/ja/products/71701/Intel-Itanium-Processor-9540-24M-Cache-2_13-GHz) || 2.13 GHz || 8C/16T || 2 x 6.4 GT/s || 24 MB || ○ || ○ || 170 W |- |[9520](http://ark.intel.com/ja/products/71702/Intel-Itanium-Processor-9520-20M-Cache-1_73-GHz) || 1.73 GHz || 4C/8T || 2 x 6.4 GT/s || 20 MB || ○ || ○ || 130 W |}
+
+### Itanium 9700 / Kittson (キットソン)
+
+2017年5月発表\[18\]\[19\]。当初は Xeon とソケット互換にする計画もあったが、Itanium 9500 と互換になった。プロセスルールは5年前に発表された95xxと同じ32 nmでコア数も変化なし。インテルのデータシートによると9500から上位2つのクロック周波数を上げただけで機能面では変化なし\[20\]\[21\]。インテルはIDG Newsに対してこれが最後のItaniumであると語っている\[22\]。最終受注日は[2020年](../Page/2020年.md "wikilink")[1月30日](../Page/1月30日.md "wikilink")、最終出荷日は[2021年](../Page/2021年.md "wikilink")[7月29日](../Page/7月29日.md "wikilink")で、これをもってItaniumは終了する\[23\]\[24\]。[ヒューレット・パッカード・エンタープライズ](https://ja.wikipedia.org/wiki/ヒューレット・パッカード・エンタープライズ "wikilink")は搭載サーバーを少なくとも[2025年](../Page/2025年.md "wikilink")[12月31日](../Page/12月31日.md "wikilink")までサポート予定\[25\]。対応OSは[HP-UX](../Page/HP-UX.md "wikilink")。
+
+  -
+    {| border="1" cellpadding="5" class="wikitable"
+
+|+ Itanium Processor 97xx |- align="center" \! プロセッサ・ナンバ \!\! 動作周波数 \!\! コア/スレッド数 \!\! QPI \!\! L3キャッシュ \!\! HT \!\! DBS \!\! TDP |- |[9760](https://ark.intel.com/ja/products/122883/Intel-Itanium-Processor-9760-32M-Cache-2_66-GHz) || 2.66 GHz || 8C/16T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170 W |- |[9750](https://ark.intel.com/ja/products/122884/Intel-Itanium-Processor-9750-32M-Cache-2_53-GHz) || 2.53 GHz || 4C/8T || 2 x 6.4 GT/s || 32 MB || ○ || ○ || 170 W |- |[9740](https://ark.intel.com/ja/products/122880/Intel-Itanium-Processor-9740-24M-Cache-2_13-GHz) || 2.13 GHz || 8C/16T || 2 x 6.4 GT/s || 24 MB || ○ || ○ || 170 W |- |[9720](https://ark.intel.com/ja/products/122882/Intel-Itanium-Processor-9720-20M-Cache-1_73-GHz) || 1.73 GHz || 4C/8T || 2 x 6.4 GT/s || 20 MB || ○ || ○ || 130 W |}
 
 ## 採用
 

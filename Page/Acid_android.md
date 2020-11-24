@@ -268,7 +268,7 @@ acid androidが企画するオールナイトイベント。[2001年](../Page/20
 
 **[2020年](../Page/2020年.md "wikilink")**
 
-  - [10月17日](../Page/10月17日.md "wikilink") - [11月30日](../Page/11月30日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催予定\[34\]。当初同年5月30日より開催される予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、4月21日に全公演延期が発表された。
+  - [10月17日](../Page/10月17日.md "wikilink") - [11月30日](../Page/11月30日.md "wikilink")、ライブツアー「ACID ANDROID LIVE 2020」を開催予定\[34\]。当初同年5月30日より開催される予定だったが、[新型コロナウイルス感染症の拡大に絡み](../Page/2019新型コロナウイルス.md "wikilink")、4月21日に全公演延期が発表された。しかし、同年8月14日に前述の感染症の収束の見通しが立っていない状況を受け、振替公演の中止を発表。
 
 ## 作品
 
@@ -797,7 +797,7 @@ BananaHall（#2）<br />
 HEAVEN'S ROCK 熊谷（#2）</p></td>
 </tr>
 <tr class="even">
-<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a> - <a href="../Page/11月30日.md" title="wikilink">11月30日</a></p></td>
+<td><p><a href="../Page/2020年.md" title="wikilink">2020年</a><a href="../Page/10月17日.md" title="wikilink">10月17日</a> - <a href="../Page/11月30日.md" title="wikilink">11月30日</a>（中止）</p></td>
 <td><p>ライブツアー</p></td>
 <td><p>ACID ANDROID LIVE 2020</p></td>
 <td><div class="NavFrame" style="clear:both;border:0;">

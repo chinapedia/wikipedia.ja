@@ -497,7 +497,7 @@ DONA-35</p></td>
 
   - [PinkRhinos99 公式サイト](https://pinkrhinos99.jimdo.com/)
 
-  - [ボーカルKUMIのGo\!Go\!漫遊記](http://blog.excite.co.jp/yumyumblog)
+  - [ボーカルKUMIのGo\!Go\!漫遊記](https://blog.excite.co.jp/yumyumblog)
 
   - [From Yum\! ～RYUのつぶやき～](https://yumorange.exblog.jp/)
 

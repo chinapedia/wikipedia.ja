@@ -47,7 +47,7 @@ PRTR法が対象とする物質は、詳細な[リスク評価](https://ja.wikip
 
 （PRTR及びそのデータ）
 
-  - [環境省](../Page/環境省.md "wikilink")環境保健部：[PRTRインフォメーション広場](http://www.env.go.jp/chemi/prtr/risk0.html)
+  - [環境省](../Page/環境省.md "wikilink")環境保健部：[PRTRインフォメーション広場](https://www.env.go.jp/chemi/prtr/risk0.html)
   - [経済産業省](../Page/経済産業省.md "wikilink")製造産業局：[化学物質排出把握管理促進法のホームページ](http://www.meti.go.jp/policy/chemical_management/law/)
   - (社)[環境情報科学センター](https://ja.wikipedia.org/wiki/環境情報科学センター "wikilink")(CEIS)：[PRTR & Risk Communication](http://www.prtr-net.jp/index.php)……市区町村別の排出量集計結果等
   - (独)[製品評価技術基盤機構](../Page/製品評価技術基盤機構.md "wikilink")（NITE）：[化学物質排出把握管理促進法](http://www.nite.go.jp/chem/prtr/prtr_index.html)……届出書の処理等

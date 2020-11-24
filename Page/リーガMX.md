@@ -51,56 +51,56 @@
 | 1945-46  | **[ベラクルス](https://ja.wikipedia.org/wiki/CDベラクルス "wikilink")**                 | [アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")                 |
 | 1946-47  | **[アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")**                 | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
 | 1947-48  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
-| 1948-49  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")                   |
+| 1948-49  | [アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")                       |                                                                           |
 | 1949-50  | **[ベラクルス](https://ja.wikipedia.org/wiki/CDベラクルス "wikilink")**                 | [アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")                 |
-| 1950-51  | **[アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")**                   | [アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")                 |
+| 1950-51  | **[アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")**                   |                                                                           |
 | 1951-52  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
 | 1952-53  | **[タンピコ](https://ja.wikipedia.org/wiki/タンピコ・マデロ "wikilink")**                 | [サカテペク](https://ja.wikipedia.org/wiki/サカテペク "wikilink")                   |
 | 1953-54  | **[マルテ](https://ja.wikipedia.org/wiki/CDマルテ "wikilink")**                     | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
 | 1954-55  | **[サカテペク](https://ja.wikipedia.org/wiki/サカテペク "wikilink")**                   | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
 | 1955-56  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
 | 1956-57  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")                 |
-| 1957-58  | **[サカテペク](https://ja.wikipedia.org/wiki/サカテペク "wikilink")**                   | [トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")                 |
+| 1957-58  | **[サカテペク](https://ja.wikipedia.org/wiki/サカテペク "wikilink")**                   |                                                                           |
 | 1958-59  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
-| 1959-60  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
-| 1960-61  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
-| 1961-62  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
+| 1959-60  | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                        |                                                                           |
+| 1960-61  | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                         |                                                                           |
+| 1961-62  | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                        |                                                                           |
 | 1962-63  | **[オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")**                     | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
 | 1963-64  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
-| 1964-65  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                     |
+| 1964-65  | [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                         |                                                                           |
 | 1965-66  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [アトラス](https://ja.wikipedia.org/wiki/FCアトラス "wikilink")                   |
 | 1966-67  | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
-| 1967-68  | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
+| 1967-68  | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")             |                                                                           |
 | 1968-69  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
 | 1969-70  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
 | M 70     | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")                 |
-| 1970-71  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")                 |
+| 1970-71  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    |                                                                           |
 | 1971-72  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
-| 1972-73  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
-| 1973-74  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [アトレティコ・エスパーニャ](https://ja.wikipedia.org/wiki/アトレティコ・エスパーニャ "wikilink")   |
+| 1972-73  | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                       |                                                                           |
+| 1973-74  | [アトレティコ・エスパーニャ](https://ja.wikipedia.org/wiki/アトレティコ・エスパーニャ "wikilink")       |                                                                           |
 | 1974-75  | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
 | 1975-76  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [U・デ・グアダラハラ](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・グアダラハラ "wikilink")  |
-| 1976-77  | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [U・デ・グアダラハラ](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・グアダラハラ "wikilink")  |
+| 1976-77  | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         |                                                                           |
 | 1977-78  | **[UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")**                | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
-| 1978-79  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
-| 1979-80  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                |
+| 1978-79  | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  |                                                                           |
+| 1979-80  | [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                    |                                                                           |
 | 1980-81  | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
 | 1981-82  | **[UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")**                | [アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")                 |
 | 1982-83  | **[プエブラ](https://ja.wikipedia.org/wiki/CFプエブラ "wikilink")**                   | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
-| 1983-84  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
-| 1984-85  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
-| P 85     | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [タンピコ・マデロ](https://ja.wikipedia.org/wiki/タンピコ・マデロ "wikilink")             |
-| M 86     | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    | [タンピコ・マデロ](https://ja.wikipedia.org/wiki/タンピコ・マデロ "wikilink")             |
+| 1983-84  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    |                                                                           |
+| 1984-85  | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")             |                                                                           |
+| P 85     | [タンピコ・マデロ](https://ja.wikipedia.org/wiki/タンピコ・マデロ "wikilink")                 |                                                                           |
+| M 86     | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    |                                                                           |
 | 1986-87  | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
 | 1987-88  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
-| 1988-89  | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
+| 1988-89  | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                      |                                                                           |
 | 1989-90  | **[プエブラ](https://ja.wikipedia.org/wiki/CFプエブラ "wikilink")**                   | [U・デ・グアダラハラ](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・グアダラハラ "wikilink")  |
 | 1990-91  | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
 | 1991-92  | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [プエブラ](https://ja.wikipedia.org/wiki/CFプエブラ "wikilink")                   |
 | 1992-93  | **[アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")**                 | [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                    |
 | 1993-94  | **[UAG](https://ja.wikipedia.org/wiki/CDエストゥディアンテス・テコス "wikilink")**          | [サントス](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")                 |
 | 1994-95  | **[ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")**                                    | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
-| 1995-96  | **[ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")**                                    | [セラジャ](https://ja.wikipedia.org/wiki/アトレティコ・セラジャ "wikilink")              |
+| 1995-96  | [セラジャ](https://ja.wikipedia.org/wiki/アトレティコ・セラジャ "wikilink")                  |                                                                           |
 | 1996 (I) | **[サントス](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")**                 | [ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")                                    |
 | 1997 (V) | **[グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")**               | [トロス・ネサ](https://ja.wikipedia.org/wiki/トロス・ネサ "wikilink")                 |
 | 1997 (I) | **[クルス・アスル](../Page/クルス・アスル.md "wikilink")**                                  | [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")                   |
@@ -114,10 +114,10 @@
 | 2001 (I) | **[パチューカ](../Page/CFパチューカ.md "wikilink")**                                    | [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                |
 | 2002 (V) | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")                                    |
 | 2002 (A) | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [モレリア](../Page/モナルカス・モレリア.md "wikilink")                                  |
-| 2003 (C) | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    | [モレリア](../Page/モナルカス・モレリア.md "wikilink")                                  |
+| 2003 (C) | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    |                                                                           |
 | 2003 (A) | **[パチューカ](../Page/CFパチューカ.md "wikilink")**                                    | [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                |
 | 2004 (C) | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")               |
-| 2004 (A) | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                    |
+| 2004 (A) | [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                        |                                                                           |
 | 2005 (C) | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [UAG](https://ja.wikipedia.org/wiki/CDエストゥディアンテス・テコス "wikilink")          |
 | 2005 (A) | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                    |
 | 2006 (C) | **[パチューカ](../Page/CFパチューカ.md "wikilink")**                                    | [サン・ルイス](https://ja.wikipedia.org/wiki/サン・ルイスFC "wikilink")               |
@@ -125,18 +125,18 @@
 | 2007 (C) | **[パチューカ](../Page/CFパチューカ.md "wikilink")**                                    | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
 | 2007 (A) | **[アトランテ](https://ja.wikipedia.org/wiki/CFアトランテ "wikilink")**                 | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
 | 2008 (C) | **[サントス](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")**                 | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
-| 2008 (A) | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
+| 2008 (A) | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 |                                                                           |
 | 2009 (C) | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [パチューカ](../Page/CFパチューカ.md "wikilink")                                    |
 | 2009 (A) | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
 | 2010 (B) | **[トルーカ](https://ja.wikipedia.org/wiki/クラブ・トルーカ "wikilink")**                 | [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")             |
-| 2010 (A) | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    | [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")             |
+| 2010 (A) | **[モンテレイ](../Page/CFモンテレイ.md "wikilink")**                                    |                                                                           |
 | 2011 (C) | **[UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")**         | [モレリア](../Page/モナルカス・モレリア.md "wikilink")                                  |
 | 2011 (A) | **[UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")**                | [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")             |
 | 2012 (C) | **[サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")**             | [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                    |
 | 2012 (A) | **[ティファナ](https://ja.wikipedia.org/wiki/クラブ・ティファナ "wikilink")**               | [トルーカ](https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC "wikilink")           |
 | 2013 (C) | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [クルス・アスル](../Page/クルス・アスル.md "wikilink")                                  |
 | 2013 (A) | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                    |
-| 2014 (C) | **[レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")**                   | [パチューカ](../Page/CFパチューカ.md "wikilink")                                    |
+| 2014 (C) | [パチューカ](../Page/CFパチューカ.md "wikilink")                                        |                                                                           |
 | 2014 (A) | **[アメリカ](../Page/クラブ・アメリカ.md "wikilink")**                                    | [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")                |
 | 2015 (C) | **[サントス](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")**                 | [ケレタロ](https://ja.wikipedia.org/wiki/ケレタロFC "wikilink")                   |
 | 2015 (A) | **[UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")**                | [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")         |
@@ -154,32 +154,32 @@
 
 ## クラブ別優勝回数
 
-| クラブ                                                                   | 優勝 | 準優勝 | 優勝年                                                                                                                                |
-| --------------------------------------------------------------------- | -- | --- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                | 13 | 10  | 1965–66, 1970–71, 1975–76, 1983–84, 1984–85, PRODE 85, 1987–88, 1988–89, 2002ベラーノ, 2005クラウスーラ, 2013クラウスーラ, 2014アペルトゥーラ,2018アペルトゥーラ |
-| [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")           | 12 | 9   | 1956–57, 1958–59, 1959–60, 1960–61, 1961–62, 1963–64, 1964–65, 1969–70, 1986–87, 1997ベラーノ, 2006アペルトゥーラ,2017クラウスーラ                  |
-| [トルーカ](https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC "wikilink")       | 10 | 7   | 1966–67, 1967–68, 1974–75, 1998ベラーノ, 1999ベラーノ, 2000ベラーノ, 2002アペルトゥーラ, 2005アペルトゥーラ, 2008アペルトゥーラ, 2010ビセンテナリオ                        |
-| [クルス・アスル](../Page/クルス・アスル.md "wikilink")                              | 8  | 11  | 1968–69, メヒコ'70, 1971–72, 1972–73, 1973–74, 1978–79, 1979–80, 1997インビエルノ                                                           |
-| [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")     | 7  | 7   | 1976–77, 1980–81, 1990–91, 2004クラウスーラ, 2004アペルトゥーラ, 2009クラウスーラ, 2011クラウスーラ                                                         |
-| [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")               | 7  | 6   | 1947–48, 1948–49, 1951–52, 1955–56, 1991–92, 2013アペルトゥーラ, 2014クラウスーラ                                                               |
-| [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")            | 7  | 5   | 1977–78, 1981–82, 2011アペルトゥーラ, 2015アペルトゥーラ,2016アペルトゥーラ, 2017アペルトゥーラ, 2019クラウスーラ                                                    |
-| [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")         | 6  | 5   | 1996インビエルノ, 2001ベラーノ, 2008クラウスーラ, 2012クラウスーラ, 2015クラウスーラ,2018クラウスーラ                                                                |
-| [パチューカ](../Page/CFパチューカ.md "wikilink")                                | 6  | 3   | 1999インビエルノ, 2001インビエルノ, 2003アペルトゥーラ, 2006クラウスーラ, 2007クラウスーラ, 2016クラウスーラ                                                            |
-| [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                | 5  | 6   | メヒコ'86, 2003クラウスーラ, 2009アペルトゥーラ, 2010アペルトゥーラ,2019アペルトゥーラ                                                                           |
-| [アトランテ](https://ja.wikipedia.org/wiki/アトランテFC "wikilink")             | 3  | 4   | 1946–47, 1992–93, 2007アペルトゥーラ                                                                                                      |
-| [ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")                                | 3  | 3   | 1994–95, 1995–96, 1998インビエルノ                                                                                                       |
-| [プエブラ](https://ja.wikipedia.org/wiki/プエブラFC "wikilink")               | 2  | 2   | 1982–83, 1989–90                                                                                                                   |
-| [サカテペク](https://ja.wikipedia.org/wiki/CDサカテペク "wikilink")             | 2  | 1   | 1954–55, 1957–58                                                                                                                   |
-| [ベラクルス](https://ja.wikipedia.org/wiki/ティブロネス・ロホス・デ・ベラクルス "wikilink")  | 2  | 0   | 1945–46, 1949–50                                                                                                                   |
-| [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                 | 1  | 5   | 1962–63                                                                                                                            |
-| [モレリア](../Page/モナルカス・モレリア.md "wikilink")                              | 1  | 3   | 2000インビエルノ                                                                                                                         |
-| [アトラス](../Page/CFアトラス.md "wikilink")                                  | 1  | 3   | 1950–51                                                                                                                            |
-| [タンピコ・マデロ](https://ja.wikipedia.org/wiki/タンピコ・マデロFC "wikilink")       | 1  | 2   | 1952–53                                                                                                                            |
-| [テコス](https://ja.wikipedia.org/wiki/テコスFC "wikilink")                 | 1  | 1   | 1993–94                                                                                                                            |
-| [レアル・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ "wikilink") | 1  | 1   | 1944–45                                                                                                                            |
-| [ティフアナ](https://ja.wikipedia.org/wiki/クラブ・ティフアナ "wikilink")           | 1  | 0   | 2012アペルトゥーラ                                                                                                                        |
-| [アストゥリアス](https://ja.wikipedia.org/wiki/アストゥリアスFC "wikilink")         | 1  | 0   | 1943–44                                                                                                                            |
-| [マルテ](https://ja.wikipedia.org/wiki/CDマルテ "wikilink")                 | 1  | 0   | 1953–54                                                                                                                            |
+| クラブ                                                                   | 優勝      | 準優勝                                                                             | 優勝年                                                                                                                                |
+| --------------------------------------------------------------------- | ------- | ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| [アメリカ](../Page/クラブ・アメリカ.md "wikilink")                                | 13      | 10                                                                              | 1965–66, 1970–71, 1975–76, 1983–84, 1984–85, PRODE 85, 1987–88, 1988–89, 2002ベラーノ, 2005クラウスーラ, 2013クラウスーラ, 2014アペルトゥーラ,2018アペルトゥーラ |
+| [グアダラハラ](https://ja.wikipedia.org/wiki/CDグアダラハラ "wikilink")           | 12      | 9                                                                               | 1956–57, 1958–59, 1959–60, 1960–61, 1961–62, 1963–64, 1964–65, 1969–70, 1986–87, 1997ベラーノ, 2006アペルトゥーラ,2017クラウスーラ                  |
+| [トルーカ](https://ja.wikipedia.org/wiki/デポルティーボ・トルーカFC "wikilink")       | 10      | 7                                                                               | 1966–67, 1967–68, 1974–75, 1998ベラーノ, 1999ベラーノ, 2000ベラーノ, 2002アペルトゥーラ, 2005アペルトゥーラ, 2008アペルトゥーラ, 2010ビセンテナリオ                        |
+| [クルス・アスル](../Page/クルス・アスル.md "wikilink")                              | 8       | 11                                                                              | 1968–69, メヒコ'70, 1971–72, 1972–73, 1973–74, 1978–79, 1979–80, 1997インビエルノ                                                           |
+| [UNAM](https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル "wikilink")     | 7       | 7                                                                               | 1976–77, 1980–81, 1990–91, 2004クラウスーラ, 2004アペルトゥーラ, 2009クラウスーラ, 2011クラウスーラ                                                         |
+| [レオン](https://ja.wikipedia.org/wiki/クラブ・レオン "wikilink")               | 6       | 1947–48, 1948–49, 1951–52, 1955–56, 1991–92, 2013アペルトゥーラ, 2014クラウスーラ            |                                                                                                                                    |
+| [UANL](https://ja.wikipedia.org/wiki/UANLティグレス "wikilink")            | 5       | 1977–78, 1981–82, 2011アペルトゥーラ, 2015アペルトゥーラ,2016アペルトゥーラ, 2017アペルトゥーラ, 2019クラウスーラ |                                                                                                                                    |
+| [サントス・ラグナ](https://ja.wikipedia.org/wiki/サントス・ラグナ "wikilink")         | 6       | 1996インビエルノ, 2001ベラーノ, 2008クラウスーラ, 2012クラウスーラ, 2015クラウスーラ,2018クラウスーラ             |                                                                                                                                    |
+| [パチューカ](../Page/CFパチューカ.md "wikilink")                                | 3       | 1999インビエルノ, 2001インビエルノ, 2003アペルトゥーラ, 2006クラウスーラ, 2007クラウスーラ, 2016クラウスーラ         |                                                                                                                                    |
+| [モンテレイ](../Page/CFモンテレイ.md "wikilink")                                | 5       | 6                                                                               | メヒコ'86, 2003クラウスーラ, 2009アペルトゥーラ, 2010アペルトゥーラ,2019アペルトゥーラ                                                                           |
+| [アトランテ](https://ja.wikipedia.org/wiki/アトランテFC "wikilink")             | 3       | 4                                                                               | 1946–47, 1992–93, 2007アペルトゥーラ                                                                                                      |
+| [ネカクサ](../Page/クルブ・ネカクサ.md "wikilink")                                | 3       | 1994–95, 1995–96, 1998インビエルノ                                                    |                                                                                                                                    |
+| [プエブラ](https://ja.wikipedia.org/wiki/プエブラFC "wikilink")               | 2       | 2                                                                               | 1982–83, 1989–90                                                                                                                   |
+| [サカテペク](https://ja.wikipedia.org/wiki/CDサカテペク "wikilink")             | 1       | 1954–55, 1957–58                                                                |                                                                                                                                    |
+| [ベラクルス](https://ja.wikipedia.org/wiki/ティブロネス・ロホス・デ・ベラクルス "wikilink")  | 0       | 1945–46, 1949–50                                                                |                                                                                                                                    |
+| [オーロ](https://ja.wikipedia.org/wiki/CDオーロ "wikilink")                 | 1       | 5                                                                               | 1962–63                                                                                                                            |
+| [モレリア](../Page/モナルカス・モレリア.md "wikilink")                              | 3       | 2000インビエルノ                                                                      |                                                                                                                                    |
+| [アトラス](../Page/CFアトラス.md "wikilink")                                  | 1950–51 |                                                                                 |                                                                                                                                    |
+| [タンピコ・マデロ](https://ja.wikipedia.org/wiki/タンピコ・マデロFC "wikilink")       | 2       | 1952–53                                                                         |                                                                                                                                    |
+| [テコス](https://ja.wikipedia.org/wiki/テコスFC "wikilink")                 | 1       | 1993–94                                                                         |                                                                                                                                    |
+| [レアル・エスパーニャ](https://ja.wikipedia.org/wiki/レアル・クラブ・エスパーニャ "wikilink") | 1944–45 |                                                                                 |                                                                                                                                    |
+| [ティフアナ](https://ja.wikipedia.org/wiki/クラブ・ティフアナ "wikilink")           | 0       | 2012アペルトゥーラ                                                                     |                                                                                                                                    |
+| [アストゥリアス](https://ja.wikipedia.org/wiki/アストゥリアスFC "wikilink")         | 1943–44 |                                                                                 |                                                                                                                                    |
+| [マルテ](https://ja.wikipedia.org/wiki/CDマルテ "wikilink")                 | 1953–54 |                                                                                 |                                                                                                                                    |
 
 ## 歴代得点王
 
@@ -209,7 +209,7 @@
 <td><p>1945-46</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イシドロ・ランガラ" title="wikilink">イシドロ・ランガラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/レアル・クルブ・エスパーニャ" title="wikilink">レアル・クルブ・エスパーニャ</a></p></td>
-<td><p>40</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1946-47</p></td>
@@ -219,15 +219,15 @@
 </tr>
 <tr class="odd">
 <td><p>1947-48</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アダルベルト・ロペス" title="wikilink">アダルベルト・ロペス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>36</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1948-49</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アダルベルト・ロペス" title="wikilink">アダルベルト・ロペス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>28</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1949-50</p></td>
@@ -255,19 +255,27 @@
 </tr>
 <tr class="odd">
 <td><p>1953-54</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/フアン・カルロス・カレラ" title="wikilink">フアン・カルロス・カレラ</a><br />
- <a href="https://ja.wikipedia.org/wiki/アダルベルト・ロペス" title="wikilink">アダルベルト・ロペス</a><br />
- <a href="https://ja.wikipedia.org/wiki/フリオ・マリア・パジェイロ" title="wikilink">フリオ・マリア・パジェイロ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/オロ・デ・ハリスコ" title="wikilink">オロ・デ・ハリスコ</a><br />
-<a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a><br />
-<a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/フアン・カルロス・カレラ" title="wikilink">フアン・カルロス・カレラ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/オロ・デ・ハリスコ" title="wikilink">オロ・デ・ハリスコ</a></p></td>
 <td><p>21</p></td>
 </tr>
 <tr class="even">
-<td><p>1954-55</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アダルベルト・ロペス" title="wikilink">アダルベルト・ロペス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p><a href="https://ja.wikipedia.org/wiki/フリオ・マリア・パジェイロ" title="wikilink">フリオ・マリア・パジェイロ</a></p></td>
 <td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1954-55</p></td>
 <td><p>19</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1955-56</p></td>
@@ -285,7 +293,7 @@
 <td><p>1957-58</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ララ" title="wikilink">カルロス・ララ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CDサカテペク" title="wikilink">サカテペク</a></p></td>
-<td><p>19</p></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1958-59</p></td>
@@ -303,124 +311,133 @@
 <td><p>1960-61</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ララ" title="wikilink">カルロス・ララ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CDサカテペク" title="wikilink">サカテペク</a></p></td>
-<td><p>22</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1961-62</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ララ" title="wikilink">カルロス・ララ</a><br />
- <a href="https://ja.wikipedia.org/wiki/サルバトール・レイエス・モンテオン" title="wikilink">サルバトール・レイエス・モンテオン</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CDサカテペク" title="wikilink">サカテペク</a><br />
-<a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
 <td><p>21</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サルバトール・レイエス・モンテオン" title="wikilink">サルバトール・レイエス・モンテオン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1962-63</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アマウリ・エスパミノンダス" title="wikilink">アマウリ・エスパミノンダス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オロ・デ・ハリスコ" title="wikilink">オロ・デ・ハリスコ</a></p></td>
 <td><p>19</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1963-64</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルベルト・エチェベリ" title="wikilink">アルベルト・エチェベリ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1964-65</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アマウリ・エスパミノンダス" title="wikilink">アマウリ・エスパミノンダス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オロ・デ・ハリスコ" title="wikilink">オロ・デ・ハリスコ</a></p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1965-66</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョゼ・アウヴェス" title="wikilink">ザグエ</a></p></td>
 <td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1966-67</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アマウリ・エスパミノンダス" title="wikilink">アマウリ・エスパミノンダス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
 <td><p>21</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1967-68</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ベルナルド・エルナンデス" title="wikilink">ベルナルド・エルナンデス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポトロス・デル・アトランテ" title="wikilink">アトランテ</a></p></td>
 <td><p>19</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1968-69</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・エストラーダ" title="wikilink">ルイス・エストラーダ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>24</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1969-70</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ビセンテ・ペレダ" title="wikilink">ビセンテ・ペレダ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>M 70</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・アナヤ" title="wikilink">セルヒオ・アナヤ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>16</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1970-71</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エンリケ・ボルハ" title="wikilink">エンリケ・ボルハ</a></p></td>
 <td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>20</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1971-72</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エンリケ・ボルハ" title="wikilink">エンリケ・ボルハ</a></p></td>
-<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>26</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p>1972-73</p></td>
+<td><p>24</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>1972-73</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エンリケ・ボルハ" title="wikilink">エンリケ・ボルハ</a></p></td>
-<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
-<td><p>24</p></td>
-</tr>
-<tr class="even">
 <td><p>1973-74</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オスバルド・カストロ" title="wikilink">オスバルド・カストロ</a></p></td>
-<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>26</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1974-75</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/オラシオ・ロペス・サルガド" title="wikilink">オラシオ・ロペス・サルガド</a></p></td>
 <td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
 <td><p>25</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1975-76</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
 <td><p>29</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1976-77</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
 <td><p>34</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>1977-78</p></td>
+<td><p>33</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>1977-78</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
-<td><p>33</p></td>
+<td><p>1978-79</p></td>
+<td><p>26</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>1978-79</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a><br />
- <a href="../Page/ウーゴ・サンチェス.md" title="wikilink">ウーゴ・サンチェス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
-<td><p>26</p></td>
+<td><p><a href="../Page/ウーゴ・サンチェス.md" title="wikilink">ウーゴ・サンチェス</a></p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1979-80</p></td>
@@ -430,15 +447,15 @@
 </tr>
 <tr class="odd">
 <td><p>1980-81</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポトロス・デル・アトランテ" title="wikilink">アトランテ</a></p></td>
 <td><p>29</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1981-82</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/カビーニョ" title="wikilink">カビーニョ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ポトロス・デル・アトランテ" title="wikilink">アトランテ</a></p></td>
 <td><p>32</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1982-83</p></td>
@@ -448,9 +465,9 @@
 </tr>
 <tr class="even">
 <td><p>1983-84</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ノルベルト・オウテス" title="wikilink">ノルベルト・オウテス</a></p></td>
 <td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
 <td><p>28</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1984-85</p></td>
@@ -466,91 +483,99 @@
 </tr>
 <tr class="odd">
 <td><p>M 86</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・リラ" title="wikilink">セルヒオ・リラ</a><br />
- <a href="https://ja.wikipedia.org/wiki/フランシスコ・ハビエル・クルス" title="wikilink">フランシスコ・ハビエル・クルス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/タンピコ・マデロ" title="wikilink">タンピコ・マデロ</a><br />
-<a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
 <td><p>14</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/フランシスコ・ハビエル・クルス" title="wikilink">フランシスコ・ハビエル・クルス</a></p></td>
+<td><p><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1986-87</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホセ・ルイス・サラサール" title="wikilink">ホセ・ルイス・サラサール</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UAGテコス" title="wikilink">UAGテコス</a></p></td>
 <td><p>23</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1987-88</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・エンリケ・フローレス・_オカランサ" title="wikilink">ルイス・フローレス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
 <td><p>24</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1988-89</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/セルヒオ・リラ" title="wikilink">セルヒオ・リラ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/タンピコ・マデロ" title="wikilink">タンピコ・マデロ</a></p></td>
 <td><p>29</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1989-90</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ホルヘ・コマス" title="wikilink">ホルヘ・コマス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ティブロネス・ロホス・デ・ベラクルス" title="wikilink">ベラクルス</a></p></td>
 <td><p>26</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>1990-91</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ガルシア・ポスティゴ" title="wikilink">ルイス・ガルシア・ポスティゴ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
-<td><p>26</p></td>
-</tr>
-<tr class="odd">
-<td><p>1991-92</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ガルシア・ポスティゴ" title="wikilink">ルイス・ガルシア・ポスティゴ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
-<td><p>24</p></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>1991-92</p></td>
+<td><p>24</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1992-93</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イボ・バサイ" title="wikilink">イボ・バサイ</a></p></td>
 <td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
 <td><p>27</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1993-94</p></td>
 <td><p><a href="../Page/カルロス・エルモシージョ.md" title="wikilink">カルロス・エルモシージョ</a></p></td>
 <td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
-<td><p>27</p></td>
-</tr>
-<tr class="even">
-<td><p>1994-95</p></td>
-<td><p><a href="../Page/カルロス・エルモシージョ.md" title="wikilink">カルロス・エルモシージョ</a></p></td>
-<td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
-<td><p>35</p></td>
+<td></td>
 </tr>
 <tr class="odd">
-<td><p>1995-96</p></td>
-<td><p><a href="../Page/カルロス・エルモシージョ.md" title="wikilink">カルロス・エルモシージョ</a></p></td>
-<td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
-<td><p>26</p></td>
+<td><p>1994-95</p></td>
+<td><p>35</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p>1995-96</p></td>
+<td><p>26</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>1996 (I)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/カルロス・ムニョス・コボ" title="wikilink">カルロス・ムニョス・コボ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/プエブラFC" title="wikilink">プエブラFC</a></p></td>
 <td><p>15</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>1997 (V)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ガブリエル・カバジェロ" title="wikilink">ガブリエル・カバジェロ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ロレンソ・サエス" title="wikilink">ロレンソ・サエス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a><br />
-<a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ガブリエル・カバジェロ" title="wikilink">ガブリエル・カバジェロ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
 <td><p>12</p></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/ロレンソ・サエス" title="wikilink">ロレンソ・サエス</a></p></td>
+<td><p><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>1997 (I)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ルイス・ガルシア・ポスティゴ" title="wikilink">ルイス・ガルシア・ポスティゴ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ポトロス・デル・アトランテ" title="wikilink">アトランテ</a></p></td>
-<td><p>12</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>1998 (V)</p></td>
@@ -574,17 +599,25 @@
 <td><p>1999 (I)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ヘスス・オラルデ" title="wikilink">ヘスス・オラルデ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
-<td><p>15</p></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2000 (V)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エベラルド・ベヒネス" title="wikilink">エベラルド・ベヒネス</a><br />
- <a href="https://ja.wikipedia.org/wiki/セバスティアン・アブレウ" title="wikilink">セバスティアン・アブレウ</a><br />
- <a href="../Page/アグスティン・デルガド.md" title="wikilink">アグスティン・デルガド</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a><br />
-<a href="https://ja.wikipedia.org/wiki/UAGテコス" title="wikilink">UAGテコス</a><br />
-<a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/エベラルド・ベヒネス" title="wikilink">エベラルド・ベヒネス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>14</p></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セバスティアン・アブレウ" title="wikilink">セバスティアン・アブレウ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UAGテコス" title="wikilink">UAGテコス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/アグスティン・デルガド.md" title="wikilink">アグスティン・デルガド</a></p></td>
+<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2000 (I)</p></td>
@@ -594,9 +627,9 @@
 </tr>
 <tr class="odd">
 <td><p>2001 (V)</p></td>
-<td><p><a href="../Page/ハレド・ボルヘッティ.md" title="wikilink">ハレド・ボルヘッティ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
 <td><p>13</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2001 (I)</p></td>
@@ -618,9 +651,9 @@
 </tr>
 <tr class="odd">
 <td><p>2003 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ホセ・サトゥルニノ・カルドーソ" title="wikilink">ホセ・サトゥルニノ・カルドーソ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
 <td><p>21</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2003 (A)</p></td>
@@ -630,155 +663,195 @@
 </tr>
 <tr class="odd">
 <td><p>2004 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/アンドレス・シルベラ" title="wikilink">アンドレス・シルベラ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ブルーノ・マリオーニ" title="wikilink">ブルーノ・マリオーニ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a><br />
-<a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アンドレス・シルベラ" title="wikilink">アンドレス・シルベラ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a></p></td>
 <td><p>16</p></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ブルーノ・マリオーニ" title="wikilink">ブルーノ・マリオーニ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ウニベルシダ・ナシオナル" title="wikilink">UNAM</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2004 (A)</p></td>
 <td><p><a href="../Page/ギジェルモ・フランコ.md" title="wikilink">ギジェルモ・フランコ</a></p></td>
 <td><p><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
 <td><p>15</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2005 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/マティアス・ブオソ" title="wikilink">マティアス・ブオソ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
-<td><p>15</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2005 (A)</p></td>
+<td><p>11</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2005 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マティアス・ブオソ" title="wikilink">マティアス・ブオソ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ワルテル・ガイタン" title="wikilink">ワルテル・ガイタン</a><br />
- <a href="https://ja.wikipedia.org/wiki/クレーベル・ペレイラ" title="wikilink">クレーベル・ボアス</a><br />
- <a href="https://ja.wikipedia.org/wiki/セバスティアン・アブレウ" title="wikilink">セバスティアン・アブレウ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a><br />
-<a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a><br />
-<a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a><br />
-<a href="https://ja.wikipedia.org/wiki/ドラドス・デ・シナロア" title="wikilink">ドラドス</a></p></td>
-<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ワルテル・ガイタン" title="wikilink">ワルテル・ガイタン</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/クレーベル・ペレイラ" title="wikilink">クレーベル・ボアス</a></p></td>
+<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/セバスティアン・アブレウ" title="wikilink">セバスティアン・アブレウ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ドラドス・デ・シナロア" title="wikilink">ドラドス</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2006 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/セバスティアン・アブレウ" title="wikilink">セバスティアン・アブレウ</a><br />
- <a href="https://ja.wikipedia.org/wiki/サルバドール・カバニャス" title="wikilink">サルバドール・カバニャス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ドラドス・デ・シナロア" title="wikilink">ドラドス</a><br />
-<a href="https://ja.wikipedia.org/wiki/ハグアレス・デ・チアパス" title="wikilink">ハグアレス</a></p></td>
-<td><p>11</p></td>
+<td></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/サルバドール・カバニャス" title="wikilink">サルバドール・カバニャス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハグアレス・デ・チアパス" title="wikilink">ハグアレス</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2006 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ブルーノ・マリオーニ" title="wikilink">ブルーノ・マリオーニ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
-<td><p>11</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2007 (C)</p></td>
 <td><p><a href="../Page/オマール・ブラボ.md" title="wikilink">オマール・ブラボ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
-<td><p>11</p></td>
+<td></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2007 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アルフレド・ダビド・モレノ" title="wikilink">アルフレド・ダビド・モレノ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サン・ルイスFC" title="wikilink">サン・ルイス</a></p></td>
 <td><p>18</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2008 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ウンベルト・スアソ" title="wikilink">ウンベルト・スアソ</a></p></td>
 <td><p><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2008 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エクトル・マンシージャ" title="wikilink">エクトル・マンシージャ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
 <td><p>11</p></td>
 </tr>
-<tr class="odd">
-<td><p>2009 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/エクトル・マンシージャ" title="wikilink">エクトル・マンシージャ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
-<td><p>14</p></td>
-</tr>
 <tr class="even">
+<td><p>2009 (C)</p></td>
+<td><p>14</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2009 (A)</p></td>
 <td><p><a href="../Page/エマヌエル・ビジャ.md" title="wikilink">エマヌエル・ビジャ</a></p></td>
 <td><p><a href="../Page/クルス・アスル.md" title="wikilink">クルス・アスル</a></p></td>
 <td><p>17</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2010 (B)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ハビエル・エルナンデス・バルカサール" title="wikilink">ハビエル・エルナンデス</a><br />
- <a href="https://ja.wikipedia.org/wiki/エルクレス・ゴメス" title="wikilink">エルクレス・ゴメス</a><br />
- <a href="https://ja.wikipedia.org/wiki/ホハン・ファノ" title="wikilink">ホハン・ファノ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a><br />
-<a href="https://ja.wikipedia.org/wiki/プエブラFC" title="wikilink">プエブラ</a><br />
-<a href="https://ja.wikipedia.org/wiki/CFアトランテ" title="wikilink">アトランテ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ハビエル・エルナンデス・バルカサール" title="wikilink">ハビエル・エルナンデス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
 <td><p>10</p></td>
 </tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/エルクレス・ゴメス" title="wikilink">エルクレス・ゴメス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/プエブラFC" title="wikilink">プエブラ</a></p></td>
+<td></td>
+<td></td>
+</tr>
 <tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/ホハン・ファノ" title="wikilink">ホハン・ファノ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CFアトランテ" title="wikilink">アトランテ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
 <td><p>2010 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリスティアン・ベニテス" title="wikilink">クリスティアン・ベニテス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
 <td><p>14</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2011 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンヘル・レイナ" title="wikilink">アンヘル・レイナ</a></p></td>
 <td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>13</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2011 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/イバン・アロンソ" title="wikilink">イバン・アロンソ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
 <td><p>11</p></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2012 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/イバン・アロンソ" title="wikilink">イバン・アロンソ</a><br />
- <a href="https://ja.wikipedia.org/wiki/クリスティアン・ベニテス" title="wikilink">クリスティアン・ベニテス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a><br />
-<a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>14</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアン・ベニテス" title="wikilink">クリスティアン・ベニテス</a></p></td>
+<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2012 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クリスティアン・ベニテス" title="wikilink">クリスティアン・ベニテス</a><br />
- <a href="https://ja.wikipedia.org/wiki/エステバン・パレデス" title="wikilink">エステバン・パレデス</a></p></td>
-<td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a><br />
-<a href="https://ja.wikipedia.org/wiki/アトランテFC" title="wikilink">アトランテ</a></p></td>
 <td><p>11</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/エステバン・パレデス" title="wikilink">エステバン・パレデス</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アトランテFC" title="wikilink">アトランテ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2013 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クリスティアン・ベニテス" title="wikilink">クリスティアン・ベニテス</a></p></td>
 <td><p><a href="../Page/クラブ・アメリカ.md" title="wikilink">アメリカ</a></p></td>
 <td><p>12</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2013 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/パブロ・ベラスケス" title="wikilink">パブロ・ベラスケス</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/デポルティーボ・トルーカ" title="wikilink">トルーカ</a></p></td>
-<td><p>12</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2014 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/エネル・バレンシア" title="wikilink">エンネル・バレンシア</a></p></td>
 <td><p><a href="../Page/CFパチューカ.md" title="wikilink">パチューカ</a></p></td>
-<td><p>12</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2014 (A)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
+<td></td>
 </tr>
 <tr class="even">
-<td><p>2014 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a><br />
- <a href="https://ja.wikipedia.org/wiki/カミーロ・サンヴェッゾ" title="wikilink">カミーロ・サンヴェッゾ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a><br />
-<a href="https://ja.wikipedia.org/wiki/ケレタロFC" title="wikilink">ケレタロ</a></p></td>
-<td><p>12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/カミーロ・サンヴェッゾ" title="wikilink">カミーロ・サンヴェッゾ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケレタロFC" title="wikilink">ケレタロ</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2015 (C)</p></td>
@@ -788,65 +861,81 @@
 </tr>
 <tr class="even">
 <td><p>2015 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a><br />
- <a href="../Page/エマヌエル・ビジャ.md" title="wikilink">エマヌエル・ビジャ</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a><br />
-<a href="https://ja.wikipedia.org/wiki/ケレタロFC" title="wikilink">ケレタロ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>13</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="../Page/エマヌエル・ビジャ.md" title="wikilink">エマヌエル・ビジャ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ケレタロFC" title="wikilink">ケレタロ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2016 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンドレ＝ピエール・ジニャック" title="wikilink">アンドレ＝ピエール・ジニャック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a></p></td>
-<td><p>13</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2016 (A)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ダイロ・モレノ" title="wikilink">ダイロ・モレノ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ティフアナ" title="wikilink">ティフアナ</a></p></td>
+<td><p>11</p></td>
 </tr>
 <tr class="even">
-<td><p>2016 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ダイロ・モレノ" title="wikilink">ダイロ・モレノ</a><br />
- <a href="https://ja.wikipedia.org/wiki/ラウル・ルイディアス" title="wikilink">ラウル・ルイディアス</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・ティフアナ" title="wikilink">ティフアナ</a><br />
-<a href="../Page/モナルカス・モレリア.md" title="wikilink">モレリア</a></p></td>
-<td><p>11</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/ラウル・ルイディアス" title="wikilink">ラウル・ルイディアス</a></p></td>
+<td><p><a href="../Page/モナルカス・モレリア.md" title="wikilink">モレリア</a></p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>2017 (C)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/ラウル・ルイディアス" title="wikilink">ラウル・ルイディアス</a></p></td>
-<td><p><a href="../Page/モナルカス・モレリア.md" title="wikilink">モレリア</a></p></td>
 <td><p>9</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td><p>2017 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a><br />
- <a href="https://ja.wikipedia.org/wiki/アビレス・ウルタード" title="wikilink">アビレス・ウルタード</a></p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a><br />
-<a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・ボセーリ" title="wikilink">マウロ・ボセーリ</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
 <td><p>11</p></td>
 </tr>
 <tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/アビレス・ウルタード" title="wikilink">アビレス・ウルタード</a></p></td>
+<td><p><a href="../Page/CFモンテレイ.md" title="wikilink">モンテレイ</a></p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
 <td><p>2018 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/ジョルジ・ジャニニー・タバレス・セメド" title="wikilink">ジャニニー</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/サントス・ラグナ" title="wikilink">サントス・ラグナ</a></p></td>
 <td><p>14</p></td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><p>2018 (A)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンドレ＝ピエール・ジニャック" title="wikilink">アンドレ＝ピエール・ジニャック</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/UANLティグレス" title="wikilink">UANL</a></p></td>
-<td><p>14</p></td>
+<td></td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><p>2019 (C)</p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/アンヘル・メナ" title="wikilink">アンヘル・メナ</a></p></td>
 <td><p><a href="https://ja.wikipedia.org/wiki/クラブ・レオン" title="wikilink">レオン</a></p></td>
-<td><p>14</p></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p>2019 (A)</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・キロガ" title="wikilink">マウロ・キロガ</a></p></td>
+<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a></p></td>
+<td><p>12</p></td>
 </tr>
 <tr class="even">
-<td><p>2019 (A)</p></td>
-<td><p><a href="https://ja.wikipedia.org/wiki/マウロ・キロガ" title="wikilink">マウロ・キロガ</a><br />
- <a href="https://ja.wikipedia.org/wiki/アラン・プリード" title="wikilink">アラン・プリード</a></p></td>
-<td><p><a href="../Page/クルブ・ネカクサ.md" title="wikilink">ネカクサ</a><br />
-<a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
-<td><p>12</p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/アラン・プリード" title="wikilink">アラン・プリード</a></p></td>
+<td><p><a href="https://ja.wikipedia.org/wiki/CDグアダラハラ" title="wikilink">グアダラハラ</a></p></td>
+<td></td>
+<td></td>
 </tr>
 </tbody>
 </table>

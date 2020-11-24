@@ -7,24 +7,18 @@
 
   - **[Ahyoomi](https://ja.wikipedia.org/wiki/伊藤ゆみ "wikilink")**（アユミ） → **Ahyoomee**（アユミ）
       - イ・アユミ（<span lang="ko">이아유미</span>、李亜由美\[1\]）
-      - [1984年](../Page/1984年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")出身の[在日韓国人三世](https://ja.wikipedia.org/wiki/在日コリアン "wikilink")。
+      - [1984年](../Page/1984年.md "wikilink")[8月25日](../Page/8月25日.md "wikilink")[鳥取県](../Page/鳥取県.md "wikilink")[鳥取市](../Page/鳥取市.md "wikilink")出身の[在日韓国人三世](../Page/在日韓国・朝鮮人.md "wikilink")。
       - [2006年](../Page/2006年.md "wikilink")7月に「Cutie Honey」でソロデビュー。
       - Sugar解散後、[2007年](../Page/2007年.md "wikilink")[2月](https://ja.wikipedia.org/wiki/2月 "wikilink")に[SMエンターテインメント](../Page/SMエンターテインメント.md "wikilink")へ移籍した。
       - 2008年からは、伊藤ゆみの名前で、日本でも女優として活動。日本では[エイベックス・マネジメント](https://ja.wikipedia.org/wiki/エイベックス・マネジメント "wikilink")に所属。
       - 2009年12月: [ICONIQ](https://ja.wikipedia.org/wiki/ICONIQ "wikilink")に改名して、日本で再デビュー。
       - 2016年8月に伊藤ゆみへと再改名し、女優として活動。
-
-<!-- end list -->
-
   - **Sae Byul**（セビョル） → **Hye Seung**（ヘスン）
       - ユク・ヘスン（<span lang="ko">육혜승</span>）
       - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[10月4日](https://ja.wikipedia.org/wiki/10月4日 "wikilink")[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。
       - 特技は[バドミントン](../Page/バドミントン.md "wikilink")。[血液型はAB型](../Page/ABO式血液型.md "wikilink")。
       - [韓国](../Page/大韓民国.md "wikilink")1集時には**Sae Byul**（セビョル、<span lang="ko">새별</span>）の名で活動した。
       - Sugar解散後、**ハン・イェウォン**(<span lang="ko">한예원</span>)に名を変更して女優転身。ドラマ「[オンエアー](../Page/オンエアー_\(テレビドラマ\).md "wikilink")」などに出演。
-
-<!-- end list -->
-
   - **Haleen**（ハリン）
       - イ・ハリン（<span lang="ko">이하린</span>）
       - [1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")[9月8日](../Page/9月8日.md "wikilink")[京畿道](../Page/京畿道.md "wikilink")出身。[血液型はB型](../Page/ABO式血液型.md "wikilink")。
@@ -40,9 +34,6 @@
       - デビュー当時のリーダー。
       - [2004年](../Page/2004年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")卒業。
       - 脱退後、女優転身。ドラマ『[フルハウスTAKE2](https://ja.wikipedia.org/wiki/フルハウスTAKE2 "wikilink")』などに出演。
-
-<!-- end list -->
-
   - **[Soo Jin](https://ja.wikipedia.org/wiki/パク・スジン "wikilink")**（スジン）
       - パク・スジン（<span lang="ko">박수진</span>）
       - [1985年](https://ja.wikipedia.org/wiki/1985年 "wikilink")[11月27日](../Page/11月27日.md "wikilink")[ソウル出身](https://ja.wikipedia.org/wiki/ソウル特別市 "wikilink")。

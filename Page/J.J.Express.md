@@ -1,7 +1,7 @@
 > この記事は[J.J.Express](https://ja.wikipedia.org/wiki/J.J.Express)から翻訳されています。
 
 
-**J.J.Express**（ジェイ・ジェイ・エクスプレス）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。ユニット名は「Johnny's Junior EXPRESS」の略\[1\]。「[Kis-My-Ftの弟分](https://ja.wikipedia.org/wiki/Kis-My-Ft2#Kis-My-Ft. "wikilink")」と紹介されていた\[2\]。
+**J.J.Express**（ジェイ・ジェイ・エクスプレス）は、[ジャニーズ事務所](../Page/ジャニーズ事務所.md "wikilink")に所属していた[ジャニーズJr.](https://ja.wikipedia.org/wiki/ジャニーズJr. "wikilink")内の[男性アイドルグループ](https://ja.wikipedia.org/wiki/男性アイドルグループ "wikilink")。ユニット名は「Johnny's Junior EXPRESS」の略\[1\]。「[Kis-My-Ft.の弟分](https://ja.wikipedia.org/wiki/Kis-My-Ft2#Kis-My-Ft. "wikilink")」と紹介されていた\[2\]。
 
 ## メンバー
 

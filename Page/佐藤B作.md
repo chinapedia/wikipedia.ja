@@ -3,24 +3,24 @@
 
 **佐藤 B作**（さとう ビーさく、本名：**佐藤 俊夫**（さとう としお）、[1949年](../Page/1949年.md "wikilink")[2月13日](../Page/2月13日.md "wikilink") - ）は、[日本](https://ja.wikipedia.org/wiki/日本 "wikilink")の[俳優](../Page/俳優.md "wikilink")。
 
-身長164cm。[血液型AB型](../Page/ABO式血液型.md "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
+身長163cm\[1\]。[血液型AB型](../Page/ABO式血液型.md "wikilink")。[福島県](../Page/福島県.md "wikilink")[福島市](../Page/福島市.md "wikilink")出身。[福島県立福島高等学校](../Page/福島県立福島高等学校.md "wikilink")卒業、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")中退。妻は[女優の](../Page/俳優.md "wikilink")[あめくみちこ](../Page/あめくみちこ.md "wikilink")（[2001年](../Page/2001年.md "wikilink")に再婚）、息子は[佐藤銀平](../Page/佐藤銀平.md "wikilink")。[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")主宰者。オフィスボードビル所属。
 
 ## 来歴・人物
 
-  - 福島市の[飯坂温泉](../Page/飯坂温泉.md "wikilink")出身\[1\]。実家は[八百屋](../Page/八百屋.md "wikilink")（現在は弟が継いでいる）。小学校4年の時から[演劇部](https://ja.wikipedia.org/wiki/演劇部 "wikilink")に入った\[2\]。
-  - [商社マン](https://ja.wikipedia.org/wiki/商社マン "wikilink")や[外交官](../Page/外交官.md "wikilink")など海外に行ける仕事を志し、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")に進学し上京\[3\]。大学の授業に通っていたのは最初の頃だけで、そのうち[ジャズ喫茶](../Page/ジャズ喫茶.md "wikilink")通いに熱中\[4\]。そこでみたドラマに刺激を受け役者になりたいと思い立ち早稲田大学の演劇サークル「[劇団木霊](https://ja.wikipedia.org/wiki/劇団木霊 "wikilink")」に入り、演劇活動に専念。[大門正明](../Page/大門正明.md "wikilink")と[斉木しげる](../Page/斉木しげる.md "wikilink")は劇団木霊の同期である。
+  - 福島市の[飯坂温泉](../Page/飯坂温泉.md "wikilink")出身\[2\]。実家は[八百屋](../Page/八百屋.md "wikilink")（現在は弟が継いでいる）。小学校4年の時から[演劇部](https://ja.wikipedia.org/wiki/演劇部 "wikilink")に入った\[3\]。
+  - [商社マン](https://ja.wikipedia.org/wiki/商社マン "wikilink")や[外交官](../Page/外交官.md "wikilink")など海外に行ける仕事を志し、[早稲田大学](../Page/早稲田大学.md "wikilink")[商学部](../Page/商学部.md "wikilink")に進学し上京\[4\]。大学の授業に通っていたのは最初の頃だけで、そのうち[ジャズ喫茶](../Page/ジャズ喫茶.md "wikilink")通いに熱中\[5\]。そこでみたドラマに刺激を受け役者になりたいと思い立ち早稲田大学の演劇サークル「[劇団木霊](https://ja.wikipedia.org/wiki/劇団木霊 "wikilink")」に入り、演劇活動に専念。[大門正明](../Page/大門正明.md "wikilink")と[斉木しげる](../Page/斉木しげる.md "wikilink")は劇団木霊の同期である。
   - 早大を中退し、[薄田研二](https://ja.wikipedia.org/wiki/薄田研二 "wikilink")が主宰する演技研究所に参加したのち、プロの演劇集団に入るべく多くの劇団を受けるが、[福島なまりが抜けていなかったこともあり落ち続けた](../Page/福島弁.md "wikilink")。アングラ集団「[自由劇場](../Page/自由劇場.md "wikilink")」に音声を担当する裏方として出入りするようになる。[1973年](../Page/1973年.md "wikilink")に[劇団東京ヴォードヴィルショー](../Page/劇団東京ヴォードヴィルショー.md "wikilink")を結成、現在も座長を務めている。
-  - [1982年](../Page/1982年.md "wikilink")から[TBS系列で放映開始され高視聴率番組となった](../Page/TBSテレビ.md "wikilink")[萩本欽一](../Page/萩本欽一.md "wikilink")バラエティ番組「[週刊欽曜日](https://ja.wikipedia.org/wiki/週刊欽曜日 "wikilink")」にレギュラー出演し[コント](../Page/コント.md "wikilink")を繰り広げ、全国的な人気を得る\[5\]。同番組に出演することになったのは、「東京ヴォードビルショー」団員である[山口良一](../Page/山口良一.md "wikilink")が[フジテレビ系](../Page/フジニュースネットワーク.md "wikilink")「[欽ドン](https://ja.wikipedia.org/wiki/欽ドン "wikilink")」のレギュラー出演者に抜擢され、座長として御礼挨拶をしに萩本のもとに出向いた際の佐藤のしぐさなどが萩本に気に入られ、TBSで始める新番組で起用したいと声が掛かった\[6\]。
-  - 本名の「としお」は父親が「砂糖と塩」とかけた洒落で命名したという。芸名の「B作」は、当時[ノーベル平和賞](../Page/ノーベル平和賞.md "wikilink")を受賞した[佐藤栄作](../Page/佐藤栄作.md "wikilink")元首相にちなんで\[7\]（A作に対抗してB作とした）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にアフリカの[ガンビア共和国](https://ja.wikipedia.org/wiki/ガンビア共和国 "wikilink")からノーベル平和賞の受賞者として佐藤栄作の[切手](../Page/切手.md "wikilink")が発行されたが、誤って「Bisaku Sato」と表記されていた\[8\]。アルファベットのEとBが似ているのが原因とみられ、2004年12月8日放送のフジテレビ「[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")」で紹介された際に、番組スタッフが本人にこの事実を伝えたところ、「間違いでも気分はいいですね」と話していた\[9\]。
-  - 三度結婚しており、一人目の妻とは離婚、銀平の母親で[医師](../Page/医師.md "wikilink")だった二人目の妻とは1998年に沖縄でのダイビング中に不慮の事故で死別している。2001年に現在の妻であるあめくと再婚した\[10\]\[11\]。
+  - [1982年](../Page/1982年.md "wikilink")から[TBS系列で放映開始され高視聴率番組となった](../Page/TBSテレビ.md "wikilink")[萩本欽一](../Page/萩本欽一.md "wikilink")バラエティ番組「[週刊欽曜日](https://ja.wikipedia.org/wiki/週刊欽曜日 "wikilink")」にレギュラー出演し[コント](../Page/コント.md "wikilink")を繰り広げ、全国的な人気を得る\[6\]。同番組に出演することになったのは、「東京ヴォードビルショー」団員である[山口良一](../Page/山口良一.md "wikilink")が[フジテレビ系](../Page/フジニュースネットワーク.md "wikilink")「[欽ドン](https://ja.wikipedia.org/wiki/欽ドン "wikilink")」のレギュラー出演者に抜擢され、座長として御礼挨拶をしに萩本のもとに出向いた際の佐藤のしぐさなどが萩本に気に入られ、TBSで始める新番組で起用したいと声が掛かった\[7\]。
+  - 本名の「としお」は父親が「砂糖と塩」とかけた洒落で命名したという。芸名の「B作」は、当時[ノーベル平和賞](../Page/ノーベル平和賞.md "wikilink")を受賞した[佐藤栄作](../Page/佐藤栄作.md "wikilink")元首相にちなんで\[8\]（A作に対抗してB作とした）。[1995年](https://ja.wikipedia.org/wiki/1995年 "wikilink")にアフリカの[ガンビア共和国](https://ja.wikipedia.org/wiki/ガンビア共和国 "wikilink")からノーベル平和賞の受賞者として佐藤栄作の[切手](../Page/切手.md "wikilink")が発行されたが、誤って「Bisaku Sato」と表記されていた\[9\]。アルファベットのEとBが似ているのが原因とみられ、2004年12月8日放送のフジテレビ「[トリビアの泉 〜素晴らしきムダ知識〜](../Page/トリビアの泉_〜素晴らしきムダ知識〜.md "wikilink")」で紹介された際に、番組スタッフが本人にこの事実を伝えたところ、「間違いでも気分はいいですね」と話していた\[10\]。
+  - 三度結婚しており、一人目の妻とは離婚、銀平の母親で[医師](../Page/医師.md "wikilink")だった二人目の妻とは1998年に沖縄でのダイビング中に不慮の事故で死別している。2001年に現在の妻であるあめくと再婚した\[11\]\[12\]。
   - 以前は三木まうす（現:[佐渡稔](../Page/佐渡稔.md "wikilink")）と漫才コンビを組んで活動。**佐藤B作とジミーハーディー**（地味そうだが派手の意味）というバンドを組んでいたこともあった。
   - [島田紳助](../Page/島田紳助.md "wikilink")とは友人で、紳助の冠番組にも度々登場した。その中で、佐藤の女性関係が非常に乱れていた時期があり、妻に「浮気相手のところに一週間だけ家出させてくれ」と頼んだことや、その他のエピソードを紳助がネタにすることもあった。[角野卓造](../Page/角野卓造.md "wikilink")は大学時代からの演劇仲間で50年来の親友でもある。[笹野高史](../Page/笹野高史.md "wikilink")も角野と同じく演劇仲間で50年来の親友で2019年には一緒に[徹子の部屋](https://ja.wikipedia.org/wiki/徹子の部屋 "wikilink")へ出演している。
-  - [2007年](../Page/2007年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に行った[健康診断](../Page/健康診断.md "wikilink")で初期の[胃がんと診断され](../Page/胃癌.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[手術](../Page/手術.md "wikilink")を行い[胃](../Page/胃.md "wikilink")の3分の2を摘出、成功し5月中に退院、その後「[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")」などテレビ番組で仕事復帰した\[12\]\[13\]。
+  - [2007年](../Page/2007年.md "wikilink")[12月](https://ja.wikipedia.org/wiki/12月 "wikilink")に行った[健康診断](../Page/健康診断.md "wikilink")で初期の[胃がんと診断され](../Page/胃癌.md "wikilink")、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[5月1日](../Page/5月1日.md "wikilink")に[手術](../Page/手術.md "wikilink")を行い[胃](../Page/胃.md "wikilink")の3分の2を摘出、成功し5月中に退院、その後「[渡る世間は鬼ばかり](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")」などテレビ番組で仕事復帰した\[13\]\[14\]。
   - [日本テレビ系](../Page/日本テレビ放送網.md "wikilink")『[行列のできる法律相談所](../Page/行列のできる法律相談所.md "wikilink")』に出演した際、共演した[デヴィ夫人に](https://ja.wikipedia.org/wiki/デヴィ・スカルノ "wikilink")「B助さん」と言い間違えられた。
-  - 2010年8月16日に体調を崩し、[三越劇場](../Page/三越劇場.md "wikilink")で公演中だった『香華』を8月19日を最後に公演を途中降板\[14\]。代役は[松村雄基](../Page/松村雄基.md "wikilink")が務めた。
-  - 2010年より故郷である[福島県](../Page/福島県.md "wikilink")の「しゃくなげ大使」を務めている\[15\]。2017年には[福島市](../Page/福島市.md "wikilink")の魅力を国内外に発信する「福島市もりりん大使」にも就任した\[16\]。
+  - 2010年8月16日に体調を崩し、[三越劇場](../Page/三越劇場.md "wikilink")で公演中だった『香華』を8月19日を最後に公演を途中降板\[15\]。代役は[松村雄基](../Page/松村雄基.md "wikilink")が務めた。
+  - 2010年より故郷である[福島県](../Page/福島県.md "wikilink")の「しゃくなげ大使」を務めている\[16\]。2017年には[福島市](../Page/福島市.md "wikilink")の魅力を国内外に発信する「福島市もりりん大使」にも就任した\[17\]。
   - 妻や佐渡同様、[三谷幸喜](../Page/三谷幸喜.md "wikilink")の舞台に多く出演している。
-  - [内田康夫](../Page/内田康夫.md "wikilink")原作の小説・『[浅見光彦シリーズ](../Page/浅見光彦シリーズ.md "wikilink")』の第1作である『[後鳥羽伝説殺人事件](../Page/後鳥羽伝説殺人事件.md "wikilink")』と関わりが深い。[2000年](../Page/2000年.md "wikilink")と[2018年](../Page/2018年.md "wikilink")に[TBSテレビ](../Page/TBSテレビ.md "wikilink")でドラマ化された際、双方とも主要登場人物の一人である刑事・野上を演じている\[17\]。なお、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にも『隠岐伝説殺人事件』で野上とほぼ同じポジションの滝川刑事を演じている\[18\]。
+  - [内田康夫](../Page/内田康夫.md "wikilink")原作の小説・『[浅見光彦シリーズ](../Page/浅見光彦シリーズ.md "wikilink")』の第1作である『[後鳥羽伝説殺人事件](../Page/後鳥羽伝説殺人事件.md "wikilink")』と関わりが深い。[2000年](../Page/2000年.md "wikilink")と[2018年](../Page/2018年.md "wikilink")に[TBSテレビ](../Page/TBSテレビ.md "wikilink")でドラマ化された際、双方とも主要登場人物の一人である刑事・野上を演じている\[18\]。なお、[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")にも『隠岐伝説殺人事件』で野上とほぼ同じポジションの滝川刑事を演じている\[19\]。
 
 ## 出演
 
@@ -30,6 +30,7 @@
 
   - [銀河テレビ小説](../Page/銀河テレビ小説.md "wikilink") ふるさとシリーズ2 [上野駅周辺](https://ja.wikipedia.org/wiki/上野駅周辺 "wikilink")（1978年）
   - [はね駒](../Page/はね駒.md "wikilink")（1986年） ‐ 吉川勘太郎
+  - [腕におぼえあり](../Page/腕におぼえあり.md "wikilink")2（1992年） - 浅野仙右衛門 役
   - [かりん](../Page/かりん_\(テレビドラマ\).md "wikilink")（1993 - 1994年） - 黒田忠治 役
   - [系列](../Page/系列_\(テレビドラマ\).md "wikilink")（1993年） - 前畑浩 役
       - [系列 II](../Page/系列_\(テレビドラマ\).md "wikilink")（1994年） - 前畑浩 役
@@ -41,7 +42,7 @@
   - 金曜時代劇「[夢暦長崎奉行](https://ja.wikipedia.org/wiki/夢暦長崎奉行 "wikilink")」（1996年3月 - 9月） - 石本幸三郎 役
   - 玩具の神様（1999年）
   - [人生はフルコース](../Page/人生はフルコース.md "wikilink")（2006年7月8日、15日、22日） - 谷中健一 役
-  - [陽炎の辻〜居眠り磐音 江戸双紙〜](../Page/陽炎の辻〜居眠り磐音_江戸双紙〜.md "wikilink")1-3（2007-2009年） - 与力・笹塚孫一 役
+  - [陽炎の辻〜居眠り磐音 江戸双紙〜](../Page/陽炎の辻〜居眠り磐音_江戸双紙〜.md "wikilink")1-3（2007 - 2009年） - 与力・笹塚孫一 役
 
 #### 日本テレビ
 
@@ -141,7 +142,7 @@
   - [弟](../Page/弟_\(テレビドラマ\).md "wikilink")（2004年） - チンピラ 役
   - ドラマスペシャル・[断絶](https://ja.wikipedia.org/wiki/断絶_\(小説\)#テレビドラマ "wikilink")（2009年10月3日） - 北川勇作 役
   - [科捜研の女 SEASON 11](https://ja.wikipedia.org/wiki/科捜研の女の登場人物#科捜研の女_SEASON_11（2011年_-_2012年） "wikilink") 第6話「VS仏像修復師！偽装された傷痕、消えた凶器の秘密\!\!」（2011年） - 片岡匠栄 役
-  - [トットちゃん](https://ja.wikipedia.org/wiki/トットちゃん "wikilink")（2017年10月 - 12月） - 門山周通 役\[19\]
+  - [トットちゃん](https://ja.wikipedia.org/wiki/トットちゃん "wikilink")（2017年10月 - 12月） - 門山周通 役\[20\]
   - [ドクターY〜外科医・加地秀樹〜](https://ja.wikipedia.org/wiki/ドクターY〜外科医・加地秀樹〜 "wikilink")（2018年） ‐ 清水権蔵
   - [土曜ワイド劇場](../Page/土曜ワイド劇場.md "wikilink")
       - [松本清張スペシャル・数の風景](https://ja.wikipedia.org/wiki/数の風景#テレビドラマ "wikilink")（1991年3月30日）
@@ -211,7 +212,8 @@
   - [社長放浪記](https://ja.wikipedia.org/wiki/社長放浪記 "wikilink")（2007年）
   - 香華（2010年）
   - [女たちの忠臣蔵](https://ja.wikipedia.org/wiki/女たちの忠臣蔵_\(舞台\) "wikilink")（2012年）
-  - [ヘンリー四世 第一部](https://ja.wikipedia.org/wiki/ヘンリー四世_第1部 "wikilink") -混沌-・[第二部](https://ja.wikipedia.org/wiki/ヘンリー四世_第2部 "wikilink") -戴冠-（2016年11月-12月、[新国立劇場](../Page/新国立劇場.md "wikilink") 中劇場） - フォールスタッフ 役 \[20\]
+  - [ヘンリー四世 第一部](https://ja.wikipedia.org/wiki/ヘンリー四世_第1部 "wikilink") -混沌-・[第二部](https://ja.wikipedia.org/wiki/ヘンリー四世_第2部 "wikilink") -戴冠-（2016年11月-12月、[新国立劇場](../Page/新国立劇場.md "wikilink") 中劇場） - フォールスタッフ 役 \[21\]
+  - ザ・空気 ver.3 そして彼は去った…（2021年 ） - 主演\[22\]
 
 ### 人形劇
 
@@ -228,7 +230,7 @@
   - [学校へ行こう\!](https://ja.wikipedia.org/wiki/学校へ行こう! "wikilink") - マナーの猫進行
   - [ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")※ヴォードヴィルショーの劇団員である[山口良一](../Page/山口良一.md "wikilink")が旅人の時に稽古場から出演
   - [2時っチャオ\!](../Page/2時っチャオ!.md "wikilink")（2008年11月5日放送） - 「てっぱんしゃべっチャオ\!」コーナー出演
-  - [いい旅・夢気分](https://ja.wikipedia.org/wiki/いい旅・夢気分 "wikilink")※[渡る世間の共演者](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")・[村田雄浩](../Page/村田雄浩.md "wikilink")、[角野卓造](../Page/角野卓造.md "wikilink")と旅をしている
+  - [いい旅・夢気分](../Page/いい旅・夢気分.md "wikilink")※[渡る世間の共演者](https://ja.wikipedia.org/wiki/渡る世間は鬼ばかり "wikilink")・[村田雄浩](../Page/村田雄浩.md "wikilink")、[角野卓造](../Page/角野卓造.md "wikilink")と旅をしている
   - [オールスター感謝祭](https://ja.wikipedia.org/wiki/オールスター感謝祭 "wikilink")
   - [土曜スペシャル](https://ja.wikipedia.org/wiki/土曜スペシャル_\(テレビ東京\) "wikilink")※出演の他、ナレーションも担当している
   - [紳助社長のプロデュース大作戦\!](https://ja.wikipedia.org/wiki/紳助社長のプロデュース大作戦! "wikilink")（ - 2011年8月）→[もてもてナインティナイン](https://ja.wikipedia.org/wiki/もてもてナインティナイン "wikilink")（2012年1月17日 - ） - 「お見合い大作戦」進行
@@ -270,23 +272,25 @@
   -
 [Category:日本の男優](https://ja.wikipedia.org/wiki/Category:日本の男優 "wikilink") [Category:日本の舞台俳優](https://ja.wikipedia.org/wiki/Category:日本の舞台俳優 "wikilink") [Category:1949年生](https://ja.wikipedia.org/wiki/Category:1949年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:福島県出身の人物](https://ja.wikipedia.org/wiki/Category:福島県出身の人物 "wikilink") [Category:欽ちゃんファミリー](https://ja.wikipedia.org/wiki/Category:欽ちゃんファミリー "wikilink") [Category:日本・ガンビア関係](https://ja.wikipedia.org/wiki/Category:日本・ガンビア関係 "wikilink") [Category:東京ヴォードヴィルショー](https://ja.wikipedia.org/wiki/Category:東京ヴォードヴィルショー "wikilink")
 
-1.  [佐藤B作推薦の「いかにんじん錦秋」](http://www.sakyu-iizaka.com/) 飯坂温泉佐久商店
-2.  [俳優・佐藤B作（1）生まれ育った飯坂温泉](https://www.nikkei.com/article/DGKDZO69462320V00C14A4BE0P00/) [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2014年4月17日夕刊
-3.  [4月14日～4月18日の「ラジオバイオグラフィー5冊のアルバム」ゲスト佐藤B作さん](http://www.joqr.co.jp/japan/2014/04/post-2353.html) [文化放送](../Page/文化放送.md "wikilink") 2014年4月13日
-4.
-5.  [柴田耕太郎](https://ja.wikipedia.org/wiki/柴田耕太郎 "wikilink")著 翻訳家になろう\! まえがき [青弓社](https://ja.wikipedia.org/wiki/青弓社 "wikilink") 2012年01月21日発行
-6.
-7.  [佐藤B作](https://www.tora-san.jp/guest/93/) [松竹映画](https://ja.wikipedia.org/wiki/松竹映画 "wikilink")[男はつらいよ](../Page/男はつらいよ.md "wikilink")公式サイト
-8.  内藤陽介2003『外国切手に描かれた日本』[光文社](../Page/光文社.md "wikilink")
-9.
+1.
+2.  [佐藤B作推薦の「いかにんじん錦秋」](http://www.sakyu-iizaka.com/) 飯坂温泉佐久商店
+3.  [俳優・佐藤B作（1）生まれ育った飯坂温泉](https://www.nikkei.com/article/DGKDZO69462320V00C14A4BE0P00/) [日本経済新聞](../Page/日本経済新聞.md "wikilink") 2014年4月17日夕刊
+4.  [4月14日～4月18日の「ラジオバイオグラフィー5冊のアルバム」ゲスト佐藤B作さん](http://www.joqr.co.jp/japan/2014/04/post-2353.html) [文化放送](../Page/文化放送.md "wikilink") 2014年4月13日
+5.
+6.  [柴田耕太郎](https://ja.wikipedia.org/wiki/柴田耕太郎 "wikilink")著 翻訳家になろう\! まえがき [青弓社](https://ja.wikipedia.org/wiki/青弓社 "wikilink") 2012年01月21日発行
+7.
+8.  [佐藤B作](https://www.tora-san.jp/guest/93/) [松竹映画](https://ja.wikipedia.org/wiki/松竹映画 "wikilink")[男はつらいよ](../Page/男はつらいよ.md "wikilink")公式サイト
+9.  内藤陽介2003『外国切手に描かれた日本』[光文社](../Page/光文社.md "wikilink")
 10.
 11.
-12. [佐藤B作が胃がんで5月に手術](http://www.nikkansports.com/entertainment/news/f-et-tp0-20080423-351612.html) [nikkansports.com](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")・日刊スポーツ [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")紙面
-13. [佐藤B作、胃がん手術順調回復も舞台降板…演出専念](http://www.zakzak.co.jp/gei/2008_07/g2008072404_all.html) ZAKZAK [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")
-14.
-15. [しゃくなげ大使認証式(平成22年7月20日開催）](https://www.pref.fukushima.lg.jp/sec/01010e/koucho1-436.html) 福島県ウェブサイト 2010年7月20日
-16. [佐藤B作さん「福島市ももりん大使」第1号に](https://www.city.fukushima.fukushima.jp/kankou-promo/shise/goannai/shokai/fukushimacity/b-saku-ishoku.html) [福島市](../Page/福島市.md "wikilink")公式ウェブサイト 2017年3月1日
-17. 2000年版は[沢村一樹](../Page/沢村一樹.md "wikilink")、2018年版は[平岡祐太](../Page/平岡祐太.md "wikilink")が光彦役。なお、2018年版では「野上哲男」というフルネームでクレジットされている。
-18. 光彦（演じたのは[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")）に同行する刑事役であるところが野上と共通している。
-19.
+12.
+13. [佐藤B作が胃がんで5月に手術](http://www.nikkansports.com/entertainment/news/f-et-tp0-20080423-351612.html) [nikkansports.com](https://ja.wikipedia.org/wiki/日刊スポーツ "wikilink") [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月23日](../Page/4月23日.md "wikilink")・日刊スポーツ [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[4月24日](../Page/4月24日.md "wikilink")紙面
+14. [佐藤B作、胃がん手術順調回復も舞台降板…演出専念](http://www.zakzak.co.jp/gei/2008_07/g2008072404_all.html) ZAKZAK [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[7月24日](../Page/7月24日.md "wikilink")
+15.
+16. [しゃくなげ大使認証式(平成22年7月20日開催）](https://www.pref.fukushima.lg.jp/sec/01010e/koucho1-436.html) 福島県ウェブサイト 2010年7月20日
+17. [佐藤B作さん「福島市ももりん大使」第1号に](https://www.city.fukushima.fukushima.jp/kankou-promo/shise/goannai/shokai/fukushimacity/b-saku-ishoku.html) [福島市](../Page/福島市.md "wikilink")公式ウェブサイト 2017年3月1日
+18. 2000年版は[沢村一樹](../Page/沢村一樹.md "wikilink")、2018年版は[平岡祐太](../Page/平岡祐太.md "wikilink")が光彦役。なお、2018年版では「野上哲男」というフルネームでクレジットされている。
+19. 光彦（演じたのは[辰巳琢郎](../Page/辰巳琢郎.md "wikilink")）に同行する刑事役であるところが野上と共通している。
 20.
+21.
+22.

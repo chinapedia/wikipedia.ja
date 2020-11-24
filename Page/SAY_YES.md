@@ -159,7 +159,7 @@
 15. [1991年ヒストリー](http://www.chage-aska.net/biography/history/1991) CHAGE and ASKA official web site 2016年6月25日閲覧。
 16. [堂本剛のプロジェクト・ENDRECHERI、「アルバム1位通算獲得作品数」記録が男性ソロ歴代3位タイに【オリコンランキング】](https://www.oricon.co.jp/news/2165177/full/) オリコン 2020年6月23日配信, 2020年6月23日閲覧
 17. [CHAGE\&ASKA、解散報道を事務所が否定](http://www.oricon.co.jp/news/61915/full/) オリコン 2015年11月8日閲覧
-18. [人気者研究 デビュ－20周年 再び走り出したスーパーデュオはどこへ向かうのか？ CHAGE\&ASKA　20TH ANNIVERSARY](http://web.archive.org/web/20010217044722/ent.nikkeibp.co.jp/ent/bn/9910/021.html) 『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年10月号より。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
+18. [人気者研究 デビュ－20周年 再び走り出したスーパーデュオはどこへ向かうのか？ CHAGE\&ASKA　20TH ANNIVERSARY](https://web.archive.org/web/20010217044722/ent.nikkeibp.co.jp/ent/bn/9910/021.html) 『[日経エンタテインメント\!](../Page/日経エンタテインメント!.md "wikilink")』1999年10月号より。（[インターネットアーカイブ](../Page/インターネットアーカイブ.md "wikilink")のキャッシュ）
 19.
 20. [CHAGE and ASKA『SAY YES』](https://recochoku.jp/album/A2001092973/) レコチョク 2020年2月21日閲覧
 21. 2004年に使用された。

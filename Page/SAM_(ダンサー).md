@@ -5,9 +5,9 @@
 
 ## 来歴・人物
 
-"SAM"の由来は、本名の"MASAHARU"の頭3文字を逆から読んだという説と、本人が寒がりでよく「寒い、寒い」と言っていたことから付けられたという説がある\[1\]。2007年2月7日放送の「[マチャミの名曲100選](../Page/マチャミの名曲100選_心に残るこの一曲「あの時聴いた、歌ったのはこんな歌」.md "wikilink")」で、家出した当時住み込みで働いていたディスコで、寒がりだったため"SAM"という名前をつけられた、と述べた。
+"SAM"の由来は、本名の"MASAHARU"の頭3文字を逆から読んだという説と、本人が寒がりでよく「寒い、寒い」と言っていたことから付けられたという説がある\[1\]。2007年2月7日放送の『[マチャミの名曲100選](../Page/マチャミの名曲100選_心に残るこの一曲「あの時聴いた、歌ったのはこんな歌」.md "wikilink")』（[日本テレビ](../Page/日本テレビ放送網.md "wikilink")）で、家出した当時住み込みで働いていたディスコで、寒がりだったため"SAM"という名前をつけられた、と述べた。
 
-[明治](../Page/明治.md "wikilink")から代々医者の家系で\[2\]、父は[産婦人科](https://ja.wikipedia.org/wiki/産婦人科 "wikilink")医で岩槻市の｢[丸山記念総合病院](../Page/丸山記念総合病院.md "wikilink")｣の創設者の一人・丸山正義（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")・69歳で死去。晩年はサムパパの愛称でメディア出演を行っていた）。現在は叔父・兄などが運営に当たっている。[古川俊治](../Page/古川俊治.md "wikilink")は[従弟](https://ja.wikipedia.org/wiki/従弟 "wikilink")にあたる。
+[明治](../Page/明治.md "wikilink")から代々医者の家系で\[2\]、父は[産婦人科](https://ja.wikipedia.org/wiki/産婦人科 "wikilink")医で[岩槻市](../Page/岩槻市.md "wikilink")の｢[丸山記念総合病院](../Page/丸山記念総合病院.md "wikilink")｣の創設者の一人・丸山正義（[1998年](https://ja.wikipedia.org/wiki/1998年 "wikilink")[6月17日](../Page/6月17日.md "wikilink")・69歳で死去。晩年はサムパパの愛称でメディア出演を行っていた）。現在は叔父・兄などが運営に当たっている。[古川俊治](../Page/古川俊治.md "wikilink")は[従弟](https://ja.wikipedia.org/wiki/従弟 "wikilink")にあたる。
 
   - 19歳で「全国フラッシュダンスコンテスト」で優勝後、単身[ニューヨーク](../Page/ニューヨーク.md "wikilink")へ。ダンスの基礎を学ぶと共にニューヨークの[ストリートダンス](../Page/ストリートダンス.md "wikilink")に触れる。
   - [1984年](../Page/1984年.md "wikilink")、4人組男性グループ「リフラフ」で歌手デビュー\[3\]。この時既に“Sam”の名前を使用していた。
@@ -100,7 +100,7 @@
 [Category:TRF](https://ja.wikipedia.org/wiki/Category:TRF "wikilink") [Category:日本のダンサー](https://ja.wikipedia.org/wiki/Category:日本のダンサー "wikilink") [Category:さいたま市出身の人物](https://ja.wikipedia.org/wiki/Category:さいたま市出身の人物 "wikilink") [Category:1962年生](https://ja.wikipedia.org/wiki/Category:1962年生 "wikilink") [Category:存命人物](https://ja.wikipedia.org/wiki/Category:存命人物 "wikilink") [Category:尚美学園大学の教員](https://ja.wikipedia.org/wiki/Category:尚美学園大学の教員 "wikilink")
 
 1.  。
-2.  SAM（TRF）〜医師の家系に生まれて 亡き父の思い、『[ファミリーヒストリー](https://ja.wikipedia.org/wiki/ファミリーヒストリー "wikilink")』（2018年11月26日放送）。
+2.  SAM（TRF）〜医師の家系に生まれて 亡き父の思い、『[ファミリーヒストリー](https://ja.wikipedia.org/wiki/ファミリーヒストリー "wikilink")』（2018年11月26日放送、[NHK総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")）。
 3.  ほかの三人は、リーダーでユキこと矢作幸裕、ヤッコこと長坂泰彦、チャッピーこと石崎伸一である。
 4.
 5.

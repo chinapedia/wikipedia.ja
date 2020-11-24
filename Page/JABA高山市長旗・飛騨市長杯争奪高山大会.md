@@ -13,7 +13,7 @@
 
 [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")からは、[東海地区大学野球連盟](../Page/東海地区大学野球連盟.md "wikilink")の春季リーグ優勝チームが招待されており、[2012年](../Page/2012年.md "wikilink")から都市対抗野球が7月中開催となったことを受け、同連盟の各県優勝チーム計3校が出場した。
 
-## 歴代優勝チーム等
+## 歴代優勝チーム
 
 <table>
 <thead>
@@ -216,7 +216,7 @@
 <td><p>2009</p></td>
 <td><p>8</p></td>
 <td><p>王子製紙<br />
-<a href="../Page/JX-ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a>[1]</p></td>
+<a href="../Page/ENEOS野球部.md" title="wikilink">新日本石油ENEOS</a>[1]</p></td>
 <td></td>
 <td></td>
 </tr>
@@ -305,7 +305,7 @@
 <td><p>2020</p></td>
 <td><p>8</p></td>
 <td><p>大会中止</p></td>
-<td><p>出場予定チームが<a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大により出場を辞退ことと、<br />
+<td><p>出場予定チームが<a href="../Page/SARSコロナウイルス2.md" title="wikilink">新型コロナウイルス感染拡大により出場を辞退ことと</a>、<br />
 岐阜県において第二波非常事態宣言が発令されたため[2]。</p></td>
 <td></td>
 </tr>

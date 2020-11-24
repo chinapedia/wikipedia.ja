@@ -354,7 +354,7 @@
 
   - [ゲーム番組](../Page/ゲーム番組.md "wikilink")
 
-[Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink") [Category:TBSのクイズ番組](https://ja.wikipedia.org/wiki/Category:TBSのクイズ番組 "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:ダイスゲーム](https://ja.wikipedia.org/wiki/Category:ダイスゲーム "wikilink")
+[Category:1980年のテレビ番組_(日本)](https://ja.wikipedia.org/wiki/Category:1980年のテレビ番組_\(日本\) "wikilink") [Category:TBSのクイズ番組](https://ja.wikipedia.org/wiki/Category:TBSのクイズ番組 "wikilink") [Category:視聴者参加型クイズ番組](https://ja.wikipedia.org/wiki/Category:視聴者参加型クイズ番組 "wikilink") [Category:TBSの帯番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSの帯番組の歴史 "wikilink") [Category:TBSのバラエティ番組の歴史](https://ja.wikipedia.org/wiki/Category:TBSのバラエティ番組の歴史 "wikilink") [Category:サイコロ](https://ja.wikipedia.org/wiki/Category:サイコロ "wikilink")
 
 1.  例：中年男性観客が、[加藤茶](../Page/加藤茶.md "wikilink")のギャグを捩って「1,2,3,4,やったぜ父ちゃん\!スーパーダイスQ\!」。
 2.  [ぴゅう太](../Page/ぴゅう太.md "wikilink")（ゲームパソコン）、ジャッカル（[ラテカセ](../Page/ラテカセ.md "wikilink")）、天体望遠鏡など、放送当時の価格で6万円程度の品物が何点か陳列されていた。

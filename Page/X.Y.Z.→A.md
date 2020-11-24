@@ -3,7 +3,7 @@
 
 **X.Y.Z.→A**（エックス・ワイ・ズィー・トゥ・エー、[1999年](../Page/1999年.md "wikilink") - ）は、日本の[ヘヴィメタル](../Page/ヘヴィメタル.md "wikilink")バンドである。
 
-バンド発足当初は、XYZ（もしくはX.Y.Z.）と呼ばれていたが、[XYZと言う名前の同名のバンドが既に存在していた為にX](https://ja.wikipedia.org/wiki/w:XYZ_\(US_band\) "wikilink").Y.Z.→Aと表記される事が多い。また、海外では既述の同名バンドと混同しないように、「**ASIAN TYPHOON**（エイジアン・タイフーン）」と名乗っている。
+バンド発足当初は、XYZ（もしくはX.Y.Z.）と呼ばれていたが、[XYZという名前の同名のバンドが既に存在していたためにX](https://ja.wikipedia.org/wiki/w:XYZ_\(US_band\) "wikilink").Y.Z.→Aと表記されることが多い。また、海外では既述の同名バンドと混同しないように、「**ASIAN TYPHOON**（エイジアン・タイフーン）」と名乗っている。
 
 ## 来歴
 
@@ -92,7 +92,7 @@
 <!-- end list -->
 
   - 3月3日から3月11日までライブツアーX.Y.Z.→A TOUR 2006「...SOME KIND OF SCREAMERS」を計3公演行う。
-  - 12月13日、5thアルバム『[WINGS](https://ja.wikipedia.org/wiki/WINGS "wikilink")』を発売。
+  - 12月13日、5thアルバム『[WINGS](https://ja.wikipedia.org/wiki/WINGS_\(X.Y.Z.→Aのアルバム\) "wikilink")』を発売。
 
 <!-- end list -->
 
@@ -108,8 +108,8 @@
 
 <!-- end list -->
 
-  - 3月4日、Nightmare Recordsからアメリカデビューを果たした。その際は上記のバンド名の問題があるため、アメリカでは1stアルバムのタイトルからとった｢ASIAN　TYPHOON｣の名前で活動する。全米デビューのアルバムは『[WINGS](https://ja.wikipedia.org/wiki/WINGS "wikilink")』となった。
-  - 5月14日、5thアルバム『[WINGS](https://ja.wikipedia.org/wiki/WINGS "wikilink")』でのアメリカデビューを記念して制作された、初の2枚組コンプリート・ベスト・アルバム初のベストアルバム『[A to Z](https://ja.wikipedia.org/wiki/A_to_Z "wikilink")』を発売。
+  - 3月4日、Nightmare Recordsからアメリカデビューを果たした。その際は上記のバンド名の問題があるため、アメリカでは1stアルバムのタイトルからとった｢ASIAN　TYPHOON｣の名前で活動する。全米デビューのアルバムは『WINGS』となった。
+  - 5月14日、5thアルバム『WINGS』でのアメリカデビューを記念して制作された、初の2枚組コンプリート・ベスト・アルバム初のベストアルバム『[A to Z](https://ja.wikipedia.org/wiki/A_to_Z "wikilink")』を発売。
 
 <!-- end list -->
 

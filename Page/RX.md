@@ -23,8 +23,15 @@
 ### 自動車
 
   - [レクサス・RX](../Page/レクサス・RX.md "wikilink") - 高級クロスオーバーSUV (Radiant Xover(crossover))
-  - [RX-7](../Page/マツダ・RX-7.md "wikilink") - スポーツカー (Rotary X(未知数))
-  - [RX-8](../Page/マツダ・RX-8.md "wikilink") - スポーツカー
+  - [マツダ](../Page/マツダ.md "wikilink")の[ロータリーエンジン](../Page/ロータリーエンジン.md "wikilink")搭載車。（Rotary X(未知数)）
+      - RX-2（日本名：[カペラ](../Page/マツダ・カペラ.md "wikilink")）
+      - RX-3（日本名：[サバンナ](../Page/マツダ・サバンナ.md "wikilink")）
+      - RX-4（日本名：[ルーチェ](../Page/マツダ・ルーチェ.md "wikilink")）
+      - RX-5（日本名：[コスモ](../Page/マツダ・コスモ.md "wikilink")）
+      - [RX-7](../Page/マツダ・RX-7.md "wikilink")（サバンナRX-7）
+      - [RX-8](../Page/マツダ・RX-8.md "wikilink")
+      - RX85（[コンセプトカー](../Page/コンセプトカー.md "wikilink")、[ファミリアロータリークーペとして市販化](../Page/マツダ・ファミリア.md "wikilink")）
+      - RX87（コンセプトカー、[ルーチェロータリークーペとして市販化](https://ja.wikipedia.org/wiki/マツダ・ルーチェロータリークーペ "wikilink")）
   - グレード等
       - [日産・オッティ](../Page/日産・オッティ.md "wikilink")のスポーツグレード。
       - [富士重工業](https://ja.wikipedia.org/wiki/富士重工業 "wikilink")（スバル）の乗用車[レオーネ](../Page/スバル・レオーネ.md "wikilink")(1971-1992)のスポーティ・グレード。

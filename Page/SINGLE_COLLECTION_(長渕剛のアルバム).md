@@ -1,7 +1,7 @@
 > この記事は[SINGLE COLLECTION \(長渕剛のアルバム\)](https://ja.wikipedia.org/wiki/SINGLE_COLLECTION_\(長渕剛のアルバム\))から翻訳されています。
 
 
-『**SINGLE COLLECTION**』（シングル・コレクション）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")のベスト[アルバム](../Page/アルバム.md "wikilink")である。
+『**SINGLE COLLECTION**』（シングル・コレクション）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")のベスト・アルバム（ミニ・アルバム）である。
 
 [1988年](../Page/1988年.md "wikilink")[12月4日](../Page/12月4日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")/エキスプレスよりリリースされた。
 

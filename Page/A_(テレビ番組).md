@@ -108,13 +108,15 @@
 
   - 巨人戦
 
-たいていの[プロ野球](../Page/プロ野球.md "wikilink")の[ナイトゲームは](../Page/試合.md "wikilink")、18時プレーボールで19時近辺から[テレビ中継が始まる](https://ja.wikipedia.org/wiki/Dramatic_Game_1844 "wikilink")。しかし、この番組の開始の頃は[2004年の球界再編で失墜したファンの野球人気回復を念頭にした試みとして](../Page/プロ野球再編問題_\(2004年\).md "wikilink")、[巨人戦の試合を](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")17時プレーボールの[薄暮](https://ja.wikipedia.org/wiki/薄暮 "wikilink")[デーゲーム](https://ja.wikipedia.org/wiki/デーゲーム "wikilink")にし、テレビの編成も30分繰り上げ18時半から19時58分まで放送し、最大延長も20時28分と中途半端な時間に設定されていた。このため、一度も休止されること無く放送されている。
+たいていの[プロ野球](../Page/プロ野球.md "wikilink")の[ナイトゲームは](../Page/試合.md "wikilink")、18時プレーボールで19時近辺から[テレビ中継が始まる](../Page/DRAMATIC_BASEBALL.md "wikilink")。しかし、この番組の開始の頃は[2004年の球界再編で失墜したファンの野球人気回復を念頭にした試みとして](../Page/プロ野球再編問題_\(2004年\).md "wikilink")、[巨人戦の試合を](https://ja.wikipedia.org/wiki/読売ジャイアンツ "wikilink")17時プレーボールの[薄暮](https://ja.wikipedia.org/wiki/薄暮 "wikilink")[デーゲーム](https://ja.wikipedia.org/wiki/デーゲーム "wikilink")にし、テレビの編成も30分繰り上げ18時半から19時58分まで放送し、最大延長も20時28分と中途半端な時間に設定されていた。このため、一度も休止されること無く放送されている。
 
   - スポンサーの表記
 
 この番組以降、日本テレビの日曜20時台は巨人戦の野球中継や、報道・番組改編期の特別番組時を除いてスポンサーの表示が全て[カラーで行われるようになった](../Page/フルカラー.md "wikilink")。現在の『[世界の果てまでイッテQ\!](https://ja.wikipedia.org/wiki/世界の果てまでイッテQ! "wikilink")』でもこの形態が守られている。
 
-現在同じ形態をとっている番組には土曜20時台の『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』などがある。また以前は、同時期に開始した土曜19時台の『[世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")』も同様だった。
+現在同じ形態をとっている番組には土曜20時台の『[世界一受けたい授業](../Page/世界一受けたい授業.md "wikilink")』などがあるほか、[BS日テレ](https://ja.wikipedia.org/wiki/BS日テレ "wikilink")のプロ野球中継『[DRAMATIC BASEBALL](../Page/DRAMATIC_BASEBALL.md "wikilink")』を含む全ての番組でも導入されている。また以前は、同時期に開始した土曜19時台の『[世界\!超マネー研究所](../Page/世界!超マネー研究所.md "wikilink")』も同様だった。
+
+なおスポンサーの表示の全面カラー化は2020年8月24日から月曜、火曜20時台や月～金曜の『[news zero](https://ja.wikipedia.org/wiki/news_zero "wikilink")』にも追加で導入し(報道番組では初)、2020年9月29日以降は全ての時間帯にも導入している(『[Oha\!4 NEWS LIVE](../Page/Oha!4_NEWS_LIVE.md "wikilink")』や『[ぶらり途中下車の旅](../Page/ぶらり途中下車の旅.md "wikilink")』などの関東ローカル枠でも適用)。
 
 ## 脚注
 

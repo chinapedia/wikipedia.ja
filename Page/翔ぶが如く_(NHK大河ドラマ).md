@@ -123,7 +123,7 @@
   - 西郷松（さいごう まつ）
     演：[長谷川真弓](../Page/長谷川真弓_\(女優\).md "wikilink")
     小兵衛の妻。
-  - 西郷菊子（さいごう きくこ）
+  - [西郷菊子](https://ja.wikipedia.org/wiki/西郷菊草 "wikilink")（さいごう きくこ）
     演：[茅野佐智恵](../Page/茅野佐智恵.md "wikilink")
     隆盛と愛加那の子。
   - 西郷スマ（さいごう スマ）
@@ -270,7 +270,7 @@
     演：[草見潤平](../Page/草見潤平.md "wikilink")
   - [左右田宗之進](https://ja.wikipedia.org/wiki/左右田宗之進 "wikilink")（そうだ むねのしん）
     演：[鶴田忍](../Page/鶴田忍_\(俳優\).md "wikilink")
-  - [中山尚之助](https://ja.wikipedia.org/wiki/中山中左衛門 "wikilink")
+  - [中山尚之助](https://ja.wikipedia.org/wiki/中山尚之介 "wikilink")
     演：[深水三章](../Page/深水三章.md "wikilink")
     久光の側近だが、立身出世のために吉之助や一蔵など周囲の者たちを次々と讒言し、最後は久光に降格させられる。
   - [伊集院兼寛](../Page/伊集院兼寛.md "wikilink")（いじゅういん かねひろ）

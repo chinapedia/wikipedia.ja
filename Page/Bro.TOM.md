@@ -154,6 +154,7 @@
   - [バニラボーイ トゥモロー・イズ・アナザー・デイ](https://ja.wikipedia.org/wiki/バニラボーイ_トゥモロー・イズ・アナザー・デイ "wikilink") (2016年) - ドン・タッパーリア 役
   - [劇場版 仮面ライダーエグゼイド トゥルー・エンディング](https://ja.wikipedia.org/wiki/劇場版_仮面ライダーエグゼイド_トゥルー・エンディング "wikilink")（2017年） - ジョニー・マキシマ / ゲムデウスマキナ（声） 役\[27\]
   - [翔んで埼玉](https://ja.wikipedia.org/wiki/翔んで埼玉#実写映画 "wikilink")（2019年） - 菅原好海 役\[28\]
+  - [とんかつDJアゲ太郎](https://ja.wikipedia.org/wiki/とんかつDJアゲ太郎 "wikilink")（2020年） - 勝又揚作 役
 
 ### Vシネマ
 

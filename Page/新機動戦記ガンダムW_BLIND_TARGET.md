@@ -5,7 +5,7 @@
 
 ## 作品概要
 
-アニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』から派生したラジオドラマで、[1996年](../Page/1996年.md "wikilink")[11月](../Page/11月.md "wikilink")から[TBSラジオの番組](https://ja.wikipedia.org/wiki/TBSラジオ&コミュニケーションズ "wikilink")「[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")」内で放送された。その後ラジオドラマの内容は全2巻のCDで発売され、[あさぎ桜](https://ja.wikipedia.org/wiki/あさぎ桜 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化もされている。脚本はTVシリーズの脚本も手掛けた面出明美。
+アニメ『[新機動戦記ガンダムW](../Page/新機動戦記ガンダムW.md "wikilink")』から派生したラジオドラマで、[1996年](../Page/1996年.md "wikilink")[11月](../Page/11月.md "wikilink")から[TBSラジオ](../Page/TBSラジオ.md "wikilink")の番組「[林原めぐみのTokyo Boogie Night](../Page/林原めぐみのTokyo_Boogie_Night.md "wikilink")」内で放送された。その後ラジオドラマの内容は全2巻のCDで発売され、[あさぎ桜](https://ja.wikipedia.org/wiki/あさぎ桜 "wikilink")による[漫画](https://ja.wikipedia.org/wiki/漫画 "wikilink")化もされている。脚本はTVシリーズの脚本も手掛けた面出明美。
 
 『新機動戦記ガンダムW』と[OVA](../Page/OVA.md "wikilink")『[新機動戦記ガンダムW Endless Waltz](../Page/新機動戦記ガンダムW_Endless_Waltz.md "wikilink")』の物語の間を埋める作品の一つで、人物のドラマに主体を置いている。ラジオドラマという媒体上の理由から[モビルスーツ](../Page/モビルスーツ.md "wikilink")は基本的に登場しないという、ガンダムシリーズとしては異色の作品となっている。
 

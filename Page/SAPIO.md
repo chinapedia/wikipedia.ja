@@ -76,7 +76,7 @@
   -
   - [NEWSポストセブン](http://www.news-postseven.com/)（小学館のニュースサイト）
 
-[Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:日本の保守主義の雑誌](https://ja.wikipedia.org/wiki/Category:日本の保守主義の雑誌 "wikilink") [Category:1989年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1989年創刊の雑誌 "wikilink") [Category:2019年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2019年休廃刊の雑誌 "wikilink") [Category:ラテン語の語句](https://ja.wikipedia.org/wiki/Category:ラテン語の語句 "wikilink")
+[Category:小学館の雑誌](https://ja.wikipedia.org/wiki/Category:小学館の雑誌 "wikilink") [Category:日本の保守主義の雑誌](https://ja.wikipedia.org/wiki/Category:日本の保守主義の雑誌 "wikilink") [Category:1989年創刊の雑誌](https://ja.wikipedia.org/wiki/Category:1989年創刊の雑誌 "wikilink") [Category:2019年休廃刊の雑誌](https://ja.wikipedia.org/wiki/Category:2019年休廃刊の雑誌 "wikilink") [Category:ラテン語の語句](https://ja.wikipedia.org/wiki/Category:ラテン語の語句 "wikilink") [Category:小学館の歴史](https://ja.wikipedia.org/wiki/Category:小学館の歴史 "wikilink")
 
 1.  [SAPIOとは](https://kotobank.jp/word/SAPIO-711356)コトバンク
 2.

@@ -9,9 +9,9 @@
 
 ## パーソナリティー
 
-  - [ロザン](../Page/ロザン.md "wikilink")([菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")・[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink"))
-  - 大石昌良([Sound Schedule](../Page/Sound_Schedule.md "wikilink"))
-  - [大月勇](../Page/大月勇.md "wikilink")(MBSアナウンサー）※2003年6月まで「クイズ\!宇治原を倒せ」のMCを務めた。
+  - [ロザン](../Page/ロザン.md "wikilink")（[菅広文](https://ja.wikipedia.org/wiki/菅広文 "wikilink")・[宇治原史規](https://ja.wikipedia.org/wiki/宇治原史規 "wikilink")）
+  - [大石昌良](../Page/大石昌良.md "wikilink")（[Sound Schedule](../Page/Sound_Schedule.md "wikilink")）
+  - [大月勇](../Page/大月勇.md "wikilink")（MBSアナウンサー）※2003年6月まで「クイズ\!宇治原を倒せ」のMCを務めた。
 
 ## 放送されていたコーナー
 

@@ -122,8 +122,9 @@
 
 ## 外部リンク
 
-  - [銀河ロイド コスモX/ORIGINAL VIDEO\&DVD SERIESE of NEW HERO LEGEND](http://www.vap.co.jp/x/)
+  -
   - [ヒーロークロスライン公式サイト](http://www.heroxline.com/)
+
   - [ヒーロークロスライン応援ブログ](http://www.heroxline.com/caution.htm)
 
 [Category:特撮オリジナルビデオ](https://ja.wikipedia.org/wiki/Category:特撮オリジナルビデオ "wikilink") [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:ヒーロークロスライン](https://ja.wikipedia.org/wiki/Category:ヒーロークロスライン "wikilink")

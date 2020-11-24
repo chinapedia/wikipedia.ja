@@ -1165,7 +1165,7 @@ EN-MUSUBI 2015 FINAL -おどらにゃそんそん！-
   -
   - [PE'ZのOFFICIALTwitter](https://twitter.com/pez_official) PE'ZのOFFICIALTwitter
 
-  - [PE'Z Ohyama'B.M.W'Wataruによるブログ"のぼり"坂](http://blog.excite.co.jp/pez/)
+  - [PE'Z Ohyama'B.M.W'Wataruによるブログ"のぼり"坂](https://blog.excite.co.jp/pez/)
 
   - [Kadota'JAW'Kousukeによるブログ"Bitter\&Sweet"](https://ameblo.jp/pez-jaw) Kadota'JAW'Kousukeのブログ
 

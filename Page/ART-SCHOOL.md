@@ -1263,7 +1263,7 @@ PCCA-02314:通常盤</p></td>
 
   -
   -
-  - [ART-SCHOOL「SCHOOL HELL\!\!」](http://blog.excite.co.jp/art-school/) - Excite Music連載ブログ
+  - [ART-SCHOOL「SCHOOL HELL\!\!」](https://blog.excite.co.jp/art-school/) - Excite Music連載ブログ
 
   - [ART-SCHOOL](https://web.archive.org/web/20020604013148/http://123records.net/as-index.html) - 旧公式ウェブサイト（2002年6月4日の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")）
 

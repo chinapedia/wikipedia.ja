@@ -488,7 +488,7 @@
 <td><p><a href="../Page/テレビ熊本.md" title="wikilink">テレビ熊本</a></p></td>
 <td><p>フジテレビ系列</p></td>
 <td><p>土曜 6:45 - 7:15</p></td>
-<td><p>1995年4月1日-1996年3月16日[2]</p></td>
+<td><p>放送期間：1995年4月1日 - 1996年3月16日[2]</p></td>
 <td></td>
 </tr>
 <tr class="odd">
@@ -593,6 +593,6 @@
 [Category:漫画作品_き](https://ja.wikipedia.org/wiki/Category:漫画作品_き "wikilink") [Category:1992年の漫画](https://ja.wikipedia.org/wiki/Category:1992年の漫画 "wikilink") [Category:月刊少年ジャンプの漫画作品](https://ja.wikipedia.org/wiki/Category:月刊少年ジャンプの漫画作品 "wikilink") [Category:鬼を題材にした作品](https://ja.wikipedia.org/wiki/Category:鬼を題材にした作品 "wikilink") [Category:仏教を題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:仏教を題材とした漫画作品 "wikilink") [Category:エクソシスム・悪霊ばらいを題材とした漫画作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材とした漫画作品 "wikilink") [Category:変身ヒーロー](https://ja.wikipedia.org/wiki/Category:変身ヒーロー "wikilink") [Category:役小角](https://ja.wikipedia.org/wiki/Category:役小角 "wikilink") [Category:アニメ作品_き](https://ja.wikipedia.org/wiki/Category:アニメ作品_き "wikilink") [Category:1995年のテレビアニメ](https://ja.wikipedia.org/wiki/Category:1995年のテレビアニメ "wikilink") [Category:テレビ東京系アニメ](https://ja.wikipedia.org/wiki/Category:テレビ東京系アニメ "wikilink") [Category:スタジオディーン](https://ja.wikipedia.org/wiki/Category:スタジオディーン "wikilink") [Category:キティフィルムのアニメ作品](https://ja.wikipedia.org/wiki/Category:キティフィルムのアニメ作品 "wikilink") [Category:読売広告社のアニメ作品](https://ja.wikipedia.org/wiki/Category:読売広告社のアニメ作品 "wikilink") [Category:ジャンプ・コミックスのアニメ作品](https://ja.wikipedia.org/wiki/Category:ジャンプ・コミックスのアニメ作品 "wikilink") [Category:ファンタジーアニメ](https://ja.wikipedia.org/wiki/Category:ファンタジーアニメ "wikilink") [Category:エクソシスム・悪霊ばらいを題材としたアニメ作品](https://ja.wikipedia.org/wiki/Category:エクソシスム・悪霊ばらいを題材としたアニメ作品 "wikilink") [Category:1997年のOVA](https://ja.wikipedia.org/wiki/Category:1997年のOVA "wikilink") [Category:スーパーファミコン用ソフト](https://ja.wikipedia.org/wiki/Category:スーパーファミコン用ソフト "wikilink") [Category:ゲームギア用ソフト](https://ja.wikipedia.org/wiki/Category:ゲームギア用ソフト "wikilink") [Category:PC-FX用ソフト](https://ja.wikipedia.org/wiki/Category:PC-FX用ソフト "wikilink") [Category:1995年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:1995年のコンピュータゲーム "wikilink")
 
 1.  『[アニメージュ](../Page/アニメージュ.md "wikilink")』1995年9月号（[徳間書店](../Page/徳間書店.md "wikilink")）全国放送局別放映リスト（204 - 205頁）。
-2.  熊本日日新聞テレビ欄より。前番組は[ゲーム王国](../Page/ゲーム王国.md "wikilink")、後番組はテレビ東京と同じであった。
+2.
 3.
 4.

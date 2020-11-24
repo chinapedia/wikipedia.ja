@@ -76,7 +76,7 @@
 ## 外部リンク
 
   - [Uリーグ沖縄（現・Uスターズ）](http://stars-club.jp/)
-  - [All About　怪しい独立リーグ～沖縄Ｕリーグを巡る風景](http://web.archive.org/web/20070322023235/http://allabout.co.jp/sports/baseball/closeup/CU20070131C/)（アーカイブ）
+  - [All About　怪しい独立リーグ～沖縄Ｕリーグを巡る風景](https://web.archive.org/web/20070322023235/http://allabout.co.jp/sports/baseball/closeup/CU20070131C/)（アーカイブ）
 
 [Category:日本の独立リーグ](https://ja.wikipedia.org/wiki/Category:日本の独立リーグ "wikilink") [Category:九州地方の野球](https://ja.wikipedia.org/wiki/Category:九州地方の野球 "wikilink") [Category:沖縄県のスポーツ史](https://ja.wikipedia.org/wiki/Category:沖縄県のスポーツ史 "wikilink") [Category:現存しない日本の野球連盟](https://ja.wikipedia.org/wiki/Category:現存しない日本の野球連盟 "wikilink")
 

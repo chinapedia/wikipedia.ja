@@ -49,7 +49,7 @@
 
 2017年度は20時15分 - 20時43分の枠で放送された。
 
-### 2018・2019年度
+### 2018年度 -
 
 2018年9月までは2017年度と同じく土曜日20時15分 - 20時45分の枠で放送したが、同10月以後は2016年度と同じく、原則としてNHKスペシャルと交互に21時 - 21時50分の枠で放送しており、連続放送である場合は1シリーズ5回程度、まれに『土曜ドラマスペシャル』の名義で単発や前後編なども放送する。
 
@@ -92,7 +92,7 @@
 
   - 原作：[片岡鉄兵](../Page/片岡鉄兵.md "wikilink")
 
-|- |懐かしの名作シリーズ [浪華悲歌](https://ja.wikipedia.org/wiki/浪華悲歌 "wikilink")||1月31日||1||[高橋玄洋](../Page/高橋玄洋.md "wikilink")||[樋口昌弘](https://ja.wikipedia.org/wiki/樋口昌弘 "wikilink")||[十朱幸代](../Page/十朱幸代.md "wikilink")、[河津清三郎](../Page/河津清三郎.md "wikilink")、[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")、[山田五十鈴](../Page/山田五十鈴.md "wikilink")||style="text-align: left;"|
+|- |懐かしの名作シリーズ [浪華悲歌](https://ja.wikipedia.org/wiki/浪華悲歌 "wikilink")||1月31日||1||[高橋玄洋](../Page/高橋玄洋.md "wikilink")||[樋口昌弘](https://ja.wikipedia.org/wiki/樋口昌弘 "wikilink")||[十朱幸代](../Page/十朱幸代.md "wikilink")、[河津清三郎](../Page/河津清三郎.md "wikilink")、[財津一郎](../Page/財津一郎.md "wikilink")、[山田五十鈴](../Page/山田五十鈴.md "wikilink")||style="text-align: left;"|
 
   - 原作：[溝口健二](../Page/溝口健二.md "wikilink")
 
@@ -207,7 +207,7 @@
 
   - 原作：[井上靖](../Page/井上靖.md "wikilink")
 
-|- |[市川森一](../Page/市川森一.md "wikilink")シリーズ [失楽園 '79](https://ja.wikipedia.org/wiki/失楽園_'79 "wikilink")||3月10日 - 3月24日||3||[市川森一](../Page/市川森一.md "wikilink")||[重光亨彦](https://ja.wikipedia.org/wiki/重光亨彦 "wikilink")||[根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")、[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")、[谷啓](../Page/谷啓.md "wikilink")|| |- |浪花人情シリーズ [大阪親不孝通り](https://ja.wikipedia.org/wiki/大阪親不孝通り "wikilink")||10月13日||1||[高橋正圀](../Page/高橋正圀.md "wikilink")||[川口孝夫](../Page/川口孝夫.md "wikilink")||[財津一郎](https://ja.wikipedia.org/wiki/財津一郎 "wikilink")、[マキノ佐代子](https://ja.wikipedia.org/wiki/マキノ佐代子 "wikilink")、[野川由美子](../Page/野川由美子.md "wikilink")、[嵐寛寿郎](../Page/嵐寛寿郎.md "wikilink")|| |- |浪花人情シリーズ [大阪発―あした](https://ja.wikipedia.org/wiki/大阪発―あした "wikilink")||11月3日||1||[金子成人](../Page/金子成人.md "wikilink")||[松尾武](../Page/松尾武_\(演出家\).md "wikilink")||[国広富之](../Page/国広富之.md "wikilink")、[西村晃](../Page/西村晃.md "wikilink")、[浅野温子](../Page/浅野温子.md "wikilink")、[はしだのりひこ](https://ja.wikipedia.org/wiki/はしだのりひこ "wikilink")|| |- |山田太一シリーズ [男たちの旅路](../Page/男たちの旅路.md "wikilink") 第4部||11月10日 - 11月24日||3||[山田太一](../Page/山田太一_\(脚本家\).md "wikilink")||[中村克史](https://ja.wikipedia.org/wiki/中村克史 "wikilink")||[鶴田浩二](../Page/鶴田浩二.md "wikilink")、[水谷豊](https://ja.wikipedia.org/wiki/水谷豊 "wikilink")、[池部良](../Page/池部良.md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")|| |- |城山三郎シリーズ [素直な戦士たち](https://ja.wikipedia.org/wiki/素直な戦士たち "wikilink")||12月8日 - 12月29日||4||[山内久](../Page/山内久.md "wikilink")||[宮沢俊樹](https://ja.wikipedia.org/wiki/宮沢俊樹 "wikilink")||[長山藍子](../Page/長山藍子.md "wikilink")、[中谷一郎](../Page/中谷一郎.md "wikilink")、[小夜福子](../Page/小夜福子.md "wikilink")、[水野久美](https://ja.wikipedia.org/wiki/水野久美 "wikilink")|| |}
+|- |[市川森一](../Page/市川森一.md "wikilink")シリーズ [失楽園 '79](https://ja.wikipedia.org/wiki/失楽園_'79 "wikilink")||3月10日 - 3月24日||3||[市川森一](../Page/市川森一.md "wikilink")||[重光亨彦](https://ja.wikipedia.org/wiki/重光亨彦 "wikilink")||[根津甚八](../Page/根津甚八_\(俳優\).md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")、[鹿賀丈史](../Page/鹿賀丈史.md "wikilink")、[谷啓](../Page/谷啓.md "wikilink")|| |- |浪花人情シリーズ [大阪親不孝通り](https://ja.wikipedia.org/wiki/大阪親不孝通り "wikilink")||10月13日||1||[高橋正圀](../Page/高橋正圀.md "wikilink")||[川口孝夫](../Page/川口孝夫.md "wikilink")||[財津一郎](../Page/財津一郎.md "wikilink")、[マキノ佐代子](https://ja.wikipedia.org/wiki/マキノ佐代子 "wikilink")、[野川由美子](../Page/野川由美子.md "wikilink")、[嵐寛寿郎](../Page/嵐寛寿郎.md "wikilink")|| |- |浪花人情シリーズ [大阪発―あした](https://ja.wikipedia.org/wiki/大阪発―あした "wikilink")||11月3日||1||[金子成人](../Page/金子成人.md "wikilink")||[松尾武](../Page/松尾武_\(演出家\).md "wikilink")||[国広富之](../Page/国広富之.md "wikilink")、[西村晃](../Page/西村晃.md "wikilink")、[浅野温子](../Page/浅野温子.md "wikilink")、[はしだのりひこ](https://ja.wikipedia.org/wiki/はしだのりひこ "wikilink")|| |- |山田太一シリーズ [男たちの旅路](../Page/男たちの旅路.md "wikilink") 第4部||11月10日 - 11月24日||3||[山田太一](../Page/山田太一_\(脚本家\).md "wikilink")||[中村克史](https://ja.wikipedia.org/wiki/中村克史 "wikilink")||[鶴田浩二](../Page/鶴田浩二.md "wikilink")、[水谷豊](https://ja.wikipedia.org/wiki/水谷豊 "wikilink")、[池部良](../Page/池部良.md "wikilink")、[桃井かおり](../Page/桃井かおり.md "wikilink")|| |- |城山三郎シリーズ [素直な戦士たち](https://ja.wikipedia.org/wiki/素直な戦士たち "wikilink")||12月8日 - 12月29日||4||[山内久](../Page/山内久.md "wikilink")||[宮沢俊樹](https://ja.wikipedia.org/wiki/宮沢俊樹 "wikilink")||[長山藍子](../Page/長山藍子.md "wikilink")、[中谷一郎](../Page/中谷一郎.md "wikilink")、[小夜福子](../Page/小夜福子.md "wikilink")、[水野久美](https://ja.wikipedia.org/wiki/水野久美 "wikilink")|| |}
 
 #### 第2次・1980年 - 1998年
 
@@ -218,6 +218,8 @@
   -
 
   - 1981年
+
+:\* [蛇蠍のごとく](https://ja.wikipedia.org/wiki/蛇蝎のごとく "wikilink")
 
 :\* [価格破壊](https://ja.wikipedia.org/wiki/価格破壊 "wikilink")
 
@@ -252,7 +254,7 @@
 
 :\* 家族の値段
 
-:\* 恋愛模様
+:\* [恋愛模様](https://ja.wikipedia.org/wiki/恋愛模様 "wikilink")
 
 :\* 理想の男性
 
@@ -743,15 +745,19 @@
 
 :\*[路〜台湾エクスプレス〜](https://ja.wikipedia.org/wiki/路〜台湾エクスプレス〜 "wikilink")（5月16日 - 5月30日、全3回、原作：[吉田修一](../Page/吉田修一.md "wikilink")、主演：[波瑠](../Page/波瑠.md "wikilink")、共同制作：[PTS](https://ja.wikipedia.org/wiki/PTS "wikilink")）日台共同制作ドラマ
 
-:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（9月19日\[45\] - 、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
+:\*[天使にリクエストを〜人生最後の願い〜](../Page/天使にリクエストを〜人生最後の願い〜.md "wikilink")（9月19日\[45\] - 10月17日、全5回、主演：[江口洋介](https://ja.wikipedia.org/wiki/江口洋介 "wikilink")）
 
 :\*[ノースライト](https://ja.wikipedia.org/wiki/ノースライト_\(小説\) "wikilink")（12月12日 - 12月19日、全2回、原作：横山秀夫、主演：西島秀俊）
 
+  - 2021年
+
+:\*[六畳間のピアノマン](https://ja.wikipedia.org/wiki/六畳間のピアノマン "wikilink")（2月6日 - 2月27日、全4回、原作：[安藤祐介](https://ja.wikipedia.org/wiki/安藤祐介 "wikilink")、主演：[加藤シゲアキ](https://ja.wikipedia.org/wiki/加藤シゲアキ "wikilink") ほか、製作：NHK大阪）※オムニバス
+
 ## 脚注
 
-  - 注釈
+### 注釈
 
-  - 出典
+### 出典
 
 ## 外部リンク
 

@@ -83,6 +83,7 @@ HD版は省略する。
 | 17    | [2019年](../Page/2019年.md "wikilink")[5月31日](../Page/5月31日.md "wikilink")                      | **[Eスクールライフ](https://ja.wikipedia.org/wiki/Eスクールライフ "wikilink")**                                                                                                                                                                                                                 | RINKS                                                                                                                           | 松倉慎二、神宮寺、平野譲治                                                                 |
 | 18    | [2019年](../Page/2019年.md "wikilink")[11月29日](../Page/11月29日.md "wikilink")                    | **[どっちのiが好きですか？](https://ja.wikipedia.org/wiki/どっちのiが好きですか？ "wikilink")**                                                                                                                                                                                                         | ねたろぅ、ものと、綾瀬はづき                                                                                                                  | 桜城なお、此ノ花しな、時野つばき、羽凪華                                                          |
 | 19    | [2020年](../Page/2020年.md "wikilink")[8月28日](../Page/8月28日.md "wikilink")                      | **[放課後シンデレラ](https://ja.wikipedia.org/wiki/放課後シンデレラ "wikilink")**<ref>{{Cite web|date=|url=[https://www.tgsmart.jp/article.aspx?a=26040|title=【TG](https://www.tgsmart.jp/article.aspx?a=26040%7Ctitle=【TG) Leaks】TG6月号4/21（火）発売！　ういんどみるOasisが贈る注目のファンディスク『はぴねす！2 りらっくす』を表紙連動で大特集 | Home|publisher=|accessdate=2020-04-20}}</ref>                                                                                   | RINKS                                                                         |
+| 20    |                                                                                               | **[ゆびさきコネクション](https://ja.wikipedia.org/wiki/ゆびさきコネクション "wikilink")**\[44\]                                                                                                                                                                                                       |                                                                                                                                 |                                                                               |
 
 ## 姉妹ブランド
 
@@ -105,8 +106,8 @@ HD版は省略する。
 | 9     | 2019年1月25日                                                                                  | **[Sugar\*Style](https://ja.wikipedia.org/wiki/Sugar*Style "wikilink")**                                                   | 谷山さん                                                                                                                       | 岸田ソラ、モーリー                                                                    |
 | 9 FD  | 2019年6月28日                                                                                  | **[Sugar\*Style Music and Happiness Pack](https://ja.wikipedia.org/wiki/Sugar*Style_Music_and_Happiness_Pack "wikilink")** | 谷山さん                                                                                                                       | 岸田ソラ、此ノ花しな                                                                   |
 | 10    | 2020年2月28日                                                                                  | **[HaremKingdom -ハーレムキングダム-](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**                          | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
-| 10 FD | 2020年9月25日                                                                                  | **[HaremじゃないよKingdom 光&ソフィーヤ&キキ 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[44\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
-| 10 FD | 2020年11月27日                                                                                 | **[HaremじゃないよKingdom シャルローネ＆マルー 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[45\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| 10 FD | 2020年9月25日                                                                                  | **[HaremじゃないよKingdom 光&ソフィーヤ&キキ 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[45\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
+| 10 FD | 2020年11月27日                                                                                 | **[HaremじゃないよKingdom シャルローネ＆マルー 編](https://ja.wikipedia.org/wiki/HaremKingdom_-ハーレムキングダム- "wikilink")**\[46\]              | 谷山さん                                                                                                                       | 早瀬ゆう                                                                         |
 |       |                                                                                             |                                                                                                                            |                                                                                                                            |                                                                              |
 
   - ASa Project
@@ -125,25 +126,25 @@ HD版は省略する。
 ### 現スタッフ
 
   - 企画、プロデュース
-      - 亜佐美晶\[46\] - 創立メンバー 現HOOKSOFT代表\[47\]。
-      - 山根呂兵\[48\] - 創立メンバー グラフィックチーフ\[49\]。『Strawberry Nauts』より監修担当。
-      - 宅本うと\[50\] - 姓の読みは「やかもと」\[51\]。『天紡ぐ祝詞』より参加。SMEEでプロデュース・監修担当。
+      - 亜佐美晶\[47\] - 創立メンバー 現HOOKSOFT代表\[48\]\[49\]。
+      - 山根呂兵\[50\] - 創立メンバー グラフィックチーフ\[51\]。『Strawberry Nauts』より監修担当。
+      - 宅本うと\[52\] - 姓の読みは「やかもと」\[53\]。『天紡ぐ祝詞』より参加。SMEEでプロデュース・監修担当。
       - ELMA - 『SuGirly Wish』より監修担当。
 
 <!-- end list -->
 
   - シナリオ
-      - 早瀨ゆう -『らぶでれーしょん\!』以降SMEE作品。
+      - 早瀨ゆう -『らぶでれーしょん\!』以降SMEE作品。\[54\]
       - モーリー - 外注。『FairlyLife』以降のHOOKSOFT作品。
 
 <!-- end list -->
 
   - 原画
-      - [松下まかこ](https://ja.wikipedia.org/wiki/松下まかこ "wikilink")\[52\] - 『LikeLife』より担当。元「[FILM-SOFTWARE](https://ja.wikipedia.org/wiki/FILM-SOFTWARE "wikilink")」。
+      - [松下まかこ](https://ja.wikipedia.org/wiki/松下まかこ "wikilink")\[55\] - 『LikeLife』より担当。元「[FILM-SOFTWARE](https://ja.wikipedia.org/wiki/FILM-SOFTWARE "wikilink")」。
       - [桜はんぺん](https://ja.wikipedia.org/wiki/桜はんぺん "wikilink") - 外注。『さくらビットマップ』以降のHOOKSOFT作品。
       - [ひなたもも](https://ja.wikipedia.org/wiki/ひなたもも "wikilink") - 外注。『晴れハレはーれむ』および『ラブラブル』以降のSMEE作品。
       - [あめとゆき](https://ja.wikipedia.org/wiki/あめとゆき "wikilink") - 外注。『ラブラブル』以降のSMEE作品。
-      - らっこ\[53\] - 『LikeLife』より担当。元「FILM-SOFTWARE」スタッフで、2010年に退社してフリーになった後もHOOKSOFTの原画を担当（『Sugirly Wish』・『LOVELY QUEST』）を続けていた。だが、2013年7月に「14thProject」にあたる『MeltyMoment』をもって業界から完全に引退した。\[54\]\[55\]
+      - らっこ\[56\] - 『LikeLife』より担当。元「FILM-SOFTWARE」スタッフで、2010年に退社してフリーになった後もHOOKSOFTの原画を担当（『Sugirly Wish』・『LOVELY QUEST』）を続けていた。だが、2013年7月に「14thProject」にあたる『MeltyMoment』をもって業界から完全に引退した。\[57\]\[58\]
       - 羽鳥ぴよこ - 外注。『Strawberry Nauts』以降のHOOKSOFT作品。
       - 鈴平ひろ - 外注。『さくらビットマップ』『トラベリングスターズ』のみ担当
       - その他
@@ -155,18 +156,18 @@ HD版は省略する。
 <!-- end list -->
 
   - グラフィック
-      - 真海\[56\]
-      - みつき\[57\]
+      - 真海\[59\]
+      - みつき\[60\]
 
 <!-- end list -->
 
   - デバッグ・編集
-      - VII\[58\] - 『天紡ぐ祝詞』より参加し、「OrangePocket」で正スタッフ。
+      - VII\[61\] - 『天紡ぐ祝詞』より参加し、「OrangePocket」で正スタッフ。
 
 <!-- end list -->
 
   - スクリプト・編集
-      - 黒木ノア\[59\] - 「システムスクリプト」・「スクリプト統括」などでクレジットされることもあり。
+      - 黒木ノア\[62\] - 「システムスクリプト」・「スクリプト統括」などでクレジットされることもあり。
 
 <!-- end list -->
 
@@ -177,7 +178,7 @@ HD版は省略する。
 
   - 広報
       - 伊藤直子 - 2009年から参加。
-      - 飴乃あめ - 2020年3月から参加。\[60\]
+      - 飴乃あめ - 2020年3月から参加。\[63\]
 
 ### 旧スタッフ
 
@@ -187,7 +188,7 @@ HD版は省略する。
 <!-- end list -->
 
   - シナリオ
-      - 川波無人\[61\] - 創立メンバー。2010年に退社して現在フリー。
+      - 川波無人\[64\] - 創立メンバー。2010年に退社して現在フリー。
       - 雪仁 - 外注。『さくらビットマップ』より『Strawberry Nauts』までシナリオ担当。その後主宰サークルで独立し[SMILE（スミレ）を立ち上げる](https://ja.wikipedia.org/wiki/スミレ_\(ゲームブランド\) "wikilink")。
 
 <!-- end list -->
@@ -199,7 +200,7 @@ HD版は省略する。
 <!-- end list -->
 
   - デザイン
-      - kei\[62\] - 創立メンバー HOOKSOFTブランドの原画をプロデュースしている。女性原画家の繊細なタッチに拘りを持っている。2013年10月末付けで退社。
+      - kei\[65\] - 創立メンバー HOOKSOFTブランドの原画をプロデュースしている。女性原画家の繊細なタッチに拘りを持っている。2013年10月末付けで退社。
 
 ## 脚注
 
@@ -285,3 +286,6 @@ HD版は省略する。
 60.
 61.
 62.
+63.
+64.
+65.

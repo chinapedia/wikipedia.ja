@@ -22,6 +22,10 @@
 
 初期は5人揃う事が多かったが、2004年頃になるとNACS自体が全国公演を行うなど多忙になり、それぞれも全国区での仕事が増えた為、全員が揃うのはイベントや聴取率調査週間（リスナーサンクスウィーク）などに限定されるようになった。 番組の終了も、その辺りが原因の１つらしい。（最終回で森崎が語っている）
 
+## エピソード
+
+放送開始直後の2001年2月に行われたAIR-G番組審議委員会にて番組の合評が行われたが「部屋の片隅に出演者5人が集って、そこにマイクを下げただけ、としか、感じられない。」等、議事録には一つも良い事が載らない程、酷評を受けた。放送で大きく取り上げられる事は無かったが、森崎が「また番組審議委員会で言われるぞ」と落胆半分の注意をした事がある。\[1\]
+
 ## 関連項目
 
   - [エフエム北海道](../Page/エフエム北海道.md "wikilink")
@@ -36,3 +40,5 @@
 [カテゴリ:TEAM NACS](https://ja.wikipedia.org/wiki/カテゴリ:TEAM_NACS "wikilink")
 
 [Category:AIR-G'の番組](https://ja.wikipedia.org/wiki/Category:AIR-G'の番組 "wikilink") [Category:2001年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2001年のラジオ番組_\(日本\) "wikilink") [Category:大泉洋](https://ja.wikipedia.org/wiki/Category:大泉洋 "wikilink") [Category:安田顕](https://ja.wikipedia.org/wiki/Category:安田顕 "wikilink") [Category:戸次重幸](https://ja.wikipedia.org/wiki/Category:戸次重幸 "wikilink") [Category:音尾琢真](https://ja.wikipedia.org/wiki/Category:音尾琢真 "wikilink")
+
+1.

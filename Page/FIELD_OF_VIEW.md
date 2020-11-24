@@ -383,13 +383,13 @@
 | 1st | 2002/10/9 | [VIEW CLIPS 〜Memorial Best〜](https://ja.wikipedia.org/wiki/VIEW_CLIPS_〜Memorial_Best〜 "wikilink")                                                                                                     | 9位  |
 | 2nd | 2003/2/12 | [the FIELD OF VIEW FINAL LIVE “Live Horizon-SUPERIOR 2002 〜Gift of Memories〜”](https://ja.wikipedia.org/wiki/the_FIELD_OF_VIEW_FINAL_LIVE_“Live_Horizon-SUPERIOR_2002_〜Gift_of_Memories〜” "wikilink") | 10位 |
 
-### コンピレーション・アルバム
+### 参加作品
 
-  - **It's TV SHOW\!\!（DISCII M-6.DANDAN心魅かれてく）**　2004/10/27
-  - **[COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")**（[通信販売](../Page/通信販売.md "wikilink")限定）
+  - **It's TV SHOW\!\!**（『DAN DAN 心魅かれてく』を収録）
+  - **[COUNTDOWN BEING](../Page/COUNTDOWN_BEING.md "wikilink")**（『君がいたから』・『突然』・『DAN DAN心魅かれてく』を収録）
   - **[FUN Greatest Hits of 90's](../Page/FUN_Greatest_Hits_of_90's.md "wikilink")**（『突然』・『DAN DAN心魅かれてく』を収録）
   - **[BEST HIT BEING](https://ja.wikipedia.org/wiki/BEST_HIT_BEING "wikilink")**（『突然』を収録）
-  - **J-POP NON STOP MIX「キミが好きだと叫びたい 〜Love & Yell〜 mixed by DJ和」**(『DAN DAN 心魅かれてく』を収録)2020/4/8
+  - **J-POP NON STOP MIX「キミが好きだと叫びたい 〜Love & Yell〜 mixed by DJ和」**（『DAN DAN 心魅かれてく』を収録）
 
 ### ライブ・イベント
 

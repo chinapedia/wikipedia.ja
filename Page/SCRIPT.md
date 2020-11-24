@@ -90,8 +90,8 @@
 ## 外部リンク
 
   - [SCRIPT official home page " SCRIPT IS HERE \! "](http://www.script-is-here.com/) － 公式サイト
-  - [SCRIPT MySpace](http://www.myspace.com/afd)
-  - [ササキオサム MySpace](http://www.myspace.com/sasakiosamu)
+  - [SCRIPT MySpace](https://myspace.com/afd)
+  - [ササキオサム MySpace](https://myspace.com/sasakiosamu)
   - [SCRIPT 01佐々木收のオフィシャルブログ](https://ameblo.jp/osamu-sasaki/)
 
 [Category:SCRIPT](https://ja.wikipedia.org/wiki/Category:SCRIPT "wikilink") [Category:日本のロック・バンド](https://ja.wikipedia.org/wiki/Category:日本のロック・バンド "wikilink") [Category:ユニバーサルミュージックジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:ユニバーサルミュージックジャパンのアーティスト "wikilink")

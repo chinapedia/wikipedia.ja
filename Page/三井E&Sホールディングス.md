@@ -25,7 +25,7 @@
   - 三井造船昭島研究所
   - 三井造船特機エンジニアリング
   - MESシッピング
-  - 四国ドック
+  - [四国ドック](https://ja.wikipedia.org/wiki/四国ドック "wikilink")
   - [新潟造船](https://ja.wikipedia.org/wiki/新潟造船 "wikilink")
   - TGE Marine Gas Engineering GmbH
 
@@ -175,7 +175,7 @@
       - [あぶくま型](../Page/あぶくま型護衛艦.md "wikilink")：[DE-229 あぶくま](https://ja.wikipedia.org/wiki/あぶくま_\(護衛艦\) "wikilink") - [DE-231 おおよど](https://ja.wikipedia.org/wiki/おおよど_\(護衛艦\) "wikilink")
       - [むらさめ型](../Page/むらさめ型護衛艦.md "wikilink")：[DD-102 はるさめ](../Page/はるさめ_\(護衛艦・2代\).md "wikilink")
       - [あきづき型](../Page/あきづき型護衛艦_\(2代\).md "wikilink")：[DD-118 ふゆづき](https://ja.wikipedia.org/wiki/ふゆづき_\(護衛艦\) "wikilink")
-      - [3900トン型](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")
+      - [3900トン型](https://ja.wikipedia.org/wiki/3900トン型護衛艦 "wikilink")：[FFM-2 くまの](https://ja.wikipedia.org/wiki/くまの_\(護衛艦・2代\) "wikilink")
   - [補給艦](../Page/補給艦.md "wikilink")
       - [ましゅう型](../Page/ましゅう型補給艦.md "wikilink")：[AOE-425 ましゅう](../Page/ましゅう_\(補給艦\).md "wikilink")
   - 掃海母艦

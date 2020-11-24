@@ -81,7 +81,7 @@
   - タクシーの運転手 - [大杉漣](../Page/大杉漣.md "wikilink")
   - 巡査 - [萩原聖人](../Page/萩原聖人.md "wikilink")
   - 道子 - [大竹しのぶ](https://ja.wikipedia.org/wiki/大竹しのぶ "wikilink")
-  - 秀吉 - [山崎努](../Page/山崎努.md "wikilink")
+  - 秀吉 - [山﨑努](../Page/山崎努.md "wikilink")
 
 ### スタッフ
 

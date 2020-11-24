@@ -1,9 +1,9 @@
 > この記事は[脳を鍛える大人のDSトレーニング](https://ja.wikipedia.org/wiki/脳を鍛える大人のDSトレーニング)から翻訳されています。
 
 
-『**脳を鍛える大人のDSトレーニング**』（のうをきたえるおとなのディーエストレーニング）は、[任天堂](../Page/任天堂.md "wikilink")開発・発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。略称「**脳トレ**」。
+『**脳を鍛える大人のDSトレーニング**』（のうをきたえるおとなのディーエストレーニング）は、[任天堂](../Page/任天堂.md "wikilink")開発・発売の[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")専用[ゲームソフト](../Page/ゲームソフト.md "wikilink")。略称は「**脳トレ**」。
 
-副題も含めた正式タイトルは『**東北大学未来科学技術共同研究センター川島隆太教授監修 脳を鍛える大人のDSトレーニング**』（とうほくだいがく みらいかがくぎじゅつきょうどうけんきゅうセンター かわしまりゅうたきょうじゅかんしゅう のうをきたえるおとなのディーエストレーニング、）。
+副題も含めた正式タイトルは『**東北大学未来科学技術共同研究センター 川島隆太教授監修 脳を鍛える大人のDSトレーニング**』（とうほくだいがく みらいかがくぎじゅつきょうどうけんきゅうセンター かわしまりゅうたきょうじゅかんしゅう のうをきたえるおとなのディーエストレーニング、）。
 
 ジャンルは「脳活性化ソフト」で「[Touch\! Generations](../Page/Touch!_Generations.md "wikilink")」シリーズの1つ。副題にある通り、[東北大学](https://ja.wikipedia.org/wiki/東北大学 "wikilink")未来科学技術共同研究センター教授（発売当時。後に同大学加齢医学研究所教授へ異動）・医学博士の[川島隆太](../Page/川島隆太.md "wikilink")が監修している。ゲーム中には川島本人がポリゴン化したキャラクターで登場しており、プレイヤーに様々なアドバイスをする。
 
@@ -127,8 +127,11 @@
 
 ## 関連項目
 
-  - [楽ひら](../Page/楽ひら.md "wikilink")
-  - [大乱闘スマッシュブラザーズシリーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink") - ｢川島教授｣が｢アシストフィギュア｣として登場。
+  - [もっと脳を鍛える大人のDSトレーニング](../Page/もっと脳を鍛える大人のDSトレーニング.md "wikilink") - [2005年](../Page/2005年.md "wikilink")[12月29日](../Page/12月29日.md "wikilink")に[ニンテンドーDS](../Page/ニンテンドーDS.md "wikilink")で発売されたシリーズ2作目
+  - [ちょっと脳を鍛える大人のDSiトレーニング](https://ja.wikipedia.org/wiki/ちょっと脳を鍛える大人のDSiトレーニング "wikilink") - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")[12月24日](../Page/12月24日.md "wikilink")と[2009年](../Page/2009年.md "wikilink")[4月22日](../Page/4月22日.md "wikilink")に[DSiウェア](https://ja.wikipedia.org/wiki/DSiウェア "wikilink")として配信されたシリーズ3作目
+  - [ものすごく脳を鍛える5分間の鬼トレーニング](https://ja.wikipedia.org/wiki/ものすごく脳を鍛える5分間の鬼トレーニング "wikilink") - [2012年](../Page/2012年.md "wikilink")[7月24日](../Page/7月24日.md "wikilink")に[ニンテンドー3DS](https://ja.wikipedia.org/wiki/ニンテンドー3DS "wikilink")で発売されたシリーズ4作目
+  - [脳を鍛える大人のNintendo Switchトレーニング](https://ja.wikipedia.org/wiki/脳を鍛える大人のNintendo_Switchトレーニング "wikilink") - [2019年](../Page/2019年.md "wikilink")[12月27日](../Page/12月27日.md "wikilink")に[Nintendo Switchで発売されたシリーズ](https://ja.wikipedia.org/wiki/Nintendo_Switch "wikilink")5作目
+  - [大乱闘スマッシュブラザーズシリーズ](../Page/大乱闘スマッシュブラザーズシリーズ.md "wikilink") - [川島隆太](../Page/川島隆太.md "wikilink")教授が｢アシストフィギュア｣として登場。
       - [大乱闘スマッシュブラザーズ for Nintendo 3DS / Wii U](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_for_Nintendo_3DS_/_Wii_U "wikilink")
       - [大乱闘スマッシュブラザーズ SPECIAL](https://ja.wikipedia.org/wiki/大乱闘スマッシュブラザーズ_SPECIAL "wikilink")
 
@@ -136,7 +139,7 @@
 
   - [脳を鍛える大人のDSトレーニング公式サイト](https://www.nintendo.co.jp/ds/andj/)
 
-  - [ほぼ日刊イトイ新聞　脳を鍛える大人たち](https://www.1101.com/nintendo/brain/)
+  - [ほぼ日刊イトイ新聞 脳を鍛える大人たち](https://www.1101.com/nintendo/brain/)
 
   -
 [Category:脳トレ](https://ja.wikipedia.org/wiki/Category:脳トレ "wikilink") [Category:Touch\!_Generations](https://ja.wikipedia.org/wiki/Category:Touch!_Generations "wikilink") [Category:2005年のコンピュータゲーム](https://ja.wikipedia.org/wiki/Category:2005年のコンピュータゲーム "wikilink") [Category:ニンテンドーDS用ソフト](https://ja.wikipedia.org/wiki/Category:ニンテンドーDS用ソフト "wikilink") [Category:Wii_U用バーチャルコンソール対応ソフト](https://ja.wikipedia.org/wiki/Category:Wii_U用バーチャルコンソール対応ソフト "wikilink") [Category:ミリオンセラーのゲームソフト](https://ja.wikipedia.org/wiki/Category:ミリオンセラーのゲームソフト "wikilink") [Category:日本ゲーム大賞受賞ソフト](https://ja.wikipedia.org/wiki/Category:日本ゲーム大賞受賞ソフト "wikilink")

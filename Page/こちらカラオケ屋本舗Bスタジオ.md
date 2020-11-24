@@ -19,4 +19,4 @@
 
 2005年3月に「[うたラジ](../Page/うたラジ.md "wikilink")」の放送時間拡大に伴い終了したが、半年後にパーソナリティーと放送時間を変更し、タイトルも「**うっちゃん･育子のこちらカラオケBスタジオ**」となって復活している。パーソナリティはうっちゃんこと[内山千早](../Page/内山千早.md "wikilink")とフリーアナウンサーの鈴木育子。放送時間は土曜日21:05-21:30。（ナイターシーズンの2006年4月からは日曜22:35-23:00）スポンサーにも[アサヒビール](../Page/アサヒビール.md "wikilink")が加わっており、内容も高い年齢層向けに変更され演歌も取り上げるようになった。
 
-[Category:青森放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:青森放送のラジオ番組 "wikilink")
+[Category:青森放送のラジオ番組](https://ja.wikipedia.org/wiki/Category:青森放送のラジオ番組 "wikilink") [Category:カラオケ番組](https://ja.wikipedia.org/wiki/Category:カラオケ番組 "wikilink")

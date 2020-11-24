@@ -294,7 +294,7 @@ V.A.
 <!-- end list -->
 
   -
-    →2001年に[メリー](https://ja.wikipedia.org/wiki/メリー "wikilink")に加入。
+    →2001年に[メリーに加入](../Page/MERRY.md "wikilink")。
 
 <!-- end list -->
 

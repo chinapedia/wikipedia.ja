@@ -1,7 +1,7 @@
 > この記事は[SINGLES Vol.2 \(1983〜1988\)](https://ja.wikipedia.org/wiki/SINGLES_Vol.2_\(1983〜1988\))から翻訳されています。
 
 
-『**SINGLES Vol.2 (1983〜1988)**』（シングルス・ボリューム・ツー－）は日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
+『**SINGLES Vol.2 (1983〜1988)**』（シングルス・ボリューム・ツー－）は、日本の[ミュージシャン](https://ja.wikipedia.org/wiki/ミュージシャン "wikilink")、[長渕剛](../Page/長渕剛.md "wikilink")の[ベスト・アルバム](../Page/ベスト・アルバム.md "wikilink")である。
 
 [1997年](https://ja.wikipedia.org/wiki/1997年 "wikilink")[12月10日](../Page/12月10日.md "wikilink")に[東芝EMI](../Page/EMIミュージック・ジャパン.md "wikilink")／エキスプレスよりリリースされた。また、[2006年](../Page/2006年.md "wikilink")[3月8日](../Page/3月8日.md "wikilink")には24ビット・デジタル・リマスタリング化されて再リリースされている。
 
@@ -9,7 +9,7 @@
 
 ## 解説
 
-東芝EMI時代のシングル曲を、A面、B面ともに収録。なお「泣いてチンピラ」のB面に収録されていた「ろくなもんじゃねぇ（カラオケ）」は未収録。
+東芝EMI時代のシングル曲を、A面、B面ともに収録している。なお「泣いてチンピラ」のB面に収録されていた「ろくなもんじゃねぇ（カラオケ）」は収録していない。
 
 ## 収録曲
 
@@ -72,13 +72,13 @@
 8.  **THANK YOU WOMAN**
       -
         （作詞・作曲：長渕剛／編曲：[中西康晴](../Page/中西康晴.md "wikilink")）
-9.  **[NEVER CHANGE](../Page/NEVER_CHANGE.md "wikilink")**
+9.  **[NEVER CHANGE](https://ja.wikipedia.org/wiki/NEVER_CHANGE_\(長渕剛の曲\) "wikilink")**
       -
         （作詞・作曲：長渕剛／編曲：長渕剛・瀬尾一三）
 10. **STAY DREAM**
       -
         （作詞・作曲:長渕剛／編曲：長渕剛・瀬尾一三）
-        セルフカバーバージョン。アルバム「[NEVER CHANGE](../Page/NEVER_CHANGE.md "wikilink")」収録。
+        セルフカバーバージョン。アルバム『[NEVER CHANGE](../Page/NEVER_CHANGE_\(アルバム\).md "wikilink")』収録。
 
 <!-- end list -->
 

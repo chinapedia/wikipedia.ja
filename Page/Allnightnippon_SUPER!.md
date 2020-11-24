@@ -30,8 +30,8 @@
       - [ポルノグラフィティ](https://ja.wikipedia.org/wiki/ポルノグラフィティ "wikilink")(『[ポルノグラフィティのallnightnippon SUPER\!](../Page/ポルノグラフィティのallnightnippon_SUPER!.md "wikilink")』。2001年1月 - 2003年3月)
   - 木曜
       - [ナインティナイン](https://ja.wikipedia.org/wiki/ナインティナイン "wikilink")(『[ナインティナインのallnightnippon SUPER\!](../Page/ナインティナインのオールナイトニッポン.md "wikilink")』。毎週木曜、1999年3月 - 9月)\[6\]
-      - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")(『[SILVAのallnightnippon SUPER\!](https://ja.wikipedia.org/wiki/SILVAのallnightnippon_SUPER! "wikilink")』。毎週木曜、1999年10月 - 2000年3月)\[7\]\[8\]
-      - [中澤裕子](../Page/中澤裕子.md "wikilink")([モーニング娘。](../Page/モーニング娘。.md "wikilink")(当時))(『[モーニング娘。中澤裕子のallnightnippon SUPER\!](https://ja.wikipedia.org/wiki/モーニング娘。中澤裕子のallnightnippon_SUPER! "wikilink")』。毎週木曜、2000年4月 - 2001年4月)\[9\]
+      - [SILVA](https://ja.wikipedia.org/wiki/SILVA "wikilink")(『SILVAのallnightnippon SUPER\!』。毎週木曜、1999年10月 - 2000年3月)\[7\]\[8\]
+      - [中澤裕子](../Page/中澤裕子.md "wikilink")([モーニング娘。](../Page/モーニング娘。.md "wikilink")(当時))(『モーニング娘。中澤裕子のallnightnippon SUPER\!』。毎週木曜、2000年4月 - 2001年4月)\[9\]
       - [矢口真里](https://ja.wikipedia.org/wiki/矢口真里 "wikilink")(モーニング娘。(当時))([モーニング娘。矢口真里のallnightnippon SUPER\!](../Page/あなたがいるから、矢口真里.md "wikilink")』。2001年4月 - 2003年3月)\[10\]
   - 金曜
       - [ネプチューン](../Page/ネプチューン_\(お笑いトリオ\).md "wikilink")(『[ネプチューンのallnightnippon SUPER\!](https://ja.wikipedia.org/wiki/ネプチューンのallnightnippon_SUPER! "wikilink")』。毎週金曜、1999年3月 - 2002年9月)

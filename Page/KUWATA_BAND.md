@@ -89,24 +89,24 @@
 <td><p>2nd</p></td>
 <td><p>1986年<a href="../Page/7月5日.md" title="wikilink">7月5日</a></p></td>
 <td></td>
-<td><p>EP</p></td>
 <td><p>VIHX-1694</p></td>
-<td><p>3位</p></td>
+<td></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td><p>3rd</p></td>
 <td><p>1986年7月5日</p></td>
 <td></td>
-<td><p>EP</p></td>
 <td><p>VIHX-1686</p></td>
+<td></td>
 <td></td>
 </tr>
 <tr class="even">
 <td><p>4th</p></td>
 <td><p>1986年<a href="../Page/11月5日.md" title="wikilink">11月5日</a></p></td>
 <td></td>
-<td><p>EP</p></td>
 <td><p>VIHX-1700</p></td>
+<td></td>
 <td></td>
 </tr>
 </tbody>

@@ -204,7 +204,7 @@
 
 ## アナウンサー・キャスター
 
-2019年8月現在\[5\]
+2020年4月現在\[5\]
 
 <table>
 <thead>
@@ -232,22 +232,12 @@
 <td></td>
 </tr>
 <tr class="even">
-<td><p>中山絵理子</p></td>
+<td><p>菅野愛</p></td>
 <td></td>
 <td><p>ほっとニュース北海道とかち</p></td>
 </tr>
 <tr class="odd">
-<td><p>菅野愛</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
 <td><p>日笠まり絵</p></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td><p>松野莉奈</p></td>
 <td></td>
 <td></td>
 </tr>

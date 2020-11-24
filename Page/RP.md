@@ -12,6 +12,7 @@
   - [赤紫](../Page/赤紫.md "wikilink") ()
   - [ラピッドプロトタイピング](../Page/ラピッドプロトタイピング.md "wikilink") ()
   - [RP (計算複雑性理論)](../Page/RP_\(計算複雑性理論\).md "wikilink")
+  - 真空ポンプの一種である[ロータリーポンプ](../Page/ロータリーポンプ.md "wikilink")(Rotary Pump)の略。
   - [日産ディーゼル・スペースランナーRP](../Page/日産ディーゼル・スペースランナーRP.md "wikilink") - [UDトラックス](https://ja.wikipedia.org/wiki/UDトラックス "wikilink")（旧:日産ディーゼル）のバス車両
   - [役割演技](../Page/役割演技.md "wikilink") ()
   - [NHK和歌山放送局](../Page/NHK和歌山放送局.md "wikilink")の[総合テレビ](../Page/NHK総合テレビジョン.md "wikilink")・[FM放送の](../Page/NHK-FM放送.md "wikilink")[コールサイン](https://ja.wikipedia.org/wiki/コールサイン "wikilink") (JORP-DTV/-FM)

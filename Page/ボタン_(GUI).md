@@ -1,7 +1,7 @@
 > この記事は[ボタン \(GUI\)](https://ja.wikipedia.org/wiki/ボタン_\(GUI\))から翻訳されています。
 
 
-[thumb](https://ja.wikipedia.org/wiki/画像:Buttons2.gif "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Option-buttons2.gif "wikilink") [GUIの](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")**ボタン**は、現実世界における[押しボタン](https://ja.wikipedia.org/wiki/押しボタン "wikilink")と同様に「押す」ことで何かの操作を行なう為のコンピュータ画面上の表現である。一般には物理的なボタンを模した立体感のある形状が多いが（[ウィジェット](../Page/ウィジェット_\(GUI\).md "wikilink")）、中には単なる[アイコン](../Page/アイコン.md "wikilink")表現がボタンの役割を果たす場合もあり、このような物も機能分類に従い通常ボタンと呼称する。「コマンドボタン」と呼ばれることもある。
+[thumb](https://ja.wikipedia.org/wiki/画像:Buttons2.gif "wikilink") [thumb](https://ja.wikipedia.org/wiki/画像:Option-buttons2.gif "wikilink") [グラフィカルユーザインタフェース](https://ja.wikipedia.org/wiki/グラフィカルユーザインタフェース "wikilink")(GUI)の**ボタン**は、現実世界における[押しボタン](https://ja.wikipedia.org/wiki/押しボタン "wikilink")と同様に「押す」ことで何かの操作を行なう為のコンピュータ画面上の表現である。一般には物理的なボタンを模した立体感のある形状が多いが（[ウィジェット](../Page/ウィジェット_\(GUI\).md "wikilink")）、中には単なる[アイコン](../Page/アイコン.md "wikilink")表現がボタンの役割を果たす場合もあり、このような物も機能分類に従い通常ボタンと呼称する。「コマンドボタン」と呼ばれることもある。
 
 ## 概要
 

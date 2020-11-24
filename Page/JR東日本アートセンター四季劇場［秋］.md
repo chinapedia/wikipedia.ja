@@ -1,7 +1,7 @@
 > この記事は[JR東日本アートセンター四季劇場［秋］](https://ja.wikipedia.org/wiki/JR東日本アートセンター四季劇場［秋］)から翻訳されています。
 
 
-**JR東日本アートセンター四季劇場［秋］**（ジェイアールひがしにほんアートセンターしきげきじょう［あき］、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, AKI*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇場](../Page/劇場.md "wikilink")である。
+**JR東日本四季劇場［秋］**（ジェイアールひがしにほんしきげきじょう［あき］、[英語](../Page/英語.md "wikilink")：*The Shiki Theatre, AKI*）は、[東京都](../Page/東京都.md "wikilink")[港区にある](https://ja.wikipedia.org/wiki/港区_\(東京都\) "wikilink")[劇場](../Page/劇場.md "wikilink")である。
 
 ## 概要
 
@@ -152,7 +152,7 @@
 
 ## 外部リンク
 
-  - [劇団四季 シアター 四季劇場](https://www.shiki.jp/theatres/gr/shiki/)
+  - [劇団四季 シアター 四季劇場](https://www.shiki.jp/theatres/4024/)
   - [JR東日本四季劇場［春］［秋］特設サイト｜劇団四季](https://www.shiki.jp/theatres/shikitheatre/)
 
 [Category:東京都の劇場](https://ja.wikipedia.org/wiki/Category:東京都の劇場 "wikilink") [Category:劇団四季の劇場](https://ja.wikipedia.org/wiki/Category:劇団四季の劇場 "wikilink") [Category:東京都港区の建築物](https://ja.wikipedia.org/wiki/Category:東京都港区の建築物 "wikilink")

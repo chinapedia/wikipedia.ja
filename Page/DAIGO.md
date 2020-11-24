@@ -118,6 +118,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [竹下登](../Page/竹下登.md "wikilink")（祖父、政治家）
   - [竹下直子](https://ja.wikipedia.org/wiki/竹下直子 "wikilink")（祖母）
   - [竹下勇造](../Page/竹下勇造.md "wikilink")（曽祖父、実業家、島根県議会議員）
+  - [竹下儀造](https://ja.wikipedia.org/wiki/竹下儀造 "wikilink")（高祖父、酒造家、政治家）
   - [竹下亘](../Page/竹下亘.md "wikilink")（大叔父、政治家）
   - [金丸康信](../Page/テレビ山梨.md "wikilink")（伯母の夫、テレビ局社長）
   - [金丸信](../Page/金丸信.md "wikilink")（伯母の義父、政治家）
@@ -144,7 +145,6 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 ## エピソード
 
-  - [竹下内閣](../Page/竹下内閣.md "wikilink")が[1989年](../Page/1989年.md "wikilink")（[平成](../Page/平成.md "wikilink")元年）[4月1日](../Page/4月1日.md "wikilink")に[消費税](../Page/消費税.md "wikilink")を導入した際、張本人の孫だった事から学校などでは随分といじめを受けたという、苦いエピソードがある。生徒はもちろん教師からもバッシングされたと語っている。詳細は[竹下登](../Page/竹下登.md "wikilink")のリンク先を参照。
   - 15歳の時、[小渕恵三](../Page/小渕恵三.md "wikilink")元[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")から、[お年玉](../Page/お年玉.md "wikilink")として8万[円を貰っている](../Page/円_\(通貨\).md "wikilink")。祖父・竹下登からのお年玉の最高額が3万円だった事から、彼の中で「小渕さん、リスペクトですよ」とのこと\[88\]。
   - 実家には、当時[官房長官の](../Page/内閣官房長官.md "wikilink")[小渕恵三](../Page/小渕恵三.md "wikilink")が[昭和](../Page/昭和.md "wikilink")64年（[1989年](../Page/1989年.md "wikilink")）[1月7日](../Page/1月7日.md "wikilink")に、当時の[総理大臣官邸の](../Page/総理大臣公邸.md "wikilink")[記者会見](../Page/記者会見.md "wikilink")で掲げた[平成](../Page/平成.md "wikilink")の[元号](../Page/元号.md "wikilink")が書かれた[色紙](https://ja.wikipedia.org/wiki/色紙 "wikilink")や、[祖父が](../Page/竹下登.md "wikilink")[昭和天皇](../Page/昭和天皇.md "wikilink")から手渡された[内閣総理大臣](https://ja.wikipedia.org/wiki/内閣総理大臣 "wikilink")任命書、[ローマ教皇](https://ja.wikipedia.org/wiki/ローマ教皇 "wikilink")だった[ヨハネ・パウロ2世からの贈呈品や](../Page/ヨハネ・パウロ2世_\(ローマ教皇\).md "wikilink")、[フランス](https://ja.wikipedia.org/wiki/フランス "wikilink")、[スペイン](https://ja.wikipedia.org/wiki/スペイン "wikilink")、[セネガル](https://ja.wikipedia.org/wiki/セネガル "wikilink")からの[勲章](https://ja.wikipedia.org/wiki/勲章 "wikilink")などが秘蔵されている。これは[TBSテレビ](../Page/TBSテレビ.md "wikilink")の『[世界バリバリ★バリュー](../Page/世界バリバリ★バリュー.md "wikilink")』でも紹介された。同局の『[うたばん](../Page/うたばん.md "wikilink")』で「平成」の色紙を鑑定してもらったところ、「[価値](../Page/価値.md "wikilink")が高すぎて[鑑定](../Page/鑑定.md "wikilink")出来ない」との結果が出た。なお、[河東純一](https://ja.wikipedia.org/wiki/河東純一 "wikilink")が[揮毫](../Page/揮毫.md "wikilink")した「平成」の色紙は、この放送の後に[国立公文書館](../Page/国立公文書館.md "wikilink")に寄贈されている\[89\]。
   - 2003年、「DAIGO☆STARDUST」でメジャーデビューした際は「**宇宙から舞い降りたロック王子**」という設定で活動していたが、（本人曰く）[小倉優子](https://ja.wikipedia.org/wiki/小倉優子 "wikilink")の「[こりん星人](https://ja.wikipedia.org/wiki/小倉優子#こりん星 "wikilink")」に比べ設定が甘かったため、次第に演じる本人が厳しくなり、ビーイング移籍を機に封印した。当時は「スペイシー・ハグ」「スペイシー・よちよち」など、自身の行為に「スペイシー」の接頭辞を付けていた。DAIGO☆STARDUSTのキャラについて、[土屋アンナ](https://ja.wikipedia.org/wiki/土屋アンナ "wikilink")からは完全否定されていた\[90\]がつんく♂、高見沢俊彦、yasuらからは気に入られていた\[91\]。
@@ -761,11 +761,11 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [セノビタビ。](https://ja.wikipedia.org/wiki/セノビタビ。 "wikilink")（2016年4月28日 - 、フジテレビ）
   - [馬好王国〜UmazuKingdom〜](https://ja.wikipedia.org/wiki/馬好王国〜UmazuKingdom〜 "wikilink")（2017年1月7日 - 、フジテレビ） - メインMC
   - [eGG](https://ja.wikipedia.org/wiki/eGG_\(テレビ番組\) "wikilink")（2018年7月19日 - 、日本テレビ） - メインMC
-  - [みんなのKEIBA](https://ja.wikipedia.org/wiki/みんなのKEIBA "wikilink")（2019年1月6日 - 、フジテレビ） -メインMC
+  - [みんなのKEIBA](https://ja.wikipedia.org/wiki/みんなのKEIBA "wikilink")（2019年1月6日 - 、フジテレビ） - メインMC
 
 ### 過去の出演番組
 
-  - DAI★安BSフジNAVI\!（2004年7月 - 2006年3月、BSフジ）
+  - [DAI★安BSフジNAVI\!](https://ja.wikipedia.org/wiki/DAI★安BSフジNAVI! "wikilink")（2004年7月 - 2006年3月、BSフジ）
   - [検定ジャポン](../Page/検定ジャポン.md "wikilink")（[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")）
   - [太田光の私が総理大臣になったら…秘書田中。](../Page/太田光の私が総理大臣になったら…秘書田中。.md "wikilink")（日本テレビ） - 準レギュラー
   - [カンニングのDAI安吉日\!](../Page/カンニングのDAI安吉日!.md "wikilink")（[2006年](../Page/2006年.md "wikilink")[4月3日](../Page/4月3日.md "wikilink") - 2018年3月25日、[BSフジ](../Page/BSフジ.md "wikilink")）
@@ -782,7 +782,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [相葉マナブ](https://ja.wikipedia.org/wiki/相葉マナブ "wikilink")（2013年4月 - 2015年12月6日、テレビ朝日） - サポートメンバーとして不定期で出演。
   - [ちょっとザワつくイメージ調査 もしかしてズレてる?](https://ja.wikipedia.org/wiki/ちょっとザワつくイメージ調査_もしかしてズレてる? "wikilink")（2017年1月23日 - 12月25日、[関西テレビ](../Page/関西テレビ放送.md "wikilink")・フジテレビ） - MC
   - [ZIP](https://ja.wikipedia.org/wiki/ZIP! "wikilink")\! （2019年4月26日 - 5月31日、2020年9月4日 - 9月25日までの毎週金曜日、日本テレビ） - 金曜ZIP\! 2019年5月及び2020年9月マンスリーパーソナリティー
-  - [アオハル（青春）TV](https://ja.wikipedia.org/wiki/アオハル（青春）TV "wikilink")（2019年1月27日 - 2019年8月18日、フジテレビ）- レギュラー
+  - [アオハル（青春）TV](https://ja.wikipedia.org/wiki/アオハル（青春）TV "wikilink")（2019年1月27日 - 2019年8月18日、フジテレビ） - レギュラー
   - 誰だって波瀾爆笑 （2019年9月1日、日本テレビ）ゲスト
   - 逃走中 （2020年1月5日、フジテレビ）
   - 一番遠い親戚さん （2020年2月11日、日本テレビ）
@@ -816,10 +816,10 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [ラブシャッフル](https://ja.wikipedia.org/wiki/ラブシャッフル "wikilink")（2009年1月16日 - 3月20日、TBS） - 大石諭吉 役
   - [LADY〜最後の犯罪プロファイル〜](https://ja.wikipedia.org/wiki/LADY〜最後の犯罪プロファイル〜 "wikilink") 第1話（2011年1月7日、TBS） - 国木田譲 役
   - [STAND UP\!ヴァンガード](https://ja.wikipedia.org/wiki/STAND_UP!ヴァンガード "wikilink")（2012年5月3日、テレビ東京） - ダイゴ 役\[104\]\[105\]　ヴァンガード実写版
-  - [ヒガンバナ〜警視庁捜査七課〜](https://ja.wikipedia.org/wiki/ヒガンバナ〜警視庁捜査七課〜 "wikilink")（2016年1月13日 - 3月16日、[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")） - 菊池謙人 役\[106\]
+  - [ヒガンバナ〜警視庁捜査七課〜](https://ja.wikipedia.org/wiki/ヒガンバナ〜警視庁捜査七課〜 "wikilink")（2016年1月13日 - 3月16日、[日本テレビ](../Page/日本テレビ放送網.md "wikilink")） - 菊池謙人 役\[106\]
   - [営業部長 吉良奈津子](https://ja.wikipedia.org/wiki/営業部長_吉良奈津子 "wikilink")（2016年7月21日 - 9月22日、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")） - 一条達哉 役\[107\]
-  - [ブラックリベンジ](https://ja.wikipedia.org/wiki/ブラックリベンジ "wikilink")（2017年10月5日 - 12月8日、[読売テレビ](https://ja.wikipedia.org/wiki/読売テレビ "wikilink")・[日本テレビ](https://ja.wikipedia.org/wiki/日本テレビ "wikilink")） - 城田純一 役
-  - [貴族誕生](../Page/貴族誕生_-PRINCE_OF_LEGEND-.md "wikilink")（2019年11月28日 - 12月26日）- シニア（安藤タロウ）役
+  - [ブラックリベンジ](https://ja.wikipedia.org/wiki/ブラックリベンジ "wikilink")（2017年10月5日 - 12月8日、[読売テレビ](../Page/讀賣テレビ放送.md "wikilink")・日本テレビ） - 城田純一 役
+  - [貴族誕生](../Page/貴族誕生_-PRINCE_OF_LEGEND-.md "wikilink")（2019年11月28日 - 12月26日、日本テレビ）- シニア（安藤タロウ）役
 
 ### 舞台
 
@@ -878,6 +878,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
   - [米久](../Page/米久.md "wikilink")「御殿場高原あらびきポーク」『スーパー篇』『食卓篇』（2019年 - ）\[116\]
   - スクウェア・エニックス・ホールディングス「星のドラゴンクエスト」（2019年 - ）
   - マネジメントソリューションズ（MSOL）『PMOってなんなんだ？篇』（2020年 - ）
+  - [エリエール](../Page/エリエール.md "wikilink")「GOO.N」『敏感な肌に』篇・『よく動く肌に』篇（2020年 - ）\[117\]
 
 ### ポスター
 
@@ -890,7 +891,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 ### 玩具
 
   - カードゲーム[ヴァンガードDAIGOスペシャルセット](https://ja.wikipedia.org/wiki/ヴァンガードDAIGOスペシャルセット "wikilink")（ブシロード、2013年6月1日）本人の実写カードが封入される。
-  - DXウルトラマンサーガブレス、光る！鳴る！ＤＸウルトラマンサーガドラマチックサウンドBIGフィギュア（バンダイ、2012年）映画「[ウルトラマンサーガ](https://ja.wikipedia.org/wiki/ウルトラマンサーガ "wikilink")」のDAIGOのセリフを収蔵しており再生が可能。
+  - DXウルトラマンサーガブレス、光る！鳴る！DXウルトラマンサーガドラマチックサウンドBIGフィギュア（バンダイ、2012年）映画「[ウルトラマンサーガ](https://ja.wikipedia.org/wiki/ウルトラマンサーガ "wikilink")」のDAIGOのセリフを収蔵しており再生が可能。
 
 ## その他制作活動
 
@@ -899,7 +900,7 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 
 ### その他活動
 
-  - 島根県PR大使（2013年7月31日 - ）島根は祖父母・母の生まれ育った地である。2014年3月30日、島根のキャラクターしまねっこから感謝状を受ける。\[117\]また、「しまねソング」を作詞・作曲した。（2014年7月）
+  - 島根県PR大使（2013年7月31日 - ） - 島根は祖父母・母の生まれ育った地である。2014年3月30日、島根のキャラクターしまねっこから感謝状を受ける。\[118\]また、「しまねソング」を作詞・作曲した。（2014年7月）
 
 ## 受賞歴
 
@@ -1053,4 +1054,5 @@ DAIGOの生み出したキャラクターにくまパンダがある。グッズ
 114.
 115.
 116.
-117. 山陰中央新報（2014年4月2日）
+117.
+118. 山陰中央新報（2014年4月2日）

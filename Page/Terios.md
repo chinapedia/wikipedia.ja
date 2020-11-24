@@ -73,13 +73,13 @@
 ## 外部リンク
 
   - [テリオス公式サイト](http://www.terios-soft.net/) ※18歳未満閲覧禁止
-  - [旧テリオス公式サイト](http://web.archive.org/web/20130114230000/http://www.terios.net/) - 閉鎖（2013年1月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
+  - [旧テリオス公式サイト](https://web.archive.org/web/20130114230000/http://www.terios.net/) - 閉鎖（2013年1月14日時点の[アーカイブ](../Page/インターネットアーカイブ.md "wikilink")） ※18歳未満閲覧禁止
 
 [Category:アダルトゲームのメーカー・ブランド](https://ja.wikipedia.org/wiki/Category:アダルトゲームのメーカー・ブランド "wikilink")
 
 1.  [ストラトス公式サイト（ミラーサーバ）](http://stratossoft.x.fc2.com/)
-2.  [官報](http://megalodon.jp/2013-0414-1744-18/kanpou.npb.go.jp/20130410/20130410g00077/pdf/20130410g000770014.pdf)（号外第77号）14ページ
-3.  [官報](http://megalodon.jp/2013-0414-1744-32/kanpou.npb.go.jp/20130410/20130410g00077/pdf/20130410g000770022.pdf)（号外第77号）22ページ
+2.  [官報](https://megalodon.jp/2013-0414-1744-18/kanpou.npb.go.jp/20130410/20130410g00077/pdf/20130410g000770014.pdf)（号外第77号）14ページ
+3.  [官報](https://megalodon.jp/2013-0414-1744-32/kanpou.npb.go.jp/20130410/20130410g00077/pdf/20130410g000770022.pdf)（号外第77号）22ページ
 4.
 5.
 6.  [TECH GIAN](../Page/TECH_GIAN.md "wikilink") 2014年9月号 p.34.

@@ -76,7 +76,7 @@
 ## 外部リンク
 
   - [Tama-Web.net](http://www.tama-web.net/) - Vocal:Tamaの公式ページ
-  - [Screaming frogs MySpace](http://www.myspace.com/screamingfrogs) - Screaming Frogs MySpace
+  - [Screaming frogs MySpace](https://myspace.com/screamingfrogs) - Screaming Frogs MySpace
   - [ツイッター](http://twitter.com/screaming_frogs/)
   - [The Screaming Frogsホームページ](http://www.crownrecord.co.jp/artist/screamingfrogs/index.html) - 日本クラウン在籍時による公式ページ
 

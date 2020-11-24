@@ -35,7 +35,7 @@
   - 1991年 [ジェーン・ルー](../Page/ジェーン・ルー.md "wikilink")
   - 1992年 Elizabeth Lada
   - 1993年 Stefi Baum
-  - 1994年 Andrea Ghez
+  - 1994年 [アンドレア・ゲズ](https://ja.wikipedia.org/wiki/アンドレア・ゲズ "wikilink")
   - 1995年 Suzanne Madden
   - 1996年 Joan Najita
   - 1997年 Chung-Pei Ma
@@ -63,6 +63,7 @@
   - 2017年 Rebekah Dawson
   - 2018年 Ilse Cleeves
   - 2019年 Blakesley Burkhart
+  - 2020年 Caroline Morley
 
 ## 関連項目
 

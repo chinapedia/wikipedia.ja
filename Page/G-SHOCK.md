@@ -5,7 +5,7 @@
 
 ## 概要
 
-[160pxにおいて](https://ja.wikipedia.org/wiki/ファイル:Astronaut_Thomas_Reiter_ISS014-E-09097_\(December_2006\)_---_European_Space_Agency_\(ESA\).jpg "wikilink") 5900を着用している[宇宙飛行士](../Page/宇宙飛行士.md "wikilink")の[トーマス・ライター](../Page/トーマス・ライター.md "wikilink")\]\] [1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）に、カシオ計算機の伊部菊雄が、腕時計を落として壊してしまったことがきっかけとなり、増田裕一（商品企画担当）と伊部菊雄（設計担当）、二階堂隆（デザイン・ネーミング担当）の3人が中心となり、落としても[故障](../Page/故障.md "wikilink")しない「[常識](../Page/常識.md "wikilink")を覆す腕時計の開発」が開始される\[2\]\[3\]。当時、この3人はいずれも20代であった。開発チームは「」と名付けられた。
+[160pxにおいて](https://ja.wikipedia.org/wiki/ファイル:Astronaut_Thomas_Reiter_ISS014-E-09097_\(December_2006\)_---_European_Space_Agency_\(ESA\).jpg "wikilink") 5900を着用している[宇宙飛行士](../Page/宇宙飛行士.md "wikilink")の[トーマス・ライター](../Page/トーマス・ライター.md "wikilink")\]\] [1981年](../Page/1981年.md "wikilink")（[昭和](../Page/昭和.md "wikilink")56年）に、カシオ計算機の[伊部菊雄](../Page/伊部菊雄.md "wikilink")が、腕時計を落として壊してしまったことがきっかけとなり、増田裕一（商品企画担当）と伊部菊雄（設計担当）、二階堂隆（デザイン・ネーミング担当）の3人が中心となり、落としても[故障](../Page/故障.md "wikilink")しない「[常識](../Page/常識.md "wikilink")を覆す腕時計の開発」が開始される\[2\]\[3\]。当時、この3人はいずれも20代であった。開発チームは「」と名付けられた。
 
 建物3階の[便所](../Page/便所.md "wikilink")の窓（約10m）からの落下実験等、数々の失敗と試行錯誤を重ねた末に発売されたのが「DW-5000」で、[1983年](https://ja.wikipedia.org/wiki/1983年 "wikilink")（昭和58年）のことである\[4\]。その後、G-SHOCKは[アメリカ合衆国](https://ja.wikipedia.org/wiki/アメリカ合衆国 "wikilink")にも輸出されるようになったが、この時のテレビCMでは、「[アイスホッケー](../Page/アイスホッケー.md "wikilink")の[パック代わりにしても壊れない](../Page/パック_\(アイスホッケー\).md "wikilink")」という[キャッチコピー](../Page/キャッチコピー.md "wikilink")が使用された。
 

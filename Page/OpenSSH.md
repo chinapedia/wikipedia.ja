@@ -1,7 +1,7 @@
 > この記事は[OpenSSH](https://ja.wikipedia.org/wiki/OpenSSH)から翻訳されています。
 
 
-**OpenSSH**とは、[SSHプロトコルを利用するためのソフトウェアで](../Page/Secure_Shell.md "wikilink")、SSHサーバおよびSSHクライアントを含む。OpenSSHは、[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトにより開発が行われ、[BSDライセンス](../Page/BSDライセンス.md "wikilink")で公開されている。オリジナルのSSH実装である**SSH Tectia**など、SSHには他にいくつかの実装があるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点で\[1\]。
+**OpenSSH**とは、[SSHプロトコルを利用するためのソフトウェアで](../Page/Secure_Shell.md "wikilink")、SSHサーバおよびSSHクライアントを含む。OpenSSHは、[OpenBSD](../Page/OpenBSD.md "wikilink")プロジェクトにより開発が行われ、[BSDライセンス](../Page/BSDライセンス.md "wikilink")で公開されている。オリジナルのSSH実装である**SSH Tectia**など、SSHには他にいくつかの実装があるが、[2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")の時点でOpenSSHは世界で最も使用されているSSH実装である|title=SSH usage profilingはサーバのみの情報であり、クライアントの情報が考慮されていない\[1\]\[2\]\[3\]。
 
 ## 歴史
 
@@ -30,3 +30,5 @@ OpenSSHの開発は、まずOpenBSD上で安全・堅牢なプログラムを開
 [Category:Secure_Shell](https://ja.wikipedia.org/wiki/Category:Secure_Shell "wikilink") [Category:暗号ソフトウェア](https://ja.wikipedia.org/wiki/Category:暗号ソフトウェア "wikilink") [Category:OpenBSD](https://ja.wikipedia.org/wiki/Category:OpenBSD "wikilink") [Category:UNIXのソフトウェア](https://ja.wikipedia.org/wiki/Category:UNIXのソフトウェア "wikilink") [Category:オープンソースソフトウェア](https://ja.wikipedia.org/wiki/Category:オープンソースソフトウェア "wikilink")
 
 1.
+2.
+3.

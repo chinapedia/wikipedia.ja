@@ -1,39 +1,107 @@
 > この記事は[Driving Navigator by ADVAN](https://ja.wikipedia.org/wiki/Driving_Navigator_by_ADVAN)から翻訳されています。
 
 
-**Driving Navigator by ADVAN**（どらいびんぐ なびげーたー ばい あどばん）は、[TOKYO FMほかのJFN系FMラジオ局で毎週土曜日](../Page/エフエム東京.md "wikilink")（広島FMを除く）に放送されていた[ラジオ番組](../Page/ラジオ番組.md "wikilink")。[横浜ゴム](../Page/横浜ゴム.md "wikilink")の[タイヤ](../Page/タイヤ.md "wikilink")のブランド**ADVAN**の冠が入っている。
+『**Driving Navigator by ADVAN**』（ドライビング・ナビゲーター・バイ・アドバン）は、[エフエム東京](../Page/エフエム東京.md "wikilink") (TOKYO FM) ほか一部[JFN系列局で放送されていた](../Page/全国FM放送協議会.md "wikilink")[ラジオ番組](../Page/ラジオ番組.md "wikilink")である。JFNキー局のTOKYO FMでは2002年7月6日から2006年12月30日まで放送。
 
-以前は、「**ADVAN サウンドコックピット ～土屋圭市のレーシング・ダイヤリー～**」(DJ:[土屋圭市](../Page/土屋圭市.md "wikilink")) だったが、レーシングドライバーでもある土屋がヨコハマタイヤとの契約が切れ、番組を降板したため、[2002年](../Page/2002年.md "wikilink")7月にタイトルを改めリニューアルした。なお土屋の担当は約10年続いた。
+[HARRYが](https://ja.wikipedia.org/wiki/HARRY_\(ディスクジョッキー\) "wikilink")[パーソナリティを務めていた番組で](../Page/ラジオパーソナリティ.md "wikilink")、ゲストとのトークと音楽を中心とする内容で放送\[1\]。ゲストには、主に[レーシングドライバーや](https://ja.wikipedia.org/wiki/自動車競技#レーシング・ドライバー "wikilink")[モータージャーナリストといった](../Page/自動車評論.md "wikilink")[自動車レース産業に携わる人物を招いていた](../Page/自動車競技.md "wikilink")\[2\]。パーソナリティのHARRY自身も番組の企画により、2004年に行われたレースと2005年に行われたカーイベントに参戦している\[3\]\[4\]。
 
-毎回ゲスト（主にレーシングドライバーやミュージシャン）を迎え、[クルマにまつわる話題を話す番組](../Page/自動車.md "wikilink")。 2005年9月頃までキー局のTOKYO FMのみ[生放送](../Page/生放送.md "wikilink")で放送され、「本日のテーマ」をFAXやメールで受け付けていたが (ネット局では録音)、2005年10月以降はTOKYO FMも録音になったもようである。
+[横浜ゴム](../Page/横浜ゴム.md "wikilink")の[一社提供](../Page/一社提供.md "wikilink")で、同社製造[タイヤ](../Page/タイヤ.md "wikilink")と[アルミホイール](../Page/アルミホイール.md "wikilink")のブランド・**[ADVAN](../Page/ADVAN.md "wikilink")**をタイトルに冠していた。2002年7月の放送開始以前には、同じ時間帯に『**ADVAN サウンドコックピット**』というADVANの名を冠した番組が放送されていた。こちらは1980年から22年にわたって放送されていた長寿番組で\[5\]\[6\]、[土屋圭市](../Page/土屋圭市.md "wikilink")がパーソナリティを務めていた頃には『**アドバン ・サウンド・コックピット〜土屋圭市のレーシング・ダイヤリー**』と題して放送されていた\[7\]。その後の土屋と横浜ゴムのドライバー契約終了に合わせて同番組も終了し、替わって本番組がスタートした。
 
-この番組ではゲストに対して恒例の質問がある。番組の後半部分で、パーソナリティーのHARRYがゲストに「答えは長くても短くても結構です。あなたにとって車って何ですか。」を尋ねている。
+番組の終了後、替わって横浜ゴムがヨコハマタイヤ名義で提供する[音楽番組](../Page/音楽番組.md "wikilink")『[Sound Cruising with YOKOHAMA TIRE](../Page/Sound_Cruising_with_YOKOHAMA_TIRE.md "wikilink")』がスタートした。
 
-時々、イベントのチケットプレゼントを行なうことがあるが、プレゼントの受付時間が非常に短いので注意が必要である。[メール](https://ja.wikipedia.org/wiki/メール "wikilink")または[FAXで](https://ja.wikipedia.org/wiki/ファクシミリ "wikilink")、「番組の放送中」や「番組終了後30分以内」に応募しなければならない。
+## ネット局・放送時間
 
-なお、TOKYO FMでの横浜ゴム提供番組は20年以上の歴史がある。なお、当番組は2006年12月30日の放送をもって4年間の放送を終了した。後番組は「[Sound Cruising with YOKOHAMA TIRE](../Page/Sound_Cruising_with_YOKOHAMA_TIRE.md "wikilink")」で、これもヨコハマタイヤが提供している。
+放送時間は[日本標準時](../Page/日本標準時.md "wikilink")。
 
-## 放送時間
+<table>
+<thead>
+<tr class="header">
+<th><p>放送対象地域</p></th>
+<th><p>放送局</p></th>
+<th><p>系列</p></th>
+<th><p>放送時間</p></th>
+<th><p>備考</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><p><a href="../Page/東京都.md" title="wikilink">東京都</a></p></td>
+<td><p><a href="../Page/エフエム東京.md" title="wikilink">エフエム東京</a> (TOKYO FM)</p></td>
+<td><p><a href="../Page/全国FM放送協議会.md" title="wikilink">JFN系列</a></p></td>
+<td><p>土曜 18:00 - 18:30</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/北海道" title="wikilink">北海道</a></p></td>
+<td><p><a href="../Page/エフエム北海道.md" title="wikilink">エフエム北海道</a> (AIR-G')</p></td>
+<td><p>土曜 19:00 - 19:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="https://ja.wikipedia.org/wiki/宮城県" title="wikilink">宮城県</a></p></td>
+<td><p><a href="../Page/エフエム仙台.md" title="wikilink">エフエム仙台</a> (Date fm)</p></td>
+<td><p>土曜 12:30 - 13:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/福島県.md" title="wikilink">福島県</a></p></td>
+<td><p><a href="../Page/エフエム福島.md" title="wikilink">エフエム福島</a>（ふくしまfm）</p></td>
+<td><p>土曜 18:00 - 18:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/静岡県.md" title="wikilink">静岡県</a></p></td>
+<td><p><a href="../Page/静岡エフエム放送.md" title="wikilink">静岡エフエム放送</a> (K-MIX )</p></td>
+<td><p>土曜 19:30 - 20:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="https://ja.wikipedia.org/wiki/愛知県" title="wikilink">愛知県</a></p></td>
+<td><p><a href="../Page/エフエム愛知.md" title="wikilink">エフエム愛知</a> (FM AICHI)</p></td>
+<td><p>土曜 12:30 - 13:00</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/大阪府.md" title="wikilink">大阪府</a></p></td>
+<td><p><a href="../Page/エフエム大阪.md" title="wikilink">エフエム大阪</a> (fm osaka )</p></td>
+<td><p>金曜 20:00 - 20:30<br />
+土曜 20:30 - 21:00</p></td>
+<td><p>2006年4月に放送時間を変更。</p></td>
+<td></td>
+</tr>
+<tr class="even">
+<td><p><a href="../Page/広島県.md" title="wikilink">広島県</a></p></td>
+<td><p><a href="../Page/広島エフエム放送.md" title="wikilink">広島エフエム放送</a> (HFM)</p></td>
+<td><p>金曜 16:00 - 16:30</p></td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td><p><a href="../Page/福岡県.md" title="wikilink">福岡県</a></p></td>
+<td><p><a href="../Page/エフエム福岡.md" title="wikilink">エフエム福岡</a> (FM FUKUOKA)</p></td>
+<td><p>土曜 19:30 - 20:00</p></td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
 
-※すべて[JST表記](../Page/日本標準時.md "wikilink")
-
-  - TOKYO FM - 土18:00
-  - [AIR-G'](../Page/エフエム北海道.md "wikilink")- 土19:00
-  - [Date FM](../Page/エフエム仙台.md "wikilink") - 土12:30
-  - [ふくしまFM](../Page/エフエム福島.md "wikilink") - 土18:00
-  - [K-MIX](../Page/静岡エフエム放送.md "wikilink") - 土19:30
-  - [FM AICHI](../Page/エフエム愛知.md "wikilink")- 土12:30
-  - [fm osaka](../Page/エフエム大阪.md "wikilink")- 土20:30（2006年4月放送時間変更）
-  - [HFM](../Page/広島エフエム放送.md "wikilink")- 金16:00
-  - [fm fukuoka](../Page/エフエム福岡.md "wikilink")- 土19:30
-
-## パーソナリティ
-
-  - [HARRY](https://ja.wikipedia.org/wiki/HARRY_\(ディスクジョッキー\) "wikilink")
+## 脚注
 
 ## 外部リンク
 
-  - [公式サイト （横浜ゴム）](http://msj.advan.com/fan/dna/top.jsp)
-  - [Team Driving Navigator by ADVAN](http://www.dcn.jp/80/)
+  -
+[Category:2002年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2002年のラジオ番組_\(日本\) "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink") [Category:TOKYO_FMの音楽番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの音楽番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink")
 
-[Category:2003年のラジオ番組_(日本)](https://ja.wikipedia.org/wiki/Category:2003年のラジオ番組_\(日本\) "wikilink") [Category:TOKYO_FMの番組の歴史](https://ja.wikipedia.org/wiki/Category:TOKYO_FMの番組の歴史 "wikilink") [Category:JFN系ラジオの一社提供番組](https://ja.wikipedia.org/wiki/Category:JFN系ラジオの一社提供番組 "wikilink") [Category:自動車番組](https://ja.wikipedia.org/wiki/Category:自動車番組 "wikilink")
+1.  ゲストに関しては、ページ右下の「PICK-UP GUEST LIBRARY」にある「MORE」をクリック/タップした先のリストも参照のこと。
+2.
+3.
+4.
+5.
+6.
+7.

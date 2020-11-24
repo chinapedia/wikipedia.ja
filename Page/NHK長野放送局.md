@@ -149,8 +149,8 @@
 <!-- end list -->
 
   - [松本](https://ja.wikipedia.org/wiki/NHK松本支局 "wikilink")
-  - 飯田
-  - 諏訪
+  - [飯田](../Page/飯田市.md "wikilink")
+  - [諏訪](../Page/諏訪市.md "wikilink")
 
 ## 主な長野局制作番組
 

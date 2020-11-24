@@ -11,7 +11,7 @@ DocuWorks文書生成や、文書の束ね・ばらし・書き込み・[付箋]
 
 [PDFをはじめさまざまな](../Page/Portable_Document_Format.md "wikilink")[フォーマット](https://ja.wikipedia.org/wiki/フォーマット "wikilink")に対応しており、[PDFの作成も可能である](../Page/Portable_Document_Format.md "wikilink")。具体的には、Docuworks 7.3以降同梱の「DocuWorks PDF Creator」 を利用する。
 
-[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")されてからの[累計](https://ja.wikipedia.org/wiki/累計 "wikilink")[出荷数](https://ja.wikipedia.org/wiki/出荷数 "wikilink")が、450万[ライセンス](../Page/ライセンス.md "wikilink")を超えている。
+[発売](https://ja.wikipedia.org/wiki/発売 "wikilink")されてからの[累計](https://ja.wikipedia.org/wiki/累計 "wikilink")[出荷数](https://ja.wikipedia.org/wiki/出荷数 "wikilink")が、660万[ライセンス](../Page/ライセンス.md "wikilink")を超えている。
 
 [Adobe Acrobatに比べ](../Page/Adobe_Acrobat.md "wikilink")[紙](../Page/紙.md "wikilink")を扱う[感覚](../Page/感覚.md "wikilink")で[操作](https://ja.wikipedia.org/wiki/操作 "wikilink")できるとされる点や、作成したデータのファイル容量が軽いとされることが特徴。[PDFの束ねやばらしもできる](../Page/Portable_Document_Format.md "wikilink")。2013年8月5日に[DocuWorks 8](http://docuworks.fujixerox.co.jp)を発売。64bit版Windows および Windows 8.1 にも対応している。なお、Docuworks 7.x 所有者向けのアップデータ Docuworks 7.3.4 も無償配布されている。
 

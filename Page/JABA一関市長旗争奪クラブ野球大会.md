@@ -289,7 +289,7 @@
 <td><p>2020年（第32回）</p></td>
 <td><p>16</p></td>
 <td><p>大会中止</p></td>
-<td><p><a href="../Page/新型コロナウイルス.md" title="wikilink">新型コロナウイルス</a>感染拡大防止のため[2]。</p></td>
+<td><p><a href="../Page/SARSコロナウイルス2.md" title="wikilink">新型コロナウイルス感染拡大防止のため</a>[2]。</p></td>
 <td></td>
 <td></td>
 </tr>

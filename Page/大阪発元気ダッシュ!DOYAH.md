@@ -24,7 +24,7 @@
   - ランディーズ（[中川貴志](../Page/中川貴志.md "wikilink")、[高井俊彦](https://ja.wikipedia.org/wiki/高井俊彦 "wikilink")）
   - [ビッキーズ](../Page/ビッキーズ.md "wikilink")（[須知裕雅](../Page/すっちー.md "wikilink")、[木部信彦](../Page/木部信彦.md "wikilink")）
   - w-inds.（千葉涼平、橘慶太、緒方龍一）（2003年9月まで）
-  - [Lead](../Page/Lead.md "wikilink")（[中土居宏宜](../Page/中土居宏宜.md "wikilink")、[鍵本輝](../Page/鍵本輝.md "wikilink")、[谷内伸也](../Page/谷内伸也.md "wikilink")、[古屋敬多](../Page/古屋敬多.md "wikilink")）（2003年10月から）
+  - [Lead](https://ja.wikipedia.org/wiki/Lead_\(音楽グループ\) "wikilink")（[中土居宏宜](../Page/中土居宏宜.md "wikilink")、[鍵本輝](../Page/鍵本輝.md "wikilink")、[谷内伸也](../Page/谷内伸也.md "wikilink")、[古屋敬多](../Page/古屋敬多.md "wikilink")）（2003年10月から）
   - ココナッツ娘。
 
 ### 終期（2004年4月〜2005年2月）

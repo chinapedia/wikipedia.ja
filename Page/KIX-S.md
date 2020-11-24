@@ -1,7 +1,7 @@
 > この記事は[KIX-S](https://ja.wikipedia.org/wiki/KIX-S)から翻訳されています。
 
 
-**KIX-S**（キックス）は、1990年代に活躍した日本の[音楽](../Page/音楽.md "wikilink")グループ。1991年8月21日に[アルバム](../Page/アルバム.md "wikilink")『[KIX-S](../Page/KIX-S_\(アルバム\).md "wikilink")』でデビュー。1999年活動休止。
+**KIX-S**（キックス）は、1990年代に活躍した日本の[音楽](../Page/音楽.md "wikilink")グループで、[ビーイング](../Page/ビーイング.md "wikilink")で結成された。音楽性は[シンセサイザー](../Page/シンセサイザー.md "wikilink")を大胆に導入した[ハードロック](../Page/ハードロック.md "wikilink")である。[1980年代](../Page/1980年代.md "wikilink")末からヒットを飛ばしていた[B'z](../Page/B'z.md "wikilink")の女性版として企画され、[MANISH](../Page/MANISH.md "wikilink")等と共に[1990年代](../Page/1990年代.md "wikilink")前半のビーイングブームを牽引した。[1991年](../Page/1991年.md "wikilink")8月21日に[アルバム](../Page/アルバム.md "wikilink")『[KIX-S](../Page/KIX-S_\(アルバム\).md "wikilink")』でデビュー。[1999年](../Page/1999年.md "wikilink")活動休止。
 
 ## メンバー
 
@@ -50,8 +50,13 @@
   - 1997年にレコード会社をAriola/[BMGジャパンへ移籍するにあたり](https://ja.wikipedia.org/wiki/アリオラジャパン "wikilink")、ユニット名を**The KIX-S**に改名。
   - 1998年から1999年にかけてベストアルバム『[The KIX-S 90's 〜The BEST〜](../Page/The_KIX-S_90's_〜The_BEST〜.md "wikilink")』と『[The KIX-S 90's II 〜The BEST〜](../Page/The_KIX-S_90's_II_〜The_BEST〜.md "wikilink")』のリリース後、ユニット活動停止し事実上の解散。
   - 2004年に浜口の呼びかけによりバンド**K-SEED**を結成。このバンドには[グレート義太夫](../Page/グレート義太夫.md "wikilink")が参加している。
+
+### 現在
+
+現在は個人での活動となっている。
+
   - 浜口は2001年、[Cutting edgeから](../Page/Cutting_edge.md "wikilink")「TSUKASA☆」の名前で、CDデビューし2枚のシングルを発表する。また、ミュージカルに出演し1998年・1999年[ブロードウェイ](https://ja.wikipedia.org/wiki/ブロードウェイ "wikilink")[ミュージカル](../Page/ミュージカル.md "wikilink")『[RENT](https://ja.wikipedia.org/wiki/RENT "wikilink")』\[7\]を始め、東宝ミュージカル『ブラッド・ブラザース』にミセス・ジョンストン役として2年連続出演するなど活動の幅を拡げた。
-  - 安宅は休業後、2005年頃から東京都杉並区と世田谷区にATAKA音楽教室をオープン。公式ブログではライブ活動などの報告もされており、現在はそれぞれ個人での活動となっている。
+  - 安宅は休業後、2005年頃から東京都杉並区と世田谷区にATAKA音楽教室をオープン。老若男女問わず多数の生徒に対してオーダーメイド方式でレッスンを行っている。公式ブログではライブ活動や卒業生のデビューライブの感想も報告されている。
 
 ## その他
 

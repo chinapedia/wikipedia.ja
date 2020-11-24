@@ -38,7 +38,9 @@
 | [2017](https://ja.wikipedia.org/wiki/2017年の地域リーグ_\(サッカー\) "wikilink") | 7位                                      | 8      | 14 | 2  | 2  | 10 | 7   | 21 | \-14 | [橋本雄二](../Page/橋本雄二.md "wikilink")                         | \-                                                       |                                                |
 | [2018](https://ja.wikipedia.org/wiki/2018年の地域リーグ_\(サッカー\) "wikilink") | 関西2部                                    | 2位     | 30 | 14 | 9  | 3  | 2   | 26 | 13   | 13                                                         | 橋本雄二/[出口司](https://ja.wikipedia.org/wiki/出口司 "wikilink") | \-                                             |
 | [2019](https://ja.wikipedia.org/wiki/2019年の地域リーグ_\(サッカー\) "wikilink") | 関西1部                                    | 6位     | 12 | 14 | 3  | 3  | 8   | 14 | 28   | \-14                                                       | 出口司                                                      | \-                                             |
-| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    |                                         |        | 14 |    |    |    |     |    |      | [今西晃一](../Page/今西晃一.md "wikilink")                         |                                                          |                                                |
+| [2020](../Page/2020年の地域リーグ_\(サッカー\).md "wikilink")                    | 8位                                      | 2      | 7  | 0  | 2  | 5  | 1   | 11 | \-10 | [今西晃一](../Page/今西晃一.md "wikilink")                         |                                                          |                                                |
+
+### 注釈
 
 ## タイトル
 

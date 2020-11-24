@@ -156,7 +156,7 @@
 
 1.  恋のTake 3(1980年9月21日) 07SH846
       -
-        作詞:[高田ひろお](../Page/高田ひろお.md "wikilink") 作曲:[鈴木邦彦](../Page/鈴木邦彦.md "wikilink") 編曲:[鈴木邦彦](../Page/鈴木邦彦.md "wikilink")
+        作詞:[高田ひろお](../Page/高田ひろお.md "wikilink") 作曲:[鈴木邦彦](https://ja.wikipedia.org/wiki/鈴木邦彦_\(作曲家\) "wikilink") 編曲:鈴木邦彦
         （c/w）ミツコ
         作詞:高田ひろお 作曲:鈴木邦彦 編曲:鈴木邦彦
 2.  潮風の香りの中で(1981年5月1日) 07SH972
@@ -228,8 +228,7 @@
   -
 ## 関連項目
 
-  - [お笑いタレント](../Page/お笑いタレント.md "wikilink")
-  - [もみじ饅頭](../Page/もみじ饅頭.md "wikilink") MANZAIブーム時のネタの一つ
+  - [もみじ饅頭](../Page/もみじ饅頭.md "wikilink") - MANZAIブーム時のネタの一つ
 
 [Category:日本のお笑いコンビ](https://ja.wikipedia.org/wiki/Category:日本のお笑いコンビ "wikilink") [Category:島田一門](https://ja.wikipedia.org/wiki/Category:島田一門 "wikilink")
 
@@ -487,7 +486,7 @@
 237. [オスカー移籍の島田洋七が若手芸人たちに宣戦布告！ - 日刊サイゾー](http://www.cyzo.com/2012/09/post_11370.html)
 238. [B＆B、5年ぶり復活ライブ あのメーカーが特別協賛](http://www.asahi.com/culture/update/1029/OSK201210280191.html?ref=chiezou)
 239. 「[メントレ](https://ja.wikipedia.org/wiki/メントレ "wikilink")」スーパーG秋の2時間大放出スペシャル、[フジテレビ](https://ja.wikipedia.org/wiki/フジテレビジョン "wikilink")、2006年10月9日
-240. 「[クイズ\!紳助くん](../Page/クイズ!紳助くん.md "wikilink")」、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、2008年6月23日（[個人ブログ](http://ameblo.jp/suzunosuke38/entry-10109441262.html)）、似た内容が、島田紳助の著書『自己プロデュース力』[ワニブックス](../Page/ワニブックス.md "wikilink")、2009年、p49-56に記述。
+240. 「[クイズ\!紳助くん](../Page/クイズ!紳助くん.md "wikilink")」、[朝日放送](https://ja.wikipedia.org/wiki/朝日放送 "wikilink")、2008年6月23日（[個人ブログ](https://ameblo.jp/suzunosuke38/entry-10109441262.html)）、似た内容が、島田紳助の著書『自己プロデュース力』[ワニブックス](../Page/ワニブックス.md "wikilink")、2009年、p49-56に記述。
 241.
 242.
 243. 「[誰でもピカソ](https://ja.wikipedia.org/wiki/誰でもピカソ "wikilink")」（[テレビ東京](https://ja.wikipedia.org/wiki/テレビ東京 "wikilink")、2008年4月4日）、「[愛のエプロン](../Page/愛のエプロン.md "wikilink")」（[テレビ朝日](../Page/テレビ朝日.md "wikilink")、2007年8月8日）[東国原英夫](https://ja.wikipedia.org/wiki/東国原英夫 "wikilink")談

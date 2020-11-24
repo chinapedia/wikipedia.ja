@@ -38,7 +38,7 @@
 ### JFL所属
 
   - **[鈴鹿ポイントゲッターズ](https://ja.wikipedia.org/wiki/鈴鹿ポイントゲッターズ "wikilink")**◆\[1\]（三重県[鈴鹿市](../Page/鈴鹿市.md "wikilink")） - Facebookに「三重県鈴鹿市からJリーグ加盟を目指す」と記載\[2\]。
-  - **[MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink")**◆\[3\]（[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")、[東近江市](../Page/東近江市.md "wikilink")中心とした[滋賀県](../Page/滋賀県.md "wikilink")全域） - Jリーグ参入を目指すことを2013年に正式表明\[4\]。
+  - **[MIOびわこ滋賀](../Page/MIOびわこ滋賀.md "wikilink")**◆\[3\]（[滋賀県](../Page/滋賀県.md "wikilink")[草津市](../Page/草津市.md "wikilink")、[東近江市](../Page/東近江市.md "wikilink")中心とした[滋賀県](../Page/滋賀県.md "wikilink")全域） - Twitterに「滋賀県初のJリーグ入会を目指す」と記載\[4\]。
   - **[松江シティFC](https://ja.wikipedia.org/wiki/松江シティFC "wikilink")**（[島根県](../Page/島根県.md "wikilink")[松江市](../Page/松江市.md "wikilink")） - 島根県初のJリーグ参入を目指している\[5\]。
   - **[高知ユナイテッドSC](https://ja.wikipedia.org/wiki/高知ユナイテッドSC "wikilink")**（[高知県](../Page/高知県.md "wikilink")） - 高知からJリーグを目指す\[6\]。
   - **[ヴェルスパ大分](../Page/ヴェルスパ大分.md "wikilink")**（[大分県](../Page/大分県.md "wikilink")[由布市](../Page/由布市.md "wikilink")、[大分市](../Page/大分市.md "wikilink")） - 公式サイトにて大分県知事へJリーグ参入に向けた計画の報告を行ったと発表\[7\]。

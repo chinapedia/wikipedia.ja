@@ -29,8 +29,6 @@ RJ-11の6ピンプラグをRJ-45のジャックに差し込むなど、規格が
 
 ## ケーブル
 
-[ツイストペアケーブル](../Page/ツイストペアケーブル.md "wikilink")の項を参照。
-
 ## 外部リンク
 
   - [RJ-45 pinout](http://pinouts.ws/rj-45-pinout.html)

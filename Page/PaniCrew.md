@@ -10,7 +10,7 @@
 <!-- end list -->
 
   -
-    それぞれ別々のチームで活動していた各メンバーが「3DConection & New Power G」という合同チームで「[JAPAN DANCE DELIGHT](../Page/JAPAN_DANCE_DELIGHT.md "wikilink")」というダンスの大会に出場、見事優勝を飾る。その後、芸能界入りを目指すために、11人いたメンバーから現在の8人でPaniCrewを結成することとなる。
+    それぞれ別々のチームで活動していた各メンバーが「3D Conection & New Power G」という合同チームで「[JAPAN DANCE DELIGHT](../Page/JAPAN_DANCE_DELIGHT.md "wikilink")」というダンスの大会に出場し優勝を飾る。その後、芸能界入りを目指すために、11人いたメンバーから現在の8人でPaniCrewを結成することとなる。
     植木はイギリスで開催されたブレイクダンスの世界大会「[UK B-Boy Championships](https://ja.wikipedia.org/wiki/UK_B-Boy_Championships "wikilink")」にて日本代表チーム「[The Spartanic Rockers](../Page/The_Spartanic_Rockers.md "wikilink")」の一員として初出場・初優勝の快挙を成し遂げ、ドイツで行われた世界大会「[Battle of the Year](../Page/Battle_of_the_Year.md "wikilink")」に日本人初参加でBest Showを受賞。
 
 <!-- end list -->
@@ -40,7 +40,7 @@
   -
     デビュー当時から所属していた[日本コロムビア](../Page/日本コロムビア.md "wikilink")から[BMG JAPANへ移籍し](https://ja.wikipedia.org/wiki/BMG_JAPAN "wikilink")、「SWEAT & TEARS」を発売する。
 
-<!-- end list -->
+　　11月18日 赤坂BLITZ柿落とし公演「ONE DAY PaniCrew」開催。
 
   - [2005年](../Page/2005年.md "wikilink")
 
@@ -76,7 +76,7 @@
   -
     堀内が、4月15日に元女子プロレスラー[納見佳容](../Page/納見佳容.md "wikilink")と入籍したことを公式サイトで発表。
 
-<!-- end list -->
+　11月「FDVS（フレッシュ・ダンス・バラエティー・ショー） VIII〜8にんだよ全員集合！〜」開催。
 
   - [2008年](https://ja.wikipedia.org/wiki/2008年 "wikilink")
 
@@ -85,14 +85,14 @@
   -
     3月7日「[世界ダウン症の日](https://ja.wikipedia.org/wiki/世界ダウン症の日 "wikilink") ONE＋LOVE WORLD」イベントテーマソング「ONE＋LOVE WORLD」発売。
 
-<!-- end list -->
+　11月 結成10周年記念ライブ「PaniCrew 10th Anniversary Party 〜Get the Panic\!〜」開催。
 
   - [2014年](../Page/2014年.md "wikilink")
 
 <!-- end list -->
 
   -
-    株式会社BIGUPシアターとして、レストランシアター「浅草六区ゆめまち劇場」がオープン。歌やダンス、パフォーマンスなど様々な要素が入ったショーステージを中野智行が多数演出いている。こけら落とし公演は世界的パフォーマー「[が〜まるちょば](../Page/が〜まるちょば.md "wikilink")」。
+    株式会社BIGUPシアターとして、レストランシアター「浅草六区ゆめまち劇場」がオープン。歌やダンス、パフォーマンスなど様々な要素が入ったショーステージを中野智行が多数演出している。こけら落とし公演は世界的パフォーマー「[が〜まるちょば](../Page/が〜まるちょば.md "wikilink")」。
     植木が演出の「WASABEATS2014」がスタート。 国内外で活躍する日本人ダンサーを迎えたノンバーバルダンスショーを演出。以降、「WASABEATS2015・2016」を手がけ、2016年には海外公演（香港）を開催し好評を得た。
 
 <!-- end list -->
@@ -115,7 +115,7 @@
     THE ASIAN ARTS AWARDは、『[エディンバラ・フェスティバル・フリンジ](https://ja.wikipedia.org/wiki/エディンバラ・フェスティバル・フリンジ "wikilink")』でのアジア各国のアーティスト・アートを促進する目的で発足され、BEST PRODUCION・BEST DIRECTOR・BEST COMEDYそしてBEST PERFORMANCEの4部門が存在するものの、発足以来「BEST PERFORMANCE賞」に選ばれた作品はなく、史上初の快挙を成し遂げた。
     水野が舞台「[テイルズ オブ ザ ステージ 〜ローレライの力を継ぐ者〜](../Page/テイルズ_オブ_シリーズ.md "wikilink")」の編曲を担当。
 
-<!-- end list -->
+　11月　大阪・東京で「20th Anniversary Live」開催。
 
   - [2019年](../Page/2019年.md "wikilink")
 
@@ -123,7 +123,7 @@
 
   -
     レストランシアター「浅草六区ゆめまち劇場」が5年間の契約満了により閉館される。
-    植木が「[ヒプノシスマイク Rap Battle-](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")-Division」を演出し、話題となる。
+    植木が「[ヒプノシスマイク Rap Battle-](https://ja.wikipedia.org/wiki/ヒプノシスマイク "wikilink")-Division」を演出し話題となる。
 
 ## メンバー
 
@@ -868,6 +868,6 @@ COCP-32675:通常盤</p></td>
 
   - [兵庫パフォーマー協会](https://mdf344.wixsite.com/performer/blank-3)（リーダーKASSANが代表を務める協会）
 
-[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")
+[Category:日本のボーイ・バンド](https://ja.wikipedia.org/wiki/Category:日本のボーイ・バンド "wikilink") [Category:1998年に結成した音楽グループ](https://ja.wikipedia.org/wiki/Category:1998年に結成した音楽グループ "wikilink") [Category:8人組の音楽グループ](https://ja.wikipedia.org/wiki/Category:8人組の音楽グループ "wikilink") [Category:過去のアミューズ所属者](https://ja.wikipedia.org/wiki/Category:過去のアミューズ所属者 "wikilink") [Category:日本コロムビアのアーティスト](https://ja.wikipedia.org/wiki/Category:日本コロムビアのアーティスト "wikilink") [Category:アリオラジャパンのアーティスト](https://ja.wikipedia.org/wiki/Category:アリオラジャパンのアーティスト "wikilink") [Category:ポニーキャニオンのアーティスト](https://ja.wikipedia.org/wiki/Category:ポニーキャニオンのアーティスト "wikilink")
 
 1.  [牧野アンナ旧ブログ From Anna 2009年11月11日の記事](http://fromanna.blog12.fc2.com/blog-entry-359.html)

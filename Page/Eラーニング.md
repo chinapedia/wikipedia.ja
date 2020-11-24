@@ -7,7 +7,7 @@
 
 eラーニングの "[e](https://ja.wikipedia.org/wiki/e "wikilink")" は、electronic（電子的な）の意味であり、日本語においてもアルファベットのままの表記が多い。
 
-eラーニングに使用する機器としては、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（PC）、[CD-ROM](../Page/CD-ROM.md "wikilink")、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")、[デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink")、[携帯端末](../Page/携帯機器.md "wikilink")（[携帯電話](../Page/携帯電話.md "wikilink")、[PDA (携帯情報端末)等](../Page/携帯情報端末.md "wikilink")）などがあげられる。また、[情報通信](https://ja.wikipedia.org/wiki/情報通信 "wikilink")に関しては、[インターネット](../Page/インターネット.md "wikilink")などの[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")を通じて、[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")、\[電子掲示板\]、電子会議、\[ストリーミング|ビデオ配信\]などの技術が活用されている。
+eラーニングに使用する機器としては、[パーソナルコンピュータ](../Page/パーソナルコンピュータ.md "wikilink")（PC）、[CD-ROM](../Page/CD-ROM.md "wikilink")、[DVD-ROM](https://ja.wikipedia.org/wiki/DVD-ROM "wikilink")、[デジタルテレビ](https://ja.wikipedia.org/wiki/デジタルテレビ "wikilink")、[携帯端末](../Page/携帯機器.md "wikilink")（[携帯電話](../Page/携帯電話.md "wikilink")、[PDA (携帯情報端末)等](../Page/携帯情報端末.md "wikilink")）などがあげられる。また、[情報通信](https://ja.wikipedia.org/wiki/情報通信 "wikilink")に関しては、[インターネット](../Page/インターネット.md "wikilink")などの[コンピュータネットワーク](../Page/コンピュータネットワーク.md "wikilink")を通じて、[ハイパーテキスト](../Page/ハイパーテキスト.md "wikilink")、[電子メール](../Page/電子メール.md "wikilink")、[電子掲示板](../Page/電子掲示板.md "wikilink")、電子会議、[ビデオ配信などの技術が活用されている](../Page/ストリーミング.md "wikilink")。
 
 特に、携帯端末を利用した方法については[mラーニング](https://ja.wikipedia.org/wiki/mラーニング "wikilink")\[1\]、uラーニング\[2\]などと呼ばれる場合がある。
 

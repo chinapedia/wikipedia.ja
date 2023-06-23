@@ -8,6 +8,6 @@ If you cannot access Wikipedia directly, you could try our mirror: https://ja.wi
 
 ## Other languages
 * [wikipedia.zh](https://github.com/chinapedia/wikipedia.zh)
-* [wikipedia.ja](https://github.com/chinapedia/wikipedia.ja)
+* [wikipedia.ja](https://github.com/chinapedia/wikipedia.en)
 * [wikipedia.ko](https://github.com/chinapedia/wikipedia.ko)
 
